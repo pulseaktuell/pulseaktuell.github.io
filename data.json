@@ -1,5 +1,906 @@
 [
   {
+    "id": "story-3c93a688a2a4df31",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-30T18:05:25.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Messerangriff im Cockpit einer Flydubai-Maschine auf Flug nach Tel Aviv",
+    "s": "Bei einem Flug der Airline Flydubai nach Tel Aviv kam es im Cockpit zu einem Messerangriff, bei dem einer der Piloten auf seinen Kollegen einstach. Daraufhin ging die Maschinen in den Sturzflug über. Nach Angaben aus Israel konnte eine Katastrophe unter anderem durch das Eingreifen von Passagieren verhindert werden. Die israelischen Behörden vermuten hinter der Tat den Versuch eines dschihadistischen Anschlags.",
+    "m": "Der Vorfall ereignete sich an Bord einer Flydubai-Maschine, die sich auf dem Weg nach Tel Aviv befand. Im Cockpit attackierte einer der Piloten seinen Kollegen mit einem Messer. Infolge des Angriffs geriet das Flugzeug in einen steilen Sturzflug. Dank des schnellen Eingreifens und Muts von Passagieren konnte eine drohende Katastrophe und ein möglicher Absturz abgewendet werden. Nach offiziellen Angaben aus Israel wird der Vorfall als versuchter dschihadistischer Anschlag eingestuft. Genauere Details zum Tathergang, zum Zustand der verletzten Crewmitglieder sowie zu den Sicherheitsvorkehrungen an Bord wurden zunächst nicht bekannt gegeben. Die Ermittlungen zu den Hintergründen der Tat dauern an.",
+    "r": "Der Vorfall wirft Fragen zur Sicherheit im zivilen Luftverkehr und zu möglichen terroristischen Bedrohungen an Bord von Passagiermaschinen auf. Da ein Flugzeug gezielt in den Sturzflug gesteuert und der Vorfall als islamistischer Anschlagsversuch eingestuft wurde, hat das Ereignis internationale sicherheitspolitische Relevanz.",
+    "srcs": [
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/politik/messerangriff-in-flydubai-maschine-verdacht-auf-versuchten-absturz-des-copiloten-KDXPVNXB75A3DGP2IDLCFAI3S4.html",
+        "date": "2026-09-30T18:05:25.000Z"
+      },
+      {
+        "name": "Rheinische Post",
+        "url": "https://rp-online.de/panorama/ausland/israels-verteidigungsminister-spricht-von-versuchtem-anschlag-auf-flydubai-flug_aid-155706229",
+        "date": "2026-09-30T16:07:00.000Z"
+      }
+    ],
+    "url": "https://www.rnd.de/politik/messerangriff-in-flydubai-maschine-verdacht-auf-versuchten-absturz-des-copiloten-KDXPVNXB75A3DGP2IDLCFAI3S4.html",
+    "agree": "Beide Quellen stimmen überein, dass es in einer Flydubai-Maschine auf dem Weg nach Tel Aviv zu einem Messerangriff eines Piloten auf seinen Kollegen im Cockpit kam, woraufhin das Flugzeug in den Sturzflug geriet und eine Katastrophe unter anderem durch Passagi",
+    "diff": [
+      {
+        "name": "RND",
+        "note": "Fokussiert im Titel auf den Verdacht des versuchten Absturzes durch den Copiloten."
+      },
+      {
+        "name": "Rheinische Post",
+        "note": "Ergänzt im Titel und Text den konkreten Verdacht auf den 'Versuch eines dschihadistischen Anschlags'."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-959f7e1c0ba807a5",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-30T18:04:34.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Volkswagen kündigt fast alle Tarifverträge zur Kostensenkung",
+    "s": "Der Volkswagen-Konzern hat im Zuge von Sparbemühungen nahezu alle seine Tarifverträge gekündigt. Das Unternehmen begründete den Schritt in Hannover mit einer gestiegenen Kostenbelastung. Von der Maßnahme ist nach Angaben des Autobauers auch der Manteltarifvertrag betroffen.",
+    "m": "Der Volkswagen-Konzern hat nach eigenen Angaben fast alle Tarifverträge aufgekündigt. Das Unternehmen teilte in Hannover mit, dass diese Entscheidung angesichts der aktuellen Kostenbelastung notwendig sei, um Regelungen anzupassen. Im Streit um Einsparungen betrifft dieser Schritt laut Gewerkschaftsangaben zehn Verträge. Dazu gehören unter anderem Vereinbarungen zu Arbeitszeiten sowie zu Zusatzvergütungen. Die Kündigungen richten sich gegen die bisherigen Abmachungen mit der IG Metall. Weitere Details zu den kommenden Verhandlungen oder konkreten Alternativvorschlägen wurden zunächst nicht genannt. Die Maßnahme verschärft den Konflikt zwischen dem Autobauer und der Arbeitnehmerseite erheblich.",
+    "r": "Die Kündigung nahezu aller Tarifverträge durch Volkswagen verschärft den Konflikt um Einsparungen und Arbeitsbedingungen beim Autobauer erheblich. Dies betrifft zentrale Bereiche wie Arbeitszeiten und Zusatzvergütungen für zahlreiche Beschäftigte.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/volkswagen-kuendigt-fast-alle-tarifvertraege-auch-manteltarifvertrag-betroffen-100.html",
+        "date": "2026-09-30T18:04:34.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/wirtschaft/video6abd2e8c3874ab06420df90f/sparmassnahmen-volkswagen-kuendigt-fast-alle-tarifvertraege-mit-der-ig-metall.html",
+        "date": "2026-09-30T15:47:22.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/volkswagen-kuendigt-fast-alle-tarifvertraege-auch-manteltarifvertrag-betroffen-100.html",
+    "agree": "Volkswagen hat fast alle Tarifverträge gekündigt.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Teilt mit, dass der Manteltarifvertrag betroffen ist."
+      },
+      {
+        "name": "WELT",
+        "note": "Nennt die IG Metall als Vertragspartner und präzisiert, dass zehn Verträge unter anderem zu Arbeitszeiten und Zusatzvergütungen betroffen sind."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-e4b64f077a8136be",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-30T18:01:10.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Pflegereform: Linnemann lehnt SPD-Forderung nach Kostendeckel ab",
+    "s": "Bundesgesundheitsminister Carsten Linnemann hat die Forderung der SPD nach einer Deckelung der Eigenanteile in der Pflege zurückgewiesen. Im ZDF-„heute journal“ bezeichnete er einen solchen Kostendeckel als hochgradig gefährlich. Ein Deckel würde nach Ansicht des Ministers dazu führen, dass die Kosten weiter ausarten. Einen anderen Wunsch der Koalitionspartner will er hingegen beraten lassen.",
+    "m": "Der Bundesgesundheitsminister Carsten Linnemann (CDU) äußerte sich am Mittwochabend im „heute journal“ des ZDF zur aktuellen Diskussion um die Pflegereform und positionierte sich klar gegen die Vorstellungen des Koalitionspartners SPD. Die von der SPD geforderte Deckelung der Eigenanteile für Pflegebedürftige lehnte Linnemann kategorisch ab und begründete dies mit der Gefahr ausartender Kosten. Neben seiner klaren Absage an den Kostendeckel kündigte er jedoch an, einen weiteren nicht näher spezifizierten Wunsch der SPD prüfen beziehungsweise beraten zu lassen. Die Debatte verdeutlicht die anhaltenden Differenzen innerhalb der Koalition bei der Finanzierung und Reform der Pflegeversicherung. Konkrete Beschlüsse oder alternative Finanzierungswege wurden im Rahmen dieser Äußerungen noch nicht final beschlossen.",
+    "r": "Die Auseinandersetzung zwischen Koalitionspartnern über die Finanzierung der Pflege betrifft unmittelbar Millionen Pflegebedürftige und deren Angehörige sowie die Stabilität des Sozialsystems. Die Debatte zeigt grundsätzliche Richtungsstreitpunkte in der Gesundheitspolitik der Regierung auf.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/politik/deutschland/2026-09/pflege-eigenanteile-carsten-linnemann-cdu-spd-deckel-pflegeversicherung",
+        "date": "2026-09-30T18:01:10.000Z"
+      },
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/news/linnemann-weist-pflege-forderungen-der-spd-zurueck--kostendeckel-waere--gefaehrlich--38332542.html",
+        "date": "2026-09-30T17:26:17.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/politik/deutschland/2026-09/pflege-eigenanteile-carsten-linnemann-cdu-spd-deckel-pflegeversicherung",
+    "agree": "Die Quellen sind sich einig, dass Bundesgesundheitsminister Carsten Linnemann die Forderung der SPD nach einem Kostendeckel in der Pflege als gefährlich zurückgewiesen hat.",
+    "diff": [
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Erwähnt zusätzlich, dass Linnemann einen anderen Wunsch der SPD beraten lassen möchte."
+      },
+      {
+        "name": "stern",
+        "note": "Nennt den genauen Zeitpunkt der Äußerung (Mittwochabend) und die Sendung („heute journal“ des ZDF)."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-17ae1e2c89996795",
+    "c": "DE",
+    "o": "DE",
+    "k": "wissenschaft",
+    "lang": "de",
+    "d": "2026-09-30T17:13:02.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Studie zeigt: Stimmstörungen können auf Demenzrisiko hinweisen",
+    "s": "Eine neue große Studie hat untersucht, inwiefern sich das Demenzrisiko im Alter durch akustische Merkmale der Stimme ablesen lässt. Während sich die Stimme im Alter oft aus verschiedenen Gründen verändert, zeigt die Untersuchung einen konkreten Zusammenhang auf. Diagnostizierte Stimmstörungen können demnach frühe Hinweise auf eine sich anbahnende Demenz sein. Die Ergebnisse bieten neue Ansätze für die Früherkennung im Gesundheitsbereich.",
+    "m": "Die wissenschaftliche Untersuchung widmet sich der Frage, wie frühzeitig neurodegenerative Erkrankungen anhand von Merkmalen wie Tonhöhe, Lautstärke oder Klarheit der Stimme erkannt werden können. Bislang war bekannt, dass sich die menschliche Stimme im Alter aus vielfältigen natürlichen oder gesundheitlichen Gründen wandeln kann. Nun liefert die Studie jedoch spezifische Erkenntnisse darüber, dass diagnostizierte Stimmstörungen als Warnsignal für eine spätere Demenzerkrankung dienen können. Die beteiligten Forscher analysierten hierfür umfassende Daten, um Muster zwischen sprachlichen Auffälligkeiten und dem kognitiven Abbau herzustellen. Offene Fragen bleiben weiterhin bezüglich der genauen pathophysiologischen Mechanismen dieses Zusammenhangs sowie der Frage, wie sich diese Erkenntnisse standardisiert in die medizinische Praxis oder Vorsorgeuntersuchungen integrieren lassen.",
+    "r": "Die Erkenntnisse eröffnen neue Möglichkeiten zur Früherkennung von Demenzerkrankungen im Alter durch einfache akustische Merkmale. Dies könnte künftig dabei helfen, Risikopatienten früher zu identifizieren und medizinische Maßnahmen rechtzeitig einzuleiten.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM05zdi1rMG5id1dvX2tnVVRjQ2YwS1Q2NnhKZ09oaGM0bmJacGlrYzhXTHZMdkN4SlVqTE5ZcDVHckRqcVFGVkJraFhFYXpuVjJHQWFGd05Ma2wzQktVM2lXdTYyQm0tX0hhOUE1ZTFXazJ5SUtKOGpDQngxZnpGRHdMazRMbTg3b1lsd2dKWQ?oc=5",
+        "date": "2026-09-30T17:13:02.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/wissen/Stimme-verraet-laut-Studie-das-Demenzrisiko-id31363989.html",
+        "date": "2026-09-30T17:13:02.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM05zdi1rMG5id1dvX2tnVVRjQ2YwS1Q2NnhKZ09oaGM0bmJacGlrYzhXTHZMdkN4SlVqTE5ZcDVHckRqcVFGVkJraFhFYXpuVjJHQWFGd05Ma2wzQktVM2lXdTYyQm0tX0hhOUE1ZTFXazJ5SUtKOGpDQngxZnpGRHdMazRMbTg3b1lsd2dKWQ?oc=5",
+    "agree": "",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Verweist lediglich auf den Artikel von n-tv.de mit dem Titel 'Warnsignal im Alter?: Stimme verrät laut Studie das Demenzrisiko'."
+      },
+      {
+        "name": "ntv",
+        "note": "Berichtet im Detail, dass Tonhöhe, Lautstärke oder Klarheit der Stimme sich altersbedingt aus vielen Gründen verändern können und diagnostizierte Stimmstörungen laut einer großen Studie frühe Hinweise auf eine sich anbahnende Demenz sind."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-00a6b0689e91c9d1",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-30T17:10:13.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Netanjahu bestätigt Messerangriff und Festnahme von Flydubai-Piloten",
+    "s": "Der israelische Premierminister Benjamin Netanjahu hat bestätigt, dass ein Pilot eines Flydubai-Fluges versucht haben soll, das Flugzeug zum Absturz zu bringen. Nach einem Messerangriff wurde der Pilot inhaftiert. Der genaue Hergang sowie Hintergründe des Vorfalls werden untersucht.",
+    "m": "Laut Angaben von Israels Premierminister Benjamin Netanjahu ereignete sich ein schwerwiegender Zwischenfall an Bord eines Flydubai-Fluges, der zu einer Notlandung führte. Ein Pilot der Fluggesellschaft soll versucht haben, die Maschine absichtlich zum Absturz zu bringen, und dabei einen Messerangriff verübt. Die Situation an Bord konnte unter Kontrolle gebracht und der verdächtige Pilot festgenommen werden. Der Flug musste daraufhin außerplanmäßig landen. Weitere Details zu den genauen Umständen, dem Zielort des Fluges, der Anzahl der Passagiere oder möglichen Verletzten an Bord wurden zunächst nicht bekannt gegeben. Die Ermittlungen zu den Motiven des Piloten und dem genauen Ablauf des Angriffs dauern an.",
+    "r": "Ein versuchter Anschlag oder Sabotageakt durch ein Besatzungsmitglied an Bord eines Linienflugzeugs betrifft direkt die internationale Flugsicherheit. Die offizielle Bestätigung durch einen Regierungschef unterstreicht die Schwere des Vorfalls.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbzkxWFdTV0xMWnRqU3pIVFpLLTdudVNyLUZzN1U0OGhaeWRZUDZEa25oLXJMTV9KNHNvZ1RRRy04QVNydWtDUUU4Q25tNVI4WWJTX2N4RExET3hCNmgxcDg2NFVXMWhDQXNrQ1BUX0VmMDlGVTByb3lxSXNMOTBldVZoMnJFbXhWTTJVVGNBeUwybzRqT0ZnQ2wyeE02bFM4dXl5eFMtM0VMUTg2TzlYTy1n?oc=5",
+        "date": "2026-09-30T17:10:13.000Z"
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/flydubai-notlandung-pilot-messer-israel-saudi-arabien-gxe",
+        "date": "2026-09-30T17:10:13.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbzkxWFdTV0xMWnRqU3pIVFpLLTdudVNyLUZzN1U0OGhaeWRZUDZEa25oLXJMTV9KNHNvZ1RRRy04QVNydWtDUUU4Q25tNVI4WWJTX2N4RExET3hCNmgxcDg2NFVXMWhDQXNrQ1BUX0VmMDlGVTByb3lxSXNMOTBldVZoMnJFbXhWTTJVVGNBeUwybzRqT0ZnQ2wyeE02bFM4dXl5eFMtM0VMUTg2TzlYTy1n?oc=5",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-f54992926b7eeb2b",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-30T17:04:59.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Linke-Politiker Ferat Koçak gibt Sitz im Innenausschuss auf",
+    "s": "Der Berliner Linken-Politiker Ferat Koçak zieht sich endgültig aus dem Innenausschuss des Bundestages zurück. Grund für den Schritt sind Vorwürfe über Kontakte in das Clan-Milieu. Koçak hatte seine Tätigkeiten im Ausschuss zuvor bereits ruhen lassen.",
+    "m": "Der Berliner Linken-Abgeordnete Ferat Koçak gibt seinen Sitz im Innenausschuss des Bundestages endgültig ab und zieht damit die Konsequenzen aus der heftigen Kritik an seiner Nähe zu mutmaßlichen Angehörigen krimineller Clanstrukturen, konkret dem Remmo-Clan. Zuvor hatte er die Arbeit in diesem Gremium bereits ruhen lassen. Ungeachtet des Rückzugs aus dem Innenausschuss beabsichtigt Koçak jedoch, seine allgemeine parlamentarische Arbeit im Bundestag fortzusetzen. Die Vorwürfe und die darauffolgenden Diskussionen hatten zuvor für erheblichen politischen Diskurs gesorgt. Weitere Details zu den genauen Umfängen oder zeitlichen Abläufen der Kontakte wurden in den Berichten nicht näher spezifiziert.",
+    "r": "Der Rückzug eines Bundestagsabgeordneten aus einem sicherheitspolitisch relevanten Ausschuss aufgrund von Vorwürfen möglicher Clankontakte berührt Fragen der Integrität von Mandatsträgern. Der Vorfall betrifft direkt die parlamentarische Arbeit und die Besetzung sicherheitsrelevanter Gremien im Bundestag.",
+    "srcs": [
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-kocak-innenausschuss-100.html",
+        "date": "2026-09-30T17:04:59.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZ1V1MGZDdmd3TEMxaVhoYXdkX0hQd3ZyQ2Z6dHlpUU11Nm9ydUpBNlVJUDNFRzdFdWlSLXo2dFp5M3ZVclVtTXBTTXBmTFNrZ3Y0aDRwNUJBMDBNT3BpVHN0TGUyajZVdkVNTEtOSERJTURGY0NMMGc3cmJ0UzZDNUJFUlVOYkVrZ2JuX1VKbng5LXdRMENadTNZWlMyVE4wXzA5WjRaTmhxZ0dRejJkTzJrSHA4aEItZklvbGp5eGpKUlE3MkxSM3lPcnhLdVZ3dFE4S1JyMA?oc=5",
+        "date": "2026-09-30T17:03:00.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/politik/kontakte-zum-remmo-clan-ferat-kocak-gibt-sitz-im-innenausschuss-des-bundestages-ab-5E3OO47LPRH55JKW5EK67R2BJY.html",
+        "date": "2026-09-30T16:53:40.000Z"
+      },
+      {
+        "name": "Süddeutsche Zeitung",
+        "url": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-ferat-kocak-linke-clans-li.3529564",
+        "date": "2026-09-30T16:19:33.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-kocak-innenausschuss-100.html",
+    "agree": "Die Quellen stimmen überein, dass der Linken-Politiker Ferat Koçak seinen Sitz im Innenausschuss des Bundestages wegen Vorwürfen von Kontakten zum Clan-Milieu aufgibt.",
+    "diff": [
+      {
+        "name": "Tagesschau",
+        "note": "Berichtet knapp über den Rückzug aus dem Innenausschuss und die Clan-Vorwürfe."
+      },
+      {
+        "name": "Google News DE",
+        "note": "Verweist in der Schlagzeile auf den Tagesspiegel und Kontakte zum Remmo-Clan."
+      },
+      {
+        "name": "RND",
+        "note": "Ergänzt, dass Koçak seine allgemeine Bundestagsarbeit trotz des Rückzugs aus dem Ausschuss fortsetzen will."
+      },
+      {
+        "name": "Süddeutsche Zeitung",
+        "note": "Erwähnt, dass Koçak die Ausschusstätigkeit bereits zuvor hatte ruhen lassen und es größere Diskussionen gab."
+      }
+    ],
+    "chg": "",
+    "independent": 4
+  },
+  {
+    "id": "story-fb86965f65b1efe6",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-30T16:57:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Linke-Abgeordneter Ferat Koçak räumt Innenausschuss nach Clan-Debatte",
+    "s": "Nach heftiger Kritik wegen angeblicher Nähe zu mutmaßlichen Mitgliedern krimineller Clans zieht der Linke-Bundestagsabgeordnete Ferat Konsequenzen. Er gibt seinen Sitz im Innenausschuss des Deutschen Bundestages vollständig auf. Zuvor war eine öffentliche Debatte über seine Kontakte entbrannt.",
+    "m": "Der Bundestagsabgeordnete Ferat Koçak von der Partei Die Linke hat angekündigt, seinen Sitz im Innenausschuss des Bundestages ganz aufzugeben. Dieser Schritt folgt auf eine intensive öffentliche Debatte und Kritik an einer möglichen Nähe des Politikers zu mutmaßlichen Angehörigen krimineller Clans. In einer offiziellen Stellungnahme äußerte sich Koçak zu dem Vorfall und räumte dabei einen konkreten Fehler ein. Die Vorwürfe hatten zuvor für parteiübergreifende Diskussionen über die Integrität von Ausschussmitgliedern gesorgt. Mit dem vollständigen Rückzug aus dem Innenausschuss reagiert der Politiker auf den anhaltenden politischen Druck. Weitere Details zu den genauen Umständen der Kontakte oder disziplinarischen Schritten innerhalb seiner Fraktion wurden zunächst nicht bekannt gegeben.",
+    "r": "Der Rückzug eines Bundestagsabgeordneten aus einem sicherheitsrelevanten Ausschuss wegen des Vorwurfs von Clan-Kontakten betrifft die politische Integrität von Mandatsträgern. Der Vorfall wirft Fragen zur Überprüfung von Abgeordneten und deren Verbindungen auf.",
+    "srcs": [
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/politik/deutschland/bundestag-linke-abgeordnete-ferat-kocak-gibt-sitz-im-innenausschuss-ganz-auf-a-f6c9baff-4016-4b9f-b709-113ac57b5a3c#ref=rss",
+        "date": "2026-09-30T16:57:00.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/deutschland/article6abd359eca5c42fe8f931009/nach-kritik-linke-politiker-ferat-kocak-gibt-sitz-im-innenausschuss-ganz-auf.html",
+        "date": "2026-09-30T16:17:09.000Z"
+      }
+    ],
+    "url": "https://www.spiegel.de/politik/deutschland/bundestag-linke-abgeordnete-ferat-kocak-gibt-sitz-im-innenausschuss-ganz-auf-a-f6c9baff-4016-4b9f-b709-113ac57b5a3c#ref=rss",
+    "agree": "Die Quellen stimmen überein, dass der Linke-Politiker Ferat Koçak seinen Sitz im Innenausschuss des Bundestages nach Kritik wegen möglicher Clan-Nähe ganz aufgibt.",
+    "diff": [
+      {
+        "name": "DER SPIEGEL",
+        "note": "Erwähnt zusätzlich, dass Koçak in einer Stellungnahme einen \"Fehler\" einräumte."
+      },
+      {
+        "name": "WELT",
+        "note": "Berichtet, dass der Politiker nach der Debatte Konsequenzen zieht und dies teilt, nennt aber keine Stellungnahme mit dem Wort \"Fehler\"."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-2c91db8ab2a6a233",
+    "c": "INT",
+    "o": "DE",
+    "k": "technik",
+    "lang": "de",
+    "d": "2026-09-30T16:49:00.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Tippfehler in Donald Trumps KI-Verordnung sorgt für Spott im Netz",
+    "s": "In den sozialen Medien machen sich Nutzerinnen und Nutzer über einen Rechtschreibfehler in einer vom Weißen Haus geteilten KI-Verordnung lustig. Das Abkommen, das sich mit sogenannter Superintelligenz befasst, weist einen offensichtlichen Tippfehler auf. Kritiker und Spötter schlagen humorvoll vor, künftig Künstliche Intelligenz zur Fehlererkennung einzusetzen.",
+    "m": "Das Weiße Haus hat ein offizielles Abkommen beziehungsweise eine Verordnung zum Thema Künstliche Intelligenz beziehungsweise Superintelligenz geteilt, in dem ein Tippfehler enthalten ist. Dieser Fehler wurde in den sozialen Medien schnell entdeckt und führte zu spöttischen Reaktionen. Ein Nutzer schlug ironisch vor, dass die Beteiligten doch besser KI einsetzen sollten, um solche Rechtschreibfehler in Zukunft zu vermeiden. Weitere Details zum genauen Inhalt der Verordnung oder den beteiligten Personen gehen aus den vorliegenden Berichten nicht hervor. Der Vorfall beleuchtet die öffentliche Aufmerksamkeit und den oft kritischen oder humorvollen Umgang mit offiziellen Dokumenten der US-Regierung im Bereich der Zukunftstechnologien.",
+    "r": "Der Vorfall zeigt, wie anfällig offizielle Regierungsdokumente für öffentliche Häme sind, wenn formale Fehler unterlaufen. Zudem wirft er im Zeitalter fortschrittlicher Technologien Fragen zur redaktionellen Sorgfalt bei der Veröffentlichung wichtiger KI-Initiativen auf.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUWFkZ01lR3lZZHNDYkFMWk9sY2pQZGZyZFlVNGNrY0laUW5NZFBoVDVIbkNrcW9rck5sWnUyNjE2OURfZVpFc3kzVTNzd2JTRTAwcThtX3dGZXpjLUdqVHlRcFRxMDA5ZENteHNlbGtiWi02ZGV5bHlNU3IwWFBSUF9ESFVDdXBBcTZrMURWNW1NQWJyT3hGOUhsUHdzS295bGFwRXpKd0JYRjk3SldZNi1rVGJxV2h5MFdvNlBndlM0WjA2Q1RjWlJnR0VLSGM4SktZZnIwS0RNbUdFOUE?oc=5",
+        "date": "2026-09-30T16:49:00.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/tippfehler-in-donald-trumps-abkommen-fuer-superintelligenz-sorgt-fuer-spott-a-8a7321a8-a17d-485d-896d-8d44662a1cf4#ref=rss",
+        "date": "2026-09-30T16:49:00.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUWFkZ01lR3lZZHNDYkFMWk9sY2pQZGZyZFlVNGNrY0laUW5NZFBoVDVIbkNrcW9rck5sWnUyNjE2OURfZVpFc3kzVTNzd2JTRTAwcThtX3dGZXpjLUdqVHlRcFRxMDA5ZENteHNlbGtiWi02ZGV5bHlNU3IwWFBSUF9ESFVDdXBBcTZrMURWNW1NQWJyT3hGOUhsUHdzS295bGFwRXpKd0JYRjk3SldZNi1rVGJxV2h5MFdvNlBndlM0WjA2Q1RjWlJnR0VLSGM4SktZZnIwS0RNbUdFOUE?oc=5",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-eb2cddfc751ba445",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-30T16:13:15.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Gericht stoppt Hinrichtung von Christa Pike in Tennessee in letzter Minute",
+    "s": "Ein Gericht in Tennessee hat die kurz bevorstehende Hinrichtung der zum Tode verurteilten Christa Pike vorerst gestoppt. Es wäre die erste Hinrichtung einer Frau in dem US-Bundesstaat seit mehr als 200 Jahren gewesen. Grund für den Aufschub ist die Anordnung, Zweifel an der Rechtmäßigkeit des ursprünglichen Prozesses zu überprüfen.",
+    "m": "Christa Pike war für den Mord an einer 19-Jährigen zum Tode verurteilt worden und sollte nun hingerichtet werden, womit sie die erste Frau seit über zwei Jahrhunderten in Tennessee gewesen wäre, an der die Todesstrafe vollstreckt worden wäre. Kurz vor der geplanten Vollstreckung griff jedoch ein Gericht ein und setzte den Vorgang aus. Der Grund für diesen juristischen Stopp ist die Notwendigkeit, die von der Verurteilten geäußerten Zweifel an der Rechtmäßigkeit ihres damaligen Prozesses eingehend zu prüfen. Weitere Details zum zeitlichen Ablauf der neuen juristischen Prüfungen oder zu konkreten Terminen für das weitere Verfahren wurden in den vorliegenden Berichten nicht genannt.",
+    "r": "Die Meldung ist relevant, da sie einen kurzfristigen Justizeingriff in einen historischen Fall der Todesstrafe in den USA dokumentiert. Die Überprüfung von Prozesszweifeln berührt fundamentale Fragen der Rechtssicherheit bei Kapitalverbrechen.",
+    "srcs": [
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/panorama/Hinrichtung-von-Christa-Pike-in-Tennessee-gestoppt-id31366581.html",
+        "date": "2026-09-30T16:13:15.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/tennessee-hinrichtung-von-christa-pike-gestoppt-a-1713741e-4d22-4a0b-8ae7-9e8864d62bfe#ref=rss",
+        "date": "2026-09-30T14:30:00.000Z"
+      }
+    ],
+    "url": "https://www.n-tv.de/panorama/Hinrichtung-von-Christa-Pike-in-Tennessee-gestoppt-id31366581.html",
+    "agree": "Die Quellen sind sich einig, dass die Hinrichtung von Christa Pike in Tennessee durch ein Gericht gestoppt wurde und es sich um den ersten Fall einer Hinrichtung einer Frau in dem Bundesstaat seit über 200 Jahren handeln würde.",
+    "diff": [
+      {
+        "name": "ntv",
+        "note": "Erwähnt konkret, dass die Zweifel der Verurteilten an der Rechtmäßigkeit ihres Prozesses geprüft werden müssen."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Nennt ergänzend den konkreten Hintergrund, dass Christa Pike für den Mord an einer 19-Jährigen zum Tode verurteilt wurde."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-6a25d190f412a829",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-30T16:08:16.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Brexit-Debatte: Premier Burnham bringt EU-Rückkehr ins Spiel",
+    "s": "In der Brexit-Debatte hat Premierminister Andy Burnham engere Beziehungen zur EU und eine mögliche Rückkehr in den Staatenbund ins Spiel gebracht. Der Vorstoß hat erste positive Reaktionen internationaler Partner ausgelöst. Die Diskussion um das Verhältnis zwischen Großbritannien und der Europäischen Union erfährt damit neue Dynamik.",
+    "m": "Premierminister Andy Burnham hat mit der Äußerung über engere Beziehungen und eine mögliche EU-Rückkehr Großbritanniens für neue Bewegung in der Brexit-Debatte gesorgt. Der Vorstoß umfasst konkrete Überlegungen bezüglich einer Annäherung bis hin zum Wiedereintritt in den Staatenbund. Frankreich und Spanien haben diese Initiative bereits begrüßt. Weitere Reaktionen von anderen EU-Staaten sowie Details zum zeitlichen Rahmen oder konkreten Schritten stehen derzeit noch aus. Die Haltung der britischen Regierung im Detail und mögliche Auswirkungen auf innenpolitische Debatten bleiben abzuwarten. Bislang ist unklar, wie ein solcher Prozess formal und politisch gestaltet werden könnte.",
+    "r": "Die Äußerung eines britischen Premierministers zur potenziellen EU-Rückkehr betrifft das künftige geopolitische und wirtschaftliche Verhältnis Europas. Entsprechende diplomatische Reaktionen aus Frankreich und Spanien unterstreichen die internationale Relevanz des Themas.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVVVkczl6NjRrTlNkcmVZVFhVRlRkT3Y1MHRzdi0xY1NiRkpfRWVtZV9VOXBTc0VmU1ZmZnMwZ1AyTTQ3OEZTMHBLaDNuaHVRUVlEU25kR0hRYXlLRDdONW9DaTRpS0JETE5aYU9XYVNET2lfSVFIajJfd0U4VVJOOWRpT2t0Qm9KQ00xd1ltNWZ4Y1hlcGZkRUljazJVRkZjai1XTUR4eGg3aDkteWppV2JuemY4OGNQaWVLNEc2czB6VXZGS2stVEpqbEw3Q1lCbk4wc3o0T0NwWXdQNFRfVlh5cXg?oc=5",
+        "date": "2026-09-30T16:08:16.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/ausland/article6abd2e0b4d95225671e4a96a/brexit-debatte-premier-burnham-bringt-grossbritanniens-eu-rueckkehr-ins-spiel.html",
+        "date": "2026-09-30T16:05:32.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVVVkczl6NjRrTlNkcmVZVFhVRlRkT3Y1MHRzdi0xY1NiRkpfRWVtZV9VOXBTc0VmU1ZmZnMwZ1AyTTQ3OEZTMHBLaDNuaHVRUVlEU25kR0hRYXlLRDdONW9DaTRpS0JETE5aYU9XYVNET2lfSVFIajJfd0U4VVJOOWRpT2t0Qm9KQ00xd1ltNWZ4Y1hlcGZkRUljazJVRkZjai1XTUR4eGg3aDkteWppV2JuemY4OGNQaWVLNEc2czB6VXZGS2stVEpqbEw3Q1lCbk4wc3o0T0NwWXdQNFRfVlh5cXg?oc=5",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-4bc5f87bd5f281c2",
+    "c": "INT",
+    "o": "INT",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-30T16:04:30.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Mutmasslicher Terroranschlag auf umgeleiteten Flydubai-Flug",
+    "s": "Ein Flug von Dubai nach Tel Aviv musste nach Saudi-Arabien umgeleitet werden, nachdem es an Bord zu einem schwerwiegenden Zwischenfall kam. Laut dem israelischen Premierminister hat der Co-Pilot den Piloten erstochen und versucht, das Flugzeug abstuerzen zu lassen. Passagiere und andere Piloten konnten die Situation jedoch unter Kontrolle bringen und sicher landen.",
+    "m": "Der Vorfall ereignete sich auf einem Flug der Airline Flydubai von Dubai nach Tel Aviv. Der Co-Pilot attackierte den Piloten mit Messerstichen und unternahm den Versuch, die Maschine zum Absturz zu bringen. Dank des raschen Eingreifens von Passagieren, die den Angreifer festhielten, sowie der verbliebenen Crewmitglieder im Cockpit konnte ein Desaster verhindert werden. Die anderen Piloten uebernahmen die Steuerung und leiteten eine ausserplanmässige Landung ein, die schliesslich sicher in Saudi-Arabien gelang. Der israelische Premierminister Benjamin Netanjahu machte diese Details am Mittwoch oeffentlich und stufte den Vorfall als versuchten Terroranschlag ein.",
+    "r": "Die Meldung ist von Bedeutung, da es sich um einen schweren sicherheitsrelevanten Zwischenfall im internationalen Luftverkehr handelt, bei dem ein gezielter Angriff auf ein Passagierflugzeug durch ein Besatzungsmitglied verhindert wurde.",
+    "srcs": [
+      {
+        "name": "France24 English",
+        "url": "https://www.france24.com/en/video/20260930-attempted-terror-attack-what-happened-on-board-the-rerouted-flydubai-flight",
+        "date": "2026-09-30T16:04:30.000Z"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/30/what-happened-on-diverted-flydubai-flight-from-dubai-to-tel-aviv?traffic_source=rss",
+        "date": "2026-09-30T15:27:26.000Z"
+      }
+    ],
+    "url": "https://www.france24.com/en/video/20260930-attempted-terror-attack-what-happened-on-board-the-rerouted-flydubai-flight",
+    "agree": "Beide Quellen stimmen darin ueberein, dass laut Angaben des israelischen Premierministers ein Pilot den anderen erstochen hat und anschliessend versuchte, das Flugzeug zum Absturz zu bringen.",
+    "diff": [
+      {
+        "name": "France24 English",
+        "note": "Berichtet zusaetzlich, dass es sich um einen Flug von Dubai nach Tel Aviv handelte, der Co-Pilot der Angreifer war, Passagiere diesen festhielten, andere Piloten die Maschine sicher in Saudi-Arabien landeten und der Vorfall als versuchter Terroranschlag gewertet wird."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-e35fed587d6894e1",
+    "c": "INT",
+    "o": "INT",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-30T15:58:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Europäische Wohnungsnot treibt politische Proteste und Kampagnen an",
+    "s": "Steigende Mieten und Immobilienpreise in ganz Europa führen zu verstärkten politischen Debatten. Aktivisten und Kampagnen versuchen diese Situation zu nutzen, um das Thema Wohnen ganz nach oben auf die politische Agenda zu setzen. Kürzlich fand hierzu eine große Immobilienkonferenz mit rund 15.000 Teilnehmern statt.",
+    "m": "Die anhaltende Wohnungs- und Immobilienkrise in Europa sorgt für steigende Belastungen bei Mieten und Kaufpreisen, was zunehmend den politischen Diskurs prägt. Kampagnen und Aktivisten sehen darin eine seltene Gelegenheit, um Druck auf die Politik auszuüben und das Thema konsequent zu priorisieren. In diesem Kontext fand kürzlich die Immobilienmesse und der Gipfel unter dem Namen District statt. Diese Veranstaltung gilt als eine der größten ihrer Art in Europa und zog rund 15.000 Teilnehmer an. Zu den Besuchern und Akteuren zählten sowohl Investmentfirmen als auch Entwickler, die sich über die Marktlage austauschten. Während Investoren und die Immobilienwirtschaft tagen, formiert sich gleichzeitig eine neue Bewegung unter Kritikern und Betroffenen, die bezahlbaren Wohnraum fordern. Weitere Details zu konkreten politischen Forderungen oder den genauen Ergebnissen des Gipfels nennen die Berichte bisher nicht.",
+    "r": "Die Wohnungskrise in Europa beeinflusst zunehmend den politischen Diskurs und mobilisiert sowohl Investoren als auch Kampagnen. Eine Einordnung verdeutlicht, dass das Thema durch den starken Druck der Mietpreisentwicklung nun verstärkt in den Fokus der Öffentlichkeit rückt.",
+    "srcs": [
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQW0zRGJNbWlsczdxd282VmR2a0ktN1M4RGJsckdMLTh0ZFVTdEhzM0poNEFWRy10WERmSkQwTk9KY0YzNElWX1VzRkU5MGRJYmtUR2pkV3ZNVHNtRG5rdDJCRFpNR3NZRW8tWVFMQ0JqMjZVRjZNWklUY01NdEF5N0FLZ3ZtalZtY0Q5LWkydDd5RzZ0dGxSdThFRnYxV09h?oc=5",
+        "date": "2026-09-30T15:58:00.000Z"
+      },
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/30/how-europes-housing-crisis-is-fuelling-a-new-movement",
+        "date": "2026-09-30T14:45:43.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQW0zRGJNbWlsczdxd282VmR2a0ktN1M4RGJsckdMLTh0ZFVTdEhzM0poNEFWRy10WERmSkQwTk9KY0YzNElWX1VzRkU5MGRJYmtUR2pkV3ZNVHNtRG5rdDJCRFpNR3NZRW8tWVFMQ0JqMjZVRjZNWklUY01NdEF5N0FLZ3ZtalZtY0Q5LWkydDd5RzZ0dGxSdThFRnYxV09h?oc=5",
+    "agree": "Beide Quellen stimmen überein, dass die Wohnungskrise in Europa und die steigenden Mieten und Immobilienpreise den politischen Diskurs prägen und eine neue Bewegung von Kampagnen antreiben.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Erwähnt im Titel den Bezug auf The Guardian und das Vorhandensein einer neuen Bewegung."
+      },
+      {
+        "name": "Guardian World",
+        "note": "Liefert den ausführlichen Text und nennt konkrete Details zur District-Messe mit rund 15.000 Teilnehmern aus Investment und Entwicklung sowie den Verweis auf den Newsletter 'This Is Europe'."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-d01044454e273dfc",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-30T15:51:52.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Deutschlandticket kostet ab Januar 66,80 Euro",
+    "s": "Das Deutschlandticket wird im kommenden Januar teurer. Der Preis steigt auf 66,80 Euro an. Gegen die erneute Preissteigerung gibt es Kritik von Verbänden.",
+    "m": "Ab Januar kostet das Deutschlandticket 66,80 Euro, was einer Erhöhung um 3,80 Euro entspricht. Die Deutsche Bahn hat diese Preiserhöhung bekannt gegeben. Vorab gab es bereits deutliche Kritik an dem Schritt. Insbesondere Fahrgast- und Umweltverbände äußerten ihren Unmut über die Verteuerung. So kritisiert der Umweltschutzverband BUND die Preiserhöhung zusätzlich als inakzeptabel, da es gleichzeitig einen neuen Tankrabatt gibt.",
+    "r": "Die Verteuerung eines zentralen Verkehrsmittels betrifft Millionen Pendler und wirft Fragen zur politischen Ausgestaltung der Mobilitätswende im Vergleich zum Individualverkehr auf.",
+    "srcs": [
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/wirtschaft/video6abd2f86eb10ca6ab0060862/oeffentlicher-nahverkehr-preis-fuer-das-deutschlandticket-steigt.html",
+        "date": "2026-09-30T15:51:52.000Z"
+      },
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/wirtschaft/verbraucher/deutschlandticket-preis-110.html",
+        "date": "2026-09-30T14:06:15.000Z"
+      }
+    ],
+    "url": "https://www.welt.de/wirtschaft/video6abd2f86eb10ca6ab0060862/oeffentlicher-nahverkehr-preis-fuer-das-deutschlandticket-steigt.html",
+    "agree": "Die Quellen sind sich einig, dass das Deutschlandticket ab Januar 66,80 Euro kosten wird und dass es Kritik an der Preiserhöhung gab.",
+    "diff": [
+      {
+        "name": "WELT",
+        "note": "Nennt konkret die Deutsche Bahn als Preiserhöhende und führt die Kritik des BUND in Verbindung mit einem neuen Tankrabatt an."
+      },
+      {
+        "name": "Tagesschau",
+        "note": "Bezieht sich allgemein auf Fahrgast- und Umweltverbände und nennt den genauen Aufschlag von 3,80 Euro."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-dcd7c46642e0bddf",
+    "c": "INT",
+    "o": "UK",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-30T15:29:11.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Hinrichtung der US-Verurteilten Christa Pike kurz vor Vollstreckung gestoppt",
+    "s": "Die Hinrichtung der US-amerikanischen Mörderin Christa Pike wurde kurz vor dem geplanten Zeitpunkt gestoppt. Pike war im Jahr 1996 wegen des Mordes an Colleen Slemmer zum Tode verurteilt worden. Über die genauen Hintergründe und den weiteren Verlauf des Verfahrens liegen derzeit keine Details vor.",
+    "m": "Die Exekution der in den USA zum Tode verurteilten Christa Pike ist kurz vor der geplanten Durchführung angehalten worden. Pike verbüßt seit ihrer Verurteilung im Jahr 1996 eine Todesstrafe, die ihr damals für den Mord an Colleen Slemmer auferlegt worden war. Weitere Informationen zu den Gründen des Stopps, etwaigen juristischen Schritten der Verteidigung oder einer möglichen Umwandlung des Urteils gehen aus den aktuellen Berichten nicht hervor. Die Situation bleibt bezüglich des zukünftigen Umgangs mit dem Fall offen. Weder zur genauen Uhrzeit des Stopps noch zu beteiligten offiziellen Stellen wurden nähere Angaben gemacht.",
+    "r": "Die kurzfristige Aussetzung einer bevorstehenden Hinrichtung ist von allgemeinem rechtlichen und gesellschaftlichen Interesse. Der Fall betrifft eine langjährige Todeskandidatin in den USA, deren Verfahren nun erneut Aufmerksamkeit erhält.",
+    "srcs": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
+        "date": "2026-09-30T15:29:11.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TaDB6ZXNjV1FsZDNYMWtvS3FZQ0xibUtpV0d2c1dTcjNMM1dyczdTdXc0bnBrMnIwV3lSbGJNb0prWHpoN1V4WTJLZF9TN3BWYW82QjlKa1BCTXc?oc=5",
+        "date": "2026-09-30T15:29:11.000Z"
+      }
+    ],
+    "url": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
+    "agree": "Die Quellen stimmen überein, dass die Hinrichtung der US-Mörderin Christa Pike kurz vor dem geplanten Zeitpunkt gestoppt wurde und sie 1996 für den Mord an Colleen Slemmer zum Tode verurteilt worden war.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Verweist lediglich per Link beziehungsweise Titelwiederholung auf den BBC-Bericht ohne eigene Zusatzinformationen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-c6e593ec58d2ea55",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-30T15:28:49.000Z",
+    "p": 4,
+    "st": "NI",
+    "city": "",
+    "t": "Volkswagen kündigt zum Jahresende fast alle Tarifverträge",
+    "s": "Der kriselnde Autobauer Volkswagen hat fast alle seine Tarifverträge gekündigt. Dies gab das Unternehmen nach Gesprächen mit Arbeitnehmervertretern in Hannover bekannt. Grund für diesen drastischen Schritt ist ein verschärfter Sparkurs und anhaltender Kostendruck.",
+    "m": "Volkswagen hat eine Reihe von Tarifverträgen zum Jahresende aufgekündigt, um auf die angespannte wirtschaftliche Lage zu reagieren. Das Unternehmen begründet diesen Schritt mit einem massiven und notwendigen Sparkurs aufgrund des hohen Kostendrucks. Nach Angaben des Autobauers erfolgte die Mitteilung im Anschluss an Gespräche mit den Arbeitnehmervertretern in Hannover. Die IG Metall reagierte scharf auf die Ankündigung und kritisierte das Vorgehen als übles Foul an der Belegschaft. Weitere Details zur genauen Umsetzung der Sparmaßnahmen oder zu möglichen betriebsbedingten Kündigungen wurden in den Berichten zunächst nicht genannt.",
+    "r": "Die Kündigung fast aller Tarifverträge durch einen der größten Automobilkonzerne ist von hoher wirtschaftlicher und arbeitsmarktpolitischer Bedeutung. Sie markiert eine Eskalation in den Verhandlungen zwischen der Unternehmensführung und den Arbeitnehmern.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Niedersachsen",
+        "url": "https://www.tagesschau.de/inland/regional/niedersachsen/volkswagen-kuendigt-fast-alle-tarifvertraege,vw-1576.html",
+        "date": "2026-09-30T15:28:49.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTzZMT3lNeDBEUWRDdVY5MS15YmFwa1lBSkZ1N2k3YWxQVVppVnREeDZScHA1VU1kN1FVWHlucElhX0pQT19rQXdrR0kzZ2g0XzBJVzRUeUFRbF9xTjBrckxlVXdQQ2N5bTVRTHpVcDhCQ0VybTBNdDh3OWZtSWlJMjVIb0ZKc05RaFJpUmppWXhMZU9pSzRXSTZiZkV0WnItbGF4Z1haWjltNEYxTVZSNlRiMHFpTTk3bzZhdUh5cmM2aG9FMVZiVg?oc=5",
+        "date": "2026-09-30T14:05:00.000Z"
+      },
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-aufhebung-tarifvertraege-sparmassnahmen-100.html",
+        "date": "2026-09-30T14:00:31.000Z"
+      },
+      {
+        "name": "t-online Nachrichten",
+        "url": "https://www.t-online.de/nachrichten/deutschland/id_101459998/volkswagen-autobauer-kuendigt-fast-alle-tarifvertraege.html",
+        "date": "2026-09-30T13:38:50.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/niedersachsen/volkswagen-kuendigt-fast-alle-tarifvertraege,vw-1576.html",
+    "agree": "Die Quellen stimmen darin überein, dass Volkswagen fast alle seine Tarifverträge gekündigt hat und dies mit der Notwendigkeit zum Sparen begründet.",
+    "diff": [
+      {
+        "name": "Tagesschau",
+        "note": "Erwähnt, dass die Kündigungen zum Jahresende erfolgen, und zitiert die IG Metall mit der Aussage, dies sei ein \"übles Foul an der Belegschaft\"."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
+    "id": "story-c8ebd79156dcae28",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-30T15:16:02.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Regierung beschließt Entzug des passiven Wahlrechts bei Volksverhetzung",
+    "s": "Die Bundesregierung hat im Rahmen von Rechtsverschärfungen beschlossen, dass verurteilten Personen unter bestimmten Bedingungen das passive Wahlrecht entzogen werden kann. Diese Maßnahme betrifft Fälle von Volksverhetzung. Kritiker bezeichnen diesen Schritt als Entzug eines zentralen demokratischen Teilhaberechts.",
+    "m": "Die Regierung hat umfassende Rechtsverschärfungen beschlossen, die nach offiziellen Angaben dazu dienen sollen, das demokratische Gemeinwesen besser zu schützen. Ein zentraler und besonders umstrittener Bestandteil dieser neuen Maßnahmen ist die Möglichkeit, Personen bei einer Verurteilung wegen Volksverhetzung das passive Wahlrecht zu entziehen. Dieses Vorhaben greift tief in fundamentale politische Mitwirkungsrechte ein. Befürworter sehen darin einen notwendigen Schutzmechanismus für die freiheitliche demokratische Grundordnung gegen Verfassungsfeinde. Kritiker warnen hingegen vor dem Entzug eines zentralen demokratischen Teilhaberechts und befürchten mögliche politische Missbräuche. Bisher sind keine weiteren Details zum genauen Gesetzgebungsverfahren oder den zeitlichen Abläufen der Umsetzung bekannt geworden.",
+    "r": "Die Maßnahme verknüpft strafrechtliche Verurteilungen wegen Volksverhetzung direkt mit dem Verlust des passiven Wahlrechts. Dies betrifft grundlegende demokratische Mitwirkungsrechte und berührt damit zentrale Fragen des politischen Systems.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQZU84S1ZncDRHVXRxTm1jdnp6MEo0Y25tQlY5dENOZXVYTS1KQTBvalZWVlNaVlBHX2tkWkJQaUgzbklEWUJXVEh1UV9wQjFoODc5ZUpuS1RlSUpuRHE0OEQta2I0OGdxZkVSYlI2XzRHU1A2OGxFb1h2U0Q4SE5zdk5fdmo1TzN0Q1hHelI4Z1BsVXliSjhSQXQzWGpjVTB5VWl2N0NUYkdSUERUaW9pRzZoSGtkazhnZHRLLVlIY1JlLUVOSUM3U1BDM1NXRXdhWF9jV3NmSUFXYkZkSk5lSXlTYmp4YklrY0JrQnNoYWhWWjJ0bjJhLWtITG81X1BEMkFqUEZoTHFRX1JhZGFoV1RCd0xKbWc?oc=5",
+        "date": "2026-09-30T15:16:02.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/deutschland/plus6abcaac7d69a782c205c93ab/plan-der-regierung-entzug-eines-zentralen-demokratischen-teilhaberechts-neue-drastische-folgen-bei-volksverhetzung.html",
+        "date": "2026-09-30T15:13:41.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQZU84S1ZncDRHVXRxTm1jdnp6MEo0Y25tQlY5dENOZXVYTS1KQTBvalZWVlNaVlBHX2tkWkJQaUgzbklEWUJXVEh1UV9wQjFoODc5ZUpuS1RlSUpuRHE0OEQta2I0OGdxZkVSYlI2XzRHU1A2OGxFb1h2U0Q4SE5zdk5fdmo1TzN0Q1hHelI4Z1BsVXliSjhSQXQzWGpjVTB5VWl2N0NUYkdSUERUaW9pRzZoSGtkazhnZHRLLVlIY1JlLUVOSUM3U1BDM1NXRXdhWF9jV3NmSUFXYkZkSk5lSXlTYmp4YklrY0JrQnNoYWhWWjJ0bjJhLWtITG81X1BEMkFqUEZoTHFRX1JhZGFoV1RCd0xKbWc?oc=5",
+    "agree": "Die Quellen sind sich einig, dass die Regierung den Entzug des passiven Wahlrechts bei Volksverhetzung als Rechtsverschärfung beschlossen hat.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Verweist auf WELT-Berichterstattung und zitiert die Kritik als Entzug eines zentralen demokratischen Teilhaberechts."
+      },
+      {
+        "name": "WELT",
+        "note": "Liefert die Originalmeldung und nennt die Begründung der Regierung zum besseren Schutz des demokratischen Gemeinwesens."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-12e33d148cd444ad",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-30T15:09:54.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "US-Gericht stoppt Hinrichtung von Christa Pike in letzter Minute",
+    "s": "Erstmals seit mehr als 200 Jahren sollte in Tennessee eine Frau hingerichtet werden. Kurz vor der gepanten Exekution von Christa Pike schritt jedoch ein Gericht ein und stoppte die Tötung. Genau Hintergründe zur Entscheidung des Gerichts wurden zunächst nicht genannt. Der Fall sorgte international für Aufmerksamkeit, da weibliche Hinrichtungen in dem US-Bundesstaat extrem selten sind.",
+    "m": "In Tennessee sollte am Mittwoch erstmals seit über zwei Jahrhunderten eine Frau hingerichtet werden. Betroffen war Christa Pike, deren Fall kurz vor der geplanten Exekution eine dramatische Wendung nahm. Eine Stunde beziehungsweise wenige Stunden vor der anberaumten tödlichen Injektion oder dem Termin schaltete sich ein Gericht ein und stoppte das Verfahren vorerst. Es war von einer unmittelbaren Intervention die Rede, die den Vollstreckungsstopp bewirkte. Weitere Details zu den rechtlichen Schritten oder den genauen Gründen für das Eingreifen der Justiz gingen aus den Berichten nicht hervor. Ob es sich um einen endgültigen Aufschub oder lediglich um eine temporäre Aussetzung handelt, blieb zunächst offen. Frauenhinrichtungen stellen in der Geschichte des US-Bundesstaates eine absolute Ausnahme dar.",
+    "r": "Der Fall ist von Bedeutung, da es sich um die erste geplante Hinrichtung einer Frau in Tennessee seit über 200 Jahren handelt und die Justiz in letzter Sekunde intervenierte.",
+    "srcs": [
+      {
+        "name": "t-online Panorama",
+        "url": "https://www.t-online.de/nachrichten/panorama/gesellschaft/id_101460232/christa-pike-us-gericht-stoppt-hinrichtung-in-letzter-minute.html",
+        "date": "2026-09-30T15:09:54.000Z"
+      },
+      {
+        "name": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/gericht-stoppt-hinrichtung-einer-frau-in-tennessee-201277662.html",
+        "date": "2026-09-30T15:04:23.000Z"
+      }
+    ],
+    "url": "https://www.t-online.de/nachrichten/panorama/gesellschaft/id_101460232/christa-pike-us-gericht-stoppt-hinrichtung-in-letzter-minute.html",
+    "agree": "Die Quellen sind sich einig, dass in Tennessee erstmals seit mehr als 200 Jahren die Hinrichtung einer Frau geplant war und ein Gericht diese kurz vor der Exekution stoppte.",
+    "diff": [
+      {
+        "name": "t-online Panorama",
+        "note": "nennt die betroffene Frau namentlich (Christa Pike) und gibt an, dass das Gericht eine Stunde vor der geplanten Tötung eingriff."
+      },
+      {
+        "name": "Frankfurter Allgemeine",
+        "note": "nennt keinen Namen der Frau, gibt an, dass die Hinrichtung für Mittwoch geplant war, und spricht allgemein davon, dass sich wenige Stunden vorher ein Gericht einschritt."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-d32ca57a4d1bdcc3",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-30T15:09:02.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Hamburg-Umfrage: Politische Ränder legen zu, SPD und Grüne verlieren",
+    "s": "Eine neue Umfrage in Hamburg zeigt deutliche Stimmengewinne für die politischen Ränder. Sowohl die AfD als auch die Linke können ihren Zuspruch demnach steigern. Bislang regierende Parteien müssen hingegen Verluste hinnehmen.",
+    "m": "Aktuellen Umfragedaten zufolge verlieren SPD und Grüne in Hamburg an Zustimmung, behalten jedoch ihre bisherige Mehrheit. Zusammen erreichen die Parteien AfD und Linke in der Erhebung fast ein Drittel der abgegebenen Stimmen. Unabhängig davon hat die Hamburgische Bürgerschaft für die Einsetzung einer Arbeitsgruppe gestimmt, die ein mögliches AfD-Verbotsverfahren prüfen soll. Die genauen Prozentwerte der Parteien werden in den Berichten nicht beziffert. Es bleibt abzuwarten, wie sich diese Tendenzen auf die zukünftige politische Arbeit im Stadtstaat auswirken.",
+    "r": "Die Umfrageergebnisse geben Aufschluss über veränderte Mehrheitsverhältnisse in Hamburg. Zudem zeigt der Beschluss zur Prüfung eines AfD-Verbotsverfahrens eine konkrete politische Reaktion der Bürgerschaft.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNQUFfMDdsQXlxc3VjWi1MT1FNT054Z2lwVWQxalRJOUZabW45RmlPbHFMUXpvR3kxWS0xOGdfNkJHTzhnZnVHMXNaRTBIa2xiS200dHpnaTZZRm5odDM1eGpCZjBubDM5THhvTGVmQ0JLcUFEamdvUUZ6bUJvTjdsbzNWekFOcFVIVFJNeTREUnNaczRQMmFSMHNCSnI0REtOSEhCNjFLbHU0R2wzSEp3dXZWeGhKWS1ZekRFX0s3WlUtUElFVXMzcUUwT1dJUDlTTzdEWnBmekxUR2JEN0ctYXhOZUFuQ2dJYnp3aERUUlZxMUpQMDgwT09UMURNa2duaG5weWRIWC1jNjBDWWZId3EyQVBEZw?oc=5",
+        "date": "2026-09-30T15:09:02.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/regionales/hamburg/article6abd15b9ca5c42fe8f930e00/zuwachs-bei-afd-und-linken-auch-im-buergerlichen-hamburg-legen-laut-umfrage-die-politischen-raender-deutlich-zu.html",
+        "date": "2026-09-30T15:06:40.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNQUFfMDdsQXlxc3VjWi1MT1FNT054Z2lwVWQxalRJOUZabW45RmlPbHFMUXpvR3kxWS0xOGdfNkJHTzhnZnVHMXNaRTBIa2xiS200dHpnaTZZRm5odDM1eGpCZjBubDM5THhvTGVmQ0JLcUFEamdvUUZ6bUJvTjdsbzNWekFOcFVIVFJNeTREUnNaczRQMmFSMHNCSnI0REtOSEhCNjFLbHU0R2wzSEp3dXZWeGhKWS1ZekRFX0s3WlUtUElFVXMzcUUwT1dJUDlTTzdEWnBmekxUR2JEN0ctYXhOZUFuQ2dJYnp3aERUUlZxMUpQMDgwT09UMURNa2duaG5weWRIWC1jNjBDWWZId3EyQVBEZw?oc=5",
+    "agree": "In Hamburg verzeichnen laut Umfrage die politischen Ränder Zuwächse, während SPD und Grüne an Zustimmung verlieren, aber ihre Mehrheit behalten.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-8f5c68a8116b1111",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-30T14:47:42.000Z",
+    "p": 2,
+    "st": "BW",
+    "city": "",
+    "t": "Mercedes-Benz legt Abfindungsprogramm für Nicht-Produktionsbereiche neu auf",
+    "s": "Der Automobilkonzern Mercedes-Benz plant die Neuauflage eines Abfindungsprogramms. Das Angebot richtet sich an Beschäftigte, die außerhalb der Produktion tätig sind. Die Wiederaufnahme der Maßnahme ist ab Dezember vorgesehen. Im Frühjahr war ein entsprechendes Programm erst kürzlich abgeschlossen worden.",
+    "m": "Der Autobauer Mercedes-Benz hat angekündigt, ab Dezember ein neues Abfindungsprogramm aufzulegen. Dieses richtet sich speziell an Mitarbeiterinnen und Mitarbeiter, die außerhalb der Produktion beschäftigt sind. Damit wird ein ähnliches Programm fortgeführt, das erst im vergangenen Frühjahr offiziell abgeschlossen worden war. Konkrete Zahlen zur geplanten Höhe der Abfindungen oder zur Zielanzahl der teilnehmenden Beschäftigten nennen die vorliegenden Berichte bisher nicht. Auch über die genauen Hintergründe für die erneute Auflage nach so kurzer Zeit machen die Quellen keine näheren Angaben. Offen bleibt zudem, wie viele Mitarbeiter das Angebot voraussichtlich annehmen werden und welche langfristigen personellen Folgen dies für den Konzern hat.",
+    "r": "Die Wiederaufnahme eines Abfindungsprogramms bei einem großen deutschen Automobilkonzern ist wirtschaftlich relevant. Sie gibt Aufschluss über personelle Umstrukturierungen und die aktuelle Lage außerhalb der Produktion bei Mercedes-Benz.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mercedes-abfindungsprogramm-neu-100.html",
+        "date": "2026-09-30T14:47:42.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Baden-Württemberg",
+        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-mercedes-startet-neues-abfindungsprogramm-100.html",
+        "date": "2026-09-30T14:44:28.000Z"
+      }
+    ],
+    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mercedes-abfindungsprogramm-neu-100.html",
+    "agree": "Beide Quellen stimmen überein, dass Mercedes-Benz ab Dezember ein neues Abfindungsprogramm für Beschäftigte außerhalb der Produktion auflegt, obwohl ein ähnliches Programm erst im Frühjahr abgeschlossen wurde.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-d8fff28d46c88b34",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-30T14:32:48.000Z",
+    "p": 2,
+    "st": "BW",
+    "city": "",
+    "t": "Tödlicher Autoabsturz auf Fernpass: Mann aus Karlsruhe stirbt",
+    "s": "Auf dem Fernpass bei Reutte in Österreich ist ein Autofahrer aus dem Raum Karlsruhe mit seinem Wagen in eine Schlucht gestürzt. Für den Mann kam jede Hilfe zu spät, er erlag seinen Verletzungen. Seine Ehefrau befand sich zum Zeitpunkt des Unfalls ebenfalls im Fahrzeug.",
+    "m": "Der Unfall ereignete sich auf dem Fernpass im österreichischen Reutte. Ein aus dem Raum Karlsruhe stammender Mann geriet mit seinem Auto aus bislang ungeklärter Ursache von der Strecke und stürzte in eine tiefe Schlucht. Der Autofahrer erlitt bei dem Sturz so schwere Verletzungen, dass er noch vor Ort verstarb. Auf dem Beifahrersitz saß seine Ehefrau, zu deren gesundheitlicher Verfassung nach dem Sturz keine näheren Angaben gemacht wurden. Rettungskräfte und Einsatzkräfte rückten zu dem Unfallort aus, um die Bergung durchzuführen. Der genaue Hergang und die Ursache des Absturzes sind Gegenstand von Ermittlungen der zuständigen Behörden.",
+    "r": "Der tödliche Verkehrsunfall auf einer internationalen Passstraße betrifft deutsche Staatsbürger aus Baden-Württemberg. Solche Unfälle verdeutlichen die Gefahren auf alpinen Verbindungsstraßen und führen oft zu polizeilichen Ermittlungen bezüglich der Unfallursache.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell Baden-Württemberg",
+        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/toedlicher-unfall-fernpass-schlucht-100.html",
+        "date": "2026-09-30T14:32:48.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Baden-Württemberg",
+        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-toedlicher-unfall-auf-fernpass-mann-stuerzt-mit-auto-in-eine-schlucht-100.html",
+        "date": "2026-09-30T11:52:38.000Z"
+      }
+    ],
+    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/toedlicher-unfall-fernpass-schlucht-100.html",
+    "agree": "Beide Quellen berichten übereinstimmend, dass ein Mann aus dem Raum Karlsruhe mit seinem Auto auf dem Fernpass bei Reutte in eine Schlucht gestürzt ist und dabei tödliche Verletzungen erlitt, während seine Ehefrau auf dem Beifahrersitz saß.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-c13f68345f08118d",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-30T14:15:22.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Sean \"Diddy\" Combs soll privilegierten Haftalltag genießen",
+    "s": "Dem inhaftierten US-Musiker Sean \"Diddy\" Combs werden laut Berichten unerlaubte Annehmlichkeiten im Gefängnis nachgesagt. Demnach soll sein Haftalltag ungewöhnlich komfortabel gestaltet sein. Eine aktuelle Recherche zeichnet das Bild von Bequemlichkeiten hinter schwedischen Gardinen.",
+    "m": "Laut den Berichten soll Sean \"Diddy\" Combs in seiner Haft diverse Vorzüge genießen. Mitgefangene verrichten angeblich Dienste wie Kochen und Putzen für ihn. Darüber hinaus soll er von Mitgefangenen massiert werden. Neben diesen Verpflegungs- und Komfortleistungen werden auch Alkohol und sexuelle Zerstreuung wie Nacktfotos im Zusammenhang mit seinem Gefängnisaufenthalt genannt. Die Recherche wirft Fragen zur Kontrolle und Sicherheit in der Justizvollzugsanstalt auf.",
+    "r": "Die Vorwürfe über Sonderbehandlungen von prominenten Häftlingen beleuchten potenzielle Sicherheits- und Kontrollmängel im Justizvollzug. Sie sind von öffentlichem Interesse, da sie die Gleichbehandlung vor dem Gesetz infrage stellen.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT1dGWUN1Q3hWN3JtRTRzdTlpY3hrNF9tdDdCeExXLVItZ3RVY29MQnhjUDNLZkc4cXBMcGFWdGhOaWtuUXJybENGZFdtUkZEdy0zbW41U190NERjemU4THJNTUhHWV9ROUdEM1lMWWU1OFRuWDBCMEp1dTdrNmRJRGxWOUhGamZQTVRaZU4tVmNNclBlNWxz?oc=5",
+        "date": "2026-09-30T14:15:22.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/leute/Sean-Diddy-Combs-soll-es-in-Haft-komfortabel-haben-id31365712.html",
+        "date": "2026-09-30T14:15:22.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT1dGWUN1Q3hWN3JtRTRzdTlpY3hrNF9tdDdCeExXLVItZ3RVY29MQnhjUDNLZkc4cXBMcGFWdGhOaWtuUXJybENGZFdtUkZEdy0zbW41U190NERjemU4THJNTUhHWV9ROUdEM1lMWWU1OFRuWDBCMEp1dTdrNmRJRGxWOUhGamZQTVRaZU4tVmNNclBlNWxz?oc=5",
+    "agree": "Beide Quellen berichten übereinstimmend, dass Sean \"Diddy\" Combs in Haft einen komfortablen Alltag mit Annehmlichkeiten wie Massagen, Alkohol und Nacktfotos haben soll.",
+    "diff": [
+      {
+        "name": "ntv",
+        "note": "Berichtet konkret, dass Mitgefangene für Combs kochen, putzen und ihn massieren sollen, und erwähnt sexuelle Zerstreuung neben Alkohol und Nacktfotos."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-d76cdb74495ba2cd",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-30T14:15:04.000Z",
+    "p": 3,
+    "st": "BW",
+    "city": "",
+    "t": "Deutschlandticket wird ab Januar 2025 teurer und kostet 66,80 Euro",
+    "s": "Das Deutschlandticket verteuert sich zum kommenden Januar erneut. Der monatliche Preis steigt um 3,80 Euro auf künftig 66,80 Euro. Vor der Entscheidung gab es bereits im Vorfeld deutliche Kritik an der erneuten Preissteigerung. Das Ticket bleibt damit jedoch ein zentrales Angebot im öffentlichen Nahverkehr.",
+    "m": "Das im Mai 2023 eingeführte Deutschlandticket erfährt nach der bereits beschlossenen Erhöhung im Jahr 2024 eine weitere Anpassung. Ab Januar 2025 erhöht sich der Preis von den bisherigen 63 Euro auf 66,80 Euro monatlich. Die erneute Preisanpassung war aufgrund gestiegener Kosten und der Finanzierung zwischen Bund und Ländern erwartet worden, stößt jedoch bei Verbraucherschützern und Teilen der Politik auf scharfe Kritik. Kritiker befürchten, dass durch die stetigen Verteuerungen die Attraktivität des Angebots sinkt und weniger Menschen auf den öffentlichen Personennahverkehr umsteigen. Offen ist weiterhin, wie die langfristige Finanzierung des Tickets über das Jahr 2025 hinaus gesichert werden soll.",
+    "r": "Die Preiserhöhung des Deutschlandtickets betrifft Millionen Pendler und hat direkte Auswirkungen auf die Nutzung des öffentlichen Nahverkehrs in Deutschland. Zudem wirft sie grundsätzliche Fragen zur langfristigen Finanzierung und zum Fortbestand des politisch bedeutsamen Projekts auf.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell Baden-Württemberg",
+        "url": "https://www.tagesschau.de/wirtschaft/verbraucher/deutschlandticket-preis-110.html",
+        "date": "2026-09-30T14:15:04.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdzdSSlFpLTJidy1KU1lRcTVTS0c0OGI5WENBZUlOeGNlQjVhTWVyOFRNaFAwVXlEVlQzY0dudFZyd1Npem5wT19sd1lEYWpQM0ZjVDB1Vk8yWHQ5cml1UjhjSUNySU9wdjNHY1VFbVFScmpJNmFLSi1YTDliNGJuYWpreXNpdWJR?oc=5",
+        "date": "2026-09-30T14:06:00.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/wirtschaft/verbraucher/deutschlandticket-preis-110.html",
+    "agree": "Beide Quellen stimmen überein, dass der Preis für das Deutschlandticket ab Januar auf 66,80 Euro steigt.",
+    "diff": [
+      {
+        "name": "SWR Aktuell Baden-Württemberg",
+        "note": "Erwähnt zusätzlich, dass es vorab bereits deutliche Kritik an der neuen Preissteigerung gab."
+      },
+      {
+        "name": "Google News DE",
+        "note": "Verweist in der Überschrift auf tagesschau.de als ursprüngliche Quelle."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-0d2f4ae193183358",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-30T12:38:38.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Inflation in Deutschland steigt im September erstmals seit 2023 über drei Prozent",
+    "s": "Die Teuerung in Deutschland hat sich im September wieder verschärft. Nach vorläufigen Zahlen liegt die Inflation bei 3,3 Prozent. Damit steigt sie erstmals seit Ende 2023 wieder über die Drei-Prozent-Marke. Hintergrund ist unter anderem der Iran-Krieg.",
+    "m": "Die Inflation in Deutschland hat im September 2024 einen spürbaren Sprung gemacht und liegt nach vorläufigen Zahlen bei 3,3 Prozent. Dies ist der erste Wert über drei Prozent seit Ende des Jahres 2023. Als Hauptursache für die starke Verteuerung wird der Iran-Krieg genannt. Als mögliche Gegenmaßnahme oder kurzfristige Entlastung für Verbraucher ist ein neuer Tankrabatt im Gespräch, dessen Wirkung jedoch als nur von kurzer Dauer eingeschätzt wird. Konkrete Details zu den einzelnen Warenkörben oder regionalen Abweichungen nennen die Berichte nicht. Offen bleibt, wie lange die erhöhte Teuerung anhalten wird und ob weitere politische Maßnahmen folgen.",
+    "r": "Ein steigendes Inflationsniveau mindert die Kaufkraft der Verbraucher und beeinflusst die wirtschaftliche Entwicklung in Deutschland. Zudem zeigt sich hier die direkte Auswirkung internationaler Konflikte wie des Iran-Krieges auf die heimische Preisentwicklung.",
+    "srcs": [
+      {
+        "name": "t-online Wirtschaft",
+        "url": "https://www.t-online.de/finanzen/aktuelles/wirtschaft/id_101459876/inflation-in-deutschland-preise-steigen-erstmals-seit-2023-ueber-3-prozent.html",
+        "date": "2026-09-30T12:38:38.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/wirtschaft/inflation-in-deutschland-steigt-erstmals-seit-ende-2023-auf-ueber-drei-prozent-IWSIJB66WFDM3EN5YU4UBOHBAU.html",
+        "date": "2026-09-30T12:16:45.000Z"
+      }
+    ],
+    "url": "https://www.t-online.de/finanzen/aktuelles/wirtschaft/id_101459876/inflation-in-deutschland-preise-steigen-erstmals-seit-2023-ueber-3-prozent.html",
+    "agree": "Die Quellen sind sich einig, dass die Inflation in Deutschland im September erstmals seit Ende 2023 wieder über drei Prozent gestiegen ist.",
+    "diff": [
+      {
+        "name": "t-online Wirtschaft",
+        "note": "nennt die konkrete vorläufige Inflationsrate von 3,3 Prozent für den September."
+      },
+      {
+        "name": "RND",
+        "note": "führt den Iran-Krieg als Auslöser für die starke Verteuerung an und erwähnt einen neuen Tankrabatt als kurzfristige Entlastungsmaßnahme."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-457f0f28db487691",
     "c": "DE",
     "o": "DE",
@@ -206,13 +1107,13 @@
     "p": 3,
     "st": "BW",
     "city": "",
-    "t": "Insolvenzverfahren bei baden-württembergischem Windkraftpionier SOWITEC gestartet",
-    "s": "Für den baden-württembergischen Windkraftpionier SOWITEC ist das Insolvenzverfahren offiziell gestartet worden. Nach Angaben des Insolvenzverwalters haben sich bei dem Unternehmen rund 60 Millionen Euro Schulden angehäuft. Als Grund für die wirtschaftliche Schieflage wird unter anderem die starke Konkurrenz durch günstige Anbieter genannt.",
-    "m": "Das Insolvenzverfahren für den baden-württembergischen Windkraftpionier SOWITEC ist angelaufen und soll die finanzielle Situation des Unternehmens klären. Laut dem zuständigen Insolvenzverwalter stehen Verbindlichkeiten in Höhe von etwa 60 Millionen Euro zu Buche. In diesem Zusammenhang wird von den Verantwortlichen insbesondere der Druck durch internationale Konkurrenz kritisiert, wobei von fehlenden Chancen gegen sogenannte Billigheimer aus China gesprochen wird. Das Unternehmen, das bislang eine wichtige Rolle in der Windkraftbranche eingenommen hat, muss sich nun im Rahmen des Verfahrens neu aufstellen. Welche konkreten Auswirkungen dies auf laufende Projekte und die Arbeitsplätze vor Ort hat, ist derzeit noch Teil der Untersuchung. Die genauen Sanierungschancen oder Pläne für eine mögliche Fortführung des Betriebs hängen von den kommenden Schritten des Insolvenzverwalters ab.",
-    "r": "Die Pleite des Windkraftpioniers SOWITEC verdeutlicht die wirtschaftlichen Herausforderungen und den starken internationalen Konkurrenzdruck in der deutschen Erneuerbare-Energien-Branche. Die Bewältigung der 60 Millionen Euro Schulden ist nun entscheidend für die Zukunft des Unternehmens.",
+    "t": "Insolvenzverfahren beim Windkraftpionier SOWITEC gestartet",
+    "s": "Für den baden-württembergischen Windkraftpionier SOWITEC hat das Insolvenzverfahren begonnen. Nach Angaben des Insolvenzverwalters haben sich rund 60 Millionen Euro an Schulden angehäuft. Der Sektor leidet unter starker internationaler Konkurrenz, insbesondere aus China. Die genauen Zukunftsaussichten für das Unternehmen sind derzeit Gegenstand des Verfahrens.",
+    "m": "Das offizielle Insolvenzverfahren für den Windkraftpionier SOWITEC aus Baden-Württemberg wurde gestartet. Der zuständige Insolvenzverwalter beziffert die aufgelaufenen Schulden des Unternehmens auf rund 60 Millionen Euro. Das Unternehmen sieht sich in seiner wirtschaftlichen Existenz stark bedroht und begründet dies unter anderem mit der großen Konkurrenz durch günstige Anbieter aus China, denen man kaum etwas entgegensetzen könne. SOWITEC galt lange Zeit als Pionier in der Windkraftbranche, geriet jedoch in den vergangenen Jahren zunehmend in finanzielle Bedrängnis. Im Rahmen des nun laufenden Verfahrens wird geprüft, ob eine Sanierung des Unternehmens möglich ist oder welche Vermögenswerte zur Gläubigerbefriedigung zur Verfügung stehen. Weitere Details zur genauen Anzahl der betroffenen Mitarbeiter oder konkreten Schritten der kommenden Wochen wurden zunächst nicht bekannt gegeben.",
+    "r": "Die Insolvenz eines bekannten deutschen Windkraftpioniers verdeutlicht die wirtschaftlichen Schwierigkeiten der heimischen Branche im globalen Wettbewerb. Ein Schuldenstand von rund 60 Millionen Euro unterstreicht die Dimension der finanziellen Krise des Unternehmens.",
     "srcs": [
       {
-        "name": "SWR Aktuell",
+        "name": "SWR Aktuell Baden-Württemberg",
         "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/tuebingen/insolvenzverfahren-sowitec-gestartet-keine-chance-gegen-billigheimer-aus-china-100.html",
         "date": "2026-09-30T04:54:57.000Z"
       },
@@ -223,15 +1124,15 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/tuebingen/insolvenzverfahren-sowitec-gestartet-keine-chance-gegen-billigheimer-aus-china-100.html",
-    "agree": "Beide Quellen stimmen überein, dass das Insolvenzverfahren für den Windkraftpionier SOWITEC gestartet ist und sich rund 60 Millionen Euro Schulden angehäuft haben.",
+    "agree": "Beide Quellen stimmen darin überein, dass das Insolvenzverfahren für den baden-württembergischen Windkraftpionier SOWITEC gestartet wurde und sich die Schulden auf rund 60 Millionen Euro belaufen.",
     "diff": [
       {
-        "name": "SWR Aktuell",
-        "note": "Keine inhaltlichen Abweichungen zur Vergleichsquelle."
+        "name": "SWR Aktuell Baden-Württemberg",
+        "note": "Berichtet im Titel über die Einschätzung, dass keine Chance gegen Billigheimer aus China bestand."
       },
       {
         "name": "Tagesschau Regional Baden-Württemberg",
-        "note": "Keine inhaltlichen Abweichungen zur Vergleichsquelle."
+        "note": "Übernimmt wortgleich die Darstellung inklusive des Zitats zu den Billigheimern aus China im Titel."
       }
     ],
     "chg": "",
@@ -13095,394 +13996,6 @@
       {
         "name": "ZDF heute",
         "note": "Teilt mit, dass die Information zur Festnahme von der Staatsanwaltschaft Osnabrück stammt."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-57071d67c93064de",
-    "c": "INT",
-    "o": "UK",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-09-23T18:15:31.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Iranischer Präsident Pezeshkian schließt Kniefall vor US-Präsident Trump aus",
-    "s": "Der iranische Präsident Masoud Pezeshkian hat in einer Rede vor den Vereinten Nationen bekräftigt, dass sein Land sich niemals beugen werde. Diese Äußerung folgt auf eine Drohung des US-Präsidenten, Iran zu vernichten, sollte kein Friedensabkommen zustande kommen.",
-    "m": "Masoud Pezeshkian hielt eine defiant gehaltene Rede vor der UN. Darin reagierte er auf die Äußerungen des US-Präsidenten, der zuvor mit der Vernichtung Irans gedroht hatte, falls zeitnah kein Friedensabkommen vereinbart werde. Weitere Details zum zeitlichen Ablauf, konkreten Verhandlungsständen oder beteiligten internationalen Akteuren nennen die vorliegenden Berichte nicht. Es bleibt offen, wie sich die diplomatischen Beziehungen weiter entwickeln werden und ob vermittelnde Staaten eingreifen.",
-    "r": "Die verbalen Auseinandersetzungen zwischen den Führungspersönlichkeiten des Irans und der USA verdeutlichen die anhaltend extremen Spannungen im bilateralen Verhältnis. Solche Rhetorik beeinflusst direkt die globale Sicherheitslage und die Aussichten auf diplomatische Lösungen im Nahen Osten.",
-    "srcs": [
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-09-23T18:15:31.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DcVJwa0k3NWxvcVdabTVlTzFUM2MySkFjV2s0LW9tOXF6MlBteGk5TEFlbmJtbmcxeE5FU1ZOMFk1Z3IzMm5GNG5LV2psM1FZN3RGdHFzWUtyLTQ?oc=5",
-        "date": "2026-09-23T18:15:31.000Z"
-      }
-    ],
-    "url": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
-    "agree": "Die Quellen stimmen überein, dass Irans Präsident Trump mitgeteilt hat, dass sein Land niemals die Knie beugen wird.",
-    "diff": [
-      {
-        "name": "BBC World",
-        "note": "Berichtet über die defiante Rede des iranischen Präsidenten Masoud Pezeshkian vor der UN als Reaktion auf Trumps Vernichtungsdrohung."
-      },
-      {
-        "name": "Google News World",
-        "note": "Verweist lediglich auf den BBC-Artikel mit derselben Überschrift."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-b2dfaddc2ce8d465",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-09-23T16:10:25.000Z",
-    "p": 2,
-    "st": "BY",
-    "city": "",
-    "t": "Münchner Olympia-Konkurrent Berlin will Bewerbung zurückziehen",
-    "s": "Berlin ist offenbar aus dem Rennen: Die Entscheidung, welche Stadt deutscher Olympia-Kandidat wird, fällt am Samstag nur noch zwischen München und der Region Köln/Rhein-Ruhr. Laut Medienberichten zieht Berlin seine Bewerbung zurück.",
-    "m": "Berlin ist offenbar aus dem Rennen: Die Entscheidung, welche Stadt deutscher Olympia-Kandidat wird, fällt am Samstag nur noch zwischen München und der Region Köln/Rhein-Ruhr. Laut Medienberichten zieht Berlin seine Bewerbung zurück. Kurz vor der Entscheidung, wer für Deutschland ins Olympia-Rennen geht, will Berlin wohl seine Bewerbung zurückziehen. München und Köln bleiben im Rennen.",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
-    "srcs": [
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/sport/muenchner-olympia-konkurrent-berlin-will-bewerbung-zurueckziehen,VW3J924",
-        "date": "2026-09-23T16:10:25.000Z"
-      },
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/sport/olympia-bewerbung-deutschland-berlin-rueckzug-100.html",
-        "date": "2026-09-23T14:30:00.000Z"
-      }
-    ],
-    "url": "https://www.br.de/nachrichten/sport/muenchner-olympia-konkurrent-berlin-will-bewerbung-zurueckziehen,VW3J924",
-    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-77ac6ef5e99b174c",
-    "c": "INT",
-    "o": "PT",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-09-23T14:23:12.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Portugal verzeichnet im ersten Halbjahr Haushaltsüberschuss von 0,5 Prozent",
-    "s": "Das portugiesische Finanzministerium hat einen Haushaltsüberschuss von 0,5 Prozent des Bruttoinlandsprodukts für den Zeitraum bis Juni bekannt gegeben. Die Regierung hob hervor, dass diese Entwicklung nach einem schwierigen ersten Quartal gelungen sei und die Ausgaben unter Kontrolle seien. Grundlage für die Bekanntgabe sind aktuelle Zahlen des nationalen Statistikinstituts INE.",
-    "m": "Das portugiesische Finanzministerium hat am Mittwoch die neuesten Daten des Statistischen Instituts INE hervorgehoben und betont, dass die staatlichen Ausgaben unter Kontrolle sind. Laut dem INE wurde bis zum Monat Juni ein Haushaltsüberschuss von 0,5 Prozent des Bruttoinlandsprodukts (BIP) verzeichnet. Die Regierung kommentierte diese Entwicklung positiv und sprach von einem superavit nach einem sehr schwierigen ersten Jahresviertel. Konkrete Details zu den einzelnen Ausgabenbereichen oder konkreten Maßnahmen zur Haushaltskonsolidierung wurden in den Berichten nicht genannt. Auch über die genauen Auswirkungen auf die gesamtwirtschaftliche Lage oder kommende Prognosen machen die vorliegenden Berichte keine Angaben.",
-    "r": "Die Bekanntgabe des Haushaltsüberschusses zeigt den aktuellen budgetären Stand Portugals nach einem herausfordernden Jahresbeginn. Die offizielle Einschätzung zur Ausgabenkontrolle verdeutlicht die kurzfristige finanzpolitische Entwicklung des Staates.",
-    "srcs": [
-      {
-        "name": "RTP Economia",
-        "url": "https://www.rtp.pt/noticias/economia/despesa-esta-controlada-governo-destaca-superavit-de-05-apos-primeiro-trimestre-muito-dificil_n1767252",
-        "date": "2026-09-23T14:23:12.000Z"
-      },
-      {
-        "name": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMlFfYlBuSEhOZ2FyNnlobVFQS1c1RmhNOU5uT2VTVnpsWkJlMEl6RG40YUlBOWVSQS1tWEVCUk1fSmtITXI5cktmdUMtWTd0a0NYQ2xWTGp0NXRLRFUyd09LMWl1dG1SNHRVSV84d0lLT1RtUFlXU1dkRXpRQnY5MXpNalpsQTRrbHJuSDBQakh6QjlrYkp1c21mOGxFcU9QT2kzYXlRWmpZVEhQcXZUZ1ZRQUtMTnRIemhXMkdiMmh4X1d3azJCX2lUMmFCM2N4T3UzTEtB?oc=5",
-        "date": "2026-09-23T13:57:22.000Z"
-      }
-    ],
-    "url": "https://www.rtp.pt/noticias/economia/despesa-esta-controlada-governo-destaca-superavit-de-05-apos-primeiro-trimestre-muito-dificil_n1767252",
-    "agree": "Beide Quellen stimmen überein, dass die portugiesische Regierung einen Haushaltsüberschuss von 0,5 Prozent und eine Kontrolle der Ausgaben nach einem schwierigen ersten Quartal hervorgehoben hat.",
-    "diff": [
-      {
-        "name": "Google News Portugal",
-        "note": "Die Quelle verlinkt lediglich auf den entsprechenden Artikel von RTP und führt den Titel des RTP-Berichts auf."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-facb67ec64fc1e55",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-09-23T12:49:58.000Z",
-    "p": 3,
-    "st": "RP",
-    "city": "",
-    "t": "Schiersteiner Brücke auf A643 in Richtung Frankfurt voll gesperrt",
-    "s": "Auf der Schiersteiner Brücke ist ein Teilstück in Richtung Frankfurt seit Mittwochmittag für den Verkehr gesperrt. Die Autobahn GmbH hat diese Maßnahme veranlasst. Betroffen ist der Bereich vor beziehungsweise am Autobahnkreuz Schierstein. Autofahrer müssen sich auf Verkehrsbehinderungen einstellen.",
-    "m": "Die Autobahn GmbH hat am Mittwochmittag eine Vollsperrung für den Verkehr in Richtung Frankfurt auf der Schiersteiner Brücke eingerichtet. Grund für die Sperrung sind akute Schäden an dem betroffenen Bauwerk. Die Maßnahme betrifft einen Teilabschnitt der Autobahn 643. Zu den genauen Hintergründen der Schäden und zur voraussichtlichen Dauer der Sperrung liegen derzeit noch keine offiziellen Angaben vor. Verkehrsteilnehmer werden gebeten, den Bereich weiträumig zu umfahren. Es kommt im Berufs- und Nahverkehr zu erheblichen Beeinträchtigungen. Weitere Untersuchungen der Autobahn GmbH sollen Aufschluss über die Schwere der Mängel und die notwendigen Instandsetzungsarbeiten geben.",
-    "r": "Sperrungen wichtiger Verkehrswege wie der Schiersteiner Brücke haben direkte Auswirkungen auf den regionalen Pendlerverkehr und den Wirtschaftsraum. Die Instandsetzung beschädigter Brückeninfrastruktur ist entscheidend für die Verkehrssicherheit.",
-    "srcs": [
-      {
-        "name": "SWR Aktuell",
-        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/mainz/schiersteiner-bruecke-wegen-schaeden-in-richtung-frankfurt-gesperrt-100.html",
-        "date": "2026-09-23T12:49:58.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Rheinland-Pfalz",
-        "url": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-a643-schiersteiner-bruecke-in-richtung-frankfurt-wegen-schaeden-gesperrt-100.html",
-        "date": "2026-09-23T11:45:20.000Z"
-      }
-    ],
-    "url": "https://www.swr.de/swraktuell/rheinland-pfalz/mainz/schiersteiner-bruecke-wegen-schaeden-in-richtung-frankfurt-gesperrt-100.html",
-    "agree": "Beide Quellen stimmen überein, dass die A643 auf der Schiersteiner Brücke in Richtung Frankfurt seit Mittwochmittag von der Autobahn GmbH gesperrt wurde.",
-    "diff": [
-      {
-        "name": "SWR Aktuell",
-        "note": "Benennt den gesperrten Abschnitt genauer zwischen Wiesbaden-Äppelallee und Autobahnkreuz Schierstein."
-      },
-      {
-        "name": "Tagesschau Regional Rheinland-Pfalz",
-        "note": "Nennt als Grund für die Sperrung explizit Schäden und grenzt den Abschnitt zwischen Rheinbrücke Schierstein und Autobahnkreuz Schierstein ein."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-36539fc6a864e67f",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-09-23T12:47:39.000Z",
-    "p": 2,
-    "st": "BW",
-    "city": "",
-    "t": "Landgericht Karlsruhe verhandelt über Online-Medikamentenverkauf von dm",
-    "s": "Die Karlsruher Drogeriemarktkette dm bietet möglicherweise bald apothekenpflichtige Arzneimittel über ihre Internetseite zum Verkauf an. Ob dies zulässig ist, muss derzeit gerichtlich geklärt werden. Das Landgericht Karlsruhe wird in dieser Sache ein Urteil fällen.",
-    "m": "Im Zentrum des Rechtsstreits steht die Frage, ob die Drogeriemarktkette dm apothekenpflichtige Medikamente auf ihrer Website vertreiben darf. Bisher ist unklar, wie das Gericht entscheiden wird, da der Ausgang des Verfahrens offen ist. Ein konkreter Termin für die Verkündung des Urteils wurde bereits auf den kommenden Dezember angesetzt. Der Fall hat grundsätzliche Bedeutung für den Online-Vertrieb von Arzneimitteln durch Drogeriemärkte in Deutschland und betrifft die wettbewerbsrechtlichen Grenzen des apothekenpflichtigen Sortiments. Weitere Details zum genauen Kläger oder den beteiligten Verbänden gehen aus den vorliegenden Berichten nicht hervor. Die Entscheidung könnte jedoch weitreichende Folgen für den digitalen Handel mit Gesundheitsprodukten haben.",
-    "r": "Die rechtliche Klärung des Online-Vertriebs von apothekenpflichtigen Arzneimitteln durch große Drogeriemärkte hat hohe Relevanz für den deutschen Handels- und Gesundheitssektor. Das anstehende Urteil könnte den Markt für apothekenpflichtige Medikamente im Internet nachhaltig beeinflussen.",
-    "srcs": [
-      {
-        "name": "SWR Aktuell Baden-Württemberg",
-        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/wettbewerbszentrale-klagt-gegen-dm-wegen-medikamenten-online-verkauf-100.html",
-        "date": "2026-09-23T12:47:39.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Baden-Württemberg",
-        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-verhandlung-in-karlsruhe-darf-dm-online-medikamente-verkaufen-100.html",
-        "date": "2026-09-23T04:46:03.000Z"
-      }
-    ],
-    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/wettbewerbszentrale-klagt-gegen-dm-wegen-medikamenten-online-verkauf-100.html",
-    "agree": "Beide Quellen stimmen darin überein, dass das Landgericht Karlsruhe darüber entscheiden muss, ob die Drogeriemarktkette dm apothekenpflichtige Arzneimittel online verkaufen darf.",
-    "diff": [
-      {
-        "name": "SWR Aktuell Baden-Württemberg",
-        "note": "nennt explizit das Datum des Urteils im Dezember."
-      },
-      {
-        "name": "Tagesschau Regional Baden-Württemberg",
-        "note": "bezeichnet den Vorgang im Titel als Verhandlung in Karlsruhe."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-67a87aa3f99f031a",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-09-23T12:22:17.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Kabinett beschließt Aktionsplan gegen Sozialbetrug und Ausbeutung",
-    "s": "Die Bundesregierung hat einen neuen Aktionsplan zur Bekämpfung von Sozialleistungsmissbrauch und Ausbeutung beschlossen. Ziel der Maßnahme ist es, gezielt Schlupflöcher im deutschen Sozialstaat zu schließen. Konkret sollen unter anderem Personen, die per Haftbefehl gesucht werden, von Sozialleistungen ausgeschlossen werden. Der Bundesinnenminister hat entsprechende Vorstöße im Rahmen dieser neuen Initiative bekräftigt.",
-    "m": "Der beschlossene Aktionsplan der Bundesregierung soll laut Berichten von DIE ZEIT und ZEIT ONLINE dazu dienen, den Missbrauch von Sozialleistungen sowie die Ausbeutung von Betroffenen wirksam zu bekämpfen. Im Zentrum der Maßnahmen steht das Schließen von bisherigen Schlupflöchern im Sozialstaat. Ein besonders konkreter Punkt betrifft Personen, gegen die ein gültiger Haftbefehl vorliegt: Diese sollen künftig keine Sozialleistungen mehr beziehen dürfen. Bundesinnenminister Dobrindt hat diese Haltung und den Vorstoß öffentlich bekräftigt. Der Plan bündelt verschiedene gesetzgeberische und administrative Schritte, um den Kontrolldruck zu erhöhen und unberechtigte Zahlungen zu verhindern. Weitere Details zum genauen zeitlichen Ablauf der Umsetzung sowie zur beteiligten Koordination wurden in den vorliegenden Auszügen noch nicht abschließend beziffert.",
-    "r": "Die Maßnahme betrifft direkt die Vergabe staatlicher Finanzmittel und den Kreis der Leistungsberechtigten im deutschen Sozialsystem. Durch den Ausschluss von Personen mit Haftbefehl und die Schließung von Schlupflöchern hat der Beschluss unmittelbare Auswirkungen auf die innere Verwaltung und die Sicherheitsbehörden.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQV0Y0QkZQVGhhOXFoV283blpvYjY0TldCTFpVY0pMYWIyOUxNcURZdzR4dUdTNElnbU1DNDVFaEhKNTFYQWt2dVNrTlJIcDdnMENnSXJuZ2N0ZmplcHJFdXlLQVY3Z3J6Y1NKX1QzaWwxY0VaV2pILVlJa2JwZHhNYTZSdWxXNTFIR3g2SWwxd0dsMDZjRm9RTE82cUhKM3hTU25mWU13VjdmV21FZTB2XzFrTHpZN1BhR0FLak9QMldia3Y5TlNudlc1Qlk?oc=5",
-        "date": "2026-09-23T12:22:17.000Z"
-      },
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/politik/deutschland/2026-09/sozialleistungsmissbrauch-ausbeutung-migranten-schrottimmobilien-bundesregierung-gxe",
-        "date": "2026-09-23T12:22:17.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQV0Y0QkZQVGhhOXFoV283blpvYjY0TldCTFpVY0pMYWIyOUxNcURZdzR4dUdTNElnbU1DNDVFaEhKNTFYQWt2dVNrTlJIcDdnMENnSXJuZ2N0ZmplcHJFdXlLQVY3Z3J6Y1NKX1QzaWwxY0VaV2pILVlJa2JwZHhNYTZSdWxXNTFIR3g2SWwxd0dsMDZjRm9RTE82cUhKM3hTU25mWU13VjdmV21FZTB2XzFrTHpZN1BhR0FLak9QMldia3Y5TlNudlc1Qlk?oc=5",
-    "agree": "Die Quellen sind sich einig, dass das Kabinett einen Aktionsplan gegen Sozialbetrug und Ausbeutung beschlossen hat und dabei Schlupflöcher im Sozialstaat geschlossen werden sollen.",
-    "diff": [
-      {
-        "name": "ZEIT ONLINE",
-        "note": "Erwähnt konkret die Aussage von Innenminister Dobrindt, dass per Haftbefehl gesuchte Personen keine Sozialleistungen beziehen dürfen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-285c0d89b66b7430",
-    "c": "INT",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-09-23T09:43:18.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "USA prüfen Exportstopp für Diesel wegen hoher Spritpreise",
-    "s": "Angesichts stark gestiegener Treibstoffpreise prüfen die USA einen Exportstopp für Diesel.US-Präsident Trump hat sich für diese Maßnahme ausgesprochen. Ein solcher Schritt wurde zuletzt während der Ölkrise in den 1970er-Jahren angewandt.",
-    "m": "Die US-Regierung reagiert damit auf die Folgen des Irankriegs, die zu drastisch höheren Spritpreisen geführt haben. Ein möglicher Exportstopp soll dazu dienen, das Angebot im Inland zu sichern und die Preise für Verbraucher zu dämpfen. Bislang handelt es sich um eine Prüfung der Maßnahme, wobei US-Präsident Trump bereits seine Unterstützung geäußert hat. Historisch gesehen gab es eine vergleichbare Intervention zuletzt in den 1970er-Jahren während der globalen Ölkrise. Offen ist derzeit noch, wann genau eine endgültige Entscheidung getroffen wird und wie hart der genaue Zeitpunkt des Eingriffs ausfallen könnte.",
-    "r": "Die Erwägung eines US-Exportstopps für Diesel ist ein drastischer Eingriff in den globalen Kraftstoffmarkt und hat direkte Auswirkungen auf die internationalen Spritpreise. Die Maßnahme verdeutlicht die wirtschaftlichen und politischen Druckpunkte, die durch den Konflikt im Iran und die Energiekrise entstehen.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/usa-pruefen-wegen-hoher-spritpreise-exportstopp-fuer-diesel-massnahme-zuletzt-waehrend-oelkrise-in-d-100.html",
-        "date": "2026-09-23T09:43:18.000Z"
-      },
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-diskussion-exportstopp-diesel-100.html",
-        "date": "2026-09-23T06:22:27.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/usa-pruefen-wegen-hoher-spritpreise-exportstopp-fuer-diesel-massnahme-zuletzt-waehrend-oelkrise-in-d-100.html",
-    "agree": "Die Quellen stimmen darin überein, dass die USA angesichts hoher Spritpreise einen Exportstopp für Diesel prüfen und dies zuletzt in den 1970er-Jahren während der Ölkrise geschah.",
-    "diff": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "note": "nennt zusätzlich den Irankrieg als Auslöser der Situation."
-      },
-      {
-        "name": "Tagesschau",
-        "note": "erwähnt explizit, dass sich US-Präsident Trump für den Diesel-Exportstopp ausgesprochen hat."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-e4e1a53d7ad6dc84",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-09-23T09:43:18.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "ADAC fordert Abschaffung der 12-Uhr-Regel an Tankstellen",
-    "s": "Der ADAC spricht sich für die Aufhebung der 12-Uhr-Regel an deutschen Tankstellen aus. Nach Ansicht des Automobilclubs hat die Regelung das Tanken für die Verbraucher nicht günstiger gemacht. Stattdessen werden Autofahrer durch die Vorschrift belastet. Die Forderung nach einem Ende der Regel stößt auch außerhalb des ADAC auf Kritik.",
-    "m": "Die bestehende Regelung an Tankstellen, die als 12-Uhr-Regel bekannt ist, steht in der Kritik des ADAC. Der Automobilclub fordert nun offiziell die Abschaffung dieser Regelung. Entgegen der ursprünglichen Absicht hat die Maßnahme nicht zu günstigeren Preisen für die Verbraucher geführt. Vielmehr hat sie laut ADAC zu zusätzlichen Belastungen für die Autofahrer geführt. Die Kritik an der aktuellen Regelung wird neben dem ADAC auch von weiteren Seiten geäußert. Bislang sind keine konkreten politischen Schritte oder Reaktionen der Tankstellenbetreiber auf die Forderung bekannt.",
-    "r": "Die Forderung eines großen Automobilclubs nach Änderungen bei der Preisregulierung an Tankstellen betrifft Millionen Autofahrer direkt. Eine Abschaffung der Regel könnte spürbare Auswirkungen auf das tägliche Tankverhalten und die Preisgestaltung haben.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/adac-fordert-abschaffung-der-12-uhr-regel-an-tankstellen-100.html",
-        "date": "2026-09-23T09:43:18.000Z"
-      },
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/wirtschaft/adac-benzin-tankstelle-12-uhr-regel-spritpreis-100.html",
-        "date": "2026-09-23T06:24:00.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/adac-fordert-abschaffung-der-12-uhr-regel-an-tankstellen-100.html",
-    "agree": "Beide Quellen stimmen überein, dass der ADAC die Abschaffung der 12-Uhr-Regel an Tankstellen fordert.",
-    "diff": [
-      {
-        "name": "ZDF heute",
-        "note": "ergänzt, dass die Regel das Tanken nicht billiger gemacht und Verbraucher belastet habe sowie dass nicht nur der ADAC Kritik übt."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-1b27731585100aac",
-    "c": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-09-23T09:37:37.000Z",
-    "p": 2,
-    "st": "BE",
-    "city": "",
-    "t": "Berliner Polizei geht gegen illegalen Schusswaffenhandel vor",
-    "s": "Im Zuge von Ermittlungen im Milieu der Organisierten Kriminalität hat die Berliner Polizei im Stadtgebiet mehrere Wohnungen und Lokale durchsucht. Bei den Razzien wurden mehrere Personen festgenommen. Zudem stellten die Einsatzkräfte Schusswaffen sowie Munition sicher.",
-    "m": "Die Razzien fanden im Rahmen von gezielten Ermittlungen wegen illegalen Schusswaffenhandels statt. Die Berliner Polizei war im gesamten Stadtgebiet im Einsatz, um Strukturen der Organisierten Kriminalität zu treffen. Bei den Durchsuchungen von Wohnungen und Lokalen klickten für mehrere Tatverdächtige die Handschellen. Die Ermittler konnten im Laufe der Aktion unter anderem scharfe Schusswaffen und dazugehörige Munition sicherstellen. Die genaue Zahl der Festgenommenen sowie weitere Details zu den Hintergründen der beschlagnahmten Waffen und möglichen Komplizen sind Gegenstand der laufenden polizeilichen Ermittlungen.",
-    "r": "Das Vorgehen der Berliner Polizei verdeutlicht anhaltende Anstrengungen zur Bekämpfung der Organisierten Kriminalität und des illegalen Waffenhandels in der Hauptstadt. Die Sicherstellung von Schusswaffen und Festnahmen zeigen konkrete behördliche Maßnahmen gegen diese Form der Kriminalität.",
-    "srcs": [
-      {
-        "name": "Tagesschau Regional Berlin",
-        "url": "https://www.tagesschau.de/inland/regional/berlin/berlin-schusswaffenhandel-durchsuchungen-100.html",
-        "date": "2026-09-23T09:37:37.000Z"
-      },
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-09/razzia-berlin-illegaler-waffenhandel-schusswaffen-organisierte-kriminalitaet-polizei-gxe",
-        "date": "2026-09-23T08:39:22.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/regional/berlin/berlin-schusswaffenhandel-durchsuchungen-100.html",
-    "agree": "Beide Quellen berichten übereinstimmend über Razzien der Berliner Polizei im Zusammenhang mit illegalem Schusswaffenhandel, bei denen es mehrere Festnahmen und Sicherstellungen von Schusswaffen gab.",
-    "diff": [
-      {
-        "name": "Tagesschau Regional Berlin",
-        "note": "Berichtet zusätzlich, dass auch Munition sichergestellt wurde."
-      },
-      {
-        "name": "ZEIT ONLINE",
-        "note": "Konkretisiert die Anzahl der sichergestellten Waffen auf zwei scharfe Schusswaffen und ordnet die Razzien ausdrücklich dem Umfeld der Organisierten Kriminalität zu."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-bae66cf224d1154b",
-    "c": "INT",
-    "o": "PT",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-09-23T09:24:29.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "OECD prognostiziert weltweites Wirtschaftswachstum von 2,9 Prozent für dieses Jahr",
-    "s": "Die Organisation für wirtschaftliche Zusammenarbeit und Entwicklung hat ihre aktuellen Aussichten für die Weltwirtschaft veröffentlicht. Demnach wird für das laufende Jahr ein weltweites Wirtschaftswachstum von 2,9 Prozent erwartet. Gleichzeitig wird für das Jahr 2027 mit einer schrittweisen Erholung gerechnet. Der Bericht zeigt jedoch auf, dass das globale Wirtschaftsumfeld weiterhin von verschiedenen Herausforderungen geprägt ist.",
-    "m": "Laut den vorliegenden Berichten prognostiziert die Organisation für wirtschaftliche Zusammenarbeit und Entwicklung für das laufende Jahr ein globales Wirtschaftswachstum von 2,9 Prozent. Für das Jahr 2027 wird eine graduelle Erholung der Weltwirtschaft in Aussicht gestellt. Dennoch warnt die Institution vor anhaltenden und signifikanten Risiken, die die wirtschaftliche Entwicklung belasten können. Zu den wichtigsten Risikofaktoren zählen die Situation im Energiebereich, die Entwicklung der Inflation sowie die allgemeinen finanziellen Bedingungen. Darüber hinaus werden extreme Wetterereignisse und die Dynamik bei Investitionen im Bereich der künstlichen Intelligenz als maßgebliche Einflussfaktoren genannt. Genauere Details zum zeitlichen Ablauf oder weiteren beteiligten Akteuren nennen die verfügbaren Quellen derzeit nicht.",
-    "r": "Die Einschätzungen der OECD geben Aufschluss über die Verfassung und die Risiken der globalen Wirtschaft. Die Prognosen sind relevant für wirtschaftspolitische Entscheidungen und globale Marktentwicklungen.",
-    "srcs": [
-      {
-        "name": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLTlSV0pCbzBsMlFHbWhIRXUzNFhlUktZQlhPMmFvOEFUTzgwMmEtVUZNdlpUdnhQVGt4MnlIUU1sV2w1NHlwWTRhcnpIVTRCTGp0TjJHbktMSmlJejdmQUNmVGlMRk5rR1Y5SF9qbU5uRGlPWjhJTVdERURPT1ZmRTZ4TGQtczNqSmlWUi1QaGJUN3E2VUhFZ2taMzRHWE9nc3RSNktoQ2E5Uk41aVdaRWFrVERNM09qNnVuOXZ4dm12bEZv?oc=5",
-        "date": "2026-09-23T09:24:29.000Z"
-      },
-      {
-        "name": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/economia/ocde-economia-mundial-deve-crescer-29-este-ano-e-ter-recuperacao-gradual-em-2027_n1767170",
-        "date": "2026-09-23T09:00:19.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLTlSV0pCbzBsMlFHbWhIRXUzNFhlUktZQlhPMmFvOEFUTzgwMmEtVUZNdlpUdnhQVGt4MnlIUU1sV2w1NHlwWTRhcnpIVTRCTGp0TjJHbktMSmlJejdmQUNmVGlMRk5rR1Y5SF9qbU5uRGlPWjhJTVdERURPT1ZmRTZ4TGQtczNqSmlWUi1QaGJUN3E2VUhFZ2taMzRHWE9nc3RSNktoQ2E5Uk41aVdaRWFrVERNM09qNnVuOXZ4dm12bEZv?oc=5",
-    "agree": "",
-    "diff": [
-      {
-        "name": "Google News Portugal",
-        "note": "Meldet den Titel und Verweis auf den Bericht von RTP mit der Angabe zum Wachstum von 2,9 Prozent und der schrittweisen Erholung im Jahr 2027."
-      },
-      {
-        "name": "RTP Notícias",
-        "note": "Berichtet ausführlich, dass die OECD neben dem Wachstum von 2,9 Prozent und der Erholung im Jahr 2027 vor signifikanten Risiken durch Energie, Inflation, finanzielle Bedingungen, extreme Wetterereignisse und KI-Investitionen warnt."
       }
     ],
     "chg": "",
