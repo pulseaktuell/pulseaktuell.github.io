@@ -1,591 +1,734 @@
 [
   {
-    "id": "story-173",
-    "topic": "panorama",
+    "id": "story-87",
+    "topic": "politik",
     "country": "DE",
     "stateHint": "",
-    "date": "2026-10-02T19:04:00.000Z",
+    "date": "2026-10-03T14:32:00.000Z",
     "sources": [
       {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTFRBeUduaWdaRHBod2N3UFEtYWRNLUttVnVvcWFzd1dQTnIzX1hkdkJqTjNBQmlfYVdOdjNzZlJvOVFKTndNZGUxb3doRTVTWFpIYmFaRGp6QzhTOFMzcERCZThtcWJfSzZLaWNxLUNOYWdjdXFGYlhrelJOLXZTSmp3eVhLZnZfRVZ3MjkxS2JwVFVJZTJFaW5nbjdQY3ZwY3hiRDFzY1ZHQk5vTU50cmlBcmhYNFJ3b0VIbmpvZ1lBdGViUEs5WTNTa3pURHFH?oc=5",
-        "date": "2026-10-02T19:04:00.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTFRBeUduaWdaRHBod2N3UFEtYWRNLUttVnVvcWFzd1dQTnIzX1hkdkJqTjNBQmlfYVdOdjNzZlJvOVFKTndNZGUxb3doRTVTWFpIYmFaRGp6QzhTOFMzcERCZThtcWJfSzZLaWNxLUNOYWdjdXFGYlhrelJOLXZTSmp3eVhLZnZfRVZ3MjkxS2JwVFVJZTJFaW5nbjdQY3ZwY3hiRDFzY1ZHQk5vTU50cmlBcmhYNFJ3b0VIbmpvZ1lBdGViUEs5WTNTa3pURHFH?oc=5\" target=\"_blank\">Coldmirror: YouTuberin empfindet »keine Liebe mehr« für Harry Potter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQWDlQWklBX21XVmozTUZrdVF0X1NRX2MwcHNjZ3lzMHFjWVBWcDBNOE1UQXpILXlRT09SMWhXcWZRTTlxbnpmeUZMMWFnUjUxczZTSmktRklUcnNZRWZWN29DazEyZHpvRXo0c1VDbk9xekpqVlFH",
-        "title": "Coldmirror: YouTuberin empfindet »keine Liebe mehr« für Harry Potter - Spiegel"
+        "source": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/deutschland/festakt-tag-deutsche-einheit-steinmeier-demokratie-100.html",
+        "date": "2026-10-03T14:32:00.000Z",
+        "snippet": "Mit dem Leitspruch \"Viele Stärken - ein Land\" findet in Bremen der Festakt zum Tag der Deutschen Einheit statt. Bundespräsident Steinmeier warnt vor extremistischen Kräften.",
+        "title": "Steinmeier: \"Geht um Selbstbehauptung der Demokratie\""
+      },
+      {
+        "source": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/inland/gesellschaft/einheitsfeier-steinmeier-100.html",
+        "date": "2026-10-03T12:45:01.000Z",
+        "snippet": "Bundespräsident Steinmeier hat den Tag der Deutschen Einheit für eine Warnung vor Extremismus genutzt. Beim Festakt forderte er dazu auf, die demokratischen Grundrechte zu verteid…",
+        "title": "\"Es geht um die Selbstbehauptung der Demokratie\""
+      },
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/inland/gesellschaft/einheitsfeier-steinmeier-100.html",
+        "date": "2026-10-03T12:29:08.000Z",
+        "snippet": "Bundespräsident Steinmeier hat den Tag der Deutschen Einheit für eine Warnung vor Extremismus genutzt. Beim Festakt forderte er dazu auf, die demokratischen Grundrechte zu verteidigen. Steinmeier scheidet im März aus dem Amt.",
+        "title": "Steinmeier: \"Es geht um die Selbstbehauptung der Demokratie\""
+      }
+    ],
+    "title": "Steinmeier: \"Geht um Selbstbehauptung der Demokratie\"",
+    "summary": "Steinmeier: \"Geht um Selbstbehauptung der Demokratie\" Mit dem Leitspruch \"Viele Stärken - ein Land\" findet in Bremen der Festakt zum Tag der Deutschen Einheit statt. Bundespräsident Steinmeier warnt vor extremistischen Kräften.\n\"Es geht um die Selbstbehauptung der Demokratie\" Bundespräsident Steinmeier hat den Tag der Deutschen Einheit für eine Warnung vor Extremismus genutzt. Beim Festakt forderte er dazu auf, die demokratischen Grundrechte zu verteid…\nSteinmeier: \"Es geht um die Selbstbehauptung der Demokratie\" Bundespräsident Steinmeier hat den Tag der Deutschen Einheit für eine Warnung vor Extremismus genutzt. Beim Festakt forderte er dazu auf, die demokratischen Grundrechte zu verteidigen. Steinmeier scheidet im März aus dem Amt."
+  },
+  {
+    "id": "story-17",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "NI",
+    "date": "2026-10-03T14:55:50.000Z",
+    "sources": [
+      {
+        "source": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-10/03/hannover-96-siegt-beim-debuet-von-sandro-wagner",
+        "date": "2026-10-03T14:55:50.000Z",
+        "snippet": "",
+        "title": "Testspiel: Hannover 96 siegt beim Debüt von Sandro Wagner"
+      },
+      {
+        "source": "Tagesschau Regional Niedersachsen",
+        "url": "https://www.ndr.de/sport/fussball/Zweite-Bundesliga-Hannover-96-Wagner-Verl,hannover-1288.html",
+        "date": "2026-10-03T13:45:45.000Z",
+        "snippet": "Im Testspiel gegen den Fußball-Drittligisten SC Verl feierte der Zweitligist aus Niedersachsen unter dem neuen Trainer einen 2:0-Sieg.",
+        "title": "Hannover 96 siegt beim Debüt von Trainer Sandro Wagner"
+      }
+    ],
+    "title": "Testspiel: Hannover 96 siegt beim Debüt von Sandro Wagner",
+    "summary": "Testspiel: Hannover 96 siegt beim Debüt von Sandro Wagner \nHannover 96 siegt beim Debüt von Trainer Sandro Wagner Im Testspiel gegen den Fußball-Drittligisten SC Verl feierte der Zweitligist aus Niedersachsen unter dem neuen Trainer einen 2:0-Sieg."
+  },
+  {
+    "id": "story-32",
+    "topic": "umwelt",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-03T14:48:26.000Z",
+    "sources": [
+      {
+        "source": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/menschenketten-in-vielen-staedten-fuer-gerechtigkeit-und-klima-100.html",
+        "date": "2026-10-03T14:48:26.000Z",
+        "snippet": "Unter dem Motto \"Es brennt!\" haben Aktivisten in mehreren Städten für einen stärkeren Umwelt- und Klimaschutz sowie eine gerechtere Politik demonstriert.",
+        "title": "Demonstrationen - Menschenketten in vielen Städten für Gerechtigkeit und Klima"
+      },
+      {
+        "source": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/menschenkette-umweltschutz-klimaschutz-politik-protest",
+        "date": "2026-10-03T14:27:34.000Z",
+        "snippet": "Unter dem Motto »Es brennt!« haben Tausende Menschen stärkeren Umweltschutz und eine gerechtere Politik gefordert. In mehr als 100 Städten bildeten sie Menschenketten.",
+        "title": "Klima und Gerechtigkeit: Demonstrierende fordern mit Menschenketten einen politischen Neuanfang"
+      }
+    ],
+    "title": "Demonstrationen - Menschenketten in vielen Städten für Gerechtigkeit und Klima",
+    "summary": "Demonstrationen - Menschenketten in vielen Städten für Gerechtigkeit und Klima Unter dem Motto \"Es brennt!\" haben Aktivisten in mehreren Städten für einen stärkeren Umwelt- und Klimaschutz sowie eine gerechtere Politik demonstriert.\nKlima und Gerechtigkeit: Demonstrierende fordern mit Menschenketten einen politischen Neuanfang Unter dem Motto »Es brennt!« haben Tausende Menschen stärkeren Umweltschutz und eine gerechtere Politik gefordert. In mehr als 100 Städten bildeten sie Menschenketten."
+  },
+  {
+    "id": "story-33",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-03T14:48:26.000Z",
+    "sources": [
+      {
+        "source": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/landesweit-demos-gegen-wohnungsnot-in-spanien-102.html",
+        "date": "2026-10-03T14:48:26.000Z",
+        "snippet": "In Spanien gehen wegen der Wohnungsnot im Land Tausende Menschen auf die Straßen.",
+        "title": "Regierung in der Krise - Landesweit Demos gegen Wohnungsnot in Spanien"
+      },
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/europa/proteste-wegen-wohnungsnot-in-spanien-gehen-weiter-100.html",
+        "date": "2026-10-03T14:22:55.000Z",
+        "snippet": "Nach dem Scheitern wichtiger Mietdekrete sind in Spanien viele Menschen auf die Straße gegangen. Veranstalter sprechen von 500.000 Teilnehmern allein in Madrid - die Regierung von 70.000. Derweil gibt es Spekulationen über Neuwahlen.",
+        "title": "Landesweit große Demos gegen Wohnungsnot in Spanien"
+      }
+    ],
+    "title": "Regierung in der Krise - Landesweit Demos gegen Wohnungsnot in Spanien",
+    "summary": "Regierung in der Krise - Landesweit Demos gegen Wohnungsnot in Spanien In Spanien gehen wegen der Wohnungsnot im Land Tausende Menschen auf die Straßen.\nLandesweit große Demos gegen Wohnungsnot in Spanien Nach dem Scheitern wichtiger Mietdekrete sind in Spanien viele Menschen auf die Straße gegangen. Veranstalter sprechen von 500.000 Teilnehmern allein in Madrid - die Regierung von 70.000. Derweil gibt es Spekulationen über Neuwahlen."
+  },
+  {
+    "id": "story-53",
+    "topic": "umwelt",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-03T14:48:26.000Z",
+    "sources": [
+      {
+        "source": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/nordkorea-feuert-erneut-ballistische-rakete-ab-132.html",
+        "date": "2026-10-03T14:48:26.000Z",
+        "snippet": "Nordkorea hat​ nach südkoreanischen und japanischen Angaben erneut eine ballistische Rakete ‌in Richtung ⁠des Meeres ⁠vor seiner Ostküste abgefeuert.",
+        "title": "Berichte - Nordkorea feuert erneut ballistische Rakete ab"
       },
       {
         "source": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/kultur/coldmirror-youtuberin-empfindet-keine-liebe-mehr-fuer-harry-potter-a-1e59345c-210e-44e6-8a91-2d018284fb56#ref=rss",
-        "date": "2026-10-02T19:04:00.000Z",
-        "snippet": "Die YouTuberin Coldmirror wurde ab 2006 berühmt mit Neusynchronisationen. Darunter der Millenial-Hit »Harry Potter und ein Stein«. Nun erzählt sie, wie sie sich von Harry distanziert hat.",
-        "title": "Coldmirror: YouTuberin empfindet »keine Liebe mehr« für Harry Potter"
-      },
-      {
-        "source": "stern",
-        "url": "https://www.stern.de/gesellschaft/regional/niedersachsen-bremen/youtuberin--coldmirror-hat--keine-liebe-mehr--fuer-harry-potter-38342684.html",
-        "date": "2026-10-02T18:18:52.000Z",
-        "snippet": "Mit ihren Harry-Potter-Parodien wurde Coldmirror bekannt. Inzwischen hat sich die YouTuberin von der magischen Welt distanziert – wegen der Autorin J. K. Rowling.",
-        "title": "YouTuberin: Coldmirror hat „keine Liebe mehr“ für Harry Potter"
+        "url": "https://www.spiegel.de/ausland/nordkorea-feuert-erneut-rakete-ab-a-d0eb004a-63ee-4b32-ba47-75978f37a551#ref=rss",
+        "date": "2026-10-03T09:38:00.000Z",
+        "snippet": "Pjöngjang hat ein weiteres Mal ein Geschoss in Richtung Meer befördert. Die Drohgebärde folgt wenige Tage nach einem Grenzzwischenfall mit südkoreanischen Soldaten.",
+        "title": "Nordkorea feuert erneut Rakete ab"
       }
     ],
-    "title": "Coldmirror: YouTuberin empfindet »keine Liebe mehr« für Harry Potter - Spiegel",
-    "summary": "Coldmirror: YouTuberin empfindet »keine Liebe mehr« für Harry Potter - Spiegel <ol><li><a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTFRBeUduaWdaRHBod2N3UFEtYWRNLUttVnVvcWFzd1dQTnIzX1hkdkJqTjNBQmlfYVdOdjNzZlJvOVFKTndNZGUxb3doRTVTWFpIYmFaRGp6QzhTOFMzcERCZThtcWJfSzZLaWNxLUNOYWdjdXFGYlhrelJOLXZTSmp3eVhLZnZfRVZ3MjkxS2JwVFVJZTJFaW5nbjdQY3ZwY3hiRDFzY1ZHQk5vTU50cmlBcmhYNFJ3b0VIbmpvZ1lBdGViUEs5WTNTa3pURHFH?oc=5\" target=\"_blank\">Coldmirror: YouTuberin empfindet »keine Liebe mehr« für Harry Potter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQWDlQWklBX21XVmozTUZrdVF0X1NRX2MwcHNjZ3lzMHFjWVBWcDBNOE1UQXpILXlRT09SMWhXcWZRTTlxbnpmeUZMMWFnUjUxczZTSmktRklUcnNZRWZWN29DazEyZHpvRXo0c1VDbk9xekpqVlFH\nColdmirror: YouTuberin empfindet »keine Liebe mehr« für Harry Potter Die YouTuberin Coldmirror wurde ab 2006 berühmt mit Neusynchronisationen. Darunter der Millenial-Hit »Harry Potter und ein Stein«. Nun erzählt sie, wie sie sich von Harry distanziert hat.\nYouTuberin: Coldmirror hat „keine Liebe mehr“ für Harry Potter Mit ihren Harry-Potter-Parodien wurde Coldmirror bekannt. Inzwischen hat sich die YouTuberin von der magischen Welt distanziert – wegen der Autorin J. K. Rowling."
+    "title": "Berichte - Nordkorea feuert erneut ballistische Rakete ab",
+    "summary": "Berichte - Nordkorea feuert erneut ballistische Rakete ab Nordkorea hat​ nach südkoreanischen und japanischen Angaben erneut eine ballistische Rakete ‌in Richtung ⁠des Meeres ⁠vor seiner Ostküste abgefeuert.\nNordkorea feuert erneut Rakete ab Pjöngjang hat ein weiteres Mal ein Geschoss in Richtung Meer befördert. Die Drohgebärde folgt wenige Tage nach einem Grenzzwischenfall mit südkoreanischen Soldaten."
   },
   {
-    "id": "story-518",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-02T15:35:39.000Z",
-    "sources": [
-      {
-        "source": "SWR Aktuell",
-        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/ludwigshafen/maedchen-bricht-waehrend-schulstunde-in-ludwigshafen-tot-zusammen-100.html",
-        "date": "2026-10-02T15:35:39.000Z",
-        "snippet": "Eine 16-jährige Schülerin ist in Ludwigshafen am Freitagvormittag während des Unterrichts zusammengebrochen. Obwohl sie sofort reanimiert wurde, starb die Jugendliche.",
-        "title": "Ludwigshafen: 16-jährige Schülerin bricht im Unterricht zusammen und stirbt"
-      },
-      {
-        "source": "t-online Panorama",
-        "url": "https://www.t-online.de/nachrichten/panorama/menschen-schicksale/id_101463626/ludwigshafen-16-jaehrige-schuelerin-kollabiert-im-unterricht-und-stirbt.html",
-        "date": "2026-10-02T13:42:19.000Z",
-        "snippet": "Schockierende Szenen am Vormittag in einer Schule in Rheinland-Pfalz: Eine Schülerin sackt plötzlich zusammen. Für die 16-Jährige kommt jede Hilfe zu spät.",
-        "title": "Ludwigshafen: 16-jährige Schülerin kollabiert im Unterricht und stirbt"
-      },
-      {
-        "source": "ntv",
-        "url": "https://www.n-tv.de/panorama/16-Jaehrige-bricht-im-Unterricht-zusammen-und-stirbt-id31374919.html",
-        "date": "2026-10-02T13:26:52.000Z",
-        "snippet": "In einer Schule in Ludwigshafen kommt es zu einem Unglück: Eine 16-jährige Schülerin bricht während des Unterrichts zusammen. Es wird sofort versucht, zu reanimieren - jedoch ohne Erfolg.",
-        "title": "Unglück in Ludwigshafen: 16-Jährige bricht im Unterricht zusammen und stirbt"
-      }
-    ],
-    "title": "Ludwigshafen: 16-jährige Schülerin bricht im Unterricht zusammen und stirbt",
-    "summary": "Ludwigshafen: 16-jährige Schülerin bricht im Unterricht zusammen und stirbt Eine 16-jährige Schülerin ist in Ludwigshafen am Freitagvormittag während des Unterrichts zusammengebrochen. Obwohl sie sofort reanimiert wurde, starb die Jugendliche.\nLudwigshafen: 16-jährige Schülerin kollabiert im Unterricht und stirbt Schockierende Szenen am Vormittag in einer Schule in Rheinland-Pfalz: Eine Schülerin sackt plötzlich zusammen. Für die 16-Jährige kommt jede Hilfe zu spät.\nUnglück in Ludwigshafen: 16-Jährige bricht im Unterricht zusammen und stirbt In einer Schule in Ludwigshafen kommt es zu einem Unglück: Eine 16-jährige Schülerin bricht während des Unterrichts zusammen. Es wird sofort versucht, zu reanimieren - jedoch ohne Erfolg."
-  },
-  {
-    "id": "story-13",
+    "id": "story-66",
     "topic": "sport",
     "country": "UK",
     "stateHint": "",
-    "date": "2026-10-02T20:49:39.000Z",
+    "date": "2026-10-03T14:45:03.000Z",
     "sources": [
       {
         "source": "Guardian Sport",
-        "url": "https://www.theguardian.com/football/live/2026/oct/02/france-v-italy-nations-league-football-live-score-updates",
-        "date": "2026-10-02T20:49:39.000Z",
-        "snippet": "<p>Alessandro Bastoni cancelled out Michael Olise’s goal to give Italy a precious point in Paris</p><p><strong>3 min </strong>A strong start from France, who have barely permitted Italy a kick.</p><p><strong>1 min </strong>Peep peep! France kick off from left to right as we watch.</p> <a href=\"https://www.theguardian.com/football/live/2026/oct/02/france-v-italy-nations-league-football-live-score-updates\">Continue reading...</a>",
-        "title": "France 1-1 Italy: Nations League football – live reaction"
+        "url": "https://www.theguardian.com/football/live/2026/oct/03/croatia-v-england-nations-league-football-live-score-updates",
+        "date": "2026-10-03T14:45:03.000Z",
+        "snippet": "<ul><li><p>Nations League updates, 5pm BST kick-off (6pm local)</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\">Get the Football Daily newsletter</a> | <a href=\"mailto:scott.murray@theguardian.com\">Mail Scott</a></p></li></ul><p><strong>England are coming off the back of an ultimately comfortable 2-0 win in Czechia.</strong> Relive that here and now, one, two, three.</p><p><strong>Today’s match is officially being played behind closed doors.</strong> Croatia are being punished for crowd trouble during a Nations League quarter-final against France. However, <a href=\"https:/",
+        "title": "Croatia v England: Nations League football – live"
       },
       {
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/sports/liveblog/2026/10/2/live-france-vs-italy-uefa-nations-league?traffic_source=rss",
-        "date": "2026-10-02T15:45:55.000Z",
+        "url": "https://www.aljazeera.com/sports/liveblog/2026/10/3/live-croatia-vs-england-uefa-nations-league?traffic_source=rss",
+        "date": "2026-10-03T13:01:40.000Z",
         "snippet": "Follow the updates, with build-up, predictions, team news and full match coverage, from our live text commentary stream.",
-        "title": "LIVE: France vs Italy – UEFA Nations League"
+        "title": "LIVE: Croatia vs England – UEFA Nations League"
       }
     ],
-    "title": "France 1-1 Italy: Nations League football – live reaction",
-    "summary": "France 1-1 Italy: Nations League football – live reaction <p>Alessandro Bastoni cancelled out Michael Olise’s goal to give Italy a precious point in Paris</p><p><strong>3 min </strong>A strong start from France, who have barely permitted Italy a kick.</p><p><strong>1 min </strong>Peep peep! France kick off from left to right as we watch.</p> <a href=\"https://www.theguardian.com/football/live/2026/oct/02/france-v-italy-nations-league-football-live-score-updates\">Continue reading...</a>\nLIVE: France vs Italy – UEFA Nations League Follow the updates, with build-up, predictions, team news and full match coverage, from our live text commentary stream."
+    "title": "Croatia v England: Nations League football – live",
+    "summary": "Croatia v England: Nations League football – live <ul><li><p>Nations League updates, 5pm BST kick-off (6pm local)</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\">Get the Football Daily newsletter</a> | <a href=\"mailto:scott.murray@theguardian.com\">Mail Scott</a></p></li></ul><p><strong>England are coming off the back of an ultimately comfortable 2-0 win in Czechia.</strong> Relive that here and now, one, two, three.</p><p><strong>Today’s match is officially being played behind closed doors.</strong> Croatia are being punished for crowd trouble during a Nations League quarter-final against France. However, <a href=\"https:/\nLIVE: Croatia vs England – UEFA Nations League Follow the updates, with build-up, predictions, team news and full match coverage, from our live text commentary stream."
   },
   {
-    "id": "story-26",
-    "topic": "panorama",
+    "id": "story-96",
+    "topic": "umwelt",
     "country": "DE",
     "stateHint": "",
-    "date": "2026-10-02T20:31:06.000Z",
+    "date": "2026-10-03T14:30:03.000Z",
     "sources": [
       {
-        "source": "RND",
-        "url": "https://www.rnd.de/panorama/hinrichtung-von-christa-pike-wohl-wegen-panne-bei-venenzugang-gescheitert-HPTVEOW4QJG2HPD6CB3T2ANC64.html",
-        "date": "2026-10-02T20:31:06.000Z",
-        "snippet": "Zweimal wird Christa Pike ein tödliches Mittel verabreicht - doch sie stirbt nicht. Der US-Bundesstaat Tennessee stoppt vorerst weitere Hinrichtungen. Jetzt werden neue Details bekannt.",
-        "title": "Hinrichtung von Christa Pike wohl wegen Panne bei Venenzugang gescheitert"
+        "source": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/inland/gesellschaft/menschenkette-klima-100.html",
+        "date": "2026-10-03T14:30:03.000Z",
+        "snippet": "In mehr als 100 Städten haben Tausende in Menschenketten für mehr Klimaschutz und Gerechtigkeit demonstriert. Die Aktion soll auf die Ursachen von Hitzetoten, Fluten und Waldbränd…",
+        "title": "Menschenketten für Gerechtigkeit und Klima"
       },
       {
-        "source": "Rheinische Post",
-        "url": "https://rp-online.de/panorama/ausland/tennessee-hinrichtung-wohl-wegen-panne-bei-venenzugang-gescheitert_aid-155869697",
-        "date": "2026-10-02T19:25:15.000Z",
-        "snippet": "Christa Pike sollte im US-Bundesstaat Tennessee durch die Giftspritze hingerichtet werden. Doch nach schweren Komplikationen wurde die Hinrichtung abgebrochen, Pike befand sich zuletzt in kritischem Zustand.",
-        "title": "Todesurteil in Tennessee: Hinrichtung wohl wegen Panne bei Venenzugang gescheitert"
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/inland/gesellschaft/menschenkette-klima-100.html",
+        "date": "2026-10-03T14:03:39.000Z",
+        "snippet": "In mehr als 100 Städten haben Tausende in Menschenketten für mehr Klimaschutz und Gerechtigkeit demonstriert. Die Aktion soll auf die Ursachen von Hitzetoten, Fluten und Waldbrände aufmerksam machen.",
+        "title": "Bundesweite Aktion: Menschenketten für Gerechtigkeit und Klima"
       }
     ],
-    "title": "Hinrichtung von Christa Pike wohl wegen Panne bei Venenzugang gescheitert",
-    "summary": "Hinrichtung von Christa Pike wohl wegen Panne bei Venenzugang gescheitert Zweimal wird Christa Pike ein tödliches Mittel verabreicht - doch sie stirbt nicht. Der US-Bundesstaat Tennessee stoppt vorerst weitere Hinrichtungen. Jetzt werden neue Details bekannt.\nTodesurteil in Tennessee: Hinrichtung wohl wegen Panne bei Venenzugang gescheitert Christa Pike sollte im US-Bundesstaat Tennessee durch die Giftspritze hingerichtet werden. Doch nach schweren Komplikationen wurde die Hinrichtung abgebrochen, Pike befand sich zuletzt in kritischem Zustand."
+    "title": "Menschenketten für Gerechtigkeit und Klima",
+    "summary": "Menschenketten für Gerechtigkeit und Klima In mehr als 100 Städten haben Tausende in Menschenketten für mehr Klimaschutz und Gerechtigkeit demonstriert. Die Aktion soll auf die Ursachen von Hitzetoten, Fluten und Waldbränd…\nBundesweite Aktion: Menschenketten für Gerechtigkeit und Klima In mehr als 100 Städten haben Tausende in Menschenketten für mehr Klimaschutz und Gerechtigkeit demonstriert. Die Aktion soll auf die Ursachen von Hitzetoten, Fluten und Waldbrände aufmerksam machen."
   },
   {
-    "id": "story-50",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-02T20:05:38.000Z",
-    "sources": [
-      {
-        "source": "RND",
-        "url": "https://www.rnd.de/wirtschaft/bayer-will-ueber-zwei-milliarden-dollar-in-us-werk-investieren-ECQ73ORSARFNFLJRLOTDQXSI2Q.html",
-        "date": "2026-10-02T20:05:38.000Z",
-        "snippet": "Bayer plant eine neue Produktionsstätte in Ohio und investiert dafür 2,2 Milliarden Dollar. Was der Konzern sich von dem Standort verspricht.",
-        "title": "Bayer will über zwei Milliarden Dollar in US-Werk investieren"
-      },
-      {
-        "source": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/news/2026-10/02/bayer-will-ueber-2-milliarden-dollar-in-us-werk-investieren",
-        "date": "2026-10-02T19:41:15.000Z",
-        "snippet": "",
-        "title": "Investitionen im Ausland: Bayer will über 2 Milliarden Dollar in US-Werk investieren"
-      }
-    ],
-    "title": "Bayer will über zwei Milliarden Dollar in US-Werk investieren",
-    "summary": "Bayer will über zwei Milliarden Dollar in US-Werk investieren Bayer plant eine neue Produktionsstätte in Ohio und investiert dafür 2,2 Milliarden Dollar. Was der Konzern sich von dem Standort verspricht.\nInvestitionen im Ausland: Bayer will über 2 Milliarden Dollar in US-Werk investieren "
-  },
-  {
-    "id": "story-104",
+    "id": "story-97",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
-    "date": "2026-10-02T19:11:04.000Z",
+    "date": "2026-10-03T14:30:02.000Z",
     "sources": [
       {
-        "source": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/macron-g7-geben-bis-zu-100-millionen-barrel-diesel-und-rohoel-frei-100.html",
-        "date": "2026-10-02T19:11:04.000Z",
-        "snippet": "Die G7-Staaten haben sich darauf verständigt, bis zu 100 Millionen Barrel Diesel und Rohöl aus ihren Reserven freizugeben. Wie Frankreichs Präsident Macron mitteilte, soll die Freigabe über einen Zeitraum von vier Monaten erfolgen, um die Energiemärkte zu entlasten. Damit reagierten die G7 auf eine Forderung Washingtons.",
-        "title": "Nach Druck der USA - Macron: G7 geben bis zu 100 Millionen Barrel Diesel und Rohöl frei"
+        "source": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/inland/regional/berlin/regierungsbildung-berlin-linke-gruene-spd-100.html",
+        "date": "2026-10-03T14:30:02.000Z",
+        "snippet": "Linke, Grüne und SPD in Berlin sind sich in Vorgesprächen zur Regierungsbildung nähergekommen. Kommende Woche werde man zu einem ersten Ergebnis kommen, erklärten sie. Als nächste…",
+        "title": "Linke, Grüne und SPD sehen \"gemeinsamen Weg\""
+      },
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/inland/regional/berlin/regierungsbildung-berlin-linke-gruene-spd-100.html",
+        "date": "2026-10-03T14:07:55.000Z",
+        "snippet": "Linke, Grüne und SPD in Berlin sind sich in Vorgesprächen zur Regierungsbildung nähergekommen. Kommende Woche werde man zu einem ersten Ergebnis kommen, erklärten sie. Als nächstes sollen dann Sondierungsgespräche beginnen.",
+        "title": "Nach Wahl in Berlin: Linke, Grüne und SPD sehen \"gemeinsamen Weg\""
+      }
+    ],
+    "title": "Linke, Grüne und SPD sehen \"gemeinsamen Weg\"",
+    "summary": "Linke, Grüne und SPD sehen \"gemeinsamen Weg\" Linke, Grüne und SPD in Berlin sind sich in Vorgesprächen zur Regierungsbildung nähergekommen. Kommende Woche werde man zu einem ersten Ergebnis kommen, erklärten sie. Als nächste…\nNach Wahl in Berlin: Linke, Grüne und SPD sehen \"gemeinsamen Weg\" Linke, Grüne und SPD in Berlin sind sich in Vorgesprächen zur Regierungsbildung nähergekommen. Kommende Woche werde man zu einem ersten Ergebnis kommen, erklärten sie. Als nächstes sollen dann Sondierungsgespräche beginnen."
+  },
+  {
+    "id": "story-99",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "NI",
+    "date": "2026-10-03T14:29:42.000Z",
+    "sources": [
+      {
+        "source": "stern",
+        "url": "https://www.stern.de/gesellschaft/regional/niedersachsen-bremen/strasse-stundenlang-gesperrt--fussgaengerin-von-auto-toedlich-verletzt-38344722.html",
+        "date": "2026-10-03T14:29:42.000Z",
+        "snippet": "Eine 52-Jährige überquert eine Straße. Doch laut Polizei passt sie offenbar nicht gut genug auf – das hat katastrophale Folgen.",
+        "title": "Straße stundenlang gesperrt: Fußgängerin von Auto tödlich verletzt"
+      },
+      {
+        "source": "Tagesschau Regional Niedersachsen",
+        "url": "https://www.tagesschau.de/inland/regional/niedersachsen/fussgaengerin-ueberquert-strasse-in-wiefelstede-toedlich-verletzt,wiefelstede-130.html",
+        "date": "2026-10-03T14:22:23.000Z",
+        "snippet": "Die 52-Jährige hatte laut Polizei offenbar ein Auto übersehen. Der Wagen erfasste die Fußgängerin. Sie starb.",
+        "title": "Fußgängerin überquert Straße in Wiefelstede - tödlich verletzt"
+      }
+    ],
+    "title": "Straße stundenlang gesperrt: Fußgängerin von Auto tödlich verletzt",
+    "summary": "Straße stundenlang gesperrt: Fußgängerin von Auto tödlich verletzt Eine 52-Jährige überquert eine Straße. Doch laut Polizei passt sie offenbar nicht gut genug auf – das hat katastrophale Folgen.\nFußgängerin überquert Straße in Wiefelstede - tödlich verletzt Die 52-Jährige hatte laut Polizei offenbar ein Auto übersehen. Der Wagen erfasste die Fußgängerin. Sie starb."
+  },
+  {
+    "id": "story-102",
+    "topic": "panorama",
+    "country": "UK",
+    "stateHint": "",
+    "date": "2026-10-03T14:27:33.000Z",
+    "sources": [
+      {
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-03T14:27:33.000Z",
+        "snippet": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
+        "title": "Flydubai co-pilot attacked captain with axe, UAE official says"
+      },
+      {
+        "source": "Euronews",
+        "url": "https://www.euronews.com/2026/10/03/uae-says-flydubai-co-pilot-attacked-captain-with-axe-in-terrorist-act",
+        "date": "2026-10-03T09:27:47.000Z",
+        "snippet": "The FlyDubai co-pilot who nearly crashed the Tel-Aviv bound flight is an Omani national named Hamam al-Hammami. He was barred from flying by Oman amid concerns he showed signs of extremist views. The incident threw the already hard-hit regional travel industry into crisis.",
+        "title": "UAE says FlyDubai co-pilot attacked captain with axe in 'terrorist' act"
+      }
+    ],
+    "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+    "summary": "Flydubai co-pilot attacked captain with axe, UAE official says The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.\nUAE says FlyDubai co-pilot attacked captain with axe in 'terrorist' act The FlyDubai co-pilot who nearly crashed the Tel-Aviv bound flight is an Omani national named Hamam al-Hammami. He was barred from flying by Oman amid concerns he showed signs of extremist views. The incident threw the already hard-hit regional travel industry into crisis."
+  },
+  {
+    "id": "story-109",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-03T14:19:00.000Z",
+    "sources": [
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/spanien-zehntausende-menschen-protestieren-gegen-wohnungsnot-a-d0aa2b52-268b-46f1-8018-8736827e4d2f#ref=rss",
+        "date": "2026-10-03T14:19:00.000Z",
+        "snippet": "Sie fordern besseren Mieterschutz und bezahlbaren Wohnraum: In Spanien sind erneut viele Menschen auf die Straße gegangen. Zuvor war die Regierung im Parlament mit zwei Dekreten gescheitert.",
+        "title": "Spanien: Zehntausende Menschen protestieren gegen Wohnungsnot"
+      },
+      {
+        "source": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/politik/ausland/zehntausende-menschen-demonstrieren-in-spanien-gegen-wohnungsnot-accg-201285602.html",
+        "date": "2026-10-03T14:02:35.000Z",
+        "snippet": "Nach dem Scheitern wichtiger Dekrete gehen viele Menschen in Spanien auf die Straßen. Sie fordern besseren Mieterschutz und bezahlbaren Wohnraum.",
+        "title": "Proteste in Spanien: Zehntausende Menschen demonstrieren gegen Wohnungsnot"
+      }
+    ],
+    "title": "Spanien: Zehntausende Menschen protestieren gegen Wohnungsnot",
+    "summary": "Spanien: Zehntausende Menschen protestieren gegen Wohnungsnot Sie fordern besseren Mieterschutz und bezahlbaren Wohnraum: In Spanien sind erneut viele Menschen auf die Straße gegangen. Zuvor war die Regierung im Parlament mit zwei Dekreten gescheitert.\nProteste in Spanien: Zehntausende Menschen demonstrieren gegen Wohnungsnot Nach dem Scheitern wichtiger Dekrete gehen viele Menschen in Spanien auf die Straßen. Sie fordern besseren Mieterschutz und bezahlbaren Wohnraum."
+  },
+  {
+    "id": "story-146",
+    "topic": "panorama",
+    "country": "INT",
+    "stateHint": "",
+    "date": "2026-10-03T13:54:00.000Z",
+    "sources": [
+      {
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdVNHdXBPajViWloyRlFBOWRPVDhGMEN4eklYb1A5bEtaWjVvZC1icWlWRFBkSG9JaUNuMUpFX2pjcmVQOEdLMVFyZC1mYmhETmQ0YUo5U3J4Zzg1enVESl9vVUpxNzVHTDY4THo3WmhRRHZRLUdIZmREdGNwUWxkOVZ4OEs5WlNmcXlFNQ?oc=5",
+        "date": "2026-10-03T13:54:00.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOdVNHdXBPajViWloyRlFBOWRPVDhGMEN4eklYb1A5bEtaWjVvZC1icWlWRFBkSG9JaUNuMUpFX2pjcmVQOEdLMVFyZC1mYmhETmQ0YUo5U3J4Zzg1enVESl9vVUpxNzVHTDY4THo3WmhRRHZRLUdIZmREdGNwUWxkOVZ4OEs5WlNmcXlFNQ?oc=5\" target=\"_blank\">They embraced the Fiat 500, the Vespa, even tuk-tuks. But will Romans draw the line at the golf cart?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+        "title": "They embraced the Fiat 500, the Vespa, even tuk-tuks. But will Romans draw the line at the golf cart? - The Guardian"
+      },
+      {
+        "source": "Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/03/rome-golf-cart-tours-crackdown-tourism",
+        "date": "2026-10-03T10:00:56.000Z",
+        "snippet": "<p>Authorities crack down on trade they says risks spiralling out of control – but operators say they are being targeted unfairly</p><p>On the edge of Piazza Navona, one of the grandest squares in central Rome, Barry and Linda, visitors from Texas in the US, stepped out of a golf cart. They planned to cross the square on foot, perhaps stopping to admire Lorenzo Bernini’s 17th-century Fountain of the Four Rivers, before being picked up by their driver at the opposite end.</p><p>The couple had already done a walking tour on day one of their trip, and had been so exasperated by a stifling three-hour shuffle along a corridor towards the Sistine Chapel on day two that by the third day they wanted",
+        "title": "They embraced the Fiat 500, the Vespa, even tuk-tuks. But will Romans draw the line at the golf cart?"
+      }
+    ],
+    "title": "They embraced the Fiat 500, the Vespa, even tuk-tuks. But will Romans draw the line at the golf cart? - The Guardian",
+    "summary": "They embraced the Fiat 500, the Vespa, even tuk-tuks. But will Romans draw the line at the golf cart? - The Guardian <a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOdVNHdXBPajViWloyRlFBOWRPVDhGMEN4eklYb1A5bEtaWjVvZC1icWlWRFBkSG9JaUNuMUpFX2pjcmVQOEdLMVFyZC1mYmhETmQ0YUo5U3J4Zzg1enVESl9vVUpxNzVHTDY4THo3WmhRRHZRLUdIZmREdGNwUWxkOVZ4OEs5WlNmcXlFNQ?oc=5\" target=\"_blank\">They embraced the Fiat 500, the Vespa, even tuk-tuks. But will Romans draw the line at the golf cart?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>\nThey embraced the Fiat 500, the Vespa, even tuk-tuks. But will Romans draw the line at the golf cart? <p>Authorities crack down on trade they says risks spiralling out of control – but operators say they are being targeted unfairly</p><p>On the edge of Piazza Navona, one of the grandest squares in central Rome, Barry and Linda, visitors from Texas in the US, stepped out of a golf cart. They planned to cross the square on foot, perhaps stopping to admire Lorenzo Bernini’s 17th-century Fountain of the Four Rivers, before being picked up by their driver at the opposite end.</p><p>The couple had already done a walking tour on day one of their trip, and had been so exasperated by a stifling three-hour shuffle along a corridor towards the Sistine Chapel on day two that by the third day they wanted"
+  },
+  {
+    "id": "story-180",
+    "topic": "sport",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-03T13:21:00.000Z",
+    "sources": [
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaUwzeVl3RG5HT193RTVPT1gzS3hQdHBUQTZrV1JpQmVaWTNFQmhHZ0txbnVaeEp4ejQ3bjJwYlBISFlRRFl6VUI1NE94WW5USkFlR0ExcFJJSkRqWDljRHQ5eVZEUXRyaThPb2VnOFQ5Z2RFMTE0R2ktWjUwX3NPZG5rLS1zYnVCZVBoclpxNFdZWWFiWHhjQ1lHNWpZT3FHQ3hrb3dnTC1HSl9zeUxtUTVLSDB0YnI1ZFNFb3dzNWdjX3VYUjJ2N3ZQVHJ5Y25qa1pIUHY2Yy1NYVUwLV9tQnZPT21aWjBmekNQME5fOA?oc=5",
+        "date": "2026-10-03T13:21:00.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaUwzeVl3RG5HT193RTVPT1gzS3hQdHBUQTZrV1JpQmVaWTNFQmhHZ0txbnVaeEp4ejQ3bjJwYlBISFlRRFl6VUI1NE94WW5USkFlR0ExcFJJSkRqWDljRHQ5eVZEUXRyaThPb2VnOFQ5Z2RFMTE0R2ktWjUwX3NPZG5rLS1zYnVCZVBoclpxNFdZWWFiWHhjQ1lHNWpZT3FHQ3hrb3dnTC1HSl9zeUxtUTVLSDB0YnI1ZFNFb3dzNWdjX3VYUjJ2N3ZQVHJ5Y25qa1pIUHY2Yy1NYVUwLV9tQnZPT21aWjBmekNQME5fOA?oc=5\" target=\"_blank\">Tennisturnier in Peking: Zverev trifft im Viertelfinale auf Djokovic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">spiegel.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0FoMjd2elhZWVZkbUkxOW5UYm01eWhxeFpuY1RWdnpNTGt6alZKWW1ZVUtOZTB0NlduLTdCcDloN0E2dFRac1l2VXBsU3F5MENJdGd",
+        "title": "Tennisturnier in Peking: Zverev trifft im Viertelfinale auf Djokovic - spiegel.de"
       },
       {
         "source": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/wirtschaft/diesel-und-rohoel-g7-geben-bis-zu-100-millionen-barrel-frei-a-c0ef3afe-2923-476c-9732-87300e24ae4b#ref=rss",
-        "date": "2026-10-02T14:31:00.000Z",
-        "snippet": "Donald Trump hat Europa zur Freigabe strategischer Dieselreserven gedrängt, um die Spritpreise zu senken. Nun sagen die G7 tatsächlich bis zu 100 Millionen Barrel Diesel und Rohöl zu.",
-        "title": "Diesel und Rohöl: G7 geben »bis zu 100 Millionen Barrel« frei"
+        "url": "https://www.spiegel.de/sport/tennis/tennisturnier-in-peking-alexander-zverev-trifft-im-viertelfinale-auf-novak-djokovic-a-203c6584-8c42-4edc-ac4c-61c09338953f#ref=rss",
+        "date": "2026-10-03T13:21:00.000Z",
+        "snippet": "In nur 55 Minuten stürmt Alexander Zverev beim ATP-Turnier in Chinas Hauptstadt in die Runde der besten Acht. Dort wartet mit Altmeister Djokovic ein härterer Gegner. Einem besonderen Ziel kommt der Deutsche aber immer näher.",
+        "title": "Tennisturnier in Peking: Alexander Zverev trifft im Viertelfinale auf Novak Djokovic"
       }
     ],
-    "title": "Nach Druck der USA - Macron: G7 geben bis zu 100 Millionen Barrel Diesel und Rohöl frei",
-    "summary": "Nach Druck der USA - Macron: G7 geben bis zu 100 Millionen Barrel Diesel und Rohöl frei Die G7-Staaten haben sich darauf verständigt, bis zu 100 Millionen Barrel Diesel und Rohöl aus ihren Reserven freizugeben. Wie Frankreichs Präsident Macron mitteilte, soll die Freigabe über einen Zeitraum von vier Monaten erfolgen, um die Energiemärkte zu entlasten. Damit reagierten die G7 auf eine Forderung Washingtons.\nDiesel und Rohöl: G7 geben »bis zu 100 Millionen Barrel« frei Donald Trump hat Europa zur Freigabe strategischer Dieselreserven gedrängt, um die Spritpreise zu senken. Nun sagen die G7 tatsächlich bis zu 100 Millionen Barrel Diesel und Rohöl zu."
+    "title": "Tennisturnier in Peking: Zverev trifft im Viertelfinale auf Djokovic - spiegel.de",
+    "summary": "Tennisturnier in Peking: Zverev trifft im Viertelfinale auf Djokovic - spiegel.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaUwzeVl3RG5HT193RTVPT1gzS3hQdHBUQTZrV1JpQmVaWTNFQmhHZ0txbnVaeEp4ejQ3bjJwYlBISFlRRFl6VUI1NE94WW5USkFlR0ExcFJJSkRqWDljRHQ5eVZEUXRyaThPb2VnOFQ5Z2RFMTE0R2ktWjUwX3NPZG5rLS1zYnVCZVBoclpxNFdZWWFiWHhjQ1lHNWpZT3FHQ3hrb3dnTC1HSl9zeUxtUTVLSDB0YnI1ZFNFb3dzNWdjX3VYUjJ2N3ZQVHJ5Y25qa1pIUHY2Yy1NYVUwLV9tQnZPT21aWjBmekNQME5fOA?oc=5\" target=\"_blank\">Tennisturnier in Peking: Zverev trifft im Viertelfinale auf Djokovic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">spiegel.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0FoMjd2elhZWVZkbUkxOW5UYm01eWhxeFpuY1RWdnpNTGt6alZKWW1ZVUtOZTB0NlduLTdCcDloN0E2dFRac1l2VXBsU3F5MENJdGd\nTennisturnier in Peking: Alexander Zverev trifft im Viertelfinale auf Novak Djokovic In nur 55 Minuten stürmt Alexander Zverev beim ATP-Turnier in Chinas Hauptstadt in die Runde der besten Acht. Dort wartet mit Altmeister Djokovic ein härterer Gegner. Einem besonderen Ziel kommt der Deutsche aber immer näher."
   },
   {
-    "id": "story-116",
+    "id": "story-195",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
-    "date": "2026-10-02T19:11:04.000Z",
-    "sources": [
-      {
-        "source": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/altkanzler-schroeder-wird-aufsichtsrat-bei-russischem-ableger-von-globus-102.html",
-        "date": "2026-10-02T19:11:04.000Z",
-        "snippet": "Alt-Bundeskanzler Schröder wird Mitglied im Aufsichtsrat des russischen Ablegers",
-        "title": "Handelskette - Altkanzler Schröder wird Aufsichtsrat bei russischem Ableger von Globus"
-      },
-      {
-        "source": "ZDF heute",
-        "url": "https://www.zdfheute.de/politik/schroeder-spd-globus-altkanzler-russland-100.html",
-        "date": "2026-10-02T16:13:00.000Z",
-        "snippet": "Gerhard Schröder zieht in den Aufsichtsrat des russischen Globus-Ablegers ein. Das teilte das Unternehmen mit. Eine Bestätigung des Ex-Kanzlers liegt bislang nicht vor.",
-        "title": "Schröder wird Aufsichtsrat bei russischem Globus-Ableger"
-      }
-    ],
-    "title": "Handelskette - Altkanzler Schröder wird Aufsichtsrat bei russischem Ableger von Globus",
-    "summary": "Handelskette - Altkanzler Schröder wird Aufsichtsrat bei russischem Ableger von Globus Alt-Bundeskanzler Schröder wird Mitglied im Aufsichtsrat des russischen Ablegers\nSchröder wird Aufsichtsrat bei russischem Globus-Ableger Gerhard Schröder zieht in den Aufsichtsrat des russischen Globus-Ablegers ein. Das teilte das Unternehmen mit. Eine Bestätigung des Ex-Kanzlers liegt bislang nicht vor."
-  },
-  {
-    "id": "story-140",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-02T19:11:04.000Z",
-    "sources": [
-      {
-        "source": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/linken-fraktionschef-tritt-nach-linksextremismus-vorwuerfen-gegen-eralp-der-roten-hilfe-bei-100.html",
-        "date": "2026-10-02T19:11:04.000Z",
-        "snippet": "Nach den Linksextremismus-Vorwürfen gegen die Berliner Linken-Spitzenpolitikerin Eralp wegen ihrer früheren Mitgliedschaft bei der Roten Hilfe ist der Bundestagsfraktionschef der Partei, Pellmann, dem Verein beigetreten.",
-        "title": "Sören Pellmann - Linken-Fraktionschef tritt nach Linksextremismus-Vorwürfen gegen Eralp der \"Roten Hilfe\" bei"
-      },
-      {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOGljanRSeUtwRHJzeWxDUXQyUWY5TDBiUnBhTE5KMzRKOEVGbVkzSDg0UUpXdFFTUFZyQnFHakpnc2FUZGMyNkZjRTMwbGd3c04tX0ZXbXh5TTJ6b0dfR0hyaXVyM0k5UjFPUVRLS3JUNzhQeGlzcDVfaUUtekVMWHpPRjQ3Slk2ZG5Na2M5LUFxbTRHaThwaUk0OURpUXRUckRZSnhlMXNLWVh5Z01iUE41cHl6eGNhU0FEMS1EOVgxOHc0Rkx5T2c3dw?oc=5",
-        "date": "2026-10-02T19:11:04.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQOGljanRSeUtwRHJzeWxDUXQyUWY5TDBiUnBhTE5KMzRKOEVGbVkzSDg0UUpXdFFTUFZyQnFHakpnc2FUZGMyNkZjRTMwbGd3c04tX0ZXbXh5TTJ6b0dfR0hyaXVyM0k5UjFPUVRLS3JUNzhQeGlzcDVfaUUtekVMWHpPRjQ3Slk2ZG5Na2M5LUFxbTRHaThwaUk0OURpUXRUckRZSnhlMXNLWVh5Z01iUE41cHl6eGNhU0FEMS1EOVgxOHc0Rkx5T2c3dw?oc=5\" target=\"_blank\">Sören Pellmann - Linken-Fraktionschef tritt nach Linksextremismus-Vorwürfen gegen Eralp der \"Roten Hilfe\" bei</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deutschlandfunk</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeTlZdUJ4ZDF1ZF9JVlhxb3JlOXhEdUZKMlBWQVZ4NVFGRk5uWlVwZ3gwSzY5a1J5SXNQNkpPSERmZV9YRWxsOXZSNGVJMWNtdlJpaVU4b",
-        "title": "Sören Pellmann - Linken-Fraktionschef tritt nach Linksextremismus-Vorwürfen gegen Eralp der \"Roten Hilfe\" bei - Deutschlandfunk"
-      }
-    ],
-    "title": "Sören Pellmann - Linken-Fraktionschef tritt nach Linksextremismus-Vorwürfen gegen Eralp der \"Roten Hilfe\" bei",
-    "summary": "Sören Pellmann - Linken-Fraktionschef tritt nach Linksextremismus-Vorwürfen gegen Eralp der \"Roten Hilfe\" bei Nach den Linksextremismus-Vorwürfen gegen die Berliner Linken-Spitzenpolitikerin Eralp wegen ihrer früheren Mitgliedschaft bei der Roten Hilfe ist der Bundestagsfraktionschef der Partei, Pellmann, dem Verein beigetreten.\nSören Pellmann - Linken-Fraktionschef tritt nach Linksextremismus-Vorwürfen gegen Eralp der \"Roten Hilfe\" bei - Deutschlandfunk <ol><li><a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQOGljanRSeUtwRHJzeWxDUXQyUWY5TDBiUnBhTE5KMzRKOEVGbVkzSDg0UUpXdFFTUFZyQnFHakpnc2FUZGMyNkZjRTMwbGd3c04tX0ZXbXh5TTJ6b0dfR0hyaXVyM0k5UjFPUVRLS3JUNzhQeGlzcDVfaUUtekVMWHpPRjQ3Slk2ZG5Na2M5LUFxbTRHaThwaUk0OURpUXRUckRZSnhlMXNLWVh5Z01iUE41cHl6eGNhU0FEMS1EOVgxOHc0Rkx5T2c3dw?oc=5\" target=\"_blank\">Sören Pellmann - Linken-Fraktionschef tritt nach Linksextremismus-Vorwürfen gegen Eralp der \"Roten Hilfe\" bei</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deutschlandfunk</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeTlZdUJ4ZDF1ZF9JVlhxb3JlOXhEdUZKMlBWQVZ4NVFGRk5uWlVwZ3gwSzY5a1J5SXNQNkpPSERmZV9YRWxsOXZSNGVJMWNtdlJpaVU4b"
-  },
-  {
-    "id": "story-165",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "BW",
-    "date": "2026-10-02T19:06:24.000Z",
-    "sources": [
-      {
-        "source": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/news/2026-10/02/galeria-stellt-erneut-insolvenzantrag",
-        "date": "2026-10-02T19:06:24.000Z",
-        "snippet": "",
-        "title": "Einzelhandel: Warenhauskette Galeria stellt abermals Insolvenzantrag"
-      },
-      {
-        "source": "Tagesschau Regional Baden-Württemberg",
-        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-warenhauskette-galeria-stellt-erneut-insolvenzantrag-100.html",
-        "date": "2026-10-02T10:49:00.000Z",
-        "snippet": "Galeria beantragt zum vierten Mal Insolvenz. Der Betrieb läuft weiter, doch 12.000 Beschäftigte und 83 Filialen stehen vor ungewisser Zukunft.",
-        "title": "Warenhauskette Galeria stellt erneut Insolvenzantrag"
-      }
-    ],
-    "title": "Einzelhandel: Warenhauskette Galeria stellt abermals Insolvenzantrag",
-    "summary": "Einzelhandel: Warenhauskette Galeria stellt abermals Insolvenzantrag \nWarenhauskette Galeria stellt erneut Insolvenzantrag Galeria beantragt zum vierten Mal Insolvenz. Der Betrieb läuft weiter, doch 12.000 Beschäftigte und 83 Filialen stehen vor ungewisser Zukunft."
-  },
-  {
-    "id": "story-179",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "SH",
-    "date": "2026-10-02T19:02:33.000Z",
-    "sources": [
-      {
-        "source": "NDR Schleswig-Holstein",
-        "url": "https://www.ndr.de/fernsehen/sendungen/schleswig-holstein_magazin/kernkraftwerk-kruemmel-wird-offiziell-zwischenlager,shmag-13752.html",
-        "date": "2026-10-02T19:02:33.000Z",
-        "snippet": "Dort dürfen die radioaktiven Abfälle des Kernkraftwerks lagern, bis das Endlager \"Schacht Konrad\" in Salzgitter im Betrieb ist.",
-        "title": "Kernkraftwerk Krümmel wird offiziell Zwischenlager"
-      },
-      {
-        "source": "Tagesschau Regional Schleswig-Holstein",
-        "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/atomausstieg-kernkraftwerk-kruemmel-wird-offiziell-zwischenlager,genehmigungkruemmel-100.html",
-        "date": "2026-10-02T11:37:02.000Z",
-        "snippet": "In Geesthacht dürfen damit schwach- und mittelradioaktive Abfälle gelagert werden. Der BUND sieht das Vorhaben kritisch.",
-        "title": "Atomausstieg: Kernkraftwerk Krümmel wird offiziell Zwischenlager"
-      }
-    ],
-    "title": "Kernkraftwerk Krümmel wird offiziell Zwischenlager",
-    "summary": "Kernkraftwerk Krümmel wird offiziell Zwischenlager Dort dürfen die radioaktiven Abfälle des Kernkraftwerks lagern, bis das Endlager \"Schacht Konrad\" in Salzgitter im Betrieb ist.\nAtomausstieg: Kernkraftwerk Krümmel wird offiziell Zwischenlager In Geesthacht dürfen damit schwach- und mittelradioaktive Abfälle gelagert werden. Der BUND sieht das Vorhaben kritisch."
-  },
-  {
-    "id": "story-234",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "BW",
-    "date": "2026-10-02T18:27:48.000Z",
-    "sources": [
-      {
-        "source": "SWR Aktuell Baden-Württemberg",
-        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/pflicht-und-kostenfreies-kita-jahr-vor-dem-aus-100.html",
-        "date": "2026-10-02T18:27:48.000Z",
-        "snippet": "Eigentlich hat die Landesregierung von Baden-Württemberg versprochen, ein verbindliches kostenfreies letztes Kita-Jahr einzuführen. Nach viel Kritik an dem Vorhaben wackelt es nun.",
-        "title": "Kostenfreies letztes Kita-Jahr wohl vor dem Aus - Experten-Gremium hat \"große Vorbehalte\""
-      },
-      {
-        "source": "Tagesschau Regional Baden-Württemberg",
-        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-verbindliches-kostenfreies-letztes-kita-jahr-wohl-vor-dem-aus-zentrales-wahlversprechen-koennte-kippen-100.html",
-        "date": "2026-10-02T13:54:00.000Z",
-        "snippet": "Eigentlich hat die Landesregierung von Baden-Württemberg versprochen, ein verbindliches kostenfreies letztes Kita-Jahr einzuführen. Nach viel Kritik an dem Vorhaben wackelt es nun.",
-        "title": "Verbindliches kostenfreies letztes Kita-Jahr wohl vor dem Aus"
-      }
-    ],
-    "title": "Kostenfreies letztes Kita-Jahr wohl vor dem Aus - Experten-Gremium hat \"große Vorbehalte\"",
-    "summary": "Kostenfreies letztes Kita-Jahr wohl vor dem Aus - Experten-Gremium hat \"große Vorbehalte\" Eigentlich hat die Landesregierung von Baden-Württemberg versprochen, ein verbindliches kostenfreies letztes Kita-Jahr einzuführen. Nach viel Kritik an dem Vorhaben wackelt es nun.\nVerbindliches kostenfreies letztes Kita-Jahr wohl vor dem Aus Eigentlich hat die Landesregierung von Baden-Württemberg versprochen, ein verbindliches kostenfreies letztes Kita-Jahr einzuführen. Nach viel Kritik an dem Vorhaben wackelt es nun."
-  },
-  {
-    "id": "story-335",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "BY",
-    "date": "2026-10-02T17:15:47.000Z",
-    "sources": [
-      {
-        "source": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/sport/fussball-nationalmannschaft-juergen-klopps-sonderlob-fuer-aleksandar-pavlovic-er-war-ueberall,VWsFX05",
-        "date": "2026-10-02T17:15:47.000Z",
-        "snippet": "Nach dem 2:0-Sieg der deutschen Nationalmannschaft in der Nations League gegen Serbien hebt Bundestrainer Jürgen Klopp Aleksandar Pavlovic vom FC Bayern München hervor. Diskussionen um Joshua Kimmich wischt der 59-Jährige energisch beiseite.",
-        "title": "Klopps Sonderlob für Pavlovic: \"Er war überall\""
-      },
-      {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRTBoLTZZaXU0SW1RZkJtNUt1T2VQdXZ0ZUVNRW50alV2b0w3QjVaV1lsR1o0Y3FIY2tldVp3OXpISDk3dWZranVYVUhQbWNQTEI0TG5jYmtmaEUtS1loUE9ZanY3dTBtYmZYZXZYWEYyc2wydi1ncVlZSHJDcmYtVzVUWDQtLWdxR09GR0N3UVBJd2tDMXo5QklfTFNuQjJCMkFpTnM2Z3BZTFRLZkN6dmZXRER3RjhYZGJMNTZZM3daWUd1VUlFSnJFX0JjQTRyY2w4?oc=5",
-        "date": "2026-10-02T17:15:47.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRTBoLTZZaXU0SW1RZkJtNUt1T2VQdXZ0ZUVNRW50alV2b0w3QjVaV1lsR1o0Y3FIY2tldVp3OXpISDk3dWZranVYVUhQbWNQTEI0TG5jYmtmaEUtS1loUE9ZanY3dTBtYmZYZXZYWEYyc2wydi1ncVlZSHJDcmYtVzVUWDQtLWdxR09GR0N3UVBJd2tDMXo5QklfTFNuQjJCMkFpTnM2Z3BZTFRLZkN6dmZXRER3RjhYZGJMNTZZM3daWUd1VUlFSnJFX0JjQTRyY2w4?oc=5\" target=\"_blank\">Klopps Sonderlob für Pavlovic: \"Er war überall\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BR</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbldtWE1qR21nUFJyMVZ5RFhLR1pXTzZPM3BCZXZNeVFGaDR3M1NQT2xwQ0JWaE5ZTV9tTjFMV3pId3lSYXhyeDVqWDZjenYzOHdJUzI0d3JORjJzbzRXNHo0NEZEbV90Nl9BQS1sbVhpVHNCZkFqNHhLUGJQdktsU0gzQkpjdF",
-        "title": "Klopps Sonderlob für Pavlovic: \"Er war überall\" - BR"
-      }
-    ],
-    "title": "Klopps Sonderlob für Pavlovic: \"Er war überall\"",
-    "summary": "Klopps Sonderlob für Pavlovic: \"Er war überall\" Nach dem 2:0-Sieg der deutschen Nationalmannschaft in der Nations League gegen Serbien hebt Bundestrainer Jürgen Klopp Aleksandar Pavlovic vom FC Bayern München hervor. Diskussionen um Joshua Kimmich wischt der 59-Jährige energisch beiseite.\nKlopps Sonderlob für Pavlovic: \"Er war überall\" - BR <ol><li><a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRTBoLTZZaXU0SW1RZkJtNUt1T2VQdXZ0ZUVNRW50alV2b0w3QjVaV1lsR1o0Y3FIY2tldVp3OXpISDk3dWZranVYVUhQbWNQTEI0TG5jYmtmaEUtS1loUE9ZanY3dTBtYmZYZXZYWEYyc2wydi1ncVlZSHJDcmYtVzVUWDQtLWdxR09GR0N3UVBJd2tDMXo5QklfTFNuQjJCMkFpTnM2Z3BZTFRLZkN6dmZXRER3RjhYZGJMNTZZM3daWUd1VUlFSnJFX0JjQTRyY2w4?oc=5\" target=\"_blank\">Klopps Sonderlob für Pavlovic: \"Er war überall\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BR</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbldtWE1qR21nUFJyMVZ5RFhLR1pXTzZPM3BCZXZNeVFGaDR3M1NQT2xwQ0JWaE5ZTV9tTjFMV3pId3lSYXhyeDVqWDZjenYzOHdJUzI0d3JORjJzbzRXNHo0NEZEbV90Nl9BQS1sbVhpVHNCZkFqNHhLUGJQdktsU0gzQkpjdF"
-  },
-  {
-    "id": "story-396",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-02T16:39:22.000Z",
-    "sources": [
-      {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT0RTZy1QMDVUY2JlVmI5NTZwR0VQcHltbVhnR2E0bV9EdDQ3eUNzUTl3djRfYUxUX3NmbmRPMXgtdjVCajBSREVJZGczdjlKb3RxQ0J2d2luTnBCZzhpMkJfLVZzTlB0SzM3ZndvZ0RyQ2N1SC02T2FublpDQ3NRbFhDTHBYWkFqU25ILWVQenVTRTlTeDJCYnRNVWM4eDlUeXp2b0FjU1FpaFQ5X1pDRG9uM1hVcmc?oc=5",
-        "date": "2026-10-02T16:39:22.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPT0RTZy1QMDVUY2JlVmI5NTZwR0VQcHltbVhnR2E0bV9EdDQ3eUNzUTl3djRfYUxUX3NmbmRPMXgtdjVCajBSREVJZGczdjlKb3RxQ0J2d2luTnBCZzhpMkJfLVZzTlB0SzM3ZndvZ0RyQ2N1SC02T2FublpDQ3NRbFhDTHBYWkFqU25ILWVQenVTRTlTeDJCYnRNVWM4eDlUeXp2b0FjU1FpaFQ5X1pDRG9uM1hVcmc?oc=5\" target=\"_blank\">\"Ich könnte ihn einsetzen\": Trump spielt vor den Midterms mit einem gefährlichen Brandbeschleuniger</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1TTkY1Z09OLWZSeDVIN1V4M0d6QWtDdFZPSVgtRUZPWHp4bFhLQWZCRGpqMXdBN2pQTXVKa2J4R0R3VXJERU4zeHJ4aXdjSUhYU0JLOVgyd1JkWWRNZGp5Vlhyem9WcC1VTnA0c01TdXY1VmFJU3NuSk",
-        "title": "\"Ich könnte ihn einsetzen\": Trump spielt vor den Midterms mit einem gefährlichen Brandbeschleuniger - n-tv.de"
-      },
-      {
-        "source": "ntv",
-        "url": "https://www.n-tv.de/politik/Trump-spielt-vor-den-Midterms-mit-einem-gefaehrlichen-Brandbeschleuniger-id31374897.html",
-        "date": "2026-10-02T16:39:22.000Z",
-        "snippet": "Donald Trump bangt vor den Zwischenwahlen um die Mehrheit seiner Partei im Kongress. Jetzt meldet sich der US-Präsident mit einem Gedankenspiel zum Einsatz eines 200 Jahre alten Gesetzes zu Wort. Das würde ihm den Einsatz des Militärs innerhalb der Vereinigten Staaten erlauben.",
-        "title": "\"Ich könnte ihn einsetzen\": Trump spielt vor den Midterms mit einem gefährlichen Brandbeschleuniger"
-      }
-    ],
-    "title": "\"Ich könnte ihn einsetzen\": Trump spielt vor den Midterms mit einem gefährlichen Brandbeschleuniger - n-tv.de",
-    "summary": "\"Ich könnte ihn einsetzen\": Trump spielt vor den Midterms mit einem gefährlichen Brandbeschleuniger - n-tv.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPT0RTZy1QMDVUY2JlVmI5NTZwR0VQcHltbVhnR2E0bV9EdDQ3eUNzUTl3djRfYUxUX3NmbmRPMXgtdjVCajBSREVJZGczdjlKb3RxQ0J2d2luTnBCZzhpMkJfLVZzTlB0SzM3ZndvZ0RyQ2N1SC02T2FublpDQ3NRbFhDTHBYWkFqU25ILWVQenVTRTlTeDJCYnRNVWM4eDlUeXp2b0FjU1FpaFQ5X1pDRG9uM1hVcmc?oc=5\" target=\"_blank\">\"Ich könnte ihn einsetzen\": Trump spielt vor den Midterms mit einem gefährlichen Brandbeschleuniger</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1TTkY1Z09OLWZSeDVIN1V4M0d6QWtDdFZPSVgtRUZPWHp4bFhLQWZCRGpqMXdBN2pQTXVKa2J4R0R3VXJERU4zeHJ4aXdjSUhYU0JLOVgyd1JkWWRNZGp5Vlhyem9WcC1VTnA0c01TdXY1VmFJU3NuSk\n\"Ich könnte ihn einsetzen\": Trump spielt vor den Midterms mit einem gefährlichen Brandbeschleuniger Donald Trump bangt vor den Zwischenwahlen um die Mehrheit seiner Partei im Kongress. Jetzt meldet sich der US-Präsident mit einem Gedankenspiel zum Einsatz eines 200 Jahre alten Gesetzes zu Wort. Das würde ihm den Einsatz des Militärs innerhalb der Vereinigten Staaten erlauben."
-  },
-  {
-    "id": "story-507",
-    "topic": "panorama",
-    "country": "PT",
-    "stateHint": "",
-    "date": "2026-10-02T15:42:26.000Z",
-    "sources": [
-      {
-        "source": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/mundo/eua-suspendem-atividade-diplomatica-no-brasil-por-seguranca_n1769195",
-        "date": "2026-10-02T15:42:26.000Z",
-        "snippet": "Os Estados Unidos anunciaram que vão suspender os serviços da sua embaixada e dos seus consulados no Brasil por motivos \"de segurança\", no contexto da primeira volta das eleições presidenciais.",
-        "title": "EUA suspendem atividade diplomática no Brasil \"por segurança\""
-      },
-      {
-        "source": "RTP Mundo",
-        "url": "https://www.rtp.pt/noticias/mundo/eleicoes-no-brasil-eua-suspendem-atividade-diplomatica-a-partir-desta-sexta-feira-por-seguranca_n1769173",
-        "date": "2026-10-02T14:20:03.000Z",
-        "snippet": "Os Estados Unidos da América anunciaram que vão suspender os serviços da sua embaixada e dos seus consulados no Brasil a partir de hoje por motivos \"de segurança\", no contexto da primeira volta das eleições presidenciais.",
-        "title": "Eleições no Brasil. EUA suspendem atividade diplomática a partir desta sexta-feira \"por segurança\""
-      }
-    ],
-    "title": "EUA suspendem atividade diplomática no Brasil \"por segurança\"",
-    "summary": "EUA suspendem atividade diplomática no Brasil \"por segurança\" Os Estados Unidos anunciaram que vão suspender os serviços da sua embaixada e dos seus consulados no Brasil por motivos \"de segurança\", no contexto da primeira volta das eleições presidenciais.\nEleições no Brasil. EUA suspendem atividade diplomática a partir desta sexta-feira \"por segurança\" Os Estados Unidos da América anunciaram que vão suspender os serviços da sua embaixada e dos seus consulados no Brasil a partir de hoje por motivos \"de segurança\", no contexto da primeira volta das eleições presidenciais."
-  },
-  {
-    "id": "story-556",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "RP",
-    "date": "2026-10-02T15:17:55.000Z",
+    "date": "2026-10-03T13:15:01.000Z",
     "sources": [
       {
         "source": "SWR Aktuell",
-        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/mainz/johannes-gutenberg-universitaet-ist-exzellenz-uni-102.html",
-        "date": "2026-10-02T15:17:55.000Z",
-        "snippet": "Die Entscheidung ist gefallen: Die Mainzer Johannes Gutenberg-Universität ist nun spitze. Damit verbunden ist richtig viel Geld.",
-        "title": "Johannes Gutenberg-Universität Mainz ist Exzellenz-Uni"
+        "url": "https://www.tagesschau.de/inland/gesellschaft/einheitsfeier-bremen-100.html",
+        "date": "2026-10-03T13:15:01.000Z",
+        "snippet": "In Bremen wird der Tag der Deutschen Einheit gefeiert. Kirchenvertreter warnten dabei vor einer Polarisierung der Gesellschaft, Bundespräsident Steinmeier vor Extremismus. Die Ost…",
+        "title": "Kirchen fordern Zusammenhalt - Warnung vor Polarisierung"
+      },
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/inland/gesellschaft/einheitsfeier-bremen-100.html",
+        "date": "2026-10-03T13:03:27.000Z",
+        "snippet": "In Bremen wird der Tag der Deutschen Einheit gefeiert. Kirchenvertreter warnten dabei vor einer Polarisierung der Gesellschaft, Bundespräsident Steinmeier vor Extremismus. Die Ostbeauftragte Kaiser plädierte unterdessen für eine ostdeutsche Bundespräsidentin.",
+        "title": "Tag der Deutschen Einheit: Kirchen fordern Zusammenhalt - Warnung vor Polarisierung"
+      }
+    ],
+    "title": "Kirchen fordern Zusammenhalt - Warnung vor Polarisierung",
+    "summary": "Kirchen fordern Zusammenhalt - Warnung vor Polarisierung In Bremen wird der Tag der Deutschen Einheit gefeiert. Kirchenvertreter warnten dabei vor einer Polarisierung der Gesellschaft, Bundespräsident Steinmeier vor Extremismus. Die Ost…\nTag der Deutschen Einheit: Kirchen fordern Zusammenhalt - Warnung vor Polarisierung In Bremen wird der Tag der Deutschen Einheit gefeiert. Kirchenvertreter warnten dabei vor einer Polarisierung der Gesellschaft, Bundespräsident Steinmeier vor Extremismus. Die Ostbeauftragte Kaiser plädierte unterdessen für eine ostdeutsche Bundespräsidentin."
+  },
+  {
+    "id": "story-212",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-03T13:01:47.000Z",
+    "sources": [
+      {
+        "source": "RND",
+        "url": "https://www.rnd.de/panorama/aehnelte-kz-kleidung-modekette-zara-zieht-halloween-kostuem-zurueck-C5YO5M26DNFHBOT45PXPM2EKSY.html",
+        "date": "2026-10-03T13:01:47.000Z",
+        "snippet": "Zara nimmt ein Halloween-Kostüm aus dem Sortiment. Die Modekette reagiert auf Kritik, das Design erinnere an KZ-Häftlingskleidung aus der NS-Zeit.",
+        "title": "Ähnelte KZ-Kleidung: Modekette Zara zieht Halloween-Kostüm zurück"
+      },
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/panorama/zara-modekette-zieht-kinderkostuem-wegen-aehnlichkeit-zu-kz-kleidung-zurueck-a-75286e0e-2b65-4905-9ac4-305ae709b9bd#ref=rss",
+        "date": "2026-10-03T10:26:00.000Z",
+        "snippet": "Der spanische Moderiese Zara hat ein Halloween-Kostüm für Kinder aus dem Sortiment genommen. Das Unternehmen reagierte damit auf Kritik, das Design des Produkts erinnere an Bekleidung für KZ-Häftlinge.",
+        "title": "Zara zieht Kinderkostüm wegen Ähnlichkeit zu KZ-Kleidung zurück"
+      }
+    ],
+    "title": "Ähnelte KZ-Kleidung: Modekette Zara zieht Halloween-Kostüm zurück",
+    "summary": "Ähnelte KZ-Kleidung: Modekette Zara zieht Halloween-Kostüm zurück Zara nimmt ein Halloween-Kostüm aus dem Sortiment. Die Modekette reagiert auf Kritik, das Design erinnere an KZ-Häftlingskleidung aus der NS-Zeit.\nZara zieht Kinderkostüm wegen Ähnlichkeit zu KZ-Kleidung zurück Der spanische Moderiese Zara hat ein Halloween-Kostüm für Kinder aus dem Sortiment genommen. Das Unternehmen reagierte damit auf Kritik, das Design des Produkts erinnere an Bekleidung für KZ-Häftlinge."
+  },
+  {
+    "id": "story-242",
+    "topic": "wirtschaft",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-03T12:47:00.000Z",
+    "sources": [
+      {
+        "source": "DW Deutsch",
+        "url": "https://www.dw.com/de/irans-währung-fällt-auf-historisches-tief/a-79530963?maca=de-rss-de-all-1119-xml-mrss",
+        "date": "2026-10-03T12:47:00.000Z",
+        "snippet": "Irans Konflikt mit den USA um die Straße von Hormus hat seinen Preis: Der Wechselkurs der Landeswährung Rial stürzt immer weiter ab - mit drastischen Folgen für Bürger und Wirtschaft.",
+        "title": "Irans Währung fällt auf historisches Tief"
+      },
+      {
+        "source": "Handelsblatt",
+        "url": "https://www.handelsblatt.com/politik/international/iran-krieg-irans-waehrung-faellt-auf-historisches-tief/100136895.html",
+        "date": "2026-10-03T10:38:00.000Z",
+        "snippet": "Flydubai-Copilot galt offenbar zuvor als Sicherheitsrisiko +++ Öltanker vor Küste des Oman getroffen +++ Saudi-Arabien plant offenbar neue Offensive gegen Huthis im Jemen +++ Der Newsblog.",
+        "title": "+++ Iran-Krieg +++: Irans Währung fällt auf historisches Tief"
+      }
+    ],
+    "title": "Irans Währung fällt auf historisches Tief",
+    "summary": "Irans Währung fällt auf historisches Tief Irans Konflikt mit den USA um die Straße von Hormus hat seinen Preis: Der Wechselkurs der Landeswährung Rial stürzt immer weiter ab - mit drastischen Folgen für Bürger und Wirtschaft.\n+++ Iran-Krieg +++: Irans Währung fällt auf historisches Tief Flydubai-Copilot galt offenbar zuvor als Sicherheitsrisiko +++ Öltanker vor Küste des Oman getroffen +++ Saudi-Arabien plant offenbar neue Offensive gegen Huthis im Jemen +++ Der Newsblog."
+  },
+  {
+    "id": "story-255",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "RP",
+    "date": "2026-10-03T12:35:04.000Z",
+    "sources": [
+      {
+        "source": "SWR Aktuell",
+        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/ludwigshafen/spielen-bauen-staunen-in-der-lego-ausstellung-speyer-100.html",
+        "date": "2026-10-03T12:35:04.000Z",
+        "snippet": "Im Museum der Pfalz in Speyer ist eine Lego-Ausstellung mit detailreichen Modellen des Doms und der Nürburgring-Rennstrecke eröffnet worden. Und Besucher dürfen mit Legos bauen.",
+        "title": "Speyer: Große Lego-Ausstellung im Historischen Museum"
       },
       {
         "source": "Tagesschau Regional Rheinland-Pfalz",
-        "url": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-johannes-gutenberg-universitaet-mainz-ist-jetzt-exzellenz-uni-100.html",
-        "date": "2026-10-02T14:13:25.000Z",
-        "snippet": "Die Entscheidung ist gefallen: Die Mainzer Johannes Gutenberg-Universität ist nun spitze. Damit verbunden ist richtig viel Geld.",
-        "title": "Johannes Gutenberg-Universität Mainz ist jetzt Exzellenz-Uni"
+        "url": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-speyer-grosse-lego-ausstellung-im-historischen-museum-100.html",
+        "date": "2026-10-03T10:06:00.000Z",
+        "snippet": "Im Museum der Pfalz in Speyer ist eine Lego-Ausstellung mit detailreichen Modellen des Doms und der Nürburgring-Rennstrecke eröffnet worden. Und Besucher dürfen mit Legos bauen.",
+        "title": "Speyer: Große Lego-Ausstellung im Historischen Museum eröffnet"
       }
     ],
-    "title": "Johannes Gutenberg-Universität Mainz ist Exzellenz-Uni",
-    "summary": "Johannes Gutenberg-Universität Mainz ist Exzellenz-Uni Die Entscheidung ist gefallen: Die Mainzer Johannes Gutenberg-Universität ist nun spitze. Damit verbunden ist richtig viel Geld.\nJohannes Gutenberg-Universität Mainz ist jetzt Exzellenz-Uni Die Entscheidung ist gefallen: Die Mainzer Johannes Gutenberg-Universität ist nun spitze. Damit verbunden ist richtig viel Geld."
+    "title": "Speyer: Große Lego-Ausstellung im Historischen Museum",
+    "summary": "Speyer: Große Lego-Ausstellung im Historischen Museum Im Museum der Pfalz in Speyer ist eine Lego-Ausstellung mit detailreichen Modellen des Doms und der Nürburgring-Rennstrecke eröffnet worden. Und Besucher dürfen mit Legos bauen.\nSpeyer: Große Lego-Ausstellung im Historischen Museum eröffnet Im Museum der Pfalz in Speyer ist eine Lego-Ausstellung mit detailreichen Modellen des Doms und der Nürburgring-Rennstrecke eröffnet worden. Und Besucher dürfen mit Legos bauen."
   },
   {
-    "id": "story-575",
-    "topic": "politik",
-    "country": "PT",
-    "stateHint": "",
-    "date": "2026-10-02T15:11:33.000Z",
-    "sources": [
-      {
-        "source": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMVVHNzk3d0dzSVpiTWhxN3RYbEFhUElRUzJOeWRrbjMzT01jWk5aNDIwUDJkSHhDdEtmUE42WlpqUE52UnZGZUdaVHNKY1Z0WTVOalVISlJuMGFJU2E4U2JEbUxab0NwSW5WSnVRd3dqN1RSbVhxOFpqSmxDdndHelRQWjdSSXQzWXZmVkFJd0ZRNEJ4RFhNLVNjQmRSZGctbnVDUVNlbDBaQnRQeUVlZ0lOclpRU0hBemZUWU1jVl8xQ0x2NVRpdDZVMmYtNzA?oc=5",
-        "date": "2026-10-02T15:11:33.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQMVVHNzk3d0dzSVpiTWhxN3RYbEFhUElRUzJOeWRrbjMzT01jWk5aNDIwUDJkSHhDdEtmUE42WlpqUE52UnZGZUdaVHNKY1Z0WTVOalVISlJuMGFJU2E4U2JEbUxab0NwSW5WSnVRd3dqN1RSbVhxOFpqSmxDdndHelRQWjdSSXQzWXZmVkFJd0ZRNEJ4RFhNLVNjQmRSZGctbnVDUVNlbDBaQnRQeUVlZ0lOclpRU0hBemZUWU1jVl8xQ0x2NVRpdDZVMmYtNzA?oc=5\" target=\"_blank\">Na região russa de Samara. Drones ucranianos atacam maior depósito de combustíveis da Europa</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQU3VTWXJLRGFINGs5S3haMVZsekhnLXdkSGVORDR4VXd4ekZ1TkJ5NF9Ec1J6XzdfdjdjcVl2NDdCNWQ4R25tZVVoRmV2NDlYSlpCcEhLM3d5SnZ0VW9GM3RINWdvdHFQU",
-        "title": "Na região russa de Samara. Drones ucranianos atacam maior depósito de combustíveis da Europa - RTP"
-      },
-      {
-        "source": "RTP Mundo",
-        "url": "https://www.rtp.pt/noticias/mundo/na-regiao-russa-de-samara-drones-ucranianos-atacam-maior-deposito-de-combustiveis-da-europa_n1769085",
-        "date": "2026-10-02T08:45:53.000Z",
-        "snippet": "Um ataque da Ucrânia com drones visou esta sexta-feira uma refinaria e um grande depósito de combustível, considerado como o maior da Europa, pertencente ao consórcio estatal Transneft, segundo os canais do Telegram.",
-        "title": "Na região russa de Samara. Drones ucranianos atacam maior depósito de combustíveis da Europa"
-      }
-    ],
-    "title": "Na região russa de Samara. Drones ucranianos atacam maior depósito de combustíveis da Europa - RTP",
-    "summary": "Na região russa de Samara. Drones ucranianos atacam maior depósito de combustíveis da Europa - RTP <ol><li><a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQMVVHNzk3d0dzSVpiTWhxN3RYbEFhUElRUzJOeWRrbjMzT01jWk5aNDIwUDJkSHhDdEtmUE42WlpqUE52UnZGZUdaVHNKY1Z0WTVOalVISlJuMGFJU2E4U2JEbUxab0NwSW5WSnVRd3dqN1RSbVhxOFpqSmxDdndHelRQWjdSSXQzWXZmVkFJd0ZRNEJ4RFhNLVNjQmRSZGctbnVDUVNlbDBaQnRQeUVlZ0lOclpRU0hBemZUWU1jVl8xQ0x2NVRpdDZVMmYtNzA?oc=5\" target=\"_blank\">Na região russa de Samara. Drones ucranianos atacam maior depósito de combustíveis da Europa</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQU3VTWXJLRGFINGs5S3haMVZsekhnLXdkSGVORDR4VXd4ekZ1TkJ5NF9Ec1J6XzdfdjdjcVl2NDdCNWQ4R25tZVVoRmV2NDlYSlpCcEhLM3d5SnZ0VW9GM3RINWdvdHFQU\nNa região russa de Samara. Drones ucranianos atacam maior depósito de combustíveis da Europa Um ataque da Ucrânia com drones visou esta sexta-feira uma refinaria e um grande depósito de combustível, considerado como o maior da Europa, pertencente ao consórcio estatal Transneft, segundo os canais do Telegram."
-  },
-  {
-    "id": "story-622",
+    "id": "story-278",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
-    "date": "2026-10-02T14:42:28.000Z",
+    "date": "2026-10-03T12:14:23.000Z",
     "sources": [
       {
         "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/europa/spanien-wohungsgesetze-gescheitert-100.html",
-        "date": "2026-10-02T14:42:28.000Z",
-        "snippet": "Die Koalition von Spaniens Regierungschef Sánchez ist im Parlament mit ihren Dekreten für mehr Mieterschutz gescheitert. Nach landesweiten Protesten wollte die Regierung unter anderem Zwangsräumungen in sozialen Notlagen verbieten.",
-        "title": "Spanisches Parlament lehnt Regierungs-Dekrete für Mieterschutz ab"
+        "url": "https://www.tagesschau.de/ausland/ukraine-angriff-bruecke-100.html",
+        "date": "2026-10-03T12:14:23.000Z",
+        "snippet": "Erneut hat Russland eine Brücke in der ukrainischen Hauptstadt beschossen - diesmal traf es die Nordbrücke. Bereits am Vortag waren drei von sechs Straßenbrücken Kiews angegriffen und beschädigt worden.",
+        "title": "Russland beschießt erneut Brücke in Kiew"
       },
       {
         "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRkxWcXMzTXMwQnRPWXhkZVIyZVFrNFpoMldRTHhmVjdldHFVeVpreW9rZUNCOXNrdnBRRjdkWjdtS1lPcGxvdDgyM1Q1Wm8tRE9wVVkxOG5zNm5sbWxFT3dycWJEUS0tMXBhZVp1WnpTQ3BISUN4cmlPZzJKMjBGdjJ1RnZRMTRrdDgyaw?oc=5",
-        "date": "2026-10-02T14:42:00.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPRkxWcXMzTXMwQnRPWXhkZVIyZVFrNFpoMldRTHhmVjdldHFVeVpreW9rZUNCOXNrdnBRRjdkWjdtS1lPcGxvdDgyM1Q1Wm8tRE9wVVkxOG5zNm5sbWxFT3dycWJEUS0tMXBhZVp1WnpTQ3BISUN4cmlPZzJKMjBGdjJ1RnZRMTRrdDgyaw?oc=5\" target=\"_blank\">Spanisches Parlament lehnt Regierungs-Dekrete für Mieterschutz ab</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeFNub2s0TFc1YlZ6X3VMcTNLZlNQeHBaSjhfbUlZVWtXMEtORUNCaGk3UmtIdTVaVXRoc2tFWEdJZU9LLUdJUnJHcnNpTFRyZ3MzZTdZQmRiVW8yQTVhWUg0RGNoX0RtVzFqb0ZhbTdPUEpWYUJBNjJUX1ZLdkExRC1jZXY2MkVqYUxxZTJGTUhrMnhicnVSRk9ReV9CczB4WndCT2UxZjdVaUllX3prWnE3QmNhcVR",
-        "title": "Spanisches Parlament lehnt Regierungs-Dekrete für Mieterschutz ab - tagesschau.de"
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84Vk5FbXhQeHNkSU1EMUh0ay1HMGlWalpVVVZQNW9TUE9vUzY0RmlabkVnOEJIVk5mSUJhRWJpMGphRHlCOERGOXVTWFhlRHM4YVlXNUQ0c2JHVGtMdjBEVDBKdzdNdDNueTR2RTRvVEFteTNw?oc=5",
+        "date": "2026-10-03T12:14:00.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE84Vk5FbXhQeHNkSU1EMUh0ay1HMGlWalpVVVZQNW9TUE9vUzY0RmlabkVnOEJIVk5mSUJhRWJpMGphRHlCOERGOXVTWFhlRHM4YVlXNUQ0c2JHVGtMdjBEVDBKdzdNdDNueTR2RTRvVEFteTNw?oc=5\" target=\"_blank\">Russland beschießt erneut Brücke in Kiew</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xcE9KeGZ3Rl9Pa3lneWMweE5qX1M5dTBLRzFIZC16UW55WjkycTNmbmdzZzI4VTg2ZzViQUNhb0ZBY0VhNGdzbXBuNk9iZlh6UGhMcHAwdktDYzFvNVRpcDVsYTh3UQ?oc=5\" target=\"_blank\">+++ Nachrichten im Ukraine-Krieg +++: Russland schießt erneut auf Brücke in Kyjiw</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">taz.de</font></li><li><a h",
+        "title": "Russland beschießt erneut Brücke in Kiew - tagesschau.de"
       }
     ],
-    "title": "Spanisches Parlament lehnt Regierungs-Dekrete für Mieterschutz ab",
-    "summary": "Spanisches Parlament lehnt Regierungs-Dekrete für Mieterschutz ab Die Koalition von Spaniens Regierungschef Sánchez ist im Parlament mit ihren Dekreten für mehr Mieterschutz gescheitert. Nach landesweiten Protesten wollte die Regierung unter anderem Zwangsräumungen in sozialen Notlagen verbieten.\nSpanisches Parlament lehnt Regierungs-Dekrete für Mieterschutz ab - tagesschau.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPRkxWcXMzTXMwQnRPWXhkZVIyZVFrNFpoMldRTHhmVjdldHFVeVpreW9rZUNCOXNrdnBRRjdkWjdtS1lPcGxvdDgyM1Q1Wm8tRE9wVVkxOG5zNm5sbWxFT3dycWJEUS0tMXBhZVp1WnpTQ3BISUN4cmlPZzJKMjBGdjJ1RnZRMTRrdDgyaw?oc=5\" target=\"_blank\">Spanisches Parlament lehnt Regierungs-Dekrete für Mieterschutz ab</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeFNub2s0TFc1YlZ6X3VMcTNLZlNQeHBaSjhfbUlZVWtXMEtORUNCaGk3UmtIdTVaVXRoc2tFWEdJZU9LLUdJUnJHcnNpTFRyZ3MzZTdZQmRiVW8yQTVhWUg0RGNoX0RtVzFqb0ZhbTdPUEpWYUJBNjJUX1ZLdkExRC1jZXY2MkVqYUxxZTJGTUhrMnhicnVSRk9ReV9CczB4WndCT2UxZjdVaUllX3prWnE3QmNhcVR"
+    "title": "Russland beschießt erneut Brücke in Kiew",
+    "summary": "Russland beschießt erneut Brücke in Kiew Erneut hat Russland eine Brücke in der ukrainischen Hauptstadt beschossen - diesmal traf es die Nordbrücke. Bereits am Vortag waren drei von sechs Straßenbrücken Kiews angegriffen und beschädigt worden.\nRussland beschießt erneut Brücke in Kiew - tagesschau.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE84Vk5FbXhQeHNkSU1EMUh0ay1HMGlWalpVVVZQNW9TUE9vUzY0RmlabkVnOEJIVk5mSUJhRWJpMGphRHlCOERGOXVTWFhlRHM4YVlXNUQ0c2JHVGtMdjBEVDBKdzdNdDNueTR2RTRvVEFteTNw?oc=5\" target=\"_blank\">Russland beschießt erneut Brücke in Kiew</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xcE9KeGZ3Rl9Pa3lneWMweE5qX1M5dTBLRzFIZC16UW55WjkycTNmbmdzZzI4VTg2ZzViQUNhb0ZBY0VhNGdzbXBuNk9iZlh6UGhMcHAwdktDYzFvNVRpcDVsYTh3UQ?oc=5\" target=\"_blank\">+++ Nachrichten im Ukraine-Krieg +++: Russland schießt erneut auf Brücke in Kyjiw</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">taz.de</font></li><li><a h"
   },
   {
-    "id": "story-652",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "SH",
-    "date": "2026-10-02T14:28:00.000Z",
-    "sources": [
-      {
-        "source": "ZDF heute",
-        "url": "https://www.zdfheute.de/sport/handball-johannes-golla-wechsel-melsungen-flensburg-100.html",
-        "date": "2026-10-02T14:28:00.000Z",
-        "snippet": "Johannes Golla will wieder nach Flensburg. Der Handball-Nationalmannschaftskapitän war erst im Sommer nach Melsungen gewechselt und hatte dort einen XXL-Vertrag unterschrieben.",
-        "title": "DHB-Kapitän Golla will zurück nach Flensburg"
-      },
-      {
-        "source": "Tagesschau Regional Schleswig-Holstein",
-        "url": "https://www.ndr.de/sport/handball/Handball-SG-Flensburg-Handewitt-Golla,golla-150.html",
-        "date": "2026-10-02T08:43:48.000Z",
-        "snippet": "Der Kreisläufer war erst im Sommer von der SG zur MT Melsungen gewechselt - aus familiären Gründen. Die zieht es nun wieder zurück in den Norden.",
-        "title": "DHB-Kapitän Golla will zurück zur SG Flensburg-Handewitt"
-      }
-    ],
-    "title": "DHB-Kapitän Golla will zurück nach Flensburg",
-    "summary": "DHB-Kapitän Golla will zurück nach Flensburg Johannes Golla will wieder nach Flensburg. Der Handball-Nationalmannschaftskapitän war erst im Sommer nach Melsungen gewechselt und hatte dort einen XXL-Vertrag unterschrieben.\nDHB-Kapitän Golla will zurück zur SG Flensburg-Handewitt Der Kreisläufer war erst im Sommer von der SG zur MT Melsungen gewechselt - aus familiären Gründen. Die zieht es nun wieder zurück in den Norden."
-  },
-  {
-    "id": "story-664",
+    "id": "story-293",
     "topic": "panorama",
-    "country": "DE",
+    "country": "UK",
     "stateHint": "",
-    "date": "2026-10-02T14:24:14.000Z",
+    "date": "2026-10-03T11:56:46.000Z",
     "sources": [
       {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUjZWZUtqOEMwc3FIZmQwOHB6OFFNUDcyUGk1bGVkaldfc2kyREEtbU55b1FhWHFkTWxRWmFVMmt4VklITWhGWkhrc0UtX285UjFDMklnMFpEdnVGSmZDd3J0dUlvU3hXZ0V4RFdaV1NQVnJtM2kwTHNsMTJUNE5sdkhaYjhROVNFU2UtZ1dYYnBkV1pSWXk4bktRbjhuWVFua1c1bVV4MU1fbGdDRngtZUc4ZWNqQW9BMTZXdXVaTQ?oc=5",
-        "date": "2026-10-02T14:24:14.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQUjZWZUtqOEMwc3FIZmQwOHB6OFFNUDcyUGk1bGVkaldfc2kyREEtbU55b1FhWHFkTWxRWmFVMmt4VklITWhGWkhrc0UtX285UjFDMklnMFpEdnVGSmZDd3J0dUlvU3hXZ0V4RFdaV1NQVnJtM2kwTHNsMTJUNE5sdkhaYjhROVNFU2UtZ1dYYnBkV1pSWXk4bktRbjhuWVFua1c1bVV4MU1fbGdDRngtZUc4ZWNqQW9BMTZXdXVaTQ?oc=5\" target=\"_blank\">VW-Tochter Skoda ruft 1,7 Millionen Fahrzeuge zurück</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQck9FaGZ6UWtDc0M5RFRTUGhJTzlPcHhFM000Y3N2aFQ0dnNNbHA1RXNfWXF3Tl9nUHc0eVFvLTJ3eXRYeHIzcml4SmdBWHRMMFFwWUQySWoxdHRMYTU2LVMtRE5xVHNuQng1TnN4eVZTY01HQUFicnZqQmZxWEs1OGFSLWZvcHlVdTMzRlkybG9Wdi",
-        "title": "VW-Tochter Skoda ruft 1,7 Millionen Fahrzeuge zurück - n-tv.de"
+        "source": "Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae",
+        "date": "2026-10-03T11:56:46.000Z",
+        "snippet": "<p>Attorney general says ‘terrorist attack’ was attempted by suspect who is said to have been barred from flying by Oman because of extremist views</p><p>The co-pilot of flydubai flight FZ1073 used an axe to attempt to carry out a “terrorist attack” during the Israel-bound flight, the United ⁠Arab Emirates prosecutor general has said.</p><p>Disaster was narrowly averted on Wednesday when passengers and crew intervened to stop the co-pilot from his attempt to take control of the plane, which had 182 people onboard and plunged 16,625ft in just over 30 seconds. The descent was so extreme that part of the rudder was ripped off.</p> <a href=\"https://www.theguardian.com/world/2026/oct/03/flydubai-",
+        "title": "Flydubai co-pilot used crash axe to attack captain, says UAE"
       },
       {
-        "source": "ntv",
-        "url": "https://www.n-tv.de/wirtschaft/Skoda-ruft-ueber-eine-Million-Fahrzeuge-zurueck-Probleme-mit-einer-Schraube-id31375208.html",
-        "date": "2026-10-02T14:24:14.000Z",
-        "snippet": "Eine fehlerhafte Schraube bei mehreren Modellen aus dem VW-Konzern kann zum Ausfall der Lenkung. Der Konzern ruft weltweit Fahrzeuge in die Werkstatt. Nun ist klar: Auch Skoda ist betroffen. Allein in Deutschland muss bei rund 370.000 Fahrzeugen nachgebessert werden.",
-        "title": "Probleme mit der Lenkung: VW-Tochter Skoda ruft 1,7 Millionen Fahrzeuge zurück"
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ2E5OEJaTjFvdHhoSWc3WjdoV2RLNUQwRXFYT3otRXhsOEh0aklJdTA1RkR5M1pZSVFRWmNMTXU5Q2hUOW9vZ0NlNklyWlhSQ1RBbEdOelVWTEtGSms1WkZZLVFFX2F5a2tnZ1JpVzJ5QzcyWTBEeUdkcDk5Z0dxWmpqbUhGd19fS0ZOWTFnNGRmbzljSG01SnNHRGMyalJ2UG1YdHlrbkI?oc=5",
+        "date": "2026-10-03T07:01:00.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ2E5OEJaTjFvdHhoSWc3WjdoV2RLNUQwRXFYT3otRXhsOEh0aklJdTA1RkR5M1pZSVFRWmNMTXU5Q2hUOW9vZ0NlNklyWlhSQ1RBbEdOelVWTEtGSms1WkZZLVFFX2F5a2tnZ1JpVzJ5QzcyWTBEeUdkcDk5Z0dxWmpqbUhGd19fS0ZOWTFnNGRmbzljSG01SnNHRGMyalJ2UG1YdHlrbkI?oc=5\" target=\"_blank\">Flydubai co-pilot used crash axe to attack captain, says UAE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+        "title": "Flydubai co-pilot used crash axe to attack captain, says UAE - The Guardian"
       }
     ],
-    "title": "VW-Tochter Skoda ruft 1,7 Millionen Fahrzeuge zurück - n-tv.de",
-    "summary": "VW-Tochter Skoda ruft 1,7 Millionen Fahrzeuge zurück - n-tv.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQUjZWZUtqOEMwc3FIZmQwOHB6OFFNUDcyUGk1bGVkaldfc2kyREEtbU55b1FhWHFkTWxRWmFVMmt4VklITWhGWkhrc0UtX285UjFDMklnMFpEdnVGSmZDd3J0dUlvU3hXZ0V4RFdaV1NQVnJtM2kwTHNsMTJUNE5sdkhaYjhROVNFU2UtZ1dYYnBkV1pSWXk4bktRbjhuWVFua1c1bVV4MU1fbGdDRngtZUc4ZWNqQW9BMTZXdXVaTQ?oc=5\" target=\"_blank\">VW-Tochter Skoda ruft 1,7 Millionen Fahrzeuge zurück</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQck9FaGZ6UWtDc0M5RFRTUGhJTzlPcHhFM000Y3N2aFQ0dnNNbHA1RXNfWXF3Tl9nUHc0eVFvLTJ3eXRYeHIzcml4SmdBWHRMMFFwWUQySWoxdHRMYTU2LVMtRE5xVHNuQng1TnN4eVZTY01HQUFicnZqQmZxWEs1OGFSLWZvcHlVdTMzRlkybG9Wdi\nProbleme mit der Lenkung: VW-Tochter Skoda ruft 1,7 Millionen Fahrzeuge zurück Eine fehlerhafte Schraube bei mehreren Modellen aus dem VW-Konzern kann zum Ausfall der Lenkung. Der Konzern ruft weltweit Fahrzeuge in die Werkstatt. Nun ist klar: Auch Skoda ist betroffen. Allein in Deutschland muss bei rund 370.000 Fahrzeugen nachgebessert werden."
+    "title": "Flydubai co-pilot used crash axe to attack captain, says UAE",
+    "summary": "Flydubai co-pilot used crash axe to attack captain, says UAE <p>Attorney general says ‘terrorist attack’ was attempted by suspect who is said to have been barred from flying by Oman because of extremist views</p><p>The co-pilot of flydubai flight FZ1073 used an axe to attempt to carry out a “terrorist attack” during the Israel-bound flight, the United ⁠Arab Emirates prosecutor general has said.</p><p>Disaster was narrowly averted on Wednesday when passengers and crew intervened to stop the co-pilot from his attempt to take control of the plane, which had 182 people onboard and plunged 16,625ft in just over 30 seconds. The descent was so extreme that part of the rudder was ripped off.</p> <a href=\"https://www.theguardian.com/world/2026/oct/03/flydubai-\nFlydubai co-pilot used crash axe to attack captain, says UAE - The Guardian <a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ2E5OEJaTjFvdHhoSWc3WjdoV2RLNUQwRXFYT3otRXhsOEh0aklJdTA1RkR5M1pZSVFRWmNMTXU5Q2hUOW9vZ0NlNklyWlhSQ1RBbEdOelVWTEtGSms1WkZZLVFFX2F5a2tnZ1JpVzJ5QzcyWTBEeUdkcDk5Z0dxWmpqbUhGd19fS0ZOWTFnNGRmbzljSG01SnNHRGMyalJ2UG1YdHlrbkI?oc=5\" target=\"_blank\">Flydubai co-pilot used crash axe to attack captain, says UAE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>"
   },
   {
-    "id": "story-734",
-    "topic": "sport",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-02T13:46:58.000Z",
-    "sources": [
-      {
-        "source": "t-online Sport",
-        "url": "https://www.t-online.de/sport/fussball/international/id_101463566/premier-league-manchester-city-legt-im-finanzskandal-einspruch-ein.html",
-        "date": "2026-10-02T13:46:58.000Z",
-        "snippet": "In allen 115 Anklagepunkten wurde Manchester City wegen Finanzverstößen schuldig gesprochen. Doch der Top-Klub wehrt sich weiter.",
-        "title": "Premier League: Manchester City legt im Finanzskandal Einspruch ein"
-      },
-      {
-        "source": "RND",
-        "url": "https://www.rnd.de/sport/finanzskandal-premier-league-manchester-city-wehrt-sich-gegen-schuldspruch-NZKFNHFHGFDPHHAPA42IMZH7OI.html",
-        "date": "2026-10-02T11:55:26.000Z",
-        "snippet": "Jahrelang soll Manchester City die Finanzregeln der englischen Premier League umgangen haben. Der Klub ist in allen Anklagepunkten schuldig gesprochen worden – und ist mit diesem Urteil nicht einverstanden.",
-        "title": "Premier League: Manchester City wehrt sich gegen Finanz-Schuldspruch"
-      }
-    ],
-    "title": "Premier League: Manchester City legt im Finanzskandal Einspruch ein",
-    "summary": "Premier League: Manchester City legt im Finanzskandal Einspruch ein In allen 115 Anklagepunkten wurde Manchester City wegen Finanzverstößen schuldig gesprochen. Doch der Top-Klub wehrt sich weiter.\nPremier League: Manchester City wehrt sich gegen Finanz-Schuldspruch Jahrelang soll Manchester City die Finanzregeln der englischen Premier League umgangen haben. Der Klub ist in allen Anklagepunkten schuldig gesprochen worden – und ist mit diesem Urteil nicht einverstanden."
-  },
-  {
-    "id": "story-740",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "NI",
-    "date": "2026-10-02T13:43:59.000Z",
-    "sources": [
-      {
-        "source": "Tagesschau Regional Niedersachsen",
-        "url": "https://www.tagesschau.de/inland/regional/niedersachsen/gerhard-schroeder-wird-globus-aufsichtsrat-in-russland,schroeder-434.html",
-        "date": "2026-10-02T13:43:59.000Z",
-        "snippet": "Der frühere Bundeskanzler soll die Entwicklung der Supermarkt-Kette verantworten. Darüber informierte das Unternehmen.",
-        "title": "Gerhard Schröder wird Globus-Aufsichtsrat in Russland"
-      },
-      {
-        "source": "RND",
-        "url": "https://www.rnd.de/wirtschaft/altkanzler-gerhard-schroeder-wird-aufsichtsrat-bei-handeslkette-globus-in-russland-3GTAHOGYX5EJLM65MR3HYFAJ74.html",
-        "date": "2026-10-02T11:27:48.000Z",
-        "snippet": "Kremlchef Putin stellt ausländische Firmen in Russland unter Zwangsverwaltung. Der russische Ableger der Handelskette Globus holt sich nun Putin-Freund und Ex-Kanzler Gerhard Schröder in den Aufsichtsrat. Ein Zufall?",
-        "title": "Altkanzler Gerhard Schröder wird Aufsichtsrat bei Handeslkette Globus in Russland"
-      }
-    ],
-    "title": "Gerhard Schröder wird Globus-Aufsichtsrat in Russland",
-    "summary": "Gerhard Schröder wird Globus-Aufsichtsrat in Russland Der frühere Bundeskanzler soll die Entwicklung der Supermarkt-Kette verantworten. Darüber informierte das Unternehmen.\nAltkanzler Gerhard Schröder wird Aufsichtsrat bei Handeslkette Globus in Russland Kremlchef Putin stellt ausländische Firmen in Russland unter Zwangsverwaltung. Der russische Ableger der Handelskette Globus holt sich nun Putin-Freund und Ex-Kanzler Gerhard Schröder in den Aufsichtsrat. Ein Zufall?"
-  },
-  {
-    "id": "story-1049",
+    "id": "story-323",
     "topic": "panorama",
-    "country": "DE",
-    "stateHint": "RP",
-    "date": "2026-10-02T08:51:12.000Z",
-    "sources": [
-      {
-        "source": "Tagesschau Regional Rheinland-Pfalz",
-        "url": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-einkaufen-am-tag-der-deutschen-einheit-was-am-samstag-in-rlp-geoeffnet-ist-100.html",
-        "date": "2026-10-02T08:51:12.000Z",
-        "snippet": "Am 3. Oktober ist Tag der Deutschen Einheit. In diesem Jahr fällt der bundesweite Feiertag auf einen Samstag – eigentlich ein klassischer Einkaufstag.",
-        "title": "Einkaufen am Tag der Deutschen Einheit: Was am Samstag in RLP geöffnet ist"
-      },
-      {
-        "source": "SWR Aktuell",
-        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/tag-der-deutschen-einheit-wo-kann-ich-trotz-feiertag-einkaufen-100.html",
-        "date": "2026-10-02T08:51:12.000Z",
-        "snippet": "Am 3. Oktober ist Tag der Deutschen Einheit. In diesem Jahr fällt der bundesweite Feiertag auf einen Samstag – eigentlich ein klassischer Einkaufstag.",
-        "title": "Einkaufen am Tag der Deutschen Einheit in RLP: Was geht, was geht nicht"
-      }
-    ],
-    "title": "Einkaufen am Tag der Deutschen Einheit: Was am Samstag in RLP geöffnet ist",
-    "summary": "Einkaufen am Tag der Deutschen Einheit: Was am Samstag in RLP geöffnet ist Am 3. Oktober ist Tag der Deutschen Einheit. In diesem Jahr fällt der bundesweite Feiertag auf einen Samstag – eigentlich ein klassischer Einkaufstag.\nEinkaufen am Tag der Deutschen Einheit in RLP: Was geht, was geht nicht Am 3. Oktober ist Tag der Deutschen Einheit. In diesem Jahr fällt der bundesweite Feiertag auf einen Samstag – eigentlich ein klassischer Einkaufstag."
-  },
-  {
-    "id": "story-1100",
-    "topic": "sport",
     "country": "PT",
     "stateHint": "",
-    "date": "2026-10-02T07:34:30.000Z",
+    "date": "2026-10-03T11:23:33.000Z",
     "sources": [
       {
-        "source": "RTP Desporto",
-        "url": "https://www.rtp.pt/noticias/selecao-nacional/jorge-jesus-exibicao-e-mais-importante-do-que-tudo-o-resto_d1769067",
-        "date": "2026-10-02T07:34:30.000Z",
-        "snippet": "A seleção portuguesa de futebol venceu a Dinamarca por 4-2, para a Liga das Nações, debaixo de tensão acrescida, após a saída de Cristiano Ronaldo do estágio em Copenhaga. No final, o selecionador escolheu falar da equipa.",
-        "title": "Jorge Jesus: Exibição \"é mais importante do que tudo o resto\""
+        "source": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTFFaa0pCSWY4Mk1rMm90cGp4bHotQVhVemFwaHFRRlNTLWlfU3MwaTVFX1NmTVR2QS1GRGwxS3Z2VzcyUTZ2TVpENkI2bl9yak1fc0lDWktfRWJRT0paRExieFc1UXR1QWRaVU5Ibk5LdGtDa2paUGVyT3hLWk1EaEwtR3VzSE45N3BQSDJPNjFWQlRSejJ3WHFjcnJIR1BvY0VXNFQzS1RiVlZYTWR6VEIxaWJmR0Z1XzNQdXU5SUgxdFlPZjNhaDl4MzZ0LWlUbXc?oc=5",
+        "date": "2026-10-03T11:23:33.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTFFaa0pCSWY4Mk1rMm90cGp4bHotQVhVemFwaHFRRlNTLWlfU3MwaTVFX1NmTVR2QS1GRGwxS3Z2VzcyUTZ2TVpENkI2bl9yak1fc0lDWktfRWJRT0paRExieFc1UXR1QWRaVU5Ibk5LdGtDa2paUGVyT3hLWk1EaEwtR3VzSE45N3BQSDJPNjFWQlRSejJ3WHFjcnJIR1BvY0VXNFQzS1RiVlZYTWR6VEIxaWJmR0Z1XzNQdXU5SUgxdFlPZjNhaDl4MzZ0LWlUbXc?oc=5\" target=\"_blank\">Consolidação e transformação do Brasil. Lula da Silva recandidata-se a inédito quarto mandato</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPck5IY0dEakY5d1ZYVFBMc2tMempNZTBXMEJWOHBNazBVSmgzNE1qYkd0cWtmUEFvMnE0YVZxSkpqdkNjbnM4RmFCS0FaWjN2NUpzeGpPRy02QU95emhPVXpyQ2E3",
+        "title": "Consolidação e transformação do Brasil. Lula da Silva recandidata-se a inédito quarto mandato - RTP"
+      },
+      {
+        "source": "RTP Mundo",
+        "url": "https://www.rtp.pt/noticias/mundo/consolidacao-e-transformacao-do-brasil-lula-da-silva-recandidata-se-a-inedito-quarto-mandato_es1768830",
+        "date": "2026-10-03T07:18:09.000Z",
+        "snippet": "Depois de um mandato de reconstrução, Lula da Silva recandidata-se com uma campanha de continuidade e aprofundamento das políticas iniciadas em 2023. O antigo metalúrgico e sindicalista de origens modestas pode destacar-se na história democrática do Brasil: se for reeleito, tornar-se-á o presidente da República com mais tempo em funções no Palácio do Planalto.",
+        "title": "Consolidação e transformação do Brasil. Lula da Silva recandidata-se a inédito quarto mandato"
+      }
+    ],
+    "title": "Consolidação e transformação do Brasil. Lula da Silva recandidata-se a inédito quarto mandato - RTP",
+    "summary": "Consolidação e transformação do Brasil. Lula da Silva recandidata-se a inédito quarto mandato - RTP <ol><li><a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTFFaa0pCSWY4Mk1rMm90cGp4bHotQVhVemFwaHFRRlNTLWlfU3MwaTVFX1NmTVR2QS1GRGwxS3Z2VzcyUTZ2TVpENkI2bl9yak1fc0lDWktfRWJRT0paRExieFc1UXR1QWRaVU5Ibk5LdGtDa2paUGVyT3hLWk1EaEwtR3VzSE45N3BQSDJPNjFWQlRSejJ3WHFjcnJIR1BvY0VXNFQzS1RiVlZYTWR6VEIxaWJmR0Z1XzNQdXU5SUgxdFlPZjNhaDl4MzZ0LWlUbXc?oc=5\" target=\"_blank\">Consolidação e transformação do Brasil. Lula da Silva recandidata-se a inédito quarto mandato</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPck5IY0dEakY5d1ZYVFBMc2tMempNZTBXMEJWOHBNazBVSmgzNE1qYkd0cWtmUEFvMnE0YVZxSkpqdkNjbnM4RmFCS0FaWjN2NUpzeGpPRy02QU95emhPVXpyQ2E3\nConsolidação e transformação do Brasil. Lula da Silva recandidata-se a inédito quarto mandato Depois de um mandato de reconstrução, Lula da Silva recandidata-se com uma campanha de continuidade e aprofundamento das políticas iniciadas em 2023. O antigo metalúrgico e sindicalista de origens modestas pode destacar-se na história democrática do Brasil: se for reeleito, tornar-se-á o presidente da República com mais tempo em funções no Palácio do Planalto."
+  },
+  {
+    "id": "story-345",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-03T11:00:09.000Z",
+    "sources": [
+      {
+        "source": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/inland/gesellschaft/wohnungsnot-168.html",
+        "date": "2026-10-03T11:00:09.000Z",
+        "snippet": "Bezahlbarer Wohnraum ist vor allem in Ballungsgebieten rar. Als eine Lösung schlagen Städte und Gemeinden vor, ländliche Regionen attraktiver zu machen. Bisher mangele es aber vor…",
+        "title": "Kommunen fordern Konzept für ländlichen Raum"
+      },
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/inland/gesellschaft/wohnungsnot-168.html",
+        "date": "2026-10-03T10:42:24.000Z",
+        "snippet": "Bezahlbarer Wohnraum ist vor allem in Ballungsgebieten rar. Als eine Lösung schlagen Städte und Gemeinden vor, ländliche Regionen attraktiver zu machen. Bisher mangele es aber vor allem an Versorgungs- und Nahverkehrsangeboten.",
+        "title": "Wohnungsnot: Kommunen fordern Konzept für ländlichen Raum"
+      }
+    ],
+    "title": "Kommunen fordern Konzept für ländlichen Raum",
+    "summary": "Kommunen fordern Konzept für ländlichen Raum Bezahlbarer Wohnraum ist vor allem in Ballungsgebieten rar. Als eine Lösung schlagen Städte und Gemeinden vor, ländliche Regionen attraktiver zu machen. Bisher mangele es aber vor…\nWohnungsnot: Kommunen fordern Konzept für ländlichen Raum Bezahlbarer Wohnraum ist vor allem in Ballungsgebieten rar. Als eine Lösung schlagen Städte und Gemeinden vor, ländliche Regionen attraktiver zu machen. Bisher mangele es aber vor allem an Versorgungs- und Nahverkehrsangeboten."
+  },
+  {
+    "id": "story-444",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-03T09:17:32.000Z",
+    "sources": [
+      {
+        "source": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/spritpreisbremse-in-polen-benzin-ab-1-54-euro-accg-201285239.html",
+        "date": "2026-10-03T09:17:32.000Z",
+        "snippet": "In Polen tritt eine Spritpreisbremse in Kraft. Möglich wurde sie durch die Übergewinnsteuer für Mineralölkonzerne – welche die CDU in Deutschland ablehnt.",
+        "title": "Tanken: Polens Spritpreisbremse drückt die Preise auf 1,54 Euro"
+      },
+      {
+        "source": "RND",
+        "url": "https://www.rnd.de/politik/polens-spritpreisbremse-tritt-in-kraft-uebergewinnsteuer-macht-tanken-deutlich-billiger-JD7TR3AICJHNZIG5E325IYHC54.html",
+        "date": "2026-10-03T08:30:07.000Z",
+        "snippet": "In Polen tritt eine Spritpreisbremse in Kraft. Möglich wurde sie durch eine Übergewinnsteuer für Mineralölkonzerne. Für die Autofahrer werden Benzin und Diesel deutlich günstiger.",
+        "title": "Polens Spritpreisbremse tritt in Kraft: Übergewinnsteuer macht Tanken deutlich günstiger"
+      }
+    ],
+    "title": "Tanken: Polens Spritpreisbremse drückt die Preise auf 1,54 Euro",
+    "summary": "Tanken: Polens Spritpreisbremse drückt die Preise auf 1,54 Euro In Polen tritt eine Spritpreisbremse in Kraft. Möglich wurde sie durch die Übergewinnsteuer für Mineralölkonzerne – welche die CDU in Deutschland ablehnt.\nPolens Spritpreisbremse tritt in Kraft: Übergewinnsteuer macht Tanken deutlich günstiger In Polen tritt eine Spritpreisbremse in Kraft. Möglich wurde sie durch eine Übergewinnsteuer für Mineralölkonzerne. Für die Autofahrer werden Benzin und Diesel deutlich günstiger."
+  },
+  {
+    "id": "story-447",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-03T09:11:57.000Z",
+    "sources": [
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/europa/mord-ann-widdecombe-100.html",
+        "date": "2026-10-03T09:11:57.000Z",
+        "snippet": "Im Juli wurde ein 28-Jähriger im Fall der getöteten Brexit-Politikerin Widdecombe wegen Mordes angeklagt. Die Ermittler stellen nun eine Verbindung zu weiteren Anschlagspläne her - unter anderem gegen Rechtspopulist Farage.",
+        "title": "Fall Widdecombe: Möglicherweise auch Anschlag auf Farage geplant"
+      },
+      {
+        "source": "RND",
+        "url": "https://www.rnd.de/politik/mord-an-brexit-politikerin-widdecombe-angeklagter-soll-auch-anschlag-auf-farage-geplant-haben-SOQMCGCKRBDYNFPHP45QFPHNBI.html",
+        "date": "2026-10-03T05:42:11.000Z",
+        "snippet": "Im Juli wurde ein 28-Jähriger im Fall der getöteten Brexit-Politikerin Ann Widdecombe wegen Mordes angeklagt. Die Ermittler stellen nun eine Verbindung zu möglichen weiteren Anschlagsplänen her.",
+        "title": "Mord an Brexit-Politikerin Widdecombe: Angeklagter soll auch Anschlag auf Farage geplant haben"
+      }
+    ],
+    "title": "Fall Widdecombe: Möglicherweise auch Anschlag auf Farage geplant",
+    "summary": "Fall Widdecombe: Möglicherweise auch Anschlag auf Farage geplant Im Juli wurde ein 28-Jähriger im Fall der getöteten Brexit-Politikerin Widdecombe wegen Mordes angeklagt. Die Ermittler stellen nun eine Verbindung zu weiteren Anschlagspläne her - unter anderem gegen Rechtspopulist Farage.\nMord an Brexit-Politikerin Widdecombe: Angeklagter soll auch Anschlag auf Farage geplant haben Im Juli wurde ein 28-Jähriger im Fall der getöteten Brexit-Politikerin Ann Widdecombe wegen Mordes angeklagt. Die Ermittler stellen nun eine Verbindung zu möglichen weiteren Anschlagsplänen her."
+  },
+  {
+    "id": "story-448",
+    "topic": "panorama",
+    "country": "PT",
+    "stateHint": "",
+    "date": "2026-10-03T09:11:01.000Z",
+    "sources": [
+      {
+        "source": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/economia/ataque-em-voo-para-telavive-classificado-como-terrorismo-copiloto-era-ja-suspeito-de-extremismo_n1769310",
+        "date": "2026-10-03T09:11:01.000Z",
+        "snippet": "O Ministério Público dos Emirados Árabes Unidos confirmou hoje que o copiloto do voo da Flydubai tentou atacar o piloto e desviar o avião, que seguia entre Dubai e Telavive, iniciando \"a execução de um atentado terrorista\".",
+        "title": "Ataque em voo para Telavive classificado como terrorismo, copiloto era já suspeito de extremismo"
       },
       {
         "source": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaXlrZGV0TWYyZUNFU0lnNjFuai15amdSMG0yRDIwRVloaHVkdERFX0VYTWpFMl9HYVQweE5zQXJBQTJWRkdQOGNmWFZNX0p5RGNWOEJnR3MtNzJtY0oyaTNnUWNQLWZKbmo0Z0U5S01qeGNnck5PVFZkZTUxUWRvTjQ5UXVLZkgzUjVhN3lSOHdKaDFhOVlNS2hiRTNqLUNyYUxzOFBId1pzWlVIWTBXZGl3?oc=5",
-        "date": "2026-10-02T06:35:27.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPaXlrZGV0TWYyZUNFU0lnNjFuai15amdSMG0yRDIwRVloaHVkdERFX0VYTWpFMl9HYVQweE5zQXJBQTJWRkdQOGNmWFZNX0p5RGNWOEJnR3MtNzJtY0oyaTNnUWNQLWZKbmo0Z0U5S01qeGNnck5PVFZkZTUxUWRvTjQ5UXVLZkgzUjVhN3lSOHdKaDFhOVlNS2hiRTNqLUNyYUxzOFBId1pzWlVIWTBXZGl3?oc=5\" target=\"_blank\">Jorge Jesus: Exibição \"é mais importante do que tudo o resto\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOR2VSeFJsYXpaN2p1VTk5dk9fbVhMeUMyeTBicW9lS0tjcUZ3T0dnV3VzUjdOSEdXNEl3cW5HTFJIamJvRG92TEhtemVBMUxCVmNhdXVoSTBsSE83Q1ZmVkZSZnVLME4zUWlIa1piWmZzUnYtY2xROHJjY09oTEFBRlpyd0lLUjRLb1hNN2hlYlpUQjdmeENQZktaRF8",
-        "title": "Jorge Jesus: Exibição \"é mais importante do que tudo o resto\" - RTP"
+        "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxQQm9JNHF4RGxPcWhWeHVWTWFqdnFTRmJRZkJVZjFqOUNPdmxHdno4blVFUk5Da2R5RjJvanc2SDMtWDBCUFZtOW02NV8tNTdCZWFLY0pwN09POXJyNzdEenlhQXNFTGhGOUk5ZHBqNHhwbkYtN2VURkRkcWZqeUd4QmdwdXFUczhkaW9ldlJkVDRtQUxLUVNBZnItVjhRMXQtTnFvWVEwOXQ2OXNGWmlPcXRmTWVyRGlURE9BZkktcDBrMHZJNG5MYUhTMGs1cm9zSDc2d1RFWWFkbXN6ZkM0Zi1zSG5fMXVOTXB3NHhxT3hNV0tzLS1ob3R6Y21vQXlVN21VdGRCY3ExMFd2dG81b3JzeWdoZG1sQnV4OGVkQmpWdDVRVm9pSXZZcVhnd3pOeVB3MDhfdUZJdUZCaHJKLUVxMW1LU1dXTU1YTjdobEs1c3otRnlGb09zZktaUFRneW5XU0xLRlpLbEM1MG5HYTV3WWRmcDVWXzR5SmdiNDJ4QW9WMUFtWjY3M0F6eFlkQjBRMVI0V2JGdDE5RUtDd2psazhoYjRQd1czTHpBVEp4bHdTZzZ6RjE2QkYybmZnYlVyTURmSVVaNF9DbHVmaW11ZzJUS0lWNEVKNmZ0VFhYRGxuQ0VkYnFmOFY?oc=5",
+        "date": "2026-10-03T07:59:00.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi7ANBVV95cUxQQm9JNHF4RGxPcWhWeHVWTWFqdnFTRmJRZkJVZjFqOUNPdmxHdno4blVFUk5Da2R5RjJvanc2SDMtWDBCUFZtOW02NV8tNTdCZWFLY0pwN09POXJyNzdEenlhQXNFTGhGOUk5ZHBqNHhwbkYtN2VURkRkcWZqeUd4QmdwdXFUczhkaW9ldlJkVDRtQUxLUVNBZnItVjhRMXQtTnFvWVEwOXQ2OXNGWmlPcXRmTWVyRGlURE9BZkktcDBrMHZJNG5MYUhTMGs1cm9zSDc2d1RFWWFkbXN6ZkM0Zi1zSG5fMXVOTXB3NHhxT3hNV0tzLS1ob3R6Y21vQXlVN21VdGRCY3ExMFd2dG81b3JzeWdoZG1sQnV4OGVkQmpWdDVRVm9pSXZZcVhnd3pOeVB3MDhfdUZJdUZCaHJKLUVxMW1LU1dXTU1YTjdobEs1c3otRnlGb09zZktaUFRneW5XU0xLRlpLbEM1MG5HYTV3WWRmcDVWXzR5SmdiNDJ4QW9WMUFtWjY3M0F6eFlkQjBRMVI0V2JGdDE5RUtDd2psazhoYjRQd1czTHpBVEp4bHdTZzZ6RjE2QkYybmZnYlVyTURmSVVaNF9DbHVmaW11ZzJUS0lWNEVKNmZ0VF",
+        "title": "Ataque em voo para Telavive classificado como terrorismo, copiloto era já suspeito de extremismo - Expresso"
       }
     ],
-    "title": "Jorge Jesus: Exibição \"é mais importante do que tudo o resto\"",
-    "summary": "Jorge Jesus: Exibição \"é mais importante do que tudo o resto\" A seleção portuguesa de futebol venceu a Dinamarca por 4-2, para a Liga das Nações, debaixo de tensão acrescida, após a saída de Cristiano Ronaldo do estágio em Copenhaga. No final, o selecionador escolheu falar da equipa.\nJorge Jesus: Exibição \"é mais importante do que tudo o resto\" - RTP <ol><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPaXlrZGV0TWYyZUNFU0lnNjFuai15amdSMG0yRDIwRVloaHVkdERFX0VYTWpFMl9HYVQweE5zQXJBQTJWRkdQOGNmWFZNX0p5RGNWOEJnR3MtNzJtY0oyaTNnUWNQLWZKbmo0Z0U5S01qeGNnck5PVFZkZTUxUWRvTjQ5UXVLZkgzUjVhN3lSOHdKaDFhOVlNS2hiRTNqLUNyYUxzOFBId1pzWlVIWTBXZGl3?oc=5\" target=\"_blank\">Jorge Jesus: Exibição \"é mais importante do que tudo o resto\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOR2VSeFJsYXpaN2p1VTk5dk9fbVhMeUMyeTBicW9lS0tjcUZ3T0dnV3VzUjdOSEdXNEl3cW5HTFJIamJvRG92TEhtemVBMUxCVmNhdXVoSTBsSE83Q1ZmVkZSZnVLME4zUWlIa1piWmZzUnYtY2xROHJjY09oTEFBRlpyd0lLUjRLb1hNN2hlYlpUQjdmeENQZktaRF8"
+    "title": "Ataque em voo para Telavive classificado como terrorismo, copiloto era já suspeito de extremismo",
+    "summary": "Ataque em voo para Telavive classificado como terrorismo, copiloto era já suspeito de extremismo O Ministério Público dos Emirados Árabes Unidos confirmou hoje que o copiloto do voo da Flydubai tentou atacar o piloto e desviar o avião, que seguia entre Dubai e Telavive, iniciando \"a execução de um atentado terrorista\".\nAtaque em voo para Telavive classificado como terrorismo, copiloto era já suspeito de extremismo - Expresso <ol><li><a href=\"https://news.google.com/rss/articles/CBMi7ANBVV95cUxQQm9JNHF4RGxPcWhWeHVWTWFqdnFTRmJRZkJVZjFqOUNPdmxHdno4blVFUk5Da2R5RjJvanc2SDMtWDBCUFZtOW02NV8tNTdCZWFLY0pwN09POXJyNzdEenlhQXNFTGhGOUk5ZHBqNHhwbkYtN2VURkRkcWZqeUd4QmdwdXFUczhkaW9ldlJkVDRtQUxLUVNBZnItVjhRMXQtTnFvWVEwOXQ2OXNGWmlPcXRmTWVyRGlURE9BZkktcDBrMHZJNG5MYUhTMGs1cm9zSDc2d1RFWWFkbXN6ZkM0Zi1zSG5fMXVOTXB3NHhxT3hNV0tzLS1ob3R6Y21vQXlVN21VdGRCY3ExMFd2dG81b3JzeWdoZG1sQnV4OGVkQmpWdDVRVm9pSXZZcVhnd3pOeVB3MDhfdUZJdUZCaHJKLUVxMW1LU1dXTU1YTjdobEs1c3otRnlGb09zZktaUFRneW5XU0xLRlpLbEM1MG5HYTV3WWRmcDVWXzR5SmdiNDJ4QW9WMUFtWjY3M0F6eFlkQjBRMVI0V2JGdDE5RUtDd2psazhoYjRQd1czTHpBVEp4bHdTZzZ6RjE2QkYybmZnYlVyTURmSVVaNF9DbHVmaW11ZzJUS0lWNEVKNmZ0VF"
+  },
+  {
+    "id": "story-496",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-03T08:28:00.000Z",
+    "sources": [
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNcll1Mkpiekl0Ti1kM0FaQnpYRzBxOFZSeWdVRm0yWUZmSTQwdGdLUmZlb1hmOVFVVkZTQU1RV0IwdGoxX0tUYWNEeWk5MHpreUs4bTg2SDRwel8yUmludUJvN2lGZmV6cm10VmxZMExJOTFQRlN6NzNoYjQwZENxOElSWVZ3VF8wRER1LUdYcDUyZm9KRDh2UkRrSFlsWGVES2lDSE00QnlxSkZyTk5mdDRKdjIzY29xaElYeG5FT2RXeHd3UjAtTDlvUXZad0ZLZXAzV2RFeE1pVXF4OUxVdUdYQmZDRTVCWFNlMVphVHZBaFNQYUhDd1gxSQ?oc=5",
+        "date": "2026-10-03T08:28:00.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxNcll1Mkpiekl0Ti1kM0FaQnpYRzBxOFZSeWdVRm0yWUZmSTQwdGdLUmZlb1hmOVFVVkZTQU1RV0IwdGoxX0tUYWNEeWk5MHpreUs4bTg2SDRwel8yUmludUJvN2lGZmV6cm10VmxZMExJOTFQRlN6NzNoYjQwZENxOElSWVZ3VF8wRER1LUdYcDUyZm9KRDh2UkRrSFlsWGVES2lDSE00QnlxSkZyTk5mdDRKdjIzY29xaElYeG5FT2RXeHd3UjAtTDlvUXZad0ZLZXAzV2RFeE1pVXF4OUxVdUdYQmZDRTVCWFNlMVphVHZBaFNQYUhDd1gxSQ?oc=5\" target=\"_blank\">Starbucks eröffnet Filialen in Xinjiang – und bekommt politischen Druck aus den USA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">spiegel.de</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pmcnZhTUVoRkRveDJDUTFiTWdTZ0FQAQ?hl=de&gl=DE&ceid=DE:de&",
+        "title": "Starbucks eröffnet Filialen in Xinjiang – und bekommt politischen Druck aus den USA - spiegel.de"
+      },
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/wirtschaft/unternehmen/starbucks-eroeffnet-filialen-in-xinjiang-und-bekommt-politischen-druck-aus-den-usa-a-27c1c417-b94c-4a58-b643-1d51ed2a98a7#ref=rss",
+        "date": "2026-10-03T08:28:00.000Z",
+        "snippet": "In den USA schließt Starbucks Dutzende Filialen, in der chinesischen Region Xinjiang eröffnet der Konzern nun aber zwei neue Cafés. Ein US-Politiker kritisiert das scharf und fordert, die neuen Filialen wieder zu schließen.",
+        "title": "Starbucks eröffnet Filialen in Xinjiang – und bekommt politischen Druck aus den USA"
+      }
+    ],
+    "title": "Starbucks eröffnet Filialen in Xinjiang – und bekommt politischen Druck aus den USA - spiegel.de",
+    "summary": "Starbucks eröffnet Filialen in Xinjiang – und bekommt politischen Druck aus den USA - spiegel.de <a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxNcll1Mkpiekl0Ti1kM0FaQnpYRzBxOFZSeWdVRm0yWUZmSTQwdGdLUmZlb1hmOVFVVkZTQU1RV0IwdGoxX0tUYWNEeWk5MHpreUs4bTg2SDRwel8yUmludUJvN2lGZmV6cm10VmxZMExJOTFQRlN6NzNoYjQwZENxOElSWVZ3VF8wRER1LUdYcDUyZm9KRDh2UkRrSFlsWGVES2lDSE00QnlxSkZyTk5mdDRKdjIzY29xaElYeG5FT2RXeHd3UjAtTDlvUXZad0ZLZXAzV2RFeE1pVXF4OUxVdUdYQmZDRTVCWFNlMVphVHZBaFNQYUhDd1gxSQ?oc=5\" target=\"_blank\">Starbucks eröffnet Filialen in Xinjiang – und bekommt politischen Druck aus den USA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">spiegel.de</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pmcnZhTUVoRkRveDJDUTFiTWdTZ0FQAQ?hl=de&gl=DE&ceid=DE:de&\nStarbucks eröffnet Filialen in Xinjiang – und bekommt politischen Druck aus den USA In den USA schließt Starbucks Dutzende Filialen, in der chinesischen Region Xinjiang eröffnet der Konzern nun aber zwei neue Cafés. Ein US-Politiker kritisiert das scharf und fordert, die neuen Filialen wieder zu schließen."
+  },
+  {
+    "id": "story-635",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-03T05:48:52.000Z",
+    "sources": [
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOekZuclFnbzhXLXZUalJGcV9VajBfZVpURkdpV2QyYnhLZzBjTTNfNGdoVDhGdV81Y0pDeW8zWHJ2VHJhS3hzWFRXZkI4MDRXZlRRV1pkUkpQNXdHV1VaM1A3YkpFb0Z3RTRuTzJ2eDljSmtSdUNQYWg4NHpMMU5vZFRxeHoyYUNrTHBEeVB0c1JjVDFkVGY4VzlVZGZ4R1dNQmMwQg?oc=5",
+        "date": "2026-10-03T05:48:52.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOekZuclFnbzhXLXZUalJGcV9VajBfZVpURkdpV2QyYnhLZzBjTTNfNGdoVDhGdV81Y0pDeW8zWHJ2VHJhS3hzWFRXZkI4MDRXZlRRV1pkUkpQNXdHV1VaM1A3YkpFb0Z3RTRuTzJ2eDljSmtSdUNQYWg4NHpMMU5vZFRxeHoyYUNrTHBEeVB0c1JjVDFkVGY4VzlVZGZ4R1dNQmMwQg?oc=5\" target=\"_blank\">Mit \"unbekannten Geschossen\": Briten melden Beschuss zweier Tanker in Straße von Hormus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQTm5zNGRpQk43NXhUUjZ2SS1hRkFJMDZmVjdubzdqVWhaVElqakY5RHI4NEJPZnplMnBrWUltQmRoS2hUQzlaYWVCSGlweXVudFFWNnZMcjF6XzA3WXdZYXd0QnpLVTZDMDdmUjRRSDRrVlN2RGx1a2staGdjdy1FS01NQWRlQWZUeE9zMjItRG1ING5",
+        "title": "Mit \"unbekannten Geschossen\": Briten melden Beschuss zweier Tanker in Straße von Hormus - n-tv.de"
+      },
+      {
+        "source": "ntv",
+        "url": "https://www.n-tv.de/politik/Briten-melden-Beschuss-zweier-Tanker-in-Strasse-von-Hormus-id31376384.html",
+        "date": "2026-10-03T05:48:52.000Z",
+        "snippet": "Die Durchfahrt durch die Straße von Hormus ist noch immer riskant. Die britische Schifffahrtsbehörde UKMTO berichtet erneut von Zwischenfällen in der Region.",
+        "title": "Mit \"unbekannten Geschossen\": Briten melden Beschuss zweier Tanker in Straße von Hormus"
+      }
+    ],
+    "title": "Mit \"unbekannten Geschossen\": Briten melden Beschuss zweier Tanker in Straße von Hormus - n-tv.de",
+    "summary": "Mit \"unbekannten Geschossen\": Briten melden Beschuss zweier Tanker in Straße von Hormus - n-tv.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOekZuclFnbzhXLXZUalJGcV9VajBfZVpURkdpV2QyYnhLZzBjTTNfNGdoVDhGdV81Y0pDeW8zWHJ2VHJhS3hzWFRXZkI4MDRXZlRRV1pkUkpQNXdHV1VaM1A3YkpFb0Z3RTRuTzJ2eDljSmtSdUNQYWg4NHpMMU5vZFRxeHoyYUNrTHBEeVB0c1JjVDFkVGY4VzlVZGZ4R1dNQmMwQg?oc=5\" target=\"_blank\">Mit \"unbekannten Geschossen\": Briten melden Beschuss zweier Tanker in Straße von Hormus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQTm5zNGRpQk43NXhUUjZ2SS1hRkFJMDZmVjdubzdqVWhaVElqakY5RHI4NEJPZnplMnBrWUltQmRoS2hUQzlaYWVCSGlweXVudFFWNnZMcjF6XzA3WXdZYXd0QnpLVTZDMDdmUjRRSDRrVlN2RGx1a2staGdjdy1FS01NQWRlQWZUeE9zMjItRG1ING5\nMit \"unbekannten Geschossen\": Briten melden Beschuss zweier Tanker in Straße von Hormus Die Durchfahrt durch die Straße von Hormus ist noch immer riskant. Die britische Schifffahrtsbehörde UKMTO berichtet erneut von Zwischenfällen in der Region."
+  },
+  {
+    "id": "story-719",
+    "topic": "umwelt",
+    "country": "UK",
+    "stateHint": "",
+    "date": "2026-10-03T02:00:46.000Z",
+    "sources": [
+      {
+        "source": "Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/03/bangkok-thailand-floods-breaking-point-stagnant-lakes",
+        "date": "2026-10-03T02:00:46.000Z",
+        "snippet": "<p>With 40 dead and a disaster declared across all 50 city districts, experts warn extreme flooding will only worsen across south-east Asia</p><p>Bangkok is used to absorbing the sudden afternoon downpours that inundate the city during the rainy season. Even streets in many central high-rise districts can briefly turn into rivers, with rats and cockroaches racing out of sewers and taking temporary refuge on trees and buildings as the subterranean world is flushed out.</p><p>But every city has a breaking point, and this year rain fell so fast and so hard that whole neighbourhoods of the Thai capital have been transformed, not into rivers, but stagnant lakes. In parts of the city, roughly 300m",
+        "title": "Bangkok at breaking point as floods turn streets into stagnant lakes"
+      },
+      {
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb1dIZGlVa204ZDcxcHZyWVhlUEVKZHZGQ0wwWGpJMkhYWTdEMGMzZEJxcHJDV0JnbERCc0tXQU1Id3dzUGgtOHlkYnM1Zk43MGdMeml4QmducDRNWmV3SXpPMFdZSC1iNGdOUzIwUXZiZUFZZTdrbkkwVW81Z2RYQjk3T3I0bVhZM2Y3T180N0dzTm9sNFozb056NThIRkVy?oc=5",
+        "date": "2026-10-03T02:00:00.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQb1dIZGlVa204ZDcxcHZyWVhlUEVKZHZGQ0wwWGpJMkhYWTdEMGMzZEJxcHJDV0JnbERCc0tXQU1Id3dzUGgtOHlkYnM1Zk43MGdMeml4QmducDRNWmV3SXpPMFdZSC1iNGdOUzIwUXZiZUFZZTdrbkkwVW81Z2RYQjk3T3I0bVhZM2Y3T180N0dzTm9sNFozb056NThIRkVy?oc=5\" target=\"_blank\">Bangkok at breaking point as floods turn streets into stagnant lakes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+        "title": "Bangkok at breaking point as floods turn streets into stagnant lakes - The Guardian"
+      }
+    ],
+    "title": "Bangkok at breaking point as floods turn streets into stagnant lakes",
+    "summary": "Bangkok at breaking point as floods turn streets into stagnant lakes <p>With 40 dead and a disaster declared across all 50 city districts, experts warn extreme flooding will only worsen across south-east Asia</p><p>Bangkok is used to absorbing the sudden afternoon downpours that inundate the city during the rainy season. Even streets in many central high-rise districts can briefly turn into rivers, with rats and cockroaches racing out of sewers and taking temporary refuge on trees and buildings as the subterranean world is flushed out.</p><p>But every city has a breaking point, and this year rain fell so fast and so hard that whole neighbourhoods of the Thai capital have been transformed, not into rivers, but stagnant lakes. In parts of the city, roughly 300m\nBangkok at breaking point as floods turn streets into stagnant lakes - The Guardian <a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQb1dIZGlVa204ZDcxcHZyWVhlUEVKZHZGQ0wwWGpJMkhYWTdEMGMzZEJxcHJDV0JnbERCc0tXQU1Id3dzUGgtOHlkYnM1Zk43MGdMeml4QmducDRNWmV3SXpPMFdZSC1iNGdOUzIwUXZiZUFZZTdrbkkwVW81Z2RYQjk3T3I0bVhZM2Y3T180N0dzTm9sNFozb056NThIRkVy?oc=5\" target=\"_blank\">Bangkok at breaking point as floods turn streets into stagnant lakes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>"
+  },
+  {
+    "id": "story-751",
+    "topic": "technik",
+    "country": "UK",
+    "stateHint": "",
+    "date": "2026-10-02T23:06:00.000Z",
+    "sources": [
+      {
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-02T23:06:00.000Z",
+        "snippet": "The Arizona appeals court ruled that airing an AI message from the dead victim \"crossed that line\".",
+        "title": "US road rage killer's sentence quashed because AI video of victim was shown in court"
+      },
+      {
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zdU11TEdPVDJQMTl5TjJncVpld2JDbE1LNV9WNFk3TEYyMWVMZzU0R3FYZE1zZ0dQd0RGZ0xEQVpLSk9peE9CZTBEb05LTW1hcGZ6alh4S1Jwanc?oc=5",
+        "date": "2026-10-02T23:06:00.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zdU11TEdPVDJQMTl5TjJncVpld2JDbE1LNV9WNFk3TEYyMWVMZzU0R3FYZE1zZ0dQd0RGZ0xEQVpLSk9peE9CZTBEb05LTW1hcGZ6alh4S1Jwanc?oc=5\" target=\"_blank\">US road rage killer's sentence quashed because AI video of victim was shown in court</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+        "title": "US road rage killer's sentence quashed because AI video of victim was shown in court - BBC"
+      }
+    ],
+    "title": "US road rage killer's sentence quashed because AI video of victim was shown in court",
+    "summary": "US road rage killer's sentence quashed because AI video of victim was shown in court The Arizona appeals court ruled that airing an AI message from the dead victim \"crossed that line\".\nUS road rage killer's sentence quashed because AI video of victim was shown in court - BBC <a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zdU11TEdPVDJQMTl5TjJncVpld2JDbE1LNV9WNFk3TEYyMWVMZzU0R3FYZE1zZ0dQd0RGZ0xEQVpLSk9peE9CZTBEb05LTW1hcGZ6alh4S1Jwanc?oc=5\" target=\"_blank\">US road rage killer's sentence quashed because AI video of victim was shown in court</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>"
+  },
+  {
+    "id": "story-783",
+    "topic": "wirtschaft",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-02T21:17:52.000Z",
+    "sources": [
+      {
+        "source": "t-online Wirtschaft",
+        "url": "https://www.t-online.de/finanzen/aktuelles/wirtschaft/id_101464050/usa-bayer-investiert-zwei-milliarden-dollar-fuer-neues-werk.html",
+        "date": "2026-10-02T21:17:52.000Z",
+        "snippet": "Bayer baut seine Produktion in den USA massiv aus. In New Albany entstehen Hunderte neue Arbeitsplätze.",
+        "title": "USA: Bayer investiert zwei Milliarden Dollar für neues Werk"
+      },
+      {
+        "source": "Handelsblatt",
+        "url": "https://www.handelsblatt.com/unternehmen/industrie/usa-bayer-investiert-22-milliarden-dollar-in-neues-us-werk/100259162.html",
+        "date": "2026-10-02T19:10:06.000Z",
+        "snippet": "In Ohio will der Pharmakonzern künftig Krebs-, Herz- und Nierenmedikamente herstellen. Bayer stärkt damit sein US-Geschäft – mitten in Trumps Kampf gegen hohe Arzneimittelpreise.",
+        "title": "USA: „Am schnellsten wachsender Markt“ – Bayer investiert 2,2 Milliarden Dollar in neues US-Werk"
+      }
+    ],
+    "title": "USA: Bayer investiert zwei Milliarden Dollar für neues Werk",
+    "summary": "USA: Bayer investiert zwei Milliarden Dollar für neues Werk Bayer baut seine Produktion in den USA massiv aus. In New Albany entstehen Hunderte neue Arbeitsplätze.\nUSA: „Am schnellsten wachsender Markt“ – Bayer investiert 2,2 Milliarden Dollar in neues US-Werk In Ohio will der Pharmakonzern künftig Krebs-, Herz- und Nierenmedikamente herstellen. Bayer stärkt damit sein US-Geschäft – mitten in Trumps Kampf gegen hohe Arzneimittelpreise."
   }
 ]
