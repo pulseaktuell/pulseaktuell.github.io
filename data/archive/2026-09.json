@@ -1,5 +1,87 @@
 [
   {
+    "id": "story-eaf73dac74c04415",
+    "c": "INT",
+    "o": "INT",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-09-26T20:28:37.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Papst Leo XIV. feiert Freiluftmesse vor Hunderttausenden in Paris",
+    "s": "Papst Leo XIV. hat auf seiner viertägigen Frankreich-Reise eine Messe unter freiem Himmel in Paris gefeiert. Der Pontifex absolviert damit den zweiten Tag seines Besuchs. Die Angaben zur Besucherzahl variieren je nach Quelle zwischen 700.000 und 800.000 Menschen.",
+    "m": "Am zweiten Tag seiner viertägigen apostolischen beziehungsweise offiziellen Frankreich-Reise – der ersten eines Papstes seit 18 Jahren – hielt Papst Leo XIV. in Paris eine Freiluftmesse ab. Die Veranstaltung zog eine riesige Menschenmenge an, die sich in zentralen Bereichen wie der Place de la Concorde und der Avenue des Champs-Élysées versammelte. Laut Schätzungen des Vatikans nahmen 700.000 bis 800.000 Gläubige an dem Gottesdienst teil, wobei die Zahl der Anwesenden die vorherigen Registrierungen um rund 100.000 überstieg. Der 71-jährige amerikanische Papst setzte im Anschluss sein Programm fort und betete unter anderem an der Grotto of Massabielle in Lourdes, einem bekannten katholischen Pilgerort.",
+    "r": "Der Besuch und die Großveranstaltung des Papstes in Frankreich unterstreichen die diplomatische und religiöse Bedeutung des Landes für den Vatikan. Zudem zeigen die hohen Teilnehmerzahlen das ungebrochene Mobilisierungspotenzial des Pontifex bei offiziellen Auslandsreisen.",
+    "srcs": [
+      {
+        "name": "France24 English",
+        "url": "https://www.france24.com/en/france/20260926-pope-leo-xiv-celebrates-open-air-mass-in-front-of-800-000-people-in-central-paris",
+        "date": "2026-09-26T20:28:37.000Z"
+      },
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/26/pope-leo-celebrates-open-air-mass-before-700000-people-in-paris",
+        "date": "2026-09-26T15:50:27.000Z"
+      }
+    ],
+    "url": "https://www.france24.com/en/france/20260926-pope-leo-xiv-celebrates-open-air-mass-in-front-of-800-000-people-in-central-paris",
+    "agree": "Die Quellen sind sich einig, dass Papst Leo XIV. an seinem zweiten Tag einer Frankreich-Reise eine Freiluftmesse in Paris vor Hunderttausenden Menschen gefeiert hat.",
+    "diff": [
+      {
+        "name": "France24 English",
+        "note": "nennt 800.000 Teilnehmer laut Vatican-Schätzungen und erwähnt zusätzlich das Gebet des Papstes an der Grotto of Massabielle in Lourdes."
+      },
+      {
+        "name": "Guardian World",
+        "note": "nennt 700.000 Teilnehmer, merkt an, dass es der erste offizielle Papstbesuch in Frankreich seit 18 Jahren ist, nennt den Papst einen 71-jährigen Amerikaner und erwähnt die Orte Place de la Concorde und Avenue des Champs-Élysées."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-fc9d6aad62aa1314",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-26T19:00:59.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Wadephul trifft überraschend Russlands Außenminister Lawrow in New York",
+    "s": "Bundesaußenminister Johann Wadephul hat am Rande der UN-Generaldebatte überraschend den russischen Außenminister Sergej Lawrow getroffen. Es ist das erste Treffen dieser Art zwischen einem deutschen Chefdiplomaten und Lawrow seit Beginn des russischen Überfalls auf die Ukraine. Das Gespräch fand in New York City statt.",
+    "m": "Das überraschende Treffen markiert das höchstrangigste diplomatische Zusammentreffen zwischen Deutschland und Russland seit Jahren. Johann Wadephul (CDU) und Sergej Lawrow kamen am Rande der UN-Generaldebatte zusammen. Nähere Details zu den konkreten Inhalten, der genauen Dauer oder vereinbarten Gesprächsergebnissen wurden in den Berichten zunächst nicht genannt. Auch offizielle Folgemaßnahmen oder eine mögliche Wiederaufnahme regelmäßiger diplomatischer Kanäle bleiben vorerst offen. Das Zusammentreffen überraschte Beobachter, da die bilateralen Beziehungen seit Kriegsbeginn auf einem Tiefpunkt sind. Es bleibt abzuwarten, ob dieses kurze Gespräch einen nachhaltigen Einfluss auf die diplomatischen Bemühungen zur Beendigung des Konflikts haben wird.",
+    "r": "Das Treffen ist von Bedeutung, da es das erste hochrangige diplomatische Gespräch zwischen einem deutschen Außenminister und Sergej Lawrow seit Beginn des Ukraine-Krieges ist und somit eine bemerkenswerte Ausnahme im bisherigen diplomatischen Stillstand darstellt.",
+    "srcs": [
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/europa/wadephul-treffen-lawrow-100.html",
+        "date": "2026-09-26T19:00:59.000Z"
+      },
+      {
+        "name": "DW Deutsch",
+        "url": "https://www.dw.com/de/bei-den-un-wadephul-trifft-überraschend-lawrow-in-new-york/a-79445008?maca=de-rss-de-all-1119-xml-mrss",
+        "date": "2026-09-26T17:42:00.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/ausland/europa/wadephul-treffen-lawrow-100.html",
+    "agree": "Beide Quellen stimmen überein, dass Bundesaußenminister Johann Wadephul den russischen Außenminister Sergej Lawrow überraschend in New York am Rande der UN getroffen hat.",
+    "diff": [
+      {
+        "name": "Tagesschau",
+        "note": "Erwähnt explizit, dass es sich um das erste Treffen eines deutschen Chefdiplomaten mit Lawrow seit Beginn des russischen Überfalls auf die Ukraine handelt."
+      },
+      {
+        "name": "DW Deutsch",
+        "note": "Nennt Johann Wadephuls Parteizugehörigkeit (CDU) und bezeichnet das Treffen als das höchstrangigste beider Länder seit Jahren."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-f0c799886ef0e031",
     "c": "INT",
     "o": "DE",
