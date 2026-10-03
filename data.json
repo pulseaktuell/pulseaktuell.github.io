@@ -1,5 +1,724 @@
 [
   {
+    "id": "story-dcdc78eb42eb0152",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-03T18:31:54.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Deutscher Urlauber stirbt bei Wanderunfall in Südtirol",
+    "s": "Ein 80-jähriger deutscher Urlauber ist bei einer Bergtour in Südtirol tödlich verunglückt. Er kam von einem historischen Wanderweg ab und stürzte 50 Meter in die Tiefe. Seine Ehefrau schlug sofort Alarm. Für den Wanderer kam jedoch jede Hilfe zu spät.",
+    "m": "Der Unfall ereignete sich auf einem historischen Wanderweg in Südtirol, wo der 80-jährige deutsche Urlauber aus bislang ungeklärter Ursache vom Weg abkam. Infolge des Verlusts des Pfads stürzte er rund 50 Meter in die Tiefe. Seine Frau, die ihn offenbar begleitet hatte oder auf die Tour aufmerksam wurde, schlug nach dem Sturz Alarm und alarmierte die Rettungskräfte. Trotz des sofortigen Einsatzes konnten die Rettungskräfte dem Mann nicht mehr helfen und nur noch seinen Tod feststellen. Ob weitere Rettungskräfte, Bergwacht oder Hubschrauber im Einsatz waren, geht aus den Quellen nicht hervor. Auch der genaue Standort oder der Name des Wanderwegs werden in den Berichten nicht näher genannt.",
+    "r": "Der Vorfall zeigt die anhaltenden Gefahren des Wanderns in alpinem Gelände für Urlauber. Er verdeutlicht zudem das Risiko von tödlichen Unfällen durch Stürze abseits ausgewiesener Wege.",
+    "srcs": [
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/panorama/Deutscher-stuerzt-in-Suedtirol-50-Meter-in-die-Tiefe-tot-id31377621.html",
+        "date": "2026-10-03T18:31:54.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/panorama/wanderunfall-deutscher-stuerzt-in-suedtirol-50-meter-in-die-tiefe-und-stirbt-a-df5340ed-0c96-464d-bb6a-6cc2ed6fa42b#ref=rss",
+        "date": "2026-10-03T18:09:00.000Z"
+      }
+    ],
+    "url": "https://www.n-tv.de/panorama/Deutscher-stuerzt-in-Suedtirol-50-Meter-in-die-Tiefe-tot-id31377621.html",
+    "agree": "Beide Quellen stimmen darin überein, dass ein 80-jähriger deutscher Urlauber in Südtirol 50 Meter in die Tiefe gestürzt und gestorben ist, nachdem seine Ehefrau Alarm geschlagen hatte.",
+    "diff": [
+      {
+        "name": "ntv",
+        "note": "Erwähnt zusätzlich, dass der Unfall auf einem historischen Wanderweg stattfand."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Bezeichnet das Geschehen allgemein als Bergtour, ohne die Erwähnung eines historischen Wanderwegs."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-ddcbe8ae43fc9117",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-03T18:30:50.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Tausende demonstrieren in Spanien gegen Wohnungsnot",
+    "s": "In Spanien sind tausende Menschen landesweit auf die Straße gegangen, um gegen die anhaltende Wohnungsnot zu protestieren. Die Proteste folgen auf politische Rückschläge bei Mietgesetzen im Parlament. Die Demonstranten fordern drastische Maßnahmen zur Entlastung des Wohnungsmarktes und bezahlbaren Wohnraum.",
+    "m": "Die landesweiten Kundgebungen in Spanien wurden durch das Scheitern wichtiger Mietdekrete in der Regierung ausgelöst. Nach Angaben der Veranstalter versammelten sich allein in Madrid rund 500.000 Menschen, während die Behörden und Regierungsstellen von etwa 70.000 Teilnehmern ausgehen. Die politischen Spannungen belasten die Regierungsarbeit massiv und nähren bereits Spekulationen über mögliche vorgezogene Neuwahlen im Land. Die Krise verdeutlicht die extreme Frustration in der Bevölkerung angesichts explodierender Mieten und unzureichenden politischen Gegenmaßnahmen. Beobachter sehen die Stabilität der aktuellen Regierung durch diese sozialen Unruhen stark gefährdet.",
+    "r": "Die Proteste und politischen Spannungen in Spanien verdeutlichen die akute Krise auf dem europäischen Wohnungsmarkt und können die Stabilität der nationalen Regierung gefährden.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/landesweit-demos-gegen-wohnungsnot-in-spanien-102.html",
+        "date": "2026-10-03T18:30:50.000Z"
+      },
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/europa/proteste-wegen-wohnungsnot-in-spanien-gehen-weiter-100.html",
+        "date": "2026-10-03T14:22:55.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/landesweit-demos-gegen-wohnungsnot-in-spanien-102.html",
+    "agree": "In Spanien protestieren landesweit tausende Menschen gegen die Wohnungsnot.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Berichtet allgemein über die regierungskrise und tausende demonstrierende Menschen."
+      },
+      {
+        "name": "Tagesschau",
+        "note": "Nennt das Scheitern wichtiger Mietdekrete, genaue Teilnehmerzahlen für Madrid (Veranstalter 500.000, Regierung 70.000) sowie Spekulationen über Neuwahlen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-eb5a1a62756d63db",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-03T18:30:50.000Z",
+    "p": 2,
+    "st": "SH",
+    "city": "",
+    "t": "Zum 30. Mal findet in ganz Deutschland der Tag der offenen Moschee",
+    "s": "Anlässlich des 30. Tags der offenen Moschee haben mehr als 700 Gotteshäuser in ganz Deutschland ihre Türen für interessierte Besucher geöffnet. Die diesjährige Aktion wurde bewusst auf den Tag der Deutschen Einheit gelegt.",
+    "m": "Der bundesweite Tag der offenen Moschee feiert in diesem Jahr sein 30. Jubiläum. Über 700 Moscheen in der Bundesrepublik beteiligten sich an der Initiative, um Einblicke in ihre Arbeit und ihre Räumlichkeiten zu geben. Durch die bewusste Terminauslegung auf den Tag der Deutschen Einheit wollten Muslime ein starkes Signal senden und verdeutlichen, dass sie ein fester und selbstverständlicher Teil der Gesellschaft sind. Die Veranstaltung bietet traditionell eine Gelegenheit zum interreligiösen Dialog und zum Abbau von Vorurteilen. Konkrete Besucherzahlen oder offene Fragen wurden in den Berichten nicht genannt.",
+    "r": "Die Veranstaltung ist relevant, da sich über 700 Moscheen bundesweit daran beteiligen und sie durch die bewusste Verbindung mit dem Tag der Deutschen Einheit gesellschaftspolitische Bedeutung hat.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/tag-der-offenen-moschee-136.html",
+        "date": "2026-10-03T18:30:50.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Schleswig-Holstein",
+        "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/tag-der-offenen-moschee-in-schleswig-holstein,moschee-216.html",
+        "date": "2026-10-03T16:21:59.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/tag-der-offenen-moschee-136.html",
+    "agree": "Beide Quellen stimmen darin überein, dass heute der Tag der offenen Moschee stattfindet.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Erwähnt das 30-jährige Jubiläum und die Zahl von mehr als 700 geöffneten Moscheen bundesweit."
+      },
+      {
+        "name": "Tagesschau Regional Schleswig-Holstein",
+        "note": "Berichtet aus Schleswig-Holstein und nennt den bewusst gewählten Termin am Tag der Deutschen Einheit sowie die gesellschaftliche Botschaft, dass Muslime Teil dieser Gesellschaft sind."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-2b309d38b507e481",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-03T18:30:50.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Tennessee: Justizvollzugschef tritt nach gescheiterter Hinrichtung zurück",
+    "s": "Im US-Bundesstaat Tennessee ist der Chef der Justizvollzugsbehörde nach einer gescheiterten Hinrichtung zurückgetreten. Betroffen war der Fall der zum Tod verurteilten Christa Pike. Eine unabhängige Untersuchung soll die genauen Hintergründe und Abläufe der fehlgeschlagenen Vollstreckung klären. Der Rücktritt erfolgt inmitten offener Fragen zur Sicherheit und Durchführung solcher Maßnahmen.",
+    "m": "Der Leiter des Strafvollzugs von Tennessee hat nach einer fehlgeschlagenen Hinrichtung seinen Posten geräumt. Bei der betroffenen Person handelt es sich um die zum Tod verurteilte Christa Pike. Das Justizministerium und zuständige Behörden stehen nun unter erheblichem Druck, die genauen technischen oder organisatorischen Fehler aufzuklären. Zur Aufklärung der Vorkommnisse wurde eine unabhängige Untersuchung angeordnet, die alle beteiligten Abläufe durchleuchten soll. Der Vorfall wirft erneut ein Schlaglicht auf die Debatte um die Todesstrafe und die Sicherheit beziehungsweise Durchführbarkeit von Hinrichtungen in den Vereinigten Staaten. Bislang sind viele Details des genauen Hergangs bei der gescheiterten Vollstreckung noch unklar. Offen ist auch, welche weiteren personellen oder strukturellen Konsequenzen aus dem Vorfall gezogen werden.",
+    "r": "Der Vorfall wirft grundsätzliche Fragen zur Durchführung von Hinrichtungen im US-Strafvollzug auf. Die angekündigte unabhängige Untersuchung soll zur Aufklärung der Geschehnisse beitragen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/justizvollzugschef-tritt-nach-gescheiterter-hinrichtung-zurueck-102.html",
+        "date": "2026-10-03T18:30:50.000Z"
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/christa-pike-hinrichtung-tennessee-giftspritze-frank-strada",
+        "date": "2026-10-03T17:52:56.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/justizvollzugschef-tritt-nach-gescheiterter-hinrichtung-zurueck-102.html",
+    "agree": "Die Quellen stimmen überein, dass der Chef des Strafvollzugs in Tennessee nach einer gescheiterten Hinrichtung zurückgetreten ist.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Berichtet allgemein über den Rücktritt nach einer gescheiterten Hinrichtung, nennt jedoch im Gegensatz zu ZEIT ONLINE keine Details über die betroffene Person."
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Erwähnt konkret den Namen der betroffenen Person Christa Pike und berichtet über eine angekündigte unabhängige Untersuchung zur Aufklärung der Geschehnisse."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-2f245b8cb1132235",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-03T18:22:30.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "AfD-Landeschef Springer ruft 50-Prozent-Ziel für Landtagswahl 2029 aus",
+    "s": "Nach dem Wahlerfolg in Sachsen-Anhalt blickt die AfD optimistisch auf kommende Wahlen. Brandenburgs Landeschef René Springer hat für die nächste Landtagswahl im Jahr 2029 ein klares Ziel formuliert. Er fordert die absolute Mehrheit für seine Partei. Derzeit sieht er die bisher erreichten Ergebnisse als noch nicht ausreichend an.",
+    "m": "Die AfD zeigt sich nach den jüngsten Wahlerfolgen, insbesondere in Sachsen-Anhalt, äußerst offensiv. Im Zentrum dieser Strategie steht Brandenburg, wo der Landesvorsitzende René Springer nun die Latte für die Landtagswahl 2029 deutlich höher gehängt hat. In seiner Bekanntgabe betonte er, dass ein Ergebnis von 44 Prozent für die Partei nicht ausreichen werde, um die angestrebten politischen Veränderungen herbeizuführen. Stattdessen müsse das klare Ziel die absolute Mehrheit von über 50 Prozent der Stimmen sein. Damit demonstriert der Landesverband einen gesteigerten Machtanspruch und eine Ausrichtung auf Regierungsverantwortung mit absoluter Dominanz. Bislang sind zu diesem Vorstoß keine konkreten Reaktionen anderer Parteien oder detaillierte Schritte zur Erreichung dieses Ziels bekannt. Auch über die genaue strategische Ausrichtung des Wahlkampfs in den kommenden Jahren machte Springer in der Mitteilung noch keine weiteren Angaben.",
+    "r": "Die Äußerungen des AfD-Landeschefs stecken den strategischen Anspruch der Partei für die kommenden Jahre in einem wichtigen Bundesland ab. Sie zeigen, wie die Partei nach bisherigen Erfolgen ihre politischen Ambitionen für zukünftige Wahlen weiter verschärft.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUkhUTS00Rlg5QW9jdkdjcnFURUJ0LUIyRTVMWG5DX3gxWk1aWnktczRhZE91VU1TVjlINk9BZDdiU0JTbU05eWVyaXVoeUVUTE5YNGVPR3l5R3BsMTdNRHVZcjNRV1hVaWVOSnRfU1VGb2hkdTQ3SFZnRVdTYmlSVU05MjE4WXV2Uno3YjRMSEVacExodW1vNjQ5MWVvTGtCRDhPVDBLWHFUeURYLXZZS241SjM2NG9aVnhGdktONHdhZDlaUllsOGtjeG5CWUtJc3BnWE5uZEJONHlzVncxXzg2QU1sbE1UWGZuOEtDQQ?oc=5",
+        "date": "2026-10-03T18:22:30.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/deutschland/article6ac11ac8d993ea3f355f5035/brandenburg-44-prozent-reichen-eben-nicht-afd-landeschef-ruft-50-prozent-ziel-aus.html",
+        "date": "2026-10-03T16:05:50.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUkhUTS00Rlg5QW9jdkdjcnFURUJ0LUIyRTVMWG5DX3gxWk1aWnktczRhZE91VU1TVjlINk9BZDdiU0JTbU05eWVyaXVoeUVUTE5YNGVPR3l5R3BsMTdNRHVZcjNRV1hVaWVOSnRfU1VGb2hkdTQ3SFZnRVdTYmlSVU05MjE4WXV2Uno3YjRMSEVacExodW1vNjQ5MWVvTGtCRDhPVDBLWHFUeURYLXZZS241SjM2NG9aVnhGdktONHdhZDlaUllsOGtjeG5CWUtJc3BnWE5uZEJONHlzVncxXzg2QU1sbE1UWGZuOEtDQQ?oc=5",
+    "agree": "Die Quellen stimmen überein, dass Brandenburgs AfD-Landeschef René Springer nach Wahlerfolgen das Ziel einer absoluten Mehrheit für die Landtagswahl 2029 ausgerufen hat.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Bringt die Schlagzeile mit dem Zitat 44 Prozent reichen eben nicht."
+      },
+      {
+        "name": "WELT",
+        "note": "Liefert den ausführlichen Artikeltext mit der Einordnung des Wahlerfolgs in Sachsen-Anhalt als Hintergrund."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-bb89a93125bed088",
+    "c": "INT",
+    "o": "DE",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-03T18:19:44.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "England gewinnt Nations-League-Spiel gegen Kroatien mit 7:0",
+    "s": "Die englische Nationalmannschaft hat in der Nations League einen deutlichen Auswärtssieg gefeiert. Gegen Kroatien setzte sich das Team mit 7:0 durch. Maßgeblich am Erfolg beteiligt war der Bayern-Torjäger Harry Kane, der zwei Treffer erzielte.",
+    "m": "In der Begegnung der Nations League gelang der englischen Auswahl ein überraschend deutlicher 7:0-Erfolg gegen Kroatien. Zu den Hauptakteuren des Spiels gehörte der für den FC Bayern München spielende Stürmer Harry Kane, welcher mit zwei eigenen Toren zum Gesamtergebnis beitrug. Das Team demonstrierte über die gesamte Spieldauer eine starke Leistung und dominierte den Gegner klar. Weitere Details zum Spielverlauf, wie Torschützen der übrigen Treffer oder taktische Aufstellungen, wurden in den vorliegenden Berichten nicht genannt. Auch eventuelle Konsequenzen für die Tabellensituation oder die beteiligten Mannschaften bleiben in den Quellen offen.",
+    "r": "Das deutliche Spielergebnis von 7:0 in der Nations League zeigt eine unerwartete sportliche Dominanz der englischen Mannschaft. Derartige Kantersiege auf internationalem Niveau sind von hoher sportlicher Relevanz für den Turnierverlauf.",
+    "srcs": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/sport/fussball/england-demuetigt-kroatien-harry-kane-trifft-doppelt-accg-201285869.html",
+        "date": "2026-10-03T18:19:44.000Z"
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-10/03/kane-trifft-doppelt-england-demuetigt-kroatien-mit-7-0",
+        "date": "2026-10-03T17:55:40.000Z"
+      }
+    ],
+    "url": "https://www.faz.net/aktuell/sport/fussball/england-demuetigt-kroatien-harry-kane-trifft-doppelt-accg-201285869.html",
+    "agree": "Beide Quellen berichten übereinstimmend über den 7:0-Sieg der englischen Nationalmannschaft gegen Kroatien sowie die zwei Tore von Harry Kane.",
+    "diff": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "note": "Erwähnt zusätzlich, dass es sich um ein Ausrufezeichen in der Nations League handelt und Kane als Bayern-Torjäger bezeichnet wird."
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Führt das Thema unter der übergeordneten Kategorie Fußball und nutzt exakt denselben Schlagzeilentext."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-3d0d5a07a33a23be",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-03T18:19:37.000Z",
+    "p": 2,
+    "st": "BW",
+    "city": "",
+    "t": "Sternekoch Andreas Widmann kocht im Tiefen Stollen bei Aalen",
+    "s": "Der Sternekoch Andreas Widmann hat sein Restaurant für drei Tage in den Tiefen Stollen bei Aalen verlegt. Insgesamt 30 Gäste bekamen die Gelegenheit, in dem ungewohnten Ambiente unter Tage zu speisen. Diese außergewöhnliche Aktion verbindet regionale Gastronomie mit einem industriekulturellen Veranstaltungsort.",
+    "m": "Der schwäbische Sternekoch Andreas Widmann aus Königsbronn-Zang hat für ein exklusives kulinarisches Projekt den Standort gewechselt und sein Können in den Tiefen Stollen nach Aalen gebracht. An drei aufeinanderfolgenden Tagen wurden jeweils ausgewählte Menüs für insgesamt 30 Gäste serviert, die in die Tiefe des Bergwerks einfuhren. Der Tiefe Stollen, der ansonsten als Besucherbergwerk und Ort der Industriegeschichte dient, bot für diesen Zeitraum eine außergewöhnliche Kulisse für die Sternegastronomie. Solche temporären Gourmet-Events erfreuen sich wachsender Beliebtheit, stellen die Veranstalter jedoch vor logistische Herausforderungen hinsichtlich der Infrastruktur im Bergwerk. Weitere Details zu den genauen Menüfolgen oder den Kosten pro Menü wurden in den Berichten nicht genannt.",
+    "r": "Die Berichte dokumentieren ein ungewöhnliches gastronomisches Event, das klassische Sternegastronomie mit einem unkonventionellen Veranstaltungsort in einem Besucherbergwerk verbindet. Solche temporären Aktionen bieten Einblicke in kreative Marketing- und Erlebnisansätze der regionalen Gastronomie.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/dinner-im-tiefen-stollen-100.html",
+        "date": "2026-10-03T18:19:37.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Baden-Württemberg",
+        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-tiefer-stollen-in-aalen-wird-zum-sterne-restaurant-100.html",
+        "date": "2026-10-03T08:43:40.000Z"
+      }
+    ],
+    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/dinner-im-tiefen-stollen-100.html",
+    "agree": "Beide Quellen stimmen überein, dass Sternekoch Andreas Widmann aus Königsbronn-Zang sein Restaurant für drei Tage in den Tiefen Stollen bei Aalen verlegt hat und dort jeweils 30 Gäste bewirtet wurden.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-b3b060cf2d871976",
+    "c": "INT",
+    "o": "DE",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-03T18:02:21.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Englands Nationalmannschaft unter Thomas Tuchel besiegt Kroatien deutlich in der Nations League",
+    "s": "Unter Trainer Thomas Tuchel hat die englische Fußballnationalmannschaft in der Nations League einen deutlichen Sieg gegen Kroatien eingefahren. Die Partie endete mit einer historischen Niederlage für die kroatischen Gastgeber. Bereits früh in der Begegnung nahm das Debakel für das Heimteam Formen an.",
+    "m": "Die englische Nationalmannschaft zeigte unter der Leitung von Trainer Thomas Tuchel eine überragende Leistung und besiegte Kroatien in der Nations League mit einem klaren Resultat. Berichten zufolge spielten sich die als \"Three Lions\" bekannten Engländer in einen wahren Rausch. Für die kroatischen Gastgeber entwickelte sich das Spiel zu einer historischen und herben Pleite. Das sportliche Debakel nahm bereits in der Anfangsphase des Spiels deutliche Formen an. Weitere Details zum genauen Spielverlauf, Torschützen oder der exakten Tabellensituation lassen die vorliegenden Berichte derzeit offen. Es bleibt abzuwarten, wie sich dieser deutliche Erfolg auf die weiteren Aussichten beider Teams im Turnierverlauf auswirken wird.",
+    "r": "Das Spiel markiert einen deutlichen und historischen Ausgang in der Nations League für zwei namhafte europäische Nationalmannschaften. Der Ausgang der Partie unterstreicht die sportliche Verfassung beider Teams unter den aktuellen wettbewerblichen Bedingungen.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcWttcHBXeUI1TXFfQzZFUWZ2RFZFR1dhWVotZmRxSWtwR1Rmek05U0N5WlMzV1BQY1p6eUdnbVp2cG1NTHVlenZBelQwdEtBdVJudnl4bkQyb09ZNmI3am9SX2Q2OF9UbzF3TzBWdUZTc01LSlZGYXBELXhGaUZ0UC1XNmxUalMwdGpLeF9PQkR4OS1Pc3I4bzV1RTc0a2FPU3B2dzE4d0xfYnVWSzRJ?oc=5",
+        "date": "2026-10-03T18:02:21.000Z"
+      },
+      {
+        "name": "t-online Sport",
+        "url": "https://www.t-online.de/sport/fussball/nations-league/id_101464784/nations-league-tuchels-england-gnadenlos-historische-pleite-fuer-kroatien.html",
+        "date": "2026-10-03T17:59:42.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcWttcHBXeUI1TXFfQzZFUWZ2RFZFR1dhWVotZmRxSWtwR1Rmek05U0N5WlMzV1BQY1p6eUdnbVp2cG1NTHVlenZBelQwdEtBdVJudnl4bkQyb09ZNmI3am9SX2Q2OF9UbzF3TzBWdUZTc01LSlZGYXBELXhGaUZ0UC1XNmxUalMwdGpLeF9PQkR4OS1Pc3I4bzV1RTc0a2FPU3B2dzE4d0xfYnVWSzRJ?oc=5",
+    "agree": "Beide Quellen stimmen darin überein, dass Englands Nationalmannschaft unter Trainer Thomas Tuchel in der Nations League einen sehr deutlichen und historischen Sieg gegen Kroatien errungen hat.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Erwähnt WEB.DE als Plattform und fasst das Ergebnis als 'zerlegt Kroatien' zusammen."
+      },
+      {
+        "name": "t-online Sport",
+        "note": "Beschreibt die englische Mannschaft als 'Three Lions', die sich in einen Rausch gespielt haben, und hebt hervor, dass das Debakel für die kroatischen Gastgeber früh Formen annahm."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-3d578817a360f1ae",
+    "c": "DE",
+    "o": "DE",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-03T17:48:03.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Jürgen Klopp setzt auf Jonas Urbig und Aleksandar Pavlovic gegen Griechenland",
+    "s": "Vor dem Länderspiel in Griechenland hat Bundestrainer Jürgen Klopp seine Personalentscheidungen getroffen. In der Torwartfrage ist eine klare Entscheidung gefallen. Zudem steht fest, dass ein Spieler aus München zum Einsatz kommt.",
+    "m": "Die deutsche Fußball-Nationalmannschaft bereitet sich auf ihr Spiel in Griechenland vor. Jürgen Klopp hält sich bei der Bekanntgabe seiner Startaufstellung weitgehend bedeckt, hat nun aber zentrale Personalfragen geklärt. So steht fest, dass Jonas Urbig das Tor hüten wird. Zudem ist klar, dass der Münchner Aleksandar Pavlovic in der Startelf stehen wird. Klopp betonte, dass sich der Spieler nicht mehr aus dem Team „quatschen“ könne. Weitere Details zur restlichen Aufstellung wurden zunächst nicht bekannt gegeben. Die Mannschaft will in Griechenland einen Sieg einfahren.",
+    "r": "Die Bekanntgabe von Personalentscheidungen vor einem Länderspiel ist für die sportliche Vorbereitung und Aufstellung der Nationalmannschaft von Bedeutung. Sie gibt Aufschluss über die taktische Ausrichtung und das Vertrauen des Trainers in bestimmte Spieler.",
+    "srcs": [
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/sport/nationalmannschaft-klopp-verraet-torwart-entscheidung-vor-spiel-in-griechenland-HZQJVXNSZFC35EH2YANQFYFWGY.html",
+        "date": "2026-10-03T17:48:03.000Z"
+      },
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/sport/fussball-nationalmannschaft--mit-urbig-im-tor-und-pavlovic-gegen-griechenland-38345034.html",
+        "date": "2026-10-03T17:18:31.000Z"
+      }
+    ],
+    "url": "https://www.rnd.de/sport/nationalmannschaft-klopp-verraet-torwart-entscheidung-vor-spiel-in-griechenland-HZQJVXNSZFC35EH2YANQFYFWGY.html",
+    "agree": "Beide Quellen stimmen überein, dass Jürgen Klopp vor dem Spiel in Griechenland die Torwart-Entscheidung getroffen hat und ein Münchner Spieler fest im Team eingeplant ist.",
+    "diff": [
+      {
+        "name": "stern",
+        "note": "Nennt konkret Jonas Urbig als Torwart und Aleksandar Pavlovic als Spieler gegen Griechenland."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-ed056b61733212d8",
+    "c": "INT",
+    "o": "INT",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-03T17:20:00.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Schwerer Verkehrsunfall mit mindestens 17 Toten in Kenia",
+    "s": "Bei einem schweren Verkehrsunfall auf einer Autobahn in Kenia sind mindestens 17 Menschen ums Leben gekommen. Unter den Opfern befanden sich überwiegend katholische Pilger. Das Unglück ereignete sich in der Region Salama südöstlich der Hauptstadt Nairobi.",
+    "m": "Der Unfall ereignete sich auf einer Autobahn im Salama-Gebiet, das etwa 90 Kilometer südöstlich der kenianischen Hauptstadt Nairobi liegt. An dem Zusammenstoß waren mehrere Fahrzeuge beteiligt. Mindestens 17 Menschen verloren bei dem Unglück ihr Leben. Die Mehrheit der Todesopfer stammte aus einer Gruppe von katholischen Pilgern, die sich auf dem Weg befunden hatte. Bisher liegen keine näheren offiziellen Angaben zur genauen Unfallursache oder zum Zustand eventueller Verletzter vor. Die Behörden haben die Ermittlungen zu dem mehrfachen Fahrzeugcrash aufgenommen.",
+    "r": "Das Unfallgeschehen verdeutlicht die anhaltenden Gefahren im Straßenverkehr auf kenianischen Fernstraßen, insbesondere bei Gruppenreisen von Pilgern. Ein Unfall dieser Größenordnung mit mindestens 17 Todesopfern erfordert behördliche Untersuchungen und Aufmerksamkeit für die Verkehrssicherheit in der Region.",
+    "srcs": [
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN0JBNnp0LVRGbUo2ejJIbWFjdXhyeVNLbnhycjhyWjdKY0F6d2RLY0FlTlA3ejdub1lDSHBmSGEydmYzWC1Yek5YR29va2VpMUVVYW1sUzhKTUJmVklSbWVfaXNoT3ZTSW41Slh5NDNpem9UanNiUktpbUY1a0NoTDd5LVN6OEd0NTQ1Vnlfc2JjQQ?oc=5",
+        "date": "2026-10-03T17:20:00.000Z"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/3/at-least-17-people-mostly-pilgrims-killed-in-kenya-road-crash?traffic_source=rss",
+        "date": "2026-10-03T14:30:40.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN0JBNnp0LVRGbUo2ejJIbWFjdXhyeVNLbnhycjhyWjdKY0F6d2RLY0FlTlA3ejdub1lDSHBmSGEydmYzWC1Yek5YR29va2VpMUVVYW1sUzhKTUJmVklSbWVfaXNoT3ZTSW41Slh5NDNpem9UanNiUktpbUY1a0NoTDd5LVN6OEd0NTQ1Vnlfc2JjQQ?oc=5",
+    "agree": "Beide Quellen stimmen überein, dass bei einem Verkehrsunfall in Kenia mindestens 17 Menschen getötet wurden, bei denen es sich überwiegend um katholische Pilger handelte.",
+    "diff": [
+      {
+        "name": "Al Jazeera",
+        "note": "Ergänzt, dass es sich um einen Unfall mit mehreren Fahrzeugen handelte und dieser im Gebiet Salama, 90 Kilometer südöstlich von Nairobi, stattfand."
+      },
+      {
+        "name": "Google News World",
+        "note": "Berichtet allgemein über einen Autounfall auf einer Autobahn in Kenia und nennt Audacy als Medium."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-4f4fdca3d178a51a",
+    "c": "INT",
+    "o": "UK",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-03T17:03:54.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "US-Küstenwache sucht nach vermisstem Ambulanzflugzeug vor Massachusetts",
+    "s": "Vor der Küste von Massachusetts wird nach einem vermissten Ambulanzflugzeug mit sechs Menschen an Bord gesucht. Die Maschine befand sich auf einem medizinischen Evakuierungsflug von Bermuda nach Boston, als der Kontakt zur Flugsicherungsbehörde FAA abbrach. Die US-Küstenwache hat umgehend Rettungsmaßnahmen eingeleitet.",
+    "m": "Das Flugzeug vom Typ Gulfstream G-100 verlor am frühen Samstagmorgen den Kontakt zur Federal Aviation Administration. Die FAA gab daraufhin gegen 1.20 Uhr Ortszeit eine Such- und Rettungswarnung heraus. An Bord der Maschine befanden sich insgesamt sechs Personen. Der Flug war als medizinische Evakuierung (Medevac) von Bermuda gestartet und sollte Boston als Ziel ansteuern. Bislang gibt es keine Informationen über den genauen Verbleib des Flugzeugs oder mögliche Wrackteile. Die Such- und Rettungsarbeiten der US-Küstenwache dauern an, um die vermissten Personen zu finden und die Ursache des Vorfalls zu klären.",
+    "r": "Der Vorfall betrifft die Sicherheit des internationalen Luftverkehrs und einen Großeinsatz der Rettungskräfte bei einem medizinischen Evakuierungsflug. Das Verschwinden eines Passagier- oder Ambulanzflugzeugs erfordert umgehende behördliche Maßnahmen zur Seenotrettung.",
+    "srcs": [
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/oct/03/us-coast-guard-missing-air-ambulance-massachusetts",
+        "date": "2026-10-03T17:03:54.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR3FuVDhaSjhGeFJmSmVkV1dvdEFialUwZXRhNEVtUXhGWUxRU1RMbG1KTkpFaDNZdjQ2T1dVY1h4OF9Jb08zRTNOSm04R3NhYXRUTy1hRENpSWdhck1zZHFUN2o2SHB0NFBDWVg1cjZWM2NlbnBQX0ZsTWlxbG50WWQ4T2I3U1J0VUt5QjAtV0Q3cUZVTndUYVk4Szk3WjQ?oc=5",
+        "date": "2026-10-03T17:03:00.000Z"
+      }
+    ],
+    "url": "https://www.theguardian.com/us-news/2026/oct/03/us-coast-guard-missing-air-ambulance-massachusetts",
+    "agree": "Beide Quellen stimmen überein, dass die US-Küstenwache nach einem vermissten Ambulanzflugzeug vor der Küste von Massachusetts sucht.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Verweist lediglich auf den Artikel des Guardian und enthält keine eigenständigen Details."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-1d6c24f9835b5d40",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-03T16:28:05.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Regierungsbildung: Rot-Grün-Rot will Gespräche in Berlin kommende Woche „zu einem Ergebnis führen“ - WELT",
+    "s": "Regierungsbildung: Rot-Grün-Rot will Gespräche in Berlin kommende Woche „zu einem Ergebnis führen“ WELT <a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNcFVORnV2UmxJTkRtc0pBVFQ5SVZtYkZLZnQxOExGT214bFhNV",
+    "m": "Regierungsbildung: Rot-Grün-Rot will Gespräche in Berlin kommende Woche „zu einem Ergebnis führen“ WELT <a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNcFVORnV2UmxJTkRtc0pBVFQ5SVZtYkZLZnQxOExGT214bFhNV Nach einem zweiten Treffen haben sich die Berliner Landesverbände von Linken, Grünen und SPD „auf einen weiteren gemeinsamen Weg verständigt“. Themen waren unter anderem die Haltung der Linken zu Antisemitismus, organisierter Kriminalität und Linksextremismus.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQTW5RbnRlZ1p2UGV0b1U3LVp2eFV0QjM5UF91Q3ktLXh3WHhlM0RkdlM1WkgzZlNIMVQ2aVZqTXBKdkZiZ0g3T2Y4Z1l6S0Z0bndocnEzRVlITWpHYUE0dkxYdXh3UDU1UzRNd0o0Ym9MbjhIZVByM2xlZERGMkswc3hxdHlfUGdoOGFodXY5NVhCNFB3VWF3bDRHbTFuRnJVT3NPd0FhOWRWREUtUWpPaVVBWlhYVGNNVFpNZ1JORl9RbG1vWWNtRnlmUnlINEZITGFqUXhuOHF6M0w2RUJmLW10VEhWZzJDMkhxOVFGMTR5ZjJoVnhkOS1aNDBteXB2M3ZkNUlR?oc=5",
+        "date": "2026-10-03T16:28:05.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/deutschland/article6ac10973c00ec0a4cc07b1a7/regierungsbildung-rot-gruen-rot-will-gespraeche-in-berlin-kommende-woche-zu-einem-ergebnis-fuehren.html",
+        "date": "2026-10-03T14:58:11.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQTW5RbnRlZ1p2UGV0b1U3LVp2eFV0QjM5UF91Q3ktLXh3WHhlM0RkdlM1WkgzZlNIMVQ2aVZqTXBKdkZiZ0g3T2Y4Z1l6S0Z0bndocnEzRVlITWpHYUE0dkxYdXh3UDU1UzRNd0o0Ym9MbjhIZVByM2xlZERGMkswc3hxdHlfUGdoOGFodXY5NVhCNFB3VWF3bDRHbTFuRnJVT3NPd0FhOWRWREUtUWpPaVVBWlhYVGNNVFpNZ1JORl9RbG1vWWNtRnlmUnlINEZITGFqUXhuOHF6M0w2RUJmLW10VEhWZzJDMkhxOVFGMTR5ZjJoVnhkOS1aNDBteXB2M3ZkNUlR?oc=5",
+    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-d02e6fab4e191612",
+    "c": "INT",
+    "o": "INT",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-03T16:17:23.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Vereinigte Arabische Emirate: Co-Pilot von Flydubai soll Anschlag geplant haben",
+    "s": "In den Vereinigten Arabischen Emiraten wird ein Vorfall bei der Fluggesellschaft Flydubai untersucht. Einem offiziellen Bericht zufolge soll der Co-Pilot versucht haben, einen Anschlag auszuüben. Dabei kam es zu einer Auseinandersetzung im Cockpit mit dem Flugkapitän.",
+    "m": "Offiziellen Angaben aus den Vereinigten Arabischen Emiraten zufolge soll ein Co-Pilot der Fluggesellschaft Flydubai einen mutmaßlichen terroristischen Anschlag versucht haben. Im Verlauf des Vorfalls attackierte der Co-Pilot den Kapitän direkt im Cockpit des Flugzeugs. Als Waffe soll dabei das im Cockpit befindliche Notbeil beziehungsweise die Crash-Axt verwendet worden sein. Bislang wurden von den zuständigen Behörden keine weiteren Details zum genauen zeitlichen Ablauf oder zu möglichen Hintergründen der Tat bekannt gegeben. Auch über den genauen Zustand des angegriffenen Kapitäns und ob sich Passagiere an Bord befanden, liegen noch keine umfassenden Informationen vor. Der Vorfall wirft Fragen zur Sicherheit und zu den Überprüfungsverfahren von Flugpersonal auf. Die Ermittlungen der lokalen Behörden dauern an, um die genauen Motive und Abläufe zu klären.",
+    "r": "Der Vorfall betrifft die Flugsicherheit und wirft Fragen zu möglichen Sicherheitsrisiken durch Besatzungsmitglieder auf. Offizielle Stellen der Vereinigten Arabischen Emirate untersuchen die Hintergründe der Attacke im Cockpit.",
+    "srcs": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/jerusalem-daily-uae-says-flydubai-co-pilot-attempted-terrorist-attack?traffic_source=rss",
+        "date": "2026-10-03T16:17:23.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbF8tRjFLWUZpZHJici1SSmphVzktMzJVRnFGWW9KVEJERVAxaE5MemRxZ1VMWjV1bXNfRVpuMGFOSmxTSU1MOHNkZk1aNXRRbmRCLVpRTDFUVUpOXy1ZVHpWN0lnRGdjenVXUk5rdThrSzVFQl9DRVNGYzFsMWd3Mm9saDBlOVh0UEFSY1JBMTZEdG9QY3YyLThRVVVIR3BPZjVKaW9zTW8tUGFpWFJxSTVGSkZVa3paMl84REhxRXY?oc=5",
+        "date": "2026-10-03T09:25:46.000Z"
+      }
+    ],
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/jerusalem-daily-uae-says-flydubai-co-pilot-attempted-terrorist-attack?traffic_source=rss",
+    "agree": "Die Quellen stimmen überein, dass ein Co-Pilot von Flydubai den Kapitän im Cockpit attackiert hat und die Behörden in den Vereinigten Arabischen Emiraten von einem versuchten terroristischen Angriff sprechen.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Berichtet ergänzend, dass der Co-opilot den Kapitän mit der Crash-Axt des Cockpits attackierte und beruft sich auf NBC News."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-e5523b027b6542bb",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-03T16:15:34.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Flávio Bolsonaro fordert Lula da Silva bei Präsidentschaftswahl heraus",
+    "s": "Flávio Bolsonaro, der älteste Sohn des früheren brasilianischen Staatschefs Jair Bolsonaro, strebt das Präsidentenamt in Brasilien an. Er plant, bei der kommenden Wahl gegen den amtierenden Präsidenten Luiz Inácio Lula da Silva anzutreten. Das Ziel ist eine politische Kehrtwende nach rechts in Brasilien.",
+    "m": "Flávio Bolsonaro, der in der Familie als Nummer eins oder 'Zero-um' bezeichnet wird, hat offiziell angekündigt, bei Brasiliens Präsidentschaftswahl gegen den amtierenden Staatschef Lula da Silva zu kandidieren. Damit positioniert er sich als Hauptherausforderer der aktuellen Regierung und will das südamerikanische Land politisch nach rechts führen. Unterstützer aus dem Lager der Bolsonaristas kritisieren Lula scharf und werfen ihm unter anderem vor, ein Komplize krimineller Gruppen zu sein. Die Kandidatur markiert einen neuen Versuch der Bolsonaro-Familie, nach der Verurteilung des Ex-Präsidenten Jair Bolsonaro wieder die direkte Macht im Staat zu erlangen. Bislang sind viele Details des genauen Wahlkampfs und mögliche Gegenkandidaten aus anderen Lagern noch offen.",
+    "r": "Die Kandidatur des Sohnes von Jair Bolsonaro hat erhebliche Bedeutung für die politische Zukunft Brasiliens. Sie zeigt, dass die Bolsonaro-Bewegung trotz der Verurteilung des ehemaligen Präsidenten versucht, die politische Macht durch einen Generationswechsel zurückzugewinnen.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOURBZlFVNEhuazY1MkUyU3p6V1FkVXdwanh5ZmFCNmRiR2JWTDNFdldCQ21Bd0owOU1iTVZBS0RXdUNpSENNd1pXcHBwcHVnS1d3OGMwNFFBbENTM0NFM1BJWjNJVkUxejVNR3RqTzBqWTllam9GeTdDOGo3bHJVZHhiSVhEQ3lGUGtWRGtkMFJIZFhfSXRaUk1mZnJFSmtP?oc=5",
+        "date": "2026-10-03T16:15:34.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/politik/Bolsonaro-Zero-um-will-auch-Brasilien-auf-rechts-drehen-id31375820.html",
+        "date": "2026-10-03T16:15:34.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOURBZlFVNEhuazY1MkUyU3p6V1FkVXdwanh5ZmFCNmRiR2JWTDNFdldCQ21Bd0owOU1iTVZBS0RXdUNpSENNd1pXcHBwcHVnS1d3OGMwNFFBbENTM0NFM1BJWjNJVkUxejVNR3RqTzBqWTllam9GeTdDOGo3bHJVZHhiSVhEQ3lGUGtWRGtkMFJIZFhfSXRaUk1mZnJFSmtP?oc=5",
+    "agree": "Beide Quellen stimmen überein, dass Flávio Bolsonaro bei der kommenden Präsidentschaftswahl in Brasilien gegen den amtierenden Präsidenten Lula da Silva antreten will, um das Land nach rechts zu führen.",
+    "diff": [
+      {
+        "name": "ntv",
+        "note": "Erwähnt zusätzlich, dass Jair Bolsonaro als verurteilter Ex-Präsident gilt und dass laut einer Bolsonarista der amtierende Staatschef Lula ein Komplize krimineller Gruppen sei."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-00f24bbf9ec53206",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-03T15:56:38.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Michael Douglas gesteht Affäre mit Kathleen Turner",
+    "s": "Der Hollywood-Schauspieler Michael Douglas hat nach mehr als 40 Jahren eine Beziehung mit seiner Filmpartnerin Kathleen Turner eingeräumt. In mehreren gemeinsamen Blockbustern hatten die beiden US-Akteure früher leidenschaftlich Seite an Seite gespielt. Damals hatten sie ein Verhältnis jedoch stets dementiert. Nun offenbart der Oscar-Preisträger in seinen Memoiren, dass das Knistern am Set echt war.",
+    "m": "Michael Douglas hat in seinen Memoiren ein langjähriges Geheimnis gelüftet und eine Affäre mit seiner Kollegin Kathleen Turner bestätigt. Die beiden standen in den 1980er und 1990er Jahren für mehrere erfolgreiche Blockbuster gemeinsam vor der Kamera und überzeugten das Publikum durch leidenschaftliche Auftritte. Während der Dreharbeiten und in den darauffolgenden Jahrzehnten hatten die beteiligten US-Akteure ein romantisches Techtelmechtel jedoch stets vehement dementiert. Erst nach über 40 Jahren bricht der Oscar-Preisträger nun sein Schweigen und gibt zu, dass die Chemie zwischen ihnen nicht nur gespielt war. Laut dem Geständnis verliebten sich die beiden damals ineinander und fingen eine Beziehung an. Damit bestätigt Douglas offiziell Spekulationen, die Fans und Medien seit Jahrzehnten begleiteten.",
+    "r": "Die Äußerungen eines prominenten Hollywood-Schauspielers in seinen Memoiren über eine jahrzehntelang dementierte Affäre mit einer Filmpartnerin bieten Einblicke in die Hintergründe früherer Blockbuster. Solche Geständnisse prägen das öffentliche Bild und die Rezeptionsgeschichte bekannter US-Filmproduktionen.",
+    "srcs": [
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/promis/michael-douglas-gesteht-affaere-mit-kathleen-turner-nach-40-jahren-DVIZGXKLJJEEJLBZG2KOJTTGYU.html",
+        "date": "2026-10-03T15:56:38.000Z"
+      },
+      {
+        "name": "Rheinische Post",
+        "url": "https://rp-online.de/panorama/leute/michael-douglas-memoiren-hatte-doch-was-mit-kathleen-turner_aid-155894429",
+        "date": "2026-10-03T15:02:00.000Z"
+      }
+    ],
+    "url": "https://www.rnd.de/promis/michael-douglas-gesteht-affaere-mit-kathleen-turner-nach-40-jahren-DVIZGXKLJJEEJLBZG2KOJTTGYU.html",
+    "agree": "Beide Quellen stimmen darin überein, dass Michael Douglas in seinen Memoiren nach mehr als 40 Jahren eine Affäre mit seiner Filmpartnerin Kathleen Turner zugegeben hat.",
+    "diff": [
+      {
+        "name": "Rheinische Post",
+        "note": "Zitiert das Geständnis direkter mit den Worten: „Wahr ist, dass Kathleen und ich uns verliebten und eine Beziehung anfingen“ und erwähnt, dass beide das Techtelmechtel früher immer dementiert haben."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-8a7e8c131449f5aa",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-03T15:51:00.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "Michael Douglas gesteht späte Romanze mit Kathleen Turner",
+    "s": "Hollywood-Schauspieler Michael Douglas hat sich jahrelang zu seiner Beziehung mit Kollegin Kathleen Turner geäußert. Bekannt wurde das Duo in den 1980er-Jahren als Leinwand-Traumpaar. Damals wurde stets betont, dass es sich lediglich um eine Freundschaft handelte. Nun gibt es ein spätes Geständnis des Schauspielers.",
+    "m": "In den 1980er-Jahren feierten Michael Douglas und Kathleen Turner große Erfolge als gefeiertes Traumpaar auf der Kinoleinwand. Sie beeindruckten das Publikum damals besonders durch ihre gemeinsame Chemie und ihr treffsicheres Comedy-Timing. Während ihrer gemeinsamen Glanzzeit in Hollywood wurde von offizieller Seite stets behauptet, dass zwischen ihnen nur eine reine Freundschaft bestehe. Dieses Statement hat sich nun jedoch als unwahr herausgestellt. Michael Douglas hat in einem späten Geständnis eingeräumt, dass diese Darstellung nicht stimmte. Weitere Details zu den Hintergründen oder der genauen Dauer der damaligen Beziehung gehen aus den Berichten nicht hervor.",
+    "r": "Die Enthüllung beleuchtet eine bekannte Hollywood-Konstellation aus den Achtzigerjahren neu. Sie korrigiert die bisherige offizielle Darstellung über das Verhältnis zweier prominenter Filmschauspieler.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORXNYQnY5ZHUzVDI5eGlsdExReFRWaTdLNk9Xd09EZ01hM3JFZ1V3VDZ4SXZkU0F1enRpSVZQZXR5MHhuNnpINDJDSWtDdmJRUHUyel9mR2cxWlJaS0N6MDh3R0ZNaWZYUmcwLUl4X3pJbjNKa0MyVV9raHAweEFxUEtRZFpJbExIUVBqYlBWM2g2S3laNERMZUJPdFhRZzdYLVgxSlk0YUZ0eVpoNnBIbGk2N1NnbW1jYXdEZTVpcTVHaDZTOHNGWk10am9rRTRRcDJpNjVIcw?oc=5",
+        "date": "2026-10-03T15:51:00.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/kultur/kino/michael-douglas-und-sein-spaetes-gestaendnis-ueber-kathleen-turner-a-c80af387-51e1-42dc-ac07-eafa624abd41#ref=rss",
+        "date": "2026-10-03T15:51:00.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORXNYQnY5ZHUzVDI5eGlsdExReFRWaTdLNk9Xd09EZ01hM3JFZ1V3VDZ4SXZkU0F1enRpSVZQZXR5MHhuNnpINDJDSWtDdmJRUHUyel9mR2cxWlJaS0N6MDh3R0ZNaWZYUmcwLUl4X3pJbjNKa0MyVV9raHAweEFxUEtRZFpJbExIUVBqYlBWM2g2S3laNERMZUJPdFhRZzdYLVgxSlk0YUZ0eVpoNnBIbGk2N1NnbW1jYXdEZTVpcTVHaDZTOHNGWk10am9rRTRRcDJpNjVIcw?oc=5",
+    "agree": "Beide Quellen berichten über ein spätes Geständnis von Michael Douglas bezüglich Kathleen Turner und der bisher als reine Freundschaft deklarierten Beziehung der beiden in den 1980er-Jahren.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-c987f3cf57b08a76",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-03T15:35:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Gescheiterte Hinrichtung von Christa Pike: Chef der Gefängnisbehörde tritt zurück",
+    "s": "Nach der gescheiterten Hinrichtung der US-Gefangenen Christa Pike hat der Leiter der zuständigen Gefängnisbehörde seinen Rücktritt erklärt. Pike fiel während des Versuchs, sie durch eine Lethale Injektion hinzurichten, ins Koma. Ihre Verteidiger erheben schwere Vorwürfe und sprechen von Folter. Nun wurden erste personelle Konsequenzen aus dem Vorfall gezogen.",
+    "m": "Die Hinrichtung der in den Todestrakt verurteilten Christa Pike ist gescheitert und hat nun zu einem ersten hochrangigen personellen Rücktritt geführt. Wie bekannt wurde, trat der Chef der Gefängnisbehörde von seinem Posten zurück, nachdem der Vollstreckungsversuch abgebrochen werden musste. Pike befindet sich seit dem Vorfall im Koma. Die genauen Umstände des Fehlversuchs bei der Verabreichung der Giftspritze werden kritisch untersucht. Die Anwälte der Inhaftierten haben sich zu Wort gemeldet und den Vorfall als Folter eingestuft. Der Fall wirft ein Schlaglicht auf die Sicherheits- und Ausführungsbedingungen bei Hinrichtungen in den USA und zieht weitere offene Fragen zur Verantwortung und Zukunft der Todesstrafe in dem Bundesstaat nach sich.",
+    "r": "Der Rücktritt des Gefängnisbehörden-Chefs nach einer fehlgeschlagenen Hinrichtung verdeutlicht den enormen politischen und gesellschaftlichen Druck in Fällen problematischer Exekutionen. Der Vorfall und die Koma-Erkrankung der Gefangenen lenken den Blick auf die Kontroverse um die Methode der Giftspritze.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU3ZJSDAxT3Vqa2dWM2VzT1BOY0VOLTl1SHpLRDVqOXp0U3MwY2RLdmhNT3N0X0JEckpkOUNEazI4b245OTRwbnRWRVkxNHRveDZxRkFYMnh5ZWZJMHhJVG9EMF8zRlJ3WWt3MnlwVzhwa1JOOUMzbE1sclZZTXl1T3RuNFIxQlREQ0FzTGU1MVJuVnNRWGJ2QXVub3pXdzJlVnVGU0dVN0VfQVNvQkpsQ0ZoNUU3YzBtWTZhb1ZLSXBncV9CSDdUeXJaRjdfMzE3MlRNY1NCa3ZFRWhPYzVlOHFETQ?oc=5",
+        "date": "2026-10-03T15:35:00.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/christa-pike-gescheiterte-hinrichtung-chef-von-gefaengnisbehoerde-tritt-zurueck-a-43c9bc30-c8df-4498-ad57-401df0eaebe4#ref=rss",
+        "date": "2026-10-03T15:35:00.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU3ZJSDAxT3Vqa2dWM2VzT1BOY0VOLTl1SHpLRDVqOXp0U3MwY2RLdmhNT3N0X0JEckpkOUNEazI4b245OTRwbnRWRVkxNHRveDZxRkFYMnh5ZWZJMHhJVG9EMF8zRlJ3WWt3MnlwVzhwa1JOOUMzbE1sclZZTXl1T3RuNFIxQlREQ0FzTGU1MVJuVnNRWGJ2QXVub3pXdzJlVnVGU0dVN0VfQVNvQkpsQ0ZoNUU3YzBtWTZhb1ZLSXBncV9CSDdUeXJaRjdfMzE3MlRNY1NCa3ZFRWhPYzVlOHFETQ?oc=5",
+    "agree": "Die Quellen stimmen überein, dass der Chef der Gefängnisbehörde im Zusammenhang mit der gescheiterten Hinrichtung von Christa Pike zurückgetreten ist.",
+    "diff": [
+      {
+        "name": "DER SPIEGEL",
+        "note": "Berichtet ergänzend, dass Christa Pike seit dem Hinrichtungsversuch im Koma liegt und ihre Anwälte von Folter sprechen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-fda528c36392517a",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-03T15:28:33.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Wirtschaftsinstitut: Osten holt wirtschaftlich seit Jahren nicht mehr auf",
+    "s": "Die wirtschaftliche Annäherung zwischen Ost- und Westdeutschland kommt seit Jahren kaum noch voran. Aktuellen Berichten zufolge verharrt die Wirtschaftsleistung in den östlichen Bundesländern seit fünf Jahren bei knapp unter 80 Prozent des Westniveaus. Damit stagniert der Prozess der Angleichung deutlich. Weitere Details zu Ursachen oder regionalen Unterschieden wurden zunächst nicht genannt.",
+    "m": "Die wirtschaftliche Angleichung zwischen Ost und West verzeichnet seit Jahren keine nennenswerten Fortschritte mehr. Seit mittlerweile fünf Jahren stagniert das ostdeutsche Wirtschaftsniveau bei knapp unter 80 Prozent des Westniveaus. Diese Entwicklung verdeutlicht eine anhaltende Diskrepanz in der wirtschaftlichen Leistungsfähigkeit der beiden Landesteile. Wirtschaftsinstitute weisen auf diesen Stillstand hin, der die langjährigen Bemühungen um gleichwertige Lebensverhältnisse in Deutschland vor Herausforderungen stellt. Konkrete Prognosen für eine künftige Aufholjagd oder detaillierte Analysen zu einzelnen Branchen und Bundesländern gehen aus den vorliegenden Berichten nicht hervor. Offen bleibt zudem, welche politischen oder strukturellen Maßnahmen zur Überwindung dieser Phase der Stagnation ergriffen werden könnten.",
+    "r": "Die Stagnation der wirtschaftlichen Angleichung zwischen Ost und West ist für die gesamte deutsche Wirtschafts- und Sozialpolitik von Bedeutung. Sie betrifft die Frage gleichwertiger Lebensverhältnisse und berührt strukturelle Herausforderungen im föderalen Gefüge.",
+    "srcs": [
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/wirtschaft/wirtschaftsinstitut-osten-holt-wirtschaftlich-seit-jahren-nicht-mehr-auf-D53G2JWPXZCQJJR7REBTTM5KZY.html",
+        "date": "2026-10-03T15:28:33.000Z"
+      },
+      {
+        "name": "Handelsblatt",
+        "url": "https://www.handelsblatt.com/politik/deutschland/wirtschaft-osten-holt-wirtschaftlich-seit-jahren-nicht-mehr-auf/100259502.html",
+        "date": "2026-10-03T15:05:23.000Z"
+      }
+    ],
+    "url": "https://www.rnd.de/wirtschaft/wirtschaftsinstitut-osten-holt-wirtschaftlich-seit-jahren-nicht-mehr-auf-D53G2JWPXZCQJJR7REBTTM5KZY.html",
+    "agree": "Die Quellen sind sich einig, dass die wirtschaftliche Angleichung zwischen Ost und West seit fünf Jahren bei knapp unter 80 Prozent des Westniveaus stagniert.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-8ba8ab8e159fd237",
+    "c": "INT",
+    "o": "INT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-03T15:06:40.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Zehntausende protestieren in Spanien nach Scheitern von Wohnungsreformen",
+    "s": "Nachdem das Parlament und die Opposition in Spanien zwei bezahlbare Wohnungsdekrete und neue Gesetzesmaßnahmen abgelehnt haben, sind Zehntausende Menschen auf die Straßen gegangen. Die Demonstrationen vertiefen eine bereits tagehälftige Krise und richten sich gegen die anhaltende Wohnungsnot. Protestierende in Madrid und weiteren spanischen Städten forderten entschlosseneres Handeln.",
+    "m": "Zehntausende Menschen haben am Samstag in Madrid und anderen spanischen Städten demonstriert, nachdem neue Regierungsmaßnahmen und zwei bezahlbare Wohnungsdekrete vom Parlament beziehungsweise der Opposition gestoppt wurden. Die Kundgebungen verschärfen eine tagelange Krise rund um den Mangel an bezahlbarem Wohnraum. Auslöser für die jüngste Massenwut war unter anderem die Zwangsräumung einer 87-jährigen Frau in Madrid, was zu breit angelegten politischen Forderungen führte. Angesichts der abgelehnten Gesetzesvorhaben riefen Demonstrierende teilweise zu einem Generalstreik auf. Die Proteste verdeutlichen den enormen Druck auf die politische Führung, das Problem der explodierenden Wohnkosten und der unzureichenden Absicherung zu lösen.",
+    "r": "Die massiven Proteste in Spanien verdeutlichen die politische Zuspitzung der Wohnungs- und Immobilienkrise nach gescheiterten Reformversuchen im Parlament. Die Ereignisse könnten den Druck auf die Regierung in Madrid und die parlamentarische Opposition erhöhen, neue Lösungsansätze zu finden.",
+    "srcs": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/3/tens-of-thousands-protest-in-spain-after-failed-housing-reforms?traffic_source=rss",
+        "date": "2026-10-03T15:06:40.000Z"
+      },
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
+        "date": "2026-10-03T14:19:46.000Z"
+      }
+    ],
+    "url": "https://www.aljazeera.com/news/2026/10/3/tens-of-thousands-protest-in-spain-after-failed-housing-reforms?traffic_source=rss",
+    "agree": "Zehntausende Menschen haben in Madrid und anderen spanischen Städten gegen die Wohnungsnot protestiert, nachdem Gesetzesmaßnahmen oder Wohnungsdekrete gescheitert sind.",
+    "diff": [
+      {
+        "name": "Al Jazeera",
+        "note": "Berichtet, dass zwei konkrete Verordnungen für bezahlbaren Wohnraum vom Parlament abgewiesen wurden und die Proteste eine tagelange Krise vertiefen."
+      },
+      {
+        "name": "Guardian World",
+        "note": "Nennt Madrid als Hauptschauplatz, erwähnt das Scheitern von Gesetzen durch die Opposition sowie Plakate, die zu einem Generalstreik aufrufen, und verweist auf die vorausgegangene Zwangsräumung einer 87-jährigen Frau."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-3a205c82a417253b",
     "c": "DE",
     "o": "DE",
@@ -35,43 +754,6 @@
       {
         "name": "Tagesschau Regional Niedersachsen",
         "note": "Nennt konkret den Fußball-Drittligisten SC Verl als Gegner sowie das genaue Spielergebnis von 2:0."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-ddcbe8ae43fc9117",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-03T14:48:26.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Landesweite Demonstrationen gegen Wohnungsnot in Spanien",
-    "s": "In Spanien haben landesweit tausende Menschen gegen die anhaltende Wohnungsnot demonstriert. Hintergrund der Proteste ist das Scheitern wichtiger Mietdekrete im Parlament, wodurch sich die politische Krise der Regierung verschärft hat. Über die Teilnehmerzahlen gibt es heftige Differenzen zwischen den Veranstaltern und den Behörden. Zudem wird in Medien und Politik bereits über mögliche Neuwahlen spekuliert.",
-    "m": "Die massiven Proteste in Spanien wurden durch das parlamentarische Scheitern zentraler Mietdekrete ausgelöst, was die politische Stabilität der Regierung stark gefährdet. Allein in der Hauptstadt Madrid gingen nach Angaben der Veranstalter rund 500.000 Menschen auf die Straße, während die Regierung die Zahl der Teilnehmer mit lediglich 70.000 beziffert. Neben den Demonstrationen sehen sich die Verantwortlichen mit zunehmenden Spekulationen über vorgezogene Neuwahlen konfrontiert. Die Wohnungsnot im Land hat sich in den vergangenen Jahren drastisch verschärft, da die Mieten in den Metropolen und Touristenhochburgen für viele Bürger unbezahlbar geworden sind. Die politischen Parteien stehen nun unter erheblichem Druck, neue Lösungsansätze zu finden, um den angespannten Immobilienmarkt zu regulieren und soziale Unruhen zu dämpfen.",
-    "r": "Die Proteste und die politische Krise in Spanien verdeutlichen den akuten Handlungsbedarf in der Wohnungspolitik, der auch die Stabilität der Regierung gefährden kann. Solche europaweiten urbanen Krisen haben direkte Auswirkungen auf die europäische Sozialpolitik.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/landesweit-demos-gegen-wohnungsnot-in-spanien-102.html",
-        "date": "2026-10-03T14:48:26.000Z"
-      },
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/europa/proteste-wegen-wohnungsnot-in-spanien-gehen-weiter-100.html",
-        "date": "2026-10-03T14:22:55.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/landesweit-demos-gegen-wohnungsnot-in-spanien-102.html",
-    "agree": "Beide Quellen stimmen überein, dass es in Spanien landesweit Demonstrationen gegen die Wohnungsnot gegeben hat.",
-    "diff": [
-      {
-        "name": "Tagesschau",
-        "note": "Berichtet konkret über das Scheitern wichtiger Mietdekrete als Auslöser, nennt unterschiedliche Teilnehmerzahlen für Madrid (Veranstalter 500.000, Regierung 70.000) und erwähnt Spekulationen über Neuwahlen."
       }
     ],
     "chg": "",
@@ -211,9 +893,9 @@
     "st": "",
     "city": "",
     "t": "Steinmeier: \"Geht um Selbstbehauptung der Demokratie\"",
-    "s": "Zum Tag der Deutschen Einheit fand in Bremen unter dem Motto \"Viele Stärken - ein Land\" der offizielle Festakt statt. Im Mittelpunkt der Veranstaltung stand eine Rede von Bundespräsident Frank-Walter Steinmeier. Er nutzte den Anlass, um eindringlich vor extremistischen Kräften zu warnen. Dabei betonte er die Notwendigkeit, für die demokratischen Grundrechte einzustehen.",
-    "m": "Der Festakt zum Tag der Deutschen Einheit wurde in diesem Jahr in Bremen mit dem Leitspruch \"Viele Stärken - ein Land\" begangen. Bundespräsident Frank-Walter Steinmeier hielt die zentrale Ansprache der Feierlichkeiten. Er rief dazu auf, die demokratischen Institutionen und Grundrechte aktiv zu verteidigen. In seiner Rede erklärte er, dass es aktuell um die Selbstbehauptung der Demokratie gehe. Die Berichterstattung weist zudem auf persönliche Aspekte des Staatsoberhaupts hin. Konkret wird erwähnt, dass Steinmeier im kommenden März aus seinem Amt scheiden wird. Weitere Details zum genauen Ablauf des Festakts oder zu weiteren Rednern nennen die Quellen nicht.",
-    "r": "Die Äußerungen des Staatsoberhaupts zum Zustand und zur Verteidigung der Demokratie an einem nationalen Feiertag sind von gesamtgesellschaftlicher Bedeutung. Zudem markiert die Erwähnung des bevorstehenden Amtsendes im März den zeitlichen Rahmen für die verbleibende Amtszeit des Bundespräsidenten.",
+    "s": "Zum Tag der Deutschen Einheit fand in Bremen der offizielle Festakt unter dem Leitspruch \"Viele Stärken - ein Land\" statt. Im Mittelpunkt der Veranstaltung stand eine Rede von Bundespräsident Frank-Walter Steinmeier. Darin äußerte er sich zur aktuellen gesellschaftlichen und politischen Lage in Deutschland.",
+    "m": "Bundespräsident Frank-Walter Steinmeier hat die Feierlichkeiten zum Tag der Deutschen Einheit in Bremen genutzt, um eindringlich vor extremistischen Kräften zu warnen. Unter dem Motto \"Viele Stärken - ein Land\" betonte er, dass es derzeit um die Selbstbehauptung der Demokratie gehe. Er forderte dazu auf, die demokratischen Grundrechte entschlossen zu verteidigen. An dem Festakt nahmen zahlreiche hochrangige Vertreter des politischen Lebens teil. Zusätzlichen politischen Gesprächsstoff lieferte die Tatsache, dass Steinmeier im kommenden März aus seinem Amt als Bundespräsident ausscheiden wird. Ob es im Vorfeld der Veranstaltung zu besonderen Sicherheitsvorkehrungen kam, geht aus den Berichten nicht hervor. Die Rede wurde von verschiedenen Seiten als Appell an den gesellschaftlichen Zusammenhalt gewertet.",
+    "r": "Die Äußerungen des Staatsoberhaupts zum Tag der Deutschen Einheit setzen wichtige politische Akzente im Umgang mit extremistischen Tendenzen. Zudem markiert die Ankündigung des Amtsendes im März eine kommende personelle Veränderung an der Staatsspitze.",
     "srcs": [
       {
         "name": "ZDF heute",
@@ -227,15 +909,19 @@
       }
     ],
     "url": "https://www.zdfheute.de/politik/deutschland/festakt-tag-deutsche-einheit-steinmeier-demokratie-100.html",
-    "agree": "Die Quellen stimmen überein, dass Bundespräsident Steinmeier beim Festakt zum Tag der Deutschen Einheit in Bremen vor Extremismus gewarnt und die Selbstbehauptung der Demokratie gefordert hat.",
+    "agree": "Alle Quellen sind sich einig, dass Bundespräsident Steinmeier beim Festakt zum Tag der Deutschen Einheit vor Extremismus gewarnt und betont hat, dass es um die Selbstbehauptung der Demokratie geht.",
     "diff": [
       {
         "name": "ZDF heute",
-        "note": "Erwähnt zusätzlich den Leitspruch des Festakts in Bremen: \"Viele Stärken - ein Land\"."
+        "note": "Erwähnt den spezifischen Leitspruch des Festakts in Bremen: \"Viele Stärken - ein Land\"."
+      },
+      {
+        "name": "SWR Aktuell",
+        "note": "Berichtet, dass Steinmeier beim Festakt dazu aufforderte, die demokratischen Grundrechte zu verteidigen, nennt jedoch keinen genauen Ort."
       },
       {
         "name": "Tagesschau",
-        "note": "Berichtet als einzige Quelle, dass Bundespräsident Steinmeier im März aus dem Amt scheidet."
+        "note": "Erwähnt als einzige Quelle zusätzlich, dass Bundespräsident Steinmeier im März aus dem Amt scheidet."
       }
     ],
     "chg": "",
@@ -292,10 +978,10 @@
     "p": 4,
     "st": "",
     "city": "",
-    "t": "FlyDubai-Co-Pilot griff Kapitän mit Axt an",
-    "s": "Ein Co-Pilot der Fluggesellschaft FlyDubai hat laut offiziellen Angaben der Vereinigten Arabischen Emirate den Kapitän mit einer Axt attackiert. Der Vorfall ereignete sich an Bord eines Fluges, der auf dem Weg nach Israel war. Der beschuldigte Mann wurde von Medien und Behörden namentlich genannt. Die Hintergründe der Tat werden untersucht.",
-    "m": "Der Vorfall ereignete sich auf einem Flug der Fluggesellschaft FlyDubai mit Ziel Tel Aviv. Nach Angaben von Behörden aus den Vereinigten Arabischen Emiraten griff der Co-opilot den Kapitän des Flugzeugs mit einer Axt an. Bei dem Täter handelt es sich um einen omanischen Staatsbürger namens Hamam al-Hammami. Berichten zufolge war er zuvor vom Oman mit einem Flugverbot belegt worden, da Bedenken hinsichtlich extremistischer Ansichten bestanden. Die Tat wird von den VAE offiziell als terroristischer Akt eingestuft. Der Vorfall stürzt die ohnehin bereits schwer getroffene regionale Reisebranche in eine neue Krise. Es blieben zunächst Fragen zur genauen Bewältigung der Situation an Bord und zum Zustand der Besatzung offen.",
-    "r": "Der bewaffnete Angriff eines Besatzungsmitglieds auf einen Flugkapitän stellt ein schweres Sicherheitsrisiko im internationalen Luftverkehr dar. Zudem verdeutlicht die Einstufung als terroristischer Akt die politischen und sicherheitsrelevanten Dimensionen des Vorfalls für die Nahost-Region.",
+    "t": "FlyDubai-Co-Pilot greift Kapitän mit Axt an",
+    "s": "Ein Co-Pilot von FlyDubai hat laut offiziellen Angaben der Vereinigten Arabischen Emirate den Kapitän eines Flugzeugs mit einer Axt attackiert. Der Vorfall ereignete sich an Bord eines Fluges mit Ziel Israel. Die Identität des mutmaßlichen Täters wurde von Medien und Behörden als Hamam al-Hammami bestätigt. Nähere Umstände zur genauen Tatausführung und zur Bewältigung der Situation an Bord wurden zunächst nicht umfassend dargelegt.",
+    "m": "Die zuständigen Behörden der Vereinigten Arabischen Emirate stuften den Vorfall als terroristischen Akt ein. Der Angreifer, ein omanischer Staatsbürger namens Hamam al-Hammami, versuchte demnach, die Kontrolle über den nach Tel Aviv gebundenen Jet zu erlangen. Berichten zufolge war er zuvor vom Oman mit einem Flugverbot belegt worden, da Bedenken bezüglich extremistischer Ansichten bestanden. Diese Bedrohungslage an Bord hat weitreichende Folgen und stürzt die ohnehin schwer getroffene regionale Reisebranche in eine neue Krise. Die Ermittlungen zu den Hintergründen der Tat dauern an, während internationale Reaktionen und Sicherheitsüberprüfungen im Luftverkehr im Fokus stehen.",
+    "r": "Der Angriff eines Co-Piloten auf einen Flugkapitän wirft ernsthafte Fragen zur Flugsicherheit und zu Hintergrundüberprüfungen von Piloten auf. Die Klassifizierung als Terrorakt durch die VAE und die Verstrickung in die regionale Reisekrise unterstreichen die geopolitische und wirtschaftliche Dimension des Vorfalls.",
     "srcs": [
       {
         "name": "BBC World",
@@ -309,15 +995,52 @@
       }
     ],
     "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-    "agree": "Die Quellen sind sich einig, dass ein FlyDubai-Co-Pilot mit einer Axt einen Kapitän auf einem Flug mit Ziel Israel angegriffen hat und dass der Beschuldigte Hamam al-Hammami heißt.",
+    "agree": "Beide Quellen stimmen überein, dass ein FlyDubai-Co-Pilot den Kapitän auf einem Flug nach Israel mit einer Axt attackiert hat und der Mann als Hamam al-Hammami identifiziert wurde.",
     "diff": [
       {
-        "name": "BBC World",
-        "note": "Berichtet lediglich, dass der Mann von mehreren Medien als Hamam al-Hammami benannt wurde."
+        "name": "Euronews",
+        "note": "Berichtet, dass der Vorfall von den VAE als terroristischer Akt eingestuft wurde, nennt den Täter einen omanischen Staatsbürger mit früheren Flugverboten wegen extremistischer Ansichten und erwähnt die Auswirkungen auf die regionale Reisebranche."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-5db23067c38549de",
+    "c": "INT",
+    "o": "PT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-03T14:25:00.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "André Ventura übernimmt Vorsitz des Untersuchungsausschusses zu Luís Neves",
+    "s": "Der Chega-Vorsitzende André Ventura wird die parlamentarische Untersuchungskommission zu Luís Neves leiten. Dies gab er am Samstag bekannt. Die Kommission geht auf einen Vorschlag seiner Partei zurück.",
+    "m": "André Ventura hat am Samstag angekündigt, selbst den Vorsitz der vom Chega vorgeschlagenen parlamentarischen Untersuchungskommission zu den Mandaten von Luís Neves bei der Kriminalpolizei PJ zu übernehmen. Bei der Bekanntgabe versicherte der Parteivorsitzende seine unparteiische Amtsführung. Zudem versprach er, dass alle im Parlament vertretenen Parteien ihren Platz und eine Stimme in dem Gremium erhalten werden. Der genaue zeitliche Ablauf der Untersuchungen und die weiteren Details der Arbeit des Ausschusses wurden in den Meldungen zunächst nicht näher spezifiziert.",
+    "r": "Die Leitung einer parlamentarischen Untersuchungskommission durch einen Parteivorsitzenden ist ein politisch relevanter Vorgang, der die parlamentarische Kontrolle der Kriminalpolizei betrifft. Die Zusicherung von Unparteilichkeit und Mitspracherechten für alle Fraktionen steht dabei im Fokus der Arbeit.",
+    "srcs": [
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS21yRzFYZlRLWGliTGZCbUFPcy1nczNIRGkzVFhXSXROeDRId1B0TE85VTdfS1pLM2xjX3JqR05VSWlDY3JBUGlIUU5sYklldDVsYXNPN0lTNDdtbk1rY1czaFdXZUhzWlFCaGhWYkNzbklfTnM3MHZOMkQxQ19hTFF3NG93QVVZbXhXNDJpMVlpdzE5cTF1ZjFYZTBRZC0yVUotWi16blA1bS1CdXZDOVg3WGhqZngyc3p2Z0cyNVlYUEhl0gG0AUFVX3lxTE9qc0JlNjU1VlpvWE02a2FQRk5OX1hsUnZmMGVUc1dRY0ZPNnQwMVkyUVhsdWs4UFV1UXZOWlJtb1YyN2tSRXU3WDNRSnlmd1h2ZTlyUVNHNkhpaXF3dDFLMXhYVmk1NC1Jb1h4OTBFTmFyZ0lYYXdwaDF4YUtrUmpIb2ZCcThDWl92dmtGMlItdWJiRmdtS1hHT18zWnl0bG1JSUJOZEZONHlBMTNhejJ0Q0dvcg?oc=5",
+        "date": "2026-10-03T14:25:00.000Z"
       },
       {
-        "name": "Euronews",
-        "note": "Nennt den Co-Piloten direkt als omanischen Staatsbürger, erwähnt das frühere omanische Flugverbot wegen extremistischer Ansichten, stuft die Tat als terroristischen Akt ein und beschreibt die Auswirkungen auf die regionale Reisebranche."
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/pais/andre-ventura-vai-presidir-a-comissao-parlamentar-de-inquerito-a-luis-neves_v1769346",
+        "date": "2026-10-03T14:17:47.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS21yRzFYZlRLWGliTGZCbUFPcy1nczNIRGkzVFhXSXROeDRId1B0TE85VTdfS1pLM2xjX3JqR05VSWlDY3JBUGlIUU5sYklldDVsYXNPN0lTNDdtbk1rY1czaFdXZUhzWlFCaGhWYkNzbklfTnM3MHZOMkQxQ19hTFF3NG93QVVZbXhXNDJpMVlpdzE5cTF1ZjFYZTBRZC0yVUotWi16blA1bS1CdXZDOVg3WGhqZngyc3p2Z0cyNVlYUEhl0gG0AUFVX3lxTE9qc0JlNjU1VlpvWE02a2FQRk5OX1hsUnZmMGVUc1dRY0ZPNnQwMVkyUVhsdWs4UFV1UXZOWlJtb1YyN2tSRXU3WDNRSnlmd1h2ZTlyUVNHNkhpaXF3dDFLMXhYVmk1NC1Jb1h4OTBFTmFyZ0lYYXdwaDF4YUtrUmpIb2ZCcThDWl92dmtGMlItdWJiRmdtS1hHT18zWnl0bG1JSUJOZEZONHlBMTNhejJ0Q0dvcg?oc=5",
+    "agree": "Beide Quellen stimmen darin überein, dass André Ventura den Vorsitz der parlamentarischen Untersuchungskommission zu Luís Neves übernehmen wird.",
+    "diff": [
+      {
+        "name": "Google News Portugal",
+        "note": "Nennt den genauen Bezug zu den Mandaten von Luís Neves bei der Kriminalpolizei PJ und verweist auf das Jornal de Notícias."
+      },
+      {
+        "name": "RTP Notícias",
+        "note": "Ergänzt, dass Ventura am Samstag die Entscheidung ankündigte, seine Unparteilichkeit garantierte und allen Parteien Platz und Stimme versprach."
       }
     ],
     "chg": "",
@@ -374,10 +1097,10 @@
     "p": 2,
     "st": "",
     "city": "",
-    "t": "Rom geht gegen den wachsenden Trend von Touristen-Golfcarts vor",
-    "s": "In Rom boomt die Nutzung von Golfcarts für Stadtführungen, was bei den Behörden zunehmend für Sorge sorgt. Während Touristen die Fahrzeuge für bequeme Touren schätzen, leiten die Behörden Maßnahmen gegen diesen Handel ein. Betroffene Anbieter werfen der Stadt daraufhin vor, ungerechtfertigt ins Visier genommen zu werden.",
-    "m": "Die Nutzung von Golfcarts als Transportmittel für Touristen in Rom führt zu Konflikten mit den Behörden. Diese versuchen, den Handel einzudämmen, da sie ein Ausufern der Situation befürchten. Anbieter wehren sich gegen die Restriktionen und sehen sich unfair behandelt. Konkrete Vorfälle zeigen, dass Touristen die Fahrzeuge nutzen, um sich bequem durch das historische Zentrum zu bewegen, wie etwa am Rande der Piazza Navona. Dort ließen sich Besucher von einem Fahrer absetzen, um nach einem anstrengenden Besichtigungsprogramm an anderen Orten zu entspannen. Die Auseinandersetzung wirft ein Schlaglicht auf den Massentourismus und die Regulierung alternativer Verkehrsmittel in der italienischen Hauptstadt. Offen bleibt, wie die Stadtverwaltung den rechtlichen Status dieser Fahrten künftig regeln will.",
-    "r": "Die Debatte verdeutlicht die Spannungen zwischen der wachsenden Nachfrage nach neuen touristischen Transportmitteln in historischen Städten und dem behördlichen Regulierungswillen. Sie zeigt beispielhaft die Konflikte um den Umgang mit dem Massentourismus in Rom.",
+    "t": "Rom geht gegen Golfkarts im Stadtverkehr vor",
+    "s": "In Rom sind Golfkarts bei Touristen als Fortbewegungsmittel beliebt. Die Behörden gehen nun jedoch gegen den Handel und Betrieb dieser Fahrzeuge vor, da sie einen Kontrollverlust befürchten. Betroffene Anbieter wehren sich gegen die Maßnahmen und empfinden diese als unfaire Behandlung.",
+    "m": "Touristen nutzen in Rom häufig Golfkarts, um Sehenswürdigkeiten wie die Piazza Navona zu erreichen, nachdem sie zuvor unter anderem von langen Warteschlangen im Vatikan frustriert waren. Die römischen Behörden haben ein hartes Vorgehen gegen diesen Handelszweig eingeleitet, weil sie die Situation als außer Kontrolle geraten ansehen. Während die Stadtverwaltung auf Regulierung und Einschränkung setzt, beklagen die Betreiber der Golfkarts, dass sie zu Unrecht ins Visier genommen werden. Bislang ist unklar, wie sich der Konflikt zwischen den Gewerbetreibenden und der Stadt auf den künftigen Tourismus und die Verkehrssituation in den historischen Bereichen auswirken wird. Die Diskussion berührt die Frage, wie Rom die Balance zwischen Touristenströmen und geordnetem Stadtbild wahren will.",
+    "r": "Die Debatte betrifft die Regulierung des städtischen Tourismus und den Umgang mit neuen Verkehrsangeboten in historischen Zentren. Sie verdeutlicht den Konflikt zwischen den Interessen von Besuchern und Anbietern einerseits sowie den ordnungspolitischen Maßnahmen der Stadtverwaltung andererseits.",
     "srcs": [
       {
         "name": "Google News World",
@@ -391,11 +1114,52 @@
       }
     ],
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdVNHdXBPajViWloyRlFBOWRPVDhGMEN4eklYb1A5bEtaWjVvZC1icWlWRFBkSG9JaUNuMUpFX2pjcmVQOEdLMVFyZC1mYmhETmQ0YUo5U3J4Zzg1enVESl9vVUpxNzVHTDY4THo3WmhRRHZRLUdIZmREdGNwUWxkOVZ4OEs5WlNmcXlFNQ?oc=5",
-    "agree": "Die Quellen erwähnen die Beliebtheit von Golfcarts bei Rom-Touristen und das Aufkommen behördlicher Maßnahmen dagegen.",
+    "agree": "Beide Quellen thematisieren die Beliebtheit von Golfkarts bei Rom-Besuchern im Vergleich zu anderen Klassikern wie Fiat 500, Vespa oder Tuk-Tuks und werfen die Frage auf, ob diese Fahrzeuge in Rom akzeptiert werden.",
     "diff": [
       {
         "name": "Guardian World",
-        "note": "Berichtet über ein konkretes Beispiel mit Touristen aus Texas an der Piazza Navona und die Kritik der Betroffenen an einer unfairen Behandlung durch die Behörden."
+        "note": "Berichtet ausführlich über konkrete Details wie ein Touristenpaar aus Texas, den Besuch der Piazza Navona und der Vatikan-Warteschlangen, behördliche Razzien sowie die Vorwürfe der Betreiber, unfair behandelt zu werden."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-6c5185f5f266fc4c",
+    "c": "INT",
+    "o": "PT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-03T13:32:24.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Russland fordert Diplomaten und Ausländer zum Verlassen von Kiew auf",
+    "s": "Die russischen Behörden haben Diplomaten und ausländische Staatsbürger erneut dazu aufgerufen, die ukrainische Hauptstadt Kiew zu verlassen. Grund für diese Warnung ist die Ankündigung weiterer massiver Vergeltungsangriffe durch die russischen Streitkräfte. Die Situation in der Region bleibt angespannt, da Angriffe auf städtische Ziele drohen.",
+    "m": "Das russische Militär kündigte an, seine Angriffe auf Kiew in Form von massiven Vergeltungsschlägen fortzusetzen. In diesem Zusammenhang wurde eine erneute Warnung an in der Stadt anwesende Diplomaten und Ausländer ausgesprochen, sich in Sicherheit zu bringen und das Stadtgebiet zu verlassen. Konkrete Zeitfenster für den Beginn dieser angekündigten Angriffe wurden in den Berichten zunächst nicht genannt. Die Aufforderung unterstreicht die anhaltende Bedrohungslage für zivile und diplomatische Einrichtungen in der ukrainischen Metropole. Bislang liegen keine offiziellen Angaben über Reaktionen internationaler Vertretungen auf diese neuerliche Warnung vor. Weitere Details zu möglichen Evakuierungsmaßnahmen oder betroffenen Stadtteilen stehen noch aus.",
+    "r": "Die Warnung vor massiven Angriffen auf die ukrainische Hauptstadt ist von hoher sicherheitspolitischer Relevanz für Diplomaten und Ausländer vor Ort. Sie verdeutlicht die anhaltende Eskalation des Konflikts und die direkte Bedrohung ziviler Zentren.",
+    "srcs": [
+      {
+        "name": "RTP Mundo",
+        "url": "https://www.rtp.pt/noticias/mundo/russia-avisa-diplomatas-e-estrangeiros-para-abandonarem-kiev_n1769331",
+        "date": "2026-10-03T13:32:24.000Z"
+      },
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObU4wQVpJTXo1ODhGV2w1cXNpcjdKVm1lbTN5bGxRSnV5WWY3VENoODBfbmpqSkZQblBHLWYxZUk1bGozekVHMF9fZGJ0MUtwWmFwVnRDcGNzdmtOUmEzVU1UZmY4SHJBUFBmQXQyM2lWclpKRC0zTkRxd3U4Q2liLUk5d1Rid25QcFhkYVJrZWpYVmFVWDc4bVR2NnpUN2FLaG5iZ1RB?oc=5",
+        "date": "2026-10-03T12:38:33.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/mundo/russia-avisa-diplomatas-e-estrangeiros-para-abandonarem-kiev_n1769331",
+    "agree": "Beide Quellen berichten darüber, dass Russland Diplomaten und Ausländer dazu aufgerufen hat, Kiew zu verlassen, und mit massiven Vergeltungsangriffen droht.",
+    "diff": [
+      {
+        "name": "RTP Mundo",
+        "note": "Berichtet ausführlich über die Aufforderung Russlands an Diplomaten und Ausländer, Kiew wegen drohender Angriffe zu verlassen."
+      },
+      {
+        "name": "Google News Portugal",
+        "note": "Verlinkt lediglich auf die Berichterstattung von RTP mit gleichem Titel."
       }
     ],
     "chg": "",
@@ -440,13 +1204,13 @@
     "k": "wirtschaft",
     "lang": "de",
     "d": "2026-10-03T13:01:47.000Z",
-    "p": 2,
+    "p": 3,
     "st": "",
     "city": "",
-    "t": "Modekette Zara zieht umstrittenes Kinder-Halloween-Kostüm zurück",
-    "s": "Der spanische Moderiese Zara hat ein Halloween-Kostüm für Kinder aus dem Sortiment genommen. Das Unternehmen reagierte damit auf heftige Kritik in den sozialen Medien. Das Design des Produkts erinnerte stark an die historische Kleidung von KZ-Häftlingen aus der NS-Zeit. Die Modekette entschuldigte sich für das Angebot des umstrittenen Artikels.",
-    "m": "Das betroffene Kleidungsstück für Kinder war kurzzeitig über den Onlineshop der Modekette Zara vertrieben worden. Es handelte sich um ein gestreiftes Oberteil, das zudem mit einem gelben Stern versehen war, was sofort Assoziationen an die von den Nationalsozialisten in Konzentrationslagern erzwungene Kennzeichnung von Häftlingen weckte. Nach massiven Protesten und Empörung von Kunden und Nutzern im Internet sah sich das Unternehmen zum schnellen Handeln gezwungen. Zara nahm das Produkt weltweit aus dem Verkauf und stoppte die Vermarktung. Es ist nicht das erste Mal, dass ein internationaler Modekonzern wegen geschmackloser Designs in der Kritik steht. Bislang äußerte sich das Unternehmen nicht näher dazu, wie es zu dem Entwurf des Kostüms kommen konnte.",
-    "r": "Der Vorfall zeigt, wie sensibel die Öffentlichkeit auf Bezüge zur NS-Vergangenheit im kommerziellen Kontext reagiert. Schnelle Reaktionen von Unternehmen auf Shitstorms sind in der Modebranche bei Fehltritten gängig geworden, um weiteren Imageschaden abzuwenden.",
+    "t": "Modekette Zara zieht Halloween-Kostüm nach Kritik zurück",
+    "s": "Die spanische Modekette Zara hat ein Kinderkostüm für Halloween aus dem Sortiment genommen. Das Unternehmen reagierte damit auf massive Kritik in den sozialen Medien und der Öffentlichkeit. Dem Design wurde vorgeworfen, stark an die Kleidung von Häftlingen in Konzentrationslager aus der NS-Zeit zu erinnern. Das Kleidungsstück zeigte gestreifte Muster und einen auffälligen gelben Stern.",
+    "m": "Der spanische Moderiese Zara sah sich gezwungen, ein umstrittenes Halloween-Kostüm für Kinder weltweit aus dem Angebot zu nehmen und zu vernichten. Auslöser waren heftige Proteste und Empörung von Kundinnen und Kunden sowie Beobachtern, die eine fatale Ähnlichkeit zu der historischen Kleidung von KZ-Häftlingen im Nationalsozialismus sahen. Das betroffene Oberteil war quergestreift und trug auf der linken Brustseite einen gelben sechsstrahligen Stern, der stark an den von den Nationalsozialisten aufgezwungenen Judienstern erinnerte. Obwohl das Unternehmen betonte, dass der Stern von Sheriff-Sternen aus Westernfilmen inspiriert gewesen sei, hielt die Kritik an. Zara entschuldigte sich in der Folge öffentlich für das Design und die verletzten Gefühle. Der Vorfall reiht sich in eine Reihe von ähnlichen Kontroversen ein, bei denen große Modemarken unpassende historische oder religiöse Symbole für Massenprodukte verwendet haben.",
+    "r": "Der Vorfall zeigt die Sensibilität im Umgang mit Symbolen des Nationalsozialismus und verdeutlicht den schnellen Handlungsdruck von Handelskonzernen bei öffentlicher Kritik. Solche Kontroversen beschädigen unmittelbar das Image internationaler Marken und führen zu raschen Produkt-Rücknahmen.",
     "srcs": [
       {
         "name": "RND",
@@ -460,15 +1224,56 @@
       }
     ],
     "url": "https://www.rnd.de/panorama/aehnelte-kz-kleidung-modekette-zara-zieht-halloween-kostuem-zurueck-C5YO5M26DNFHBOT45PXPM2EKSY.html",
-    "agree": "Sowohl RND als auch DER SPIEGEL stimmen überein, dass Zara ein Halloween-Kostüm wegen der Ähnlichkeit zu KZ-Häftlingskleidung zurückgezogen hat.",
+    "agree": "Beide Quellen stimmen darin überein, dass Zara ein Halloween-Kostüm für Kinder wegen der Ähnlichkeit zu KZ-Häftlingskleidung aus dem Sortiment genommen hat.",
     "diff": [
       {
-        "name": "DER SPIEGEL",
-        "note": "Erwähnt explizit, dass es sich um ein Kinderkostüm handelte und nennt Zara einen spanischen Moderiesen."
+        "name": "RND",
+        "note": "Erwähnt die Ähnlichkeit zur KZ-Kleidung und dass es sich allgemein um ein Halloween-Kostüm handelt."
       },
       {
-        "name": "RND",
-        "note": "Bezeichnet das Unternehmen allgemein als Modekette."
+        "name": "DER SPIEGEL",
+        "note": "Präzisiert, dass es sich um ein Kinderkostüm handelt und Zara als spanischer Moderiese bezeichnet wird."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-77ba9a97e98de32e",
+    "c": "INT",
+    "o": "INT",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-03T13:01:40.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "UEFA Nations League: England trifft auf Kroatien in Rijeka",
+    "s": "In der UEFA Nations League treffen Kroatien und England aufeinander. Das Spiel findet in Rijeka statt und wird von den Medien mit Spannung erwartet. Die Quellen liefern Details zu den Übertragungswegen und den Vorzeichen der Partie.",
+    "m": "Die Partie im Rahmen der UEFA Nations League sorgt für Aufmerksamkeit, da beide Teams eine gemeinsame sportliche Vorgeschichte besitzen. Unter anderem trafen sie bei früheren Turnieren wie der Weltmeisterschaft 2018 sowie bei späteren Europameisterschaften und Weltmeisterschaften aufeinander. Ein Supercomputer der Firma Opta berechnet für England eine Siegchance von 48,6 Prozent, während Kroatien bei 27,4 Prozent liegt. Die englische Auswahl, trainiert von Thomas Tuchel, geht nach einem 2-0-Sieg gegen Tschechien vom Dienstag mit Rückenwind in das Auswärtsspiel. Medien bieten umfassende Liveticker, Teaminfos und Übertragungshinweise im Fernsehen sowie per Live-Stream an.",
+    "r": "Das Aufeinandertreffen traditionsreicher Nationalmannschaften in der UEFA Nations League ist ein bedeutendes sportliches Ereignis. Die Analysen und Quoten verdeutlichen die sportliche Ausgangslage vor dem Spiel in Rijeka.",
+    "srcs": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/liveblog/2026/10/3/live-croatia-vs-england-uefa-nations-league?traffic_source=rss",
+        "date": "2026-10-03T13:01:40.000Z"
+      },
+      {
+        "name": "Guardian Sport",
+        "url": "https://www.theguardian.com/football/2026/oct/03/how-to-watch-nations-league-croatia-england",
+        "date": "2026-10-03T11:00:57.000Z"
+      }
+    ],
+    "url": "https://www.aljazeera.com/sports/liveblog/2026/10/3/live-croatia-vs-england-uefa-nations-league?traffic_source=rss",
+    "agree": "Die Quellen stimmen überein, dass es sich um ein bevorstehendes Spiel zwischen Kroatien und England in der UEFA Nations League handelt.",
+    "diff": [
+      {
+        "name": "Al Jazeera",
+        "note": "Konzentriert sich auf einen Live-Textkommentar-Stream inklusive Vorberichten, Prognosen und Teaminfos."
+      },
+      {
+        "name": "Guardian Sport",
+        "note": "Nennt statistische Chancen durch Opta, frühere Turnierduelle seit 2018, Trainer Thomas Tuchel sowie TV- und Stream-Optionen."
       }
     ],
     "chg": "",
@@ -484,10 +1289,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Irans Währung fällt im Zuge des Konflikts auf historisches Tief",
-    "s": "Der anhaltende Konflikt im Nahen Osten hat spürbare Auswirkungen auf den Iran. Der Wechselkurs der Landeswährung Rial ist auf ein historisches Tief abgestürzt. Dies hat drastische Folgen für die Bürger und die heimische Wirtschaft des Landes.",
-    "m": "Die iranische Währung leidet massiv unter den Spannungen und dem Konflikt, insbesondere der Auseinandersetzung mit den USA um die strategisch wichtige Straße von Hormus. Der Wertverlust des Rial schreitet kontinuierlich voran und belastet die wirtschaftliche Situation im Iran stark. Neben den Währungsproblemen gibt es Berichte über einen Treffer an einem Öltanker vor der Küste des Oman. Zudem plant Saudi-Arabien offenbar eine neue Offensive gegen die Huthis im Jemen. Im Zusammenhang mit der Region wurde zudem bekannt, dass ein Copilot von Flydubai zuvor offenbar als Sicherheitsrisiko galt.",
-    "r": "Der historische Absturz der iranischen Währung verdeutlicht die massiven wirtschaftlichen Belastungen durch den regionalen Konflikt. Solche Währungskrisen können die soziale Stabilität im Iran weiter gefährden und internationale Märkte beeinträchtigen.",
+    "t": "Irans Währung fällt auf ein historisches Tief",
+    "s": "Der Wechselkurs der iranischen Landeswährung Rial ist auf ein historisches Tief gestürzt. Grund dafür ist unter anderem der anhaltende Konflikt zwischen dem Iran und den USA um die Straße von Hormus. Dieser Währungsverfall hat drastische Folgen für die Bürger und die heimische Wirtschaft des Landes. Die Entwicklung verschärft die wirtschaftliche Krise im Iran weiter.",
+    "m": "Die iranische Währung verzeichnet einen massiven Wertverlust und hat ein historisches Tief erreicht. Dieser Absturz steht direkt im Zusammenhang mit den geopolitischen Spannungen und dem Konflikt mit den USA bezüglich der strategisch wichtigen Straße von Hormus. Die wirtschaftlichen und sozialen Auswirkungen für die Bevölkerung sowie die gesamte Wirtschaft im Iran sind drastisch. Weitere Details zum genauen zeitlichen Verlauf oder konkreten Wechselkurszahlen nennen die vorliegenden Berichte nicht. Offen bleibt, wie die iranische Führung auf diesen wirtschaftlichen Niedergang reagieren will. Die Situation verdeutlicht die verheerenden Spuren, die der internationale Konflikt im Iran hinterlässt.",
+    "r": "Der historische Sturz der iranischen Währung zeigt die schwerwiegenden wirtschaftlichen Folgen des Konflikts mit den USA um die Straße von Hormus. Die drastischen Auswirkungen betreffen sowohl die Bürger als auch die gesamte Wirtschaft des Landes direkt.",
     "srcs": [
       {
         "name": "DW Deutsch",
@@ -501,15 +1306,15 @@
       }
     ],
     "url": "https://www.dw.com/de/irans-währung-fällt-auf-historisches-tief/a-79530963?maca=de-rss-de-all-1119-xml-mrss",
-    "agree": "Beide Quellen stimmen überein, dass Irans Währung auf ein historisches Tief gefallen ist und dies im Kontext des Konflikts steht.",
+    "agree": "Beide Quellen stimmen überein, dass die iranische Währung auf ein historisches Tief gefallen ist.",
     "diff": [
       {
         "name": "DW Deutsch",
-        "note": "Fokussiert sich auf Irans Konflikt mit den USA um die Straße von Hormus und die drastischen Folgen des Währungsverfalls für Bürger und Wirtschaft."
+        "note": "nennt den Konflikt mit den USA um die Straße von Hormus als Ursache für den Währungsabsturz und erwähnt drastische Folgen für Bürger und Wirtschaft."
       },
       {
         "name": "Handelsblatt",
-        "note": "Erwähnt im Newsblog zusätzlich einen getroffenen Öltanker vor dem Oman, eine geplante saudische Offensive gegen Huthis im Jemen sowie Informationen zu einem Flydubai-Copiloten."
+        "note": "führt das Thema als Ticker-Meldung in einem Newsblog und listet zusätzlich Meldungen zu einem Flydubai-Copiloten, einem getroffenen Öltanker vor dem Oman und einer geplanten saudischen Offensive gegen Huthis im Jemen auf."
       }
     ],
     "chg": "",
@@ -525,10 +1330,10 @@
     "p": 2,
     "st": "RP",
     "city": "",
-    "t": "Große Lego-Ausstellung im Historischen Museum der Pfalz in Speyer eröffnet",
-    "s": "Im Historischen Museum der Pfalz in Speyer hat eine neue Lego-Ausstellung ihre Tore geöffnet. Gezeigt werden detailreiche Modelle bekannter Bauwerke und Orte wie des Speyerer Doms und der Nürburgring-Rennstrecke. Neben dem Betrachten der Exponate gibt es für Besucher auch Mitmachbereiche, in denen sie selbst kreativ werden können.",
-    "m": "Die Ausstellung im Museum der Pfalz in Speyer richtet sich an Familien, Lego-Fans und Kulturinteressierte gleichermaßen. Im Mittelpunkt stehen aufwendig gestaltete Modelle aus den dänischen Klemmbausteinen, darunter eine Nachbildung des Speyerer Doms sowie der Nürburgring-Rennstrecke. Die Ausstellung verbindet die Präsentation historischer beziehungsweise moderner Architektur- und Landschaftsmodelle mit interaktiven Angeboten. Besucher erhalten die Gelegenheit, in eigens dafür eingerichteten Bereichen selbst mit Legosteinen zu bauen. Weitere Details zu Leihgebern, der genauen Anzahl der verwendeten Steine oder der Laufzeit der Ausstellung nennen die vorliegenden Berichte nicht.",
-    "r": "Die Eröffnung einer großen Themenausstellung mit Mitmachangeboten bietet einen neuen kulturellen Anziehungspunkt für die Region Speyer. Sie verbindet regionale Sehenswürdigkeiten wie den Dom mit einem populären Freizeit- und Spielthema.",
+    "t": "Grosse Lego-Ausstellung im Historischen Museum der Pfalz in Speyer",
+    "s": "Im Historischen Museum der Pfalz in Speyer hat eine große Lego-Ausstellung eröffnet. Die Schau zeigt detailreiche Modelle bekannter Bauwerke und Orte wie den Speyerer Dom und die Nürburgring-Rennstrecke. Neben den Exponaten gibt es auch Mitmachangebote für Besucher, die selbst mit Lego-Steinen bauen können. Die Ausstellung richtet sich an Familien und Fans der bunten Bauklötze gleichermaßen.",
+    "m": "Die neue Ausstellung im Historischen Museum der Pfalz in Speyer widmet sich voll und ganz den bekannten Lego-Steinen. Zu den zentralen Attraktionen gehören aufwendig gestaltete Miniaturmodelle, darunter der Speyerer Dom und die Nürburgring-Rennstrecke. Die Modelle zeichnen sich durch einen hohen Detailgrad aus und spiegeln die Kreativität der Erbauer wider. Neben der reinen Betrachtung der Exponate lädt das Museum auch zum Mitmachen ein. Besucherinnen und Besucher haben vor Ort die Möglichkeit, selbst aktiv zu werden und eigene Bauwerke aus Lego zu erschaffen. Das Angebot soll insbesondere Kinder und kreative Köpfe ansprechen und verbindet Ausstellungserlebnis mit interaktiven Elementen. Das Historische Museum der Pfalz erweitert damit sein kulturelles Programm um eine populäre und generationenübergreifende Attraktion.",
+    "r": "Die Ausstellung bietet eine kulturelle und freizeitbezogene Attraktion in Speyer, die durch interaktive Elemente für Familien und Besucher von Bedeutung ist. Sie unterstreicht das Engagement des Museums für abwechslungsreiche und populäre Ausstellungsformate.",
     "srcs": [
       {
         "name": "SWR Aktuell",
@@ -542,8 +1347,17 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/rheinland-pfalz/ludwigshafen/spielen-bauen-staunen-in-der-lego-ausstellung-speyer-100.html",
-    "agree": "Beide Quellen stimmen darin überein, dass im Historischen Museum der Pfalz in Speyer eine große Lego-Ausstellung mit detailreichen Modellen des Doms und der Nürburgring-Rennstrecke eröffnet wurde und Besucher dort selbst bauen dürfen.",
-    "diff": [],
+    "agree": "Beide Quellen stimmen überein, dass im Historischen Museum der Pfalz in Speyer eine große Lego-Ausstellung mit detailreichen Modellen des Doms und der Nürburgring-Rennstrecke eröffnet wurde und Besucher dort selbst bauen dürfen.",
+    "diff": [
+      {
+        "name": "SWR Aktuell",
+        "note": "Berichtet in identischem Wortlaut über die Eröffnung und die Ausstellungsdetails."
+      },
+      {
+        "name": "Tagesschau Regional Rheinland-Pfalz",
+        "note": "Berichtet ebenfalls wortgleich über die Eröffnung und die Mitmachangebote."
+      }
+    ],
     "chg": "",
     "independent": 2
   },
@@ -598,10 +1412,10 @@
     "p": 4,
     "st": "",
     "city": "",
-    "t": "Flydubai-Co-Pilot greift Kapitän mit Axt an",
-    "s": "Auf einem Flug der Fluggesellschaft Flydubai nach Israel soll der Co-Pilot versucht haben, den Kapitän mit einer Axt anzugreifen. Nach Angaben der Generalstaatsanwaltschaft der Vereinigten Arabischen Emirate handelte es sich um einen terroristischen Anschlag. Passagiere und Besatzung konnten den Angreifer stoppen, wodurch eine Katastrophe abgewendet wurde.",
-    "m": "Der Vorfall ereignete sich am Mittwoch auf dem Flydubai-Flug FZ1073 mit 182 Menschen an Bord. Demnach versuchte der Co-Pilot, die Kontrolle über das Flugzeug zu übernehmen. Während des Angriffs stürzte die Maschine in nur etwas mehr als 30 Sekunden um 16.625 Fuß in die Tiefe. Der Sturzflug war so extrem, dass ein Teil des Seitenruders abriss. Der Tatverdächtige war nach Angaben der Behörden wegen extremistischer Ansichten zuvor von Oman mit einem Flugverbot belegt worden. Die Generalstaatsanwaltschaft der VAE stuft die Tat offiziell als versuchten terroristischen Anschlag ein. Die genauen Hintergründe und weitere Details zu den Ermittlungen sind Gegenstand der laufenden Untersuchungen.",
-    "r": "Der Vorfall zeigt massive Sicherheitsrisiken im zivilen Luftverkehr auf, insbesondere durch die Radikalisierung von Besatzungsmitgliedern. Die rasche Intervention von Passagieren und Crew verhinderte einen potenziellen Absturz mit hunderten Todesopfern.",
+    "t": "Co-Pilot von Flydubai greift Kapitän mit Axt an",
+    "s": "Der Co-Pilot eines Flydubai-Fluges hat laut Angaben der Vereinigten Arabischen Emirate versucht, einen terroristischen Anschlag im Cockpit zu verüben. Mit einer Notfall-Axt ging er auf den Kapitän los. Passagiere und Crew konnten den Angriff jedoch rechtzeitig abwenden.",
+    "m": "Der Vorfall ereignete sich am Mittwoch an Bord eines Israel-Fluges mit der Flugnummer FZ1073, bei dem sich 182 Menschen an Bord befanden. Laut dem Generalstaatsanwalt der Vereinigten Arabischen Emirate versuchte der Co-Pilot, die Kontrolle über das Flugzeug zu übernehmen, und stürzte die Maschine in etwas mehr als 30 Sekunden um 16.625 Fuß in die Tiefe. Dieser extreme Sturzflug war so heftig, dass Teile des Seitenruders abgerissen wurden. Durch das Eingreifen von Passagieren und Besatzung konnte eine Katastrophe in letzter Sekunde verhindert werden. Zudem wurde bekannt, dass der Tatverdächtige zuvor wegen extremistischer Ansichten von Oman mit einem Flugverbot belegt worden war.",
+    "r": "Der Vorfall verdeutlicht extreme Sicherheitsrisiken im zivilen Luftverkehr durch extremistische Täter im Cockpit und zeigt die lebensrettende Bedeutung des Eingreifens von Besatzung und Passagieren. Zudem wirft er Fragen zur Effektivität von Hintergrundüberprüfungen bei Fluggesellschaften auf.",
     "srcs": [
       {
         "name": "Guardian World",
@@ -615,11 +1429,11 @@
       }
     ],
     "url": "https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae",
-    "agree": "Die Quellen stimmen überein, dass der Co-Pilot eines Flydubai-Fluges den Kapitän mit einer Axt angegriffen hat und die VAE von einem Terrorangriff sprechen.",
+    "agree": "Die Quellen sind sich einig, dass der Co-Pilot eines Flydubai-Fluges eine Axt benutzt hat, um den Kapitän anzugreifen, und die VAE dies als versuchten Terroranschlag werten.",
     "diff": [
       {
         "name": "Google News World",
-        "note": "Verweist lediglich auf den Artikel des Guardian und liefert keine eigenständigen zusätzlichen Informationen."
+        "note": "Die Quelle verweist lediglich auf den Artikel des Guardian und enthält keine eigenständigen Details."
       }
     ],
     "chg": "",
@@ -673,13 +1487,13 @@
     "k": "wirtschaft",
     "lang": "de",
     "d": "2026-10-03T09:17:32.000Z",
-    "p": 3,
+    "p": 2,
     "st": "",
     "city": "",
-    "t": "Polens Spritpreisbremse tritt in Kraft und senkt Spritpreise",
-    "s": "In Polen ist eine Spritpreisbremse in Kraft getreten, die das Tanken für Autofahrer deutlich günstiger macht. Benzin und Diesel kosten im Nachbarland nun rund 1,54 Euro. Ermöglicht wurde diese Maßnahme durch die Einführung einer Übergewinnsteuer für Mineralölkonzerne.",
-    "m": "Die neue Regelung in Polen sorgt für spürbare Entlastungen an den Zapfsäulen, wo der Spritpreis durch die staatliche Bremse auf rund 1,54 Euro gedrückt wurde. Finanziert und ermöglicht wird dieser Schritt durch eine gezielte Übergewinnsteuer, die der polnische Staat auf Mineralölkonzerne erhoben hat. Während diese Maßnahme in Polen nun umgesetzt ist und Autofahrer begünstigt, gibt es in Deutschland eine kontroverse politische Debatte darüber. Insbesondere die CDU lehnt die in Polen angewandte Übergewinnsteuer für Konzerne in Deutschland strikt ab. Offen bleibt, ob das polnische Modell langfristig Bestand haben wird und wie die betroffenen Konzerne auf die finanzielle Belastung reagieren. Weitere Details zu den genauen Steuersätzen oder der Dauer der Maßnahme nennen die Berichte nicht.",
-    "r": "Die Einführung der Spritpreisbremse und der Übergewinnsteuer in Polen ist relevant, da sie als politisches Modell in der aktuellen deutschen Energie- und Steuerdebatte als Kontrast herangezogen wird. Die CDU in Deutschland lehnt eine solche Abgabe für Mineralölkonzerne ab.",
+    "t": "Polens Spritpreisbremse tritt in Kraft und senkt Benzinpreise",
+    "s": "In Polen ist eine Spritpreisbremse in Kraft getreten, die das Tanken von Benzin und Diesel für Autofahrer deutlich günstiger macht. Der Preis liegt dort nun bei rund 1,54 Euro. Finanziert wird die Maßnahme durch eine Übergewinnsteuer für Mineralölkonzerne.",
+    "m": "Die Einführung der Spritpreisbremse in Polen sorgt für deutlich niedrigere Spritpreise an den Tankstellen, wo Benzin und Diesel nun zu einem Preis von 1,54 Euro angeboten werden. Ermöglicht wurde diese staatliche Intervention durch die Erhebung einer Übergewinnsteuer speziell für Mineralölkonzerne. Während Autofahrer in Polen somit entlastet werden, ist das Modell in Deutschland umstritten, da die CDU eine solche Übergewinnsteuer ablehnt. Die Maßnahme wirft grundsätzliche Fragen zur Marktregulierung und zur Besteuerung von Übergewinnen in Krisenzeiten auf. Weitere Details zum genauen Entlastungsvolumen oder zur Dauer der Maßnahme nennen die Berichte nicht.",
+    "r": "Die Maßnahme zeigt einen konkreten wirtschaftspolitischen Ansatz zur Bekämpfung hoher Energiepreise in Europa. Die unterschiedliche Bewertung in Deutschland und Polen verdeutlicht die Kontroverse um die Eignung einer Übergewinnsteuer zur Krisenbewältigung.",
     "srcs": [
       {
         "name": "Frankfurter Allgemeine",
@@ -693,15 +1507,15 @@
       }
     ],
     "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/spritpreisbremse-in-polen-benzin-ab-1-54-euro-accg-201285239.html",
-    "agree": "Die Quellen sind sich einig, dass in Polen eine Spritpreisbremse in Kraft getreten ist und diese durch eine Übergewinnsteuer für Mineralölkonzerne ermöglicht wurde.",
+    "agree": "Die Quellen sind sich einig, dass in Polen eine Spritpreisbremse durch eine Übergewinnsteuer für Mineralölkonzerne finanziert und in Kraft getreten ist.",
     "diff": [
       {
         "name": "Frankfurter Allgemeine",
-        "note": "Erwähnt konkret den Spritpreis von 1,54 Euro und die ablehnende Haltung der CDU in Deutschland gegenüber der Übergewinnsteuer."
+        "note": "Erwähnt konkret den Spritpreis von 1,54 Euro und die politische Debatte in Deutschland, dass die CDU eine Übergewinnsteuer ablehnt."
       },
       {
         "name": "RND",
-        "note": "Berichtet, dass Benzin und Diesel für die Autofahrer deutlich günstiger werden."
+        "note": "Berichtet, dass Benzin und Diesel für die Autofahrer durch die Maßnahme deutlich günstiger werden."
       }
     ],
     "chg": "",
@@ -717,10 +1531,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Ermittlungen im Fall Widdecombe: Möglicher Anschlagsplan gegen Farage",
-    "s": "Im Juli wurde ein 28-jähriger Mann wegen des Mordes an der Brexit-Politikerin Widdecombe angeklagt. Nun prüfen die Ermittler eine Verbindung zu weiteren potenziellen Anschlagsplänen. Dabei gerät unter anderem der Rechtspopulist Nigel Farage in den Fokus der Untersuchungen.",
-    "m": "Der Fall der getöteten Brexit-Politikerin Ann Widdecombe hat eine neue Dimension erreicht. Im Juli hatten die Behörden bereits Anklage gegen einen 28-jährigen Verdächtigen wegen Mordes erhoben. Aktuellen Erkenntnissen zufolge gehen die Ermittler nun Hinweisen nach, wonach der Beschuldigte möglicherweise auch Angriffe auf andere Persönlichkeiten geplant haben könnte. Im Zentrum dieser neuen Untersuchungen steht der bekannte britische Rechtspopulist Nigel Farage. Ob es bereits konkrete Beweise oder verhinderte Anschlagsversuche in diesem Zusammenhang gibt, ist Gegenstand der laufenden polizeilichen Arbeit. Die genauen Hintergründe und das Motiv des Verdächtigen werden weiterhin intensiv untersucht, während die Sicherheitsvorkehrungen für gefährdete Personen überprüft werden.",
-    "r": "Die Meldung ist von Bedeutung, da die Ermittlungen im Mordfall einer politischen Persönlichkeit nun auf weitere potenzielle Anschlagspläne gegen prominente Politiker ausgeweitet werden. Dies wirft Fragen zur Sicherheit exponierter Personen auf.",
+    "t": "Ermittler prüfen Anschlagspläne gegen Farage im Fall Widdecombe",
+    "s": "Im Juli wurde ein 28-Jähriger wegen des Mordes an der Brexit-Politikerin Widdecombe angeklagt. Nun prüfen die Ermittler eine Verbindung zu weiteren möglichen Anschlagsplänen. Unter anderem soll auch der Rechtspopulist Farage im Visier gestanden haben. Die Behörden untersuchen nun die Hintergründe dieser neuen Verdachtsmomente.",
+    "m": "Der Fall um die getötete Brexit-Politikerin Ann Widdecombe nimmt eine neue Wendung. Bereits im Juli war ein 28-jähriger Tatverdächtiger wegen Mordes in diesem Fall angeklagt worden. Aktuellen Erkenntnissen der Ermittler zufolge könnte derselbe Beschuldigte auch in weitere Anschlagspläne verwickelt sein. Konkret wird nun geprüft, ob Angriffe auf den Rechtspopulisten Nigel Farage geplant waren. Die Hintergründe sowie mögliche Motive und Verbindungen zwischen den mutmaßlichen Taten sind Gegenstand laufender polizeilicher Untersuchungen. Bislang haben die Behörden keine detaillierten Auskunft über den genauen Zeitpunkt oder den konkreten Stand der Vorbereitungen dieser weiteren Anschläge gegeben. Der Fall sorgt in der britischen Politiklandschaft für erhebliche Aufregung, da sowohl Widdecombe als auch Farage bekannte Persönlichkeiten des rechten beziehungsweise Brexit-nahen Spektrums sind.",
+    "r": "Die Meldung ist von Bedeutung, da sie neue Details über mögliche geplante Angriffe auf prominente politische Persönlichkeiten in Großbritannien offenbart. Die Ausweitung der Ermittlungen im Mordfall Widdecombe auf den Fall Farage wirft Fragen zur Sicherheit exponierter Politiker auf.",
     "srcs": [
       {
         "name": "Tagesschau",
@@ -734,15 +1548,15 @@
       }
     ],
     "url": "https://www.tagesschau.de/ausland/europa/mord-ann-widdecombe-100.html",
-    "agree": "Beide Quellen stimmen überein, dass im Juli ein 28-jähriger Mann im Fall der getöteten Brexit-Politikerin Widdecombe wegen Mordes angeklagt wurde und die Ermittler nun eine Verbindung zu weiteren Anschlagsplänen prüfen.",
+    "agree": "Die Quellen sind sich einig, dass im Juli ein 28-Jähriger wegen des Mordes an der Brexit-Politikerin Widdecombe angeklagt wurde und die Ermittler nun eine Verbindung zu weiteren möglichen Anschlagsplänen prüfen.",
     "diff": [
       {
         "name": "Tagesschau",
-        "note": "Erwähnt konkret den Rechtspopulisten Farage als Ziel von möglichen weiteren Anschlagsplänen."
+        "note": "Berichtet konkret, dass unter anderem ein Anschlag auf den Rechtspopulisten Farage geplant gewesen sein soll, und nennt den Vornamen Ann von Widdecombe."
       },
       {
         "name": "RND",
-        "note": "Nennt im Gegensatz zur Tagesschau den Vornamen Ann von Widdecombe, nennt Farage jedoch nicht namentlich in der Überschrift oder im Text."
+        "note": "Nennt ebenfalls den vollständigen Namen Ann Widdecombe, erwähnt die Verbindung zu weiteren Anschlagsplänen, lässt die konkrete Nennung von Farage im Fließtext jedoch aus."
       }
     ],
     "chg": "",
@@ -868,6 +1682,43 @@
     "independent": 2
   },
   {
+    "id": "story-838e2bbf1db95206",
+    "c": "INT",
+    "o": "UK",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-03T04:38:31.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "G7-Staaten geben 100 Millionen Barrel Öl und Diesel frei",
+    "s": "Angesichts von Exportverbotsdrohungen der USA planen die G7-Staaten eine koordinierte Freigabe von Millionen Barrel Öl und Diesel. Die Maßnahme soll drastischen Preisanstiegen an den Märkten entgegenwirken. Konkret sollen 100 Millionen Barrel auf den Markt gebracht werden.",
+    "m": "Die G7-Staaten haben sich auf eine koordinierte Freigabe von insgesamt 100 Millionen Barrel Öl und Diesel geeinigt. Dieser Schritt erfolgt als Reaktion auf die Drohung der USA mit einem Exportverbot für Diesel. Ziel der Initiative ist es, drohende Preissprünge auf dem Weltmarkt zu verhindern und die Versorgung stabil zu halten. Die betroffenen Mengen sollen zeitnah freigegeben werden, um den durch politische Spannungen und protektionistische Maßnahmen verursachten Druck auf die Energiemärkte abzufedern. Weitere Details zum genauen zeitlichen Ablauf der Freigabe und zur Beteiligung der einzelnen Mitgliedstaaten wurden zunächst nicht im Detail genannt. Die Auswirkungen auf die globalen Kraftstoffpreise bleiben abzuwarten.",
+    "r": "Die koordinierte Freigabe von Öl- und Dieselreserven durch die G7 betrifft die globale Energieversorgung und hat direkte Auswirkungen auf die Preisentwicklung an den Märkten. Die Maßnahme verdeutlicht den Einfluss politischer Drohungen auf die internationale Handelspolitik.",
+    "srcs": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-03T04:38:31.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LLWY0Q0phVTMwYUxVbWxLRG9DOVpYTHpYekJKZnhGRnFPei16YXpYdHZSMXBnU2Eyc2Ixa1dzSDdrazJIUkZ2SGZ4UUExYUc4WWFSeWpDWEFkM00?oc=5",
+        "date": "2026-10-03T04:38:31.000Z"
+      }
+    ],
+    "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+    "agree": "Beide Quellen stimmen überein, dass die G7-Staaten Öl und Diesel freigeben werden, um auf eine Drohung von Donald Trump zu reagieren.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Ergänzt die genaue Menge von 100 Millionen Barrel und nennt die Drohung mit einem US-Exportverbot explizit im Titel."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-43e63f8fddd14636",
     "c": "INT",
     "o": "UK",
@@ -911,13 +1762,13 @@
     "k": "panorama",
     "lang": "de",
     "d": "2026-10-02T23:06:00.000Z",
-    "p": 3,
+    "p": 2,
     "st": "",
     "city": "",
-    "t": "US-Gericht hebt Urteil wegen KI-Video des Opfers auf",
-    "s": "Ein Berufungsgericht im US-Bundesstaat Arizona hat das Strafurteil gegen einen Mörder aufgehoben. Grund dafür ist, dass während des Gerichtsverfahrens ein künstlich erzeugtes Video des Opfers gezeigt wurde. Das Gericht urteilte, dass diese Darstellung eine Grenze überschritten habe.",
-    "m": "Der Vorfall betrifft ein Verfahren im US-Bundesstaat Arizona in einem Fall von tödlicher Straßenwut. Das dortige Berufungsgericht kam zu der Entscheidung, dass das Abspielen einer mittels Künstlicher Intelligenz erzeugten Nachricht des getöteten Opfers unzulässig war und das Verfahren belastete. Durch den Einsatz des KI-Videos sah das Gericht eine rote Linie überschritten, was nun zur Aufhebung der Verurteilung führte. Welche konkreten rechtlichen Schritte als Nächstes folgen, wie etwa ein neues Verfahren oder weitere Prüfungen durch die Staatsanwaltschaft, geht aus den vorliegenden Berichten nicht hervor. Der Fall wirft grundsätzliche Fragen zum Umgang mit neuen Technologien und künstlicher Intelligenz vor Gericht auf.",
-    "r": "Die Entscheidung ist relevant, da sie einen Präzedenzfall für den Umgang mit KI-generierten Inhalten in US-Gerichtsverfahren darstellt. Die unzulässige Verwendung eines Opfervideos führte zur Aufhebung eines Mordurteils.",
+    "t": "US-Gericht hebt Urteil in Road-Rage-Fall wegen KI-Video auf",
+    "s": "Ein Berufungsgericht im US-Bundesstaat Arizona hat das Urteil gegen einen wegen Road Rage verurteilten Täter aufgehoben. Grund dafür war die Verwendung eines künstlich erzeugten Videos des getöteten Opfers während des Prozesses. Nach Ansicht des Gerichts ging dieser Einsatz von KI zu weit.",
+    "m": "Das Berufungsgericht in Arizona urteilte, dass das Abspielen einer KI-generierten Botschaft des verstorbenen Opfers im Gerichtssaal eine unzulässige Grenze überschritten habe. Der Fall betrifft eine Verurteilung wegen eines tödlichen Vorfalls im Straßenverkehr, dem sogenannten Road Rage. Durch die Verwendung des KI-Videos sah das Gericht das faire Verfahren beeinträchtigt. Details zum genauen Tathergang, zum Namen des Verurteilten oder zum genauen Zeitpunkt der Verhandlung gehen aus den vorliegenden Berichten nicht hervor. Das Urteil wurde folglich aufgrund dieses spezifischen verfahrensrechtlichen Fehlers gekippt.",
+    "r": "Die Entscheidung ist relevant, da sie rechtliche Grenzen für den Einsatz von künstlicher Intelligenz und digitalen Simulationen von Opfern in US-Gerichtsverfahren aufzeigt. Sie verdeutlicht, dass solche Methoden zu einer Aufhebung von Urteilen führen können.",
     "srcs": [
       {
         "name": "BBC World",
@@ -931,8 +1782,13 @@
       }
     ],
     "url": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
-    "agree": "Beide Quellen stimmen darin überein, dass ein US-Gericht das Urteil gegen einen Täter wegen der Verwendung eines KI-Videos des Opfers aufgehoben hat.",
-    "diff": [],
+    "agree": "Die Quellen stimmen darin überein, dass das Urteil gegen einen US-Straßengewalt-Täter aufgehoben wurde, weil im Prozess ein KI-Video des Opfers gezeigt worden war.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Verweist lediglich auf den BBC-Bericht und liefert keine zusätzlichen Informationen."
+      }
+    ],
     "chg": "",
     "independent": 2
   },
@@ -12232,686 +13088,6 @@
       {
         "name": "DW Deutsch",
         "note": "Nennt Johann Wadephuls Parteizugehörigkeit (CDU) und bezeichnet das Treffen als das höchstrangigste beider Länder seit Jahren."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-f0c799886ef0e031",
-    "c": "INT",
-    "o": "DE",
-    "k": "sport",
-    "lang": "de",
-    "d": "2026-09-26T18:07:00.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Frankreich-Star Mbappé fällt nach Spiel gegen Türkei aus",
-    "s": "Frankreichs Kapitän Kylian Mbappé hat sich im Länderspiel gegen die Türkei verletzt und fällt für das französische Team aus. Nach Angaben der Medien wurde bei dem Stürmer eine Kapselverletzung diagnostiziert. Genauere Details zur Ausfalldauer stehen zum aktuellen Zeitpunkt noch aus. Die Verletzung zog er sich zu, nachdem er sein Team am Freitag zum Sieg geschossen hatte.",
-    "m": "Im Rahmen des Fußballspiels gegen die Türkei am Freitag führte Kapitän Kylian Mbappé seine französische Mannschaft zum Sieg und zog sich dabei eine schwerwiegendere Verletzung zu. Mittlerweile liegt eine medizinische Diagnose vor, wonach es sich um eine Kapselverletzung handelt. Bislang ist von offizieller Seite noch nicht exakt kommuniziert worden, wie lange der Star-Stürmer pausieren muss und wann er auf den Platz zurückkehren kann. Die genaue Ausfalldauer bleibt somit vorerst unklar. Der Ausfall wiegt für die französische Auswahl schwer, da Mbappé als Kapitän und Leistungsträger eine zentrale Rolle in der Mannschaft einnimmt. Trainer und Betreuerstab müssen in den kommenden Spielen ohne ihren Führungsspieler auskommen. Es wird erwartet, dass nach weiteren Untersuchungen genauere Prognosen zum Heilungsverlauf getroffen werden können.",
-    "r": "Der Ausfall von Kapitän und Schlüsselspieler Kylian Mbappé schwächt die französische Nationalmannschaft sportlich. Die genaue Dauer seiner Zwangspause hat direkte Auswirkungen auf kommende Aufstellungen.",
-    "srcs": [
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/sport/fussball-nations-league-frankreich-kyllian-mbappe-verletzung-100.html",
-        "date": "2026-09-26T18:07:00.000Z"
-      },
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/sport/fussball/article6ab7fc6c18772248192d6132/nations-league-frankreich-star-kylian-mbappe-faellt-verletzt-aus-diagnose-steht.html",
-        "date": "2026-09-26T17:36:03.000Z"
-      }
-    ],
-    "url": "https://www.zdfheute.de/sport/fussball-nations-league-frankreich-kyllian-mbappe-verletzung-100.html",
-    "agree": "Die Quellen stimmen überein, dass sich Frankreichs Kapitän Kylian Mbappé im Spiel gegen die Türkei verletzt hat.",
-    "diff": [
-      {
-        "name": "ZDF heute",
-        "note": "nennt die konkrete Diagnose einer Kapselverletzung."
-      },
-      {
-        "name": "WELT",
-        "note": "erwähnt, dass Mbappé seine Mannschaft am Freitag mit einem Tor zum Sieg geschossen hat und dass es sich um eine schwerwiegendere Verletzung handelt."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-5625a705c812debc",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-09-26T18:00:03.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Wadephul trifft überraschend Lawrow in New York",
-    "s": "Der deutsche Außenminister Johann Wadephul hat den russischen Außenminister Sergej Lawrow am Rande der UN-Generaldebatte in New York getroffen. Es handelt sich um das erste Treffen dieser Art zwischen hochrangigen Diplomaten beider Länder seit Beginn des russischen Überfalls auf die Ukraine. Details über den genauen Inhalt und Verlauf des kurzen Gesprächs wurden zunächst nicht in allen Einzelheiten bekannt.",
-    "m": "Das überraschende Treffen zwischen Bundesaußenminister Johann Wadephul (CDU) und dem russischen Außenminister Sergej Lawrow fand in New York City statt. Der Termin wurde am Rande der UN-Generaldebatte absolviert und markiert einen bemerkenswerten diplomatischen Kontakt. Es ist das erste Mal seit Beginn des russischen Angriffskrieges gegen die Ukraine, dass ein deutscher Chefdiplomat direkt mit seinem russischen Amtskollegen zusammengekommen ist. Gleichzeitig handelt es sich laut Medienberichten um das höchstrangigste Treffen zwischen Vertretern beider Länder seit Jahren. Bislang gibt es wenige offizielle Details über die konkreten Gesprächsinhalte oder darüber, welche Seite die Initiative für das Treffen ergriffen hat.",
-    "r": "Das Treffen markiert den ersten hochrangigen direkten Kontakt zwischen Deutschland und Russland seit Beginn des Ukraine-Krieges. Solche diplomatischen Begegnungen sind von internationaler Bedeutung für die Einschätzung der bilateralen Beziehungen und der globalen Diplomatie.",
-    "srcs": [
-      {
-        "name": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/ausland/europa/wadephul-treffen-lawrow-100.html",
-        "date": "2026-09-26T18:00:03.000Z"
-      },
-      {
-        "name": "DW Deutsch",
-        "url": "https://www.dw.com/de/wadephul-trifft-lawrow-in-new-york/a-79445008?maca=de-rss-de-all-1119-xml-mrss",
-        "date": "2026-09-26T17:42:00.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/ausland/europa/wadephul-treffen-lawrow-100.html",
-    "agree": "Die Quellen stimmen überein, dass Bundesaußenminister Johann Wadephul den russischen Außenminister Sergej Lawrow überraschend in New York getroffen hat und dies das erste Treffen dieser Art seit Beginn des Ukraine-Krieges ist.",
-    "diff": [
-      {
-        "name": "SWR Aktuell",
-        "note": "Berichtet ebenfalls von dem Treffen, lässt jedoch den genauen Ort in New York und die Parteizugehörigkeit von Wadephul zunächst offen."
-      },
-      {
-        "name": "Tagesschau",
-        "note": "Ergänzt, dass das Treffen am Rande der UN-Generaldebatte stattfand."
-      },
-      {
-        "name": "DW Deutsch",
-        "note": "Nennt die Parteizugehörigkeit von Johann Wadephul (CDU) und bezeichnet das Treffen explizit als das höchstrangigste beider Länder seit Jahren."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-a96af079375d89c0",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-09-26T17:57:00.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Johann Wadephul trifft Sergej Lawrow zu ersten Gesprächen in New York",
-    "s": "Johann Wadephul und Sergej Lawrow haben sich am Rande der UN-Generaldebatte in New York getroffen. Es ist das erste bilaterale Gespräch der Außenminister Deutschlands und Russlands seit Beginn des russischen Angriffskriegs in der Ukraine. Das Treffen fand überraschend statt und war von kurzer Dauer.",
-    "m": "Das Treffen zwischen dem deutschen Chefdiplomaten Johann Wadephul und dem russischen Außenminister Sergej Lawrow markiert das erste direkte Gespräch auf dieser Ministerebene seit mehr als vier Jahren beziehungsweise seit Beginn des russischen Angriffskriegs. Die Unterredung fand am Rande der UN-Generaldebatte in New York statt. Die Zusammenkunft verlief überraschend und war auf eine kurze Dauer angelegt. Über konkrete Inhalte, Vereinbarungen oder diplomatische Initiativen, die während des Austauschs besprochen wurden, gibt es in den vorliegenden Berichten keine näheren Angaben. Es bleibt vorerst offen, ob dieses Gespräch den Auftakt für weitere diplomatische Kontakte zwischen Berlin und Moskau bilden könnte.",
-    "r": "Das Treffen markiert den ersten direkten Austausch zwischen den Außenministern Deutschlands und Russlands seit Beginn des Ukraine-Kriegs vor mehreren Jahren. Solche hochrangigen diplomatischen Kontakte sind trotz anhaltender Spannungen von politischem Interesse.",
-    "srcs": [
-      {
-        "name": "stern",
-        "url": "https://www.stern.de/politik/wadephul-trifft-lawrow-zu-ersten-gespraechen-seit-jahren--38313008.html",
-        "date": "2026-09-26T17:57:00.000Z"
-      },
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/politik/Wadephul-trifft-Lawrow-in-New-York-zu-kurzem-Gespraech-id31351395.html",
-        "date": "2026-09-26T16:08:08.000Z"
-      },
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/politik/wadephul-lawrow-treffen-new-york-deutschland-russland-100.html",
-        "date": "2026-09-26T15:47:00.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/ausland/krieg-in-der-ukraine-johann-wadephul-trifft-sergej-lawrow-zu-gespraechen-a-18810c36-42f9-4cd5-ba78-520fd73842c1#ref=rss",
-        "date": "2026-09-26T15:13:00.000Z"
-      }
-    ],
-    "url": "https://www.stern.de/politik/wadephul-trifft-lawrow-zu-ersten-gespraechen-seit-jahren--38313008.html",
-    "agree": "Die Quellen sind sich einig, dass Johann Wadephul und Sergej Lawrow in New York ein kurzes, erstes bilaterales Gespräch seit Beginn des Krieges in der Ukraine geführt haben.",
-    "diff": [
-      {
-        "name": "stern",
-        "note": "Berichtet, dass seit Beginn des russischen Angriffskriegs kein solches Gespräch mehr stattfand."
-      },
-      {
-        "name": "ntv",
-        "note": "Erwähnt, dass das Treffen am Rande der UN-Generaldebatte stattfand, überraschend war und seit mehr als vier Jahren kein bilaterales Gespräch stattgefunden hatte."
-      },
-      {
-        "name": "ZDF heute",
-        "note": "Hält sich sehr kurz und nennt das Treffen einfach das erste bilaterale Treffen der Außenminister seit Jahren."
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "Betont, dass der Termin nur kurz war."
-      }
-    ],
-    "chg": "",
-    "independent": 4
-  },
-  {
-    "id": "story-d7f023e449c75a5d",
-    "c": "INT",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-09-26T17:46:09.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Bangkok ruft wegen schwerer Überschwemmungen Katastrophenfall aus",
-    "s": "In Thailands Hauptstadt Bangkok ist wegen schwerer Überschwemmungen der Katastrophenfall ausgerufen worden. Grund für die Notlage sind heftige Regenfälle, die die Metropole seit Tagen ununterbrochen treffen. Die Situation führt zu erheblichen Beeinträchtigungen im städtischen Leben.",
-    "m": "Die anhaltenden und ununterbrochenen Regenfälle der letzten Tage haben in der thailändischen Hauptstadt Bangkok zu massiven Überflutungen geführt. Die Wassermassen stehen den Menschen teilweise bis zur Hüfte. Durch die dramatische Situation wird die Versorgung mit lebenswichtigen Gütern zunehmend schwieriger, und stellenweise werden bereits Lebensmittel knapp. Aufgrund dieser extremen Wetterbedingungen sah sich die Stadtverwaltung gezwungen, offiziell den Katastrophenfall auszurufen. Bislang gibt es keine offiziellen Angaben darüber, wann sich die Lage entspannen könnte oder wie hoch die Gesamtschäden beziffert werden.",
-    "r": "Naturkatastrophen in Großstädten wie Bangkok haben direkte Auswirkungen auf die lokale Bevölkerung und gefährden die Grundversorgung. Die Ausrufes des Katastrophenfalls verdeutlicht die Schwere der aktuellen Wetterlage in Thailand.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/bangkok-ruft-wegen-ueberschwemmungen-den-katastrophenfall-aus-102.html",
-        "date": "2026-09-26T17:46:09.000Z"
-      },
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/vermischtes/article6ab7bd9d18772248192d5daa/thailand-wasser-steht-bis-zur-huefte-bangkok-ruft-wegen-ueberschwemmungen-katastrophenfall-aus.html",
-        "date": "2026-09-26T12:58:16.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/bangkok-ruft-wegen-ueberschwemmungen-den-katastrophenfall-aus-102.html",
-    "agree": "Beide Quellen stimmen überein, dass in Bangkok wegen schwerer Überschwemmungen der Katastrophenfall ausgerufen wurde.",
-    "diff": [
-      {
-        "name": "WELT",
-        "note": "Berichtet ergänzend, dass es seit Tagen ununterbrochen regnet, das Wasser teilweise bis zur Hüfte steht und Lebensmittel knapp werden."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-d20c740e4c3b0db7",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-09-26T17:46:09.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Saudi-Arabien wehrt Drohnenangriff der Huthi-Miliz auf Riad ab",
-    "s": "Saudi-Arabien hat nach Militärangaben einen neuen Angriff der jemenitischen Huthi-Miliz auf die Hauptstadt Riad erfolgreich abgewehrt. Es handelte sich um eine Luftattacke, bei der feindliche Flugkörper im Anflug auf die Metropole abgefangen wurden. Personen- oder Sachschäden wurden zunächst nicht bekannt. Die jemenitische Miliz greift im Konflikt regelmäßig Ziele im Nachbarland an.",
-    "m": "Das saudi-arabische Militär hat einen erneuten Angriff aus dem Jemen auf die Hauptstadt Riad gemeldet. Konkret wurden nach offiziellen Angaben zwei Drohnen von der Luftabwehr abgefangen und zerstört. Die Huthi-Miliz setzt im anhaltenden Konflikt in der Region häufiger Drohnen und Raketen ein, um strategische Ziele oder Städte in Saudi-Arabien anzugreifen. Die Abwehr der Flugkörper zeigt die anhaltende Bedrohungslage für die saudi-arabische Zivilbevölkerung und Infrastruktur. Über mögliche Trümmerteile am Boden, Verletzte oder Hintergründe zu den aktuellen Angriffszielen machten die Behörden in den ersten Meldungen keine näheren Angaben. Die Situation verdeutlicht, dass die diplomatischen Bemühungen zur Beilegung des Jemen-Konflikts bisher zu keiner dauerhaften Einstellung der Kampfhandlungen geführt haben. Die internationale Gemeinschaft beobachtet die anhaltenden Angriffe der Miliz mit großer Sorge. Weitere offizielle Details zu den abgewehrten Drohnen wurden zunächst nicht veröffentlicht.",
-    "r": "Der Angriff verdeutlicht die anhaltende Bedrohung Saudi-Arabiens durch die jemenitische Huthi-Miliz und die fortbestehenden Spannungen in der Region. Die erfolgreiche Abwehr zeigt die Einsatzbereitschaft der saudischen Luftabwehr.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/neue-angriffe-der-huthi-miliz-auf-saudische-hauptstadt-riad-102.html",
-        "date": "2026-09-26T17:46:09.000Z"
-      },
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/politik/ausland/video6ab7b8873386855e1e1e3fee/krieg-in-nahost-huthi-miliz-greift-saudische-hauptstadt-riad-mit-drohnen-an.html",
-        "date": "2026-09-26T12:30:38.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/neue-angriffe-der-huthi-miliz-auf-saudische-hauptstadt-riad-102.html",
-    "agree": "Beide Quellen stimmen darin überein, dass Saudi-Arabien einen neuen Angriff der jemenitischen Huthi-Miliz auf die Hauptstadt Riad abgewehrt hat.",
-    "diff": [
-      {
-        "name": "WELT",
-        "note": "Berichtet ergänzend, dass es sich um zwei Drohnen handelte, die von der Luftabwehr abgefangen und zerstört wurden."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-feed172760da6e9e",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-09-26T17:37:41.000Z",
-    "p": 4,
-    "st": "BY",
-    "city": "",
-    "t": "USA lehnen iranischen Vorschlag zur Öffnung der Straße von Hormus ab",
-    "s": "US-Präsident Donald Trump hat einen Vorschlag des Irans zur Öffnung der Straße von Hormus abgelehnt. Der Iran hatte den USA zuvor am Rande der UN-Generalversammlung einen Plan übermittelt. Die Meerenge ist seit Beginn des Konflikts für die Schifffahrt weitgehend blockiert.",
-    "m": "Der Iran hat den USA einen Vorschlag zur Entschärfung der Lage an der strategisch wichtigen Straße von Hormus unterbreitet. Nach Angaben von Außenminister Araghtschi handele es sich um einen Sieben-Tage-Plan. US-Präsident Donald Trump lehnte diesen Vorstoß vor Journalisten ab und erklärte, das Angebot sei nicht annehmbar. Medienberichten zufolge hegt Washington zudem Zweifel daran, ob Teheran die gestellten Bedingungen erfüllen wird. Die Straße von Hormus ist seit Ausbruch des Iran-Kriegs für die Handelsschifffahrt praktisch blockiert. Die iranische Seite sieht nach der Übermittlung des Plans nun die US-Regierung am Zug.",
-    "r": "Die Blockade der Straße von Hormus und die diplomatischen Verhandlungen zwischen den USA und dem Iran betreffen zentrale globale Handelswege und die internationale Sicherheit.",
-    "srcs": [
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/usa-israel-iran-krieg-im-news-ticker-vom-21-bis-27-september,VVpl6nn",
-        "date": "2026-09-26T17:37:41.000Z"
-      },
-      {
-        "name": "Süddeutsche Zeitung",
-        "url": "https://www.sueddeutsche.de/politik/news-iran-nahost-krieg-usa-sieben-tage-plan-trump-meerenge-li.3530668",
-        "date": "2026-09-26T16:21:56.000Z"
-      },
-      {
-        "name": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/ausland/asien/iran-krieg-hormus-trump-lehnt-vorschlag-ab-100.html",
-        "date": "2026-09-26T16:15:02.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/ausland/iran-donald-trump-lehnt-teherans-vorschlag-zur-strasse-von-hormus-ab-a-9112d53a-9fb7-407e-bbce-c60cbd46ebce#ref=rss",
-        "date": "2026-09-26T16:06:00.000Z"
-      },
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQnBrcU80cG85NGlQcWd2YVEzeUZSV2VvWHRIOXVxZHk5X2dTdWlOSW5xMXNqVjhsdmJKYmxlWXVyVDU1ZlVxaVR3NlZzeFp4V3pXOUVNbjhIY0RadTRYMEYyMmtva1dvZVhIZUlNaXBhZUNzMVpnYmxycFl0ZFZQdktubkFrTmt4UV9NSG9TaTgzRkNjOUE?oc=5",
-        "date": "2026-09-26T15:50:00.000Z"
-      },
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/politik/ausland/iran-usa-friedensvorschlag-hormus-100.html",
-        "date": "2026-09-26T11:03:00.000Z"
-      }
-    ],
-    "url": "https://www.br.de/nachrichten/deutschland-welt/usa-israel-iran-krieg-im-news-ticker-vom-21-bis-27-september,VVpl6nn",
-    "agree": "Die Quellen stimmen überein, dass US-Präsident Donald Trump einen iranischen Vorschlag zur Öffnung der Straße von Hormus abgelehnt hat.",
-    "diff": [
-      {
-        "name": "BR24 Bayern",
-        "note": "Berichtet, dass Trump bezweifelt, ob Teheran die von Washington gestellten Bedingungen erfüllen wird."
-      },
-      {
-        "name": "Süddeutsche Zeitung",
-        "note": "Nennt Details zum Angebot, wonach Irans Außenminister Araghtschi von einem Sieben-Tage-Plan sprach."
-      },
-      {
-        "name": "SWR Aktuell",
-        "note": "Erwähnt, dass der Vorschlag am Rande der UN-Generalversammlung unterbreitet wurde und die Meerenge seit Beginn des Iran-Kriegs blockiert ist."
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "Berichtet, dass sich Trump nach eigenen Angaben nicht auf den iranischen Vorstoß einließ."
-      },
-      {
-        "name": "Tagesschau",
-        "note": "Erwähnt, dass der Vorschlag am Rande der UN-Generalversammlung übermittelt wurde und die Straße seit Beginn des Iran-Kriegs blockiert ist."
-      },
-      {
-        "name": "Google News DE",
-        "note": "Verlinkt lediglich auf die Berichterstattung der Tagesschau."
-      }
-    ],
-    "chg": "",
-    "independent": 6
-  },
-  {
-    "id": "story-bd8bebd523bc926c",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-09-26T17:24:56.000Z",
-    "p": 3,
-    "st": "BY",
-    "city": "",
-    "t": "Bundesaußenminister Wadephul trifft Lawrow in New York",
-    "s": "Bundesaußenminister Wadephul ist am Rande der UN-Vollversammlung in New York mit dem russischen Außenminister Lawrow zusammengekommen. Es handelt sich um das erste Treffen zwischen einem deutschen und einem russischen Außenminister seit mehreren Jahren. Die Ukraine verteidigt sich derweil seit mehr als vier Jahren gegen den russischen Angriffskrieg, während bisherige Friedensbemühungen erfolglos blieben.",
-    "m": "Am Rande der UN-Vollversammlung in New York kam es zu einem diplomatischen Treffen zwischen Bundesaußenminister Wadephul und dem russischen Amtskollegen Sergej Lawrow. Dies markiert das erste offizielle Treffen auf dieser Ebene zwischen Deutschland und Russland seit Jahren. Parallel dazu dauert der russische Angriffskrieg gegen die Ukraine nach Angaben der Berichte bereits seit mehr als vier Jahren an. Die Ukraine verteidigt sich seitdem gegen die Invasion, und diplomatische Friedensbemühungen zur Beendigung des Konflikts verliefen bislang ohne Erfolg. Weitere Details zu den konkreten Gesprächsinhalten oder Vereinbarungen zwischen Wadephul und Lawrow wurden in den Berichten zunächst nicht genannt. Die Entwicklungen werden weiterhin in Live-Tickern und Nachrichtentickern verfolgt.",
-    "r": "Das Treffen zwischen Wadephul und Lawrow stellt das erste Aufeinandertreffen deutscher und russischer Außenminister seit Jahren dar und findet vor dem Hintergrund des seit über vier Jahren anhaltenden Ukraine-Krieges statt.",
-    "srcs": [
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/russland-ukraine-krieg-im-news-ticker-vom-21-bis-27-september,VVpYoV4",
-        "date": "2026-09-26T17:24:56.000Z"
-      },
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/politik/ukraine-news-im-ticker-wadephul-trifft-lawrow-in-new-york-zu-gespraechen-HE2HCGE6JQFTFWLUN43NO5POI4.html",
-        "date": "2026-09-26T15:59:10.000Z"
-      }
-    ],
-    "url": "https://www.br.de/nachrichten/deutschland-welt/russland-ukraine-krieg-im-news-ticker-vom-21-bis-27-september,VVpYoV4",
-    "agree": "Die Quellen sind sich einig, dass Bundesaußenminister Wadephul den russischen Außenminister Lawrow in New York am Rande der UN-Vollversammlung zu Gesprächen getroffen hat und dass es sich dabei um das erste Treffen seit Jahren handelt.",
-    "diff": [
-      {
-        "name": "BR24 Bayern",
-        "note": "Erwähnt konkret den Anlass als Rand der UN-Vollversammlung in New York."
-      },
-      {
-        "name": "RND",
-        "note": "Fügt die Information hinzu, dass sich die Ukraine seit mehr als vier Jahren gegen den russischen Angriffskrieg verteidigt und Friedensbemühungen bisher erfolglos blieben."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-e85c56d2766b2f6b",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-09-26T17:21:00.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Musiker Danger Dan singt erstmals über Beziehung zu einem Mann",
-    "s": "Der Musiker Danger Dan hat in einem neuen Song über eine frühere Beziehung zu einem Mann gesprochen. Das Lied ist Teil seines bevorstehenden Albums mit dem Titel „Keine Angst“. Nach Angaben des Künstlers sei nun der richtige Zeitpunkt für ein solches Liebeslied gekommen.",
-    "m": "In wenigen Tagen veröffentlicht der Musiker Danger Dan sein neues Album „Keine Angst“. Darauf verarbeitet er persönliche Erfahrungen und setzt ein klares queeres Statement, indem er in einem Lied über die Beziehung zu einem Ex-Freund singt. Der Künstler erklärte, dass es nun für ihn der richtige Zeitpunkt sei, dieses Thema musikalisch zu behandeln. Neben seiner sexuellen Orientierung und der früheren Beziehung zu einem Mann spricht er in diesem Zusammenhang auch offen über seine fortschreitende Erblindung. Weitere Details zum Album oder zur genauen gesundheitlichen Situation wurden in den Berichten nicht genannt.",
-    "r": "Die Offenheit des Musikers Danger Dan über sein Privatleben und seine gesundheitliche Situation auf einem neuen Album gibt Einblicke in die künstlerische Verarbeitung persönlicher Erfahrungen. Solche Äußerungen prominenter Persönlichkeiten können gesellschaftliche Debatten über sexuelle Orientierung und Inklusion beeinflussen.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaV9TZzVkSy04MXM4OUVnVS1NVnNsNDRJTzNxN2UwN2V5cERLMW9ROU90cE9TSW5yQlhfb0xILURHN21jZ1hidHllNF96Rm01eVZJcnExR25yYzhNUFJMMF9PdHc5QXcyc0tRRjg1TkUxR0NzcVZxV2VBZjZFZjRYZnVqLUlrNHdqVE1VdGNnV2NuTTZpTXZXTDl6SmFXbjI5bFRqNGZNcVYzZHBPSGRJZGFDWDdVWDk0cUlPSGdaQWpRdFlhZEVUWmRxVElwODA?oc=5",
-        "date": "2026-09-26T17:21:00.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/panorama/leute/danger-dan-spricht-ueber-fruehere-beziehung-zu-einem-mann-a-dee1bf39-aec0-44a5-838d-435a387a1712#ref=rss",
-        "date": "2026-09-26T17:21:00.000Z"
-      },
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/promis/danger-dan-spricht-ueber-fruehere-beziehung-zu-mann-und-fortschreitende-erblindung-TVIXRVFZ45FV3MCEZXPWBQJ62I.html",
-        "date": "2026-09-26T17:10:00.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaV9TZzVkSy04MXM4OUVnVS1NVnNsNDRJTzNxN2UwN2V5cERLMW9ROU90cE9TSW5yQlhfb0xILURHN21jZ1hidHllNF96Rm01eVZJcnExR25yYzhNUFJMMF9PdHc5QXcyc0tRRjg1TkUxR0NzcVZxV2VBZjZFZjRYZnVqLUlrNHdqVE1VdGNnV2NuTTZpTXZXTDl6SmFXbjI5bFRqNGZNcVYzZHBPSGRJZGFDWDdVWDk0cUlPSGdaQWpRdFlhZEVUWmRxVElwODA?oc=5",
-    "agree": "Die Quellen stimmen überein, dass Danger Dan in einem Song auf seinem neuen Album über eine frühere Beziehung zu einem Mann spricht.",
-    "diff": [
-      {
-        "name": "RND",
-        "note": "Berichtet zusätzlich über Danger Dans fortschreitende Erblindung und das Album „Keine Angst“ als queeres Statement."
-      }
-    ],
-    "chg": "",
-    "independent": 3
-  },
-  {
-    "id": "story-33d330fdade44944",
-    "c": "INT",
-    "o": "UK",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-09-26T16:58:39.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "US-Präsident Trump lehnt iranischen Vorschlag zur Öffnung der Straße von Hormus ab",
-    "s": "US-Präsident Donald Trump hat ein iranisches Angebot zur Wiedereröffnung der Straße von Hormus und zur Wiederaufnahme von Atomgesprächen innerhalb von sieben Wochen abgelehnt. Der Vorschlag war zuvor über Katar an Washington übermittelt worden und beinhaltete die Aufhebung der US-Seeblockade iranischer Häfen. Trump erklärte vor Reportern im Weißen Haus, er habe die Offerte zurückgewiesen.",
-    "m": "Der iranische Vorschlag sah vor, die strategisch wichtige Straße von Hormus innerhalb einer Woche wieder zu öffnen und die festgefahrenen Atomverhandlungen wiederzubeleben, falls Washington im Gegenzug die Seeblockade gegen iranische Häfen beenden würde. Die Kontaktaufnahme erfolgte nach Angaben aus Medienberichten über Katar als Vermittler. US-Präsident Trump lehnte diesen Deal im Weißen Haus öffentlich ab und begründete dies laut BBC damit, dass Teheran den Vorschlag nur unterbreitet habe, weil das Land den Krieg verliere. Darüber hinaus gibt es laut Berichten Spekulationen, dass die US-Regierung nach den Zwischenwahlen mit erneuten Luftangriffen rechnet, während die genauen diplomatischen und militärischen Konsequenzen der abgelehnten Initiative zunächst offenbleiben.",
-    "r": "Die Straße von Hormus ist eine der wichtigsten Handels- und Öltransportrouten weltweit, weshalb jegliche militärische oder diplomatische Eskalation globale wirtschaftliche und sicherheitspolitische Auswirkungen hat. Die Ablehnung des Vorschlags beeinflusst direkt die Verhandlungen über das iranische Atomprogramm.",
-    "srcs": [
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-        "date": "2026-09-26T16:58:39.000Z"
-      },
-      {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/9/26/trump-rejects-irans-seven-day-roadmap-to-reopen-strait-of-hormuz?traffic_source=rss",
-        "date": "2026-09-26T14:46:53.000Z"
-      },
-      {
-        "name": "Guardian World",
-        "url": "https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz",
-        "date": "2026-09-26T12:38:46.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPazdjdl95TUw5YndNMUkzTkNvZGh2VER3MEhQTVI0MHd2WDQ4cmdITTBhZnBrQlhlX19fMHVXU2F6Q3dCWGxOVS1TTGlkcjY0TWFrbGdvQVp3TWQ3Uy1kMFJ0aEV6aEhWN05IM0xKUzRtSjJXS0tPZjAwV0ZlUjVyd09sWmNZa0lrMVAtS0p0TGtlcVYya01z?oc=5",
-        "date": "2026-09-26T09:31:00.000Z"
-      }
-    ],
-    "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-    "agree": "Die Quellen stimmen überein, dass US-Präsident Donald Trump ein iranisches Angebot abgelehnt hat, das die Wiedereröffnung der Straße von Hormus und die Wiederaufnahme von Atomgesprächen innerhalb von sieben Tagen vorsah.",
-    "diff": [
-      {
-        "name": "BBC World",
-        "note": "Ergänzt, dass Trump argumentierte, Teheran habe den Vorschlag nur gemacht, weil es den Krieg verliere."
-      },
-      {
-        "name": "Al Jazeera",
-        "note": "Erwähnt, dass der Vorschlag über Katar als Vermittler eingereicht wurde."
-      },
-      {
-        "name": "Guardian World",
-        "note": "Nennt als Gegenleistung die Aufhebung der US-Seeblockade iranischer Häfen und berichtet, dass der US-Präsident nach den Midterms mit erneuten Luftangriffen rechne."
-      },
-      {
-        "name": "Google News World",
-        "note": "Verweist lediglich auf die Berichterstattung des Guardians ohne eigene nennenswerte Zusatzdetails."
-      }
-    ],
-    "chg": "",
-    "independent": 4
-  },
-  {
-    "id": "story-5c63df2ec254a697",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-09-26T16:52:23.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Erstes Treffen von Wadephul und Lawrow seit Kriegsbeginn",
-    "s": "Erstmals seit Beginn des russischen Angriffskriegs gegen die Ukraine haben sich die Außenminister Deutschlands und Russlands, Johann Wadephul und Sergej Lawrow, in New York zu bilateralen Gesprächen getroffen. Dabei wurden brisante Themen besprochen.",
-    "m": "Das überraschende Treffen in New York markiert eine neue Gesprächsebene zwischen Berlin und Moskau, da es das erste offizielle Aufeinandertreffen der beiden Außenminister seit Kriegsbeginn ist. Neben der allgemeinen diplomatischen Lage warnte der deutsche Außenminister Johann Lawrow und seinen russischen Amtskollegen Sergej Lawrow scharf vor weiteren hybriden Angriffen. Als konkretes Beispiel wurde hierbei ein Anschlagsversuch in Leipzig genannt. Über weitere Details oder konkrete Ergebnisse des Gesprächs wurde zunächst nichts bekannt gegeben.",
-    "r": "Das Treffen markiert den ersten direkten diplomatischen Kontakt auf Außenministerebene zwischen Deutschland und Russland seit Beginn des Ukraine-Kriegs und eröffnet eine neue Gesprächsebene.",
-    "srcs": [
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/politik/ueberraschendes-treffen-wadephul-fordert-lawrow-zu-deeskalation-auf-und-macht-ihm-eine-tuer-auf-KUMGKTLK5FF23C63VGEWDYDINM.html",
-        "date": "2026-09-26T16:52:23.000Z"
-      },
-      {
-        "name": "t-online Nachrichten",
-        "url": "https://www.t-online.de/nachrichten/deutschland/aussenpolitik/id_101454030/wadephul-traf-russischen-aussenminister-lawrow-in-new-york-zu-gespraechen.html",
-        "date": "2026-09-26T16:22:44.000Z"
-      },
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/politik/ausland/article6ab7da4718772248192d5f5b/aussenminister-wadephul-und-lawrow-treffen-sich-in-new-york-zu-gespraechen.html",
-        "date": "2026-09-26T14:51:05.000Z"
-      }
-    ],
-    "url": "https://www.rnd.de/politik/ueberraschendes-treffen-wadephul-fordert-lawrow-zu-deeskalation-auf-und-macht-ihm-eine-tuer-auf-KUMGKTLK5FF23C63VGEWDYDINM.html",
-    "agree": "Die Quellen stimmen überein, dass sich der deutsche Außenminister Johann Wadephul und der russische Außenminister Sergej Lawrow überraschend in New York zu einem bilateralen Gespräch getroffen haben, was das erste Treffen seit Beginn des Ukraine-Kriegs ist.",
-    "diff": [
-      {
-        "name": "RND",
-        "note": "Berichtet, dass Wadephul Lawrow scharf vor weiteren hybriden Angriffen wie dem Anschlagsversuch in Leipzig gewarnt und ihm eine Tür zur Deeskalation geöffnet hat."
-      },
-      {
-        "name": "t-online Nachrichten",
-        "note": "Erwähnt, dass dabei auch brisante Themen besprochen wurden."
-      },
-      {
-        "name": "WELT",
-        "note": "Bezeichnet das Treffen als neue Gesprächsebene zwischen Berlin und Moskau."
-      }
-    ],
-    "chg": "",
-    "independent": 3
-  },
-  {
-    "id": "story-a23f74003c080db9",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-09-26T16:51:29.000Z",
-    "p": 2,
-    "st": "SN",
-    "city": "",
-    "t": "Deutscher Wandertag in Oberwiesenthal endet mit Festumzug und Bergparade",
-    "s": "Der Deutsche Wandertag in Oberwiesenthal ist mit einem großen Festumzug und einer traditionellen Bergparade zu Ende gegangen. Die Veranstaltung bildete den feierlichen Abschluss des mehrtägigen Events im sächsischen Kurort. Tausende Teilnehmer und Besucher kamen zusammen, um das Finale zu feiern.",
-    "m": "Der Deutsche Wandertag in Oberwiesenthal hat seinen offiziellen Abschluss gefunden. Das Programm des letzten Tages wurde von einem farbenfrohen Festumzug und einer traditionellen Bergparade geprägt. Zahlreiche Wanderer, Vereine und Schaulustige beteiligten sich an den Feierlichkeiten im sächsischen Kurort. Die Veranstaltung zog in den vergangenen Tagen zahlreiche Besucher in die Region. Der Fokus lag neben dem gemeinsamen Wandern auch auf der Pflege des Brauchtums. Einzelheiten zu den genauen Teilnehmerzahlen oder Vorkommnissen wurden in den Berichten nicht genannt.",
-    "r": "Großveranstaltungen wie der Deutsche Wandertag ziehen regelmäßig Tausende Besucher an und sind von regionaler Bedeutung für Tourismus und Brauchtumspflege.",
-    "srcs": [
-      {
-        "name": "Tagesschau Regional Sachsen",
-        "url": "https://www.tagesschau.de/inland/regional/sachsen/bergparade-festumzug,wandertag-oberwiesenthal-100.html",
-        "date": "2026-09-26T16:51:29.000Z"
-      },
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/news/2026-09/26/deutscher-wandertag-endet-mit-festumzug-und-bergparade",
-        "date": "2026-09-26T16:39:33.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/regional/sachsen/bergparade-festumzug,wandertag-oberwiesenthal-100.html",
-    "agree": "Beide Quellen stimmen überein, dass der Deutsche Wandertag in Oberwiesenthal mit einem Festumzug und einer Bergparade endete.",
-    "diff": [
-      {
-        "name": "Tagesschau Regional Sachsen",
-        "note": "Betont im Titel den regionalen Bezug zu Sachsen."
-      },
-      {
-        "name": "ZEIT ONLINE",
-        "note": "Formuliert den Titel allgemeiner über das Ende des Wandertages."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-3839b80ca60ec1b5",
-    "c": "INT",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-09-26T16:50:52.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Papst Leo XIV. feiert Freiluftmesse mit 800.000 Menschen in Paris",
-    "s": "Papst Leo XIV. hat zum Abschluss seines Aufenthalts in Paris eine große Freiluftmesse zelebriert. Nach Angaben des Vatikans nahmen etwa 800.000 Menschen an dem Gottesdienst im Zentrum der französischen Hauptstadt teil. Zuvor war der Papst im Papamobil über die Champs-Elysées gefahren.",
-    "m": "Die Feierlichkeiten in Paris bildeten den Schlusspunkt des Papstbesuchs, der trotz bestehender Spannungen zwischen Frankreich und dem Vatikan von einer riesigen Menschenmenge begleitet wurde. Nach Schätzungen des Vatikans versammelten sich rund 800.000 Gläubige zu dem Gottesdienst im Herzen der Stadt. Vor der Messe fuhr Papst Leo XIV. im Papamobil über die Champs-Elysées, wo er von zahlreichen anwesenden Gläubigen bejubelt wurde. Weitere Details zum genauen Verlauf der Reise oder offiziellen politischen Gesprächen nennen die Berichte nicht.",
-    "r": "Der Besuch des Papstes in Paris unterstreicht trotz diplomatischer Spannungen zwischen Frankreich und dem Vatikan die anhaltende Massenanziehungskraft des Kirchenoberhaupts. Solche Großveranstaltungen bieten Einblicke in das Verhältnis zwischen dem Heiligen Stuhl und europäischen Nationalstaaten.",
-    "srcs": [
-      {
-        "name": "stern",
-        "url": "https://www.stern.de/news/leo-xiv--feiert-in-paris-messe-mit-800-000-menschen-38312762.html",
-        "date": "2026-09-26T16:50:52.000Z"
-      },
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/europa/papst-paris-messe-100.html",
-        "date": "2026-09-26T16:25:33.000Z"
-      }
-    ],
-    "url": "https://www.stern.de/news/leo-xiv--feiert-in-paris-messe-mit-800-000-menschen-38312762.html",
-    "agree": "Die Quellen stimmen überein, dass Papst Leo XIV. in Paris eine Messe mit 800.000 Menschen gefeiert hat.",
-    "diff": [
-      {
-        "name": "stern",
-        "note": "Berichtet konkret über die Freiluftmesse im Zentrum von Paris und die Fahrt im Papamobil über die Champs-Elysées."
-      },
-      {
-        "name": "Tagesschau",
-        "note": "Erwähnt, dass die Messe den Aufenthalt des Papstes beendete und dass das Verhältnis zwischen Frankreich und dem Vatikan nicht frei von Spannungen ist."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-5b808449c5b7fdf0",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-09-26T16:13:14.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Bericht: Ägyptens Geheimdienstchef warnte Israel vor Hamas-Angriff",
-    "s": "Einem Medienbericht zufolge soll Ägyptens Geheimdienstchef Israel vor dem Angriff der Hamas gewarnt haben. Premierminister Benjamin Netanjahu streitet derartige Hinweise vehement ab und geht juristisch gegen die israelische Zeitung \"Haaretz\" vor. Nun stützt ein weiteres Medium die Vorwürfe um angebliche Vorwarnungen. Netanjahu weist die Anschuldigungen weiterhin zurück.",
-    "m": "Die israelische Zeitung \"Haaretz\" berichtete zuvor, dass der israelische Premierminister Benjamin Netanjahu frühzeitig vor einem bevorstehenden Angriff der Hamas gewarnt worden sei. Netanjahu dementierte diese Berichte entschieden und leitete Schritte gegen das Medium ein. Nun legt ein weiteres Medium mit neuen Details nach. Demnach soll der ägyptische Geheimdienstchef persönlich nach Israel gereist sein, um die israelische Führung vor drohendem Unheil abzuwenden. Die Berichte werfen Fragen über den genauen Informationsstand der israelischen Regierung vor dem verheerenden Angriff auf. Es bleibt unklar, welche konkreten Sicherheitsmaßnahmen nach den angeblichen ägyptischen Warnungen ergriffen oder unterlassen wurden. Die Kontroverse um die Verantwortung für das Überraschungsmoment der Hamas spaltet damit weiterhin die politische Debatte in Israel.",
-    "r": "Die Berichte über angebliche Geheimdienstwarnungen vor dem Hamas-Angriff belasten die israelische Führung politisch. Die Vorwürfe berühren zentrale Fragen zur Krisenvorsorge und zum Informationsmanagement der Regierung unter Premierminister Netanjahu.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVnpnSzkyZ1ZWWWdoYTExYlZBeEFVQVFUTVl6MTYyYmtMWDhMSlVXVzN3ZVphSUppeTFqRXVJZmtMMGViWmxjaDY4VEROc0RWWmZkMFZzNUkwcFlORHJFSTRUZ2MtTFBDbVJuajFFTzB2NzRnSGR0SGQyazlwSW5kcW5YMDB2V3FDM0ZrV21rRDdwV0x4b09YVVdod09OYk1PdUQwX21SRW5ZOUg4ZmpQM3hIVEotQQ?oc=5",
-        "date": "2026-09-26T16:13:14.000Z"
-      },
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/politik/Bericht-Auch-Aegyptens-Geheimdienstchef-warnte-Israel-vor-Hamas-Angriff-id31351424.html",
-        "date": "2026-09-26T16:13:14.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVnpnSzkyZ1ZWWWdoYTExYlZBeEFVQVFUTVl6MTYyYmtMWDhMSlVXVzN3ZVphSUppeTFqRXVJZmtMMGViWmxjaDY4VEROc0RWWmZkMFZzNUkwcFlORHJFSTRUZ2MtTFBDbVJuajFFTzB2NzRnSGR0SGQyazlwSW5kcW5YMDB2V3FDM0ZrV21rRDdwV0x4b09YVVdod09OYk1PdUQwX21SRW5ZOUg4ZmpQM3hIVEotQQ?oc=5",
-    "agree": "",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-1db801f1838f7848",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-09-26T16:07:51.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "„Kann mir schwer vorstellen, dass die Linkspartei das Innen- oder Justizressort führt“",
-    "s": "Grünen-Chefin Franziska Brantner hat sich skeptisch zu einer Übernahme des Innen- oder Justizressorts durch die Linkspartei geäußert. Sie begründete dies mit potenziellen Sicherheitsrisiken und Personen mit problematischen Verbindungen. Das Thema wirft Fragen zur Regierungsfähigkeit und Ressortverteilung auf.",
-    "m": "Franziska Brantner äußerte öffentlich ihre Zweifel daran, dass der Linkspartei das Innen- oder Justizressort anvertraut werden könnte. Als Hauptgrund nannte sie die Existenz von Menschen innerhalb der Partei, die Verbindungen zur organisierten Kriminalität oder zu extremistischen Kräften aufweisen könnten. Solange diese Zustände und Personen in der Partei existierten, sehe sie eine solche Ressortführung kritisch. Die Äußerung berührt zentrale Fragen der inneren Sicherheit und des Umgangs mit potenziellen Koalitionspartnern oder politischen Mitbewerbern. Konkrete Regierungsbündnisse oder offizielle Koalitionsverhandlungen wurden in diesem Kontext nicht final beschlossen. Die Debatte verdeutlicht die sicherheitspolitischen Hürden bei parteiübergreifenden Regierungsbildungen. Offen bleibt, wie die Linkspartei auf diese Vorwürfe reagieren wird und welche Auswirkungen dies auf künftige politische Konstellationen hat.",
-    "r": "Die Aussagen einer Parteivorsitzenden zu potenziellen Sicherheitsrisiken bei der Ressortvergabe sind für die politische Meinungsbildung und mögliche Regierungsbündnisse von Bedeutung. Sie beleuchten die sicherheitspolitischen Kriterien bei der Ämterbesetzung.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNRzJwaTlCRDJubHZvMUxYTUFoZmxuNHYyS3JaNHJrTm1XUjJ6cUI0MGtYQkhHb3o0S3NEeE8zQTdvZGZLb3dDTy1McGExVXNqWllkRVZIbTYtcGs2Wlp3d3ZWLTgxbzk4aGNGVUhqaERaLURlcy0tYzVNTUZpaUlJQzF3VVE3Y0JSZU5ROXRtMTBlek1XX0FJSU1ZblpkdGthV05CWHdyaW5qWjJIeG9ZUlNpTGM1MUlDRXpIM0VZazYzVDdpeEtwMWo0MjNtTmdqa1RCZ081S1BTVTBMaUxIVWplclRMUFREaVlRZ05OcEV6M1RPc1RzaU9SbFFVRDJ3QllNdDE5T0Y?oc=5",
-        "date": "2026-09-26T16:07:51.000Z"
-      },
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/politik/deutschland/article6ab7e1ce18772248192d5fc2/gruene-in-berlin-kann-mir-schwer-vorstellen-dass-die-linkspartei-das-innen-oder-justizressort-fuehrt.html",
-        "date": "2026-09-26T16:06:09.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNRzJwaTlCRDJubHZvMUxYTUFoZmxuNHYyS3JaNHJrTm1XUjJ6cUI0MGtYQkhHb3o0S3NEeE8zQTdvZGZLb3dDTy1McGExVXNqWllkRVZIbTYtcGs2Wlp3d3ZWLTgxbzk4aGNGVUhqaERaLURlcy0tYzVNTUZpaUlJQzF3VVE3Y0JSZU5ROXRtMTBlek1XX0FJSU1ZblpkdGthV05CWHdyaW5qWjJIeG9ZUlNpTGM1MUlDRXpIM0VZazYzVDdpeEtwMWo0MjNtTmdqa1RCZ081S1BTVTBMaUxIVWplclRMUFREaVlRZ05OcEV6M1RPc1RzaU9SbFFVRDJ3QllNdDE5T0Y?oc=5",
-    "agree": "Grünen-Chefin Brantner hält die Führung des Innen- oder Justizressorts durch die Linkspartei für schwer vorstellbar.",
-    "diff": [
-      {
-        "name": "WELT",
-        "note": "Berichtet detailliert über die Aussagen von Grünen-Chefin Brantner bezüglich möglicher Verbindungen zur organisierten Kriminalität und extremistischen Kräften innerhalb der Linkspartei."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-37c0fff9a9f78640",
-    "c": "INT",
-    "o": "UK",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-09-26T15:46:40.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Brasilianischer Präsident Lula verbietet Online-Glücksspiel vor Präsidentschaftswahl",
-    "s": "Kurz vor der ersten Runde der Präsidentschaftswahl hat Brasiliens Präsident Luiz Inácio Lula da Silva per Dekret Festquoten-Wetten und Online-Glücksspiele verboten. Er begründete den Schritt als notwendige Maßnahme gegen die Verschuldung von Familien und bezeichnete die Branche als Krebsschaden. Die Entscheidung fällt in eine enge Wahlphase.",
-    "m": "Brasiliens Präsident Luiz Inácio Lula da Silva hat am Freitag ein Verbot für Festquoten-Wetren und Online-Glücksspiele unterzeichnet. Die Maßnahme tritt kurz vor der ersten Runde der anstehenden Präsidentschaftswahl in Kraft. Lula erklärte, dass die Industrie ein Krebsgeschwür sei, das er entfernen müsse. Als zentrales Motiv nannte er das Ziel, Familien vor tiefen Schulden zu bewahren. Das Verbot ist ein drastischer Eingriff in den Markt kurz vor dem Wahltermin, bei dem sich Lula in einem engen Rennen befindet. Die Berichte nennen Flávio Bolsonaro als politischen Kontrahenten. Offen bleibt, wie die genaue Umsetzung und Durchsetzung des Verbots in der Praxis erfolgen soll und welche rechtlichen Schritte die Glücksspielbranche einleiten könnte.",
-    "r": "Das Verbot eines großen Wirtschaftszweigs kurz vor einer entscheidenden Wahl hat erhebliche innenpolitische und finanzielle Auswirkungen in Brasilien. Es markiert einen harten regulatorischen Kurswechsel im Land.",
-    "srcs": [
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-09-26T15:46:40.000Z"
-      },
-      {
-        "name": "France24 English",
-        "url": "https://www.france24.com/en/brazil-s-president-lula-bans-online-betting-ahead-of-presidential-election",
-        "date": "2026-09-26T12:36:01.000Z"
-      }
-    ],
-    "url": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
-    "agree": "Beide Quellen stimmen überein, dass Brasiliens Präsident Lula kurz vor der Präsidentschaftswahl ein Verbot von Online-Glücksspielen erlassen hat.",
-    "diff": [
-      {
-        "name": "BBC World",
-        "note": "Erwähnt, dass Lula sich in einem engen Rennen gegen Flávio Bolsonaro befindet."
-      },
-      {
-        "name": "France24 English",
-        "note": "Nennt den genauen Wochentag (Freitag) der Unterzeichnung und erläutert ausführlicher den Schutz von Familien vor Verschuldung."
       }
     ],
     "chg": "",
