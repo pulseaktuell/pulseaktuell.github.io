@@ -1,23 +1,279 @@
 [
   {
+    "id": "story-1c777eda82400763",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-04T05:50:22.000Z",
+    "p": 2,
+    "st": "BY",
+    "city": "",
+    "t": "Deutsche Bahn bietet Familienticket ab November dauerhaft an",
+    "s": "Die Deutsche Bahn plant, ihr Familienticket ab November dauerhaft für Reisende zur Verfügung zu stellen. Das Angebot soll Familien das Reisen durch das Land ermöglichen. Bislang war das Ticket zeitlich befristet, nun wird es fester Bestandteil des Angebots. Die Entscheidung wurde öffentlich bekannt gegeben.",
+    "m": "Ab dem kommenden November wird die Deutsche Bahn das Familienticket dauerhaft in ihr Angebot aufnehmen. Nach Angaben von Konzernchefin Palla, die sich gegenüber der \"Bild am Sonntag\" äußerte, können Familien das Ticket künftig für 99,99 Euro nutzen. Mit diesem Preis und der dauerhaften Verfügbarkeit will der Konzern attraktive Bedingungen für gemeinsame Bahnreisen schaffen. Bislang handelte es sich bei dem Ticket um eine zeitlich begrenzte Aktion. Welche konkreten Auswirkungen das dauerhafte Angebot auf die Auslastung der Züge und die Einnahmen der Bahn hat, bleibt abzuwarten.",
+    "r": "Die dauerhafte Einführung des Familientickets ist für Bahnreisende relevant, da sie langfristig günstigere und planbare Mobilitätsangebote für Familien schafft. Zudem gibt die Entscheidung Einblick in die strategische Ausrichtung des Personenverkehrs der Deutschen Bahn unter der Führung von Palla.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/deutsche-bahn-bietet-familienticket-dauerhaft-an-100.html",
+        "date": "2026-10-04T05:50:22.000Z"
+      },
+      {
+        "name": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/bericht-deutsche-bahn-bietet-familienticket-dauerhaft-an,VX3LoUb",
+        "date": "2026-10-04T05:21:18.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/deutsche-bahn-bietet-familienticket-dauerhaft-an-100.html",
+    "agree": "Beide Quellen stimmen überein, dass die Deutsche Bahn das Familienticket ab November dauerhaft anbietet.",
+    "diff": [
+      {
+        "name": "BR24 Bayern",
+        "note": "Berichtet ergänzend, dass die Ankündigung von Konzern-Chefin Palla in der 'Bild am Sonntag' getätigt wurde und das Ticket dauerhaft 99,99 Euro kosten soll."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-1d22041483157dad",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-04T05:49:52.000Z",
+    "p": 4,
+    "st": "BY",
+    "city": "",
+    "t": "Bundeskanzler Merz reist zu Solidaritätsbesuch in die Ukraine",
+    "s": "Bundeskanzler Merz ist zu einem Solidaritätsbesuch in der Ukraine eingetroffen, um die fortsetzende Unterstützung im Abwehrkampf gegen Russland zu betonen. Deutschland gilt als wichtigster Unterstützer der Ukraine. Weitere Militärhilfe ist geplant.",
+    "m": "Der Kanzler ist zu dem nicht ungefährlichen Besuch nach Kiew gereist, um ein klares Signal zu senden, dass Deutschland die Ukraine weiterhin als wichtigster Unterstützer im Abwehrkampf gegen Russland zur Seite steht. Die Ukraine verteidigt sich nach Angaben der Berichte seit mehr als vier Jahren gegen den russischen Angriffskrieg, während bisherige Friedensbemühungen erfolglos verliefen. Konkrete Details zum Umfang der geplanten weiteren Militärhilfe wurden in den vorliegenden Berichten noch nicht genannt. Der Besuch soll unterstreichen, dass die deutsche Hilfe unvermindert anhalten soll.",
+    "r": "Der Besuch des Bundeskanzlers in der Ukraine unterstreicht die fortwährende Rolle Deutschlands als zentraler Unterstützer im Konflikt mit Russland. Geplante weitere Militärhilfe soll die Verteidigungsfähigkeit des Landes stärken.",
+    "srcs": [
+      {
+        "name": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/merz-und-reiche-in-der-ukraine-weitere-militaerhilfe-geplant,VX3UpLj",
+        "date": "2026-10-04T05:49:52.000Z"
+      },
+      {
+        "name": "Rheinische Post",
+        "url": "https://rp-online.de/politik/deutschland/merz-in-der-ukraine-weitere-militaerhilfe-geplant_aid-155904175",
+        "date": "2026-10-04T05:12:00.000Z"
+      },
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/politik/deutschland/friedrich-merz-versichert-in-kiew--weitere-militaerhilfe-geplant-38345840.html",
+        "date": "2026-10-04T05:00:44.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/politik/ukraine-news-im-ticker-merz-in-kiew-weitere-militaerhilfe-geplant-HE2HCGE6JQFTFWLUN43NO5POI4.html",
+        "date": "2026-10-04T04:50:46.000Z"
+      }
+    ],
+    "url": "https://www.br.de/nachrichten/deutschland-welt/merz-und-reiche-in-der-ukraine-weitere-militaerhilfe-geplant,VX3UpLj",
+    "agree": "Alle Quellen sind sich einig, dass Bundeskanzler Merz zu einem Solidaritätsbesuch in der Ukraine ist, Deutschland der wichtigste Unterstützer im Abwehrkampf gegen Russland ist und weitere Militärhilfe geplant ist.",
+    "diff": [
+      {
+        "name": "Rheinische Post",
+        "note": "Erwähnt explizit das Ziel Kiew und bezeichnet den Besuch als nicht ungefährlich."
+      },
+      {
+        "name": "stern",
+        "note": "Bezeichnet den Besuch ebenfalls als nicht ungefährlich und nennt Kiew als Ziel."
+      },
+      {
+        "name": "RND",
+        "note": "Erwähnt, dass sich die Ukraine seit mehr als vier Jahren gegen den Angriffskrieg verteidigt und Friedensbemühungen bisher erfolglos blieben."
+      }
+    ],
+    "chg": "",
+    "independent": 4
+  },
+  {
+    "id": "story-15f1d0d48bc6a96d",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-04T05:43:43.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Bundeskanzler Merz reist zu überraschendem Besuch nach Kiew",
+    "s": "Bundeskanzler Merz ist zu seinem zweiten Besuch in Kiew seit Beginn seiner Amtszeit eingetroffen. In der ukrainischen Hauptstadt will er Solidarität demonstrieren und den Betroffenen angesichts des bevorstehenden Winters Hoffnung machen. Der Besuch ist Teil einer diplomatischen Choreografie der Bundesregierung zur Unterstützung des Landes.",
+    "m": "Der Bundeskanzler absolviert derzeit seinen zweiten Kiew-Besuch in seiner Amtszeit. Die Reise ist ein zentrales Element der diplomatischen Bemühungen der Bundesregierung, um der Ukraine in dem von russischen Angriffen geprägten Konflikt den Rücken zu stärken. Neben der politischen Signalwirkung von Solidarität und Hoffnung vor dem harten Winter hat der Kanzler auch konkrete Waffenhilfe im Gepäck. Die genaue Zusammensetzung und der Umfang der Rüstungslieferungen sowie weitere Details zum Ablauf der Gespräche wurden in den Berichten zunächst nicht genannt.",
+    "r": "Die Reise des Bundeskanzlers unterstreicht die anhaltende politische und militärische Unterstützung Deutschlands für die Ukraine. Konkrete Rüstungslieferungen und die Vorbereitung auf die winterliche Situation sind zentrale Bestandteile der bilateralen Beziehungen in der Krise.",
+    "srcs": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/politik/ukraine/friedrich-merz-in-kiew-auf-unsere-hilfe-koennt-ihr-weiter-zaehlen-accg-201285831.html",
+        "date": "2026-10-04T05:43:43.000Z"
+      },
+      {
+        "name": "Süddeutsche Zeitung",
+        "url": "https://www.sueddeutsche.de/politik/kiew-friedrich-merz-ukraine-militaerhilfe-russland-li.3558024",
+        "date": "2026-10-04T04:13:52.000Z"
+      }
+    ],
+    "url": "https://www.faz.net/aktuell/politik/ukraine/friedrich-merz-in-kiew-auf-unsere-hilfe-koennt-ihr-weiter-zaehlen-accg-201285831.html",
+    "agree": "Die Quellen stimmen überein, dass Bundeskanzler Merz Kiew besucht hat, um der Ukraine mit den Worten „Auf unsere Hilfe könnt ihr weiter zählen“ Unterstützung zuzusichern.",
+    "diff": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "note": "Betont, dass es sich um den zweiten Besuch in der Amtszeit des Kanzlers handelt und dieser Teil einer diplomatischen Choreografie der Bundesregierung ist."
+      },
+      {
+        "name": "Süddeutsche Zeitung",
+        "note": "Bezeichnet den Besuch als überraschend, erwähnt die Demonstration von Solidarität gegen russische Angriffe sowie die Zusicherung von Hoffnung vor einem harten Winter und bringt wichtige Waffenhilfe ins Spiel."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-be384b3a200f3283",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-04T05:41:34.000Z",
+    "p": 5,
+    "st": "",
+    "city": "",
+    "t": "Bundeskanzler Friedrich Merz reist zu überraschendem Solidaritätsbesuch nach Kyjiw",
+    "s": "Bundeskanzler Friedrich Merz ist überraschend in der ukrainischen Hauptstadt Kyjiw eingetroffen. Der Besuch dient der Zusicherung weiterer Hilfe für das Land im Krieg gegen Russland. Begleitet wird er unter anderem von Katherina Reiche und zehn Unternehmern.",
+    "m": "Die unangekündigte Reise des Bundeskanzlers nach Kyjiw unterstreicht die fortlaufende deutsche Unterstützung im Abwehrkampf gegen die russische Invasion. Vor Ort will Merz weitere konkrete Hilfen für die Ukraine zusagen. Die Delegation umfasst neben Katherina Reiche auch zehn Personen aus der Wirtschaft. Im Zusammenhang mit dem Besuch betonte der Kanzler, dass sich die russische Kriegsmaschinerie früher oder später gegen andere Länder richte, falls Russland nicht gestoppt werde. Der genaue zeitliche Ablauf des Aufenthalts und Details zu den geplanten Gesprächen wurden zunächst nicht detailliert genannt. Offen ist auch, welche konkreten Vereinbarungen im Rahmen der Wirtschafts- und Hilfsgespräche getroffen werden.",
+    "r": "Der Besuch eines deutschen Bundeskanzlers in einem Kriegsgebiet zur Zusicherung weiterer militärischer oder ziviler Unterstützung ist von hoher sicherheits- und außenpolitischer Bedeutung für Deutschland und Europa.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/politik/ausland/2026-10/friedrich-merz-ukraine-besuch-katherina-reiche-abfangdrohnen",
+        "date": "2026-10-04T05:41:34.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/russland-ukraine-krieg-friedrich-merz-ueberraschend-in-kyjiw-eingetroffen-a-c6e7607a-70a0-4a19-b913-46020ce53a2d#ref=rss",
+        "date": "2026-10-04T04:23:00.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/politik/ausland/2026-10/friedrich-merz-ukraine-besuch-katherina-reiche-abfangdrohnen",
+    "agree": "Die Quellen sind sich einig, dass Bundeskanzler Friedrich Merz überraschend zu einem Solidaritätsbesuch nach Kyjiw gereist ist, um dem Land weitere Hilfe im Krieg gegen Russland zuzusagen.",
+    "diff": [
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Erwähnt zusätzlich, dass Merz von Katherina Reiche und zehn Unternehmern begleitet wird."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Zitiert eine direkte Aussage von Merz, wonach sich die russische Kriegsmaschinerie früher oder später gegen andere richte, wenn Russland nicht gestoppt werde."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-133aa1e28d0dd85b",
+    "c": "DE",
+    "o": "DE",
+    "k": "umwelt",
+    "lang": "de",
+    "d": "2026-10-04T05:05:24.000Z",
+    "p": 3,
+    "st": "BY",
+    "city": "",
+    "t": "Umweltminister Schneider fordert Investitionen in Wasserinfrastruktur",
+    "s": "Angesichts historisch niedriger Pegelstände hat Bundesumweltminister Carsten Schneider die Bundesländer zu massiven Investitionen in die Wasserinfrastruktur aufgerufen. Der Minister betonte die Notwendigkeit eines anderen Umgangs mit Wasser, um den erheblichen Folgen für Natur, Schifffahrt und Wirtschaft zu begegnen. Die Forderung zielt auf eine langfristige Stärkung der deutschen Gewässer ab.",
+    "m": "Bundesumweltminister Carsten Schneider hat vor dem Hintergrund besorgniserregender, historisch niedriger Pegelstände in deutschen Gewässern ein dringendes Umdenken im Umgang mit der Ressource Wasser angemahnt. In seinem Appell an die Bundesländer steht die Forderung nach massiven Investitionen in die nationale Wasserinfrastruktur im Mittelpunkt. Als Auslöser für diesen Vorstoß nannte der Minister die erheblichen und weitreichenden Folgen, die die anhaltend niedrigen Wasserstände bereits jetzt für die Natur, die gewerbliche Schifffahrt und weite Teile der Wirtschaft mit sich bringen. Details zu konkreten Summen oder zeitlichen Fristen für diese Investitionen wurden im Rahmen des Aufrufs zunächst nicht genannt. Der Bund und die Länder stehen nun in der Verantwortung, gemeinsam geeignete Maßnahmen zur Bewältigung der Situation zu erarbeiten und umzusetzen.",
+    "r": "Die Meldung ist von Relevanz, da sinkende Pegelstände in deutschen Gewässern akute und spürbare Auswirkungen auf fundamentale Bereiche wie Wirtschaft, Schifffahrt und Natur haben. Ein politischer Appell auf Bundesebene zu Infrastrukturinvestitionen zeigt zudem den dringenden Handlungsbedarf der Politik auf.",
+    "srcs": [
+      {
+        "name": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/umweltminister-schneider-brauchen-anderen-umgang-mit-wasser,VX3BWVl",
+        "date": "2026-10-04T05:05:24.000Z"
+      },
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/deutschland/bundesumweltminister-carsten-schneider-niedrigwasser-pegelstaende-100.html",
+        "date": "2026-10-04T02:31:00.000Z"
+      }
+    ],
+    "url": "https://www.br.de/nachrichten/deutschland-welt/umweltminister-schneider-brauchen-anderen-umgang-mit-wasser,VX3BWVl",
+    "agree": "Die Quellen sind sich einig, dass Bundesumweltminister Carsten Schneider angesichts niedriger Pegelstände die Bundesländer zu massiven Investitionen in die Wasserinfrastruktur aufgerufen hat.",
+    "diff": [
+      {
+        "name": "BR24 Bayern",
+        "note": "Erwähnt zusätzlich den konkreten Begriff 'historisch niedrige Pegelstände' und führt aus, dass ein anderer Umgang mit Wasser zum Schutz von Natur, Schifffahrt und Wirtschaft benötigt wird."
+      },
+      {
+        "name": "ZDF heute",
+        "note": "Berichtet ebenfalls über den Appell zur Investition in die Wasserinfrastruktur aufgrund niedriger Pegelstände deutscher Gewässer, jedoch ohne die spezifische Nennung historischer Tiefststände."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-1ee2eb4880d592f1",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-04T03:47:33.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Deutsche Bahn führt Familienticket dauerhaft ein",
+    "s": "Die Deutsche Bahn bietet ihr im Sommer zunächst begrenztes Familienticket ab November dauerhaft als Pauschalpreis an. Das Ticket kostet 99,99 Euro für Hin- und Rückfahrt. Laut Bahn-Chefin Palla war das Sommerangebot ein großer Erfolg.",
+    "m": "Das im Sommer als zeitlich begrenztes Angebot eingeführte Familienticket der Deutschen Bahn wird ab November in das dauerhafte Tarifsortiment aufgenommen. Reisende können das Angebot für Hin- und Rückfahrten zum Festpreis von 99,99 Euro nutzen. Nach Angaben von Bahn-Chefin Palla hat sich die Pauschallösung in den Sommermonaten bewährt und viele Familien angesprochen. Mit der Entfristung reagiert das Unternehmen auf die positive Resonanz während der Testphase. Es soll den Bahnverkehr für Familien attraktiver und planbarer machen.",
+    "r": "Die Entfristung eines bundesweiten Bahntarifs betrifft Millionen potenzielle Reisende und verändert die Preisstruktur im Fernverkehr für Familien. Die Entscheidung basiert auf den positiven Erfahrungen einer zeitlich begrenzten Testphase.",
+    "srcs": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/deutsche-bahn-fuehrt-familienticket-dauerhaft-ein-accg-201286094.html",
+        "date": "2026-10-04T03:47:33.000Z"
+      },
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/wirtschaft/verbraucher/deutsche-bahn-familienticket-100.html",
+        "date": "2026-10-04T01:00:02.000Z"
+      }
+    ],
+    "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/deutsche-bahn-fuehrt-familienticket-dauerhaft-ein-accg-201286094.html",
+    "agree": "Beide Quellen stimmen darin überein, dass die Deutsche Bahn das im Sommer zeitlich begrenzte Familienticket ab November dauerhaft einführen will und dass dies laut Bahn-Chefin Palla auf den Erfolg des Sommerangebots zurückzuführen ist.",
+    "diff": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "note": "nennt den konkreten Preis von 99,99 Euro für Hin- und Rückfahrt"
+      },
+      {
+        "name": "SWR Aktuell",
+        "note": "lässt den genauen Preis im vorliegenden Textauszug aus"
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-a886a0a536b1d91c",
     "c": "INT",
     "o": "DE",
     "k": "politik",
     "lang": "de",
-    "d": "2026-10-04T00:11:04.000Z",
+    "d": "2026-10-04T03:35:53.000Z",
     "p": 3,
     "st": "",
     "city": "",
-    "t": "„Wir müssen stark sein“ – Regierungspartei in Lettland deutlich vor Linken und",
-    "s": "Bei der Parlamentswahl in Lettland liegt die Mitte-Rechts-Gruppierung von Ministerpräsident Andris Kulbergs aktuellen Prognosen zufolge deutlich vor den politischen Rändern. Im Zentrum der politischen Auseinandersetzung standen insbesondere Russlands Angriffskrieg auf die Ukraine sowie Fragen der nationalen Sicherheit. Die regierende Kraft erreicht nach Berechnungen 35,6 Prozent der Stimmen.",
-    "m": "Die Mitte-Rechts-Gruppierung von Ministerpräsident Andris Kulbergs kann bei den Wahlen in Lettland mit einem klaren Wahlerfolg und rund 35,6 Prozent der Stimmen rechnen. Der Wahlkampf des baltischen EU- und Nato-Landes war maßgeblich durch den Krieg Russlands gegen die Ukraine und die daraus resultierenden Bedenken hinsichtlich der nationalen Sicherheit geprägt. Die Regierungspartei positionierte sich dabei deutlich vor den linken und rechten politischen Gruppierungen. Angesichts der angespannten geopolitischen Lage betonte die politische Führung die Notwendigkeit von Stärke und Entschlossenheit. Die genaue Mandatsverteilung und die Bildung einer künftigen Regierungskoalition stehen im weiteren Verlauf des Auszählungsprozesses an. Die Wahlen gelten als wichtiger Indikator für die Stabilität und sicherheitspolitische Ausrichtung des baltischen Staates.",
-    "r": "Die Wahlentscheidung in Lettland hat direkte Auswirkungen auf die politische Stabilität eines an Russland grenzenden Nato- und EU-Mitgliedstaates in einer angespannten Sicherheitslage. Der Ausgang bestimmt den künftigen sicherheitspolitischen Kurs des Landes.",
+    "t": "Lettland-Wahl: Regierungspartei von Ministerpräsident Kulbergs deutlich vorn",
+    "s": "Bei den Wahlen in Lettland zeichnet sich ein klarer Sieg für die Mitte-Rechts-Gruppierung von Ministerpräsident Andris Kulbergs ab. Die Partei kann laut Prognosen mit 35,6 Prozent der Stimmen rechnen und liegt damit deutlich vor linken und rechten Mitbewerbern. Im Zentrum des Wahlkampfs standen Russlands Krieg gegen die Ukraine und Fragen der nationalen Sicherheit. Ministerpräsident Kulbergs betonte angesichts des Ergebnisses, dass man stark sein müsse.",
+    "m": "Die Parlamentswahl in Lettland hat der Mitte-Rechts-Gruppierung des amtierenden Ministerpräsidenten Andris Kulbergs einen klaren Vorsprung eingebracht. Aktuellen Berechnungen zufolge kommt die politische Kraft auf 35,6 Prozent der Wählerstimmen und distanziert damit sowohl linke als auch rechte Gruppierungen deutlich. Der gesamte Wahlkampf war maßgeblich von geopolitischen Themen geprägt, insbesondere von Russlands anhaltendem Angriffskrieg gegen die Ukraine. Diese Situation wirft Fragen zur nationalen Sicherheit des an Russland grenzenden Nato-Landes auf. Der Regierungschef reagierte auf den absehbaren Wahlerfolg mit der mahnenden Feststellung, man müsse angesichts der Lage stark sein. Genauere Details zur Zusammensetzung des künftigen Parlaments und möglichen Koalitionspartnern stehen derzeit noch aus.",
+    "r": "Die Parlamentswahlen in einem Nato-Staat an der Grenze zu Russland und die politische Haltung zum Ukraine-Krieg sind von hoher sicherheitspolitischer Bedeutung für Europa. Das Abschneiden der Regierungspartei gibt Aufschluss über den künftigen Kurs des baltischen Landes in Sicherheitsfragen.",
     "srcs": [
       {
         "name": "Google News DE",
         "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOWjFvVEhEQ1Rwc0FhWlVGenoxUTN1Q3dSeTF2a0Rka2xyMUJyMThHTjhLU2F4MVJvcFFWazhfMHh3QVh3V0NEMkdHR2Fya3FIWTY1bkdya1kwbkthb0lfN0J1RDEteUdmcXZEZU84Z0Q1R3d0ODVZVE5wZEctNF96UGNxSTdpLUxQN0RjUlJyTzZRdUctVjdRY1VrRHZMS29IQ0ZMemkxN3RsQ0lTNUJwR2VOczdpMkVrdkVpU1JXSmdYZWZlU21OcmNxak5oUTBqUnpTaWE1clFNeFpGOFpyZ1VFWm55MV9KRmxPWHIzWklxTzJyYkdFbjl1MFllTjFn?oc=5",
-        "date": "2026-10-04T00:11:04.000Z"
+        "date": "2026-10-04T03:35:53.000Z"
       },
       {
         "name": "WELT",
@@ -26,15 +282,125 @@
       }
     ],
     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOWjFvVEhEQ1Rwc0FhWlVGenoxUTN1Q3dSeTF2a0Rka2xyMUJyMThHTjhLU2F4MVJvcFFWazhfMHh3QVh3V0NEMkdHR2Fya3FIWTY1bkdya1kwbkthb0lfN0J1RDEteUdmcXZEZU84Z0Q1R3d0ODVZVE5wZEctNF96UGNxSTdpLUxQN0RjUlJyTzZRdUctVjdRY1VrRHZMS29IQ0ZMemkxN3RsQ0lTNUJwR2VOczdpMkVrdkVpU1JXSmdYZWZlU21OcmNxak5oUTBqUnpTaWE1clFNeFpGOFpyZ1VFWm55MV9KRmxPWHIzWklxTzJyYkdFbjl1MFllTjFn?oc=5",
-    "agree": "Die Mitte-Rechts-Gruppierung von Ministerpräsident Andris Kulbergs liegt bei der Wahl in Lettland deutlich vor den linken und rechten Parteien.",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-26c47accb8f30375",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-04T03:33:32.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Deutschland seltener Zielland: In Europa werden deutlich weniger Asylanträge gestellt - n-tv.de",
+    "s": "Aktuelle Daten aus Brüssel zeigen einen deutlichen Rückgang der Asylanträge in ganz Europa. Auch in Deutschland sinken die Zahlen spürbar. Zudem verliert die Bundesrepublik im europäischen Vergleich an Bedeutung als primäres Zielland für Geflüchtete.",
+    "m": "Nach Angaben aus Brüssel verzeichnen die europäischen Staaten insgesamt sinkende Asylzahlen. Diese Entwicklung schlägt sich auch in Deutschland nieder, das traditionell eines der Hauptziele für Menschen auf der Flucht in Europa war. Inzwischen wird die Bundesrepublik seltener als Zielland ausgewählt als andere europäische Staaten wie Frankreich und Italien. Trotz des generellen Rückgangs zeigt sich bei der Herkunft der Antragsteller in Deutschland keine grundlegende Veränderung. Die meisten Menschen, die hierzulande Schutz suchen, stammen nach wie vor besonders häufig aus zwei bestimmten Herkunftsländern. Konkrete Gesamtzahlen oder der genaue zeitliche Verlauf der Erfassung wurden in den vorliegenden Berichten nicht genannt.",
+    "r": "Die Veränderung der Migrationsströme und der Rückgang von Asylanträgen in Deutschland sowie Europa sind für die europäische und nationale Asylpolitik von großer Bedeutung. Sie verdeutlichen eine Verschiebung der bevorzugten Zielländer innerhalb der Europäischen Union.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc1lvbUhTeDdycVAzclFFbTM0Y2ZIMEJtWUNSeTB3ZU1hNTRHXzlwcE1wSjNmaWUyenBLX1RHOVpqLVpNWjdCOWI5a3ZiMGtleUR1MjBhdDNFaXVVQ2RBU2ZBUm9NY294WnlqcGNLbW12UFQ5X3I5ZS1NSmRtbXYwZnVrSGU2aHJCQ2plX0hvcXkxVlBrQmpMSEVJNFVQcTY4?oc=5",
+        "date": "2026-10-04T03:33:32.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/politik/In-Europa-werden-deutlich-weniger-Asylantraege-gestellt-id31377941.html",
+        "date": "2026-10-04T03:33:32.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc1lvbUhTeDdycVAzclFFbTM0Y2ZIMEJtWUNSeTB3ZU1hNTRHXzlwcE1wSjNmaWUyenBLX1RHOVpqLVpNWjdCOWI5a3ZiMGtleUR1MjBhdDNFaXVVQ2RBU2ZBUm9NY294WnlqcGNLbW12UFQ5X3I5ZS1NSmRtbXYwZnVrSGU2aHJCQ2plX0hvcXkxVlBrQmpMSEVJNFVQcTY4?oc=5",
+    "agree": "Die Quellen stimmen überein, dass die Asylanträge europaweit und in Deutschland zurückgehen und Deutschland seltener das bevorzugte Zielland ist.",
+    "diff": [
+      {
+        "name": "ntv",
+        "note": "Erwähnt zusätzlich, dass Daten aus Brüssel vorliegen, Deutschland mittlerweile seltener Ziel als Frankreich und Italien ist und Antragsteller besonders häufig aus zwei Ländern kommen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-145ef0e58a69895c",
+    "c": "INT",
+    "o": "INT",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-04T01:28:00.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Ermittlungen zu australischer Vergangenheit eines Flydubai-Co-Piloten nach mutmasslichem Cockpit-Angriff",
+    "s": "Australische Sicherheitsbehörden ermitteln zu dem Aufenthalt eines Flydubai-Co-Piloten im Land. Der Mann soll zuvor einen mutmasslichen versuchten Terroranschlag beziehungsweise Angriff im Cockpit eines Israel-bindenden Fluges verübt haben. Eine Katastrophe konnte am Mittwoch durch das Eingreifen von Passagieren und Besatzung verhindert werden. Die Polizei bestätigte die Untersuchungen zu der etwa zweijährigen Zeit, die der Verdächtige als Student in Australien verbracht hatte.",
+    "m": "Nach einem Vorfall an Bord eines Fluges Richtung Israel gerät die Vergangenheit des beteiligten Flydubai-Co-Piloten in den Fokus der Ermittler. Australische Sicherheitsbehörden und die Polizei haben offizielle Untersuchungen zu dem Zeitraum eingeleitet, den der Mann zuvor etwa zwei Jahre lang als Student in Australien verbracht hat. Der Co-Pilot wird beschuldigt, am Mittwoch einen Angriff im Cockpit verübt zu haben, wobei Quellen von einem mutmasslich versuchten terroristischen Angriff sprechen. Ein Absturz oder eine schwerwiegende Eskalation konnte laut Berichten nur durch das schnelle und entschlossene Eingreifen der anwesenden Passagiere und der Besatzung in letzter Sekunde abgewendet werden. Bislang sind viele Details des genauen Tathergangs sowie die Hintergründe der Radikalisierung oder Motivation des Mannes unklar. Die Ermittlungen konzentrieren sich nun unter anderem darauf, Kontakte und Aktivitäten während seines Aufenthalts in Australien lückenlos nachzuvollziehen. Es wird international untersucht, ob es bereits in dieser früheren Phase Warnsignale gab.",
+    "r": "Der Vorfall betrifft die internationale Flugsicherheit und erfordert die Aufklärung möglicher terroristischer Aktivitäten sowie internationaler Verbindungen des Verdächtigen. Die Einbindung australischer Behörden zeigt, dass grenzüberschreitende Ermittlungen zur Prävention solcher Anschläge notwendig sind.",
+    "srcs": [
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMEd0czNkVjVSdFZYbWlmdmw2am1GaFRoUnV2UkJMekRfSks0cmpNUTRwaVNDX3hYS3pxNUpLUGJfMmhxc2JKVVhMN0xnRUxQN2lSMGFFSDVxVkV4YjF0bDZPWVYxcDNTZ2ZVT3JLWUZWWjc4NnVnMjRma2dIdTRSLW9Wa1hWand1eDJJWVJNMXZ1eF96Xy1VNlh3ZnBydDVFaVZXVy1qeGlkRDFiTG4wVTYxYlp2dVhhX1h2M2ZsbldWR2s?oc=5",
+        "date": "2026-10-04T01:28:00.000Z"
+      },
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/04/flydubai-co-pilot-time-in-australia-being-investigated-security-agencies-ntwnfb",
+        "date": "2026-10-04T01:26:39.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMEd0czNkVjVSdFZYbWlmdmw2am1GaFRoUnV2UkJMekRfSks0cmpNUTRwaVNDX3hYS3pxNUpLUGJfMmhxc2JKVVhMN0xnRUxQN2lSMGFFSDVxVkV4YjF0bDZPWVYxcDNTZ2ZVT3JLWUZWWjc4NnVnMjRma2dIdTRSLW9Wa1hWand1eDJJWVJNMXZ1eF96Xy1VNlh3ZnBydDVFaVZXVy1qeGlkRDFiTG4wVTYxYlp2dVhhX1h2M2ZsbldWR2s?oc=5",
+    "agree": "Beide Quellen stimmen darin überein, dass australische Sicherheitsbehörden die Zeit des Flydubai-Co-Piloten in Australien nach einem mutmasslichen Angriff im Cockpit untersuchen.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Verweist lediglich auf den Artikel des Guardian bezüglich der australischen Ermittlungen."
+      },
+      {
+        "name": "Guardian World",
+        "note": "Nennt konkrete Details, dass der Co-Pilot etwa zwei Jahre als Student in Australien verbracht hat, dass sich der Vorfall an einem Mittwoch ereignete und dass Passagiere sowie Besatzung eine Katastrophe abwendeten."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-b6da949c28eded25",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-04T01:23:00.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Heidi Klum bringt Tochter Lou bei Fashion Week in Paris ins Rampenlicht",
+    "s": "Heidi Klum hat ihre jüngste Tochter Lou Samuel bei der Fashion Week in Paris erstmals öffentlich ins Rampenlicht geholt. Während andere Kinder der Model-Familie bereits länger Teil der Öffentlichkeit sind, betritt Lou damit neuen Boden. Die 14-Jährige äußerte sich gegenüber Medien positiv über den Schritt.",
+    "m": "Das Model Heidi Klum hat bei einem Auftritt auf der Fashion Week in Paris überraschend ihre jüngste Tochter Lou Samuel in die Öffentlichkeit geführt. Die älteste Tochter Leni und Sohn Henry sind bereits seit längerer Zeit als Teil des bekannten Familienimperiums im Rampenlicht aktiv. Nun zieht es auch die Jüngste der Familie in die Öffentlichkeit. Lou Samuel erklärte zu dem Auftritt, dass dies bei ihr und ihren Geschwistern einfach dazugehöre. Ob es sich dabei um einen einmaligen Auftritt handelt oder der Beginn einer dauerhaften Karriere im Medien- und Modelbereich ist, lassen die vorliegenden Berichte bisher offen.",
+    "r": "Der Auftritt einer prominenten Nachwuchspersönlichkeit bei einem internationalen Modeereignis ist für die Boulevard- und Medienberichterstattung von großem Interesse. Die Einbindung weiterer Familienmitglieder in das öffentliche Image der Familie Klum wird dadurch vorangetrieben.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTmJtb1o0WEUtcl91SGFNRkRiYlFDN1lwMzkzZmpTTGp4dUU0MUhpaDY1dXk1c1UzVEc5b0xrdERnLTVfVU1TWU1laDgzbW1EMFc0emNFdVJSblUxOVlQTHRBcGlhQVhaTG1wUUI2NDB6NFRxenlYb3ByRTFNMFlVRTN5azRJUnNtdENSQ1U2Tk55elEtcDZKQkJSSUVUVERfTVVsOUx6U0JXNXZIbVZBSmZoUDdqanE0LW5PVVNNSWJIbDljZF9qV3lMUUg0T2F4amY5UGJOdzBVSl8z?oc=5",
+        "date": "2026-10-04T01:23:00.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/panorama/heidi-klum-holt-tochter-lou-samuel-bei-fashion-week-paris-ins-rampenlicht-a-81678543-7b8b-45a8-843f-cdedf70f6337#ref=rss",
+        "date": "2026-10-04T01:23:00.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTmJtb1o0WEUtcl91SGFNRkRiYlFDN1lwMzkzZmpTTGp4dUU0MUhpaDY1dXk1c1UzVEc5b0xrdERnLTVfVU1TWU1laDgzbW1EMFc0emNFdVJSblUxOVlQTHRBcGlhQVhaTG1wUUI2NDB6NFRxenlYb3ByRTFNMFlVRTN5azRJUnNtdENSQ1U2Tk55elEtcDZKQkJSSUVUVERfTVVsOUx6U0JXNXZIbVZBSmZoUDdqanE0LW5PVVNNSWJIbDljZF9qV3lMUUg0T2F4amY5UGJOdzBVSl8z?oc=5",
+    "agree": "Heidi Klum hat ihre Tochter Lou Samuel im Rahmen der Fashion Week in Paris in die Öffentlichkeit gebracht.",
     "diff": [
       {
         "name": "Google News DE",
-        "note": "Berichtet über die Schlagzeile, dass die Regierungspartei deutlich vor Linken und Rechten liegt und das Zitat Wir müssen stark sein."
+        "note": "Erwähnt den Namen des Mediums Spiegel als ursprüngliche Quelle des Berichts."
       },
       {
-        "name": "WELT",
-        "note": "Nennt den genauen Stimmenanteil von 35,6 Prozent für die Mitte-Rechts-Gruppierung von Ministerpräsident Andris Kulbergs und führt den Fokus auf Russlands Angriffskrieg sowie die nationale Sicherheit aus."
+        "name": "DER SPIEGEL",
+        "note": "Liefert konkrete Zitate und Hintergrundinformationen, dass auch die ältere Tochter Leni und Sohn Henry bereits Teil des Familienimperiums sind."
       }
     ],
     "chg": "",
@@ -164,41 +530,37 @@
     "independent": 2
   },
   {
-    "id": "story-1c777eda82400763",
-    "c": "DE",
+    "id": "story-1632be1c8805c7a5",
+    "c": "INT",
     "o": "DE",
-    "k": "wirtschaft",
+    "k": "politik",
     "lang": "de",
-    "d": "2026-10-03T23:40:27.000Z",
+    "d": "2026-10-03T23:54:49.000Z",
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Deutsche Bahn bietet Familienticket dauerhaft an",
-    "s": "Die Deutsche Bahn nimmt das im Sommer eingeführte Pauschalticket für Familien dauerhaft in ihr Angebot auf. Grund für die Entscheidung ist die hohe Nachfrage der Reisenden während der Testphase. Das Ticket kostet knapp 100 Euro und soll weiterhin Familienreisen attraktiver machen.",
-    "m": "Das Ticket wurde ursprünglich als befristetes Angebot für die Sommerferien konzipiert und vermarktet. Bis Ende Juli nutzten bereits mehr als 200.000 Menschen das Angebot. Nach Angaben von Bahnchefin Palla hat sich die Aktion somit als großer Erfolg erwiesen. Nun wird das Ticket für knapp 100 Euro fest in das reguläre Portfolio der Deutschen Bahn integriert. Damit reagiert das Unternehmen auf den anhaltenden Wunsch nach kostengünstigen Reisemöglichkeiten für Familien. Es ist unklar, ob es künftig Preisänderungen geben wird.",
-    "r": "Die dauerhafte Einführung des Familientickets ist relevant, da sie das Reiseangebot einer großen Anzahl von Familien in Deutschland direkt beeinflusst und preislich verändert. Zudem zeigt sie, wie stark befristete Sommeraktionen das langfristige Produktportfolio eines Großkonzerns prägen können.",
+    "t": "Luftangriff im Gazastreifen fordert Todesopfer nach Rettungskräften",
+    "s": "Bei einem Luftangriff im Gazastreifen sind nach Angaben von palästinensischen Rettungskräften mehrere Menschen getötet worden. Die israelische Armee bestätigte den Angriff. Ziel sei ein hochrangiges Mitglied der Hamas gewesen.",
+    "m": "Der Vorfall ereignete sich im Gazastreifen, wo palästinensische Rettungskräfte von mehreren Todesopfern infolge eines Luftangriffs berichteten. Die israelische Armee erklärte daraufhin offiziell, dass sie ein hochrangiges Hamas-Mitglied ins Visier genommen habe. Weitere Details zum genauen Ort, der Identität des Zielobjekts oder der Gesamtzahl der Opfer wurden in den vorliegenden Berichten zunächst nicht genannt. Die Situation verdeutlicht die anhaltende militärische Auseinandersetzung in der Region. Offen bleibt, wie viele Zivilisten unter den Opfern sind und welche unmittelbaren Folgemaßnahmen sich daraus ergeben.",
+    "r": "Die Meldung ist relevant, da ein bewaffneter Vorfall im Gazastreifen mit tödlichen Ausgang und gezieltem militärischem Vorgehen gegen die Hamas dokumentiert wird. Dies zeigt die anhaltende Gewalt und die Operationen der israelischen Streitkräfte in dem Konfliktgebiet.",
     "srcs": [
       {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/mobilitaet/2026-10/familienticket-bahn-deutsche-bahn-evelyn-palla-ice",
-        "date": "2026-10-03T23:40:27.000Z"
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/asien/gaza-angriffe-israel-106.html",
+        "date": "2026-10-03T23:54:49.000Z"
       },
       {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/politik/Deutsche-Bahn-bietet-Familienticket-dauerhaft-an-id31377582.html",
-        "date": "2026-10-03T17:11:34.000Z"
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9rZXU3X0ExekNZQWt1SDkwSld5bDF5bkN2TFlwR1VQMG5fMmg5U2czeUMyQUZlN2JZX21WekZCam4ycnp4SU1uOVpPWkFndHdmaHprZm00eDNaa29MWVlXcEpMdUFPYWRLVE1IYnhQRXYxLTJXNzZIdQ?oc=5",
+        "date": "2026-10-03T23:54:00.000Z"
       }
     ],
-    "url": "https://www.zeit.de/mobilitaet/2026-10/familienticket-bahn-deutsche-bahn-evelyn-palla-ice",
-    "agree": "Die Quellen sind sich einig, dass die Deutsche Bahn das im Sommer eingeführte Familienticket aufgrund der guten Nachfrage dauerhaft ins Programm aufnimmt.",
+    "url": "https://www.tagesschau.de/ausland/asien/gaza-angriffe-israel-106.html",
+    "agree": "Die Quellen stimmen überein, dass ein Luftangriff im Gazastreifen stattgefunden hat und Rettungskräfte Tote melden.",
     "diff": [
       {
-        "name": "ZEIT ONLINE",
-        "note": "nennt einen runden Preis von 99 Euro"
-      },
-      {
-        "name": "ntv",
-        "note": "nennt einen genauen Preis von 99,99 Euro und erwähnt über 200.000 Nutzer bis Ende Juli sowie Bahnchefin Palla"
+        "name": "Google News DE",
+        "note": "Verweist lediglich auf den Artikel der Tagesschau und erwähnt weitere Schlagzeilen."
       }
     ],
     "chg": "",
@@ -214,10 +576,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Trump teilt angeblich Handynummer von US-Senator Tom Cotton",
-    "s": "US-Präsident Donald Trump hat offenbar die private Handynummer des republikanischen Senators Tom Cotton veröffentlicht. Mit dieser Aktion wollte er Druck ausüben, um ein Gesetz zur dauerhaften Einführung der Sommerzeit zu unterstützen. Das sogenannte Sunshine Protection Act hatte das Repräsentantenhaus im Juli passiert.",
-    "m": "Donald Trump drängte den Senator aus Arkansas am Samstag öffentlich dazu, das Gesetz zur dauerhaften Sommerzeit zu unterstützen. Dabei forderte er die US-Bürger auf, die anscheinend persönliche Handynummer seines Parteikollegen und Vorsitzenden des Senatsnachrichtendienstausschusses anzurufen. Dieser ungewöhnliche Schritt soll den politischen Druck auf den Gesetzgeber erhöhen, das Vorhaben voranzutreiben. Das Gesetz war zuvor im Juli vom Repräsentantenhaus verabschiedet worden. Ob der Senator tatsächlich zahlreiche Anrufe erhalten hat und wie er auf die Aktion reagierte, geht aus den Berichten nicht hervor. Offen bleibt auch, ob das Gesetz im Senat die notwendige Mehrheit finden wird.",
-    "r": "Die Veröffentlichung einer mutmaßlich privaten Handynummer eines hochrangigen Senators durch den US-Präsidenten ist ein ungewöhnlicher politischer Druckmittelversuch. Der Vorfall betrifft die Gesetzgebung zur dauerhaften Sommerzeit in den USA.",
+    "t": "Trump veröffentlicht anscheinend Handynummer von Senator Tom Cotton",
+    "s": "US-Präsident Donald Trump hat offenbar die persönliche Handynummer des republikanischen Senators Tom Cotton öffentlich geteilt. Damit will er Druck ausüben, um ein Gesetz zur Einführung einer permanenten Sommerzeit voranzutreiben. Der Gesetzentwurf zur Sunshine Protection Act wurde im Juli vom Repräsentantenhaus verabschiedet.",
+    "m": "Donald Trump hat am Samstag via Social Media oder auf ähnlichem Weg versucht, den US-Senator Tom Cotton aus Arkansas unter Druck zu setzen, indem er offenbar dessen private Mobilnummer verbreitete. Hintergrund ist Trumps Bestreben, das Gesetz für eine dauerhafte Sommerzeit zu unterstützen. Tom Cotton ist in diesem Zusammenhang ein wichtiger Akteur als Vorsitzender des Senatsausschusses für Nachrichtendienste. Der betreffende Gesetzentwurf, die sogenannte Sunshine Protection Act, hatte im Juli bereits das Repräsentantenhaus passiert. Es ist unklar, wie sich die Veröffentlichung der Nummer auf die politische Zusammenarbeit auswirkt und ob der Senat das Gesetz nun zeitnah verabschieden wird. Bislang gibt es keine offiziellen Angaben darüber, wie viele Anrufe Cotton aufgrund der Veröffentlichung erhalten hat.",
+    "r": "Die Aktion eines US-Präsidenten, die angebliche Handynummer eines ranghohen Senators öffentlich zu teilen, ist ein ungewöhnlicher Vorgang zur politischen Einflussnahme. Dies betrifft die Gesetzgebung zur permanenten Sommerzeit in den USA.",
     "srcs": [
       {
         "name": "Guardian World",
@@ -231,11 +593,11 @@
       }
     ],
     "url": "https://www.theguardian.com/us-news/2026/oct/03/trump-tom-cotton-daylight-saving-time",
-    "agree": "Die Quellen sind sich einig, dass Trump anscheinend die persönliche Handynummer von US-Senator Tom Cotton geteilt hat, um Druck für die dauerhafte Sommerzeit auszuüben.",
+    "agree": "Beide Quellen stimmen darin überein, dass Trump die angebliche Handynummer eines US-Senators geteilt hat, um die dauerhafte Sommerzeit zu fördern.",
     "diff": [
       {
         "name": "Google News World",
-        "note": "Verweist lediglich auf den Artikel des Guardian und nennt keine eigenen Details."
+        "note": "Verweist lediglich auf den Artikel des Guardian und nennt keinen eigenen neuen Sachverhalt."
       }
     ],
     "chg": "",
@@ -277,6 +639,47 @@
       {
         "name": "ntv",
         "note": "Teilt mit, dass Israel seit dem Hamas-Angriff bereits unzählige Führungspersönlichkeiten ausgeschaltet hat und die Miliz dennoch nicht besiegt ist."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-99bb39b9078c4000",
+    "c": "INT",
+    "o": "DE",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-03T20:47:55.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Nations League: England schlägt Kroatien mit 7:0",
+    "s": "In der UEFA Nations League hat die englische Nationalmannschaft einen deutlichen Auswärtssieg gegen Kroatien gefeiert. Das Team setzte sich überraschend klar mit 7:0 durch. Zu den Torschützen gehörte unter anderem der Bayern-Torjäger Harry Kane, der gleich doppelt traf. Auch die spanische Auswahl wusste an diesem Spieltag zu überzeugen.",
+    "m": "Das Spiel der UEFA Nations League zwischen England und Kroatien endete mit einem historischen 7:0-Erfolg für die Gäste. Maßgeblich am deutlichen Sieg beteiligt war der Münchner Stürmer Harry Kane, der zwei Treffer zum Auswärtserfolg beisteuerte. Neben der englischen Gala zeigte auch die spanische Nationalmannschaft in ihrer Begegnung eine überzeugende Leistung. Weitere Details zum genauen Spielverlauf, den restlichen Torschützen oder den Auswirkungen auf die Tabellensituation nennen die vorliegenden Berichte nicht.",
+    "r": "Das Spiel hat sportliche Relevanz für den Verlauf der UEFA Nations League und zeigt die aktuelle Leistungsstärke der beteiligten Nationalmannschaften England, Kroatien und Spanien.",
+    "srcs": [
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/sport/nations-league-england-demuetigt-kroatien-mit-7-0-kane-trifft-doppelt-KPQU7EFGKFH57PFIZWNOYMFFDQ.html",
+        "date": "2026-10-03T20:47:55.000Z"
+      },
+      {
+        "name": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/sport/fussball/england-demuetigt-kroatien-harry-kane-trifft-doppelt-accg-201285869.html",
+        "date": "2026-10-03T18:19:44.000Z"
+      }
+    ],
+    "url": "https://www.rnd.de/sport/nations-league-england-demuetigt-kroatien-mit-7-0-kane-trifft-doppelt-KPQU7EFGKFH57PFIZWNOYMFFDQ.html",
+    "agree": "Beide Quellen stimmen darin überein, dass England Kroatien in der Nations League mit 7:0 deklassierte und Bayern-Torjäger Harry Kane zwei Tore erzielte.",
+    "diff": [
+      {
+        "name": "RND",
+        "note": "Erwähnt zusätzlich, dass auch Spanien an diesem Spieltag überzeugte."
+      },
+      {
+        "name": "Frankfurter Allgemeine",
+        "note": "Konzentriert sich ausschließlich auf den 7:0-Sieg Englands und die Doppeltreffertätigkeit von Harry Kane."
       }
     ],
     "chg": "",
@@ -526,9 +929,9 @@
     "st": "BY",
     "city": "",
     "t": "Deutscher Wanderer stirbt nach Sturz in Südtirol",
-    "s": "Ein 80-jähriger deutscher Urlauber ist bei einer Bergtour in Südtirol tödlich verunglückt. Er stürzte rund 50 Meter in die Tiefe. Seine Ehefrau schlug sofort Alarm, doch die alarmierten Rettungskräfte konnten dem Mann nicht mehr helfen und nur noch seinen Tod feststellen.",
-    "m": "Das Unglück ereignete sich während einer Wanderung, an der der 80-jährige Deutsche gemeinsam mit seiner Frau teilnahm. Nach Angaben der Berichterstattung kam der Senior auf einem historischen Wanderweg vom Weg ab und stürzte daraufhin etwa 50 Meter in die Tiefe. Die genaue Unfallstelle liegt in der Region Südtirol, wobei eine Quelle das Gebiet näher bei Meran verortet. Die Ehefrau setzte nach dem Sturz sofort einen Notruf ab. Trotz des schnellen Ausrückens der Rettungskräfte kam für den Wanderer jede Hilfe zu spät, sodass der Notarzt nur noch den Tod feststellen konnte. Weitere Details zum genauen Unfallhergang oder den Rettungsmaßnahmen liegen bislang nicht vor.",
-    "r": "Der tödliche Bergunfall eines deutschen Touristen verdeutlicht die anhaltenden Gefahren beim Wandern in alpinem Gelände. Das Ereignis zeigt einmal mehr die Bedeutung schneller Rettungskette-Reaktionen, die in diesem Fall jedoch zu spät kamen.",
+    "s": "Ein 80-jähriger deutscher Urlauber ist bei einer Bergtour in Südtirol rund 50 Meter in die Tiefe gestürzt und tödlich verunglückt. Seine Ehefrau hatte nach dem Unfall sofort Alarm geschlagen. Für den Mann kam jedoch jede Hilfe zu spät, und er verstarb noch an der Unglücksstelle.",
+    "m": "Das Unglück ereignete sich während einer Wanderung, bei der der 80-jährige Deutsche vom Weg abgekommen war. Nach dem Sturz über steiles Gelände rund 50 Meter in die Tiefe wurde umgehend eine Rettungsaktion eingeleitet. Die alarmierten Rettungskräfte konnten den Urlauber jedoch nur noch tot bergen. Nähere Details zur genauen Identität des Mannes oder zu den exakten Umständen des Abkommens vom Wanderweg wurden zunächst nicht bekannt gegeben. Der betroffene Wanderweg wird in den Berichten teilweise als historisch beschrieben. Die Rettungskräfte schlossen den Einsatz nach der Bergung des Verunglückten ab.",
+    "r": "Der tödliche Bergunfall eines deutschen Touristen im Ausland verdeutlicht die anhaltenden Gefahren beim Wandern in alpinem Gelände. Das Ereignis zeigt die Bedeutung schneller Notfallmeldungen durch Begleitpersonen und den Einsatz von Rettungskräften in Südtirol.",
     "srcs": [
       {
         "name": "BR24 Bayern",
@@ -547,19 +950,19 @@
       }
     ],
     "url": "https://www.br.de/nachrichten/deutschland-welt/deutscher-stuerzt-in-suedtirol-50-meter-in-die-tiefe-und-stirbt,VX0hK5X",
-    "agree": "Die Quellen stimmen überein, dass ein 80-jähriger deutscher Urlauber in Südtirol bei einer Wanderung 50 Meter in die Tiefe gestürzt und trotz des Alarms seiner Ehefrau gestorben ist.",
+    "agree": "Die Quellen stimmen überein, dass ein 80-jähriger deutscher Urlauber bei einer Bergtour in Südtirol 50 Meter in die Tiefe gestürzt ist und trotz des Alarms seiner Ehefrau jede Hilfe zu spät kam.",
     "diff": [
       {
         "name": "BR24 Bayern",
-        "note": "Berichtet allgemein über den Sturz in Südtirol ohne Nennung eines spezifischen Wanderwegs."
+        "note": "Berichtet allgemein über den Sturz eines deutschen Wanderers in Südtirol ohne Nennung weiterer Details."
       },
       {
         "name": "ntv",
-        "note": "Erwähnt zusätzlich, dass das Unglück auf einem historischen Wanderweg geschah und der Mann zuvor vom Weg abgekommen war."
+        "note": "Erwähnt zusätzlich, dass der 80-Jährige zuvor von einem historischen Wanderweg abgekommen ist."
       },
       {
         "name": "DER SPIEGEL",
-        "note": "Präzisiert den Unfallort zusätzlich mit der Angabe bei Meran."
+        "note": "Gibt an, dass sich das Unglück bei Meran ereignet hat."
       }
     ],
     "chg": "",
@@ -776,13 +1179,13 @@
     "p": 2,
     "st": "BW",
     "city": "",
-    "t": "Sternekoch Andreas Widmann kocht im Tiefen Stollen bei Aalen",
-    "s": "Der Sternekoch Andreas Widmann hat sein Restaurant für drei Tage in den Tiefen Stollen in Aalen verlegt. Dort erwartete die Gäste ein exklusives kulinarisches Erlebnis untertage. Insgesamt 30 Personen nahmen an der außergewöhnlichen Veranstaltung im Bergwerk teil. Der ungewöhnliche Standort bot den Gästen ein Menü in historischer und tiefer Kulisse.",
-    "m": "Sternekoch Andreas Widmann aus Königsbronn-Zang wagte ein gastronomisches Experiment und verlegte sein Restaurant für drei Tage in den Tiefen Stollen nach Aalen. Rund 30 Gäste hatten die Gelegenheit, ein Menü in der besonderen Atmosphäre des unterirdischen Bergbaustollens zu genießen. Solche Aktionen verbinden regionale Gastronomie mit ungewöhnlichen Veranstaltungsorten, um den Gästen ein exklusives Erlebnis zu bieten. Der Tiefe Stollen ist ansonsten als Besucherbergwerk bekannt und bietet durch seine unterirdische Kulisse ein seltenes Ambiente für solche Events. Weitere Details zu den Menükosten oder den genauen logistischen Herausforderungen unter Tage wurden nicht genannt. Die Veranstaltung unterstreicht den Trend, Sterneküche an ausgefallenen Orten zu präsentieren. Auch zukünftige Wiederholungen dieses Projekts ließ das Team zunächst offen.",
-    "r": "Die Veranstaltung zeigt, wie die gehobene Gastronomie ungewöhnliche Orte für exklusive Events nutzt. Solche Aktionen ziehen Aufmerksamkeit auf regionale Besucherbergwerke wie den Tiefen Stollen in Aalen.",
+    "t": "Sternekoch Andreas Widmann kocht im Tiefer Stollen in Aalen",
+    "s": "Der Sternekoch Andreas Widmann hat sein Restaurant für ein besonderes Event an einen außergewöhnlichen Ort verlegt. Insgesamt 30 Gäste hatten die Gelegenheit, untertage im Tiefen Stollen bei Aalen zu speisen. Die kulinarische Aktion erstreckte sich über einen Zeitraum von drei Tagen.",
+    "m": "Das ungewöhnliche Gastronomie-Projekt fand im Tiefen Stollen in Aalen statt, der für drei Tage als Kulisse für gehobene Kochkunst diente. Verantwortlich dafür war Sternekoch Andreas Widmann, der aus Königsbronn-Zang stammt. Insgesamt 30 Gäste nahmen an dem exklusiven Event untertage teil. Solche temporären Verlegungen von Sternerestaurants an ungewöhnliche Orte ziehen oft große Aufmerksamkeit auf sich. Der Tiefe Stollen bot den Gästen dabei eine besondere Atmosphäre fernab des gewöhnlichen Gastraums. Weitere Details zu den Hintergründen der Aktion oder der Menüfolge wurden in den Berichten nicht genannt.",
+    "r": "Die Veranstaltung zeigt, wie die Gastronomie ungewöhnliche Orte für exklusive Events nutzt. Solche Aktionen verbinden regionalen Tourismus mit Sterneküche und erregen überregionale Aufmerksamkeit.",
     "srcs": [
       {
-        "name": "SWR Aktuell",
+        "name": "SWR Aktuell Baden-Württemberg",
         "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/dinner-im-tiefen-stollen-100.html",
         "date": "2026-10-03T18:19:37.000Z"
       },
@@ -793,8 +1196,13 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/dinner-im-tiefen-stollen-100.html",
-    "agree": "Beide Quellen stimmen überein, dass Sternekoch Andreas Widmann aus Königsbronn-Zang sein Restaurant für drei Tage in den Tiefen Stollen bei Aalen verlegt hat und dort 30 Gäste bewirtete.",
-    "diff": [],
+    "agree": "Beide Quellen sind sich einig, dass Sternekoch Andreas Widmann aus Königsbronn-Zang sein Restaurant für drei Tage in den Tiefen Stollen bei Aalen verlegt hat und dort 30 Gäste bewirtet wurden.",
+    "diff": [
+      {
+        "name": "Tagesschau Regional Baden-Württemberg",
+        "note": "Ergänzt im Titel die Information, dass der Tiefe Stollen direkt in Aalen liegt."
+      }
+    ],
     "chg": "",
     "independent": 2
   },
@@ -1271,10 +1679,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Gratis-Radlerhosen gegen Voyeurismus auf dem Oktoberfest",
-    "s": "Beim Münchner Oktoberfest verteilen Betreiber kostenlose Radlerhosen an Besucherinnen. Hintergrund sind verdeckte Videoaufnahmen von Frauen auf dem historischen Fahrgeschäft Teufelsrad. Eine journalistische Recherche hatte zuvor zehntausende solcher voyeuristischer Clips im Internet aufgedeckt.",
-    "m": "Das traditionsreiche Fahrgeschäft Teufelsrad auf dem Münchner Oktoberfest sorgt für Schlagzeilen, nachdem eine Untersuchung zehntausende voyeuristische Videos aufgedeckt hat. Bei der Attraktion dreht sich eine kreisrunde Scheibe rasant, während die Teilnehmenden versuchen, so lange wie möglich darauf sitzen zu bleiben. Dabei rutschen traditionelle Dirndlkleider häufig nach oben, was von Tätern gezielt für Filmaufnahmen unter den Rock ausgenutzt wurde. Um Frauen vor diesem sogenannten Upskirting zu schützen, werden nun kostenlose Radlerhosen ausgegeben. Die betroffenen Aufnahmen kursierten in großer Zahl im Internet. Weitere Details zu den Tätern oder konkreten Sicherheitsmaßnahmen an anderen Fahrgeschäften gehen aus den Berichten nicht hervor.",
-    "r": "Der Vorfall wirft ein Schlaglicht auf das Problem des digitalen Voyeurismus auf großen Volksfesten. Die Maßnahme zeigt, wie Veranstalter auf bekanntgewordene Übergriffe und im Internet verbreitete Heimlichkeiten reagieren müssen.",
+    "t": "Kostenlose Radlerhosen gegen Voyeurismus auf dem Oktoberfest",
+    "s": "Auf dem Münchner Oktoberfest erhalten Frauen auf einer historischen Fahrgeschäfts-Attraktion kostenlose Radlerhosen. Hintergrund sind heimlich gefilmte und im Internet verbreitete Videos von betroffenen Volksfestbesucherinnen. Die Schutzmaßnahme soll sogenannte Upskirting-Aufnahmen verhindern.",
+    "m": "Betroffen ist das traditionsreiche Fahrgeschäft Teufelsrad, bei dem sich Teilnehmende auf einer sich schnell drehenden Scheibe halten müssen. Eine journalistische Recherche brachte zutage, dass auf der Attraktion zehntausende voyeuristische Videos entstanden sind, die im Internet kursieren. Die Aufnahmen zeigen oft Frauen in Dirndln, deren Kleidung während der schnellen Drehbewegungen nach oben rutscht und Unterwäsche entblößt. Als Reaktion darauf werden nun kostenlose Radlerhosen ausgegeben, um derartige Übergriffe und Aufnahmen zu unterbinden. Das Teufelsrad gehört zu den ältesten und beliebtesten Attraktionen des Münchner Oktoberfestes.",
+    "r": "Die Vorfälle verdeutlichen Probleme beim Schutz der Privatsphäre auf großen Volksfesten durch gezielte voyeuristische Aufnahmen. Die Reaktion der Veranstalter zeigt, wie auf neuentdeckte Formen digitaler Belästigung bei traditionellen Events reagiert wird.",
     "srcs": [
       {
         "name": "Google News World",
@@ -1288,11 +1696,11 @@
       }
     ],
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTEY2c005NE9sTDdPZ1ZVck1WaVE3SjU1SmdzWXJQYnkxU2FwMmVGbVUzelU5T2FhQllQYWtZanZtc3F1QTNBYWh4YV9UYlJpckw0TGt4eHQwUjV1T2czMkRNbkRaYjgxZ1gtNU9Sc1BCQUNKb2VpekxzYzR2ZTh5SE9qdGhmSEhUN3djUEtKdWFjRmN1Y0dCeGFRN0JXTXdfa1pQT2xTdE1qdjZ6bndBS0lZWXlwc2daRnp1XzlfeUlVSVp3V21obFZ4OVU1dEh0Sy1Hck1INEdKZw?oc=5",
-    "agree": "Beide Quellen berichten, dass Frauen auf dem Oktoberfest-Fahrgeschäft Teufelsrad kostenlose Radlerhosen erhalten, um Aufnahmen unter den Rock zu verhindern.",
+    "agree": "Beide Quellen stimmen überein, dass Frauen auf dem Oktoberfest-Fahrgeschäft Teufelsrad kostenlose Radlerhosen erhalten, um Upskirting-Videos zu verhindern.",
     "diff": [
       {
         "name": "Guardian World",
-        "note": "Berichtet ergänzend, dass eine Untersuchung das Problem aufgedeckt hat und zehntausende voyeuristische Videos von dem Fahrgeschäft im Internet zirkulieren."
+        "note": "Berichtet zusätzlich, dass eine Untersuchung tausende beziehungsweise zehntausende voyeuristische Videos aufdeckte, die online kursieren, und beschreibt die Funktionsweise des Teufelsrads."
       }
     ],
     "chg": "",
@@ -1414,10 +1822,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Wirtschaftliche Angleichung von Ost und West stagniert seit Jahren",
-    "s": "Die wirtschaftliche Annäherung zwischen Ost- und Westdeutschland kommt seit Jahren kaum noch voran. Seit mittlerweile fünf Jahren verharrt das ostdeutsche Wirtschaftsniveau bei knapp unter 80 Prozent des Westniveaus.",
-    "m": "Aktuellen Berichten zufolge stagniert die wirtschaftliche Angleichung zwischen den ost- und westdeutschen Bundesländern. Seit fünf Jahren gibt es bei diesem Prozess praktisch keine nennenswerten Fortschritte mehr. Das Wirtschaftsniveau im Osten des Landes verharrt stabil bei knapp unter 80 Prozent des Niveaus im westdeutschen Raum. Damit bleibt eine vollständige wirtschaftliche Einheit auf demselben Wohlstandsniveau weiterhin aus. Ökonomen und Wirtschaftsinstitute beobachten diese Stagnation mit Sorge. Offen bleibt, welche konkreten politischen oder wirtschaftlichen Maßnahmen ergriffen werden könnten, um die Lücke in Zukunft doch noch zu schließen.",
-    "r": "Die anhaltende wirtschaftliche Stagnation zwischen Ost und West ist ein zentraler Indikator für die regionale Wohlstandsverteilung in Deutschland. Sie berührt grundlegende Fragen der deutschen Einheit und der regionalen Wirtschaftspolitik.",
+    "t": "Wirtschaftsinstitut: Osten holt wirtschaftlich seit Jahren nicht mehr auf",
+    "s": "Die wirtschaftliche Annäherung zwischen Ostdeutschland und Westdeutschland kommt seit Jahren kaum noch voran. Seit nunmehr fünf Jahren verharrt das ostdeutsche Wirtschaftsniveau bei knapp unter 80 Prozent des Westniveaus. Dies geht aus aktuellen Analysen eines Wirtschaftsinstituts hervor.",
+    "m": "Die strukturelle Aufholjagd der ostdeutschen Bundesländer stagniert seit einem halben Jahrzehnt auf dem gleichen Stand. Das Bruttoinlandsprodukt und die Wirtschaftsleistung verharren konstant bei knapp unter 80 Prozent des westdeutschen Durchschnitts. Experten sehen damit den Prozess der deutschen Wirtschaftsvereinigung in einer langanhaltenden Phase des Stillstands. Konkrete Ursachen oder politische Gegenmaßnahmen werden in den vorliegenden Berichten nicht näher ausgeführt. Auch nähere Details zu den betroffenen Branchen oder einzelnen Bundesländern innerhalb Ostdeutschlands fehlen in den aktuellen Analysen.",
+    "r": "Der anhaltende Stillstand bei der wirtschaftlichen Angleichung von Ost und West ist für die gesamtdeutsche Wirtschaftspolitik von Bedeutung. Er zeigt strukturelle Defizite auf, die trotz jahrzehntelanger Anstrengungen fortbestehen.",
     "srcs": [
       {
         "name": "RND",
@@ -1431,17 +1839,8 @@
       }
     ],
     "url": "https://www.rnd.de/wirtschaft/wirtschaftsinstitut-osten-holt-wirtschaftlich-seit-jahren-nicht-mehr-auf-D53G2JWPXZCQJJR7REBTTM5KZY.html",
-    "agree": "Die Quellen sind sich einig, dass die wirtschaftliche Angleichung zwischen Ost und West seit fünf Jahren bei knapp unter 80 Prozent des Westniveaus stagniert.",
-    "diff": [
-      {
-        "name": "RND",
-        "note": "Berichtet unter dem Titel des Wirtschaftsinstituts zur wirtschaftlichen Situation im Osten."
-      },
-      {
-        "name": "Handelsblatt",
-        "note": "Berichtet mit demselben Wortlaut unter der Ressortbezeichnung Wirtschaft."
-      }
-    ],
+    "agree": "Beide Quellen stimmen überein, dass die wirtschaftliche Angleichung zwischen Ost und West seit fünf Jahren bei knapp unter 80 Prozent des Westniveaus stagniert.",
+    "diff": [],
     "chg": "",
     "independent": 2
   },
@@ -1698,9 +2097,9 @@
     "st": "",
     "city": "",
     "t": "Steinmeier: \"Geht um Selbstbehauptung der Demokratie\"",
-    "s": "Mit dem Leitspruch \"Viele Stärken - ein Land\" findet in Bremen der Festakt zum Tag der Deutschen Einheit statt. Bundespräsident Frank-Walter Steinmeier nutzt den Anlass für eine deutliche Warnung vor extremistischen Kräften. Er ruft dazu auf, die demokratischen Grundrechte aktiv zu verteidigen.",
-    "m": "Der zentrale Festakt zum Tag der Deutschen Einheit wird in Bremen unter dem Motto \"Viele Stärken - ein Land\" begangen. Im Mittelpunkt der Veranstaltung steht eine Rede von Bundespräsident Frank-Walter Steinmeier. Darin betont er, dass es in der aktuellen Zeit um die Selbstbehauptung der Demokratie gehe. Er warnt eindringlich vor extremistischen Kräften und fordert die Bürger und Verantwortlichen auf, die demokratischen Grundrechte zu verteidigen. Die Veranstaltung bringt hochrangige Vertreter aus Politik und Gesellschaft zusammen. Weitere Details zum genauen Ablauf des Festakts oder konkreten Programmpunkten in Bremen nennen die vorliegenden Berichte nicht.",
-    "r": "Die Rede des Bundespräsidenten zum Tag der Deutschen Einheit setzt ein offizielles politisches Signal zur Verfassungslage und zum Umgang mit extremistischen Tendenzen in Deutschland.",
+    "s": "Bundespräsident Frank-Walter Steinmeier hat beim Festakt zum Tag der Deutschen Einheit in Bremen eine deutliche Warnung vor extremistischen Kräften ausgesprochen. Unter dem Leitspruch \"Viele Stärken - ein Land\" stand die Veranstaltung im Zeichen der demokratischen Grundrechte. Die Feierlichkeiten beleuchteten die Bedeutung und Herausforderungen des heutigen Deutschlands.",
+    "m": "Der zentrale Festakt zum Tag der Deutschen Einheit fand in diesem Jahr in Bremen unter dem Leitspruch \"Viele Stärken - ein Land\" statt. Bundespräsident Frank-Walter Steinmeier nutzte die Veranstaltung für einen dringenden Appell zur Selbstbehauptung der Demokratie. Er warnte eindringlich vor extremistischen Kräften in der Gesellschaft und forderte die Bürger dazu auf, die demokratischen Grundrechte aktiv zu verteidigen. Zudem wurde bekannt, dass Steinmeier im kommenden März aus seinem Amt scheiden wird. Die Veranstaltung thematisierte die Einheit des Landes sowie die aktuellen gesellschaftlichen Herausforderungen.",
+    "r": "Die Aussagen des Bundespräsidenten zum Tag der Deutschen Einheit bieten Einblicke in die offizielle Bewertung der aktuellen gesellschaftlichen und politischen Lage in Deutschland. Zudem markiert die Ankündigung des Amtsendes im März einen kommenden Wechsel an der Staatsspitze.",
     "srcs": [
       {
         "name": "ZDF heute",
@@ -1708,21 +2107,21 @@
         "date": "2026-10-03T14:32:00.000Z"
       },
       {
-        "name": "SWR Aktuell",
+        "name": "Tagesschau",
         "url": "https://www.tagesschau.de/inland/gesellschaft/einheitsfeier-steinmeier-100.html",
-        "date": "2026-10-03T12:45:01.000Z"
+        "date": "2026-10-03T12:29:08.000Z"
       }
     ],
     "url": "https://www.zdfheute.de/politik/deutschland/festakt-tag-deutsche-einheit-steinmeier-demokratie-100.html",
-    "agree": "Die Quellen sind sich einig, dass Bundespräsident Steinmeier beim Festakt zum Tag der Deutschen Einheit in Bremen vor Extremismus gewarnt und zur Verteidigung der Demokratie aufgerufen hat.",
+    "agree": "Die Quellen stimmen überein, dass Bundespräsident Steinmeier beim Festakt zum Tag der Deutschen Einheit in Bremen vor Extremismus gewarnt und zur Selbstbehauptung der Demokratie aufgerufen hat.",
     "diff": [
       {
         "name": "Tagesschau",
-        "note": "Erwähnt zusätzlich, dass Steinmeier im März aus dem Amt scheidet."
+        "note": "Erwähnt zusätzlich den Leitspruch \"Viele Stärken - ein Land\" und den Veranstaltungsort Bremen."
       },
       {
         "name": "ZDF heute",
-        "note": "Nennt den Leitspruch des Festakts in Bremen: \"Viele Stärken - ein Land\"."
+        "note": "Berichtet ergänzend, dass Steinmeier im März aus dem Amt scheiden wird."
       }
     ],
     "chg": "",
@@ -1934,10 +2333,10 @@
     "p": 2,
     "st": "",
     "city": "",
-    "t": "Rom geht gegen den wachsenden Trend von Golfkart-Touren vor",
-    "s": "In Rom erfreuen sich Touren mit gemieteten Golfkarts zunehmend großer Beliebtheit bei Touristen. Nun greifen die Behörden jedoch hart gegen diesen Handelszweig durch, da sie eine unkontrollierte Ausuferung befürchten. Betroffene Betreiber wehren sich gegen die Maßnahmen und empfinden das Vorgehen als unfaire Benachteiligung.",
-    "m": "Die Kontroversen um den Einsatz von Golfkarts zur Personenbeförderung in der italienischen Hauptstadt spitzen sich zu. Während klassische Verkehrsmittel wie die Vespa oder der Fiat 500 im Stadtbild etabliert sind, sorgt das neuere Phänomen der Golfkarts für Diskussionen. Touristen nutzen die elektrischen Wagen gerne, um Sehenswürdigkeiten wie die Piazza Navona flexibel zu erreichen, ohne lange Fußwege absolvieren zu müssen. Viele Besucher zeigen sich von den oft überlaufenen klassischen Sehenswürdigkeiten erschöpft und greifen daher auf diese alternativen Transportmittel zurück. Die Stadtverantwortlichen sehen in der Zunahme dieser gewerblichen Fahrten jedoch ein unkontrollierbares Risiko für den Verkehr und das historische Stadtbild. Die betroffenen Gewerbetreibenden werfen den Behörden im Gegenzug vor, sie gezielt und ungerechtfertigt ins Visier zu nehmen. Unklar bleibt bislang, wie die genauen gesetzlichen Regelungen oder künftige Einschränkungen für die Anbieter aussehen werden.",
-    "r": "Der Konflikt betrifft die lokale Tourismusregulierung und die Verkehrssicherheit in Rom, da Behörden und Anbieter gegensätzliche Interessen vertreten.",
+    "t": "Rom geht gegen den Boom von Touristen-Golfcarts vor",
+    "s": "In Rom boomt die Nutzung von Golfcarts für Stadtführungen von Touristen, was nun zu behördlichen Razzien und schärferem Vorgehen führt. Während die Behörden den gewerblichen Handel als außer Kontrolle geraten ansehen, fühlen sich die Betreiber unfair behandelt. Die Diskussion wirft die Frage auf, ob diese Form der Mobilität in der historischen Altstadt akzeptabel ist.",
+    "m": "Die Nutzung von Golfcarts als touristisches Transportmittel in Rom erfreut sich großer Beliebtheit bei Besuchern, stößt jedoch zunehmend auf Widerstand der Behörden. Touristen nutzen die Fahrzeuge gerne für Sightseeing in der historischen Innenstadt, wie etwa an der Piazza Navona. Behörden haben begonnen, hart gegen den Handel durchzugreifen, da sie eine unkontrollierte Ausweitung befürchten. Betreiber der Golfcarts wehren sich gegen die Maßnahmen und empfinden das Vorgehen als unfaire Benachteiligung. Konfliktpunkte sind unter anderem die Nutzung historischer Plätze und die Verkehrsbelastung. Die Kontroversen zeigen den Spagat zwischen touristischer Nachfrage und dem Schutz der historischen Stadtinfrastruktur. Offen bleibt, wie die Stadtverwaltung den rechtlichen Status dieser Transportmittel künftig regeln wird.",
+    "r": "Der Konflikt verdeutlicht die anhaltenden Spannungen zwischen den Bedürfnissen des Massentourismus und dem Schutz historischer Innenstädte vor Verkehr und Überlastung. Die behördlichen Maßnahmen könnten Auswirkungen auf touristische Angebote vor Ort haben.",
     "srcs": [
       {
         "name": "Google News World",
@@ -1951,15 +2350,15 @@
       }
     ],
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdVNHdXBPajViWloyRlFBOWRPVDhGMEN4eklYb1A5bEtaWjVvZC1icWlWRFBkSG9JaUNuMUpFX2pjcmVQOEdLMVFyZC1mYmhETmQ0YUo5U3J4Zzg1enVESl9vVUpxNzVHTDY4THo3WmhRRHZRLUdIZmREdGNwUWxkOVZ4OEs5WlNmcXlFNQ?oc=5",
-    "agree": "Die Quellen berichten über die zunehmende Nutzung von Golfkarts durch Touristen in Rom und das Vorgehen der Behörden dagegen.",
+    "agree": "Behörden in Rom gehen gegen den Handel mit Touristen-Golfcarts vor, während Betreiber sich ungerecht behandelt fühlen.",
     "diff": [
       {
         "name": "Google News World",
-        "note": "Gibt nur die Überschrift sowie den Hinweis auf den Guardian wieder."
+        "note": "Verweist lediglich auf den Artikel des Guardian mit der Frage, ob Rom die Grenze bei Golfcarts zieht."
       },
       {
         "name": "Guardian World",
-        "note": "Liefert den ausführlichen Bericht über Touristen aus Texas an der Piazza Navona und die Argumente der Betreiber."
+        "note": "Liefert Details zu Touristen aus Texas, die an der Piazza Navona einen Golfcart nutzen, und beschreibt den Frust über überfüllte Sehenswürdigkeiten wie die Vatikanischen Museen."
       }
     ],
     "chg": "",
@@ -1976,9 +2375,9 @@
     "st": "",
     "city": "",
     "t": "Russland fordert Diplomaten und Ausländer zum Verlassen von Kiew auf",
-    "s": "Die russische Regierung hat Diplomaten und Ausländer in Kiew erneut dazu aufgerufen, die ukrainische Hauptstadt zu verlassen. Grund für diese Warnung ist die Ankündigung weiterer massiver Vergeltungsangriffe durch die russischen Streitkräfte. Die Aufforderung unterstreicht die anhaltende und akute Bedrohung für die Zivilbevölkerung in der Region.",
-    "m": "Russland hat eine erneute Warnung ausgesprochen, die sich gezielt an in Kiew anwesende Diplomaten und ausländische Staatsbürger richtet. In der Mitteilung wird ausdrücklich darauf hingewiesen, dass die russischen Streitkräfte fortfahren werden, massive Angriffe als Vergeltungsmaßnahmen gegen die ukrainische Hauptstadt durchzuführen. Konkrete Zeitpunkte für die angekündigten Attacken wurden in der Meldung nicht genannt. Die Situation in der Region bleibt angespannt, da Kiew wiederholt Ziel von Luftangriffen war. Ausländische Vertretungen stehen nun vor der Entscheidung, ihre Sicherheitsvorkehrungen weiter zu verschärfen oder das Personal zu evakuieren. Weitere Einzelheiten zu den betroffenen Sektoren oder diplomatischen Missionen liegen derzeit nicht vor.",
-    "r": "Die Warnung Russlands betrifft unmittelbar die Sicherheit von ausländischem Personal und Diplomaten in der ukrainischen Hauptstadt. Sie verdeutlicht die Eskalation der militärischen Auseinandersetzungen und die fortgesetzte Bedrohung urbaner Zentren.",
+    "s": "Russland hat erneut an in Kiew anwesende Diplomaten und Ausländer appelliert, die Stadt zu verlassen. Das Land kündigte an, dass seine Streitkräfte weiterhin massive Vergeltungsangriffe auf die ukrainische Hauptstadt durchführen werden. Das Ultimatum beziehungsweise die Warnung verdeutlicht die anhaltende Bedrohung für Zivilisten und diplomatische Vertretungen vor Ort.",
+    "m": "Die russischen Behörden begründeten die erneute Warnung mit der Fortsetzung von massiven Vergeltungsangriffen auf Kiew. Betroffen von diesem Appell sind explizit alle ausländischen Staatsbürger sowie akkreditierte Diplomaten in der ukrainischen Hauptstadt. Bislang gibt es keine offiziellen Angaben darüber, in welchem konkreten Zeitfenster diese Evakuierung erfolgen soll oder welche konkreten Ziele die russischen Streitkräfte ins Visier nehmen. Die internationale Gemeinschaft und betroffene Staaten beobachten die Lage mit großer Sorge, während diplomatische Vertretungen über mögliche Schutzmaßnahmen beraten. Die ukrainische Seite hat auf diese jüngste Drohung bisher nicht detailliert reagiert, verurteilt jedoch generell die Angriffe auf zivile und städtische Infrastruktur. Offen bleibt, wie viele ausländische Diplomaten der Aufforderung nachkommen werden.",
+    "r": "Die Warnung Russlands betrifft die Sicherheit von Diplomaten und ausländischen Staatsangehörigen in einer akut umkämpften Konfliktregion. Sie verdeutlicht die Eskalation der Angriffe auf die ukrainische Hauptstadt.",
     "srcs": [
       {
         "name": "RTP Mundo",
@@ -1992,15 +2391,11 @@
       }
     ],
     "url": "https://www.rtp.pt/noticias/mundo/russia-avisa-diplomatas-e-estrangeiros-para-abandonarem-kiev_n1769331",
-    "agree": "Beide Quellen berichten übereinstimmend darüber, dass Russland Diplomaten und Ausländer aufgefordert hat, Kiew zu verlassen, und mit massiven Vergeltungsangriffen droht.",
+    "agree": "Beide Quellen stimmen überein, dass Russland Diplomaten und Ausländer dazu aufgefordert hat, Kiew zu verlassen und mit weiteren Angriffen droht.",
     "diff": [
       {
-        "name": "RTP Mundo",
-        "note": "Berichtet direkt über die russische Warnung und die Ankündigung von Massenangriffen auf Kiew."
-      },
-      {
         "name": "Google News Portugal",
-        "note": "Teilt die Meldung als Verweis auf RTP und enthält zusätzlichen HTML-Code im Text."
+        "note": "Enthält lediglich den Verweis auf den RTP-Artikel inklusive HTML-Code und bietet keine zusätzlichen eigenständigen Fakten."
       }
     ],
     "chg": "",
@@ -2171,10 +2566,10 @@
     "p": 2,
     "st": "RP",
     "city": "",
-    "t": "Grosse Lego-Ausstellung im Historischen Museum der Pfalz in Speyer eröffnet",
-    "s": "Im Historischen Museum der Pfalz in Speyer hat eine neue Lego-Ausstellung ihre Tore geöffnet. Gezeigt werden detailreiche Modelle von bekannten Bauwerken und Schauplätzen aus der Region. Neben der Ausstellung gibt es für die Besucher auch Mitmach-Bereiche zum Selberbauen.",
-    "m": "Die Ausstellung im Historischen Museum der Pfalz in Speyer präsentiert den Besuchern aufwendige und detailgetreue Lego-Modelle. Zu den besonderen Exponaten gehören unter anderem originalgetreue Nachbauten des Speyerer Doms sowie der berühmten Nürburgring-Rennstrecke. Die Präsentation richtet sich an Familien, Lego-Fans und Kulturinteressierte gleichermassen. Neben dem Betrachten der fertigen Bauwerke ist auch für aktive Betätigung gesorgt, da Besucher vor Ort selbst kreativ werden und mit Lego-Steinen bauen können. Das Museum erhofft sich durch die interaktive Schau einen grossen Andrang von Gästen aus der Region und darüber hinaus. Bisher wurden keine konkreten Besucherzahlen zum Start oder eine Laufzeit der Ausstellung genannt.",
-    "r": "Die Ausstellung verbindet regionale Sehenswürdigkeiten mit einem populären Spielzeug und bietet durch Mitmach-Angebote einen kulturellen und Freizeitaspekt für die Region. Das Ereignis ist vor allem für Kultur- und Freizeitinteressierte von Bedeutung.",
+    "t": "Große Lego-Ausstellung im Historischen Museum der Pfalz in Speyer eröffnet",
+    "s": "Im Historischen Museum der Pfalz in Speyer wurde eine neue Lego-Ausstellung eröffnet. Die Schau zeigt detailreiche Modelle bekannter Bauwerke und Orte. Besucherinnen und Besucher haben vor Ort zudem die Möglichkeit, selbst mit Lego-Steinen zu bauen.",
+    "m": "Die Ausstellung im Museum der Pfalz in Speyer präsentiert den Besucherinnen und Besuchern eine Vielzahl detailreicher Lego-Modelle. Zu den besonderen Exponaten zählen unter anderem Nachbauten des Speyerer Doms sowie der Nürburgring-Rennstrecke. Neben dem Betrachten der aufwendigen Ausstellungsstücke ist auch für Mitmachaktionen gesorgt, bei denen Gäste selbst kreative Bauwerke aus Lego-Steinen errichten können. Die Veranstaltung richtet sich an Familien, Lego-Fans und Kulturinteressierte gleichermaßen. Das Museum erhofft sich durch die interaktive Ausstellung zahlreiche Besucher aus der Region und darüber hinaus. Weitere Details zum genauen Enddatum der Ausstellung oder zur Anzahl der verbauten Steine wurden in den Berichten nicht genannt.",
+    "r": "Die Ausstellung bietet ein neues kulturelles und interaktives Angebot für Besucher in Speyer. Sie verbindet regionale Sehenswürdigkeiten wie den Dom mit populären Modellen wie der Nürburgring-Rennstrecke.",
     "srcs": [
       {
         "name": "SWR Aktuell",
@@ -2188,17 +2583,8 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/rheinland-pfalz/ludwigshafen/spielen-bauen-staunen-in-der-lego-ausstellung-speyer-100.html",
-    "agree": "Beide Quellen stimmen darin überein, dass im Historischen Museum der Pfalz in Speyer eine grosse Lego-Ausstellung mit detailreichen Modellen des Doms und der Nürburgring-Rennstrecke eröffnet wurde und Besucher dort selbst mit Legos bauen dürfen.",
-    "diff": [
-      {
-        "name": "SWR Aktuell",
-        "note": "Berichtet in gleicher Weise wie die andere Quelle über die Eröffnung der Lego-Ausstellung mit Dom- und Nürburgring-Modellen sowie den Mitmach-Möglichkeiten."
-      },
-      {
-        "name": "Tagesschau Regional Rheinland-Pfalz",
-        "note": "Enthält wortgleich dieselben Informationen wie die SWR-Meldung zur Ausstellungseröffnung."
-      }
-    ],
+    "agree": "Beide Quellen berichten übereinstimmend über die Eröffnung einer großen Lego-Ausstellung im Historischen Museum der Pfalz in Speyer, die detailreiche Modelle des Doms und der Nürburgring-Rennstrecke zeigt sowie Mitmachmöglichkeiten für Besucher bietet.",
+    "diff": [],
     "chg": "",
     "independent": 2
   },
@@ -2328,13 +2714,13 @@
     "k": "wirtschaft",
     "lang": "de",
     "d": "2026-10-03T09:17:32.000Z",
-    "p": 2,
+    "p": 3,
     "st": "",
     "city": "",
     "t": "Polens Spritpreisbremse tritt in Kraft und senkt Benzinpreise",
-    "s": "In Polen ist eine Spritpreisbremse in Kraft getreten, die das Tanken von Benzin und Diesel deutlich günstiger macht. Autofahrer zahlen nun rund 1,54 Euro pro Liter. Möglich wurde diese Maßnahme durch eine neu eingeführte Übergewinnsteuer für Mineralölkonzerne. In Deutschland wird eine solche Steuer hingegen von der CDU abgelehnt.",
-    "m": "Die polnische Regierung hat eine Spritpreisbremse eingeführt, um Autofahrer angesichts hoher Energiekosten zu entlasten. Finanziert wird dieser Schritt über eine gezielte Übergewinnsteuer, die von den Mineralölkonzernen erhoben wird. Durch diese Kombination sanken die Kraftstoffpreise in Polen spürbar auf aktuell rund 1,54 Euro pro Liter. Das Modell sorgt auch in der deutschen Politik für Debatten. Während Befürworter in der Einführung einer Übergewinnsteuer ein wirksames Mittel zur Entlastung der Verbraucher sehen, lehnt die CDU in Deutschland ein solches Instrument kategorisch ab. Offen bleibt, ob Polen das Modell langfristig aufrechterhalten kann und wie sich die Maßnahme auf die Gewinnmargen der betroffenen Energiekonzerne auswirkt.",
-    "r": "Die Maßnahme zeigt einen konkreten politischen Ansatz zur Senkung von Kraftstoffpreisen, der international und auch in der deutschen Parteienlandschaft kontrovers diskutiert wird. Die konkreten Auswirkungen auf die Verbraucherpreise in Polen sind direkt spürbar.",
+    "s": "In Polen ist eine Spritpreisbremse in Kraft getreten, die das Tanken deutlich günstiger macht. Finanziert wird diese Maßnahme durch eine neu eingeführte Übergewinnsteuer für Mineralölkonzerne. Das Modell sorgt auch in der deutschen Politik für Diskussionen, da die CDU eine solche Steuer ablehnt.",
+    "m": "Die Einführung der Spritpreisbremse in Polen hat zu spürbaren Preissenkungen für Benzin und Diesel geführt, wobei der Preis an den Zapfsäulen nun bei rund 1,54 Euro liegt. Ermöglicht wurde dieser Schritt durch die Erhebung einer Übergewinnsteuer, die gezielt auf die Gewinne von Mineralölkonzernen abzielt. Diese finanzielle Entlastung der Autofahrer in Polen steht im direkten Kontrast zur Situation in Deutschland. Hierzulande wird eine entsprechende Übergewinnsteuer von der CDU strikt abgelehnt, was die Maßnahme zu einem Politikum im europäischen Vergleich macht. Die genauen langfristigen Auswirkungen auf die Versorgungssicherheit und die Gewinnmargen der Konzerne bleiben vorerst abzuwarten.",
+    "r": "Die Maßnahme zeigt einen alternativen politischen Umgang mit hohen Energiepreisen in Europa und liefert neuen Zündstoff für die politische Debatte in Deutschland über eine mögliche Übergewinnsteuer für Mineralölkonzerne.",
     "srcs": [
       {
         "name": "Frankfurter Allgemeine",
@@ -2348,15 +2734,15 @@
       }
     ],
     "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/spritpreisbremse-in-polen-benzin-ab-1-54-euro-accg-201285239.html",
-    "agree": "Die Quellen sind sich einig, dass in Polen eine Spritpreisbremse in Kraft getreten ist, die durch eine Übergewinnsteuer für Mineralölkonzerne finanziert wird.",
+    "agree": "Die Quellen sind sich einig, dass in Polen eine Spritpreisbremse in Kraft getreten ist, die durch eine Übergewinnsteuer für Mineralölkonzerne finanziert wird und das Tanken günstiger macht.",
     "diff": [
       {
         "name": "Frankfurter Allgemeine",
-        "note": "Erwähnt konkret den Preis von 1,54 Euro pro Liter und die Ablehnung der Übergewinnsteuer durch die CDU in Deutschland."
+        "note": "Nennt den konkreten Preis von 1,54 Euro und erwähnt die ablehnende Haltung der CDU in Deutschland zur Übergewinnsteuer."
       },
       {
         "name": "RND",
-        "note": "Berichtet allgemein, dass Benzin und Diesel für Autofahrer deutlich günstiger werden, nennt jedoch keine konkreten Euro-Beträge."
+        "note": "Berichtet, dass Benzin und Diesel für die Autofahrer deutlich günstiger werden."
       }
     ],
     "chg": "",
@@ -13849,47 +14235,6 @@
     "url": "https://www.tagesschau.de/inland/innenpolitik/rentensystem-deutschland-100.html",
     "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
     "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-d5041aeb4b336352",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-09-27T05:17:02.000Z",
-    "p": 4,
-    "st": "BY",
-    "city": "",
-    "t": "Erstes direktes Treffen zwischen Wadephul und Lawrow seit Kriegsbeginn",
-    "s": "Außenminister Wadephul hat sich in New York überraschend mit dem russischen Amtskollegen Lawrow getroffen. Es handelt sich um das erste direkte Gespräch zwischen Berlin und Moskau seit Beginn des Ukraine-Kriegs. Beide Seiten sind sich bei dem Treffen offenbar nicht nähergekommen.",
-    "m": "Das überraschende Treffen fand in New York statt und markiert den ersten direkten Austausch zwischen einem deutschen Chefdiplomaten und dem russischen Außenminister seit dem Beginn des russischen Überfalls auf die Ukraine. Trotz des Gesprächs gibt es weiterhin keine Annäherung zwischen Berlin und Moskau. Nähere Details zum genauen zeitlichen Ablauf oder konkreten Inhalten der Unterredung nennen die Quellen nicht.",
-    "r": "Das Treffen ist von hoher politischer Relevanz, da es den ersten direkten diplomatischen Kontakt auf dieser Ebene zwischen Deutschland und Russland seit Ausbruch des Krieges in der Ukraine darstellt.",
-    "srcs": [
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/weiter-uneins-wadephul-trifft-russischen-amtskollegen-lawrow,VWOGufo",
-        "date": "2026-09-27T05:17:02.000Z"
-      },
-      {
-        "name": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/ausland/europa/wadephul-treffen-lawrow-100.html",
-        "date": "2026-09-26T19:15:01.000Z"
-      }
-    ],
-    "url": "https://www.br.de/nachrichten/deutschland-welt/weiter-uneins-wadephul-trifft-russischen-amtskollegen-lawrow,VWOGufo",
-    "agree": "Beide Quellen stimmen darin überein, dass sich Außenminister Wadephul und der russische Amtskollege Lawrow überraschend in New York getroffen haben und dies das erste direkte Gespräch seit Beginn des Ukraine-Kriegs ist.",
-    "diff": [
-      {
-        "name": "BR24 Bayern",
-        "note": "Erwähnt zusätzlich, dass man sich bei dem Treffen offenbar nicht nähergekommen ist."
-      },
-      {
-        "name": "SWR Aktuell",
-        "note": "Beschreibt das Treffen als kurz."
-      }
-    ],
     "chg": "",
     "independent": 2
   }
