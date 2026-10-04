@@ -1,5 +1,128 @@
 [
   {
+    "id": "story-139343708da43ac9",
+    "c": "INT",
+    "o": "PT",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-09-27T21:00:47.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Wohnimmobilien in Portugal im zweiten Quartal überwiegend von Inländern gekauft",
+    "s": "Zwischen April und Juni wurden mehr als 95 Prozent der Häuser in Portugal von inländischen Familien gekauft. Im Vergleich zum Vorjahr erwarben sie zwar weniger Immobilien, gaben dafür jedoch mehr Geld aus. Der Anteil ausländischer Käufer sank auf unter fünf Prozent.",
+    "m": "Die aktuellen Daten zum portugiesischen Immobilienmarkt für den Zeitraum von April bis Juni zeigen eine deutliche Dominanz inländischer Käufer. Über 95 Prozent der Transaktionen wurden von Personen abgewickelt, die ihren Wohnsitz in Portugal haben. Obwohl im Vergleich zum Vorjahr ein Rückgang bei der Anzahl der erworbenen Häuser verzeichnet wurde, stiegen die Gesamtausgaben für diese Käufe an. Gleichzeitig machten ausländische Investoren und Käufer weniger als fünf Prozent der Transaktionen aus. Diese Entwicklung markiert eine Verschiebung der Marktanteile hin zu den ansässigen Bürgern.",
+    "r": "Die Analyse des portugiesischen Immobilienmarktes zeigt veränderte Käuferstrukturen mit einem starken Überhang an inländischen Transaktionen trotz sinkender Kaufraten und steigender Ausgaben.",
+    "srcs": [
+      {
+        "name": "RTP Economia",
+        "url": "https://www.rtp.pt/noticias/economia/casas-portuguesas-tem-sido-compradas-por-residentes-no-pais_v1768081",
+        "date": "2026-09-27T21:00:47.000Z"
+      },
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeDdUeEZUSEh6LUI5Q2NvTHUtdGs5MDQ3eDBFd1Y0OUhiSFF0a3ktU3JLZ1dxR2FyUHA1QV83TTBvdzBSWFpFUW1JZWJ5Q1pxc2pOd1FCOTZmUUpJMGtJTWsyNG4xZkxQNmlRS0VpVVdET1F0UUR4WmFkYThMOF9uaW1kQ09jSVU3STFNRlN2dmR3WHBoNVJudS1rYTVxNF82T1FYMDBMc3o?oc=5",
+        "date": "2026-09-27T20:00:47.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/economia/casas-portuguesas-tem-sido-compradas-por-residentes-no-pais_v1768081",
+    "agree": "Die Quellen stimmen überein, dass der überwiegende Teil der Häuser in Portugal von Inländern gekauft wurde.",
+    "diff": [
+      {
+        "name": "RTP Economia",
+        "note": "Berichtet, dass über 95 Prozent der Häuser zwischen April und Juni von Inländern gekauft wurden, weniger Häuser als 2025 bei höheren Ausgaben erworben wurden und Ausländer weniger als 5 Prozent ausmachten."
+      },
+      {
+        "name": "Google News Portugal",
+        "note": "Liefert nur eine Kurzüberschrift mit Verweis auf RTP und erwähnt zusätzlich einen Alívio nos comb."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-32b1955fac86ece6",
+    "c": "INT",
+    "o": "PT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-27T19:04:47.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Wahlen in São Tomé und Príncipe verlaufen ruhig",
+    "s": "In São Tomé und Príncipe haben Wahlen zur Bestimmung der Regierung und der Bürgermeister stattgerufen. Mehr als 140.000 Wahlberechtigte sind zur Stimmabgabe aufgerufen. Die Abstimmung verläuft nach Angaben der EU-Wahlbeobachter bislang ruhig.",
+    "m": "Die Wahlen in dem Inselstaat São Tomé und Príncipe sind von den Behörden und Beobachtern als ruhig und geordnet beschrieben worden. Mehr als 140.000 registrierte Eleitores sind dazu aufgerufen, über die Zusammensetzung der künftigen Regierung sowie über die Präsidenten der Kammern abzustimmen. Die EU-Wahlbeobachtungsmission hat nach einem ersten vorläufigen Blick ein positives Fazit des bisherigen Verlaufs gezogen. Die Stimmabgabe findet im Rahmen eines demokratischen Prozesses statt, dessen Endergebnisse für die kommenden Tage erwartet werden. Nähere Details zur genauen Sitzverteilung oder zu den konkreten Kandidaten wurden in den Berichten nicht genannt.",
+    "r": "Die Meldung ist relevant, da sie demokratische Wahlen in einem souveränen Staat und die Einschätzung internationaler Beobachter dokumentiert.",
+    "srcs": [
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/mundo/sao-tome-e-principe-vai-a-eleicoes_v1768070",
+        "date": "2026-09-27T19:04:47.000Z"
+      },
+      {
+        "name": "RTP Mundo",
+        "url": "https://www.rtp.pt/noticias/mundo/eleicoes-em-sao-tome-e-principe-decorrem-com-tranquilidade_v1768041",
+        "date": "2026-09-27T14:57:47.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/mundo/sao-tome-e-principe-vai-a-eleicoes_v1768070",
+    "agree": "Die Quellen stimmen darin überein, dass die Wahlen in São Tomé und Príncipe stattfinden oder stattgefunden haben und dabei friedlich verlaufen.",
+    "diff": [
+      {
+        "name": "RTP Notícias",
+        "note": "Berichtet über das erste positive Balancieren der EU-Wahlbeobachtungsmission."
+      },
+      {
+        "name": "RTP Mundo",
+        "note": "Nennt die genaue Zahl von mehr als 140.000 Wahlberechtigten und den Gegenstand der Wahl (Regierung und Bürgermeister)."
+      }
+    ],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-7c2e5c82e219253b",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-09-27T18:55:47.000Z",
+    "p": 2,
+    "st": "NI",
+    "city": "",
+    "t": "Thorsten Kornblum gewinnt Stichwahl und bleibt Oberbürgermeister von Braunschweig",
+    "s": "In Braunschweig hat die Stichwahl um das Amt des Oberbürgermeisters stattgefunden. Amtsinhaber Thorsten Kornblum von der SPD konnte sich dabei deutlich durchsetzen. Die Wahllokale sind inzwischen geschlossen und die Stimmen ausgezählt.",
+    "m": "Bei der Stichwahl in Braunschweig ist der bisherige Oberbürgermeister Thorsten Kornblum im Amt bestätigt worden. Der SPD-Politiker gewann die Wahl mit einem sehr deutlichen Ergebnis von gut 75 Prozent der Stimmen. Die Abstimmung fand im Rahmen der Kommunalwahl in Niedersachsen statt. Nach Schließung der Wahllokale stand der Sieger rasch fest. Kornblum wird damit seine Arbeit an der Spitze der Stadt fortsetzen. Weitere Details zum genauen Verlauf des Wahlabends oder zur Wahlbeteiligung wurden in den Berichten nicht genannt.",
+    "r": "Die Wiederwahl des Oberbürgermeisters einer großen niedersächsischen Stadt ist für die kommunalpolitische Landschaft von Bedeutung. Sie bestimmt die politische Führung und Ausrichtung der Stadt Braunschweig für die kommenden Jahre.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Niedersachsen",
+        "url": "https://www.ndr.de/nachrichten/niedersachsen/kommunalwahl/ob-wahl-in-braunschweig-kornblum-bleibt-im-amt,kommunalwahl-458.html",
+        "date": "2026-09-27T18:55:47.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/lokales/niedersachsen/braunschweig/stichwahl-in-braunschweig-kornblum-gewinnt-deutlich-und-bleibt-ob-4XEEZRON7ZBSDAKHG5EIOML5GU.html",
+        "date": "2026-09-27T18:54:30.000Z"
+      }
+    ],
+    "url": "https://www.ndr.de/nachrichten/niedersachsen/kommunalwahl/ob-wahl-in-braunschweig-kornblum-bleibt-im-amt,kommunalwahl-458.html",
+    "agree": "Die Quellen stimmen überein, dass in Braunschweig eine Stichwahl um das Amt des Oberbürgermeisters stattgefunden hat und Thorsten Kornblum diese gewonnen hat.",
+    "diff": [
+      {
+        "name": "Tagesschau Regional Niedersachsen",
+        "note": "nennt das genaue Wahlergebnis mit gut 75 Prozent für den Sieger."
+      },
+      {
+        "name": "RND",
+        "note": "erwähnt ergänzend die geschlossenen Wahllokale und verweist auf Ergebnis-Grafiken."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-0dc7855093f0fce9",
     "c": "DE",
     "o": "DE",
