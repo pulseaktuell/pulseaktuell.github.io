@@ -1,63 +1,99 @@
 [
   {
-    "id": "story-75",
-    "topic": "politik",
+    "id": "story-225",
+    "topic": "panorama",
     "country": "DE",
     "stateHint": "",
-    "date": "2026-10-06T14:00:24.000Z",
+    "date": "2026-10-06T17:56:01.000Z",
+    "sources": [
+      {
+        "source": "t-online Panorama",
+        "url": "https://www.t-online.de/nachrichten/panorama/gesellschaft/id_101469294/usa-masern-in-bundesstaat-new-york-gouverneurin-ruft-notstand-aus.html",
+        "date": "2026-10-06T17:56:01.000Z",
+        "snippet": "Die Behörden im US-Bundesstaat New York zählen immer mehr Masern-Fälle. Die Gouverneurin will mit speziellen Maßnahmen gegensteuern.",
+        "title": "USA: Masern in Bundesstaat New York – Gouverneurin ruft Notstand aus"
+      },
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/us-bundesstaat-new-york-gouverneurin-ruft-masern-notstand-aus-a-ad44bb61-510a-482a-a50c-bdc1a79e8fda#ref=rss",
+        "date": "2026-10-06T17:30:00.000Z",
+        "snippet": "Die USA erleben die höchsten Masern-Infektionszahlen seit Jahrzehnten. Nun hat die Gouverneurin des Bundesstaats New York, Kathy Hochul, den Notstand ausgerufen.",
+        "title": "US-Bundesstaat New York: Gouverneurin ruft Masern-Notstand aus"
+      },
+      {
+        "source": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/gesellschaft/gesundheit/masern-notstand-in-new-york-kathy-hochul-greift-durch-201292875.html",
+        "date": "2026-10-06T15:02:27.000Z",
+        "snippet": "Die Vereinigten Staaten erleben den heftigsten Masernausbruch seit 1991. In New York hat die Gouverneurin nun reagiert.",
+        "title": "MasernAusbruch in den USA: Gouverneurin von New York ruft Notstand wegen Masern aus"
+      }
+    ],
+    "title": "USA: Masern in Bundesstaat New York – Gouverneurin ruft Notstand aus",
+    "summary": "USA: Masern in Bundesstaat New York – Gouverneurin ruft Notstand aus Die Behörden im US-Bundesstaat New York zählen immer mehr Masern-Fälle. Die Gouverneurin will mit speziellen Maßnahmen gegensteuern.\nUS-Bundesstaat New York: Gouverneurin ruft Masern-Notstand aus Die USA erleben die höchsten Masern-Infektionszahlen seit Jahrzehnten. Nun hat die Gouverneurin des Bundesstaats New York, Kathy Hochul, den Notstand ausgerufen.\nMasernAusbruch in den USA: Gouverneurin von New York ruft Notstand wegen Masern aus Die Vereinigten Staaten erleben den heftigsten Masernausbruch seit 1991. In New York hat die Gouverneurin nun reagiert."
+  },
+  {
+    "id": "story-14",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "HE",
+    "date": "2026-10-06T19:23:58.000Z",
+    "sources": [
+      {
+        "source": "RND",
+        "url": "https://www.rnd.de/panorama/passagier-randaliert-waehrend-lufthansa-flug-und-ruettelt-an-der-tuer-HNN445EC3RAABMKKOSJXWS7TLU.html",
+        "date": "2026-10-06T19:23:58.000Z",
+        "snippet": "Ein 33-Jähriger fällt während eines Lufthansa-Fluges mit aggressivem Verhalten auf. Das Bordpersonal und Passagiere greifen ein.",
+        "title": "Passagier randaliert während Lufthansa-Flug und rüttelt an der Tür"
+      },
+      {
+        "source": "Tagesschau Regional Hessen",
+        "url": "https://www.tagesschau.de/inland/regional/hessen/hr-passagier-randaliert-waehrend-flug-und-ruettelt-an-tuer-100.html",
+        "date": "2026-10-06T15:50:17.000Z",
+        "snippet": "Während eines Lufthansa-Fluges vom kolumbianischen Bogotá nach Frankfurt hat ein Passagier randaliert. Bordpersonal und andere Passagiere hielten den Mann davon ab, weiter an der Flugzeugtür zu rütteln.",
+        "title": "Passagier randaliert während Flug nach Frankfurt und rüttelt an Tür"
+      }
+    ],
+    "title": "Passagier randaliert während Lufthansa-Flug und rüttelt an der Tür",
+    "summary": "Passagier randaliert während Lufthansa-Flug und rüttelt an der Tür Ein 33-Jähriger fällt während eines Lufthansa-Fluges mit aggressivem Verhalten auf. Das Bordpersonal und Passagiere greifen ein.\nPassagier randaliert während Flug nach Frankfurt und rüttelt an Tür Während eines Lufthansa-Fluges vom kolumbianischen Bogotá nach Frankfurt hat ein Passagier randaliert. Bordpersonal und andere Passagiere hielten den Mann davon ab, weiter an der Flugzeugtür zu rütteln."
+  },
+  {
+    "id": "story-25",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-06T19:23:20.000Z",
     "sources": [
       {
         "source": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/afd-politiker-rausch-zum-landtagspraesidenten-gewaehlt-102.html",
-        "date": "2026-10-06T14:00:24.000Z",
-        "snippet": "Der AfD-Politiker Rausch ist zum Präsidenten des Landtags von Sachsen-Anhalt gewählt worden. Er erhielt in geheimer Wahl 48 Stimmen. Es gab 29 Nein-Stimmen und fünf Enthaltungen. Damit votierten neun Abgeordnete mehr für ihn, als seine Partei Mandate hat. Das BSW, das über fünf Mandate verfügt, hatte angekündigt, Rausch zu wählen.",
-        "title": "Sachsen-Anhalt - AfD-Politiker Rausch zum Landtagspräsidenten gewählt"
+        "url": "https://www.deutschlandfunk.de/ex-bnd-chef-hanning-wegen-spionageverdachts-festgenommen-rufe-nach-konsequenzen-100.html",
+        "date": "2026-10-06T19:23:20.000Z",
+        "snippet": "Der frühere Chef des Bundesnachrichtendienstes, Hanning, ist wegen Spionageverdachts festgenommen worden. Wie der Generalbundesanwalt mitteilte, wird Hanning unter anderem des versuchten Landesverrats und der geheimdienstlichen Agententätigkeit verdächtigt.",
+        "title": "Geheimdienste - Ex-BND-Chef Hanning wegen Spionageverdachts festgenommen, Rufe nach Konsequenzen"
       },
       {
-        "source": "DW Deutsch",
-        "url": "https://www.dw.com/de/afd-politiker-rausch-wird-landtagspräsident-in-sachsen-anhalt/a-79560231?maca=de-rss-de-all-1119-xml-mrss",
-        "date": "2026-10-06T12:36:00.000Z",
-        "snippet": "Zum ersten Mal seit dem Kriegsende hat ein deutscher Landtag in geheimer Wahl einen Präsidenten vom äußersten rechten Rand gewählt: Tobias Rausch von der AfD.",
-        "title": "AfD-Politiker Rausch wird Landtagspräsident in Sachsen-Anhalt"
-      },
-      {
-        "source": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/inland/innenpolitik/landtagspraesident-sachsen-anhalt-102.html",
-        "date": "2026-10-06T12:00:03.000Z",
-        "snippet": "Tobias Rausch ist neuer Landtagspräsident in Sachsen-Anhalt. Der 35-Jährige wurde im ersten Wahlgang in das höchste Amt des Bundeslandes gewählt. Damit stellt die AfD erstmals in …",
-        "title": "AfD-Politiker Rausch zum Landtagspräsidenten gewählt"
-      },
-      {
-        "source": "RND",
-        "url": "https://www.rnd.de/politik/ticker-nach-sachsen-anhalt-wahl-afd-politiker-tobias-rausch-zum-landtagspraesidenten-gewaehlt-FIYFNEZ6YVADLGXIQVNC3OGBBU.html",
-        "date": "2026-10-06T11:11:29.000Z",
-        "snippet": "Der Landtag von Sachsen-Anhalt tritt zum ersten Mal nach der Wahl zusammen. Bei der konstituierenden Sitzung ist Tobias Rausch zum Landtagspräsidenten gewählt worden. Damit steht erstmals ein AfD-Politiker an der Spitze eines deutschen Landesparlaments. Verfolgen Sie alle Entwicklungen hier im Liveticker.",
-        "title": "Ticker nach Sachsen-Anhalt-Wahl: AfD-Politiker Tobias Rausch zum Landtagspräsidenten gewählt"
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaEY5UUZFMHNKQnZsdFRSa0Z6Qkx5NnE4Zy11SDVBMGxiSV96MWFTQnU4Q2VGY1VXQkxDNDk2Sjg0cTVQZ21PZWJOTjhJek9yMmhfUHJRTkhaSEx2WnJ3alhCWm13WktOSi1ocWZnTk16VFlpdjRfWjFJMDNqaFpXRTNNVHl2V081Ul9yMGxYRE9jTFpWWlM3cEF3clV4SlNSR25VTXFSZ01OY0ltRHlxNE1laFpLcUtFZmg4?oc=5",
+        "date": "2026-10-06T17:10:38.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaEY5UUZFMHNKQnZsdFRSa0Z6Qkx5NnE4Zy11SDVBMGxiSV96MWFTQnU4Q2VGY1VXQkxDNDk2Sjg0cTVQZ21PZWJOTjhJek9yMmhfUHJRTkhaSEx2WnJ3alhCWm13WktOSi1ocWZnTk16VFlpdjRfWjFJMDNqaFpXRTNNVHl2V081Ul9yMGxYRE9jTFpWWlM3cEF3clV4SlNSR25VTXFSZ01OY0ltRHlxNE1laFpLcUtFZmg4?oc=5\" target=\"_blank\">Geheimdienste - Ex-BND-Chef Hanning wegen Spionageverdachts festgenommen, Rufe nach Konsequenzen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deutschlandfunk</font></li><li><a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5kYjByUlBiUU5WX0JoQjRtTTdKRjctLS1lSm1yQW9TSHdRQ01zNHpxR1B2LXRpYmN0dkFUUmItaVM2SEZUeHplbDgwNnk4YTNqTDdxRDE2bVRUeTZPSkYzLWJxNm1qZUJ6WHNTbU1XdERi",
+        "title": "Geheimdienste - Ex-BND-Chef Hanning wegen Spionageverdachts festgenommen, Rufe nach Konsequenzen - Deutschlandfunk"
       }
     ],
-    "title": "Sachsen-Anhalt - AfD-Politiker Rausch zum Landtagspräsidenten gewählt",
-    "summary": "Sachsen-Anhalt - AfD-Politiker Rausch zum Landtagspräsidenten gewählt Der AfD-Politiker Rausch ist zum Präsidenten des Landtags von Sachsen-Anhalt gewählt worden. Er erhielt in geheimer Wahl 48 Stimmen. Es gab 29 Nein-Stimmen und fünf Enthaltungen. Damit votierten neun Abgeordnete mehr für ihn, als seine Partei Mandate hat. Das BSW, das über fünf Mandate verfügt, hatte angekündigt, Rausch zu wählen.\nAfD-Politiker Rausch wird Landtagspräsident in Sachsen-Anhalt Zum ersten Mal seit dem Kriegsende hat ein deutscher Landtag in geheimer Wahl einen Präsidenten vom äußersten rechten Rand gewählt: Tobias Rausch von der AfD.\nAfD-Politiker Rausch zum Landtagspräsidenten gewählt Tobias Rausch ist neuer Landtagspräsident in Sachsen-Anhalt. Der 35-Jährige wurde im ersten Wahlgang in das höchste Amt des Bundeslandes gewählt. Damit stellt die AfD erstmals in …\nTicker nach Sachsen-Anhalt-Wahl: AfD-Politiker Tobias Rausch zum Landtagspräsidenten gewählt Der Landtag von Sachsen-Anhalt tritt zum ersten Mal nach der Wahl zusammen. Bei der konstituierenden Sitzung ist Tobias Rausch zum Landtagspräsidenten gewählt worden. Damit steht erstmals ein AfD-Politiker an der Spitze eines deutschen Landesparlaments. Verfolgen Sie alle Entwicklungen hier im Liveticker."
+    "title": "Geheimdienste - Ex-BND-Chef Hanning wegen Spionageverdachts festgenommen, Rufe nach Konsequenzen",
+    "summary": "Geheimdienste - Ex-BND-Chef Hanning wegen Spionageverdachts festgenommen, Rufe nach Konsequenzen Der frühere Chef des Bundesnachrichtendienstes, Hanning, ist wegen Spionageverdachts festgenommen worden. Wie der Generalbundesanwalt mitteilte, wird Hanning unter anderem des versuchten Landesverrats und der geheimdienstlichen Agententätigkeit verdächtigt.\nGeheimdienste - Ex-BND-Chef Hanning wegen Spionageverdachts festgenommen, Rufe nach Konsequenzen - Deutschlandfunk <ol><li><a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaEY5UUZFMHNKQnZsdFRSa0Z6Qkx5NnE4Zy11SDVBMGxiSV96MWFTQnU4Q2VGY1VXQkxDNDk2Sjg0cTVQZ21PZWJOTjhJek9yMmhfUHJRTkhaSEx2WnJ3alhCWm13WktOSi1ocWZnTk16VFlpdjRfWjFJMDNqaFpXRTNNVHl2V081Ul9yMGxYRE9jTFpWWlM3cEF3clV4SlNSR25VTXFSZ01OY0ltRHlxNE1laFpLcUtFZmg4?oc=5\" target=\"_blank\">Geheimdienste - Ex-BND-Chef Hanning wegen Spionageverdachts festgenommen, Rufe nach Konsequenzen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deutschlandfunk</font></li><li><a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5kYjByUlBiUU5WX0JoQjRtTTdKRjctLS1lSm1yQW9TSHdRQ01zNHpxR1B2LXRpYmN0dkFUUmItaVM2SEZUeHplbDgwNnk4YTNqTDdxRDE2bVRUeTZPSkYzLWJxNm1qZUJ6WHNTbU1XdERi"
   },
   {
-    "id": "story-82",
+    "id": "story-29",
     "topic": "wissenschaft",
     "country": "DE",
     "stateHint": "",
-    "date": "2026-10-06T14:00:24.000Z",
+    "date": "2026-10-06T19:23:20.000Z",
     "sources": [
       {
         "source": "Deutschlandfunk Nachrichten",
         "url": "https://www.deutschlandfunk.de/physik-nobelpreis-an-neutrinoforscher-francis-halzen-100.html",
-        "date": "2026-10-06T14:00:24.000Z",
+        "date": "2026-10-06T19:23:20.000Z",
         "snippet": "Der Nobelpreis für Physik geht in diesem Jahr an den belgisch-US-amerikanischen Teilchenforscher Francis Halzen. Er wird für seine entscheidenden Beiträge zum Neutrino-Observatorium \"IceCube\" und zur Entdeckung hochenergetischer Neutrinos astrophysikalischen Ursprungs gewürdigt, wie die Königlich-Schwedische Akademie der Wissenschaften in Stockholm mitteilte.",
         "title": "Wissenschaft - Physik-Nobelpreis an Neutrinoforscher Francis Halzen"
-      },
-      {
-        "source": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/wissen/nobelpreis-physik-francis-halzen-100.html",
-        "date": "2026-10-06T13:45:04.000Z",
-        "snippet": "Der Nobelpreis für Physik geht an den belgisch-amerikanischen Forscher Francis Halzen. Der Wissenschaftler erhalte die Auszeichnung für seine Pionierarbeit bei der Erforschung von…",
-        "title": "Physik-Nobelpreis geht an Neutrinoforscher Halzen"
       },
       {
         "source": "Tagesschau",
@@ -65,38 +101,24 @@
         "date": "2026-10-06T13:42:12.000Z",
         "snippet": "Der Nobelpreis für Physik geht an den belgisch-amerikanischen Forscher Francis Halzen. Der Wissenschaftler erhalte die Auszeichnung für seine Pionierarbeit bei der Erforschung von Neutrinos - also Elementarteilchen - am Südpol, wie das Nobelkomitee mitteilte.",
         "title": "Nobelpreis für Physik geht an Neutrinoforscher Francis Halzen"
-      },
-      {
-        "source": "Frankfurter Allgemeine",
-        "url": "https://www.faz.net/aktuell/wissen/physik-mehr/physik-nobelpreis-an-neutrinoforscher-francis-halzen-accg-201292227.html",
-        "date": "2026-10-06T09:53:24.000Z",
-        "snippet": "Der Teilchenforscher Francis Halzen aus den USA habe „den Weg für eine neue Art der Astronomie geebnet“, lobt das Physik-Nobelkomitee.",
-        "title": "Bekanntgabe in Stockholm: Physik-Nobelpreis geht an Neutrinoforscher Francis Halzen"
       }
     ],
     "title": "Wissenschaft - Physik-Nobelpreis an Neutrinoforscher Francis Halzen",
-    "summary": "Wissenschaft - Physik-Nobelpreis an Neutrinoforscher Francis Halzen Der Nobelpreis für Physik geht in diesem Jahr an den belgisch-US-amerikanischen Teilchenforscher Francis Halzen. Er wird für seine entscheidenden Beiträge zum Neutrino-Observatorium \"IceCube\" und zur Entdeckung hochenergetischer Neutrinos astrophysikalischen Ursprungs gewürdigt, wie die Königlich-Schwedische Akademie der Wissenschaften in Stockholm mitteilte.\nPhysik-Nobelpreis geht an Neutrinoforscher Halzen Der Nobelpreis für Physik geht an den belgisch-amerikanischen Forscher Francis Halzen. Der Wissenschaftler erhalte die Auszeichnung für seine Pionierarbeit bei der Erforschung von…\nNobelpreis für Physik geht an Neutrinoforscher Francis Halzen Der Nobelpreis für Physik geht an den belgisch-amerikanischen Forscher Francis Halzen. Der Wissenschaftler erhalte die Auszeichnung für seine Pionierarbeit bei der Erforschung von Neutrinos - also Elementarteilchen - am Südpol, wie das Nobelkomitee mitteilte.\nBekanntgabe in Stockholm: Physik-Nobelpreis geht an Neutrinoforscher Francis Halzen Der Teilchenforscher Francis Halzen aus den USA habe „den Weg für eine neue Art der Astronomie geebnet“, lobt das Physik-Nobelkomitee."
+    "summary": "Wissenschaft - Physik-Nobelpreis an Neutrinoforscher Francis Halzen Der Nobelpreis für Physik geht in diesem Jahr an den belgisch-US-amerikanischen Teilchenforscher Francis Halzen. Er wird für seine entscheidenden Beiträge zum Neutrino-Observatorium \"IceCube\" und zur Entdeckung hochenergetischer Neutrinos astrophysikalischen Ursprungs gewürdigt, wie die Königlich-Schwedische Akademie der Wissenschaften in Stockholm mitteilte.\nNobelpreis für Physik geht an Neutrinoforscher Francis Halzen Der Nobelpreis für Physik geht an den belgisch-amerikanischen Forscher Francis Halzen. Der Wissenschaftler erhalte die Auszeichnung für seine Pionierarbeit bei der Erforschung von Neutrinos - also Elementarteilchen - am Südpol, wie das Nobelkomitee mitteilte."
   },
   {
-    "id": "story-86",
+    "id": "story-34",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
-    "date": "2026-10-06T14:00:24.000Z",
+    "date": "2026-10-06T19:23:20.000Z",
     "sources": [
       {
         "source": "Deutschlandfunk Nachrichten",
         "url": "https://www.deutschlandfunk.de/drohnenangriffe-auf-zwei-frachtschiffe-vor-bulgarien-eines-gesunken-crew-vermisst-100.html",
-        "date": "2026-10-06T14:00:24.000Z",
+        "date": "2026-10-06T19:23:20.000Z",
         "snippet": "Im Schwarzen Meer vor der Küste Bulgariens sind zwei Handelsschiffe mit Drohnen angegriffen worden.",
         "title": "Schwarzes Meer - Drohnenangriffe auf zwei Frachtschiffe vor Bulgarien - eines gesunken, Crew vermisst"
-      },
-      {
-        "source": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/ausland/ukraine-krieg-drohnenangriffe-auf-zwei-schiffe-im-schwarzen-meer-vor-bulgarien-eines-sinkt-a-8074922b-835c-419e-be20-97fb6c8ef584#ref=rss",
-        "date": "2026-10-06T12:14:00.000Z",
-        "snippet": "Vor der bulgarischen Küste sind zwei Handelsschiffe angegriffen worden. Die Besatzung eines Frachters wurde teils verletzt gerettet. Bulgariens Regierung hat eine Krisensitzung einberufen.",
-        "title": "Ukraine-Krieg: Drohnenangriffe auf zwei Schiffe im Schwarzen Meer vor Bulgarien – eines sinkt"
       },
       {
         "source": "Tagesschau",
@@ -107,99 +129,685 @@
       }
     ],
     "title": "Schwarzes Meer - Drohnenangriffe auf zwei Frachtschiffe vor Bulgarien - eines gesunken, Crew vermisst",
-    "summary": "Schwarzes Meer - Drohnenangriffe auf zwei Frachtschiffe vor Bulgarien - eines gesunken, Crew vermisst Im Schwarzen Meer vor der Küste Bulgariens sind zwei Handelsschiffe mit Drohnen angegriffen worden.\nUkraine-Krieg: Drohnenangriffe auf zwei Schiffe im Schwarzen Meer vor Bulgarien – eines sinkt Vor der bulgarischen Küste sind zwei Handelsschiffe angegriffen worden. Die Besatzung eines Frachters wurde teils verletzt gerettet. Bulgariens Regierung hat eine Krisensitzung einberufen.\nDrohnenangriffe im Schwarzen Meer: Frachter vor Bulgarien gesunken Wieder sind im Schwarzen Meer Handelsschiffe unter Beschuss geraten - diesmal vor der Küste Bulgariens. Ein Frachter ist gesunken, die Crew wird vermisst. Auf einem weiteren Handelsschiff gab es mehrere Verletzte."
+    "summary": "Schwarzes Meer - Drohnenangriffe auf zwei Frachtschiffe vor Bulgarien - eines gesunken, Crew vermisst Im Schwarzen Meer vor der Küste Bulgariens sind zwei Handelsschiffe mit Drohnen angegriffen worden.\nDrohnenangriffe im Schwarzen Meer: Frachter vor Bulgarien gesunken Wieder sind im Schwarzen Meer Handelsschiffe unter Beschuss geraten - diesmal vor der Küste Bulgariens. Ein Frachter ist gesunken, die Crew wird vermisst. Auf einem weiteren Handelsschiff gab es mehrere Verletzte."
   },
   {
-    "id": "story-250",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "BY",
-    "date": "2026-10-06T13:08:36.000Z",
-    "sources": [
-      {
-        "source": "Süddeutsche Zeitung",
-        "url": "https://www.sueddeutsche.de/politik/landtag-sachsen-anhalt-landtagspraesident-rausch-afd-li.3558847",
-        "date": "2026-10-06T13:08:36.000Z",
-        "snippet": "Der 35-jährige Abgeordnete Tobias Rausch wird in Magdeburg mit überraschend deutlicher Mehrheit in das protokollarisch höchste Amt von Sachsen-Anhalt gewählt: Die Stimmen kamen nicht nur aus den Reihen von AfD und BSW.",
-        "title": "Sachsen-Anhalt: AfD stellt zum ersten Mal Landtagspräsidenten"
-      },
-      {
-        "source": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/sachsen-anhalt-afd-politiker-rausch-wird-landtagspraesident,VXGBMU6",
-        "date": "2026-10-06T11:50:35.000Z",
-        "snippet": "Erstmals in Deutschland stellt die AfD einen Landtagspräsidenten. In Sachsen-Anhalt wurde Tobias Rausch im ersten Wahlgang mit 48 Ja-Stimmen in das höchste Amt des Landes gewählt. Wohin steuert Sachsen-Anhalt? BR24 berichtet live um 16 Uhr.",
-        "title": "Sachsen-Anhalt: Erster AfD-Politiker wird Landtagspräsident"
-      },
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/inland/innenpolitik/landtagspraesident-sachsen-anhalt-102.html",
-        "date": "2026-10-06T11:47:11.000Z",
-        "snippet": "Tobias Rausch ist neuer Landtagspräsident in Sachsen-Anhalt. Der 35-Jährige wurde im ersten Wahlgang in das höchste Amt des Bundeslandes gewählt. Damit stellt die AfD erstmals in Deutschland einen Landtagspräsidenten.",
-        "title": "Bundesweit erster AfD-Landtagspräsident in Sachsen-Anhalt gewählt"
-      }
-    ],
-    "title": "Sachsen-Anhalt: AfD stellt zum ersten Mal Landtagspräsidenten",
-    "summary": "Sachsen-Anhalt: AfD stellt zum ersten Mal Landtagspräsidenten Der 35-jährige Abgeordnete Tobias Rausch wird in Magdeburg mit überraschend deutlicher Mehrheit in das protokollarisch höchste Amt von Sachsen-Anhalt gewählt: Die Stimmen kamen nicht nur aus den Reihen von AfD und BSW.\nSachsen-Anhalt: Erster AfD-Politiker wird Landtagspräsident Erstmals in Deutschland stellt die AfD einen Landtagspräsidenten. In Sachsen-Anhalt wurde Tobias Rausch im ersten Wahlgang mit 48 Ja-Stimmen in das höchste Amt des Landes gewählt. Wohin steuert Sachsen-Anhalt? BR24 berichtet live um 16 Uhr.\nBundesweit erster AfD-Landtagspräsident in Sachsen-Anhalt gewählt Tobias Rausch ist neuer Landtagspräsident in Sachsen-Anhalt. Der 35-Jährige wurde im ersten Wahlgang in das höchste Amt des Bundeslandes gewählt. Damit stellt die AfD erstmals in Deutschland einen Landtagspräsidenten."
-  },
-  {
-    "id": "story-505",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "BY",
-    "date": "2026-10-06T11:18:19.000Z",
-    "sources": [
-      {
-        "source": "Frankfurter Allgemeine",
-        "url": "https://www.faz.net/aktuell/sport/mehr-sport/muenchens-olympia-bewerbung-2036-ioc-gibt-sechs-konkurrenten-bekannt-accg-201292886.html",
-        "date": "2026-10-06T11:18:19.000Z",
-        "snippet": "Nach dem Gewinn des innerdeutschen Entscheids ist die Konkurrenz für München auch international groß. Wer neben der deutschen Bewerbung noch im Rennen um die Sommerspiele 2036 dabei ist.",
-        "title": "Bekanntgabe des IOC: Sechs Konkurrenten für München um Olympia 2036"
-      },
-      {
-        "source": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/sport/ioc-gibt-olympia-bewerber-bekannt-sechs-konkurrenten-fuer-muenchen-um-olympia-2036,VXGLUjI",
-        "date": "2026-10-06T11:06:02.000Z",
-        "snippet": "Die Münchner Bewerbung hat im Rennen um die Sommerspiele 2036 Konkurrenz aus sechs Ländern. Als weitere Kandidaten für Olympia und Paralympics nannte das Internationale Olympische Komitee Katar, Indien, Südkorea, Ungarn, Türkei und Südafrika.",
-        "title": "IOC: Sechs Konkurrenten für München im Kampf um Olympia 2036"
-      },
-      {
-        "source": "RND",
-        "url": "https://www.rnd.de/sport/entscheidung-faellt-2029-sechs-konkurrenten-fuer-muenchen-um-olympia-2036-V3ARIYC37RFU3LLQP67PXXYS4A.html",
-        "date": "2026-10-06T10:31:30.000Z",
-        "snippet": "Die Konkurrenz für München ist groß. Wer neben der deutschen Bewerbung noch im Rennen um die Sommerspiele 2036 dabei ist.",
-        "title": "Entscheidung fällt 2029: Sechs Konkurrenten für München um Olympia 2036"
-      }
-    ],
-    "title": "Bekanntgabe des IOC: Sechs Konkurrenten für München um Olympia 2036",
-    "summary": "Bekanntgabe des IOC: Sechs Konkurrenten für München um Olympia 2036 Nach dem Gewinn des innerdeutschen Entscheids ist die Konkurrenz für München auch international groß. Wer neben der deutschen Bewerbung noch im Rennen um die Sommerspiele 2036 dabei ist.\nIOC: Sechs Konkurrenten für München im Kampf um Olympia 2036 Die Münchner Bewerbung hat im Rennen um die Sommerspiele 2036 Konkurrenz aus sechs Ländern. Als weitere Kandidaten für Olympia und Paralympics nannte das Internationale Olympische Komitee Katar, Indien, Südkorea, Ungarn, Türkei und Südafrika.\nEntscheidung fällt 2029: Sechs Konkurrenten für München um Olympia 2036 Die Konkurrenz für München ist groß. Wer neben der deutschen Bewerbung noch im Rennen um die Sommerspiele 2036 dabei ist."
-  },
-  {
-    "id": "story-54",
+    "id": "story-45",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "",
-    "date": "2026-10-06T14:04:42.000Z",
+    "date": "2026-10-06T19:23:20.000Z",
+    "sources": [
+      {
+        "source": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/britischer-bestsellerautor-jeffrey-archer-im-alter-von-86-jahren-gestorben-102.html",
+        "date": "2026-10-06T19:23:20.000Z",
+        "snippet": "Der britische Bestsellerautor und ehemalige Politiker Jeffrey Archer ist im Alter von 86 Jahren gestorben.",
+        "title": "Literatur - Britischer Bestsellerautor Jeffrey Archer im Alter von 86 Jahren gestorben"
+      },
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/kultur/literatur-tod-jeffreyarcher-100.html",
+        "date": "2026-10-06T07:24:16.000Z",
+        "snippet": "Seinen ersten Roman schrieb Jeffrey Archer, um einer Pleite zu entgehen. Es folgte eine Karriere mit Millionen verkaufter Bücher und weltweit begeisterten Fans. Nun ist der Autor gestorben - nur einen Tag vor Erscheinen seines letzten Werks.",
+        "title": "Bestsellerautor Jeffrey Archer mit 86 Jahren gestorben"
+      }
+    ],
+    "title": "Literatur - Britischer Bestsellerautor Jeffrey Archer im Alter von 86 Jahren gestorben",
+    "summary": "Literatur - Britischer Bestsellerautor Jeffrey Archer im Alter von 86 Jahren gestorben Der britische Bestsellerautor und ehemalige Politiker Jeffrey Archer ist im Alter von 86 Jahren gestorben.\nBestsellerautor Jeffrey Archer mit 86 Jahren gestorben Seinen ersten Roman schrieb Jeffrey Archer, um einer Pleite zu entgehen. Es folgte eine Karriere mit Millionen verkaufter Bücher und weltweit begeisterten Fans. Nun ist der Autor gestorben - nur einen Tag vor Erscheinen seines letzten Werks."
+  },
+  {
+    "id": "story-56",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "MV",
+    "date": "2026-10-06T19:22:51.000Z",
+    "sources": [
+      {
+        "source": "NDR Mecklenburg-Vorpommern",
+        "url": "https://www.ndr.de/fernsehen/sendungen/nordmagazin/ssc-palmberg-schwerin-neue-saison-neue-ziele,nordmagazin-14816.html",
+        "date": "2026-10-06T19:22:51.000Z",
+        "snippet": "Das Pokal-Finale und die Endspiele der deutschen Volleyball-Meisterschaft stehen ganz weit oben auf der Agenda des Teams.",
+        "title": "SSC Palmberg Schwerin: Neue Saison – neue Ziele"
+      },
+      {
+        "source": "Tagesschau Regional Mecklenburg-Vorpommern",
+        "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/der-ssc-palmberg-schwerin-startet-in-die-neue-saison,mvregioschwerin-5984.html",
+        "date": "2026-10-06T19:09:01.000Z",
+        "snippet": "Die Damen vom SSC haben sich viel vorgenommen. Schon am Sonnabend wollen sie in Aachen einen gelungenen Saisonstart feiern.",
+        "title": "Der SSC Palmberg Schwerin startet in die neue Saison"
+      }
+    ],
+    "title": "SSC Palmberg Schwerin: Neue Saison – neue Ziele",
+    "summary": "SSC Palmberg Schwerin: Neue Saison – neue Ziele Das Pokal-Finale und die Endspiele der deutschen Volleyball-Meisterschaft stehen ganz weit oben auf der Agenda des Teams.\nDer SSC Palmberg Schwerin startet in die neue Saison Die Damen vom SSC haben sich viel vorgenommen. Schon am Sonnabend wollen sie in Aachen einen gelungenen Saisonstart feiern."
+  },
+  {
+    "id": "story-57",
+    "topic": "politik",
+    "country": "UK",
+    "stateHint": "",
+    "date": "2026-10-06T19:20:14.000Z",
+    "sources": [
+      {
+        "source": "Guardian World",
+        "url": "https://www.theguardian.com/us-news/live/2026/oct/06/donald-trump-ads-diesel-baltimore-midterms-media-latest-news-updates",
+        "date": "2026-10-06T19:20:14.000Z",
+        "snippet": "<p>‘These allegations are deeply alarming,’ said Senator Alex Padilla, a California Democrat who received a copy of the complaint</p><ul><li><p><a href=\"https://www.theguardian.com/community/live/2026/oct/05/reader-q-a-iran-war-trump-midterms-reporter-answers\">Can the Iran war cost Trump in the US midterm elections? Your questions answered</a></p></li><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for Breaking News US email</a></p></li></ul><p>Two media",
+        "title": "Whistleblower claims Trump ordered FBI to investigate LA anti-ICE protesters – US politics live"
+      },
+      {
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOallkemxnTGxWcUIxWXRnRjg0ZXNtbUZ5ZHNQUDdSRTQ0bnNiR3hZYzJHNlZjd1IxN3NxQkNZZ0lwMkVEakpHX2FNYlV0eDBVM0JkWHM0bWU1UElXc1N0VFhDTU9uYTJtSVp5ZktfVVRlWWFEakdTM0J6SENsV3k3TGMybkVUVEpDNERtb3c1ak5YNzQtblA5cnRRZUI3eGNyZ3MxSzNqeGJUQ0xtS01jcFM3Mm16LTYyanMxYlRR?oc=5",
+        "date": "2026-10-06T10:20:00.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOallkemxnTGxWcUIxWXRnRjg0ZXNtbUZ5ZHNQUDdSRTQ0bnNiR3hZYzJHNlZjd1IxN3NxQkNZZ0lwMkVEakpHX2FNYlV0eDBVM0JkWHM0bWU1UElXc1N0VFhDTU9uYTJtSVp5ZktfVVRlWWFEakdTM0J6SENsV3k3TGMybkVUVEpDNERtb3c1ak5YNzQtblA5cnRRZUI3eGNyZ3MxSzNqeGJUQ0xtS01jcFM3Mm16LTYyanMxYlRR?oc=5\" target=\"_blank\">Whistleblower claims Trump ordered FBI to investigate LA anti-ICE protesters – US politics live</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+        "title": "Whistleblower claims Trump ordered FBI to investigate LA anti-ICE protesters – US politics live - The Guardian"
+      }
+    ],
+    "title": "Whistleblower claims Trump ordered FBI to investigate LA anti-ICE protesters – US politics live",
+    "summary": "Whistleblower claims Trump ordered FBI to investigate LA anti-ICE protesters – US politics live <p>‘These allegations are deeply alarming,’ said Senator Alex Padilla, a California Democrat who received a copy of the complaint</p><ul><li><p><a href=\"https://www.theguardian.com/community/live/2026/oct/05/reader-q-a-iran-war-trump-midterms-reporter-answers\">Can the Iran war cost Trump in the US midterm elections? Your questions answered</a></p></li><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for Breaking News US email</a></p></li></ul><p>Two media\nWhistleblower claims Trump ordered FBI to investigate LA anti-ICE protesters – US politics live - The Guardian <a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOallkemxnTGxWcUIxWXRnRjg0ZXNtbUZ5ZHNQUDdSRTQ0bnNiR3hZYzJHNlZjd1IxN3NxQkNZZ0lwMkVEakpHX2FNYlV0eDBVM0JkWHM0bWU1UElXc1N0VFhDTU9uYTJtSVp5ZktfVVRlWWFEakdTM0J6SENsV3k3TGMybkVUVEpDNERtb3c1ak5YNzQtblA5cnRRZUI3eGNyZ3MxSzNqeGJUQ0xtS01jcFM3Mm16LTYyanMxYlRR?oc=5\" target=\"_blank\">Whistleblower claims Trump ordered FBI to investigate LA anti-ICE protesters – US politics live</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>"
+  },
+  {
+    "id": "story-73",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-06T19:14:12.000Z",
+    "sources": [
+      {
+        "source": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/donald-trump-als-nackte-skulptur-im-europaparlament-201294361.html",
+        "date": "2026-10-06T19:14:12.000Z",
+        "snippet": "Im Europaparlament in Straßburg steht seit Dienstag eine nackte, vergoldete Trump-Statue. Der dänische Künstler Jens Galschiøt zeigt dort seine Skulptur „Orange Plague“. Eingeladen hat ihn der Linken-Abgeordnete Per Clausen.",
+        "title": "„Orange Plague“: Donald Trump als nackte Skulptur im Europaparlament"
+      },
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/donald-trump-kuenstler-stellt-im-eu-parlament-nackte-statue-des-us-praesidenten-aus-a-985126d5-7562-4fe2-9218-6b5871e8ecf1#ref=rss",
+        "date": "2026-10-06T17:44:00.000Z",
+        "snippet": "Immerhin, sie ist vergoldet. Der dänische Künstler Jens Galschiøt zeigt im EU-Parlament eine Statue von US-Präsident Donald Trump – splitterfasernackt. Der Name der Arbeit: »Orange Plague«. Wie es dazu kam.",
+        "title": "Donald Trump: Künstler stellt im EU-Parlament nackte Statue des US-Präsidenten aus"
+      }
+    ],
+    "title": "„Orange Plague“: Donald Trump als nackte Skulptur im Europaparlament",
+    "summary": "„Orange Plague“: Donald Trump als nackte Skulptur im Europaparlament Im Europaparlament in Straßburg steht seit Dienstag eine nackte, vergoldete Trump-Statue. Der dänische Künstler Jens Galschiøt zeigt dort seine Skulptur „Orange Plague“. Eingeladen hat ihn der Linken-Abgeordnete Per Clausen.\nDonald Trump: Künstler stellt im EU-Parlament nackte Statue des US-Präsidenten aus Immerhin, sie ist vergoldet. Der dänische Künstler Jens Galschiøt zeigt im EU-Parlament eine Statue von US-Präsident Donald Trump – splitterfasernackt. Der Name der Arbeit: »Orange Plague«. Wie es dazu kam."
+  },
+  {
+    "id": "story-92",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-06T19:04:40.000Z",
+    "sources": [
+      {
+        "source": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-10/06/lisa-mantler-zum-zweiten-mal-mama-geworden",
+        "date": "2026-10-06T19:04:40.000Z",
+        "snippet": "",
+        "title": "Mutter-Freuden: Lisa Mantler zum zweiten Mal Mama geworden"
+      },
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa2tzMlR2dmRsa1h5NHAtUkx3Z3pxRDRXSnpfYkV3ZDNQRGlYb04zYklXcTNYVXQ5a280UVVGeDE3d3FaWU04RTUxbmZCRXJseV9EUDAzVmtTYkdJUEdidE9jMHBoZWI3cTN1N3JtY0FKNElhd0VhT0EtM1FoWnc0ajAxODgwSHZrQW5NbDlrdEdsQUpwUWd3Qlh2UDlrTDBUWm9kZGVCVHVCM0RoZXdsX29n?oc=5",
+        "date": "2026-10-06T13:39:06.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOa2tzMlR2dmRsa1h5NHAtUkx3Z3pxRDRXSnpfYkV3ZDNQRGlYb04zYklXcTNYVXQ5a280UVVGeDE3d3FaWU04RTUxbmZCRXJseV9EUDAzVmtTYkdJUEdidE9jMHBoZWI3cTN1N3JtY0FKNElhd0VhT0EtM1FoWnc0ajAxODgwSHZrQW5NbDlrdEdsQUpwUWd3Qlh2UDlrTDBUWm9kZGVCVHVCM0RoZXdsX29n?oc=5\" target=\"_blank\">TikTok-Star Lisa Mantler ist zum zweiten Mal Mama geworden</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTL.de</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lkMHFLUUVoRWdHMW1NS1JkT0VTZ0FQAQ?hl=de&gl=DE&ceid=DE:de&oc=5\" target=\"_blank\">Weitere Schlagzeilen und Meinungen in Google News</a></strong>",
+        "title": "TikTok-Star Lisa Mantler ist zum zweiten Mal Mama geworden - RTL.de"
+      }
+    ],
+    "title": "Mutter-Freuden: Lisa Mantler zum zweiten Mal Mama geworden",
+    "summary": "Mutter-Freuden: Lisa Mantler zum zweiten Mal Mama geworden \nTikTok-Star Lisa Mantler ist zum zweiten Mal Mama geworden - RTL.de <a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOa2tzMlR2dmRsa1h5NHAtUkx3Z3pxRDRXSnpfYkV3ZDNQRGlYb04zYklXcTNYVXQ5a280UVVGeDE3d3FaWU04RTUxbmZCRXJseV9EUDAzVmtTYkdJUEdidE9jMHBoZWI3cTN1N3JtY0FKNElhd0VhT0EtM1FoWnc0ajAxODgwSHZrQW5NbDlrdEdsQUpwUWd3Qlh2UDlrTDBUWm9kZGVCVHVCM0RoZXdsX29n?oc=5\" target=\"_blank\">TikTok-Star Lisa Mantler ist zum zweiten Mal Mama geworden</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTL.de</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lkMHFLUUVoRWdHMW1NS1JkT0VTZ0FQAQ?hl=de&gl=DE&ceid=DE:de&oc=5\" target=\"_blank\">Weitere Schlagzeilen und Meinungen in Google News</a></strong>"
+  },
+  {
+    "id": "story-101",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-06T18:58:33.000Z",
+    "sources": [
+      {
+        "source": "ntv",
+        "url": "https://www.n-tv.de/politik/Ex-BND-Chef-Hanning-soll-Analyse-fuer-Aserbaidschan-erstellt-haben-id31389063.html",
+        "date": "2026-10-06T18:58:33.000Z",
+        "snippet": "Der frühere Chef des Bundesnachrichtendienstes Hanning steht unter Verdacht, nach seinem Ausscheiden weiter geheime Informationen erhalten und diese für seine Tätigkeit als Berater genutzt zu haben. Davon profitierte offenbar mindestens ein ausländischer Geheimdienst.",
+        "title": "Wurde mit Geheiminfos versorgt: Ex-BND-Chef Hanning soll Analyse für Aserbaidschan erstellt haben"
+      },
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/panorama/justiz/ex-bnd-chef-hanning-soll-analyse-fuer-geheimdienst-von-aserbaidschan-erstellt-haben-a-4ad08c35-eaa5-47cc-a253-8fa459771e40#ref=rss",
+        "date": "2026-10-06T16:55:00.000Z",
+        "snippet": "Mehr als 2000 Geheimdokumente soll sich der frühere BND-Chef Hanning illegal beschafft haben. Aber wofür? Nach SPIEGEL-Recherchen gingen vertrauliche Informationen womöglich an einen Kontakt aus dem Kaukasus.",
+        "title": "Ex-BND-Chef Hanning soll Analyse für Geheimdienst von Aserbaidschan erstellt haben"
+      }
+    ],
+    "title": "Wurde mit Geheiminfos versorgt: Ex-BND-Chef Hanning soll Analyse für Aserbaidschan erstellt haben",
+    "summary": "Wurde mit Geheiminfos versorgt: Ex-BND-Chef Hanning soll Analyse für Aserbaidschan erstellt haben Der frühere Chef des Bundesnachrichtendienstes Hanning steht unter Verdacht, nach seinem Ausscheiden weiter geheime Informationen erhalten und diese für seine Tätigkeit als Berater genutzt zu haben. Davon profitierte offenbar mindestens ein ausländischer Geheimdienst.\nEx-BND-Chef Hanning soll Analyse für Geheimdienst von Aserbaidschan erstellt haben Mehr als 2000 Geheimdokumente soll sich der frühere BND-Chef Hanning illegal beschafft haben. Aber wofür? Nach SPIEGEL-Recherchen gingen vertrauliche Informationen womöglich an einen Kontakt aus dem Kaukasus."
+  },
+  {
+    "id": "story-118",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "MV",
+    "date": "2026-10-06T18:50:20.000Z",
+    "sources": [
+      {
+        "source": "Tagesschau Regional Mecklenburg-Vorpommern",
+        "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/keine-abberufung-diener-bleibt-kreistagspraesident-an-der-seenplatte,kreistag-122.html",
+        "date": "2026-10-06T18:50:20.000Z",
+        "snippet": "Die AfD, das BSW und die neugegründete Fraktion \"Bündnis für Demokratie\" hatten für eine Absetzung des Abberufungsantrags gestimmt - und damit eine Mehrheit erzielt.",
+        "title": "Keine Abberufung: Diener bleibt Kreistagspräsident an der Seenplatte"
+      },
+      {
+        "source": "NDR Mecklenburg-Vorpommern",
+        "url": "https://www.ndr.de/fernsehen/sendungen/nordmagazin/seenplatte-kreistagspraesident-thomas-diener-bleibt-im-amt,nordmagazin-14808.html",
+        "date": "2026-10-06T18:50:05.000Z",
+        "snippet": "Die CDU hatte die Abwahl ihres ehemaligen Mitglieds beantragt, nachdem sich Diener der AfD-Fraktion angeschlossen hatte.",
+        "title": "Seenplatte: Kreistagspräsident Thomas Diener bleibt im Amt"
+      }
+    ],
+    "title": "Keine Abberufung: Diener bleibt Kreistagspräsident an der Seenplatte",
+    "summary": "Keine Abberufung: Diener bleibt Kreistagspräsident an der Seenplatte Die AfD, das BSW und die neugegründete Fraktion \"Bündnis für Demokratie\" hatten für eine Absetzung des Abberufungsantrags gestimmt - und damit eine Mehrheit erzielt.\nSeenplatte: Kreistagspräsident Thomas Diener bleibt im Amt Die CDU hatte die Abwahl ihres ehemaligen Mitglieds beantragt, nachdem sich Diener der AfD-Fraktion angeschlossen hatte."
+  },
+  {
+    "id": "story-120",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-06T18:48:56.000Z",
+    "sources": [
+      {
+        "source": "WELT",
+        "url": "https://www.welt.de/sport/fussball/article6ac53e8e6a0860be6e208997/sieg-gegen-georgien-deutsche-u21-loest-vor-grosser-kulisse-das-em-ticket.html",
+        "date": "2026-10-06T18:48:56.000Z",
+        "snippet": "Die deutsche U21-Nationalmannschaft gewinnt gegen Georgien und qualifiziert sich vorzeitig für die EM. Noch beeindruckender als der Sieg ist die Kulisse in Bielefeld. Letztmals kamen vor 20 Jahren so viele Fans.",
+        "title": "Deutsche U21 löst vor großer Kulisse das EM-Ticket"
+      },
+      {
+        "source": "ZDF heute",
+        "url": "https://www.zdfheute.de/sport/fussball-u21-deutschland-georgien-em-qualifikation-100.html",
+        "date": "2026-10-06T18:09:00.000Z",
+        "snippet": "Gruppensieg eingefahren, EM-Ticket direkt gesichert: Die deutschen U21-Fußballer schlagen Georgien und sind beim Turnier 2027 in Albanien und Serbien dabei.",
+        "title": "Deutsche U21 löst Ticket für die EM"
+      }
+    ],
+    "title": "Deutsche U21 löst vor großer Kulisse das EM-Ticket",
+    "summary": "Deutsche U21 löst vor großer Kulisse das EM-Ticket Die deutsche U21-Nationalmannschaft gewinnt gegen Georgien und qualifiziert sich vorzeitig für die EM. Noch beeindruckender als der Sieg ist die Kulisse in Bielefeld. Letztmals kamen vor 20 Jahren so viele Fans.\nDeutsche U21 löst Ticket für die EM Gruppensieg eingefahren, EM-Ticket direkt gesichert: Die deutschen U21-Fußballer schlagen Georgien und sind beim Turnier 2027 in Albanien und Serbien dabei."
+  },
+  {
+    "id": "story-154",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-06T18:29:32.000Z",
     "sources": [
       {
         "source": "stern",
-        "url": "https://www.stern.de/news/polizistin-in-bayern-wegen-vergewaltigung-von-jugendlicher-verurteilt-38357460.html",
-        "date": "2026-10-06T14:04:42.000Z",
-        "snippet": "Unter anderem wegen der Vergewaltigung einer 14-Jährigen ist eine Polizistin in Bayern zu einer Freiheitsstrafe von drei Jahren und drei Monaten verurteilt worden. Das Landgericht Traunstein sprach die 55-jährige Transfrau am Dienstag außerdem des Besitzes und der Verbreitung von Kinderpornografie schuldig, wie ein Gerichtssprecher mitteilte.",
-        "title": "Polizistin in Bayern wegen Vergewaltigung von Jugendlicher verurteilt"
+        "url": "https://www.stern.de/gesellschaft/regional/nordrhein-westfalen/fussball-nachwuchs--deutsche-u21-bejubelt-em-ticket-vor-grosser-kulisse-38358228.html",
+        "date": "2026-10-06T18:29:32.000Z",
+        "snippet": "Die U21-Nationalmannschaft fährt als Gruppensieger zur Fußball-Europameisterschaft in Albanien und Serbien. Vor so vielen Zuschauern wie seit 20 Jahren nicht muss das Team aber mehr bangen als nötig.",
+        "title": "Fußball-Nachwuchs: Deutsche U21 bejubelt EM-Ticket vor großer Kulisse"
       },
       {
         "source": "RND",
-        "url": "https://www.rnd.de/panorama/traunstein-ex-polizistin-wegen-vergewaltigung-von-14-jaehriger-verurteilt-YSKEZLDZFJCP3G3CYIQJJGZ3YM.html",
-        "date": "2026-10-06T12:10:43.000Z",
-        "snippet": "Sie sollte für Recht und Ordnung sorgen - und vergewaltigte ein Mädchen. Das Landgericht Traunstein hat eine Polizistin wegen der Vergewaltigung einer 14-Jährigen zu einer Gefängnisstrafe verurteilt.",
-        "title": "Traunstein: Ex-Polizistin wegen Vergewaltigung verurteilt"
+        "url": "https://www.rnd.de/sport/2-0-gegen-georgien-deutsche-u21-bucht-em-ticket-vor-grosser-kulisse-GPMVR352ZFGPNPL2RYRGD3BA44.html",
+        "date": "2026-10-06T18:25:25.000Z",
+        "snippet": "Die U21-Nationalmannschaft fährt als Gruppensieger zur Fußball-Europameisterschaft in Albanien und Serbien. Vor so vielen Zuschauern wie seit 20 Jahren nicht muss das Team aber mehr bangen als nötig.",
+        "title": "2:0 gegen Georgien: Deutsche U21 bucht EM-Ticket vor großer Kulisse"
       }
     ],
-    "title": "Polizistin in Bayern wegen Vergewaltigung von Jugendlicher verurteilt",
-    "summary": "Polizistin in Bayern wegen Vergewaltigung von Jugendlicher verurteilt Unter anderem wegen der Vergewaltigung einer 14-Jährigen ist eine Polizistin in Bayern zu einer Freiheitsstrafe von drei Jahren und drei Monaten verurteilt worden. Das Landgericht Traunstein sprach die 55-jährige Transfrau am Dienstag außerdem des Besitzes und der Verbreitung von Kinderpornografie schuldig, wie ein Gerichtssprecher mitteilte.\nTraunstein: Ex-Polizistin wegen Vergewaltigung verurteilt Sie sollte für Recht und Ordnung sorgen - und vergewaltigte ein Mädchen. Das Landgericht Traunstein hat eine Polizistin wegen der Vergewaltigung einer 14-Jährigen zu einer Gefängnisstrafe verurteilt."
+    "title": "Fußball-Nachwuchs: Deutsche U21 bejubelt EM-Ticket vor großer Kulisse",
+    "summary": "Fußball-Nachwuchs: Deutsche U21 bejubelt EM-Ticket vor großer Kulisse Die U21-Nationalmannschaft fährt als Gruppensieger zur Fußball-Europameisterschaft in Albanien und Serbien. Vor so vielen Zuschauern wie seit 20 Jahren nicht muss das Team aber mehr bangen als nötig.\n2:0 gegen Georgien: Deutsche U21 bucht EM-Ticket vor großer Kulisse Die U21-Nationalmannschaft fährt als Gruppensieger zur Fußball-Europameisterschaft in Albanien und Serbien. Vor so vielen Zuschauern wie seit 20 Jahren nicht muss das Team aber mehr bangen als nötig."
   },
   {
-    "id": "story-62",
+    "id": "story-172",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-06T18:15:03.000Z",
+    "sources": [
+      {
+        "source": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/kommentar/sachsen-anhalt-wahl-landtagspraesident-100.html",
+        "date": "2026-10-06T18:15:03.000Z",
+        "snippet": "Mit der Wahl des AfD-Politikers Rausch zum Landtagspräsidenten in Sachsen-Anhalt zementiert die AfD ihren Machtanspruch. Und sie zeigt, dass sie Mehrheiten für ihre Kandidaten org…",
+        "title": "Sicher ist nichts mehr"
+      },
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/kommentar/sachsen-anhalt-wahl-landtagspraesident-100.html",
+        "date": "2026-10-06T18:01:14.000Z",
+        "snippet": "Mit der Wahl des AfD-Politikers Rausch zum Landtagspräsidenten in Sachsen-Anhalt zementiert die AfD ihren Machtanspruch. Und sie zeigt, dass sie Mehrheiten für ihre Kandidaten organisieren kann. Sicher ist nichts mehr, meint Christin Bohmann.",
+        "title": "AfD-Landtagspräsident in Sachsen-Anhalt: Sicher ist nichts mehr"
+      }
+    ],
+    "title": "Sicher ist nichts mehr",
+    "summary": "Sicher ist nichts mehr Mit der Wahl des AfD-Politikers Rausch zum Landtagspräsidenten in Sachsen-Anhalt zementiert die AfD ihren Machtanspruch. Und sie zeigt, dass sie Mehrheiten für ihre Kandidaten org…\nAfD-Landtagspräsident in Sachsen-Anhalt: Sicher ist nichts mehr Mit der Wahl des AfD-Politikers Rausch zum Landtagspräsidenten in Sachsen-Anhalt zementiert die AfD ihren Machtanspruch. Und sie zeigt, dass sie Mehrheiten für ihre Kandidaten organisieren kann. Sicher ist nichts mehr, meint Christin Bohmann."
+  },
+  {
+    "id": "story-203",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-06T18:04:00.000Z",
+    "sources": [
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/politik/sachsen-anhalt-afd-politiker-rausch-wird-landtagspraesident-a-4808a020-6805-40a5-9170-6c35b3742347#ref=rss",
+        "date": "2026-10-06T18:04:00.000Z",
+        "snippet": "Mit Tobias Rausch wird der Landtag in Sachsen-Anhalt nun von einem Politiker einer rechtsextremen Partei geleitet. Im Parlament demonstrierte die Partei ihre Macht, vor dem Landtag wurden andere laut.",
+        "title": "Sachsen-Anhalt: AfD-Politiker Rausch wird Landtagspräsident"
+      },
+      {
+        "source": "t-online Nachrichten",
+        "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101468834/tobias-rausch-das-ist-der-neue-afd-landtagspraesident-von-sachsen-anhalt.html",
+        "date": "2026-10-06T13:08:15.000Z",
+        "snippet": "In Magdeburg ist der 35-jährige Tobias Rausch erster Landtagspräsident der AfD geworden. Er ist Immobilienunternehmer mit viel politischer Erfahrung – und sieht sich Vorwürfen der Vetternwirtschaft ausgesetzt.",
+        "title": "Tobias Rausch: Das ist der neue AfD-Landtagspräsident von Sachsen-Anhalt"
+      }
+    ],
+    "title": "Sachsen-Anhalt: AfD-Politiker Rausch wird Landtagspräsident",
+    "summary": "Sachsen-Anhalt: AfD-Politiker Rausch wird Landtagspräsident Mit Tobias Rausch wird der Landtag in Sachsen-Anhalt nun von einem Politiker einer rechtsextremen Partei geleitet. Im Parlament demonstrierte die Partei ihre Macht, vor dem Landtag wurden andere laut.\nTobias Rausch: Das ist der neue AfD-Landtagspräsident von Sachsen-Anhalt In Magdeburg ist der 35-jährige Tobias Rausch erster Landtagspräsident der AfD geworden. Er ist Immobilienunternehmer mit viel politischer Erfahrung – und sieht sich Vorwürfen der Vetternwirtschaft ausgesetzt."
+  },
+  {
+    "id": "story-238",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "HH",
+    "date": "2026-10-06T17:47:45.000Z",
+    "sources": [
+      {
+        "source": "NDR Hamburg",
+        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/spionageverdacht-ex-bnd-praesident-hanning-festgenommen,hamj-15292.html",
+        "date": "2026-10-06T17:47:45.000Z",
+        "snippet": "August Hanning soll Dokumente an fremde Nachrichtendienste veräußert haben. Die Beweismittel tauchten am Rande des Block-Prozesses auf.",
+        "title": "Spionageverdacht: Ex-BND-Präsident Hanning festgenommen"
+      },
+      {
+        "source": "DW Deutsch",
+        "url": "https://www.dw.com/de/spionageverdacht-ex-bnd-präsident-august-hanning-festgenommen/a-79560433?maca=de-rss-de-all-1119-xml-mrss",
+        "date": "2026-10-06T13:53:00.000Z",
+        "snippet": "Der ehemalige BND-Präsident August Hanning wurde festgenommen. Die Ermittler werfen ihm vor, geheime BND-Informationen beschafft und an ausländische Akteure weitergegeben zu haben.",
+        "title": "Spionageverdacht: Ex-BND-Präsident August Hanning festgenommen"
+      }
+    ],
+    "title": "Spionageverdacht: Ex-BND-Präsident Hanning festgenommen",
+    "summary": "Spionageverdacht: Ex-BND-Präsident Hanning festgenommen August Hanning soll Dokumente an fremde Nachrichtendienste veräußert haben. Die Beweismittel tauchten am Rande des Block-Prozesses auf.\nSpionageverdacht: Ex-BND-Präsident August Hanning festgenommen Der ehemalige BND-Präsident August Hanning wurde festgenommen. Die Ermittler werfen ihm vor, geheime BND-Informationen beschafft und an ausländische Akteure weitergegeben zu haben."
+  },
+  {
+    "id": "story-291",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-06T17:20:00.000Z",
+    "sources": [
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYlNqUzZwTWdteG5UTkloWm1FaGxCMGlieWRKcDJjc05PbjF3ZmM0REtwek8tXzRhMnRoVUtpU2xreE9pRzd6YkFXeWsyd2stRFNxNXVFUFBWemxVcUIzOGdDZVVEUVdIQ0VVeDBWOElfdXFtZXNueXFpdkJqSjhiRjd2M3QtOGIwTkJBZ1hJNDczZ0hLb3FpYzBLWmpBbXZ3UlcyeG9iVWlVWU03ek9yNWxya3JpRWNVX2NSa1RyWFB2aWczWmpFa21fOFc4ejQ?oc=5",
+        "date": "2026-10-06T17:20:00.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQYlNqUzZwTWdteG5UTkloWm1FaGxCMGlieWRKcDJjc05PbjF3ZmM0REtwek8tXzRhMnRoVUtpU2xreE9pRzd6YkFXeWsyd2stRFNxNXVFUFBWemxVcUIzOGdDZVVEUVdIQ0VVeDBWOElfdXFtZXNueXFpdkJqSjhiRjd2M3QtOGIwTkJBZ1hJNDczZ0hLb3FpYzBLWmpBbXZ3UlcyeG9iVWlVWU03ek9yNWxya3JpRWNVX2NSa1RyWFB2aWczWmpFa21fOFc4ejQ?oc=5\" target=\"_blank\">(S+) Jemen: Gegenoffensive gegen Huthis schürt Sorge vor langem Krieg</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQNmh3Ym5Sd1RTZTZ2T3d2QUhtT2RXdUtFZmxtNHlmblRyMkNDUFdObWRsZkZMSDZvdHJNUnplaDhuOFRQVUtEMm5MUVNtMlhSWVdFX2lnN0JtSk5hS3I2aEtFbEFOSzRfdllwanRWRWNDMzZIem5l",
+        "title": "(S+) Jemen: Gegenoffensive gegen Huthis schürt Sorge vor langem Krieg - Spiegel"
+      },
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/jemen-gegenoffensive-gegen-huthis-schuert-sorge-vor-langem-krieg-a-4d96c92d-1768-43e7-83c3-a14c261dadcf#ref=rss",
+        "date": "2026-10-06T17:20:00.000Z",
+        "snippet": "Jemenitische Regierungstruppen haben mithilfe Saudi-Arabiens eine Offensive gegen die Huthis gestartet. Es könnte der Anfang eines neuen, langwierigen Kriegs sein, der auch für die Weltwirtschaft Gefahren birgt.",
+        "title": "Jemen: Gegenoffensive gegen Huthis schürt Sorge vor langem Krieg"
+      }
+    ],
+    "title": "(S+) Jemen: Gegenoffensive gegen Huthis schürt Sorge vor langem Krieg - Spiegel",
+    "summary": "(S+) Jemen: Gegenoffensive gegen Huthis schürt Sorge vor langem Krieg - Spiegel <ol><li><a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQYlNqUzZwTWdteG5UTkloWm1FaGxCMGlieWRKcDJjc05PbjF3ZmM0REtwek8tXzRhMnRoVUtpU2xreE9pRzd6YkFXeWsyd2stRFNxNXVFUFBWemxVcUIzOGdDZVVEUVdIQ0VVeDBWOElfdXFtZXNueXFpdkJqSjhiRjd2M3QtOGIwTkJBZ1hJNDczZ0hLb3FpYzBLWmpBbXZ3UlcyeG9iVWlVWU03ek9yNWxya3JpRWNVX2NSa1RyWFB2aWczWmpFa21fOFc4ejQ?oc=5\" target=\"_blank\">(S+) Jemen: Gegenoffensive gegen Huthis schürt Sorge vor langem Krieg</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQNmh3Ym5Sd1RTZTZ2T3d2QUhtT2RXdUtFZmxtNHlmblRyMkNDUFdObWRsZkZMSDZvdHJNUnplaDhuOFRQVUtEMm5MUVNtMlhSWVdFX2lnN0JtSk5hS3I2aEtFbEFOSzRfdllwanRWRWNDMzZIem5l\nJemen: Gegenoffensive gegen Huthis schürt Sorge vor langem Krieg Jemenitische Regierungstruppen haben mithilfe Saudi-Arabiens eine Offensive gegen die Huthis gestartet. Es könnte der Anfang eines neuen, langwierigen Kriegs sein, der auch für die Weltwirtschaft Gefahren birgt."
+  },
+  {
+    "id": "story-300",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-06T17:15:01.000Z",
+    "sources": [
+      {
+        "source": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/inland/innenpolitik/wahl-landtagspraesident-sachsen-anhalt-afd-100.html",
+        "date": "2026-10-06T17:15:01.000Z",
+        "snippet": "Der AfD-Erfolg bei der Landtagspräsidentenwahl sorgt für Ärger - auch in der Bundespolitik. Linke und Grüne vermuten Abweichler in der CDU - die spricht von \"Spekulation\". Von D. …",
+        "title": "Ärger in Berlin nach AfD-Erfolg"
+      },
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/inland/innenpolitik/wahl-landtagspraesident-sachsen-anhalt-afd-100.html",
+        "date": "2026-10-06T17:05:00.000Z",
+        "snippet": "Der AfD-Erfolg bei der Landtagspräsidentenwahl sorgt für Ärger - auch in der Bundespolitik. Linke und Grüne vermuten Abweichler in der CDU - die spricht von \"Spekulation\". Von D. Pepping.",
+        "title": "Ärger in Berlin nach AfD-Erfolg in Sachsen-Anhalt"
+      }
+    ],
+    "title": "Ärger in Berlin nach AfD-Erfolg",
+    "summary": "Ärger in Berlin nach AfD-Erfolg Der AfD-Erfolg bei der Landtagspräsidentenwahl sorgt für Ärger - auch in der Bundespolitik. Linke und Grüne vermuten Abweichler in der CDU - die spricht von \"Spekulation\". Von D. …\nÄrger in Berlin nach AfD-Erfolg in Sachsen-Anhalt Der AfD-Erfolg bei der Landtagspräsidentenwahl sorgt für Ärger - auch in der Bundespolitik. Linke und Grüne vermuten Abweichler in der CDU - die spricht von \"Spekulation\". Von D. Pepping."
+  },
+  {
+    "id": "story-322",
+    "topic": "panorama",
+    "country": "INT",
+    "stateHint": "",
+    "date": "2026-10-06T17:00:52.000Z",
+    "sources": [
+      {
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/6/kenya-confirms-first-ebola-case-after-patient-from-dr-congo-dies-in-nairobi?traffic_source=rss",
+        "date": "2026-10-06T17:00:52.000Z",
+        "snippet": "More than 4,000 people have died in the worst outbreak in the DR Congo's history, with confirmed cases surpassing 8,300.",
+        "title": "Kenya confirms first Ebola case as man dies in Nairobi after DRC return"
+      },
+      {
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaE9LRU1RclNtcWoxUk9VVjE2VWM3SzB1Rko5M2ZhQjNXckxrVVlYX3JBT1NTbXpkRDFxWXhpeTdOS0J3b2N6OHJINUV2aTc5a0xSdEkxbjZ6ek1OUkxBZW1HTlhfclZLVHVySEdmTmJxTkV6V19jTk1OclI2RU9DUkpqMjY0WXhHRzV0UDBWRUtNM2ltdjEwU0pTZW1Ec0pYZ2pJWGJnaWpiY3l2VF9TakRiRmNpZEw1eGV3Z19IUQ?oc=5",
+        "date": "2026-10-06T08:33:00.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNaE9LRU1RclNtcWoxUk9VVjE2VWM3SzB1Rko5M2ZhQjNXckxrVVlYX3JBT1NTbXpkRDFxWXhpeTdOS0J3b2N6OHJINUV2aTc5a0xSdEkxbjZ6ek1OUkxBZW1HTlhfclZLVHVySEdmTmJxTkV6V19jTk1OclI2RU9DUkpqMjY0WXhHRzV0UDBWRUtNM2ltdjEwU0pTZW1Ec0pYZ2pJWGJnaWpiY3l2VF9TakRiRmNpZEw1eGV3Z19IUQ?oc=5\" target=\"_blank\">Kenya Confirms First Ebola Case Imported From Congo After Man Dies in Nairobi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">U.S. News & World Report</font>",
+        "title": "Kenya Confirms First Ebola Case Imported From Congo After Man Dies in Nairobi - U.S. News & World Report"
+      }
+    ],
+    "title": "Kenya confirms first Ebola case as man dies in Nairobi after DRC return",
+    "summary": "Kenya confirms first Ebola case as man dies in Nairobi after DRC return More than 4,000 people have died in the worst outbreak in the DR Congo's history, with confirmed cases surpassing 8,300.\nKenya Confirms First Ebola Case Imported From Congo After Man Dies in Nairobi - U.S. News & World Report <a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNaE9LRU1RclNtcWoxUk9VVjE2VWM3SzB1Rko5M2ZhQjNXckxrVVlYX3JBT1NTbXpkRDFxWXhpeTdOS0J3b2N6OHJINUV2aTc5a0xSdEkxbjZ6ek1OUkxBZW1HTlhfclZLVHVySEdmTmJxTkV6V19jTk1OclI2RU9DUkpqMjY0WXhHRzV0UDBWRUtNM2ltdjEwU0pTZW1Ec0pYZ2pJWGJnaWpiY3l2VF9TakRiRmNpZEw1eGV3Z19IUQ?oc=5\" target=\"_blank\">Kenya Confirms First Ebola Case Imported From Congo After Man Dies in Nairobi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">U.S. News & World Report</font>"
+  },
+  {
+    "id": "story-323",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-06T17:00:21.000Z",
+    "sources": [
+      {
+        "source": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/carolin-kebekus-uebernimmt-lol-von-michael-bully-herbig-201294183.html",
+        "date": "2026-10-06T17:00:21.000Z",
+        "snippet": "Carolin Kebekus darf künftig lachen, so viel sie will. Sie übernimmt bei „LOL: Last One Laughing“ die Spielleitung von Michael „Bully“ Herbig.",
+        "title": "Nach sieben Staffeln: Carolin Kebekus übernimmt „LOL“ von Bully Herbig"
+      },
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/kultur/tv/bully-herbig-verlaesst-lol-carolin-kebekus-uebernimmt-a-e253986e-d271-4578-8a6b-32262e21724f#ref=rss",
+        "date": "2026-10-06T14:46:00.000Z",
+        "snippet": "Sieben Staffeln moderierte er »LOL: Last One Laughing« bei Amazon Prime, nun übergibt Bully Herbig den Job an Carolin Kebekus. Er hat bereits eine andere Show.",
+        "title": "Bully Herbig verlässt »LOL«, Carolin Kebekus übernimmt"
+      }
+    ],
+    "title": "Nach sieben Staffeln: Carolin Kebekus übernimmt „LOL“ von Bully Herbig",
+    "summary": "Nach sieben Staffeln: Carolin Kebekus übernimmt „LOL“ von Bully Herbig Carolin Kebekus darf künftig lachen, so viel sie will. Sie übernimmt bei „LOL: Last One Laughing“ die Spielleitung von Michael „Bully“ Herbig.\nBully Herbig verlässt »LOL«, Carolin Kebekus übernimmt Sieben Staffeln moderierte er »LOL: Last One Laughing« bei Amazon Prime, nun übergibt Bully Herbig den Job an Carolin Kebekus. Er hat bereits eine andere Show."
+  },
+  {
+    "id": "story-371",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-06T16:35:00.000Z",
+    "sources": [
+      {
+        "source": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/deutschland/sachsen-anhalt-afd-landtag-praesident-tobias-rausch-100.html",
+        "date": "2026-10-06T16:35:00.000Z",
+        "snippet": "Es ist ein Novum: Die AfD stellt mit Tobias Rausch erstmals in ihrer Geschichte einen Landtagspräsidenten. Zudem wurde Parteikollege Hans-Thomas Tillschneider zum Vize gewählt.",
+        "title": "Sachsen-Anhalt: AfD stellt Landtagspräsidenten - und Vize"
+      },
+      {
+        "source": "Süddeutsche Zeitung",
+        "url": "https://www.sueddeutsche.de/politik/landtag-sachsen-anhalt-landtagspraesident-rausch-afd-li.3558847",
+        "date": "2026-10-06T14:20:00.000Z",
+        "snippet": "Tobias Rausch erhält bei seiner Wahl in Sachsen-Anhalt vier Stimmen mehr als erwartet. Damit bekommt er Unterstützung nicht nur von der eigenen Partei und dem BSW.",
+        "title": "Sachsen-Anhalt: AfD stellt zum ersten Mal Landtagspräsidenten"
+      }
+    ],
+    "title": "Sachsen-Anhalt: AfD stellt Landtagspräsidenten - und Vize",
+    "summary": "Sachsen-Anhalt: AfD stellt Landtagspräsidenten - und Vize Es ist ein Novum: Die AfD stellt mit Tobias Rausch erstmals in ihrer Geschichte einen Landtagspräsidenten. Zudem wurde Parteikollege Hans-Thomas Tillschneider zum Vize gewählt.\nSachsen-Anhalt: AfD stellt zum ersten Mal Landtagspräsidenten Tobias Rausch erhält bei seiner Wahl in Sachsen-Anhalt vier Stimmen mehr als erwartet. Damit bekommt er Unterstützung nicht nur von der eigenen Partei und dem BSW."
+  },
+  {
+    "id": "story-379",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-06T16:30:03.000Z",
+    "sources": [
+      {
+        "source": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/inland/sachsen-anhalt-landtagsvizepraesident-tillschneider-100.html",
+        "date": "2026-10-06T16:30:03.000Z",
+        "snippet": "Der AfD-Politiker Tillschneider ist zum neuen Landtagsvizepräsidenten in Sachsen-Anhalt gewählt worden. Die CDU stellt mit dem Abgeordneten Borchert den zweiten Vizepräsidenten. D…",
+        "title": "AfD stellt mit Tillschneider auch Landtagsvizepräsident"
+      },
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/inland/sachsen-anhalt-landtagsvizepraesident-tillschneider-100.html",
+        "date": "2026-10-06T16:15:19.000Z",
+        "snippet": "Der AfD-Politiker Tillschneider ist zum neuen Landtagsvizepräsidenten in Sachsen-Anhalt gewählt worden. Die CDU stellt mit dem Abgeordneten Borchert den zweiten Vizepräsidenten. Der SPD-Kandidat Willingmann fiel bei der Wahl durch.",
+        "title": "Sachsen-Anhalt: AfD stellt mit Tillschneider auch Landtagsvizepräsident"
+      }
+    ],
+    "title": "AfD stellt mit Tillschneider auch Landtagsvizepräsident",
+    "summary": "AfD stellt mit Tillschneider auch Landtagsvizepräsident Der AfD-Politiker Tillschneider ist zum neuen Landtagsvizepräsidenten in Sachsen-Anhalt gewählt worden. Die CDU stellt mit dem Abgeordneten Borchert den zweiten Vizepräsidenten. D…\nSachsen-Anhalt: AfD stellt mit Tillschneider auch Landtagsvizepräsident Der AfD-Politiker Tillschneider ist zum neuen Landtagsvizepräsidenten in Sachsen-Anhalt gewählt worden. Die CDU stellt mit dem Abgeordneten Borchert den zweiten Vizepräsidenten. Der SPD-Kandidat Willingmann fiel bei der Wahl durch."
+  },
+  {
+    "id": "story-380",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-06T16:30:01.000Z",
+    "sources": [
+      {
+        "source": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/inland/innenpolitik/magdeburg-afd-landtagspraesident-100.html",
+        "date": "2026-10-06T16:30:01.000Z",
+        "snippet": "Erstmals stellt die AfD einen Landtagspräsidenten. Die Wahl von Tobias Rausch in Sachsen-Anhalt bringt vor allem einen Politiker der CDU in Bedrängnis: Noch-Ministerpräsident Sven…",
+        "title": "AfD-Erfolg bringt CDU und Schulze in Bedrängnis"
+      },
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/inland/innenpolitik/magdeburg-afd-landtagspraesident-100.html",
+        "date": "2026-10-06T16:22:39.000Z",
+        "snippet": "Erstmals stellt die AfD einen Landtagspräsidenten. Die Wahl von Tobias Rausch in Sachsen-Anhalt bringt vor allem einen Politiker der CDU in Bedrängnis: Noch-Ministerpräsident Sven Schulze. Steht seine Fraktion noch hinter ihm? Von L. Frohmüller.",
+        "title": "Sachsen-Anhalt: AfD-Erfolg bringt CDU und Schulze in Bedrängnis"
+      }
+    ],
+    "title": "AfD-Erfolg bringt CDU und Schulze in Bedrängnis",
+    "summary": "AfD-Erfolg bringt CDU und Schulze in Bedrängnis Erstmals stellt die AfD einen Landtagspräsidenten. Die Wahl von Tobias Rausch in Sachsen-Anhalt bringt vor allem einen Politiker der CDU in Bedrängnis: Noch-Ministerpräsident Sven…\nSachsen-Anhalt: AfD-Erfolg bringt CDU und Schulze in Bedrängnis Erstmals stellt die AfD einen Landtagspräsidenten. Die Wahl von Tobias Rausch in Sachsen-Anhalt bringt vor allem einen Politiker der CDU in Bedrängnis: Noch-Ministerpräsident Sven Schulze. Steht seine Fraktion noch hinter ihm? Von L. Frohmüller."
+  },
+  {
+    "id": "story-382",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-06T16:29:43.000Z",
+    "sources": [
+      {
+        "source": "t-online Nachrichten",
+        "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101469286/sachsen-anhalt-afd-stellt-landtagspraesidenten-spd-kandidat-faellt-durch.html",
+        "date": "2026-10-06T16:29:43.000Z",
+        "snippet": "Tobias Rausch ist der erste AfD-Landtagspräsident in Deutschland – gewählt mit Stimmen anderer Parteien. Und es ist nicht der einzige Triumph der Rechtsextremen.",
+        "title": "Sachsen-Anhalt: AfD stellt Landtagspräsidenten – SPD-Kandidat fällt durch"
+      },
+      {
+        "source": "Süddeutsche Zeitung",
+        "url": "https://www.sueddeutsche.de/politik/sachsen-anhalt-landtag-news-liveblog-landtagsvizepraesident-hans-thomas-tillschneider-afd-li.3556472",
+        "date": "2026-10-06T15:54:14.000Z",
+        "snippet": "Hans-Thomas Tillschneider erhält fünf Stimmen mehr als seine Partei hat. Dabei hatten die anderen Fraktionen – inklusive BSW - erklärt, den AfD-Mann nicht zu unterstützen.",
+        "title": "Liveblog Sachsen-Anhalt: AfD stellt mit Tillschneider auch einen Vizepräsidenten - SPD-Kandidat fällt durch"
+      }
+    ],
+    "title": "Sachsen-Anhalt: AfD stellt Landtagspräsidenten – SPD-Kandidat fällt durch",
+    "summary": "Sachsen-Anhalt: AfD stellt Landtagspräsidenten – SPD-Kandidat fällt durch Tobias Rausch ist der erste AfD-Landtagspräsident in Deutschland – gewählt mit Stimmen anderer Parteien. Und es ist nicht der einzige Triumph der Rechtsextremen.\nLiveblog Sachsen-Anhalt: AfD stellt mit Tillschneider auch einen Vizepräsidenten - SPD-Kandidat fällt durch Hans-Thomas Tillschneider erhält fünf Stimmen mehr als seine Partei hat. Dabei hatten die anderen Fraktionen – inklusive BSW - erklärt, den AfD-Mann nicht zu unterstützen."
+  },
+  {
+    "id": "story-396",
+    "topic": "politik",
+    "country": "UK",
+    "stateHint": "",
+    "date": "2026-10-06T16:22:37.000Z",
+    "sources": [
+      {
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-06T16:22:37.000Z",
+        "snippet": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
+        "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego"
+      },
+      {
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93cEtTcmRaQm04RTdROTUtUm80V214eGRjaDlLcGh5d0NLcG9Ud1VnM1Vhc1hpTzV5VDI1ZjQ4ZHZqLVZReGFHX2xFOXVEeTVJWThpVm1HNWRQdkU?oc=5",
+        "date": "2026-10-06T16:22:37.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE93cEtTcmRaQm04RTdROTUtUm80V214eGRjaDlLcGh5d0NLcG9Ud1VnM1Vhc1hpTzV5VDI1ZjQ4ZHZqLVZReGFHX2xFOXVEeTVJWThpVm1HNWRQdkU?oc=5\" target=\"_blank\">White House defends Trump comment to let Iran 'take out' LA and San Diego</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+        "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego - BBC"
+      }
+    ],
+    "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+    "summary": "White House defends Trump comment to let Iran 'take out' LA and San Diego Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.\nWhite House defends Trump comment to let Iran 'take out' LA and San Diego - BBC <a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE93cEtTcmRaQm04RTdROTUtUm80V214eGRjaDlLcGh5d0NLcG9Ud1VnM1Vhc1hpTzV5VDI1ZjQ4ZHZqLVZReGFHX2xFOXVEeTVJWThpVm1HNWRQdkU?oc=5\" target=\"_blank\">White House defends Trump comment to let Iran 'take out' LA and San Diego</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>"
+  },
+  {
+    "id": "story-401",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-06T16:20:48.000Z",
+    "sources": [
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPVVQ5QjFCNmRJaExXMzR6bzhkd0pUbUVWWnQySk10ZlFWbnk1UnJrNEh6cWd4Tnlkdmk3N0htMHF5MFdzcGV0ck5mTW54QzZWNjVmOGtzNVI3TnRLOWRkSGE5Z1BYd3U5RHhFMWV3c2xhR2FadWdzTG9MSFlick5DZ3FzbDQ4NHFUQjlRX2wzWmdJaXBRQ3NHanRfcmpINFc2ZjhwRzMzVGp6X1B0cUQ3aHVFSFBBMzVLN0Fzb3h0akVRZER6M1Roa0NyX0Ftb3RoOU5SYUJ1TS0zV2Q3bHRTeXdvclhBRk1xNVBqNUVrU3FKRk5zdjZwSktUQTY5U3J4?oc=5",
+        "date": "2026-10-06T16:20:48.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxPVVQ5QjFCNmRJaExXMzR6bzhkd0pUbUVWWnQySk10ZlFWbnk1UnJrNEh6cWd4Tnlkdmk3N0htMHF5MFdzcGV0ck5mTW54QzZWNjVmOGtzNVI3TnRLOWRkSGE5Z1BYd3U5RHhFMWV3c2xhR2FadWdzTG9MSFlick5DZ3FzbDQ4NHFUQjlRX2wzWmdJaXBRQ3NHanRfcmpINFc2ZjhwRzMzVGp6X1B0cUQ3aHVFSFBBMzVLN0Fzb3h0akVRZER6M1Roa0NyX0Ftb3RoOU5SYUJ1TS0zV2Q3bHRTeXdvclhBRk1xNVBqNUVrU3FKRk5zdjZwSktUQTY5U3J4?oc=5\" target=\"_blank\">Acht Beitrittsländer: Streit in der EU – Warum Deutschland bei der nächsten großen Erweiterung bremst</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WELT</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2o5em9LS0VoRTNCd1doRUYxZlBpZ0FQAQ?hl=de",
+        "title": "Acht Beitrittsländer: Streit in der EU – Warum Deutschland bei der nächsten großen Erweiterung bremst - WELT"
+      },
+      {
+        "source": "WELT",
+        "url": "https://www.welt.de/politik/ausland/article6ac50d5e6a0860be6e208711/acht-beitrittslaender-streit-in-der-eu-warum-deutschland-bei-der-naechsten-grossen-erweiterung-bremst.html",
+        "date": "2026-10-06T16:18:54.000Z",
+        "snippet": "Die Europäische Union soll kräftig wachsen, plant Brüssel. Zunächst geht es um acht neue Mitglieder. Aber bei dem Thema ist die EU tief gespalten. Mehrere Länder, darunter Deutschland, fordern strikte Auflagen.",
+        "title": "Streit in der EU – Warum Deutschland bei der nächsten großen Erweiterung bremst"
+      }
+    ],
+    "title": "Acht Beitrittsländer: Streit in der EU – Warum Deutschland bei der nächsten großen Erweiterung bremst - WELT",
+    "summary": "Acht Beitrittsländer: Streit in der EU – Warum Deutschland bei der nächsten großen Erweiterung bremst - WELT <a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxPVVQ5QjFCNmRJaExXMzR6bzhkd0pUbUVWWnQySk10ZlFWbnk1UnJrNEh6cWd4Tnlkdmk3N0htMHF5MFdzcGV0ck5mTW54QzZWNjVmOGtzNVI3TnRLOWRkSGE5Z1BYd3U5RHhFMWV3c2xhR2FadWdzTG9MSFlick5DZ3FzbDQ4NHFUQjlRX2wzWmdJaXBRQ3NHanRfcmpINFc2ZjhwRzMzVGp6X1B0cUQ3aHVFSFBBMzVLN0Fzb3h0akVRZER6M1Roa0NyX0Ftb3RoOU5SYUJ1TS0zV2Q3bHRTeXdvclhBRk1xNVBqNUVrU3FKRk5zdjZwSktUQTY5U3J4?oc=5\" target=\"_blank\">Acht Beitrittsländer: Streit in der EU – Warum Deutschland bei der nächsten großen Erweiterung bremst</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WELT</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2o5em9LS0VoRTNCd1doRUYxZlBpZ0FQAQ?hl=de\nStreit in der EU – Warum Deutschland bei der nächsten großen Erweiterung bremst Die Europäische Union soll kräftig wachsen, plant Brüssel. Zunächst geht es um acht neue Mitglieder. Aber bei dem Thema ist die EU tief gespalten. Mehrere Länder, darunter Deutschland, fordern strikte Auflagen."
+  },
+  {
+    "id": "story-472",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-06T15:37:07.000Z",
+    "sources": [
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOZUdydktITExxYlpVSHRmdE81ZC1QY3RFLXB5ZnVBV0VkMG1ZRmlxN0VlNzNCOTJmWFF0eVpxRFQxeXYtXzFwX0R5c1R0ZDF4MjI3LU9XcHhoWlIxYklZcE1qcXVLbzF1TlJIR3RRbWRMbGRuQ1BTcjJLNjRMUktYMWJyM08wSkJOOTAyVU9YUzhHWXNNcnRMZldMZURlUUcxM2FKZE1nR1lBa3ItbFA3RkQ4Y1A5M1pPc1JkOXp2R0hMQ0RiTlAtNmdCT0N6ZUdSQTBNWUJaeWJ6cFFDcjhOYXd5YW1KS3V4U1BFY0VUOHFwT2pSSEFmZVBERDd4UlBSYkE?oc=5",
+        "date": "2026-10-06T15:37:07.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxOZUdydktITExxYlpVSHRmdE81ZC1QY3RFLXB5ZnVBV0VkMG1ZRmlxN0VlNzNCOTJmWFF0eVpxRFQxeXYtXzFwX0R5c1R0ZDF4MjI3LU9XcHhoWlIxYklZcE1qcXVLbzF1TlJIR3RRbWRMbGRuQ1BTcjJLNjRMUktYMWJyM08wSkJOOTAyVU9YUzhHWXNNcnRMZldMZURlUUcxM2FKZE1nR1lBa3ItbFA3RkQ4Y1A5M1pPc1JkOXp2R0hMQ0RiTlAtNmdCT0N6ZUdSQTBNWUJaeWJ6cFFDcjhOYXd5YW1KS3V4U1BFY0VUOHFwT2pSSEFmZVBERDd4UlBSYkE?oc=5\" target=\"_blank\">„Dann könnten wir die Pflege zusperren“ – CSU-Fraktionsvorsitzender warnt vor AfD</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WELT</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPWlliNWFvTXZYU2k1V1lQQzVjc2tUa1NDdkRGQjNlU01kSkZVY3pMam5LZXM3ZzdCMWlKNE4",
+        "title": "„Dann könnten wir die Pflege zusperren“ – CSU-Fraktionsvorsitzender warnt vor AfD - WELT"
+      },
+      {
+        "source": "WELT",
+        "url": "https://www.welt.de/politik/deutschland/article6ac50cde321809b09dd081c2/klaus-holetschek-dann-koennten-wir-die-pflege-zusperren-csu-fraktionsvorsitzender-warnt-vor-afd.html",
+        "date": "2026-10-06T15:33:52.000Z",
+        "snippet": "Der CSU-Fraktionsvorsitzende im bayerischen Landtag warnt vor der AfD. Durch das Konzept der „Remigration“ sieht Klaus Holetscheck die Stabilität der Pflege in Gefahr.",
+        "title": "„Dann könnten wir die Pflege zusperren“ – CSU-Fraktionsvorsitzender warnt vor AfD"
+      }
+    ],
+    "title": "„Dann könnten wir die Pflege zusperren“ – CSU-Fraktionsvorsitzender warnt vor AfD - WELT",
+    "summary": "„Dann könnten wir die Pflege zusperren“ – CSU-Fraktionsvorsitzender warnt vor AfD - WELT <ol><li><a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxOZUdydktITExxYlpVSHRmdE81ZC1QY3RFLXB5ZnVBV0VkMG1ZRmlxN0VlNzNCOTJmWFF0eVpxRFQxeXYtXzFwX0R5c1R0ZDF4MjI3LU9XcHhoWlIxYklZcE1qcXVLbzF1TlJIR3RRbWRMbGRuQ1BTcjJLNjRMUktYMWJyM08wSkJOOTAyVU9YUzhHWXNNcnRMZldMZURlUUcxM2FKZE1nR1lBa3ItbFA3RkQ4Y1A5M1pPc1JkOXp2R0hMQ0RiTlAtNmdCT0N6ZUdSQTBNWUJaeWJ6cFFDcjhOYXd5YW1KS3V4U1BFY0VUOHFwT2pSSEFmZVBERDd4UlBSYkE?oc=5\" target=\"_blank\">„Dann könnten wir die Pflege zusperren“ – CSU-Fraktionsvorsitzender warnt vor AfD</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WELT</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPWlliNWFvTXZYU2k1V1lQQzVjc2tUa1NDdkRGQjNlU01kSkZVY3pMam5LZXM3ZzdCMWlKNE4\n„Dann könnten wir die Pflege zusperren“ – CSU-Fraktionsvorsitzender warnt vor AfD Der CSU-Fraktionsvorsitzende im bayerischen Landtag warnt vor der AfD. Durch das Konzept der „Remigration“ sieht Klaus Holetscheck die Stabilität der Pflege in Gefahr."
+  },
+  {
+    "id": "story-480",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-06T15:33:00.000Z",
+    "sources": [
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNzFEdkdvNFIwRVB6WmhVVlM1dmM0cE95Qk5vWmkySExDbER3cVJXTjNWWndHLXV4Uzhmck5QV25TeDNYRjZ3VVFIQzJmWU51SlA1dWo5U0ZzXzRaNW10TkFER09XN0E4R1VqNkZvdFROOGNzVTZfTTR5anB6Skk5WGUzZmFGYUJ0MmZnQTVqZTBzNnlpZTVwOEdlV1N4U0V1T0ZkajdqQnotNTBXa1NEYUlFV3FqVEZuRjBoZHR1STcyVUo1R2xKN2J2ZmNYUlB2ZXc?oc=5",
+        "date": "2026-10-06T15:33:00.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNzFEdkdvNFIwRVB6WmhVVlM1dmM0cE95Qk5vWmkySExDbER3cVJXTjNWWndHLXV4Uzhmck5QV25TeDNYRjZ3VVFIQzJmWU51SlA1dWo5U0ZzXzRaNW10TkFER09XN0E4R1VqNkZvdFROOGNzVTZfTTR5anB6Skk5WGUzZmFGYUJ0MmZnQTVqZTBzNnlpZTVwOEdlV1N4U0V1T0ZkajdqQnotNTBXa1NEYUlFV3FqVEZuRjBoZHR1STcyVUo1R2xKN2J2ZmNYUlB2ZXc?oc=5\" target=\"_blank\">(S+) Europas Schwäche schürt die Angst vor einer neuen Finanzkrise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNWFBXdUpISXo4U184QXhKLUNJczZ6ZGZoUG1VSUhBUlVEU3NDM2l5bVRNRnY4X1ljV1JYeXJGWUV4Z2tUa1VjYWNmOHUyVGRnMHI5SVg3dElrV3NTR3FwNG9NUGkwS2NSQ1ZYUFFvY0JaRVdDOHB",
+        "title": "(S+) Europas Schwäche schürt die Angst vor einer neuen Finanzkrise - Spiegel"
+      },
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/wirtschaft/europas-schwaeche-schuert-die-angst-vor-einer-neuen-finanzkrise-a-59b155a0-12e4-48de-9a7a-81277f18d073#ref=rss",
+        "date": "2026-10-06T15:33:00.000Z",
+        "snippet": "Bei Anleihe-Investoren herrscht Aufruhr, der Euro schwächelt: Die Lage am Kapitalmarkt ist besorgniserregend. Was steckt dahinter? Antworten auf die wichtigsten Fragen.",
+        "title": "Europas Schwäche schürt die Angst vor einer neuen Finanzkrise"
+      }
+    ],
+    "title": "(S+) Europas Schwäche schürt die Angst vor einer neuen Finanzkrise - Spiegel",
+    "summary": "(S+) Europas Schwäche schürt die Angst vor einer neuen Finanzkrise - Spiegel <ol><li><a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNzFEdkdvNFIwRVB6WmhVVlM1dmM0cE95Qk5vWmkySExDbER3cVJXTjNWWndHLXV4Uzhmck5QV25TeDNYRjZ3VVFIQzJmWU51SlA1dWo5U0ZzXzRaNW10TkFER09XN0E4R1VqNkZvdFROOGNzVTZfTTR5anB6Skk5WGUzZmFGYUJ0MmZnQTVqZTBzNnlpZTVwOEdlV1N4U0V1T0ZkajdqQnotNTBXa1NEYUlFV3FqVEZuRjBoZHR1STcyVUo1R2xKN2J2ZmNYUlB2ZXc?oc=5\" target=\"_blank\">(S+) Europas Schwäche schürt die Angst vor einer neuen Finanzkrise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNWFBXdUpISXo4U184QXhKLUNJczZ6ZGZoUG1VSUhBUlVEU3NDM2l5bVRNRnY4X1ljV1JYeXJGWUV4Z2tUa1VjYWNmOHUyVGRnMHI5SVg3dElrV3NTR3FwNG9NUGkwS2NSQ1ZYUFFvY0JaRVdDOHB\nEuropas Schwäche schürt die Angst vor einer neuen Finanzkrise Bei Anleihe-Investoren herrscht Aufruhr, der Euro schwächelt: Die Lage am Kapitalmarkt ist besorgniserregend. Was steckt dahinter? Antworten auf die wichtigsten Fragen."
+  },
+  {
+    "id": "story-508",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-06T15:18:04.000Z",
+    "sources": [
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/paramount-warner-uebernahme-102.html",
+        "date": "2026-10-06T15:18:04.000Z",
+        "snippet": "Monatelang liefen die Verhandlungen über eine Übernahme des Warner-Konzerns. Jetzt hat Paramount den milliardenschweren Deal finalisiert. Doch die Fusion weckt Sorgen vor einem Jobabbau in Hollywood - und politischer Einflussnahme.",
+        "title": "Paramount übernimmt Warner offiziell - große Fusion in Hollywood"
+      },
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNzN5dDZjV210OTVTdmVKSkZvdjd3WlFjN25Xa2JLbGRfR1JPZFNHbXdyTjg3WnRyX0MzSFU1U2JJaUJYM2ZSNTBqeHg5SG5YMzVYVkozWlBuSlhMTC1xM214WjNiM19wWWh3d0ZxOHRWVFQ1SENPbEw5bEZQTUZxUUJIZ3JmNEpwZl9mRUJB?oc=5",
+        "date": "2026-10-06T15:18:00.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPNzN5dDZjV210OTVTdmVKSkZvdjd3WlFjN25Xa2JLbGRfR1JPZFNHbXdyTjg3WnRyX0MzSFU1U2JJaUJYM2ZSNTBqeHg5SG5YMzVYVkozWlBuSlhMTC1xM214WjNiM19wWWh3d0ZxOHRWVFQ1SENPbEw5bEZQTUZxUUJIZ3JmNEpwZl9mRUJB?oc=5\" target=\"_blank\">Paramount übernimmt Warner offiziell - große Fusion in Hollywood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNY1VzRUd1UDZsemNLWmFSdURiYVBfZ3J5bkhLNjJrVTZCRWtydEdnOTQ0QzJTNnhrNDA0c0FLVmtmanZ0R0ZtanNWNjJTQ014OTFyd0xkLU9ONHl2S0I4LW9rVGtuRWZZVEtoR182S3pVcjNickdKdmpEbHlQZVJ1OHc3UUFtT1RxLVRvMkh4SkoxM3NSbnlhRGZrX1cwdw?oc=5\" target=\"_blank\">Skydance ",
+        "title": "Paramount übernimmt Warner offiziell - große Fusion in Hollywood - tagesschau.de"
+      }
+    ],
+    "title": "Paramount übernimmt Warner offiziell - große Fusion in Hollywood",
+    "summary": "Paramount übernimmt Warner offiziell - große Fusion in Hollywood Monatelang liefen die Verhandlungen über eine Übernahme des Warner-Konzerns. Jetzt hat Paramount den milliardenschweren Deal finalisiert. Doch die Fusion weckt Sorgen vor einem Jobabbau in Hollywood - und politischer Einflussnahme.\nParamount übernimmt Warner offiziell - große Fusion in Hollywood - tagesschau.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPNzN5dDZjV210OTVTdmVKSkZvdjd3WlFjN25Xa2JLbGRfR1JPZFNHbXdyTjg3WnRyX0MzSFU1U2JJaUJYM2ZSNTBqeHg5SG5YMzVYVkozWlBuSlhMTC1xM214WjNiM19wWWh3d0ZxOHRWVFQ1SENPbEw5bEZQTUZxUUJIZ3JmNEpwZl9mRUJB?oc=5\" target=\"_blank\">Paramount übernimmt Warner offiziell - große Fusion in Hollywood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNY1VzRUd1UDZsemNLWmFSdURiYVBfZ3J5bkhLNjJrVTZCRWtydEdnOTQ0QzJTNnhrNDA0c0FLVmtmanZ0R0ZtanNWNjJTQ014OTFyd0xkLU9ONHl2S0I4LW9rVGtuRWZZVEtoR182S3pVcjNickdKdmpEbHlQZVJ1OHc3UUFtT1RxLVRvMkh4SkoxM3NSbnlhRGZrX1cwdw?oc=5\" target=\"_blank\">Skydance "
+  },
+  {
+    "id": "story-552",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-06T14:58:00.000Z",
+    "sources": [
+      {
+        "source": "DW Deutsch",
+        "url": "https://www.dw.com/de/spionageverdacht-gegen-august-hanning-ehemaliger-chef-des-bundesnachrichtendienstes-festgenommen/a-79564909?maca=de-rss-de-all-1119-xml-mrss",
+        "date": "2026-10-06T14:58:00.000Z",
+        "snippet": "Noch ist es nur ein Verdacht. Aber ausgerechnet dem früheren Leiter des deutschen Auslandsgeheimdienst wird Agententätigkeit für das Ausland vorgeworfen.",
+        "title": "Spionageverdacht gegen August Hanning: Ehemaliger Chef des Bundesnachrichtendienstes festgenommen"
+      },
+      {
+        "source": "SWR Aktuell",
+        "url": "https://www.swr.de/swraktuell-radio/bnd-hanning-festnahme-spionageverdacht-block-100.html",
+        "date": "2026-10-06T10:51:35.000Z",
+        "snippet": "Der frühere Chef des Bundesnachrichtendienstes, August Hanning, ist festgenommen worden. Er steht unter Spionageverdacht. SWR-Terrorismusexperte Holger Schmidt informiert über Hintergründe.",
+        "title": "Ex-BND-Chef Hanning festgenommen - Spionageverdacht"
+      }
+    ],
+    "title": "Spionageverdacht gegen August Hanning: Ehemaliger Chef des Bundesnachrichtendienstes festgenommen",
+    "summary": "Spionageverdacht gegen August Hanning: Ehemaliger Chef des Bundesnachrichtendienstes festgenommen Noch ist es nur ein Verdacht. Aber ausgerechnet dem früheren Leiter des deutschen Auslandsgeheimdienst wird Agententätigkeit für das Ausland vorgeworfen.\nEx-BND-Chef Hanning festgenommen - Spionageverdacht Der frühere Chef des Bundesnachrichtendienstes, August Hanning, ist festgenommen worden. Er steht unter Spionageverdacht. SWR-Terrorismusexperte Holger Schmidt informiert über Hintergründe."
+  },
+  {
+    "id": "story-584",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "BY",
+    "date": "2026-10-06T14:41:33.000Z",
+    "sources": [
+      {
+        "source": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/ex-bnd-praesident-hanning-wegen-spionageverdacht-festgenommen,VXFtPFD",
+        "date": "2026-10-06T14:41:33.000Z",
+        "snippet": "Der frühere BND-Präsident August Hanning ist unter Spionageverdacht festgenommen worden. Auch sein früherer Büroleiter wurde verhaftet und sitzt nun in Untersuchungshaft. Er soll Hanning mit streng geheimen Informationen versorgt haben.",
+        "title": "Verdacht auf Spionage: Ex-BND-Präsident Hanning festgenommen"
+      },
+      {
+        "source": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/deutschland/august-hanning-ex-bnd-chef-spionage-100.html",
+        "date": "2026-10-06T11:02:00.000Z",
+        "snippet": "Ermittler haben am Morgen den ehemaligen BND-Präsidenten August Hanning festgenommen. Er steht unter Spionageverdacht. Auch sein ehemaliger Büroleiter sitzt in Haft.",
+        "title": "Spionage-Verdacht: Ex-BND-Chef Hanning festgenommen"
+      }
+    ],
+    "title": "Verdacht auf Spionage: Ex-BND-Präsident Hanning festgenommen",
+    "summary": "Verdacht auf Spionage: Ex-BND-Präsident Hanning festgenommen Der frühere BND-Präsident August Hanning ist unter Spionageverdacht festgenommen worden. Auch sein früherer Büroleiter wurde verhaftet und sitzt nun in Untersuchungshaft. Er soll Hanning mit streng geheimen Informationen versorgt haben.\nSpionage-Verdacht: Ex-BND-Chef Hanning festgenommen Ermittler haben am Morgen den ehemaligen BND-Präsidenten August Hanning festgenommen. Er steht unter Spionageverdacht. Auch sein ehemaliger Büroleiter sitzt in Haft."
+  },
+  {
+    "id": "story-671",
     "topic": "politik",
     "country": "PT",
     "stateHint": "",
@@ -224,207 +832,57 @@
     "summary": "Trump aprova fuzilamento de ex-major que matou 13 pessoas em base Donald Trump aprovou o fuzilamento de um ex-major que matou 13 pessoas numa base militar dos Estados Unidos em 2009.\nTrump aprova fuzilamento do autor de massacre numa base militar no Texas em 2009 Donald Trump aprovou a execução por fuzilamento de Nidal Malik Hasan, condenado à morte por ter matado 13 pessoas e ferido outras 32 durante um tiroteio em 2009 na base militar de Fort Hood, no Texas."
   },
   {
-    "id": "story-98",
+    "id": "story-716",
+    "topic": "politik",
+    "country": "PT",
+    "stateHint": "",
+    "date": "2026-10-06T13:31:48.000Z",
+    "sources": [
+      {
+        "source": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/mundo/inquerio-da-oms-abusos-afetaram-dois-em-cada-tres-jovens-europeus_v1769890",
+        "date": "2026-10-06T13:31:48.000Z",
+        "snippet": "Dois em cada três jovens europeus sofreram de abusos durante a infância, negligência ou violência familiar - 76% precisaram de apoio de saúde mental.",
+        "title": "Inquério da OMS. Abusos afetaram dois em cada três jovens europeus"
+      },
+      {
+        "source": "RTP Mundo",
+        "url": "https://www.rtp.pt/noticias/mundo/dois-em-cada-tres-jovens-europeus-sofreram-abusos_n1769837",
+        "date": "2026-10-06T05:51:34.000Z",
+        "snippet": "Dois em cada três jovens europeus afirmam ter sido vítimas de abusos, negligência, violência doméstica ou outras experiências adversas semelhantes durante a infância, segundo um inquérito divulgado hoje pela Organização Mundial da Saúde (OMS).",
+        "title": "Dois em cada três jovens europeus sofreram abusos"
+      }
+    ],
+    "title": "Inquério da OMS. Abusos afetaram dois em cada três jovens europeus",
+    "summary": "Inquério da OMS. Abusos afetaram dois em cada três jovens europeus Dois em cada três jovens europeus sofreram de abusos durante a infância, negligência ou violência familiar - 76% precisaram de apoio de saúde mental.\nDois em cada três jovens europeus sofreram abusos Dois em cada três jovens europeus afirmam ter sido vítimas de abusos, negligência, violência doméstica ou outras experiências adversas semelhantes durante a infância, segundo um inquérito divulgado hoje pela Organização Mundial da Saúde (OMS)."
+  },
+  {
+    "id": "story-719",
     "topic": "panorama",
     "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-06T14:00:24.000Z",
-    "sources": [
-      {
-        "source": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/britischer-bestsellerautor-jeffrey-archer-im-alter-von-86-jahren-gestorben-102.html",
-        "date": "2026-10-06T14:00:24.000Z",
-        "snippet": "Der britische Bestsellerautor und ehemalige Politiker Jeffrey Archer ist im Alter von 86 Jahren gestorben.",
-        "title": "Literatur - Britischer Bestsellerautor Jeffrey Archer im Alter von 86 Jahren gestorben"
-      },
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/kultur/literatur-tod-jeffreyarcher-100.html",
-        "date": "2026-10-06T07:24:16.000Z",
-        "snippet": "Seinen ersten Roman schrieb Jeffrey Archer, um einer Pleite zu entgehen. Es folgte eine Karriere mit Millionen verkaufter Bücher und weltweit begeisterten Fans. Nun ist der Autor gestorben - nur einen Tag vor Erscheinen seines letzten Werks.",
-        "title": "Bestsellerautor Jeffrey Archer mit 86 Jahren gestorben"
-      }
-    ],
-    "title": "Literatur - Britischer Bestsellerautor Jeffrey Archer im Alter von 86 Jahren gestorben",
-    "summary": "Literatur - Britischer Bestsellerautor Jeffrey Archer im Alter von 86 Jahren gestorben Der britische Bestsellerautor und ehemalige Politiker Jeffrey Archer ist im Alter von 86 Jahren gestorben.\nBestsellerautor Jeffrey Archer mit 86 Jahren gestorben Seinen ersten Roman schrieb Jeffrey Archer, um einer Pleite zu entgehen. Es folgte eine Karriere mit Millionen verkaufter Bücher und weltweit begeisterten Fans. Nun ist der Autor gestorben - nur einen Tag vor Erscheinen seines letzten Werks."
-  },
-  {
-    "id": "story-107",
-    "topic": "sport",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-06T14:00:24.000Z",
-    "sources": [
-      {
-        "source": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/ioc-sechs-konkurrenten-fuer-muenchen-um-olympia-104.html",
-        "date": "2026-10-06T14:00:24.000Z",
-        "snippet": "Das Internationale Olympische Komitee hat die Bewerberländer für die Spiele im Jahr 2036 bekanntgegeben.",
-        "title": "Sport - IOC: Sechs Konkurrenten für München um Olympia 2036"
-      },
-      {
-        "source": "t-online Sport",
-        "url": "https://www.t-online.de/sport/olympia/id_101468566/olympia-2036-sechs-konkurrenten-fuer-deutschen-bewerber-muenchen.html",
-        "date": "2026-10-06T11:15:30.000Z",
-        "snippet": "Deutschland geht mit München als Bewerber für die Sommerspiele 2036 ins Rennen. Nun ist klar, gegen welche Länder es sich durchzusetzen gilt.",
-        "title": "Olympia 2036: Sechs Konkurrenten für deutschen Bewerber München"
-      }
-    ],
-    "title": "Sport - IOC: Sechs Konkurrenten für München um Olympia 2036",
-    "summary": "Sport - IOC: Sechs Konkurrenten für München um Olympia 2036 Das Internationale Olympische Komitee hat die Bewerberländer für die Spiele im Jahr 2036 bekanntgegeben.\nOlympia 2036: Sechs Konkurrenten für deutschen Bewerber München Deutschland geht mit München als Bewerber für die Sommerspiele 2036 ins Rennen. Nun ist klar, gegen welche Länder es sich durchzusetzen gilt."
-  },
-  {
-    "id": "story-113",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-06T14:00:11.000Z",
-    "sources": [
-      {
-        "source": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/ausland/europa/spanien-puigdemont-verfassungsgericht-100.html",
-        "date": "2026-10-06T14:00:11.000Z",
-        "snippet": "Per Referendum wollte der katalanische Regierungschef Puigdemont 2017 die Unabhängigkeit der Region durchsetzen - und scheiterte. Es folgte die Flucht ins Ausland und Jahre im Exi…",
-        "title": "Puigdemont kann nach Spanien zurückkehren"
-      },
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/europa/spanien-puigdemont-verfassungsgericht-100.html",
-        "date": "2026-10-06T13:40:37.000Z",
-        "snippet": "Per Referendum wollte der katalanische Regierungschef Puigdemont 2017 die Unabhängigkeit der Region durchsetzen - und scheiterte. Es folgte die Flucht ins Ausland und Jahre im Exil. Nun ebnet das Verfassungsgericht den Weg für seine mögliche Rückkehr.",
-        "title": "Separatistenführer Puigdemont kann nach Spanien zurückkehren"
-      }
-    ],
-    "title": "Puigdemont kann nach Spanien zurückkehren",
-    "summary": "Puigdemont kann nach Spanien zurückkehren Per Referendum wollte der katalanische Regierungschef Puigdemont 2017 die Unabhängigkeit der Region durchsetzen - und scheiterte. Es folgte die Flucht ins Ausland und Jahre im Exi…\nSeparatistenführer Puigdemont kann nach Spanien zurückkehren Per Referendum wollte der katalanische Regierungschef Puigdemont 2017 die Unabhängigkeit der Region durchsetzen - und scheiterte. Es folgte die Flucht ins Ausland und Jahre im Exil. Nun ebnet das Verfassungsgericht den Weg für seine mögliche Rückkehr."
-  },
-  {
-    "id": "story-114",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-06T14:00:05.000Z",
-    "sources": [
-      {
-        "source": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-schulen-100.html",
-        "date": "2026-10-06T14:00:05.000Z",
-        "snippet": "Blockierte Gymnasien und Hochschulen, landesweite Demos: In Frankreich haben sich die Schülerproteste ausgeweitet. Auch Gewerkschaften schlossen sich den Protesten an. Die Polizei…",
-        "title": "Schülerproteste erreichen neuen Höhepunkt"
-      },
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-schulen-100.html",
-        "date": "2026-10-06T13:42:34.000Z",
-        "snippet": "Blockierte Gymnasien und Hochschulen, landesweite Demos: In Frankreich haben sich die Schülerproteste ausgeweitet. Auch Gewerkschaften schlossen sich den Protesten an. Die Polizei ist mit einem Großaufgebot im Einsatz.",
-        "title": "Schülerproteste in Frankreich erreichen neuen Höhepunkt"
-      }
-    ],
-    "title": "Schülerproteste erreichen neuen Höhepunkt",
-    "summary": "Schülerproteste erreichen neuen Höhepunkt Blockierte Gymnasien und Hochschulen, landesweite Demos: In Frankreich haben sich die Schülerproteste ausgeweitet. Auch Gewerkschaften schlossen sich den Protesten an. Die Polizei…\nSchülerproteste in Frankreich erreichen neuen Höhepunkt Blockierte Gymnasien und Hochschulen, landesweite Demos: In Frankreich haben sich die Schülerproteste ausgeweitet. Auch Gewerkschaften schlossen sich den Protesten an. Die Polizei ist mit einem Großaufgebot im Einsatz."
-  },
-  {
-    "id": "story-122",
-    "topic": "wirtschaft",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-06T13:58:24.000Z",
-    "sources": [
-      {
-        "source": "t-online Wirtschaft",
-        "url": "https://www.t-online.de/finanzen/aktuelles/wirtschaft/id_101469010/warner-brothers-paramount-schliesst-mega-deal-in-hollywood-ab.html",
-        "date": "2026-10-06T13:58:24.000Z",
-        "snippet": "Eine Mega-Fusion krempelt Hollywood um: Paramount schluckt den Rivalen Warner Brothers. Der neue Konzern startet mit Milliardenschulden und Fragen nach politischem Einfluss eines Trump-Freundes.",
-        "title": "Warner Brothers: Paramount schließt Mega-Deal in Hollywood ab"
-      },
-      {
-        "source": "Handelsblatt",
-        "url": "https://www.handelsblatt.com/unternehmen/it-medien/paramount-warner-uebernahme-abgeschlossen/100260146.html",
-        "date": "2026-10-06T13:22:43.000Z",
-        "snippet": "Die Großübernahme krempelt Hollywood um. Der neue Konzern mit dem Namen Skydance startet mit Milliardenschulden und der Frage nach politischem Einfluss.",
-        "title": "Filmstudios: Mega-Fusion ist durch: Paramount schließt Warner-Übernahme ab"
-      }
-    ],
-    "title": "Warner Brothers: Paramount schließt Mega-Deal in Hollywood ab",
-    "summary": "Warner Brothers: Paramount schließt Mega-Deal in Hollywood ab Eine Mega-Fusion krempelt Hollywood um: Paramount schluckt den Rivalen Warner Brothers. Der neue Konzern startet mit Milliardenschulden und Fragen nach politischem Einfluss eines Trump-Freundes.\nFilmstudios: Mega-Fusion ist durch: Paramount schließt Warner-Übernahme ab Die Großübernahme krempelt Hollywood um. Der neue Konzern mit dem Namen Skydance startet mit Milliardenschulden und der Frage nach politischem Einfluss."
-  },
-  {
-    "id": "story-141",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-06T13:53:00.000Z",
+    "stateHint": "BY",
+    "date": "2026-10-06T13:30:00.000Z",
     "sources": [
       {
         "source": "DW Deutsch",
-        "url": "https://www.dw.com/de/ex-bnd-chef-hanning-wegen-spionageverdachts-festgenommen/a-79560433?maca=de-rss-de-all-1119-xml-mrss",
-        "date": "2026-10-06T13:53:00.000Z",
-        "snippet": "Der frühere BND-Präsident August Hanning ist festgenommen worden. Ermittler verdächtigen ihn, geheime Informationen aus dem BND erhalten und Erkenntnisse daraus an ausländische Akteure weitergegeben zu haben.",
-        "title": "Ex-BND-Chef Hanning wegen Spionageverdachts festgenommen"
+        "url": "https://www.dw.com/de/bewerbung-für-olympia-2036-münchen-gegen-sechs-konkurrenten/a-79564755?maca=de-rss-de-all-1119-xml-mrss",
+        "date": "2026-10-06T13:30:00.000Z",
+        "snippet": "Das Internationale Olympische Komitee veröffentlicht, wer außer München noch ins Rennen um die Austragung der Olympischen Spiele 2036 geht. Die Bewerbung aus Deutschland bekommt Konkurrenz von drei Kontinenten.",
+        "title": "Bewerbung für Olympia 2036: München gegen sechs Konkurrenten"
       },
       {
-        "source": "t-online Nachrichten",
-        "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101468102/ex-bnd-chef-hanning-wegen-spionageverdacht-festgenommen-.html",
-        "date": "2026-10-06T09:05:07.000Z",
-        "snippet": "Der frühere BND-Präsident August Hanning wurde festgenommen. Es besteht Haftbefehl aufgrund schwerer Vorwürfe.",
-        "title": "Ex-BND-Chef Hanning wegen Spionageverdacht festgenommen"
+        "source": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/sport/ioc-gibt-olympia-bewerber-bekannt-sechs-konkurrenten-fuer-muenchen-um-olympia-2036,VXGLUjI",
+        "date": "2026-10-06T11:06:02.000Z",
+        "snippet": "Die Münchner Bewerbung hat im Rennen um die Sommerspiele 2036 Konkurrenz aus sechs Ländern. Als weitere Kandidaten für Olympia und Paralympics nannte das Internationale Olympische Komitee Katar, Indien, Südkorea, Ungarn, Türkei und Südafrika.",
+        "title": "IOC: Sechs Konkurrenten für München im Kampf um Olympia 2036"
       }
     ],
-    "title": "Ex-BND-Chef Hanning wegen Spionageverdachts festgenommen",
-    "summary": "Ex-BND-Chef Hanning wegen Spionageverdachts festgenommen Der frühere BND-Präsident August Hanning ist festgenommen worden. Ermittler verdächtigen ihn, geheime Informationen aus dem BND erhalten und Erkenntnisse daraus an ausländische Akteure weitergegeben zu haben.\nEx-BND-Chef Hanning wegen Spionageverdacht festgenommen Der frühere BND-Präsident August Hanning wurde festgenommen. Es besteht Haftbefehl aufgrund schwerer Vorwürfe."
+    "title": "Bewerbung für Olympia 2036: München gegen sechs Konkurrenten",
+    "summary": "Bewerbung für Olympia 2036: München gegen sechs Konkurrenten Das Internationale Olympische Komitee veröffentlicht, wer außer München noch ins Rennen um die Austragung der Olympischen Spiele 2036 geht. Die Bewerbung aus Deutschland bekommt Konkurrenz von drei Kontinenten.\nIOC: Sechs Konkurrenten für München im Kampf um Olympia 2036 Die Münchner Bewerbung hat im Rennen um die Sommerspiele 2036 Konkurrenz aus sechs Ländern. Als weitere Kandidaten für Olympia und Paralympics nannte das Internationale Olympische Komitee Katar, Indien, Südkorea, Ungarn, Türkei und Südafrika."
   },
   {
-    "id": "story-158",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "NI",
-    "date": "2026-10-06T13:49:20.000Z",
-    "sources": [
-      {
-        "source": "stern",
-        "url": "https://www.stern.de/gesellschaft/regional/nordrhein-westfalen/hagen--15-jaehriger-bei-e-scooter-unfall-lebensgefaehrlich-verletzt-38357400.html",
-        "date": "2026-10-06T13:49:20.000Z",
-        "snippet": "Ein 15-Jähriger stürzt mit seinem E-Scooter und erleidet lebensgefährliche Kopfverletzungen. Die Polizei prüft, ob das Fahrzeug technisch manipuliert war.",
-        "title": "Hagen: 15-Jähriger bei E-Scooter-Unfall lebensgefährlich verletzt"
-      },
-      {
-        "source": "Tagesschau Regional Niedersachsen",
-        "url": "https://www.tagesschau.de/inland/regional/niedersachsen/brake-66-jaehriger-bei-unfall-lebensgefaehrlich-verletzt,aktuelloldenburg-4530.html",
-        "date": "2026-10-06T13:49:10.000Z",
-        "snippet": "Der Autofahrer war laut Polizei aus ungeklärter Ursache von der Fahrbahn abgekommen. Dabei prallte er gegen einen Baum.",
-        "title": "Brake: 66-Jähriger bei Unfall lebensgefährlich verletzt"
-      }
-    ],
-    "title": "Hagen: 15-Jähriger bei E-Scooter-Unfall lebensgefährlich verletzt",
-    "summary": "Hagen: 15-Jähriger bei E-Scooter-Unfall lebensgefährlich verletzt Ein 15-Jähriger stürzt mit seinem E-Scooter und erleidet lebensgefährliche Kopfverletzungen. Die Polizei prüft, ob das Fahrzeug technisch manipuliert war.\nBrake: 66-Jähriger bei Unfall lebensgefährlich verletzt Der Autofahrer war laut Polizei aus ungeklärter Ursache von der Fahrbahn abgekommen. Dabei prallte er gegen einen Baum."
-  },
-  {
-    "id": "story-217",
-    "topic": "technik",
-    "country": "UK",
-    "stateHint": "",
-    "date": "2026-10-06T13:22:43.000Z",
-    "sources": [
-      {
-        "source": "Guardian World",
-        "url": "https://www.theguardian.com/technology/2026/oct/06/ofcom-investigates-meta-instagram-instants-safety-checks",
-        "date": "2026-10-06T13:22:43.000Z",
-        "snippet": "<p>Watchdog examining whether company carried out adequate risk assessment as required by Online Safety Act</p><p>Mark Zuckerberg’s Meta is under investigation for a potential breach of the UK’s digital safety laws after launching a Snapchat-style feature on Instagram.</p><p>The communications watchdog, Ofcom, is investigating whether the $1.9tn (£1.4tn) company infringed the Online Safety Act (OSA) by failing to carry out adequate checks on whether its Instagram Instants product could show illegal content or be accessed by children.</p> <a href=\"https://www.theguardian.com/technology/2026/oct/06/ofcom-investigates-meta-instagram-instants-safety-checks\">Continue reading...</a>",
-        "title": "Ofcom investigates Meta over Instagram Instants safety checks"
-      },
-      {
-        "source": "BBC Technology",
-        "url": "https://www.bbc.co.uk/news/articles/cq8jzyey8e2ro?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-06T09:04:02.000Z",
-        "snippet": "The regulator said Instagram had not fully assessed risks posed by its Instants feature prior to launching it.",
-        "title": "Ofcom investigates Meta over Instagram Instants feature"
-      }
-    ],
-    "title": "Ofcom investigates Meta over Instagram Instants safety checks",
-    "summary": "Ofcom investigates Meta over Instagram Instants safety checks <p>Watchdog examining whether company carried out adequate risk assessment as required by Online Safety Act</p><p>Mark Zuckerberg’s Meta is under investigation for a potential breach of the UK’s digital safety laws after launching a Snapchat-style feature on Instagram.</p><p>The communications watchdog, Ofcom, is investigating whether the $1.9tn (£1.4tn) company infringed the Online Safety Act (OSA) by failing to carry out adequate checks on whether its Instagram Instants product could show illegal content or be accessed by children.</p> <a href=\"https://www.theguardian.com/technology/2026/oct/06/ofcom-investigates-meta-instagram-instants-safety-checks\">Continue reading...</a>\nOfcom investigates Meta over Instagram Instants feature The regulator said Instagram had not fully assessed risks posed by its Instants feature prior to launching it."
-  },
-  {
-    "id": "story-218",
+    "id": "story-726",
     "topic": "politik",
     "country": "PT",
     "stateHint": "",
@@ -434,11 +892,11 @@
         "source": "Google News Portugal",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbkg4YjBlV2lta0xMalp0ZzNPMTdmZzdodXQ3ZnlhdnZoT1MtTWY3RmJjczRBcmpNQ1VDMk1xYzNWM2R4dDZqOFVydmphdEFiY3N0aXNsMHVnWmxYYW5XcHNHTnBCZmFmeFdSNDQ5RnhYeTZ3bGQwZGo5Q3ZXMTh6bXp2TlVXOWhSOVI3SkZyZ3RzSWwyMDJHdU9ncTJiQzF5WVU0X1BmdTVsM3VHN2pqSENlRnpFaUtpaC11bmxqZFI?oc=5",
         "date": "2026-10-06T13:21:19.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbkg4YjBlV2lta0xMalp0ZzNPMTdmZzdodXQ3ZnlhdnZoT1MtTWY3RmJjczRBcmpNQ1VDMk1xYzNWM2R4dDZqOFVydmphdEFiY3N0aXNsMHVnWmxYYW5XcHNHTnBCZmFmeFdSNDQ5RnhYeTZ3bGQwZGo5Q3ZXMTh6bXp2TlVXOWhSOVI3SkZyZ3RzSWwyMDJHdU9ncTJiQzF5WVU0X1BmdTVsM3VHN2pqSENlRnpFaUtpaC11bmxqZFI?oc=5\" target=\"_blank\">Da crise energética à habitação. Montenegro pede \"ambição e coragem\" em Estrasburgo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeDhCRXg0VjZUYVpQYm5mVW5rNnZMQ19yZDlzNjh2QVctMlVGMEYtRGdZdXd0b0xmNDJtWXRLMVYtT3o2dTBCYVREV3A1RGlGMjJuOS1FS3cyWlEwcjBsQ3IyS3BrSmtmMzI5akNOalp0dmxpRlBNVWN5LUl4eS",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbkg4YjBlV2lta0xMalp0ZzNPMTdmZzdodXQ3ZnlhdnZoT1MtTWY3RmJjczRBcmpNQ1VDMk1xYzNWM2R4dDZqOFVydmphdEFiY3N0aXNsMHVnWmxYYW5XcHNHTnBCZmFmeFdSNDQ5RnhYeTZ3bGQwZGo5Q3ZXMTh6bXp2TlVXOWhSOVI3SkZyZ3RzSWwyMDJHdU9ncTJiQzF5WVU0X1BmdTVsM3VHN2pqSENlRnpFaUtpaC11bmxqZFI?oc=5\" target=\"_blank\">Da crise energética à habitação. Montenegro pede \"ambição e coragem\" em Estrasburgo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNczdqZ0pma1ZSWnBnb3RvMmlSYTVJeUgtT1ZYaWY1TENiZmU2MWVRUThlNnA3QjNzV1VTVzN6eDJUekVVbGVfdVNILUFvSW1GN0NTYjJCb1AzOFNyTzg4dGJvaml4VU5oWnFtQVdlZTdmUUFXZnVmS3U3QzNPT0",
         "title": "Da crise energética à habitação. Montenegro pede \"ambição e coragem\" em Estrasburgo - RTP"
       },
       {
-        "source": "RTP Notícias",
+        "source": "RTP Mundo",
         "url": "https://www.rtp.pt/noticias/mundo/da-crise-energetica-a-habitacao-montenegro-pede-ambicao-e-coragem-em-estrasburgo_n1769865",
         "date": "2026-10-06T10:59:36.000Z",
         "snippet": "Em contexto de negociação do próximo orçamento comunitário, para o período 2028-2034, em dia de greves em Portugal, o primeiro-ministro defendeu que a União Europeia deve pensar em novas formas de receita para ter orçamentos mais ambiciosos.",
@@ -446,235 +904,35 @@
       }
     ],
     "title": "Da crise energética à habitação. Montenegro pede \"ambição e coragem\" em Estrasburgo - RTP",
-    "summary": "Da crise energética à habitação. Montenegro pede \"ambição e coragem\" em Estrasburgo - RTP <ol><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbkg4YjBlV2lta0xMalp0ZzNPMTdmZzdodXQ3ZnlhdnZoT1MtTWY3RmJjczRBcmpNQ1VDMk1xYzNWM2R4dDZqOFVydmphdEFiY3N0aXNsMHVnWmxYYW5XcHNHTnBCZmFmeFdSNDQ5RnhYeTZ3bGQwZGo5Q3ZXMTh6bXp2TlVXOWhSOVI3SkZyZ3RzSWwyMDJHdU9ncTJiQzF5WVU0X1BmdTVsM3VHN2pqSENlRnpFaUtpaC11bmxqZFI?oc=5\" target=\"_blank\">Da crise energética à habitação. Montenegro pede \"ambição e coragem\" em Estrasburgo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeDhCRXg0VjZUYVpQYm5mVW5rNnZMQ19yZDlzNjh2QVctMlVGMEYtRGdZdXd0b0xmNDJtWXRLMVYtT3o2dTBCYVREV3A1RGlGMjJuOS1FS3cyWlEwcjBsQ3IyS3BrSmtmMzI5akNOalp0dmxpRlBNVWN5LUl4eS\nDa crise energética à habitação. Montenegro pede \"ambição e coragem\" em Estrasburgo Em contexto de negociação do próximo orçamento comunitário, para o período 2028-2034, em dia de greves em Portugal, o primeiro-ministro defendeu que a União Europeia deve pensar em novas formas de receita para ter orçamentos mais ambiciosos."
+    "summary": "Da crise energética à habitação. Montenegro pede \"ambição e coragem\" em Estrasburgo - RTP <ol><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbkg4YjBlV2lta0xMalp0ZzNPMTdmZzdodXQ3ZnlhdnZoT1MtTWY3RmJjczRBcmpNQ1VDMk1xYzNWM2R4dDZqOFVydmphdEFiY3N0aXNsMHVnWmxYYW5XcHNHTnBCZmFmeFdSNDQ5RnhYeTZ3bGQwZGo5Q3ZXMTh6bXp2TlVXOWhSOVI3SkZyZ3RzSWwyMDJHdU9ncTJiQzF5WVU0X1BmdTVsM3VHN2pqSENlRnpFaUtpaC11bmxqZFI?oc=5\" target=\"_blank\">Da crise energética à habitação. Montenegro pede \"ambição e coragem\" em Estrasburgo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNczdqZ0pma1ZSWnBnb3RvMmlSYTVJeUgtT1ZYaWY1TENiZmU2MWVRUThlNnA3QjNzV1VTVzN6eDJUekVVbGVfdVNILUFvSW1GN0NTYjJCb1AzOFNyTzg4dGJvaml4VU5oWnFtQVdlZTdmUUFXZnVmS3U3QzNPT0\nDa crise energética à habitação. Montenegro pede \"ambição e coragem\" em Estrasburgo Em contexto de negociação do próximo orçamento comunitário, para o período 2028-2034, em dia de greves em Portugal, o primeiro-ministro defendeu que a União Europeia deve pensar em novas formas de receita para ter orçamentos mais ambiciosos."
   },
   {
-    "id": "story-278",
-    "topic": "wissenschaft",
-    "country": "US",
-    "stateHint": "",
-    "date": "2026-10-06T13:00:00.000Z",
-    "sources": [
-      {
-        "source": "NASA",
-        "url": "https://science.nasa.gov/missions/webb/nasas-webb-captures-commotion-from-nebulas-stellar-jets/",
-        "date": "2026-10-06T13:00:00.000Z",
-        "snippet": "A cauldron of cosmic creation is being revealed in a new image from NASA’s James Webb Space Telescope. Webb has unveiled numerous stars formerly hidden by clouds of dust in a stellar nursery known as NGC 7129, which resides about 3,300 light-years from Earth. Stars, the engines of elemental creation, have life cycles that begin […]",
-        "title": "NASA’s Webb Captures Commotion From Nebula’s Stellar Jets"
-      },
-      {
-        "source": "ESA",
-        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Webb_captures_commotion_from_nebula_s_stellar_jets",
-        "date": "2026-10-06T13:00:00.000Z",
-        "snippet": "Image: Webb captures commotion from nebula’s stellar jets",
-        "title": "Webb captures commotion from nebula’s stellar jets"
-      }
-    ],
-    "title": "NASA’s Webb Captures Commotion From Nebula’s Stellar Jets",
-    "summary": "NASA’s Webb Captures Commotion From Nebula’s Stellar Jets A cauldron of cosmic creation is being revealed in a new image from NASA’s James Webb Space Telescope. Webb has unveiled numerous stars formerly hidden by clouds of dust in a stellar nursery known as NGC 7129, which resides about 3,300 light-years from Earth. Stars, the engines of elemental creation, have life cycles that begin […]\nWebb captures commotion from nebula’s stellar jets Image: Webb captures commotion from nebula’s stellar jets"
-  },
-  {
-    "id": "story-296",
-    "topic": "politik",
+    "id": "story-778",
+    "topic": "panorama",
     "country": "DE",
     "stateHint": "",
-    "date": "2026-10-06T12:55:09.000Z",
-    "sources": [
-      {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWVJ6SEhySThocngxcWNvaVNhdVQ4TnRwOXk4cWhiejgtWE5fUkRta3YxNTFPbHp6VVRhMVJ3ekoyWGVUbklhYU9OZXRhMmwwYWNIckF2dzZFM1BFNUJuSXR5RUZpQ1J5NmhhVk5lRGFRdFAzUmtLeERrY2hDZHQ0SHlEMXdzb0E0OTU0NjNmYkdrNUZZbHJtUEpZRm1GTTBjNGc?oc=5",
-        "date": "2026-10-06T12:55:09.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNWVJ6SEhySThocngxcWNvaVNhdVQ4TnRwOXk4cWhiejgtWE5fUkRta3YxNTFPbHp6VVRhMVJ3ekoyWGVUbklhYU9OZXRhMmwwYWNIckF2dzZFM1BFNUJuSXR5RUZpQ1J5NmhhVk5lRGFRdFAzUmtLeERrY2hDZHQ0SHlEMXdzb0E0OTU0NjNmYkdrNUZZbHJtUEpZRm1GTTBjNGc?oc=5\" target=\"_blank\">Eigentümer mit Trump verbündet: Paramount schließt Warner-Übernahme ab - Sorge um CNN</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lROHFLTUVoSEZDYUtOZFFBLUZDZ0FQAQ?hl=de&gl=DE&ceid=DE:de&oc=5\" target=\"_blank\">Weitere Schlagzeilen und Meinungen in Google News</a></strong>",
-        "title": "Eigentümer mit Trump verbündet: Paramount schließt Warner-Übernahme ab - Sorge um CNN - n-tv.de"
-      },
-      {
-        "source": "ntv",
-        "url": "https://www.n-tv.de/wirtschaft/Paramount-schliesst-Warner-Uebernahme-ab-Sorge-um-CNN-id31387904.html",
-        "date": "2026-10-06T12:55:09.000Z",
-        "snippet": "Der Unterhaltungskonzern Paramount übernimmt den Konkurrenten Warner Brothers. Die Mega-Fusion hat nicht nur Einfluss auf das Filmgeschäft in Hollywood: Kritiker fürchten auch um die Unabhängigkeit von CNN - der Sender ist US-Präsident Trump ein Dorn im Auge.",
-        "title": "Eigentümer mit Trump verbündet: Paramount schließt Warner-Übernahme ab - Sorge um CNN"
-      }
-    ],
-    "title": "Eigentümer mit Trump verbündet: Paramount schließt Warner-Übernahme ab - Sorge um CNN - n-tv.de",
-    "summary": "Eigentümer mit Trump verbündet: Paramount schließt Warner-Übernahme ab - Sorge um CNN - n-tv.de <a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNWVJ6SEhySThocngxcWNvaVNhdVQ4TnRwOXk4cWhiejgtWE5fUkRta3YxNTFPbHp6VVRhMVJ3ekoyWGVUbklhYU9OZXRhMmwwYWNIckF2dzZFM1BFNUJuSXR5RUZpQ1J5NmhhVk5lRGFRdFAzUmtLeERrY2hDZHQ0SHlEMXdzb0E0OTU0NjNmYkdrNUZZbHJtUEpZRm1GTTBjNGc?oc=5\" target=\"_blank\">Eigentümer mit Trump verbündet: Paramount schließt Warner-Übernahme ab - Sorge um CNN</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lROHFLTUVoSEZDYUtOZFFBLUZDZ0FQAQ?hl=de&gl=DE&ceid=DE:de&oc=5\" target=\"_blank\">Weitere Schlagzeilen und Meinungen in Google News</a></strong>\nEigentümer mit Trump verbündet: Paramount schließt Warner-Übernahme ab - Sorge um CNN Der Unterhaltungskonzern Paramount übernimmt den Konkurrenten Warner Brothers. Die Mega-Fusion hat nicht nur Einfluss auf das Filmgeschäft in Hollywood: Kritiker fürchten auch um die Unabhängigkeit von CNN - der Sender ist US-Präsident Trump ein Dorn im Auge."
-  },
-  {
-    "id": "story-304",
-    "topic": "panorama",
-    "country": "INT",
-    "stateHint": "",
-    "date": "2026-10-06T12:52:28.000Z",
-    "sources": [
-      {
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/6/former-german-spy-chief-arrested-on-suspicion-of-treason-and-espionage?traffic_source=rss",
-        "date": "2026-10-06T12:52:28.000Z",
-        "snippet": "August Hanning's former chief of staff was also arrested on suspicion of 'aiding and abetting attempted treason'.",
-        "title": "Former German spy chief arrested on suspicion of treason and espionage"
-      },
-      {
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-06T10:05:42.000Z",
-        "snippet": "August Hanning is accused of obtaining classified information for a foreign power.",
-        "title": "Former German spy chief arrested for espionage and treason"
-      }
-    ],
-    "title": "Former German spy chief arrested on suspicion of treason and espionage",
-    "summary": "Former German spy chief arrested on suspicion of treason and espionage August Hanning's former chief of staff was also arrested on suspicion of 'aiding and abetting attempted treason'.\nFormer German spy chief arrested for espionage and treason August Hanning is accused of obtaining classified information for a foreign power."
-  },
-  {
-    "id": "story-349",
-    "topic": "wissenschaft",
-    "country": "INT",
-    "stateHint": "",
-    "date": "2026-10-06T12:31:16.000Z",
-    "sources": [
-      {
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/6/francis-halzen-wins-nobel-prize-in-physics-for-work-on-ghost-particles?traffic_source=rss",
-        "date": "2026-10-06T12:31:16.000Z",
-        "snippet": "Belgian physicist worked to build Antarctic observatory that tracks neutrinos from deep space.",
-        "title": "Francis Halzen wins Nobel Prize in Physics for work on ‘ghost particles’"
-      },
-      {
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-06T11:24:19.000Z",
-        "snippet": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.",
-        "title": "'Ghost particles' from space telescope wins physics Nobel"
-      }
-    ],
-    "title": "Francis Halzen wins Nobel Prize in Physics for work on ‘ghost particles’",
-    "summary": "Francis Halzen wins Nobel Prize in Physics for work on ‘ghost particles’ Belgian physicist worked to build Antarctic observatory that tracks neutrinos from deep space.\n'Ghost particles' from space telescope wins physics Nobel Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space."
-  },
-  {
-    "id": "story-390",
-    "topic": "politik",
-    "country": "PT",
-    "stateHint": "",
-    "date": "2026-10-06T12:17:34.000Z",
-    "sources": [
-      {
-        "source": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOXpwV0ZSaVRRRk1CTlNRNTFQazlYZTlPUFFQc29KbzR5ei0zQzVkWG1FTElHLWEyTHRYZG4zOHByUFFWaDFPdVZRWHJJMEUyMjk4Y2xjZWN0endxWjlPampmYXdtT0EtcnBySVFtNnVmbVcxWVJPVm1zeFJCWXJMQjE4OGpkUHFPUjN5U05wTk5nUmpLNTBTRk8yVTU0VTJOTlVaSHEyd2xhangtTGFSREVLNXdXQUk?oc=5",
-        "date": "2026-10-06T12:17:34.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPOXpwV0ZSaVRRRk1CTlNRNTFQazlYZTlPUFFQc29KbzR5ei0zQzVkWG1FTElHLWEyTHRYZG4zOHByUFFWaDFPdVZRWHJJMEUyMjk4Y2xjZWN0endxWjlPampmYXdtT0EtcnBySVFtNnVmbVcxWVJPVm1zeFJCWXJMQjE4OGpkUHFPUjN5U05wTk5nUmpLNTBTRk8yVTU0VTJOTlVaSHEyd2xhangtTGFSREVLNXdXQUk?oc=5\" target=\"_blank\">\"Situação poderá agravar-se\". Von der Leyen alerta para os preços da energia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQRHBYMS1RdmhrODJaR0dwZHctUUhUN0lKeDRYZUJ4WEU5ZU1Pd3hOdXM3SHV2YjNud3BYQVRLNVNqdE9jRVZ2cElDT2NPamtJTmd2V2N3WkFOUVlnRHU1Q1ZIdlpyNkVOR19UN3JGa3BuZ0RwREFkRFR2YlBpd25YM2prOHBuRFlOVGtIL",
-        "title": "\"Situação poderá agravar-se\". Von der Leyen alerta para os preços da energia - RTP"
-      },
-      {
-        "source": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/mundo/situacao-podera-agravar-se-von-der-leyen-alerta-para-os-precos-da-energia_n1769859",
-        "date": "2026-10-06T10:04:19.000Z",
-        "snippet": "A presidente da Comissão Europeia antecipa o agravamento da pressão sobre os preços da energia com a chegada do inverno. Ursula von der Leyen defende que a União Europeia tem de \"agir agora para proteger aqueles que mais precisam e para garantir que saímos desta crise mais fortes do que entrámos nela\".",
-        "title": "\"Situação poderá agravar-se\". Von der Leyen alerta para os preços da energia"
-      }
-    ],
-    "title": "\"Situação poderá agravar-se\". Von der Leyen alerta para os preços da energia - RTP",
-    "summary": "\"Situação poderá agravar-se\". Von der Leyen alerta para os preços da energia - RTP <ol><li><a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPOXpwV0ZSaVRRRk1CTlNRNTFQazlYZTlPUFFQc29KbzR5ei0zQzVkWG1FTElHLWEyTHRYZG4zOHByUFFWaDFPdVZRWHJJMEUyMjk4Y2xjZWN0endxWjlPampmYXdtT0EtcnBySVFtNnVmbVcxWVJPVm1zeFJCWXJMQjE4OGpkUHFPUjN5U05wTk5nUmpLNTBTRk8yVTU0VTJOTlVaSHEyd2xhangtTGFSREVLNXdXQUk?oc=5\" target=\"_blank\">\"Situação poderá agravar-se\". Von der Leyen alerta para os preços da energia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQRHBYMS1RdmhrODJaR0dwZHctUUhUN0lKeDRYZUJ4WEU5ZU1Pd3hOdXM3SHV2YjNud3BYQVRLNVNqdE9jRVZ2cElDT2NPamtJTmd2V2N3WkFOUVlnRHU1Q1ZIdlpyNkVOR19UN3JGa3BuZ0RwREFkRFR2YlBpd25YM2prOHBuRFlOVGtIL\n\"Situação poderá agravar-se\". Von der Leyen alerta para os preços da energia A presidente da Comissão Europeia antecipa o agravamento da pressão sobre os preços da energia com a chegada do inverno. Ursula von der Leyen defende que a União Europeia tem de \"agir agora para proteger aqueles que mais precisam e para garantir que saímos desta crise mais fortes do que entrámos nela\"."
-  },
-  {
-    "id": "story-435",
-    "topic": "sport",
-    "country": "INT",
-    "stateHint": "",
-    "date": "2026-10-06T11:55:47.000Z",
-    "sources": [
-      {
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/sports/2026/10/6/tennis-world-number-one-sinner-will-not-play-in-2026-due-to-knee-injury?traffic_source=rss",
-        "date": "2026-10-06T11:55:47.000Z",
-        "snippet": "Jannik Sinner has not competed in a tournament since winning at Wimbledon in July and will continue his recovery.",
-        "title": "Tennis: World number one Sinner will not play in 2026 due to knee injury"
-      },
-      {
-        "source": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRGNWYXgwWFhWOVF2R3pucHBjNEtOX01XQTZIRjNNb3htWV9tR0paUGdZdFBnRnBQVmhlUDBaMVE3UU56UnJrMWpRRVVLaS0yU19aQVhYNW1HNV9saGxsMUJodEZNYklTVGJjWGZvSWxUeDhEc0lGb1VNU2Y2YmdaTThHOFdfZ25lLWlCTlZJdmhwcm5oNFd3NS1jVmZjbEN2UVBFSWZRLUgyVVNURjZRYUxpYVdXcWcyTW15bkVfQ2k5T1pfWHV2NTJIVzkzZkhDNWg0TS1YNkc0MVlKcXVjdVpuTWQ3N25QendRMA?oc=5",
-        "date": "2026-10-06T09:55:10.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRGNWYXgwWFhWOVF2R3pucHBjNEtOX01XQTZIRjNNb3htWV9tR0paUGdZdFBnRnBQVmhlUDBaMVE3UU56UnJrMWpRRVVLaS0yU19aQVhYNW1HNV9saGxsMUJodEZNYklTVGJjWGZvSWxUeDhEc0lGb1VNU2Y2YmdaTThHOFdfZ25lLWlCTlZJdmhwcm5oNFd3NS1jVmZjbEN2UVBFSWZRLUgyVVNURjZRYUxpYVdXcWcyTW15bkVfQ2k5T1pfWHV2NTJIVzkzZkhDNWg0TS1YNkc0MVlKcXVjdVpuTWQ3N25QendRMA?oc=5\" target=\"_blank\">Jannik Sinner: World No 1 to miss rest of season due to knee injury and has not played since winning Wimbledon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sky Sports</font>",
-        "title": "Jannik Sinner: World No 1 to miss rest of season due to knee injury and has not played since winning Wimbledon - Sky Sports"
-      }
-    ],
-    "title": "Tennis: World number one Sinner will not play in 2026 due to knee injury",
-    "summary": "Tennis: World number one Sinner will not play in 2026 due to knee injury Jannik Sinner has not competed in a tournament since winning at Wimbledon in July and will continue his recovery.\nJannik Sinner: World No 1 to miss rest of season due to knee injury and has not played since winning Wimbledon - Sky Sports <a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRGNWYXgwWFhWOVF2R3pucHBjNEtOX01XQTZIRjNNb3htWV9tR0paUGdZdFBnRnBQVmhlUDBaMVE3UU56UnJrMWpRRVVLaS0yU19aQVhYNW1HNV9saGxsMUJodEZNYklTVGJjWGZvSWxUeDhEc0lGb1VNU2Y2YmdaTThHOFdfZ25lLWlCTlZJdmhwcm5oNFd3NS1jVmZjbEN2UVBFSWZRLUgyVVNURjZRYUxpYVdXcWcyTW15bkVfQ2k5T1pfWHV2NTJIVzkzZkhDNWg0TS1YNkc0MVlKcXVjdVpuTWQ3N25QendRMA?oc=5\" target=\"_blank\">Jannik Sinner: World No 1 to miss rest of season due to knee injury and has not played since winning Wimbledon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sky Sports</font>"
-  },
-  {
-    "id": "story-466",
-    "topic": "panorama",
-    "country": "US",
-    "stateHint": "",
-    "date": "2026-10-06T11:38:48.000Z",
-    "sources": [
-      {
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/10/06/g-s1-146634/vietnamese-police-arrest-12-suspected-of-prowling-city-streets-at-night-snatching-cats-for-meat",
-        "date": "2026-10-06T11:38:48.000Z",
-        "snippet": "State media cited investigators who said the network recruited people to ride motorcycles through neighborhoods at night, trapping up to 10 cats a night.",
-        "title": "Vietnamese police arrest 12 suspected of prowling city streets at night, snatching cats for meat"
-      },
-      {
-        "source": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSzVZNUpQUjl6Sk1OZEZ5S2oxUVBIOWp3ZG43bG4yWERtWm1tdHIySHFHcklEVnJXbDlDaW85czJKUmtlRk5BNXpSWlIxekpaaGlHU3F5eFJodmlKa3FoMWkwQjU0UDJFTUMtdkZWWGdkQnQyV2dpbmdKdHZiX3l6aHJyVzhtSWI2V0NXYVAyRk93MnhBaHRucXk2aElBS21OeHVxTzdHODM?oc=5",
-        "date": "2026-10-06T09:08:00.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSzVZNUpQUjl6Sk1OZEZ5S2oxUVBIOWp3ZG43bG4yWERtWm1tdHIySHFHcklEVnJXbDlDaW85czJKUmtlRk5BNXpSWlIxekpaaGlHU3F5eFJodmlKa3FoMWkwQjU0UDJFTUMtdkZWWGdkQnQyV2dpbmdKdHZiX3l6aHJyVzhtSWI2V0NXYVAyRk93MnhBaHRucXk2aElBS21OeHVxTzdHODM?oc=5\" target=\"_blank\">Vietnamese police arrest 12 suspected of prowling city streets at night, snatching cats for meat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Audacy</font>",
-        "title": "Vietnamese police arrest 12 suspected of prowling city streets at night, snatching cats for meat - Audacy"
-      }
-    ],
-    "title": "Vietnamese police arrest 12 suspected of prowling city streets at night, snatching cats for meat",
-    "summary": "Vietnamese police arrest 12 suspected of prowling city streets at night, snatching cats for meat State media cited investigators who said the network recruited people to ride motorcycles through neighborhoods at night, trapping up to 10 cats a night.\nVietnamese police arrest 12 suspected of prowling city streets at night, snatching cats for meat - Audacy <a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSzVZNUpQUjl6Sk1OZEZ5S2oxUVBIOWp3ZG43bG4yWERtWm1tdHIySHFHcklEVnJXbDlDaW85czJKUmtlRk5BNXpSWlIxekpaaGlHU3F5eFJodmlKa3FoMWkwQjU0UDJFTUMtdkZWWGdkQnQyV2dpbmdKdHZiX3l6aHJyVzhtSWI2V0NXYVAyRk93MnhBaHRucXk2aElBS21OeHVxTzdHODM?oc=5\" target=\"_blank\">Vietnamese police arrest 12 suspected of prowling city streets at night, snatching cats for meat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Audacy</font>"
-  },
-  {
-    "id": "story-485",
-    "topic": "sport",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-06T11:28:18.000Z",
+    "date": "2026-10-06T12:50:53.000Z",
     "sources": [
       {
         "source": "Süddeutsche Zeitung",
-        "url": "https://www.sueddeutsche.de/sport/tennis-sinner-zverev-nummer-eins-weltrangliste-li.3559091",
-        "date": "2026-10-06T11:28:18.000Z",
-        "snippet": "Da Jannik Sinner die Saison vorzeitig beendet, kann Alexander Zverev als erster Deutscher seit Boris Becker die Führung der Weltrangliste übernehmen. Nur wenige Punkte fehlen noch.",
-        "title": "Tennis: Der Weg für Zverev zur Nummer eins ist frei"
+        "url": "https://www.sueddeutsche.de/bayern/traunstein-vergewaltigung-urteil-transperson-polizistin-li.3559013",
+        "date": "2026-10-06T12:50:53.000Z",
+        "snippet": "Das Landgericht Traunstein verurteilt eine Transperson wegen schwerer Sexualstraftaten zu mehr als drei Jahren Haft. Ihre Geschlechtsidentität dürfe bei all dem keine Rolle spielen, sagt der Vorsitzende Richter.",
+        "title": "Urteil in Traunstein: Polizistin wegen Vergewaltigung zu Haftstrafe verurteilt"
       },
       {
-        "source": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-vor-sprung-auf-rang-eins-jannik-sinner-muss-saison-beenden-a-5eb26826-ca3b-467d-b3fd-891e31372984#ref=rss",
-        "date": "2026-10-06T10:06:00.000Z",
-        "snippet": "Alexander Zverev hat sehr gute Chancen, als zweiter deutscher Mann nach Boris Becker Platz eins der Tennis-Weltrangliste zu erreichen. Denn: Kontrahent Jannik Sinner beendet die Saison verletzungsbedingt vorzeitig.",
-        "title": "Tennis: Alexander Zverev vor Sprung auf Rang eins, Jannik Sinner muss Saison beenden"
+        "source": "RND",
+        "url": "https://www.rnd.de/panorama/traunstein-ex-polizistin-wegen-vergewaltigung-von-14-jaehriger-verurteilt-YSKEZLDZFJCP3G3CYIQJJGZ3YM.html",
+        "date": "2026-10-06T12:10:43.000Z",
+        "snippet": "Sie sollte für Recht und Ordnung sorgen - und vergewaltigte ein Mädchen. Das Landgericht Traunstein hat eine Polizistin wegen der Vergewaltigung einer 14-Jährigen zu einer Gefängnisstrafe verurteilt.",
+        "title": "Traunstein: Ex-Polizistin wegen Vergewaltigung verurteilt"
       }
     ],
-    "title": "Tennis: Der Weg für Zverev zur Nummer eins ist frei",
-    "summary": "Tennis: Der Weg für Zverev zur Nummer eins ist frei Da Jannik Sinner die Saison vorzeitig beendet, kann Alexander Zverev als erster Deutscher seit Boris Becker die Führung der Weltrangliste übernehmen. Nur wenige Punkte fehlen noch.\nTennis: Alexander Zverev vor Sprung auf Rang eins, Jannik Sinner muss Saison beenden Alexander Zverev hat sehr gute Chancen, als zweiter deutscher Mann nach Boris Becker Platz eins der Tennis-Weltrangliste zu erreichen. Denn: Kontrahent Jannik Sinner beendet die Saison verletzungsbedingt vorzeitig."
+    "title": "Urteil in Traunstein: Polizistin wegen Vergewaltigung zu Haftstrafe verurteilt",
+    "summary": "Urteil in Traunstein: Polizistin wegen Vergewaltigung zu Haftstrafe verurteilt Das Landgericht Traunstein verurteilt eine Transperson wegen schwerer Sexualstraftaten zu mehr als drei Jahren Haft. Ihre Geschlechtsidentität dürfe bei all dem keine Rolle spielen, sagt der Vorsitzende Richter.\nTraunstein: Ex-Polizistin wegen Vergewaltigung verurteilt Sie sollte für Recht und Ordnung sorgen - und vergewaltigte ein Mädchen. Das Landgericht Traunstein hat eine Polizistin wegen der Vergewaltigung einer 14-Jährigen zu einer Gefängnisstrafe verurteilt."
   },
   {
-    "id": "story-532",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "BY",
-    "date": "2026-10-06T11:02:00.000Z",
-    "sources": [
-      {
-        "source": "ZDF heute",
-        "url": "https://www.zdfheute.de/politik/deutschland/august-hanning-ex-bnd-chef-spionage-100.html",
-        "date": "2026-10-06T11:02:00.000Z",
-        "snippet": "Ermittler haben am Morgen den ehemaligen BND-Präsidenten August Hanning festgenommen. Er steht unter Spionageverdacht. Auch sein ehemaliger Büroleiter sitzt in Haft.",
-        "title": "Verdacht auf Spionage: Ex-BND-Chef Hanning festgenommen"
-      },
-      {
-        "source": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/ex-bnd-praesident-hanning-wegen-spionageverdacht-festgenommen,VXFtPFD",
-        "date": "2026-10-06T09:52:51.000Z",
-        "snippet": "Der frühere BND-Präsident August Hanning ist unter Spionageverdacht festgenommen worden. Laut NDR, WDR und SZ wurde auch sein früherer Büroleiter in Bayern verhaftet. Er soll Hanning mit streng geheimen Informationen versorgt haben.",
-        "title": "Verdacht auf Spionage: Ex-BND-Präsident Hanning festgenommen"
-      }
-    ],
-    "title": "Verdacht auf Spionage: Ex-BND-Chef Hanning festgenommen",
-    "summary": "Verdacht auf Spionage: Ex-BND-Chef Hanning festgenommen Ermittler haben am Morgen den ehemaligen BND-Präsidenten August Hanning festgenommen. Er steht unter Spionageverdacht. Auch sein ehemaliger Büroleiter sitzt in Haft.\nVerdacht auf Spionage: Ex-BND-Präsident Hanning festgenommen Der frühere BND-Präsident August Hanning ist unter Spionageverdacht festgenommen worden. Laut NDR, WDR und SZ wurde auch sein früherer Büroleiter in Bayern verhaftet. Er soll Hanning mit streng geheimen Informationen versorgt haben."
-  },
-  {
-    "id": "story-549",
+    "id": "story-900",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "NW",
@@ -688,168 +946,18 @@
         "title": "Hinterbliebene scheitern erneut vor Gericht"
       },
       {
-        "source": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/panorama/justiz/germanwings-absturz-2015-hinterbliebene-scheitern-mit-schmerzensgeldklage-a-8c45998d-8e83-45ea-9982-439a3d777408#ref=rss",
-        "date": "2026-10-06T09:29:00.000Z",
-        "snippet": "Mehr als elf Jahre nach dem Absturz von Germanwings-Flug 9525 mit 150 Toten scheitern 30 der Hinterbliebenen im Prozess um zusätzliches Schmerzensgeld.",
-        "title": "Germanwings-Absturz 2015: Hinterbliebene scheitern mit Schmerzensgeldklage"
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTmJ4RE1DWjBtaE9YOVNoeExiSWJoN2RhYXAwc2gwQURqWG1mQUhBMmpFYTB6TnpBbDBiUS0zRlY3X1lsMndHVHhXTkFmbjB1X3VSZGkxY3VkYVN0VHJxbTFSaDFFYS1XZFN1R043NEo5ZWUtekdwTkNFdWpERDE5Y2IzbWVxYjBOUnlxSExrQTdDQ0ZCWWJtTg?oc=5",
+        "date": "2026-10-06T09:24:17.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNTmJ4RE1DWjBtaE9YOVNoeExiSWJoN2RhYXAwc2gwQURqWG1mQUhBMmpFYTB6TnpBbDBiUS0zRlY3X1lsMndHVHhXTkFmbjB1X3VSZGkxY3VkYVN0VHJxbTFSaDFFYS1XZFN1R043NEo5ZWUtekdwTkNFdWpERDE5Y2IzbWVxYjBOUnlxSExrQTdDQ0ZCWWJtTg?oc=5\" target=\"_blank\">Germanwings-Absturz: Hinterbliebene scheitern erneut vor Gericht</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDR</font></li><li><a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNNnBBWDQtajhyRzFxZF94NXp5MlhBSlZqY29ydkxwQ2E2Y1NRS3VYeFNKSkxDUHpTd1RMbnRoOFZHZlZNcUJ1dTVZQUtyWjBMcnpWQm1GX29ZVWNNQ3o1Z1V1YUhQV1J5MFdIdkpMV3B4T2VPUzI0cEk2b1ZmQlcyNFB3cWZuc1BSRjBnSjNpRkJDaFJCcXdUbFIyXzcweGdMRXlMb0EzY1h5NFBiOVVHb3ZwWW",
+        "title": "Germanwings-Absturz: Hinterbliebene scheitern erneut vor Gericht - WDR"
       }
     ],
     "title": "Hinterbliebene scheitern erneut vor Gericht",
-    "summary": "Hinterbliebene scheitern erneut vor Gericht Elf Jahre nach Absturz von Germanwings-Flug 9525 in den französischen Alpen haben die Hinterbliebenen erneut vor Gericht verloren.\nGermanwings-Absturz 2015: Hinterbliebene scheitern mit Schmerzensgeldklage Mehr als elf Jahre nach dem Absturz von Germanwings-Flug 9525 mit 150 Toten scheitern 30 der Hinterbliebenen im Prozess um zusätzliches Schmerzensgeld."
+    "summary": "Hinterbliebene scheitern erneut vor Gericht Elf Jahre nach Absturz von Germanwings-Flug 9525 in den französischen Alpen haben die Hinterbliebenen erneut vor Gericht verloren.\nGermanwings-Absturz: Hinterbliebene scheitern erneut vor Gericht - WDR <ol><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNTmJ4RE1DWjBtaE9YOVNoeExiSWJoN2RhYXAwc2gwQURqWG1mQUhBMmpFYTB6TnpBbDBiUS0zRlY3X1lsMndHVHhXTkFmbjB1X3VSZGkxY3VkYVN0VHJxbTFSaDFFYS1XZFN1R043NEo5ZWUtekdwTkNFdWpERDE5Y2IzbWVxYjBOUnlxSExrQTdDQ0ZCWWJtTg?oc=5\" target=\"_blank\">Germanwings-Absturz: Hinterbliebene scheitern erneut vor Gericht</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDR</font></li><li><a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNNnBBWDQtajhyRzFxZF94NXp5MlhBSlZqY29ydkxwQ2E2Y1NRS3VYeFNKSkxDUHpTd1RMbnRoOFZHZlZNcUJ1dTVZQUtyWjBMcnpWQm1GX29ZVWNNQ3o1Z1V1YUhQV1J5MFdIdkpMV3B4T2VPUzI0cEk2b1ZmQlcyNFB3cWZuc1BSRjBnSjNpRkJDaFJCcXdUbFIyXzcweGdMRXlMb0EzY1h5NFBiOVVHb3ZwWW"
   },
   {
-    "id": "story-588",
-    "topic": "panorama",
-    "country": "INT",
-    "stateHint": "",
-    "date": "2026-10-06T10:21:53.000Z",
-    "sources": [
-      {
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/6/fort-hood-shooter-to-be-executed-by-firing-squad-all-to-know?traffic_source=rss",
-        "date": "2026-10-06T10:21:53.000Z",
-        "snippet": "The US Army is averse to capital punishment and has not carried out an execution in decades.",
-        "title": "Fort Hood shooter to be executed by firing squad: All to know"
-      },
-      {
-        "source": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWUthQ3V1T0VvNW5vNkZSSjYwQ2VKbUdudWVocDVIc2RHVUYtZmtSWC0yZkwyQWJ6YzJWOExVWnRWbUlFanh1dWNNX2tmbWZGX09pM1lUWWtoaDNfcVAxZ3dqRnphek52ODJQeHFwb05NM2xVS1JXQk9LX2RfR2lKRHQwakhUT2VEWTVCMjgyZXI1elBmczV5VFRyRXlOSTBxYlpKTVVB?oc=5",
-        "date": "2026-10-06T02:58:00.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQWUthQ3V1T0VvNW5vNkZSSjYwQ2VKbUdudWVocDVIc2RHVUYtZmtSWC0yZkwyQWJ6YzJWOExVWnRWbUlFanh1dWNNX2tmbWZGX09pM1lUWWtoaDNfcVAxZ3dqRnphek52ODJQeHFwb05NM2xVS1JXQk9LX2RfR2lKRHQwakhUT2VEWTVCMjgyZXI1elBmczV5VFRyRXlOSTBxYlpKTVVB?oc=5\" target=\"_blank\">Ex-Army major who killed 13 at Fort Hood set to be executed by firing squad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
-        "title": "Ex-Army major who killed 13 at Fort Hood set to be executed by firing squad - NBC News"
-      }
-    ],
-    "title": "Fort Hood shooter to be executed by firing squad: All to know",
-    "summary": "Fort Hood shooter to be executed by firing squad: All to know The US Army is averse to capital punishment and has not carried out an execution in decades.\nEx-Army major who killed 13 at Fort Hood set to be executed by firing squad - NBC News <a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQWUthQ3V1T0VvNW5vNkZSSjYwQ2VKbUdudWVocDVIc2RHVUYtZmtSWC0yZkwyQWJ6YzJWOExVWnRWbUlFanh1dWNNX2tmbWZGX09pM1lUWWtoaDNfcVAxZ3dqRnphek52ODJQeHFwb05NM2xVS1JXQk9LX2RfR2lKRHQwakhUT2VEWTVCMjgyZXI1elBmczV5VFRyRXlOSTBxYlpKTVVB?oc=5\" target=\"_blank\">Ex-Army major who killed 13 at Fort Hood set to be executed by firing squad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>"
-  },
-  {
-    "id": "story-609",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-06T10:08:04.000Z",
-    "sources": [
-      {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSmhaYmxqNm8tS1FDdXJiZ2VPLTROajdFOE9uR2d0RWdLWXRUQTBYWmZMU3dBMFNxNHFXZ3ZpUk93VnplLTJZTndYTXJoQVhNbTllU1hwNVlabWFEeHNmV2xJNDhYZVZHeVk5Yk91UnhPQ2lqV0F3NGdwcUxJd190bGF2UHJNbzlxM0RTZEVzaEY1LVJzOVEtQmw5YkkteGpuWkdwVlZYZVZwWm8yWUhkaXZjU1pmTURNTno4dGlXcS1nbXE3SC12MnZ2WFdVLXpwRFdwS19UWXQ0VGRSYWhEOFp0dEUySmc0Z0J1dkFn?oc=5",
-        "date": "2026-10-06T10:08:04.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSmhaYmxqNm8tS1FDdXJiZ2VPLTROajdFOE9uR2d0RWdLWXRUQTBYWmZMU3dBMFNxNHFXZ3ZpUk93VnplLTJZTndYTXJoQVhNbTllU1hwNVlabWFEeHNmV2xJNDhYZVZHeVk5Yk91UnhPQ2lqV0F3NGdwcUxJd190bGF2UHJNbzlxM0RTZEVzaEY1LVJzOVEtQmw5YkkteGpuWkdwVlZYZVZwWm8yWUhkaXZjU1pmTURNTno4dGlXcS1nbXE3SC12MnZ2WFdVLXpwRFdwS19UWXQ0VGRSYWhEOFp0dEUySmc0Z0J1dkFn?oc=5\" target=\"_blank\">Schmerzensgeld nach Germanwings-Absturz: Gericht weist Klage von Hinterbliebenen ab</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">faz.net</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNTmJ4RE1DWjBtaE9YOVNoeExiSWJoN2RhYXAwc2gwQURqWG1mQUhBMmpFYTB6TnpBbDBiUS0zRlY3X1lsMndHVHhXTkFmb",
-        "title": "Schmerzensgeld nach Germanwings-Absturz: Gericht weist Klage von Hinterbliebenen ab - faz.net"
-      },
-      {
-        "source": "RND",
-        "url": "https://www.rnd.de/panorama/germanwings-prozess-kein-zusaetzliches-schmerzensgeld-D27JYAEMQFD5LJ5W3FIOOV5N6Y.html-4",
-        "date": "2026-10-06T10:07:44.000Z",
-        "snippet": "Für die Angehörigen der Opfer geht es bei diesem Prozess um viel – nicht nur um Geld. Jahre nach dem Absturz einer Germanwings-Maschine entscheidet ein Gericht über zusätzliches Schmerzensgeld.",
-        "title": "Germanwings-Prozess: Gericht weist Schmerzensgeld-Klage der Hinterbliebenen ab"
-      }
-    ],
-    "title": "Schmerzensgeld nach Germanwings-Absturz: Gericht weist Klage von Hinterbliebenen ab - faz.net",
-    "summary": "Schmerzensgeld nach Germanwings-Absturz: Gericht weist Klage von Hinterbliebenen ab - faz.net <ol><li><a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSmhaYmxqNm8tS1FDdXJiZ2VPLTROajdFOE9uR2d0RWdLWXRUQTBYWmZMU3dBMFNxNHFXZ3ZpUk93VnplLTJZTndYTXJoQVhNbTllU1hwNVlabWFEeHNmV2xJNDhYZVZHeVk5Yk91UnhPQ2lqV0F3NGdwcUxJd190bGF2UHJNbzlxM0RTZEVzaEY1LVJzOVEtQmw5YkkteGpuWkdwVlZYZVZwWm8yWUhkaXZjU1pmTURNTno4dGlXcS1nbXE3SC12MnZ2WFdVLXpwRFdwS19UWXQ0VGRSYWhEOFp0dEUySmc0Z0J1dkFn?oc=5\" target=\"_blank\">Schmerzensgeld nach Germanwings-Absturz: Gericht weist Klage von Hinterbliebenen ab</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">faz.net</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNTmJ4RE1DWjBtaE9YOVNoeExiSWJoN2RhYXAwc2gwQURqWG1mQUhBMmpFYTB6TnpBbDBiUS0zRlY3X1lsMndHVHhXTkFmb\nGermanwings-Prozess: Gericht weist Schmerzensgeld-Klage der Hinterbliebenen ab Für die Angehörigen der Opfer geht es bei diesem Prozess um viel – nicht nur um Geld. Jahre nach dem Absturz einer Germanwings-Maschine entscheidet ein Gericht über zusätzliches Schmerzensgeld."
-  },
-  {
-    "id": "story-612",
-    "topic": "wissenschaft",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-06T10:07:00.000Z",
-    "sources": [
-      {
-        "source": "DW Deutsch",
-        "url": "https://www.dw.com/de/physik-nobelpreis-geht-an-francis-halzen-aus-belgien/a-79558576?maca=de-rss-de-all-1119-xml-mrss",
-        "date": "2026-10-06T10:07:00.000Z",
-        "snippet": "In der Arktis fängt ein riesiger Eiswürfel \"Geisterteilchen\" ein. Die wissenschaftlichen Grundlagen dafür gehen zum Teil auf die Arbeit des diesjährigen Nobelpreisträgers für Physik zurück.",
-        "title": "Physik-Nobelpreis geht an Francis Halzen aus Belgien"
-      },
-      {
-        "source": "ntv",
-        "url": "https://www.n-tv.de/wissen/Physik-Nobelpreis-geht-an-Teilchenforscher-Francis-Halzen-id31386558.html",
-        "date": "2026-10-06T09:53:06.000Z",
-        "snippet": "Der Nobelpreis im Bereich Physik geht in diesem Jahr an einen einzelnen Wissenschaftler: Der Teilchenforscher Francis Halzen erhält die besondere Auszeichnung unter anderem für seinen Beitrag zur Entdeckung hochenergetischer Neutrinos astrophysikalischen Ursprungs.",
-        "title": "Entwickelte Observatorium: Physik-Nobelpreis geht an Teilchenforscher Francis Halzen"
-      }
-    ],
-    "title": "Physik-Nobelpreis geht an Francis Halzen aus Belgien",
-    "summary": "Physik-Nobelpreis geht an Francis Halzen aus Belgien In der Arktis fängt ein riesiger Eiswürfel \"Geisterteilchen\" ein. Die wissenschaftlichen Grundlagen dafür gehen zum Teil auf die Arbeit des diesjährigen Nobelpreisträgers für Physik zurück.\nEntwickelte Observatorium: Physik-Nobelpreis geht an Teilchenforscher Francis Halzen Der Nobelpreis im Bereich Physik geht in diesem Jahr an einen einzelnen Wissenschaftler: Der Teilchenforscher Francis Halzen erhält die besondere Auszeichnung unter anderem für seinen Beitrag zur Entdeckung hochenergetischer Neutrinos astrophysikalischen Ursprungs."
-  },
-  {
-    "id": "story-655",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-06T09:45:02.000Z",
-    "sources": [
-      {
-        "source": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/ausland/amerika/pennsylvania-masern-100.html",
-        "date": "2026-10-06T09:45:02.000Z",
-        "snippet": "Der US-Bundesstaat Pennsylvania hat mehr als 1.000 Masern-Fälle gemeldet - das ist der höchste Stand seit 35 Jahren. Etwa 200 Menschen werden im Krankenhaus behandelt, fünf sind g…",
-        "title": "Pennsylvania meldet mehr als 1.000 Masern-Fälle"
-      },
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/amerika/pennsylvania-masern-100.html",
-        "date": "2026-10-06T09:36:32.000Z",
-        "snippet": "Der US-Bundesstaat Pennsylvania hat mehr als 1.000 Masern-Fälle gemeldet - das ist der höchste Stand seit 35 Jahren. Etwa 200 Menschen werden im Krankenhaus behandelt, fünf sind gestorben. Von Nina Barth.",
-        "title": "US-Bundesstaat Pennsylvania meldet mehr als 1.000 Masern-Fälle"
-      }
-    ],
-    "title": "Pennsylvania meldet mehr als 1.000 Masern-Fälle",
-    "summary": "Pennsylvania meldet mehr als 1.000 Masern-Fälle Der US-Bundesstaat Pennsylvania hat mehr als 1.000 Masern-Fälle gemeldet - das ist der höchste Stand seit 35 Jahren. Etwa 200 Menschen werden im Krankenhaus behandelt, fünf sind g…\nUS-Bundesstaat Pennsylvania meldet mehr als 1.000 Masern-Fälle Der US-Bundesstaat Pennsylvania hat mehr als 1.000 Masern-Fälle gemeldet - das ist der höchste Stand seit 35 Jahren. Etwa 200 Menschen werden im Krankenhaus behandelt, fünf sind gestorben. Von Nina Barth."
-  },
-  {
-    "id": "story-766",
-    "topic": "panorama",
-    "country": "PT",
-    "stateHint": "",
-    "date": "2026-10-06T08:04:22.000Z",
-    "sources": [
-      {
-        "source": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY1NvZFBkRFN6bjhpM2gtMjlaNG00QUZ4Q05IRTFzdUN4cU9XRkVHTG9zb0xkaXg1UVV4dmRUZE9oaGc2RjZVVnFiSTU0dHBCT0tYTDBUX0xWTlFzWmVDV1JadmxmSjFnXzRLRjYzRktBYnRuZnVJNzJrNXl2MXRHZWhxX0l2am1QWV9aVndNTnN3WlEzcnotQ3hJdUFjb1lXSDhfZnBiMDZSMU9mQjhyd3dodlVJcE42Tmp2RG1td3M5OUFIdGVHWA?oc=5",
-        "date": "2026-10-06T08:04:22.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY1NvZFBkRFN6bjhpM2gtMjlaNG00QUZ4Q05IRTFzdUN4cU9XRkVHTG9zb0xkaXg1UVV4dmRUZE9oaGc2RjZVVnFiSTU0dHBCT0tYTDBUX0xWTlFzWmVDV1JadmxmSjFnXzRLRjYzRktBYnRuZnVJNzJrNXl2MXRHZWhxX0l2am1QWV9aVndNTnN3WlEzcnotQ3hJdUFjb1lXSDhfZnBiMDZSMU9mQjhyd3dodlVJcE42Tmp2RG1td3M5OUFIdGVHWA?oc=5\" target=\"_blank\">Quebeque \"merece\" ser \"um país\", diz novo líder independentista da província canadiana</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SAPO</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pWMXZxT0VoR2I0cmdWN2RhR0hTZ0FQAQ?hl=pt-PT&gl=PT&ceid=PT:pt-150&oc=5\" target=\"_blank\">Ver mais cabeçalhos e perspetivas no Googl",
-        "title": "Quebeque \"merece\" ser \"um país\", diz novo líder independentista da província canadiana - SAPO"
-      },
-      {
-        "source": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/mundo/quebeque-merece-ser-um-pais-diz-novo-lider-independentista-da-provincia-canadiana_n1769840",
-        "date": "2026-10-06T07:03:39.000Z",
-        "snippet": "A província francófona canadiana do Quebeque \"merece\" tornar-se um \"país\", insistiu na segunda-feira o seu novo líder independentista, o que constitui um teste à mensagem de unidade do primeiro-ministro do Canadá, Mark Carney.",
-        "title": "Quebeque \"merece\" ser \"um país\", diz novo líder independentista da província canadiana"
-      }
-    ],
-    "title": "Quebeque \"merece\" ser \"um país\", diz novo líder independentista da província canadiana - SAPO",
-    "summary": "Quebeque \"merece\" ser \"um país\", diz novo líder independentista da província canadiana - SAPO <a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY1NvZFBkRFN6bjhpM2gtMjlaNG00QUZ4Q05IRTFzdUN4cU9XRkVHTG9zb0xkaXg1UVV4dmRUZE9oaGc2RjZVVnFiSTU0dHBCT0tYTDBUX0xWTlFzWmVDV1JadmxmSjFnXzRLRjYzRktBYnRuZnVJNzJrNXl2MXRHZWhxX0l2am1QWV9aVndNTnN3WlEzcnotQ3hJdUFjb1lXSDhfZnBiMDZSMU9mQjhyd3dodlVJcE42Tmp2RG1td3M5OUFIdGVHWA?oc=5\" target=\"_blank\">Quebeque \"merece\" ser \"um país\", diz novo líder independentista da província canadiana</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SAPO</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pWMXZxT0VoR2I0cmdWN2RhR0hTZ0FQAQ?hl=pt-PT&gl=PT&ceid=PT:pt-150&oc=5\" target=\"_blank\">Ver mais cabeçalhos e perspetivas no Googl\nQuebeque \"merece\" ser \"um país\", diz novo líder independentista da província canadiana A província francófona canadiana do Quebeque \"merece\" tornar-se um \"país\", insistiu na segunda-feira o seu novo líder independentista, o que constitui um teste à mensagem de unidade do primeiro-ministro do Canadá, Mark Carney."
-  },
-  {
-    "id": "story-946",
-    "topic": "politik",
-    "country": "UK",
-    "stateHint": "",
-    "date": "2026-10-06T02:22:24.000Z",
-    "sources": [
-      {
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-06T02:22:24.000Z",
-        "snippet": "Nidal Malik Hasan killed 13 unarmed soldiers and injured another 32 in the deadliest ever non-combat attack on an American military base.",
-        "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two"
-      },
-      {
-        "source": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BNF96a0dyVktsSkVyQ1pPcDdVWjZYWGtySWZzVm5aVjVBUmdpNlZWSTh5OVhHYkxEUGNjbmd6M3FzTURwa1hVM1kzbnMxSS1RZk5OOFFXLVRhN1k?oc=5",
-        "date": "2026-10-06T02:22:24.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BNF96a0dyVktsSkVyQ1pPcDdVWjZYWGtySWZzVm5aVjVBUmdpNlZWSTh5OVhHYkxEUGNjbmd6M3FzTURwa1hVM1kzbnMxSS1RZk5OOFFXLVRhN1k?oc=5\" target=\"_blank\">Fort Hood shooter to be executed by firing squad - a first for US military since World War Two</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bbc.com</font>",
-        "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two - bbc.com"
-      }
-    ],
-    "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
-    "summary": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two Nidal Malik Hasan killed 13 unarmed soldiers and injured another 32 in the deadliest ever non-combat attack on an American military base.\nFort Hood shooter to be executed by firing squad - a first for US military since World War Two - bbc.com <a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BNF96a0dyVktsSkVyQ1pPcDdVWjZYWGtySWZzVm5aVjVBUmdpNlZWSTh5OVhHYkxEUGNjbmd6M3FzTURwa1hVM1kzbnMxSS1RZk5OOFFXLVRhN1k?oc=5\" target=\"_blank\">Fort Hood shooter to be executed by firing squad - a first for US military since World War Two</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bbc.com</font>"
-  },
-  {
-    "id": "story-952",
+    "id": "story-1160",
     "topic": "politik",
     "country": "INT",
     "stateHint": "",
