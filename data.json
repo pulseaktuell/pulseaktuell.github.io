@@ -1,23 +1,164 @@
 [
   {
-    "id": "story-4cf014b9d2c76d00",
+    "id": "story-8053b1d91e64c860",
     "c": "DE",
     "o": "DE",
     "k": "panorama",
     "lang": "de",
-    "d": "2026-10-08T16:38:22.000Z",
+    "d": "2026-10-08T21:36:00.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Zweites Todesopfer nach Schüssen bei Waffenkontrolle in Berngau",
+    "s": "Bei einer Waffenkontrolle in Berngau in der Oberpfalz sind zwei Behördenmitarbeiter durch Schüsse getötet worden. Der mutmaßliche Schütze hat sich nach der Tat in seinem Haus verschanzt. Spezialkräfte der Polizei sind im Einsatz, um die Situation zu klären.",
+    "m": "Der Vorfall ereignete sich bei einem Routineeinsatz in Berngau, bei dem eine Waffenkontrolle durchgeführt werden sollte. Im Zuge dieser Kontrolle kam es zu Schüssen, bei denen zwei Mitarbeiter der Behörden tödlich verletzt wurden. Der mutmaßliche Täter zog sich daraufhin in sein Anwesen zurück und verschanzte sich vor den Einsatzkräften. Ein SEK wurde alarmiert, um das Gebäude zu sichern. Am Abend nahm die Polizei Verhandlungen mit dem verschanzten Mann auf. Die Hintergründe der Tat und weitere Details zum genauen Ablauf des Einsatzes sind Gegenstand der laufenden Ermittlungen.",
+    "r": "Die gewaltsame Eskalation einer behördlichen Routinekontrolle mit zwei Todesopfern und einem Großeinsatz von Spezialkräften stellt ein schweres Verbrechen dar. Der Vorfall erfordert umfassende Ermittlungen zur Sicherheit bei solchen Kontrollen.",
+    "srcs": [
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/panorama/berngau--zweites-todesopfer-nach-schuessen-bei-waffenkontrolle-38367606.html",
+        "date": "2026-10-08T21:36:00.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/panorama/Zweites-Todesopfer-in-Berngau-nach-Schuessen-bei-Waffenkontrolle-id31398543.html",
+        "date": "2026-10-08T21:31:11.000Z"
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-10/08/zweites-todesopfer-nach-schuessen-bei-waffenkontrolle",
+        "date": "2026-10-08T21:11:50.000Z"
+      },
+      {
+        "name": "Süddeutsche Zeitung",
+        "url": "https://www.sueddeutsche.de/bayern/oberpfalz-berngau-schuesse-polizei-verletzte-li.3560697",
+        "date": "2026-10-08T16:48:00.000Z"
+      }
+    ],
+    "url": "https://www.stern.de/panorama/berngau--zweites-todesopfer-nach-schuessen-bei-waffenkontrolle-38367606.html",
+    "agree": "Die Quellen sind sich einig, dass es bei einer Waffenkontrolle in der Oberpfalz bzw. Berngau zu Schüssen mit mindestens einem getöteten Behördenmitarbeiter kam und sich der mutmaßliche Täter verschanzte.",
+    "diff": [
+      {
+        "name": "stern",
+        "note": "Berichtet im Gegensatz zur Süddeutschen Zeitung bereits von zwei Todesopfern."
+      },
+      {
+        "name": "ntv",
+        "note": "Nennt den genauen Ort Berngau, berichtet von zwei Todesopfern und erwähnt, dass die Polizei am Abend Gespräche mit dem Verschanzten aufnahm."
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Titel meldet ebenfalls ein zweites Todesopfer, liefert aber keinen Fließtext."
+      },
+      {
+        "name": "Süddeutsche Zeitung",
+        "note": "Nennt den Ort Berngau in der Oberpfalz und spricht zunächst nur von einem getöteten Behördenmitarbeiter."
+      }
+    ],
+    "chg": "",
+    "independent": 4
+  },
+  {
+    "id": "story-1893953686a4ec8f",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-08T21:32:03.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Wahl des AfD-Politikers Rausch zum Landtagspräsidenten in Sachsen-Anhalt sorgt für Debatte",
+    "s": "Nach der Wahl von Rausch zum Präsidenten des Landtags in Sachsen-Anhalt ist unklar, woher die Stimmen kamen. Die CDU-Staatssekretärin Güler geht von Stimmen aus der eigenen Partei aus. Bundeskanzler Merz hält dagegen auch eine sogenannte False-Flag-Aktion für möglich und schließt CDU-Stimmen aus.",
+    "m": "Der Ausgang der Wahl des AfD-Politikers Rausch zum Landtagspräsidenten in Sachsen-Anhalt löst parteiintern und bundesweit Diskussionen aus. CDU-Staatssekretärin Güler äußerte die Einschätzung, dass Rausch Stimmen aus den Reihen der CDU erhalten habe. Bundeskanzler Merz widersprach dem und hielt eine sogenannte False-Flag-Aktion für möglich. Demnach könnten die Stimmen laut Merz auch von SPD, Grünen oder der Linken gekommen sein. Er betonte ausdrücklich, dass Stimmen von CDU-Abgeordneten für einen AfD-Kandidaten mit den Werten der Partei unvereinbar seien. Rausch selbst geht ebenfalls davon aus, dass er von CDU-Abgeordneten gewählt wurde. Die genaue Herkunft der Stimmen in der geheimen Wahl bleibt jedoch offen.",
+    "r": "Die Debatte berührt grundsätzliche Fragen zur Haltung der etablierten Parteien gegenüber der AfD und zur Parteidisziplin. Die Äußerungen der Parteispitze verdeutlichen die Sensibilität des Themas bei möglichen Stimmenüberträngen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/cdu-staatssekretaerin-gueler-geht-von-cdu-stimmen-fuer-afd-landtagspraesidenten-aus-merz-haelt-false-100.html",
+        "date": "2026-10-08T21:32:03.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYWNKdWZ6YmJJdEd4bG5uS2VxLS1qRkhQOFZMS0lTMmt4VTdvZUZNTHc5c0lmelJON0ppSmoyc0I3eVRJTU0yaUR2dktxRmYyOVZmdEtJY1RVNVZTNWhuNXpMN3VibzAtQWJLVTAtVUktQktLWlVnT2FEOVpOZ3lTQzVQWms3dlBFRUtQOG9HQVhrQ2FMN1VFeFVxMERsckQtcEhxcGVHZzEwbjBJeDUtWHBtSVJzcHFjU3BYdl9TZExKWkRIM0l6WWt3WWdWVHFncS1FRXFlUQ?oc=5",
+        "date": "2026-10-08T21:11:37.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/cdu-staatssekretaerin-gueler-geht-von-cdu-stimmen-fuer-afd-landtagspraesidenten-aus-merz-haelt-false-100.html",
+    "agree": "Die Quellen sind sich einig, dass der AfD-Politiker Rausch zum Landtagspräsidenten in Sachsen-Anhalt gewählt wurde und Merz eine False-Flag-Aktion ins Spiel brachte.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Berichtet detailliert über die Aussagen von Merz, Güler und Rausch zur möglichen Herkunft der Stimmen."
+      },
+      {
+        "name": "Google News DE",
+        "note": "Enthält im Wesentlichen den Verweis auf den Bericht des Deutschlandfunks mit fast identischem Titel."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-19d1159d87e66c24",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-08T21:32:03.000Z",
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Statistisches Bundesamt - Krankheitskosten in Deutschland überstiegen 2024 eine halbe Billion Euro",
-    "s": "​Die Krankheitskosten in Deutschland sind im Jahr 2024 auf mehr als 528 Milliarden Euro gestiegen.",
-    "m": "​Die Krankheitskosten in Deutschland sind im Jahr 2024 auf mehr als 528 Milliarden Euro gestiegen. Im Jahr 2024 beliefen sich Krankheitskosten in Deutschland auf 528,5 Milliarden Euro. Besonders große Unterschiede gibt es vor allem zwischen den Geschlechtern und im Alter. Die direkten Kosten für Krankheiten und Gesundheitsprobleme sind in Deutschland im Jahr 2024 um mehr als 7,6 Prozent gestiegen. Laut Statistischem Bundesamt lagen sie damit erstmals über einer halben Billion Euro.",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "t": "Italiens Parlament billigt umstrittene Wahlrechtsreform der Meloni-Regierung",
+    "s": "Italiens Parlament hat die umstrittene Wahlrechtsreform der Regierung unter Ministerpräsidentin Meloni gebilligt. Das Gesetz wurde endgültig verabschiedet. Die Opposition kritisiert das Vorhaben scharf und übt zudem verfassungsrechtliche Bedenken.",
+    "m": "Das italienische Parlament hat die Wahlrechtsreform der Regierung von Ministerpräsidentin Meloni endgültig verabschiedet. Die Verabschiedung erfolgte ungeachtet der deutlichen Kritik aus der Opposition. Kritiker werfen der Regierung vor, mit dieser Reform ihre Macht sichern zu wollen. Neben den politischen Vorwürfen gibt es auch verfassungsrechtliche Bedenken gegen das Gesetz. Details zu den genauen Inhalten der Reform oder zu den nächsten Schritten wie einer Unterzeichnung durch das Staatsoberhaupt wurden in den Berichten nicht genannt.",
+    "r": "Die Reform des Wahlrechts in einem EU-Mitgliedstaat betrifft die politische Stabilität und wirft grundlegende Fragen zur demokratischen Ordnung auf. Die scharfe Kritik der Opposition und verfassungsrechtliche Bedenken machen das Gesetz zu einem hochgradig kontroversen Thema.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/italiens-parlament-billigt-umstrittene-wahlrechtsreform-102.html",
+        "date": "2026-10-08T21:32:03.000Z"
+      },
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/europa/meloni-wahlrechtsreform-100.html",
+        "date": "2026-10-08T13:47:19.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/italiens-parlament-billigt-umstrittene-wahlrechtsreform-102.html",
+    "agree": "Das italienische Parlament hat die umstrittene Wahlrechtsreform der Meloni-Regierung gebilligt.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Berichtet, dass die Billigung trotz Kritik aus der Opposition erfolgte."
+      },
+      {
+        "name": "Tagesschau",
+        "note": "Erwähnt, dass die Reform endgültig verabschiedet wurde, die Opposition der Regierung Machtabsicherung vorwirft und verfassungsrechtliche Bedenken bestehen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-4cf014b9d2c76d00",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-08T21:32:03.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Krankheitskosten in Deutschland übersteigen 2024 erstmals eine halbe Billion Euro",
+    "s": "Im Jahr 2024 haben die Krankheitskosten in Deutschland erstmals die Schwelle von einer halben Billion Euro überschritten. Laut dem Statistischen Bundesamt erreichten die Ausgaben einen neuen Höchststand. Der Anstieg betrug im Vergleich zum Vorjahr mehr als 7,6 Prozent. Damit wachsen die finanziellen Belastungen für das Gesundheitssystem weiter an.",
+    "m": "Das Statistische Bundesamt hat bekannt gegeben, dass sich die direkten Kosten für Krankheiten und Gesundheitsprobleme im Jahr 2024 auf insgesamt 528,5 Milliarden Euro belaufen haben. Dies entspricht einer Steigerung von über 7,6 Prozent im Vergleich zum Vorjahr. Die Gesamtausgaben überschreiten damit erstmals in der Geschichte der Bundesrepublik die Marke von 500 Milliarden Euro beziehungsweise einer halben Billion Euro. Detaillierte Daten des Bundesamtes zeigen zudem, dass es bei den Kosten besonders große Unterschiede zwischen den Geschlechtern sowie in verschiedenen Altersgruppen gibt. Offen bleibt bislang, welche konkreten medizinischen Bereiche oder Leistungsarten den stärksten Zuwachs verzeichneten.",
+    "r": "Der massive Anstieg der Krankheitskosten auf über 528 Milliarden Euro verdeutlicht die wachsende finanzielle Belastung des deutschen Gesundheitssystems. Die neuen Daten des Statistischen Bundesamtes sind zentral für die gesundheitspolitische Debatte über die Finanzierung und Reformen im Sektor.",
     "srcs": [
       {
         "name": "Deutschlandfunk Nachrichten",
         "url": "https://www.deutschlandfunk.de/krankheitskosten-in-deutschland-ueberstiegen-2024-eine-halbe-billion-euro-100.html",
-        "date": "2026-10-08T16:38:22.000Z"
+        "date": "2026-10-08T21:32:03.000Z"
       },
       {
         "name": "ZDF heute",
@@ -31,10 +172,680 @@
       }
     ],
     "url": "https://www.deutschlandfunk.de/krankheitskosten-in-deutschland-ueberstiegen-2024-eine-halbe-billion-euro-100.html",
+    "agree": "Die Quellen stimmen überein, dass die Krankheitskosten in Deutschland im Jahr 2024 erstmals eine halbe Billion Euro überschritten haben.",
+    "diff": [
+      {
+        "name": "ZDF heute",
+        "note": "nennt die genaue Summe von 528,5 Milliarden Euro und weist auf besonders große Unterschiede zwischen den Geschlechtern und im Alter hin."
+      },
+      {
+        "name": "Tagesschau",
+        "note": "beziffert den prozentualen Anstieg konkret auf mehr als 7,6 Prozent."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
+    "id": "story-7b4b41fbe57c3842",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-08T21:32:03.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Niedersachsens SPD-Fraktionschef Stefan Politze tritt zurück",
+    "s": "Der Vorsitzende der SPD-Fraktion im niedersächsischen Landtag, Stefan Politze, hat seinen Rücktritt erklärt. Diesen Schritt gab er in einer außerordentlichen Sitzung am Abend bekannt. Auslöser für den Rücktritt sind strafrechtliche Ermittlungen gegen ihn. Die SPD-Fraktion teilte die Entscheidung offiziell mit.",
+    "m": "Der niedersächsische SPD-Fraktionschef Stefan Politze hat überraschend seinen Rücktritt von der Spitze der Landtagsfraktion erklärt. Die Ankündigung erfolgte im Rahmen einer außerordentlichen Sitzung am Abend. Hintergrund des Schrittes sind laufende strafrechtliche Ermittlungen gegen den Politiker. Genauere Details zu den Vorwürfen oder der Art der Ermittlungen wurden in den ersten Mitteilungen der Fraktion zunächst nicht genannt. Die SPD-Landtagsfraktion bestätigte den Vorgang offiziell, ließ jedoch offen, wer die Nachfolge antreten soll. Politze stand bisher an der Spitze der Fraktion im niedersächsischen Landtag. Die politischen Reaktionen und die Frage der kommissarischen beziehungsweise dauerhaften Nachfolge stehen in den kommenden Tagen an.",
+    "r": "Der Rücktritt eines prominenten Landespolitikers wie des niedersächsischen SPD-Fraktionschefs ist für die Landespolitik und die parlamentarische Arbeit von Bedeutung. Die eingeleiteten strafrechtlichen Ermittlungen gegen einen Fraktionsvorsitzenden berühren zudem die politische Integrität.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/strafrechtliche-ermittlungen-niedersachsens-spd-fraktionschef-politze-tritt-zurueck-102.html",
+        "date": "2026-10-08T21:32:03.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/politik/niedersachsen-spd-fraktionschef-stefan-politze-tritt-zurueck-strafrechtliche-ermittlungen-a-021d1d62-e3bf-499a-b577-16c0375d5878#ref=rss",
+        "date": "2026-10-08T17:40:00.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/strafrechtliche-ermittlungen-niedersachsens-spd-fraktionschef-politze-tritt-zurueck-102.html",
+    "agree": "Die Quellen stimmen überein, dass Niedersachsens SPD-Fraktionschef Stefan Politze seinen Rücktritt erklärt hat und strafrechtliche Ermittlungen vorliegen.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Nennt den Vornamen im Fließtext der Überschrift nicht direkt, sondern nur im Untertitel der Konkurrenz, und fokussiert sich rein auf die Kurzmeldung des Rücktritts."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Erwähnt den Vornamen Stefan im Titel und ergänzt, dass die Ankündigung in einer außerordentlichen Sitzung am Abend stattfand sowie von der SPD-Fraktion mitgeteilt wurde."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-8665664e18521ff7",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-08T21:32:03.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Zwei lettische Männer an britischem Luftwaffenstützpunkt festgenommen",
+    "s": "Die britische Polizei hat auf einem Luftwaffenstützpunkt in Südostengland zwei Männer aus Lettland festgenommen. Zu den Hintergründen und dem genauen Hergang des Vorfalls gibt es bisher wenige offizielle Details. Der Einsatz sorgt aufgrund vorheriger Vorkehrungen an militärischen Standorten für erhöhte Aufmerksamkeit.",
+    "m": "Auf dem Luftwaffenstützpunkt Fairford in Südostengland hat die britische Polizei zwei Männer aus Lettland festgenommen. Der Vorfall ereignet sich in einer Phase erhöhter Wachsamkeit an militärischen Einrichtungen. Zuvor hatten die USA wegen eines Sicherheitsvorfalls bereits ihre Bomber überhastet abgezogen, was die Besorgnis über die aktuelle Sicherheitslage an den Stützpunkten verstärkt. Die Festnahme der lettischen Staatsbürger wirft neue Fragen über den Schutz sensibler militärischer Infrastruktur auf. Ob die beiden Vorfälle direkt miteinander zusammenhängen, ist offiziell noch nicht bestätigt. Die Ermittlungen der zuständigen Behörden dauern an.",
+    "r": "Die Festnahmen an einer militärischen Einrichtung in Großbritannien sind angesichts vorausgegangener Sicherheitsvorfälle von sicherheitspolitischer Bedeutung. Sie verdeutlichen die aktuell angespannte Situation und erhöhte Wachsamkeit an sensiblen Standorten.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/polizei-nimmt-zwei-maenner-aus-lettland-auf-luftwaffenstuetzpunkt-fest-102.html",
+        "date": "2026-10-08T21:32:03.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/cambridgeshire-britische-polizei-nimmt-zwei-maenner-an-luftwaffenstuetzpunkt-fest-a-9f936f63-1fc4-4ed3-86dc-cff243c9acdf#ref=rss",
+        "date": "2026-10-08T16:02:00.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/polizei-nimmt-zwei-maenner-aus-lettland-auf-luftwaffenstuetzpunkt-fest-102.html",
+    "agree": "Beide Quellen stimmen überein, dass die britische Polizei zwei Männer aus Lettland an einem Luftwaffenstützpunkt festgenommen hat.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Berichtet konkret über die Festnahme auf einem Luftwaffenstützpunkt in Südostengland."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Nennt den genauen Namen des Stützpunkts Fairford in Cambridgeshire und erwähnt den überhasteten Abzug von US-Bombern aufgrund eines vorherigen Sicherheitsvorfalls."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-67e6449df9d13d24",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-08T21:32:03.000Z",
+    "p": 2,
+    "st": "SN",
+    "city": "",
+    "t": "Russischer Investigativjournalist Roman Dobrokhotov erhält Leipziger Medienpreis",
+    "s": "Der russische Investigativjournalist Roman Dobrokhotov ist in Leipzig mit dem diesjährigen \"Preis für die Freiheit und Zukunft der Medien\" geehrt worden. Die Auszeichnung würdigt seine Arbeit und seinen Einsatz. Die Verleihung fand im Rahmen einer Veranstaltung in Leipzig statt.",
+    "m": "Der russische Investigativjournalist Roman Dobrokhotov wurde mit dem Leipziger \"Preis für die Freiheit und Zukunft der Medien\" ausgezeichnet. Dobrokhotov ist in seiner Heimat Russland als \"ausländischer Agent\" eingestuft. Der Preis ehrt Journalisten, die sich trotz Repressionen für Meinungs- und Pressefreiheit einsetzen. Weitere Details zur Verleihung, zur Jury oder zu Reaktionen auf die Ehrung wurden in den Berichten nicht genannt. Die Auszeichnung unterstreicht die internationale Aufmerksamkeit für die Situation unabhängiger Medienschaffender aus Russland. Es handelt sich um eine renommierte Ehrung, die jährlich in Leipzig vergeben wird.",
+    "r": "Die Auszeichnung eines bekannten russischen Investigativjournalisten mit einem deutschen Medienpreis beleuchtet die Situation der Pressefreiheit in Russland. Solche Ehrungen bieten verfolgten Journalisten internationale Sichtbarkeit und Anerkennung.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/russischer-journalist-dobrokhotov-bekommt-medienpreis-102.html",
+        "date": "2026-10-08T21:32:03.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Sachsen",
+        "url": "https://www.tagesschau.de/inland/regional/sachsen/roman-dobrokhotov-medienstiftung-sparkasse-leipzig-,medienpreis-akt-100.html",
+        "date": "2026-10-08T20:35:59.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/russischer-journalist-dobrokhotov-bekommt-medienpreis-102.html",
+    "agree": "Die Quellen sind sich einig, dass der russische Investigativjournalist Roman Dobrokhotov mit dem Leipziger \"Preis für die Freiheit und Zukunft der Medien\" ausgezeichnet wurde.",
+    "diff": [
+      {
+        "name": "Tagesschau Regional Sachsen",
+        "note": "Erwähnt zusätzlich, dass Dobrokhotov in seiner Heimat als \"ausländischer Agent\" gilt."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-c9c68d4657f1f4ff",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-08T21:23:54.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Zwei Todesopfer nach Schüssen bei Waffenkontrolle in Berngau",
+    "s": "Bei einer Waffenkontrolle im oberpfälzischen Berngau sind zwei Mitarbeiter des Landratsamtes erschossen worden. Der mutmaßliche Täter hat sich nach der Tat in einem Wohnhaus verschanzt. Ein Großaufgebot von Polizei und Spezialeinheiten ist vor Ort im Einsatz. Die Ermittlungen zu den Hintergründen der tödlichen Eskalation dauern an.",
+    "m": "In der oberpfälzischen Gemeinde Berngau eskalierte eine behördliche Waffenkontrolle mit tödlichen Folgen für zwei Mitarbeiter des Landratsamtes. Der mutmaßliche Schütze flüchtete im Anschluss in ein Wohnhaus und verschanzte sich dort. Die Polizei zog umgehend starke Kräfte sowie ein Spezialeinsatzkommando (SEK) zusammen, um die Lage vor Ort zu kontrollieren. Bisher ist unklar, wie es zu der Schussabgabe kam und ob der Verdächtige allein gehandelt hat. Die Identität des mutmaßlichen Schützen sowie weitere Details zum genauen Ablauf im Haus sind Gegenstand laufender Ermittlungen. Die Situation in dem betroffenen Gebiet dauert an und bindet zahlreiche Rettungs- und Sicherheitskräfte.",
+    "r": "Der Vorfall verdeutlicht die potenziellen Gefahren bei routinemäßigen Behördenkontrollen im privaten Umfeld. Die gewaltsame Eskalation führt zu einem Großeinsatz von Polizei und SEK in der Region.",
+    "srcs": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/waffenkontrolle-in-der-oberpfalz-behoerdenmitarbeiter-erschossen-201300625.html",
+        "date": "2026-10-08T21:23:54.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/panorama/grosseinsatz-in-berngau-zweiter-behoerdenmitarbeiter-bei-waffenkontrolle-erschossen-HM7CMTFG5ZA2TDWUR7JLIZ2G4U.html",
+        "date": "2026-10-08T21:17:16.000Z"
+      }
+    ],
+    "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/waffenkontrolle-in-der-oberpfalz-behoerdenmitarbeiter-erschossen-201300625.html",
+    "agree": "Beide Quellen stimmen überein, dass bei einer Waffenkontrolle in Berngau in der Oberpfalz zwei Mitarbeiter des Landratsamtes erschossen wurden und sich der mutmaßliche Schütze in einem Wohnhaus verschanzt hat.",
+    "diff": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "note": "Berichtet ergänzend, dass es sich um einen Großeinsatz handelt, ohne das SEK explizit zu erwähnen."
+      },
+      {
+        "name": "RND",
+        "note": "Nennt explizit den Einsatz von SEK und Polizei und bezeichnet den Vorfall als Großeinsatz."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-abe5d55135d2ace8",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-08T21:22:34.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Altkanzler Gerhard Schröder trifft Wladimir Putin in Moskau zum Geburtstag",
+    "s": "Der frühere deutsche Bundeskanzler Gerhard Schröder hat nach russischen Angaben an der Geburtstagsfeier von Wladimir Putin in Moskau teilgenommen. Wegen seiner anhaltenden Russlandbeziehungen steht Schröder seit Jahren in der Kritik. Die Zusammenkunft in Moskau erfolgte im Rahmen einer Reise, bei der er nach Medienberichten auch einen neuen Job in Russland erhalten hat. Der Kreml sprach von einer Einladung für einen alten Freund.",
+    "m": "Altkanzler Gerhard Schröder reiste nach Moskau und nahm dort nach offiziellen russischen Angaben an der Geburtstagsfeier von Präsident Wladimir Putin teil. Der Kreml begründete die Zusammenkunft damit, dass der Präsident seinen alten Freund eingeladen habe. Schröder steht aufgrund seiner engen und langjährigen Russlandbeziehungen bereits seit Jahren in der heftigen politischen Kritik. Aktuell fiel die Reise mit Berichten über einen neuen Job zusammen, den Schröder in Russland angetreten haben soll. Im Zuge dieses Aufenthalts erhielt er die besondere Einladung in den Kreml. Weitere offizielle Details zu den Gesprächen oder Inhalten des Treffens wurden zunächst nicht bekannt. Die Kontakte des deutschen Altkanzlers nach Moskau bleiben in der Öffentlichkeit weiterhin stark umstritten.",
+    "r": "Das Treffen eines deutschen Altkanzlers mit dem russischen Präsidenten ist angesichts der langjährigen Kritik an Schröders Russlandbeziehungen und seiner anhaltenden Kontakte von politischer Bedeutung. Solche Reisen beleben die Debatte über den Umgang ehemaliger deutscher Spitzenpolitiker mit Moskau.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/politik/ausland/2026-10/gerhard-schroeder-wladimir-putin-moskau-hyperglobus",
+        "date": "2026-10-08T21:22:34.000Z"
+      },
+      {
+        "name": "Rheinische Post",
+        "url": "https://rp-online.de/politik/ausland/gerhard-schroeder-feiert-geburtstag-mit-kremlchef-putin_aid-156218235",
+        "date": "2026-10-08T19:58:00.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/politik/altkanzler-schroeder-bei-putin-geburtstag-praesident-lud-seinen-alten-freund-ein-OXDZP2BBS5HQRN4EZMQPZUREGY.html",
+        "date": "2026-10-08T19:17:38.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/politik/ausland/2026-10/gerhard-schroeder-wladimir-putin-moskau-hyperglobus",
+    "agree": "Die Quellen sind sich einig, dass der frühere Bundeskanzler Gerhard Schröder in Moskau an einer Geburtstagsfeier von Wladimir Putin teilgenommen hat und wegen seiner Russlandbeziehungen seit Jahren in der Kritik steht.",
+    "diff": [
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Berichtet direkt, dass Schröder laut russischen Angaben an Putins Geburtstagsfeier teilgenommen hat, ohne den Aspekt eines neuen Jobs zu erwähnen."
+      },
+      {
+        "name": "Rheinische Post",
+        "note": "Erwähnt zusätzlich zum Treffen einen neuen Job in Russland, nach dem Schröder eine besondere Einladung erhalten habe."
+      },
+      {
+        "name": "RND",
+        "note": "Zitiert zusätzlich die Aussage des Kreml, dass der Präsident seinen alten Freund eingeladen habe."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
+    "id": "story-ffd141ec61e63855",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-08T21:14:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "US-Verteidigungsminister Hegseth plant öffentliche Hinrichtung von Attentäter Nidal Hasan",
+    "s": "US-Verteidigungsminister Pete Hegseth plant die öffentlichkeitswirksame Erschießung des verurteilten Attentäters Nidal Hasan. Der genaue Ablauf und die konkrete Ausgestaltung dieser Maßnahme sind gegenwärtig noch unklar. Das Vorhaben markiert eine drastische und ungewollte Aufsehen erregende Maßnahme im US-Strafvollzug.",
+    "m": "US-Verteidigungsminister Pete Hegseth hat angekündigt, die geplante Erschießung des verurteilten Attentäters Nidal Hasan in der Öffentlichkeit durchzuführen. Bislang liegen kaum Details darüber vor, wie eine solche öffentliche Hinrichtung praktisch und rechtlich umgesetzt werden soll. Nidal Hasan ist ein in den USA verurteilter Attentäter, dessen Fall nun durch diese ministerielle Initiative erneut in den Fokus rückt. Die Ankündigung wirft zahlreiche Fragen hinsichtlich der Modalitäten und der Zulässigkeit solcher Exekutionen auf. Wie das Vorhaben konkret aussehen soll, ist zum jetzigen Zeitpunkt völlig offen. Weitere offene Punkte betreffen die genaue zeitliche Planung sowie mögliche juristische Hürden gegen diesen Schritt.",
+    "r": "Die Ankündigung einer öffentlichen Hinrichtung durch einen US-Minister berührt grundlegende Fragen des Strafvollzugs und der Rechtsstaatlichkeit. Das Vorhaben könnte zu intensiven nationalen und internationalen Debatten über US-Hinrichtungspraktiken führen.",
+    "srcs": [
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/politik/ausland/pete-hegseth-plant-oeffentliche-militaerhinrichtung-eines-attentaeters-38369604.html",
+        "date": "2026-10-08T21:14:00.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/politik/usa-hegseth-plant-oeffentliche-erschiessung-von-attentaeter-nidal-hasan-XI2JYWTM6NHHRKNKHZ45UJUSJ4.html",
+        "date": "2026-10-08T21:01:04.000Z"
+      }
+    ],
+    "url": "https://www.stern.de/politik/ausland/pete-hegseth-plant-oeffentliche-militaerhinrichtung-eines-attentaeters-38369604.html",
+    "agree": "Beide Quellen stimmen darin überein, dass US-Verteidigungsminister Pete Hegseth die öffentliche Erschießung des verurteilten Attentäters Nidal Hasan plant und die konkrete Umsetzung noch unklar ist.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-4f58ae86d16fd73f",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-08T20:29:00.000Z",
+    "p": 1,
+    "st": "BE",
+    "city": "",
+    "t": "Madame Tussauds in Berlin enthüllt Döner aus Wachs",
+    "s": "Das Berliner Wachsfigurenkabinett Madame Tussauds hat eine Skulptur eines Döner Kebab aus Wachs vorgestellt. Die Vorlage für das Kunstwerk lieferte ein bekannter Döner-Imbiss aus der Hauptstadt. Es handelt sich um den ersten Döner dieser Art in dem Museum.",
+    "m": "Das Wachsfigurenkabinett Madame Tussauds in Berlin hat offiziell den ersten Döner aus Wachs präsentiert. Nach Medienangaben soll es sich dabei um das teuerste Exemplar dieser Art handeln, mit einem geschätzten Wert oder Kostenpunkt von 10.000 Euro. Als direktes Vorbild diente ein bekannter Imbissbetrieb aus der deutschen Hauptstadt. Die Skulptur ist ab sofort im Museum zu besichtigen und bietet den Besuchern einen Döner zum Anfassen. Weitere Details zur Herstellung oder zur genauen Zusammenarbeit mit dem Imbiss wurden zunächst nicht bekannt gegeben.",
+    "r": "Die Präsentation eines traditionellen Schnellgerichts als Wachsskulptur in einem prominenten Museum zeigt die kulturelle Verankerung des Döners in Berlin. Die Meldung ist vor allem für den Bereich Unterhaltung und Lokalkultur von Interesse.",
+    "srcs": [
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/video/zdfheute-xpress/madame-tussauds-doener-video-100.html",
+        "date": "2026-10-08T20:29:00.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/panorama/berlin-madame-tussauds-stellt-ersten-doener-aus-wachs-vor-fuer-10-000-euro-R4SHZCHWMNCQZCXI2PEDFKJGHI.html",
+        "date": "2026-10-08T15:01:49.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Berlin",
+        "url": "https://www.tagesschau.de/inland/regional/berlin/rbb-wachsfigurenkabinett-madame-tussauds-stellt-doener-aus-wachs-vor-100.html",
+        "date": "2026-10-08T14:43:12.000Z"
+      }
+    ],
+    "url": "https://www.zdfheute.de/video/zdfheute-xpress/madame-tussauds-doener-video-100.html",
+    "agree": "Alle Quellen stimmen überein, dass das Wachsfigurenkabinett Madame Tussauds in Berlin einen Döner aus Wachs vorgestellt hat, der auf einem bekannten Berliner Imbiss basiert.",
+    "diff": [
+      {
+        "name": "RND",
+        "note": "Berichtet, dass es sich um den ersten Döner aus Wachs und vermutlich den teuersten für 10.000 Euro handelt."
+      },
+      {
+        "name": "ZDF heute",
+        "note": "Erwähnt, dass die Vorlage für das Gericht von einem bekannten Döner-Imbiss in der Stadt stammte."
+      },
+      {
+        "name": "Tagesschau Regional Berlin",
+        "note": "Liefert keine zusätzlichen Details und beschränkt sich auf die Grundmeldung."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
+    "id": "story-eff0ea0f71c793b6",
+    "c": "INT",
+    "o": "PT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-08T20:20:31.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Portugiesische Haushaltsvorschläge sehen Budgeterhöhungen vor",
+    "s": "Die portugiesische Regierung hat im Rahmen der Haushaltsvorschläge für das kommende Jahr Finanzerhöhungen für verschiedene Bereiche angekündigt. Konkret steigen die Mittel für die Modernisierung von Sicherheitskräften sowie für den Bildungs- und Wissenschaftssektor. Die entsprechenden Vorlagen wurden zur parlamentarischen Prüfung eingereicht.",
+    "m": "Gemäß der vorgeschlagenen Budgetplanung für das kommende Jahr erhöht sich die Vergabe für Modernisierungsmaßnahmen an Einrichtungen, Ausrüstung, Fahrzeuge und Waffen von PSP und GNR um 29 Prozent auf insgesamt 132,8 Millionen Euro. Gleichzeitig plant die Regierung im Bereich Bildung und Wissenschaft ein Budgetwachstum von 1,5 Prozent, womit eine konsolidierte Ausgabe von knapp 7,79 Milliarden Euro veranschlagt wird. Diese Maßnahmen sind Teil der staatlichen Finanzplanung, die die Schwerpunkte der öffentlichen Ausgaben für das Jahr 2027 festlegt. Die Zuweisungen sollen den Betrieb und die Infrastruktur der betroffenen Institutionen stärken. Weitere Einzelheiten zur Verteilung im Detail und zur Gegenfinanzierung im Gesamthaushalt müssen in den kommenden Verhandlungen geklärt werden.",
+    "r": "Die Aufstockung der Haushaltsmittel betrifft zentrale staatliche Bereiche wie die innere Sicherheit sowie Bildung und Wissenschaft. Damit gibt der Entwurf Einblicke in die finanzpolitischen Prioritäten der Regierung für das kommende Jahr.",
+    "srcs": [
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/economia/verbas-para-instalacoes-equipamentos-viaturas-e-armas-da-psp-e-gnr-aumentam-29_n1770440",
+        "date": "2026-10-08T20:20:31.000Z"
+      },
+      {
+        "name": "RTP Economia",
+        "url": "https://www.rtp.pt/noticias/economia/verbas-para-educacao-e-ciencia-aumentam-15-para-778-mil-milhoes_n1770399",
+        "date": "2026-10-08T15:50:51.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/economia/verbas-para-instalacoes-equipamentos-viaturas-e-armas-da-psp-e-gnr-aumentam-29_n1770440",
+    "agree": "Die Quellen stimmen überein, dass die portugiesische Regierung in ihrem Haushaltsentwurf für das kommende Jahr höhere Finanzmittel für bestimmte staatliche Bereiche vorsieht.",
+    "diff": [
+      {
+        "name": "RTP Notícias",
+        "note": "Berichtet über die Erhöhung der Mittel für PSP und GNR um 29 Prozent auf 132,8 Millionen Euro."
+      },
+      {
+        "name": "RTP Economia",
+        "note": "Berichtet über die Erhöhung der Mittel für Bildung und Wissenschaft um 1,5 Prozent auf 7,78 Milliarden Euro."
+      }
+    ],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-2e36b4c2b001cd7b",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-08T20:12:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Frankreich setzt kurzfristig 3000 Vertretungslehrer ein",
+    "s": "Die französische Regierung will kurzfristig mehr als 3000 Vertretungslehrer einsetzen, um auf die anhaltenden Schulproteste im Land zu reagieren. Damit geht sie erstmals konkret auf Forderungen der Demonstrierenden ein. Die Proteste eskalieren jedoch weiterhin an verschiedenen Standorten.",
+    "m": "Nach anhaltenden Schulprotesten hat die französische Regierung angekündigt, kurzfristig mehr als 3000 Vertretungslehrer zu organisieren. Dieser Schritt stellt ein erstes konkretes Eingehen auf die Forderungen der Schüler dar. Während dieser Maßnahmen eskalieren die Proteste im Land jedoch erneut. In Saint-Chamond kam es zu einem schwerwiegenden Vorfall, bei dem der Vizerektor einer Schule durch einen Feuerwerkskörper Verbrennungen im Gesicht erlitt. Es bleibt abzuwarten, welche weiteren Pläne die Regierung verfolgt und wie sich die Sicherheitslage an den Schulen entwickeln wird.",
+    "r": "Die Massnahmen der französischen Regierung zeigen, dass der Druck durch die eskalierenden Schülerproteste hoch ist. Die Situation an den Schulen betrifft die öffentliche Sicherheit und das Bildungssystem direkt.",
+    "srcs": [
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/frankreich-setzt-kurzfristig-3000-vertretungslehrer-ein-a-6c20340e-5db1-4bf8-9eff-82e0719009bd#ref=rss",
+        "date": "2026-10-08T20:12:00.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/politik/frankreich-setzt-nach-schulprotesten-kurzfristig-3000-vertretungslehrer-ein-ACBO6W5AIBDWNFC2CDEDESPHOQ.html",
+        "date": "2026-10-08T20:08:43.000Z"
+      }
+    ],
+    "url": "https://www.spiegel.de/ausland/frankreich-setzt-kurzfristig-3000-vertretungslehrer-ein-a-6c20340e-5db1-4bf8-9eff-82e0719009bd#ref=rss",
+    "agree": "Die Quellen sind sich einig, dass Frankreich nach Schulprotesten kurzfristig 3000 Vertretungslehrer einsetzt.",
+    "diff": [
+      {
+        "name": "DER SPIEGEL",
+        "note": "Berichtet über die Eskalation in Saint-Chamond, bei der ein Vizerektor durch einen Feuerwerkskörper Gesichtsverbrennungen erlitt."
+      },
+      {
+        "name": "RND",
+        "note": "Erwähnt allgemein, dass die Regierung weitere Pläne hat und beleuchtet den Verlauf der Proteste."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-65c6d6c6fbf1af7f",
+    "c": "INT",
+    "o": "DE",
+    "k": "technik",
+    "lang": "de",
+    "d": "2026-10-08T19:52:05.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Amazon plant Alexa-Tablets mit Android und Google Play",
+    "s": "Amazon plant offenbar eine Neuausrichtung seiner Alexa-Tablets und verabschiedet sich von der bisherigen Fire-Branding-Strategie. Künftig sollen die Geräte stärker auf Android setzen. Zudem wird der hauseigene App Store durch den Google Play Store ersetzt.",
+    "m": "Berichten zufolge hat Amazon beschlossen, den eigenen App Store einzustellen und stattdessen den Google Play Store auf seinen neuen Alexa-Tablets zu integrieren. Damit öffnen sich die Geräte deutlich stärker dem regulären Android-Ökosystem. Das bisher bekannte Fire OS und die dazugehörige Markenbezeichnung werden dabei fallengelassen. Die neuen Tablets präsentieren sich somit technologisch so nah an Standard-Android wie nie zuvor. Offizielle Details zu konkreten Hardware-Modellen, Preisen oder einem genauen Veröffentlichungszeitpunkt stehen noch aus.",
+    "r": "Die Abkehr von Fire OS und die Integration des Google Play Stores stellen eine bedeutende strategische Änderung für Amazons Hardware-Sparte dar. Damit ändert sich das Software-Ökosystem der Alexa-Tablets grundlegend für Nutzer und Entwickler.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNamtIc1g5dEh3SlZRZnpEN3dEWlZLTTdwbGhocTNibGE4cEg4YlVTZjhEZGE1TTJIUC1BR3Y4WjhDTGZxOU5DUXRzazZoLTctUHZ1ZXc2bm9udWVnYmd3bHd2cWNfblB0Rm5Ud21iLWZFSjlpX2UzSWVTUEZwZVA0Nm1EYUQ0a0stQkpEdk81WWo5dw?oc=5",
+        "date": "2026-10-08T19:52:05.000Z"
+      },
+      {
+        "name": "Ars Technica",
+        "url": "https://arstechnica.com/gadgets/2026/10/amazons-new-alexa-tablets-drop-the-fire-branding-but-are-more-android-than-ever/",
+        "date": "2026-10-08T16:32:46.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNamtIc1g5dEh3SlZRZnpEN3dEWlZLTTdwbGhocTNibGE4cEg4YlVTZjhEZGE1TTJIUC1BR3Y4WjhDTGZxOU5DUXRzazZoLTctUHZ1ZXc2bm9udWVnYmd3bHd2cWNfblB0Rm5Ud21iLWZFSjlpX2UzSWVTUEZwZVA0Nm1EYUQ0a0stQkpEdk81WWo5dw?oc=5",
+    "agree": "Beide Quellen stimmen darin überein, dass Amazon bei neuen Alexa-Tablets das Fire-Branding ablegt, den eigenen App Store aufgibt und stattdessen auf Android sowie den Google Play Store setzt.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Verweist auf den Blogbeitrag von BornCity als Quelle für die Meldung über den Wechsel von Fire OS zu Android und Google Play."
+      },
+      {
+        "name": "Ars Technica",
+        "note": "Beschreibt die Entwicklung aus angelsächsischer Perspektive mit dem Fokus, dass die neuen Geräte mehr Android denn je seien und Amazon seinen App Store komplett getötet habe."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-12939e0c8ca4e7b5",
+    "c": "INT",
+    "o": "PT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-08T19:45:22.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Zwei portugiesische Staatsbürger in der Westbank festgenommen",
+    "s": "In der Westbank sind zwei portugiesische Staatsbürger festgenommen worden. Die Betroffenen waren Teil einer fünfköpfigen Gruppe aus Portugal. Zu der Gruppe gehörten auch zwei Journalisten. Die genauen Umstände der Festnahme und der aktuelle Aufenthaltsort der Personen gehen aus den Berichten nicht hervor.",
+    "m": "Bisher ist bekannt, dass insgesamt fünf portugiesische Staatsangehörige in der Westbank unterwegs waren, wobei zwei von ihnen als Journalisten tätig sind. Aus dieser Gruppe heraus wurden zwei Personen festgenommen. Die Identität der Festgenommenen sowie der genaue Zeitpunkt und Ort des Zugriffs wurden in den vorliegenden Meldungen nicht genannt. Auch über die Gründe für die Festnahme und mögliche Reaktionen der portugiesischen Behörden liegen noch keine Informationen vor. Weitere Details zum Verbleib der übrigen drei Gruppenmitglieder stehen ebenfalls aus.",
+    "r": "Die Festnahme von Staatsbürgern, darunter Journalisten, im Nahen Osten ist von diplomatischem und sicherheitspolitischem Interesse. Der Vorfall betrifft den Schutz von Auslandskorrespondenten und Reisenden in Krisenregionen.",
+    "srcs": [
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/pais/dois-portugueses-foram-detidos-na-cisjordania_n1770483",
+        "date": "2026-10-08T19:45:22.000Z"
+      },
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY0dkQm0ybWlCVlhMaVNWT1JJZUotVzlJVkx5U2JBd3hMOE1NdThyLVI1bmVaNHZobnUtNGw0RXV0RXZPNXJZMGI5dnFSbkhta1c5ODQtMHJJUzQxalRrd3RMX1BZRnZMZ3RTSUZVMTRXRzhfV1NQbkc2Tll1VmxRZmYyUXRuYWN5Mkdfa01JY0w?oc=5",
+        "date": "2026-10-08T18:24:29.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/pais/dois-portugueses-foram-detidos-na-cisjordania_n1770483",
+    "agree": "Zwei portugiesische Staatsbürger wurden in der Westbank festgenommen und waren Teil einer Gruppe von fünf Personen, zu der zwei Journalisten gehörten.",
+    "diff": [
+      {
+        "name": "RTP Notícias",
+        "note": "Berichtet, dass die Festgenommenen Teil einer Gruppe von fünf Portugiesen waren, darunter zwei Journalisten."
+      },
+      {
+        "name": "Google News Portugal",
+        "note": "Gibt lediglich die Schlagzeile der RTP-Meldung wieder."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-e5f39a547bc4e3ed",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-08T19:32:04.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Down-Syndrom: Bundestag will Anwendung von Pränataltests prüfen",
+    "s": "Bluttests können Schwangeren die Wahrscheinlichkeit eines Gen-Defekts beim ungeborenen Kind aufzeigen. Unter Bedingungen sind die Tests inzwischen Kassenleistung. Der Bundestag will zu der Praxis nun aber genauere Daten.",
+    "m": "Bluttests können Schwangeren die Wahrscheinlichkeit eines Gen-Defekts beim ungeborenen Kind aufzeigen. Unter Bedingungen sind die Tests inzwischen Kassenleistung. Der Bundestag will zu der Praxis nun aber genauere Daten. Down-Syndrom: Bundestag will Anwendung von Pränataltests prüfen tagesschau.de <a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxQVVdTSnNKTEpVUm1pNndMOWZFdXROU0JJRUVON29WTjgzN0NNQzFLd194dVhuWTdZMlBCZThqalFDYWYxelE4VEVYVHZ1UGswU3h3T3dXUTk3YUcwajQyb3REQm1pSUQ4SnVTZG9ZaFIyMzlXQzBOMzhyVkZkVWMyQTc4Q3hDT1BpYU5QVGk5TUJHdXhqMzFkc05Oa3I0X0E2eDFRazlOeUJla2tFWm5rMUF5aksyMnVzaDh5SG9fOEp5",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/inland/bundestag-schwangerschaft-diagnostik-100.html",
+        "date": "2026-10-08T19:32:04.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMzdpV0ZucDh4cGUyVzgyaEdEVWRIWWMtSVcwMXJNNWljMzVNQnF4TDl3c2NCeXhvNHpjZGlhTEJsQkprX0d4ckp6UmdJSTJwZHU4LW5ha2gydUJRTlRRbVJmeTVXMFcyeTV5RkhpWE14Q2lnbjhDLUhLY0NGaVA2eVFjTFE?oc=5",
+        "date": "2026-10-08T19:32:00.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/bundestag-schwangerschaft-diagnostik-100.html",
     "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
     "diff": [],
     "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-ae51ca4b3066b3f2",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-08T18:49:18.000Z",
+    "p": 4,
+    "st": "MV",
+    "city": "",
+    "t": "Fall Fabian: Gutachter bescheinigt angeklagter Gina H. volle Schuldfähigkeit",
+    "s": "Im Mordprozess um den achtjährigen Fabian hat ein Psychiater sein Gutachten zur Angeklagten Gina H. vorgestellt. Laut dem Experten ist die Frau voll schuldfähig. Ihr wird vorgeworfen, den Jungen vor einem Jahr in der Nähe von Güstrow getötet zu haben.",
+    "m": "Vor dem Gericht wurde ein psychiatrisches Gutachten zu Gina H. verhandelt, die für den Tod des achtjährigen Fabian vor rund einem Jahr verantwortlich sein soll. Der Psychiater erläuterte seinen Befund knapp eine Stunde lang und attestierte der Angeklagten eine emotional instabile Persönlichkeitsstörung. Trotz dieser Diagnose kommt der Gutachter zu dem Schluss, dass Gina H. voll schuldfähig ist. Die Tat ereignete sich in der Nähe von Güstrow und hatte bundesweit für Entsetzen gesorgt. Der aktuelle Prozess soll die genauen Hintergründe und die Schuldfrage klären.",
+    "r": "Die Einschätzung der Schuldfähigkeit durch einen medizinischen Experten ist ein zentrales Element im Strafprozess zur Aufklärung des Verbrechens. Die genaue Diagnose der Persönlichkeitsstörung beleuchtet den psychischen Zustand der Angeklagten vor Gericht.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Mecklenburg-Vorpommern",
+        "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/fall-fabian-gina-h-ist-laut-gutachter-voll-schuldfaehig,fabian-256.html",
+        "date": "2026-10-08T18:49:18.000Z"
+      },
+      {
+        "name": "NDR Mecklenburg-Vorpommern",
+        "url": "https://www.ndr.de/fernsehen/sendungen/nordmagazin/fall-fabian-laut-gutachter-ist-gina-h-voll-schuldfaehig,nordmagazin-14860.html",
+        "date": "2026-10-08T18:48:52.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/fall-fabian-gina-h-ist-laut-gutachter-voll-schuldfaehig,fabian-256.html",
+    "agree": "Die Quellen stimmen überein, dass ein Gutachter Gina H. im Fall Fabian volle Schuldfähigkeit bescheinigt hat.",
+    "diff": [
+      {
+        "name": "Tagesschau Regional Mecklenburg-Vorpommern",
+        "note": "Berichtet, dass der Psychiater rund eine Stunde gesprochen hat und eine emotional instabile Persönlichkeitsstörung diagnostizierte."
+      },
+      {
+        "name": "NDR Mecklenburg-Vorpommern",
+        "note": "Erwähnt konkret den Vorwurf des Mordes an dem achtjährigen Jungen vor einem Jahr in der Nähe von Güstrow."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-9ab3c14b0484b8f2",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-08T18:40:18.000Z",
+    "p": 3,
+    "st": "NI",
+    "city": "",
+    "t": "Ermittlungen im Fall Lehrte weiten sich auf Adis Ahmetovic aus",
+    "s": "Im Zusammenhang mit dem Verkauf des Klinikums Lehrte hat die Staatsanwaltschaft Ermittlungen gegen den hannoverschen SPD-Chef Adis Ahmetovic aufgenommen. Nach früheren Verfahren gegen Parteikollegen steht nun ein weiterer SPD-Politiker im Fokus. Die Berichterstattung beruht auf aktuellen Recherchen des NDR.",
+    "m": "Die Staatsanwaltschaft hat ihre Ermittlungen im sogenannten Fall Lehrte auf einen weiteren SPD-Politiker ausgedehnt. Nun steht auch der hannoversche SPD-Chef Adis Ahmetovic im Visier der Behörden. Hintergrund der Ermittlungen ist offenbar der umstrittene Verkauf des Klinikums Lehrte. Zuvor waren bereits in ähnlichen Zusammenhängen Verfahren gegen die SPD-Politiker Politze und Krach eingeleitet worden. Nähere Details zu den konkreten Vorwürfen und dem genauen zeitlichen Ablauf der neuen Ermittlungsschritte nennen die vorliegenden Berichte bisher nicht. Die Untersuchung wirft ein neues Schlaglicht auf die politische Gemengelage um das Klinikum.",
+    "r": "Die Ausweitung von strafrechtlichen Ermittlungen auf hochrangige Kommunalpolitiker ist von öffentlichem Interesse. Die Vorgänge rund um den Verkauf des Klinikums Lehrte betreffen direkt die politische und kommunale Verantwortung in der Region.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Niedersachsen",
+        "url": "https://www.tagesschau.de/inland/regional/niedersachsen/weitere-ermittlungen-im-fall-lehrte-nun-gegen-adis-ahmetovic,ahmetovic-106.html",
+        "date": "2026-10-08T18:40:18.000Z"
+      },
+      {
+        "name": "NDR Niedersachsen",
+        "url": "https://www.ndr.de/fernsehen/sendungen/hallo_niedersachsen/weitere-ermittlungen-im-fall-lehrte-gegen-spd-politiker,hallonds-10772.html",
+        "date": "2026-10-08T18:39:15.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSnptUDZhWXNXYjExdzY2WDBZanFGUVBUelJCYXhEalQwd1JWVDBwN3BUZzBIOXlwUDZ3OUhxOGJCWG9xWkNHdXVLYjlFdGN3ZWIyQ1luQzd4b29Ec0Rac0ljakxEemNBcVM1THpEeUlUeDc5dk9Na3NSNjVlSE9oY2tndkMyVFpNY2RLRFZIaE9GT1l3b0Y2TEU4MC02dkFCdURqRU9TQlNLSGNQUDZaVjNSMVlkbFM1Xy1aTFJ3SnJ0aGZIeVd6el9ZTkIwQmxTbXZGdTFZYV8xZVhXSnR2Y2wzanlqdw?oc=5",
+        "date": "2026-10-08T15:29:14.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/niedersachsen/weitere-ermittlungen-im-fall-lehrte-nun-gegen-adis-ahmetovic,ahmetovic-106.html",
+    "agree": "Die Quellen stimmen überein, dass die Staatsanwaltschaft Ermittlungen gegen den SPD-Politiker Adis Ahmetovic im Zusammenhang mit dem Fall Lehrte eingeleitet hat.",
+    "diff": [
+      {
+        "name": "Tagesschau Regional Niedersachsen",
+        "note": "Erwähnt kurz, dass es sich um den dritten SPD-Politiker nach Politze und Krach handelt und nennt den Klinik-Verkauf als mutmaßlichen Grund."
+      },
+      {
+        "name": "NDR Niedersachsen",
+        "note": "Nennt Adis Ahmetovic explizit als Hannovers SPD-Chef und verweist auf Details durch die Reporterin Sophie Mühlmann."
+      },
+      {
+        "name": "Google News DE",
+        "note": "Verweist lediglich auf den Artikel des NDR mit den Namen Krach, Politze und Ahmetovic als Schlagzeile."
+      }
+    ],
+    "chg": "",
     "independent": 3
+  },
+  {
+    "id": "story-c016a6845e21df3d",
+    "c": "DE",
+    "o": "DE",
+    "k": "technik",
+    "lang": "de",
+    "d": "2026-10-08T18:38:58.000Z",
+    "p": 3,
+    "st": "SH",
+    "city": "",
+    "t": "So bremsen KI-generierte Anträge Sozialgerichte aus",
+    "s": "An den Sozialgerichten in Schleswig-Holstein hat sich die Zahl der Klagen innerhalb eines Jahres verdoppelt. Ein wesentlicher Grund für diesen massiven Anstieg sind KI-generierte Anträge. Die Justiz steht dadurch vor erheblichen Belastungsproben.",
+    "m": "Die Sozialgerichte im Land verzeichnen einen beispiellosen Anstieg der Fallzahlen. Innerhalb von nur zwölf Monaten hat sich die Zahl der eingereichten Klagen verdoppelt. Verantwortlich dafür sind zu großen Teilen Anträge und Klagen, die mithilfe von künstlicher Intelligenz erstellt wurden. Diese Entwicklung führt zu einem spürbar höheren Bearbeitungsaufwand für die Mitarbeiterinnen und Mitarbeiter an den Gerichten. Richter und Verwaltungen müssen prüfen, inwieweit die automatisiert erstellten Schreiben den rechtlichen Anforderungen genügen. Der genaue Hintergrund, welche Plattformen oder Muster für die Erstellung genutzt werden, ist Gegenstand weiterer Beobachtungen. Offen ist bislang, wie die Justiz langfristig mit der Welle digital generierter Eingaben umgehen wird.",
+    "r": "Der massive Anstieg von Klagen durch KI-generierte Anträge zeigt eine neue Belastung für die Justiz und wirft Fragen zum künftigen Umgang mit automatisierten Rechtsschriften auf.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Schleswig-Holstein",
+        "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/wie-ki-generierte-antraege-sozialgerichte-ausbremsen,sozialgerichte-100.html",
+        "date": "2026-10-08T18:38:58.000Z"
+      },
+      {
+        "name": "NDR Schleswig-Holstein",
+        "url": "https://www.ndr.de/fernsehen/sendungen/schleswig-holstein_magazin/ki-macht-mehr-arbeit-am-sozialgericht,shmag-13920.html",
+        "date": "2026-10-08T17:40:45.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/wie-ki-generierte-antraege-sozialgerichte-ausbremsen,sozialgerichte-100.html",
+    "agree": "Beide Quellen stimmen überein, dass sich die Zahl der Klagen an den Sozialgerichten innerhalb eines Jahres verdoppelt hat und viele davon KI-generiert sind.",
+    "diff": [
+      {
+        "name": "Tagesschau Regional Schleswig-Holstein",
+        "note": "Betitelt den Umstand konkret als 'So bremsen KI-generierte Anträge Sozialgerichte aus'."
+      },
+      {
+        "name": "NDR Schleswig-Holstein",
+        "note": "Formuliert den Titel etwas anders mit 'KI-generierte Anträge machen Sozialgerichten mehr Arbeit'."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-43283ea5dd1f471c",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-08T18:07:00.000Z",
+    "p": 3,
+    "st": "BW",
+    "city": "",
+    "t": "Audi plant Einsparungen und Schlechtwetterklausel für Werk in Neckarsulm",
+    "s": "Der Autobauer Audi plant angesichts einer Krise Einsparungen für sein Werk in Neckarsulm. Dazu will das Unternehmen mit den Arbeitnehmern verhandeln. Ein zentrales Element ist dabei der Einsatz der sogenannten Schlechtwetterklausel.",
+    "m": "Audi steckt derzeit in einer Krise und plant deshalb weitere Einsparungen für das Werk im baden-württembergischen Neckarsulm. Um diese Maßnahmen umzusetzen, sucht der Autobauer das Gespräch mit den Arbeitnehmern und will mit ihnen über die entsprechenden Schritte verhandeln. Ein konkretes Instrument, das in diesem Zusammenhang zum Einsatz kommen soll, ist die sogenannte Schlechtwetterklausel. Weitere Details zum zeitlichen Ablauf, den genauen finanziellen Auswirkungen oder den genauen Reaktionen der Arbeitnehmerseite nennen die vorliegenden Quellen bisher nicht.",
+    "r": "Die Maßnahme betrifft einen großen deutschen Automobilstandort und gibt Einblicke in die aktuellen wirtschaftlichen Herausforderungen und Sparbemühungen des Unternehmens.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Baden-Württemberg",
+        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/betriebsversammlung-audi-neckarsulm-100.html",
+        "date": "2026-10-08T18:07:00.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVGlNQXZ3ajF2U2ctR1BvdmZpZDM2OUhiZGJGM183UU9CTHFlSUZiR2xmOW52Q2pERVUtd1AzM3BBWHAzSE5JbmZZXzFyUVBjcVZ5Z3NIQS1XVFI3cGowQkowZjlYSXJKejV4RlVoOVJkcWF2UUg4Y0ptVmZvS3dKelMxSWZqaHUtQ2NFWFpfbTAtUXFEalRVVXBwUG5LVU5fSUdxSDFSVQ?oc=5",
+        "date": "2026-10-08T18:07:00.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/betriebsversammlung-audi-neckarsulm-100.html",
+    "agree": "Beide Quellen berichten, dass Audi für das Werk in Neckarsulm die Schlechtwetterklausel einsetzen will und über Einsparungen verhandelt werden soll.",
+    "diff": [
+      {
+        "name": "Tagesschau Regional Baden-Württemberg",
+        "note": "Berichtet ausführlich, dass Audi wegen der Krise mit Arbeitnehmern über Einsparungen und den Einsatz der Schlechtwetterklausel verhandeln will."
+      },
+      {
+        "name": "Google News DE",
+        "note": "Verweist lediglich per Link auf den Bericht der Tagesschau."
+      }
+    ],
+    "chg": "",
+    "independent": 2
   },
   {
     "id": "story-8b3889e3150ff05a",
@@ -69,34 +880,80 @@
     "independent": 2
   },
   {
-    "id": "story-19d1159d87e66c24",
-    "c": "DE",
-    "o": "DE",
+    "id": "story-e51f5cb97b282500",
+    "c": "INT",
+    "o": "UK",
     "k": "politik",
     "lang": "de",
-    "d": "2026-10-08T16:38:22.000Z",
-    "p": 2,
+    "d": "2026-10-08T16:31:29.000Z",
+    "p": 4,
     "st": "",
     "city": "",
-    "t": "Projekt der Meloni-Regierung - Italiens Parlament billigt umstrittene Wahlrechtsreform",
-    "s": "In Italien hat das Parlament ungeachtet der Kritik aus der Opposition die Wahlrechtsreform der Meloni-Regierung gebilligt.",
-    "m": "In Italien hat das Parlament ungeachtet der Kritik aus der Opposition die Wahlrechtsreform der Meloni-Regierung gebilligt. Die umstrittene Wahlrechtsreform von Italiens Ministerpräsidentin Meloni ist endgültig verabschiedet worden. Die Opposition wirft der Regierung vor, damit ihre Macht sichern zu wollen. Zudem gibt es verfassungsrechtliche Bedenken.",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "t": "Russischer Angriff auf Busse in Kramatorsk fordert mindestens 30 Menschenleben",
+    "s": "Bei einem russischen Luftangriff auf zwei voll besetzte Busse in der Frontstadt Kramatorsk sind nach Angaben von Behörden mindestens 30 Menschen getötet worden. Die Ukraine wirft Russland vor, gezielt Zivilpersonen ins Visier genommen zu haben. Der Vorfall ereignet sich inmitten einer Welle tödlicher Angriffe im Konflikt. Weitere Details zu den Hintergründen und Verletzten sind Teil der laufenden Berichterstattung.",
+    "m": "Ein schwerer russischer Angriff hat in der frontnahen Stadt Kramatorsk zwei Busse getroffen und nach offiziellen Angaben mindestens 30 Menschen in den Tod gerissen. Die ukrainische Seite erhebt schwere Vorwürfe und spricht von einem gezielten Akt gegen die Zivilbevölkerung, um eine möglichst hohe Opferzahl zu erzielen. Der Einschlag reiht sich in eine drastische Zuspitzung tödlicher Angriffe auf ukrainischem Gebiet ein. Rettungs- und Sicherheitskräfte sind im Einsatz, um die Lage vor Ort zu bewältigen. Die genauen Umstände des Angriffs und der genaue Zustand eventueller Überlebender werden derzeit ermittelt. Die Eskalation verdeutlicht die anhaltende Bedrohung für Zivilisten in den umkämpften Regionen der Ostukraine.",
+    "r": "Der Vorfall verdeutlicht die anhaltende und eskalierende Bedrohung der Zivilbevölkerung in den umkämpften Regionen der Ukraine durch tödliche Luftangriffe. Die hohen Opferzahlen in einem stark frequentierten städtischen Bereich unterstreichen die Brutalität der anhaltenden Kampfhandlungen.",
     "srcs": [
       {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/italiens-parlament-billigt-umstrittene-wahlrechtsreform-102.html",
-        "date": "2026-10-08T16:38:22.000Z"
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-08T16:31:29.000Z"
       },
       {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/europa/meloni-wahlrechtsreform-100.html",
-        "date": "2026-10-08T13:47:19.000Z"
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jMTlTQU5tVXR6aWxNX0sxZ3duY2YwN3dyLWVFY3pod0VldWZHUDNsVDI0V1dSRlZ1SkZwY3Z5dkc2TzZGWXZtek9lT3ZSQUo4YllNV2Myb2JURms?oc=5",
+        "date": "2026-10-08T16:31:29.000Z"
       }
     ],
-    "url": "https://www.deutschlandfunk.de/italiens-parlament-billigt-umstrittene-wahlrechtsreform-102.html",
-    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
-    "diff": [],
+    "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+    "agree": "Die Quellen stimmen überein, dass ein russischer Angriff auf Busse in Kramatorsk mindestens 30 Menschen getötet hat.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Verweist lediglich auf den Artikel der BBC mit exakt derselben Schlagzeile."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-ec0b93a1723cea18",
+    "c": "INT",
+    "o": "INT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-08T16:20:27.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "USA erheben Foltervorwürfe gegen Venezuelas Ex-Präsidenten Maduro",
+    "s": "Die US-Behörden haben die Anklage gegen den ehemaligen venezolanischen Präsidenten Nicolás Maduro um Foltervorwürfe erweitert. Der frühere Staatschef, dem bereits Drogendelikte zur Last gelegt werden, gerät damit weiter unter Druck. Die revidierte Anklageschrift bringt ihn direkt mit Folterpraktiken in Verbindung.",
+    "m": "Die US-Justiz hat ihre Vorwürfe gegen den abgesetzten autoritären Präsidenten Venezuelas, Nicolás Maduro, durch eine revidierte Anklageschrift verschärft. Neu hinzugekommen sind konkrete Anklagepunkte wegen Folter, womit der Druck auf Maduro weiter erhöht wird. Bereits zuvor sah er sich schwerwiegenden Vorwürfen im Zusammenhang mit Drogenhandel ausgesetzt. Ein zentrales Element der neuen Anklageschrift ist die Erwähnung des militärischen Geheimdienstes DGCIM aus Venezuela. Dieser gefürchtete Geheimdienst soll maßgeblich in die besagten Vorfälle verwickelt sein. Die Ermittlungen und Anklagen der US-Behörden unterstreichen das internationale Vorgehen gegen die bisherige Führung Venezuelas. Weitere Details zu den konkreten Foltervorwürfen und den beteiligten Personen im Umfeld von Maduro wurden im Rahmen der jüngsten Anklageerweiterung ebenfalls thematisiert.",
+    "r": "Die Anklageerweiterung gegen ein ehemaliges Staatsoberhaupt durch US-Behörden hat hohe internationale Relevanz im Bereich der Außenpolitik und Strafverfolgung. Sie zeigt, wie ausländische Justizorgane gegen mutmaßliche Verbrechen gegen die Menschlichkeit und Korruption bei Spitzenpolitikern vorgehen.",
+    "srcs": [
+      {
+        "name": "Euronews",
+        "url": "https://www.euronews.com/2026/10/08/us-charges-former-venezuelan-president-nicolas-maduro-with-torture",
+        "date": "2026-10-08T16:20:27.000Z"
+      },
+      {
+        "name": "NPR World",
+        "url": "https://www.npr.org/2026/10/08/nx-s1-5995360/venezuela-nicolas-maduro-torture-charges",
+        "date": "2026-10-08T16:05:37.000Z"
+      }
+    ],
+    "url": "https://www.euronews.com/2026/10/08/us-charges-former-venezuelan-president-nicolas-maduro-with-torture",
+    "agree": "Beide Quellen stimmen überein, dass die USA den ehemaligen venezolanischen Präsidenten Nicolás Maduro in einer neuen Anklage mit Foltervorwürfen konfrontieren.",
+    "diff": [
+      {
+        "name": "Euronews",
+        "note": "Erwähnt zusätzlich die konkrete Verstrickung und namentliche Nennung des venezolanischen Militärgeheimdienstes DGCIM in der revidierten Anklageschrift."
+      },
+      {
+        "name": "NPR World",
+        "note": "Bezeichnet Maduro als abgesetzten, autoritären Anführer und verknüpft die neuen Foltervorwürfe mit den bereits bestehenden Anschuldigungen wegen Drogendschmuggels."
+      }
+    ],
     "chg": "",
     "independent": 2
   },
@@ -164,6 +1021,88 @@
       {
         "name": "Guardian World",
         "note": "Berichtet zusätzlich über den vermeintlichen Druck der Trump-Administration auf Kanada, Litauen und den EU-Diplomatendienst, die Unterstützung für eine europäische Desinformationskonferenz zurückzuziehen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-271aab28b92dd291",
+    "c": "INT",
+    "o": "PT",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-08T16:00:42.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "FC Porto verlängert Vertrag mit William Gomes bis 2031",
+    "s": "Der brasilianische Spieler William Gomes hat seinen Vertrag beim FC Porto langfristig bis zum Jahr 2031 verlängert. Dies gaben die Verantwortlichen des portugiesischen Fußballvereins offiziell bekannt. Im Zuge der Vertragsverlängerung wurde eine hohe Ausstiegsklausel vereinbart.",
+    "m": "Der FC Porto hat den Vertrag mit dem brasilianischen Offensivspieler William Gomes vorzeitig bis zum Sommer 2031 ausgedehnt. Als Teil des neuen Arbeitspapiers wurde eine festgeschriebene Ablösesumme beziehungsweise Ausstiegsklausel in Höhe von 100 Millionen Euro verankert. Die Verlängerung wurde von den offiziellen Kanälen der Blau-Weißen kommuniziert. Medienberichten zufolge ist unter anderem das Portal Maisfutebol an der Berichterstattung über diesen Transfer beziehungsweise die Vertragsbindung beteiligt. Die langfristige Bindung unterstreicht das Vertrauen des Vereins in das Talent des jungen Spielers. Weitere Details zur genauen Gehaltsstruktur oder früheren Laufzeit des Vertrages wurden in den Ausgangsmeldungen nicht genannt.",
+    "r": "Die Vertragsverlängerung eines talentierten Spielers mit einer derart hohen Ausstiegsklausel ist ein bedeutender Schritt für die sportliche und finanzielle Planung des FC Porto. Sie bindet das Talent langfristig an den Verein.",
+    "srcs": [
+      {
+        "name": "RTP Desporto",
+        "url": "https://www.rtp.pt/noticias/fc-porto/william-gomes-renova-contrato-com-o-fc-porto-ate-2031_d1770401",
+        "date": "2026-10-08T16:00:42.000Z"
+      },
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN3FlUUZHY3h2ZDQ3TEM3NldEcnUxS0NGc0F5VzJ3OERRZjJvWllOZXk5TzlDcDdTSHZZdkQwcWVFX3FlYUdEdG8wamhtZ0xRZVY1bzAwOUpEelR5MmhJeEFaTDhGQ3hLTElPNGJ3Q01xaUdwRDlqQVpQNmxhYndWbWc5NUNHem1TSmdpRGZWZzI0WlZxSWw0aVBCYUZBQQ?oc=5",
+        "date": "2026-10-08T13:14:30.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/fc-porto/william-gomes-renova-contrato-com-o-fc-porto-ate-2031_d1770401",
+    "agree": "Beide Quellen stimmen überein, dass William Gomes seinen Vertrag beim FC Porto bis 2031 verlängert hat.",
+    "diff": [
+      {
+        "name": "RTP Desporto",
+        "note": "nennt die genaue Höhe der Ausstiegsklausel von 100 Millionen Euro."
+      },
+      {
+        "name": "Google News Portugal",
+        "note": "verweist auf die Berichterstattung des Portals Maisfutebol über denselben Sachverhalt."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-6c0e3d68f23944d1",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-08T15:35:30.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Gegenseitige Angriffe zwischen Saudi-Arabien und Huthi-Miliz",
+    "s": "Die gegenseitigen Angriffe zwischen Saudi-Arabien und der jemenitischen Huthi-Miliz dauern an. Nach neuerlichen Attacken auf saudi-arabische Flughäfen hat Riad Gegenangriffe im Jemen gestartet. Dabei wurden nach Angaben aus Riad Dutzende militärische Objekte der Huthi zerstört.",
+    "m": "Die Huthi-Miliz aus dem Jemen hat erneut Ziele in Saudi-Arabien angegriffen, wobei unter anderem saudi-arabische Flughäfen ins Visier geraten sind. Als Reaktion auf diese anhaltenden Attacken meldet die saudi-arabische Führung in Riad massive Gegenangriffe. Nach Angaben des Landes wurden Dutzende militärische Objekte und Stellungen der Huthi-Miliz im Jemen zerstört. Die Konfliktparteien stehen sich damit weiterhin unnachgiebig gegenüber, was die humanitäre und sicherheitspolitische Lage in der Region weiter belastet. Konkrete Opferzahlen oder detaillierte Schadensberichte liegen aus den vorliegenden Berichten derzeit nicht vor. Die Situation verdeutlicht die anhaltende Instabilität im jemenitischen Bürgerkrieg und dessen grenzüberschreitende Auswirkungen.",
+    "r": "Die Eskalation der Angriffe zwischen der Huthi-Miliz und Saudi-Arabien zeigt die anhaltende Instabilität im jemenitischen Konflikt und droht die Region weiter zu destabilisieren.",
+    "srcs": [
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/asien/saudi-arabien-jemen-huthi-angriffe-100.html",
+        "date": "2026-10-08T15:35:30.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeldvWl9RZEJzQ2xyVkV1aU9EZnJrVXlpY29TM1NzOEwxRV9CWVd2R1FlZ2JSZjZmSlNmUTBiZjlQU25DV1NqY2F1SmwxcDE4RjFNVks4anJNX3FFeFRrSG9MLXNGamhSaktIbW16N3ZkUUNaekhtSWozT3gzM0JLU25BaUVGRzVIU3dOYnhIYWVSeWxuQjdaUHZRN2lISzR5TEU1VXdn?oc=5",
+        "date": "2026-10-08T14:19:25.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/ausland/asien/saudi-arabien-jemen-huthi-angriffe-100.html",
+    "agree": "Die Quellen stimmen überein, dass die jemenitische Huthi-Miliz erneut Ziele in Saudi-Arabien angegriffen hat.",
+    "diff": [
+      {
+        "name": "Tagesschau",
+        "note": "Berichtet zusätzlich über saudi-arabische Gegenangriffe und die Zerstörung von Dutzenden militärischen Objekten der Huthi im Jemen."
+      },
+      {
+        "name": "Google News DE",
+        "note": "Verweist zusätzlich auf DIE ZEIT bezüglich des Angriffs auf Ziele in Saudi-Arabien."
       }
     ],
     "chg": "",
@@ -266,19 +1205,60 @@
     "independent": 2
   },
   {
-    "id": "story-9e9b656900ac1cd0",
+    "id": "story-cbd8d08755efa93e",
     "c": "DE",
     "o": "DE",
     "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-08T15:01:23.000Z",
+    "p": 2,
+    "st": "BB",
+    "city": "",
+    "t": "Jugendgewalt in Potsdam: Polizei nimmt mutmaßliche Hauptakteure fest",
+    "s": "In Potsdam hat die Polizei nach mehreren Gewalttaten von Jugendgruppen mutmaßliche Hauptakteure festgenommen. Zur Bekämpfung der Kriminalität wurde eine eigene Ermittlungsgruppe eingerichtet. Dort sollen künftig alle relevanten Vorgänge gebündelt werden.",
+    "m": "Nach jüngsten Gewalttaten durch Jugendgruppen im Raum Potsdam hat die Brandenburger Polizei reagiert und eine eigene Ermittlungsgruppe ins Leben gerufen. Diese soll dazu dienen, relevante Vorgänge zu bündeln und die Ermittlungsarbeit zu koordinieren. Im Zuge dieser Maßnahmen kam es bereits zu Festnahmen von mutmaßlichen Hauptakteuren. Weitere Details zu den Verdächtigen oder den konkreten Taten wurden zunächst nicht mitgeteilt. Die Ermittlungen dauern an, um das Ausmaß der Jugendkriminalität aufzuklären und weitere Beteiligte zu identifizieren.",
+    "r": "Die Festnahme mutmaßlicher Hauptakteure und die Einrichtung einer speziellen Ermittlungsgruppe zeigen ein hartes Vorgehen der Behörden gegen Jugendkriminalität in Potsdam. Dies ist von öffentlichem Interesse, da Gewalttaten von Gruppen die Sicherheit beeinträchtigen.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Brandenburg",
+        "url": "https://www.tagesschau.de/inland/regional/brandenburg/rbb-jugendgewalt-in-potsdam-polizei-nimmt-mutmassliche-hauptakteure-fest-102.html",
+        "date": "2026-10-08T15:01:23.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObU8zdEwya2pVU3lrSURKdlhpTWxYcHhOMFpCMjJncGtRTkVFSF9ob2hsRzUydXdUcGJycG5QSFVjNUR1c0hlVzdnbk5LRjRKQVFDd28zZDVVWmlZT0J0M3YwT0ZHbERtRWtvblNlLWlCSUJ0RG5ETmlXYXl3R1luMVF4cXNiY2xRLXh6N191Zlc2TjdHN0V3VFRrZGZTdXRVUHpuel9YcjRpYUVGRXFJZGNjU0dYQQ?oc=5",
+        "date": "2026-10-08T15:01:00.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/brandenburg/rbb-jugendgewalt-in-potsdam-polizei-nimmt-mutmassliche-hauptakteure-fest-102.html",
+    "agree": "Beide Quellen stimmen überein, dass die Polizei in Potsdam nach Jugendgewalt mutmaßliche Hauptakteure festgenommen hat.",
+    "diff": [
+      {
+        "name": "Tagesschau Regional Brandenburg",
+        "note": "Berichtet zusätzlich, dass eine eigene Ermittlungsgruppe zur Bündelung relevanter Vorgänge eingerichtet wurde."
+      },
+      {
+        "name": "Google News DE",
+        "note": "Verlinkt auf den Bericht von rbb24.de und nennt ansonsten keine weiteren spezifischen Details."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-9e9b656900ac1cd0",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
     "lang": "de",
     "d": "2026-10-08T14:57:32.000Z",
     "p": 2,
     "st": "BW",
     "city": "",
-    "t": "Özdemir zieht in Dienstvilla auf der Stuttgarter Solitude - Kretschmann wollte dort nicht wohnen",
-    "s": "Neben Schloss Solitude liegt der künftige Wohnsitz von Ministerpräsident Özdemir und seiner Frau. Was es mit der Villa auf sich hat - und warum die Kretschmanns dort nicht wohnten.",
-    "m": "Neben Schloss Solitude liegt der künftige Wohnsitz von Ministerpräsident Özdemir und seiner Frau. Was es mit der Villa auf sich hat - und warum die Kretschmanns dort nicht wohnten. Neben Schloss Solitude liegt der künftige Wohnsitz von Ministerpräsident Özdemir und seiner Frau. Was es mit der Villa auf sich hat - und warum die Kretschmanns dort nicht wohnten.",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "t": "Cem Özdemir zieht in Dienstvilla auf der Stuttgarter Solitude",
+    "s": "Der baden-württembergische Ministerpräsident Cem Özdemir zieht künftig mit seiner Frau in eine Dienstvilla neben Schloss Solitude in Stuttgart. Das Anwesen hat eine besondere Geschichte und war zuvor im Gespräch für den bisherigen Ministerpräsidenten Kretschmann. Dieser hatte sich jedoch entschieden, dort nicht einzuziehen.",
+    "m": "Die Dienstvilla befindet sich in unmittelbarer Nähe zum Schloss Solitude in Stuttgart und wird der künftige Wohnsitz des Ministerpräsidenten Cem Özdemir und seiner Ehefrau sein. Das Gebäude und das Areal haben eine historische Bedeutung und werfen Fragen auf, weshalb sie als Residenz dienen. Winfried Kretschmann, der vorherige Amtsinhaber, hatte die Nutzung dieser Immobilie als Wohnsitz abgelehnt. Bislang ist bekannt, dass Renovierungs- oder Anpassungsmaßnahmen nötig sein könnten, um den heutigen Standards für eine Nutzung als Regierungssitz gerecht zu werden. Die genauen Kosten und der Zeitpunkt des tatsächlichen Einzugs werden im Zuge der Übergabe geklärt. Weitere Details zum Zustand des Gebäudes und zur genauen Historie der Nutzung stehen noch aus.",
+    "r": "Der Wechsel des Wohnsitzes des Ministerpräsidenten betrifft die repräsentative Unterbringung der Landesregierung in Baden-Württemberg. Die Entscheidung beleuchtet die Nutzung staatlicher Immobilien durch Regierungsmitglieder.",
     "srcs": [
       {
         "name": "SWR Aktuell",
@@ -292,7 +1272,7 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/oezdemir-dienstvilla-schloss-solitude-100.html",
-    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
+    "agree": "Beide Quellen stimmen überein, dass Cem Özdemir gemeinsam mit seiner Frau in eine Dienstvilla neben dem Schloss Solitude in Stuttgart ziehen wird und dass Kretschmann dort zuvor nicht wohnen wollte.",
     "diff": [],
     "chg": "",
     "independent": 2
@@ -301,16 +1281,16 @@
     "id": "story-cfec071251db7eab",
     "c": "DE",
     "o": "DE",
-    "k": "umwelt",
+    "k": "panorama",
     "lang": "de",
     "d": "2026-10-08T14:47:52.000Z",
     "p": 2,
     "st": "RP",
     "city": "",
     "t": "Risiken im Trinkwasser: Wie sicher ist unsere Versorgung?",
-    "s": "Trinkwasser gilt in Deutschland als unbedenklich und unterliegt strengen, regelmäßigen Kontrollen. Trotz dieser hohen Sicherheitsstandards stellt sich die Frage, ob das Leitungswasser tatsächlich so sicher ist, wie oft behauptet wird. Beide vorliegenden Berichte thematisieren potenzielle Gefahren und Risiken, die in unserem Trinkwasser lauern könnten. Konkrete Schadstoffe oder Vorfälle werden in den kurzen Teasern jedoch noch nicht genannt.",
-    "m": "Das deutsche Trinkwasser genießt den Ruf, eines der am strengsten kontrollierten Lebensmittel zu sein. Dennoch gibt es immer wieder Diskussionen über mögliche Risiken und Verunreinigungen in den Leitungen. Zu den potenziellen Gefahrenquellen zählen veraltete Hausinstallationen, Mikroplastik, Chemikalien oder Pestizidrückstände. Die Berichte werfen die grundsätzliche Frage auf, wie sicher die Versorgung im Alltag tatsächlich ist. Bislang handelt es sich um redaktionelle Ankündigungen oder Fragestellungen, die auf mögliche Risiken aufmerksam machen wollen. Genauere Details zum aktuellen Stand, Messwerten oder konkreten Belastungen in Rheinland-Pfalz gehen aus den kurzen Texten noch nicht hervor.",
-    "r": "Trinkwasser ist ein zentrales Lebensmittel für die Bevölkerung, weshalb Fragen zu seiner Sicherheit und möglichen Risiken von allgemeiner Relevanz sind. Regelmäßige Kontrollen sollen die Qualität gewährleisten, doch potenzielle Gefahren aus den Leitungen bleiben ein diskutiertes Thema.",
+    "s": "Trinkwasser gilt in Deutschland gemeinhin als unbedenklich und wird regelmäßig kontrolliert. Angesichts möglicher Gefahren aus Leitungen stellt sich jedoch die Frage, wie sicher das Wasser tatsächlich ist. Die Quellen beleuchten die potenziellen Risiken, die in unserem Trinkwasser lauern könnten. Bislang bleibt offen, welche konkreten Verunreinigungen im Detail drohen.",
+    "m": "Das deutsche Trinkwasser unterliegt strengen Kontrollen und gilt grundsätzlich als sicher und unbedenklich. Dennoch wird öffentlich thematisiert, ob Risiken in den Leitungen lauern und ob die bisherigen Sicherheitsversprechen vollumfänglich zutreffen. Die vorliegenden Meldungen werfen die grundsätzliche Frage auf, wie sicher das Wasser wirklich ist. Es werden jedoch keine spezifischen Schadstoffe, Grenzwerte oder betroffenen Regionen genannt. Auch zeitliche Abläufe oder konkrete Vorfälle werden in den Texten nicht näher ausgeführt. Die Berichterstattung beschränkt sich auf eine kritische Hinterfragung der allgemeinen Trinkwassersicherheit. Weitere Details und Hintergründe zu möglichen Kontaminationen gehen aus den Berichten nicht hervor.",
+    "r": "Trinkwasser ist ein zentrales Lebensmittel, dessen Sicherheit für die öffentliche Gesundheit von fundamentaler Bedeutung ist. Die Berichterstattung greift Fragen zur Verlässlichkeit von Kontrollen und potenziellen Gefahren auf.",
     "srcs": [
       {
         "name": "SWR Aktuell Rheinland-Pfalz",
@@ -324,7 +1304,7 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/swr-doku-wo-risiken-im-trinkwasser-lauern-100.html",
-    "agree": "Beide Quellen stimmen überein, dass Trinkwasser hierzulande als unbedenklich gilt und regelmäßig kontrolliert wird, aber die Frage aufwerfen, ob es wirklich so sicher ist wie behauptet.",
+    "agree": "Beide Quellen stimmen darin überein, dass Trinkwasser hierzulande als unbedenklich gilt und regelmäßig kontrolliert wird, aber die Frage aufgeworfen wird, wie sicher es wirklich ist.",
     "diff": [],
     "chg": "",
     "independent": 2
@@ -394,19 +1374,56 @@
     "independent": 2
   },
   {
+    "id": "story-724b1c48ec7c65f1",
+    "c": "INT",
+    "o": "UK",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-08T14:10:58.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Arizona-Kongresskandidatin schildert sexuellen Übergriff bei Wahlkampf",
+    "s": "Die US-Kongresskandidatin Bernadette Greene-Placentia aus Arizona hat öffentlich erklärt, während Reparaturen an einem Wahlkampfschild vergewaltigt worden zu sein. Laut eigenen Angaben ist ihre Erinnerung an die Tat lückenhaft, nachdem sie bewusstlos geschlagen wurde.",
+    "m": "Bernadette Greene-Placentia, eine Kandidatin für den Kongress im US-Bundesstaat Arizona, hat schwere Vorwürfe erhoben und angegeben, Opfer einer Vergewaltigung geworden zu sein. Der Vorfall soll sich ereignet haben, während sie ein Wahlkampfschild reparierte. Zu den genauen Umständen der Tat ist bekannt, dass sie nach eigenen Angaben bewusstlos geschlagen wurde. Aufgrund dessen ist ihre Erinnerung an den Übergriff lückenhaft. Weitere Details zu einem Tatverdächtigen oder konkreten polizeilichen Ermittlungen nennen die vorliegenden Berichte bisher nicht. Der Fall wirft Fragen zur Sicherheit von Politikern und Wahlhelfern im alltäglichen Einsatz auf.",
+    "r": "Die Schilderungen einer Kongresskandidatin über einen mutmasslichen Übergriff während des Wahlkampfs verdeutlichen potenzielle Sicherheitsrisiken für politische Akteure. Der Fall könnte eine breitere Diskussion über den Schutz von Kandidaten bei lokalen Aktivitäten auslösen.",
+    "srcs": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c65yndpnk5qdo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-08T14:10:58.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ucVhCTUd1YmhoY3NSd1FCMllLN1lJZjExcGxCdVJlc2lKMDlPeG0zWXozdzZJU2k0YzJudzRjU1FLSHV5b2lCNjFSSmZLNzFjbTFxWEFxOFkxbkU?oc=5",
+        "date": "2026-10-08T14:10:58.000Z"
+      }
+    ],
+    "url": "https://www.bbc.co.uk/news/articles/c65yndpnk5qdo?at_medium=RSS&at_campaign=rss",
+    "agree": "Beide Quellen stimmen darin überein, dass eine Kongresskandidatin aus Arizona berichtete, während der Reparatur eines Wahlkampfschildes vergewaltigt worden zu sein.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Verweist lediglich auf den Artikel der BBC und enthält keine eigenständigen Informationen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-f1bee5106f899ca9",
-    "c": "DE",
+    "c": "INT",
     "o": "DE",
     "k": "politik",
     "lang": "de",
     "d": "2026-10-08T13:25:00.000Z",
-    "p": 2,
+    "p": 3,
     "st": "",
     "city": "",
-    "t": "Italien: Parlament billigt Melonis umstrittenes Wahlrecht",
-    "s": "Italiens Regierungschefin Meloni hat den Machtpoker um ihre vieldiskutierte Wahlrechtsreform vorerst gewonnen. Vor der Abstimmung drohte sie noch - für den Fall eines Neins - mit harten Konsequenzen.",
-    "m": "Italiens Regierungschefin Meloni hat den Machtpoker um ihre vieldiskutierte Wahlrechtsreform vorerst gewonnen. Vor der Abstimmung drohte sie noch - für den Fall eines Neins - mit harten Konsequenzen. Italiens Parlament hat am Donnerstag die Wahlrechtsreform der Regierung gebilligt. Es geht um ein zentrales Vorhaben von Giorgia Meloni. Und ihre Chancen auf eine Wiederwahl 2027.",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "t": "Italienisches Parlament billigt umstrittene Wahlrechtsreform von Giorgia Meloni",
+    "s": "Das italienische Parlament hat am Donnerstag die umstrittene Wahlrechtsreform der Regierungschefin Giorgia Meloni gebilligt. Es handelt sich dabei um ein zentrales Vorhaben der Ministerpräsidentin. Vor der Abstimmung hatte Meloni für den Fall einer Ablehnung mit harten Konsequenzen gedroht. Die Reform stärkt ihre politischen Positionen und beeinflusst auch ihre Chancen auf eine Wiederwahl im Jahr 2027.",
+    "m": "Italiens Regierungschefin Giorgia Meloni hat den Machtpoker um ihre vieldiskutierte Wahlrechtsreform vorerst für sich entschieden. Das italienische Parlament stimmte dem Gesetzesvorhaben am Donnerstag zu. Die Reform gilt als eines der zentralsten Projekte der derzeitigen Regierung. Im Vorfeld der Abstimmung hatte die Ministerpräsidentin erheblichen Druck ausgeübt und bei einem eventuellen Nein mit drastischen Konsequenzen gedroht. Kritiker bezeichnen das Vorhaben als umstritten, während es für Meloni selbst als wichtiger Meilenstein gilt. Beobachter werten den Erfolg im Parlament auch als strategischen Schritt im Hinblick auf die Chancen für eine mögliche Wiederwahl Melonis im Jahr 2027. Offen bleibt, welche konkreten politischen und rechtlichen Reaktionen die Opposition nach der Billigung ankündigen wird.",
+    "r": "Die Billigung einer grundlegenden Wahlrechtsreform durch das italienische Parlament betrifft die politische Stabilität und die Machtverhältnisse in einem großen EU-Staat. Zudem hat die Entscheidung direkte Auswirkungen auf die politische Zukunft und die Wiederwahlaussichten der amtierenden Regierungschefin Giorgia Meloni im Jahr 2027.",
     "srcs": [
       {
         "name": "DW Deutsch",
@@ -420,25 +1437,34 @@
       }
     ],
     "url": "https://www.dw.com/de/italien-parlament-billigt-melonis-umstrittenes-wahlrecht/a-79596399?maca=de-rss-de-all-1119-xml-mrss",
-    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
-    "diff": [],
+    "agree": "Die Quellen stimmen überein, dass das italienische Parlament die umstrittene Wahlrechtsreform von Regierungschefin Giorgia Meloni gebilligt hat.",
+    "diff": [
+      {
+        "name": "DW Deutsch",
+        "note": "Berichtet darüber, dass Meloni vor der Abstimmung für den Fall eines Neins mit harten Konsequenzen gedroht hat."
+      },
+      {
+        "name": "t-online Nachrichten",
+        "note": "Nennt den genauen Wochentag (Donnerstag) der Abstimmung und verknüpft die Reform direkt mit Melonis Chancen auf eine Wiederwahl im Jahr 2027."
+      }
+    ],
     "chg": "",
     "independent": 2
   },
   {
     "id": "story-1e94e7ba80a39e03",
-    "c": "DE",
+    "c": "INT",
     "o": "DE",
     "k": "politik",
     "lang": "de",
     "d": "2026-10-08T12:58:32.000Z",
-    "p": 2,
+    "p": 4,
     "st": "",
     "city": "",
-    "t": "Newsblog zum Ukraine-Krieg: Ukraine: 33 Tote nach russischem Angriff auf Linienbusse in Kramatorsk",
-    "s": "Bei den Attacken auf die ostukrainische Stadt wurden außerdem 18 weitere Menschen verletzt. Russland bestreitet immer wieder, gezielt Zivilisten zu beschießen.",
-    "m": "Bei den Attacken auf die ostukrainische Stadt wurden außerdem 18 weitere Menschen verletzt. Russland bestreitet immer wieder, gezielt Zivilisten zu beschießen. Ein russischer Angriff trifft zwei Linienbusse in Kramatorsk, zahlreiche Menschen wurden verletzt. Mindestens 33 Menschen wurden getötet.",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "t": "33 Tote nach russischem Angriff auf Linienbusse in Kramatorsk",
+    "s": "Bei einem russischen Angriff auf zwei Linienbusse in der ostukrainischen Stadt Kramatorsk sind mindestens 33 Menschen getötet worden. Zahlreiche weitere Personen erlitten Verletzungen. Rettungskräfte und Behörden reagierten auf die Attacke in der Region. Die genauen Umstände des Angriffs werden untersucht.",
+    "m": "Der Vorfall ereignete sich in der ostukrainischen Stadt Kramatorsk, wo zwei Linienbusse direkt von dem russischen Angriff getroffen wurden. Nach bisherigen Angaben starben mindestens 33 Menschen, während 18 weitere Personen verletzt wurden und medizinische Hilfe benötigen. Von offizieller Seite wird der Vorfall als schwerer Schlag für die zivile Infrastruktur gewertet. Russland weist Vorwürfe bezüglich gezielter Angriffe auf die Zivilbevölkerung in dem Konflikt wiederholt zurück. Die genaue Abfolge des Angriffs und das Ausmaß der Schäden vor Ort sind Gegenstand weiterer Berichte. Es bleibt unklar, ob es in unmittelbarer Nähe weitere militärische Ziele gab. Die Situation in der Region bleibt angespannt und unübersichtlich.",
+    "r": "Der Angriff auf zivile Verkehrsmittel mit Dutzenden Todesopfern verdeutlicht die anhaltende Gefahr für die Zivilbevölkerung im Ukraine-Krieg. Solche Vorfälle belasten die Sicherheitslage in der Ostukraine massiv und fordern immer wieder zahlreiche zivile Opfer.",
     "srcs": [
       {
         "name": "Süddeutsche Zeitung",
@@ -452,8 +1478,17 @@
       }
     ],
     "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-selenskij-grossangriff-russland-kiew-tote-kramatorsk-bus-li.3549696",
-    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
-    "diff": [],
+    "agree": "Beide Quellen stimmen überein, dass bei einem russischen Angriff auf Linienbusse in Kramatorsk mindestens 33 Menschen getötet wurden.",
+    "diff": [
+      {
+        "name": "Süddeutsche Zeitung",
+        "note": "Erwähnt zusätzlich 18 Verletzte und dass Russland bestreitet, gezielt Zivilisten zu beschießen."
+      },
+      {
+        "name": "t-online Nachrichten",
+        "note": "Berichtet spezifisch, dass zwei Linienbusse getroffen wurden."
+      }
+    ],
     "chg": "",
     "independent": 2
   },
@@ -464,13 +1499,13 @@
     "k": "panorama",
     "lang": "de",
     "d": "2026-10-08T12:46:50.000Z",
-    "p": 2,
+    "p": 4,
     "st": "BW",
     "city": "",
-    "t": "Mannheim: 29-jähriger Mann stirbt in Polizeigewahrsam - Gründe noch unklar",
-    "s": "Nach einem Polizeieinsatz am Mannheimer Wasserturm wurde ein 29-jähriger am Freitag festgenommen - und ist dann in Gewahrsam gestorben. Jetzt ermittelt das Landeskriminalamt.",
-    "m": "Nach einem Polizeieinsatz am Mannheimer Wasserturm wurde ein 29-jähriger am Freitag festgenommen - und ist dann in Gewahrsam gestorben. Jetzt ermittelt das Landeskriminalamt. Nach einem Polizeieinsatz am Mannheimer Wasserturm wurde ein 29-jähriger am Freitag festgenommen - und ist dann in Gewahrsam gestorben. Jetzt ermittelt das Landeskriminalamt.",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "t": "29-jähriger Mann stirbt nach Polizeieinsatz in Mannheim im Gewahrsam",
+    "s": "Nach einem Polizeieinsatz am Mannheimer Wasserturm ist ein 29-jähriger Mann festgenommen worden und in Polizeigewahrsam gestorben. Die genauen Umstände und Gründe für den Todesfall sind derzeit noch unklar. Das Landeskriminalamt hat die Ermittlungen zu dem Vorfall aufgenommen.",
+    "m": "Der Vorfall ereignete sich am Freitag nach einem Polizeieinsatz am Mannheimer Wasserturm, bei dem der 29-jährige Mann festgenommen wurde. Kurze Zeit später verstarb er in Gewahrsam. Bislang liegen kaum Details zu den genauen Hintergründen des Einsatzes oder der Todesursache vor. Zur Klärung der Abläufe hat das Landeskriminalamt die Ermittlungen übernommen. Offen ist insbesondere, wie es zu dem Tod des Mannes kam und welche Maßnahmen während des Einsatzes und der Festnahme ergriffen wurden. Weitere offizielle Informationen zu den Beteiligten oder dem genauen gesundheitlichen Zustand des Verstorbenen stehen noch aus.",
+    "r": "Der Todesfall einer Person in Polizeigewahrsam erfordert eine lückenlose juristische und behördliche Aufklärung. Da das Landeskriminalamt ermittelt, steht die Überprüfung des polizeilichen Handelns im Fokus der Öffentlichkeit.",
     "srcs": [
       {
         "name": "SWR Aktuell Baden-Württemberg",
@@ -484,8 +1519,58 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/mann-stirbt-in-polizei-gewahrsam-gruende-unklar-100.html",
-    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
-    "diff": [],
+    "agree": "Beide Quellen stimmen darin überein, dass ein 29-jähriger Mann am Freitag nach einem Polizeieinsatz am Mannheimer Wasserturm festgenommen wurde und in Polizeigewahrsam gestorben ist, woraufhin das Landeskriminalamt Ermittlungen aufgenommen hat und die Gründe n",
+    "diff": [
+      {
+        "name": "SWR Aktuell Baden-Württemberg",
+        "note": "Berichtet über den Vorfall mit der genauen Ortsangabe Mannheim und der Erwähnung des Wasserturms."
+      },
+      {
+        "name": "Tagesschau Regional Baden-Württemberg",
+        "note": "Berichtet inhaltlich und sprachlich nahezu deckungsgleich über den Vorfall in Mannheim."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-c965d66b5752afd2",
+    "c": "INT",
+    "o": "US",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-08T12:13:54.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Südkorea ruft Botschafter aus der Ukraine wegen Kriegsgefangenenstreit zurück",
+    "s": "Südkorea hat angekündigt, seinen Botschafter aus der Ukraine zurückzuziehen. Hintergrund ist ein Streit über die Veröffentlichung von Informationen zu nordkoreanischen Kriegsgefangenen. Die Maßnahme folgt auf eine Drohung des südkoreanischen Präsidenten Lee Jae Myung mit Strafschritten.",
+    "m": "Südkorea hat am Donnerstag den Rückzug seines Botschafters aus der Ukraine offiziell bekannt gegeben. Auslöser des diplomatischen Konflikts ist die öffentliche Bekanntgabe Kiews über die Rückführung von zwei nordkoreanischen Kriegsgefangenen. Seoul wirft der Ukraine vor, dadurch die Familien der Betroffenen in Nordkorea in akute Gefahr gebracht zu haben, da Angehörige von Personen, die in Feindeshand geraten, drakonische Strafen fürchten müssen. Die Regierung in Kiew hat die Vorwürfe aus Südkorea indessen zurückgewiesen. Der jetzige Schritt kommt nur Tage nach einer entsprechenden Warnung von Präsident Lee Jae Myung, der unbestimmte Strafmaßnahmen angekündigt hatte, sollte die Ukraine eine Entschuldigung verweigern.",
+    "r": "Der Vorfall markiert eine deutliche diplomatische Krise zwischen Südkorea und der Ukraine infolge eines Streits über den Umgang mit nordkoreanischen Gefangenen. Die Eskalation berührt sicherheitspolitische und humanitäre Fragen im Umgang mit Überläufern und Kriegsgefangenen.",
+    "srcs": [
+      {
+        "name": "NPR World",
+        "url": "https://www.npr.org/2026/10/08/g-s1-147115/south-korea-to-recall-its-ambassador-to-ukraine-over-north-korean-pow-dispute",
+        "date": "2026-10-08T12:13:54.000Z"
+      },
+      {
+        "name": "Euronews",
+        "url": "https://www.euronews.com/2026/10/08/south-korea-recalls-ambassador-to-ukraine-in-north-korean-prisoner-of-war-row",
+        "date": "2026-10-08T11:27:07.000Z"
+      }
+    ],
+    "url": "https://www.npr.org/2026/10/08/g-s1-147115/south-korea-to-recall-its-ambassador-to-ukraine-over-north-korean-pow-dispute",
+    "agree": "Beide Quellen stimmen überein, dass Südkorea seinen Botschafter aus der Ukraine wegen eines Streits über nordkoreanische Kriegsgefangene zurückruft.",
+    "diff": [
+      {
+        "name": "NPR World",
+        "note": "Erwähnt die explizite Drohung des südkoreanischen Präsidenten Lee Jae Myung mit unbestimmten Strafschritten für den Fall einer verweigerten Entschuldigung durch die Ukraine."
+      },
+      {
+        "name": "Euronews",
+        "note": "Liefert die detaillierte Begründung Seouls, wonach Kiews öffentliche Bekanntgabe der Rückführung zweier Gefangener die Familien in Nordkorea gefährdet, sowie die Tatsache, dass die Ukraine die Vorwürfe zurückweist."
+      }
+    ],
     "chg": "",
     "independent": 2
   },
@@ -589,21 +1674,21 @@
     "id": "story-0cfc88fb92cbf142",
     "c": "DE",
     "o": "DE",
-    "k": "panorama",
+    "k": "politik",
     "lang": "de",
-    "d": "2026-10-08T11:00:14.000Z",
+    "d": "2026-10-08T10:51:26.000Z",
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Radtke fordert Parteiausschluss für Abweichler",
-    "s": "Haben bei der Wahl des Landtagspräsidenten in Sachsen-Anhalt auch CDU-Abgeordnete für den AfD-Kandidaten Rausch gestimmt? Der Chef des CDU-Arbeitnehmerflügels verlangt in diesem F…",
-    "m": "Haben bei der Wahl des Landtagspräsidenten in Sachsen-Anhalt auch CDU-Abgeordnete für den AfD-Kandidaten Rausch gestimmt? Der Chef des CDU-Arbeitnehmerflügels verlangt in diesem F… Haben bei der Wahl des Landtagspräsidenten in Sachsen-Anhalt auch CDU-Abgeordnete für den AfD-Kandidaten Rausch gestimmt? Der Chef des CDU-Arbeitnehmerflügels verlangt in diesem Fall harte Konsequenzen. Haben CDU-Abgeordnete in Sachsen-Anhalt den AfD-Politiker Rausch zum Landtagspräsidenten gewählt? Der Chef des CDU-Arbeitnehmerflügels fordert dafür ein Parteiausschlussverfahren.",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "t": "CDA-Chef Radtke fordert Parteiausschluss bei CDU-Stimmen für AfD",
+    "s": "Nach der Wahl des Landtagspräsidenten in Sachsen-Anhalt gibt es Spekulationen über mögliche Stimmen aus der CDU für den AfD-Kandidaten Rausch. Dennis Radtke, der Chef des CDU-Arbeitnehmerflügels, hat im Falle einer Bestätigung harte Konsequenzen gefordert. Er verlangt ein Parteiausschlussverfahren für Abweichler, die für den AfD-Kandidaten gestimmt haben könnten.",
+    "m": "Die Diskussion entzündet sich an der Wahl des Landtagspräsidenten in Sachsen-Anhalt, bei der der AfD-Kandidat Rausch antrat und möglicherweise Stimmen aus Reihen der CDU erhalten hat. Bislang handelt es sich um den Verdacht oder die Frage, ob CDU-Abgeordnete für Rausch gestimmt haben. Dennis Radtke, der als Chef des CDU-Arbeitnehmerflügels CDA fungiert, positionierte sich in dieser Debatte sehr deutlich gegen jegliche Zusammenarbeit oder Stimmenübertragung an die AfD. Seine Forderung zielt direkt auf ein formelles Parteiausschlussverfahren ab, sollte sich ein solches Abstimmungsverhalten von CDU-Mitgliedern für den AfD-Kandidaten bestätigen. Weitere Details zum genauen Wahlergebnis, zur Stimmverteilung oder zu Reaktionen anderer Parteispitzen und Landespolitiker gehen aus den vorliegenden Berichten nicht hervor. Die offenen Punkte betreffen vor allem die tatsächliche Identität der Wähler und die offiziellen Reaktionen der Landes-CDU auf die Vorwürfe.",
+    "r": "Die Forderung eines prominenten CDU-Flügelchefs nach Parteiausschlüssen bei einer möglichen Zusammenarbeit oder Stimmabgabe für die AfD berührt die fundamentale Brandmauer-Debatte der Union. Das Thema hat hohe innerparteiliche und bundespolitische Relevanz für den Umgang mit der AfD in Parlamenten.",
     "srcs": [
       {
-        "name": "SWR Aktuell",
+        "name": "Tagesschau",
         "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-reaktionen-wahl-sachsen-anhalt-100.html",
-        "date": "2026-10-08T11:00:14.000Z"
+        "date": "2026-10-08T10:51:26.000Z"
       },
       {
         "name": "ZDF heute",
@@ -612,7 +1697,7 @@
       }
     ],
     "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-reaktionen-wahl-sachsen-anhalt-100.html",
-    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
+    "agree": "Beide Quellen sind sich einig, dass Dennis Radtke als Chef des CDU-Arbeitnehmerflügels im Falle von CDU-Stimmen für den AfD-Kandidaten Rausch bei der Wahl des Landtagspräsidenten in Sachsen-Anhalt ein Parteiausschlussverfahren fordert.",
     "diff": [],
     "chg": "",
     "independent": 2
@@ -14992,993 +16077,6 @@
         "note": "Berichtet konkret über die Diskussion des sogenannten \"Dekrets Maricarmen\", benannt nach einer von einem Desaster betroffenen idosa (Älteren), sowie über massive Straßenproteste und die Rolle der Rechten bei der Ablehnung."
       }
     ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-c245f7a05c728e19",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-02T15:29:58.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Spaniens Regierung gerät wegen der Wohnungsnot in die Krise",
-    "s": "In Spanien steht die Minderheitsregierung von Premier Sánchez nach dem Scheitern von Mieterschutzmaßnahmen im Parlament unter erheblichem Druck. Zwei Regierungsdekrete erhielten keine parlamentarische Mehrheit. Die Opposition wirft der Regierung vor, das Problem der Wohnungsnot verschärft zu haben.",
-    "m": "Die politische Krise in Spanien hat sich im Zusammenhang mit der anhaltenden Wohnungsnot zugespitzt. Auslöser sind gescheiterte Maßnahmen zum Mieterschutz, für die Premierminister Sánchez im Parlament keine Mehrheit organisieren konnte. Konkret betrifft dies gleich zwei Dekrete der Minderheitsregierung, die vom Parlament abgelehnt wurden. Die Opposition reagierte scharf auf das Scheitern und wirft der Regierung vor, durch ihre gescheiterte Politik zur Verschärfung der Wohnungsnot beizutragen. Im Land kommt es infolge der Situation zu Protesten, insbesondere im Zusammenhang mit Zwangsräumungen. Die politische Zukunft der Maßnahmen ist nach der Abstimmungsniederlage unklar, während der Druck auf die Regierungskoalition weiter wächst.",
-    "r": "Die politische Krise der spanischen Regierung hat direkte Auswirkungen auf die Gesetzgebung zum Mieterschutz und die Stabilität der Minderheitsregierung. Das Scheitern zentraler Dekrete im Parlament zeigt die Schwierigkeiten bei der Bewältigung der akuten Wohnungsnot.",
-    "srcs": [
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/news/2026-10/02/spaniens-regierung-schlittert-wegen-wohnungsnot-in-die-krise",
-        "date": "2026-10-02T15:29:58.000Z"
-      },
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/politik/Regierung-in-Spanien-schlittert-wegen-Wohnungsnot-in-die-Krise-id31375453.html",
-        "date": "2026-10-02T15:14:25.000Z"
-      }
-    ],
-    "url": "https://www.zeit.de/news/2026-10/02/spaniens-regierung-schlittert-wegen-wohnungsnot-in-die-krise",
-    "agree": "Die Quellen stimmen überein, dass Spaniens Regierung wegen der Wohnungsnot in eine Krise geraten ist.",
-    "diff": [
-      {
-        "name": "ZEIT ONLINE",
-        "note": "Nennt die Wohnungspolitik als übergeordnetes Thema der Krise."
-      },
-      {
-        "name": "ntv",
-        "note": "Berichtet konkret über Proteste nach einer Zwangsräumung, das Scheitern von zwei Dekreten zum Mieterschutz im Parlament sowie die Kritik der Opposition."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-15e1c4dd8bd6bd64",
-    "c": "DE",
-    "o": "DE",
-    "k": "wissenschaft",
-    "lang": "de",
-    "d": "2026-10-02T15:17:55.000Z",
-    "p": 4,
-    "st": "RP",
-    "city": "",
-    "t": "Johannes Gutenberg-Universität Mainz wird Exzellenz-Universität",
-    "s": "Die Johannes Gutenberg-Universität Mainz hat den Status einer Exzellenz-Universität erlangt. Mit dieser wichtigen Auszeichnung ist eine erhebliche finanzielle Förderung verbunden. Die Entscheidung wurde offiziell bekannt gegeben.",
-    "m": "Die Johannes Gutenberg-Universität Mainz gehört ab sofort zum Kreis der deutschen Exzellenz-Universitäten. Dieser Titel würdigt herausragende Leistungen in der Forschung und Lehre der Hochschule. Durch den neuen Status stehen der Universität nun deutlich mehr finanzielle Mittel zur Verfügung, um ihre wissenschaftlichen Projekte und Strukturen weiter auszubauen. Die genaue Verwendung der Gelder und die langfristigen Folgen für den Standort Mainz werden in den kommenden Wochen näher beleuchtet. Bislang ist vor allem die Freude über die erfolgreiche Bewerbung und die damit verbundene Aufwertung des Forschungsstandortes spürbar.",
-    "r": "Die Ernennung zur Exzellenz-Universität stärkt die wissenschaftliche Position und die finanzielle Ausstattung der Mainzer Hochschule massiv. Solche Titelverleihungen haben direkte Auswirkungen auf die Forschungslandschaft und die Attraktivität einer Universität für Studierende und Forschende.",
-    "srcs": [
-      {
-        "name": "SWR Aktuell",
-        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/mainz/johannes-gutenberg-universitaet-ist-exzellenz-uni-102.html",
-        "date": "2026-10-02T15:17:55.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Rheinland-Pfalz",
-        "url": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-johannes-gutenberg-universitaet-mainz-ist-jetzt-exzellenz-uni-100.html",
-        "date": "2026-10-02T14:13:25.000Z"
-      }
-    ],
-    "url": "https://www.swr.de/swraktuell/rheinland-pfalz/mainz/johannes-gutenberg-universitaet-ist-exzellenz-uni-102.html",
-    "agree": "Beide Quellen stimmen darin überein, dass die Johannes Gutenberg-Universität Mainz zur Exzellenz-Uni ernannt wurde und damit viel Geld verbunden ist.",
-    "diff": [
-      {
-        "name": "SWR Aktuell",
-        "note": "Berichtet über die Entscheidung zur Exzellenz-Universität und das damit verbundene Geld."
-      },
-      {
-        "name": "Tagesschau Regional Rheinland-Pfalz",
-        "note": "Berichtet ebenfalls wortgleich über die Entscheidung und die finanzielle Verbindung."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-136fbea78d58c71e",
-    "c": "INT",
-    "o": "PT",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-02T15:11:33.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Ukrainische Drohnen attackieren großen Treibstoffdepot in der russischen Region Samara",
-    "s": "Ukrainische Drohnen haben in der russischen Region Samara eine Raffinerie und ein großes Treibstoffdepot angegriffen. Das betroffene Lager gilt als das größte seiner Art in Europa und gehört zum staatlichen Transneft-Konsortium. Der Angriff ereignete sich am Freitag und wurde über Telegram-Kanäle bekannt gemacht. Es gibt bislang keine Berichte über Opfer oder das genaue Ausmaß der Schäden.",
-    "m": "Am Freitag zielte ein ukrainischer Drohnenangriff auf eine Raffinerie und ein bedeutendes Treibstoffdepot in der russischen Region Samara ab. Das betroffene Depot wird als das größte in ganz Europa eingestuft und ist im Besitz des staatlichen russischen Konsortiums Transneft. Die Informationen über die Attacke stammen aus Berichten von Telegram-Kanälen. Offizielle Stellen oder ukrainische Behörden haben sich in den bereitgestellten Texten noch nicht weiter zu den militärischen Zielen oder den entstandenen Verlusten geäußert. Der genaue Schaden an der Infrastruktur ist derzeit noch unklar. Solche Angriffe auf die russische Energieinfrastruktur sind Teil des fortlaufenden Konflikts. Es bleibt abzuwarten, welche langfristigen Folgen dieser Vorfall für die Treibstoffversorgung und den Betrieb von Transneft haben wird.",
-    "r": "Der Angriff auf das größte Treibstoffdepot Europas in Russland durch ukrainische Drohnen betrifft die strategische Energieinfrastruktur des Landes. Solche Eskalationen sind für den Kriegsverlauf und die Stabilität der russischen Wirtschaft von Bedeutung.",
-    "srcs": [
-      {
-        "name": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMVVHNzk3d0dzSVpiTWhxN3RYbEFhUElRUzJOeWRrbjMzT01jWk5aNDIwUDJkSHhDdEtmUE42WlpqUE52UnZGZUdaVHNKY1Z0WTVOalVISlJuMGFJU2E4U2JEbUxab0NwSW5WSnVRd3dqN1RSbVhxOFpqSmxDdndHelRQWjdSSXQzWXZmVkFJd0ZRNEJ4RFhNLVNjQmRSZGctbnVDUVNlbDBaQnRQeUVlZ0lOclpRU0hBemZUWU1jVl8xQ0x2NVRpdDZVMmYtNzA?oc=5",
-        "date": "2026-10-02T15:11:33.000Z"
-      },
-      {
-        "name": "RTP Mundo",
-        "url": "https://www.rtp.pt/noticias/mundo/na-regiao-russa-de-samara-drones-ucranianos-atacam-maior-deposito-de-combustiveis-da-europa_n1769085",
-        "date": "2026-10-02T08:45:53.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMVVHNzk3d0dzSVpiTWhxN3RYbEFhUElRUzJOeWRrbjMzT01jWk5aNDIwUDJkSHhDdEtmUE42WlpqUE52UnZGZUdaVHNKY1Z0WTVOalVISlJuMGFJU2E4U2JEbUxab0NwSW5WSnVRd3dqN1RSbVhxOFpqSmxDdndHelRQWjdSSXQzWXZmVkFJd0ZRNEJ4RFhNLVNjQmRSZGctbnVDUVNlbDBaQnRQeUVlZ0lOclpRU0hBemZUWU1jVl8xQ0x2NVRpdDZVMmYtNzA?oc=5",
-    "agree": "Beide Quellen stimmen überein, dass ukrainische Drohnen ein großes Treibstoffdepot und eine Raffinerie in der russischen Region Samara angegriffen haben und dass das Depot als das größte in Europa gilt.",
-    "diff": [
-      {
-        "name": "Google News Portugal",
-        "note": "Die Quelle verweist auf den RTP-Artikel und nennt die Region Samara sowie den Angriff auf das größte Treibstoffdepot Europas durch ukrainische Drohnen."
-      },
-      {
-        "name": "RTP Mundo",
-        "note": "Die Quelle nennt zusätzlich das staatliche Konsortium Transneft als Eigentümer des Depots und präzisiert, dass der Angriff an einem Freitag stattfand und Informationen von Telegram-Kanälen stammen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-51160f3ecf217687",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-02T14:42:28.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Spanisches Parlament lehnt Regierungs-Dekrete für Mieterschutz ab",
-    "s": "Die Koalition von Spaniens Regierungschef Sánchez ist im Parlament mit ihren Dekreten für mehr Mieterschutz gescheitert. Nach landesweiten Protesten wollte die Regierung unter anderem Zwangsräumungen in sozialen Notlagen verbieten.",
-    "m": "Die Koalition von Spaniens Regierungschef Sánchez ist im Parlament mit ihren Dekreten für mehr Mieterschutz gescheitert. Nach landesweiten Protesten wollte die Regierung unter anderem Zwangsräumungen in sozialen Notlagen verbieten. Spanisches Parlament lehnt Regierungs-Dekrete für Mieterschutz ab tagesschau.de <a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeFNub2s0TFc1YlZ6X3VMcTNLZlNQeHBaSjhfbUlZVWtXMEtORUNCaGk3UmtIdTVaVXRoc2tFWEdJZU9LLUdJUnJHcnNpTFRyZ3MzZTdZQmRiVW8yQTVhWUg0RGNoX0RtVzFqb0ZhbTdPUEpWYUJBNjJUX1ZLdkExRC1jZXY2MkVqYUxxZTJGTUhrMnhicnVSRk9ReV9CczB4WndCT2UxZjdVaUllX3prWnE3QmNhcVR",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
-    "srcs": [
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/europa/spanien-wohungsgesetze-gescheitert-100.html",
-        "date": "2026-10-02T14:42:28.000Z"
-      },
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRkxWcXMzTXMwQnRPWXhkZVIyZVFrNFpoMldRTHhmVjdldHFVeVpreW9rZUNCOXNrdnBRRjdkWjdtS1lPcGxvdDgyM1Q1Wm8tRE9wVVkxOG5zNm5sbWxFT3dycWJEUS0tMXBhZVp1WnpTQ3BISUN4cmlPZzJKMjBGdjJ1RnZRMTRrdDgyaw?oc=5",
-        "date": "2026-10-02T14:42:00.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/ausland/europa/spanien-wohungsgesetze-gescheitert-100.html",
-    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-7eb3eacfe0849376",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-02T14:39:04.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Altkanzler Gerhard Schröder übernimmt Aufsichtsratsposten bei russischer Globus-Gruppe",
-    "s": "Der ehemalige Bundeskanzler Gerhard Schröder wechselt in den Aufsichtsrat des russischen Ablegers der Supermarktkette Globus. Die Personalie wird im Kontext aktueller wirtschaftlicher und politischer Entwicklungen in Russland bekannt. Erst kurz zuvor hatte der Kreml ausländische Unternehmen in Russland unter staatliche Zwangsverwaltung gestellt.",
-    "m": "Altkanzler Gerhard Schröder übernimmt nach übereinstimmenden Medienberichten einen Aufsichtsratsposten bei der russischen Globus-Gruppe, dem dortigen Ableger der bekannten deutschen Supermarktkette. Diese Entscheidung fällt in eine ohnehin schon hochsensible geopolitische Phase und eine schwierige Zeit für westliche Unternehmen auf dem russischen Markt. Erst wenige Tage vor Bekanntgabe dieses Postens hatte Kremlchef Wladimir Putin angeordnet, ausländische Firmen in Russland unter staatliche Zwangsverwaltung zu stellen. Von dieser Maßnahme war unter anderem auch der Metro-Konzern betroffen. Schröders neuer Posten wirft daher erneut Fragen zu seinen wirtschaftlichen Verflechtungen mit russischen Unternehmen auf. Welche genauen Aufgaben oder Befugnisse der Altkanzler in dem Aufsichtsrat wahrnehmen wird, geht aus den vorliegenden Berichten zunächst nicht hervor. Auch Reaktionen aus der deutschen Politik oder vonseiten der Supermarktkette selbst stehen in den Meldungen noch aus.",
-    "r": "Die Personalie ist relevant, da ein ehemaliger deutscher Regierungschef trotz des anhaltenden Ukraine-Kriegs und staatlicher Zwangsmaßnahmen gegen westliche Firmen in Russland eine wirtschaftliche Funktion übernimmt.",
-    "srcs": [
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/altkanzler-schroeder-aufsichtsrat-russischer-globus-100.html",
-        "date": "2026-10-02T14:39:04.000Z"
-      },
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNjZuQzZiYTZDRW13SnBNNzFnOUJydFVHRkl4M3phVVdMeGhKQUtkWnlOQ1piMGR0VkNtR3I0bWZzVjV1aHlvenBSZW1Mc3BsbHQ4Q0lqN2FkelNYelJkRGFaNk56YlM1SG1WLWV1M0xzbkktM3BvaFQwZ1p3Q1h3TlJfTTBUU3JhcDlLZE1xcDV2dk1lUEVB?oc=5",
-        "date": "2026-10-02T13:10:35.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/ausland/altkanzler-schroeder-aufsichtsrat-russischer-globus-100.html",
-    "agree": "Die Quellen sind sich einig, dass Altkanzler Gerhard Schröder Aufsichtsrat bei der russischen Globus-Gruppe wird.",
-    "diff": [
-      {
-        "name": "Google News DE",
-        "note": "Die Quelle verweist auf einen Bericht von WEB.DE, nennt jedoch abgesehen von der Überschrift keinen eigenständigen Fließtext."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-44241110da1368a9",
-    "c": "DE",
-    "o": "DE",
-    "k": "sport",
-    "lang": "de",
-    "d": "2026-10-02T14:28:00.000Z",
-    "p": 3,
-    "st": "SH",
-    "city": "",
-    "t": "Handball-Nationalkapitän Johannes Golla strebt Rückkehr nach Flensburg an",
-    "s": "Handball-Nationalmannschaftskapitän Johannes Golla möchte offenbar bereits nach kurzer Zeit zu seinem ehemaligen Verein SG Flensburg-Handewitt zurückkehren. Der Kreisläufer war erst im vergangenen Sommer zur MT Melsungen gewechselt und hatte dort einen langfristigen Vertrag unterschrieben. Nun zieht es ihn und seine Familie offenbar wieder in den Norden.",
-    "m": "Johannes Golla steht vor einer möglichen schnellen Rückkehr zur SG Flensburg-Handewitt. Erst im Sommer war der Kapitän der deutschen Handball-Nationalmannschaft aus familiären Gründen von Flensburg zur MT Melsungen gewechselt. Bei den Hessen hatte er einen hochdotierten XXL-Vertrag unterzeichnet, der nun offenbar vorzeitig wieder aufgelöst werden könnte. Die erneute Veränderung wird durch familiäre Gründe motiviert, die den Spieler und sein Umfeld wieder in den Norden ziehen. Bislang gibt es noch keine offiziellen Bestätigungen der beteiligten Vereine über konkrete Transfermodalitäten oder den Zeitplan einer möglichen Einigung. Offen ist ebenfalls, wie Melsungen auf den überraschenden Wechselwunsch seines Topspielers reagieren wird.",
-    "r": "Der angestrebte Wechsel eines prominenten Sportlers kurz nach einer langfristigen Vertragsunterschrift betrifft das Profi-Handballgeschehen. Die Personalie berührt sowohl die sportliche Planung der MT Melsungen als auch mögliche Perspektiven der SG Flensburg-Handewitt.",
-    "srcs": [
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/sport/handball-johannes-golla-wechsel-melsungen-flensburg-100.html",
-        "date": "2026-10-02T14:28:00.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Schleswig-Holstein",
-        "url": "https://www.ndr.de/sport/handball/Handball-SG-Flensburg-Handewitt-Golla,golla-150.html",
-        "date": "2026-10-02T08:43:48.000Z"
-      }
-    ],
-    "url": "https://www.zdfheute.de/sport/handball-johannes-golla-wechsel-melsungen-flensburg-100.html",
-    "agree": "Die Quellen sind sich einig, dass DHB-Kapitän Johannes Golla nach seinem Sommerwechsel zur MT Melsungen wieder zur SG Flensburg-Handewitt zurückkehren möchte.",
-    "diff": [
-      {
-        "name": "ZDF heute",
-        "note": "Berichtet allgemein über den Wunsch nach einer Rückkehr nach Flensburg und den im Sommer unterzeichneten XXL-Vertrag bei Melsungen."
-      },
-      {
-        "name": "Tagesschau Regional Schleswig-Holstein",
-        "note": "Präzisiert den Vereinsnamen als SG Flensburg-Handewitt, nennt die Position als Kreisläufer und führt den Wechsel im Sommer sowie das erneute Interesse am Norden auf familiäre Gründe zurück."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-c0b6caef5e81b356",
-    "c": "INT",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-02T14:26:31.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "G7-Staaten geben bis zu 100 Millionen Barrel Öl und Diesel frei",
-    "s": "Um die stark gestiegenen Energie- und Ölpreise infolge des Nahost-Kriegs zu senken, geben die G7-Staaten erhebliche Mengen an Rohöl und Diesel frei. Auf massiven Druck der USA werden bis zu 100 Millionen Barrel aus den jeweiligen nationalen Reserven zur Verfügung gestellt. Damit soll der angespannte Energiemarkt entlastet werden.",
-    "m": "Die Energie- und Ölpreise haben durch den anhaltenden Nahost-Krieg ein hohes Niveau erreicht und sind zuletzt nochmals deutlich angezogen. Um diese Preissteigerungen zu dämpfen, haben sich die G7-Staaten auf die Freigabe von nationalen Reserven verständigt. Konkret handelt es sich um bis zu 100 Millionen Barrel Diesel und Rohöl, die auf den Markt gebracht werden sollen. Dieser Schritt erfolgt auf massiven Druck der Vereinigten Staaten, die eine Entlastung der Verbraucher und der Wirtschaft anstreben. Die Freigabe soll dazu beitragen, drohende Versorgungsengpässe zu verhindern und die Preissituation an den Tankstellen sowie auf den internationalen Märkten zu beruhigen. Weitere Details zum genauen zeitlichen Ablauf der Ausschüttung oder dem konkreten Anteil der einzelnen Mitgliedstaaten wurden zunächst nicht bekannt gegeben.",
-    "r": "Die Entscheidung der G7-Staaten greift direkt in den Energiemarkt ein, um auf die kriegsbedingten Preisspitzen zu reagieren. Die Maßnahme ist für Verbraucher und Wirtschaft von großer Bedeutung, da Öl- und Dieselpreise weite Teile der globalen Preisentwicklung beeinflussen.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZmJfTWp4TjNvVE1MWFRJc25NREdTTGxTcGV1emRVZzVQWmJvY0hVQVNZOGt1by1lOUcza1NkVFFUakdvQm9Lb0ZOMlowNGRWdlY3WFBDMXJWV0RFMUJLaXg3eWVZeDM2SFNycXBpa1ZfTFpGLWQ1WG9wMmNJd0tkYm1xclRIeklsR2QzZUlSNmVJaDVNMTlTMm9MVW9UWWJ1ckl1WGdCdTJvTHZOT2ExblZ3aXA?oc=5",
-        "date": "2026-10-02T14:26:31.000Z"
-      },
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/wirtschaft/G7-Staaten-geben-bis-zu-100-Millionen-Barrel-Diesel-und-Rohoel-frei-id31375418.html",
-        "date": "2026-10-02T14:26:31.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZmJfTWp4TjNvVE1MWFRJc25NREdTTGxTcGV1emRVZzVQWmJvY0hVQVNZOGt1by1lOUcza1NkVFFUakdvQm9Lb0ZOMlowNGRWdlY3WFBDMXJWV0RFMUJLaXg3eWVZeDM2SFNycXBpa1ZfTFpGLWQ1WG9wMmNJd0tkYm1xclRIeklsR2QzZUlSNmVJaDVNMTlTMm9MVW9UWWJ1ckl1WGdCdTJvTHZOT2ExblZ3aXA?oc=5",
-    "agree": "",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-74b0d3feea87aa47",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-02T14:24:14.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "VW-Tochter Skoda ruft weltweit 1,7 Millionen Fahrzeuge zurück",
-    "s": "Wegen einer fehlerhaften Schraube an der Lenkung ruft die VW-Tochter Skoda weltweit rund 1,7 Millionen Fahrzeuge in die Werkstätten. Der Defekt kann zum Ausfall der Lenkung führen. In Deutschland sind nach aktuellen Angaben etwa 370.000 Autos von dem Rückruf betroffen. Die Maßnahme betrifft mehrere Modelle aus dem gesamten Volkswagen-Konzern.",
-    "m": "Der Volkswagen-Konzern beziehungsweise seine tschechische Tochter Skoda sieht sich mit einem massiven weltweiten Rückruf konfrontiert. Grund für die Werkstattbesuche ist eine fehlerhafte Schraube bei mehreren Modellen, die im schlimmsten Fall zu einem Totalausfall der Lenkung führen kann. Betroffen sind weltweit rund 1,7 Millionen Fahrzeuge der Marke Skoda. Allein für den deutschen Markt müssen nach Angaben der Berichterstattung rund 370.000 Fahrzeuge nachgebessert werden. Der genaue zeitliche Ablauf der Reparaturen sowie die betroffenen Produktionsjahre wurden in den vorliegenden Meldungen nicht im Detail genannt. Offen bleibt zudem, welche konkreten Baureihen neben den bereits erwähnten Aspekten im Detail in die Werkstätten müssen und ob es bereits zu gefährlichen Situationen im Straßenverkehr kam. Die betroffenen Fahrzeughalter werden voraussichtlich in Kürze kontaktiert, um die notwendigen Servicearbeiten durchführen zu lassen.",
-    "r": "Der massive Rückruf von 1,7 Millionen Skoda-Fahrzeugen ist von hoher sicherheitstechnischer Relevanz, da ein potenzieller Ausfall der Lenkung eine erhebliche Gefahr im Straßenverkehr darstellt. Zudem sind allein in Deutschland Hunderttausende Halter direkt von den notwendigen Werkstattterminen betroffen.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUjZWZUtqOEMwc3FIZmQwOHB6OFFNUDcyUGk1bGVkaldfc2kyREEtbU55b1FhWHFkTWxRWmFVMmt4VklITWhGWkhrc0UtX285UjFDMklnMFpEdnVGSmZDd3J0dUlvU3hXZ0V4RFdaV1NQVnJtM2kwTHNsMTJUNE5sdkhaYjhROVNFU2UtZ1dYYnBkV1pSWXk4bktRbjhuWVFua1c1bVV4MU1fbGdDRngtZUc4ZWNqQW9BMTZXdXVaTQ?oc=5",
-        "date": "2026-10-02T14:24:14.000Z"
-      },
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/wirtschaft/Skoda-ruft-ueber-eine-Million-Fahrzeuge-zurueck-Probleme-mit-einer-Schraube-id31375208.html",
-        "date": "2026-10-02T14:24:14.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUjZWZUtqOEMwc3FIZmQwOHB6OFFNUDcyUGk1bGVkaldfc2kyREEtbU55b1FhWHFkTWxRWmFVMmt4VklITWhGWkhrc0UtX285UjFDMklnMFpEdnVGSmZDd3J0dUlvU3hXZ0V4RFdaV1NQVnJtM2kwTHNsMTJUNE5sdkhaYjhROVNFU2UtZ1dYYnBkV1pSWXk4bktRbjhuWVFua1c1bVV4MU1fbGdDRngtZUc4ZWNqQW9BMTZXdXVaTQ?oc=5",
-    "agree": "",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-8a42759014750c29",
-    "c": "INT",
-    "o": "DE",
-    "k": "sport",
-    "lang": "de",
-    "d": "2026-10-02T13:46:58.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Manchester City legt Einspruch gegen Schuldspruch im Finanzskandal ein",
-    "s": "Der englische Spitzenklub Manchester City wehrt sich gegen einen Schuldspruch im langjährigen Finanzskandal. Der Verein wurde in sämtlichen Anklagepunkten für schuldig befunden, die Regeln der Premier League umgangen zu haben. Das Urteil stößt beim Klub auf heftige Ablehnung. Nun wurde offiziell Einspruch eingelegt.",
-    "m": "Der englische Top-Klub Manchester City ist in allen 115 Anklagepunkten wegen massiver Finanzverstöße schuldig gesprochen worden. Dem Verein wird vorgeworfen, über viele Jahre hinweg die Finanzregeln der Premier League systematisch umgangen zu haben. Mit dem gefällten Schuldspruch zeigt sich die Vereinsführung von Manchester City absolut nicht einverstanden und hat juristische Schritte eingeleitet. Der Klub hat offiziell Einspruch eingelegt, um das Urteil anzufechten. Die Vorwürfe und der darauffolgende Rechtsstreit belasten den englischen Spitzenfußball seit langer Zeit. Wie der Einspruch rechtlich bewertet wird und welche Konsequenzen drohen, bleibt vorerst offen.",
-    "r": "Der anhaltende Finanzskandal und der rechtliche Konflikt eines international bedeutsamen Spitzenklubs mit der Premier League sind von großem sportlichen und wirtschaftlichen Interesse. Die Entscheidung über die Anklagepunkte und der nun eingelegte Einspruch könnten weitreichende Folgen für den englischen und europäischen Fußball haben.",
-    "srcs": [
-      {
-        "name": "t-online Sport",
-        "url": "https://www.t-online.de/sport/fussball/international/id_101463566/premier-league-manchester-city-legt-im-finanzskandal-einspruch-ein.html",
-        "date": "2026-10-02T13:46:58.000Z"
-      },
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/sport/finanzskandal-premier-league-manchester-city-wehrt-sich-gegen-schuldspruch-NZKFNHFHGFDPHHAPA42IMZH7OI.html",
-        "date": "2026-10-02T11:55:26.000Z"
-      }
-    ],
-    "url": "https://www.t-online.de/sport/fussball/international/id_101463566/premier-league-manchester-city-legt-im-finanzskandal-einspruch-ein.html",
-    "agree": "Die Quellen sind sich einig, dass Manchester City in allen Anklagepunkten eines Finanzskandals schuldig gesprochen wurde und sich mit einem Einspruch dagegen wehrt.",
-    "diff": [
-      {
-        "name": "t-online Sport",
-        "note": "Erwähnt die genaue Anzahl von 115 Anklagepunkten."
-      },
-      {
-        "name": "RND",
-        "note": "Führt aus, dass die Vorwürfe und Regelumgehungen jahrelang andauerten."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-10abd4b68e9cad0f",
-    "c": "INT",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-02T13:43:59.000Z",
-    "p": 3,
-    "st": "NI",
-    "city": "",
-    "t": "Gerhard Schröder übernimmt Aufsichtsratsposten bei Globus in Russland",
-    "s": "Der ehemalige Bundeskanzler Gerhard Schröder wird neuer Aufsichtsrat des russischen Ablegers der Handelskette Globus. Das Unternehmen teilte mit, dass er dort die Entwicklung verantworten soll. Der Schritt erfolgt in einer Phase, in der Kremlchef W Putin ausländische Firmen in Russland unter Zwangsverwaltung stellt.",
-    "m": "Altkanzler Gerhard Schröder übernimmt einen Aufsichtsratsposten bei der Supermarkt-Kette Globus in Russland. Nach Angaben des Unternehmens soll er die wirtschaftliche Entwicklung der Handelskette in dem Land verantworten. Gleichzeitig steht die Personalie in einem heiklen politischen Kontext, da Kremlchef W Putin zuvor angekündigt hatte, ausländische Firmen in Russland unter Zwangsverwaltung zu stellen. Die Quellen weisen in diesem Zusammenhang auf Schröders bekannte Nähe zu Putin hin und werfen Fragen zur Motivation dieses Schritts auf. Ob und wie sich die Zwangsverwaltung auf den Betrieb auswirkt oder ob Schröders Verbindungen dem Unternehmen Schutz bieten sollen, bleibt in den Berichten offen. Details zu weiteren Mitgliedern des Aufsichtsrats oder einem genauen Antrittsdatum wurden nicht genannt.",
-    "r": "Die Personalie ist relevant, da ein ehemaliger deutscher Regierungschef eine Spitzenposition in einem in Russland tätigen westlichen Unternehmen übernimmt. Dies geschieht vor dem Hintergrund staatlicher Maßnahmen des Kremls gegenüber ausländischen Firmen.",
-    "srcs": [
-      {
-        "name": "Tagesschau Regional Niedersachsen",
-        "url": "https://www.tagesschau.de/inland/regional/niedersachsen/gerhard-schroeder-wird-globus-aufsichtsrat-in-russland,schroeder-434.html",
-        "date": "2026-10-02T13:43:59.000Z"
-      },
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/wirtschaft/altkanzler-gerhard-schroeder-wird-aufsichtsrat-bei-handeslkette-globus-in-russland-3GTAHOGYX5EJLM65MR3HYFAJ74.html",
-        "date": "2026-10-02T11:27:48.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/regional/niedersachsen/gerhard-schroeder-wird-globus-aufsichtsrat-in-russland,schroeder-434.html",
-    "agree": "Die Quellen stimmen überein, dass der ehemalige Bundeskanzler Gerhard Schröder in den Aufsichtsrat des russischen Ablegers der Handelskette Globus einzieht.",
-    "diff": [
-      {
-        "name": "Tagesschau Regional Niedersachsen",
-        "note": "Berichtet, dass Schröder die Entwicklung der Supermarkt-Kette verantworten soll, und beruft sich dabei auf eine Information des Unternehmens."
-      },
-      {
-        "name": "RND",
-        "note": "Stellt den Bezug zu Kremlchef Putin her, der ausländische Firmen unter Zwangsverwaltung stellt, und bezeichnet Schröder als Putin-Freund."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-222da536bc1adc8f",
-    "c": "DE",
-    "o": "DE",
-    "k": "wissenschaft",
-    "lang": "de",
-    "d": "2026-10-02T13:08:59.000Z",
-    "p": 3,
-    "st": "BY",
-    "city": "",
-    "t": "Sindbis-Virus: Erste Infektion in Deutschland, milde Symptome",
-    "s": "Erstmals wurde in Deutschland eine Infektion mit dem Sindbis-Virus nachgewiesen. Die Erkrankung wird durch heimische Stechmücken übertragen. Die Betroffenen zeigen in der Regel milde Symptome wie Fieber, Hautausschlag und Gelenkschmerzen.",
-    "m": "Das Sindbis-Virus ist nun erstmals durch eine in Deutschland erworbene Infektion dokumentiert worden. Die Übertragung erfolgt über Stechmücken, die heimisch sind. Typische Symptome der Infektion umfassen Fieber, Hautausschlag und Gelenkschmerzen. Die Krankheit verläuft meist milde, kann jedoch häufig lang anhaltende Gelenkschmerzen mit sich bringen. Weitere Details zum genauen Zeitpunkt oder Ort der Ansteckung sowie zur betroffenen Person wurden in den Berichten nicht genannt. Auch Angaben zu möglichen Behandlungsmaßnahmen oder Folgemaßnahmen der Gesundheitsbehörden fehlen bisher.",
-    "r": "Der erste Nachweis des Sindbis-Virus in Deutschland ist von medizinischem und epidemiologischem Interesse, da die durch Stechmücken übertragenen Erreger nun auch hierzulande Infektionen verursachen. Die potenziell lang anhaltenden Gelenkschmerzen machen die Beobachtung der weiteren Entwicklung relevant.",
-    "srcs": [
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/wissen/sindbis-virus-erste-infektion-in-deutschland-milde-symptome,VWtARZM",
-        "date": "2026-10-02T13:08:59.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/wissenschaft/sindbis-fieber-erstmals-in-deutschland-uebertragung-nachgewiesen-a-109c4b99-d81d-4132-979d-05679ee51dc5#ref=rss",
-        "date": "2026-10-02T12:40:00.000Z"
-      }
-    ],
-    "url": "https://www.br.de/nachrichten/wissen/sindbis-virus-erste-infektion-in-deutschland-milde-symptome,VWtARZM",
-    "agree": "Beide Quellen stimmen überein, dass erstmals eine in Deutschland erworbene Infektion mit dem Sindbis-Virus nachgewiesen wurde, die durch Mücken übertragen wird.",
-    "diff": [
-      {
-        "name": "BR24 Bayern",
-        "note": "Erwähnt konkret milde Symptome wie Fieber, Hautausschlag und Gelenkschmerzen."
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "Hebt hervor, dass die Krankheit oft lang anhaltende Gelenkschmerzen mit sich bringt."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-6c5f7180f2680839",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-02T12:57:35.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Linken-Abgeordneter Koçak äußert sich in neuer Erklärung zu Clan-Kontakten",
-    "s": "Wegen Kontakten zum Remmo-Clan ist der Berliner Linken-Abgeordnete Ferat Koçak stark in die Kritik geraten. Nun hat er ein neues Statement veröffentlicht. Darin schildert er aus seiner Sicht, wie der Kontakt zu Mitgliedern des Clans abgelaufen ist.",
-    "m": "In seiner neuen Erklärung geht der Linken-Abgeordnete Ferat Koçak auf die Vorwürfe zu seinen Kontakten zum Remmo-Clan ein. Konkret schildert er in dem Statement, wie die Treffen beziehungsweise der Kontakt zu Firas und Issa Remmo aus seiner Sicht stattgefunden haben. Zu seiner eigenen Überraschung sei demnach auch Issa Remmo anwesend gewesen. Der Politiker war zuvor wegen dieser Verbindungen heftig kritisiert worden. Weitere Details aus dem neuen Statement oder Reaktionen darauf nennen die vorliegenden Berichte bisher nicht. Die Hintergründe und Folgen der Äußerung sind Gegenstand der aktuellen Berichterstattung.",
-    "r": "Die Auseinandersetzung um Kontakte von Politikern zu kriminellen Clans berührt Fragen der politischen Integrität. Die neue Erklärung eines betroffenen Abgeordneten liefert Details zu den Vorwürfen.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPS2IyUTdTeWVNdnlQRWUtUWFMZzVNZC1jbHJsaUswTGNLUjZVanNZTEtuZ1hrQW5lOGQ5THY3dGpELTlyVS1DUGhVano4aHNzakF3bkhRZ05LQ1oxbHRhM0t1bVVXNFd5cmtuN1R6SWE5WVlOWW5VSnd4dU0zVU1yOHl5NTRmbnhqX3FJemlIVjNSem5jUTdybkFDd1QwMkZuZWJhdnZJemdrV2l6MWFLVzQ0a1ZhUXFiSGZuZTg5eDFIc0xFUHVhS04yRFotTlVjRzhfUWo3d1lCUENJMFk3Z0dxeHhMTWNhMjZrM1hqV18zQ2Z5ZXBGZmFNOWx3NDcyZTY4NzVOUlZiY29seVVRa25rODhoXzV1YXc?oc=5",
-        "date": "2026-10-02T12:57:35.000Z"
-      },
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/politik/deutschland/article6abf91c5d4d0c24ec26d1709/ferat-kocak-da-war-zu-meiner-ueberraschung-auch-issa-remmo-anwesend-sagt-der-linken-politiker-in-neuer-erklaerung.html",
-        "date": "2026-10-02T12:55:54.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPS2IyUTdTeWVNdnlQRWUtUWFMZzVNZC1jbHJsaUswTGNLUjZVanNZTEtuZ1hrQW5lOGQ5THY3dGpELTlyVS1DUGhVano4aHNzakF3bkhRZ05LQ1oxbHRhM0t1bVVXNFd5cmtuN1R6SWE5WVlOWW5VSnd4dU0zVU1yOHl5NTRmbnhqX3FJemlIVjNSem5jUTdybkFDd1QwMkZuZWJhdnZJemdrV2l6MWFLVzQ0a1ZhUXFiSGZuZTg5eDFIc0xFUHVhS04yRFotTlVjRzhfUWo3d1lCUENJMFk3Z0dxeHhMTWNhMjZrM1hqV18zQ2Z5ZXBGZmFNOWx3NDcyZTY4NzVOUlZiY29seVVRa25rODhoXzV1YXc?oc=5",
-    "agree": "Die Quellen stimmen überein, dass der Linken-Abgeordnete Ferat Koçak wegen Kontakten zum Remmo-Clan in der Kritik steht und eine neue Erklärung zu den Abläufen abgegeben hat.",
-    "diff": [
-      {
-        "name": "WELT",
-        "note": "Berichtet ausführlich, dass es sich um Kontakte zu Firas und Issa Remmo handelt und Koçak in dem neuen Statement darlegt, wie der Kontakt aus seiner Sicht wirklich abgelaufen ist."
-      },
-      {
-        "name": "Google News DE",
-        "note": "Zitiert Koçak mit der Aussage, dass zu seiner Überraschung auch Issa Remmo anwesend war."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-e964d2867753ab3f",
-    "c": "INT",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-02T11:26:05.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Inflation im Euroraum steigt auf höchsten Stand seit drei Jahren",
-    "s": "Die Verbraucherpreise im Euroraum haben deutlich zugelegt und den höchsten Stand seit drei Jahren erreicht. Als Grund für den Preisanstieg werden die Auswirkungen des Iran-Krieges genannt. Ökonomen erwarten infolge dieser Entwicklung stark steigende Zinsen durch die Europäische Zentralbank.",
-    "m": "Die Teuerungsrate im Euroraum hat einen neuen Höchststand seit drei Jahren erreicht, was den Druck auf die Europäische Zentralbank erheblich erhöht. Laut Berichten spüren die Verbraucher die wirtschaftlichen Folgen des aktuellen Iran-Krieges mittlerweile direkt im Alltag. Fachleute und Ökonomen gehen fest davon aus, dass die EZB auf diese Inflationswelle mit einer baldigen Zinserhöhung reagieren muss. Bislang wurden jedoch keine genauen prozentualen Inflationsraten oder konkrete Zeitpunkte für eine mögliche geldpolitische Entscheidung genannt. Offen bleibt zudem, wie stark die Eskalation im Nahen Osten die internationalen Energiemärkte und Lieferketten weiter belasten wird.",
-    "r": "Der steile Anstieg der Teuerungsrate und die drohenden geldpolitischen Schritte der EZB betreffen direkt die europäische Wirtschaft und das Preisniveau der Verbraucher. Angesichts der externen geopolitischen Krisenherde verdeutlicht die Entwicklung die Anfälligkeit des Euroraums.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVTl1QzV5a3BzMW1RbWh0UnowSFRvOEVENmk0MkNyNkpQRmd6bjY3WXhVZDRNdmpZbTBXdmNfbEJDRmtTQmYwM2I0TkgyNXhQemVzOXJSZFRtbEEzV2dUcHFwQlhHVkJ6c2FaOGJlV0ZOOFkxc0tURmtjenlCUVRTVUt0TE9hOHFXdU1KQWNENUdpa1I2NkV4YmpSUlFRNXhoNEV6d0hKempNWmkxeHUyMXpMVQ?oc=5",
-        "date": "2026-10-02T11:26:05.000Z"
-      },
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/wirtschaft/Inflation-im-Euroraum-springt-auf-hoechsten-Stand-seit-drei-Jahren-id31373855.html",
-        "date": "2026-10-02T11:26:05.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVTl1QzV5a3BzMW1RbWh0UnowSFRvOEVENmk0MkNyNkpQRmd6bjY3WXhVZDRNdmpZbTBXdmNfbEJDRmtTQmYwM2I0TkgyNXhQemVzOXJSZFRtbEEzV2dUcHFwQlhHVkJ6c2FaOGJlV0ZOOFkxc0tURmtjenlCUVRTVUt0TE9hOHFXdU1KQWNENUdpa1I2NkV4YmpSUlFRNXhoNEV6d0hKempNWmkxeHUyMXpMVQ?oc=5",
-    "agree": "Die Quellen stimmen überein, dass die Inflation im Euroraum den höchsten Stand seit drei Jahren erreicht hat und Ökonomen fest mit einer Zinserhöhung der EZB rechnen.",
-    "diff": [
-      {
-        "name": "ntv",
-        "note": "Ergänzt, dass die Folgen des Iran-Krieges ursächlich für den Preisanstieg bei den Verbrauchern sind."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-80fb02631ecc7bda",
-    "c": "INT",
-    "o": "INT",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-02T11:23:27.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Indischer Pilot schildert Cockpit-Angriff auf Flydubai-Flug",
-    "s": "Ein indischer Pilot wurde von seinem Co-Piloten auf einem Flydubai-Flug nach Israel mit einem Messer attackiert. Der betroffene Pilot berichtete nun öffentlich über den Vorfall und schilderte, wie er während des Angriffs die Cockpit-Tür öffnete. Zudem sprach er mit dem indischen Premierminister Narendra Modi über die Geschehnisse.",
-    "m": "Auf einem Flug der Fluggesellschaft Flydubai mit Ziel Israel kam es zu einer gewaltsamen Auseinandersetzung zwischen den Piloten, bei der ein indischer Pilot von seinem Co-Piloten mit einem Messer attackiert und verletzt wurde. Nach Angaben des betroffenen Piloten gelang es ihm in dieser kritischen Situation, die Cockpit-Tür zu öffnen. Der Vorfall erlangte internationale Aufmerksamkeit und führte zu direkten Kontakten auf politischer Ebene, da sich der Pilot nach dem Angriff mit dem indischen Premierminister Narendra Modi austauschte. Die genauen Hintergründe und Motive für den Angriff des Co-Piloten sowie die genaueren Umstände des Fluges werden weiter untersucht. Es bleibt unter anderem die Frage offen, welche Sicherheitsvorkehrungen in Zukunft verstärkt werden sollen und wie es zu der Eskalation im Cockpit kommen konnte.",
-    "r": "Der gewaltsame Zwischenfall im Cockpit eines internationalen Passagierflugzeugs wirft Fragen zur Flugsicherheit auf. Zudem unterstreicht die Kontaktaufnahme auf höchster politischer Ebene mit dem indischen Premierminister die diplomatische und sicherheitspolitische Dimension des Vorfalls.",
-    "srcs": [
-      {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/flydubai-pilot-describes-opening-cockpit-door-during-attack?traffic_source=rss",
-        "date": "2026-10-02T11:23:27.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTTBULVl5eXBDZDdCUDJQSjEzTmFoX25TYmNPNHQ1UXVJbWxTV01aUGxrTU9FWUNnQXp6dlhqWXd5M3B3bkNHdVViMU1scG9Ba3hIaEZVLVNic1lDNXpOOURLbnd4a0lLNGE0UHhqaFJDbFBkT25Ld1BMbS1kRVNvel9RNWx6Q0dwRE43NkZGRW9PU3FaNFBFSWtTcUpROEVEWlo2QmllSmlrdnNqM3NKNC1pY1ZmQlBOQUNuUXhBX2VNamxh?oc=5",
-        "date": "2026-10-02T08:23:40.000Z"
-      }
-    ],
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/flydubai-pilot-describes-opening-cockpit-door-during-attack?traffic_source=rss",
-    "agree": "Beide Quellen stimmen darin überein, dass ein indischer Pilot auf einem Flydubai-Flug nach Israel von seinem Co-Piloten angegriffen wurde und dabei die Cockpit-Tür öffnete.",
-    "diff": [
-      {
-        "name": "Al Jazeera",
-        "note": "Berichtet direkt aus der Perspektive des indischen Piloten, der die Messerattacke durch seinen Co-Piloten beschreibt."
-      },
-      {
-        "name": "Google News World",
-        "note": "Ergänzt die Information, dass der indische Pilot dem Premierminister Narendra Modi von dem Vorfall und dem Öffnen der Cockpit-Tür berichtete."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-6c3ffb9ef2088227",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-02T09:53:19.000Z",
-    "p": 3,
-    "st": "NW",
-    "city": "",
-    "t": "Drei Festnahmen in Unna und Hagen wegen Terrorverdachts",
-    "s": "In Nordrhein-Westfalen hat die Polizei drei Männer festgenommen. Ihnen wird vorgeworfen, eine staatsgefährdende Straftat vorbereitet zu haben. Die Festnahmen erfolgten am Donnerstag in den Städten Unna und Hagen.",
-    "m": "Die nordrhein-westfälische Polizei hat am Donnerstag drei Personen in Gewahrsam genommen. Den Angaben zufolge wird den drei Männern vorgeworfen, eine staatsgefährdende Straftat und konkret einen Anschlag vorbereitet zu haben. Die Einsätze und Festnahmen fanden in den Städten Unna und Hagen statt. Weitere Details zu den Tatverdächtigen, den Hintergründen des geplanten Anschlags oder möglichen weiteren Beteiligten wurden zunächst nicht bekanntgegeben. Die Ermittlungen der zuständigen Behörden zu dem Vorfall dauern an.",
-    "r": "Die Festnahme von Personen unter dem Verdacht der Vorbereitung einer staatsgefährdenden Straftat ist sicherheitsrelevant und betrifft die öffentliche Ordnung. Der Fall verdeutlicht das fortbestehende Risiko von Anschlagsplanungen, gegen das die Sicherheitsbehörden vorgehen.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/verdacht-auf-staatsgefaehrdende-straftat-drei-festnahmen-in-unna-und-hagen-108.html",
-        "date": "2026-10-02T09:53:19.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Nordrhein-Westfalen",
-        "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-drei-personen-festgenommen-verdacht-auf-staatsgefaehrdende-straftat-100.html",
-        "date": "2026-10-02T08:41:00.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/verdacht-auf-staatsgefaehrdende-straftat-drei-festnahmen-in-unna-und-hagen-108.html",
-    "agree": "Die Quellen stimmen überein, dass am Donnerstag in Unna und Hagen drei Personen festgenommen wurden, weil der Verdacht einer staatsgefährdenden Straftat besteht.",
-    "diff": [
-      {
-        "name": "Tagesschau Regional Nordrhein-Westfalen",
-        "note": "Erwähnt konkret, dass die Männer einen Anschlag geplant haben sollen und die Festnahmen am Donnerstag stattfanden."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-4aacdb38d49ba281",
-    "c": "INT",
-    "o": "DE",
-    "k": "sport",
-    "lang": "de",
-    "d": "2026-10-02T09:53:19.000Z",
-    "p": 2,
-    "st": "BY",
-    "city": "",
-    "t": "Franz Reindl zum neuen Präsidenten des Eishockey-Weltverbands gewählt",
-    "s": "Der deutsche Eishockey-Funktionär Franz Reindl hat das höchste Amt im internationalen Eishockey übernommen. Er wurde auf dem Kongress des Weltverbandes IIHF zum neuen Präsidenten gewählt. Damit steht zukünftig ein Oberbayern an der Spitze der Organisation.",
-    "m": "Der deutsche Eishockey-Funktionär Franz Reindl ist neuer Präsident des Internationalen Eishockey-Verbandes IIHF. Seine Wahl fand auf dem Kongress des Weltverbandes statt, der auf Teneriffa abgehalten wurde. Mit der Wahl übernimmt ein Oberbayer das höchste Amt im internationalen Eishockey. Bisher sind keine weiteren Details zu Gegenkandidaten, dem genauen Wahlergebnis oder der Länge seiner Amtszeit aus den Quellen bekannt. Offen bleibt auch, welche konkreten Reformen oder Schwerpunkte er während seiner Präsidentschaft setzen wird.",
-    "r": "Die Wahl an die Spitze des Eishockey-Weltverbandes ist von internationaler sportpolitischer Bedeutung für die Sportart. Zudem markiert sie die Besetzung des höchsten Amtes im Eishockey mit einem deutschen Funktionär.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/deutscher-franz-reindl-zum-neuen-praesidenten-des-eishockey-weltverbands-gewaehlt-100.html",
-        "date": "2026-10-02T09:53:19.000Z"
-      },
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/sport/eishockey-franz-reindl-ist-neuer-praesident-des-weltverbandes-iihf-sieg-bei-wahl-auf-kongress,VWsaGfo",
-        "date": "2026-10-02T09:52:56.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/deutscher-franz-reindl-zum-neuen-praesidenten-des-eishockey-weltverbands-gewaehlt-100.html",
-    "agree": "Beide Quellen stimmen überein, dass der Deutsche Franz Reindl zum neuen Präsidenten des Eishockey-Weltverbandes IIHF gewählt wurde.",
-    "diff": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "note": "Erwähnt Teneriffa als Ort des Geschehens."
-      },
-      {
-        "name": "BR24 Bayern",
-        "note": "Betont, dass Reindl aus Oberbayern stammt."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-f6648deb6853f452",
-    "c": "INT",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-02T09:48:08.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Polen führt Übergewinnsteuer für Mineralölkonzerne ein",
-    "s": "Polen hat die Einführung einer Übergewinnsteuer für Mineralölkonzerne beschlossen. Die Maßnahme soll für die Dauer von einem Jahr gelten. Gleichzeitig sollen die Steuern auf Kraftstoffe gesenkt werden.",
-    "m": "Die polnische Regierung hat beschlossen, eine Übergewinnsteuer für Mineralölkonzerne einzuführen, um auf die aktuellen Marktentwicklungen zu reagieren. Diese Sonderabgabe ist vorerst für den Zeitraum von einem Jahr angesetzt. Parallel dazu hat Polen angekündigt, die Steuern auf Kraftstoffe zu senken, um Verbraucher zu entlasten. Während in Deutschland weiterhin kontrovers über eine mögliche Einführung einer solchen Übergewinnsteuer für Energieunternehmen diskutiert wird, hat das Nachbarland Polen damit konkrete Schritte unternommen. Weitere Details zur genauen Ausgestaltung oder den erwarteten Einnahmen wurden in den Berichten nicht genannt.",
-    "r": "Die Maßnahme ist relevant, da sie das politische Handeln in einem EU-Nachbarland bei hohen Energiepreisen zeigt, während in Deutschland eine ähnliche Abgabe politisch weiter diskutiert wird.",
-    "srcs": [
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/news/2026-10/02/polen-fuehrt-uebergewinnsteuer-fuer-mineraloelkonzerne-ein",
-        "date": "2026-10-02T09:48:08.000Z"
-      },
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/politik/ausland/polen-uebergewinnsteuer-mineraloel-konzerne-tankrabatt-einfuehrung-100.html",
-        "date": "2026-10-02T09:28:00.000Z"
-      }
-    ],
-    "url": "https://www.zeit.de/news/2026-10/02/polen-fuehrt-uebergewinnsteuer-fuer-mineraloelkonzerne-ein",
-    "agree": "Beide Quellen stimmen überein, dass Polen eine Übergewinnsteuer für Mineralölkonzerne einführt.",
-    "diff": [
-      {
-        "name": "ZDF heute",
-        "note": "Ergänzt, dass die Steuer für ein Jahr gilt, Kraftstoffsteuern gesenkt werden sollen und in Deutschland weiter über eine Übergewinnsteuer diskutiert wird."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-575c5699c96b2f20",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-02T09:46:57.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Wahlpanne in Berlin: Spandauer Direktmandat geht an die AfD",
-    "s": "Nach der Wahl zum Berliner Abgeordnetenhaus ist es zu einer folgenschweren Korrektur des vorläufigen Ergebnisses gekommen. Ein Direktmandat im Bezirk Spandau, das zunächst der CDU zugerechnet worden war, geht stattdessen an die AfD. Diese Panne basiert auf einem falsch übermittelten Wahlergebnis.",
-    "m": "Die fehlerhafte Übermittlung eines Wahlergebnisses hat im Nachgang der Berliner Abgeordnetenhauswahl zu einer Neuverteilung eines Mandats geführt. Betroffen ist der Bezirk Spandau, wo das Direktmandat nun der AfD statt der CDU zugesprochen wird. Durch diese Korrektur verändert sich auch die Gesamtzahl der Sitze im Landesparlament, die nun geringer ausfallen wird als zunächst erwartet. Der Fehler fiel bei der Überprüfung des vorläufigen Ergebnisses auf. Weitere Details zum genauen Hergang der fehlerhaften Datenübermittlung und den exakten Auswirkungen auf die Sitzverteilung im Detail wurden zunächst nicht genannt.",
-    "r": "Die fehlerhafte Ermittlung von Wahlergebnissen und die daraus resultierende Verschiebung von Mandaten in einer Landeshauptstadt sind von hoher demokratischer und politischer Relevanz. Sie berühren die Integrität von Wahlen und beeinflussen die Zusammensetzung des Landesparlaments.",
-    "srcs": [
-      {
-        "name": "t-online Nachrichten",
-        "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101463134/wahlpanne-berlin-direktmandat-in-spandau-geht-an-afd-statt-cdu.html",
-        "date": "2026-10-02T09:46:57.000Z"
-      },
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/politik/deutschland/article6abf765385d64113fb06c9a7/wahlpanne-in-berlin-direktmandat-geht-an-afd-statt-an-cdu-abgeordnetenhaus-wird-kleiner.html",
-        "date": "2026-10-02T09:25:57.000Z"
-      }
-    ],
-    "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101463134/wahlpanne-berlin-direktmandat-in-spandau-geht-an-afd-statt-cdu.html",
-    "agree": "Beide Quellen stimmen darin überein, dass es nach der Berliner Abgeordnetenhauswahl zu einer Wahlpanne durch ein falsch übermitteltes Ergebnis in Spandau kam, wodurch ein Direktmandat von der CDU an die AfD geht und das Abgeordnetenhaus kleiner wird.",
-    "diff": [
-      {
-        "name": "t-online Nachrichten",
-        "note": "Berichtet ergänzend, dass es im Berliner Abgeordnetenhaus durch die Korrektur weniger Sitze geben wird als zunächst erwartet."
-      },
-      {
-        "name": "WELT",
-        "note": "Erwähnt ebenfalls, dass das Landesparlament kleiner wird, fokussiert sich ansonsten auf dieselben Kernfakten zur Wahlpanne in Spandau."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-899f4fa717a8361e",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-02T09:42:42.000Z",
-    "p": 2,
-    "st": "HH",
-    "city": "",
-    "t": "Hamburger Volksentscheid über Grundeinkommen wird nicht wiederholt",
-    "s": "Das Hamburgische Verfassungsgericht hat Anträge zur Wiederholung des Volksentscheids zum Grundeinkommen abgewiesen. Damit bleibt das Ergebnis des im Oktober 2025 stattgefundenen Entscheids bestehen. Damals hatte eine Mehrheit das dreijährige Modellprojekt abgelehnt.",
-    "m": "Mehrere Bürgerinnen und Bürger hatten Beschwerden gegen den Ausgang des Volksentscheids eingereicht, über den das Hamburgische Verfassungsgericht am Freitag entschied. Im Kern ging es um den im Oktober 2025 abgelehnten Vorschlag für ein dreijähriges Modellprojekt zum Grundeinkommen in der Hansestadt. Das Gericht wies diese Anträge nun zurück, wodurch eine Wiederholung des Urnengangs ausgeschlossen ist. Weitere Details zu den genauen Gründen der Beschwerdeführer wurden in den Berichten nicht genannt.",
-    "r": "Die Entscheidung des Verfassungsgerichts besiegelt endgültig das Aus für das im Oktober abgelehnte Grundeinkommen-Modellprojekt in Hamburg. Damit sind rechtliche Schritte von Bürgern gescheitert.",
-    "srcs": [
-      {
-        "name": "stern",
-        "url": "https://www.stern.de/news/hamburger-volksentscheid-ueber-grundeinkommen-wird-nicht-wiederholt-38340522.html",
-        "date": "2026-10-02T09:42:42.000Z"
-      },
-      {
-        "name": "NDR Hamburg",
-        "url": "https://www.ndr.de/nachrichten/hamburg/volksentscheid-zum-grundeinkommen-wird-nicht-wiederholt,kurzehh-4486.html",
-        "date": "2026-10-02T09:16:28.000Z"
-      }
-    ],
-    "url": "https://www.stern.de/news/hamburger-volksentscheid-ueber-grundeinkommen-wird-nicht-wiederholt-38340522.html",
-    "agree": "Beide Quellen stimmen darin überein, dass das Hamburgische Verfassungsgericht die Anträge beziehungsweise Beschwerden zum Volksentscheid über das Grundeinkommen zurückgewiesen hat und dieser nicht wiederholt wird.",
-    "diff": [
-      {
-        "name": "stern",
-        "note": "Erwähnt, dass der abgelehnte Volksentscheid ein dreijähriges Modellprojekt vorsah, im Oktober 2025 stattfand und die Anträge von mehreren Bürgerinnen und Bürgern am Freitag abgewiesen wurden."
-      },
-      {
-        "name": "NDR Hamburg",
-        "note": "Nennt den genauen Titel des Volksentscheids \"Hamburg testet Grundeinkommen\"."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-af9cb4b931abcd00",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-02T09:20:59.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Staatsanwaltschaft Gera stellt Verfahren gegen AfD-Politiker Höcke ein",
-    "s": "Die Staatsanwaltschaft Gera hat ein Ermittlungsverfahren gegen den Thüringer AfD-Chef Björn Höcke eingestellt. Es bestand der Verdacht der Verunglimpfung des Staates. Das Verfahren bleibt für den Politiker folgenlos.",
-    "m": "Das Ermittlungsverfahren gegen den Thüringer AfD-Chef Björn Höcke wegen des Verdachts der Verunglimpfung des Staates ist von der Staatsanwaltschaft Gera offiziell eingestellt worden. Die Behörde begründete diesen Schritt unter anderem mit einem Hinweis auf andere vorliegende Verurteilungen. Nähere Details zu den konkreten Äußerungen, die den Anfangsverdacht ausgelöst hatten, wurden in den Berichten zunächst nicht genannt. Durch die Einstellung hat das Verfahren für den Politiker vorerst keine strafrechtlichen Konsequenzen. Offen bleibt, ob in ähnlichen Fällen künftig weiter ermittelt wird oder wie politische Konkurrenten auf die Entscheidung reagieren.",
-    "r": "Die Einstellung eines Verfahren gegen einen prominenten Landespolitiker wie Björn Höcke berührt Fragen der Meinungsfreiheit und der strafrechtlichen Ahndung von Staatsverunglimpfung. Die Entscheidung der Justiz beendet einen potenziell brisanten Fall ohne rechtliche Folgen für den Beschuldigten.",
-    "srcs": [
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/politik/deutschland/2026-10/staatsanwaltschaft-gera-bjoern-hoecke-afd-verfahren-einstellung-sa-parole",
-        "date": "2026-10-02T09:20:59.000Z"
-      },
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/vermischtes/kriminalitaet/article6abf6ee4863d7086e2273317/hoecke-verdacht-auf-verunglimpfung-des-staates-staatsanwaltschaft-stellt-verfahren-gegen-afd-politiker-ein.html",
-        "date": "2026-10-02T09:15:21.000Z"
-      }
-    ],
-    "url": "https://www.zeit.de/politik/deutschland/2026-10/staatsanwaltschaft-gera-bjoern-hoecke-afd-verfahren-einstellung-sa-parole",
-    "agree": "Die Staatsanwaltschaft Gera hat das Verfahren gegen den AfD-Politiker Björn Höcke wegen des Verdachts der Verunglimpfung des Staates eingestellt.",
-    "diff": [
-      {
-        "name": "ZEIT ONLINE",
-        "note": "Berichtet allgemein über die Einstellung des Verfahrens und die Rolle der Staatsanwaltschaft Gera."
-      },
-      {
-        "name": "WELT",
-        "note": "Ergänzt, dass das Verfahren folgenlos bleibt und die Einstellung mit einem Hinweis auf andere Verurteilungen erklärt wird."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-73fce336edcb9a8f",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-02T09:17:23.000Z",
-    "p": 4,
-    "st": "BW",
-    "city": "",
-    "t": "Warenhauskette Galeria stellt zum vierten Mal Insolvenz an",
-    "s": "Die angeschlagene Warenhauskette Galeria Karstadt Kaufhof hat erneut Insolvenz angemeldet. Dies ist bereits der vierte Insolvenzantrag des Unternehmens innerhalb von sechs Jahren. Von der Krise sind rund 12.000 Beschäftigte und 83 Filialen betroffen. Der laufende Geschäftsbetrieb soll zunächst uneingeschränkt fortgeführt werden.",
-    "m": "Die Warenhauskette Galeria hat beim Amtsgericht Düsseldorf die Eröffnung eines Insolvenzverfahrens beantragt. Das Unternehmen erhofft sich durch diesen Schritt mehr finanzielle Stabilität für die Zukunft. Die bislang letzte Insolvenz des Handelskonzerns lag erst zweieinhalb Jahre zurück. Derzeit müssen rund 12.000 Mitarbeiter in 83 Filialen um ihre Arbeitsplätze bangen. Ob es im Zuge des Verfahrens zu Standortschließungen kommen wird, ist zum aktuellen Zeitpunkt noch völlig offen. Der Betrieb in allen Filialen läuft trotz des Antrags vorerst weiter. Die Zukunft des traditionsreichen Warenhauskonzerns und seiner Belegschaft ist damit erneut ungewiss.",
-    "r": "Die erneute Insolvenz einer großen deutschen Warenhauskette betrifft tausende Arbeitsplätze und zahlreiche Innenstädte. Der Vorgang beleuchtet die anhaltenden Strukturkrisen im stationären deutschen Einzelhandel.",
-    "srcs": [
-      {
-        "name": "Tagesschau Regional Baden-Württemberg",
-        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-warenhauskette-galeria-stellt-erneut-insolvenzantrag-100.html",
-        "date": "2026-10-02T09:17:23.000Z"
-      },
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/wirtschaft/galeria-stellt-erneut-insolvenzantrag-MJVWYWLHHZFU7HJLIXDRBFIQFI.html",
-        "date": "2026-10-02T08:39:06.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/wirtschaft/unternehmen/galeria-warenhauskette-stellt-erneut-insolvenzantrag-a-a2e72dff-78c8-461a-8bc2-4a2294a69c60#ref=rss",
-        "date": "2026-10-02T08:14:00.000Z"
-      },
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/wirtschaft/Galeria-stellt-erneut-Insolvenzantrag-id31373202.html",
-        "date": "2026-10-02T08:01:53.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-warenhauskette-galeria-stellt-erneut-insolvenzantrag-100.html",
-    "agree": "Alle Quellen stimmen überein, dass die Warenhauskette Galeria erneut Insolvenz beantragt hat und die Zukunft von rund 12.000 Beschäftigten ungewiss ist.",
-    "diff": [
-      {
-        "name": "Tagesschau Regional Baden-Württemberg",
-        "note": "nennt konkret 83 betroffene Filialen"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "nennt das zuständige Amtsgericht in Düsseldorf und dass das Unternehmen sich mehr Stabilität erhofft"
-      },
-      {
-        "name": "ntv",
-        "note": "gibt an, dass es sich um den vierten Insolvenzantrag innerhalb von sechs Jahren handelt und Schließungen noch offen sind"
-      }
-    ],
-    "chg": "",
-    "independent": 4
-  },
-  {
-    "id": "story-6e32632ff0051a96",
-    "c": "INT",
-    "o": "INT",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-02T09:00:00.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Pro-demokratische Aktivisten in Asien geraten ins Visier autoritärer Staaten",
-    "s": "Pro-demokratische Aktivisten in Asien sind zunehmend von autoritären Regierungen bedroht. Menschenrechtsorganisationen schlagen Alarm wegen einer wachsenden grenzüberschreitenden Repression. Aktivisten werden aktiv verfolgt und geraten auch über Landesgrenzen hinweg in Gefahr.",
-    "m": "Aktivisten für die Demokratie in Asien stehen unter starkem Druck und sind durch autoritäre Regierungen extrem gefährdet. Menschenrechtsgruppen warnen vor einem regelrechten Tauschmarkt der Unterdrückung in Südostasien. Dabei machen nationale Grenzen keinen Schutz mehr aus, da Verfolgte international aufgespürt werden. Autoritäre Staaten arbeiten offenbar verstärkt zusammen, um oppositionelle Stimmen zum Schweigen zu bringen. Die Situation verschärft die Sicherheitslage für politische Dissidenten massiv. Konkrete Zahlen zu den Opfern oder betroffenen Ländern nennen die Berichte im Detail nicht. Offen bleibt, welche konkreten Gegenmaßnahmen die internationale Gemeinschaft ergreifen kann oder will.",
-    "r": "Die Meldung ist relevant, da sie eine zunehmende Bedrohung für grundlegende Menschenrechte und politische Aktivisten in einer ganzen Weltregion aufzeigt. Sie verdeutlicht neue Formen der internationalen Zusammenarbeit autoritärer Staaten zur Verfolgung von Oppositionellen.",
-    "srcs": [
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTmVveHZnNWE2cTBUUHoxV0dxclA0VFZfSGN3cjluOHJpbVZheUU2UWVTUG85TW40eW1vdWZKdXRyMm45M3UxVm1JbkpkeWpDdFZpM241QURHbmZOaHRiMVhIaGJ0dmpzVEFnOHFTbExvbEYyUzNKRWc3VjFZanBFdWU0QTZCM1JEVEtoRllEWUszbnl4ZEdwakM5WEl0WjVvVlhDQmtFWU9lNElUUi1SWEV0LXllTmNxdVJic1VuLUZYTmg0NXc?oc=5",
-        "date": "2026-10-02T09:00:00.000Z"
-      },
-      {
-        "name": "NPR World",
-        "url": "https://www.npr.org/2026/10/02/g-s1-146064/pro-democracy-activists-asia-authoritarian-governments",
-        "date": "2026-10-02T09:00:00.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTmVveHZnNWE2cTBUUHoxV0dxclA0VFZfSGN3cjluOHJpbVZheUU2UWVTUG85TW40eW1vdWZKdXRyMm45M3UxVm1JbkpkeWpDdFZpM241QURHbmZOaHRiMVhIaGJ0dmpzVEFnOHFTbExvbEYyUzNKRWc3VjFZanBFdWU0QTZCM1JEVEtoRllEWUszbnl4ZEdwakM5WEl0WjVvVlhDQmtFWU9lNElUUi1SWEV0LXllTmNxdVJic1VuLUZYTmg0NXc?oc=5",
-    "agree": "Die Quellen stimmen darin überein, dass pro-demokratische Aktivisten in Asien durch autoritäre Regierungen zunehmend gefährdet sind.",
-    "diff": [
-      {
-        "name": "Google News World",
-        "note": "Der Titel verweist darauf, dass Aktivisten zunehmend anfällig für autoritäre Regierungen in Asien sind."
-      },
-      {
-        "name": "NPR World",
-        "note": "Berichtet konkret, dass Aktivisten über internationale Grenzen hinweg gejagt werden und erwähnt eine Warnung von Menschenrechtsgruppen vor einem 'Tauschmarkt' der Repression in Südostasien."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-f8f1746266c60ddb",
-    "c": "INT",
-    "o": "INT",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-02T08:54:00.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "USA drängen Europa zur Freigabe von Dieselreserven wegen Exportdrohung",
-    "s": "Die Vereinigten Staaten haben europäische Verbündete dazu aufgefordert, sofort strategische Dieselreserven freizugeben. Hintergrund sind steigende Preise, die durch den US-Krieg gegen den Iran angetrieben werden. EU-Staaten wollen am Freitag über eine koordinierte Reaktion beraten.",
-    "m": "Die USA erhöhen den Druck auf Europa, nachdem US-Präsident Donald Trump angedeutet hatte, US-Dieselexporte verbieten zu können. Washington drängt am Donnerstag auf die sofortige Freigabe von strategischen Dieselreserven, um die durch den US-Krieg gegen den Iran in die Höhe getriebenen Preise einzudämmen. Als Reaktion auf diese Entwicklung planen die EU-Staaten für Freitag Gespräche über ein koordiniertes Vorgehen. Offen ist bislang, wie die europäischen Staaten auf die konkrete Forderung und die Exportdrohung reagieren werden.",
-    "r": "Die Drohung eines Exportverbots und die Forderung nach der Freigabe strategischer Reserven berühren die Energiesicherheit und Preisstabilität in Europa. Ein koordiniertes Vorgehen der EU-Staaten ist zur Bewältigung der Situation geplant.",
-    "srcs": [
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmLXJSbHVLLUJXYlVhQ2ZZNnRkVmxXU3JXTHdjWkFKbHZzSjJWOXdELXJRRUhBMjZZaXpTOWp6dFA4ekdwTnh3VEVpd3V5UlRpdTNPYVljY1Bod1U?oc=5",
-        "date": "2026-10-02T08:54:00.000Z"
-      },
-      {
-        "name": "France24 English",
-        "url": "https://www.france24.com/en/europe/20261001-us-europe-diesel-reserves-fuel-prices",
-        "date": "2026-10-01T22:08:51.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmLXJSbHVLLUJXYlVhQ2ZZNnRkVmxXU3JXTHdjWkFKbHZzSjJWOXdELXJRRUhBMjZZaXpTOWp6dFA4ekdwTnh3VEVpd3V5UlRpdTNPYVljY1Bod1U?oc=5",
-    "agree": "Die Quellen stimmen überein, dass die USA Europa zur Freigabe strategischer Dieselreserven drängen und Donald Trump mit einem Exportverbot droht.",
-    "diff": [
-      {
-        "name": "Google News World",
-        "note": "Verweist auf die Berichterstattung der BBC zum Thema."
-      },
-      {
-        "name": "France24 English",
-        "note": "Nennt den Donnerstag als Zeitpunkt der Aufforderung, den Freitag für das EU-Treffen und führt den US-Krieg gegen den Iran als Preistreiber an."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-026371c79c54087e",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-02T08:51:12.000Z",
-    "p": 2,
-    "st": "RP",
-    "city": "",
-    "t": "Einkaufen am Tag der Deutschen Einheit in Rheinland-Pfalz",
-    "s": "Der Tag der Deutschen Einheit fällt in diesem Jahr auf einen Samstag. Der 3. Oktober ist ein bundesweiter Feiertag, der normalerweise ein klassischer Einkaufstag ist. Viele Bürger stellen sich daher die Frage, welche Geschäfte in Rheinland-Pfalz geöffnet haben.",
-    "m": "Am 3. Oktober wird der Tag der Deutschen Einheit gefeiert, der in diesem Jahr auf einen Samstag fällt. Da Samstage im Handel üblicherweise zu den stärksten Einkaufstagen gehören, sorgt der Feiertag für Klärungsbedarf bei den Verbrauchern. Grundsätzlich bleiben die meisten Geschäfte an gesetzlichen Feiertagen geschlossen. Es gibt jedoch gesetzliche Ausnahmeregelungen für bestimmte Branchen wie Bäckereien, Tankstellen oder Geschäfte an Bahnhöfen. Die genauen Regelungen und Öffnungszeiten hängen oft von regionalen Besonderheiten und den jeweiligen Sondergenehmigungen ab.",
-    "r": "Die Regelungen zum Einkaufen an gesetzlichen Feiertagen betreffen die Verbraucher und den Einzelhandel direkt. Da der Feiertag auf einen Samstag fällt, hat dies spürbare Auswirkungen auf die gewohnten Einkaufsmöglichkeiten.",
-    "srcs": [
-      {
-        "name": "Tagesschau Regional Rheinland-Pfalz",
-        "url": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-einkaufen-am-tag-der-deutschen-einheit-was-am-samstag-in-rlp-geoeffnet-ist-100.html",
-        "date": "2026-10-02T08:51:12.000Z"
-      },
-      {
-        "name": "SWR Aktuell",
-        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/tag-der-deutschen-einheit-wo-kann-ich-trotz-feiertag-einkaufen-100.html",
-        "date": "2026-10-02T08:51:12.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-einkaufen-am-tag-der-deutschen-einheit-was-am-samstag-in-rlp-geoeffnet-ist-100.html",
-    "agree": "Die Quellen sind sich einig, dass der Tag der Deutschen Einheit am 3. Oktober in diesem Jahr auf einen Samstag fällt und dies ein klassischer Einkaufstag ist.",
-    "diff": [
-      {
-        "name": "Tagesschau Regional Rheinland-Pfalz",
-        "note": "Fokussiert im Titel auf die Frage, was am Samstag in Rheinland-Pfalz geöffnet ist."
-      },
-      {
-        "name": "SWR Aktuell",
-        "note": "Formuliert im Titel die Fragestellung spezifisch als 'Was geht, was geht nicht'."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-773de54fe90a9cf6",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-02T08:42:54.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Markus Lanz befragt CDU-Politiker Sven Schulze zu möglichem AfD-Umgang",
-    "s": "In der Talkshow von Markus Lanz wurde der CDU-Politiker Sven Schulze nach der Wahlschlappe in Sachsen-Anhalt ins Kreuzverhör genommen. Im Fokus stand dabei die Frage, ob im Zweifel mit der AfD abgestimmt werden würde. Schulze antwortete auf diese Frage ausweichend.",
-    "m": "Der Moderator Markus Lanz konfrontierte den CDU-Politiker Sven Schulze in seiner Sendung mit Fragen zur künftigen politischen Ausrichtung und einem möglichen Umgang mit der AfD. Hintergrund ist die jüngste Wahlschlappe in Sachsen-Anhalt, die den Druck auf die Union erhöht. Schulze vermied im Verlauf der Befragung eine klare Festlegung und antwortete ausweichend auf die konkrete Frage, ob eine Abstimmung mit der AfD in Betracht gezogen werden könnte. Moderator Lanz wertete diesen Auftritt und die Äußerungen so, dass dabei etwas ins Wanken gerate. Weitere konkrete Details zum zeitlichen Ablauf oder Beschlüssen wurden in den Berichten nicht genannt.",
-    "r": "Die Diskussion beleuchtet strategische Richtungsfragen der CDU im Umgang mit der AfD nach Wahlergebnissen. Solche Debatten sind von Bedeutung für die politische Dynamik und künftige parlamentarische Mehrheitsfindungen in Deutschland.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNaE1tV2M1RXpSV2hSclB4ck5HVlFfZU9pQ29vbzZzSjN5NWZPcGpUUE45a2F3ak1rNi13dWNiekxJeDR5S21UUFoxN00ycjFvckxiQVpDalJRNG9BV25rMlRpWTk1cEFaOUFDUzBTVXBnY3hZUERFSEFJN0FGT0hJSzAxdVVDMFE4aENpeGtQb21wQ1BmR1VCMm1NLWRUbE8yM1dZYmNUUDVjVVNZQTVHcUdKQVhvd3lGQUNHaldNYVVVVEwxYzFfUENoM1hGTkZBU1dPWl9uM21kWFpHY3d3dXdpRVBfTktsMlVXdGhMbllBQXNTSzRLV1FDVWZva1VoZ1Vob2RB?oc=5",
-        "date": "2026-10-02T08:42:54.000Z"
-      },
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/politik/deutschland/article6abf53511f9e47943a239213/markus-lanz-wuerden-sie-im-zweifel-mit-der-afd-abstimmen-fragt-lanz-schulze-deutet-neuen-umgang-an.html",
-        "date": "2026-10-02T08:39:43.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNaE1tV2M1RXpSV2hSclB4ck5HVlFfZU9pQ29vbzZzSjN5NWZPcGpUUE45a2F3ak1rNi13dWNiekxJeDR5S21UUFoxN00ycjFvckxiQVpDalJRNG9BV25rMlRpWTk1cEFaOUFDUzBTVXBnY3hZUERFSEFJN0FGT0hJSzAxdVVDMFE4aENpeGtQb21wQ1BmR1VCMm1NLWRUbE8yM1dZYmNUUDVjVVNZQTVHcUdKQVhvd3lGQUNHaldNYVVVVEwxYzFfUENoM1hGTkZBU1dPWl9uM21kWFpHY3d3dXdpRVBfTktsMlVXdGhMbllBQXNTSzRLV1FDVWZva1VoZ1Vob2RB?oc=5",
-    "agree": "Beide Quellen berichten über die Befragung von Sven Schulze durch Markus Lanz, bei der es um einen möglichen Umgang mit der AfD ging.",
-    "diff": [],
     "chg": "",
     "independent": 2
   }
