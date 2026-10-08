@@ -1,56 +1,731 @@
 [
   {
-    "id": "story-98",
-    "topic": "panorama",
+    "id": "story-125",
+    "topic": "politik",
     "country": "DE",
-    "stateHint": "HH",
-    "date": "2026-10-07T09:13:22.000Z",
+    "stateHint": "",
+    "date": "2026-10-07T23:37:00.000Z",
     "sources": [
       {
-        "source": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/mobilitaet/2026-10/bahnstrecke-hannover-hamburg-neubautrasse-deutsche-bahn-bundestag",
-        "date": "2026-10-07T09:13:22.000Z",
-        "snippet": "Der Verkehrsausschuss hat die Planungen für den Neubau der wichtigen Strecke zwischen Hamburg und Hannover gebilligt. Damit solle ein »jahrelanger Stillstand« enden.",
-        "title": "Bahnstrecke Hannover–Hamburg: Verkehrsausschuss stimmt für Neubaustrecke Hannover-Hamburg"
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOEFUVzBVSHJ5aVBXY1AtSHZiSXFpU1Y3dEV2US0xU25yeHJFdFIyQzdLZDg2T2JCUjhCYjJ3ZVNYOTlzZWd6dFRaWGN5MzZxbC02WFdKbWJYRFpnc2txV1cwWFJBVVRvS25HaVVQYmJSQWdpZk5rVWVKc25sd3gteFMxWFBCREsxa1Q1ZXZoQWpfdDRGMWxTTGRkUmZrb21yVl94STlIbFBCVURKYTdDQVRlX3NXeUt1LXFJQld4OG91eklpN1c4S2gwRTdIQmNW?oc=5",
+        "date": "2026-10-07T23:37:00.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOEFUVzBVSHJ5aVBXY1AtSHZiSXFpU1Y3dEV2US0xU25yeHJFdFIyQzdLZDg2T2JCUjhCYjJ3ZVNYOTlzZWd6dFRaWGN5MzZxbC02WFdKbWJYRFpnc2txV1cwWFJBVVRvS25HaVVQYmJSQWdpZk5rVWVKc25sd3gteFMxWFBCREsxa1Q1ZXZoQWpfdDRGMWxTTGRkUmZrb21yVl94STlIbFBCVURKYTdDQVRlX3NXeUt1LXFJQld4OG91eklpN1c4S2gwRTdIQmNW?oc=5\" target=\"_blank\">US-Demokraten verklagen Trump wegen Wahlwerbung aus Steuergeldern</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQbE1oUjY0RjdRdlV6anQ5eFRHeEUzVy1WQ3ZRRklnUzhXaUZDTmtUWG84c3FFTkJ4R2o2SFdYVkhlWkdSaGVUb3dxdWlXbXpKVVJsR3dIaXhmNlFBaDBzdnVoRzE1azJTc3U1LW5iXzRDY0MyZE5Ld2p",
+        "title": "US-Demokraten verklagen Trump wegen Wahlwerbung aus Steuergeldern - Spiegel"
       },
       {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/wirtschaft/bahn-neubaustrecke-100.html",
-        "date": "2026-10-07T08:58:04.000Z",
-        "snippet": "Die Bahnstrecke Hamburg-Hannover ist sehr wichtig für den Personen- und Güterverkehr - aber auch überlastet. Der Verkehrsausschuss des Bundestags stimmte nun für eine Neubaustrecke. Gegen das Projekt gibt es Widerstand.",
-        "title": "Verkehrsausschuss stimmt für Bahn-Neubaustrecke Hamburg-Hannover"
-      },
-      {
-        "source": "Tagesschau Regional Hamburg",
-        "url": "https://www.tagesschau.de/inland/regional/niedersachsen/verkehrsausschuss-stimmt-fuer-neubaustrecke-hannover-hamburg,neubaustrecke-132.html",
-        "date": "2026-10-07T08:45:46.000Z",
-        "snippet": "Lange wurde über die umstrittene Bahntrasse beraten. Heute hat der Verkehrsausschuss dafür gestimmt, morgen entscheidet der Bundestag.",
-        "title": "Bahnstrecke Hannover-Hamburg: Verkehrsausschuss stimmt dafür"
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/us-demokraten-verklagen-trump-wegen-wahlwerbung-aus-steuergeldern-a-0b8ed0d9-a241-4154-85a4-b3a2248af262#ref=rss",
+        "date": "2026-10-07T23:37:00.000Z",
+        "snippet": "In hinreichend schrägen Werbespots wirbt Donald Trump derzeit um Stimmen bei den Zwischenwahlen – mit dem Disclaimer: »Finanziert von der US-Regierung«. Deshalb schicken die Demokraten jetzt ihre Anwälte los.",
+        "title": "US-Demokraten verklagen Trump wegen Wahlwerbung aus Steuergeldern"
       },
       {
         "source": "RND",
-        "url": "https://www.rnd.de/wirtschaft/bahnstrecke-hannover-hamburg-weg-frei-fuer-neubaustrecke-ZXIOW5LQ7VE3LCAGANAHU5UWFA.html",
-        "date": "2026-10-07T08:38:31.000Z",
-        "snippet": "Im jahrelangen Streit über eine Modernisierung auf der wichtigen Nord-Süd-Achse gibt es eine Entscheidung: Eine neue Strecke soll gebaut werden.",
-        "title": "Bahnstrecke Hannover-Hamburg: Weg frei für Neubaustrecke"
+        "url": "https://www.rnd.de/politik/usa-demokraten-verklagen-trump-wegen-tv-wahlwerbung-BTMEBVGGDJBMZCOWZYDKEPKPB4.html",
+        "date": "2026-10-07T22:24:02.000Z",
+        "snippet": "Wenige Wochen vor den Kongresswahlen inszenieren aktuell mehrere Videos US-Präsident Trump als antikommunistisches Bollwerk. Kritik daran gibt es schon länger – nun folgt eine Klage.",
+        "title": "USA: Demokraten verklagen Trump wegen TV-Wahlwerbung"
       }
     ],
-    "title": "Bahnstrecke Hannover–Hamburg: Verkehrsausschuss stimmt für Neubaustrecke Hannover-Hamburg",
-    "summary": "Bahnstrecke Hannover–Hamburg: Verkehrsausschuss stimmt für Neubaustrecke Hannover-Hamburg Der Verkehrsausschuss hat die Planungen für den Neubau der wichtigen Strecke zwischen Hamburg und Hannover gebilligt. Damit solle ein »jahrelanger Stillstand« enden.\nVerkehrsausschuss stimmt für Bahn-Neubaustrecke Hamburg-Hannover Die Bahnstrecke Hamburg-Hannover ist sehr wichtig für den Personen- und Güterverkehr - aber auch überlastet. Der Verkehrsausschuss des Bundestags stimmte nun für eine Neubaustrecke. Gegen das Projekt gibt es Widerstand.\nBahnstrecke Hannover-Hamburg: Verkehrsausschuss stimmt dafür Lange wurde über die umstrittene Bahntrasse beraten. Heute hat der Verkehrsausschuss dafür gestimmt, morgen entscheidet der Bundestag.\nBahnstrecke Hannover-Hamburg: Weg frei für Neubaustrecke Im jahrelangen Streit über eine Modernisierung auf der wichtigen Nord-Süd-Achse gibt es eine Entscheidung: Eine neue Strecke soll gebaut werden."
+    "title": "US-Demokraten verklagen Trump wegen Wahlwerbung aus Steuergeldern - Spiegel",
+    "summary": "US-Demokraten verklagen Trump wegen Wahlwerbung aus Steuergeldern - Spiegel <ol><li><a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOEFUVzBVSHJ5aVBXY1AtSHZiSXFpU1Y3dEV2US0xU25yeHJFdFIyQzdLZDg2T2JCUjhCYjJ3ZVNYOTlzZWd6dFRaWGN5MzZxbC02WFdKbWJYRFpnc2txV1cwWFJBVVRvS25HaVVQYmJSQWdpZk5rVWVKc25sd3gteFMxWFBCREsxa1Q1ZXZoQWpfdDRGMWxTTGRkUmZrb21yVl94STlIbFBCVURKYTdDQVRlX3NXeUt1LXFJQld4OG91eklpN1c4S2gwRTdIQmNW?oc=5\" target=\"_blank\">US-Demokraten verklagen Trump wegen Wahlwerbung aus Steuergeldern</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQbE1oUjY0RjdRdlV6anQ5eFRHeEUzVy1WQ3ZRRklnUzhXaUZDTmtUWG84c3FFTkJ4R2o2SFdYVkhlWkdSaGVUb3dxdWlXbXpKVVJsR3dIaXhmNlFBaDBzdnVoRzE1azJTc3U1LW5iXzRDY0MyZE5Ld2p\nUS-Demokraten verklagen Trump wegen Wahlwerbung aus Steuergeldern In hinreichend schrägen Werbespots wirbt Donald Trump derzeit um Stimmen bei den Zwischenwahlen – mit dem Disclaimer: »Finanziert von der US-Regierung«. Deshalb schicken die Demokraten jetzt ihre Anwälte los.\nUSA: Demokraten verklagen Trump wegen TV-Wahlwerbung Wenige Wochen vor den Kongresswahlen inszenieren aktuell mehrere Videos US-Präsident Trump als antikommunistisches Bollwerk. Kritik daran gibt es schon länger – nun folgt eine Klage."
   },
   {
-    "id": "story-9",
+    "id": "story-277",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "",
-    "date": "2026-10-07T09:30:02.000Z",
+    "date": "2026-10-07T20:17:43.000Z",
+    "sources": [
+      {
+        "source": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/politik/ausland/maricarmen-abascal-zwangsgeraeumte-spanierin-gestorben-201297841.html",
+        "date": "2026-10-07T20:17:43.000Z",
+        "snippet": "Wegen einer Mieterhöhung musste Maricarmen nach mehr als 70 Jahren ihre Wohnung verlassen. Nach Massenprotesten sollte sie zurückkehren, nun ist sie gestorben.",
+        "title": "Mit 87 Jahren: Zwangsgeräumte Spanierin Maricarmen gestorben"
+      },
+      {
+        "source": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/ausland/maricarmen-spanien-zwangsraeumung-tot-miete-100.html",
+        "date": "2026-10-07T19:37:00.000Z",
+        "snippet": "Ihr Fall löste landesweit Empörung aus: Mit 87 Jahren musste Maricarmen Abascal ihre Wohnung verlassen, da sie die erhöhte Miete nicht bezahlen konnte. Nun ist sie verstorben.",
+        "title": "Zwangsgeräumte Spanierin Maricarmen ist gestorben"
+      },
+      {
+        "source": "Rheinische Post",
+        "url": "https://rp-online.de/politik/ausland/mieterverband-zwangsgeraeumte-spanierin-maricarmen-gestorben_aid-156147479",
+        "date": "2026-10-07T19:12:25.000Z",
+        "snippet": "Die Zwangsräumung ihrer Wohnung in Madrid hat Massenproteste ausgelöst. Nun ist die 87-jährige Maricarmen Abascal laut Mieterverband gestorben.",
+        "title": "Laut Mieterverband: Zwangsgeräumte Spanierin Maricarmen gestorben"
+      }
+    ],
+    "title": "Mit 87 Jahren: Zwangsgeräumte Spanierin Maricarmen gestorben",
+    "summary": "Mit 87 Jahren: Zwangsgeräumte Spanierin Maricarmen gestorben Wegen einer Mieterhöhung musste Maricarmen nach mehr als 70 Jahren ihre Wohnung verlassen. Nach Massenprotesten sollte sie zurückkehren, nun ist sie gestorben.\nZwangsgeräumte Spanierin Maricarmen ist gestorben Ihr Fall löste landesweit Empörung aus: Mit 87 Jahren musste Maricarmen Abascal ihre Wohnung verlassen, da sie die erhöhte Miete nicht bezahlen konnte. Nun ist sie verstorben.\nLaut Mieterverband: Zwangsgeräumte Spanierin Maricarmen gestorben Die Zwangsräumung ihrer Wohnung in Madrid hat Massenproteste ausgelöst. Nun ist die 87-jährige Maricarmen Abascal laut Mieterverband gestorben."
+  },
+  {
+    "id": "story-3",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-08T02:03:46.000Z",
+    "sources": [
+      {
+        "source": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/merz-haelt-auch-false-flag-aktion-bei-wahl-von-afd-politiker-fuer-moeglich-102.html",
+        "date": "2026-10-08T02:03:46.000Z",
+        "snippet": "Nach der Wahl des AfD-Politikers Rausch zum Präsidenten des Landtags in Sachsen-Anhalt hat Bundeskanzler Merz angedeutet, dass dieser auch von SPD, Grünen oder der Linken Stimmen erhalten haben könnte. Dass CDU-Abgeordnete für Rausch gestimmt haben könnten, nannte Merz mit den Werten der CDU nicht vereinbar. Rausch selbst geht von Stimmen aus der CDU aus.",
+        "title": "Landtag Sachsen-Anhalt - Merz hält auch \"False-Flag\"-Aktion bei Wahl von AfD-Politiker für möglich"
+      },
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd2ZnbnVDYk5kUWk4SWhER2JiUjRLcFhFRVRkS0dDX3ZSNEQySUxQMEl1SUxUQVBiOUlrVVJuc0NvU19rdUw0X0QzYUpUYnZUY3JCSFdWWVRabGpqUm93cHUtX1FEQ2l4V2QzMl8tQ1dUMlNLVk9KQkVMZ1NSSzc3aG1wclFNR2NnZnZVUkFQODZCOVdvT1NPVDhHU0ZhNzFBS2t2YUZwMjA3TGdsSFJkZ2RMZlo?oc=5",
+        "date": "2026-10-08T01:53:50.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNd2ZnbnVDYk5kUWk4SWhER2JiUjRLcFhFRVRkS0dDX3ZSNEQySUxQMEl1SUxUQVBiOUlrVVJuc0NvU19rdUw0X0QzYUpUYnZUY3JCSFdWWVRabGpqUm93cHUtX1FEQ2l4V2QzMl8tQ1dUMlNLVk9KQkVMZ1NSSzc3aG1wclFNR2NnZnZVUkFQODZCOVdvT1NPVDhHU0ZhNzFBS2t2YUZwMjA3TGdsSFJkZ2RMZlo?oc=5\" target=\"_blank\">Landtag Sachsen-Anhalt - Merz hält auch \"False-Flag\"-Aktion bei Wahl von AfD-Politiker für möglich</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deutschlandfunk</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZFBHSWxQVVBaT3pNNE9QU0lkMUYxNE5JSG5qSGpPY2t6cVVySGN3UDlCNjVHNHR5SHF1Ujl0UWJpODdkcWNvWkR3b0RoSXJSajEyTUZBNFRsNnNuajh6TmNrUF9kZkVyY2hoWW1oTVdzUE45dHJ",
+        "title": "Landtag Sachsen-Anhalt - Merz hält auch \"False-Flag\"-Aktion bei Wahl von AfD-Politiker für möglich - Deutschlandfunk"
+      }
+    ],
+    "title": "Landtag Sachsen-Anhalt - Merz hält auch \"False-Flag\"-Aktion bei Wahl von AfD-Politiker für möglich",
+    "summary": "Landtag Sachsen-Anhalt - Merz hält auch \"False-Flag\"-Aktion bei Wahl von AfD-Politiker für möglich Nach der Wahl des AfD-Politikers Rausch zum Präsidenten des Landtags in Sachsen-Anhalt hat Bundeskanzler Merz angedeutet, dass dieser auch von SPD, Grünen oder der Linken Stimmen erhalten haben könnte. Dass CDU-Abgeordnete für Rausch gestimmt haben könnten, nannte Merz mit den Werten der CDU nicht vereinbar. Rausch selbst geht von Stimmen aus der CDU aus.\nLandtag Sachsen-Anhalt - Merz hält auch \"False-Flag\"-Aktion bei Wahl von AfD-Politiker für möglich - Deutschlandfunk <ol><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNd2ZnbnVDYk5kUWk4SWhER2JiUjRLcFhFRVRkS0dDX3ZSNEQySUxQMEl1SUxUQVBiOUlrVVJuc0NvU19rdUw0X0QzYUpUYnZUY3JCSFdWWVRabGpqUm93cHUtX1FEQ2l4V2QzMl8tQ1dUMlNLVk9KQkVMZ1NSSzc3aG1wclFNR2NnZnZVUkFQODZCOVdvT1NPVDhHU0ZhNzFBS2t2YUZwMjA3TGdsSFJkZ2RMZlo?oc=5\" target=\"_blank\">Landtag Sachsen-Anhalt - Merz hält auch \"False-Flag\"-Aktion bei Wahl von AfD-Politiker für möglich</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deutschlandfunk</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZFBHSWxQVVBaT3pNNE9QU0lkMUYxNE5JSG5qSGpPY2t6cVVySGN3UDlCNjVHNHR5SHF1Ujl0UWJpODdkcWNvWkR3b0RoSXJSajEyTUZBNFRsNnNuajh6TmNrUF9kZkVyY2hoWW1oTVdzUE45dHJ"
+  },
+  {
+    "id": "story-12",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-08T02:03:46.000Z",
+    "sources": [
+      {
+        "source": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/drei-tote-und-mehr-als-30-verletzte-in-saudi-arabien-nach-huthi-angriffen-auf-flughaefen-100.html",
+        "date": "2026-10-08T02:03:46.000Z",
+        "snippet": "In Saudi-Arabien sind drei Menschen bei Angriffen auf die Flughäfen in Riad und Abha getötet worden.",
+        "title": "Riad und Abha - Drei Tote und mehr als 30 Verletzte in Saudi-Arabien nach Huthi-Angriffen auf Flughäfen"
+      },
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/saudi-arabien-huthi-miliz-bekennt-sich-zu-angriffen-auf-flughaefen-in-riad-und-abha-a-49e98df2-7b50-44ba-a1a6-c7d46e708db1#ref=rss",
+        "date": "2026-10-07T20:00:00.000Z",
+        "snippet": "Bei Raketentreffern sind auf zwei Flughäfen in Saudi-Arabien drei Menschen getötet und Dutzende weitere verletzt worden. Die Huthi-Miliz erklärte, sie habe die Attacken ausgeführt.",
+        "title": "Saudi-Arabien: Huthi-Miliz bekennt sich zu Angriffen auf Flughäfen in Riad und Abha"
+      }
+    ],
+    "title": "Riad und Abha - Drei Tote und mehr als 30 Verletzte in Saudi-Arabien nach Huthi-Angriffen auf Flughäfen",
+    "summary": "Riad und Abha - Drei Tote und mehr als 30 Verletzte in Saudi-Arabien nach Huthi-Angriffen auf Flughäfen In Saudi-Arabien sind drei Menschen bei Angriffen auf die Flughäfen in Riad und Abha getötet worden.\nSaudi-Arabien: Huthi-Miliz bekennt sich zu Angriffen auf Flughäfen in Riad und Abha Bei Raketentreffern sind auf zwei Flughäfen in Saudi-Arabien drei Menschen getötet und Dutzende weitere verletzt worden. Die Huthi-Miliz erklärte, sie habe die Attacken ausgeführt."
+  },
+  {
+    "id": "story-46",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-08T02:00:05.000Z",
     "sources": [
       {
         "source": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/ausland/asien/israel-gedenken-hamas-ueberfall-102.html",
-        "date": "2026-10-07T09:30:02.000Z",
-        "snippet": "Vor drei Jahren überfielen islamistische Terroristen Israel. Etwa 1.200 Menschen wurden getötet, Hunderte verschleppt. In Tel Aviv und an anderen Orten im Land wird der Opfer des …",
-        "title": "Israel gedenkt der Opfer des Hamas-Überfalls"
+        "url": "https://www.tagesschau.de/ausland/asien/israel-gedenktag-hamas-ueberfall-100.html",
+        "date": "2026-10-08T02:00:05.000Z",
+        "snippet": "Die Trauer über die mehr als 1200 Todesopfer vom 7. Oktober vor drei Jahren ist in Tel Aviv groß. 50.000 Menschen versammelten sich, um zu erinnern. Doch es kam auch zu Protesten.…",
+        "title": "Ein emotionaler Gedenktag in Israel geht zu Ende"
+      },
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/asien/israel-gedenktag-hamas-ueberfall-100.html",
+        "date": "2026-10-08T01:35:58.000Z",
+        "snippet": "Die Trauer über die mehr als 1200 Todesopfer vom 7. Oktober vor drei Jahren ist in Tel Aviv groß. 50.000 Menschen versammelten sich, um zu erinnern. Doch es kam auch zu Protesten. Von F. von Boeselager.",
+        "title": "Dritter Jahrestag des 7. Oktober: Ein emotionaler Gedenktag in Israel geht zu Ende"
+      }
+    ],
+    "title": "Ein emotionaler Gedenktag in Israel geht zu Ende",
+    "summary": "Ein emotionaler Gedenktag in Israel geht zu Ende Die Trauer über die mehr als 1200 Todesopfer vom 7. Oktober vor drei Jahren ist in Tel Aviv groß. 50.000 Menschen versammelten sich, um zu erinnern. Doch es kam auch zu Protesten.…\nDritter Jahrestag des 7. Oktober: Ein emotionaler Gedenktag in Israel geht zu Ende Die Trauer über die mehr als 1200 Todesopfer vom 7. Oktober vor drei Jahren ist in Tel Aviv groß. 50.000 Menschen versammelten sich, um zu erinnern. Doch es kam auch zu Protesten. Von F. von Boeselager."
+  },
+  {
+    "id": "story-57",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-08T01:47:35.000Z",
+    "sources": [
+      {
+        "source": "t-online Panorama",
+        "url": "https://www.t-online.de/nachrichten/panorama/ungluecke/id_101471434/brandenburg-auto-kracht-beim-ueberholen-in-mopeds-vier-tote.html",
+        "date": "2026-10-08T01:47:35.000Z",
+        "snippet": "In Brandenburg ist ein Auto beim Überholen in entgegenkommende Mopeds gekracht. Für vier Menschen kam jegliche Hilfe zu spät.",
+        "title": "Brandenburg: Auto kracht beim Überholen in Mopeds – vier Tote"
+      },
+      {
+        "source": "RND",
+        "url": "https://www.rnd.de/panorama/brandenburg-auto-kracht-beim-ueberholen-in-mopeds-vier-tote-bei-biesenthal-4YEWKBUICRAEFKQPP7YHZT4LO4.html",
+        "date": "2026-10-08T00:21:54.000Z",
+        "snippet": "Ein Autofahrer will auf einer Landstraße in Brandenburg mehrere Fahrzeuge überholen. Im Gegenverkehr kommen ihm mehrere Mopeds entgegen – drei Fahrer und eine Sozia der Kleinkrafträder überleben das Überholmanöver nicht.",
+        "title": "Brandenburg: Auto kracht beim Überholen in Mopeds – vier Tote bei Biesenthal"
+      }
+    ],
+    "title": "Brandenburg: Auto kracht beim Überholen in Mopeds – vier Tote",
+    "summary": "Brandenburg: Auto kracht beim Überholen in Mopeds – vier Tote In Brandenburg ist ein Auto beim Überholen in entgegenkommende Mopeds gekracht. Für vier Menschen kam jegliche Hilfe zu spät.\nBrandenburg: Auto kracht beim Überholen in Mopeds – vier Tote bei Biesenthal Ein Autofahrer will auf einer Landstraße in Brandenburg mehrere Fahrzeuge überholen. Im Gegenverkehr kommen ihm mehrere Mopeds entgegen – drei Fahrer und eine Sozia der Kleinkrafträder überleben das Überholmanöver nicht."
+  },
+  {
+    "id": "story-65",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-08T01:39:00.000Z",
+    "sources": [
+      {
+        "source": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/ausland/usa-demokraten-klage-trump-steuergelder-wahlwerbung-100.html",
+        "date": "2026-10-08T01:39:00.000Z",
+        "snippet": "Mit Botschaften wie \"Amerika wird niemals ein kommunistisches Land sein\" macht Trump Wahlwerbung - finanziert aus Haushaltsmitteln. Die Demokraten ziehen dagegen nun vor Gericht.",
+        "title": "Demokraten klagen gegen Trump wegen Wahlwerbung"
+      },
+      {
+        "source": "Süddeutsche Zeitung",
+        "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-pest-russland-putin-trump-wahlkampf-midterms-li.3558046",
+        "date": "2026-10-08T00:45:36.000Z",
+        "snippet": "Vor den Zwischenwahlen inszeniert sich der Präsident als antikommunistisches Bollwerk. Die Opposition wirft ihm vor, er verwende dafür Steuergeld.",
+        "title": "USA-Newsblog: Demokraten klagen gegen Trump wegen Wahlkampffinanzierung"
+      }
+    ],
+    "title": "Demokraten klagen gegen Trump wegen Wahlwerbung",
+    "summary": "Demokraten klagen gegen Trump wegen Wahlwerbung Mit Botschaften wie \"Amerika wird niemals ein kommunistisches Land sein\" macht Trump Wahlwerbung - finanziert aus Haushaltsmitteln. Die Demokraten ziehen dagegen nun vor Gericht.\nUSA-Newsblog: Demokraten klagen gegen Trump wegen Wahlkampffinanzierung Vor den Zwischenwahlen inszeniert sich der Präsident als antikommunistisches Bollwerk. Die Opposition wirft ihm vor, er verwende dafür Steuergeld."
+  },
+  {
+    "id": "story-82",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-08T01:02:21.000Z",
+    "sources": [
+      {
+        "source": "RND",
+        "url": "https://www.rnd.de/panorama/michael-jackson-thriller-jacke-soll-bei-auktion-rekordpreis-erzielen-44QM2GSBEJDWVKT2XGACQ27VNQ.html",
+        "date": "2026-10-08T01:02:21.000Z",
+        "snippet": "Die Lederjacke, die Michael Jackson 1983 in seinem berühmten „Thriller“-Video trug, kommt unter den Hammer. Bei der Versteigerung im Dezember wird ein Rekordpreis erwartet.",
+        "title": "Michael Jackson: „Thriller“-Jacke soll bei Auktion Rekordpreis erzielen"
+      },
+      {
+        "source": "stern",
+        "url": "https://www.stern.de/panorama/spannende-auktion--jacksons--thriller--jacke-wird-versteigert---rekordpreis--38364070.html",
+        "date": "2026-10-08T00:12:43.000Z",
+        "snippet": "Das könnte teuer werden: Die Lederjacke, die Michael Jackson 1983 in seinem berühmten „Thriller“-Video trug, kommt unter den Hammer. Bei der Versteigerung im Dezember wird ein Rekordpreis erwartet.",
+        "title": "Spannende Auktion: Jacksons „Thriller“-Jacke wird versteigert - Rekordpreis?"
+      }
+    ],
+    "title": "Michael Jackson: „Thriller“-Jacke soll bei Auktion Rekordpreis erzielen",
+    "summary": "Michael Jackson: „Thriller“-Jacke soll bei Auktion Rekordpreis erzielen Die Lederjacke, die Michael Jackson 1983 in seinem berühmten „Thriller“-Video trug, kommt unter den Hammer. Bei der Versteigerung im Dezember wird ein Rekordpreis erwartet.\nSpannende Auktion: Jacksons „Thriller“-Jacke wird versteigert - Rekordpreis? Das könnte teuer werden: Die Lederjacke, die Michael Jackson 1983 in seinem berühmten „Thriller“-Video trug, kommt unter den Hammer. Bei der Versteigerung im Dezember wird ein Rekordpreis erwartet."
+  },
+  {
+    "id": "story-94",
+    "topic": "politik",
+    "country": "INT",
+    "stateHint": "",
+    "date": "2026-10-08T00:46:00.000Z",
+    "sources": [
+      {
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORGdNMVFXMm53aEhaX0IwNk1FREVOMVBReWZWV3I4SndXR1RlY0p1ZjdfTVdjdW9oNUg5VkRRSW1TVlZXc2o3TW5ZUDNSMG5uVmw2dXdOWmlJc2VpdEJyY2h2TGk2TnpiVXBVUEtkRzRsR0JfRm5EQlNxeER3aGdYWW55UWRPVTl5OEhCSDBtS1dMa0tfV1k3MDgtUUYxSXBQcW9fT2FoYlQ0cHNmb0g4Mk5RNzF4TzJTUEpXOHdSTVhjeGlxYlE?oc=5",
+        "date": "2026-10-08T00:46:00.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxORGdNMVFXMm53aEhaX0IwNk1FREVOMVBReWZWV3I4SndXR1RlY0p1ZjdfTVdjdW9oNUg5VkRRSW1TVlZXc2o3TW5ZUDNSMG5uVmw2dXdOWmlJc2VpdEJyY2h2TGk2TnpiVXBVUEtkRzRsR0JfRm5EQlNxeER3aGdYWW55UWRPVTl5OEhCSDBtS1dMa0tfV1k3MDgtUUYxSXBQcW9fT2FoYlQ0cHNmb0g4Mk5RNzF4TzJTUEpXOHdSTVhjeGlxYlE?oc=5\" target=\"_blank\">Indian opposition leader Rahul Gandhi detained during protest against election chief</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Audacy</font>",
+        "title": "Indian opposition leader Rahul Gandhi detained during protest against election chief - Audacy"
+      },
+      {
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/7/indian-opposition-leader-rahul-gandhi-detained-over-election-chief-protest?traffic_source=rss",
+        "date": "2026-10-07T19:40:07.000Z",
+        "snippet": "Rahul Gandhi has been arrested several times at protests demanding the resignation of poll body chief.",
+        "title": "Indian opposition leader Rahul Gandhi detained over election chief protest"
+      }
+    ],
+    "title": "Indian opposition leader Rahul Gandhi detained during protest against election chief - Audacy",
+    "summary": "Indian opposition leader Rahul Gandhi detained during protest against election chief - Audacy <a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxORGdNMVFXMm53aEhaX0IwNk1FREVOMVBReWZWV3I4SndXR1RlY0p1ZjdfTVdjdW9oNUg5VkRRSW1TVlZXc2o3TW5ZUDNSMG5uVmw2dXdOWmlJc2VpdEJyY2h2TGk2TnpiVXBVUEtkRzRsR0JfRm5EQlNxeER3aGdYWW55UWRPVTl5OEhCSDBtS1dMa0tfV1k3MDgtUUYxSXBQcW9fT2FoYlQ0cHNmb0g4Mk5RNzF4TzJTUEpXOHdSTVhjeGlxYlE?oc=5\" target=\"_blank\">Indian opposition leader Rahul Gandhi detained during protest against election chief</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Audacy</font>\nIndian opposition leader Rahul Gandhi detained over election chief protest Rahul Gandhi has been arrested several times at protests demanding the resignation of poll body chief."
+  },
+  {
+    "id": "story-112",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-08T00:00:04.000Z",
+    "sources": [
+      {
+        "source": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/ausland/amerika/un-generalsekretaer-nachfolge-100.html",
+        "date": "2026-10-08T00:00:04.000Z",
+        "snippet": "Bei der UN ist weiterhin offen, wer neuer Generalsekretär wird. Die fünfzehn Mitgliedsstaaten im Sicherheitsrat konnten auch bei ihrer fünften Probeabstimmung keine Vorentscheidun…",
+        "title": "Wer wird Nachfolger von UN-Generalsekretär Guterres?"
+      },
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/amerika/un-generalsekretaer-nachfolge-100.html",
+        "date": "2026-10-07T23:25:54.000Z",
+        "snippet": "Bei der UN ist weiterhin offen, wer neuer Generalsekretär wird. Die fünfzehn Mitgliedsstaaten im Sicherheitsrat konnten auch bei ihrer fünften Probeabstimmung keine Vorentscheidung erreichen. Von M. Ganslmeier.",
+        "title": "Suche geht weiter: Wer wird Nachfolger von UN-Generalsekretär Guterres?"
+      }
+    ],
+    "title": "Wer wird Nachfolger von UN-Generalsekretär Guterres?",
+    "summary": "Wer wird Nachfolger von UN-Generalsekretär Guterres? Bei der UN ist weiterhin offen, wer neuer Generalsekretär wird. Die fünfzehn Mitgliedsstaaten im Sicherheitsrat konnten auch bei ihrer fünften Probeabstimmung keine Vorentscheidun…\nSuche geht weiter: Wer wird Nachfolger von UN-Generalsekretär Guterres? Bei der UN ist weiterhin offen, wer neuer Generalsekretär wird. Die fünfzehn Mitgliedsstaaten im Sicherheitsrat konnten auch bei ihrer fünften Probeabstimmung keine Vorentscheidung erreichen. Von M. Ganslmeier."
+  },
+  {
+    "id": "story-158",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-07T22:15:04.000Z",
+    "sources": [
+      {
+        "source": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/ausland/amerika/pike-hinrichtung-100.html",
+        "date": "2026-10-07T22:15:04.000Z",
+        "snippet": "Die verurteilte Mörderin Christa Pike sollte vergangene Woche hingerichtet werden - überlebte allerdings zwei Giftspritzen. Nun wurden Details über ihren Gesundheitszustand bekann…",
+        "title": "Anwälte sprechen über Pikes Gesundheitszustand"
+      },
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/amerika/pike-hinrichtung-100.html",
+        "date": "2026-10-07T22:05:42.000Z",
+        "snippet": "Die verurteilte Mörderin Christa Pike sollte vergangene Woche hingerichtet werden - überlebte allerdings zwei Giftspritzen. Nun wurden Details über ihren Gesundheitszustand bekannt - unter anderem leide sie an einer Lungenentzündung, so ihre Anwälte.",
+        "title": "Nach gescheiterter Hinrichtung: Anwälte sprechen über Pikes Gesundheitszustand"
+      }
+    ],
+    "title": "Anwälte sprechen über Pikes Gesundheitszustand",
+    "summary": "Anwälte sprechen über Pikes Gesundheitszustand Die verurteilte Mörderin Christa Pike sollte vergangene Woche hingerichtet werden - überlebte allerdings zwei Giftspritzen. Nun wurden Details über ihren Gesundheitszustand bekann…\nNach gescheiterter Hinrichtung: Anwälte sprechen über Pikes Gesundheitszustand Die verurteilte Mörderin Christa Pike sollte vergangene Woche hingerichtet werden - überlebte allerdings zwei Giftspritzen. Nun wurden Details über ihren Gesundheitszustand bekannt - unter anderem leide sie an einer Lungenentzündung, so ihre Anwälte."
+  },
+  {
+    "id": "story-165",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-07T22:06:58.000Z",
+    "sources": [
+      {
+        "source": "ntv",
+        "url": "https://www.n-tv.de/panorama/Vier-Mopedfahrer-sterben-bei-Verkehrsunfall-in-Brandenburg-id31394059.html",
+        "date": "2026-10-07T22:06:58.000Z",
+        "snippet": "Auf einer Landstraße nordöstlich von Berlin ereignet sich ein schwerer Unfall. Ein Autofahrer schert zum Überholen aus und kracht in eine entgegenkommende Moped-Gruppe. Vier Menschen sterben noch an der Unfallstelle.",
+        "title": "Frontalzusammenstoß mit Auto: Vier Mopedfahrer sterben bei Verkehrsunfall in Brandenburg"
+      },
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/mobilitaet/auto/brandenburg-vier-mopedfahrer-sterben-bei-verkehrsunfall-a-bcbc1ad9-512f-472b-838c-5c949c26c3c7#ref=rss",
+        "date": "2026-10-07T21:29:00.000Z",
+        "snippet": "Bei einem schweren Unfall im Barnim sind vier Menschen ums Leben gekommen. Ein Autofahrer erfasste beim Überholen drei entgegenkommende Mopeds. Drei Fahrer und eine Mitfahrerin starben.",
+        "title": "Brandenburg: Vier Mopedfahrer sterben bei Verkehrsunfall"
+      }
+    ],
+    "title": "Frontalzusammenstoß mit Auto: Vier Mopedfahrer sterben bei Verkehrsunfall in Brandenburg",
+    "summary": "Frontalzusammenstoß mit Auto: Vier Mopedfahrer sterben bei Verkehrsunfall in Brandenburg Auf einer Landstraße nordöstlich von Berlin ereignet sich ein schwerer Unfall. Ein Autofahrer schert zum Überholen aus und kracht in eine entgegenkommende Moped-Gruppe. Vier Menschen sterben noch an der Unfallstelle.\nBrandenburg: Vier Mopedfahrer sterben bei Verkehrsunfall Bei einem schweren Unfall im Barnim sind vier Menschen ums Leben gekommen. Ein Autofahrer erfasste beim Überholen drei entgegenkommende Mopeds. Drei Fahrer und eine Mitfahrerin starben."
+  },
+  {
+    "id": "story-202",
+    "topic": "panorama",
+    "country": "INT",
+    "stateHint": "",
+    "date": "2026-10-07T21:31:00.000Z",
+    "sources": [
+      {
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUVNxZUVSYWs2akY2NUdadlZBU1BadGtSbWx6SlpaWVY2ZVhJWG85Q0lIZlpRYWt4X3lpbzNyZG5HbDFZa3lRWFU4LXo2VG15eHlJWGhJTlBLVi1xb0dtOXV2Z3dZWVVXdlRxYmZzMkR4VUV6U2I2WFVCdWJPQVFqSVNpNFhlRTNQN01mbHNOaGR5Z2RNMkE?oc=5",
+        "date": "2026-10-07T21:31:00.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNUVNxZUVSYWs2akY2NUdadlZBU1BadGtSbWx6SlpaWVY2ZVhJWG85Q0lIZlpRYWt4X3lpbzNyZG5HbDFZa3lRWFU4LXo2VG15eHlJWGhJTlBLVi1xb0dtOXV2Z3dZWVVXdlRxYmZzMkR4VUV6U2I2WFVCdWJPQVFqSVNpNFhlRTNQN01mbHNOaGR5Z2RNMkE?oc=5\" target=\"_blank\">UN health agency wants more details from Russia on suspected pneumonic plague case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+        "title": "UN health agency wants more details from Russia on suspected pneumonic plague case - AP News"
+      },
+      {
+        "source": "France24 English",
+        "url": "https://www.france24.com/en/un-health-agency-wants-more-details-from-russia-on-suspected-pneumonic-plague-case",
+        "date": "2026-10-07T21:24:45.000Z",
+        "snippet": "A top official with the World Health Organization said Wednesday it doesn’t know how a lab worker in Siberia died, and she urged Russia to provide more information about a case that prompted global concerns about suspected pneumonic plague. FRANCE 24's Monte Francis reports.",
+        "title": "UN health agency wants more details from Russia on suspected pneumonic plague case"
+      }
+    ],
+    "title": "UN health agency wants more details from Russia on suspected pneumonic plague case - AP News",
+    "summary": "UN health agency wants more details from Russia on suspected pneumonic plague case - AP News <a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNUVNxZUVSYWs2akY2NUdadlZBU1BadGtSbWx6SlpaWVY2ZVhJWG85Q0lIZlpRYWt4X3lpbzNyZG5HbDFZa3lRWFU4LXo2VG15eHlJWGhJTlBLVi1xb0dtOXV2Z3dZWVVXdlRxYmZzMkR4VUV6U2I2WFVCdWJPQVFqSVNpNFhlRTNQN01mbHNOaGR5Z2RNMkE?oc=5\" target=\"_blank\">UN health agency wants more details from Russia on suspected pneumonic plague case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>\nUN health agency wants more details from Russia on suspected pneumonic plague case A top official with the World Health Organization said Wednesday it doesn’t know how a lab worker in Siberia died, and she urged Russia to provide more information about a case that prompted global concerns about suspected pneumonic plague. FRANCE 24's Monte Francis reports."
+  },
+  {
+    "id": "story-233",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "BY",
+    "date": "2026-10-07T21:05:10.000Z",
+    "sources": [
+      {
+        "source": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/nach-zwangsraeumung-rentnerin-maricarmen-gestorben,VXOeyC4",
+        "date": "2026-10-07T21:05:10.000Z",
+        "snippet": "Ihr Fall hat in Spanien landesweite Massenproteste zu Wohnungsnot und explodierenden Mieten ausgelöst - und führt letztlich zu Neuwahlen: Maricarmen Abascal hatte ihre Mietwohnung nach 70 Jahren verlassen müssen. Jetzt ist die 87-Jährige gestorben.",
+        "title": "Nach Zwangsräumung: Rentnerin Maricarmen gestorben"
+      },
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/europa/maricarmen-spanien-zwangsraeumung-100.html",
+        "date": "2026-10-07T19:38:22.000Z",
+        "snippet": "Ihr Name stand symbolisch für die spanische Wohnungskrise. Nach der Zwangsräumung der Wohnung der 87-jährigen Maricarmen Abascal war es zu landesweiten Protesten gekommen. Nun ist die Rentnerin gestorben.",
+        "title": "Nach Zwangsräumung in Spanien - Rentnerin Maricarmen gestorben"
+      }
+    ],
+    "title": "Nach Zwangsräumung: Rentnerin Maricarmen gestorben",
+    "summary": "Nach Zwangsräumung: Rentnerin Maricarmen gestorben Ihr Fall hat in Spanien landesweite Massenproteste zu Wohnungsnot und explodierenden Mieten ausgelöst - und führt letztlich zu Neuwahlen: Maricarmen Abascal hatte ihre Mietwohnung nach 70 Jahren verlassen müssen. Jetzt ist die 87-Jährige gestorben.\nNach Zwangsräumung in Spanien - Rentnerin Maricarmen gestorben Ihr Name stand symbolisch für die spanische Wohnungskrise. Nach der Zwangsräumung der Wohnung der 87-jährigen Maricarmen Abascal war es zu landesweiten Protesten gekommen. Nun ist die Rentnerin gestorben."
+  },
+  {
+    "id": "story-257",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "BY",
+    "date": "2026-10-07T20:40:27.000Z",
+    "sources": [
+      {
+        "source": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/bayern/puma-gesichtet-warnung-vor-raubkatze-nahe-flughafen-muenchen,VXMfjKq",
+        "date": "2026-10-07T20:40:27.000Z",
+        "snippet": "Das Landratsamt Erding ruft die Bevölkerung zur Vorsicht auf: In der Nähe des Münchner Flughafens sei eine freilaufende Raubkatze gesichtet worden. Nach erster Einschätzung soll es sich um einen Puma handeln. Die Polizei sucht nach dem Tier.",
+        "title": "Puma gesichtet? Warnung vor Raubkatze nahe Flughafen München"
+      },
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWXhUMmxoMmhyX2JzWE92RVYyTTdRNmlnazlNcW9XZU9zaW94MlVoN19tVGRxTnd2dTEyWWNHS1dKNkpyYlgzWGlFNmdzdURVOGlXcmhiU2FoblRULXpJMENiYVFtQW1iNG5WR29iOTdBaUJPWDR3OHdEeE80TjQ2QXg2OXAtUWY2cWxDbEFiV091Y2hlTmdzQzY4a1NGend2R0NpNWVnTjE?oc=5",
+        "date": "2026-10-07T20:40:27.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWXhUMmxoMmhyX2JzWE92RVYyTTdRNmlnazlNcW9XZU9zaW94MlVoN19tVGRxTnd2dTEyWWNHS1dKNkpyYlgzWGlFNmdzdURVOGlXcmhiU2FoblRULXpJMENiYVFtQW1iNG5WR29iOTdBaUJPWDR3OHdEeE80TjQ2QXg2OXAtUWY2cWxDbEFiV091Y2hlTmdzQzY4a1NGend2R0NpNWVnTjE?oc=5\" target=\"_blank\">Puma gesichtet? Warnung vor Raubkatze nahe Flughafen München | BR24</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BR</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSDlGSldFVTFRY2RGUFJKRThvRTNLNWZGNTgyWTZsRExZdkdlY3BPSWRhNF90WDY2TzhvZGR4RC1NM0tCRktwdld6U0ZoRjlfY090QmNRcW5kUEVGdE9fTHNLYUs2MnpZalZ0RFZFRE93NnNBQWIzR2RTSnJyS3pPSTFaUXYzRWxIMHVZRjFveFZzU2JEbXdFM3FRak9LUWhxeWx",
+        "title": "Puma gesichtet? Warnung vor Raubkatze nahe Flughafen München | BR24 - BR"
+      }
+    ],
+    "title": "Puma gesichtet? Warnung vor Raubkatze nahe Flughafen München",
+    "summary": "Puma gesichtet? Warnung vor Raubkatze nahe Flughafen München Das Landratsamt Erding ruft die Bevölkerung zur Vorsicht auf: In der Nähe des Münchner Flughafens sei eine freilaufende Raubkatze gesichtet worden. Nach erster Einschätzung soll es sich um einen Puma handeln. Die Polizei sucht nach dem Tier.\nPuma gesichtet? Warnung vor Raubkatze nahe Flughafen München | BR24 - BR <ol><li><a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWXhUMmxoMmhyX2JzWE92RVYyTTdRNmlnazlNcW9XZU9zaW94MlVoN19tVGRxTnd2dTEyWWNHS1dKNkpyYlgzWGlFNmdzdURVOGlXcmhiU2FoblRULXpJMENiYVFtQW1iNG5WR29iOTdBaUJPWDR3OHdEeE80TjQ2QXg2OXAtUWY2cWxDbEFiV091Y2hlTmdzQzY4a1NGend2R0NpNWVnTjE?oc=5\" target=\"_blank\">Puma gesichtet? Warnung vor Raubkatze nahe Flughafen München | BR24</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BR</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSDlGSldFVTFRY2RGUFJKRThvRTNLNWZGNTgyWTZsRExZdkdlY3BPSWRhNF90WDY2TzhvZGR4RC1NM0tCRktwdld6U0ZoRjlfY090QmNRcW5kUEVGdE9fTHNLYUs2MnpZalZ0RFZFRE93NnNBQWIzR2RTSnJyS3pPSTFaUXYzRWxIMHVZRjFveFZzU2JEbXdFM3FRak9LUWhxeWx"
+  },
+  {
+    "id": "story-294",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-07T19:58:58.000Z",
+    "sources": [
+      {
+        "source": "Süddeutsche Zeitung",
+        "url": "https://www.sueddeutsche.de/politik/news-iran-nahost-krieg-iran-saudi-arabien-angriffe-flughaefen-huthi-li.3530668",
+        "date": "2026-10-07T19:58:58.000Z",
+        "snippet": "Die vom Iran unterstützte Huthi-Miliz beschießt derzeit im Zuge der Eskalation des Jemen-Kriegs wieder verstärkt Ziele im Golfstaat. Offen ist, ob sie auch hinter diesem Angriff steckt.",
+        "title": "Newsblog zum Nahost-Krieg: Drei Tote bei Angriffen auf Flughäfen in Saudi-Arabien"
+      },
+      {
+        "source": "RND",
+        "url": "https://www.rnd.de/politik/ticker-zur-lage-in-nahost-drei-tote-bei-angriffen-auf-flughaefen-in-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
+        "date": "2026-10-07T19:26:30.000Z",
+        "snippet": "Ob auf militärischer oder diplomatischer Ebene: Sichtbare Erfolge seines Kriegs gegen den Iran bleibt Donald Trump schuldig. Verfolgen Sie alle Entwicklungen im Liveticker.",
+        "title": "Ticker zur Lage in Nahost: Drei Tote bei Angriffen auf Flughäfen in Saudi-Arabien"
+      }
+    ],
+    "title": "Newsblog zum Nahost-Krieg: Drei Tote bei Angriffen auf Flughäfen in Saudi-Arabien",
+    "summary": "Newsblog zum Nahost-Krieg: Drei Tote bei Angriffen auf Flughäfen in Saudi-Arabien Die vom Iran unterstützte Huthi-Miliz beschießt derzeit im Zuge der Eskalation des Jemen-Kriegs wieder verstärkt Ziele im Golfstaat. Offen ist, ob sie auch hinter diesem Angriff steckt.\nTicker zur Lage in Nahost: Drei Tote bei Angriffen auf Flughäfen in Saudi-Arabien Ob auf militärischer oder diplomatischer Ebene: Sichtbare Erfolge seines Kriegs gegen den Iran bleibt Donald Trump schuldig. Verfolgen Sie alle Entwicklungen im Liveticker."
+  },
+  {
+    "id": "story-331",
+    "topic": "politik",
+    "country": "UK",
+    "stateHint": "",
+    "date": "2026-10-07T19:23:30.000Z",
+    "sources": [
+      {
+        "source": "Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-advance-brazil-election-jolt-climate-campaigners",
+        "date": "2026-10-07T19:23:30.000Z",
+        "snippet": "<p>Inquest under way into why President Lula’s success in curbing Amazon deforestation has not led to success at polls </p><p>More fire, more ash, more crime, more death. And a globally important ecosystem driven ever more rapidly towards a point of no return. That is the prospect for the Amazon rainforest for at least the next four years if <a href=\"https://www.theguardian.com/world/2026/oct/06/keeping-up-with-the-bolsonaros-flavios-surprise-first-round-election-win-heralds-rise-of-a-political-dynasty\">Flávio Bolsonaro</a> holds on to the lead he established this week in the first round of Brazil’s presidential election.</p><p>This appears to be of far more concern to the outside world than",
+        "title": "Flávio Bolsonaro’s advance in Brazil’s election is grim jolt for climate campaigners"
+      },
+      {
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOEZsMTE4OUxFWTRZZmJ0ZzFzei1abTJocFdncWNMcm8tTFc3NUkyUUNZUko2QTRyaEN1LUFESjdld0VCMlU0VU5jSl9LZU9xZVZlV2s4emVKLWJlQUZLUERDcFhBRVY0OWJWa0JJeFpubk85enlGSWVmcVY1RzNwaWMyUmpJdEsxQzk0Tm5Kc2xVRG0zVDUyUS1sZTY5RlM2OXkxbXM3NmNncllqSGNjNA?oc=5",
+        "date": "2026-10-07T11:20:00.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPOEZsMTE4OUxFWTRZZmJ0ZzFzei1abTJocFdncWNMcm8tTFc3NUkyUUNZUko2QTRyaEN1LUFESjdld0VCMlU0VU5jSl9LZU9xZVZlV2s4emVKLWJlQUZLUERDcFhBRVY0OWJWa0JJeFpubk85enlGSWVmcVY1RzNwaWMyUmpJdEsxQzk0Tm5Kc2xVRG0zVDUyUS1sZTY5RlM2OXkxbXM3NmNncllqSGNjNA?oc=5\" target=\"_blank\">Flávio Bolsonaro’s advance in Brazil’s election is grim jolt for climate campaigners</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+        "title": "Flávio Bolsonaro’s advance in Brazil’s election is grim jolt for climate campaigners - The Guardian"
+      }
+    ],
+    "title": "Flávio Bolsonaro’s advance in Brazil’s election is grim jolt for climate campaigners",
+    "summary": "Flávio Bolsonaro’s advance in Brazil’s election is grim jolt for climate campaigners <p>Inquest under way into why President Lula’s success in curbing Amazon deforestation has not led to success at polls </p><p>More fire, more ash, more crime, more death. And a globally important ecosystem driven ever more rapidly towards a point of no return. That is the prospect for the Amazon rainforest for at least the next four years if <a href=\"https://www.theguardian.com/world/2026/oct/06/keeping-up-with-the-bolsonaros-flavios-surprise-first-round-election-win-heralds-rise-of-a-political-dynasty\">Flávio Bolsonaro</a> holds on to the lead he established this week in the first round of Brazil’s presidential election.</p><p>This appears to be of far more concern to the outside world than\nFlávio Bolsonaro’s advance in Brazil’s election is grim jolt for climate campaigners - The Guardian <a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPOEZsMTE4OUxFWTRZZmJ0ZzFzei1abTJocFdncWNMcm8tTFc3NUkyUUNZUko2QTRyaEN1LUFESjdld0VCMlU0VU5jSl9LZU9xZVZlV2s4emVKLWJlQUZLUERDcFhBRVY0OWJWa0JJeFpubk85enlGSWVmcVY1RzNwaWMyUmpJdEsxQzk0Tm5Kc2xVRG0zVDUyUS1sZTY5RlM2OXkxbXM3NmNncllqSGNjNA?oc=5\" target=\"_blank\">Flávio Bolsonaro’s advance in Brazil’s election is grim jolt for climate campaigners</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>"
+  },
+  {
+    "id": "story-335",
+    "topic": "panorama",
+    "country": "PT",
+    "stateHint": "",
+    "date": "2026-10-07T19:19:03.000Z",
+    "sources": [
+      {
+        "source": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/19h-postos-de-combustivel-tem-de-afixar-desconto-do-isp-a-partir-do-dia-17_a1_1770137",
+        "date": "2026-10-07T19:19:03.000Z",
+        "snippet": "",
+        "title": "19h Postos de combustível têm de afixar desconto do ISP a partir do dia 17"
+      },
+      {
+        "source": "RTP Economia",
+        "url": "https://www.rtp.pt/noticias/economia/postos-de-combustivel-tem-de-afixar-desconto-do-isp-a-partir-do-dia-17_n1770068",
+        "date": "2026-10-07T12:15:25.000Z",
+        "snippet": "Os postos de abastecimento de combustíveis vão passar a ter de afixar o desconto em vigor do ISP, segundo um decreto-lei publicado hoje, que aumenta para 39,5 milhões de euros os apoios aos setores dos transportes.",
+        "title": "Postos de combustível têm de afixar desconto do ISP a partir do dia 17"
+      }
+    ],
+    "title": "19h Postos de combustível têm de afixar desconto do ISP a partir do dia 17",
+    "summary": "19h Postos de combustível têm de afixar desconto do ISP a partir do dia 17 \nPostos de combustível têm de afixar desconto do ISP a partir do dia 17 Os postos de abastecimento de combustíveis vão passar a ter de afixar o desconto em vigor do ISP, segundo um decreto-lei publicado hoje, que aumenta para 39,5 milhões de euros os apoios aos setores dos transportes."
+  },
+  {
+    "id": "story-360",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-07T19:02:28.000Z",
+    "sources": [
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPM0wxNk9icmF6aXhKZl9tRWdIRTY5bWxCd2w5WWkzZkUtT3I5TzBWLXd1dWtjeERTRU1laWRVbUlkcVhFMGE2TFA3TF83bjcxeUwwdmhoeDVHRGcwUzFUNGs0VjdJUzJ6ZV9YdVNKUnIwZGhGd01OYkE1bjNyMW4tN1N3dUItaGdERzF6alJsS01MNmJIMlJpWmZjcTFEY00tX1Z1U3RIVlBjV3pnWlRpOWpYU3pJcmlNdVVTaFhjbmF3ZkhQQ3ExTkp1OXgzTUNvbzRFSWNrejUwTDBjdU9KZFBBVG5CTnp3a3U0OWVwLVozNXAzWUNySEF3Rm5Ta181cjBBc1JQZWVUb3ZKdGdV?oc=5",
+        "date": "2026-10-07T19:02:28.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxPM0wxNk9icmF6aXhKZl9tRWdIRTY5bWxCd2w5WWkzZkUtT3I5TzBWLXd1dWtjeERTRU1laWRVbUlkcVhFMGE2TFA3TF83bjcxeUwwdmhoeDVHRGcwUzFUNGs0VjdJUzJ6ZV9YdVNKUnIwZGhGd01OYkE1bjNyMW4tN1N3dUItaGdERzF6alJsS01MNmJIMlJpWmZjcTFEY00tX1Z1U3RIVlBjV3pnWlRpOWpYU3pJcmlNdVVTaFhjbmF3ZkhQQ3ExTkp1OXgzTUNvbzRFSWNrejUwTDBjdU9KZFBBVG5CTnp3a3U0OWVwLVozNXAzWUNySEF3Rm5Ta181cjBBc1JQZWVUb3ZKdGdV?oc=5\" target=\"_blank\">„Nicht mehr seriös“ – Ryanair verlässt Flughafen Bremen nach heftigem Streit um Gebühren</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WELT</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVDQtTFJHY1FfV2JuRTJzaUpIT2NSZDJ6eHRoZzRWUW1wUFF",
+        "title": "„Nicht mehr seriös“ – Ryanair verlässt Flughafen Bremen nach heftigem Streit um Gebühren - WELT"
+      },
+      {
+        "source": "WELT",
+        "url": "https://www.welt.de/wirtschaft/article6ac692d2680a65c2883c3e7a/400-000-passagiere-weniger-nicht-mehr-serioes-ryanair-verlaesst-flughafen-bremen-nach-heftigem-streit-um-gebuehren.html",
+        "date": "2026-10-07T19:00:55.000Z",
+        "snippet": "Der nächste Rückzug von Ryanair in Deutschland: Der Billigflieger stellt seinen Betrieb am Flughafen Bremen ein. Der Grund für das Aus sorgt für heftigen Streit.",
+        "title": "„Nicht mehr seriös“ – Ryanair verlässt Flughafen Bremen nach heftigem Streit um Gebühren"
+      }
+    ],
+    "title": "„Nicht mehr seriös“ – Ryanair verlässt Flughafen Bremen nach heftigem Streit um Gebühren - WELT",
+    "summary": "„Nicht mehr seriös“ – Ryanair verlässt Flughafen Bremen nach heftigem Streit um Gebühren - WELT <ol><li><a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxPM0wxNk9icmF6aXhKZl9tRWdIRTY5bWxCd2w5WWkzZkUtT3I5TzBWLXd1dWtjeERTRU1laWRVbUlkcVhFMGE2TFA3TF83bjcxeUwwdmhoeDVHRGcwUzFUNGs0VjdJUzJ6ZV9YdVNKUnIwZGhGd01OYkE1bjNyMW4tN1N3dUItaGdERzF6alJsS01MNmJIMlJpWmZjcTFEY00tX1Z1U3RIVlBjV3pnWlRpOWpYU3pJcmlNdVVTaFhjbmF3ZkhQQ3ExTkp1OXgzTUNvbzRFSWNrejUwTDBjdU9KZFBBVG5CTnp3a3U0OWVwLVozNXAzWUNySEF3Rm5Ta181cjBBc1JQZWVUb3ZKdGdV?oc=5\" target=\"_blank\">„Nicht mehr seriös“ – Ryanair verlässt Flughafen Bremen nach heftigem Streit um Gebühren</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WELT</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVDQtTFJHY1FfV2JuRTJzaUpIT2NSZDJ6eHRoZzRWUW1wUFF\n„Nicht mehr seriös“ – Ryanair verlässt Flughafen Bremen nach heftigem Streit um Gebühren Der nächste Rückzug von Ryanair in Deutschland: Der Billigflieger stellt seinen Betrieb am Flughafen Bremen ein. Der Grund für das Aus sorgt für heftigen Streit."
+  },
+  {
+    "id": "story-365",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "BY",
+    "date": "2026-10-07T19:00:51.000Z",
+    "sources": [
+      {
+        "source": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/altkanzler-schroeder-wird-in-globus-markt-in-moskau-gefeiert,VXO3mWc",
+        "date": "2026-10-07T19:00:51.000Z",
+        "snippet": "Auftritt im Supermarkt: Nach seiner Berufung in den Aufsichtsrat beim russischen Ableger der deutschen Globus-Kette taucht Altkanzler Schröder überraschend in Moskau auf. Mit viel Applaus ließ sich der 82-Jährige von Mitarbeitern begrüßen.",
+        "title": "Altkanzler Schröder wird in Globus-Markt in Moskau gefeiert"
+      },
+      {
+        "source": "RND",
+        "url": "https://www.rnd.de/politik/neuer-job-in-russland-altkanzler-schroeder-haelt-begruessungsrede-bei-globus-in-moskau-JB6DKLVXSBCLBNCYIRDC7PLOG4.html",
+        "date": "2026-10-07T18:08:42.000Z",
+        "snippet": "Nach seiner Berufung in den Aufsichtsrat beim russischen Ableger der deutschen Globus-Kette taucht Altkanzler Schröder überraschend in Moskau auf.",
+        "title": "Neuer Job in Russland: Altkanzler Schröder hält Begrüßungsrede bei Globus in Moskau"
+      }
+    ],
+    "title": "Altkanzler Schröder wird in Globus-Markt in Moskau gefeiert",
+    "summary": "Altkanzler Schröder wird in Globus-Markt in Moskau gefeiert Auftritt im Supermarkt: Nach seiner Berufung in den Aufsichtsrat beim russischen Ableger der deutschen Globus-Kette taucht Altkanzler Schröder überraschend in Moskau auf. Mit viel Applaus ließ sich der 82-Jährige von Mitarbeitern begrüßen.\nNeuer Job in Russland: Altkanzler Schröder hält Begrüßungsrede bei Globus in Moskau Nach seiner Berufung in den Aufsichtsrat beim russischen Ableger der deutschen Globus-Kette taucht Altkanzler Schröder überraschend in Moskau auf."
+  },
+  {
+    "id": "story-385",
+    "topic": "panorama",
+    "country": "PT",
+    "stateHint": "",
+    "date": "2026-10-07T18:53:13.000Z",
+    "sources": [
+      {
+        "source": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/pais/cerca-de-300-pessoas-protestam-em-lisboa-contra-visita-de-rubio-a-portugal_n1770133",
+        "date": "2026-10-07T18:53:13.000Z",
+        "snippet": "Cerca de 300 pessoas reuniram-se hoje em Lisboa para protestar contra a visita do secretário de Estado norte-americano, Marco Rubio, a Portugal, marcada para quinta-feira.",
+        "title": "Cerca de 300 pessoas protestam em Lisboa contra visita de Rubio a Portugal"
+      },
+      {
+        "source": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUlNabmU2SXdYajE2YUhXQWQ2S2ZMbkswRG5FbnlSX0t1X0VHdVVqeEJid2hxNzlIUjJjS3REbE9sNWcxVzJnQ1lqN0IwWG4xdHdFdWw0MWZ4VEtuZ0VJQXNCR3h2OWE3WVQ5VkU0eFljRkZIN2FJaDFVUHRKTWJOazR5VlBSZjl4SVpGMU9QNmJsZXdPUDVQZThzRmpNeEhtTmJzOHVyQ0NrYUtuVGNmUk9JdU9vNm5ubEpkcXlHQQ?oc=5",
+        "date": "2026-10-07T17:59:50.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNUlNabmU2SXdYajE2YUhXQWQ2S2ZMbkswRG5FbnlSX0t1X0VHdVVqeEJid2hxNzlIUjJjS3REbE9sNWcxVzJnQ1lqN0IwWG4xdHdFdWw0MWZ4VEtuZ0VJQXNCR3h2OWE3WVQ5VkU0eFljRkZIN2FJaDFVUHRKTWJOazR5VlBSZjl4SVpGMU9QNmJsZXdPUDVQZThzRmpNeEhtTmJzOHVyQ0NrYUtuVGNmUk9JdU9vNm5ubEpkcXlHQQ?oc=5\" target=\"_blank\">Cerca de 300 pessoas protestam em Lisboa contra visita de Rubio a Portugal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SAPO</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2laeFlLTkVoRXMzQ1BnZUJneTJDZ0FQAQ?hl=pt-PT&gl=PT&ceid=PT:pt-150&oc=5\" target=\"_blank\">Ver mais cabeçalhos e perspetivas no Google Notícias</a></strong>",
+        "title": "Cerca de 300 pessoas protestam em Lisboa contra visita de Rubio a Portugal - SAPO"
+      }
+    ],
+    "title": "Cerca de 300 pessoas protestam em Lisboa contra visita de Rubio a Portugal",
+    "summary": "Cerca de 300 pessoas protestam em Lisboa contra visita de Rubio a Portugal Cerca de 300 pessoas reuniram-se hoje em Lisboa para protestar contra a visita do secretário de Estado norte-americano, Marco Rubio, a Portugal, marcada para quinta-feira.\nCerca de 300 pessoas protestam em Lisboa contra visita de Rubio a Portugal - SAPO <a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNUlNabmU2SXdYajE2YUhXQWQ2S2ZMbkswRG5FbnlSX0t1X0VHdVVqeEJid2hxNzlIUjJjS3REbE9sNWcxVzJnQ1lqN0IwWG4xdHdFdWw0MWZ4VEtuZ0VJQXNCR3h2OWE3WVQ5VkU0eFljRkZIN2FJaDFVUHRKTWJOazR5VlBSZjl4SVpGMU9QNmJsZXdPUDVQZThzRmpNeEhtTmJzOHVyQ0NrYUtuVGNmUk9JdU9vNm5ubEpkcXlHQQ?oc=5\" target=\"_blank\">Cerca de 300 pessoas protestam em Lisboa contra visita de Rubio a Portugal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SAPO</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2laeFlLTkVoRXMzQ1BnZUJneTJDZ0FQAQ?hl=pt-PT&gl=PT&ceid=PT:pt-150&oc=5\" target=\"_blank\">Ver mais cabeçalhos e perspetivas no Google Notícias</a></strong>"
+  },
+  {
+    "id": "story-410",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "MV",
+    "date": "2026-10-07T18:42:36.000Z",
+    "sources": [
+      {
+        "source": "NDR Mecklenburg-Vorpommern",
+        "url": "https://www.ndr.de/fernsehen/sendungen/nordmagazin/tag-der-tagespflege-der-finanzielle-druck-waechst,nordmagazin-14836.html",
+        "date": "2026-10-07T18:42:36.000Z",
+        "snippet": "Tagespflege schafft Gemeinschaft und entlastet Angehörige. Die Finanzierung könnte mit der geplanten Pflegereform zum Problem werden.",
+        "title": "Tag der Tagespflege: Der finanzielle Druck wächst"
+      },
+      {
+        "source": "Tagesschau Regional Mecklenburg-Vorpommern",
+        "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/tag-der-tagespflege-entlastung-fuer-angehoerige-aber-der-finanzielle-druck-waechst,tagdertagespflege-100.html",
+        "date": "2026-10-07T18:41:46.000Z",
+        "snippet": "In Mecklenburg-Vorpommern öffnen heute Einrichtungen ihre Türen für Besucher. Die Wohlfahrtsverbände sorgen sich um die Zukunft.",
+        "title": "Tagespflege: Entlastung für Angehörige, aber der finanzielle Druck wächst"
+      }
+    ],
+    "title": "Tag der Tagespflege: Der finanzielle Druck wächst",
+    "summary": "Tag der Tagespflege: Der finanzielle Druck wächst Tagespflege schafft Gemeinschaft und entlastet Angehörige. Die Finanzierung könnte mit der geplanten Pflegereform zum Problem werden.\nTagespflege: Entlastung für Angehörige, aber der finanzielle Druck wächst In Mecklenburg-Vorpommern öffnen heute Einrichtungen ihre Türen für Besucher. Die Wohlfahrtsverbände sorgen sich um die Zukunft."
+  },
+  {
+    "id": "story-427",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "HH",
+    "date": "2026-10-07T18:33:38.000Z",
+    "sources": [
+      {
+        "source": "Tagesschau Regional Hamburg",
+        "url": "https://www.tagesschau.de/inland/regional/hamburg/drei-jahre-nach-hamas-angriff-gedenken-und-demos-in-hamburg,gedenken-israel-104.html",
+        "date": "2026-10-07T18:33:38.000Z",
+        "snippet": "Am dritten Jahrestag des Terrorangriffs der Hamas auf Israel wurde in Hamburg an die Taten erinnert. Es gab auch eine propalästinensische Demo.",
+        "title": "Drei Jahre nach Hamas-Angriff: Gedenken und Demos in Hamburg"
+      },
+      {
+        "source": "NDR Hamburg",
+        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/demo-und-gedenken-drei-jahre-nach-dem-hamas-angriff,hamj-15326.html",
+        "date": "2026-10-07T17:52:04.000Z",
+        "snippet": "Auf den Uni-Campus sind rund 200 Menschen zur Gedenkveranstaltung gekommen - unter Polizeischutz. Auch eine propalästinensische Demo findet statt.",
+        "title": "Drei Jahre nach Hamas-Angriff in Israel: Gedenken in Hamburg"
+      }
+    ],
+    "title": "Drei Jahre nach Hamas-Angriff: Gedenken und Demos in Hamburg",
+    "summary": "Drei Jahre nach Hamas-Angriff: Gedenken und Demos in Hamburg Am dritten Jahrestag des Terrorangriffs der Hamas auf Israel wurde in Hamburg an die Taten erinnert. Es gab auch eine propalästinensische Demo.\nDrei Jahre nach Hamas-Angriff in Israel: Gedenken in Hamburg Auf den Uni-Campus sind rund 200 Menschen zur Gedenkveranstaltung gekommen - unter Polizeischutz. Auch eine propalästinensische Demo findet statt."
+  },
+  {
+    "id": "story-468",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-07T18:03:59.000Z",
+    "sources": [
+      {
+        "source": "WELT",
+        "url": "https://www.welt.de/politik/ausland/article6ac682d148fc4583fc769121/jahrestag-des-hamas-ueberfalls-new-yorks-buergermeister-mamdani-wirft-israel-genozid-im-gazastreifen-vor.html",
+        "date": "2026-10-07T18:03:59.000Z",
+        "snippet": "Den Überfall auf Israel vor genau drei Jahren bezeichnet Zohran Mamdani als „entsetzliches Kriegsverbrechen der Hamas“. Zugleich bezeichnet er das Vorgehen der israelischen Regierung als „Völkermord“.",
+        "title": "New Yorks Bürgermeister Mamdani wirft Israel „Genozid im Gazastreifen“ vor"
+      },
+      {
+        "source": "ntv",
+        "url": "https://www.n-tv.de/politik/Mamdani-wirft-Israel-am-Jahrestag-des-Hamas-Ueberfalls-Genozid-vor-id31393340.html",
+        "date": "2026-10-07T17:02:04.000Z",
+        "snippet": "Fast eine Million Juden leben in New York. Zum Jahrestag des Hamas-Massakers spricht Bürgermeister Mamdani von einem \"zutiefst schmerzhaften\" Tag und den \"entsetzlichen Kriegsverbrechen\" der Hamas. Doch gleichzeitig erhebt er schwere Vorwürfe gegen Israel und spricht von einem \"Genozid\" im Gazastreifen.",
+        "title": "New Yorks Bürgermeister : Mamdani wirft Israel am Jahrestag des Hamas-Überfalls \"Genozid\" vor"
+      }
+    ],
+    "title": "New Yorks Bürgermeister Mamdani wirft Israel „Genozid im Gazastreifen“ vor",
+    "summary": "New Yorks Bürgermeister Mamdani wirft Israel „Genozid im Gazastreifen“ vor Den Überfall auf Israel vor genau drei Jahren bezeichnet Zohran Mamdani als „entsetzliches Kriegsverbrechen der Hamas“. Zugleich bezeichnet er das Vorgehen der israelischen Regierung als „Völkermord“.\nNew Yorks Bürgermeister : Mamdani wirft Israel am Jahrestag des Hamas-Überfalls \"Genozid\" vor Fast eine Million Juden leben in New York. Zum Jahrestag des Hamas-Massakers spricht Bürgermeister Mamdani von einem \"zutiefst schmerzhaften\" Tag und den \"entsetzlichen Kriegsverbrechen\" der Hamas. Doch gleichzeitig erhebt er schwere Vorwürfe gegen Israel und spricht von einem \"Genozid\" im Gazastreifen."
+  },
+  {
+    "id": "story-475",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-07T18:00:05.000Z",
+    "sources": [
+      {
+        "source": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/ausland/europa/russland-nowaja-gaseta-politkowskaja-100.html",
+        "date": "2026-10-07T18:00:05.000Z",
+        "snippet": "Auch 20 Jahre nach dem Mord an ihrer Journalistin Anna Politkowskaja versucht die Nowaja Gaseta, weiter in Russland zu berichten. Trotz Zensur, Lizenzentzug - und der ständigen Ge…",
+        "title": "\"In Russland gibt es keine Presse\""
+      },
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/europa/russland-nowaja-gaseta-politkowskaja-100.html",
+        "date": "2026-10-07T17:42:13.000Z",
+        "snippet": "Auch 20 Jahre nach dem Mord an ihrer Journalistin Anna Politkowskaja versucht die Nowaja Gaseta, weiter in Russland zu berichten. Trotz Zensur, Lizenzentzug - und der ständigen Gefahr für das eigene Leben. Von Norbert Hahn.",
+        "title": "20 Jahre Mord an Politkowskaja: \"In Russland gibt es keine Presse\""
+      }
+    ],
+    "title": "\"In Russland gibt es keine Presse\"",
+    "summary": "\"In Russland gibt es keine Presse\" Auch 20 Jahre nach dem Mord an ihrer Journalistin Anna Politkowskaja versucht die Nowaja Gaseta, weiter in Russland zu berichten. Trotz Zensur, Lizenzentzug - und der ständigen Ge…\n20 Jahre Mord an Politkowskaja: \"In Russland gibt es keine Presse\" Auch 20 Jahre nach dem Mord an ihrer Journalistin Anna Politkowskaja versucht die Nowaja Gaseta, weiter in Russland zu berichten. Trotz Zensur, Lizenzentzug - und der ständigen Gefahr für das eigene Leben. Von Norbert Hahn."
+  },
+  {
+    "id": "story-541",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-07T17:21:00.000Z",
+    "sources": [
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdmhiczJIMzJCekVYa3FKRktBZFZtRnlGTzZ0LXVfcTFQLTU2T2dyM0VMNUtFeGtaWmxmcktPaVE3TFVqV01WSTBrd2hSYzYyZ3piZkE3b3loTm9tb3ZHbjUwVkJ4anQ2TUNDRng5RnNRalJuSFRTb21WOFVFRFM3M2xFTHRLbXZIdHItdlAweXFXU3I2aUpoZ3BhbG4wcmFNWTAySGtTdkhvVEZ5OGVDTW9IcnJueGhkaDZXRUtfZG9sUU1TdHRSbWpn?oc=5",
+        "date": "2026-10-07T17:21:00.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOdmhiczJIMzJCekVYa3FKRktBZFZtRnlGTzZ0LXVfcTFQLTU2T2dyM0VMNUtFeGtaWmxmcktPaVE3TFVqV01WSTBrd2hSYzYyZ3piZkE3b3loTm9tb3ZHbjUwVkJ4anQ2TUNDRng5RnNRalJuSFRTb21WOFVFRFM3M2xFTHRLbXZIdHItdlAweXFXU3I2aUpoZ3BhbG4wcmFNWTAySGtTdkhvVEZ5OGVDTW9IcnJueGhkaDZXRUtfZG9sUU1TdHRSbWpn?oc=5\" target=\"_blank\">IEA beschleunigt Freigabe von Ölreserven – Diesel im Fokus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2otejV1TUVoRW5YV2dCR0JoWkV5Z0FQAQ?hl=de&gl=DE&ceid=DE:de&oc=5\" target=\"_blank\">Weitere Schlagzeilen und Meinungen in Google News</a></strong>",
+        "title": "IEA beschleunigt Freigabe von Ölreserven – Diesel im Fokus - Spiegel"
+      },
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/wirtschaft/iea-beschleunigt-freigabe-von-oelreserven-diesel-im-fokus-a-c6d5b9fc-af7c-49b6-84ab-b66190b365f6#ref=rss",
+        "date": "2026-10-07T17:21:00.000Z",
+        "snippet": "Die Internationale Energieagentur macht Tempo bei der Freigabe strategischer Ölreserven. Vorrang sollen Dieselvorräte erhalten – rund 100 Millionen Barrel könnten zusätzlich auf den Markt kommen.",
+        "title": "IEA beschleunigt Freigabe von Ölreserven – Diesel im Fokus"
+      }
+    ],
+    "title": "IEA beschleunigt Freigabe von Ölreserven – Diesel im Fokus - Spiegel",
+    "summary": "IEA beschleunigt Freigabe von Ölreserven – Diesel im Fokus - Spiegel <a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOdmhiczJIMzJCekVYa3FKRktBZFZtRnlGTzZ0LXVfcTFQLTU2T2dyM0VMNUtFeGtaWmxmcktPaVE3TFVqV01WSTBrd2hSYzYyZ3piZkE3b3loTm9tb3ZHbjUwVkJ4anQ2TUNDRng5RnNRalJuSFRTb21WOFVFRFM3M2xFTHRLbXZIdHItdlAweXFXU3I2aUpoZ3BhbG4wcmFNWTAySGtTdkhvVEZ5OGVDTW9IcnJueGhkaDZXRUtfZG9sUU1TdHRSbWpn?oc=5\" target=\"_blank\">IEA beschleunigt Freigabe von Ölreserven – Diesel im Fokus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2otejV1TUVoRW5YV2dCR0JoWkV5Z0FQAQ?hl=de&gl=DE&ceid=DE:de&oc=5\" target=\"_blank\">Weitere Schlagzeilen und Meinungen in Google News</a></strong>\nIEA beschleunigt Freigabe von Ölreserven – Diesel im Fokus Die Internationale Energieagentur macht Tempo bei der Freigabe strategischer Ölreserven. Vorrang sollen Dieselvorräte erhalten – rund 100 Millionen Barrel könnten zusätzlich auf den Markt kommen."
+  },
+  {
+    "id": "story-741",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "BW",
+    "date": "2026-10-07T15:21:57.000Z",
+    "sources": [
+      {
+        "source": "SWR Aktuell Baden-Württemberg",
+        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/heilbronn/audi-neckarsulm-betriebsversammlung-allianz-tarifvertrag-100.html",
+        "date": "2026-10-07T15:21:57.000Z",
+        "snippet": "Die Tarifverhandlungen starten, bei Audi in Neckarsulm steht die Betriebsversammlung mitsamt VW-Chef an. Außerdem kam zum ersten Mal ein Bündnis für den Erhalt des Werks zusammen.",
+        "title": "Tarifverhandlungen starten, mehr Lohn gefordert - Audi in Neckarsulm will Kosten senken"
+      },
+      {
+        "source": "Tagesschau Regional Baden-Württemberg",
+        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-tarifverhandlungen-starten-waehrend-es-bei-audi-in-neckarsulm-ums-sparen-geht-100.html",
+        "date": "2026-10-07T13:51:00.000Z",
+        "snippet": "Die Tarifverhandlungen starten, bei Audi in Neckarsulm steht die Betriebsversammlung mitsamt VW-Chef an. Außerdem kam zum ersten Mal ein Bündnis für den Erhalt des Werks zusammen.",
+        "title": "Tarifverhandlungen starten - während es bei Audi in Neckarsulm ums Sparen geht"
+      }
+    ],
+    "title": "Tarifverhandlungen starten, mehr Lohn gefordert - Audi in Neckarsulm will Kosten senken",
+    "summary": "Tarifverhandlungen starten, mehr Lohn gefordert - Audi in Neckarsulm will Kosten senken Die Tarifverhandlungen starten, bei Audi in Neckarsulm steht die Betriebsversammlung mitsamt VW-Chef an. Außerdem kam zum ersten Mal ein Bündnis für den Erhalt des Werks zusammen.\nTarifverhandlungen starten - während es bei Audi in Neckarsulm ums Sparen geht Die Tarifverhandlungen starten, bei Audi in Neckarsulm steht die Betriebsversammlung mitsamt VW-Chef an. Außerdem kam zum ersten Mal ein Bündnis für den Erhalt des Werks zusammen."
+  },
+  {
+    "id": "story-836",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "BY",
+    "date": "2026-10-07T14:19:44.000Z",
+    "sources": [
+      {
+        "source": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/ex-bnd-praesident-hanning-wegen-spionageverdachts-in-u-haft,VXMuyqj",
+        "date": "2026-10-07T14:19:44.000Z",
+        "snippet": "Unter anderem wegen Spionageverdachts und Landesverrats muss Ex-BND-Präsident August Hanning in Untersuchungshaft. Ein Ermittlungsrichter des Bundesgerichtshofs hat den Haftbefehl gegen den 80-Jährigen in Vollzug gesetzt.",
+        "title": "Ex-BND-Präsident Hanning wegen Spionageverdachts in U-Haft"
+      },
+      {
+        "source": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/inland/gesellschaft/hanning-bnd-haftbefehl-spionage-100.html",
+        "date": "2026-10-07T14:00:04.000Z",
+        "snippet": "Der ehemalige BND-Chef Hanning muss in Untersuchungshaft. Ein Ermittlungsrichter des Bundesgerichtshofs habe den Haftbefehl in Vollzug gesetzt, teilte die Bundesanwaltschaft mit. …",
+        "title": "Früherer BND-Präsident Hanning muss in Untersuchungshaft"
+      }
+    ],
+    "title": "Ex-BND-Präsident Hanning wegen Spionageverdachts in U-Haft",
+    "summary": "Ex-BND-Präsident Hanning wegen Spionageverdachts in U-Haft Unter anderem wegen Spionageverdachts und Landesverrats muss Ex-BND-Präsident August Hanning in Untersuchungshaft. Ein Ermittlungsrichter des Bundesgerichtshofs hat den Haftbefehl gegen den 80-Jährigen in Vollzug gesetzt.\nFrüherer BND-Präsident Hanning muss in Untersuchungshaft Der ehemalige BND-Chef Hanning muss in Untersuchungshaft. Ein Ermittlungsrichter des Bundesgerichtshofs habe den Haftbefehl in Vollzug gesetzt, teilte die Bundesanwaltschaft mit. …"
+  },
+  {
+    "id": "story-978",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-07T11:29:04.000Z",
+    "sources": [
+      {
+        "source": "SWR Aktuell",
+        "url": "https://www.swr.de/swraktuell-radio/2026-10-07-hamas-massaker-gedenken-israel-100.html",
+        "date": "2026-10-07T11:29:04.000Z",
+        "snippet": "Heute vor drei Jahren überfielen islamistische Terroristen Israel. 1200 Menschen wurden getötet, Hunderte verschleppt. Mehr hier:",
+        "title": "Info Date am Mittag: Israel gedenkt der Opfer des Hamas-Massakers ++ Weinlesebilanz in Baden-Württemberg"
       },
       {
         "source": "Tagesschau",
@@ -58,59 +733,45 @@
         "date": "2026-10-07T09:24:13.000Z",
         "snippet": "Vor drei Jahren überfielen islamistische Terroristen Israel. Etwa 1.200 Menschen wurden getötet, Hunderte verschleppt. In Tel Aviv und an anderen Orten im Land wird der Opfer des Hamas-Überfalls gedacht.",
         "title": "Israel gedenkt der Opfer des Hamas-Überfalls am 7. Oktober 2023"
-      },
-      {
-        "source": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/israel-gedenkt-der-opfer-des-hamas-ueberfalls-vor-drei-jahren-100.html",
-        "date": "2026-10-07T09:18:50.000Z",
-        "snippet": "In Israel wird der Opfer des Hamas-Überfalls vor drei Jahren gedacht.",
-        "title": "7. Oktober - Israel gedenkt der Opfer des Hamas-Überfalls vor drei Jahren"
       }
     ],
-    "title": "Israel gedenkt der Opfer des Hamas-Überfalls",
-    "summary": "Israel gedenkt der Opfer des Hamas-Überfalls Vor drei Jahren überfielen islamistische Terroristen Israel. Etwa 1.200 Menschen wurden getötet, Hunderte verschleppt. In Tel Aviv und an anderen Orten im Land wird der Opfer des …\nIsrael gedenkt der Opfer des Hamas-Überfalls am 7. Oktober 2023 Vor drei Jahren überfielen islamistische Terroristen Israel. Etwa 1.200 Menschen wurden getötet, Hunderte verschleppt. In Tel Aviv und an anderen Orten im Land wird der Opfer des Hamas-Überfalls gedacht.\n7. Oktober - Israel gedenkt der Opfer des Hamas-Überfalls vor drei Jahren In Israel wird der Opfer des Hamas-Überfalls vor drei Jahren gedacht."
+    "title": "Info Date am Mittag: Israel gedenkt der Opfer des Hamas-Massakers ++ Weinlesebilanz in Baden-Württemberg",
+    "summary": "Info Date am Mittag: Israel gedenkt der Opfer des Hamas-Massakers ++ Weinlesebilanz in Baden-Württemberg Heute vor drei Jahren überfielen islamistische Terroristen Israel. 1200 Menschen wurden getötet, Hunderte verschleppt. Mehr hier:\nIsrael gedenkt der Opfer des Hamas-Überfalls am 7. Oktober 2023 Vor drei Jahren überfielen islamistische Terroristen Israel. Etwa 1.200 Menschen wurden getötet, Hunderte verschleppt. In Tel Aviv und an anderen Orten im Land wird der Opfer des Hamas-Überfalls gedacht."
   },
   {
-    "id": "story-683",
-    "topic": "politik",
+    "id": "story-1035",
+    "topic": "umwelt",
     "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-07T02:41:38.000Z",
+    "stateHint": "NI",
+    "date": "2026-10-07T10:21:48.000Z",
     "sources": [
       {
-        "source": "Süddeutsche Zeitung",
-        "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-pest-russland-putin-trump-anruf-li.3558046",
-        "date": "2026-10-07T02:41:38.000Z",
-        "snippet": "Die USA drängen auf Informationen zum Verdachtsfall in Sibirien. Die Weltgesundheitsorganisation WHO bietet Russland Hilfe bei der Aufklärung der Ursache an.",
-        "title": "USA-Newsblog: Wegen Lungenpest-Verdacht in Russland: Trump will mit Putin telefonieren"
+        "source": "Tagesschau Regional Niedersachsen",
+        "url": "https://www.tagesschau.de/inland/regional/niedersachsen/brand-im-wellness-center-saunagaeste-bringen-sich-in-sicherheit,saunabrand-112.html",
+        "date": "2026-10-07T10:21:48.000Z",
+        "snippet": "Im Freizeitland Hasbergen im Landkreis Osnabrück ist am Dienstag ein Feuer ausgebrochen. Verletzt wurde niemand.",
+        "title": "Brand im Wellness-Center: Saunagäste bringen sich in Sicherheit"
       },
       {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQWFrbDN3cmpmbjFZVzZHa0JJRU5CQTAwY0xGSm1RN0U1cGF1NEZJQmdyT2RpT3lITW1KUU1YTUdzOHl3UXpLdHZIUnZaZUp5WTFsMTAzZDBqTmhGYU5YYTczWmpSNlI1VHNmVmxyRkJScHVYNW1BbE5xd0x1cHAyY01FUGRyQ25QMmZzczgxTmhDdVd2NU1xeTd6UFFmRm5BUFhzYzVCOXhja0pLZzVCejBJREV3WTFteFd6bURTNEEzSTF5UnNERTBHejZ0TFRzcS16a2Zoajh6aHBJQ2MzUUtKUi0yRXF6M2ZzV2Q1NA?oc=5",
-        "date": "2026-10-07T01:28:00.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQWFrbDN3cmpmbjFZVzZHa0JJRU5CQTAwY0xGSm1RN0U1cGF1NEZJQmdyT2RpT3lITW1KUU1YTUdzOHl3UXpLdHZIUnZaZUp5WTFsMTAzZDBqTmhGYU5YYTczWmpSNlI1VHNmVmxyRkJScHVYNW1BbE5xd0x1cHAyY01FUGRyQ25QMmZzczgxTmhDdVd2NU1xeTd6UFFmRm5BUFhzYzVCOXhja0pLZzVCejBJREV3WTFteFd6bURTNEEzSTF5UnNERTBHejZ0TFRzcS16a2Zoajh6aHBJQ2MzUUtKUi0yRXF6M2ZzV2Q1NA?oc=5\" target=\"_blank\">Lungenpest-Verdacht in Russland Trump will mit Putin wegen toter Labormitarbeiterin telefonieren</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tagesspiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPdDNIQ01VNzdIck1BYTJDWlRUV0RRVm1QaVVUZVFrckp3dENxOTJQQmFxa2V4T1EwczBjakdUM",
-        "title": "Lungenpest-Verdacht in Russland Trump will mit Putin wegen toter Labormitarbeiterin telefonieren - Tagesspiegel"
-      },
-      {
-        "source": "t-online Nachrichten",
-        "url": "https://www.t-online.de/nachrichten/ausland/usa/id_101456966/usa-news-verdacht-auf-lungenpest-trump-will-mit-putin-telefonieren.html",
-        "date": "2026-10-07T00:10:18.000Z",
-        "snippet": "Der US-Präsident hat nach eigenen Angaben einen Termin mit Putin. Zudem reagiert Trump auf Kritik an seiner Wahlwerbung. Alle Entwicklungen zur US-Politik im Newsblog.",
-        "title": "USA-News: Verdacht auf Lungenpest – Trump will mit Putin telefonieren"
+        "source": "NDR Niedersachsen",
+        "url": "https://www.ndr.de/nachrichten/niedersachsen/osnabrueck_emsland/brand-in-wellness-center-saunagaeste-muessen-raus,hasbergen-108.html",
+        "date": "2026-10-07T10:20:26.000Z",
+        "snippet": "Im Freizeitland in Hasbergen im Landkreis Osnabrück ist am Dienstag ein Feuer ausgebrochen. Niemand wurde verletzt.",
+        "title": "Brand in Wellness-Center - Saunagäste müssen raus"
       }
     ],
-    "title": "USA-Newsblog: Wegen Lungenpest-Verdacht in Russland: Trump will mit Putin telefonieren",
-    "summary": "USA-Newsblog: Wegen Lungenpest-Verdacht in Russland: Trump will mit Putin telefonieren Die USA drängen auf Informationen zum Verdachtsfall in Sibirien. Die Weltgesundheitsorganisation WHO bietet Russland Hilfe bei der Aufklärung der Ursache an.\nLungenpest-Verdacht in Russland Trump will mit Putin wegen toter Labormitarbeiterin telefonieren - Tagesspiegel <ol><li><a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQWFrbDN3cmpmbjFZVzZHa0JJRU5CQTAwY0xGSm1RN0U1cGF1NEZJQmdyT2RpT3lITW1KUU1YTUdzOHl3UXpLdHZIUnZaZUp5WTFsMTAzZDBqTmhGYU5YYTczWmpSNlI1VHNmVmxyRkJScHVYNW1BbE5xd0x1cHAyY01FUGRyQ25QMmZzczgxTmhDdVd2NU1xeTd6UFFmRm5BUFhzYzVCOXhja0pLZzVCejBJREV3WTFteFd6bURTNEEzSTF5UnNERTBHejZ0TFRzcS16a2Zoajh6aHBJQ2MzUUtKUi0yRXF6M2ZzV2Q1NA?oc=5\" target=\"_blank\">Lungenpest-Verdacht in Russland Trump will mit Putin wegen toter Labormitarbeiterin telefonieren</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tagesspiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPdDNIQ01VNzdIck1BYTJDWlRUV0RRVm1QaVVUZVFrckp3dENxOTJQQmFxa2V4T1EwczBjakdUM\nUSA-News: Verdacht auf Lungenpest – Trump will mit Putin telefonieren Der US-Präsident hat nach eigenen Angaben einen Termin mit Putin. Zudem reagiert Trump auf Kritik an seiner Wahlwerbung. Alle Entwicklungen zur US-Politik im Newsblog."
+    "title": "Brand im Wellness-Center: Saunagäste bringen sich in Sicherheit",
+    "summary": "Brand im Wellness-Center: Saunagäste bringen sich in Sicherheit Im Freizeitland Hasbergen im Landkreis Osnabrück ist am Dienstag ein Feuer ausgebrochen. Verletzt wurde niemand.\nBrand in Wellness-Center - Saunagäste müssen raus Im Freizeitland in Hasbergen im Landkreis Osnabrück ist am Dienstag ein Feuer ausgebrochen. Niemand wurde verletzt."
   },
   {
-    "id": "story-22",
+    "id": "story-1080",
     "topic": "panorama",
     "country": "PT",
     "stateHint": "",
     "date": "2026-10-07T09:25:20.000Z",
     "sources": [
       {
-        "source": "RTP Notícias",
+        "source": "RTP Mundo",
         "url": "https://www.rtp.pt/noticias/mundo/oms-desaconselha-medicamentos-e-cirurgia-para-obesidade-em-menores-de-dez-anos_n1770037",
         "date": "2026-10-07T09:25:20.000Z",
         "snippet": "A Organização Mundial da Saúde (OMS) recomendou hoje que crianças com menos de 10 anos com obesidade não sejam tratadas com medicamentos para perda de peso ou cirurgia, defendendo que sejam privilegiadas outras formas de tratamento.",
@@ -118,538 +779,13 @@
       },
       {
         "source": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaG9QMHZzR1VRLWRDYU4tS1Rwd3d1Sjh5YnJQalZuczVZTE8wSWprY0VWVWxsWTB0dFExWHo5ODNRWHFXQ2tKSDEyTlVzYzhQSlRnSWtFQ1J1VGFtRE9reTVrZVYxSnc0MTRjNDZJLV9MZ0xHM1lzeGJaeEU1WFBNNEpRekJJcVNRbzA3bTd3Rk1WRkV1Y1RaeFZNSHpuRUVleThpenVyenNBZzhYYV8zYlpudkNPWUpi?oc=5",
-        "date": "2026-10-07T07:01:00.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaG9QMHZzR1VRLWRDYU4tS1Rwd3d1Sjh5YnJQalZuczVZTE8wSWprY0VWVWxsWTB0dFExWHo5ODNRWHFXQ2tKSDEyTlVzYzhQSlRnSWtFQ1J1VGFtRE9reTVrZVYxSnc0MTRjNDZJLV9MZ0xHM1lzeGJaeEU1WFBNNEpRekJJcVNRbzA3bTd3Rk1WRkV1Y1RaeFZNSHpuRUVleThpenVyenNBZzhYYV8zYlpudkNPWUpi?oc=5\" target=\"_blank\">OMS desaconselha medicamentos e cirurgia para obesidade em crianças</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Público</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipgJBVV95cUxOX1N3WXROWWhFMTQteGdENERmeUJNM0czRC1YMWdKbTMwUWtqNEhBWWpoRHM0M1lwNS1vZzhYNFRIaGtVZzE5ZHJ0SVJCNGFZd2RtdUYwQTR3VnJGMjFhak1ZTGtaLTRWdzNsZ2RpTFpEa09telJzMzByeVktYkJJb3E5OVQwZEg4TTJrWmdaM",
-        "title": "OMS desaconselha medicamentos e cirurgia para obesidade em crianças - Público"
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeXhpLTJvODFucmhiVFN2eWRuemY5dDJTc2RmV2t1dThOV3puSnNuWUs5b3JaVk1jSFJLeWFTbEZwTnc3Zm9pNGFQdXFmRTQ5bm5WX3ZmSTJOZ1VWY05VakhlQmlFNGhSNDBnQm9UMkR4MDRzWnFjLXVDNWJGRUZYVUM0QXdSc2VYd1VfbFBlSVd2bVNkQXRhTEZtdGk0bEJSa0VvS3JUV0tScndvRjlZMzV1QlBxVk1neldfaEVB?oc=5",
+        "date": "2026-10-07T08:29:16.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPeXhpLTJvODFucmhiVFN2eWRuemY5dDJTc2RmV2t1dThOV3puSnNuWUs5b3JaVk1jSFJLeWFTbEZwTnc3Zm9pNGFQdXFmRTQ5bm5WX3ZmSTJOZ1VWY05VakhlQmlFNGhSNDBnQm9UMkR4MDRzWnFjLXVDNWJGRUZYVUM0QXdSc2VYd1VfbFBlSVd2bVNkQXRhTEZtdGk0bEJSa0VvS3JUV0tScndvRjlZMzV1QlBxVk1neldfaEVB?oc=5\" target=\"_blank\">OMS desaconselha medicamentos e cirurgia para obesidade em menores de dez anos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbmVzZkZLbjNBQjdKclV3a1BSRkktczVJd0tVb1oycUJpOF9hdDdGX3BFQmkxWmdzLTRyWFJwRGtRSXBTWWloSU0yNnFQQ24zNWdJSWZLc0d1QkdiS2pBLVpfZkZXeDNmT2JDZ1VrMjNkS05nTU9WazNQRGpKNlRjc2RWVG",
+        "title": "OMS desaconselha medicamentos e cirurgia para obesidade em menores de dez anos - RTP"
       }
     ],
     "title": "OMS desaconselha medicamentos e cirurgia para obesidade em menores de dez anos",
-    "summary": "OMS desaconselha medicamentos e cirurgia para obesidade em menores de dez anos A Organização Mundial da Saúde (OMS) recomendou hoje que crianças com menos de 10 anos com obesidade não sejam tratadas com medicamentos para perda de peso ou cirurgia, defendendo que sejam privilegiadas outras formas de tratamento.\nOMS desaconselha medicamentos e cirurgia para obesidade em crianças - Público <ol><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaG9QMHZzR1VRLWRDYU4tS1Rwd3d1Sjh5YnJQalZuczVZTE8wSWprY0VWVWxsWTB0dFExWHo5ODNRWHFXQ2tKSDEyTlVzYzhQSlRnSWtFQ1J1VGFtRE9reTVrZVYxSnc0MTRjNDZJLV9MZ0xHM1lzeGJaeEU1WFBNNEpRekJJcVNRbzA3bTd3Rk1WRkV1Y1RaeFZNSHpuRUVleThpenVyenNBZzhYYV8zYlpudkNPWUpi?oc=5\" target=\"_blank\">OMS desaconselha medicamentos e cirurgia para obesidade em crianças</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Público</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipgJBVV95cUxOX1N3WXROWWhFMTQteGdENERmeUJNM0czRC1YMWdKbTMwUWtqNEhBWWpoRHM0M1lwNS1vZzhYNFRIaGtVZzE5ZHJ0SVJCNGFZd2RtdUYwQTR3VnJGMjFhak1ZTGtaLTRWdzNsZ2RpTFpEa09telJzMzByeVktYkJJb3E5OVQwZEg4TTJrWmdaM"
-  },
-  {
-    "id": "story-52",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-07T09:18:50.000Z",
-    "sources": [
-      {
-        "source": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/ifo-institut-oelkonzerne-geben-tankrabatt-bislang-nur-teilweise-weiter-102.html",
-        "date": "2026-10-07T09:18:50.000Z",
-        "snippet": "Der sogenannte Tankrabatt kommt dem Ifo-Institut zufolge nicht vollständig bei den Verbrauchern an.",
-        "title": "Steuersenkung - Ifo-Institut: Ölkonzerne geben Tankrabatt bislang nur teilweise weiter"
-      },
-      {
-        "source": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/wirtschaft/service/ifo-oelkonzerne-geben-tankrabatt-bislang-nur-teilweise-weiter-a-4c3eed49-6cf7-4450-beeb-3fa30088735d#ref=rss",
-        "date": "2026-10-07T07:10:00.000Z",
-        "snippet": "Die Spritkonzerne haben die Preise für Benzin und Diesel trotz Tankrabatt zuletzt wieder kräftig angezogen. Laut einer Auswertung des Ifo-Instituts könnte das nicht nur am Ölpreis liegen.",
-        "title": "Ifo: Ölkonzerne geben Tankrabatt bislang nur teilweise weiter"
-      }
-    ],
-    "title": "Steuersenkung - Ifo-Institut: Ölkonzerne geben Tankrabatt bislang nur teilweise weiter",
-    "summary": "Steuersenkung - Ifo-Institut: Ölkonzerne geben Tankrabatt bislang nur teilweise weiter Der sogenannte Tankrabatt kommt dem Ifo-Institut zufolge nicht vollständig bei den Verbrauchern an.\nIfo: Ölkonzerne geben Tankrabatt bislang nur teilweise weiter Die Spritkonzerne haben die Preise für Benzin und Diesel trotz Tankrabatt zuletzt wieder kräftig angezogen. Laut einer Auswertung des Ifo-Instituts könnte das nicht nur am Ölpreis liegen."
-  },
-  {
-    "id": "story-61",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "BY",
-    "date": "2026-10-07T09:18:50.000Z",
-    "sources": [
-      {
-        "source": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/reiche-sieht-keinen-gasmangel-in-deutschland-im-winter-100.html",
-        "date": "2026-10-07T09:18:50.000Z",
-        "snippet": "Bundeswirtschaftsministerin Reiche befürchtet für diesen Winter trotz vergleichsweise niedriger Speicherstände keinen Gasmangel in Deutschland.",
-        "title": "Energie - Reiche sieht keinen Gasmangel in Deutschland im Winter"
-      },
-      {
-        "source": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/wirtschaftsministerin-reiche-kein-gasmangel-in-deutschland,VXKiMBg",
-        "date": "2026-10-07T04:54:02.000Z",
-        "snippet": "Die Füllstände der Gasspeicher liegen aktuell auf einem vergleichsweise niedrigen Niveau von derzeit rund 59 Prozent. Bundeswirtschaftsministerin Reiche sieht trotzdem für diesen Winter keinen Gasmangel in Deutschland.",
-        "title": "Wirtschaftsministerin Reiche: Kein Gasmangel in Deutschland"
-      }
-    ],
-    "title": "Energie - Reiche sieht keinen Gasmangel in Deutschland im Winter",
-    "summary": "Energie - Reiche sieht keinen Gasmangel in Deutschland im Winter Bundeswirtschaftsministerin Reiche befürchtet für diesen Winter trotz vergleichsweise niedriger Speicherstände keinen Gasmangel in Deutschland.\nWirtschaftsministerin Reiche: Kein Gasmangel in Deutschland Die Füllstände der Gasspeicher liegen aktuell auf einem vergleichsweise niedrigen Niveau von derzeit rund 59 Prozent. Bundeswirtschaftsministerin Reiche sieht trotzdem für diesen Winter keinen Gasmangel in Deutschland."
-  },
-  {
-    "id": "story-103",
-    "topic": "wirtschaft",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-07T09:11:42.000Z",
-    "sources": [
-      {
-        "source": "Handelsblatt",
-        "url": "https://www.handelsblatt.com/politik/deutschland/mobilitaetskosten-ifo-tankrabatt-bisher-nur-teilweise-weitergegeben/100260313.html",
-        "date": "2026-10-07T09:11:42.000Z",
-        "snippet": "In den ersten Tagen fehlt den Wirtschaftswissenschaftlern zufolge ein Stück zwischen Rückgang und Steuerrabatt. Auch der ADAC sieht Defizite. Aktuell geben die Preise nach.",
-        "title": "Mobilitätskosten: Ifo: Tankrabatt bisher nur teilweise weitergegeben"
-      },
-      {
-        "source": "Süddeutsche Zeitung",
-        "url": "https://www.sueddeutsche.de/wirtschaft/tankrabatt-ifo-institut-spritpreise-diesel-entwicklung-verbraucher-li.3559725",
-        "date": "2026-10-07T06:38:46.000Z",
-        "snippet": "Die Münchner Wirtschaftsforscher analysieren – wie schon im Frühjahr und Sommer – die Preise an den Zapfsäulen. In den ersten Tagen fehlt ein Stück zwischen Preisrückgang und Steuerrabatt.",
-        "title": "Ifo-Institut: Tankrabatt bisher nur teilweise weitergegeben"
-      }
-    ],
-    "title": "Mobilitätskosten: Ifo: Tankrabatt bisher nur teilweise weitergegeben",
-    "summary": "Mobilitätskosten: Ifo: Tankrabatt bisher nur teilweise weitergegeben In den ersten Tagen fehlt den Wirtschaftswissenschaftlern zufolge ein Stück zwischen Rückgang und Steuerrabatt. Auch der ADAC sieht Defizite. Aktuell geben die Preise nach.\nIfo-Institut: Tankrabatt bisher nur teilweise weitergegeben Die Münchner Wirtschaftsforscher analysieren – wie schon im Frühjahr und Sommer – die Preise an den Zapfsäulen. In den ersten Tagen fehlt ein Stück zwischen Preisrückgang und Steuerrabatt."
-  },
-  {
-    "id": "story-174",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-07T08:50:00.000Z",
-    "sources": [
-      {
-        "source": "ZDF heute",
-        "url": "https://www.zdfheute.de/panorama/prominente/eva-marie-saint-hollywood-oscar-preistraegerin-verstorben-100.html",
-        "date": "2026-10-07T08:50:00.000Z",
-        "snippet": "Gleich mit ihrem ersten Film gewann Eva Marie Saint einen Oscar - 1955 war das. Am Dienstag ist die Hollywood-Schauspielerin im Alter von 102 Jahren verstorben.",
-        "title": "Oscar-Preisträgerin Eva Marie Saint mit 102 Jahren gestorben"
-      },
-      {
-        "source": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/kultur/kino/eva-marie-saint-ist-tot-oscarpreistraegerin-mit-102-jahren-gestorben-a-7b5844a7-f9d1-41f6-bc63-2b826784db47#ref=rss",
-        "date": "2026-10-07T00:20:00.000Z",
-        "snippet": "Sie stand mit Marlon Brando vor der Kamera und holte einen Oscar, sie war die unterkühlte Blonde, die Cary Grant in »Der unsichtbare Dritte« austrickste: Schauspielerin Eva Marie Saint, eine der letzten Repräsentatinnen von Hollywoods goldener Ära. Jetzt ist sie in Los Angeles gestorben.",
-        "title": "Eva Marie Saint ist tot: Oscarpreisträgerin mit 102 Jahren gestorben"
-      }
-    ],
-    "title": "Oscar-Preisträgerin Eva Marie Saint mit 102 Jahren gestorben",
-    "summary": "Oscar-Preisträgerin Eva Marie Saint mit 102 Jahren gestorben Gleich mit ihrem ersten Film gewann Eva Marie Saint einen Oscar - 1955 war das. Am Dienstag ist die Hollywood-Schauspielerin im Alter von 102 Jahren verstorben.\nEva Marie Saint ist tot: Oscarpreisträgerin mit 102 Jahren gestorben Sie stand mit Marlon Brando vor der Kamera und holte einen Oscar, sie war die unterkühlte Blonde, die Cary Grant in »Der unsichtbare Dritte« austrickste: Schauspielerin Eva Marie Saint, eine der letzten Repräsentatinnen von Hollywoods goldener Ära. Jetzt ist sie in Los Angeles gestorben."
-  },
-  {
-    "id": "story-247",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "BY",
-    "date": "2026-10-07T08:27:40.000Z",
-    "sources": [
-      {
-        "source": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/kultur/hollywood-legende-eva-marie-saint-ist-tot,VXLc3K4",
-        "date": "2026-10-07T08:27:40.000Z",
-        "snippet": "Die US-Schauspielerin Eva Marie Saint ist im Alter von 102 Jahren gestorben. Ihre bekannteste Rolle hatte sie im Hitchcock-Thriller \"Der unsichtbare Dritte\" an der Seite von Cary Grant. Für ihre Rolle in \"Die Faust im Nacken\" bekam sie einen Oscar.",
-        "title": "Hollywood-Legende Eva Marie Saint ist tot"
-      },
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/kultur/eva-marie-saint-gestorben-100.html",
-        "date": "2026-10-07T07:07:20.000Z",
-        "snippet": "Berühmt wurde sie 1954 mit ihrem Filmdebüt \"Die Faust im Nacken\" an der Seite von Marlon Brando. Ein jüngeres Publikum kennt sie aus \"Superman Returns\": Nun ist die Schauspielerin Eva Marie Saint mit 102 Jahren gestorben.",
-        "title": "Hollywood-Legende Eva Marie Saint mit 102 Jahren gestorben"
-      }
-    ],
-    "title": "Hollywood-Legende Eva Marie Saint ist tot",
-    "summary": "Hollywood-Legende Eva Marie Saint ist tot Die US-Schauspielerin Eva Marie Saint ist im Alter von 102 Jahren gestorben. Ihre bekannteste Rolle hatte sie im Hitchcock-Thriller \"Der unsichtbare Dritte\" an der Seite von Cary Grant. Für ihre Rolle in \"Die Faust im Nacken\" bekam sie einen Oscar.\nHollywood-Legende Eva Marie Saint mit 102 Jahren gestorben Berühmt wurde sie 1954 mit ihrem Filmdebüt \"Die Faust im Nacken\" an der Seite von Marlon Brando. Ein jüngeres Publikum kennt sie aus \"Superman Returns\": Nun ist die Schauspielerin Eva Marie Saint mit 102 Jahren gestorben."
-  },
-  {
-    "id": "story-252",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "BE",
-    "date": "2026-10-07T08:25:25.000Z",
-    "sources": [
-      {
-        "source": "RND",
-        "url": "https://www.rnd.de/kultur/robbie-williams-ist-headliner-fuer-lollapalooza-berlin-QAZUSOGFY5CSFOEJEFLXXYL6J4.html",
-        "date": "2026-10-07T08:25:25.000Z",
-        "snippet": "Der Popstar wird im Berliner Olympiapark auftreten. Auch die Band The Neighbourhood und Singer-Songwriter Sombr stehen dieses Jahr auf der Bühne.",
-        "title": "Robbie Williams ist Headliner für Lollapalooza Berlin 2027"
-      },
-      {
-        "source": "Tagesschau Regional Berlin",
-        "url": "https://www.tagesschau.de/inland/regional/berlin/rbb-berlin-robbie-williams-kommt-2027-zum-lollapalooza-festival-100.html",
-        "date": "2026-10-07T06:57:00.000Z",
-        "snippet": "Berlin: Robbie Williams kommt 2027 zum Lollapalooza-Festival",
-        "title": "Berlin: Robbie Williams kommt 2027 zum Lollapalooza-Festival"
-      }
-    ],
-    "title": "Robbie Williams ist Headliner für Lollapalooza Berlin 2027",
-    "summary": "Robbie Williams ist Headliner für Lollapalooza Berlin 2027 Der Popstar wird im Berliner Olympiapark auftreten. Auch die Band The Neighbourhood und Singer-Songwriter Sombr stehen dieses Jahr auf der Bühne.\nBerlin: Robbie Williams kommt 2027 zum Lollapalooza-Festival Berlin: Robbie Williams kommt 2027 zum Lollapalooza-Festival"
-  },
-  {
-    "id": "story-412",
-    "topic": "panorama",
-    "country": "UK",
-    "stateHint": "",
-    "date": "2026-10-07T07:07:22.000Z",
-    "sources": [
-      {
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-07T07:07:22.000Z",
-        "snippet": "Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.",
-        "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say"
-      },
-      {
-        "source": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aRjVnWVJiTzNSTjFzVmZMWWpUdGZZbFdkSW9GekZMc0M4N3BrY3pkejRBWWZaSEVZTC1aeHRmQ0ZMQXdKWFpId3BxRXc3YkRQd2xVbU5DaHRkMGM?oc=5",
-        "date": "2026-10-07T07:07:22.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aRjVnWVJiTzNSTjFzVmZMWWpUdGZZbFdkSW9GekZMc0M4N3BrY3pkejRBWWZaSEVZTC1aeHRmQ0ZMQXdKWFpId3BxRXc3YkRQd2xVbU5DaHRkMGM?oc=5\" target=\"_blank\">US death row inmate Christa Pike awake and speaking after failed execution, lawyers say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-        "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say - BBC"
-      }
-    ],
-    "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
-    "summary": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.\nUS death row inmate Christa Pike awake and speaking after failed execution, lawyers say - BBC <a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aRjVnWVJiTzNSTjFzVmZMWWpUdGZZbFdkSW9GekZMc0M4N3BrY3pkejRBWWZaSEVZTC1aeHRmQ0ZMQXdKWFpId3BxRXc3YkRQd2xVbU5DaHRkMGM?oc=5\" target=\"_blank\">US death row inmate Christa Pike awake and speaking after failed execution, lawyers say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>"
-  },
-  {
-    "id": "story-431",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-07T06:51:43.000Z",
-    "sources": [
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/asien/todesfall-lungenpest-russland-100.html",
-        "date": "2026-10-07T06:51:43.000Z",
-        "snippet": "Noch immer ist unklar, woran die Labormitarbeiterin in Russland gestorben ist. Die Weltgesundheitsorganisation ist angesichts des Pest-Verdachts in Sorge. US-Präsident Trump kündigt ein Gespräch mit Putin an.",
-        "title": "Lungenpest-Verdacht in Russland - WHO und USA fordern Aufklärung"
-      },
-      {
-        "source": "ZDF heute",
-        "url": "https://www.zdfheute.de/politik/ausland/lungenpest-verdacht-russland-who-hilfe-100.html",
-        "date": "2026-10-07T01:26:00.000Z",
-        "snippet": "Der Tod einer 28-Jährigen in Sibirien wirft Fragen auf. Die WHO will die Ursache finden - und US-Präsident Donald Trump möchte mit Putin telefonieren.",
-        "title": "Lungenpest-Verdacht: WHO und USA fordern Infos von Russland"
-      }
-    ],
-    "title": "Lungenpest-Verdacht in Russland - WHO und USA fordern Aufklärung",
-    "summary": "Lungenpest-Verdacht in Russland - WHO und USA fordern Aufklärung Noch immer ist unklar, woran die Labormitarbeiterin in Russland gestorben ist. Die Weltgesundheitsorganisation ist angesichts des Pest-Verdachts in Sorge. US-Präsident Trump kündigt ein Gespräch mit Putin an.\nLungenpest-Verdacht: WHO und USA fordern Infos von Russland Der Tod einer 28-Jährigen in Sibirien wirft Fragen auf. Die WHO will die Ursache finden - und US-Präsident Donald Trump möchte mit Putin telefonieren."
-  },
-  {
-    "id": "story-487",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-07T06:13:00.000Z",
-    "sources": [
-      {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUUczWUlrMkJFT0gwVW5JS3h3NExRRlB2R2t3c0NqS1Q0b2daQThQdkxWbXNLaWVlRUo1SXA1V0ZQWmh1dFRWVmlwaXlfRGN2bElyYUVlR05VUFU4bkZURWYxdDN2S0wyS1A2b29XSnN2ckE5em83TzFvWS16UFJ2amNOVmJXX3paTXphLXYwaXB1V1lBTzRjUU9DTThDRGlDa3hidy10b3VvZnF4LWJoNkJ1WVh2S0t6WG1MX0tfTkp1TzJsYWtfYjVpWnljQkE4Zy1jNFhFTzFkS3ZmSWZZejJWSmUxNFpGbHhQTll4SFQ?oc=5",
-        "date": "2026-10-07T06:13:00.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUUczWUlrMkJFT0gwVW5JS3h3NExRRlB2R2t3c0NqS1Q0b2daQThQdkxWbXNLaWVlRUo1SXA1V0ZQWmh1dFRWVmlwaXlfRGN2bElyYUVlR05VUFU4bkZURWYxdDN2S0wyS1A2b29XSnN2ckE5em83TzFvWS16UFJ2amNOVmJXX3paTXphLXYwaXB1V1lBTzRjUU9DTThDRGlDa3hidy10b3VvZnF4LWJoNkJ1WVh2S0t6WG1MX0tfTkp1TzJsYWtfYjVpWnljQkE4Zy1jNFhFTzFkS3ZmSWZZejJWSmUxNFpGbHhQTll4SFQ?oc=5\" target=\"_blank\">Deutsche Bahn: Koalition einigt sich auf Antrag zu Strecke Hannover-Hamburg</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9zVWNzNnd2V0lTekE2dWpvMU04aFZiVWtmdXdVWnN2SVFOZWdLc3A0aGpJNWNXS0JsUXh1RkRHYUNIcXdzSnpjMVFvU0JqdlE2am",
-        "title": "Deutsche Bahn: Koalition einigt sich auf Antrag zu Strecke Hannover-Hamburg - Spiegel"
-      },
-      {
-        "source": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-koalition-einigt-sich-auf-antrag-zu-strecke-hannover-hamburg-a-485ef924-4ad1-4730-8942-e3ac5e99e265#ref=rss",
-        "date": "2026-10-07T06:13:00.000Z",
-        "snippet": "Verkehrsexperten aus Union und SPD haben sich Medienberichten zufolge für den Bau einer umstrittenen ICE-Neubaustrecke positioniert. Bereits diese Woche soll sich der Bundestag mit einem entsprechenden Antrag befassen.",
-        "title": "Deutsche Bahn: Koalition einigt sich auf Antrag zu Strecke Hannover-Hamburg"
-      }
-    ],
-    "title": "Deutsche Bahn: Koalition einigt sich auf Antrag zu Strecke Hannover-Hamburg - Spiegel",
-    "summary": "Deutsche Bahn: Koalition einigt sich auf Antrag zu Strecke Hannover-Hamburg - Spiegel <ol><li><a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUUczWUlrMkJFT0gwVW5JS3h3NExRRlB2R2t3c0NqS1Q0b2daQThQdkxWbXNLaWVlRUo1SXA1V0ZQWmh1dFRWVmlwaXlfRGN2bElyYUVlR05VUFU4bkZURWYxdDN2S0wyS1A2b29XSnN2ckE5em83TzFvWS16UFJ2amNOVmJXX3paTXphLXYwaXB1V1lBTzRjUU9DTThDRGlDa3hidy10b3VvZnF4LWJoNkJ1WVh2S0t6WG1MX0tfTkp1TzJsYWtfYjVpWnljQkE4Zy1jNFhFTzFkS3ZmSWZZejJWSmUxNFpGbHhQTll4SFQ?oc=5\" target=\"_blank\">Deutsche Bahn: Koalition einigt sich auf Antrag zu Strecke Hannover-Hamburg</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9zVWNzNnd2V0lTekE2dWpvMU04aFZiVWtmdXdVWnN2SVFOZWdLc3A0aGpJNWNXS0JsUXh1RkRHYUNIcXdzSnpjMVFvU0JqdlE2am\nDeutsche Bahn: Koalition einigt sich auf Antrag zu Strecke Hannover-Hamburg Verkehrsexperten aus Union und SPD haben sich Medienberichten zufolge für den Bau einer umstrittenen ICE-Neubaustrecke positioniert. Bereits diese Woche soll sich der Bundestag mit einem entsprechenden Antrag befassen."
-  },
-  {
-    "id": "story-502",
-    "topic": "politik",
-    "country": "US",
-    "stateHint": "",
-    "date": "2026-10-07T06:02:57.000Z",
-    "sources": [
-      {
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/10/07/nx-s1-5993459/israelis-oct-7-palestinians-war",
-        "date": "2026-10-07T06:02:57.000Z",
-        "snippet": "Israelis are gathering Wednesday to commemorate the Oct. 7, 2023, attack that killed 1,200 people, and sparked a devastating war in Gaza that Palestinians still grapple with.",
-        "title": "Israelis mourn on the anniversary of the Oct. 7 as Palestinians grapple with war it sparked"
-      },
-      {
-        "source": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWnMwVnRuMFgxOHVQeDMzbVdlOGZpV0ZDUG51RnJjYzlIMFRwZzdtLUsyZDFjOU03N0NLXzJoVDlrUFRxVGh5WDd6QU1mZkxkc1Izb0FKTXJ1djg1Z2hMYVZ6c3k1ZDZ0c2Z6QnRwbmt5MlRwUk9vOFp2cHo5QlVuLU05UkFxeEJ5UjZheXBEMjhVdlFpNVNzNmViT3NfMlZMaDlMbXFuTGl4ZkFxdE93LVhIYWU1STdKc3c?oc=5",
-        "date": "2026-10-07T04:03:00.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQWnMwVnRuMFgxOHVQeDMzbVdlOGZpV0ZDUG51RnJjYzlIMFRwZzdtLUsyZDFjOU03N0NLXzJoVDlrUFRxVGh5WDd6QU1mZkxkc1Izb0FKTXJ1djg1Z2hMYVZ6c3k1ZDZ0c2Z6QnRwbmt5MlRwUk9vOFp2cHo5QlVuLU05UkFxeEJ5UjZheXBEMjhVdlFpNVNzNmViT3NfMlZMaDlMbXFuTGl4ZkFxdE93LVhIYWU1STdKc3c?oc=5\" target=\"_blank\">Israelis mourn on the anniversary of the Oct. 7 attack as Palestinians grapple with war it sparked</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Audacy</font>",
-        "title": "Israelis mourn on the anniversary of the Oct. 7 attack as Palestinians grapple with war it sparked - Audacy"
-      }
-    ],
-    "title": "Israelis mourn on the anniversary of the Oct. 7 as Palestinians grapple with war it sparked",
-    "summary": "Israelis mourn on the anniversary of the Oct. 7 as Palestinians grapple with war it sparked Israelis are gathering Wednesday to commemorate the Oct. 7, 2023, attack that killed 1,200 people, and sparked a devastating war in Gaza that Palestinians still grapple with.\nIsraelis mourn on the anniversary of the Oct. 7 attack as Palestinians grapple with war it sparked - Audacy <a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQWnMwVnRuMFgxOHVQeDMzbVdlOGZpV0ZDUG51RnJjYzlIMFRwZzdtLUsyZDFjOU03N0NLXzJoVDlrUFRxVGh5WDd6QU1mZkxkc1Izb0FKTXJ1djg1Z2hMYVZ6c3k1ZDZ0c2Z6QnRwbmt5MlRwUk9vOFp2cHo5QlVuLU05UkFxeEJ5UjZheXBEMjhVdlFpNVNzNmViT3NfMlZMaDlMbXFuTGl4ZkFxdE93LVhIYWU1STdKc3c?oc=5\" target=\"_blank\">Israelis mourn on the anniversary of the Oct. 7 attack as Palestinians grapple with war it sparked</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Audacy</font>"
-  },
-  {
-    "id": "story-618",
-    "topic": "panorama",
-    "country": "UK",
-    "stateHint": "",
-    "date": "2026-10-07T04:22:07.000Z",
-    "sources": [
-      {
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cj62ylxqz173o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-07T04:22:07.000Z",
-        "snippet": "The former Bishop of Broome is one of the most senior Catholic clerics in the world to face sex abuse charges.",
-        "title": "Former Australian bishop jailed for sexually abusing young men"
-      },
-      {
-        "source": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SOVdXWDZ6VS0ybTdOak1iWGFSNjg4eldFQnZfeWs5OVNMSVdXeHJyRXduZEhOSGFReDhGRmxCWjlNMEtfdlA4MHZzRlB6eVl6VHE5WkN6dWozcTQ?oc=5",
-        "date": "2026-10-07T04:22:07.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SOVdXWDZ6VS0ybTdOak1iWGFSNjg4eldFQnZfeWs5OVNMSVdXeHJyRXduZEhOSGFReDhGRmxCWjlNMEtfdlA4MHZzRlB6eVl6VHE5WkN6dWozcTQ?oc=5\" target=\"_blank\">Christopher Saunders: Former Australian bishop jailed for sexually abusing young men</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-        "title": "Christopher Saunders: Former Australian bishop jailed for sexually abusing young men - BBC"
-      }
-    ],
-    "title": "Former Australian bishop jailed for sexually abusing young men",
-    "summary": "Former Australian bishop jailed for sexually abusing young men The former Bishop of Broome is one of the most senior Catholic clerics in the world to face sex abuse charges.\nChristopher Saunders: Former Australian bishop jailed for sexually abusing young men - BBC <a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SOVdXWDZ6VS0ybTdOak1iWGFSNjg4eldFQnZfeWs5OVNMSVdXeHJyRXduZEhOSGFReDhGRmxCWjlNMEtfdlA4MHZzRlB6eVl6VHE5WkN6dWozcTQ?oc=5\" target=\"_blank\">Christopher Saunders: Former Australian bishop jailed for sexually abusing young men</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>"
-  },
-  {
-    "id": "story-752",
-    "topic": "wirtschaft",
-    "country": "INT",
-    "stateHint": "",
-    "date": "2026-10-06T21:25:00.000Z",
-    "sources": [
-      {
-        "source": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOblJPSEtIeXQ3bTZRcGQzWUtSWEZJb3Z1azFfUUlPZzZpOU9WVTN5QzRrRnRYWk85bWpfQkM2djFIZDlfUW9pbXJxMGNOeWlyemdvWnFXb0VLbnJYMDJHUUNaRDBUTnVoakxiTU9GanBEVkp1QXNWcERFWG1zVzNRR2daRE43Vk5FY3doQ2VaZkxaSXFhQkhDV0FNcm9BQVQ1MkkzcXNPNFdwLURiSWwwNjVtN3U1WVBm?oc=5",
-        "date": "2026-10-06T21:25:00.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOblJPSEtIeXQ3bTZRcGQzWUtSWEZJb3Z1azFfUUlPZzZpOU9WVTN5QzRrRnRYWk85bWpfQkM2djFIZDlfUW9pbXJxMGNOeWlyemdvWnFXb0VLbnJYMDJHUUNaRDBUTnVoakxiTU9GanBEVkp1QXNWcERFWG1zVzNRR2daRE43Vk5FY3doQ2VaZkxaSXFhQkhDV0FNcm9BQVQ1MkkzcXNPNFdwLURiSWwwNjVtN3U1WVBm?oc=5\" target=\"_blank\">Israeli settlers beat press photographer as soldiers watch in West Bank</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
-        "title": "Israeli settlers beat press photographer as soldiers watch in West Bank - The Guardian"
-      },
-      {
-        "source": "Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/06/israeli-settlers-beat-press-photographer-as-soldiers-watch-in-west-bank",
-        "date": "2026-10-06T21:00:28.000Z",
-        "snippet": "<p>Jaafar Ashtiyeh was covering violence against olive farmers when settlers set upon him with the butts of their rifles </p><p>Armed Israeli settlers beat a photographer in the presence of Israeli soldiers, hospitalising him, as he covered worsening settler violence against olive farmers in the occupied West Bank.</p><p>Jaafar Ashtiyeh, a 58-year-old veteran photographer for Agence France-Presse in Palestine, was assaulted by a group of settlers, who beat him with the butts of their rifles, despite him being marked as press. He was assaulted in view of about a dozen armed Israeli soldiers.</p> <a href=\"https://www.theguardian.com/world/2026/oct/06/israeli-settlers-beat-press-photographer-as",
-        "title": "Israeli settlers beat press photographer as soldiers watch in West Bank"
-      }
-    ],
-    "title": "Israeli settlers beat press photographer as soldiers watch in West Bank - The Guardian",
-    "summary": "Israeli settlers beat press photographer as soldiers watch in West Bank - The Guardian <a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOblJPSEtIeXQ3bTZRcGQzWUtSWEZJb3Z1azFfUUlPZzZpOU9WVTN5QzRrRnRYWk85bWpfQkM2djFIZDlfUW9pbXJxMGNOeWlyemdvWnFXb0VLbnJYMDJHUUNaRDBUTnVoakxiTU9GanBEVkp1QXNWcERFWG1zVzNRR2daRE43Vk5FY3doQ2VaZkxaSXFhQkhDV0FNcm9BQVQ1MkkzcXNPNFdwLURiSWwwNjVtN3U1WVBm?oc=5\" target=\"_blank\">Israeli settlers beat press photographer as soldiers watch in West Bank</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>\nIsraeli settlers beat press photographer as soldiers watch in West Bank <p>Jaafar Ashtiyeh was covering violence against olive farmers when settlers set upon him with the butts of their rifles </p><p>Armed Israeli settlers beat a photographer in the presence of Israeli soldiers, hospitalising him, as he covered worsening settler violence against olive farmers in the occupied West Bank.</p><p>Jaafar Ashtiyeh, a 58-year-old veteran photographer for Agence France-Presse in Palestine, was assaulted by a group of settlers, who beat him with the butts of their rifles, despite him being marked as press. He was assaulted in view of about a dozen armed Israeli soldiers.</p> <a href=\"https://www.theguardian.com/world/2026/oct/06/israeli-settlers-beat-press-photographer-as"
-  },
-  {
-    "id": "story-786",
-    "topic": "politik",
-    "country": "UK",
-    "stateHint": "",
-    "date": "2026-10-06T20:15:31.000Z",
-    "sources": [
-      {
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-06T20:15:31.000Z",
-        "snippet": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
-        "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego"
-      },
-      {
-        "source": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93cEtTcmRaQm04RTdROTUtUm80V214eGRjaDlLcGh5d0NLcG9Ud1VnM1Vhc1hpTzV5VDI1ZjQ4ZHZqLVZReGFHX2xFOXVEeTVJWThpVm1HNWRQdkU?oc=5",
-        "date": "2026-10-06T20:15:31.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE93cEtTcmRaQm04RTdROTUtUm80V214eGRjaDlLcGh5d0NLcG9Ud1VnM1Vhc1hpTzV5VDI1ZjQ4ZHZqLVZReGFHX2xFOXVEeTVJWThpVm1HNWRQdkU?oc=5\" target=\"_blank\">White House defends Trump comment to let Iran 'take out' LA and San Diego</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-        "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego - BBC"
-      }
-    ],
-    "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-    "summary": "White House defends Trump comment to let Iran 'take out' LA and San Diego Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.\nWhite House defends Trump comment to let Iran 'take out' LA and San Diego - BBC <a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE93cEtTcmRaQm04RTdROTUtUm80V214eGRjaDlLcGh5d0NLcG9Ud1VnM1Vhc1hpTzV5VDI1ZjQ4ZHZqLVZReGFHX2xFOXVEeTVJWThpVm1HNWRQdkU?oc=5\" target=\"_blank\">White House defends Trump comment to let Iran 'take out' LA and San Diego</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>"
-  },
-  {
-    "id": "story-801",
-    "topic": "panorama",
-    "country": "INT",
-    "stateHint": "",
-    "date": "2026-10-06T19:42:27.000Z",
-    "sources": [
-      {
-        "source": "France24 English",
-        "url": "https://www.france24.com/en/german-ex-spy-chief-arrested-for-suspected-espionage-treason",
-        "date": "2026-10-06T19:42:27.000Z",
-        "snippet": "A former German spy chief was arrested Tuesday on suspicion of espionage and treason, an embarrassing case at a time when the country is seeking to broaden the powers of its intelligence agencies. August Hanning, who ran Germany's BND foreign intelligence agency from 1998 to 2005, is accused of espionage, treason and working for foreign intelligence services, federal prosecutors said. FRANCE 24's Nick Holdsworth reports from Berlin.",
-        "title": "German ex-spy chief arrested for suspected espionage, treason"
-      },
-      {
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-06T10:05:42.000Z",
-        "snippet": "August Hanning is accused of obtaining classified information for a foreign power.",
-        "title": "Former German spy chief arrested for espionage and treason"
-      }
-    ],
-    "title": "German ex-spy chief arrested for suspected espionage, treason",
-    "summary": "German ex-spy chief arrested for suspected espionage, treason A former German spy chief was arrested Tuesday on suspicion of espionage and treason, an embarrassing case at a time when the country is seeking to broaden the powers of its intelligence agencies. August Hanning, who ran Germany's BND foreign intelligence agency from 1998 to 2005, is accused of espionage, treason and working for foreign intelligence services, federal prosecutors said. FRANCE 24's Nick Holdsworth reports from Berlin.\nFormer German spy chief arrested for espionage and treason August Hanning is accused of obtaining classified information for a foreign power."
-  },
-  {
-    "id": "story-846",
-    "topic": "wissenschaft",
-    "country": "UK",
-    "stateHint": "",
-    "date": "2026-10-06T18:44:30.000Z",
-    "sources": [
-      {
-        "source": "Guardian Science",
-        "url": "https://www.theguardian.com/science/video/2026/oct/06/nobel-prize-in-physics-2026-high-energy-cosmic-neutrinos",
-        "date": "2026-10-06T18:44:30.000Z",
-        "snippet": "<p>Second up for the 2026 Nobel Prizes was the award for physics. And this year it went to just one scientist, Francis Halzen. The Belgian physicist won the prize based on his work on the IceCube detector that observes ghostly particles called neutrinos. Science editor Ian Sample tells host Madeleine Finlay how Halzen came up with the brilliant idea to use sensors buried in the ice to detect these extraterrestrial particles.</p> <a href=\"https://www.theguardian.com/science/video/2026/oct/06/nobel-prize-in-physics-2026-high-energy-cosmic-neutrinos\">Continue reading...</a>",
-        "title": "Nobel prize in physics 2026: high energy cosmic neutrinos"
-      },
-      {
-        "source": "New Scientist",
-        "url": "https://www.newscientist.com/article/2592237-nobel-prize-in-physics-awarded-for-discovery-of-high-energy-neutrinos/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-        "date": "2026-10-06T10:26:02.000Z",
-        "snippet": "The 2026 Nobel prize in physics has been won by Francis Halzen for his work on neutrinos, which serve as 'ghost-like messengers from the cosmos'",
-        "title": "Nobel prize in physics awarded for discovery of high-energy neutrinos"
-      }
-    ],
-    "title": "Nobel prize in physics 2026: high energy cosmic neutrinos",
-    "summary": "Nobel prize in physics 2026: high energy cosmic neutrinos <p>Second up for the 2026 Nobel Prizes was the award for physics. And this year it went to just one scientist, Francis Halzen. The Belgian physicist won the prize based on his work on the IceCube detector that observes ghostly particles called neutrinos. Science editor Ian Sample tells host Madeleine Finlay how Halzen came up with the brilliant idea to use sensors buried in the ice to detect these extraterrestrial particles.</p> <a href=\"https://www.theguardian.com/science/video/2026/oct/06/nobel-prize-in-physics-2026-high-energy-cosmic-neutrinos\">Continue reading...</a>\nNobel prize in physics awarded for discovery of high-energy neutrinos The 2026 Nobel prize in physics has been won by Francis Halzen for his work on neutrinos, which serve as 'ghost-like messengers from the cosmos'"
-  },
-  {
-    "id": "story-901",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "HH",
-    "date": "2026-10-06T17:47:45.000Z",
-    "sources": [
-      {
-        "source": "NDR Hamburg",
-        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/spionageverdacht-ex-bnd-praesident-hanning-festgenommen,hamj-15292.html",
-        "date": "2026-10-06T17:47:45.000Z",
-        "snippet": "August Hanning soll Dokumente an fremde Nachrichtendienste veräußert haben. Die Beweismittel tauchten am Rande des Block-Prozesses auf.",
-        "title": "Spionageverdacht: Ex-BND-Präsident Hanning festgenommen"
-      },
-      {
-        "source": "DW Deutsch",
-        "url": "https://www.dw.com/de/spionageverdacht-ex-bnd-präsident-august-hanning-festgenommen/a-79560433?maca=de-rss-de-all-1119-xml-mrss",
-        "date": "2026-10-06T13:53:00.000Z",
-        "snippet": "Der ehemalige BND-Präsident August Hanning wurde festgenommen. Die Ermittler werfen ihm vor, geheime BND-Informationen beschafft und an ausländische Akteure weitergegeben zu haben.",
-        "title": "Spionageverdacht: Ex-BND-Präsident August Hanning festgenommen"
-      }
-    ],
-    "title": "Spionageverdacht: Ex-BND-Präsident Hanning festgenommen",
-    "summary": "Spionageverdacht: Ex-BND-Präsident Hanning festgenommen August Hanning soll Dokumente an fremde Nachrichtendienste veräußert haben. Die Beweismittel tauchten am Rande des Block-Prozesses auf.\nSpionageverdacht: Ex-BND-Präsident August Hanning festgenommen Der ehemalige BND-Präsident August Hanning wurde festgenommen. Die Ermittler werfen ihm vor, geheime BND-Informationen beschafft und an ausländische Akteure weitergegeben zu haben."
-  },
-  {
-    "id": "story-948",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-06T16:30:01.000Z",
-    "sources": [
-      {
-        "source": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/inland/innenpolitik/magdeburg-afd-landtagspraesident-100.html",
-        "date": "2026-10-06T16:30:01.000Z",
-        "snippet": "Erstmals stellt die AfD einen Landtagspräsidenten. Die Wahl von Tobias Rausch in Sachsen-Anhalt bringt vor allem einen Politiker der CDU in Bedrängnis: Noch-Ministerpräsident Sven…",
-        "title": "AfD-Erfolg bringt CDU und Schulze in Bedrängnis"
-      },
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/inland/innenpolitik/magdeburg-afd-landtagspraesident-100.html",
-        "date": "2026-10-06T16:22:39.000Z",
-        "snippet": "Erstmals stellt die AfD einen Landtagspräsidenten. Die Wahl von Tobias Rausch in Sachsen-Anhalt bringt vor allem einen Politiker der CDU in Bedrängnis: Noch-Ministerpräsident Sven Schulze. Steht seine Fraktion noch hinter ihm? Von L. Frohmüller.",
-        "title": "Sachsen-Anhalt: AfD-Erfolg bringt CDU und Schulze in Bedrängnis"
-      }
-    ],
-    "title": "AfD-Erfolg bringt CDU und Schulze in Bedrängnis",
-    "summary": "AfD-Erfolg bringt CDU und Schulze in Bedrängnis Erstmals stellt die AfD einen Landtagspräsidenten. Die Wahl von Tobias Rausch in Sachsen-Anhalt bringt vor allem einen Politiker der CDU in Bedrängnis: Noch-Ministerpräsident Sven…\nSachsen-Anhalt: AfD-Erfolg bringt CDU und Schulze in Bedrängnis Erstmals stellt die AfD einen Landtagspräsidenten. Die Wahl von Tobias Rausch in Sachsen-Anhalt bringt vor allem einen Politiker der CDU in Bedrängnis: Noch-Ministerpräsident Sven Schulze. Steht seine Fraktion noch hinter ihm? Von L. Frohmüller."
-  },
-  {
-    "id": "story-1008",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-06T14:58:00.000Z",
-    "sources": [
-      {
-        "source": "DW Deutsch",
-        "url": "https://www.dw.com/de/spionageverdacht-gegen-august-hanning-ehemaliger-chef-des-bundesnachrichtendienstes-festgenommen/a-79564909?maca=de-rss-de-all-1119-xml-mrss",
-        "date": "2026-10-06T14:58:00.000Z",
-        "snippet": "Noch ist es nur ein Verdacht. Aber ausgerechnet dem früheren Leiter des deutschen Auslandsgeheimdienst wird Agententätigkeit für das Ausland vorgeworfen.",
-        "title": "Spionageverdacht gegen August Hanning: Ehemaliger Chef des Bundesnachrichtendienstes festgenommen"
-      },
-      {
-        "source": "SWR Aktuell",
-        "url": "https://www.swr.de/swraktuell-radio/bnd-hanning-festnahme-spionageverdacht-block-100.html",
-        "date": "2026-10-06T10:51:35.000Z",
-        "snippet": "Der frühere Chef des Bundesnachrichtendienstes, August Hanning, ist festgenommen worden. Er steht unter Spionageverdacht. SWR-Terrorismusexperte Holger Schmidt informiert über Hintergründe.",
-        "title": "Ex-BND-Chef Hanning festgenommen - Spionageverdacht"
-      }
-    ],
-    "title": "Spionageverdacht gegen August Hanning: Ehemaliger Chef des Bundesnachrichtendienstes festgenommen",
-    "summary": "Spionageverdacht gegen August Hanning: Ehemaliger Chef des Bundesnachrichtendienstes festgenommen Noch ist es nur ein Verdacht. Aber ausgerechnet dem früheren Leiter des deutschen Auslandsgeheimdienst wird Agententätigkeit für das Ausland vorgeworfen.\nEx-BND-Chef Hanning festgenommen - Spionageverdacht Der frühere Chef des Bundesnachrichtendienstes, August Hanning, ist festgenommen worden. Er steht unter Spionageverdacht. SWR-Terrorismusexperte Holger Schmidt informiert über Hintergründe."
-  },
-  {
-    "id": "story-1022",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "BY",
-    "date": "2026-10-06T14:41:33.000Z",
-    "sources": [
-      {
-        "source": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/ex-bnd-praesident-hanning-wegen-spionageverdacht-festgenommen,VXFtPFD",
-        "date": "2026-10-06T14:41:33.000Z",
-        "snippet": "Der frühere BND-Präsident August Hanning ist unter Spionageverdacht festgenommen worden. Auch sein früherer Büroleiter wurde verhaftet und sitzt nun in Untersuchungshaft. Er soll Hanning mit streng geheimen Informationen versorgt haben.",
-        "title": "Verdacht auf Spionage: Ex-BND-Präsident Hanning festgenommen"
-      },
-      {
-        "source": "ZDF heute",
-        "url": "https://www.zdfheute.de/politik/deutschland/august-hanning-ex-bnd-chef-spionage-100.html",
-        "date": "2026-10-06T11:02:00.000Z",
-        "snippet": "Ermittler haben am Morgen den ehemaligen BND-Präsidenten August Hanning festgenommen. Er steht unter Spionageverdacht. Auch sein ehemaliger Büroleiter sitzt in Haft.",
-        "title": "Spionage-Verdacht: Ex-BND-Chef Hanning festgenommen"
-      }
-    ],
-    "title": "Verdacht auf Spionage: Ex-BND-Präsident Hanning festgenommen",
-    "summary": "Verdacht auf Spionage: Ex-BND-Präsident Hanning festgenommen Der frühere BND-Präsident August Hanning ist unter Spionageverdacht festgenommen worden. Auch sein früherer Büroleiter wurde verhaftet und sitzt nun in Untersuchungshaft. Er soll Hanning mit streng geheimen Informationen versorgt haben.\nSpionage-Verdacht: Ex-BND-Chef Hanning festgenommen Ermittler haben am Morgen den ehemaligen BND-Präsidenten August Hanning festgenommen. Er steht unter Spionageverdacht. Auch sein ehemaliger Büroleiter sitzt in Haft."
-  },
-  {
-    "id": "story-1063",
-    "topic": "wissenschaft",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-06T13:42:12.000Z",
-    "sources": [
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/wissen/nobelpreis-physik-francis-halzen-100.html",
-        "date": "2026-10-06T13:42:12.000Z",
-        "snippet": "Der Nobelpreis für Physik geht an den belgisch-amerikanischen Forscher Francis Halzen. Der Wissenschaftler erhalte die Auszeichnung für seine Pionierarbeit bei der Erforschung von Neutrinos - also Elementarteilchen - am Südpol, wie das Nobelkomitee mitteilte.",
-        "title": "Nobelpreis für Physik geht an Neutrinoforscher Francis Halzen"
-      },
-      {
-        "source": "DW Deutsch",
-        "url": "https://www.dw.com/de/physik-nobelpreis-geht-an-francis-halzen-aus-belgien/a-79558576?maca=de-rss-de-all-1119-xml-mrss",
-        "date": "2026-10-06T10:07:00.000Z",
-        "snippet": "In der Arktis fängt ein riesiger Eiswürfel \"Geisterteilchen\" ein. Die wissenschaftlichen Grundlagen dafür gehen zum Teil auf die Arbeit des diesjährigen Nobelpreisträgers für Physik zurück.",
-        "title": "Physik-Nobelpreis geht an Francis Halzen aus Belgien"
-      }
-    ],
-    "title": "Nobelpreis für Physik geht an Neutrinoforscher Francis Halzen",
-    "summary": "Nobelpreis für Physik geht an Neutrinoforscher Francis Halzen Der Nobelpreis für Physik geht an den belgisch-amerikanischen Forscher Francis Halzen. Der Wissenschaftler erhalte die Auszeichnung für seine Pionierarbeit bei der Erforschung von Neutrinos - also Elementarteilchen - am Südpol, wie das Nobelkomitee mitteilte.\nPhysik-Nobelpreis geht an Francis Halzen aus Belgien In der Arktis fängt ein riesiger Eiswürfel \"Geisterteilchen\" ein. Die wissenschaftlichen Grundlagen dafür gehen zum Teil auf die Arbeit des diesjährigen Nobelpreisträgers für Physik zurück."
-  },
-  {
-    "id": "story-1094",
-    "topic": "wissenschaft",
-    "country": "US",
-    "stateHint": "",
-    "date": "2026-10-06T13:00:00.000Z",
-    "sources": [
-      {
-        "source": "NASA",
-        "url": "https://science.nasa.gov/missions/webb/nasas-webb-captures-commotion-from-nebulas-stellar-jets/",
-        "date": "2026-10-06T13:00:00.000Z",
-        "snippet": "A cauldron of cosmic creation is being revealed in a new image from NASA’s James Webb Space Telescope. Webb has unveiled numerous stars formerly hidden by clouds of dust in a stellar nursery known as NGC 7129, which resides about 3,300 light-years from Earth. Stars, the engines of elemental creation, have life cycles that begin […]",
-        "title": "NASA’s Webb Captures Commotion From Nebula’s Stellar Jets"
-      },
-      {
-        "source": "ESA",
-        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Webb_captures_commotion_from_nebula_s_stellar_jets",
-        "date": "2026-10-06T13:00:00.000Z",
-        "snippet": "Image: Webb captures commotion from nebula’s stellar jets",
-        "title": "Webb captures commotion from nebula’s stellar jets"
-      }
-    ],
-    "title": "NASA’s Webb Captures Commotion From Nebula’s Stellar Jets",
-    "summary": "NASA’s Webb Captures Commotion From Nebula’s Stellar Jets A cauldron of cosmic creation is being revealed in a new image from NASA’s James Webb Space Telescope. Webb has unveiled numerous stars formerly hidden by clouds of dust in a stellar nursery known as NGC 7129, which resides about 3,300 light-years from Earth. Stars, the engines of elemental creation, have life cycles that begin […]\nWebb captures commotion from nebula’s stellar jets Image: Webb captures commotion from nebula’s stellar jets"
+    "summary": "OMS desaconselha medicamentos e cirurgia para obesidade em menores de dez anos A Organização Mundial da Saúde (OMS) recomendou hoje que crianças com menos de 10 anos com obesidade não sejam tratadas com medicamentos para perda de peso ou cirurgia, defendendo que sejam privilegiadas outras formas de tratamento.\nOMS desaconselha medicamentos e cirurgia para obesidade em menores de dez anos - RTP <ol><li><a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPeXhpLTJvODFucmhiVFN2eWRuemY5dDJTc2RmV2t1dThOV3puSnNuWUs5b3JaVk1jSFJLeWFTbEZwTnc3Zm9pNGFQdXFmRTQ5bm5WX3ZmSTJOZ1VWY05VakhlQmlFNGhSNDBnQm9UMkR4MDRzWnFjLXVDNWJGRUZYVUM0QXdSc2VYd1VfbFBlSVd2bVNkQXRhTEZtdGk0bEJSa0VvS3JUV0tScndvRjlZMzV1QlBxVk1neldfaEVB?oc=5\" target=\"_blank\">OMS desaconselha medicamentos e cirurgia para obesidade em menores de dez anos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbmVzZkZLbjNBQjdKclV3a1BSRkktczVJd0tVb1oycUJpOF9hdDdGX3BFQmkxWmdzLTRyWFJwRGtRSXBTWWloSU0yNnFQQ24zNWdJSWZLc0d1QkdiS2pBLVpfZkZXeDNmT2JDZ1VrMjNkS05nTU9WazNQRGpKNlRjc2RWVG"
   }
 ]
