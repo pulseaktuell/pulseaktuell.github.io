@@ -1,5 +1,472 @@
 [
   {
+    "id": "story-c14073e95f770a50",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-09T01:23:40.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Festnahme nach tödlichen Schüssen bei Waffenkontrolle in Berngau",
+    "s": "Bei einer Waffenkontrolle im oberpfälzischen Berngau sind zwei Mitarbeiter des Landratsamtes erschossen worden. Der mutmaßliche Täter verschanzte sich nach den Schüssen in einem Wohngebäude. In der darauffolgenden Nacht erfolgte der Zugriff und die Festnahme des Verdächtigen durch Einsatzkräfte.",
+    "m": "Der Vorfall ereignete sich während einer amtlichen Waffenkontrolle in Berngau, einer Gemeinde in der Oberpfalz in Bayern. Im Rahmen dieser Überprüfung wurden zwei Mitarbeiter des zuständigen Landratsamtes durch Schüsse getötet. Der mutmaßliche Schütze flüchtete oder verblieb daraufhin verschanzt in einem Gebäude. Die Polizei leitete umgehend Maßnahmen ein und sicherte das Gebiet. In der Nacht kam es schließlich zum Zugriff durch Spezialkräfte, bei dem der Verdächtige festgenommen werden konnte. Weitere Details zum Hintergrund des Waffenbesitzers oder zum genauen Tathergang wurden zunächst nicht bekannt gegeben.",
+    "r": "Die gewaltsame Eskalation einer behördlichen Routinekontrolle mit tödlichen Folgen für zwei Mitarbeiter verdeutlicht die Risiken im Umgang mit Waffenbesitzern. Der Fall hat aufgrund der Tötung von Amtspersonen und des Großeinsatzes überregionale Bedeutung.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-10/08/anwohner-sollen-nach-schussgeraeuschen-in-haeusern-bleiben",
+        "date": "2026-10-09T01:23:40.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/panorama/berngau-festnahme-nach-toedlichen-schuessen-bei-waffenkontrolle-in-der-oberpfalz-HM7CMTFG5ZA2TDWUR7JLIZ2G4U.html",
+        "date": "2026-10-09T01:10:58.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/news/2026-10/08/anwohner-sollen-nach-schussgeraeuschen-in-haeusern-bleiben",
+    "agree": "Die Quellen stimmen überein, dass es in Berngau in der Oberpfalz bei einer Waffenkontrolle zu tödlichen Schüssen auf Mitarbeiter des Landratsamtes kam und der mutmaßliche Täter festgenommen wurde.",
+    "diff": [
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Berichtet über die Festnahme nach tödlichen Schüssen, nennt aber keine Details zum Ablauf."
+      },
+      {
+        "name": "RND",
+        "note": "Ergänzt, dass die Getöteten Mitarbeiter des Landratsamtes waren und der Schütze sich in einem Haus verschanzte, bis in der Nacht der Zugriff erfolgte."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-5a15895dc422f0e4",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-09T01:07:06.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Zwei Behördenmitarbeiter bei Waffenkontrolle in der Oberpfalz erschossen",
+    "s": "Bei einer Waffenkontrolle in der Oberpfalz sind zwei Bedienstete des Landratsamtes Neumarkt erschossen worden. Der tragische Vorfall ereignete sich bei einem Routineeinsatz in Berngau. Die Hintergründe und der genaue Ablauf der Tat sind Gegenstand der laufenden Ermittlungen.",
+    "m": "Der Vorfall ereignete sich während einer Waffenkontrolle durch Mitarbeiter des Landratsamtes Neumarkt im oberpfälzischen Berngau. Aus bislang ungeklärten Gründen kam es zu Schüssen, bei denen zwei Behördenmitarbeiter getötet wurden. Der mutmaßliche Schütze hat sich nach der Tat vor den alarmierten Polizeikräften verschanzt. Die Polizei ist mit einem Großaufgebot vor Ort, um die Situation zu sichern und den Verdächtigen festzunehmen. Weitere Details zum Täter, zur Waffe oder zu möglichen Vorstrafen wurden von den Behörden zunächst nicht bekannt gegeben.",
+    "r": "Der gewaltsame Tod von zwei Behördenmitarbeitern bei einer routinemäßigen Waffenkontrolle verdeutlicht die unvorhersehbaren Gefahren im Außendienst von Verwaltungen. Ein Großeinsatz der Polizei ist die unmittelbare Folge, um die Sicherheit vor Ort wiederherzustellen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/zwei-behoerdenmitarbeiter-bei-waffenkontrolle-in-der-oberpfalz-erschossen-102.html",
+        "date": "2026-10-09T01:07:06.000Z"
+      },
+      {
+        "name": "Süddeutsche Zeitung",
+        "url": "https://www.sueddeutsche.de/bayern/oberpfalz-berngau-schuesse-polizei-verletzte-li.3560697",
+        "date": "2026-10-08T22:10:59.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/zwei-behoerdenmitarbeiter-bei-waffenkontrolle-in-der-oberpfalz-erschossen-102.html",
+    "agree": "Die Quellen sind sich einig, dass bei einer Waffenkontrolle in der Oberpfalz zwei Mitarbeiter einer Behörde erschossen wurden.",
+    "diff": [
+      {
+        "name": "Süddeutsche Zeitung",
+        "note": "nennt den genauen Ort Berngau, erwähnt den Routineeinsatz und berichtet, dass sich der mutmaßliche Schütze nach der Tat verschanzt hat."
+      },
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "nennt das Landratsamt Neumarkt als Arbeitgeber der getöteten Bediensteten."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-7b4b41fbe57c3842",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-09T01:07:06.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Niedersachsens SPD-Fraktionschef Stefan Politze tritt zurück",
+    "s": "Der Vorsitzende der SPD-Fraktion im niedersächsischen Landtag, Stefan Politze, hat seinen Rücktritt erklärt. Diesen Schritt gab er in einer außerordentlichen Fraktionssitzung bekannt. Hintergrund des Rücktritts sind strafrechtliche Ermittlungen gegen ihn.",
+    "m": "Stefan Politze hat seinen Rücktritt als Vorsitzender der SPD-Landtagsfraktion in Niedersachsen erklärt. Diesen Schritt kündigte er in einer am Abend stattfindenden außerordentlichen Sitzung an, wie die SPD-Fraktion mitteilte. Nähere Details zu den genauen Vorwürfen oder dem Inhalt der strafrechtlichen Ermittlungen wurden in den Meldungen zunächst nicht genannt. Die Fraktion wird sich nun neu aufstellen müssen. Der Zeitpunkt des Rücktritts erfolgte unmittelbar nach Bekanntwerden der Ermittlungen. Offen ist bislang, wer die Nachfolge von Politze antreten wird.",
+    "r": "Der Rücktritt eines ranghohen Fraktionsvorsitzenden aufgrund strafrechtlicher Ermittlungen betrifft direkt die politische Stabilität und Führung der Landes-SPD in Niedersachsen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/strafrechtliche-ermittlungen-niedersachsens-spd-fraktionschef-politze-tritt-zurueck-106.html",
+        "date": "2026-10-09T01:07:06.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/politik/niedersachsen-spd-fraktionschef-stefan-politze-tritt-zurueck-strafrechtliche-ermittlungen-a-021d1d62-e3bf-499a-b577-16c0375d5878#ref=rss",
+        "date": "2026-10-08T17:40:00.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/strafrechtliche-ermittlungen-niedersachsens-spd-fraktionschef-politze-tritt-zurueck-106.html",
+    "agree": "Die Quellen stimmen darin überein, dass der niedersächsische SPD-Fraktionschef Stefan Politze im Zuge strafrechtlicher Ermittlungen seinen Rücktritt erklärt hat.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "nennt den Vornamen des Rücktrittskandidaten in der Kurzmeldung nicht direkt im Titel, sondern führt ihn im Fließtext auf."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "nennt den vollständigen Namen Stefan Politze direkt im Titel und ergänzt, dass der Schritt in einer außerordentlichen Sitzung am Abend angekündigt wurde."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-dbde312b45e94892",
+    "c": "INT",
+    "o": "INT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-09T00:57:45.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Flugzeugträger USS Abraham Lincoln nach Rekordeinsatz in San Diego zurück",
+    "s": "Der US-Flugzeugträger USS Abraham Lincoln ist nach mehr als 300 Tagen beziehungsweise über zehn Monaten auf See in seinen Heimathafen San Diego zurückgekehrt. Familienangehörige empfangenen die zurückkehrenden Soldaten. Das Schiff war zuvor im Nahen Osten im Einsatz.",
+    "m": "Die USS Abraham Lincoln hat einen besonders langen und rekordverdächtigen Einsatz hinter sich, der mehr als 300 Tage dauerte. Nach über zehn Monaten auf See näherte sich das Schiff der US-Küste und lief schließlich wieder in San Diego ein, wo Familien ihre Lieben bei der Rückkehr in die Arme schlossen. Während der Rückkehr aus dem Nahen Osten legte der Flugzeugträger im vergangenen Monat zudem einen Stopp in Thailand ein. Die genauen Gründe für die ungewöhnlich lange Verweildauer auf See und weitere Details zum genauen Ablauf des Einsatzes wurden in den Berichten nicht näher ausgeführt.",
+    "r": "Die Rückkehr eines großen US-Flugzeugträgers nach einem monatelangen Einsatz im Nahen Osten verdeutlicht anhaltende maritime Präsenzoperationen der USA. Solche Rekordeinsätze beanspruchen Besatzungen und Material über einen längeren Zeitraum.",
+    "srcs": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/uss-abraham-lincoln-returns-after-record-breaking-deployment?traffic_source=rss",
+        "date": "2026-10-09T00:57:45.000Z"
+      },
+      {
+        "name": "Euronews",
+        "url": "https://www.euronews.com/2026/10/08/us-aircraft-carrier-abraham-lincoln-returns-to-san-diego-after-record-deployment",
+        "date": "2026-10-08T20:32:03.000Z"
+      }
+    ],
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/uss-abraham-lincoln-returns-after-record-breaking-deployment?traffic_source=rss",
+    "agree": "Die Quellen stimmen darin überein, dass der US-Flugzeugträger USS Abraham Lincoln nach einem rekordverdächtigen Einsatz von mehr als zehn Monaten beziehungsweise 300 Tagen nach San Diego zurückgekehrt ist.",
+    "diff": [
+      {
+        "name": "Al Jazeera",
+        "note": "Berichtet über die emotionalen Szenen bei der Ankunft, bei denen Familien ihre geliebten Menschen in San Diego in die Arme schlossen."
+      },
+      {
+        "name": "Euronews",
+        "note": "Erwähnt zusätzlich, dass das Schiff aus dem Nahen Osten kam und auf dem Rückweg im vergangenen Monat einen Zwischenstopp in Thailand einlegte."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-bf318ad82106f361",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-09T00:50:52.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Taylor Swift tritt bei Gala des Academy Museums auf",
+    "s": "Popstar Taylor Swift wird bei der jährlichen Gala des Academy Museums auftreten. Der Auftritt erfolgt vor dem Hintergrund möglicher Oscar-Ambitionen der Sängerin. Swift hat für den kommenden Pixar-Film „Toy Story 5“ einen Song beigesteuert.",
+    "m": "Ein Oscar fehlt bislang in der umfangreichen Trophäen-Sammlung von Taylor Swift. Nun sorgt ein bevorstehender Auftritt der Künstlerin für Aufmerksamkeit. Sie wird bei der jährlichen Gala des Academy Museums auf der Bühne stehen. In diesem Zusammenhang wird spekuliert, ob Swift Ambitionen auf den begehrten Filmpreis hat. Konkre anlassbezogene Details wurden im Rahmen der Berichterstattung nicht genannt, jedoch steht ihr musikalischer Beitrag für das Filmprojekt im Fokus. Der Pixar-Film „Toy Story 5“ bildet dabei die Verbindung zwischen ihrer musikalischen Arbeit und dem Filmpreis-Kontext.",
+    "r": "Die Meldung ist relevant, da der Auftritt einer global bekannten Künstlerin bei einer offiziellen Veranstaltung des Academy Museums im Kontext möglicher Oscar-Ambitionen steht.",
+    "srcs": [
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/promis/taylor-swift-hat-oscar-ambitionen-und-tritt-bei-gala-im-academy-museum-auf-FVTX2I5L3RGFNFMNX3JR3MO6PY.html",
+        "date": "2026-10-09T00:50:52.000Z"
+      },
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/kultur/film/grosser-auftritt--oscar-ambitionen--swift-tritt-bei-academy-museum-gala-auf-38369784.html",
+        "date": "2026-10-08T22:15:04.000Z"
+      }
+    ],
+    "url": "https://www.rnd.de/promis/taylor-swift-hat-oscar-ambitionen-und-tritt-bei-gala-im-academy-museum-auf-FVTX2I5L3RGFNFMNX3JR3MO6PY.html",
+    "agree": "Beide Quellen stimmen überein, dass Taylor Swift bei der Gala des Academy Museums auftreten wird, für den Pixar-Film „Toy Story 5“ einen Song beisteuerte und in ihrer Trophäensammlung noch ein Oscar fehlt.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-08790355964e7aec",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-09T00:13:51.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Nato kündigt jährliche Atomwaffen-Übung Steadfast Noon an",
+    "s": "Ab Dienstag trainiert die Nato in Italien für das Szenario eines Atomkriegs. Ziel der Übung ist eine glaubwürdige Abschreckung. An dem Manöver beteiligen sich Streitkräfte aus insgesamt 17 Ländern, darunter auch die Bundeswehr.",
+    "m": "Die Nato hat ihre jährliche Atomwaffenübung mit dem Namen Steadfast Noon angekündigt, die am Dienstag in Italien beginnt. Das Manöver dient der Simulation eines Atomkriegs und soll eine glaubwürdige Abschreckung demonstrieren, die sich vor allem an eine bestimmte Richtung richtet. Insgesamt nehmen Streitkräfte aus 17 verschiedenen Nationen an der Übung teil. Zu den beteiligten Ländern gehört auch Deutschland mit der Bundeswehr. Weitere Details zum genauen Ablauf oder konkreten beteiligten Waffensystemen wurden in den Berichten nicht genannt.",
+    "r": "Die Übung betrifft die internationale Sicherheit und die nukleare Abschreckungsstrategie der Nato. Die Beteiligung von 17 Mitgliedstaaten sowie der Bundeswehr unterstreicht die gemeinsame militärische Ausrichtung im Bündnis.",
+    "srcs": [
+      {
+        "name": "t-online Nachrichten",
+        "url": "https://www.t-online.de/nachrichten/ausland/id_101473108/nato-kuendigt-atomwaffen-uebung-an.html",
+        "date": "2026-10-09T00:13:51.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/nato-kuendigt-atomwaffen-uebung-an-bundeswehr-nimmt-teil-a-85a6557f-06ed-4ff5-a3ae-e9648bc2e7f3#ref=rss",
+        "date": "2026-10-08T18:16:00.000Z"
+      }
+    ],
+    "url": "https://www.t-online.de/nachrichten/ausland/id_101473108/nato-kuendigt-atomwaffen-uebung-an.html",
+    "agree": "Die Quellen stimmen überein, dass die Nato eine Atomwaffen-Übung in Italien ab Dienstag angekündigt hat.",
+    "diff": [
+      {
+        "name": "DER SPIEGEL",
+        "note": "Erwähnt zusätzlich den Namen der Übung Steadfast Noon, die Beteiligung von Streitkräften aus 17 Ländern sowie die Teilnahme der Bundeswehr."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-cf7b1de0514c6459",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-09T00:13:39.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "US-Star Fran Drescher spielt in zweiter Staffel der Serie \"Die Zweiflers\" mit",
+    "s": "Die US-Schauspielerin Fran Drescher, bekannt aus der Sitcom \"Die Nanny\", übernimmt eine Rolle in der deutschen Fernsehserie \"Die Zweiflers\". Die Macher der preisgekrönten ARD-Produktion konnten den Weltstar für die bevorstehende zweite Staffel gewinnen. Genauere Details zur Handlung oder ihrer Rolle wurden zunächst nicht genannt.",
+    "m": "Die erfolgreiche ARD-Serie \"Die Zweiflers\" bekommt für ihre zweite Staffel prominente Unterstützung aus Hollywood. Die Macher der Frankfurter Produktion haben die US-amerikanische Schauspielerin Fran Drescher verpflichtet, die vor allem durch ihre Hauptrolle in der Kult-Sitcom \"Die Nanny\" weltbekannt wurde. Die Serie konnte zuvor bereits diverse Preise gewinnen und gilt als Kritikererfolg. Die Dreharbeiten oder konkrete Ausstrahlungstermine für die neue Staffel sind in den vorliegenden Berichten noch nicht näher beziffert. Auch über den genauen Charakter, den Drescher verkörpern wird, ist bisher nichts bekannt. Fans und Medien werten die Verpflichtung jedoch als großen Coup für eine deutsche Fernsehproduktion.",
+    "r": "Die Verpflichtung eines internationalen Hollywood-Stars für eine deutsche Produktion ist ein bemerkenswerter Erfolg für die hsche Fernsehbranche. Solche Engagements erhöhen die internationale Aufmerksamkeit für heimische Serienformate wie \"Die Zweiflers\".",
+    "srcs": [
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/medien/nanny-fran-drescher-mischt-deutsche-serie-die-zweiflers-auf-L5HW3DUSFRAA3PGCII3HHY5DLM.html",
+        "date": "2026-10-09T00:13:39.000Z"
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-10/09/nanny-fran-drescher-mischt-deutsche-serie-auf",
+        "date": "2026-10-08T23:22:37.000Z"
+      }
+    ],
+    "url": "https://www.rnd.de/medien/nanny-fran-drescher-mischt-deutsche-serie-die-zweiflers-auf-L5HW3DUSFRAA3PGCII3HHY5DLM.html",
+    "agree": "Beide Quellen stimmen darin überein, dass der US-Star Fran Drescher aus \"Die Nanny\" in der deutschen Serie \"Die Zweiflers\" mitmischt.",
+    "diff": [
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Erwähnt Frankfurt als Handlungsort bzw. Bezugspunkt der Serie."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-c9c68d4657f1f4ff",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-09T00:05:00.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Zwei Todesopfer bei Waffenkontrolle in der Oberpfalz",
+    "s": "Bei einer Waffenkontrolle in Berngau in der Oberpfalz sind zwei Mitarbeiter des Landratsamtes durch Schüsse getötet worden. Der mutmaßliche Schütze hat sich nach der Tat in einem Wohnhaus verschanzt. Die Situation in dem betroffenen Gebiet dauert an. Die Polizei ist vor Ort im Einsatz.",
+    "m": "Der Vorfall ereignete sich bei einer behördlichen Routinekontrolle in Berngau in der Oberpfalz, als Mitarbeiter des Landratsamtes das Wohnhaus eines Waffenbesitzers aufsuchten. In diesem Rahmen kam es zu den tödlichen Schüssen, bei denen zwei Behördenmitarbeiter ums Leben kamen. Der Täter verschanzte sich nach den Schüssen im Gebäude. Die Hintergründe der Eskalation und genaue Details zum Ablauf sind Gegenstand polizeilicher Ermittlungen. Spezialeinheiten oder weitere Sicherheitskräfte sind in den anschließenden Einsatz eingebunden.",
+    "r": "Die gewaltsame Eskalation einer behördlichen Routinekontrolle mit Todesopfern verdeutlicht die potenziellen Gefahren bei Waffenkontrollen. Der Vorfall wirft Fragen zur Sicherheit von Behördenmitarbeitern bei Außeneinsätzen auf.",
+    "srcs": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/oberpfalz-zwei-todesopfer-nach-schuessen-bei-waffenkontrolle-201300625.html",
+        "date": "2026-10-09T00:05:00.000Z"
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/gesellschaft/2026-10/oberpfalz-schuesse-waffenkontrolle-polizei-tote",
+        "date": "2026-10-08T22:10:20.000Z"
+      }
+    ],
+    "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/oberpfalz-zwei-todesopfer-nach-schuessen-bei-waffenkontrolle-201300625.html",
+    "agree": "In Berngau in der Oberpfalz wurden zwei Mitarbeiter des Landratsamtes bei einer Waffenkontrolle durch Schüsse getötet und der mutmaßliche Täter verschanzt sich im Haus.",
+    "diff": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "note": "nennt den genauen Ort Berngau"
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "note": "berichtet über ein zweites Todesopfer"
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-3a4b8743a47cfefa",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-08T23:07:32.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Bundestag macht Weg für Planungen der neuen Bahntrasse Hannover-Hamburg frei",
+    "s": "Der Bundestag hat den Weg für weitere Planungen einer neuen Bahntrasse zwischen Hannover und Hamburg freigemacht. Über das Projekt in Niedersachsen wurde zuvor jahrelang gestritten. Nun sollen die Planungen vorangetrieben werden.",
+    "m": "Das Projekt einer Neubaustrecke zwischen Hannover und Hamburg ist seit Jahren umstritten. Der Bundestag hat nun entschieden, den Weg für die weiteren Planungen zu ebnen. Neben dem Neubau sieht die Entscheidung auch vor, Verbesserungen an der bereits bestehenden Strecke vorzunehmen. Konkrete Details zum zeitlichen Ablauf oder den genauen Kosten wurden in den vorliegenden Berichten nicht genannt. Die Maßnahme betrifft die Region Niedersachsen und soll das Schienennetz in diesem Bereich langfristig entlasten und modernisieren. Weitere offene Punkte betreffen die genaue Streckenführung und die Beteiligung der Anwohner an den Planungsverfahren.",
+    "r": "Die Entscheidung des Bundestags markiert einen wichtigen Schritt in einem jahrelang umstrittenen Infrastrukturprojekt. Die geplante Bahntrasse und die vorgesehenen Streckenverbesserungen haben erhebliche Auswirkungen auf den Bahnverkehr in Niedersachsen.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/mobilitaet/2026-10/deutsche-bahn-hannover-hamburg-bahntrasse-ausbau",
+        "date": "2026-10-08T23:07:32.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/politik/neue-bahntrasse-hannover-hamburg-bundestag-macht-weg-frei-KP3HOATAKRAKTDNE3OSQ7WYQHE.html",
+        "date": "2026-10-08T22:06:39.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/mobilitaet/2026-10/deutsche-bahn-hannover-hamburg-bahntrasse-ausbau",
+    "agree": "Beide Quellen stimmen überein, dass der Bundestag den Weg für weitere Planungen der neuen Bahntrasse zwischen Hannover und Hamburg freigemacht hat und dass über das Projekt jahrelang gestritten wurde.",
+    "diff": [
+      {
+        "name": "RND",
+        "note": "Erwähnt zusätzlich, dass der Bundestag auch Verbesserungen an der jetzigen Strecke fordert."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-0fcd5b8591fa223c",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-08T22:44:27.000Z",
+    "p": 3,
+    "st": "NI",
+    "city": "",
+    "t": "Fragen und Antworten zur geplanten Neubaustrecke Hamburg-Hannover",
+    "s": "Der Bundestag hat den Weg für eine neue Bahntrasse durch Niedersachsen freigemacht. Das Projekt sorgt für Diskussionen und wirft zahlreiche Fragen in der Region auf. Es soll die Verbindung zwischen Hamburg und Hannover verbessern. Konkrete Details zu den Auswirkungen auf Anwohner und Natur stehen im Fokus der Berichterstattung.",
+    "m": "Die geplante Neubaustrecke zwischen Hamburg und Hannover ist durch einen Beschluss des Bundestages einen entscheidenden Schritt vorangekommen. Das Projekt betrifft direkt das Bundesland Niedersachsen und führt zu Fragen über den genauen Verlauf und die Konsequenzen für die Region. Bisher gibt es vor allem eine Bestätigung des parlamentarischen Weges für die Trasse. Zahlreiche Bürger und Kommunen beschäftigen sich mit den praktischen Folgen des Bahnprojekts. Offen sind oft noch exakte Zeitpläne für den Bau und die genauen Standortentscheidungen. Die Deutsche Bahn und die Politik stehen im Dialog über die Ausgestaltung.",
+    "r": "Das Infrastrukturprojekt betrifft wichtige Verkehrsachsen in Deutschland und hat direkte Auswirkungen auf die betroffenen Regionen in Niedersachsen. Daher ist die Klärung von Fragen zum Verlauf und Bau von großer Bedeutung.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Niedersachsen",
+        "url": "https://www.tagesschau.de/inland/regional/niedersachsen/neubaustrecke-hamburg-hannover-wichtige-fragen-und-antworten-zu-dem-projekt,neubaustrecke-134.html",
+        "date": "2026-10-08T22:44:27.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPejJWVFUxT01mVUdHZGxneXVSOGkwSVZYTjdHbGY2VnVqb242T1FNZG5BWHpVb3R3X2RranhpaER1d3FUTHFkbHBJWTFVNDZEVG96VXI4MmlRWEc0bHA2eEs4aENrMmUzY0VNTTd1YlVqN2M3SmM5NU5ST2hUQ011ZlVObXAtWERBZnFhTXZFY2tGaFVUaldINkEwUzBvWUFvbFQ3YkRwTS1aMW9ESktZVGRkRW5QWTR2eDY4dENrS01RT3NOQndERXBIMEpCZ3Z4bU1KbGFwV1NfLWJfY2VVSGZJcjJrWThJV2ZfQ2FTX1RCUW51MWZBLUg5WFFldw?oc=5",
+        "date": "2026-10-08T22:44:00.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/niedersachsen/neubaustrecke-hamburg-hannover-wichtige-fragen-und-antworten-zu-dem-projekt,neubaustrecke-134.html",
+    "agree": "Beide Quellen berichten über die geplante Neubaustrecke Hamburg-Hannover und die damit verbundenen Fragen in Niedersachsen.",
+    "diff": [
+      {
+        "name": "Tagesschau Regional Niedersachsen",
+        "note": "Erwähnt konkret, dass der Bundestag den Weg für eine neue Bahntrasse durch Niedersachsen frei gemacht hat."
+      },
+      {
+        "name": "Google News DE",
+        "note": "Verweist auf einen Beitrag des NDR mit Fragen und Antworten zu dem Projekt."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-d18d51d04fba2869",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-08T22:10:41.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Ukrainisches Verhandlungsteam trifft in den USA auf Trump-Unterhändler",
+    "s": "Ein ukrainisches Verhandlungstrio reist zu Gesprächen in die USA, um Unterhändler des US-Präsidenten zu treffen. Das zweitägige Treffen am Freitag und Samstag soll neue Impulse in den Bemühungen um ein Ende des Ukraine-Kriegs setzen. Neben der ukrainischen Delegation soll auch ein europäisches Team an den Gesprächen teilnehmen. US-Beamte haben die Zusammenkunft bestätigt.",
+    "m": "Präsident Wolodymyr Selenskyj kündigte am Donnerstag an, dass die ukrainische Delegation in den USA mit Jared Kushner und Steve Witkoff zusammentreffen wird. Die Verhandlungen sind für Freitag und Samstag angesetzt und sollen zwei Tage umfassen. Kiew hofft weiterhin auf direkte Friedensgespräche mit Moskau. Unterdessen gab es Berichte über ein mutmaßliches Treffen des Kremlchefs mit Altkanzler Gerhard Schröder. Das Treffen der Unterhändler markiert einen neuen Vorstoß im diplomatischen Prozess, wobei die genauen Inhalte der Agenda noch nicht vollständig bekannt sind. US-amerikanische offizielle Stellen bestätigten die Planungen für die Konsultationen.",
+    "r": "Die Gespräche zwischen der Ukraine und den Unterhändlern der US-Regierung sind ein wichtiger diplomatischer Schritt zur Beendigung des Krieges. Die Einbindung europäischer Akteure verleiht dem Treffen zusätzliches internationales Gewicht.",
+    "srcs": [
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/news/ukraine-team-zu-gespraech-mit-trump-unterhaendlern-am-freitag-und-samstag-in-den-usa-38369468.html",
+        "date": "2026-10-08T22:10:41.000Z"
+      },
+      {
+        "name": "t-online Nachrichten",
+        "url": "https://www.t-online.de/nachrichten/ukraine/id_101466202/ukraine-krieg-ukraine-team-zu-gespraech-mit-trump-unterhaendlern.html",
+        "date": "2026-10-08T21:29:18.000Z"
+      }
+    ],
+    "url": "https://www.stern.de/news/ukraine-team-zu-gespraech-mit-trump-unterhaendlern-am-freitag-und-samstag-in-den-usa-38369468.html",
+    "agree": "Beide Quellen berichten über ein bevorstehendes beziehungsweise laufendes Gespräch zwischen einem ukrainischen Team und Unterhändlern der US-Seite.",
+    "diff": [
+      {
+        "name": "stern",
+        "note": "Berichtet detailliert über das bevorstehende zweitägige Treffen am Freitag und Samstag in den USA, nennt die Beteiligten Jared Kushner und Steve Witkoff sowie die Teilnahme eines europäischen Teams laut Selenskyj."
+      },
+      {
+        "name": "t-online Nachrichten",
+        "note": "Erwähnt zusätzlich ein mögliches Treffen des Kremlchefs mit Altkanzler Gerhard Schröder 'zu Hause' und verweist auf einen allgemeinen Newsblog."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-29d4825bb7e3fbe2",
+    "c": "INT",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-08T21:40:23.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "JD Vance wirft Microsoft Missbrauch von US-Arbeitsvisa vor",
+    "s": "US-Vizepräsident JD Vance hat den Technologiekonzern Microsoft scharf kritisiert. Er wirft dem Unternehmen vor, Arbeitsvisa für ausländische Kräfte zu missbrauchen. Hintergrund der Kritik ist der gleichzeitige Abbau von US-Arbeitsplätzen und die Einstellung ausländischer Mitarbeiter.",
+    "m": "US-Vizepräsident JD Vance kritisiert öffentlich das Vorgehen des Technologiekonzerns Microsoft bei der Personalbesetzung. Konkret wirft er dem Unternehmen vor, rund 6000 amerikanische Arbeitnehmer entlassen und im gleichen Zeitraum tausende ausländische Staatsbürger eingestellt zu haben. Der Konzern begründet den Bedarf an Fachkräften zuvor mit einem Mangel an qualifiziertem Inlandspersonal. Im Zuge dieser Debatte geraten nach Angaben der Berichte zudem Elite-Universitäten ins Visier der aktuellen Trump-Regierung. Die Vorwürfe entfachen eine breitere politische Diskussion über den Umgang mit US-Arbeitsvisa, den Schutz heimischer Arbeitskräfte und die Einbindung ausländischer Fachkräfte in US-Unternehmen.",
+    "r": "Die Vorwürfe eines hochrangigen US-Politikers gegen einen der weltgrößten Technologiekonzerne berühren fundamentale Fragen der amerikanischen Arbeitsmarkt- und Einwanderungspolitik. Zudem zeigt der Vorgang, wie stark die Regierung den Druck auf Microsoft und das akademische Umfeld erhöht.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaThnLWFOaWF2M0R6SWk2Mk1YbkJDY0Fhcl84TkhkWG9yanE2bjdkcDZWSWJMZ0lraElMelczQlhTVVhwV29wS21wMWxualBGcTRaaUlueWtIRHl0TXZ2dElIN1NUNjNWYWp1WUs4NXVoTzR2MWxkcmd0enJiblVDYmRlZ09Jb2tISkE1MTM4N2ptOHBmMVl5ejh0QkJ3WUZ6Qk5ZSldSRlhnZw?oc=5",
+        "date": "2026-10-08T21:40:23.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/wirtschaft/Vance-wirft-Microsoft-den-Missbrauch-von-US-Arbeitsvisa-vor-id31398533.html",
+        "date": "2026-10-08T21:40:23.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaThnLWFOaWF2M0R6SWk2Mk1YbkJDY0Fhcl84TkhkWG9yanE2bjdkcDZWSWJMZ0lraElMelczQlhTVVhwV29wS21wMWxualBGcTRaaUlueWtIRHl0TXZ2dElIN1NUNjNWYWp1WUs4NXVoTzR2MWxkcmd0enJiblVDYmRlZ09Jb2tISkE1MTM4N2ptOHBmMVl5ejh0QkJ3WUZ6Qk5ZSldSRlhnZw?oc=5",
+    "agree": "Beide Quellen stimmen überein, dass US-Vizepräsident JD Vance Microsoft den Missbrauch von US-Arbeitsvisa vorwirft.",
+    "diff": [
+      {
+        "name": "ntv",
+        "note": "Erwähnt konkret den Abbau von 6000 amerikanischen Arbeitsplätzen bei gleichzeitiger Einstellung tausender Ausländer sowie das Visieren von Elite-Universitäten durch die Trump-Regierung."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-8053b1d91e64c860",
     "c": "DE",
     "o": "DE",
@@ -141,93 +608,6 @@
     "independent": 2
   },
   {
-    "id": "story-4cf014b9d2c76d00",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-08T21:32:03.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Krankheitskosten in Deutschland übersteigen 2024 erstmals eine halbe Billion Euro",
-    "s": "Im Jahr 2024 haben die Krankheitskosten in Deutschland erstmals die Schwelle von einer halben Billion Euro überschritten. Laut dem Statistischen Bundesamt erreichten die Ausgaben einen neuen Höchststand. Der Anstieg betrug im Vergleich zum Vorjahr mehr als 7,6 Prozent. Damit wachsen die finanziellen Belastungen für das Gesundheitssystem weiter an.",
-    "m": "Das Statistische Bundesamt hat bekannt gegeben, dass sich die direkten Kosten für Krankheiten und Gesundheitsprobleme im Jahr 2024 auf insgesamt 528,5 Milliarden Euro belaufen haben. Dies entspricht einer Steigerung von über 7,6 Prozent im Vergleich zum Vorjahr. Die Gesamtausgaben überschreiten damit erstmals in der Geschichte der Bundesrepublik die Marke von 500 Milliarden Euro beziehungsweise einer halben Billion Euro. Detaillierte Daten des Bundesamtes zeigen zudem, dass es bei den Kosten besonders große Unterschiede zwischen den Geschlechtern sowie in verschiedenen Altersgruppen gibt. Offen bleibt bislang, welche konkreten medizinischen Bereiche oder Leistungsarten den stärksten Zuwachs verzeichneten.",
-    "r": "Der massive Anstieg der Krankheitskosten auf über 528 Milliarden Euro verdeutlicht die wachsende finanzielle Belastung des deutschen Gesundheitssystems. Die neuen Daten des Statistischen Bundesamtes sind zentral für die gesundheitspolitische Debatte über die Finanzierung und Reformen im Sektor.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/krankheitskosten-in-deutschland-ueberstiegen-2024-eine-halbe-billion-euro-100.html",
-        "date": "2026-10-08T21:32:03.000Z"
-      },
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/panorama/deutschland-krankheitskosten-halbe-billion-euro-100.html",
-        "date": "2026-10-08T13:48:00.000Z"
-      },
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/inland/gesellschaft/krankheitskosten-destatis-100.html",
-        "date": "2026-10-08T11:50:37.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/krankheitskosten-in-deutschland-ueberstiegen-2024-eine-halbe-billion-euro-100.html",
-    "agree": "Die Quellen stimmen überein, dass die Krankheitskosten in Deutschland im Jahr 2024 erstmals eine halbe Billion Euro überschritten haben.",
-    "diff": [
-      {
-        "name": "ZDF heute",
-        "note": "nennt die genaue Summe von 528,5 Milliarden Euro und weist auf besonders große Unterschiede zwischen den Geschlechtern und im Alter hin."
-      },
-      {
-        "name": "Tagesschau",
-        "note": "beziffert den prozentualen Anstieg konkret auf mehr als 7,6 Prozent."
-      }
-    ],
-    "chg": "",
-    "independent": 3
-  },
-  {
-    "id": "story-7b4b41fbe57c3842",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-08T21:32:03.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Niedersachsens SPD-Fraktionschef Stefan Politze tritt zurück",
-    "s": "Der Vorsitzende der SPD-Fraktion im niedersächsischen Landtag, Stefan Politze, hat seinen Rücktritt erklärt. Diesen Schritt gab er in einer außerordentlichen Sitzung am Abend bekannt. Auslöser für den Rücktritt sind strafrechtliche Ermittlungen gegen ihn. Die SPD-Fraktion teilte die Entscheidung offiziell mit.",
-    "m": "Der niedersächsische SPD-Fraktionschef Stefan Politze hat überraschend seinen Rücktritt von der Spitze der Landtagsfraktion erklärt. Die Ankündigung erfolgte im Rahmen einer außerordentlichen Sitzung am Abend. Hintergrund des Schrittes sind laufende strafrechtliche Ermittlungen gegen den Politiker. Genauere Details zu den Vorwürfen oder der Art der Ermittlungen wurden in den ersten Mitteilungen der Fraktion zunächst nicht genannt. Die SPD-Landtagsfraktion bestätigte den Vorgang offiziell, ließ jedoch offen, wer die Nachfolge antreten soll. Politze stand bisher an der Spitze der Fraktion im niedersächsischen Landtag. Die politischen Reaktionen und die Frage der kommissarischen beziehungsweise dauerhaften Nachfolge stehen in den kommenden Tagen an.",
-    "r": "Der Rücktritt eines prominenten Landespolitikers wie des niedersächsischen SPD-Fraktionschefs ist für die Landespolitik und die parlamentarische Arbeit von Bedeutung. Die eingeleiteten strafrechtlichen Ermittlungen gegen einen Fraktionsvorsitzenden berühren zudem die politische Integrität.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/strafrechtliche-ermittlungen-niedersachsens-spd-fraktionschef-politze-tritt-zurueck-102.html",
-        "date": "2026-10-08T21:32:03.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/politik/niedersachsen-spd-fraktionschef-stefan-politze-tritt-zurueck-strafrechtliche-ermittlungen-a-021d1d62-e3bf-499a-b577-16c0375d5878#ref=rss",
-        "date": "2026-10-08T17:40:00.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/strafrechtliche-ermittlungen-niedersachsens-spd-fraktionschef-politze-tritt-zurueck-102.html",
-    "agree": "Die Quellen stimmen überein, dass Niedersachsens SPD-Fraktionschef Stefan Politze seinen Rücktritt erklärt hat und strafrechtliche Ermittlungen vorliegen.",
-    "diff": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "note": "Nennt den Vornamen im Fließtext der Überschrift nicht direkt, sondern nur im Untertitel der Konkurrenz, und fokussiert sich rein auf die Kurzmeldung des Rücktritts."
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "Erwähnt den Vornamen Stefan im Titel und ergänzt, dass die Ankündigung in einer außerordentlichen Sitzung am Abend stattfand sowie von der SPD-Fraktion mitgeteilt wurde."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
     "id": "story-8665664e18521ff7",
     "c": "INT",
     "o": "DE",
@@ -306,60 +686,19 @@
     "independent": 2
   },
   {
-    "id": "story-c9c68d4657f1f4ff",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-08T21:23:54.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Zwei Todesopfer nach Schüssen bei Waffenkontrolle in Berngau",
-    "s": "Bei einer Waffenkontrolle im oberpfälzischen Berngau sind zwei Mitarbeiter des Landratsamtes erschossen worden. Der mutmaßliche Täter hat sich nach der Tat in einem Wohnhaus verschanzt. Ein Großaufgebot von Polizei und Spezialeinheiten ist vor Ort im Einsatz. Die Ermittlungen zu den Hintergründen der tödlichen Eskalation dauern an.",
-    "m": "In der oberpfälzischen Gemeinde Berngau eskalierte eine behördliche Waffenkontrolle mit tödlichen Folgen für zwei Mitarbeiter des Landratsamtes. Der mutmaßliche Schütze flüchtete im Anschluss in ein Wohnhaus und verschanzte sich dort. Die Polizei zog umgehend starke Kräfte sowie ein Spezialeinsatzkommando (SEK) zusammen, um die Lage vor Ort zu kontrollieren. Bisher ist unklar, wie es zu der Schussabgabe kam und ob der Verdächtige allein gehandelt hat. Die Identität des mutmaßlichen Schützen sowie weitere Details zum genauen Ablauf im Haus sind Gegenstand laufender Ermittlungen. Die Situation in dem betroffenen Gebiet dauert an und bindet zahlreiche Rettungs- und Sicherheitskräfte.",
-    "r": "Der Vorfall verdeutlicht die potenziellen Gefahren bei routinemäßigen Behördenkontrollen im privaten Umfeld. Die gewaltsame Eskalation führt zu einem Großeinsatz von Polizei und SEK in der Region.",
-    "srcs": [
-      {
-        "name": "Frankfurter Allgemeine",
-        "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/waffenkontrolle-in-der-oberpfalz-behoerdenmitarbeiter-erschossen-201300625.html",
-        "date": "2026-10-08T21:23:54.000Z"
-      },
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/panorama/grosseinsatz-in-berngau-zweiter-behoerdenmitarbeiter-bei-waffenkontrolle-erschossen-HM7CMTFG5ZA2TDWUR7JLIZ2G4U.html",
-        "date": "2026-10-08T21:17:16.000Z"
-      }
-    ],
-    "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/waffenkontrolle-in-der-oberpfalz-behoerdenmitarbeiter-erschossen-201300625.html",
-    "agree": "Beide Quellen stimmen überein, dass bei einer Waffenkontrolle in Berngau in der Oberpfalz zwei Mitarbeiter des Landratsamtes erschossen wurden und sich der mutmaßliche Schütze in einem Wohnhaus verschanzt hat.",
-    "diff": [
-      {
-        "name": "Frankfurter Allgemeine",
-        "note": "Berichtet ergänzend, dass es sich um einen Großeinsatz handelt, ohne das SEK explizit zu erwähnen."
-      },
-      {
-        "name": "RND",
-        "note": "Nennt explizit den Einsatz von SEK und Polizei und bezeichnet den Vorfall als Großeinsatz."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
     "id": "story-abe5d55135d2ace8",
-    "c": "DE",
+    "c": "INT",
     "o": "DE",
     "k": "politik",
     "lang": "de",
     "d": "2026-10-08T21:22:34.000Z",
-    "p": 2,
+    "p": 3,
     "st": "",
     "city": "",
-    "t": "Altkanzler Gerhard Schröder trifft Wladimir Putin in Moskau zum Geburtstag",
-    "s": "Der frühere deutsche Bundeskanzler Gerhard Schröder hat nach russischen Angaben an der Geburtstagsfeier von Wladimir Putin in Moskau teilgenommen. Wegen seiner anhaltenden Russlandbeziehungen steht Schröder seit Jahren in der Kritik. Die Zusammenkunft in Moskau erfolgte im Rahmen einer Reise, bei der er nach Medienberichten auch einen neuen Job in Russland erhalten hat. Der Kreml sprach von einer Einladung für einen alten Freund.",
-    "m": "Altkanzler Gerhard Schröder reiste nach Moskau und nahm dort nach offiziellen russischen Angaben an der Geburtstagsfeier von Präsident Wladimir Putin teil. Der Kreml begründete die Zusammenkunft damit, dass der Präsident seinen alten Freund eingeladen habe. Schröder steht aufgrund seiner engen und langjährigen Russlandbeziehungen bereits seit Jahren in der heftigen politischen Kritik. Aktuell fiel die Reise mit Berichten über einen neuen Job zusammen, den Schröder in Russland angetreten haben soll. Im Zuge dieses Aufenthalts erhielt er die besondere Einladung in den Kreml. Weitere offizielle Details zu den Gesprächen oder Inhalten des Treffens wurden zunächst nicht bekannt. Die Kontakte des deutschen Altkanzlers nach Moskau bleiben in der Öffentlichkeit weiterhin stark umstritten.",
-    "r": "Das Treffen eines deutschen Altkanzlers mit dem russischen Präsidenten ist angesichts der langjährigen Kritik an Schröders Russlandbeziehungen und seiner anhaltenden Kontakte von politischer Bedeutung. Solche Reisen beleben die Debatte über den Umgang ehemaliger deutscher Spitzenpolitiker mit Moskau.",
+    "t": "Gerhard Schröder nimmt an Putins Geburtstag in Moskau teil",
+    "s": "Der ehemalige Bundeskanzler Gerhard Schröder ist nach Angaben des Kreml nach Moskau gereist, um an der Geburtstagsfeier von Wladimir Putin teilzunehmen. Wegen seiner anhaltenden Russlandbeziehungen steht der Altkanzler seit Jahren in der Kritik. Bislang gibt es keine offiziellen Angaben zu weiteren Inhalten oder Zielen der Reise.",
+    "m": "Der Kreml hat bestätigt, dass der frühere Bundeskanzler Gerhard Schröder den russischen Präsidenten Wladimir Putin an dessen Geburtstag in Moskau getroffen und an den Feierlichkeiten teilgenommen hat. Schröder steht seit Jahren wegen seiner engen Beziehungen zu Russland und seiner früheren Posten in russischen Staatskonzernen international in der Kritik. Laut Medienberichten schließt diese Reise an einen neuen beruflichen Schritt an, den Schröder in Russland unternommen hat. Die Kontakte des Altkanzlers zum Kreml sind seit Beginn des Ukraine-Kriegs stark umstritten. Über den genauen Zweck des aktuellen Aufenthalts außerhalb der Geburtstagsfeier und eventuelle politische Gespräche wurden keine offiziellen Details bekannt gegeben.",
+    "r": "Die Reise eines ehemaligen deutschen Regierungschefs zum Geburtstag des russischen Präsidenten ist vor dem Hintergrund der anhaltenden Spannungen und Kritik an deutschen Russlandkontakten von politischer Bedeutung. Sie wirft erneut Fragen zur Rolle von Altkanzlern in den internationalen Beziehungen auf.",
     "srcs": [
       {
         "name": "ZEIT ONLINE",
@@ -370,31 +709,55 @@
         "name": "Rheinische Post",
         "url": "https://rp-online.de/politik/ausland/gerhard-schroeder-feiert-geburtstag-mit-kremlchef-putin_aid-156218235",
         "date": "2026-10-08T19:58:00.000Z"
-      },
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/politik/altkanzler-schroeder-bei-putin-geburtstag-praesident-lud-seinen-alten-freund-ein-OXDZP2BBS5HQRN4EZMQPZUREGY.html",
-        "date": "2026-10-08T19:17:38.000Z"
       }
     ],
     "url": "https://www.zeit.de/politik/ausland/2026-10/gerhard-schroeder-wladimir-putin-moskau-hyperglobus",
-    "agree": "Die Quellen sind sich einig, dass der frühere Bundeskanzler Gerhard Schröder in Moskau an einer Geburtstagsfeier von Wladimir Putin teilgenommen hat und wegen seiner Russlandbeziehungen seit Jahren in der Kritik steht.",
+    "agree": "Beide Quellen stimmen darin überein, dass der frühere Bundeskanzler Gerhard Schröder an Putins Geburtstag in Moskau teilgenommen hat und wegen seiner Russlandbeziehungen in der Kritik steht.",
     "diff": [
       {
-        "name": "ZEIT ONLINE",
-        "note": "Berichtet direkt, dass Schröder laut russischen Angaben an Putins Geburtstagsfeier teilgenommen hat, ohne den Aspekt eines neuen Jobs zu erwähnen."
-      },
-      {
         "name": "Rheinische Post",
-        "note": "Erwähnt zusätzlich zum Treffen einen neuen Job in Russland, nach dem Schröder eine besondere Einladung erhalten habe."
-      },
-      {
-        "name": "RND",
-        "note": "Zitiert zusätzlich die Aussage des Kreml, dass der Präsident seinen alten Freund eingeladen habe."
+        "note": "Erwähnt zusätzlich einen neuen Job in Russland, der im Zusammenhang mit dieser Reise steht."
       }
     ],
     "chg": "",
-    "independent": 3
+    "independent": 2
+  },
+  {
+    "id": "story-0f3c683c910b1185",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-08T21:19:56.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Wladimir Putin empfängt Gerhard Schröder zum Geburtstag in Moskau",
+    "s": "Der russische Präsident Wladimir Putin hat den ehemaligen deutschen Bundeskanzler Gerhard Schröder zu Hause in Moskau empfangen. Nach Angaben des Kreml handelte es sich um ein Treffen unter alten Freunden anlässlich des Geburtstags. Es wurden auch Fotos von dem Wiedersehen veröffentlicht.",
+    "m": "Das Treffen fand laut Kreml anlässlich des 74. Geburtstags von Gerhard Schröder statt, den dieser in Moskau verbrachte. Wladimir Putin empfing den Altkanzler demnach in seinem privaten Umfeld. Der Kreml sprach offiziell von einem Treffen unter alten Freunden und veröffentlichte entsprechende Fotos von dem überraschenden Wiedersehen. Weitere Details zu politischen Inhalten oder Gesprächsthemen wurden zunächst nicht bekannt gegeben. Die Begegnung unterstreicht die anhaltend enge persönliche Verbindung zwischen dem russischen Präsidenten und dem ehemaligen deutschen Regierungschef. Kritiker beobachten solche Treffen oft mit Skepsis angesichts der anhaltenden politischen Spannungen zwischen Deutschland und Russland.",
+    "r": "Die Begegnung zwischen einem ehemaligen deutschen Bundeskanzler und dem amtierenden russischen Präsidenten beleuchtet die fortbestehenden persönlichen Beziehungen auf höchster politischer Ebene. Solche Treffen von prominenten westlichen Politikern mit Wladimir Putin finden in der Öffentlichkeit regelmäßig Beachtung.",
+    "srcs": [
+      {
+        "name": "t-online Nachrichten",
+        "url": "https://www.t-online.de/nachrichten/ausland/internationale-politik/id_101473222/schroeder-feierte-offenbar-mit-putin-geburtstag.html",
+        "date": "2026-10-08T21:19:56.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/article6ac7fb956e0a564ee52e9ba7/in-moskau-putin-laedt-alten-freund-schroeder-zum-geburtstag-ein-kreml-veroeffentlicht-fotos.html",
+        "date": "2026-10-08T20:29:52.000Z"
+      }
+    ],
+    "url": "https://www.t-online.de/nachrichten/ausland/internationale-politik/id_101473222/schroeder-feierte-offenbar-mit-putin-geburtstag.html",
+    "agree": "Beide Quellen stimmen darin überein, dass Wladimir Putin den ehemaligen Bundeskanzler Gerhard Schröder in Moskau zu Hause empfangen hat und der Kreml dies als Treffen unter alten Freunden bezeichnete.",
+    "diff": [
+      {
+        "name": "WELT",
+        "note": "Erwähnt zusätzlich, dass es sich um ein überraschendes Wiedersehen in Moskau handelte und Schröder seinen 74. Geburtstag feierte."
+      }
+    ],
+    "chg": "",
+    "independent": 2
   },
   {
     "id": "story-ffd141ec61e63855",
@@ -438,10 +801,10 @@
     "p": 1,
     "st": "BE",
     "city": "",
-    "t": "Madame Tussauds in Berlin enthüllt Döner aus Wachs",
-    "s": "Das Berliner Wachsfigurenkabinett Madame Tussauds hat eine Skulptur eines Döner Kebab aus Wachs vorgestellt. Die Vorlage für das Kunstwerk lieferte ein bekannter Döner-Imbiss aus der Hauptstadt. Es handelt sich um den ersten Döner dieser Art in dem Museum.",
-    "m": "Das Wachsfigurenkabinett Madame Tussauds in Berlin hat offiziell den ersten Döner aus Wachs präsentiert. Nach Medienangaben soll es sich dabei um das teuerste Exemplar dieser Art handeln, mit einem geschätzten Wert oder Kostenpunkt von 10.000 Euro. Als direktes Vorbild diente ein bekannter Imbissbetrieb aus der deutschen Hauptstadt. Die Skulptur ist ab sofort im Museum zu besichtigen und bietet den Besuchern einen Döner zum Anfassen. Weitere Details zur Herstellung oder zur genauen Zusammenarbeit mit dem Imbiss wurden zunächst nicht bekannt gegeben.",
-    "r": "Die Präsentation eines traditionellen Schnellgerichts als Wachsskulptur in einem prominenten Museum zeigt die kulturelle Verankerung des Döners in Berlin. Die Meldung ist vor allem für den Bereich Unterhaltung und Lokalkultur von Interesse.",
+    "t": "Madame Tussauds Berlin präsentiert ersten Wachs-Döner",
+    "s": "Das Wachsfigurenkabinett Madame Tussauds in Berlin hat eine Döner-Skulptur vorgestellt. Die Vorlage für das Kunstwerk aus Wachs lieferte ein bekannter Döner-Imbiss der Hauptstadt. Die Präsentation zieht mediale Aufmerksamkeit auf sich.",
+    "m": "Im Berliner Wachsfigurenkabinett Madame Tussauds ist der nach Angaben des RND erste und vermutlich teuerste Döner aus Wachs enthüllt worden. Der Herstellungswert beziehungsweise Preis der Skulptur wird auf 10.000 Euro beziffert. Als reale Vorlage für das Objekt diente ein bekannter Imbissbetrieb aus der deutschen Hauptstadt. Das Ausstellungsstück lädt Besucher dazu ein, das populäre Fast-Food-Gericht in Form einer Wachsfigur zu betrachten. Bisher ist nicht bekannt, wie lange die Skulptur dauerhaft Teil der Ausstellung bleiben wird oder welche weiteren kulinarischen Figuren geplant sind.",
+    "r": "Die Präsentation ist für die lokale Kulturszene und das Freizeitangebot in Berlin relevant, da es sich um eine ungewöhnliche und kostspielige Nachbildung eines alltäglichen Lebensmittels handelt.",
     "srcs": [
       {
         "name": "ZDF heute",
@@ -460,15 +823,15 @@
       }
     ],
     "url": "https://www.zdfheute.de/video/zdfheute-xpress/madame-tussauds-doener-video-100.html",
-    "agree": "Alle Quellen stimmen überein, dass das Wachsfigurenkabinett Madame Tussauds in Berlin einen Döner aus Wachs vorgestellt hat, der auf einem bekannten Berliner Imbiss basiert.",
+    "agree": "Alle Quellen stimmen überein, dass Madame Tussauds in Berlin einen Döner aus Wachs vorgestellt hat.",
     "diff": [
       {
-        "name": "RND",
-        "note": "Berichtet, dass es sich um den ersten Döner aus Wachs und vermutlich den teuersten für 10.000 Euro handelt."
+        "name": "ZDF heute",
+        "note": "Erwähnt zusätzlich, dass die Vorlage für das Gericht von einem bekannten Döner-Imbiss in der Stadt stammte."
       },
       {
-        "name": "ZDF heute",
-        "note": "Erwähnt, dass die Vorlage für das Gericht von einem bekannten Döner-Imbiss in der Stadt stammte."
+        "name": "RND",
+        "note": "Nennt konkrete Kosten beziehungsweise einen Wert von 10.000 Euro für den Wachs-Döner."
       },
       {
         "name": "Tagesschau Regional Berlin",
@@ -488,10 +851,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Portugiesische Haushaltsvorschläge sehen Budgeterhöhungen vor",
-    "s": "Die portugiesische Regierung hat im Rahmen der Haushaltsvorschläge für das kommende Jahr Finanzerhöhungen für verschiedene Bereiche angekündigt. Konkret steigen die Mittel für die Modernisierung von Sicherheitskräften sowie für den Bildungs- und Wissenschaftssektor. Die entsprechenden Vorlagen wurden zur parlamentarischen Prüfung eingereicht.",
-    "m": "Gemäß der vorgeschlagenen Budgetplanung für das kommende Jahr erhöht sich die Vergabe für Modernisierungsmaßnahmen an Einrichtungen, Ausrüstung, Fahrzeuge und Waffen von PSP und GNR um 29 Prozent auf insgesamt 132,8 Millionen Euro. Gleichzeitig plant die Regierung im Bereich Bildung und Wissenschaft ein Budgetwachstum von 1,5 Prozent, womit eine konsolidierte Ausgabe von knapp 7,79 Milliarden Euro veranschlagt wird. Diese Maßnahmen sind Teil der staatlichen Finanzplanung, die die Schwerpunkte der öffentlichen Ausgaben für das Jahr 2027 festlegt. Die Zuweisungen sollen den Betrieb und die Infrastruktur der betroffenen Institutionen stärken. Weitere Einzelheiten zur Verteilung im Detail und zur Gegenfinanzierung im Gesamthaushalt müssen in den kommenden Verhandlungen geklärt werden.",
-    "r": "Die Aufstockung der Haushaltsmittel betrifft zentrale staatliche Bereiche wie die innere Sicherheit sowie Bildung und Wissenschaft. Damit gibt der Entwurf Einblicke in die finanzpolitischen Prioritäten der Regierung für das kommende Jahr.",
+    "t": "Staatsbudget sieht Erhöhungen für Innere Sicherheit sowie Bildung vor",
+    "s": "Die portugiesische Regierung hat den Haushaltsentwurf für das kommende Jahr vorgelegt. Darin sind unterschiedliche Etatsteigerungen für verschiedene Bereiche vorgesehen. Unter anderem steigen die Mittel für die Modernisierung von Polizei und Gendarmerie sowie für den Bildungssektor. Die vorgeschlagenen Beträge basieren auf den offiziellen Haushaltsplänen für 2027.",
+    "m": "Der im Rahmen des Staatshaushalts vorgelegte Entwurf sieht für das nächste Jahr einen Anstieg der Finanzmittel zur Modernisierung von Einrichtungen, Ausrüstung, Fahrzeugen und Waffen der Sicherheitskräfte PSP und GNR um 29 Prozent vor, was einer Summe von 132,8 Millionen Euro entspricht. Gleichzeitig plant die Regierung im Bereich Bildung und Wissenschaft eine Erhöhung der veranschlagten Mittel um 1,5 Prozent. Die konsolidierten Ausgaben für diesen Sektor belaufen sich demnach auf rund 7,78 Milliarden Euro, exakt 7787,9 Millionen Euro. Beide Posten sind Teil der aktuellen Budgetvorschläge. Weitere Details zu den Gesamtausgaben oder Gegenstimmen wurden in den Berichten nicht genannt.",
+    "r": "Die Anpassungen des Staatshaushalts verdeutlichen die finanziellen Prioritäten der Regierung in den Bereichen innere Sicherheit und Bildung. Die konkreten Budgetzahlen geben Aufschluss über die geplante Ressortverteilung im kommenden Jahr.",
     "srcs": [
       {
         "name": "RTP Notícias",
@@ -505,19 +868,56 @@
       }
     ],
     "url": "https://www.rtp.pt/noticias/economia/verbas-para-instalacoes-equipamentos-viaturas-e-armas-da-psp-e-gnr-aumentam-29_n1770440",
-    "agree": "Die Quellen stimmen überein, dass die portugiesische Regierung in ihrem Haushaltsentwurf für das kommende Jahr höhere Finanzmittel für bestimmte staatliche Bereiche vorsieht.",
+    "agree": "Die Quellen stimmen überein, dass der Entwurf des Staatshaushalts für das kommende Jahr finanzielle Erhöhungen in verschiedenen Bereichen vorsieht.",
     "diff": [
       {
         "name": "RTP Notícias",
-        "note": "Berichtet über die Erhöhung der Mittel für PSP und GNR um 29 Prozent auf 132,8 Millionen Euro."
+        "note": "Berichtet über die Erhöhung der Mittel für PSP und GNR um 29% auf 132,8 Millionen Euro."
       },
       {
         "name": "RTP Economia",
-        "note": "Berichtet über die Erhöhung der Mittel für Bildung und Wissenschaft um 1,5 Prozent auf 7,78 Milliarden Euro."
+        "note": "Berichtet über den Anstieg der Bildungsausgaben um 1,5% auf 7,78 Milliarden Euro für das Jahr 2027."
       }
     ],
     "chg": "",
     "independent": 1
+  },
+  {
+    "id": "story-d6eb3d6448dc44dd",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-08T20:19:17.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Zehntausende Schüler protestieren erneut für bessere Bildung in Frankreich",
+    "s": "In Frankreich gehen die Schülerproteste für bessere Bildungsbedingungen unvermindert weiter. Zehntausende Jugendliche beteiligen sich erneut an den Kundgebungen im ganzen Land. Die anhaltenden Proteste setzen die Regierung unter Druck und zeigen erste Reaktionen seitens der Politik.",
+    "m": "Die Schulproteste in Frankreich halten an und führen zu ersten politischen Reaktionen. Laut Angaben von Premierminister Lecornu ist geplant, kurzfristig mehr als 3.000 Vertretungslehrer einzustellen, um auf die Forderungen der Demonstrierenden zu reagieren. Zehntausende Schülerinnen und Schüler fordern seit Tagen bessere Bedingungen an den Schulen. Die Proteste verdeutlichen die anhaltende Unzufriedenheit über den Zustand des Bildungssystems. Ob die angekündigten Maßnahmen ausreichen, um die Proteste zu beenden, bleibt vorerst offen.",
+    "r": "Die Schülerproteste in Frankreich verdeutlichen anhaltende Missstände im Bildungswesen und zwingen die Regierung zu schnellen Reaktionen. Die angekündigte Einstellung von Tausenden Vertretungslehrkräften zeigt, wie stark der Druck durch die Demonstrationen ist.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMlV3NXhLQVhRdDdlTnZ0N21mWnhlaHNYTmVkVVVWRTY5VGNNbVVrNll2T3FfNWlkalFhdndvZU1oZVJkSFFtNU0zempoWjZ4YkFzWFN3MXV2bzhyenN3cHI1U05neEgycDZFMlo3bTRNU3A2SUVXUTlMX3lpMmpkbjdrUmthUW1zMDJ5aUJ4VUpadkJzV012X1BuQmJvcnppYnc?oc=5",
+        "date": "2026-10-08T20:19:17.000Z"
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/politik/ausland/2026-10/frankreich-schueler-proteste-schulen-polizeigewalt-paris",
+        "date": "2026-10-08T20:19:17.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMlV3NXhLQVhRdDdlTnZ0N21mWnhlaHNYTmVkVVVWRTY5VGNNbVVrNll2T3FfNWlkalFhdndvZU1oZVJkSFFtNU0zempoWjZ4YkFzWFN3MXV2bzhyenN3cHI1U05neEgycDZFMlo3bTRNU3A2SUVXUTlMX3lpMmpkbjdrUmthUW1zMDJ5aUJ4VUpadkJzV012X1BuQmJvcnppYnc?oc=5",
+    "agree": "Beide Quellen berichten übereinstimmend von den anhaltenden Schülerprotesten Zehntausender in Frankreich für bessere Bildung.",
+    "diff": [
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Ergänzt, dass Premierminister Lecornu als Reaktion kurzfristig den Einsatz von mehr als 3.000 Vertretungslehrern angekündigt hat."
+      }
+    ],
+    "chg": "",
+    "independent": 2
   },
   {
     "id": "story-2e36b4c2b001cd7b",
@@ -530,9 +930,9 @@
     "st": "",
     "city": "",
     "t": "Frankreich setzt kurzfristig 3000 Vertretungslehrer ein",
-    "s": "Die französische Regierung will kurzfristig mehr als 3000 Vertretungslehrer einsetzen, um auf die anhaltenden Schulproteste im Land zu reagieren. Damit geht sie erstmals konkret auf Forderungen der Demonstrierenden ein. Die Proteste eskalieren jedoch weiterhin an verschiedenen Standorten.",
-    "m": "Nach anhaltenden Schulprotesten hat die französische Regierung angekündigt, kurzfristig mehr als 3000 Vertretungslehrer zu organisieren. Dieser Schritt stellt ein erstes konkretes Eingehen auf die Forderungen der Schüler dar. Während dieser Maßnahmen eskalieren die Proteste im Land jedoch erneut. In Saint-Chamond kam es zu einem schwerwiegenden Vorfall, bei dem der Vizerektor einer Schule durch einen Feuerwerkskörper Verbrennungen im Gesicht erlitt. Es bleibt abzuwarten, welche weiteren Pläne die Regierung verfolgt und wie sich die Sicherheitslage an den Schulen entwickeln wird.",
-    "r": "Die Massnahmen der französischen Regierung zeigen, dass der Druck durch die eskalierenden Schülerproteste hoch ist. Die Situation an den Schulen betrifft die öffentliche Sicherheit und das Bildungssystem direkt.",
+    "s": "Nach anhaltenden Protesten an Schulen in Frankreich will die Regierung kurzfristig mehr als 3000 Vertretungslehrer einsetzen. Damit reagiert sie erstmals konkret auf Forderungen der demonstrierenden Schüler. Die Proteste gehen indes weiter und eskalieren teilweise gewaltsam.",
+    "m": "Die französische Regierung hat angekündigt, kurzfristig mehr als 3000 Vertretungslehrer zu organisieren, um auf die landesweiten Schulproteste zu reagieren. Dies stellt das erste konkrete Eingehen der Regierung auf die Forderungen der Schüler dar. Während der anhaltenden Demonstrationen kam es zu weiteren Eskalationen. So erlitt der Vizerektor einer Schule in Saint-Chamond schwere Gesichtsverbrennungen, nachdem er von einem Feuerwerkskörper getroffen worden war. Die genauen weiteren Pläne der Regierung sowie die umfassenden Hintergründe der Protestwelle sind Gegenstand der aktuellen Entwicklung. Offen bleibt, ob die Maßnahmen zur Beruhigung der Lage an den Bildungseinrichtungen ausreichen werden.",
+    "r": "Die Maßnahmen der Regierung zur Einstellung von Vertretungslehrern und die anhaltende Eskalation der Schülerproteste sind von gesellschaftlicher und politischer Relevanz für das Bildungswesen in Frankreich. Die Gewaltausschreitungen an Schulen verdeutlichen die Zuspitzung der Situation vor Ort.",
     "srcs": [
       {
         "name": "DER SPIEGEL",
@@ -546,15 +946,15 @@
       }
     ],
     "url": "https://www.spiegel.de/ausland/frankreich-setzt-kurzfristig-3000-vertretungslehrer-ein-a-6c20340e-5db1-4bf8-9eff-82e0719009bd#ref=rss",
-    "agree": "Die Quellen sind sich einig, dass Frankreich nach Schulprotesten kurzfristig 3000 Vertretungslehrer einsetzt.",
+    "agree": "Die Quellen stimmen überein, dass Frankreich nach anhaltenden Schulprotesten kurzfristig 3000 Vertretungslehrer einsetzt.",
     "diff": [
       {
         "name": "DER SPIEGEL",
-        "note": "Berichtet über die Eskalation in Saint-Chamond, bei der ein Vizerektor durch einen Feuerwerkskörper Gesichtsverbrennungen erlitt."
+        "note": "Berichtet konkret über die Eskalation in Saint-Chamond, bei der ein Vizerektor durch einen Feuerwerkskörper Verbrennungen im Gesicht erlitt."
       },
       {
         "name": "RND",
-        "note": "Erwähnt allgemein, dass die Regierung weitere Pläne hat und beleuchtet den Verlauf der Proteste."
+        "note": "Erwähnt allgemein, dass noch geprüft wird, was die Regierung außerdem plant und wie die Proteste verlaufen."
       }
     ],
     "chg": "",
@@ -570,10 +970,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Amazon plant Alexa-Tablets mit Android und Google Play",
-    "s": "Amazon plant offenbar eine Neuausrichtung seiner Alexa-Tablets und verabschiedet sich von der bisherigen Fire-Branding-Strategie. Künftig sollen die Geräte stärker auf Android setzen. Zudem wird der hauseigene App Store durch den Google Play Store ersetzt.",
-    "m": "Berichten zufolge hat Amazon beschlossen, den eigenen App Store einzustellen und stattdessen den Google Play Store auf seinen neuen Alexa-Tablets zu integrieren. Damit öffnen sich die Geräte deutlich stärker dem regulären Android-Ökosystem. Das bisher bekannte Fire OS und die dazugehörige Markenbezeichnung werden dabei fallengelassen. Die neuen Tablets präsentieren sich somit technologisch so nah an Standard-Android wie nie zuvor. Offizielle Details zu konkreten Hardware-Modellen, Preisen oder einem genauen Veröffentlichungszeitpunkt stehen noch aus.",
-    "r": "Die Abkehr von Fire OS und die Integration des Google Play Stores stellen eine bedeutende strategische Änderung für Amazons Hardware-Sparte dar. Damit ändert sich das Software-Ökosystem der Alexa-Tablets grundlegend für Nutzer und Entwickler.",
+    "t": "Amazon bringt neue Alexa-Tablets mit Android und Google Play",
+    "s": "Amazon plant die Veröffentlichung neuer Alexa-Tablets, die auf die bisherige Fire-Markierung verzichten. Statt des eigenen Fire OS setzen die neuen Geräte stärker auf Android. Zudem wird der hauseigene App Store durch den Google Play Store ersetzt.",
+    "m": "Amazon vollzieht bei seinen kommenden Alexa-Tablets einen deutlichen Richtungswechsel in der Software-Strategie. Die Geräte lassen den bekannten Markennamen Fire hinter sich und integrieren sich noch stärker in das Android-Ökosystem als bisherige Generationen. Ein zentraler Bestandteil dieser Umstellung ist die Abschaffung des bisherigen Amazon App Stores. An dessen Stelle tritt nun der offizielle Google Play Store, wodurch Nutzer direkten Zugriff auf das gewohnte Android-Anwendungsportfolio erhalten. Konkrete Details zum genauen zeitlichen Ablauf der Markteinführung, den technischen Spezifikationen der Hardware sowie den Preisen gehen aus den vorliegenden Berichten noch nicht hervor. Die Maßnahme bedeutet einen tiefgreifenden Eingriff in Amazons bisher geschlossenes Tablet-Ökosystem.",
+    "r": "Die Umstellung der Betriebssystem- und App-Store-Strategie bei Amazons Alexa-Tablets markiert eine wichtige Richtungsänderung für die Hardware-Sparte des Unternehmens, da bisherige Markennamen und eigene Plattformen aufgegeben werden.",
     "srcs": [
       {
         "name": "Google News DE",
@@ -587,15 +987,15 @@
       }
     ],
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNamtIc1g5dEh3SlZRZnpEN3dEWlZLTTdwbGhocTNibGE4cEg4YlVTZjhEZGE1TTJIUC1BR3Y4WjhDTGZxOU5DUXRzazZoLTctUHZ1ZXc2bm9udWVnYmd3bHd2cWNfblB0Rm5Ud21iLWZFSjlpX2UzSWVTUEZwZVA0Nm1EYUQ0a0stQkpEdk81WWo5dw?oc=5",
-    "agree": "Beide Quellen stimmen darin überein, dass Amazon bei neuen Alexa-Tablets das Fire-Branding ablegt, den eigenen App Store aufgibt und stattdessen auf Android sowie den Google Play Store setzt.",
+    "agree": "Beide Quellen stimmen überein, dass Amazon bei neuen Alexa-Tablets auf den Namen Fire verzichtet und den Google Play Store anstelle des eigenen App Stores nutzt.",
     "diff": [
       {
         "name": "Google News DE",
-        "note": "Verweist auf den Blogbeitrag von BornCity als Quelle für die Meldung über den Wechsel von Fire OS zu Android und Google Play."
+        "note": "Berichtet unter Berufung auf BornCity, dass Android und Google Play das bisherige Fire OS ersetzen."
       },
       {
         "name": "Ars Technica",
-        "note": "Beschreibt die Entwicklung aus angelsächsischer Perspektive mit dem Fokus, dass die neuen Geräte mehr Android denn je seien und Amazon seinen App Store komplett getötet habe."
+        "note": "Merkt an, dass die neuen Geräte mehr Android denn je seien und Amazon seinen bisherigen App Store komplett eingestellt habe."
       }
     ],
     "chg": "",
@@ -681,13 +1081,13 @@
     "k": "panorama",
     "lang": "de",
     "d": "2026-10-08T18:49:18.000Z",
-    "p": 4,
+    "p": 3,
     "st": "MV",
     "city": "",
-    "t": "Fall Fabian: Gutachter bescheinigt angeklagter Gina H. volle Schuldfähigkeit",
-    "s": "Im Mordprozess um den achtjährigen Fabian hat ein Psychiater sein Gutachten zur Angeklagten Gina H. vorgestellt. Laut dem Experten ist die Frau voll schuldfähig. Ihr wird vorgeworfen, den Jungen vor einem Jahr in der Nähe von Güstrow getötet zu haben.",
-    "m": "Vor dem Gericht wurde ein psychiatrisches Gutachten zu Gina H. verhandelt, die für den Tod des achtjährigen Fabian vor rund einem Jahr verantwortlich sein soll. Der Psychiater erläuterte seinen Befund knapp eine Stunde lang und attestierte der Angeklagten eine emotional instabile Persönlichkeitsstörung. Trotz dieser Diagnose kommt der Gutachter zu dem Schluss, dass Gina H. voll schuldfähig ist. Die Tat ereignete sich in der Nähe von Güstrow und hatte bundesweit für Entsetzen gesorgt. Der aktuelle Prozess soll die genauen Hintergründe und die Schuldfrage klären.",
-    "r": "Die Einschätzung der Schuldfähigkeit durch einen medizinischen Experten ist ein zentrales Element im Strafprozess zur Aufklärung des Verbrechens. Die genaue Diagnose der Persönlichkeitsstörung beleuchtet den psychischen Zustand der Angeklagten vor Gericht.",
+    "t": "Fall Fabian: Gutachter bescheinigt Gina H. volle Schuldfähigkeit",
+    "s": "Im Prozess um den gewaltsamen Tod des achtjährigen Fabian vor einem Jahr in der Nähe von Güstrow hat ein Psychiater ein Gutachten vorgelegt. Demnach wird der angeklagten Gina H. volle Schuldfähigkeit bescheinigt. Der Sachverständige äußerte sich in einer knapp einstündigen Ausführung zu ihrem psychischen Zustand.",
+    "m": "Vor rund einem Jahr kam es in der Nähe von Güstrow zu dem getöteten achtjährigen Jungen Fabian, weshalb sich nun Gina H. vor Gericht verantworten muss. Ein Psychiater hat vor Gericht detailliert über ihren psychischen Zustand gesprochen und ihr eine emotional instabile Persönlichkeitsstörung diagnostiziert. Trotz dieser Diagnose kommt der Gutachter zu dem Schluss, dass die Angeklagte zum Tatzeitpunkt voll schuldfähig war. Weitere Details zu den genauen Tatumständen oder dem Verlauf der Verhandlung wurden im Rahmen der Berichterstattung von den Reportern angekündigt, blieben im Detail jedoch zunächst offen.",
+    "r": "Das psychiatrische Gutachten ist ein zentraler Baustein zur Beurteilung der Schuldfähigkeit und strafrechtlichen Verantwortung der Angeklagten in einem schwerwiegenden Tötungsdelikt an einem Kind.",
     "srcs": [
       {
         "name": "Tagesschau Regional Mecklenburg-Vorpommern",
@@ -701,15 +1101,15 @@
       }
     ],
     "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/fall-fabian-gina-h-ist-laut-gutachter-voll-schuldfaehig,fabian-256.html",
-    "agree": "Die Quellen stimmen überein, dass ein Gutachter Gina H. im Fall Fabian volle Schuldfähigkeit bescheinigt hat.",
+    "agree": "Beide Quellen stimmen überein, dass ein Psychiater Gina H. im Fall Fabian volle Schuldfähigkeit bescheinigt hat.",
     "diff": [
       {
         "name": "Tagesschau Regional Mecklenburg-Vorpommern",
-        "note": "Berichtet, dass der Psychiater rund eine Stunde gesprochen hat und eine emotional instabile Persönlichkeitsstörung diagnostizierte."
+        "note": "Berichtet, dass der Psychiater knapp eine Stunde lang gesprochen hat und ihr eine emotional instabile Persönlichkeitsstörung bescheinigt."
       },
       {
         "name": "NDR Mecklenburg-Vorpommern",
-        "note": "Erwähnt konkret den Vorwurf des Mordes an dem achtjährigen Jungen vor einem Jahr in der Nähe von Güstrow."
+        "note": "Erwähnt konkret den Vorwurf des Mordes an dem achtjährigen Jungen vor einem Jahr in der Nähe von Güstrow und kündigt Details durch Jürn-Jakob Gericke an."
       }
     ],
     "chg": "",
@@ -726,9 +1126,9 @@
     "st": "NI",
     "city": "",
     "t": "Ermittlungen im Fall Lehrte weiten sich auf Adis Ahmetovic aus",
-    "s": "Im Zusammenhang mit dem Verkauf des Klinikums Lehrte hat die Staatsanwaltschaft Ermittlungen gegen den hannoverschen SPD-Chef Adis Ahmetovic aufgenommen. Nach früheren Verfahren gegen Parteikollegen steht nun ein weiterer SPD-Politiker im Fokus. Die Berichterstattung beruht auf aktuellen Recherchen des NDR.",
-    "m": "Die Staatsanwaltschaft hat ihre Ermittlungen im sogenannten Fall Lehrte auf einen weiteren SPD-Politiker ausgedehnt. Nun steht auch der hannoversche SPD-Chef Adis Ahmetovic im Visier der Behörden. Hintergrund der Ermittlungen ist offenbar der umstrittene Verkauf des Klinikums Lehrte. Zuvor waren bereits in ähnlichen Zusammenhängen Verfahren gegen die SPD-Politiker Politze und Krach eingeleitet worden. Nähere Details zu den konkreten Vorwürfen und dem genauen zeitlichen Ablauf der neuen Ermittlungsschritte nennen die vorliegenden Berichte bisher nicht. Die Untersuchung wirft ein neues Schlaglicht auf die politische Gemengelage um das Klinikum.",
-    "r": "Die Ausweitung von strafrechtlichen Ermittlungen auf hochrangige Kommunalpolitiker ist von öffentlichem Interesse. Die Vorgänge rund um den Verkauf des Klinikums Lehrte betreffen direkt die politische und kommunale Verantwortung in der Region.",
+    "s": "Im Zuge der Ermittlungen zum Verkauf des Klinikums Lehrte hat die Staatsanwaltschaft das Verfahren auf einen weiteren SPD-Politiker ausgedehnt. Nach den bisherigen Beschuldigten Politze und Krach steht nun Hannovers SPD-Chef Adis Ahmetovic im Visier der Justiz. Die Hintergründe und Details der Vorwürfe werden im Rahmen der laufenden Verfahren untersucht.",
+    "m": "Die Staatsanwaltschaft führt ihre Ermittlungen im Zusammenhang mit dem Verkauf des Klinikums Lehrte fort und richtet den Fokus nun auch auf Hannovers SPD-Chef Adis Ahmetovic. Damit gerät nach den bereits bekannten Politikern Politze und Krach der dritte SPD-Vertreter ins Visier der Behörden. Bislang ist bekannt, dass die Untersuchung direkt mit dem umstrittenen Klinikverkauf in Verbindung steht. Konkrete Details zu den gegen Ahmetovic erhobenen Vorwürfen und dem genauen Vorwurfsweg sind aus den vorliegenden Berichten noch nicht umfassend ersichtlich. Die Ermittlungsbehörden prüfen die Rolle der Beteiligten in dem Komplex. Weitere Informationen, insbesondere zu möglichen Konsequenzen oder Schritten der Staatsanwaltschaft, stehen noch aus.",
+    "r": "Die Ausweitung der staatsanwaltschaftlichen Ermittlungen auf hochrangige SPD-Politiker im Zusammenhang mit dem Verkauf des Klinikums Lehrte ist von regionaler politischer Bedeutung. Die Klärung der Vorwürfe gegen Adis Ahmetovic, Politze und Krach berührt die Integrität kommunalpolitischer Entscheidungsprozesse in Niedersachsen.",
     "srcs": [
       {
         "name": "Tagesschau Regional Niedersachsen",
@@ -747,19 +1147,19 @@
       }
     ],
     "url": "https://www.tagesschau.de/inland/regional/niedersachsen/weitere-ermittlungen-im-fall-lehrte-nun-gegen-adis-ahmetovic,ahmetovic-106.html",
-    "agree": "Die Quellen stimmen überein, dass die Staatsanwaltschaft Ermittlungen gegen den SPD-Politiker Adis Ahmetovic im Zusammenhang mit dem Fall Lehrte eingeleitet hat.",
+    "agree": "Die Quellen stimmen überein, dass die Staatsanwaltschaft im Fall des Klinikverkaufs Lehrte nun auch gegen Hannovers SPD-Chef Adis Ahmetovic ermittelt und zuvor bereits Verfahren gegen Politze und Krach liefen.",
     "diff": [
       {
         "name": "Tagesschau Regional Niedersachsen",
-        "note": "Erwähnt kurz, dass es sich um den dritten SPD-Politiker nach Politze und Krach handelt und nennt den Klinik-Verkauf als mutmaßlichen Grund."
+        "note": "nennt die Reihenfolge und ergänzt, dass es sich um den dritten SPD-Politiker im Verfahren handelt"
       },
       {
         "name": "NDR Niedersachsen",
-        "note": "Nennt Adis Ahmetovic explizit als Hannovers SPD-Chef und verweist auf Details durch die Reporterin Sophie Mühlmann."
+        "note": "nennt Sophie Mühlmann als Reporterin für Details"
       },
       {
         "name": "Google News DE",
-        "note": "Verweist lediglich auf den Artikel des NDR mit den Namen Krach, Politze und Ahmetovic als Schlagzeile."
+        "note": "verlinkt auf den NDR-Artikel und nennt weitere Schlagzeilen"
       }
     ],
     "chg": "",
@@ -775,10 +1175,10 @@
     "p": 3,
     "st": "SH",
     "city": "",
-    "t": "So bremsen KI-generierte Anträge Sozialgerichte aus",
-    "s": "An den Sozialgerichten in Schleswig-Holstein hat sich die Zahl der Klagen innerhalb eines Jahres verdoppelt. Ein wesentlicher Grund für diesen massiven Anstieg sind KI-generierte Anträge. Die Justiz steht dadurch vor erheblichen Belastungsproben.",
-    "m": "Die Sozialgerichte im Land verzeichnen einen beispiellosen Anstieg der Fallzahlen. Innerhalb von nur zwölf Monaten hat sich die Zahl der eingereichten Klagen verdoppelt. Verantwortlich dafür sind zu großen Teilen Anträge und Klagen, die mithilfe von künstlicher Intelligenz erstellt wurden. Diese Entwicklung führt zu einem spürbar höheren Bearbeitungsaufwand für die Mitarbeiterinnen und Mitarbeiter an den Gerichten. Richter und Verwaltungen müssen prüfen, inwieweit die automatisiert erstellten Schreiben den rechtlichen Anforderungen genügen. Der genaue Hintergrund, welche Plattformen oder Muster für die Erstellung genutzt werden, ist Gegenstand weiterer Beobachtungen. Offen ist bislang, wie die Justiz langfristig mit der Welle digital generierter Eingaben umgehen wird.",
-    "r": "Der massive Anstieg von Klagen durch KI-generierte Anträge zeigt eine neue Belastung für die Justiz und wirft Fragen zum künftigen Umgang mit automatisierten Rechtsschriften auf.",
+    "t": "KI-generierte Anträge führen zu doppelten Klagezahlen an Sozialgerichten",
+    "s": "An den Sozialgerichten hat sich die Zahl der Klagen innerhalb eines Jahres verdoppelt. Verantwortlich dafür ist unter anderem eine Welle von Klagen, die von künstlicher Intelligenz generiert wurden. Diese Entwicklung führt zu einer erheblichen Mehrbelastung der Gerichte.",
+    "m": "Die Sozialgerichte in Schleswig-Holstein verzeichnen innerhalb eines Jahres eine Verdopplung der Klagezahlen im Vergleich zum üblichen Niveau. Ein wesentlicher Grund für diesen starken Anstieg sind Anträge und Klagen, die mithilfe von Künstlicher Intelligenz (KI) erstellt wurden. Durch die automatisierte Generierung von Dokumenten erhöht sich der Arbeitsaufwand für die Justiz spürbar, da diese Anträge geprüft und bearbeitet werden müssen. Ob die Flut an KI-Anträgen auf organisierte Aktionen oder einzelne Antragsteller zurückgeht, bleibt vorerst offen. Die Justiz steht vor der Herausforderung, mit dieser neuen Form der Verfahrensbelastung umzugehen.",
+    "r": "Die Zunahme von KI-generierten Klagen verdeutlicht die direkten Auswirkungen neuer Technologien auf die Arbeitsfähigkeit und Belastung der öffentlichen Verwaltung und Justiz. Dies zeigt, dass Justizbehörden sich auf digitale Herausforderungen einstellen müssen.",
     "srcs": [
       {
         "name": "Tagesschau Regional Schleswig-Holstein",
@@ -792,15 +1192,15 @@
       }
     ],
     "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/wie-ki-generierte-antraege-sozialgerichte-ausbremsen,sozialgerichte-100.html",
-    "agree": "Beide Quellen stimmen überein, dass sich die Zahl der Klagen an den Sozialgerichten innerhalb eines Jahres verdoppelt hat und viele davon KI-generiert sind.",
+    "agree": "Beide Quellen stimmen überein, dass sich die Klagen an den Sozialgerichten innerhalb eines Jahres verdoppelt haben und viele davon KI-generiert sind.",
     "diff": [
       {
         "name": "Tagesschau Regional Schleswig-Holstein",
-        "note": "Betitelt den Umstand konkret als 'So bremsen KI-generierte Anträge Sozialgerichte aus'."
+        "note": "Formuliert den Titel spezifisch mit der Aussage, dass KI-generierte Anträge die Sozialgerichte ausbremsen."
       },
       {
         "name": "NDR Schleswig-Holstein",
-        "note": "Formuliert den Titel etwas anders mit 'KI-generierte Anträge machen Sozialgerichten mehr Arbeit'."
+        "note": "Formuliert im Titel, dass KI-generierte Anträge den Sozialgerichten mehr Arbeit machen."
       }
     ],
     "chg": "",
@@ -813,13 +1213,13 @@
     "k": "wirtschaft",
     "lang": "de",
     "d": "2026-10-08T18:07:00.000Z",
-    "p": 3,
+    "p": 2,
     "st": "BW",
     "city": "",
-    "t": "Audi plant Einsparungen und Schlechtwetterklausel für Werk in Neckarsulm",
-    "s": "Der Autobauer Audi plant angesichts einer Krise Einsparungen für sein Werk in Neckarsulm. Dazu will das Unternehmen mit den Arbeitnehmern verhandeln. Ein zentrales Element ist dabei der Einsatz der sogenannten Schlechtwetterklausel.",
-    "m": "Audi steckt derzeit in einer Krise und plant deshalb weitere Einsparungen für das Werk im baden-württembergischen Neckarsulm. Um diese Maßnahmen umzusetzen, sucht der Autobauer das Gespräch mit den Arbeitnehmern und will mit ihnen über die entsprechenden Schritte verhandeln. Ein konkretes Instrument, das in diesem Zusammenhang zum Einsatz kommen soll, ist die sogenannte Schlechtwetterklausel. Weitere Details zum zeitlichen Ablauf, den genauen finanziellen Auswirkungen oder den genauen Reaktionen der Arbeitnehmerseite nennen die vorliegenden Quellen bisher nicht.",
-    "r": "Die Maßnahme betrifft einen großen deutschen Automobilstandort und gibt Einblicke in die aktuellen wirtschaftlichen Herausforderungen und Sparbemühungen des Unternehmens.",
+    "t": "Audi zieht Schlechtwetterklausel für Werk in Neckarsulm in Betracht",
+    "s": "Der Autobauer Audi plant wegen anhaltender wirtschaftlicher Schwierigkeiten Einsparungen am Standort Neckarsulm. Dazu soll unter anderem die sogenannte Schlechtwetterklausel zum Einsatz kommen. Entsprechende Verhandlungen mit den Arbeitnehmern stehen bevor. Konkrete Details zu den Auswirkungen auf die Belegschaft wurden zunächst nicht genannt.",
+    "m": "Angesichts einer tiefen Krise sucht der Automobilkonzern Audi nach Wegen zur Kostensenkung und will für sein Werk im baden-württembergischen Neckarsulm über zusätzliche Sparmaßnahmen verhandeln. Ein zentrales Element dieser Planungen ist der Einsatz der sogenannten Schlechtwetterklausel, die in Krisenzeiten oder bei Produktionsauslastungsschwankungen Anwendung finden kann. Diese Regelungen betreffen direkt die Arbeitnehmer und sollen helfen, die wirtschaftliche Last am Standort abzufedern. Bisher ist unklar, wie die konkreten Konditionen der Klausel aussehen und welche weiteren Einsparmaßnahmen Audi fordert. Gewerkschaften und Arbeitnehmervertretungen dürften diesen Vorstoß intensiv prüfen und kritisch begleiten. Das Werk in Neckarsulm gehört zu den traditionsreichen Produktionsstätten des Herstellers.",
+    "r": "Die Maßnahme betrifft einen großen deutschen Automobilstandort und verdeutlicht die wirtschaftlichen Probleme in der Automobilbranche. Verhandlungen über Einsparungen und Klauseln haben direkte Auswirkungen auf zahlreiche Beschäftigte und die regionale Wirtschaft.",
     "srcs": [
       {
         "name": "Tagesschau Regional Baden-Württemberg",
@@ -833,19 +1233,65 @@
       }
     ],
     "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/betriebsversammlung-audi-neckarsulm-100.html",
-    "agree": "Beide Quellen berichten, dass Audi für das Werk in Neckarsulm die Schlechtwetterklausel einsetzen will und über Einsparungen verhandelt werden soll.",
+    "agree": "Beide Quellen stimmen überein, dass Audi für das Werk in Neckarsulm die Schlechtwetterklausel einsetzen will und über weitere Einsparungen verhandeln muss.",
     "diff": [
       {
-        "name": "Tagesschau Regional Baden-Württemberg",
-        "note": "Berichtet ausführlich, dass Audi wegen der Krise mit Arbeitnehmern über Einsparungen und den Einsatz der Schlechtwetterklausel verhandeln will."
-      },
-      {
         "name": "Google News DE",
-        "note": "Verweist lediglich per Link auf den Bericht der Tagesschau."
+        "note": "Verweist lediglich auf den Bericht der tagesschau.de und enthält einen HTML-Link."
       }
     ],
     "chg": "",
     "independent": 2
+  },
+  {
+    "id": "story-0863b5649654ccdd",
+    "c": "INT",
+    "o": "INT",
+    "k": "wissenschaft",
+    "lang": "de",
+    "d": "2026-10-08T17:12:57.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Kanadische Dichterin Anne Carson erhält Literaturnobelpreis",
+    "s": "Die kanadische Dichterin, Essayistin und Übersetzerin Anne Carson hat den Literaturnobelpreis gewonnen. Die 76-jährige Autorin aus Toronto wurde am Donnerstag für ihr spielerisches und gattungsübergreifendes Werk geehrt. Sie verbindet in ihren Schriften klassische antike Themen mit der Moderne und sprengt dabei Grenzen zwischen Poesie, Prosa und Wissenschaft.",
+    "m": "Die schwedische Akademie beziehungsweise das Nobelpreiskomitee hat Anne Carson den Literaturnobelpreis 2024 zugesprochen. Die aus Toronto stammende Künstlerin ist mittlerweile 76 Jahre alt und zeichnet sich durch ein kühnes sowie erfinderisches Schaffen aus. Ihr Werk stützt sich stark auf Motive und Geschichten aus der altgriechischen sowie römischen Literatur. Dabei vermischt sie Elemente der Dichtung, des Essays und der Belletristik zu einem einzigartigen Stil. Ihr Schreiben wird international für die gelungene Verschmelzung von Klassik und Moderne geschätzt. Die genauen Hintergründe der Preisverleihung sowie Details zu den Mitfavoriten werden in den Berichten nicht genannt.",
+    "r": "Die Verleihung des Literaturnobelpreises an Anne Carson ist ein bedeutendes internationales Kulturereignis. Sie würdigt das jahrzehntelange literarische Schaffen einer international bekannten kanadischen Autorin.",
+    "srcs": [
+      {
+        "name": "France24 English",
+        "url": "https://www.france24.com/en/video/20261008-canadian-poet-and-essayist-anne-carson-wins-nobel-prize-in-literature",
+        "date": "2026-10-08T17:12:57.000Z"
+      },
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-08T14:33:23.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SQjd5WW5lcEpOSVRTUlR0T3liS3BfU2lXNDk5YVNyOHRKaTVfckxiMVl1elBXTDVYbHVpM21abEd3cXN2bEZoU3RVazlDM21vLVNzZklta0cxcVE?oc=5",
+        "date": "2026-10-08T14:33:23.000Z"
+      }
+    ],
+    "url": "https://www.france24.com/en/video/20261008-canadian-poet-and-essayist-anne-carson-wins-nobel-prize-in-literature",
+    "agree": "Alle Quellen stimmen überein, dass die kanadische Dichterin Anne Carson den Literaturnobelpreis gewonnen hat und 76 Jahre alt ist.",
+    "diff": [
+      {
+        "name": "France24 English",
+        "note": "nennt zusätzlich, dass Carson auch als Übersetzerin tätig ist und dass sie am Donnerstag ausgezeichnet wurde"
+      },
+      {
+        "name": "BBC World",
+        "note": "beschreibt sie mit den Worten bold and inventive (kühn und erfinderisch) und nennt sie eine Scholarship-Autorin"
+      },
+      {
+        "name": "Google News World",
+        "note": "enthält keine eigenständigen Textinhalte, sondern verweist lediglich auf den Artikel der BBC"
+      }
+    ],
+    "chg": "",
+    "independent": 3
   },
   {
     "id": "story-8b3889e3150ff05a",
@@ -923,13 +1369,13 @@
     "k": "politik",
     "lang": "de",
     "d": "2026-10-08T16:20:27.000Z",
-    "p": 3,
+    "p": 4,
     "st": "",
     "city": "",
-    "t": "USA erheben Foltervorwürfe gegen Venezuelas Ex-Präsidenten Maduro",
-    "s": "Die US-Behörden haben die Anklage gegen den ehemaligen venezolanischen Präsidenten Nicolás Maduro um Foltervorwürfe erweitert. Der frühere Staatschef, dem bereits Drogendelikte zur Last gelegt werden, gerät damit weiter unter Druck. Die revidierte Anklageschrift bringt ihn direkt mit Folterpraktiken in Verbindung.",
-    "m": "Die US-Justiz hat ihre Vorwürfe gegen den abgesetzten autoritären Präsidenten Venezuelas, Nicolás Maduro, durch eine revidierte Anklageschrift verschärft. Neu hinzugekommen sind konkrete Anklagepunkte wegen Folter, womit der Druck auf Maduro weiter erhöht wird. Bereits zuvor sah er sich schwerwiegenden Vorwürfen im Zusammenhang mit Drogenhandel ausgesetzt. Ein zentrales Element der neuen Anklageschrift ist die Erwähnung des militärischen Geheimdienstes DGCIM aus Venezuela. Dieser gefürchtete Geheimdienst soll maßgeblich in die besagten Vorfälle verwickelt sein. Die Ermittlungen und Anklagen der US-Behörden unterstreichen das internationale Vorgehen gegen die bisherige Führung Venezuelas. Weitere Details zu den konkreten Foltervorwürfen und den beteiligten Personen im Umfeld von Maduro wurden im Rahmen der jüngsten Anklageerweiterung ebenfalls thematisiert.",
-    "r": "Die Anklageerweiterung gegen ein ehemaliges Staatsoberhaupt durch US-Behörden hat hohe internationale Relevanz im Bereich der Außenpolitik und Strafverfolgung. Sie zeigt, wie ausländische Justizorgane gegen mutmaßliche Verbrechen gegen die Menschlichkeit und Korruption bei Spitzenpolitikern vorgehen.",
+    "t": "US-Behörden erheben neue Foltervorwürfe gegen Maduro",
+    "s": "Die US-Justiz hat eine revidierte Anklageschrift gegen den früheren venezolanischen Präsidenten Nicolás Maduro vorgelegt. Darin werden ihm neben bisherigen Drogenhandelsvorwürfen nun auch konkrete Folterverbrechen zur Last gelegt. Die US-Behörden verstärken damit den Druck auf den gestürzten autoritären Machthaber.",
+    "m": "Die US-Behörden haben ihre Vorwürfe gegen den früheren venezolanischen Präsidenten Nicolás Maduro verschärft und ihn in einer überarbeiteten Anklageschrift offiziell wegen Folter angeklagt. Die neuen Anschuldigungen ergänzen die bereits bestehenden Vorwürfe des Drogenhandels, mit denen sich der abgesetzte autoritäre Führer konfrontiert sieht. Ein zentraler Bestandteil der revidierten Anklage sind dabei die mutmaßlichen Verwicklungen des venezolanischen Militärgeheimdienstes DGCIM in die Taten. Mit diesem Schritt erhöhen die Vereinigten Staaten den rechtlichen und politischen Druck auf Maduro erheblich. Weitere Details über den genauen Zeitpunkt der Veröffentlichung oder konkrete Reaktionen von Regierungsseite wurden in den Berichten zunächst nicht genannt.",
+    "r": "Die Verschärfung der US-Anklage gegen einen ehemaligen ausländischen Staatschef mit Foltervorwürfen ist von hoher internationaler Relevanz. Sie zeigt, wie die US-Justiz den Druck auf Nicolás Maduro wegen schwerer Menschenrechtsverletzungen und Drogenkriminalität weiter ausbaut.",
     "srcs": [
       {
         "name": "Euronews",
@@ -943,15 +1389,15 @@
       }
     ],
     "url": "https://www.euronews.com/2026/10/08/us-charges-former-venezuelan-president-nicolas-maduro-with-torture",
-    "agree": "Beide Quellen stimmen überein, dass die USA den ehemaligen venezolanischen Präsidenten Nicolás Maduro in einer neuen Anklage mit Foltervorwürfen konfrontieren.",
+    "agree": "Die Quellen stimmen überein, dass die US-Behörden eine neue oder revidierte Anklage gegen den ehemaligen venezolanischen Präsidenten Nicolás Maduro erhoben haben, die Foltervorwürfe umfasst.",
     "diff": [
       {
         "name": "Euronews",
-        "note": "Erwähnt zusätzlich die konkrete Verstrickung und namentliche Nennung des venezolanischen Militärgeheimdienstes DGCIM in der revidierten Anklageschrift."
+        "note": "Erwähnt zusätzlich, dass die revidierte Anklageschrift mehrere Nennungen über die Beteiligung des venezolanischen Militärgeheimdienstes DGCIM enthält."
       },
       {
         "name": "NPR World",
-        "note": "Bezeichnet Maduro als abgesetzten, autoritären Anführer und verknüpft die neuen Foltervorwürfe mit den bereits bestehenden Anschuldigungen wegen Drogendschmuggels."
+        "note": "Beschreibt, dass die neuen Foltervorwürfe den Druck auf den bereits wegen Drogenhandels beschuldigten, gestürzten autoritären Führer weiter erhöhen."
       }
     ],
     "chg": "",
@@ -1173,6 +1619,47 @@
     "independent": 2
   },
   {
+    "id": "story-a849d9a8367ea011",
+    "c": "INT",
+    "o": "UK",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-08T15:02:32.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Christa Pike nach gescheiterter Hinrichtung wieder auf den Beinen",
+    "s": "Nach einer fehlgeschlagenen Hinrichtung in den USA kann die verurteilte Mörderin Christa Pike nach Angaben ihres Anwalts wieder in ihrem Krankenhauszimmer umhergehen. Sie hatte zuvor zwei tödliche Injektionen überlebt. Der Vorfall sorgt für mediale Aufmerksamkeit und wirft Fragen zum Ablauf auf.",
+    "m": "Christa Pike, die wegen Mordes an Colleen Slemmer verurteilt wurde, hat zwei tödliche Injektionen überlebt. Ihr Anwalt teilte nun mit, dass sie sich nach dem missglückten Hinrichtungsversuch erstmals wieder im Krankenhauszimmer bewegen kann und läuft. Weitere Details zum genauen gesundheitlichen Zustand sowie zu den Gründen für das Versagen der Hinrichtung wurden zunächst nicht umfassend bekannt gegeben. Der Fall dokumentiert einen seltenen und dramatischen Vorfall bei der Vollstreckung der Todesstrafe in den Vereinigten Staaten. Es ist unklar, wie die Behörden weiter verfahren werden und ob ein neuer Hinrichtungsversuch rechtlich zulässig oder geplant ist.",
+    "r": "Der Fall beleuchtet die Praxis und die Risiken der Todesstrafe in den USA, insbesondere wenn Hinrichtungen fehlschlagen. Die Genesung und Mobilität der Verurteilten nach zwei überlebten Injektionen sind von erheblichem öffentlichem und juristischem Interesse.",
+    "srcs": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-08T15:02:32.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5meEFWbk01a0d1MUVMa2hvQWtBOFlGRUs3ZjRTdC0wSUo4Y2FtM1BVQ1dUSW1KZC1sdXB5bThFVWUxRjI1Nl83OGdLYzJ0RmJBUGRBUnJBS0dTa0Z0Nk5IQmVfOU1uSlNvMGpuYmVYdXRranFTb05jSmEyZktEeHM?oc=5",
+        "date": "2026-10-08T12:32:00.000Z"
+      }
+    ],
+    "url": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
+    "agree": "Die Quellen sind sich einig, dass Christa Pike nach einer gescheiterten Hinrichtung laut Angaben ihres Anwalts wieder auf den Beinen ist und sich in ihrem Krankenhauszimmer bewegt.",
+    "diff": [
+      {
+        "name": "BBC World",
+        "note": "Erwähnt zusätzlich, dass Christa Pike die Mörderin von Colleen Slemmer ist."
+      },
+      {
+        "name": "Google News World",
+        "note": "Verweist auf The Guardian als ursprüngliche Quelle für die Meldung, dass Pike zum ersten Mal wieder aufsteht und läuft."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-9502571a0b352ea3",
     "c": "DE",
     "o": "DE",
@@ -1256,9 +1743,9 @@
     "st": "BW",
     "city": "",
     "t": "Cem Özdemir zieht in Dienstvilla auf der Stuttgarter Solitude",
-    "s": "Der baden-württembergische Ministerpräsident Cem Özdemir zieht künftig mit seiner Frau in eine Dienstvilla neben Schloss Solitude in Stuttgart. Das Anwesen hat eine besondere Geschichte und war zuvor im Gespräch für den bisherigen Ministerpräsidenten Kretschmann. Dieser hatte sich jedoch entschieden, dort nicht einzuziehen.",
-    "m": "Die Dienstvilla befindet sich in unmittelbarer Nähe zum Schloss Solitude in Stuttgart und wird der künftige Wohnsitz des Ministerpräsidenten Cem Özdemir und seiner Ehefrau sein. Das Gebäude und das Areal haben eine historische Bedeutung und werfen Fragen auf, weshalb sie als Residenz dienen. Winfried Kretschmann, der vorherige Amtsinhaber, hatte die Nutzung dieser Immobilie als Wohnsitz abgelehnt. Bislang ist bekannt, dass Renovierungs- oder Anpassungsmaßnahmen nötig sein könnten, um den heutigen Standards für eine Nutzung als Regierungssitz gerecht zu werden. Die genauen Kosten und der Zeitpunkt des tatsächlichen Einzugs werden im Zuge der Übergabe geklärt. Weitere Details zum Zustand des Gebäudes und zur genauen Historie der Nutzung stehen noch aus.",
-    "r": "Der Wechsel des Wohnsitzes des Ministerpräsidenten betrifft die repräsentative Unterbringung der Landesregierung in Baden-Württemberg. Die Entscheidung beleuchtet die Nutzung staatlicher Immobilien durch Regierungsmitglieder.",
+    "s": "Der baden-württembergische Ministerpräsident Cem Özdemir zieht künftig mit seiner Frau in eine Dienstvilla in der Nähe des Schlosses Solitude in Stuttgart. Das Anwesen hat eine historische Bedeutung und war zuvor von seinen Vorgängern anders genutzt oder gemieden worden. Die Entscheidung wirft Fragen zur Nutzung von Staatsimmobilien auf.",
+    "m": "Die Dienstvilla liegt direkt neben dem berühmten Schloss Solitude im Stuttgarter Westen und dient nun als neuer Wohnsitz für Ministerpräsident Cem Özdemir und seine Ehefrau. Bislang war das Gebäude weniger im Fokus der breiten Öffentlichkeit, rückt aber durch den Einzug des neuen Regierungschefs wieder ins Interesse. Bemerkenswert ist zudem, dass der vorherige Ministerpräsident Kretschmann es vorgezogen hatte, dort nicht einzuziehen, sondern stattdessen privat zu wohnen. Das Anwesen bietet repräsentative Räumlichkeiten, erfordert jedoch auch organisatorische und sicherheitstechnische Anpassungen. Die Quellen lassen offen, welche konkreten Umbaukosten oder Renovierungsarbeiten im Vorfeld des Einzugs anfallen.",
+    "r": "Der Einzug eines Ministerpräsidenten in eine offizielle Dienstvilla betrifft die Unterbringung der Landesregierung und die Verwendung öffentlicher Liegenschaften. Die Personalie berührt damit sowohl organisatorische als auch symbolische Fragen der Staatsführung in Baden-Württemberg.",
     "srcs": [
       {
         "name": "SWR Aktuell",
@@ -1272,8 +1759,17 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/oezdemir-dienstvilla-schloss-solitude-100.html",
-    "agree": "Beide Quellen stimmen überein, dass Cem Özdemir gemeinsam mit seiner Frau in eine Dienstvilla neben dem Schloss Solitude in Stuttgart ziehen wird und dass Kretschmann dort zuvor nicht wohnen wollte.",
-    "diff": [],
+    "agree": "Beide Quellen stimmen darüber überein, dass Cem Özdemir gemeinsam mit seiner Frau in die Dienstvilla neben Schloss Solitude in Stuttgart zieht.",
+    "diff": [
+      {
+        "name": "SWR Aktuell",
+        "note": "Erwähnt zusätzlich im Titel, dass Kretschmann dort nicht wohnen wollte."
+      },
+      {
+        "name": "Tagesschau Regional Baden-Württemberg",
+        "note": "Hat eine gekürzte Titelzeile, die sich auf den Einzug von Özdemir beschränkt."
+      }
+    ],
     "chg": "",
     "independent": 2
   },
@@ -1281,16 +1777,16 @@
     "id": "story-cfec071251db7eab",
     "c": "DE",
     "o": "DE",
-    "k": "panorama",
+    "k": "umwelt",
     "lang": "de",
     "d": "2026-10-08T14:47:52.000Z",
     "p": 2,
     "st": "RP",
     "city": "",
-    "t": "Risiken im Trinkwasser: Wie sicher ist unsere Versorgung?",
-    "s": "Trinkwasser gilt in Deutschland gemeinhin als unbedenklich und wird regelmäßig kontrolliert. Angesichts möglicher Gefahren aus Leitungen stellt sich jedoch die Frage, wie sicher das Wasser tatsächlich ist. Die Quellen beleuchten die potenziellen Risiken, die in unserem Trinkwasser lauern könnten. Bislang bleibt offen, welche konkreten Verunreinigungen im Detail drohen.",
-    "m": "Das deutsche Trinkwasser unterliegt strengen Kontrollen und gilt grundsätzlich als sicher und unbedenklich. Dennoch wird öffentlich thematisiert, ob Risiken in den Leitungen lauern und ob die bisherigen Sicherheitsversprechen vollumfänglich zutreffen. Die vorliegenden Meldungen werfen die grundsätzliche Frage auf, wie sicher das Wasser wirklich ist. Es werden jedoch keine spezifischen Schadstoffe, Grenzwerte oder betroffenen Regionen genannt. Auch zeitliche Abläufe oder konkrete Vorfälle werden in den Texten nicht näher ausgeführt. Die Berichterstattung beschränkt sich auf eine kritische Hinterfragung der allgemeinen Trinkwassersicherheit. Weitere Details und Hintergründe zu möglichen Kontaminationen gehen aus den Berichten nicht hervor.",
-    "r": "Trinkwasser ist ein zentrales Lebensmittel, dessen Sicherheit für die öffentliche Gesundheit von fundamentaler Bedeutung ist. Die Berichterstattung greift Fragen zur Verlässlichkeit von Kontrollen und potenziellen Gefahren auf.",
+    "t": "Risiken im Trinkwasser: Wie sicher ist unser Wasser wirklich?",
+    "s": "In Deutschland gilt das Trinkwasser im Allgemeinen als unbedenklich und wird regelmäßig kontrolliert. Angesichts möglicher Risiken stellt sich jedoch die Frage, wie sicher das Wasser tatsächlich ist. Medienberichte beleuchten potenzielle Gefahren, die in Leitungen lauern könnten. Konkrete Schadensfälle oder Grenzwerteüberschreitungen werden in den vorliegenden Berichten bisher nicht genannt.",
+    "m": "Trinkwasser gehört in Deutschland zu den am strengsten kontrollierten Lebensmitteln und wird regelmäßig auf seine Qualität hin überprüft. Dennoch wird in der Öffentlichkeit diskutiert, ob die bestehenden Kontrollen ausreichen, um alle potenziellen Risiken auszuschließen. Zu diesen Risiken könnten beispielsweise Verunreinigungen durch alte Leitungen im Hausnetz oder chemische Rückstände gehören, die nicht flächendeckend im gleichen Maße erfasst werden. Die vorliegenden Meldungen werfen grundlegende Fragen zur tatsächlichen Sicherheit auf, bleiben jedoch in ihren Details sehr allgemein. Weder SWR Aktuell noch die Tagesschau nennen bisher konkrete Messwerte, betroffene Regionen oder spezifische Schadstoffe. Es bleibt offen, ob akute Gefahren bestehen oder ob es sich um präventive Aufklärung handelt.",
+    "r": "Die Berichterstattung berührt Fragen der Verbrauchersicherheit und des Gesundheitsschutzes bei einem Grundbedürfnis. Eine genaue Einordnung der tatsächlichen Gefährdung lässt sich anhand der bisher sehr knapp gehaltenen Informationen jedoch noch nicht ableiten.",
     "srcs": [
       {
         "name": "SWR Aktuell Rheinland-Pfalz",
@@ -1304,7 +1800,7 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/swr-doku-wo-risiken-im-trinkwasser-lauern-100.html",
-    "agree": "Beide Quellen stimmen darin überein, dass Trinkwasser hierzulande als unbedenklich gilt und regelmäßig kontrolliert wird, aber die Frage aufgeworfen wird, wie sicher es wirklich ist.",
+    "agree": "Beide Quellen stimmen überein, dass Trinkwasser in Deutschland grundsätzlich als unbedenklich gilt und regelmäßig kontrolliert wird, aber die tatsächliche Sicherheit hinterfragt wird.",
     "diff": [],
     "chg": "",
     "independent": 2
@@ -1411,6 +1907,47 @@
     "independent": 2
   },
   {
+    "id": "story-4cf014b9d2c76d00",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-08T13:48:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Krankheitskosten in Deutschland übersteigen im Jahr 2024 halbe Billion Euro",
+    "s": "Im Jahr 2024 beliefen sich die unmittelbaren Krankheitskosten in Deutschland auf 528,5 Milliarden Euro. Damit wurde erstmals die Marke von einer halben Billion Euro überschritten. Laut den Berichten gibt es besonders große Kostenunterschiede zwischen den Geschlechtern sowie in verschiedenen Altersgruppen.",
+    "m": "Die Gesamtkosten für Krankheiten und gesundheitliche Probleme in Deutschland beliefen sich im Jahr 2024 auf exakt 528,5 Milliarden Euro. Die Daten verdeutlichen, dass gesundheitliche Probleme im Land insgesamt zunehmen. Es zeigen sich deutliche Diskrepanzen bei den Ausgaben, die stark vom Geschlecht der Betroffenen sowie vom Alter abhängen. Konkrete Details zu den treibenden Faktoren oder der genauen Verteilung auf Altersgruppen und Geschlechter wurden in den vorliegenden Berichten nicht im Detail aufgeschlüsselt. DW Deutsch weist ergänzend darauf hin, dass zwei bestimmte Krankheitsbilder ganz vorne stehen, nennt diese jedoch im Text nicht namentlich. Weitere Details zu den genauen Diagnosegruppen oder politischen Konsequenzen stehen noch aus.",
+    "r": "Die enormen und weiter steigenden Krankheitskosten sind ein zentraler Indikator für den Zustand des deutschen Gesundheitssystems und belasten öffentliche sowie private Kassen erheblich. Die genaue Analyse von Alters- und Geschlechterunterschieden ist zudem wichtig für präventive Maßnahmen und künftige gesundheitspolitische Entscheidungen.",
+    "srcs": [
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/panorama/deutschland-krankheitskosten-halbe-billion-euro-100.html",
+        "date": "2026-10-08T13:48:00.000Z"
+      },
+      {
+        "name": "DW Deutsch",
+        "url": "https://www.dw.com/de/deutschland-krankheitskosten-übersteigen-halbe-billion-euro/a-79592688?maca=de-rss-de-all-1119-xml-mrss",
+        "date": "2026-10-08T10:33:00.000Z"
+      }
+    ],
+    "url": "https://www.zdfheute.de/panorama/deutschland-krankheitskosten-halbe-billion-euro-100.html",
+    "agree": "Die Quellen sind sich einig, dass sich die Krankheitskosten in Deutschland im Jahr 2024 auf 528,5 Milliarden Euro beliefen und damit die Marke von einer halben Billion Euro überstiegen.",
+    "diff": [
+      {
+        "name": "ZDF heute",
+        "note": "Erwähnt besonders große Kostenunterschiede zwischen den Geschlechtern und im Alter."
+      },
+      {
+        "name": "DW Deutsch",
+        "note": "Merkt an, dass Krankheiten und gesundheitliche Probleme zunehmen, und erwähnt, dass zwei Krankheitsbilder ganz vorne stehen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-f1bee5106f899ca9",
     "c": "INT",
     "o": "DE",
@@ -1461,10 +1998,10 @@
     "p": 4,
     "st": "",
     "city": "",
-    "t": "33 Tote nach russischem Angriff auf Linienbusse in Kramatorsk",
-    "s": "Bei einem russischen Angriff auf zwei Linienbusse in der ostukrainischen Stadt Kramatorsk sind mindestens 33 Menschen getötet worden. Zahlreiche weitere Personen erlitten Verletzungen. Rettungskräfte und Behörden reagierten auf die Attacke in der Region. Die genauen Umstände des Angriffs werden untersucht.",
-    "m": "Der Vorfall ereignete sich in der ostukrainischen Stadt Kramatorsk, wo zwei Linienbusse direkt von dem russischen Angriff getroffen wurden. Nach bisherigen Angaben starben mindestens 33 Menschen, während 18 weitere Personen verletzt wurden und medizinische Hilfe benötigen. Von offizieller Seite wird der Vorfall als schwerer Schlag für die zivile Infrastruktur gewertet. Russland weist Vorwürfe bezüglich gezielter Angriffe auf die Zivilbevölkerung in dem Konflikt wiederholt zurück. Die genaue Abfolge des Angriffs und das Ausmaß der Schäden vor Ort sind Gegenstand weiterer Berichte. Es bleibt unklar, ob es in unmittelbarer Nähe weitere militärische Ziele gab. Die Situation in der Region bleibt angespannt und unübersichtlich.",
-    "r": "Der Angriff auf zivile Verkehrsmittel mit Dutzenden Todesopfern verdeutlicht die anhaltende Gefahr für die Zivilbevölkerung im Ukraine-Krieg. Solche Vorfälle belasten die Sicherheitslage in der Ostukraine massiv und fordern immer wieder zahlreiche zivile Opfer.",
+    "t": "Russischer Angriff auf Linienbusse in Kramatorsk fordert zahlreiche Opfer",
+    "s": "Bei einem russischen Angriff auf Linienbusse in der ostukrainischen Stadt Kramatorsk sind zahlreiche Menschen getötet und verletzt worden. Nach übereinstimmenden Medienberichten kamen mindestens 33 Menschen ums Leben. Weitere 18 Personen erlitten Verletzungen. Die Hintergründe der Attacke werden im Kontext des anhaltenden Ukraine-Krieges bewertet.",
+    "m": "Der Vorfall ereignete sich in der ostukrainischen Stadt Kramatorsk, wo zwei Linienbusse Ziel eines Angriffs wurden. Durch die Detonationen oder den Beschuss starben mindestens 33 Menschen, 18 weitere wurden verletzt. Russland bestreitet in diesem Zusammenhang wiederholt, gezielt Zivilisten zu beschießen. Der Angriff reiht sich in die Serie schwerer Verluste und Angriffe auf zivile Infrastruktur und Transportmittel im Kriegsgebiet ein. Offene Punkte betreffen die genauen militärischen Umstände und den genauen Hergang des Angriffs auf die Busse. Die Opferzahlen könnten sich je nach Zustand der Schwerverletzten noch verändern.",
+    "r": "Der Angriff verdeutlicht die anhaltende Bedrohung von Zivilisten im Ukraine-Krieg durch Angriffe auf städtische Infrastruktur. Mit mindestens 33 Toten und 18 Verletzten handelt es sich um einen Vorfall mit massiven humanitären Folgen.",
     "srcs": [
       {
         "name": "Süddeutsche Zeitung",
@@ -1482,11 +2019,11 @@
     "diff": [
       {
         "name": "Süddeutsche Zeitung",
-        "note": "Erwähnt zusätzlich 18 Verletzte und dass Russland bestreitet, gezielt Zivilisten zu beschießen."
+        "note": "Berichtet ergänzend, dass 18 weitere Menschen verletzt wurden und Russland bestreitet, gezielt Zivilisten zu beschießen."
       },
       {
         "name": "t-online Nachrichten",
-        "note": "Berichtet spezifisch, dass zwei Linienbusse getroffen wurden."
+        "note": "Nennt ebenfalls 33 Tote, erwähnt aber konkret, dass zwei Linienbusse getroffen wurden und zahlreiche Menschen verletzt wurden, ohne die genaue Zahl 18 zu nennen."
       }
     ],
     "chg": "",
@@ -1499,13 +2036,13 @@
     "k": "panorama",
     "lang": "de",
     "d": "2026-10-08T12:46:50.000Z",
-    "p": 4,
+    "p": 3,
     "st": "BW",
     "city": "",
-    "t": "29-jähriger Mann stirbt nach Polizeieinsatz in Mannheim im Gewahrsam",
-    "s": "Nach einem Polizeieinsatz am Mannheimer Wasserturm ist ein 29-jähriger Mann festgenommen worden und in Polizeigewahrsam gestorben. Die genauen Umstände und Gründe für den Todesfall sind derzeit noch unklar. Das Landeskriminalamt hat die Ermittlungen zu dem Vorfall aufgenommen.",
-    "m": "Der Vorfall ereignete sich am Freitag nach einem Polizeieinsatz am Mannheimer Wasserturm, bei dem der 29-jährige Mann festgenommen wurde. Kurze Zeit später verstarb er in Gewahrsam. Bislang liegen kaum Details zu den genauen Hintergründen des Einsatzes oder der Todesursache vor. Zur Klärung der Abläufe hat das Landeskriminalamt die Ermittlungen übernommen. Offen ist insbesondere, wie es zu dem Tod des Mannes kam und welche Maßnahmen während des Einsatzes und der Festnahme ergriffen wurden. Weitere offizielle Informationen zu den Beteiligten oder dem genauen gesundheitlichen Zustand des Verstorbenen stehen noch aus.",
-    "r": "Der Todesfall einer Person in Polizeigewahrsam erfordert eine lückenlose juristische und behördliche Aufklärung. Da das Landeskriminalamt ermittelt, steht die Überprüfung des polizeilichen Handelns im Fokus der Öffentlichkeit.",
+    "t": "29-jähriger Mann stirbt nach Polizeieinsatz in Mannheim",
+    "s": "Nach einem Polizeieinsatz am Wasserturm in Mannheim ist ein 29-jähriger Mann am Freitag in Polizeigewahrsam gestorben. Die genauen Umstände und Gründe für den Tod sind zum aktuellen Zeitpunkt noch unklar. Das Landeskriminalamt hat die Ermittlungen zu dem Vorfall aufgenommen.",
+    "m": "Der Vorfall ereignete sich am Freitag nach einem Polizeieinsatz in der Nähe des Mannheimer Wasserturms. Im Zuge dieses Einsatzes wurde der 29-jährige Mann von der Polizei festgenommen. Kurz nach der Festnahme und während er sich im Gewahrsam befand, verstarb der Mann. Bislang gibt es keine offiziellen Angaben zur genauen Todesursache oder zu den spezifischen Hintergründen, die zu dem Polizeieinsatz führten. Um eine objektive Aufklärung zu gewährleisten, hat das Landeskriminalamt die Ermittlungen übernommen. Offen ist derzeit, wie es zu dem Todesfall im Gewahrsam kommen konnte und welche Maßnahmen während des Einsatzes ergriffen wurden.",
+    "r": "Der Todesfall eines Menschen in Polizeigewahrsam ist ein schwerwiegender Vorfall, der eine lückenlose Aufklärung durch unabhängige Behörden erfordert. Die Einbindung des Landeskriminalamts soll die Umstände des Einsatzes und der Festnahme untersuchen.",
     "srcs": [
       {
         "name": "SWR Aktuell Baden-Württemberg",
@@ -1519,15 +2056,15 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/mann-stirbt-in-polizei-gewahrsam-gruende-unklar-100.html",
-    "agree": "Beide Quellen stimmen darin überein, dass ein 29-jähriger Mann am Freitag nach einem Polizeieinsatz am Mannheimer Wasserturm festgenommen wurde und in Polizeigewahrsam gestorben ist, woraufhin das Landeskriminalamt Ermittlungen aufgenommen hat und die Gründe n",
+    "agree": "Beide Quellen sind sich einig, dass ein 29-jähriger Mann nach einem Polizeieinsatz am Mannheimer Wasserturm am Freitag festgenommen wurde und in Polizeigewahrsam gestorben ist, während die genauen Gründe unklar sind und das Landeskriminalamt ermittelt.",
     "diff": [
       {
         "name": "SWR Aktuell Baden-Württemberg",
-        "note": "Berichtet über den Vorfall mit der genauen Ortsangabe Mannheim und der Erwähnung des Wasserturms."
+        "note": "Berichtet wortgleich mit der anderen Quelle über den Vorfall in Mannheim."
       },
       {
         "name": "Tagesschau Regional Baden-Württemberg",
-        "note": "Berichtet inhaltlich und sprachlich nahezu deckungsgleich über den Vorfall in Mannheim."
+        "note": "Berichtet wortgleich mit der anderen Quelle über den Vorfall in Mannheim."
       }
     ],
     "chg": "",
@@ -1543,10 +2080,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Südkorea ruft Botschafter aus der Ukraine wegen Kriegsgefangenenstreit zurück",
-    "s": "Südkorea hat angekündigt, seinen Botschafter aus der Ukraine zurückzuziehen. Hintergrund ist ein Streit über die Veröffentlichung von Informationen zu nordkoreanischen Kriegsgefangenen. Die Maßnahme folgt auf eine Drohung des südkoreanischen Präsidenten Lee Jae Myung mit Strafschritten.",
-    "m": "Südkorea hat am Donnerstag den Rückzug seines Botschafters aus der Ukraine offiziell bekannt gegeben. Auslöser des diplomatischen Konflikts ist die öffentliche Bekanntgabe Kiews über die Rückführung von zwei nordkoreanischen Kriegsgefangenen. Seoul wirft der Ukraine vor, dadurch die Familien der Betroffenen in Nordkorea in akute Gefahr gebracht zu haben, da Angehörige von Personen, die in Feindeshand geraten, drakonische Strafen fürchten müssen. Die Regierung in Kiew hat die Vorwürfe aus Südkorea indessen zurückgewiesen. Der jetzige Schritt kommt nur Tage nach einer entsprechenden Warnung von Präsident Lee Jae Myung, der unbestimmte Strafmaßnahmen angekündigt hatte, sollte die Ukraine eine Entschuldigung verweigern.",
-    "r": "Der Vorfall markiert eine deutliche diplomatische Krise zwischen Südkorea und der Ukraine infolge eines Streits über den Umgang mit nordkoreanischen Gefangenen. Die Eskalation berührt sicherheitspolitische und humanitäre Fragen im Umgang mit Überläufern und Kriegsgefangenen.",
+    "t": "Südkorea beruft Botschafter in der Ukraine wegen Kriegsgefangenen-Streit ab",
+    "s": "Südkorea hat angekündigt, seinen Botschafter aus der Ukraine abzuberufen. Grund ist ein Streit über die Veröffentlichung der Rückführung von zwei nordkoreanischen Kriegsgefangenen. Die Maßnahme folgt auf eine vorherige Androhung von Strafschritten durch den südkoreanischen Präsidenten Lee Jae Myung.",
+    "m": "Seoul begründet den Schritt damit, dass die öffentliche Bekanntgabe der Rückführung durch Kiew die Familien der Betroffenen in Nordkorea in Gefahr bringe. In Nordkorea drohen Verwandten von Personen, die in Feindeshand geraten, harte Strafen. Die diplomatische Krise eskaliert damit wenige Tage, nachdem der südkoreanische Präsident Lee Jae Myung unbestimmte Strafmaßnahmen angedroht hatte, sollte sich die Ukraine nicht entschuldigen. Die Ukraine hat die Vorwürfe aus Seoul bislang zurückgewiesen. Offen ist, wie sich die diplomatischen Beziehungen beider Länder nach diesem Schritt weiter entwickeln werden und ob es zu weiteren Sanktionen kommt.",
+    "r": "Der Konflikt betrifft das bilaterale Verhältnis zweier Staaten im Kontext des Ukraine-Krieges und berührt Fragen der Sicherheit von Angehörigen von Kriegsgefangenen. Die diplomatische Verstimmung könnte die internationale Zusammenarbeit im Umgang mit nordkoreanischen Truppen und Gefangenen belasten.",
     "srcs": [
       {
         "name": "NPR World",
@@ -1560,15 +2097,15 @@
       }
     ],
     "url": "https://www.npr.org/2026/10/08/g-s1-147115/south-korea-to-recall-its-ambassador-to-ukraine-over-north-korean-pow-dispute",
-    "agree": "Beide Quellen stimmen überein, dass Südkorea seinen Botschafter aus der Ukraine wegen eines Streits über nordkoreanische Kriegsgefangene zurückruft.",
+    "agree": "Südkorea beruft seinen Botschafter in der Ukraine im Zusammenhang mit einem Streit über nordkoreanische Kriegsgefangene ab.",
     "diff": [
       {
         "name": "NPR World",
-        "note": "Erwähnt die explizite Drohung des südkoreanischen Präsidenten Lee Jae Myung mit unbestimmten Strafschritten für den Fall einer verweigerten Entschuldigung durch die Ukraine."
+        "note": "Erwähnt die drohenden Strafschritte des südkoreanischen Präsidenten Lee Jae Myung und dessen Entschuldigungsforderung."
       },
       {
         "name": "Euronews",
-        "note": "Liefert die detaillierte Begründung Seouls, wonach Kiews öffentliche Bekanntgabe der Rückführung zweier Gefangener die Familien in Nordkorea gefährdet, sowie die Tatsache, dass die Ukraine die Vorwürfe zurückweist."
+        "note": "Nennt die konkrete Begründung Seouls bezüglich der gefährdeten Familien in Nordkorea und berichtet, dass die Ukraine die Vorwürfe zurückgewiesen hat."
       }
     ],
     "chg": "",
@@ -1680,10 +2217,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "CDA-Chef Radtke fordert Parteiausschluss bei CDU-Stimmen für AfD",
-    "s": "Nach der Wahl des Landtagspräsidenten in Sachsen-Anhalt gibt es Spekulationen über mögliche Stimmen aus der CDU für den AfD-Kandidaten Rausch. Dennis Radtke, der Chef des CDU-Arbeitnehmerflügels, hat im Falle einer Bestätigung harte Konsequenzen gefordert. Er verlangt ein Parteiausschlussverfahren für Abweichler, die für den AfD-Kandidaten gestimmt haben könnten.",
-    "m": "Die Diskussion entzündet sich an der Wahl des Landtagspräsidenten in Sachsen-Anhalt, bei der der AfD-Kandidat Rausch antrat und möglicherweise Stimmen aus Reihen der CDU erhalten hat. Bislang handelt es sich um den Verdacht oder die Frage, ob CDU-Abgeordnete für Rausch gestimmt haben. Dennis Radtke, der als Chef des CDU-Arbeitnehmerflügels CDA fungiert, positionierte sich in dieser Debatte sehr deutlich gegen jegliche Zusammenarbeit oder Stimmenübertragung an die AfD. Seine Forderung zielt direkt auf ein formelles Parteiausschlussverfahren ab, sollte sich ein solches Abstimmungsverhalten von CDU-Mitgliedern für den AfD-Kandidaten bestätigen. Weitere Details zum genauen Wahlergebnis, zur Stimmverteilung oder zu Reaktionen anderer Parteispitzen und Landespolitiker gehen aus den vorliegenden Berichten nicht hervor. Die offenen Punkte betreffen vor allem die tatsächliche Identität der Wähler und die offiziellen Reaktionen der Landes-CDU auf die Vorwürfe.",
-    "r": "Die Forderung eines prominenten CDU-Flügelchefs nach Parteiausschlüssen bei einer möglichen Zusammenarbeit oder Stimmabgabe für die AfD berührt die fundamentale Brandmauer-Debatte der Union. Das Thema hat hohe innerparteiliche und bundespolitische Relevanz für den Umgang mit der AfD in Parlamenten.",
+    "t": "CDU-Stimmen für AfD in Sachsen-Anhalt: Radtke fordert Ausschluss",
+    "s": "Bei der Wahl des Landtagspräsidenten in Sachsen-Anhalt steht im Raum, ob CDU-Abgeordnete für den AfD-Kandidaten Rausch gestimmt haben könnten. Dennis Radtke, der Chef des CDU-Arbeitnehmerflügels, hat sich zu diesen Spekulationen geäußert. Er verlangt harte Konsequenzen für den Fall, dass sich diese Vermutungen bestätigen sollten.",
+    "m": "Im Zentrum der Berichterstattung steht die Frage, ob Abgeordnete der CDU bei der Wahl des Landtagspräsidenten in Sachsen-Anhalt ihre Stimme dem AfD-Kandidaten Rausch gegeben haben. Angesichts dieser möglichen Zusammenarbeit fordert Dennis Radtke, der Vorsitzende des CDU-Arbeitnehmerflügels, ein konsequentes Vorgehen. Konkret verlangt er bei einem Nachweis entsprechender Stimmen ein Parteiausschlussverfahren für die betroffenen Abweichler. Die Berichterstattung beleuchtet damit die anhaltende Debatte über den Umgang und mögliche Annäherungen zwischen der CDU und der AfD auf Landesebene. Bisher handelt es sich um die Forderung von Radtke auf Basis der im Raum stehenden Vermutungen über das Wahlverhalten. Weitere offizielle Bestätigungen oder Reaktionen der Parteispitze oder der betroffenen Landes-CDU werden in den Meldungen nicht genannt. Die Konsequenzen eines solchen Parteiausschlusses und die Reaktion der Parteibasis bleiben ebenfalls noch abzuwarten.",
+    "r": "Die Debatte berührt die grundsätzliche Brandmauer-Diskussion und das Verhältnis der Union zur AfD auf Landesebene. Konkrete Parteiausschlussverfahren bei nachgewiesenen Stimmenabgaben wären ein Präzedenzfall für den Umgang mit Abweichlern.",
     "srcs": [
       {
         "name": "Tagesschau",
@@ -1697,8 +2234,17 @@
       }
     ],
     "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-reaktionen-wahl-sachsen-anhalt-100.html",
-    "agree": "Beide Quellen sind sich einig, dass Dennis Radtke als Chef des CDU-Arbeitnehmerflügels im Falle von CDU-Stimmen für den AfD-Kandidaten Rausch bei der Wahl des Landtagspräsidenten in Sachsen-Anhalt ein Parteiausschlussverfahren fordert.",
-    "diff": [],
+    "agree": "Beide Quellen sind sich einig, dass Dennis Radtke als Chef des CDU-Arbeitnehmerflügels im Zusammenhang mit der Landtagspräsidentenwahl in Sachsen-Anhalt und dem AfD-Kandidaten Rausch ein Parteiausschlussverfahren für eventuelle CDU-Abweichler fordert.",
+    "diff": [
+      {
+        "name": "Tagesschau",
+        "note": "Verwendet den Begriff 'harte Konsequenzen' für den geforderten Parteiausschluss."
+      },
+      {
+        "name": "ZDF heute",
+        "note": "Nennt direkt den Begriff 'Parteiausschlussverfahren' in der Zusammenfassung."
+      }
+    ],
     "chg": "",
     "independent": 2
   },
@@ -2401,6 +2947,43 @@
       {
         "name": "Guardian World",
         "note": "Nennt das MIT als Bekanntgeber, das genaue Todesdatum (30. September), den Todestag am Mittwoch sowie Details zu ihrer Ausbildung unter einem MIT-Meteorologen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-98b00f830687763a",
+    "c": "INT",
+    "o": "UK",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-08T05:00:44.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "USA und Libanon gewähren gesuchtem syrischem General Schutz",
+    "s": "Recherchen der BBC zufolge schützen die USA und der Libanon einen gesuchten syrischen General. Bassam al-Hassan wird demnach im Austausch für Informationen beherbergt. Zu diesen Informationen gehört auch das Schicksal des entführten US-Reporters Austin Tice.",
+    "m": "Dem Bericht zufolge handelt es sich bei dem geschützten Mann um den syrischen General Bassam al-Hassan. Er erhält Schutz von den USA und dem Libanon, obwohl er international gesucht wird. Im Gegenzug liefert al-Hassan wertvolle Informationen an die Behörden. Ein zentraler Punkt dieser Vereinbarung sind Hinweise auf den verschwundenen US-Reporter Austin Tice, der in Syrien entführt wurde. Die genauen Umstände der Unterbringung und der Status der Verhandlungen bleiben in den Berichten weiter im Detail ungenannt.",
+    "r": "Die Meldung ist relevant, da sie diplomatische undrichtige geheimdienstliche Absprachen zwischen den USA, dem Libanon und einem gesuchten syrischen Militärangehörigen im Zusammenhang mit einem vermissten US-Journalisten aufdeckt.",
+    "srcs": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-08T05:00:44.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SQVVPcDRvdS1vV2JOdGJTbkdMbHNrWTV1Uzgxc0xDWTRaaGZtS3lXclFfeDRYX3RYbUlNN19BSjhhRDZNbXhvaFJva2hFNzJlZEFSeEJNeWRUOHM?oc=5",
+        "date": "2026-10-08T05:00:44.000Z"
+      }
+    ],
+    "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
+    "agree": "Beide Quellen stimmen darin überein, dass die USA und der Libanon den gesuchten syrischen General Bassam al-Hassan schützen und dieser im Gegenzug Informationen, unter anderem über den entführten US-Reporter Austin Tice, liefert.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Verweist lediglich auf den Artikel der BBC als Quelle."
       }
     ],
     "chg": "",
@@ -15483,598 +16066,6 @@
       {
         "name": "DER SPIEGEL",
         "note": "Erwähnt Donald Trump namentlich als denjenigen, der Europa zur Freigabe gedrängt hat, um die Spritpreise zu senken."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-c4b762cb5a801b72",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-02T19:11:04.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Altkanzler Gerhard Schröder übernimmt Aufsichtsratsposten bei russischem Globus-Ableger",
-    "s": "Der ehemalige Bundeskanzler Gerhard Schröder wird Mitglied im Aufsichtsrat der russischen Tochtergesellschaft der Handelskette Globus. Dies gab das Unternehmen bekannt. Eine persönliche Bestätigung von Schröder selbst liegt zu diesem Zeitpunkt noch nicht vor.",
-    "m": "Der frühere Bundeskanzler Gerhard Schröder zieht in den Aufsichtsrat des russischen Ablegers der Handelskette Globus ein. Das Unternehmen hat diese Personalie offiziell mitgeteilt. Bislang hat das Büro beziehungsweise der Altkanzler selbst diese Nachricht noch nicht bestätigt. Weitere Details zur genauen Ausrichtung des Mandats oder zu den Beweggründen wurden in den Meldungen nicht genannt. Die Ernennung erfolgt vor dem Hintergrund von Schröders umstrittenen früheren Tätigkeiten für russische Energiekonzerne und staat nahe Unternehmen. Es ist unklar, wie sich diese neue Position auf die öffentliche Wahrnehmung und seine verbliebenen politischen Verbindungen auswirken wird. Offen bleibt auch, welche konkreten Aufgaben Schröder im Aufsichtsrat wahrnehmen soll.",
-    "r": "Die Personalie ist relevant, da ein ehemaliger deutscher Regierungschef erneut eine verantwortungsvolle Position in einem russischen Unternehmen übernimmt. Dies wirft in der Öffentlichkeit und Politik erneut Fragen zur Nähe deutscher Spitzenpolitiker zu Russland auf.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/altkanzler-schroeder-wird-aufsichtsrat-bei-russischem-ableger-von-globus-102.html",
-        "date": "2026-10-02T19:11:04.000Z"
-      },
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/politik/schroeder-spd-globus-altkanzler-russland-100.html",
-        "date": "2026-10-02T16:13:00.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/altkanzler-schroeder-wird-aufsichtsrat-bei-russischem-ableger-von-globus-102.html",
-    "agree": "Die Quellen sind sich einig, dass Altkanzler Gerhard Schröder in den Aufsichtsrat des russischen Ablegers der Handelskette Globus einzieht.",
-    "diff": [
-      {
-        "name": "ZDF heute",
-        "note": "Erwähnt zusätzlich, dass das Unternehmen die Information mitgeteilt hat und eine Bestätigung des Ex-Kanzlers noch aussteht."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-79a39bffe794e246",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-02T19:11:04.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Linken-Fraktionschef Pellmann tritt nach Vorwürfen gegen Eralp der Roten Hilfe bei",
-    "s": "Der Bundestagsfraktionschef der Linken, Sören Pellmann, ist dem Verein Rote Hilfe beigetreten. Dieser Schritt erfolgt im Zusammenhang mit Linksextremismus-Vorwürfen gegen die Berliner Linken-Spitzenpolitikerin Eralp, die wegen ihrer früheren Mitgliedschaft in der Organisation in die Kritik geraten war.",
-    "m": "Der Beitritt von Sören Pellmann zur Roten Hilfe erfolgt öffentlich nach aktuellen Linksextremismus-Vorwürfen gegen die Berliner Linken-Spitzenpolitikerin Eralp. Im Zentrum der Diskussion steht Eralps frühere Mitgliedschaft in diesem Verein, die zu heftigen politischen Debatten und Vorwürfen geführt hatte. Mit seinem bewussten Schritt in die Organisation setzt der Bundestagsfraktionschef der Linken ein sichtbares Zeichen der Solidarität. Die Rote Hilfe selbst steht seit längerem im Fokus der Sicherheitsbehörden und wird in Teilen des politischen Spektrums kritisch gesehen. Bislang gibt es keine offiziellen Angaben darüber, wie die Parteispitze oder andere Bundestagsabgeordnete auf Pellmanns Beitritt reagieren werden. Weitere Einzelheiten zu den genauen Hintergründen der Vorwürfe gegen Eralp sowie den Konsequenzen für die Partei bleiben abzuwarten.",
-    "r": "Die Meldung ist von politischer Relevanz, da ein hochrangiges Parteimitglied und Bundestagsfraktionschef öffentlich einen Verein unterstützt, der im Kontext von Extremismusvorwürfen gegen eine andere Spitzenpolitikerin steht. Solche parteiinternen Signale betreffen die Ausrichtung und Aussendarstellung der Linken.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/linken-fraktionschef-tritt-nach-linksextremismus-vorwuerfen-gegen-eralp-der-roten-hilfe-bei-100.html",
-        "date": "2026-10-02T19:11:04.000Z"
-      },
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOGljanRSeUtwRHJzeWxDUXQyUWY5TDBiUnBhTE5KMzRKOEVGbVkzSDg0UUpXdFFTUFZyQnFHakpnc2FUZGMyNkZjRTMwbGd3c04tX0ZXbXh5TTJ6b0dfR0hyaXVyM0k5UjFPUVRLS3JUNzhQeGlzcDVfaUUtekVMWHpPRjQ3Slk2ZG5Na2M5LUFxbTRHaThwaUk0OURpUXRUckRZSnhlMXNLWVh5Z01iUE41cHl6eGNhU0FEMS1EOVgxOHc0Rkx5T2c3dw?oc=5",
-        "date": "2026-10-02T19:11:04.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/linken-fraktionschef-tritt-nach-linksextremismus-vorwuerfen-gegen-eralp-der-roten-hilfe-bei-100.html",
-    "agree": "Die Quellen stimmen darin überein, dass Linken-Fraktionschef Sören Pellmann der Roten Hilfe beigetreten ist und dieser Schritt im Zusammenhang mit Linksextremismus-Vorwürfen gegen die Berliner Politikerin Eralp steht.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-242ad6a3ba1daf1a",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-02T19:06:24.000Z",
-    "p": 4,
-    "st": "BW",
-    "city": "",
-    "t": "Warenhauskette Galeria stellt abermals Insolvenzantrag",
-    "s": "Die deutsche Warenhauskette Galeria hat erneut Insolvenz angemeldet. Für die verbleibenden 12.000 Beschäftigten und 83 Filialen bricht damit eine Phase großer Ungewissheit an. Der Geschäftsbetrieb soll trotz des Insolvenzantrags zunächst weiterlaufen.",
-    "m": "Der Antrag auf Insolvenz bedeutet für die Warenhauskette Galeria einen erneuten schweren wirtschaftlichen Rückschlag. Nach vorherigen Krisen und Eigentümerwechseln steht das Unternehmen nun erneut vor einer ungewissen Zukunft. Von der aktuellen Insolvenz sind rund 12.000 Mitarbeiterinnen und Mitarbeiter sowie deutschlandweit noch 83 verbleibende Filialen betroffen. Wie das Verfahren weitergeht und ob Investoren gefunden werden können, ist derzeit noch offen. Die Geschäftsführung treibt den Betrieb in den kommenden Wochen vorerst in Eigenverantwortung oder unter vorläufiger Verwaltung weiter, um eine dauerhafte Lösung zu finden.",
-    "r": "Die Meldung ist von hoher wirtschaftlicher und gesellschaftlicher Bedeutung, da das Schicksal einer der traditionsreichsten deutschen Warenhauskonzerne und Tausender Arbeitsplätze auf dem Spiel steht.",
-    "srcs": [
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/news/2026-10/02/galeria-stellt-erneut-insolvenzantrag",
-        "date": "2026-10-02T19:06:24.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Baden-Württemberg",
-        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-warenhauskette-galeria-stellt-erneut-insolvenzantrag-100.html",
-        "date": "2026-10-02T10:49:00.000Z"
-      }
-    ],
-    "url": "https://www.zeit.de/news/2026-10/02/galeria-stellt-erneut-insolvenzantrag",
-    "agree": "Beide Quellen stimmen darin überein, dass Galeria erneut Insolvenz beantragt hat.",
-    "diff": [
-      {
-        "name": "ZEIT ONLINE",
-        "note": "Berichtet über den Insolvenzantrag der Warenhauskette Galeria."
-      },
-      {
-        "name": "Tagesschau Regional Baden-Württemberg",
-        "note": "Nennt konkret, dass es sich um die vierte Insolvenz handelt und dass 12.000 Beschäftigte sowie 83 Filialen betroffen sind."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-dbcb344045fc4df9",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-02T19:04:00.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "YouTuberin Coldmirror hat keine Liebe mehr für Harry Potter",
-    "s": "Die bekannte YouTuberin Coldmirror hat sich von der magischen Welt von Harry Potter distanziert. Sie wurde ab 2006 durch ihre Neusynchronisationen der Reihe bekannt. Nun äußerte sie öffentlich, dass sie keine Liebe mehr für das Werk empfindet.",
-    "m": "Die YouTuberin Coldmirror erlangte ab dem Jahr 2006 große Bekanntheit durch humorvolle Neusynchronisationen, insbesondere den Millennial-Hit »Harry Potter und ein Stein«. Nun hat sie in einem aktuellen Kontext erklärt, dass sie sich von der magischen Welt distanziert hat. Als Grund für diese Entfremdung und den Verlust ihrer Begeisterung nennt sie die Autorin J. K. Rowling. Konkrete Hintergründe zu dieser Entwicklung und weitere Details wurden in den Berichten nicht genannt.",
-    "r": "Die Äußerungen einer bekannten reichweitenstarken YouTuberin zu einem global populären Medienfranchise und dessen Urheberin sind von allgemeinem kulturellen Interesse.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTFRBeUduaWdaRHBod2N3UFEtYWRNLUttVnVvcWFzd1dQTnIzX1hkdkJqTjNBQmlfYVdOdjNzZlJvOVFKTndNZGUxb3doRTVTWFpIYmFaRGp6QzhTOFMzcERCZThtcWJfSzZLaWNxLUNOYWdjdXFGYlhrelJOLXZTSmp3eVhLZnZfRVZ3MjkxS2JwVFVJZTJFaW5nbjdQY3ZwY3hiRDFzY1ZHQk5vTU50cmlBcmhYNFJ3b0VIbmpvZ1lBdGViUEs5WTNTa3pURHFH?oc=5",
-        "date": "2026-10-02T19:04:00.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/kultur/coldmirror-youtuberin-empfindet-keine-liebe-mehr-fuer-harry-potter-a-1e59345c-210e-44e6-8a91-2d018284fb56#ref=rss",
-        "date": "2026-10-02T19:04:00.000Z"
-      },
-      {
-        "name": "stern",
-        "url": "https://www.stern.de/gesellschaft/regional/niedersachsen-bremen/youtuberin--coldmirror-hat--keine-liebe-mehr--fuer-harry-potter-38342684.html",
-        "date": "2026-10-02T18:18:52.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTFRBeUduaWdaRHBod2N3UFEtYWRNLUttVnVvcWFzd1dQTnIzX1hkdkJqTjNBQmlfYVdOdjNzZlJvOVFKTndNZGUxb3doRTVTWFpIYmFaRGp6QzhTOFMzcERCZThtcWJfSzZLaWNxLUNOYWdjdXFGYlhrelJOLXZTSmp3eVhLZnZfRVZ3MjkxS2JwVFVJZTJFaW5nbjdQY3ZwY3hiRDFzY1ZHQk5vTU50cmlBcmhYNFJ3b0VIbmpvZ1lBdGViUEs5WTNTa3pURHFH?oc=5",
-    "agree": "Die Quellen stimmen überein, dass die YouTuberin Coldmirror, bekannt durch Harry-Potter-Parodien, keine Liebe mehr für Harry Potter empfindet und sich davon distanziert hat.",
-    "diff": [
-      {
-        "name": "DER SPIEGEL",
-        "note": "Erwähnt, dass Coldmirror ab 2006 mit Neusynchronisationen und dem Hit »Harry Potter und ein Stein« berühmt wurde."
-      },
-      {
-        "name": "stern",
-        "note": "Nennt explizit die Autorin J. K. Rowling als Grund für die Distanzierung der YouTuberin von der magischen Welt."
-      }
-    ],
-    "chg": "",
-    "independent": 3
-  },
-  {
-    "id": "story-72d7a1f3ece0d84a",
-    "c": "DE",
-    "o": "DE",
-    "k": "umwelt",
-    "lang": "de",
-    "d": "2026-10-02T19:02:33.000Z",
-    "p": 3,
-    "st": "SH",
-    "city": "",
-    "t": "Kernkraftwerk Krümmel wird offiziell als Zwischenlager genutzt",
-    "s": "Das stillgelegte Kernkraftwerk in Krümmel dient offiziell als Zwischenlager für radioaktive Abfälle. Dort sollen die Abfälle gelagert werden, bis das Endlager Schacht Konrad in Salzgitter betriebsbereit ist. Die offizielle Umwidmung betrifft das Gelände in Geesthacht.",
-    "m": "Das Kernkraftwerk Krümmel ist offiziell zum Zwischenlager erklärt worden. Auf dem Gelände in Geesthacht dürfen nun schwach- und mittelradioaktive Abfälle aufbewahrt werden. Diese Maßnahme ist als Übergangslösung gedacht, bis das geplante Endlager Schacht Konrad im niedersächsischen Salzgitter seinen Betrieb aufnimmt. Die dauerhafte Entsorgung der radioaktiven Materialien bleibt somit an diesen künftigen Standort geknüpft. Das Vorhaben stößt in der Region auf Kritik von Umweltschutzverbänden wie dem BUND, der das Projekt ablehnt. Weitere Details zu Zeitplänen oder konkreten Transporten wurden in den Berichten nicht genannt.",
-    "r": "Die offizielle Umwidmung des Kernkraftwerks Krümmel zum Zwischenlager markiert einen weiteren formalen Schritt im Umgang mit atomaren Abfällen im Zuge des Atomausstiegs. Das Projekt verdeutlicht die anhaltende Abhängigkeit von Zwischenlagern, da das endgültige Endlager in Salzgitter noch nicht in Betrieb ist.",
-    "srcs": [
-      {
-        "name": "NDR Schleswig-Holstein",
-        "url": "https://www.ndr.de/fernsehen/sendungen/schleswig-holstein_magazin/kernkraftwerk-kruemmel-wird-offiziell-zwischenlager,shmag-13752.html",
-        "date": "2026-10-02T19:02:33.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Schleswig-Holstein",
-        "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/atomausstieg-kernkraftwerk-kruemmel-wird-offiziell-zwischenlager,genehmigungkruemmel-100.html",
-        "date": "2026-10-02T11:37:02.000Z"
-      }
-    ],
-    "url": "https://www.ndr.de/fernsehen/sendungen/schleswig-holstein_magazin/kernkraftwerk-kruemmel-wird-offiziell-zwischenlager,shmag-13752.html",
-    "agree": "Die Quellen stimmen überein, dass das Kernkraftwerk Krümmel offiziell zum Zwischenlager für radioaktive Abfälle wird, bis das Endlager Schacht Konrad in Salzgitter einsatzbereit ist.",
-    "diff": [
-      {
-        "name": "NDR Schleswig-Holstein",
-        "note": "Erwähnt die offiziellen Zwischenlager-Pläne, nennt aber keine Details zu den Abfallarten oder zur Kritik."
-      },
-      {
-        "name": "Tagesschau Regional Schleswig-Holstein",
-        "note": "Nennt den Ort Geesthacht, präzisiert die Abfälle als schwach- und mittelradioaktiv und erwähnt die Kritik des BUND."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-e0b5f2e97e828b50",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-02T18:27:48.000Z",
-    "p": 3,
-    "st": "BW",
-    "city": "",
-    "t": "Verbindliches kostenfreies letztes Kita-Jahr in Baden-Württemberg vor dem Aus",
-    "s": "Das von der Landesregierung in Baden-Württemberg versprochene verbindliche, kostenfreie letzte Kita-Jahr steht offenbar vor dem Aus. Nach massiver Kritik an dem Vorhaben äußert nun ein Experten-Gremium große Vorbehalte. Das Projekt, das eigentlich eingeführt werden sollte, wackelt dadurch erheblich. Derzeit ist unklar, ob das politische Versprechen noch umgesetzt werden kann.",
-    "m": "Die Landesregierung von Baden-Württemberg hatte im Vorfeld angekündigt, ein verbindliches und kostenfreies letztes Kita-Jahr für Familien im Land einzuführen. Dieses politische Vorhaben war jedoch von Beginn an mit viel Kritik konfrontiert worden. Nun hat sich ein beratendes Experten-Gremium zu dem Projekt geäußert und massive Vorbehalte angemeldet. Durch diese gewichtigen Bedenken der Fachleute gerät das geplante Vorhaben stark ins Wanken. Ob die Regierung an ihrem Versprechen festhalten wird oder welche Alternativen geprüft werden, ist aktuell noch nicht bekannt. Die Diskussion über die finanzielle Entlastung von Eltern und die strukturelle Machbarkeit in den Kindertagesstätten erhält damit neuen Zündstoff.",
-    "r": "Die Meldung ist relevant, da sie ein zentrales bildungspolitisches Versprechen der baden-württembergischen Landesregierung betrifft, das nun vor dem Aus steht. Die Entscheidung hat direkte Auswirkungen auf Familien sowie die Betreuungsstrukturen im Land.",
-    "srcs": [
-      {
-        "name": "SWR Aktuell Baden-Württemberg",
-        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/pflicht-und-kostenfreies-kita-jahr-vor-dem-aus-100.html",
-        "date": "2026-10-02T18:27:48.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Baden-Württemberg",
-        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-verbindliches-kostenfreies-letztes-kita-jahr-wohl-vor-dem-aus-zentrales-wahlversprechen-koennte-kippen-100.html",
-        "date": "2026-10-02T13:54:00.000Z"
-      }
-    ],
-    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/pflicht-und-kostenfreies-kita-jahr-vor-dem-aus-100.html",
-    "agree": "Beide Quellen stimmen darin überein, dass das von der Landesregierung versprochene kostenfreie letzte Kita-Jahr nach viel Kritik nun vor dem Aus wackelt.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-e265d0ee7c52a957",
-    "c": "DE",
-    "o": "DE",
-    "k": "sport",
-    "lang": "de",
-    "d": "2026-10-02T17:15:47.000Z",
-    "p": 2,
-    "st": "BY",
-    "city": "",
-    "t": "Klopps Sonderlob für Pavlovic nach 2:0 gegen Serbien",
-    "s": "Bundestrainer Jürgen Klopp hat den Bayern-Spieler Aleksandar Pavlovic nach dem 2:0-Sieg der deutschen Nationalmannschaft gegen Serbien in der Nations League besonders gelobt. Gleichzeitig wischte der 59-Jährige Diskussionen um Joshua Kimmich energisch beiseite. Das Spiel endete mit einem klaren Erfolg für die DFB-Auswahl. Weitere Details zum Spielverlauf wurden von den Quellen nicht genannt.",
-    "m": "Nach dem 2:0-Sieg der deutschen Nationalmannschaft in der Nations League gegen Serbien rückte vor allem Aleksandar Pavlovic vom FC Bayern München in den Fokus. Bundestrainer Jürgen Klopp äußerte sich nach der Partie äußerst positiv über den Mittelfeldspieler und betonte, er sei im Spiel \"überall\" gewesen. Neben dieser lobenden Hervorhebung nahm Klopp auch zu den anhaltenden Diskussionen um Joshua Kimmich Stellung, welche er jedoch energisch vom Tisch wischte. Der genaue zeitliche Ablauf des Spiels, Torschützen oder detaillierte Spielanteile gehen aus den Berichten nicht hervor. Auch über mögliche Konsequenzen für die anstehenden Partien der Nationalmannschaft machen die vorliegenden Informationen keine Angaben. Es bleibt offen, wie sich Klopps Aussagen auf die künftige Aufstellung der DFB-Elf auswirken werden.",
-    "r": "Die Aussagen des Bundestrainers nach dem Pflichtspiel geben Aufschluss über die interne Bewertung von Leistungsträgern und den Umgang mit personellen Diskussionen in der Nationalmannschaft.",
-    "srcs": [
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/sport/fussball-nationalmannschaft-juergen-klopps-sonderlob-fuer-aleksandar-pavlovic-er-war-ueberall,VWsFX05",
-        "date": "2026-10-02T17:15:47.000Z"
-      },
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRTBoLTZZaXU0SW1RZkJtNUt1T2VQdXZ0ZUVNRW50alV2b0w3QjVaV1lsR1o0Y3FIY2tldVp3OXpISDk3dWZranVYVUhQbWNQTEI0TG5jYmtmaEUtS1loUE9ZanY3dTBtYmZYZXZYWEYyc2wydi1ncVlZSHJDcmYtVzVUWDQtLWdxR09GR0N3UVBJd2tDMXo5QklfTFNuQjJCMkFpTnM2Z3BZTFRLZkN6dmZXRER3RjhYZGJMNTZZM3daWUd1VUlFSnJFX0JjQTRyY2w4?oc=5",
-        "date": "2026-10-02T17:15:47.000Z"
-      }
-    ],
-    "url": "https://www.br.de/nachrichten/sport/fussball-nationalmannschaft-juergen-klopps-sonderlob-fuer-aleksandar-pavlovic-er-war-ueberall,VWsFX05",
-    "agree": "Die Quellen sind sich einig, dass Jürgen Klopp Aleksandar Pavlovic nach dem 2:0-Sieg gegen Serbien ein Sonderlob ausgesprochen hat und Diskussionen um Joshua Kimmich zurückwies.",
-    "diff": [
-      {
-        "name": "BR24 Bayern",
-        "note": "Berichtet ausführlich über das Sonderlob für Pavlovic und Klopps Reaktion auf Kimmich-Diskussionen nach dem Nations-League-Spiel."
-      },
-      {
-        "name": "Google News DE",
-        "note": "Teilt im Wesentlichen die Überschrift des BR-Berichts."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-1f8a6abc81bd1305",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-02T16:39:22.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Trump bringt Einsatz von US-Militär im Inland vor Midterms ins Gespräch",
-    "s": "Donald Trump hat kurz vor den Zwischenwahlen ein historisches Gesetz ins Spiel gebracht. Das über 200 Jahre alte Gesetz könnte ihm den Einsatz des US-Militärs im Inland erlauben. Hintergrund des Gedankenspiels ist die Sorge um die Mehrheit seiner Partei im Kongress.",
-    "m": "Angesichts der bevorstehenden Zwischenwahlen und der Sorge um den Verlust der republikanischen Kongressmehrheit hat US-Präsident Donald Trump mit einem drastischen Gedankenspiel auf sich aufmerksam gemacht. Er brachte öffentlich den möglichen Einsatz eines rund 200 Jahre alten Gesetzes ins Gespräch. Dieses Gesetz würde ihm die Befugnis verleihen, das Militär innerhalb der Vereinigten Staaten einzusetzen. Ob und unter welchen konkreten Bedingungen dieser Schritt erfolgen könnte, ist Gegenstand der aktuellen Diskussion. Beobachter werten die Äußerung als brisanten Vorstoß kurz vor der Wahl.",
-    "r": "Die Äußerungen des US-Präsidenten zum möglichen Einsatz des Militärs im Inland berühren fundamentale Fragen der staatlichen Ordnung und könnten den Wahlkampf kurz vor den Midterms massiv beeinflussen.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT0RTZy1QMDVUY2JlVmI5NTZwR0VQcHltbVhnR2E0bV9EdDQ3eUNzUTl3djRfYUxUX3NmbmRPMXgtdjVCajBSREVJZGczdjlKb3RxQ0J2d2luTnBCZzhpMkJfLVZzTlB0SzM3ZndvZ0RyQ2N1SC02T2FublpDQ3NRbFhDTHBYWkFqU25ILWVQenVTRTlTeDJCYnRNVWM4eDlUeXp2b0FjU1FpaFQ5X1pDRG9uM1hVcmc?oc=5",
-        "date": "2026-10-02T16:39:22.000Z"
-      },
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/politik/Trump-spielt-vor-den-Midterms-mit-einem-gefaehrlichen-Brandbeschleuniger-id31374897.html",
-        "date": "2026-10-02T16:39:22.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT0RTZy1QMDVUY2JlVmI5NTZwR0VQcHltbVhnR2E0bV9EdDQ3eUNzUTl3djRfYUxUX3NmbmRPMXgtdjVCajBSREVJZGczdjlKb3RxQ0J2d2luTnBCZzhpMkJfLVZzTlB0SzM3ZndvZ0RyQ2N1SC02T2FublpDQ3NRbFhDTHBYWkFqU25ILWVQenVTRTlTeDJCYnRNVWM4eDlUeXp2b0FjU1FpaFQ5X1pDRG9uM1hVcmc?oc=5",
-    "agree": "Beide Quellen berichten, dass Donald Trump vor den Zwischenwahlen ein über 200 Jahre altes Gesetz ins Spiel gebracht hat, das den Einsatz des Militärs im Inland erlaubt.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-fae614e564d16d5c",
-    "c": "INT",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-02T15:51:22.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Polen führt befristete Übergewinnsteuer für Mineralölkonzerne ein",
-    "s": "Polen hat die Einführung einer Übergewinnsteuer für Mineralölkonzerne beschlossen. Die Maßnahme soll für die Dauer von einem Jahr gelten. Gleichzeitig ist geplant, die Steuern auf Kraftstoffe zu senken. Die Entscheidung erfolgt vor dem Hintergrund der aktuell hohen Energiepreise in Europa.",
-    "m": "Die polnische Regierung hat beschlossen, eine Übergewinnsteuer für Mineralölkonzerne einzuführen, um auf die anhaltend hohen Energiepreise zu reagieren. Die neue Abgabe tritt für einen Zeitraum von einem Jahr in Kraft. Parallel dazu sollen die Belastungen durch Steuern auf Kraftstoffe reduziert werden. Während Polen diesen Schritt nun umsetzt, wird in Deutschland weiterhin kontrovers über die Einführung einer solchen Übergewinnsteuer für Mineralölkonzerne diskutiert. Weitere Details zum genauen Aufkommen der Steuer oder den konkreten Steuersatzsenkungen wurden in den Berichten nicht genannt. Die Maßnahme soll voraussichtlich den heimischen Markt entlasten und Verbraucher vor allzu starken Preissprüngen schützen.",
-    "r": "Die Einführung einer Übergewinnsteuer in Polen ist ein konkreter politischer Schritt in Reaktion auf hohe Energiepreise, während in Deutschland darüber noch diskutiert wird. Dies zeigt unterschiedliche nationale Lösungsansätze im Umgang mit der Energiekrise.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/polen-fuehrt-uebergewinnsteuer-fuer-mineraloelkonzerne-ein-102.html",
-        "date": "2026-10-02T15:51:22.000Z"
-      },
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/politik/ausland/polen-uebergewinnsteuer-mineraloel-konzerne-tankrabatt-einfuehrung-100.html",
-        "date": "2026-10-02T09:28:00.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/polen-fuehrt-uebergewinnsteuer-fuer-mineraloelkonzerne-ein-102.html",
-    "agree": "Beide Quellen berichten übereinstimmend, dass Polen eine Übergewinnsteuer für Mineralölkonzerne einführt.",
-    "diff": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "note": "Berichtet über die Einführung der Übergewinnsteuer in Polen im Kontext hoher Energiepreise."
-      },
-      {
-        "name": "ZDF heute",
-        "note": "Ergänzt, dass die Steuer für ein Jahr gilt, Kraftstoffsteuern gleichzeitig sinken sollen und in Deutschland weiterhin über eine solche Steuer diskutiert wird."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-8975a5a81742dc11",
-    "c": "INT",
-    "o": "DE",
-    "k": "sport",
-    "lang": "de",
-    "d": "2026-10-02T15:51:22.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Fußball-Weltverband - Arabische und afrikanische Verbände stützen FIFA-Chef Infantino",
-    "s": "Der unter Druck geratene FIFA-Präsident Gianni Infantino erhält im Vorfeld der nächsten Präsidentschaftswahl Unterstützung. Arabische und afrikanische Verbände haben sich hinter den Schweizer gestellt. In Dschidda lobten sie seine bisherige Amtszeit und die Entwicklung des Weltfußballs.",
-    "m": "Im Machtkampf um die Zukunft des Fußball-Weltverbandes FIFA erfährt Präsident Gianni Infantino wichtige Rückendeckung. Nach einer Sitzung der Union of Arab Football Associations im saudischen Dschidda veröffentlichten arabische und afrikanische Verbände eine gemeinsame Erklärung zur Unterstützung des Amtsinhabers. Darin wird gewürdigt, dass Infantino in den vergangenen zehn Jahren die Einheit der weltweiten Fußball-Gemeinschaft gestärkt, den Sport weiterentwickelt und dessen globale Reichweite deutlich vergrößert habe. Zuvor war der FIFA-Chef in Teilen der Fußball-Welt massiv in die Kritik geraten. Die aktuellen Erklärungen fallen in die Phase vor der anstehenden Präsidentschaftswahl, bei der der Machtkampf um die Verbandsspitze ausgetragen wird.",
-    "r": "Die Positionierung einflussreicher Kontinentalverbände ist für den Ausgang der anstehenden FIFA-Präsidentschaftswahl von großer Bedeutung. Sie zeigt, wie sich die Stimmenverhältnisse im globalen Fußball-Machtkampf zwischen Kritikern und Unterstützern von Gianni Infantino verschieben.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/arabische-und-afrikanische-verbaende-stuetzen-fifa-chef-infantino-102.html",
-        "date": "2026-10-02T15:51:22.000Z"
-      },
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/sport/fifa-praesident-infantino-arabische-verbaende-loben-amtszeit-trotz-kritik-XSTSBITA65CK7GNAOPMJYQ6RXU.html",
-        "date": "2026-10-02T10:42:06.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/arabische-und-afrikanische-verbaende-stuetzen-fifa-chef-infantino-102.html",
-    "agree": "Beide Quellen stimmen überein, dass Gianni Infantino unter Druck steht, ein Machtkampf um die FIFA-Spitze vor der Wiederwahl tobt und er nun von arabischen sowie afrikanischen Verbänden unterstützt wird.",
-    "diff": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "note": "Erwähnt konkret die Erklärung der Union of Arab Football Associations aus Dschidda sowie Details zur zehnjährigen Bilanz von Infantino."
-      },
-      {
-        "name": "RND",
-        "note": "Berichtet kompakter und hebt hervor, dass Infantino in Teilen der Fußball-Welt massiv kritisiert wird."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-41685cd3df5f256a",
-    "c": "INT",
-    "o": "UK",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-02T15:47:34.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "G7-Staaten wollen 100 Millionen Barrel Ölreserven freigeben",
-    "s": "Angesichts stark steigender Dieselpreise planen die G7-Staaten die Freigabe von 100 Millionen Barrel Erdöl aus ihren Reserven. Dies soll dazu beitragen, die Preise für Erdölprodukte zu senken. Gleichzeitig gibt es in Frankreich anhaltende Schülerproteste und Unruhen im Bildungsbereich.",
-    "m": "Die G7-Staaten haben angekündigt, koordiniert vorzugehen, um die drastisch gestiegenen Preise für Erdölprodukte und insbesondere Diesel zu bekämpfen. Dazu sollen insgesamt 100 Millionen Barrel aus den nationalen Reserven freigegeben werden. Der französische Präsident Emmanuel Macron betonte das koordinierte Vorgehen der G7 zur Preissenkung. Neben diesen wirtschafts- und energiepolitischen Maßnahmen kommt es in Frankreich aktuell zu massiven Unruhen und Protesten im Bildungssektor. Laut Berichten der Zeitung Le Figaro waren bisher 564 Schulen und Bildungseinrichtungen von den anhaltenden Schülerprotesten betroffen. Im Zuge dieser Demonstrationen wurden im Laufe des Tages rund 600 Menschen festgenommen. Die Situation verbindet somit globale energiepolitische Markteingriffe mit akuten innenpolitischen Spannungen in Frankreich.",
-    "r": "Die Freigabe massiver Erdölreserven durch die G7 betrifft die globale Energieversorgung und zielt direkt auf die Bekämpfung hoher Treibstoffpreise ab. Gleichzeitig zeigen die Unruhen an Schulen in Frankreich erhebliche innenpolitische Spannungen, die das öffentliche Leben beeinträchtigen.",
-    "srcs": [
-      {
-        "name": "Guardian World",
-        "url": "https://www.theguardian.com/world/live/2026/oct/02/france-schools-protests-violence-ukraine-kallas-rome-pope-latest-news-updates",
-        "date": "2026-10-02T15:47:34.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOek1VRUtDalJZQXlCY0xGdENkaV8tNlBFN0JnQUdFV0FoeFBNYlJYLUk5SUFMS3ZIRE1ZQXhjUWktREFUc1hGUkpKclVxNXVDWHVBMElnNW5KWms4Q1FmTGV0OE80T0hkMUl6VGM5NGZPRFlEQ05lREF6ajRodHJOX0ZpeC04SXh1RDhyZGl2T2FaUWcxX3gzZDF0WGRhRjVVWWVGU3JuMzVGd3hPOWNRdHdidl96Z2dtMlcyUUd3RzJwUnp6WGJB?oc=5",
-        "date": "2026-10-02T08:09:00.000Z"
-      }
-    ],
-    "url": "https://www.theguardian.com/world/live/2026/oct/02/france-schools-protests-violence-ukraine-kallas-rome-pope-latest-news-updates",
-    "agree": "Beide Quellen stimmen überein, dass die G7-Staaten 100 Millionen Barrel aus ihren Reserven freigeben wollen, um gegen stark steigende Dieselpreise vorzugehen.",
-    "diff": [
-      {
-        "name": "Guardian World",
-        "note": "Berichtet zusätzlich detailliert über die Unruhen und Schülerproteste in Frankreich, wonach 564 Schulen betroffen sind und rund 600 Festnahmen stattfanden."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-4c055910d23220a9",
-    "c": "INT",
-    "o": "PT",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-02T15:42:26.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "USA suspendieren diplomatische Aktivitäten in Brasilien",
-    "s": "Die Vereinigten Staaten haben angekündigt, den Betrieb ihrer Botschaft und ihrer Konsulate in Brasilien einzustellen. Grund für diesen Schritt sind Sicherheitsbedenken im Zusammenhang mit der ersten Runde der Präsidentschaftswahlen. Die Schließung betrifft sowohl die diplomatische Vertretung als auch die Konsularämter.",
-    "m": "Die US-Regierung hat die vorübergehende Aussetzung der Aktivitäten ihrer diplomatischen Vertretungen in Brasilien bekannt gegeben. Konkret sind davon die Botschaft sowie sämtliche Konsulate des Landes betroffen. Als ausschlaggebender Grund wurden Sicherheitsvorgaben genannt. Die Maßnahmen stehen unmittelbar im Kontext der anstehenden ersten Runde der brasilianischen Präsidentschaftswahlen. Laut offiziellen Angaben soll die Suspendierung ab Freitag beziehungsweise ab dem heutigen Tag gelten. Weitere Details zu möglichen konkreten Bedrohungen wurden zunächst nicht genannt. Die Entscheidung unterstreicht die angespannte Sicherheitslage im Land während des Wahlprozesses. Die Auswirkungen auf Visa- und Konsulardienste für Bürger bleiben abzuwarten.",
-    "r": "Die Schließung der US-Vertretungen im Rahmen der brasilianischen Wahlen ist ein sicherheitspolitischer Vorgang von internationaler Bedeutung. Sie betrifft direkt die diplomatischen Beziehungen sowie die konsularische Betreuung vor Ort während einer sensiblen politischen Phase.",
-    "srcs": [
-      {
-        "name": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/mundo/eua-suspendem-atividade-diplomatica-no-brasil-por-seguranca_n1769195",
-        "date": "2026-10-02T15:42:26.000Z"
-      },
-      {
-        "name": "RTP Mundo",
-        "url": "https://www.rtp.pt/noticias/mundo/eleicoes-no-brasil-eua-suspendem-atividade-diplomatica-a-partir-desta-sexta-feira-por-seguranca_n1769173",
-        "date": "2026-10-02T14:20:03.000Z"
-      }
-    ],
-    "url": "https://www.rtp.pt/noticias/mundo/eua-suspendem-atividade-diplomatica-no-brasil-por-seguranca_n1769195",
-    "agree": "Beide Quellen stimmen darin überein, dass die USA ihre Botschaft und Konsulate in Brasilien aus Sicherheitsgründen im Kontext der Präsidentschaftswahlen suspendieren.",
-    "diff": [
-      {
-        "name": "RTP Mundo",
-        "note": "nennt zusätzlich den genauen Startzeitpunkt der Suspendierung ab diesem Freitag beziehungsweise ab heute."
-      }
-    ],
-    "chg": "",
-    "independent": 1
-  },
-  {
-    "id": "story-c5fa41b45bcd380d",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-02T15:35:39.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "16-jährige Schülerin bricht in Ludwigshafen im Unterricht zusammen und stirbt",
-    "s": "Eine 16-jährige Schülerin ist am Freitagvormittag an einer Schule in Ludwigshafen während des Unterrichts plötzlich zusammengebrochen. Trotz sofort eingeleiteter Reanimationsversuche starb die Jugendliche noch vor Ort. Die genauen Umstände des plötzlichen Todes sind Gegenstand von Berichten über das tragische Schulunglück in Rheinland-Pfalz.",
-    "m": "Der Vorfall ereignete sich am Vormittag an einer Schule in Ludwigshafen in Rheinland-Pfalz. Die 16-jährige Schülerin sackte während des laufenden Unterrichts unvermittelt zusammen. Anwesende Personen und Rettungskräfte versuchten sofort, die Jugendliche zu reanimieren. Alle medizinischen Bemühungen blieben jedoch erfolglos, sodass für die Schülerin jede Hilfe zu spät kam und sie verstarb. Weitere Details zur genauen Todesursache oder zu möglichen Vorerkrankungen wurden in den ersten Berichten nicht genannt. Die Ermittlungen zu dem tragischen Unglücksfall laufen.",
-    "r": "Der plötzliche Tod einer Jugendlichen im Schulunterricht stellt ein tragisches Ereignis mit großer lokaler Betroffenheit dar. Der Vorfall wirft Fragen zur medizinischen Notfallversorgung und plötzlichen gesundheitlichen Vorfällen bei jungen Menschen auf.",
-    "srcs": [
-      {
-        "name": "SWR Aktuell",
-        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/ludwigshafen/maedchen-bricht-waehrend-schulstunde-in-ludwigshafen-tot-zusammen-100.html",
-        "date": "2026-10-02T15:35:39.000Z"
-      },
-      {
-        "name": "t-online Panorama",
-        "url": "https://www.t-online.de/nachrichten/panorama/menschen-schicksale/id_101463626/ludwigshafen-16-jaehrige-schuelerin-kollabiert-im-unterricht-und-stirbt.html",
-        "date": "2026-10-02T13:42:19.000Z"
-      },
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/panorama/16-Jaehrige-bricht-im-Unterricht-zusammen-und-stirbt-id31374919.html",
-        "date": "2026-10-02T13:26:52.000Z"
-      }
-    ],
-    "url": "https://www.swr.de/swraktuell/rheinland-pfalz/ludwigshafen/maedchen-bricht-waehrend-schulstunde-in-ludwigshafen-tot-zusammen-100.html",
-    "agree": "Alle Quellen stimmen überein, dass eine 16-jährige Schülerin am Vormittag an einer Schule in Ludwigshafen während des Unterrichts zusammengebrochen ist und trotz sofortiger Reanimationsversuche gestorben ist.",
-    "diff": [
-      {
-        "name": "t-online Panorama",
-        "note": "Erwähnt zusätzlich das Bundesland Rheinland-Pfalz und dass es schockierende Szenen an der Schule waren."
-      },
-      {
-        "name": "ntv",
-        "note": "Bezeichnet den Vorfall explizit als Unglück."
-      }
-    ],
-    "chg": "",
-    "independent": 3
-  },
-  {
-    "id": "story-13a115198d966ca0",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-02T15:35:39.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "16-jährige Schülerin stirbt nach Zusammenbruch im Unterricht in Ludwigshafen",
-    "s": "Eine 16-jährige Schülerin ist an einer Schule in Ludwigshafen während des Unterrichts am Vormittag unerwartet zusammengebrochen. Trotz sofortiger Reanimationsversuche kam für die Jugendliche jede Hilfe zu spät. Die Polizei hat die Ermittlungen zu dem Vorfall aufgenommen.",
-    "m": "Der tragische Vorfall ereignete sich am Freitagmorgen in einer Schule in Ludwigshafen in Rheinland-Pfalz. Die 16-jährige Schülerin sackte während des regulären Unterrichts plötzlich in sich zusammen und kollabierte. Anwesende leiteten umgehend Erste Hilfe ein und versuchten, die Jugendliche zu reanimieren, allerdings blieben diese Rettungsmaßnahmen erfolglos. Die Schülerin verstarb noch vor Ort beziehungsweise kurz nach dem Zusammenbruch. Nach Angaben der Polizei gibt es bislang keine Hinweise auf eine Fremdeinwirkung. Weitere Details zur genauen Todesursache oder zum genauen Ablauf des Einsatzes sind zum aktuellen Zeitpunkt nicht bekannt.",
-    "r": "Der plötzliche Tod einer Jugendlichen im Schulalltag wirft Fragen auf und betrifft die Öffentlichkeit direkt. Die Ermittlungen der Polizei zur Ursache stehen im Mittelpunkt des Interesses.",
-    "srcs": [
-      {
-        "name": "SWR Aktuell",
-        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/ludwigshafen/maedchen-bricht-waehrend-schulstunde-in-ludwigshafen-tot-zusammen-100.html",
-        "date": "2026-10-02T15:35:39.000Z"
-      },
-      {
-        "name": "t-online Panorama",
-        "url": "https://www.t-online.de/nachrichten/panorama/menschen-schicksale/id_101463626/ludwigshafen-16-jaehrige-schuelerin-kollabiert-im-unterricht-und-stirbt.html",
-        "date": "2026-10-02T13:42:19.000Z"
-      },
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/panorama/16-Jaehrige-bricht-im-Unterricht-zusammen-und-stirbt-id31374919.html",
-        "date": "2026-10-02T13:26:52.000Z"
-      },
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/vermischtes/article6abfa8b4d0775b9e9d8fd9f7/schock-in-rheinland-pfalz-16-jaehrige-schuelerin-bricht-waehrend-des-unterrichts-zusammen-und-stirbt.html",
-        "date": "2026-10-02T12:53:17.000Z"
-      }
-    ],
-    "url": "https://www.swr.de/swraktuell/rheinland-pfalz/ludwigshafen/maedchen-bricht-waehrend-schulstunde-in-ludwigshafen-tot-zusammen-100.html",
-    "agree": "Alle Quellen stimmen darin überein, dass eine 16-jährige Schülerin in Ludwigshafen während des Unterrichts zusammengebrochen und trotz Reanimationsversuchen gestorben ist.",
-    "diff": [
-      {
-        "name": "WELT",
-        "note": "Berichtet, dass laut Polizei keine Hinweise auf Fremdeinwirkung vorliegen."
-      },
-      {
-        "name": "t-online Panorama",
-        "note": "Erwähnt allgemein, dass es sich um eine Schule in Rheinland-Pfalz handelt."
-      }
-    ],
-    "chg": "",
-    "independent": 4
-  },
-  {
-    "id": "story-ccf3343052c44d89",
-    "c": "INT",
-    "o": "PT",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-02T15:33:10.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Spanisches Parlament lehnt Dekrete für Wohnungsbau ab",
-    "s": "Das spanische Parlament hat über Gesetzesvorschläge zur Wohnungsbaupolitik beraten. Dabei lehnte die politische Rechte das erste Dekret für den Wohnungsbau ab. Dies könnte den Weg für vorgezogene Wahlen ebnen.",
-    "m": "Im Zentrum der parlamentarischen Diskussionen stand unter anderem das sogenannte Dekret Maricarmen, benannt nach einer älteren Frau, deren drohender Wohnungsverlust zuvor heftige Straßenproteste ausgelöst hatte. Die konservative Opposition und weitere rechte Parteien stimmten gegen die vorgelegten wohnungsbaupolitischen Maßnahmen. Durch diese Blockade im Parlament verschärft sich die politische Krise in Spanien erheblich, womit ein Szenario von Neuwahlen näher rückt. Beobachter werten die Entscheidung als schwere Last für die Regierung, die auf eine stabile Mehrheit für ihre sozialen Reformen gehofft hatte. Konkrete Daten für mögliche Neuwahlen wurden zunächst nicht genannt, jedoch erhöht die parlamentarische Niederlage den Druck auf die Exekutive spürbar. Weitere Details zum genauen Abstimmungsergebnis oder alternativen Kompromissversuchen gehen aus den vorliegenden Berichten nicht hervor.",
-    "r": "Die Ablehnung zentraler Wohnungsbau-Dekrete durch das spanische Parlament ist von hoher politischer Relevanz, da sie das Risiko vorgezogener Wahlen akut erhöht. Die Ereignisse verdeutlichen die schwierigen Mehrheitsverhältnisse und sozialen Spannungen rund um das Thema Wohnen in Spanien.",
-    "srcs": [
-      {
-        "name": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN2loWGVYUGVGUTA3QTZkSFY4bHZJMDNpdVFHdTdBRnVWbnlYUEtPZUswakFnUUNEbXAzSzJJVTlqX0ZvZWZxS0N6VjlNLUJYVUlxM0t1SVhzQXJ3dmtaUnowU0x3LTlWS1F6OTRIdjRjQ0o5bVRpNzF2OUY0b202RVZMSWhmQ3FjRDNxcm5MNGJGSFk?oc=5",
-        "date": "2026-10-02T15:33:10.000Z"
-      },
-      {
-        "name": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/mundo/chumbados-decretos-para-a-habitacao-em-espanha_n1769179",
-        "date": "2026-10-02T14:30:30.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN2loWGVYUGVGUTA3QTZkSFY4bHZJMDNpdVFHdTdBRnVWbnlYUEtPZUswakFnUUNEbXAzSzJJVTlqX0ZvZWZxS0N6VjlNLUJYVUlxM0t1SVhzQXJ3dmtaUnowU0x3LTlWS1F6OTRIdjRjQ0o5bVRpNzF2OUY0b202RVZMSWhmQ3FjRDNxcm5MNGJGSFk?oc=5",
-    "agree": "Die Quellen stimmen überein, dass das spanische Parlament Dekrete für den Wohnungsbau abgelehnt hat und dies zu vorgezogenen Wahlen führen könnte.",
-    "diff": [
-      {
-        "name": "RTP Notícias",
-        "note": "Berichtet konkret über die Diskussion des sogenannten \"Dekrets Maricarmen\", benannt nach einer von einem Desaster betroffenen idosa (Älteren), sowie über massive Straßenproteste und die Rolle der Rechten bei der Ablehnung."
       }
     ],
     "chg": "",

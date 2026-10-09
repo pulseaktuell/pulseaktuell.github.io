@@ -1,109 +1,52 @@
 [
   {
-    "id": "story-19",
+    "id": "story-3",
     "topic": "panorama",
-    "country": "DE",
+    "country": "UK",
     "stateHint": "",
-    "date": "2026-10-08T21:36:00.000Z",
+    "date": "2026-10-09T01:25:33.000Z",
     "sources": [
       {
-        "source": "stern",
-        "url": "https://www.stern.de/panorama/berngau--zweites-todesopfer-nach-schuessen-bei-waffenkontrolle-38367606.html",
-        "date": "2026-10-08T21:36:00.000Z",
-        "snippet": "Ein Routine-Einsatz endet tödlich: Bei einer Waffenkontrolle werden zwei Behördenmitarbeiter tödlich verletzt. Der mutmaßliche Schütze verschanzt sich seitdem vor der Polizei.",
-        "title": "Oberpfalz: Zweites Todesopfer nach Schüssen bei Waffenkontrolle"
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-09T01:25:33.000Z",
+        "snippet": "The US Defence Secretary says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
+        "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says"
       },
       {
-        "source": "ntv",
-        "url": "https://www.n-tv.de/panorama/Zweites-Todesopfer-in-Berngau-nach-Schuessen-bei-Waffenkontrolle-id31398543.html",
-        "date": "2026-10-08T21:31:11.000Z",
-        "snippet": "In Berngau endet eine Waffenkontrolle für zwei Behördenmitarbeiter tödlich. Der mutmaßliche Täter zieht sich in sein Haus zurück, Spezialkräfte rücken an. Am Abend nimmt die Polizei Gespräche mit dem Verschanzten auf.",
-        "title": "SEK-Einsatz in Bayern: Zweites Todesopfer in Berngau nach Schüssen bei Waffenkontrolle"
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/8/hegseth-says-firing-squad-execution-of-fort-hood-shooter-will-be-public?traffic_source=rss",
+        "date": "2026-10-08T23:36:44.000Z",
+        "snippet": "An official at the Pentagon told Al Jazeera that former US Army Major Nidal Hasan's execution would be 'livestreamed'.",
+        "title": "Hegseth says firing squad execution of Fort Hood shooter will be ‘public’"
       },
       {
-        "source": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/news/2026-10/08/zweites-todesopfer-nach-schuessen-bei-waffenkontrolle",
-        "date": "2026-10-08T21:11:50.000Z",
-        "snippet": "",
-        "title": "Kriminalität: Zweites Todesopfer nach Schüssen bei Waffenkontrolle"
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pVlNqcnVNNU5mOGhxUE5iajdxU3psRmdDdWNEZTBGenRRT1AtTC1YcmVTbkpNTlF4SkhkY25RblUtWXlwMHlrM2RfZ2VTVUprQ183THdKTWpEb1k?oc=5",
+        "date": "2026-10-08T23:35:57.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pVlNqcnVNNU5mOGhxUE5iajdxU3psRmdDdWNEZTBGenRRT1AtTC1YcmVTbkpNTlF4SkhkY25RblUtWXlwMHlrM2RfZ2VTVUprQ183THdKTWpEb1k?oc=5\" target=\"_blank\">Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+        "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says - BBC"
       },
       {
-        "source": "Süddeutsche Zeitung",
-        "url": "https://www.sueddeutsche.de/bayern/oberpfalz-berngau-schuesse-polizei-verletzte-li.3560697",
-        "date": "2026-10-08T16:48:00.000Z",
-        "snippet": "Ein Routine-Einsatz in Berngau endet tödlich: Bei einer Waffenkontrolle wird ein Behördenmitarbeiter erschossen. Der mutmaßliche Schütze verschanzt sich seitdem vor der Polizei.",
-        "title": "Schüsse in der Oberpfalz: Behördenmitarbeiter bei Waffenkontrolle erschossen"
+        "source": "Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/oct/08/hegseth-fort-hood-shooter-public-execution",
+        "date": "2026-10-08T23:18:29.000Z",
+        "snippet": "<p>Nidal Hasan, army psychiatrist who killed 13 people, will be executed by firing squad on 3 December</p><p>Pete Hegseth has said the execution of Nidal Hasan, the former army psychiatrist who killed 13 people at Fort Hood, will be a public event when the sentence is carried out later this year. A defense department official later confirmed the execution will be livestreamed.</p><p>In an interview with Real America’s Voice, the Pentagon secretary said the firing squad will carry out the sentence at Fort Hood, Texas, at 1pm on Thursday, 3 December. This would be the first US military execution in more than 60 years.</p> <a href=\"https://www.theguardian.com/us-news/2026/oct/08/hegseth-fort-ho",
+        "title": "Pentagon says execution of Fort Hood shooter will be livestreamed"
+      },
+      {
+        "source": "France24 English",
+        "url": "https://www.france24.com/en/americas/20261008-fort-hood-shooter-firing-squad-execution-livestreamed-pentagon",
+        "date": "2026-10-08T22:01:15.000Z",
+        "snippet": "The Pentagon said the firing squad execution of Fort Hood shooter Nidal Malik Hasan would be livestreamed on December 3. Defense Secretary Pete Hegseth said Wednesday the execution would be public. Hasan was convicted of killing 13 people and injuring 32 in a 2009 shooting at the Texas military base.",
+        "title": "Fort Hood shooter’s firing squad execution to be livestreamed, Pentagon says"
       }
     ],
-    "title": "Oberpfalz: Zweites Todesopfer nach Schüssen bei Waffenkontrolle",
-    "summary": "Oberpfalz: Zweites Todesopfer nach Schüssen bei Waffenkontrolle Ein Routine-Einsatz endet tödlich: Bei einer Waffenkontrolle werden zwei Behördenmitarbeiter tödlich verletzt. Der mutmaßliche Schütze verschanzt sich seitdem vor der Polizei.\nSEK-Einsatz in Bayern: Zweites Todesopfer in Berngau nach Schüssen bei Waffenkontrolle In Berngau endet eine Waffenkontrolle für zwei Behördenmitarbeiter tödlich. Der mutmaßliche Täter zieht sich in sein Haus zurück, Spezialkräfte rücken an. Am Abend nimmt die Polizei Gespräche mit dem Verschanzten auf.\nKriminalität: Zweites Todesopfer nach Schüssen bei Waffenkontrolle \nSchüsse in der Oberpfalz: Behördenmitarbeiter bei Waffenkontrolle erschossen Ein Routine-Einsatz in Berngau endet tödlich: Bei einer Waffenkontrolle wird ein Behördenmitarbeiter erschossen. Der mutmaßliche Schütze verschanzt sich seitdem vor der Polizei."
+    "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+    "summary": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says The US Defence Secretary says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".\nHegseth says firing squad execution of Fort Hood shooter will be ‘public’ An official at the Pentagon told Al Jazeera that former US Army Major Nidal Hasan's execution would be 'livestreamed'.\nFort Hood attacker's execution by firing squad will be livestreamed, Pentagon says - BBC <a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pVlNqcnVNNU5mOGhxUE5iajdxU3psRmdDdWNEZTBGenRRT1AtTC1YcmVTbkpNTlF4SkhkY25RblUtWXlwMHlrM2RfZ2VTVUprQ183THdKTWpEb1k?oc=5\" target=\"_blank\">Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>\nPentagon says execution of Fort Hood shooter will be livestreamed <p>Nidal Hasan, army psychiatrist who killed 13 people, will be executed by firing squad on 3 December</p><p>Pete Hegseth has said the execution of Nidal Hasan, the former army psychiatrist who killed 13 people at Fort Hood, will be a public event when the sentence is carried out later this year. A defense department official later confirmed the execution will be livestreamed.</p><p>In an interview with Real America’s Voice, the Pentagon secretary said the firing squad will carry out the sentence at Fort Hood, Texas, at 1pm on Thursday, 3 December. This would be the first US military execution in more than 60 years.</p> <a href=\"https://www.theguardian.com/us-news/2026/oct/08/hegseth-fort-ho\nFort Hood shooter’s firing squad execution to be livestreamed, Pentagon says The Pentagon said the firing squad execution of Fort Hood shooter Nidal Malik Hasan would be livestreamed on December 3. Defense Secretary Pete Hegseth said Wednesday the execution would be public. Hasan was convicted of killing 13 people and injuring 32 in a 2009 shooting at the Texas military base."
   },
   {
-    "id": "story-53",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-08T21:32:03.000Z",
-    "sources": [
-      {
-        "source": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/krankheitskosten-in-deutschland-ueberstiegen-2024-eine-halbe-billion-euro-100.html",
-        "date": "2026-10-08T21:32:03.000Z",
-        "snippet": "​Die Krankheitskosten in Deutschland sind im Jahr 2024 auf mehr als 528 Milliarden Euro gestiegen.",
-        "title": "Statistisches Bundesamt - Krankheitskosten in Deutschland überstiegen 2024 eine halbe Billion Euro"
-      },
-      {
-        "source": "ZDF heute",
-        "url": "https://www.zdfheute.de/panorama/deutschland-krankheitskosten-halbe-billion-euro-100.html",
-        "date": "2026-10-08T13:48:00.000Z",
-        "snippet": "Im Jahr 2024 beliefen sich Krankheitskosten in Deutschland auf 528,5 Milliarden Euro. Besonders große Unterschiede gibt es vor allem zwischen den Geschlechtern und im Alter.",
-        "title": "Krankheitskosten in Deutschland über halbe Billion Euro"
-      },
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/inland/gesellschaft/krankheitskosten-destatis-100.html",
-        "date": "2026-10-08T11:50:37.000Z",
-        "snippet": "Die direkten Kosten für Krankheiten und Gesundheitsprobleme sind in Deutschland im Jahr 2024 um mehr als 7,6 Prozent gestiegen. Laut Statistischem Bundesamt lagen sie damit erstmals über einer halben Billion Euro.",
-        "title": "Statistisches Bundesamt: Krankheitskosten in Deutschland weiter gestiegen"
-      }
-    ],
-    "title": "Statistisches Bundesamt - Krankheitskosten in Deutschland überstiegen 2024 eine halbe Billion Euro",
-    "summary": "Statistisches Bundesamt - Krankheitskosten in Deutschland überstiegen 2024 eine halbe Billion Euro ​Die Krankheitskosten in Deutschland sind im Jahr 2024 auf mehr als 528 Milliarden Euro gestiegen.\nKrankheitskosten in Deutschland über halbe Billion Euro Im Jahr 2024 beliefen sich Krankheitskosten in Deutschland auf 528,5 Milliarden Euro. Besonders große Unterschiede gibt es vor allem zwischen den Geschlechtern und im Alter.\nStatistisches Bundesamt: Krankheitskosten in Deutschland weiter gestiegen Die direkten Kosten für Krankheiten und Gesundheitsprobleme sind in Deutschland im Jahr 2024 um mehr als 7,6 Prozent gestiegen. Laut Statistischem Bundesamt lagen sie damit erstmals über einer halben Billion Euro."
-  },
-  {
-    "id": "story-67",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-08T21:22:34.000Z",
-    "sources": [
-      {
-        "source": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/politik/ausland/2026-10/gerhard-schroeder-wladimir-putin-moskau-hyperglobus",
-        "date": "2026-10-08T21:22:34.000Z",
-        "snippet": "Laut russischen Angaben hat der frühere Bundeskanzler an Putins Geburtstagsfeier teilgenommen. Wegen seiner Russlandbeziehungen steht Schröder seit Jahren in der Kritik.",
-        "title": "Russland: Gerhard Schröder trifft Wladimir Putin an dessen Geburtstag in Moskau"
-      },
-      {
-        "source": "Rheinische Post",
-        "url": "https://rp-online.de/politik/ausland/gerhard-schroeder-feiert-geburtstag-mit-kremlchef-putin_aid-156218235",
-        "date": "2026-10-08T19:58:00.000Z",
-        "snippet": "Schon lange steht Ex-Bundeskanzler Gerhard Schröder wegen seiner Russlandbeziehungen in der Kritik. Nach einem neuen Job in Russland erhält er bei einer Reise in Moskau noch eine besondere Einladung.",
-        "title": "Nach Angaben des Kreml: Altkanzler Schröder feierte mit Putin Geburtstag in Moskau"
-      },
-      {
-        "source": "RND",
-        "url": "https://www.rnd.de/politik/altkanzler-schroeder-bei-putin-geburtstag-praesident-lud-seinen-alten-freund-ein-OXDZP2BBS5HQRN4EZMQPZUREGY.html",
-        "date": "2026-10-08T19:17:38.000Z",
-        "snippet": "Schon lange steht Ex-Bundeskanzler Gerhard Schröder wegen seiner Russlandbeziehungen in der Kritik. Nach einem neuen Job in Russland erhält er bei einer Reise in Moskau noch eine besondere Einladung.",
-        "title": "Altkanzler Schröder bei Putin-Geburtstag: „Präsident lud seinen alten Freund ein“"
-      }
-    ],
-    "title": "Russland: Gerhard Schröder trifft Wladimir Putin an dessen Geburtstag in Moskau",
-    "summary": "Russland: Gerhard Schröder trifft Wladimir Putin an dessen Geburtstag in Moskau Laut russischen Angaben hat der frühere Bundeskanzler an Putins Geburtstagsfeier teilgenommen. Wegen seiner Russlandbeziehungen steht Schröder seit Jahren in der Kritik.\nNach Angaben des Kreml: Altkanzler Schröder feierte mit Putin Geburtstag in Moskau Schon lange steht Ex-Bundeskanzler Gerhard Schröder wegen seiner Russlandbeziehungen in der Kritik. Nach einem neuen Job in Russland erhält er bei einer Reise in Moskau noch eine besondere Einladung.\nAltkanzler Schröder bei Putin-Geburtstag: „Präsident lud seinen alten Freund ein“ Schon lange steht Ex-Bundeskanzler Gerhard Schröder wegen seiner Russlandbeziehungen in der Kritik. Nach einem neuen Job in Russland erhält er bei einer Reise in Moskau noch eine besondere Einladung."
-  },
-  {
-    "id": "story-119",
+    "id": "story-228",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "BE",
@@ -135,7 +78,7 @@
     "summary": "Döner aus Wachs bei Madame Tussauds in Berlin Das Wachsfigurenkabinett Madame Tussauds in Berlin stellte eine Döner-Skulptur vor. Die Vorlage für das Gericht aus Wachs lieferte ein bekannter Döner-Imbiss in der Stadt.\nBerlin: Madame Tussauds stellt ersten Döner aus Wachs vor – für 10.000 Euro Ein Döner zum Anfassen: Das Wachsfigurenkabinett Madame Tussauds enthüllt nicht nur den ersten Döner aus Wachs, sondern wohl auch den teuersten.\nWachsfigurenkabinett: Madame Tussauds stellt Döner aus Wachs vor Wachsfigurenkabinett: Madame Tussauds stellt Döner aus Wachs vor"
   },
   {
-    "id": "story-283",
+    "id": "story-373",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "NI",
@@ -167,16 +110,73 @@
     "summary": "Weitere Ermittlungen im Fall Lehrte - nun gegen Adis Ahmetovic Nach Politze und Krach ermittelt die Staatsanwaltschaft gegen den dritten SPD-Politiker, offenbar bezüglich des Klinik-Verkaufs.\nWeitere Ermittlungen im Fall Lehrte gegen SPD-Politiker Im Zusammenhang mit dem Verkauf des Klinikums Lehrte, steht nun auch Hannovers SPD‑Chef Adis Ahmetovic im Visier. Sophie Mühlmann mit Details.\nNach Krach und Politze: Ermittlungen auch gegen Adis Ahmetovic - NDR.de <a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSnptUDZhWXNXYjExdzY2WDBZanFGUVBUelJCYXhEalQwd1JWVDBwN3BUZzBIOXlwUDZ3OUhxOGJCWG9xWkNHdXVLYjlFdGN3ZWIyQ1luQzd4b29Ec0Rac0ljakxEemNBcVM1THpEeUlUeDc5dk9Na3NSNjVlSE9oY2tndkMyVFpNY2RLRFZIaE9GT1l3b0Y2TEU4MC02dkFCdURqRU9TQlNLSGNQUDZaVjNSMVlkbFM1Xy1aTFJ3SnJ0aGZIeVd6el9ZTkIwQmxTbXZGdTFZYV8xZVhXSnR2Y2wzanlqdw?oc=5\" target=\"_blank\">Nach Krach und Politze: Ermittlungen auch gegen Adis Ahmetovic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDR.de</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pfb1lDTkVoR3gxbW1zaVptdmdDZ0FQAQ?hl=de&gl=DE&ceid=DE:de&oc=5\" target=\"_blank\">Weitere Schlagzeilen und Meinun"
   },
   {
-    "id": "story-30",
+    "id": "story-513",
+    "topic": "panorama",
+    "country": "INT",
+    "stateHint": "",
+    "date": "2026-10-08T17:12:57.000Z",
+    "sources": [
+      {
+        "source": "France24 English",
+        "url": "https://www.france24.com/en/video/20261008-canadian-poet-and-essayist-anne-carson-wins-nobel-prize-in-literature",
+        "date": "2026-10-08T17:12:57.000Z",
+        "snippet": "Canadian poet, essayist and translator Anne Carson won the Nobel Prize in literature Thursday for playful, genre-blending works that fuse the classical and the modern. The Toronto-born Carson, 76, draws on themes and stories from ancient Greek and Roman literature for writing that often blends elements of poetry, essay and fiction.",
+        "title": "Canadian poet and essayist Anne Carson wins Nobel Prize in literature"
+      },
+      {
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-08T14:33:23.000Z",
+        "snippet": "Carson, 76, is celebrated for works that often cross boundaries between poetry, fiction and scholarship.",
+        "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize"
+      },
+      {
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SQjd5WW5lcEpOSVRTUlR0T3liS3BfU2lXNDk5YVNyOHRKaTVfckxiMVl1elBXTDVYbHVpM21abEd3cXN2bEZoU3RVazlDM21vLVNzZklta0cxcVE?oc=5",
+        "date": "2026-10-08T14:33:23.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SQjd5WW5lcEpOSVRTUlR0T3liS3BfU2lXNDk5YVNyOHRKaTVfckxiMVl1elBXTDVYbHVpM21abEd3cXN2bEZoU3RVazlDM21vLVNzZklta0cxcVE?oc=5\" target=\"_blank\">'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+        "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize - BBC"
+      }
+    ],
+    "title": "Canadian poet and essayist Anne Carson wins Nobel Prize in literature",
+    "summary": "Canadian poet and essayist Anne Carson wins Nobel Prize in literature Canadian poet, essayist and translator Anne Carson won the Nobel Prize in literature Thursday for playful, genre-blending works that fuse the classical and the modern. The Toronto-born Carson, 76, draws on themes and stories from ancient Greek and Roman literature for writing that often blends elements of poetry, essay and fiction.\n'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize Carson, 76, is celebrated for works that often cross boundaries between poetry, fiction and scholarship.\n'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize - BBC <a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SQjd5WW5lcEpOSVRTUlR0T3liS3BfU2lXNDk5YVNyOHRKaTVfckxiMVl1elBXTDVYbHVpM21abEd3cXN2bEZoU3RVazlDM21vLVNzZklta0cxcVE?oc=5\" target=\"_blank\">'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>"
+  },
+  {
+    "id": "story-4",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "",
-    "date": "2026-10-08T21:32:03.000Z",
+    "date": "2026-10-09T01:23:40.000Z",
+    "sources": [
+      {
+        "source": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-10/08/anwohner-sollen-nach-schussgeraeuschen-in-haeusern-bleiben",
+        "date": "2026-10-09T01:23:40.000Z",
+        "snippet": "",
+        "title": "Berngau in der Oberpfalz: Festnahme nach tödlichen Schüssen bei Waffenkontrolle"
+      },
+      {
+        "source": "RND",
+        "url": "https://www.rnd.de/panorama/berngau-festnahme-nach-toedlichen-schuessen-bei-waffenkontrolle-in-der-oberpfalz-HM7CMTFG5ZA2TDWUR7JLIZ2G4U.html",
+        "date": "2026-10-09T01:10:58.000Z",
+        "snippet": "Bei einer Waffenkontrolle in Berngau in der Oberpfalz sind zwei Mitarbeiter des Landratsamtes erschossen worden. Der mutmaßliche Schütze verschanzt sich in einem Haus, in der Nacht erfolgt der Zugriff.",
+        "title": "Berngau: Festnahme nach tödlichen Schüssen bei Waffenkontrolle in der Oberpfalz"
+      }
+    ],
+    "title": "Berngau in der Oberpfalz: Festnahme nach tödlichen Schüssen bei Waffenkontrolle",
+    "summary": "Berngau in der Oberpfalz: Festnahme nach tödlichen Schüssen bei Waffenkontrolle \nBerngau: Festnahme nach tödlichen Schüssen bei Waffenkontrolle in der Oberpfalz Bei einer Waffenkontrolle in Berngau in der Oberpfalz sind zwei Mitarbeiter des Landratsamtes erschossen worden. Der mutmaßliche Schütze verschanzt sich in einem Haus, in der Nacht erfolgt der Zugriff."
+  },
+  {
+    "id": "story-27",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-09T01:07:06.000Z",
     "sources": [
       {
         "source": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/strafrechtliche-ermittlungen-niedersachsens-spd-fraktionschef-politze-tritt-zurueck-102.html",
-        "date": "2026-10-08T21:32:03.000Z",
+        "url": "https://www.deutschlandfunk.de/strafrechtliche-ermittlungen-niedersachsens-spd-fraktionschef-politze-tritt-zurueck-106.html",
+        "date": "2026-10-09T01:07:06.000Z",
         "snippet": "Der Vorsitzende der SPD-Fraktion im niedersächsischen Landtag, Politze, hat seinen Rücktritt erklärt.",
         "title": "Niedersachsen - Strafrechtliche Ermittlungen: Niedersachsens SPD-Fraktionschef Politze tritt zurück"
       },
@@ -192,157 +192,332 @@
     "summary": "Niedersachsen - Strafrechtliche Ermittlungen: Niedersachsens SPD-Fraktionschef Politze tritt zurück Der Vorsitzende der SPD-Fraktion im niedersächsischen Landtag, Politze, hat seinen Rücktritt erklärt.\nNiedersachsen: SPD-Fraktionschef Stefan Politze tritt zurück - strafrechtliche Ermittlungen Der Vorsitzende der niedersächsischen SPD-Landtagsfraktion tritt zurück. Diesen Schritt habe Stefan Politze in einer außerordentlichen Sitzung am Abend angekündigt, teilte die SPD-Fraktion mit."
   },
   {
-    "id": "story-33",
+    "id": "story-28",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "",
-    "date": "2026-10-08T21:32:03.000Z",
+    "date": "2026-10-09T01:07:06.000Z",
     "sources": [
       {
         "source": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/polizei-nimmt-zwei-maenner-aus-lettland-auf-luftwaffenstuetzpunkt-fest-102.html",
-        "date": "2026-10-08T21:32:03.000Z",
-        "snippet": "Die britische Polizei hat auf einem Luftwaffenstützpunkt in Südostengland zwei Männer aus Lettland festgenommen.",
-        "title": "Großbritannien - Polizei nimmt zwei Männer aus Lettland auf Luftwaffenstützpunkt fest"
+        "url": "https://www.deutschlandfunk.de/zwei-behoerdenmitarbeiter-bei-waffenkontrolle-in-der-oberpfalz-erschossen-102.html",
+        "date": "2026-10-09T01:07:06.000Z",
+        "snippet": "Bei einer Waffenkontrolle in der Oberpfalz sind zwei Bedienstete des Landratsamtes Neumarkt erschossen worden.",
+        "title": "Kriminalität - Zwei Behördenmitarbeiter bei Waffenkontrolle in der Oberpfalz erschossen"
+      },
+      {
+        "source": "Süddeutsche Zeitung",
+        "url": "https://www.sueddeutsche.de/bayern/oberpfalz-berngau-schuesse-polizei-verletzte-li.3560697",
+        "date": "2026-10-08T22:10:59.000Z",
+        "snippet": "Ein Routineeinsatz in Berngau endet tödlich: Bei einer Waffenkontrolle werden zwei Behördenmitarbeiter erschossen. Der mutmaßliche Schütze verschanzt sich seitdem vor der Polizei.",
+        "title": "Schüsse in der Oberpfalz: Zwei Behördenmitarbeiter bei Waffenkontrolle erschossen"
+      }
+    ],
+    "title": "Kriminalität - Zwei Behördenmitarbeiter bei Waffenkontrolle in der Oberpfalz erschossen",
+    "summary": "Kriminalität - Zwei Behördenmitarbeiter bei Waffenkontrolle in der Oberpfalz erschossen Bei einer Waffenkontrolle in der Oberpfalz sind zwei Bedienstete des Landratsamtes Neumarkt erschossen worden.\nSchüsse in der Oberpfalz: Zwei Behördenmitarbeiter bei Waffenkontrolle erschossen Ein Routineeinsatz in Berngau endet tödlich: Bei einer Waffenkontrolle werden zwei Behördenmitarbeiter erschossen. Der mutmaßliche Schütze verschanzt sich seitdem vor der Polizei."
+  },
+  {
+    "id": "story-41",
+    "topic": "panorama",
+    "country": "INT",
+    "stateHint": "",
+    "date": "2026-10-09T00:57:45.000Z",
+    "sources": [
+      {
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/uss-abraham-lincoln-returns-after-record-breaking-deployment?traffic_source=rss",
+        "date": "2026-10-09T00:57:45.000Z",
+        "snippet": "Families embraced their loved ones as the USS Abraham Lincoln returned home to San Diego after more than 300 days at sea",
+        "title": "USS Abraham Lincoln returns after record-breaking deployment"
+      },
+      {
+        "source": "Euronews",
+        "url": "https://www.euronews.com/2026/10/08/us-aircraft-carrier-abraham-lincoln-returns-to-san-diego-after-record-deployment",
+        "date": "2026-10-08T20:32:03.000Z",
+        "snippet": "After more than 10 months at sea, the Lincoln made a stop in Thailand last month on its way back from the Middle East.",
+        "title": "US aircraft carrier Abraham Lincoln returns to San Diego after record deployment"
+      }
+    ],
+    "title": "USS Abraham Lincoln returns after record-breaking deployment",
+    "summary": "USS Abraham Lincoln returns after record-breaking deployment Families embraced their loved ones as the USS Abraham Lincoln returned home to San Diego after more than 300 days at sea\nUS aircraft carrier Abraham Lincoln returns to San Diego after record deployment After more than 10 months at sea, the Lincoln made a stop in Thailand last month on its way back from the Middle East."
+  },
+  {
+    "id": "story-44",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-09T00:50:52.000Z",
+    "sources": [
+      {
+        "source": "RND",
+        "url": "https://www.rnd.de/promis/taylor-swift-hat-oscar-ambitionen-und-tritt-bei-gala-im-academy-museum-auf-FVTX2I5L3RGFNFMNX3JR3MO6PY.html",
+        "date": "2026-10-09T00:50:52.000Z",
+        "snippet": "Ein Oscar fehlt noch in der Trophäen-Sammlung von Taylor Swift. Der Star, der für den Pixar-Film „Toy Story 5“ einen Song beisteuerte, wird bei der jährlichen Gala des Academy Museums auftreten.",
+        "title": "Taylor Swift hat Oscar-Ambitionen und tritt bei Gala im Academy Museum auf"
+      },
+      {
+        "source": "stern",
+        "url": "https://www.stern.de/kultur/film/grosser-auftritt--oscar-ambitionen--swift-tritt-bei-academy-museum-gala-auf-38369784.html",
+        "date": "2026-10-08T22:15:04.000Z",
+        "snippet": "Ein Oscar fehlt noch in der Trophäen-Sammlung von Taylor Swift. Der Star, der für den Pixar-Film „Toy Story 5“ einen Song beisteuerte, wird bei der jährlichen Gala des Academy Museums auftreten.",
+        "title": "Großer Auftritt: Oscar-Ambitionen? Swift tritt bei Academy-Museum-Gala auf"
+      }
+    ],
+    "title": "Taylor Swift hat Oscar-Ambitionen und tritt bei Gala im Academy Museum auf",
+    "summary": "Taylor Swift hat Oscar-Ambitionen und tritt bei Gala im Academy Museum auf Ein Oscar fehlt noch in der Trophäen-Sammlung von Taylor Swift. Der Star, der für den Pixar-Film „Toy Story 5“ einen Song beisteuerte, wird bei der jährlichen Gala des Academy Museums auftreten.\nGroßer Auftritt: Oscar-Ambitionen? Swift tritt bei Academy-Museum-Gala auf Ein Oscar fehlt noch in der Trophäen-Sammlung von Taylor Swift. Der Star, der für den Pixar-Film „Toy Story 5“ einen Song beisteuerte, wird bei der jährlichen Gala des Academy Museums auftreten."
+  },
+  {
+    "id": "story-60",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-09T00:13:51.000Z",
+    "sources": [
+      {
+        "source": "t-online Nachrichten",
+        "url": "https://www.t-online.de/nachrichten/ausland/id_101473108/nato-kuendigt-atomwaffen-uebung-an.html",
+        "date": "2026-10-09T00:13:51.000Z",
+        "snippet": "In Italien trainiert die Nato ab Dienstag für das Szenerio eines Atomkriegs. Es geht um glaubwürdige Abschreckung – vor allem wohl in eine Richtung.",
+        "title": "Nato kündigt Atomwaffen-Übung an"
       },
       {
         "source": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/ausland/cambridgeshire-britische-polizei-nimmt-zwei-maenner-an-luftwaffenstuetzpunkt-fest-a-9f936f63-1fc4-4ed3-86dc-cff243c9acdf#ref=rss",
-        "date": "2026-10-08T16:02:00.000Z",
-        "snippet": "Wegen des Sicherheitsvorfalls am Luftwaffenstützpunkt Fairford ziehen die USA überhastet ihre Bomber ab. Nun sorgt der nächste Polizeieinsatz für Besorgnis.",
-        "title": "Cambridgeshire: Britische Polizei nimmt zwei Männer an Luftwaffenstützpunkt fest"
+        "url": "https://www.spiegel.de/ausland/nato-kuendigt-atomwaffen-uebung-an-bundeswehr-nimmt-teil-a-85a6557f-06ed-4ff5-a3ae-e9648bc2e7f3#ref=rss",
+        "date": "2026-10-08T18:16:00.000Z",
+        "snippet": "An der Übung »Steadfast Noon« werden sich Streitkräfte aus 17 Ländern beteiligen, darunter auch Deutschland. Am Dienstag startet die Nato ihre jährliche Atomwaffenübung.",
+        "title": "Nato kündigt Atomwaffen-Übung an, Bundeswehr nimmt teil"
       }
     ],
-    "title": "Großbritannien - Polizei nimmt zwei Männer aus Lettland auf Luftwaffenstützpunkt fest",
-    "summary": "Großbritannien - Polizei nimmt zwei Männer aus Lettland auf Luftwaffenstützpunkt fest Die britische Polizei hat auf einem Luftwaffenstützpunkt in Südostengland zwei Männer aus Lettland festgenommen.\nCambridgeshire: Britische Polizei nimmt zwei Männer an Luftwaffenstützpunkt fest Wegen des Sicherheitsvorfalls am Luftwaffenstützpunkt Fairford ziehen die USA überhastet ihre Bomber ab. Nun sorgt der nächste Polizeieinsatz für Besorgnis."
+    "title": "Nato kündigt Atomwaffen-Übung an",
+    "summary": "Nato kündigt Atomwaffen-Übung an In Italien trainiert die Nato ab Dienstag für das Szenerio eines Atomkriegs. Es geht um glaubwürdige Abschreckung – vor allem wohl in eine Richtung.\nNato kündigt Atomwaffen-Übung an, Bundeswehr nimmt teil An der Übung »Steadfast Noon« werden sich Streitkräfte aus 17 Ländern beteiligen, darunter auch Deutschland. Am Dienstag startet die Nato ihre jährliche Atomwaffenübung."
   },
   {
-    "id": "story-43",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "SN",
-    "date": "2026-10-08T21:32:03.000Z",
-    "sources": [
-      {
-        "source": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/russischer-journalist-dobrokhotov-bekommt-medienpreis-102.html",
-        "date": "2026-10-08T21:32:03.000Z",
-        "snippet": "Der russische Investigativjournalist Roman Dobrokhotov ist mit dem diesjährigen Leipziger \"Preis für die Freiheit und Zukunft der Medien\" geehrt worden.",
-        "title": "Leipzig - Russischer Journalist Dobrokhotov bekommt Medienpreis"
-      },
-      {
-        "source": "Tagesschau Regional Sachsen",
-        "url": "https://www.tagesschau.de/inland/regional/sachsen/roman-dobrokhotov-medienstiftung-sparkasse-leipzig-,medienpreis-akt-100.html",
-        "date": "2026-10-08T20:35:59.000Z",
-        "snippet": "Der russische Journalist Roman Dobrokhotov ist in Leipzig mit dem \"Preis für die Freiheit und Zukunft der Medien\" ausgezeichnet worden. Er gilt in seiner Heimat als \"ausländischer Agent\".",
-        "title": "Russischer Investigativjournalist Roman Dobrokhotov erhält Leipziger Medienpreis"
-      }
-    ],
-    "title": "Leipzig - Russischer Journalist Dobrokhotov bekommt Medienpreis",
-    "summary": "Leipzig - Russischer Journalist Dobrokhotov bekommt Medienpreis Der russische Investigativjournalist Roman Dobrokhotov ist mit dem diesjährigen Leipziger \"Preis für die Freiheit und Zukunft der Medien\" geehrt worden.\nRussischer Investigativjournalist Roman Dobrokhotov erhält Leipziger Medienpreis Der russische Journalist Roman Dobrokhotov ist in Leipzig mit dem \"Preis für die Freiheit und Zukunft der Medien\" ausgezeichnet worden. Er gilt in seiner Heimat als \"ausländischer Agent\"."
-  },
-  {
-    "id": "story-45",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-08T21:32:03.000Z",
-    "sources": [
-      {
-        "source": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/cdu-staatssekretaerin-gueler-geht-von-cdu-stimmen-fuer-afd-landtagspraesidenten-aus-merz-haelt-false-100.html",
-        "date": "2026-10-08T21:32:03.000Z",
-        "snippet": "Nach der Wahl des AfD-Politikers Rausch zum Präsidenten des Landtags in Sachsen-Anhalt hat Bundeskanzler Merz angedeutet, dass dieser auch von SPD, Grünen oder der Linken Stimmen erhalten haben könnte. Dass CDU-Abgeordnete für Rausch gestimmt haben könnten, nannte Merz mit den Werten der CDU nicht vereinbar. Rausch selbst geht von Stimmen aus der CDU aus.",
-        "title": "Sachsen-Anhalt - CDU-Staatssekretärin Güler geht von CDU-Stimmen für AfD-Landtagspräsidenten aus - Merz hält \"False-Flag\"-Aktion für möglich"
-      },
-      {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYWNKdWZ6YmJJdEd4bG5uS2VxLS1qRkhQOFZMS0lTMmt4VTdvZUZNTHc5c0lmelJON0ppSmoyc0I3eVRJTU0yaUR2dktxRmYyOVZmdEtJY1RVNVZTNWhuNXpMN3VibzAtQWJLVTAtVUktQktLWlVnT2FEOVpOZ3lTQzVQWms3dlBFRUtQOG9HQVhrQ2FMN1VFeFVxMERsckQtcEhxcGVHZzEwbjBJeDUtWHBtSVJzcHFjU3BYdl9TZExKWkRIM0l6WWt3WWdWVHFncS1FRXFlUQ?oc=5",
-        "date": "2026-10-08T21:11:37.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYWNKdWZ6YmJJdEd4bG5uS2VxLS1qRkhQOFZMS0lTMmt4VTdvZUZNTHc5c0lmelJON0ppSmoyc0I3eVRJTU0yaUR2dktxRmYyOVZmdEtJY1RVNVZTNWhuNXpMN3VibzAtQWJLVTAtVUktQktLWlVnT2FEOVpOZ3lTQzVQWms3dlBFRUtQOG9HQVhrQ2FMN1VFeFVxMERsckQtcEhxcGVHZzEwbjBJeDUtWHBtSVJzcHFjU3BYdl9TZExKWkRIM0l6WWt3WWdWVHFncS1FRXFlUQ?oc=5\" target=\"_blank\">Sachsen-Anhalt - CDU-Staatssekretärin Güler geht von CDU-Stimmen für AfD-Landtagspräsidenten aus - Merz hält \"False-Flag\"-Aktion für möglich</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deutschlandfunk</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVzFkME5kaWp6d2JsU0hUTHlhUU9KczRBY1pFektNSFg0UHhiVVhPSTNGbH",
-        "title": "Sachsen-Anhalt - CDU-Staatssekretärin Güler geht von CDU-Stimmen für AfD-Landtagspräsidenten aus - Merz hält \"False-Flag\"-Aktion für möglich - Deutschlandfunk"
-      }
-    ],
-    "title": "Sachsen-Anhalt - CDU-Staatssekretärin Güler geht von CDU-Stimmen für AfD-Landtagspräsidenten aus - Merz hält \"False-Flag\"-Aktion für möglich",
-    "summary": "Sachsen-Anhalt - CDU-Staatssekretärin Güler geht von CDU-Stimmen für AfD-Landtagspräsidenten aus - Merz hält \"False-Flag\"-Aktion für möglich Nach der Wahl des AfD-Politikers Rausch zum Präsidenten des Landtags in Sachsen-Anhalt hat Bundeskanzler Merz angedeutet, dass dieser auch von SPD, Grünen oder der Linken Stimmen erhalten haben könnte. Dass CDU-Abgeordnete für Rausch gestimmt haben könnten, nannte Merz mit den Werten der CDU nicht vereinbar. Rausch selbst geht von Stimmen aus der CDU aus.\nSachsen-Anhalt - CDU-Staatssekretärin Güler geht von CDU-Stimmen für AfD-Landtagspräsidenten aus - Merz hält \"False-Flag\"-Aktion für möglich - Deutschlandfunk <ol><li><a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYWNKdWZ6YmJJdEd4bG5uS2VxLS1qRkhQOFZMS0lTMmt4VTdvZUZNTHc5c0lmelJON0ppSmoyc0I3eVRJTU0yaUR2dktxRmYyOVZmdEtJY1RVNVZTNWhuNXpMN3VibzAtQWJLVTAtVUktQktLWlVnT2FEOVpOZ3lTQzVQWms3dlBFRUtQOG9HQVhrQ2FMN1VFeFVxMERsckQtcEhxcGVHZzEwbjBJeDUtWHBtSVJzcHFjU3BYdl9TZExKWkRIM0l6WWt3WWdWVHFncS1FRXFlUQ?oc=5\" target=\"_blank\">Sachsen-Anhalt - CDU-Staatssekretärin Güler geht von CDU-Stimmen für AfD-Landtagspräsidenten aus - Merz hält \"False-Flag\"-Aktion für möglich</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deutschlandfunk</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVzFkME5kaWp6d2JsU0hUTHlhUU9KczRBY1pFektNSFg0UHhiVVhPSTNGbH"
-  },
-  {
-    "id": "story-51",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-08T21:32:03.000Z",
-    "sources": [
-      {
-        "source": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/italiens-parlament-billigt-umstrittene-wahlrechtsreform-102.html",
-        "date": "2026-10-08T21:32:03.000Z",
-        "snippet": "In Italien hat das Parlament ungeachtet der Kritik aus der Opposition die Wahlrechtsreform der Meloni-Regierung gebilligt.",
-        "title": "Projekt der Meloni-Regierung - Italiens Parlament billigt umstrittene Wahlrechtsreform"
-      },
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/europa/meloni-wahlrechtsreform-100.html",
-        "date": "2026-10-08T13:47:19.000Z",
-        "snippet": "Die umstrittene Wahlrechtsreform von Italiens Ministerpräsidentin Meloni ist endgültig verabschiedet worden. Die Opposition wirft der Regierung vor, damit ihre Macht sichern zu wollen. Zudem gibt es verfassungsrechtliche Bedenken.",
-        "title": "Italiens Parlament billigt umstrittene Wahlrechtsreform von Meloni"
-      }
-    ],
-    "title": "Projekt der Meloni-Regierung - Italiens Parlament billigt umstrittene Wahlrechtsreform",
-    "summary": "Projekt der Meloni-Regierung - Italiens Parlament billigt umstrittene Wahlrechtsreform In Italien hat das Parlament ungeachtet der Kritik aus der Opposition die Wahlrechtsreform der Meloni-Regierung gebilligt.\nItaliens Parlament billigt umstrittene Wahlrechtsreform von Meloni Die umstrittene Wahlrechtsreform von Italiens Ministerpräsidentin Meloni ist endgültig verabschiedet worden. Die Opposition wirft der Regierung vor, damit ihre Macht sichern zu wollen. Zudem gibt es verfassungsrechtliche Bedenken."
-  },
-  {
-    "id": "story-66",
+    "id": "story-61",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "",
-    "date": "2026-10-08T21:23:54.000Z",
+    "date": "2026-10-09T00:13:39.000Z",
+    "sources": [
+      {
+        "source": "RND",
+        "url": "https://www.rnd.de/medien/nanny-fran-drescher-mischt-deutsche-serie-die-zweiflers-auf-L5HW3DUSFRAA3PGCII3HHY5DLM.html",
+        "date": "2026-10-09T00:13:39.000Z",
+        "snippet": "Mit der US-Sitcom „Die Nanny“ wurde Fran Drescher bekannt. Nun gibt es eine ARD-Überraschung: Die Macher der preisgekrönten TV-Serie „Die Zweiflers“ gewinnen den Weltstar für ihre zweite Staffel.",
+        "title": "„Nanny“ Fran Drescher mischt deutsche Serie „Die Zweiflers“ auf"
+      },
+      {
+        "source": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-10/09/nanny-fran-drescher-mischt-deutsche-serie-auf",
+        "date": "2026-10-08T23:22:37.000Z",
+        "snippet": "",
+        "title": "Frankfurt-Serie mit US-Star: «Nanny» Fran Drescher mischt deutsche Serie auf"
+      }
+    ],
+    "title": "„Nanny“ Fran Drescher mischt deutsche Serie „Die Zweiflers“ auf",
+    "summary": "„Nanny“ Fran Drescher mischt deutsche Serie „Die Zweiflers“ auf Mit der US-Sitcom „Die Nanny“ wurde Fran Drescher bekannt. Nun gibt es eine ARD-Überraschung: Die Macher der preisgekrönten TV-Serie „Die Zweiflers“ gewinnen den Weltstar für ihre zweite Staffel.\nFrankfurt-Serie mit US-Star: «Nanny» Fran Drescher mischt deutsche Serie auf "
+  },
+  {
+    "id": "story-67",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-09T00:05:00.000Z",
     "sources": [
       {
         "source": "Frankfurter Allgemeine",
-        "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/waffenkontrolle-in-der-oberpfalz-behoerdenmitarbeiter-erschossen-201300625.html",
-        "date": "2026-10-08T21:23:54.000Z",
+        "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/oberpfalz-zwei-todesopfer-nach-schuessen-bei-waffenkontrolle-201300625.html",
+        "date": "2026-10-09T00:05:00.000Z",
         "snippet": "In der Oberpfalz eskaliert eine Routinekontrolle. Zwei Mitarbeiter des Landratsamtes kommen dabei ums Leben, der mutmaßliche Schütze verschanzt sich in einem Wohnhaus.",
         "title": "In Berngau: Zwei Todesopfer nach Schüssen bei Waffenkontrolle"
       },
       {
-        "source": "RND",
-        "url": "https://www.rnd.de/panorama/grosseinsatz-in-berngau-zweiter-behoerdenmitarbeiter-bei-waffenkontrolle-erschossen-HM7CMTFG5ZA2TDWUR7JLIZ2G4U.html",
-        "date": "2026-10-08T21:17:16.000Z",
-        "snippet": "Bei einer Waffenkontrolle in Berngau in der Oberpfalz sind zwei Mitarbeiter des Landratsamtes erschossen worden. Der mutmaßliche Schütze verschanzt sich in einem Haus, SEK und Polizei sind im Einsatz.",
-        "title": "Großeinsatz in Berngau: Zweiter Behördenmitarbeiter bei Waffenkontrolle erschossen"
+        "source": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/gesellschaft/2026-10/oberpfalz-schuesse-waffenkontrolle-polizei-tote",
+        "date": "2026-10-08T22:10:20.000Z",
+        "snippet": "Bei einer Routinekontrolle im Wohnhaus eines Waffenbesitzers sind zwei Behördenmitarbeiter getötet worden. Der mutmaßliche Schütze verschanzt sich weiter im Haus.",
+        "title": "Oberpfalz: Zweites Todesopfer nach Schüssen bei Waffenkontrolle"
       }
     ],
     "title": "In Berngau: Zwei Todesopfer nach Schüssen bei Waffenkontrolle",
-    "summary": "In Berngau: Zwei Todesopfer nach Schüssen bei Waffenkontrolle In der Oberpfalz eskaliert eine Routinekontrolle. Zwei Mitarbeiter des Landratsamtes kommen dabei ums Leben, der mutmaßliche Schütze verschanzt sich in einem Wohnhaus.\nGroßeinsatz in Berngau: Zweiter Behördenmitarbeiter bei Waffenkontrolle erschossen Bei einer Waffenkontrolle in Berngau in der Oberpfalz sind zwei Mitarbeiter des Landratsamtes erschossen worden. Der mutmaßliche Schütze verschanzt sich in einem Haus, SEK und Polizei sind im Einsatz."
+    "summary": "In Berngau: Zwei Todesopfer nach Schüssen bei Waffenkontrolle In der Oberpfalz eskaliert eine Routinekontrolle. Zwei Mitarbeiter des Landratsamtes kommen dabei ums Leben, der mutmaßliche Schütze verschanzt sich in einem Wohnhaus.\nOberpfalz: Zweites Todesopfer nach Schüssen bei Waffenkontrolle Bei einer Routinekontrolle im Wohnhaus eines Waffenbesitzers sind zwei Behördenmitarbeiter getötet worden. Der mutmaßliche Schütze verschanzt sich weiter im Haus."
   },
   {
-    "id": "story-77",
-    "topic": "politik",
+    "id": "story-98",
+    "topic": "panorama",
     "country": "DE",
     "stateHint": "",
-    "date": "2026-10-08T21:14:00.000Z",
+    "date": "2026-10-08T23:07:32.000Z",
     "sources": [
       {
-        "source": "stern",
-        "url": "https://www.stern.de/politik/ausland/pete-hegseth-plant-oeffentliche-militaerhinrichtung-eines-attentaeters-38369604.html",
-        "date": "2026-10-08T21:14:00.000Z",
-        "snippet": "US-Verteidigungsminister Pete Hegseth will die geplante Erschießung des verurteilten Attentäters Nidal Hasan öffentlich durchführen. Wie das konkret aussehen soll, ist noch unklar.",
-        "title": "USA: Hegseth plant öffentliche Militärhinrichtung eines Attentäters"
+        "source": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/mobilitaet/2026-10/deutsche-bahn-hannover-hamburg-bahntrasse-ausbau",
+        "date": "2026-10-08T23:07:32.000Z",
+        "snippet": "Über eine wichtige Neubaustrecke für die Bahn in Niedersachsen wird seit Jahren gestritten. Der Bundestag hat nun den Weg für weitere Planungen freigemacht.",
+        "title": "Deutsche Bahn: Bundestag ebnet Weg für neue Bahntrasse Hannover–Hamburg"
       },
       {
         "source": "RND",
-        "url": "https://www.rnd.de/politik/usa-hegseth-plant-oeffentliche-erschiessung-von-attentaeter-nidal-hasan-XI2JYWTM6NHHRKNKHZ45UJUSJ4.html",
-        "date": "2026-10-08T21:01:04.000Z",
-        "snippet": "US-Verteidigungsminister Pete Hegseth will die geplante Erschießung des verurteilten Attentäters Nidal Hasan öffentlich durchführen. Wie das ganz konkret aussehen soll, bleibt noch unklar.",
-        "title": "USA: Hegseth plant öffentliche Erschießung von Attentäter Nidal Hasan"
+        "url": "https://www.rnd.de/politik/neue-bahntrasse-hannover-hamburg-bundestag-macht-weg-frei-KP3HOATAKRAKTDNE3OSQ7WYQHE.html",
+        "date": "2026-10-08T22:06:39.000Z",
+        "snippet": "Über eine wichtige Neubaustrecke für die Bahn in Niedersachsen wird seit Jahren gestritten. Der Bundestag ermöglicht nun die weiteren Planungen, will aber auch Verbesserungen an der jetzigen Strecke.",
+        "title": "Neue Bahntrasse Hannover-Hamburg: Bundestag macht Weg frei"
       }
     ],
-    "title": "USA: Hegseth plant öffentliche Militärhinrichtung eines Attentäters",
-    "summary": "USA: Hegseth plant öffentliche Militärhinrichtung eines Attentäters US-Verteidigungsminister Pete Hegseth will die geplante Erschießung des verurteilten Attentäters Nidal Hasan öffentlich durchführen. Wie das konkret aussehen soll, ist noch unklar.\nUSA: Hegseth plant öffentliche Erschießung von Attentäter Nidal Hasan US-Verteidigungsminister Pete Hegseth will die geplante Erschießung des verurteilten Attentäters Nidal Hasan öffentlich durchführen. Wie das ganz konkret aussehen soll, bleibt noch unklar."
+    "title": "Deutsche Bahn: Bundestag ebnet Weg für neue Bahntrasse Hannover–Hamburg",
+    "summary": "Deutsche Bahn: Bundestag ebnet Weg für neue Bahntrasse Hannover–Hamburg Über eine wichtige Neubaustrecke für die Bahn in Niedersachsen wird seit Jahren gestritten. Der Bundestag hat nun den Weg für weitere Planungen freigemacht.\nNeue Bahntrasse Hannover-Hamburg: Bundestag macht Weg frei Über eine wichtige Neubaustrecke für die Bahn in Niedersachsen wird seit Jahren gestritten. Der Bundestag ermöglicht nun die weiteren Planungen, will aber auch Verbesserungen an der jetzigen Strecke."
   },
   {
-    "id": "story-141",
+    "id": "story-113",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "NI",
+    "date": "2026-10-08T22:44:27.000Z",
+    "sources": [
+      {
+        "source": "Tagesschau Regional Niedersachsen",
+        "url": "https://www.tagesschau.de/inland/regional/niedersachsen/neubaustrecke-hamburg-hannover-wichtige-fragen-und-antworten-zu-dem-projekt,neubaustrecke-134.html",
+        "date": "2026-10-08T22:44:27.000Z",
+        "snippet": "Der Bundestag hat den Weg frei gemacht für eine neue Bahntrasse durch Niedersachsen. Was bedeutet das für die Region?",
+        "title": "Neubaustrecke Hamburg-Hannover: Fragen und Antworten zu dem Projekt"
+      },
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPejJWVFUxT01mVUdHZGxneXVSOGkwSVZYTjdHbGY2VnVqb242T1FNZG5BWHpVb3R3X2RranhpaER1d3FUTHFkbHBJWTFVNDZEVG96VXI4MmlRWEc0bHA2eEs4aENrMmUzY0VNTTd1YlVqN2M3SmM5NU5ST2hUQ011ZlVObXAtWERBZnFhTXZFY2tGaFVUaldINkEwUzBvWUFvbFQ3YkRwTS1aMW9ESktZVGRkRW5QWTR2eDY4dENrS01RT3NOQndERXBIMEpCZ3Z4bU1KbGFwV1NfLWJfY2VVSGZJcjJrWThJV2ZfQ2FTX1RCUW51MWZBLUg5WFFldw?oc=5",
+        "date": "2026-10-08T22:44:00.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxPejJWVFUxT01mVUdHZGxneXVSOGkwSVZYTjdHbGY2VnVqb242T1FNZG5BWHpVb3R3X2RranhpaER1d3FUTHFkbHBJWTFVNDZEVG96VXI4MmlRWEc0bHA2eEs4aENrMmUzY0VNTTd1YlVqN2M3SmM5NU5ST2hUQ011ZlVObXAtWERBZnFhTXZFY2tGaFVUaldINkEwUzBvWUFvbFQ3YkRwTS1aMW9ESktZVGRkRW5QWTR2eDY4dENrS01RT3NOQndERXBIMEpCZ3Z4bU1KbGFwV1NfLWJfY2VVSGZJcjJrWThJV2ZfQ2FTX1RCUW51MWZBLUg5WFFldw?oc=5\" target=\"_blank\">Neubaustrecke Hamburg-Hannover: Fragen und Antworten zu dem Projekt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDR.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX09xNjRzMzQwSjkxalpMWERJUGxXQzFIVEFuRWRwR3ZMbVF2XzB2ZXgwcWRtNmNmRFIwSEVJTXpDbkduX3E0djBX",
+        "title": "Neubaustrecke Hamburg-Hannover: Fragen und Antworten zu dem Projekt - NDR.de"
+      }
+    ],
+    "title": "Neubaustrecke Hamburg-Hannover: Fragen und Antworten zu dem Projekt",
+    "summary": "Neubaustrecke Hamburg-Hannover: Fragen und Antworten zu dem Projekt Der Bundestag hat den Weg frei gemacht für eine neue Bahntrasse durch Niedersachsen. Was bedeutet das für die Region?\nNeubaustrecke Hamburg-Hannover: Fragen und Antworten zu dem Projekt - NDR.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxPejJWVFUxT01mVUdHZGxneXVSOGkwSVZYTjdHbGY2VnVqb242T1FNZG5BWHpVb3R3X2RranhpaER1d3FUTHFkbHBJWTFVNDZEVG96VXI4MmlRWEc0bHA2eEs4aENrMmUzY0VNTTd1YlVqN2M3SmM5NU5ST2hUQ011ZlVObXAtWERBZnFhTXZFY2tGaFVUaldINkEwUzBvWUFvbFQ3YkRwTS1aMW9ESktZVGRkRW5QWTR2eDY4dENrS01RT3NOQndERXBIMEpCZ3Z4bU1KbGFwV1NfLWJfY2VVSGZJcjJrWThJV2ZfQ2FTX1RCUW51MWZBLUg5WFFldw?oc=5\" target=\"_blank\">Neubaustrecke Hamburg-Hannover: Fragen und Antworten zu dem Projekt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDR.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX09xNjRzMzQwSjkxalpMWERJUGxXQzFIVEFuRWRwR3ZMbVF2XzB2ZXgwcWRtNmNmRFIwSEVJTXpDbkduX3E0djBX"
+  },
+  {
+    "id": "story-127",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-08T22:30:02.000Z",
+    "sources": [
+      {
+        "source": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/ausland/europa/frankreich-verspricht-dreitausend-vertretungslehrer-100.html",
+        "date": "2026-10-08T22:30:02.000Z",
+        "snippet": "Nach anhaltenden Schulprotesten will Frankreich kurzfristig mehr als 3.000 Vertretungslehrer organisieren. Eine Software solle dabei die Schulen anzeigen, die sich in einer proble…",
+        "title": "Frankreich verspricht Tausende Vertretungslehrer"
+      },
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/europa/frankreich-verspricht-dreitausend-vertretungslehrer-100.html",
+        "date": "2026-10-08T22:08:21.000Z",
+        "snippet": "Nach anhaltenden Schulprotesten will Frankreich kurzfristig mehr als 3.000 Vertretungslehrer organisieren. Eine Software solle dabei die Schulen anzeigen, die sich in einer problematischen Situation befänden, so Bildungsminister Geffray.",
+        "title": "Schülerproteste: Frankreich will kurzfristig 3.000 Vertretungslehrer einsetzen"
+      }
+    ],
+    "title": "Frankreich verspricht Tausende Vertretungslehrer",
+    "summary": "Frankreich verspricht Tausende Vertretungslehrer Nach anhaltenden Schulprotesten will Frankreich kurzfristig mehr als 3.000 Vertretungslehrer organisieren. Eine Software solle dabei die Schulen anzeigen, die sich in einer proble…\nSchülerproteste: Frankreich will kurzfristig 3.000 Vertretungslehrer einsetzen Nach anhaltenden Schulprotesten will Frankreich kurzfristig mehr als 3.000 Vertretungslehrer organisieren. Eine Software solle dabei die Schulen anzeigen, die sich in einer problematischen Situation befänden, so Bildungsminister Geffray."
+  },
+  {
+    "id": "story-140",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-08T22:10:41.000Z",
+    "sources": [
+      {
+        "source": "stern",
+        "url": "https://www.stern.de/news/ukraine-team-zu-gespraech-mit-trump-unterhaendlern-am-freitag-und-samstag-in-den-usa-38369468.html",
+        "date": "2026-10-08T22:10:41.000Z",
+        "snippet": "Neuer Vorstoß in den Bemühungen um ein Ende des Ukraine-Kriegs: Ein ukrainisches Verhandlungsteam soll am Freitag und Samstag in den USA mit den Unterhändlern von US-Präsident Donald Trump zusammentreffen. Die Delegation werde mit Jared Kushner und Steve Witkoff sprechen, sagte der ukrainische Präsident Wolodymyr Selenskyj am Donnerstag vor Journalisten. Die Gespräche sollten zwei Tage dauern. Auch ein europäisches Team solle dazustoßen. US-Beamte bestätigten die Pläne.",
+        "title": "Ukraine-Team zu Gespräch mit Trump-Unterhändlern am Freitag und Samstag in den USA"
+      },
+      {
+        "source": "t-online Nachrichten",
+        "url": "https://www.t-online.de/nachrichten/ukraine/id_101466202/ukraine-krieg-ukraine-team-zu-gespraech-mit-trump-unterhaendlern.html",
+        "date": "2026-10-08T21:29:18.000Z",
+        "snippet": "Der Kremlchef soll Altkanzler Schröder \"zu Hause\" getroffen haben. Kiew hofft weiter auf Friedensgespräche mit Moskau. Alle Entwicklungen im Newsblog.",
+        "title": "Ukraine-Krieg: Ukraine-Team zu Gespräch mit Trump-Unterhändlern"
+      }
+    ],
+    "title": "Ukraine-Team zu Gespräch mit Trump-Unterhändlern am Freitag und Samstag in den USA",
+    "summary": "Ukraine-Team zu Gespräch mit Trump-Unterhändlern am Freitag und Samstag in den USA Neuer Vorstoß in den Bemühungen um ein Ende des Ukraine-Kriegs: Ein ukrainisches Verhandlungsteam soll am Freitag und Samstag in den USA mit den Unterhändlern von US-Präsident Donald Trump zusammentreffen. Die Delegation werde mit Jared Kushner und Steve Witkoff sprechen, sagte der ukrainische Präsident Wolodymyr Selenskyj am Donnerstag vor Journalisten. Die Gespräche sollten zwei Tage dauern. Auch ein europäisches Team solle dazustoßen. US-Beamte bestätigten die Pläne.\nUkraine-Krieg: Ukraine-Team zu Gespräch mit Trump-Unterhändlern Der Kremlchef soll Altkanzler Schröder \"zu Hause\" getroffen haben. Kiew hofft weiter auf Friedensgespräche mit Moskau. Alle Entwicklungen im Newsblog."
+  },
+  {
+    "id": "story-170",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-08T21:40:23.000Z",
+    "sources": [
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaThnLWFOaWF2M0R6SWk2Mk1YbkJDY0Fhcl84TkhkWG9yanE2bjdkcDZWSWJMZ0lraElMelczQlhTVVhwV29wS21wMWxualBGcTRaaUlueWtIRHl0TXZ2dElIN1NUNjNWYWp1WUs4NXVoTzR2MWxkcmd0enJiblVDYmRlZ09Jb2tISkE1MTM4N2ptOHBmMVl5ejh0QkJ3WUZ6Qk5ZSldSRlhnZw?oc=5",
+        "date": "2026-10-08T21:40:23.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaThnLWFOaWF2M0R6SWk2Mk1YbkJDY0Fhcl84TkhkWG9yanE2bjdkcDZWSWJMZ0lraElMelczQlhTVVhwV29wS21wMWxualBGcTRaaUlueWtIRHl0TXZ2dElIN1NUNjNWYWp1WUs4NXVoTzR2MWxkcmd0enJiblVDYmRlZ09Jb2tISkE1MTM4N2ptOHBmMVl5ejh0QkJ3WUZ6Qk5ZSldSRlhnZw?oc=5\" target=\"_blank\">Konzern beklagt Fachkräftemangel: Vance wirft Microsoft den Missbrauch von US-Arbeitsvisa vor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPUy0wTmlLNHJETUFBd2gzT1Y1c3A0dFJqa1dqUTJObnZEU0hOTUFEMlg1VlR0RWs5TlFkMUFGdWFKa3JveUpMcDZDeUdORHBmRWxZbWxIRHRkYW11MHNzTUFnMG1ZT2VxOEJnUmh0OTU2c0kzYktiYmh2ZmhUZnBDQXg2MTFUQUdES",
+        "title": "Konzern beklagt Fachkräftemangel: Vance wirft Microsoft den Missbrauch von US-Arbeitsvisa vor - n-tv.de"
+      },
+      {
+        "source": "ntv",
+        "url": "https://www.n-tv.de/wirtschaft/Vance-wirft-Microsoft-den-Missbrauch-von-US-Arbeitsvisa-vor-id31398533.html",
+        "date": "2026-10-08T21:40:23.000Z",
+        "snippet": "US-Vizepräsident JD Vance kritisiert, dass Microsoft 6000 Amerikaner entlassen und zeitgleich tausende Ausländer eingestellt habe. Auch Elite-Universitäten geraten ins Visier der Trump-Regierung.",
+        "title": "Konzern beklagt Fachkräftemangel: Vance wirft Microsoft den Missbrauch von US-Arbeitsvisa vor"
+      }
+    ],
+    "title": "Konzern beklagt Fachkräftemangel: Vance wirft Microsoft den Missbrauch von US-Arbeitsvisa vor - n-tv.de",
+    "summary": "Konzern beklagt Fachkräftemangel: Vance wirft Microsoft den Missbrauch von US-Arbeitsvisa vor - n-tv.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaThnLWFOaWF2M0R6SWk2Mk1YbkJDY0Fhcl84TkhkWG9yanE2bjdkcDZWSWJMZ0lraElMelczQlhTVVhwV29wS21wMWxualBGcTRaaUlueWtIRHl0TXZ2dElIN1NUNjNWYWp1WUs4NXVoTzR2MWxkcmd0enJiblVDYmRlZ09Jb2tISkE1MTM4N2ptOHBmMVl5ejh0QkJ3WUZ6Qk5ZSldSRlhnZw?oc=5\" target=\"_blank\">Konzern beklagt Fachkräftemangel: Vance wirft Microsoft den Missbrauch von US-Arbeitsvisa vor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPUy0wTmlLNHJETUFBd2gzT1Y1c3A0dFJqa1dqUTJObnZEU0hOTUFEMlg1VlR0RWs5TlFkMUFGdWFKa3JveUpMcDZDeUdORHBmRWxZbWxIRHRkYW11MHNzTUFnMG1ZT2VxOEJnUmh0OTU2c0kzYktiYmh2ZmhUZnBDQXg2MTFUQUdES\nKonzern beklagt Fachkräftemangel: Vance wirft Microsoft den Missbrauch von US-Arbeitsvisa vor US-Vizepräsident JD Vance kritisiert, dass Microsoft 6000 Amerikaner entlassen und zeitgleich tausende Ausländer eingestellt habe. Auch Elite-Universitäten geraten ins Visier der Trump-Regierung."
+  },
+  {
+    "id": "story-180",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-08T21:22:34.000Z",
+    "sources": [
+      {
+        "source": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/politik/ausland/2026-10/gerhard-schroeder-wladimir-putin-moskau-hyperglobus",
+        "date": "2026-10-08T21:22:34.000Z",
+        "snippet": "Laut russischen Angaben hat der frühere Bundeskanzler an Putins Geburtstagsfeier teilgenommen. Wegen seiner Russlandbeziehungen steht Schröder seit Jahren in der Kritik.",
+        "title": "Russland: Gerhard Schröder trifft Wladimir Putin an dessen Geburtstag in Moskau"
+      },
+      {
+        "source": "Rheinische Post",
+        "url": "https://rp-online.de/politik/ausland/gerhard-schroeder-feiert-geburtstag-mit-kremlchef-putin_aid-156218235",
+        "date": "2026-10-08T19:58:00.000Z",
+        "snippet": "Schon lange steht Ex-Bundeskanzler Gerhard Schröder wegen seiner Russlandbeziehungen in der Kritik. Nach einem neuen Job in Russland erhält er bei einer Reise in Moskau noch eine besondere Einladung.",
+        "title": "Nach Angaben des Kreml: Altkanzler Schröder feierte mit Putin Geburtstag in Moskau"
+      }
+    ],
+    "title": "Russland: Gerhard Schröder trifft Wladimir Putin an dessen Geburtstag in Moskau",
+    "summary": "Russland: Gerhard Schröder trifft Wladimir Putin an dessen Geburtstag in Moskau Laut russischen Angaben hat der frühere Bundeskanzler an Putins Geburtstagsfeier teilgenommen. Wegen seiner Russlandbeziehungen steht Schröder seit Jahren in der Kritik.\nNach Angaben des Kreml: Altkanzler Schröder feierte mit Putin Geburtstag in Moskau Schon lange steht Ex-Bundeskanzler Gerhard Schröder wegen seiner Russlandbeziehungen in der Kritik. Nach einem neuen Job in Russland erhält er bei einer Reise in Moskau noch eine besondere Einladung."
+  },
+  {
+    "id": "story-182",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-08T21:19:56.000Z",
+    "sources": [
+      {
+        "source": "t-online Nachrichten",
+        "url": "https://www.t-online.de/nachrichten/ausland/internationale-politik/id_101473222/schroeder-feierte-offenbar-mit-putin-geburtstag.html",
+        "date": "2026-10-08T21:19:56.000Z",
+        "snippet": "Treffen unter \"alten Freunden\": Nach Angaben des Kreml hat Wladimir Putin Altkanzler Gerhard Schröder zu Hause empfangen.",
+        "title": "Schröder feierte offenbar mit Putin Geburtstag"
+      },
+      {
+        "source": "WELT",
+        "url": "https://www.welt.de/politik/article6ac7fb956e0a564ee52e9ba7/in-moskau-putin-laedt-alten-freund-schroeder-zum-geburtstag-ein-kreml-veroeffentlicht-fotos.html",
+        "date": "2026-10-08T20:29:52.000Z",
+        "snippet": "Überraschendes Wiedersehen in Moskau: Wladimir Putin hat Altkanzler Gerhard Schröder an seinem 74. Geburtstag zu sich nach Hause eingeladen. Der Kreml spricht von einem Treffen alter Freunde.",
+        "title": "Putin lädt „alten Freund“ Schröder zum Geburtstag ein – Kreml veröffentlicht Fotos"
+      }
+    ],
+    "title": "Schröder feierte offenbar mit Putin Geburtstag",
+    "summary": "Schröder feierte offenbar mit Putin Geburtstag Treffen unter \"alten Freunden\": Nach Angaben des Kreml hat Wladimir Putin Altkanzler Gerhard Schröder zu Hause empfangen.\nPutin lädt „alten Freund“ Schröder zum Geburtstag ein – Kreml veröffentlicht Fotos Überraschendes Wiedersehen in Moskau: Wladimir Putin hat Altkanzler Gerhard Schröder an seinem 74. Geburtstag zu sich nach Hause eingeladen. Der Kreml spricht von einem Treffen alter Freunde."
+  },
+  {
+    "id": "story-245",
     "topic": "panorama",
     "country": "PT",
     "stateHint": "",
@@ -367,7 +542,32 @@
     "summary": "Verbas para instalações, equipamentos, viaturas e armas da PSP e GNR aumentam 29% A verba destinada à modernização de instalações, equipamentos, viaturas e armas para a PSP e GNR vai aumentar 29% no próximo ano, num montante de 132,8 milhões de euros, segundo a proposta do Orçamento do Estado.\nVerbas para Educação e Ciência aumentam 1,5% para 7,78 mil milhões O Governo quer aumentar as verbas para a área da Educação em 1,5% no próximo ano, segundo a proposta de Orçamento do Estado para 2027, que define uma despesa consolidada de 7787,9 milhões de euros."
   },
   {
-    "id": "story-156",
+    "id": "story-248",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-08T20:19:17.000Z",
+    "sources": [
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMlV3NXhLQVhRdDdlTnZ0N21mWnhlaHNYTmVkVVVWRTY5VGNNbVVrNll2T3FfNWlkalFhdndvZU1oZVJkSFFtNU0zempoWjZ4YkFzWFN3MXV2bzhyenN3cHI1U05neEgycDZFMlo3bTRNU3A2SUVXUTlMX3lpMmpkbjdrUmthUW1zMDJ5aUJ4VUpadkJzV012X1BuQmJvcnppYnc?oc=5",
+        "date": "2026-10-08T20:19:17.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNMlV3NXhLQVhRdDdlTnZ0N21mWnhlaHNYTmVkVVVWRTY5VGNNbVVrNll2T3FfNWlkalFhdndvZU1oZVJkSFFtNU0zempoWjZ4YkFzWFN3MXV2bzhyenN3cHI1U05neEgycDZFMlo3bTRNU3A2SUVXUTlMX3lpMmpkbjdrUmthUW1zMDJ5aUJ4VUpadkJzV012X1BuQmJvcnppYnc?oc=5\" target=\"_blank\">Schülerproteste in Frankreich: Erneut protestieren Zehntausende in Frankreich für bessere Bildung</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DIE ZEIT</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQTFFkZnNpb2lCakxuWmpVVmtZaVFVMXdaSkFyeDVvSmk2ci1Za0plT3BoVzVERVdLdDVqTl8xd0RvYlVPemEwRGdoUWdPTUdadEpZQWYtSmVxNUZIX1dTM2JfMkV3MWs3NEhkZm1oMzRWaVhxeUh5ZFB6Um1OY2hqWDhOUl9ENXRwX0xDeEh",
+        "title": "Schülerproteste in Frankreich: Erneut protestieren Zehntausende in Frankreich für bessere Bildung - DIE ZEIT"
+      },
+      {
+        "source": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/politik/ausland/2026-10/frankreich-schueler-proteste-schulen-polizeigewalt-paris",
+        "date": "2026-10-08T20:19:17.000Z",
+        "snippet": "Die Schulproteste in Frankreich gehen unvermindert weiter – und zeigen Erfolg: Laut Premier Lecornu sollen kurzfristig mehr als 3.000 Vertretungslehrer eingesetzt werden.",
+        "title": "Schülerproteste in Frankreich: Erneut protestieren Zehntausende in Frankreich für bessere Bildung"
+      }
+    ],
+    "title": "Schülerproteste in Frankreich: Erneut protestieren Zehntausende in Frankreich für bessere Bildung - DIE ZEIT",
+    "summary": "Schülerproteste in Frankreich: Erneut protestieren Zehntausende in Frankreich für bessere Bildung - DIE ZEIT <ol><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNMlV3NXhLQVhRdDdlTnZ0N21mWnhlaHNYTmVkVVVWRTY5VGNNbVVrNll2T3FfNWlkalFhdndvZU1oZVJkSFFtNU0zempoWjZ4YkFzWFN3MXV2bzhyenN3cHI1U05neEgycDZFMlo3bTRNU3A2SUVXUTlMX3lpMmpkbjdrUmthUW1zMDJ5aUJ4VUpadkJzV012X1BuQmJvcnppYnc?oc=5\" target=\"_blank\">Schülerproteste in Frankreich: Erneut protestieren Zehntausende in Frankreich für bessere Bildung</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DIE ZEIT</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQTFFkZnNpb2lCakxuWmpVVmtZaVFVMXdaSkFyeDVvSmk2ci1Za0plT3BoVzVERVdLdDVqTl8xd0RvYlVPemEwRGdoUWdPTUdadEpZQWYtSmVxNUZIX1dTM2JfMkV3MWs3NEhkZm1oMzRWaVhxeUh5ZFB6Um1OY2hqWDhOUl9ENXRwX0xDeEh\nSchülerproteste in Frankreich: Erneut protestieren Zehntausende in Frankreich für bessere Bildung Die Schulproteste in Frankreich gehen unvermindert weiter – und zeigen Erfolg: Laut Premier Lecornu sollen kurzfristig mehr als 3.000 Vertretungslehrer eingesetzt werden."
+  },
+  {
+    "id": "story-257",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
@@ -392,7 +592,7 @@
     "summary": "Frankreich setzt kurzfristig 3000 Vertretungslehrer ein Die französische Regierung geht erstmals konkret auf Forderungen der Schülerproteste ein. Die eskalieren derweil erneut, in Saint-Chamond erlitt der Vizerektor einer Schule Verbrennungen im Gesicht durch einen Feuerwerkskörper.\nFrankreich setzt nach Schulprotesten kurzfristig 3000 Vertretungslehrer ein Nach anhaltenden Schulprotesten will Frankreich kurzfristig mehr als 3000 Vertretungslehrer organisieren. Was die Regierung außerdem plant und wie die Proteste verlaufen."
   },
   {
-    "id": "story-182",
+    "id": "story-281",
     "topic": "technik",
     "country": "DE",
     "stateHint": "",
@@ -417,32 +617,7 @@
     "summary": "Amazon Alexa-Tablets: Android und Google Play ersetzen Fire OS - BornCity <ol><li><a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNamtIc1g5dEh3SlZRZnpEN3dEWlZLTTdwbGhocTNibGE4cEg4YlVTZjhEZGE1TTJIUC1BR3Y4WjhDTGZxOU5DUXRzazZoLTctUHZ1ZXc2bm9udWVnYmd3bHd2cWNfblB0Rm5Ud21iLWZFSjlpX2UzSWVTUEZwZVA0Nm1EYUQ0a0stQkpEdk81WWo5dw?oc=5\" target=\"_blank\">Amazon Alexa-Tablets: Android und Google Play ersetzen Fire OS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BornCity</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQanVQaXljMkxYV3NUeHYtOVJuZHVDdk5HMFBnXy1fVm40Yy1MQ2MteklfVzIyOEdWNW1ZdDFLSmNpTERIU3RPMkFkYlc2WnB5dXYyaW9SYW44amdybnRKWUJBcl8wM2J6TWVOaHJNRmZGaEZYYTYzV1F0X2NVQndQRElHR3RkUEoyNm9FT0FPa3NkdWJCODluVVlXRkVmOHBJY2JSSTFNSlE0T0ZiaWZscTVySGNvdHF\nAmazon's new Alexa Tablets drop the Fire branding but are more Android than ever Amazon killed its app store, so Google Play it is."
   },
   {
-    "id": "story-191",
-    "topic": "panorama",
-    "country": "PT",
-    "stateHint": "",
-    "date": "2026-10-08T19:45:22.000Z",
-    "sources": [
-      {
-        "source": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/pais/dois-portugueses-foram-detidos-na-cisjordania_n1770483",
-        "date": "2026-10-08T19:45:22.000Z",
-        "snippet": "Os detidos faziam parte de um grupo de cinco portugueses, entre os quais, dois jornalistas.",
-        "title": "Dois portugueses foram detidos na Cisjordânia"
-      },
-      {
-        "source": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY0dkQm0ybWlCVlhMaVNWT1JJZUotVzlJVkx5U2JBd3hMOE1NdThyLVI1bmVaNHZobnUtNGw0RXV0RXZPNXJZMGI5dnFSbkhta1c5ODQtMHJJUzQxalRrd3RMX1BZRnZMZ3RTSUZVMTRXRzhfV1NQbkc2Tll1VmxRZmYyUXRuYWN5Mkdfa01JY0w?oc=5",
-        "date": "2026-10-08T18:24:29.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQY0dkQm0ybWlCVlhMaVNWT1JJZUotVzlJVkx5U2JBd3hMOE1NdThyLVI1bmVaNHZobnUtNGw0RXV0RXZPNXJZMGI5dnFSbkhta1c5ODQtMHJJUzQxalRrd3RMX1BZRnZMZ3RTSUZVMTRXRzhfV1NQbkc2Tll1VmxRZmYyUXRuYWN5Mkdfa01JY0w?oc=5\" target=\"_blank\">Dois portugueses foram detidos na Cisjordânia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQRFc0Ul94MjhjbjdJQ0dTazVWVllHMVBpMC0xWEFEUFpOY0Y2UldTQm9sZXFva3dPVEdVbjNPcERyaXZBYkFsR196Z2EyaGtXcEZjQlBkUHBhTlVLM3ZEU0VucUt4WVNNWEl0VTd6VFM4dklGeTN6RTVWUkRaeFRFVkExUFotalZvOXF2eHB1RHB2ZC16dDdSRWRWVm9LdVhldGFmV2FZV3dMWUl0empj?oc=5\" target=\"_blank\">Dois portugue",
-        "title": "Dois portugueses foram detidos na Cisjordânia - RTP"
-      }
-    ],
-    "title": "Dois portugueses foram detidos na Cisjordânia",
-    "summary": "Dois portugueses foram detidos na Cisjordânia Os detidos faziam parte de um grupo de cinco portugueses, entre os quais, dois jornalistas.\nDois portugueses foram detidos na Cisjordânia - RTP <ol><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQY0dkQm0ybWlCVlhMaVNWT1JJZUotVzlJVkx5U2JBd3hMOE1NdThyLVI1bmVaNHZobnUtNGw0RXV0RXZPNXJZMGI5dnFSbkhta1c5ODQtMHJJUzQxalRrd3RMX1BZRnZMZ3RTSUZVMTRXRzhfV1NQbkc2Tll1VmxRZmYyUXRuYWN5Mkdfa01JY0w?oc=5\" target=\"_blank\">Dois portugueses foram detidos na Cisjordânia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQRFc0Ul94MjhjbjdJQ0dTazVWVllHMVBpMC0xWEFEUFpOY0Y2UldTQm9sZXFva3dPVEdVbjNPcERyaXZBYkFsR196Z2EyaGtXcEZjQlBkUHBhTlVLM3ZEU0VucUt4WVNNWEl0VTd6VFM4dklGeTN6RTVWUkRaeFRFVkExUFotalZvOXF2eHB1RHB2ZC16dDdSRWRWVm9LdVhldGFmV2FZV3dMWUl0empj?oc=5\" target=\"_blank\">Dois portugue"
-  },
-  {
-    "id": "story-200",
+    "id": "story-297",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "",
@@ -467,7 +642,7 @@
     "summary": "Down-Syndrom: Bundestag will Anwendung von Pränataltests prüfen Bluttests können Schwangeren die Wahrscheinlichkeit eines Gen-Defekts beim ungeborenen Kind aufzeigen. Unter Bedingungen sind die Tests inzwischen Kassenleistung. Der Bundestag will zu der Praxis nun aber genauere Daten.\nDown-Syndrom: Bundestag will Anwendung von Pränataltests prüfen - tagesschau.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPMzdpV0ZucDh4cGUyVzgyaEdEVWRIWWMtSVcwMXJNNWljMzVNQnF4TDl3c2NCeXhvNHpjZGlhTEJsQkprX0d4ckp6UmdJSTJwZHU4LW5ha2gydUJRTlRRbVJmeTVXMFcyeTV5RkhpWE14Q2lnbjhDLUhLY0NGaVA2eVFjTFE?oc=5\" target=\"_blank\">Down-Syndrom: Bundestag will Anwendung von Pränataltests prüfen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxQVVdTSnNKTEpVUm1pNndMOWZFdXROU0JJRUVON29WTjgzN0NNQzFLd194dVhuWTdZMlBCZThqalFDYWYxelE4VEVYVHZ1UGswU3h3T3dXUTk3YUcwajQyb3REQm1pSUQ4SnVTZG9ZaFIyMzlXQzBOMzhyVkZkVWMyQTc4Q3hDT1BpYU5QVGk5TUJHdXhqMzFkc05Oa3I0X0E2eDFRazlOeUJla2tFWm5rMUF5aksyMnVzaDh5SG9fOEp5"
   },
   {
-    "id": "story-245",
+    "id": "story-338",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "",
@@ -492,7 +667,7 @@
     "summary": "Die rot-grün-rote Theorie steht, nun kommt der Praxis-Text Linke, Grüne und SPD in Berlin haben sich auf eine gemeinsame Linie im Umgang mit Antisemitismus verständigt und starten Sondierungsgespräche. Doch aus der Linkspartei kommt berei…\nSondierungsgespräche in Berlin: Praxis-Test für die rot-grün-rote Theorie Linke, Grüne und SPD in Berlin haben sich auf eine gemeinsame Linie im Umgang mit Antisemitismus verständigt und starten Sondierungsgespräche. Doch aus der Linkspartei kommt bereits Kritik an der Vereinbarung."
   },
   {
-    "id": "story-267",
+    "id": "story-356",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "MV",
@@ -517,7 +692,7 @@
     "summary": "Fall Fabian: Gina H. ist laut Gutachter \"voll schuldfähig\" Knapp eine Stunde lang hat ein Psychiater über Gina H. und ihren psychischen Zustand gesprochen. Er bescheinigt ihr eine emotional instabile Persönlichkeitsstörung.\nFall Fabian: Laut Gutachter ist Gina H. \"voll schuldfähig\" Ihr wird vorgeworfen, den achtjährigen Jungen vor einem Jahr in der Nähe von Güstrow ermordet zu haben. Jürn-Jakob Gericke mit Details."
   },
   {
-    "id": "story-284",
+    "id": "story-374",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "SH",
@@ -542,7 +717,7 @@
     "summary": "So bremsen KI-generierte Anträge Sozialgerichte aus Innerhalb eines Jahres gab es doppelt so viele Klagen an den Sozialgerichten wie sonst. Viele davon sind KI-generiert.\nKI-generierte Anträge machen Sozialgerichten mehr Arbeit Innerhalb eines Jahres gab es doppelt so viele Klagen an den Sozialgerichten wie sonst. Viele davon sind KI-generiert."
   },
   {
-    "id": "story-345",
+    "id": "story-434",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "BW",
@@ -559,15 +734,15 @@
         "source": "Google News DE",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVGlNQXZ3ajF2U2ctR1BvdmZpZDM2OUhiZGJGM183UU9CTHFlSUZiR2xmOW52Q2pERVUtd1AzM3BBWHAzSE5JbmZZXzFyUVBjcVZ5Z3NIQS1XVFI3cGowQkowZjlYSXJKejV4RlVoOVJkcWF2UUg4Y0ptVmZvS3dKelMxSWZqaHUtQ2NFWFpfbTAtUXFEalRVVXBwUG5LVU5fSUdxSDFSVQ?oc=5",
         "date": "2026-10-08T18:07:00.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPVGlNQXZ3ajF2U2ctR1BvdmZpZDM2OUhiZGJGM183UU9CTHFlSUZiR2xmOW52Q2pERVUtd1AzM3BBWHAzSE5JbmZZXzFyUVBjcVZ5Z3NIQS1XVFI3cGowQkowZjlYSXJKejV4RlVoOVJkcWF2UUg4Y0ptVmZvS3dKelMxSWZqaHUtQ2NFWFpfbTAtUXFEalRVVXBwUG5LVU5fSUdxSDFSVQ?oc=5\" target=\"_blank\">Audi zieht \"Schlechtwetterklausel\" für Werk in Neckarsulm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxOMHFKLWZqeVlrSWxhYUFHcU15TWl4ZFZKZm1jV3Q4UkRHb09Ba2FyNFFaci1hVVd1aEQ4RUpSUEQ2RXg5TFJlcTIwdzU4cG9Peld5LU9xNGRzYTQ5UEdGSTlpUDFTb2x4d1R2NGs0OEtBd1BGSzFzcHZSUXZKRnRQR25nM0hqSHl5MXN3OUxaMk10eVNpTlJfZWdaSUNrY2JUams",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPVGlNQXZ3ajF2U2ctR1BvdmZpZDM2OUhiZGJGM183UU9CTHFlSUZiR2xmOW52Q2pERVUtd1AzM3BBWHAzSE5JbmZZXzFyUVBjcVZ5Z3NIQS1XVFI3cGowQkowZjlYSXJKejV4RlVoOVJkcWF2UUg4Y0ptVmZvS3dKelMxSWZqaHUtQ2NFWFpfbTAtUXFEalRVVXBwUG5LVU5fSUdxSDFSVQ?oc=5\" target=\"_blank\">Audi zieht \"Schlechtwetterklausel\" für Werk in Neckarsulm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYl9iUDl1Mld6QnRDZWJWRWdJcFFfMnNWYWJhTnNBLTdoZEdKamlYSk9mMjVYVkswV0FZNE5SVENqblh3dVlKUllGMWpLU0lOdmdvTlVnS2Q4MThPZTBkM1hLUFFuUlBqb0dzQndqYVJ4aFNFNEJfMFo2dEpBdDVfd3BOZzdfSGdkc2U3U0ZGdl9VUWJSN2pCakEzTUM0TElBUE4",
         "title": "Audi zieht \"Schlechtwetterklausel\" für Werk in Neckarsulm - tagesschau.de"
       }
     ],
     "title": "Audi zieht \"Schlechtwetterklausel\" für Werk in Neckarsulm",
-    "summary": "Audi zieht \"Schlechtwetterklausel\" für Werk in Neckarsulm Audi steckt in der Krise. Für das Werk im baden-württembergischen Neckarsulm will der Autobauer deshalb mit den Arbeitnehmern über weitere Einsparungen verhandeln - und die sogenannte Schlechtwetterklausel einsetzen.\nAudi zieht \"Schlechtwetterklausel\" für Werk in Neckarsulm - tagesschau.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPVGlNQXZ3ajF2U2ctR1BvdmZpZDM2OUhiZGJGM183UU9CTHFlSUZiR2xmOW52Q2pERVUtd1AzM3BBWHAzSE5JbmZZXzFyUVBjcVZ5Z3NIQS1XVFI3cGowQkowZjlYSXJKejV4RlVoOVJkcWF2UUg4Y0ptVmZvS3dKelMxSWZqaHUtQ2NFWFpfbTAtUXFEalRVVXBwUG5LVU5fSUdxSDFSVQ?oc=5\" target=\"_blank\">Audi zieht \"Schlechtwetterklausel\" für Werk in Neckarsulm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxOMHFKLWZqeVlrSWxhYUFHcU15TWl4ZFZKZm1jV3Q4UkRHb09Ba2FyNFFaci1hVVd1aEQ4RUpSUEQ2RXg5TFJlcTIwdzU4cG9Peld5LU9xNGRzYTQ5UEdGSTlpUDFTb2x4d1R2NGs0OEtBd1BGSzFzcHZSUXZKRnRQR25nM0hqSHl5MXN3OUxaMk10eVNpTlJfZWdaSUNrY2JUams"
+    "summary": "Audi zieht \"Schlechtwetterklausel\" für Werk in Neckarsulm Audi steckt in der Krise. Für das Werk im baden-württembergischen Neckarsulm will der Autobauer deshalb mit den Arbeitnehmern über weitere Einsparungen verhandeln - und die sogenannte Schlechtwetterklausel einsetzen.\nAudi zieht \"Schlechtwetterklausel\" für Werk in Neckarsulm - tagesschau.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPVGlNQXZ3ajF2U2ctR1BvdmZpZDM2OUhiZGJGM183UU9CTHFlSUZiR2xmOW52Q2pERVUtd1AzM3BBWHAzSE5JbmZZXzFyUVBjcVZ5Z3NIQS1XVFI3cGowQkowZjlYSXJKejV4RlVoOVJkcWF2UUg4Y0ptVmZvS3dKelMxSWZqaHUtQ2NFWFpfbTAtUXFEalRVVXBwUG5LVU5fSUdxSDFSVQ?oc=5\" target=\"_blank\">Audi zieht \"Schlechtwetterklausel\" für Werk in Neckarsulm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYl9iUDl1Mld6QnRDZWJWRWdJcFFfMnNWYWJhTnNBLTdoZEdKamlYSk9mMjVYVkswV0FZNE5SVENqblh3dVlKUllGMWpLU0lOdmdvTlVnS2Q4MThPZTBkM1hLUFFuUlBqb0dzQndqYVJ4aFNFNEJfMFo2dEpBdDVfd3BOZzdfSGdkc2U3U0ZGdl9VUWJSN2pCakEzTUM0TElBUE4"
   },
   {
-    "id": "story-376",
+    "id": "story-462",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "",
@@ -592,32 +767,7 @@
     "summary": "Wie geht es weiter im Fall Christa Pike? Nachdem die Mörderin Christa Pike den Versuch ihrer Hinrichtung überlebte, kann sie mittlerweile wieder laufen, ist aber in gesundheitlich schlechtem Zustand. Doch wie geht es nun…\nNach gescheiterter Hinrichtung: Wie geht es weiter im Fall Pike? Nachdem die Mörderin Christa Pike den Versuch ihrer Hinrichtung überlebte, kann sie mittlerweile wieder laufen, ist aber in gesundheitlich schlechtem Zustand. Doch wie geht es nun weiter? Wird es einen neuen Exekutionsversuch geben? Ein Überblick."
   },
   {
-    "id": "story-513",
-    "topic": "panorama",
-    "country": "UK",
-    "stateHint": "",
-    "date": "2026-10-08T16:31:29.000Z",
-    "sources": [
-      {
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-08T16:31:29.000Z",
-        "snippet": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
-        "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge"
-      },
-      {
-        "source": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jMTlTQU5tVXR6aWxNX0sxZ3duY2YwN3dyLWVFY3pod0VldWZHUDNsVDI0V1dSRlZ1SkZwY3Z5dkc2TzZGWXZtek9lT3ZSQUo4YllNV2Myb2JURms?oc=5",
-        "date": "2026-10-08T16:31:29.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jMTlTQU5tVXR6aWxNX0sxZ3duY2YwN3dyLWVFY3pod0VldWZHUDNsVDI0V1dSRlZ1SkZwY3Z5dkc2TzZGWXZtek9lT3ZSQUo4YllNV2Myb2JURms?oc=5\" target=\"_blank\">Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-        "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge - BBC"
-      }
-    ],
-    "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
-    "summary": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.\nRussian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge - BBC <a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jMTlTQU5tVXR6aWxNX0sxZ3duY2YwN3dyLWVFY3pod0VldWZHUDNsVDI0V1dSRlZ1SkZwY3Z5dkc2TzZGWXZtek9lT3ZSQUo4YllNV2Myb2JURms?oc=5\" target=\"_blank\">Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>"
-  },
-  {
-    "id": "story-541",
+    "id": "story-613",
     "topic": "politik",
     "country": "INT",
     "stateHint": "",
@@ -642,57 +792,7 @@
     "summary": "US charges former Venezuelan President Nicolas Maduro with torture The revised indictment includes several mentions of the involvement of Venezuela’s feared DGCIM military intelligence agency\nNew U.S. indictment charges former Venezuelan President Nicolás Maduro with torture U.S. authorities added new torture charges to their case against former Venezuelan President Nicolás Maduro, ramping up pressure on the ousted authoritarian leader already fighting drug trafficking allegations."
   },
   {
-    "id": "story-584",
-    "topic": "panorama",
-    "country": "PT",
-    "stateHint": "",
-    "date": "2026-10-08T16:00:42.000Z",
-    "sources": [
-      {
-        "source": "RTP Desporto",
-        "url": "https://www.rtp.pt/noticias/fc-porto/william-gomes-renova-contrato-com-o-fc-porto-ate-2031_d1770401",
-        "date": "2026-10-08T16:00:42.000Z",
-        "snippet": "Jogador brasileiro fica com uma cláusula de rescisão de 100 milhões de euros, informaram os azuis e brancos.",
-        "title": "William Gomes renova contrato com o FC Porto até 2031"
-      },
-      {
-        "source": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN3FlUUZHY3h2ZDQ3TEM3NldEcnUxS0NGc0F5VzJ3OERRZjJvWllOZXk5TzlDcDdTSHZZdkQwcWVFX3FlYUdEdG8wamhtZ0xRZVY1bzAwOUpEelR5MmhJeEFaTDhGQ3hLTElPNGJ3Q01xaUdwRDlqQVpQNmxhYndWbWc5NUNHem1TSmdpRGZWZzI0WlZxSWw0aVBCYUZBQQ?oc=5",
-        "date": "2026-10-08T13:14:30.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQN3FlUUZHY3h2ZDQ3TEM3NldEcnUxS0NGc0F5VzJ3OERRZjJvWllOZXk5TzlDcDdTSHZZdkQwcWVFX3FlYUdEdG8wamhtZ0xRZVY1bzAwOUpEelR5MmhJeEFaTDhGQ3hLTElPNGJ3Q01xaUdwRDlqQVpQNmxhYndWbWc5NUNHem1TSmdpRGZWZzI0WlZxSWw0aVBCYUZBQQ?oc=5\" target=\"_blank\">FC Porto: William Gomes renova contrato até 2031</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Maisfutebol</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTElxQ3IzLVVucUxSVnNjWHBESlFJbTlCZEVRZDJyZ09rc0dWdGc5cU4yalk0TlBqTmJIS0s4M2d3cThtazNFTnNIVjZicld2Wi1mVE04MmItbEpKVkd2WWMwNkMtYlBfQ25lNmkyV0pYWXlWQkFSaGttRmtvMjBNdlpMUXo0eVVKUDJPejF3bDlzNnp0OWNtWl9WZ0JNcHVpbFdOOEtYeHFfZG9yVVUtYTkweU",
-        "title": "FC Porto: William Gomes renova contrato até 2031 - Maisfutebol"
-      }
-    ],
-    "title": "William Gomes renova contrato com o FC Porto até 2031",
-    "summary": "William Gomes renova contrato com o FC Porto até 2031 Jogador brasileiro fica com uma cláusula de rescisão de 100 milhões de euros, informaram os azuis e brancos.\nFC Porto: William Gomes renova contrato até 2031 - Maisfutebol <ol><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQN3FlUUZHY3h2ZDQ3TEM3NldEcnUxS0NGc0F5VzJ3OERRZjJvWllOZXk5TzlDcDdTSHZZdkQwcWVFX3FlYUdEdG8wamhtZ0xRZVY1bzAwOUpEelR5MmhJeEFaTDhGQ3hLTElPNGJ3Q01xaUdwRDlqQVpQNmxhYndWbWc5NUNHem1TSmdpRGZWZzI0WlZxSWw0aVBCYUZBQQ?oc=5\" target=\"_blank\">FC Porto: William Gomes renova contrato até 2031</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Maisfutebol</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTElxQ3IzLVVucUxSVnNjWHBESlFJbTlCZEVRZDJyZ09rc0dWdGc5cU4yalk0TlBqTmJIS0s4M2d3cThtazNFTnNIVjZicld2Wi1mVE04MmItbEpKVkd2WWMwNkMtYlBfQ25lNmkyV0pYWXlWQkFSaGttRmtvMjBNdlpMUXo0eVVKUDJPejF3bDlzNnp0OWNtWl9WZ0JNcHVpbFdOOEtYeHFfZG9yVVUtYTkweU"
-  },
-  {
-    "id": "story-621",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-08T15:35:30.000Z",
-    "sources": [
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/asien/saudi-arabien-jemen-huthi-angriffe-100.html",
-        "date": "2026-10-08T15:35:30.000Z",
-        "snippet": "Die gegenseitigen Angriffe von Saudi-Arabien und der jemenitischen Huthi-Miliz halten an. Nach Attacken auf saudi-arabische Flughäfen meldet Riad die Zerstörung von Dutzenden militärischen Objekten der Huthi im Jemen.",
-        "title": "Huthi greifen erneut Ziele in Saudi-Arabien an - auch Gegenangriffe gemeldet"
-      },
-      {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeldvWl9RZEJzQ2xyVkV1aU9EZnJrVXlpY29TM1NzOEwxRV9CWVd2R1FlZ2JSZjZmSlNmUTBiZjlQU25DV1NqY2F1SmwxcDE4RjFNVks4anJNX3FFeFRrSG9MLXNGamhSaktIbW16N3ZkUUNaekhtSWozT3gzM0JLU25BaUVGRzVIU3dOYnhIYWVSeWxuQjdaUHZRN2lISzR5TEU1VXdn?oc=5",
-        "date": "2026-10-08T14:19:25.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNeldvWl9RZEJzQ2xyVkV1aU9EZnJrVXlpY29TM1NzOEwxRV9CWVd2R1FlZ2JSZjZmSlNmUTBiZjlQU25DV1NqY2F1SmwxcDE4RjFNVks4anJNX3FFeFRrSG9MLXNGamhSaktIbW16N3ZkUUNaekhtSWozT3gzM0JLU25BaUVGRzVIU3dOYnhIYWVSeWxuQjdaUHZRN2lISzR5TEU1VXdn?oc=5\" target=\"_blank\">Jemen: Huthi-Miliz greift erneut Ziele in Saudi-Arabien an</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DIE ZEIT</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSm9HMEJ5SzZraThwZmF3TVF0a2dqLWFuZ1psMFJBejdkd1NFTTVraG1LVVdIZmNhMkZWQm5sWnFwVEhsa1NRTnRNdVFrRWtlc2hKTnFjc3BKUDE3bVlpUjJGWWVGVy1lZVZod0tVczRFNF9OcVpjVXlYNGRXUWZ3ZFlDZklUWGsxeEVj?oc=5\" target=\"_blank\">Huthi greifen ",
-        "title": "Jemen: Huthi-Miliz greift erneut Ziele in Saudi-Arabien an - DIE ZEIT"
-      }
-    ],
-    "title": "Huthi greifen erneut Ziele in Saudi-Arabien an - auch Gegenangriffe gemeldet",
-    "summary": "Huthi greifen erneut Ziele in Saudi-Arabien an - auch Gegenangriffe gemeldet Die gegenseitigen Angriffe von Saudi-Arabien und der jemenitischen Huthi-Miliz halten an. Nach Attacken auf saudi-arabische Flughäfen meldet Riad die Zerstörung von Dutzenden militärischen Objekten der Huthi im Jemen.\nJemen: Huthi-Miliz greift erneut Ziele in Saudi-Arabien an - DIE ZEIT <ol><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNeldvWl9RZEJzQ2xyVkV1aU9EZnJrVXlpY29TM1NzOEwxRV9CWVd2R1FlZ2JSZjZmSlNmUTBiZjlQU25DV1NqY2F1SmwxcDE4RjFNVks4anJNX3FFeFRrSG9MLXNGamhSaktIbW16N3ZkUUNaekhtSWozT3gzM0JLU25BaUVGRzVIU3dOYnhIYWVSeWxuQjdaUHZRN2lISzR5TEU1VXdn?oc=5\" target=\"_blank\">Jemen: Huthi-Miliz greift erneut Ziele in Saudi-Arabien an</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DIE ZEIT</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSm9HMEJ5SzZraThwZmF3TVF0a2dqLWFuZ1psMFJBejdkd1NFTTVraG1LVVdIZmNhMkZWQm5sWnFwVEhsa1NRTnRNdVFrRWtlc2hKTnFjc3BKUDE3bVlpUjJGWWVGVy1lZVZod0tVczRFNF9OcVpjVXlYNGRXUWZ3ZFlDZklUWGsxeEVj?oc=5\" target=\"_blank\">Huthi greifen "
-  },
-  {
-    "id": "story-640",
+    "id": "story-710",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "",
@@ -717,32 +817,32 @@
     "summary": "Burnham bietet Deutschland Kampfjet-Kooperation an Bei seinem Besuch in Berlin hat der neue britische Premier Burnham die Absicht einer engen Zusammenarbeit mit Deutschland unterstrichen. Für Überraschung sorgte ein Angebot im Ver…\nGroßbritannien: Burnham bietet Deutschland Kampfjet-Kooperation an Bei seinem Besuch in Berlin hat der neue britische Premier Burnham die Absicht einer engen Zusammenarbeit mit Deutschland unterstrichen. Für Überraschung sorgte ein Angebot im Verteidigungsbereich."
   },
   {
-    "id": "story-693",
+    "id": "story-760",
     "topic": "panorama",
-    "country": "DE",
-    "stateHint": "BB",
-    "date": "2026-10-08T15:01:23.000Z",
+    "country": "UK",
+    "stateHint": "",
+    "date": "2026-10-08T15:02:32.000Z",
     "sources": [
       {
-        "source": "Tagesschau Regional Brandenburg",
-        "url": "https://www.tagesschau.de/inland/regional/brandenburg/rbb-jugendgewalt-in-potsdam-polizei-nimmt-mutmassliche-hauptakteure-fest-102.html",
-        "date": "2026-10-08T15:01:23.000Z",
-        "snippet": "Nach Gewalttaten von Jugendgruppen in Potsdam hat die Polizei eine eigene Ermittlungsgruppe eingerichtet. Dort sollen relevante Vorgänge gebündelt werden. Laut Polizei gab es bereits Festnahmen.",
-        "title": "Jugendgewalt in Potsdam: Polizei nimmt mutmaßliche Hauptakteure fest"
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-08T15:02:32.000Z",
+        "snippet": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections.",
+        "title": "Christa Pike now walking after failed US execution, lawyer tells BBC"
       },
       {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObU8zdEwya2pVU3lrSURKdlhpTWxYcHhOMFpCMjJncGtRTkVFSF9ob2hsRzUydXdUcGJycG5QSFVjNUR1c0hlVzdnbk5LRjRKQVFDd28zZDVVWmlZT0J0M3YwT0ZHbERtRWtvblNlLWlCSUJ0RG5ETmlXYXl3R1luMVF4cXNiY2xRLXh6N191Zlc2TjdHN0V3VFRrZGZTdXRVUHpuel9YcjRpYUVGRXFJZGNjU0dYQQ?oc=5",
-        "date": "2026-10-08T15:01:00.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxObU8zdEwya2pVU3lrSURKdlhpTWxYcHhOMFpCMjJncGtRTkVFSF9ob2hsRzUydXdUcGJycG5QSFVjNUR1c0hlVzdnbk5LRjRKQVFDd28zZDVVWmlZT0J0M3YwT0ZHbERtRWtvblNlLWlCSUJ0RG5ETmlXYXl3R1luMVF4cXNiY2xRLXh6N191Zlc2TjdHN0V3VFRrZGZTdXRVUHpuel9YcjRpYUVGRXFJZGNjU0dYQQ?oc=5\" target=\"_blank\">Jugendgewalt in Potsdam: Polizei nimmt mutmaßliche Hauptakteure fest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbb24.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxOMGNLaHlJaWZMdmpQMzU3OUVzd1NmemttYmRnQUh5dm1ZSW9KdHdqZkJoZDF4R1NGZjNXRlo3ZVNhbHlLZzV2Q1Vlc1lwSkJQc29IX2xLYlF2U1M5Z3ZQQjFLRzNiRy1tNWpBS19DclVZUlRPbkxZU3pXZVV6SjJmV0J2c0h4U0hubTdoaUh0a",
-        "title": "Jugendgewalt in Potsdam: Polizei nimmt mutmaßliche Hauptakteure fest - rbb24.de"
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5meEFWbk01a0d1MUVMa2hvQWtBOFlGRUs3ZjRTdC0wSUo4Y2FtM1BVQ1dUSW1KZC1sdXB5bThFVWUxRjI1Nl83OGdLYzJ0RmJBUGRBUnJBS0dTa0Z0Nk5IQmVfOU1uSlNvMGpuYmVYdXRranFTb05jSmEyZktEeHM?oc=5",
+        "date": "2026-10-08T12:32:00.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5meEFWbk01a0d1MUVMa2hvQWtBOFlGRUs3ZjRTdC0wSUo4Y2FtM1BVQ1dUSW1KZC1sdXB5bThFVWUxRjI1Nl83OGdLYzJ0RmJBUGRBUnJBS0dTa0Z0Nk5IQmVfOU1uSlNvMGpuYmVYdXRranFTb05jSmEyZktEeHM?oc=5\" target=\"_blank\">Christa Pike is ‘up and walking’ for first time after failed execution, lawyer says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+        "title": "Christa Pike is ‘up and walking’ for first time after failed execution, lawyer says - The Guardian"
       }
     ],
-    "title": "Jugendgewalt in Potsdam: Polizei nimmt mutmaßliche Hauptakteure fest",
-    "summary": "Jugendgewalt in Potsdam: Polizei nimmt mutmaßliche Hauptakteure fest Nach Gewalttaten von Jugendgruppen in Potsdam hat die Polizei eine eigene Ermittlungsgruppe eingerichtet. Dort sollen relevante Vorgänge gebündelt werden. Laut Polizei gab es bereits Festnahmen.\nJugendgewalt in Potsdam: Polizei nimmt mutmaßliche Hauptakteure fest - rbb24.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxObU8zdEwya2pVU3lrSURKdlhpTWxYcHhOMFpCMjJncGtRTkVFSF9ob2hsRzUydXdUcGJycG5QSFVjNUR1c0hlVzdnbk5LRjRKQVFDd28zZDVVWmlZT0J0M3YwT0ZHbERtRWtvblNlLWlCSUJ0RG5ETmlXYXl3R1luMVF4cXNiY2xRLXh6N191Zlc2TjdHN0V3VFRrZGZTdXRVUHpuel9YcjRpYUVGRXFJZGNjU0dYQQ?oc=5\" target=\"_blank\">Jugendgewalt in Potsdam: Polizei nimmt mutmaßliche Hauptakteure fest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rbb24.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxOMGNLaHlJaWZMdmpQMzU3OUVzd1NmemttYmRnQUh5dm1ZSW9KdHdqZkJoZDF4R1NGZjNXRlo3ZVNhbHlLZzV2Q1Vlc1lwSkJQc29IX2xLYlF2U1M5Z3ZQQjFLRzNiRy1tNWpBS19DclVZUlRPbkxZU3pXZVV6SjJmV0J2c0h4U0hubTdoaUh0a"
+    "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
+    "summary": "Christa Pike now walking after failed US execution, lawyer tells BBC A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections.\nChrista Pike is ‘up and walking’ for first time after failed execution, lawyer says - The Guardian <a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5meEFWbk01a0d1MUVMa2hvQWtBOFlGRUs3ZjRTdC0wSUo4Y2FtM1BVQ1dUSW1KZC1sdXB5bThFVWUxRjI1Nl83OGdLYzJ0RmJBUGRBUnJBS0dTa0Z0Nk5IQmVfOU1uSlNvMGpuYmVYdXRranFTb05jSmEyZktEeHM?oc=5\" target=\"_blank\">Christa Pike is ‘up and walking’ for first time after failed execution, lawyer says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>"
   },
   {
-    "id": "story-703",
+    "id": "story-768",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "BW",
@@ -767,7 +867,7 @@
     "summary": "Özdemir zieht in Dienstvilla auf der Stuttgarter Solitude - Kretschmann wollte dort nicht wohnen Neben Schloss Solitude liegt der künftige Wohnsitz von Ministerpräsident Özdemir und seiner Frau. Was es mit der Villa auf sich hat - und warum die Kretschmanns dort nicht wohnten.\nÖzdemir zieht in Dienstvilla auf der Stuttgarter Solitude Neben Schloss Solitude liegt der künftige Wohnsitz von Ministerpräsident Özdemir und seiner Frau. Was es mit der Villa auf sich hat - und warum die Kretschmanns dort nicht wohnten."
   },
   {
-    "id": "story-717",
+    "id": "story-781",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "RP",
@@ -792,57 +892,32 @@
     "summary": "Gefahr aus der Leitung? Welche Risiken in unserem Trinkwasser lauern Trinkwasser gilt hierzulande als unbedenklich. Es wird regelmäßig kontrolliert - aber ist es wirklich so sicher, wie häufig behauptet wird?\nWo Risiken im Trinkwasser lauern Trinkwasser gilt hierzulande als unbedenklich. Es wird regelmäßig kontrolliert - aber ist es wirklich so sicher, wie häufig behauptet wird?"
   },
   {
-    "id": "story-778",
-    "topic": "politik",
-    "country": "UK",
-    "stateHint": "",
-    "date": "2026-10-08T14:10:58.000Z",
-    "sources": [
-      {
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c65yndpnk5qdo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-08T14:10:58.000Z",
-        "snippet": "Bernadette Greene-Placentia says her memory of the attack is spotty and that she was knocked unconscious.",
-        "title": "Arizona congressional candidate says she was raped while repairing campaign sign"
-      },
-      {
-        "source": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ucVhCTUd1YmhoY3NSd1FCMllLN1lJZjExcGxCdVJlc2lKMDlPeG0zWXozdzZJU2k0YzJudzRjU1FLSHV5b2lCNjFSSmZLNzFjbTFxWEFxOFkxbkU?oc=5",
-        "date": "2026-10-08T14:10:58.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ucVhCTUd1YmhoY3NSd1FCMllLN1lJZjExcGxCdVJlc2lKMDlPeG0zWXozdzZJU2k0YzJudzRjU1FLSHV5b2lCNjFSSmZLNzFjbTFxWEFxOFkxbkU?oc=5\" target=\"_blank\">Arizona congressional candidate says she was raped while repairing campaign sign</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-        "title": "Arizona congressional candidate says she was raped while repairing campaign sign - BBC"
-      }
-    ],
-    "title": "Arizona congressional candidate says she was raped while repairing campaign sign",
-    "summary": "Arizona congressional candidate says she was raped while repairing campaign sign Bernadette Greene-Placentia says her memory of the attack is spotty and that she was knocked unconscious.\nArizona congressional candidate says she was raped while repairing campaign sign - BBC <a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ucVhCTUd1YmhoY3NSd1FCMllLN1lJZjExcGxCdVJlc2lKMDlPeG0zWXozdzZJU2k0YzJudzRjU1FLSHV5b2lCNjFSSmZLNzFjbTFxWEFxOFkxbkU?oc=5\" target=\"_blank\">Arizona congressional candidate says she was raped while repairing campaign sign</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>"
-  },
-  {
-    "id": "story-847",
-    "topic": "politik",
+    "id": "story-866",
+    "topic": "panorama",
     "country": "DE",
     "stateHint": "",
-    "date": "2026-10-08T13:25:00.000Z",
+    "date": "2026-10-08T13:48:00.000Z",
     "sources": [
       {
-        "source": "DW Deutsch",
-        "url": "https://www.dw.com/de/italien-parlament-billigt-melonis-umstrittenes-wahlrecht/a-79596399?maca=de-rss-de-all-1119-xml-mrss",
-        "date": "2026-10-08T13:25:00.000Z",
-        "snippet": "Italiens Regierungschefin Meloni hat den Machtpoker um ihre vieldiskutierte Wahlrechtsreform vorerst gewonnen. Vor der Abstimmung drohte sie noch - für den Fall eines Neins - mit harten Konsequenzen.",
-        "title": "Italien: Parlament billigt Melonis umstrittenes Wahlrecht"
+        "source": "ZDF heute",
+        "url": "https://www.zdfheute.de/panorama/deutschland-krankheitskosten-halbe-billion-euro-100.html",
+        "date": "2026-10-08T13:48:00.000Z",
+        "snippet": "Im Jahr 2024 beliefen sich Krankheitskosten in Deutschland auf 528,5 Milliarden Euro. Besonders große Unterschiede gibt es vor allem zwischen den Geschlechtern und im Alter.",
+        "title": "Krankheitskosten in Deutschland über halbe Billion Euro"
       },
       {
-        "source": "t-online Nachrichten",
-        "url": "https://www.t-online.de/nachrichten/ausland/eu/id_101471944/italien-parlament-billigt-melonis-wahlrechtsreform.html",
-        "date": "2026-10-08T11:09:10.000Z",
-        "snippet": "Italiens Parlament hat am Donnerstag die Wahlrechtsreform der Regierung gebilligt. Es geht um ein zentrales Vorhaben von Giorgia Meloni. Und ihre Chancen auf eine Wiederwahl 2027.",
-        "title": "Italien: Parlament billigt Melonis Wahlrechtsreform"
+        "source": "DW Deutsch",
+        "url": "https://www.dw.com/de/deutschland-krankheitskosten-übersteigen-halbe-billion-euro/a-79592688?maca=de-rss-de-all-1119-xml-mrss",
+        "date": "2026-10-08T10:33:00.000Z",
+        "snippet": "Krankheiten und gesundheitliche Probleme nehmen in Deutschland zu. Für ihre Behandlung fielen 2024 unmittelbare Kosten von 528,5 Milliarden Euro an. Zwei Krankheitsbilder stehen ganz vorne.",
+        "title": "Deutschland: Krankheitskosten übersteigen halbe Billion Euro"
       }
     ],
-    "title": "Italien: Parlament billigt Melonis umstrittenes Wahlrecht",
-    "summary": "Italien: Parlament billigt Melonis umstrittenes Wahlrecht Italiens Regierungschefin Meloni hat den Machtpoker um ihre vieldiskutierte Wahlrechtsreform vorerst gewonnen. Vor der Abstimmung drohte sie noch - für den Fall eines Neins - mit harten Konsequenzen.\nItalien: Parlament billigt Melonis Wahlrechtsreform Italiens Parlament hat am Donnerstag die Wahlrechtsreform der Regierung gebilligt. Es geht um ein zentrales Vorhaben von Giorgia Meloni. Und ihre Chancen auf eine Wiederwahl 2027."
+    "title": "Krankheitskosten in Deutschland über halbe Billion Euro",
+    "summary": "Krankheitskosten in Deutschland über halbe Billion Euro Im Jahr 2024 beliefen sich Krankheitskosten in Deutschland auf 528,5 Milliarden Euro. Besonders große Unterschiede gibt es vor allem zwischen den Geschlechtern und im Alter.\nDeutschland: Krankheitskosten übersteigen halbe Billion Euro Krankheiten und gesundheitliche Probleme nehmen in Deutschland zu. Für ihre Behandlung fielen 2024 unmittelbare Kosten von 528,5 Milliarden Euro an. Zwei Krankheitsbilder stehen ganz vorne."
   },
   {
-    "id": "story-885",
+    "id": "story-923",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
@@ -867,7 +942,7 @@
     "summary": "Newsblog zum Ukraine-Krieg: Ukraine: 33 Tote nach russischem Angriff auf Linienbusse in Kramatorsk Bei den Attacken auf die ostukrainische Stadt wurden außerdem 18 weitere Menschen verletzt. Russland bestreitet immer wieder, gezielt Zivilisten zu beschießen.\nUkraine-Krieg: 33 Tote bei russischem Angriff auf Linienbusse Ein russischer Angriff trifft zwei Linienbusse in Kramatorsk, zahlreiche Menschen wurden verletzt. Mindestens 33 Menschen wurden getötet."
   },
   {
-    "id": "story-900",
+    "id": "story-934",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "BW",
@@ -892,7 +967,7 @@
     "summary": "Mannheim: 29-jähriger Mann stirbt in Polizeigewahrsam - Gründe noch unklar Nach einem Polizeieinsatz am Mannheimer Wasserturm wurde ein 29-jähriger am Freitag festgenommen - und ist dann in Gewahrsam gestorben. Jetzt ermittelt das Landeskriminalamt.\nMannheim: Mann stirbt in Polizeigewahrsam - Gründe noch unklar Nach einem Polizeieinsatz am Mannheimer Wasserturm wurde ein 29-jähriger am Freitag festgenommen - und ist dann in Gewahrsam gestorben. Jetzt ermittelt das Landeskriminalamt."
   },
   {
-    "id": "story-929",
+    "id": "story-958",
     "topic": "politik",
     "country": "US",
     "stateHint": "",
@@ -917,7 +992,7 @@
     "summary": "South Korea to recall its ambassador to Ukraine over North Korean POW dispute The South Korean announcement on Thursday came days after its President Lee Jae Myung threatened unspecified punitive steps if Ukraine refuses to apologize over the revelation.\nSouth Korea recalls ambassador to Ukraine in North Korean prisoner of war row Seoul said Kyiv's public disclosure of the repatriation of two North Korean prisoners endangered their families in North Korea, where relatives of those who fall into enemy hands face punishment. Ukraine has rejected South Korea's accusations."
   },
   {
-    "id": "story-1000",
+    "id": "story-1029",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "",
@@ -942,28 +1017,28 @@
     "summary": "Mögliche CDU-Stimmen für AfD: Radtke fordert Parteiausschluss für Abweichler Haben bei der Wahl des Landtagspräsidenten in Sachsen-Anhalt auch CDU-Abgeordnete für den AfD-Kandidaten Rausch gestimmt? Der Chef des CDU-Arbeitnehmerflügels verlangt in diesem Fall harte Konsequenzen.\nCDU-Stimmen für AfD? Radtke fordert Parteiausschluss Haben CDU-Abgeordnete in Sachsen-Anhalt den AfD-Politiker Rausch zum Landtagspräsidenten gewählt? Der Chef des CDU-Arbeitnehmerflügels fordert dafür ein Parteiausschlussverfahren."
   },
   {
-    "id": "story-1014",
-    "topic": "politik",
-    "country": "DE",
+    "id": "story-1218",
+    "topic": "panorama",
+    "country": "UK",
     "stateHint": "",
-    "date": "2026-10-08T10:30:02.000Z",
+    "date": "2026-10-08T05:00:44.000Z",
     "sources": [
       {
-        "source": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/inland/innenpolitik/debatte-einkommensteuerreform-100.html",
-        "date": "2026-10-08T10:30:02.000Z",
-        "snippet": "Viel Kritik wurde im Bundestag an Klingbeils Entwurf der Einkommensteuerreform geübt. Grünen und Linken gehen die Pläne nicht weit genug. Der Finanzminister selbst sprach von rich…",
-        "title": "Klingbeil verteidigt Entwurf für Steuerreform"
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-08T05:00:44.000Z",
+        "snippet": "Bassam al-Hassan is being sheltered in return for information - including about abducted US reporter Austin Tice.",
+        "title": "US and Lebanon protecting wanted Syrian general, BBC finds"
       },
       {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/inland/innenpolitik/debatte-einkommensteuerreform-100.html",
-        "date": "2026-10-08T10:07:43.000Z",
-        "snippet": "Viel Kritik wurde im Bundestag an Klingbeils Entwurf der Einkommensteuerreform geübt. Grünen und Linken gehen die Pläne nicht weit genug. Der Finanzminister selbst sprach von richtigen Schwerpunkten \"im Rahmen des Möglichen\".",
-        "title": "Einkommensteuer: Klingbeil verteidigt Entwurf für Steuerreform"
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SQVVPcDRvdS1vV2JOdGJTbkdMbHNrWTV1Uzgxc0xDWTRaaGZtS3lXclFfeDRYX3RYbUlNN19BSjhhRDZNbXhvaFJva2hFNzJlZEFSeEJNeWRUOHM?oc=5",
+        "date": "2026-10-08T05:00:44.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SQVVPcDRvdS1vV2JOdGJTbkdMbHNrWTV1Uzgxc0xDWTRaaGZtS3lXclFfeDRYX3RYbUlNN19BSjhhRDZNbXhvaFJva2hFNzJlZEFSeEJNeWRUOHM?oc=5\" target=\"_blank\">US and Lebanon protecting wanted Syrian general, BBC finds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+        "title": "US and Lebanon protecting wanted Syrian general, BBC finds - BBC"
       }
     ],
-    "title": "Klingbeil verteidigt Entwurf für Steuerreform",
-    "summary": "Klingbeil verteidigt Entwurf für Steuerreform Viel Kritik wurde im Bundestag an Klingbeils Entwurf der Einkommensteuerreform geübt. Grünen und Linken gehen die Pläne nicht weit genug. Der Finanzminister selbst sprach von rich…\nEinkommensteuer: Klingbeil verteidigt Entwurf für Steuerreform Viel Kritik wurde im Bundestag an Klingbeils Entwurf der Einkommensteuerreform geübt. Grünen und Linken gehen die Pläne nicht weit genug. Der Finanzminister selbst sprach von richtigen Schwerpunkten \"im Rahmen des Möglichen\"."
+    "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
+    "summary": "US and Lebanon protecting wanted Syrian general, BBC finds Bassam al-Hassan is being sheltered in return for information - including about abducted US reporter Austin Tice.\nUS and Lebanon protecting wanted Syrian general, BBC finds - BBC <a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SQVVPcDRvdS1vV2JOdGJTbkdMbHNrWTV1Uzgxc0xDWTRaaGZtS3lXclFfeDRYX3RYbUlNN19BSjhhRDZNbXhvaFJva2hFNzJlZEFSeEJNeWRUOHM?oc=5\" target=\"_blank\">US and Lebanon protecting wanted Syrian general, BBC finds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>"
   }
 ]
