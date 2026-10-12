@@ -1,5 +1,462 @@
 [
   {
+    "id": "story-e9992d7477ae54cd",
+    "c": "INT",
+    "o": "INT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-05T07:24:10.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Spanischer Premierminister Sanchez ruft vorgezogene Neuwahlen aus",
+    "s": "Der spanische Premierminister Pedro Sanchez hat vorgezogene Parlamentswahlen angekündigt. Die Neuwahlen sollen am 29. November stattfinden. Diese Entscheidung überrascht und beendet vorerst die laufende Legislaturperiode. Die genauen Hintergründe für diesen abrupten Schritt werden in den ersten Meldungen noch nicht detailliert genannt.",
+    "m": "Der spanische Regierungschef Pedro Sanchez hat überraschend vorgezogene Neuwahlen für den 29. November ausgerufen. Dieser Schritt verkürzt die reguläre Amtszeit der aktuellen Regierung deutlich und setzt politische Mitbewerber sowie das Parlament vor vollendete Tatsachen. Über die genauen Motive, die zu diesem Entschluss geführt haben, gibt es zum jetzigen Zeitpunkt noch keine umfassenden Details in den Berichten. Auch Reaktionen der Opposition oder nähere organisatorische Einzelheiten zur Durchführung der Wahl stehen noch aus. Die politische Landschaft in Spanien steht damit vor einer unerwarteten Neuausrichtung. Beobachter und Parteien müssen sich nun kurzfristig auf einen intensiven Wahlkampf einstellen. Weitere offene Fragen betreffen die Umfrageewerte der regierenden Partei und die möglichen Koalitionsoptionen nach dem Urnengang.",
+    "r": "Vorgezogene Parlamentswahlen in einem großen EU-Land wie Spanien sind von hoher politischer Bedeutung für das gesamte europäische Gefüge. Die Ankündigung hat unmittelbare Auswirkungen auf die Stabilität der Regierung und die politische Agenda des Landes.",
+    "srcs": [
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52TWFmNHFldkJEQ1ljRTJuTUkwTWwyY3ZpVjdCbXNURkJHWEdzS25laXYxd0hVSEhocWpnMW9iVjdjclhLajhNdnlXREFyREVSejc4UjBGOElBSmNOYXRrc0ZvS2hvQ1ZTYmJBMHNXbWRXd0Jr?oc=5",
+        "date": "2026-10-05T07:24:10.000Z"
+      },
+      {
+        "name": "France24 English",
+        "url": "https://www.france24.com/en/europe/20261005-spanish-pm-sanchez-calls-snap-election-for-november-29",
+        "date": "2026-10-05T07:19:56.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52TWFmNHFldkJEQ1ljRTJuTUkwTWwyY3ZpVjdCbXNURkJHWEdzS25laXYxd0hVSEhocWpnMW9iVjdjclhLajhNdnlXREFyREVSejc4UjBGOElBSmNOYXRrc0ZvS2hvQ1ZTYmJBMHNXbWRXd0Jr?oc=5",
+    "agree": "Beide Quellen stimmen darin überein, dass der spanische Premierminister Pedro Sanchez vorgezogene Neuwahlen ausgerufen hat.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Berichtet allgemein über die Ausrufung von Neuwahlen durch den spanischen Premierminister."
+      },
+      {
+        "name": "France24 English",
+        "note": "Nennt zusätzlich das konkrete Datum für die Neuwahlen, den 29. November."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-7f712a49e14653f0",
+    "c": "DE",
+    "o": "DE",
+    "k": "umwelt",
+    "lang": "de",
+    "d": "2026-10-05T06:54:00.000Z",
+    "p": 3,
+    "st": "BY",
+    "city": "",
+    "t": "E-Auto-Prämie: 100.000 Auszahlungen seit Mai",
+    "s": "Die im Mai gestartete neue Prämie zur Förderung von Elektroautos erweist sich laut Bundesregierung als großer Erfolg. Bislang wurde das finanzielle Fördergeld bereits an 100.000 Antragsteller ausgezahlt. Nach Angaben von Umweltminister Schneider profitieren davon in hohem Maße auch Menschen beziehungsweise Haushalte mit geringerem Einkommen.",
+    "m": "Das Bundesumweltministerium zieht eine positive Zwischenbilanz zur E-Auto-Förderung, die seit Mai dieses Jahres läuft. Laut Umweltminister Schneider wurden im Rahmen des Programms mittlerweile Gelder an 100.000 Antragsteller ausgezahlt. Das Förderinstrument hat damit nach Einschätzung der Bundesregierung die eigenen Erwartungen übertroffen. Eine genauere Analyse der Empfängerstruktur zeigt, dass die finanzielle Unterstützung keineswegs nur Besserverdienende erreicht, sondern in erheblichem Maße auch Haushalte mit geringerem Einkommen zugutekommt. Offen bleiben in der Berichterstattung bislang nähere Details zur genauen Höhe der einzelnen Auszahlungen sowie zur Gesamtsumme der bisher abfließenden Bundesmittel.",
+    "r": "Die erfolgreiche Zwischenbilanz der E-Auto-Prämie gibt Aufschluss über die Inanspruchnahme staatlicher Förderungen und deren soziale Verteilungswirkung. Die Zahlen belegen eine hohe Nachfrage nach Elektrofahrzeugen bei unterschiedlichen Einkommensgruppen.",
+    "srcs": [
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/wirtschaft/verbraucher/e-auto-praemie-126.html",
+        "date": "2026-10-05T06:54:00.000Z"
+      },
+      {
+        "name": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/e-auto-praemie-seit-mai-an-100-000-haushalte-ausgezahlt,VX9AHxQ",
+        "date": "2026-10-05T05:30:13.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/wirtschaft/verbraucher/e-auto-praemie-126.html",
+    "agree": "Beide Quellen stimmen darin überein, dass die seit Mai laufende E-Auto-Prämie an 100.000 Antragsteller ausgezahlt wurde und vor allem Menschen mit geringerem Einkommen davon profitieren.",
+    "diff": [
+      {
+        "name": "Tagesschau",
+        "note": "Erwähnt, dass die Prämie die Erwartungen des Umweltministers Schneider übertroffen hat."
+      },
+      {
+        "name": "BR24 Bayern",
+        "note": "Bezeichnet die Bundesregierung als Ganzes als Urheber der Einschätzung, dass die Prämie ein voller Erfolg ist, und spricht spezifisch von 100.000 Haushalten."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-e908c055773fb9ec",
+    "c": "INT",
+    "o": "INT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-05T06:43:48.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Präsidentschaftswahl in Brasilien führt in Stichwahl zwischen Bolsonaro und Lula",
+    "s": "Die Präsidentschaftswahl in Brasilien führt zu einer Stichwahl. In dieser treten Amtsinhaber Jair Bolsonaro und sein Herausforderer Luiz Inácio Lula da Silva gegeneinander an. Das Rennen zwischen den beiden Kandidaten erweist sich als äußerst eng. Die Entscheidung fällt somit in der nächsten Wahlrunde.",
+    "m": "Die erste Runde der brasilianischen Präsidentschaftswahl hat keinen eindeutigen Sieger hervorgebracht, weshalb eine Stichwahl erforderlich ist. In dieser entscheidenden Phase treffen der amtierende Präsident Jair Bolsonaro und der ehemalige Staatschef Luiz Inácio Lula da Silva aufeinander. Das Ergebnis der ersten Runde zeigt ein stark polarisiertes Land und ein überraschend starkes Abschneiden von Bolsonaro entgegen mancher Prognosen. Die kommenden Wochen bis zur Stichwahl werden von einem intensiven Wahlkampf geprägt sein. Beide Lager mobilisieren nun ihre Anhänger für das finale Duell. Offen bleibt, wie sich die Wähler der unterlegenen Kandidaten positionieren werden.",
+    "r": "Die Wahl in Brasilien als einem der größten lateinamerikanischen Staaten hat weltpolitische und wirtschaftliche Bedeutung. Der Ausgang der Stichwahl bestimmt den zukünftigen politischen Kurs des Landes.",
+    "srcs": [
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUlZhZDVCLVBZaHZKckpfQXNNNUpPNkhpUWwzR2pfRklObm12SS1HMVUyMU9XeVhQajNHY3Y5ZXFuTW0wTkZ6VHpZdGxLd2N5X1p6RkZHOThUOXoxU3gzYlpmcHFlT1VjclhUX3RWLU1WdkFpNE5SQ3V6eXJHRENkV05OTmowWEpIOXRJOUp5R2Jkb01WajJfQVVEaTdJVmxCZFZBbVNFWmRSTDhMdl9sUmFuNmFpdE1tRXA4alJpQ1BvQURnSDZ5TzBORnduc2JBdWNvdHM1QVdEQlZoY0xpRDVBYw?oc=5",
+        "date": "2026-10-05T06:43:48.000Z"
+      },
+      {
+        "name": "France24 English",
+        "url": "https://www.france24.com/en/americas/20261005-brazil-presidential-election-runoff-bolsonaro-lula",
+        "date": "2026-10-05T00:18:35.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUlZhZDVCLVBZaHZKckpfQXNNNUpPNkhpUWwzR2pfRklObm12SS1HMVUyMU9XeVhQajNHY3Y5ZXFuTW0wTkZ6VHpZdGxLd2N5X1p6RkZHOThUOXoxU3gzYlpmcHFlT1VjclhUX3RWLU1WdkFpNE5SQ3V6eXJHRENkV05OTmowWEpIOXRJOUp5R2Jkb01WajJfQVVEaTdJVmxCZFZBbVNFWmRSTDhMdl9sUmFuNmFpdE1tRXA4alJpQ1BvQURnSDZ5TzBORnduc2JBdWNvdHM1QVdEQlZoY0xpRDVBYw?oc=5",
+    "agree": "Die Quellen stimmen überein, dass die Präsidentschaftswahl in Brasilien in eine Stichwahl zwischen Bolsonaro und Lula geht.",
+    "diff": [
+      {
+        "name": "France24 English",
+        "note": "berichtet, dass Bolsonaro in der ersten Runde vor Lula liegt"
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-75c6f3a0ebf18a19",
+    "c": "INT",
+    "o": "UK",
+    "k": "technik",
+    "lang": "de",
+    "d": "2026-10-05T06:15:29.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Trump stellt Super Intelligence Force zur Überwachung der KI-Politik vor",
+    "s": "US-Präsident Trump hat die Gründung einer Super Intelligence Force angekündigt, die die Politik im Bereich der Künstlichen Intelligenz beaufsichtigen soll. Die Initiative erfolgt vor dem Hintergrund wachsender Sorgen bezüglich der Entwicklung und Regulierung von KI. An der Spitze der neuen Taskforce steht der nationale Geheimdienstdirektor.",
+    "m": "Die neu ins Leben gerufene Super Intelligence Force soll als übergeordnete Instanz die Strategien und Richtlinien zur Künstlichen Intelligenz in den Vereinigten Staaten steuern. Präsident Trump hat den nationalen Geheimdiensten die Leitung dieser neuen Taskforce übertragen. Damit reagiert die US-Regierung auf die rasanten technologischen Fortschritte und die damit verbundenen globalen Sicherheitsbedenken. Bislang wurden keine weiteren Details über den genauen Zeitplan, das Budget oder konkrete personelle Besetzungen neben dem Leiter genannt. Beobachter werten den Schritt als Versuch, staatliche Kontrolle und nationale Sicherheitsinteressen im KI-Sektor zu stärken. Offen bleibt, wie die Taskforce mit bestehenden Regulierungsbehörden und der Tech-Industrie zusammenarbeiten wird.",
+    "r": "Die Einrichtung einer zentralen Taskforce für Künstliche Intelligenz durch den US-Präsidenten markiert einen strategischen Schritt zur staatlichen Kontrolle dieser Schlüsseltechnologie. Dies hat unmittelbare Auswirkungen auf die nationale Sicherheits- und Technologiepolitik der Vereinigten Staaten.",
+    "srcs": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-05T06:15:29.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiajN5MEpXZFFWUFJuUFlhNDJLV29waVA1OGlrVU1jZVdtRU1reERmdlRTSUprbWNGQ21EaHFXdFhrdWlMMzZaXy01ZmRBQWo5ekZiRlZiMmNtaTA?oc=5",
+        "date": "2026-10-05T06:15:29.000Z"
+      }
+    ],
+    "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+    "agree": "Beide Quellen berichten übereinstimmend, dass Trump eine 'Super Intelligence Force' zur Überwachung der KI-Politik vorgestellt hat.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-49aa0c09d79d75b0",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-05T05:04:00.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Mensch stürzt am Potsdamer Platz in Berlin in Aufzugschacht",
+    "s": "Am Potsdamer Platz in Berlin ist ein Mensch rund 15 Meter tief in einen Aufzugschacht gestürzt. Die Person wurde dabei lebensgefährlich verletzt. Die Feuerwehr musste eine komplizierte Rettungsaktion durchführen. Die Polizei hat Ermittlungen zur genauen Ursache des Unglücks aufgenommen.",
+    "m": "Der Unfall ereignete sich am Potsdamer Platz in Berlin, wo eine Person aus bislang ungeklärter Ursache vier Stockwerke tief in einen Aufzugschacht stürzte. Die Tiefe des Sturzes betrug etwa 15 Meter. Das Unfallopfer erlitt durch den Sturz lebensgefährliche Verletzungen. Die Rettungskräfte standen vor einer komplizierten Herausforderung, um die verunglückte Person aus dem Schacht zu bergen. Derzeit ist noch unklar, wie es zu dem Absturz kommen konnte und ob technische Mängel oder menschliches Versagen vorlagen. Die Kriminalpolizei hat die Ermittlungen zur Aufklärung des Hergangs übernommen. Weitere Details zum Gesundheitszustand des Opfers oder zur Identität wurden zunächst nicht bekannt gegeben.",
+    "r": "Schwere Arbeits- oder Alltagsunfälle in öffentlich zugänglichen Gebäuden mit lebensgefährlichen Verletzungen erfordern behördliche Aufklärung zur Sicherheit von Aufzugsanlagen. Der Vorfall verdeutlicht potenzielle Gefahrenquellen in mehrstöckigen Gebäuden.",
+    "srcs": [
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/panorama/potsdamer-platz-mensch-stuerzt-in-aufzugschacht-15-meter-in-die-tiefe-a-bc6d48de-113c-4523-8f1d-1ae12dc0d6a7#ref=rss",
+        "date": "2026-10-05T05:04:00.000Z"
+      },
+      {
+        "name": "t-online Panorama",
+        "url": "https://www.t-online.de/nachrichten/panorama/ungluecke/id_101465808/berlin-mensch-stuerzt-in-aufzugschacht-15-meter-tief-lebensgefahr.html",
+        "date": "2026-10-05T00:45:34.000Z"
+      }
+    ],
+    "url": "https://www.spiegel.de/panorama/potsdamer-platz-mensch-stuerzt-in-aufzugschacht-15-meter-in-die-tiefe-a-bc6d48de-113c-4523-8f1d-1ae12dc0d6a7#ref=rss",
+    "agree": "Beide Quellen stimmen überein, dass eine Person in Berlin 15 Meter tief in einen Aufzugschacht gestürzt ist und sich in Lebensgefahr befindet.",
+    "diff": [
+      {
+        "name": "DER SPIEGEL",
+        "note": "nennt den genauen Ort (Potsdamer Platz), die Falltiefe in Stockwerken (vier Stockwerke) und erwähnt die polizeilichen Ermittlungen."
+      },
+      {
+        "name": "t-online Panorama",
+        "note": "erwähnt explizit, dass die Rettungsaktion kompliziert war."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-f0093e886e3e4731",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-05T04:15:01.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Linke zieht wegen Video auf Ministeriums-Account vor Bundesverfassungsgericht",
+    "s": "Die Partei Die Linke geht rechtlich gegen die CDU-Politikerin Katherina Reiche vor und zieht vor das Bundesverfassungsgericht. Anlass ist ein kritisches Video auf dem Instagram-Account des Bundeswirtschaftsministeriums. Die Linke wirft der Politikerin vor, damit das amtliche Neutralitätsgebot verletzt zu haben.",
+    "m": "Nach dem Wahlsieg der Linken in Berlin tauchten auf mehreren Accounts von Bundesministerien Beiträge mit heftiger Kritik an der Partei auf. Die Linke wertet dies als gezielte Kampagne der CDU und als klaren Verstoß gegen das geltende Neutralitätsgebot. Zwar gab es nach entsprechenden Unterlassungserklärungen bei mehreren Ministerien inzwischen Rückzieher und Löschungen, beim Bundeswirtschaftsministerium blieb dies jedoch aus. Die Partei hat sich daraufhin entschieden, das Bundesverfassungsgericht anzurufen, um die Rechtswidrigkeit feststellen zu lassen. Der Vorfall wirft grundsätzliche Fragen zur Nutzung staatlicher Social-Media-Kanäle für parteipolitische Auseinandersetzungen auf.",
+    "r": "Der Fall berührt die verfassungsrechtlich verankerte Neutralitätspflicht von Regierungsmitgliedern und staatlichen Institutionen bei Wahlen. Die Nutzung offizieller Ministeriums-Accounts für politische Kritik gegen Oppositionsparteien ist Gegenstand juristischer Auseinandersetzungen.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/inland/innenpolitik/linke-klage-reiche-bundesverfassungsgericht-100.html",
+        "date": "2026-10-05T04:15:01.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/politik/Linke-zieht-gegen-Reiche-vor-Bundesverfassungsgericht-id31379661.html",
+        "date": "2026-10-04T22:03:12.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/innenpolitik/linke-klage-reiche-bundesverfassungsgericht-100.html",
+    "agree": "Die Partei Die Linke zieht wegen eines kritischen Videos auf einem Ministeriums-Account vor das Bundesverfassungsgericht und wirft der CDU-Politikerin Reiche eine Verletzung des Neutralitätsgebots vor.",
+    "diff": [
+      {
+        "name": "SWR Aktuell",
+        "note": "Fokussiert sich auf die Ankündigung der Linken, wegen des Videos auf dem Account des Bundeswirtschaftsministeriums vor das Bundesverfassungsgericht zu ziehen."
+      },
+      {
+        "name": "ntv",
+        "note": "Berichtet zusätzlich, dass nach dem Wahlsieg der Linken in Berlin auch auf anderen Ministeriums-Accounts kritische Beiträge auftauchten und es nach Unterlassungserklärungen bei mehreren Ministerien bereits Rückzieher gab, nicht jedoch beim Bundeswirtschaftsministerium."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-57630eebc9547752",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-05T00:33:07.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Starke nationalistische Kräfte bei Wahlen in Bosnien und Herzegowina",
+    "s": "Bei den Wahlen in Bosnien und Herzegowina haben nationalistische Kräfte die Oberhand behalten. Die politische Lage in dem Balkanland bleibt weitgehend unverändert. Beobachter halten angesichts des neuen Staatspräsidiums eine mögliche Begnadigung von Ex-Machthaber Dodik für plausibel.",
+    "m": "Die Wahlen in Bosnien und Herzegowina zeigen erneut das komplexe politische System und die starke Position nationalistischer Kräfte. Infolge der Wahlen hat das neue Staatspräsidium seine Arbeit aufgenommen. Beobachter der politischen Entwicklung weisen darauf hin, dass unter dieser Konstellation eine Begnadigung des ehemaligen Machthabers Dodik in Betracht gezogen werden könnte. Insgesamt verharren die politischen Verhältnisse in dem Balkanstaat jedoch im gewohnten Rahmen. Konkrete Zahlen zu den Wahlergebnissen wurden in den Berichten nicht genannt. Die komplexen Strukturen des Staates bilden weiterhin den Hintergrund für das politische Geschehen.",
+    "r": "Die Wahlen und die Machtverhältnisse in Bosnien und Herzegowina sind für die politische Stabilität auf dem Balkan von Bedeutung. Die Zusammensetzung des neuen Staatspräsidiums könnte rechtliche Entscheidungen wie mögliche Begnadigungen beeinflussen.",
+    "srcs": [
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/europa/bosnien-herzegowina-wahl-112.html",
+        "date": "2026-10-05T00:33:07.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/politik/bosnien-herzegowina-nationalistische-kraefte-bei-wahlen-stark-Q6LC2NQMKZGHNOTH4KNX64W2YQ.html",
+        "date": "2026-10-04T20:55:09.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/ausland/europa/bosnien-herzegowina-wahl-112.html",
+    "agree": "Beide Quellen berichten übereinstimmend von starken nationalistischen Kräften bei den Wahlen in Bosnien und Herzegowina.",
+    "diff": [
+      {
+        "name": "Tagesschau",
+        "note": "Erwähnt die mögliche Begnadigung von Ex-Machthaber Dodik durch das gewählte Staatspräsidium."
+      },
+      {
+        "name": "RND",
+        "note": "Hebt die komplexe Verfassungsordnung des Landes hervor und merkt an, dass die politische Lage weitgehend unverändert bleibt."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-76f0df72e8c7a6cb",
+    "c": "INT",
+    "o": "UK",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-05T00:24:55.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Präsidentschaftswahl in Brasilien 2026: Live-Ergebnisse der ersten Runde",
+    "s": "In Brasilien findet die erste Runde der Präsidentschaftswahl statt. Amtsinhaber Luiz Inácio Lula da Silva tritt gegen Flávio Bolsonaro an. Gewählt wird direkt ohne Wahlmännerkollegium.",
+    "m": "Die brasilianische Präsidentschaftswahl 2026 hat mit der ersten Runde begonnen, bei der die Wähler direkt und mit gleichwertigen Stimmen abstimmen. Amtsinhaber Luiz Inácio Lula da Silva stellt sich zur Wiederwahl und konkurriert mit Flávio Bolsonaro. Für einen Sieg im ersten Wahlgang ist eine absolute Mehrheit von mehr als 50 Prozent der gültigen Stimmen erforderlich. Sollte kein Kandidat diese Hürde nehmen, findet drei Wochen später eine Stichwahl zwischen den beiden bestplatzierten Kandidaten statt. Derzeit laufen die Live-Ergebnisse des ersten Wahlgangs. Weitere Details zum aktuellen Auszählungsstand oder konkreten Zwischenergebnissen gehen aus den Berichten nicht hervor.",
+    "r": "Die Wahl bestimmt die politische Führung des größten südamerikanischen Landes und hat daher internationale Bedeutung. Der Ausgang entscheidet über die künftige Ausrichtung der brasilianischen Politik.",
+    "srcs": [
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results",
+        "date": "2026-10-05T00:24:55.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT0FBUllHNWVmdEJkd2w5M3YzYVR6ZGFZX09NVTNROTRkUy1MSUpsQ3E3NkZWT1JxWnV0NzMyZVZSZWl1dmhRWlp3REF5M1ZBX1lxR0lpWFZCOHppa3p2ZHpGckw2ZTZZQ1hYT0s0R0JzMERRRTR1MGlUZnRqMkJ1NjJONW8wZXA1OW80bUdYa2JLVW54bWg3YlB1OGM4QmdUZHpMdWE3cGp5Vmg4MDVUWU9CRFg5MUdLTEx3?oc=5",
+        "date": "2026-10-04T19:01:00.000Z"
+      }
+    ],
+    "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results",
+    "agree": "Die Quellen stimmen überein, dass es sich um die erste Runde der Präsidentschaftswahl in Brasilien im Jahr 2026 handelt, bei der Lula da Silva gegen Flávio Bolsonaro antritt.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Verweist lediglich auf die Berichterstattung des Guardians und nennt keine eigenen Zusatzinformationen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-218981cbbfbef872",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-04T23:03:45.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Schulze schließt CDU-Stimmen für AfD-Kandidat Siegmund aus",
+    "s": "Sachsens CDU-Fraktionschef Sven Schulze hat jegliche Unterstützung seiner Partei für den AfD-Abgeordneten Jörg Siegmund im Parlament ausgeschlossen. Die AfD brauche darauf nicht zu hoffen. Schulze betonte, dass alle CDU-Abgeordneten dies mehrfach mündlich und schriftlich bestätigt hätten.",
+    "m": "Sven Schulze sieht die CDU klar in der Opposition und erteilt jeglichen Absprachen mit der AfD sowie dem BSW bei Gesetzen oder anderen Vorhaben eine Absage. Die Erklärungen der CDU-Abgeordneten liegen laut Schulze sowohl mündlich als auch schriftlich vor. Der Ausschluss von Stimmen für den AfD-Kandidaten Jörg Siegmund erfolgt kategorisch. Damit positioniert sich die CDU-Fraktion unmissverständlich gegen eine Zusammenarbeit mit den genannten Fraktionen im parlamentarischen Alltag.",
+    "r": "Die Aussagen des CDU-Fraktionschefs verdeutlichen die strikte Brandmauer-Politik und den Ausschluss jeglicher parlamentarischer Kooperationen mit AfD und BSW in Sachsen. Dies hat direkte Auswirkungen auf Mehrheitsverhältnisse und künftige Abstimmungen im Landesparlament.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNRUhSX3F4WTFhR3pHT2wwYkYwNV9FU2NlelBENzk2WDJrN0tXRjlzRTlrM3NaWExpX3EybEFsVzhMYlpBc1JpcE1aSFp2QVhLUVdwU0dwT1hFc3RFSXhhMzVVMlhZLVprRW9jb2phU1pvSFQtOWRNZUVPN0lLcG1pY19VT0lGSzN6MldScVhFcXZGdkFKUWVhQmhQZjc2TTJfWDc5UUxkMHdUa0xMLTBvTUZMQTRNODlZLUNwNHh6OE00d1ZrU0d4THRyd1pGYzhvc2pFem41a2VwUlptSjU1YTV4YVZVU0JUb2p0WVlXd2h0b1l6VW5iMWV4SUswTEpRczY0WnFFRW0wd2ZEYU1ZZE9qT21zd0NmRnlUMWJzTVlPUW1nNzRMazF3eE8?oc=5",
+        "date": "2026-10-04T23:03:45.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/deutschland/article6ac29065656315bd2f814dbd/wahl-zum-ministerpraesidenten-da-braucht-die-afd-nicht-drauf-hoffen-schulze-schliesst-cdu-stimmen-fuer-siegmund-kategorisch-aus.html",
+        "date": "2026-10-04T18:14:42.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNRUhSX3F4WTFhR3pHT2wwYkYwNV9FU2NlelBENzk2WDJrN0tXRjlzRTlrM3NaWExpX3EybEFsVzhMYlpBc1JpcE1aSFp2QVhLUVdwU0dwT1hFc3RFSXhhMzVVMlhZLVprRW9jb2phU1pvSFQtOWRNZUVPN0lLcG1pY19VT0lGSzN6MldScVhFcXZGdkFKUWVhQmhQZjc2TTJfWDc5UUxkMHdUa0xMLTBvTUZMQTRNODlZLUNwNHh6OE00d1ZrU0d4THRyd1pGYzhvc2pFem41a2VwUlptSjU1YTV4YVZVU0JUb2p0WVlXd2h0b1l6VW5iMWV4SUswTEpRczY0WnFFRW0wd2ZEYU1ZZE9qT21zd0NmRnlUMWJzTVlPUW1nNzRMazF3eE8?oc=5",
+    "agree": "Die Quellen sind sich einig, dass Sven Schulze CDU-Stimmen für den AfD-Kandidaten Siegmund kategorisch ausschließt.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Bringt die verkürzte Überschrift und verweist auf den WELT-Artikel."
+      },
+      {
+        "name": "WELT",
+        "note": "Liefert die Details, dass alle CDU-Abgeordneten dies mündlich und schriftlich bestätigten und Schulze jegliche Absprachen mit AfD und BSW ausschließt."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-7cf53466e2c24ddf",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-04T23:01:41.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Erste Teilergebnisse der Präsidentenwahl in Brasilien",
+    "s": "Bei der brasilianischen Präsidentenwahl deuten erste Teilergebnisse auf einen Vorsprung des rechtsgerichteten Senators Flávio Bolsonaro vor dem Amtsinhaber Luiz Inácio Lula da Silva hin. Nach Auszählung von rund 65 Prozent der Wahlurnen führt Bolsonaro mit fast 50 Prozent der Stimmen. Lula folgt mit deutlichem Abstand auf dem zweiten Platz. Die übrigen Kandidaten erreichen jeweils nur einstellige Werte.",
+    "m": "Nach bisherigen Angaben aus Brasilien liegt der rechtsgerichtete Senator Flávio Bolsonaro in ersten Teilergebnissen der Präsidentschaftswahl vor dem linksgerichteten Amtsinhaber Luiz Inácio Lula da Silva. Nach der Auszählung von etwa 65 Prozent der elektronischen Wahlurnen verzeichnet Bolsonaro 49,8 Prozent der Stimmen, während Lula auf 42,2 Prozent kommt. Weitere Bewerber befinden sich jeweils im einstelligen Bereich. Beobachter spekulieren bereits über einen möglichen Rechtsruck in dem südamerikanischen Land. Ob sich dieser Trend in den verbleibenden Auszählungen bestätigt, bleibt abzuwarten. Auch eine absolute Mehrheit für Bolsonaro wird in Medienberichten als mögliche Option erörtert. Die amtliche Bestätigung der Gesamtergebnisse steht noch aus.",
+    "r": "Die Wahl in Brasilien ist von internationaler Bedeutung für die politische Ausrichtung in Südamerika. Verschiebungen zwischen den beiden Spitzenkandidaten können weitreichende Folgen für die Zukunft des Landes haben.",
+    "srcs": [
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/news/praesidentenwahl-in-brasilien--bolsonaro-liegt-laut-ersten-teilergebnissen-vor-lula-38348188.html",
+        "date": "2026-10-04T23:01:41.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/politik/Bolsonaro-Sohn-liegt-in-ersten-Teilergebnissen-deutlich-vor-Lula-id31379849.html",
+        "date": "2026-10-04T22:20:07.000Z"
+      }
+    ],
+    "url": "https://www.stern.de/news/praesidentenwahl-in-brasilien--bolsonaro-liegt-laut-ersten-teilergebnissen-vor-lula-38348188.html",
+    "agree": "Beide Quellen berichten, dass Flávio Bolsonaro in den ersten Teilergebnissen der Präsidentenwahl vor Lula da Silva liegt.",
+    "diff": [
+      {
+        "name": "stern",
+        "note": "nennt konkrete Zahlen wie die Auszählung von 65 Prozent der Wahlurnen sowie die Stimmanteile von 49,8 Prozent für Bolsonaro und 42,2 Prozent für Lula"
+      },
+      {
+        "name": "ntv",
+        "note": "spekuliert, dass ein weiterer Rechtsruck in Südamerika bevorstehen könnte und Bolsonaro möglicherweise mehr als die Hälfte der Stimmen vereinigen kann"
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-85f367c01bc41e79",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-04T23:00:22.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Selenskyj kündigt neue Gespräche mit Russland unter US-Vermittlung an",
+    "s": "Die USA wollen nach Angaben des ukrainischen Präsidenten Wolodymyr Selenskyj noch im Oktober neue Verhandlungen zwischen Kiew und Moskau organisieren. Die Gespräche sollen auf Expertenebene stattfinden und einen neuen Anlauf für ein Ende des Krieges ermöglichen. Konkrete Details zu den Teilnehmern oder genauen Terminen wurden zunächst nicht bekannt gegeben.",
+    "m": "Der ukrainische Präsident Wolodymyr Selenskyj hat angekündigt, dass die Vereinigten Staaten im Oktober neue Gespräche zwischen der Ukraine und Russland organisieren wollen. Diese Verhandlungen sollen auf Expertenebene geführt werden. Ziel dieses neuen diplomatischen Vorstoßes ist es, einen weiteren Anlauf zur Beendigung des russischen Angriffskriegs zu unternehmen. Bislang stehen genauere Informationen über den genauen Ablauf, die beteiligten Delegationen oder mögliche Verhandlungsorte noch aus. Auch über die genauen Bedingungen oder die Haltung der russischen Seite zu diesen geplanten Gesprächen gibt es zum aktuellen Zeitpunkt keine weiteren offiziellen Bestätigungen. Der Zeitpunkt im Oktober lässt jedoch auf kurzfristige diplomatische Bemühungen unter amerikanischer Vermittlung schließen.",
+    "r": "Die Initiative für neue Gespräche unter US-Vermittlung könnte neue Dynamik in die diplomatischen Bemühungen zur Beendigung des Krieges bringen. Ein konkreter Zeitrahmen mit dem Monat Oktober lässt zeitnahe Entwicklungen auf Expertenebene erwarten.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSi1SYkRfUTVqTUcyN0o2ZVR6aWhVUHRSMGktWjBwYWxhcVpEM1I2VnVSamFyQ1ZZWHQzYTJQZ2gwcU1aRjF0aEdQbWRrejVzZlVaZTdVc2tmVUdBX3NuaktWQVJXbmM3ZXotb3kwM1pNZXEyN3ZLMk5fSDdQVXlIUm14dUJTN05vbkZKQkpWV09CT2poXzNDMm83REZqMnNhcDVibkhpRWo5YUZGczFhajM5VHAtS2FCZHh3aVZWVWJEOFVXSUU2VjZnRU9qaHFYRkZ6MzJrVUUxbC1lTklFQXhsTQ?oc=5",
+        "date": "2026-10-04T23:00:22.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/ausland/article6ac259cb656315bd2f814b13/kiew-selenskyj-kuendigt-neue-gespraeche-mit-russland-unter-us-vermittlung-an.html",
+        "date": "2026-10-04T14:20:38.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSi1SYkRfUTVqTUcyN0o2ZVR6aWhVUHRSMGktWjBwYWxhcVpEM1I2VnVSamFyQ1ZZWHQzYTJQZ2gwcU1aRjF0aEdQbWRrejVzZlVaZTdVc2tmVUdBX3NuaktWQVJXbmM3ZXotb3kwM1pNZXEyN3ZLMk5fSDdQVXlIUm14dUJTN05vbkZKQkpWV09CT2poXzNDMm83REZqMnNhcDVibkhpRWo5YUZGczFhajM5VHAtS2FCZHh3aVZWVWJEOFVXSUU2VjZnRU9qaHFYRkZ6MzJrVUUxbC1lTklFQXhsTQ?oc=5",
+    "agree": "Die USA planen für den Monat Oktober neue Gespräche auf Expertenebene zwischen der Ukraine und Russland, die von den USA vermittelt werden sollen.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-560ee1a9c8399810",
+    "c": "INT",
+    "o": "DE",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-04T22:17:55.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Nations League: DFB-Team knackt das Griechen-Bollwerk wieder nicht",
+    "s": "Die deutsche Fußball-Nationalmannschaft ist im Nations-League-Rückspiel gegen Griechenland nicht über ein torloses Unentschieden hinausgekommen. In Thessaloniki biss sich das DFB-Team am tiefen Abwehrblock der Gastgeber die Zähne aus. Es ist bereits das zweite Mal nach dem 0:1 in Augsburg, dass die Mannschaft das griechische Bollwerk nicht knacken kann. Am Ende steht ein enttäuschendes 0:0 zu Buche.",
+    "m": "Das Nations-League-Rückspiel der deutschen Fußball-Nationalmannschaft in Thessaloniki endete mit einem torlosen 0:0. Damit gelang es dem DFB-Team erneut nicht, die defensive Spielweise der Griechen zu überwinden, nachdem bereits das Spiel in Augsburg mit einer 0:1-Niederlage endete. Unter dem zweiten Kader von Trainer Jürgen Klopp rennt die Mannschaft unermüdlich an, findet jedoch kein Mittel gegen den tiefen Block des Gegners. Das erneute Ausbleiben eines Sieges und die Offensivprobleme gegen kompakt stehende Gegner sorgen für Enttäuschung. Mit diesem Resultat verpasst es die deutsche Mannschaft, wichtige Punkte im Wettbewerb einzufahren. Es bleibt abzuwarten, wie das Trainerteam auf diese anhaltenden Blockade-Taktiken reagieren wird.",
+    "r": "Das Ergebnis hat direkte Auswirkungen auf den Verlauf und die Tabellensituation der deutschen Nationalmannschaft in der Nations League. Die Partie zeigt anhaltende Schwierigkeiten des DFB-Teams gegen defensiv agierende Gegner auf.",
+    "srcs": [
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/sport/nations-league-dfb-team-knackt-das-griechen-bollwerk-wieder-nicht-ICFFYCV6K5FV3CURLFEYAGUBL4.html",
+        "date": "2026-10-04T22:17:55.000Z"
+      },
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/news/fussball-nationalmannschaft--dfb-team-knackt-das-griechen-bollwerk-wieder-nicht-38348002.html",
+        "date": "2026-10-04T21:23:31.000Z"
+      }
+    ],
+    "url": "https://www.rnd.de/sport/nations-league-dfb-team-knackt-das-griechen-bollwerk-wieder-nicht-ICFFYCV6K5FV3CURLFEYAGUBL4.html",
+    "agree": "Beide Quellen sind sich einig, dass das DFB-Team das griechische Bollwerk im Rückspiel in Thessaloniki nicht knacken konnte und das Spiel 0:0 endete.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-7426d172ea11a8cb",
     "c": "INT",
     "o": "PT",
