@@ -1,11 +1,50 @@
 [
   {
-    "id": "story-215",
+    "id": "story-2",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-14T02:00:00.000Z",
+    "sources": [
+      {
+        "source": "t-online Nachrichten",
+        "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101479896/sachsen-anhalt-cdu-will-saal-bei-siegmund-wahl-verlassen-weidel-spottet.html",
+        "date": "2026-10-14T02:00:00.000Z",
+        "snippet": "Ulrich Siegmund will Ministerpräsident von Sachsen-Anhalt werden. Die CDU-Fraktion hat nun erklärt, wie sie sich bei der Wahl im Dezember verhalten wird. Die AfD-Spitze äußert sich.",
+        "title": "Sachsen-Anhalt: CDU will Saal bei Siegmund-Wahl verlassen – Weidel spottet"
+      },
+      {
+        "source": "Süddeutsche Zeitung",
+        "url": "https://www.sueddeutsche.de/politik/sachsen-anhalt-siegmund-ministerpraesident-wahl-cdu-li.3560633",
+        "date": "2026-10-13T15:19:32.000Z",
+        "snippet": "Die CDU-Fraktion in Sachsen-Anhalt ist tief gespalten und zerstritten. Nun soll ein Plan helfen, weiteres Chaos zu vermeiden – und ein Signal der Geschlossenheit senden.",
+        "title": "Sachsen-Anhalt: Wenn sich Siegmund zur Wahl stellt, will die CDU den Saal verlassen"
+      },
+      {
+        "source": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/deutschland/cdu-sachsen-anhalt-wahl-ministerpraesident-afd-siegmund-100.html",
+        "date": "2026-10-13T15:16:00.000Z",
+        "snippet": "Die CDU in Sachsen-Anhalt will an der im Dezember anstehenden Ministerpräsidentenwahl nicht teilnehmen. Die Abgeordneten stimmten dafür, währenddessen den Saal zu verlassen.",
+        "title": "Siegmund-Wahl in Sachsen-Anhalt: CDU will Saal verlassen"
+      }
+    ],
+    "title": "Sachsen-Anhalt: CDU will Saal bei Siegmund-Wahl verlassen – Weidel spottet",
+    "summary": "Sachsen-Anhalt: CDU will Saal bei Siegmund-Wahl verlassen – Weidel spottet Ulrich Siegmund will Ministerpräsident von Sachsen-Anhalt werden. Die CDU-Fraktion hat nun erklärt, wie sie sich bei der Wahl im Dezember verhalten wird. Die AfD-Spitze äußert sich.\nSachsen-Anhalt: Wenn sich Siegmund zur Wahl stellt, will die CDU den Saal verlassen Die CDU-Fraktion in Sachsen-Anhalt ist tief gespalten und zerstritten. Nun soll ein Plan helfen, weiteres Chaos zu vermeiden – und ein Signal der Geschlossenheit senden.\nSiegmund-Wahl in Sachsen-Anhalt: CDU will Saal verlassen Die CDU in Sachsen-Anhalt will an der im Dezember anstehenden Ministerpräsidentenwahl nicht teilnehmen. Die Abgeordneten stimmten dafür, währenddessen den Saal zu verlassen."
+  },
+  {
+    "id": "story-60",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "BY",
-    "date": "2026-10-13T20:16:23.000Z",
+    "date": "2026-10-14T00:50:56.000Z",
     "sources": [
+      {
+        "source": "RND",
+        "url": "https://www.rnd.de/promis/mord-an-rap-ikone-tupac-shakur-40-jahre-haft-fuer-drahtzieher-IMT62BAFJRBUHANXQRXDZKDKFI.html",
+        "date": "2026-10-14T00:50:56.000Z",
+        "snippet": "Der Mord an dem Rapper Tupac Shakur schockierte 1996 die Öffentlichkeit. Erst 30 Jahre später kam es zum Prozess, nun folgt eine lange Strafe. Angehörige des Rappers finden vor Gericht Gehör.",
+        "title": "Mord an Rap-Ikone Tupac Shakur: 40 Jahre Haft für Drahtzieher"
+      },
       {
         "source": "BR24 Bayern",
         "url": "https://www.br.de/nachrichten/deutschland-welt/mord-an-rapper-tupac-shakur-40-jahre-haft-fuer-drahtzieher,VXxYkai",
@@ -14,39 +53,50 @@
         "title": "Mord an Rapper Tupac Shakur: 40 Jahre Haft für Drahtzieher"
       },
       {
-        "source": "Frankfurter Allgemeine",
-        "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/mord-an-tupac-shakur-duane-davis-zu-40-jahren-haft-verurteilt-201315303.html",
-        "date": "2026-10-13T20:16:01.000Z",
-        "snippet": "Der Mord an dem Rapper Tupac Shakur schockierte 1996 die Öffentlichkeit. Erst 30 Jahre später kam es zum Prozess mit einem Schuldspruch. Jetzt verhängt eine Richterin eine lange Haftstrafe.",
-        "title": "40 Jahre Haft: Duane Davis als Drahtzieher für Mord an Tupac Shakur verurteilt"
-      },
-      {
         "source": "ZDF heute",
         "url": "https://www.zdfheute.de/panorama/kriminalitaet/tupac-shakur-mord-rapper-haft-duane-davis-100.html",
         "date": "2026-10-13T20:08:00.000Z",
         "snippet": "Duane Davis aka \"Keffe D\" wurde wegen des Mordes an Rapper Tupac Shakur verurteilt. Nun hat ein Gericht bekanntgegeben, dass er dafür mindestens 40 Jahre ins Gefängnis gehen soll.",
         "title": "Mord an Tupac Shakur: Mindestens 40 Jahre Haft für \"Keffe D\""
-      },
-      {
-        "source": "ntv",
-        "url": "https://www.n-tv.de/leute/40-Jahre-Haft-fuer-Drahtzieher-des-Mords-an-Rapper-Tupac-Shakur-id31414774.html",
-        "date": "2026-10-13T20:03:15.000Z",
-        "snippet": "Im September 1996 wird der Rapper Tupac in einem Auto in Las Vegas angeschossen und stirbt wenig später. Lange fehlen der Staatsanwaltschaft ausreichende Beweise, um den Auftraggeber anzuklagen. Doch dann werden einem Gang-Anführer die eigenen Aussagen zum Verhängnis.",
-        "title": "30 Jahre nach Schüssen in Vegas: 40 Jahre Haft für Drahtzieher des Mords an Rapper Tupac Shakur"
-      },
-      {
-        "source": "RND",
-        "url": "https://www.rnd.de/promis/mord-an-rap-ikone-tupac-shakur-40-jahre-haft-fuer-drahtzieher-IMT62BAFJRBUHANXQRXDZKDKFI.html",
-        "date": "2026-10-13T19:31:37.000Z",
-        "snippet": "Der Mord an dem Rapper Tupac Shakur schockierte 1996 die Öffentlichkeit. Erst 30 Jahre später kam es zum Prozess mit einem Schuldspruch für einen Drahtzieher. Jetzt wurde das Strafmaß verkündet.",
-        "title": "Mord an Rap-Ikone Tupac Shakur: 40 Jahre Haft für Drahtzieher"
       }
     ],
-    "title": "Mord an Rapper Tupac Shakur: 40 Jahre Haft für Drahtzieher",
-    "summary": "Mord an Rapper Tupac Shakur: 40 Jahre Haft für Drahtzieher Der Mord an dem Rapper Tupac Shakur schockierte 1996 die Öffentlichkeit. Erst 30 Jahre später kam es zum Prozess mit einem Schuldspruch. Jetzt verhängt eine Richterin eine lange Haftstrafe gegen den Drahtzieher der Tat.\n40 Jahre Haft: Duane Davis als Drahtzieher für Mord an Tupac Shakur verurteilt Der Mord an dem Rapper Tupac Shakur schockierte 1996 die Öffentlichkeit. Erst 30 Jahre später kam es zum Prozess mit einem Schuldspruch. Jetzt verhängt eine Richterin eine lange Haftstrafe.\nMord an Tupac Shakur: Mindestens 40 Jahre Haft für \"Keffe D\" Duane Davis aka \"Keffe D\" wurde wegen des Mordes an Rapper Tupac Shakur verurteilt. Nun hat ein Gericht bekanntgegeben, dass er dafür mindestens 40 Jahre ins Gefängnis gehen soll.\n30 Jahre nach Schüssen in Vegas: 40 Jahre Haft für Drahtzieher des Mords an Rapper Tupac Shakur Im September 1996 wird der Rapper Tupac in einem Auto in Las Vegas angeschossen und stirbt wenig später. Lange fehlen der Staatsanwaltschaft ausreichende Beweise, um den Auftraggeber anzuklagen. Doch dann werden einem Gang-Anführer die eigenen Aussagen zum Verhängnis.\nMord an Rap-Ikone Tupac Shakur: 40 Jahre Haft für Drahtzieher Der Mord an dem Rapper Tupac Shakur schockierte 1996 die Öffentlichkeit. Erst 30 Jahre später kam es zum Prozess mit einem Schuldspruch für einen Drahtzieher. Jetzt wurde das Strafmaß verkündet."
+    "title": "Mord an Rap-Ikone Tupac Shakur: 40 Jahre Haft für Drahtzieher",
+    "summary": "Mord an Rap-Ikone Tupac Shakur: 40 Jahre Haft für Drahtzieher Der Mord an dem Rapper Tupac Shakur schockierte 1996 die Öffentlichkeit. Erst 30 Jahre später kam es zum Prozess, nun folgt eine lange Strafe. Angehörige des Rappers finden vor Gericht Gehör.\nMord an Rapper Tupac Shakur: 40 Jahre Haft für Drahtzieher Der Mord an dem Rapper Tupac Shakur schockierte 1996 die Öffentlichkeit. Erst 30 Jahre später kam es zum Prozess mit einem Schuldspruch. Jetzt verhängt eine Richterin eine lange Haftstrafe gegen den Drahtzieher der Tat.\nMord an Tupac Shakur: Mindestens 40 Jahre Haft für \"Keffe D\" Duane Davis aka \"Keffe D\" wurde wegen des Mordes an Rapper Tupac Shakur verurteilt. Nun hat ein Gericht bekanntgegeben, dass er dafür mindestens 40 Jahre ins Gefängnis gehen soll."
   },
   {
-    "id": "story-72",
+    "id": "story-66",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-14T00:34:32.000Z",
+    "sources": [
+      {
+        "source": "RND",
+        "url": "https://www.rnd.de/panorama/berlin-polizist-schiesst-autofahrer-am-alexanderplatz-an-RU7EBBF5FZEPHF6CFWRZNSNU3M.html",
+        "date": "2026-10-14T00:34:32.000Z",
+        "snippet": "Nach einer Verfolgungsjagd in Berlin stoppt die Polizei einen Autofahrer. Bei der Kontrolle in der Nähe des Alexanderplatzes fällt mindestens ein Schuss. Was bisher bekannt ist.",
+        "title": "Berlin: Polizist schießt Autofahrer am Alexanderplatz an"
+      },
+      {
+        "source": "stern",
+        "url": "https://www.stern.de/gesellschaft/regional/berlin-brandenburg/keine-lebensgefahr--polizist-schiesst-autofahrer-in-berlin-mitte-an-38392716.html",
+        "date": "2026-10-13T23:10:22.000Z",
+        "snippet": "Nach einer Verfolgungsjagd stoppt die Polizei einen Autofahrer. Bei der Kontrolle in der Nähe des Alexanderplatzes fällt mindestens ein Schuss. Was bisher bekannt ist.",
+        "title": "Keine Lebensgefahr: Polizist schießt Autofahrer in Berlin-Mitte an"
+      },
+      {
+        "source": "WELT",
+        "url": "https://www.welt.de/vermischtes/article6aceb1bf8776d79fbd9cc060/fahrerfliucht-nach-verfolgungsjagd-polizist-schiesst-in-berlin-auf-autofahrer.html",
+        "date": "2026-10-13T22:39:54.000Z",
+        "snippet": "Die Polizei kann in Berlin, unweit des Alexanderplatzes, einen Fahrer stoppen, der nach einem Unfall Fahrerflucht begangen hat. Ein Polizist zieht seine Waffe und schießt auf den Mann. Er liegt im Krankenhaus.",
+        "title": "Nach Verfolgungsjagd – Polizist schießt in Berlin auf Autofahrer"
+      }
+    ],
+    "title": "Berlin: Polizist schießt Autofahrer am Alexanderplatz an",
+    "summary": "Berlin: Polizist schießt Autofahrer am Alexanderplatz an Nach einer Verfolgungsjagd in Berlin stoppt die Polizei einen Autofahrer. Bei der Kontrolle in der Nähe des Alexanderplatzes fällt mindestens ein Schuss. Was bisher bekannt ist.\nKeine Lebensgefahr: Polizist schießt Autofahrer in Berlin-Mitte an Nach einer Verfolgungsjagd stoppt die Polizei einen Autofahrer. Bei der Kontrolle in der Nähe des Alexanderplatzes fällt mindestens ein Schuss. Was bisher bekannt ist.\nNach Verfolgungsjagd – Polizist schießt in Berlin auf Autofahrer Die Polizei kann in Berlin, unweit des Alexanderplatzes, einen Fahrer stoppen, der nach einem Unfall Fahrerflucht begangen hat. Ein Polizist zieht seine Waffe und schießt auf den Mann. Er liegt im Krankenhaus."
+  },
+  {
+    "id": "story-165",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "",
@@ -78,103 +128,307 @@
     "summary": "Papst Leo XIV. hat Lungenkrebs Auf Anraten der Ärzte hatte sich Papst Leo XIV. einer Lungenoperation unterzogen. Laut Angaben des Vatikans habe sich dabei die vermutete Diagnose eines Lungenkarzinoms bestätigt.…\nPapst Leo XIV. hat Lungenkrebs - tagesschau.de <a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1xVnR4enBXY3JQaWNJeDIyeG5GVHE5N0R1LTYxVXlRUThUS2hjQ0JiTGotaWxUMHdTNDZ3VTJwTE1pMkRzMGR6VldMUXRiWVVLdTI2eUk4dm0xTE9oOUxPWUU2VlY3dTJyV1lxcjd5VVBLekhtUUw1UA?oc=5\" target=\"_blank\">Papst Leo XIV. hat Lungenkrebs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2k4b0l5VUVoRWJjUVJGcFhHUUdDZ0FQAQ?hl=de&gl=DE&ceid=DE:de&oc=5\" target=\"_blank\">Weitere Schlagzeilen und Meinungen in Google News</a></strong>\nNach OP: Lungenkrebs bei Papst Leo XIV. festgestellt Papst Leo XIV. leidet an Lungenkrebs. Dem 71-Jährigen sei bei einer Operation am Dienstag ein Teil des rechten Lungenflügels entfernt worden, teilte der Vatikan mit."
   },
   {
-    "id": "story-95",
-    "topic": "panorama",
+    "id": "story-4",
+    "topic": "politik",
     "country": "DE",
     "stateHint": "",
-    "date": "2026-10-13T21:41:31.000Z",
+    "date": "2026-10-14T01:59:59.000Z",
     "sources": [
       {
         "source": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/papst-leo-hat-lungenkrebs-teil-des-rechten-lungenfluegels-entfernt-104.html",
-        "date": "2026-10-13T21:41:31.000Z",
-        "snippet": "Papst Leo ist an Lungenkrebs erkrankt.",
-        "title": "Vatikan - Papst Leo hat Lungenkrebs - Teil des rechten Lungenflügels entfernt"
+        "url": "https://www.deutschlandfunk.de/schwarz-rote-koalition-einigt-sich-auf-zuckersteuer-102.html",
+        "date": "2026-10-14T01:59:59.000Z",
+        "snippet": "Union und SPD haben sich auf eine neue Zuckersteuer geeinigt. Wie mehrere Agenturen unter Verweis auf das Bundesfinanzministerium melden, liegt ein konkreter Entwurf vor, der heute im Kabinett verabschiedet werden soll.",
+        "title": "Mehreinnahmen - Schwarz-rote Koalition einigt sich auf Zuckersteuer"
       },
       {
-        "source": "Süddeutsche Zeitung",
-        "url": "https://www.sueddeutsche.de/politik/papst-leo-xiv-lungenkrebs-lungenadenokarzinom-operation-li.3563095",
-        "date": "2026-10-13T20:21:35.000Z",
-        "snippet": "Bei der Operation sei dem Papst ein Teil des rechten Lungenflügels entfernt worden, sagt sein Arzt. Der Eingriff verlief gut, aber der Befund ist besorgniserregend.",
-        "title": "Katholische Kirche: Vatikan: Papst Leo XIV. hat Lungenkrebs"
+        "source": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-bundesregierung-einigung-100.html",
+        "date": "2026-10-13T21:00:06.000Z",
+        "snippet": "Die Bundesregierung hat sich nach Angaben aus dem Finanzministerium beim Thema Zuckersteuer geeinigt. Einzelheiten sollen demnächst vorgestellt werden. Laut Medienberichten soll a…",
+        "title": "Schwarz-rote Koalition einig bei Zuckersteuer"
+      }
+    ],
+    "title": "Mehreinnahmen - Schwarz-rote Koalition einigt sich auf Zuckersteuer",
+    "summary": "Mehreinnahmen - Schwarz-rote Koalition einigt sich auf Zuckersteuer Union und SPD haben sich auf eine neue Zuckersteuer geeinigt. Wie mehrere Agenturen unter Verweis auf das Bundesfinanzministerium melden, liegt ein konkreter Entwurf vor, der heute im Kabinett verabschiedet werden soll.\nSchwarz-rote Koalition einig bei Zuckersteuer Die Bundesregierung hat sich nach Angaben aus dem Finanzministerium beim Thema Zuckersteuer geeinigt. Einzelheiten sollen demnächst vorgestellt werden. Laut Medienberichten soll a…"
+  },
+  {
+    "id": "story-7",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-14T01:59:59.000Z",
+    "sources": [
+      {
+        "source": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/gruenen-chefin-brantner-befuerwortet-sondierungsstopp-mit-linken-in-berlin-102.html",
+        "date": "2026-10-14T01:59:59.000Z",
+        "snippet": "Die Bundesvorsitzende der Grünen, Brantner, hat die Unterbrechung der Sondierungsgespräche zwischen ihrer Partei und der SPD mit den Linken in Berlin befürwortet.",
+        "title": "Antisemitismus-Streit - Grünen-Chefin Brantner befürwortet Sondierungsstopp mit Linken in Berlin"
+      },
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/politik/franziska-brantner-gruenen-chefin-befuerwortet-sondierungsstopp-mit-linken-in-berlin-a-67f09215-4bd1-4719-81b1-15adc510022c#ref=rss",
+        "date": "2026-10-13T20:10:00.000Z",
+        "snippet": "»Die Linkspartei hat sich nicht an die Abmachung gehalten. Und das ist bedauerlich«: Franziska Brantner wird beim Maischberger-Talk deutlich. Sie vermisst Verlässlichkeit und Vertrauen.",
+        "title": "Franziska Brantner: Grünen-Chefin befürwortet Sondierungsstopp mit Linken in Berlin"
+      }
+    ],
+    "title": "Antisemitismus-Streit - Grünen-Chefin Brantner befürwortet Sondierungsstopp mit Linken in Berlin",
+    "summary": "Antisemitismus-Streit - Grünen-Chefin Brantner befürwortet Sondierungsstopp mit Linken in Berlin Die Bundesvorsitzende der Grünen, Brantner, hat die Unterbrechung der Sondierungsgespräche zwischen ihrer Partei und der SPD mit den Linken in Berlin befürwortet.\nFranziska Brantner: Grünen-Chefin befürwortet Sondierungsstopp mit Linken in Berlin »Die Linkspartei hat sich nicht an die Abmachung gehalten. Und das ist bedauerlich«: Franziska Brantner wird beim Maischberger-Talk deutlich. Sie vermisst Verlässlichkeit und Vertrauen."
+  },
+  {
+    "id": "story-12",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "HH",
+    "date": "2026-10-14T01:59:59.000Z",
+    "sources": [
+      {
+        "source": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/prozess-um-anschlaege-auf-nord-stream-pipeline-beginnt-102.html",
+        "date": "2026-10-14T01:59:59.000Z",
+        "snippet": "Rund vier Jahre nach den Anschlägen auf die Nord-Stream-Pipelines beginnt heute der Prozess gegen einen der mutmaßlichen Täter.",
+        "title": "Hamburg - Prozess um Anschläge auf Nord-Stream-Pipeline beginnt"
+      },
+      {
+        "source": "Tagesschau Regional Hamburg",
+        "url": "https://www.tagesschau.de/inland/regional/hamburg/riesiges-interesse-nord-stream-prozess-beginnt-in-hamburg,nord-stream-prozess-auftakt-100.html",
+        "date": "2026-10-13T22:00:05.000Z",
+        "snippet": "Vier Jahre nach der Sprengung der Gas-Pipelines in der Ostsee steht von heute an der Ukrainer Serhii K. vor Gericht. Der Prozess wird auch im Ausland genau beobachtet.",
+        "title": "Riesiges Interesse: Nord-Stream-Prozess beginnt in Hamburg"
+      }
+    ],
+    "title": "Hamburg - Prozess um Anschläge auf Nord-Stream-Pipeline beginnt",
+    "summary": "Hamburg - Prozess um Anschläge auf Nord-Stream-Pipeline beginnt Rund vier Jahre nach den Anschlägen auf die Nord-Stream-Pipelines beginnt heute der Prozess gegen einen der mutmaßlichen Täter.\nRiesiges Interesse: Nord-Stream-Prozess beginnt in Hamburg Vier Jahre nach der Sprengung der Gas-Pipelines in der Ostsee steht von heute an der Ukrainer Serhii K. vor Gericht. Der Prozess wird auch im Ausland genau beobachtet."
+  },
+  {
+    "id": "story-13",
+    "topic": "wirtschaft",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-14T01:59:59.000Z",
+    "sources": [
+      {
+        "source": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/milliardenstrafe-gegen-bank-of-america-102.html",
+        "date": "2026-10-14T01:59:59.000Z",
+        "snippet": "Das Finanzministerium in Washington hat gegen die Bank of America eine Strafzahlung von 1,2 ‌Milliarden ⁠Dollar verhängt - wegen Versäumnissen bei ⁠der Geldwäschebekämpfung.",
+        "title": "Geldwäsche-Versäumnisse - Milliardenstrafe gegen Bank of America"
       },
       {
         "source": "WELT",
-        "url": "https://www.welt.de/politik/ausland/article6ace710f8776d79fbd9cbe39/papst-leo-xiv-hat-lungenkrebs-teil-des-rechten-lungenfluegels-entfernt.html",
-        "date": "2026-10-13T20:15:00.000Z",
-        "snippet": "Leo XIV. wurde am Dienstag operiert. Dabei stellten die Ärzte fest, dass der Papst an Lungenkrebs leidet. Der Eingriff sei erfolgreich verlaufen, teilte der Vatikan mit.",
-        "title": "Papst Leo XIV. hat Lungenkrebs – Teil des rechten Lungenflügels entfernt"
+        "url": "https://www.welt.de/wirtschaft/article6aced7ee8776d79fbd9cc0d5/us-finanzbehoerde-milliardenstrafe-fuer-bank-of-america-wegen-geldwaescheversaeumnissen.html",
+        "date": "2026-10-14T01:28:36.000Z",
+        "snippet": "Die Bank of America soll ihren Verpflichtungen zur Bekämpfung von Geldwäsche nicht ausreichend nachgekommen sein. Das Finanzministerium verdonnerte sie nun zu einer Zahlung von 1,2 Milliarden Dollar.",
+        "title": "Milliardenstrafe für Bank of America wegen Geldwäscheversäumnissen"
       }
     ],
-    "title": "Vatikan - Papst Leo hat Lungenkrebs - Teil des rechten Lungenflügels entfernt",
-    "summary": "Vatikan - Papst Leo hat Lungenkrebs - Teil des rechten Lungenflügels entfernt Papst Leo ist an Lungenkrebs erkrankt.\nKatholische Kirche: Vatikan: Papst Leo XIV. hat Lungenkrebs Bei der Operation sei dem Papst ein Teil des rechten Lungenflügels entfernt worden, sagt sein Arzt. Der Eingriff verlief gut, aber der Befund ist besorgniserregend.\nPapst Leo XIV. hat Lungenkrebs – Teil des rechten Lungenflügels entfernt Leo XIV. wurde am Dienstag operiert. Dabei stellten die Ärzte fest, dass der Papst an Lungenkrebs leidet. Der Eingriff sei erfolgreich verlaufen, teilte der Vatikan mit."
+    "title": "Geldwäsche-Versäumnisse - Milliardenstrafe gegen Bank of America",
+    "summary": "Geldwäsche-Versäumnisse - Milliardenstrafe gegen Bank of America Das Finanzministerium in Washington hat gegen die Bank of America eine Strafzahlung von 1,2 ‌Milliarden ⁠Dollar verhängt - wegen Versäumnissen bei ⁠der Geldwäschebekämpfung.\nMilliardenstrafe für Bank of America wegen Geldwäscheversäumnissen Die Bank of America soll ihren Verpflichtungen zur Bekämpfung von Geldwäsche nicht ausreichend nachgekommen sein. Das Finanzministerium verdonnerte sie nun zu einer Zahlung von 1,2 Milliarden Dollar."
   },
   {
-    "id": "story-154",
+    "id": "story-14",
     "topic": "panorama",
-    "country": "INT",
+    "country": "DE",
     "stateHint": "",
-    "date": "2026-10-13T21:05:07.000Z",
+    "date": "2026-10-14T01:59:59.000Z",
     "sources": [
+      {
+        "source": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/afrika-faellt-laut-hilfsorganisationen-weiter-zurueck-102.html",
+        "date": "2026-10-14T01:59:59.000Z",
+        "snippet": "Der Kampf gegen den Hunger kommt nach Angaben von Hilfsorganisationen weltweit kaum noch voran.",
+        "title": "Hungerkrisen - Afrika fällt laut Hilfsorganisationen weiter zurück"
+      },
+      {
+        "source": "RND",
+        "url": "https://www.rnd.de/wissen/kampf-gegen-hunger-kommt-weltweit-kaum-voran-afrika-faellt-weiter-zurueck-O2XW6JA4ORF2LCTOQK4JPPC5J4.html",
+        "date": "2026-10-13T23:26:02.000Z",
+        "snippet": "Weltweit geht die Unterernährung leicht zurück, doch in Afrika verschlechtert sich die Lage. Besonders im Sudan, in Nigeria und im Kongo ist die Not groß. Zugleich wird internationale Hilfe knapper.",
+        "title": "Kampf gegen Hunger kommt weltweit kaum voran – Afrika fällt weiter zurück"
+      }
+    ],
+    "title": "Hungerkrisen - Afrika fällt laut Hilfsorganisationen weiter zurück",
+    "summary": "Hungerkrisen - Afrika fällt laut Hilfsorganisationen weiter zurück Der Kampf gegen den Hunger kommt nach Angaben von Hilfsorganisationen weltweit kaum noch voran.\nKampf gegen Hunger kommt weltweit kaum voran – Afrika fällt weiter zurück Weltweit geht die Unterernährung leicht zurück, doch in Afrika verschlechtert sich die Lage. Besonders im Sudan, in Nigeria und im Kongo ist die Not groß. Zugleich wird internationale Hilfe knapper."
+  },
+  {
+    "id": "story-16",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-14T01:59:59.000Z",
+    "sources": [
+      {
+        "source": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/deutschland-kehrt-in-den-uno-menschenrechtsrat-zurueck-106.html",
+        "date": "2026-10-14T01:59:59.000Z",
+        "snippet": "Deutschland gehört ab nächstem Jahr wieder dem UNO-Menschenrechtsrat an.",
+        "title": "New York - Deutschland kehrt in den UNO-Menschenrechtsrat zurück"
+      },
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/politik/deutschland/uno-menschenrechtsrat-deutschland-kehrt-2027-ins-gremium-zurueck-a-233bb486-f4a2-4db3-86e2-153414d58bc7#ref=rss",
+        "date": "2026-10-13T18:08:00.000Z",
+        "snippet": "Ab 2027 ist die Bundesrepublik wieder im Uno-Menschenrechtsrat vertreten. Bei der Wahl in New York erhielt die Bundesrepublik deutlich mehr Stimmen als nötig.",
+        "title": "Uno-Menschenrechtsrat: Deutschland kehrt 2027 ins Gremium zurück"
+      }
+    ],
+    "title": "New York - Deutschland kehrt in den UNO-Menschenrechtsrat zurück",
+    "summary": "New York - Deutschland kehrt in den UNO-Menschenrechtsrat zurück Deutschland gehört ab nächstem Jahr wieder dem UNO-Menschenrechtsrat an.\nUno-Menschenrechtsrat: Deutschland kehrt 2027 ins Gremium zurück Ab 2027 ist die Bundesrepublik wieder im Uno-Menschenrechtsrat vertreten. Bei der Wahl in New York erhielt die Bundesrepublik deutlich mehr Stimmen als nötig."
+  },
+  {
+    "id": "story-57",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-14T00:54:58.000Z",
+    "sources": [
+      {
+        "source": "stern",
+        "url": "https://www.stern.de/news/eurojackpot-geknackt--120-millionen-euro-gehen-nach-nordrhein-westfalen-38392264.html",
+        "date": "2026-10-14T00:54:58.000Z",
+        "snippet": "Ein Lottospieler aus Nordrhein-Westfalen hat den Eurojackpot mit dem größtmöglichen Gewinn von 120 Millionen Euro geknackt. Wie der Online-Lotterieanbieter Lotto24 am Dienstagabend mitteilte, hatte der 35-Jährige aus dem Kreis Mettmann 36,80 Euro für seinen Spielschein gezahlt. Er tippte in der Gewinnklasse eins auf die richtigen Gewinnzahlen 11, 17, 20, 22 und 35 sowie die richtigen Eurozahlen 4 und 8.",
+        "title": "Eurojackpot geknackt: 120 Millionen Euro gehen nach Nordrhein-Westfalen"
+      },
+      {
+        "source": "RND",
+        "url": "https://www.rnd.de/panorama/eurojackpot-geknackt-120-millionen-euro-gehen-nach-nrw-N2THRZGDSNAEFCRZEIHOYOEFS4.html",
+        "date": "2026-10-13T19:06:18.000Z",
+        "snippet": "Um 120 Millionen Euro ging es bei der Lotterie Eurojackpot – die größtmögliche Gewinnsumme für Lotteriespieler in Deutschland. Tatsächlich wurde der richtige Tipp in Deutschland abgegeben.",
+        "title": "Eurojackpot geknackt: 120 Millionen Euro gehen nach NRW"
+      }
+    ],
+    "title": "Eurojackpot geknackt: 120 Millionen Euro gehen nach Nordrhein-Westfalen",
+    "summary": "Eurojackpot geknackt: 120 Millionen Euro gehen nach Nordrhein-Westfalen Ein Lottospieler aus Nordrhein-Westfalen hat den Eurojackpot mit dem größtmöglichen Gewinn von 120 Millionen Euro geknackt. Wie der Online-Lotterieanbieter Lotto24 am Dienstagabend mitteilte, hatte der 35-Jährige aus dem Kreis Mettmann 36,80 Euro für seinen Spielschein gezahlt. Er tippte in der Gewinnklasse eins auf die richtigen Gewinnzahlen 11, 17, 20, 22 und 35 sowie die richtigen Eurozahlen 4 und 8.\nEurojackpot geknackt: 120 Millionen Euro gehen nach NRW Um 120 Millionen Euro ging es bei der Lotterie Eurojackpot – die größtmögliche Gewinnsumme für Lotteriespieler in Deutschland. Tatsächlich wurde der richtige Tipp in Deutschland abgegeben."
+  },
+  {
+    "id": "story-62",
+    "topic": "technik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-14T00:45:02.000Z",
+    "sources": [
+      {
+        "source": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/ausland/europa/finnland-google-rechenzentren-100.html",
+        "date": "2026-10-14T00:45:02.000Z",
+        "snippet": "Google will Milliarden in Finnlands digitale Infrastruktur investieren. Doch für ein geplantes Rechenzentrum wurden mehr als 300 Hektar Wald gerodet: offenbar ohne die vorgeschrie…",
+        "title": "KI-Boom auf Kosten der Natur?"
+      },
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/europa/finnland-google-rechenzentren-100.html",
+        "date": "2026-10-14T00:31:01.000Z",
+        "snippet": "Google will Milliarden in Finnlands digitale Infrastruktur investieren. Doch für ein geplantes Rechenzentrum wurden mehr als 300 Hektar Wald gerodet: offenbar ohne die vorgeschriebenen Genehmigungen. Von A. Bartram.",
+        "title": "Finnland: KI-Boom auf Kosten der Natur?"
+      }
+    ],
+    "title": "KI-Boom auf Kosten der Natur?",
+    "summary": "KI-Boom auf Kosten der Natur? Google will Milliarden in Finnlands digitale Infrastruktur investieren. Doch für ein geplantes Rechenzentrum wurden mehr als 300 Hektar Wald gerodet: offenbar ohne die vorgeschrie…\nFinnland: KI-Boom auf Kosten der Natur? Google will Milliarden in Finnlands digitale Infrastruktur investieren. Doch für ein geplantes Rechenzentrum wurden mehr als 300 Hektar Wald gerodet: offenbar ohne die vorgeschriebenen Genehmigungen. Von A. Bartram."
+  },
+  {
+    "id": "story-64",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-14T00:36:50.000Z",
+    "sources": [
+      {
+        "source": "stern",
+        "url": "https://www.stern.de/lifestyle/kriminalitaet--mord-an-rapper-tupac-shakur--40-jahre-haft-fuer-duane-davis-38392270.html",
+        "date": "2026-10-14T00:36:50.000Z",
+        "snippet": "Der Mord an dem Rapper Tupac Shakur schockierte 1996 die Öffentlichkeit. Erst 30 Jahre später kam es zum Prozess, nun folgt eine lange Strafe. Angehörige des Rappers finden vor Gericht Gehör.",
+        "title": "Kriminalität: Mord an Rapper Tupac Shakur: 40 Jahre Haft für Duane Davis"
+      },
+      {
+        "source": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/mord-an-tupac-shakur-duane-davis-zu-40-jahren-haft-verurteilt-201315303.html",
+        "date": "2026-10-13T20:16:01.000Z",
+        "snippet": "Der Mord an dem Rapper Tupac Shakur schockierte 1996 die Öffentlichkeit. Erst 30 Jahre später kam es zum Prozess mit einem Schuldspruch. Jetzt verhängt eine Richterin eine lange Haftstrafe.",
+        "title": "40 Jahre Haft: Duane Davis als Drahtzieher für Mord an Tupac Shakur verurteilt"
+      }
+    ],
+    "title": "Kriminalität: Mord an Rapper Tupac Shakur: 40 Jahre Haft für Duane Davis",
+    "summary": "Kriminalität: Mord an Rapper Tupac Shakur: 40 Jahre Haft für Duane Davis Der Mord an dem Rapper Tupac Shakur schockierte 1996 die Öffentlichkeit. Erst 30 Jahre später kam es zum Prozess, nun folgt eine lange Strafe. Angehörige des Rappers finden vor Gericht Gehör.\n40 Jahre Haft: Duane Davis als Drahtzieher für Mord an Tupac Shakur verurteilt Der Mord an dem Rapper Tupac Shakur schockierte 1996 die Öffentlichkeit. Erst 30 Jahre später kam es zum Prozess mit einem Schuldspruch. Jetzt verhängt eine Richterin eine lange Haftstrafe."
+  },
+  {
+    "id": "story-71",
+    "topic": "panorama",
+    "country": "UK",
+    "stateHint": "",
+    "date": "2026-10-14T00:17:00.000Z",
+    "sources": [
+      {
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-14T00:17:00.000Z",
+        "snippet": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
+        "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says"
+      },
       {
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/vatican-confirms-pope-leos-surgery-was-successful?traffic_source=rss",
         "date": "2026-10-13T21:05:07.000Z",
         "snippet": "The Vatican says Pope Leo XIV’s surgery to remove a small lung growth went well and as expected",
         "title": "Vatican confirms Pope Leo’s surgery was successful"
-      },
+      }
+    ],
+    "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+    "summary": "Pope diagnosed with lung cancer but had successful surgery, Vatican says Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.\nVatican confirms Pope Leo’s surgery was successful The Vatican says Pope Leo XIV’s surgery to remove a small lung growth went well and as expected"
+  },
+  {
+    "id": "story-84",
+    "topic": "panorama",
+    "country": "INT",
+    "stateHint": "",
+    "date": "2026-10-13T23:42:57.000Z",
+    "sources": [
       {
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-13T20:46:06.000Z",
-        "snippet": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
-        "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says"
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/13/ex-gang-leader-gets-40-years-to-life-for-rapper-tupac-shakurs-1996-murder?traffic_source=rss",
+        "date": "2026-10-13T23:42:57.000Z",
+        "snippet": "A 30-year hunt for justice ends with the sentencing of Duane 'Keffe D' Davis, who has written about Shakur's shooting.",
+        "title": "Ex-gang leader gets 40 years to life for rapper Tupac Shakur’s 1996 murder"
       },
       {
         "source": "France24 English",
-        "url": "https://www.france24.com/en/europe/20261012-what-we-know-about-pope-leo-xiv-planned-lung-operation-this-week",
-        "date": "2026-10-13T20:44:58.000Z",
-        "snippet": "",
-        "title": "🔴 Surgery on Pope Leo's cancerous lung nodule went well, Vatican says"
+        "url": "https://www.france24.com/en/americas/20261013-former-gang-leader-sentenced-to-40-years-to-life-for-tupac-shakur-murder",
+        "date": "2026-10-13T19:57:31.000Z",
+        "snippet": "Duane “Keffe D” Davis, the former Los Angeles gang leader who boasted in books and interviews of his involvement in the killing of rapper Tupac Shakur, only to deny it when he came to trial, was sentenced to a minimum 40 years in prison on Tuesday.",
+        "title": "Former gang leader sentenced to 40 years to life for Tupac Shakur murder"
       }
     ],
-    "title": "Vatican confirms Pope Leo’s surgery was successful",
-    "summary": "Vatican confirms Pope Leo’s surgery was successful The Vatican says Pope Leo XIV’s surgery to remove a small lung growth went well and as expected\nPope diagnosed with lung cancer but had successful surgery, Vatican says Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.\n🔴 Surgery on Pope Leo's cancerous lung nodule went well, Vatican says "
+    "title": "Ex-gang leader gets 40 years to life for rapper Tupac Shakur’s 1996 murder",
+    "summary": "Ex-gang leader gets 40 years to life for rapper Tupac Shakur’s 1996 murder A 30-year hunt for justice ends with the sentencing of Duane 'Keffe D' Davis, who has written about Shakur's shooting.\nFormer gang leader sentenced to 40 years to life for Tupac Shakur murder Duane “Keffe D” Davis, the former Los Angeles gang leader who boasted in books and interviews of his involvement in the killing of rapper Tupac Shakur, only to deny it when he came to trial, was sentenced to a minimum 40 years in prison on Tuesday."
   },
   {
-    "id": "story-432",
+    "id": "story-99",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
-    "date": "2026-10-13T17:54:31.000Z",
+    "date": "2026-10-13T23:12:00.000Z",
     "sources": [
       {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-beklagt-fehlende-warnung-vor-russischen-raketen-a-799321a4-f02f-43bf-a475-238c1fc5846c#ref=rss",
+        "date": "2026-10-13T23:12:00.000Z",
+        "snippet": "Die zweite Nacht in Folge meldet der ukrainische Präsident schwere Angriffe auf sein Land, in Kyjiw wurden demnach ein Wohnblock und ein Heizkraftwerk getroffen. Und: Erneut habe es keine Vorwarnung der Verbündeten gegeben.",
+        "title": "Russland-Ukraine-Krieg: Wolodymyr Selenskyj beklagt fehlende Warnung vor russischen Raketen"
+      },
+      {
         "source": "t-online Nachrichten",
-        "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101479896/sachsen-anhalt-cdu-will-siegmund-wahl-saal-verlassen-weidel-spottet.html",
-        "date": "2026-10-13T17:54:31.000Z",
-        "snippet": "Ulrich Siegmund will Ministerpräsident von Sachsen-Anhalt werden. Die CDU-Fraktion hat nun erklärt, wie sie sich bei der Wahl im Dezember verhalten wird. Die AfD-Spitze äußert sich.",
-        "title": "Sachsen-Anhalt: CDU will Siegmund-Wahl Saal verlassen – Weidel spottet"
-      },
-      {
-        "source": "Süddeutsche Zeitung",
-        "url": "https://www.sueddeutsche.de/politik/sachsen-anhalt-siegmund-ministerpraesident-wahl-cdu-li.3560633",
-        "date": "2026-10-13T15:19:32.000Z",
-        "snippet": "Die CDU-Fraktion in Sachsen-Anhalt ist tief gespalten und zerstritten. Nun soll ein Plan helfen, weiteres Chaos zu vermeiden – und ein Signal der Geschlossenheit senden.",
-        "title": "Sachsen-Anhalt: Wenn sich Siegmund zur Wahl stellt, will die CDU den Saal verlassen"
-      },
-      {
-        "source": "ZDF heute",
-        "url": "https://www.zdfheute.de/politik/deutschland/cdu-sachsen-anhalt-wahl-ministerpraesident-afd-siegmund-100.html",
-        "date": "2026-10-13T15:16:00.000Z",
-        "snippet": "Die CDU in Sachsen-Anhalt will an der im Dezember anstehenden Ministerpräsidentenwahl nicht teilnehmen. Die Abgeordneten stimmten dafür, währenddessen den Saal zu verlassen.",
-        "title": "Siegmund-Wahl in Sachsen-Anhalt: CDU will Saal verlassen"
+        "url": "https://www.t-online.de/nachrichten/ausland/internationale-politik/id_101477082/ukraine-krieg-i-selenskyj-beklagt-fehlende-warnung-vor-russischen-raketen.html",
+        "date": "2026-10-13T22:13:01.000Z",
+        "snippet": "Präsident Selenskyj fühlt sich im Stich gelassen und appelliert an die Verbündeten. Russland wirft er trotz der angekündigten Energie-Waffenruhe weitere Angriffe vor. Alle Entwicklungen im Newsblog.",
+        "title": "Ukraine-Krieg I Selenskyj beklagt fehlende Warnung vor russischen Raketen"
       }
     ],
-    "title": "Sachsen-Anhalt: CDU will Siegmund-Wahl Saal verlassen – Weidel spottet",
-    "summary": "Sachsen-Anhalt: CDU will Siegmund-Wahl Saal verlassen – Weidel spottet Ulrich Siegmund will Ministerpräsident von Sachsen-Anhalt werden. Die CDU-Fraktion hat nun erklärt, wie sie sich bei der Wahl im Dezember verhalten wird. Die AfD-Spitze äußert sich.\nSachsen-Anhalt: Wenn sich Siegmund zur Wahl stellt, will die CDU den Saal verlassen Die CDU-Fraktion in Sachsen-Anhalt ist tief gespalten und zerstritten. Nun soll ein Plan helfen, weiteres Chaos zu vermeiden – und ein Signal der Geschlossenheit senden.\nSiegmund-Wahl in Sachsen-Anhalt: CDU will Saal verlassen Die CDU in Sachsen-Anhalt will an der im Dezember anstehenden Ministerpräsidentenwahl nicht teilnehmen. Die Abgeordneten stimmten dafür, währenddessen den Saal zu verlassen."
+    "title": "Russland-Ukraine-Krieg: Wolodymyr Selenskyj beklagt fehlende Warnung vor russischen Raketen",
+    "summary": "Russland-Ukraine-Krieg: Wolodymyr Selenskyj beklagt fehlende Warnung vor russischen Raketen Die zweite Nacht in Folge meldet der ukrainische Präsident schwere Angriffe auf sein Land, in Kyjiw wurden demnach ein Wohnblock und ein Heizkraftwerk getroffen. Und: Erneut habe es keine Vorwarnung der Verbündeten gegeben.\nUkraine-Krieg I Selenskyj beklagt fehlende Warnung vor russischen Raketen Präsident Selenskyj fühlt sich im Stich gelassen und appelliert an die Verbündeten. Russland wirft er trotz der angekündigten Energie-Waffenruhe weitere Angriffe vor. Alle Entwicklungen im Newsblog."
   },
   {
-    "id": "story-18",
+    "id": "story-113",
     "topic": "wirtschaft",
     "country": "DE",
     "stateHint": "",
@@ -199,82 +453,57 @@
     "summary": "US-Großbank: Über 1,2 Milliarden Dollar Strafe für Bank of Amerika Der Bank of America steht eine Milliarden-Strafzahlung ins Haus. Der US-Regierung zufolge waren ihre Kontrollen unter anderem bei Geldwäsche nicht strikt genug.\nUSA: Bank of America muss Milliarden-Strafe zahlen Der Bank of America steht eine Milliarden-Strafzahlung ins Haus. Der US-Regierung zufolge waren ihre Kontrollen unter anderem bei Geldwäsche nicht strikt genug."
   },
   {
-    "id": "story-71",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "HH",
-    "date": "2026-10-13T22:00:05.000Z",
-    "sources": [
-      {
-        "source": "Tagesschau Regional Hamburg",
-        "url": "https://www.tagesschau.de/inland/regional/hamburg/riesiges-interesse-nord-stream-prozess-beginnt-in-hamburg,nord-stream-prozess-auftakt-100.html",
-        "date": "2026-10-13T22:00:05.000Z",
-        "snippet": "Vier Jahre nach der Sprengung der Gas-Pipelines in der Ostsee steht von heute an der Ukrainer Serhii K. vor Gericht. Der Prozess wird auch im Ausland genau beobachtet.",
-        "title": "Riesiges Interesse: Nord-Stream-Prozess beginnt in Hamburg"
-      },
-      {
-        "source": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/prozess-um-anschlaege-auf-nord-stream-pipeline-beginnt-102.html",
-        "date": "2026-10-13T21:41:31.000Z",
-        "snippet": "Rund vier Jahre nach den Anschlägen auf die Nord-Stream-Pipelines beginnt heute der Prozess gegen einen der mutmaßlichen Täter.",
-        "title": "Hamburg - Prozess um Anschläge auf Nord-Stream-Pipeline beginnt"
-      }
-    ],
-    "title": "Riesiges Interesse: Nord-Stream-Prozess beginnt in Hamburg",
-    "summary": "Riesiges Interesse: Nord-Stream-Prozess beginnt in Hamburg Vier Jahre nach der Sprengung der Gas-Pipelines in der Ostsee steht von heute an der Ukrainer Serhii K. vor Gericht. Der Prozess wird auch im Ausland genau beobachtet.\nHamburg - Prozess um Anschläge auf Nord-Stream-Pipeline beginnt Rund vier Jahre nach den Anschlägen auf die Nord-Stream-Pipelines beginnt heute der Prozess gegen einen der mutmaßlichen Täter."
-  },
-  {
-    "id": "story-88",
+    "id": "story-119",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "",
-    "date": "2026-10-13T21:49:00.000Z",
+    "date": "2026-10-13T22:51:00.000Z",
     "sources": [
-      {
-        "source": "stern",
-        "url": "https://www.stern.de/lifestyle/leute/lola-weippert--tumor-nun-auch-in-der-anderen-brust-38392732.html",
-        "date": "2026-10-13T21:49:00.000Z",
-        "snippet": "Lola Weippert muss erneut um ihre Gesundheit bangen. Die Moderatorin wendet sich mit einer klaren Bitte an ihre Fans.",
-        "title": "Lola Weippert: Tumor nun auch in der anderen Brust"
-      },
       {
         "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTlNjR0UwamZ5MzZUN3U1NVdWR05UNXMyLU5pZDNzZkFCZFE5aDRpcjAwd055TUprNmRFM0JWWDhxRzdadjBKaDU2eGdmeUxSWTh1eWo4MlUtYmJ1ZnlWRHZHRXJFYllGYWlidjRMSThXVGxJU3Roc0hyOHAxalh6ckI5Yw?oc=5",
-        "date": "2026-10-13T21:46:13.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPTlNjR0UwamZ5MzZUN3U1NVdWR05UNXMyLU5pZDNzZkFCZFE5aDRpcjAwd055TUprNmRFM0JWWDhxRzdadjBKaDU2eGdmeUxSWTh1eWo4MlUtYmJ1ZnlWRHZHRXJFYllGYWlidjRMSThXVGxJU3Roc0hyOHAxalh6ckI5Yw?oc=5\" target=\"_blank\">Lola Weippert: Tumor nun auch in der anderen Brust</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEB.DE</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQSGFQZm5HMkxjXzNvUTdHNVlsX1BWM21qaEc1a29nbWtYVkg5eUJ3bEJKdGZCcUtvS19teG9SMzVkb05wMGI1TnJYNzBYX0QwQ1QwbFZSSkFtVmRKa2hCWWJxbFozTXFSemdlQ1FrZ0JyZVI5VVV6SXRBa0lsRnA1NEpPbGJneDktSjhzMVlmVEE0MElQWXRoU1dJX0U3ZHEtdHhJQ1E2Ny1CelZUc29GM1ljZ2pDZ1JlRkw0cnpB?oc=5\" target=\"_blank\">Lo",
-        "title": "Lola Weippert: Tumor nun auch in der anderen Brust - WEB.DE"
-      }
-    ],
-    "title": "Lola Weippert: Tumor nun auch in der anderen Brust",
-    "summary": "Lola Weippert: Tumor nun auch in der anderen Brust Lola Weippert muss erneut um ihre Gesundheit bangen. Die Moderatorin wendet sich mit einer klaren Bitte an ihre Fans.\nLola Weippert: Tumor nun auch in der anderen Brust - WEB.DE <ol><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPTlNjR0UwamZ5MzZUN3U1NVdWR05UNXMyLU5pZDNzZkFCZFE5aDRpcjAwd055TUprNmRFM0JWWDhxRzdadjBKaDU2eGdmeUxSWTh1eWo4MlUtYmJ1ZnlWRHZHRXJFYllGYWlidjRMSThXVGxJU3Roc0hyOHAxalh6ckI5Yw?oc=5\" target=\"_blank\">Lola Weippert: Tumor nun auch in der anderen Brust</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEB.DE</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQSGFQZm5HMkxjXzNvUTdHNVlsX1BWM21qaEc1a29nbWtYVkg5eUJ3bEJKdGZCcUtvS19teG9SMzVkb05wMGI1TnJYNzBYX0QwQ1QwbFZSSkFtVmRKa2hCWWJxbFozTXFSemdlQ1FrZ0JyZVI5VVV6SXRBa0lsRnA1NEpPbGJneDktSjhzMVlmVEE0MElQWXRoU1dJX0U3ZHEtdHhJQ1E2Ny1CelZUc29GM1ljZ2pDZ1JlRkw0cnpB?oc=5\" target=\"_blank\">Lo"
-  },
-  {
-    "id": "story-98",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-13T21:41:31.000Z",
-    "sources": [
-      {
-        "source": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/deutschland-kehrt-in-den-uno-menschenrechtsrat-zurueck-106.html",
-        "date": "2026-10-13T21:41:31.000Z",
-        "snippet": "Deutschland gehört ab nächstem Jahr wieder dem UNO-Menschenrechtsrat an.",
-        "title": "New York - Deutschland kehrt in den UNO-Menschenrechtsrat zurück"
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcDIyOGJoTUxidHk3RGhvVmxwUXNZN3ZYU2NGQTNOc09oNG1wV2c2UWxYSmh3NDYxOFNyNTJPV0Z5d0FTTHQwek9mQkJPV21LU2F6R0pVM3RuY0xOSVdBa0J4TjkxN3JZLU0yRWtZcDdyeXV3TV9uUXN5Ql9RR3hQWlFvNW1Ubm9CeTd3OG4zYWhWclZIVFpoRW5BZ19Jd3JwZ2s3UUtjUlpNbkFWdS1zc3Y3ZzlGYUJnY3VhSTZ0ZFRyWENORlJET0cxRnROLVI2YjNVS2NqMUh1WmJFanJv?oc=5",
+        "date": "2026-10-13T22:51:00.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcDIyOGJoTUxidHk3RGhvVmxwUXNZN3ZYU2NGQTNOc09oNG1wV2c2UWxYSmh3NDYxOFNyNTJPV0Z5d0FTTHQwek9mQkJPV21LU2F6R0pVM3RuY0xOSVdBa0J4TjkxN3JZLU0yRWtZcDdyeXV3TV9uUXN5Ql9RR3hQWlFvNW1Ubm9CeTd3OG4zYWhWclZIVFpoRW5BZ19Jd3JwZ2s3UUtjUlpNbkFWdS1zc3Y3ZzlGYUJnY3VhSTZ0ZFRyWENORlJET0cxRnROLVI2YjNVS2NqMUh1WmJFanJv?oc=5\" target=\"_blank\">Ingenieur soll Abhörgerät bei OpenAI-Führung installiert haben – Festnahme durch FBI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUmJITVV6Yk4zT0Y1MFhGeUYwcGNJZUozTVhTUTFPVVl5NG9VRUctT0FOVkxmN3RVcnh0cWlEdjBEc2dFQ3JMZmdCZVhYTVJDSkJjYmNkRVFsRWlj",
+        "title": "Ingenieur soll Abhörgerät bei OpenAI-Führung installiert haben – Festnahme durch FBI - Spiegel"
       },
       {
         "source": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/politik/deutschland/uno-menschenrechtsrat-deutschland-kehrt-2027-ins-gremium-zurueck-a-233bb486-f4a2-4db3-86e2-153414d58bc7#ref=rss",
-        "date": "2026-10-13T18:08:00.000Z",
-        "snippet": "Ab 2027 ist die Bundesrepublik wieder im Uno-Menschenrechtsrat vertreten. Bei der Wahl in New York erhielt die Bundesrepublik deutlich mehr Stimmen als nötig.",
-        "title": "Uno-Menschenrechtsrat: Deutschland kehrt 2027 ins Gremium zurück"
+        "url": "https://www.spiegel.de/netzwelt/openai-ingenieur-soll-abhoergeraet-bei-fuehrung-installiert-haben-festnahme-a-56846934-785c-45d7-96e3-d00f0cf1aa8b#ref=rss",
+        "date": "2026-10-13T22:51:00.000Z",
+        "snippet": "Die Wanze steckte in einem Fernseher, offenbar mit Toilettenpapier verdeckt: Ein Mitarbeiter von OpenAI ist vom FBI in Gewahrsam genommen worden. Er wird verdächtigt, vertrauliche Konferenzen abgehört zu haben.",
+        "title": "OpenAI: Ingenieur soll Abhörgerät bei Führung installiert haben – Festnahme"
       }
     ],
-    "title": "New York - Deutschland kehrt in den UNO-Menschenrechtsrat zurück",
-    "summary": "New York - Deutschland kehrt in den UNO-Menschenrechtsrat zurück Deutschland gehört ab nächstem Jahr wieder dem UNO-Menschenrechtsrat an.\nUno-Menschenrechtsrat: Deutschland kehrt 2027 ins Gremium zurück Ab 2027 ist die Bundesrepublik wieder im Uno-Menschenrechtsrat vertreten. Bei der Wahl in New York erhielt die Bundesrepublik deutlich mehr Stimmen als nötig."
+    "title": "Ingenieur soll Abhörgerät bei OpenAI-Führung installiert haben – Festnahme durch FBI - Spiegel",
+    "summary": "Ingenieur soll Abhörgerät bei OpenAI-Führung installiert haben – Festnahme durch FBI - Spiegel <ol><li><a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcDIyOGJoTUxidHk3RGhvVmxwUXNZN3ZYU2NGQTNOc09oNG1wV2c2UWxYSmh3NDYxOFNyNTJPV0Z5d0FTTHQwek9mQkJPV21LU2F6R0pVM3RuY0xOSVdBa0J4TjkxN3JZLU0yRWtZcDdyeXV3TV9uUXN5Ql9RR3hQWlFvNW1Ubm9CeTd3OG4zYWhWclZIVFpoRW5BZ19Jd3JwZ2s3UUtjUlpNbkFWdS1zc3Y3ZzlGYUJnY3VhSTZ0ZFRyWENORlJET0cxRnROLVI2YjNVS2NqMUh1WmJFanJv?oc=5\" target=\"_blank\">Ingenieur soll Abhörgerät bei OpenAI-Führung installiert haben – Festnahme durch FBI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUmJITVV6Yk4zT0Y1MFhGeUYwcGNJZUozTVhTUTFPVVl5NG9VRUctT0FOVkxmN3RVcnh0cWlEdjBEc2dFQ3JMZmdCZVhYTVJDSkJjYmNkRVFsRWlj\nOpenAI: Ingenieur soll Abhörgerät bei Führung installiert haben – Festnahme Die Wanze steckte in einem Fernseher, offenbar mit Toilettenpapier verdeckt: Ein Mitarbeiter von OpenAI ist vom FBI in Gewahrsam genommen worden. Er wird verdächtigt, vertrauliche Konferenzen abgehört zu haben."
   },
   {
-    "id": "story-131",
+    "id": "story-191",
+    "topic": "umwelt",
+    "country": "UK",
+    "stateHint": "",
+    "date": "2026-10-13T21:29:08.000Z",
+    "sources": [
+      {
+        "source": "Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/oct/13/california-storm-floods",
+        "date": "2026-10-13T21:29:08.000Z",
+        "snippet": "<p>Boardwalk destroyed in Long Beach and homes damaged, while Baja California in Mexico and Las Vegas also affected</p><p>Southern <a href=\"https://www.theguardian.com/us-news/california\">California</a> coastal communities are picking up the pieces after a weekend of extreme weather brought flooding that overtook city streets and intense waves battered beachside homes.</p><p>The remnants of Tropical Storm Rachel hit <a href=\"https://www.theguardian.com/world/mexico\">Mexico</a>’s Baja California over the weekend as well as southern California and Las Vegas. While meteorologists noted that Rachel weakened into a post-tropical cyclone as it approached California, it still left a trail of destru",
+        "title": "Intense waves and floods batter California waterfront homes and boardwalks"
+      },
+      {
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1nalNwUDl2UjdrLWYwNHh1VUc4NVRFQVFvaTA5WFJKUV84OUxCTUJnUkFVcEtqZm11Q0V6dUlUaVExWk1DSGljdzVla2Z2UDhibFU4MWlyQjl4QmpBdUZTTGxMd3B3M0FTb3YtM19HUzdqVnpuNXZzb3AtWQ?oc=5",
+        "date": "2026-10-13T18:25:00.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1nalNwUDl2UjdrLWYwNHh1VUc4NVRFQVFvaTA5WFJKUV84OUxCTUJnUkFVcEtqZm11Q0V6dUlUaVExWk1DSGljdzVla2Z2UDhibFU4MWlyQjl4QmpBdUZTTGxMd3B3M0FTb3YtM19HUzdqVnpuNXZzb3AtWQ?oc=5\" target=\"_blank\">Intense waves and floods batter California waterfront homes and boardwalks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+        "title": "Intense waves and floods batter California waterfront homes and boardwalks - The Guardian"
+      }
+    ],
+    "title": "Intense waves and floods batter California waterfront homes and boardwalks",
+    "summary": "Intense waves and floods batter California waterfront homes and boardwalks <p>Boardwalk destroyed in Long Beach and homes damaged, while Baja California in Mexico and Las Vegas also affected</p><p>Southern <a href=\"https://www.theguardian.com/us-news/california\">California</a> coastal communities are picking up the pieces after a weekend of extreme weather brought flooding that overtook city streets and intense waves battered beachside homes.</p><p>The remnants of Tropical Storm Rachel hit <a href=\"https://www.theguardian.com/world/mexico\">Mexico</a>’s Baja California over the weekend as well as southern California and Las Vegas. While meteorologists noted that Rachel weakened into a post-tropical cyclone as it approached California, it still left a trail of destru\nIntense waves and floods batter California waterfront homes and boardwalks - The Guardian <a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1nalNwUDl2UjdrLWYwNHh1VUc4NVRFQVFvaTA5WFJKUV84OUxCTUJnUkFVcEtqZm11Q0V6dUlUaVExWk1DSGljdzVla2Z2UDhibFU4MWlyQjl4QmpBdUZTTGxMd3B3M0FTb3YtM19HUzdqVnpuNXZzb3AtWQ?oc=5\" target=\"_blank\">Intense waves and floods batter California waterfront homes and boardwalks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>"
+  },
+  {
+    "id": "story-194",
     "topic": "panorama",
     "country": "PT",
     "stateHint": "",
@@ -299,7 +528,32 @@
     "summary": "Cabo Verde agiliza acesso a medicamentos e acelera tratamentos diz Governo O Governo cabo-verdiano anunciou hoje a aprovação e promulgação da nova Lista Nacional de Medicamentos como forma de agilizar o acesso a produtos farmacêuticos e a tratamentos médicos.\nCabo Verde agiliza acesso a medicamentos e acelera tratamentos diz Governo - RTP <a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQjdKWlp2V3NEYkwzZnN0TjhQbERHRDRyYmdJTkN4SjFnREtMbDY5NzE4VzB1RWVFUVJjcjhZM05CSi1hNWk5VTBaZHhSRFJBa0pTWnh0dktkb3NaNjY1MkhIUE9VOW0wbTdxbEVnTkdOTzNvZkhJb1V1UHMwZEJBRDdsUWh6ODdETkhuYkJUcDhuVlZPQXZpSkpJMTZEVVZhbWY5elFadHR4TWN5WEV1NHBXWlR1Wk1X?oc=5\" target=\"_blank\">Cabo Verde agiliza acesso a medicamentos e acelera tratamentos diz Governo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font>"
   },
   {
-    "id": "story-140",
+    "id": "story-196",
+    "topic": "panorama",
+    "country": "INT",
+    "stateHint": "",
+    "date": "2026-10-13T21:25:04.000Z",
+    "sources": [
+      {
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/13/pope-leo-diagnosed-with-cancer-after-surgery-to-remove-part-of-lung?traffic_source=rss",
+        "date": "2026-10-13T21:25:04.000Z",
+        "snippet": "The 71-year-old is recovering in Rome's Gemelli hospital after surgery to remove a cancerous growth on his lung.",
+        "title": "Pope Leo diagnosed with cancer after surgery to remove part of lung"
+      },
+      {
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTHEyS3dpaVExdXN2QjZibV81T3FCQ1pHOTlyZGZQTnZLODlQdlp6ZDVza0I0M1d0VGUxSUd0QnRZSkFMcHV6Q0pIWkVsLU1qWU94bnAzVV9KYzRKTXdDeS1QZGt2WXBUV1BYY1h5N3NrdXZ3N29aSkJyNEFSY0dNNGlLYU1vUUt2Q2tMWEJoei0zQ3lRYWVfdGJmYkJoQnVvZF9FT0RhRzNrRExsTEHSAbMBQVVfeXFMUDRURldhU3NPSjh6QUVYbGpReldXdnNHa0phTUFtVm1Sd1M5VnBUX1MwWVBiS0JyTGJFV3FxRVVTbmdsc0k2T0xYaXl4LXpZbmVZamVVTVFuUWpQd3dNWUFWdDdEUFIwZ3B6QzFaaVcxWE8yWlJMbDl3aDNnV0ZTdEIzV0hCY2VKMzExc0I5TVk0X0JxUkI3bU4xbVdXNEMweTRhQVRabXZjakE4aTNPLVI5MjA?oc=5",
+        "date": "2026-10-13T13:24:55.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNTHEyS3dpaVExdXN2QjZibV81T3FCQ1pHOTlyZGZQTnZLODlQdlp6ZDVza0I0M1d0VGUxSUd0QnRZSkFMcHV6Q0pIWkVsLU1qWU94bnAzVV9KYzRKTXdDeS1QZGt2WXBUV1BYY1h5N3NrdXZ3N29aSkJyNEFSY0dNNGlLYU1vUUt2Q2tMWEJoei0zQ3lRYWVfdGJmYkJoQnVvZF9FT0RhRzNrRExsTEHSAbMBQVVfeXFMUDRURldhU3NPSjh6QUVYbGpReldXdnNHa0phTUFtVm1Sd1M5VnBUX1MwWVBiS0JyTGJFV3FxRVVTbmdsc0k2T0xYaXl4LXpZbmVZamVVTVFuUWpQd3dNWUFWdDdEUFIwZ3B6QzFaaVcxWE8yWlJMbDl3aDNnV0ZTdEIzV0hCY2VKMzExc0I5TVk0X0JxUkI3bU4xbVdXNEMweTRhQVRabXZjakE4aTNPLVI5MjA?oc=5\" target=\"_blank\">Pope Leo diagnosed with lung cancer after surgeons remove part of right lung, Vatican says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>",
+        "title": "Pope Leo diagnosed with lung cancer after surgeons remove part of right lung, Vatican says - Fox News"
+      }
+    ],
+    "title": "Pope Leo diagnosed with cancer after surgery to remove part of lung",
+    "summary": "Pope Leo diagnosed with cancer after surgery to remove part of lung The 71-year-old is recovering in Rome's Gemelli hospital after surgery to remove a cancerous growth on his lung.\nPope Leo diagnosed with lung cancer after surgeons remove part of right lung, Vatican says - Fox News <a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNTHEyS3dpaVExdXN2QjZibV81T3FCQ1pHOTlyZGZQTnZLODlQdlp6ZDVza0I0M1d0VGUxSUd0QnRZSkFMcHV6Q0pIWkVsLU1qWU94bnAzVV9KYzRKTXdDeS1QZGt2WXBUV1BYY1h5N3NrdXZ3N29aSkJyNEFSY0dNNGlLYU1vUUt2Q2tMWEJoei0zQ3lRYWVfdGJmYkJoQnVvZF9FT0RhRzNrRExsTEHSAbMBQVVfeXFMUDRURldhU3NPSjh6QUVYbGpReldXdnNHa0phTUFtVm1Sd1M5VnBUX1MwWVBiS0JyTGJFV3FxRVVTbmdsc0k2T0xYaXl4LXpZbmVZamVVTVFuUWpQd3dNWUFWdDdEUFIwZ3B6QzFaaVcxWE8yWlJMbDl3aDNnV0ZTdEIzV0hCY2VKMzExc0I5TVk0X0JxUkI3bU4xbVdXNEMweTRhQVRabXZjakE4aTNPLVI5MjA?oc=5\" target=\"_blank\">Pope Leo diagnosed with lung cancer after surgeons remove part of right lung, Vatican says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+  },
+  {
+    "id": "story-203",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "",
@@ -324,57 +578,7 @@
     "summary": "Papst Leo XIV. hat laut Vatikan Lungenkrebs Erst am Sonntag hatte Leo XIV. einen Knoten in der Lunge öffentlich gemacht. Nur zwei Tage später wird er operiert. Die Diagnose bestätigt die Befürchtungen: Der 71-Jährige hatte ein Karzinom.\nVatikan: Papst Leo XIV. hat Lungenkrebs Dem Papst ist bei einer Operation ein bösartiger Tumor an der Lunge entfernt worden. Vor dem Eingriff hatten Tests auf ein Lungenadenokarzinom hingedeutet."
   },
   {
-    "id": "story-141",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-13T21:19:00.000Z",
-    "sources": [
-      {
-        "source": "ZDF heute",
-        "url": "https://www.zdfheute.de/sport/fussball-champions-league/fussball-champions-league-rb-leipzig-psv-eindhoven-100.html",
-        "date": "2026-10-13T21:19:00.000Z",
-        "snippet": "Maarten Vandevoordt pariert einen Elfmeter, Brajan Gruda trifft aus der Distanz: Gegen die PSV Eindhoven sammelt RB Leipzig die ersten drei Zähler in der Champions League.",
-        "title": "Leipzig holt ersten Sieg in der Königsklasse"
-      },
-      {
-        "source": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/news/2026-10/13/dank-gruda-leipzig-holt-wichtigen-sieg-in-der-koenigsklasse",
-        "date": "2026-10-13T21:14:53.000Z",
-        "snippet": "",
-        "title": "Champions League: Dank Gruda: Leipzig holt wichtigen Sieg in der Königsklasse"
-      }
-    ],
-    "title": "Leipzig holt ersten Sieg in der Königsklasse",
-    "summary": "Leipzig holt ersten Sieg in der Königsklasse Maarten Vandevoordt pariert einen Elfmeter, Brajan Gruda trifft aus der Distanz: Gegen die PSV Eindhoven sammelt RB Leipzig die ersten drei Zähler in der Champions League.\nChampions League: Dank Gruda: Leipzig holt wichtigen Sieg in der Königsklasse "
-  },
-  {
-    "id": "story-169",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-13T20:58:53.000Z",
-    "sources": [
-      {
-        "source": "RND",
-        "url": "https://www.rnd.de/politik/kimberly-guilfoyle-trump-trennt-sich-von-umstrittener-botschafterin-in-athen-3CKFRX66WFFWFF2E6EWQLASI44.html",
-        "date": "2026-10-13T20:58:53.000Z",
-        "snippet": "Sie war mit Trump Jr. verlobt und wurde Botschafterin in Athen: Kimberly Guilfoyle soll einem Spender gegen Bezahlung Zugang zur Regierung angeboten haben. Nun zieht der Präsident Konsequenzen.",
-        "title": "Kimberly Guilfoyle: Trump trennt sich von umstrittener Botschafterin in Athen"
-      },
-      {
-        "source": "t-online Nachrichten",
-        "url": "https://www.t-online.de/nachrichten/ausland/internationale-politik/id_101479734/kimberly-guilfoyle-trump-feuert-botschafterin-und-ex-schwiegertochter.html",
-        "date": "2026-10-13T15:14:40.000Z",
-        "snippet": "Sie war mit Trump Jr. verlobt und wurde Botschafterin in Athen: Kimberly Guilfoyle soll einem Spender gegen Bezahlung Zugang zur Regierung angeboten haben. Nun zieht der Präsident Konsequenzen.",
-        "title": "Kimberly Guilfoyle: Trump feuert Botschafterin und Ex-Schwiegertochter"
-      }
-    ],
-    "title": "Kimberly Guilfoyle: Trump trennt sich von umstrittener Botschafterin in Athen",
-    "summary": "Kimberly Guilfoyle: Trump trennt sich von umstrittener Botschafterin in Athen Sie war mit Trump Jr. verlobt und wurde Botschafterin in Athen: Kimberly Guilfoyle soll einem Spender gegen Bezahlung Zugang zur Regierung angeboten haben. Nun zieht der Präsident Konsequenzen.\nKimberly Guilfoyle: Trump feuert Botschafterin und Ex-Schwiegertochter Sie war mit Trump Jr. verlobt und wurde Botschafterin in Athen: Kimberly Guilfoyle soll einem Spender gegen Bezahlung Zugang zur Regierung angeboten haben. Nun zieht der Präsident Konsequenzen."
-  },
-  {
-    "id": "story-177",
+    "id": "story-237",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
@@ -399,7 +603,7 @@
     "summary": "Bundesregierung einigt sich bei Zuckersteuer offenbar auf Zwei-Stufen-Modell Die Bundesregierung hat sich nach Angaben aus dem Finanzministerium beim Thema Zuckersteuer geeinigt. Einzelheiten sollen demnächst vorgestellt werden. Laut Medienberichten soll ab 1. Juli 2027 ein Zwei-Stufen-Modell gelten.\nBundesregierung einigt sich bei Zuckersteuer offenbar auf Zwei-Stufen-Modell - tagesschau.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQemY2QXdZVEljb0NWeHE2eWJOMkk1SW9sWHAwVkJOXzVzTmRaei1PWlFsMTFsdHdHRXNsaWVYdDhqRXF3azRoR253T0ZoeGIzQzE4eERVeWNrbzh4bEVuek00Z29CR2JZcUdEWEI2YVo0dUxPbFE2NHZxd0xzYml2QWltYXRGaHpIYkxwNVJ0N3lveFIzOXJv?oc=5\" target=\"_blank\">Bundesregierung einigt sich bei Zuckersteuer offenbar auf Zwei-Stufen-Modell</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPQU8waFZuVVlGOWM4eEFybFVsRHNDNHJuQUo0ZTJ2LXV6LVNsRUpmMXJWd2EzR3VHME5CYkVka1RCNEtRbkFJWmE2ck9XSk9zbDBkTUw5YUl0UkxkNHBqQU04ODJBLU1PNjFSQzVpeGQ3dnVXVnVXaWk1bkEzeGFjZHE2WjdZZnBuNXNFQnRSWllvNHM?oc=5\" target=\"_blank\">"
   },
   {
-    "id": "story-188",
+    "id": "story-248",
     "topic": "panorama",
     "country": "INT",
     "stateHint": "",
@@ -424,7 +628,32 @@
     "summary": "Tupac Shakur killer sentenced to 40 years in prison Duane ‘Keffe D’ Davis was sentenced to 40 years to life in prison over the 1996 murder of rap icon Tupac Shakur.\nDuane \"Keffe D\" Davis sentenced to 40 years for rapper Tupac Shakur's murder - BBC <a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtS3FIQnVkWm1qeExkV1phaEliRlJRRHVndlNCWk81T2VURy1wMDMtTllzeTczS1BXdEwtQzRldndDeS1HUzhNMmJuZXozYk5UMEp5THo1UHBhbEU?oc=5\" target=\"_blank\">Duane \"Keffe D\" Davis sentenced to 40 years for rapper Tupac Shakur's murder</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>"
   },
   {
-    "id": "story-202",
+    "id": "story-249",
+    "topic": "panorama",
+    "country": "INT",
+    "stateHint": "",
+    "date": "2026-10-13T20:44:58.000Z",
+    "sources": [
+      {
+        "source": "France24 English",
+        "url": "https://www.france24.com/en/europe/20261012-what-we-know-about-pope-leo-xiv-planned-lung-operation-this-week",
+        "date": "2026-10-13T20:44:58.000Z",
+        "snippet": "",
+        "title": "🔴 Surgery on Pope Leo's cancerous lung nodule went well, Vatican says"
+      },
+      {
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTSzFHcUFjZnlCRkthODdhbU9IUXpsY2tteEhjMFp4NEx6clh2WXBBRHFlNng2SUY1bVRWNUphRDRUYzI5eFB6VmRLc3dNMGxIUWltcEEzdkhELWdram52MnJCR2s1STI5WmdheVlQOXZKNHlreTZDcA?oc=5",
+        "date": "2026-10-13T18:28:00.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBTSzFHcUFjZnlCRkthODdhbU9IUXpsY2tteEhjMFp4NEx6clh2WXBBRHFlNng2SUY1bVRWNUphRDRUYzI5eFB6VmRLc3dNMGxIUWltcEEzdkhELWdram52MnJCR2s1STI5WmdheVlQOXZKNHlreTZDcA?oc=5\" target=\"_blank\">Pope Leo's lung nodule surgery was completed successfully, Vatican says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+        "title": "Pope Leo's lung nodule surgery was completed successfully, Vatican says - CBS News"
+      }
+    ],
+    "title": "🔴 Surgery on Pope Leo's cancerous lung nodule went well, Vatican says",
+    "summary": "🔴 Surgery on Pope Leo's cancerous lung nodule went well, Vatican says \nPope Leo's lung nodule surgery was completed successfully, Vatican says - CBS News <a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBTSzFHcUFjZnlCRkthODdhbU9IUXpsY2tteEhjMFp4NEx6clh2WXBBRHFlNng2SUY1bVRWNUphRDRUYzI5eFB6VmRLc3dNMGxIUWltcEEzdkhELWdram52MnJCR2s1STI5WmdheVlQOXZKNHlreTZDcA?oc=5\" target=\"_blank\">Pope Leo's lung nodule surgery was completed successfully, Vatican says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>"
+  },
+  {
+    "id": "story-262",
     "topic": "panorama",
     "country": "UK",
     "stateHint": "",
@@ -449,32 +678,82 @@
     "summary": "Pope Leo diagnosed with lung cancer as growth removed during surgery <p>Vatican says pontiff had lower lobe of right lung removed in ‘successful, on schedule and as planned’ operation in Rome</p><p><a href=\"https://www.theguardian.com/world/pope-leo-xiv\">Pope Leo</a> has lung cancer, the Vatican said late on Tuesday.</p><p>Leo, 71, underwent an operation and had the lower lobe of his right lung removed, with tests confirming a diagnosis of lung adenocarcinoma, the Vatican said in a medical bulletin, which followed an earlier statement saying the pope’s operation had concluded “successfully, on schedule and as planned”.</p> <a href=\"https://www.theguardian.com/world/2026/oct/13/pope-leo-hospital-operation-growth-lung\">Continue reading...</a>\nPope Leo diagnosed with lung cancer as growth removed during surgery - The Guardian <a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNd21aZ1RSWkFfSXdWWERGR0xSaldYcHVSRVhlSzF4YXRBM0x1bEY2bkNGNWdSREtmYTVhQUxnOElUck52bWtMZzNpWHJDekk0OTVydXEwT21WTkFwdFMtcmh4MllpTVItTFljbnoxZ01YQWZIRkJYVlJ3OThoTWlGenRmREJ4c3lMMkpDNnp3?oc=5\" target=\"_blank\">Pope Leo diagnosed with lung cancer as growth removed during surgery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>"
   },
   {
-    "id": "story-225",
+    "id": "story-279",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "",
-    "date": "2026-10-13T20:04:30.000Z",
+    "date": "2026-10-13T20:13:33.000Z",
     "sources": [
       {
         "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOWl2clpZOUl6YS1wWWJONmxoMVJoNjVCTWo2ZURYMkJVTWJUdmFUZmZ5NFdsM19Oa3JIQXhHSFJUMTh6azg3Wnl5V09HczlwZ1ZvMEotQTMtV3pqQXZXd3NTa1dZel95ZDZ6c0d5UG5JUDMyV2NxR0Viak9mLUpNanJZMFJhbFZ0ZDVPSDFFVjlTcVFBdzNtWg?oc=5",
-        "date": "2026-10-13T20:04:30.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOOWl2clpZOUl6YS1wWWJONmxoMVJoNjVCTWo2ZURYMkJVTWJUdmFUZmZ5NFdsM19Oa3JIQXhHSFJUMTh6azg3Wnl5V09HczlwZ1ZvMEotQTMtV3pqQXZXd3NTa1dZel95ZDZ6c0d5UG5JUDMyV2NxR0Viak9mLUpNanJZMFJhbFZ0ZDVPSDFFVjlTcVFBdzNtWg?oc=5\" target=\"_blank\">Deutscher Rekord eingestellt: Eurojackpot mit 120 Millionen Euro geht nach NRW</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOR0g2TUVFNmhUYndjY2NmOFdaVTUxSlp2VnI4Tmh2NWdfbEY4Z3pMTGVSSl9qRkhXNHZBOUtSQWRqaWNlWXozWUY2bVdqM3hYZEJGYm54UHBXcjlqckJBcHdqdUltdkZVemFKRXJSbVhHU1pRTlRpNnh2elJ4T0NNbGJJWFFGRjZiQjR0aGpuTlozUW5rZ1htS3l4Q254cDRia0F2T1Nf",
-        "title": "Deutscher Rekord eingestellt: Eurojackpot mit 120 Millionen Euro geht nach NRW - n-tv.de"
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOR0g2TUVFNmhUYndjY2NmOFdaVTUxSlp2VnI4Tmh2NWdfbEY4Z3pMTGVSSl9qRkhXNHZBOUtSQWRqaWNlWXozWUY2bVdqM3hYZEJGYm54UHBXcjlqckJBcHdqdUltdkZVemFKRXJSbVhHU1pRTlRpNnh2elJ4T0NNbGJJWFFGRjZiQjR0aGpuTlozUW5rZ1htS3l4Q254cDRia0F2T1Nfbw?oc=5",
+        "date": "2026-10-13T20:13:33.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOR0g2TUVFNmhUYndjY2NmOFdaVTUxSlp2VnI4Tmh2NWdfbEY4Z3pMTGVSSl9qRkhXNHZBOUtSQWRqaWNlWXozWUY2bVdqM3hYZEJGYm54UHBXcjlqckJBcHdqdUltdkZVemFKRXJSbVhHU1pRTlRpNnh2elJ4T0NNbGJJWFFGRjZiQjR0aGpuTlozUW5rZ1htS3l4Q254cDRia0F2T1Nfbw?oc=5\" target=\"_blank\">Eurojackpot geknackt: Deutscher Spieler gewinnt 120 Millionen Euro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BILD</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdlhrTUJkSG9TVDBZNFVFbE9uSWdTc3FSUlB0eEs3QUZnY3g0Zjd6WEI2LTRVTlJYSjUxaGJ6WmFMRlRMTm04SzlmaHZ6eHJnSkNHMFl0YkNObDgyUS1za0tHX1ZZWFpiSnE2NHNrUEdGbkRjVzVqOHQ4WS1VNzFzb2JCRVpBTURxZTBVQ1NuSU9xNkdTMFMzZk1CZ0R5NW02blh",
+        "title": "Eurojackpot geknackt: Deutscher Spieler gewinnt 120 Millionen Euro - BILD"
       },
       {
-        "source": "ntv",
-        "url": "https://www.n-tv.de/panorama/Eurojackpot-mit-120-Millionen-Euro-geht-nach-NRW-id31414726.html",
-        "date": "2026-10-13T20:04:30.000Z",
-        "snippet": "Nach wochenlanger Durststrecke ist der Eurojackpot endlich geknackt. Ein einzelner Spieler oder eine Tippgemeinschaft in NRW tippt alle sieben Zahlen richtig. Auch in Hessen, Niedersachsen sowie im Ausland darf gejubelt werden.",
-        "title": "Deutscher Rekord eingestellt: Eurojackpot mit 120 Millionen Euro geht nach NRW"
+        "source": "WELT",
+        "url": "https://www.welt.de/vermischtes/article6ace84fb8776d79fbd9cbeec/lotterie-deutscher-spieler-knackt-eurojackpot-mit-120-millionen-euro.html",
+        "date": "2026-10-13T19:53:27.000Z",
+        "snippet": "Ein Spieler oder eine Tippgemeinschaft aus Nordrhein-Westfalen hat den Eurojackpot mit 120 Millionen Euro gewonnen. Damit ist der deutsche Rekordgewinnt erneut erreicht.",
+        "title": "Deutscher Spieler knackt Eurojackpot mit 120 Millionen Euro"
       }
     ],
-    "title": "Deutscher Rekord eingestellt: Eurojackpot mit 120 Millionen Euro geht nach NRW - n-tv.de",
-    "summary": "Deutscher Rekord eingestellt: Eurojackpot mit 120 Millionen Euro geht nach NRW - n-tv.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOOWl2clpZOUl6YS1wWWJONmxoMVJoNjVCTWo2ZURYMkJVTWJUdmFUZmZ5NFdsM19Oa3JIQXhHSFJUMTh6azg3Wnl5V09HczlwZ1ZvMEotQTMtV3pqQXZXd3NTa1dZel95ZDZ6c0d5UG5JUDMyV2NxR0Viak9mLUpNanJZMFJhbFZ0ZDVPSDFFVjlTcVFBdzNtWg?oc=5\" target=\"_blank\">Deutscher Rekord eingestellt: Eurojackpot mit 120 Millionen Euro geht nach NRW</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOR0g2TUVFNmhUYndjY2NmOFdaVTUxSlp2VnI4Tmh2NWdfbEY4Z3pMTGVSSl9qRkhXNHZBOUtSQWRqaWNlWXozWUY2bVdqM3hYZEJGYm54UHBXcjlqckJBcHdqdUltdkZVemFKRXJSbVhHU1pRTlRpNnh2elJ4T0NNbGJJWFFGRjZiQjR0aGpuTlozUW5rZ1htS3l4Q254cDRia0F2T1Nf\nDeutscher Rekord eingestellt: Eurojackpot mit 120 Millionen Euro geht nach NRW Nach wochenlanger Durststrecke ist der Eurojackpot endlich geknackt. Ein einzelner Spieler oder eine Tippgemeinschaft in NRW tippt alle sieben Zahlen richtig. Auch in Hessen, Niedersachsen sowie im Ausland darf gejubelt werden."
+    "title": "Eurojackpot geknackt: Deutscher Spieler gewinnt 120 Millionen Euro - BILD",
+    "summary": "Eurojackpot geknackt: Deutscher Spieler gewinnt 120 Millionen Euro - BILD <ol><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOR0g2TUVFNmhUYndjY2NmOFdaVTUxSlp2VnI4Tmh2NWdfbEY4Z3pMTGVSSl9qRkhXNHZBOUtSQWRqaWNlWXozWUY2bVdqM3hYZEJGYm54UHBXcjlqckJBcHdqdUltdkZVemFKRXJSbVhHU1pRTlRpNnh2elJ4T0NNbGJJWFFGRjZiQjR0aGpuTlozUW5rZ1htS3l4Q254cDRia0F2T1Nfbw?oc=5\" target=\"_blank\">Eurojackpot geknackt: Deutscher Spieler gewinnt 120 Millionen Euro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BILD</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdlhrTUJkSG9TVDBZNFVFbE9uSWdTc3FSUlB0eEs3QUZnY3g0Zjd6WEI2LTRVTlJYSjUxaGJ6WmFMRlRMTm04SzlmaHZ6eHJnSkNHMFl0YkNObDgyUS1za0tHX1ZZWFpiSnE2NHNrUEdGbkRjVzVqOHQ4WS1VNzFzb2JCRVpBTURxZTBVQ1NuSU9xNkdTMFMzZk1CZ0R5NW02blh\nDeutscher Spieler knackt Eurojackpot mit 120 Millionen Euro Ein Spieler oder eine Tippgemeinschaft aus Nordrhein-Westfalen hat den Eurojackpot mit 120 Millionen Euro gewonnen. Damit ist der deutsche Rekordgewinnt erneut erreicht."
   },
   {
-    "id": "story-262",
+    "id": "story-280",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-13T20:13:11.000Z",
+    "sources": [
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/angeklagter-tupac-40-jahre-haft-100.html",
+        "date": "2026-10-13T20:13:11.000Z",
+        "snippet": "Gut 30 Jahre nach dem Mord an US-Rapper Tupac Shakur ist der frühere Gang-Anführer Duane Davis zu 40 Jahren Haft verurteilt worden. Im September hatte ihn eine Jury für schuldig befunden, den Mord organisiert zu haben.",
+        "title": "40 Jahre Gefängnis für Angeklagten in Tupac-Prozess"
+      },
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lSHRKV1dESnVwbjZYMkQyNTB5VUVBQnRCNVdQYVpBWDdsRmp3TTJ0cTJCVFFmWXV1Vmx5bUtURjFqeC1sTGt6RVpNWEVaa002STNKZ0x4dFZZWDZkdUo4dUdyWDFUUFIwdVk4ZW5ZdlFSaVZ1YkZHVC16NkJoOFE?oc=5",
+        "date": "2026-10-13T20:13:00.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5lSHRKV1dESnVwbjZYMkQyNTB5VUVBQnRCNVdQYVpBWDdsRmp3TTJ0cTJCVFFmWXV1Vmx5bUtURjFqeC1sTGt6RVpNWEVaa002STNKZ0x4dFZZWDZkdUo4dUdyWDFUUFIwdVk4ZW5ZdlFSaVZ1YkZHVC16NkJoOFE?oc=5\" target=\"_blank\">40 Jahre Gefängnis für Angeklagten in Tupac-Prozess</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOclEtR2VUSTJDbk9ycWx4NFJ2Tm5jZThjdTZvMWRIQ1JQNEtyNHlvVmNINTQ1MVZ3OFk5eFNQT1pGM0hOX2h5ck9rV05EZGtFZXhsWmlnaHc2SENkQ0hWOHhvTUFHcEgwU1RFMnAxakVkN2RLb0RCRWZscEhMZ3ZmeGtwV2dLdkZuVlRtOGRKRUR4UDBqUmNVLWZKQnl0aGlqNWJMVi1xR3l4UFpTNHl0YnROaGVra203LUE?oc=5\" target=\"_blank\">Tupac-",
+        "title": "40 Jahre Gefängnis für Angeklagten in Tupac-Prozess - tagesschau.de"
+      }
+    ],
+    "title": "40 Jahre Gefängnis für Angeklagten in Tupac-Prozess",
+    "summary": "40 Jahre Gefängnis für Angeklagten in Tupac-Prozess Gut 30 Jahre nach dem Mord an US-Rapper Tupac Shakur ist der frühere Gang-Anführer Duane Davis zu 40 Jahren Haft verurteilt worden. Im September hatte ihn eine Jury für schuldig befunden, den Mord organisiert zu haben.\n40 Jahre Gefängnis für Angeklagten in Tupac-Prozess - tagesschau.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5lSHRKV1dESnVwbjZYMkQyNTB5VUVBQnRCNVdQYVpBWDdsRmp3TTJ0cTJCVFFmWXV1Vmx5bUtURjFqeC1sTGt6RVpNWEVaa002STNKZ0x4dFZZWDZkdUo4dUdyWDFUUFIwdVk4ZW5ZdlFSaVZ1YkZHVC16NkJoOFE?oc=5\" target=\"_blank\">40 Jahre Gefängnis für Angeklagten in Tupac-Prozess</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOclEtR2VUSTJDbk9ycWx4NFJ2Tm5jZThjdTZvMWRIQ1JQNEtyNHlvVmNINTQ1MVZ3OFk5eFNQT1pGM0hOX2h5ck9rV05EZGtFZXhsWmlnaHc2SENkQ0hWOHhvTUFHcEgwU1RFMnAxakVkN2RLb0RCRWZscEhMZ3ZmeGtwV2dLdkZuVlRtOGRKRUR4UDBqUmNVLWZKQnl0aGlqNWJMVi1xR3l4UFpTNHl0YnROaGVra203LUE?oc=5\" target=\"_blank\">Tupac-"
+  },
+  {
+    "id": "story-288",
+    "topic": "technik",
+    "country": "INT",
+    "stateHint": "",
+    "date": "2026-10-13T20:04:01.000Z",
+    "sources": [
+      {
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNakNFeG1jVFlaX19fYjF3eXV4blNEY3pvVHNRcGc5TVpISW9EMjE1UXFqVncxMUNrZXFxREZDUGg5cmI4OHFSUDhqTTl6dlF0RXpwbENQU2E1NDFIVkZ2Y29USVppenBhYkw1QnZXbWIzWlpQMllWWXBnY3A4MDJtUDRvbHNRelJ3UWlYMklETTRYU2NROXU3ZDZTZWQ3NjNsWElZR2dDT2xTLS12SkFv0gG0AUFVX3lxTE5HdTlOS3l5V3BPYlROd1NtZFJrWlhJaXVMTlYwZzl2TU1PaXV1UHN5NWxnRDBSalBad3ZXOVBURzV1bkhNMmFfQ082WHlrcmJ5NGh2VHdRa3ZuRldLZmtrZ0ZSbHMyVENLTU4zODEycUUxaXdyd2FVUkxGTW9fc3hueC0tb3B3ekJRaE1LSHpLT1pGblJPZVhRZTFBcFl0WVlZbkpWSGJVWkRBa3NreDJXSWhTNg?oc=5",
+        "date": "2026-10-13T20:04:01.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNakNFeG1jVFlaX19fYjF3eXV4blNEY3pvVHNRcGc5TVpISW9EMjE1UXFqVncxMUNrZXFxREZDUGg5cmI4OHFSUDhqTTl6dlF0RXpwbENQU2E1NDFIVkZ2Y29USVppenBhYkw1QnZXbWIzWlpQMllWWXBnY3A4MDJtUDRvbHNRelJ3UWlYMklETTRYU2NROXU3ZDZTZWQ3NjNsWElZR2dDT2xTLS12SkFv0gG0AUFVX3lxTE5HdTlOS3l5V3BPYlROd1NtZFJrWlhJaXVMTlYwZzl2TU1PaXV1UHN5NWxnRDBSalBad3ZXOVBURzV1bkhNMmFfQ082WHlrcmJ5NGh2VHdRa3ZuRldLZmtrZ0ZSbHMyVENLTU4zODEycUUxaXdyd2FVUkxGTW9fc3hueC0tb3B3ekJRaE1LSHpLT1pGblJPZVhRZTFBcFl0WVlZbkpWSGJVWkRBa3NreDJXSWhTNg?oc=5\" target=\"_blank\">Scientists urge tighter AI controls to prevent global cyber risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+        "title": "Scientists urge tighter AI controls to prevent global cyber risks - Al Jazeera"
+      },
+      {
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/10/13/scientists-urge-tighter-ai-controls-to-prevent-global-cyber-risks?traffic_source=rss",
+        "date": "2026-10-13T20:00:32.000Z",
+        "snippet": "Call comes amid polls casting doubts on political leaders' ability to manage AI risks as US midterm elections near.",
+        "title": "Scientists urge tighter AI controls to prevent global cyber risks"
+      }
+    ],
+    "title": "Scientists urge tighter AI controls to prevent global cyber risks - Al Jazeera",
+    "summary": "Scientists urge tighter AI controls to prevent global cyber risks - Al Jazeera <a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNakNFeG1jVFlaX19fYjF3eXV4blNEY3pvVHNRcGc5TVpISW9EMjE1UXFqVncxMUNrZXFxREZDUGg5cmI4OHFSUDhqTTl6dlF0RXpwbENQU2E1NDFIVkZ2Y29USVppenBhYkw1QnZXbWIzWlpQMllWWXBnY3A4MDJtUDRvbHNRelJ3UWlYMklETTRYU2NROXU3ZDZTZWQ3NjNsWElZR2dDT2xTLS12SkFv0gG0AUFVX3lxTE5HdTlOS3l5V3BPYlROd1NtZFJrWlhJaXVMTlYwZzl2TU1PaXV1UHN5NWxnRDBSalBad3ZXOVBURzV1bkhNMmFfQ082WHlrcmJ5NGh2VHdRa3ZuRldLZmtrZ0ZSbHMyVENLTU4zODEycUUxaXdyd2FVUkxGTW9fc3hueC0tb3B3ekJRaE1LSHpLT1pGblJPZVhRZTFBcFl0WVlZbkpWSGJVWkRBa3NreDJXSWhTNg?oc=5\" target=\"_blank\">Scientists urge tighter AI controls to prevent global cyber risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>\nScientists urge tighter AI controls to prevent global cyber risks Call comes amid polls casting doubts on political leaders' ability to manage AI risks as US midterm elections near."
+  },
+  {
+    "id": "story-322",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "",
@@ -499,7 +778,32 @@
     "summary": "Angeklagter im Tupac-Shakur-Prozess zu 40 Jahren Haft verurteilt Mehr als 30 Jahre nach dem Mord an Tupac Shakur muss der frühere Gang-Chef Duane Davis mindestens 40 Jahre ins Gefängnis. Geschworene sehen ihn als Drahtzieher des Angriffs in Las Vegas.\nMord an Tupac Shakur: Drahtzieher des Mordes an Tupac Shakur zu 40 Jahren Haft verurteilt Der Mord an Rapper Tupac Shakur im Jahr 1996 blieb jahrzehntelang ungeklärt. 30 Jahre danach wurde das frühere Gangmitglied Duane Davis zu einer Haftstrafe verurteilt."
   },
   {
-    "id": "story-275",
+    "id": "story-330",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-13T19:31:18.000Z",
+    "sources": [
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOVJaWnZTeU1EWUVzMEVKZGs0SG1VZGF1bUlfemF2MFdWRFhISjdCYXdsRU5wUDJ0aHNSQWxiTks1TGRCSWRNOUo5Tkc0aERJU0dKY0R5ajRjREdQZGNTT2NxeERHS3V5c3FkdFpIRFBWQzV0S3JYMHJSSW5OTThzVmRYV0o5Z2IwNmp0d3hYUFJ3T2tHSmVQR3p6aUtVQ1N5SVVPOFVn?oc=5",
+        "date": "2026-10-13T19:31:18.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOOVJaWnZTeU1EWUVzMEVKZGs0SG1VZGF1bUlfemF2MFdWRFhISjdCYXdsRU5wUDJ0aHNSQWxiTks1TGRCSWRNOUo5Tkc0aERJU0dKY0R5ajRjREdQZGNTT2NxeERHS3V5c3FkdFpIRFBWQzV0S3JYMHJSSW5OTThzVmRYV0o5Z2IwNmp0d3hYUFJ3T2tHSmVQR3p6aUtVQ1N5SVVPOFVn?oc=5\" target=\"_blank\">\"Verrat am ukrainischen Volk\": US-Senatoren beider Lager fordern Ende des Diesel-Abkommens</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPckh0YU1kWURuZVRhUTFFclNiMEhMWnljWmtkSmZfamx6ZzhjckpUZ3ZJSS1KeXVsU0RUSmlsUFk2MEtsdWxWWUVnTUlYcktVTjZvU3NuSmNPczBZeDRWdUgyQlR6TzR1d3YzX2xtMlF5aUs0dHRNaFd6RUVWY3lnRUhrQjVnTzB6R1JLcGRyUn",
+        "title": "\"Verrat am ukrainischen Volk\": US-Senatoren beider Lager fordern Ende des Diesel-Abkommens - n-tv.de"
+      },
+      {
+        "source": "ntv",
+        "url": "https://www.n-tv.de/politik/US-Senatoren-beider-Lager-fordern-Ende-des-Diesel-Abkommens-id31414666.html",
+        "date": "2026-10-13T19:31:18.000Z",
+        "snippet": "Lange halten die Republikaner im US-Kongress Präsident Trump bei seiner Außenpolitik die Treue. Doch der Diesel-Deal mit Russlands Präsident Putin hat offenbar eine Grenze überschritten. Sechs republikanische Senatoren verbünden sich mit den Demokraten und schreiben einen Brief an Trump.",
+        "title": "\"Verrat am ukrainischen Volk\": US-Senatoren beider Lager fordern Ende des Diesel-Abkommens"
+      }
+    ],
+    "title": "\"Verrat am ukrainischen Volk\": US-Senatoren beider Lager fordern Ende des Diesel-Abkommens - n-tv.de",
+    "summary": "\"Verrat am ukrainischen Volk\": US-Senatoren beider Lager fordern Ende des Diesel-Abkommens - n-tv.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOOVJaWnZTeU1EWUVzMEVKZGs0SG1VZGF1bUlfemF2MFdWRFhISjdCYXdsRU5wUDJ0aHNSQWxiTks1TGRCSWRNOUo5Tkc0aERJU0dKY0R5ajRjREdQZGNTT2NxeERHS3V5c3FkdFpIRFBWQzV0S3JYMHJSSW5OTThzVmRYV0o5Z2IwNmp0d3hYUFJ3T2tHSmVQR3p6aUtVQ1N5SVVPOFVn?oc=5\" target=\"_blank\">\"Verrat am ukrainischen Volk\": US-Senatoren beider Lager fordern Ende des Diesel-Abkommens</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPckh0YU1kWURuZVRhUTFFclNiMEhMWnljWmtkSmZfamx6ZzhjckpUZ3ZJSS1KeXVsU0RUSmlsUFk2MEtsdWxWWUVnTUlYcktVTjZvU3NuSmNPczBZeDRWdUgyQlR6TzR1d3YzX2xtMlF5aUs0dHRNaFd6RUVWY3lnRUhrQjVnTzB6R1JLcGRyUn\n\"Verrat am ukrainischen Volk\": US-Senatoren beider Lager fordern Ende des Diesel-Abkommens Lange halten die Republikaner im US-Kongress Präsident Trump bei seiner Außenpolitik die Treue. Doch der Diesel-Deal mit Russlands Präsident Putin hat offenbar eine Grenze überschritten. Sechs republikanische Senatoren verbünden sich mit den Demokraten und schreiben einen Brief an Trump."
+  },
+  {
+    "id": "story-335",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
@@ -524,32 +828,7 @@
     "summary": "Zuckersteuer: Koalition legt Streit bei Lange war die Zuckersteuer in der Koalition umstritten. Nun haben sich CDU/CSU und SPD auf einen Kompromiss verständigt.\nNewsblog zur Bundespolitik: Koalition legt Streit um Zuckersteuer bei Das Vorhaben soll am Mittwoch im Kabinett beschlossen werden. Die Einführung der Steuer war zwischenzeitlich vom Kanzleramt gestoppt worden, nun gibt es eine „Formulierungshilfe für die Regierungsfraktionen“."
   },
   {
-    "id": "story-280",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-13T19:23:31.000Z",
-    "sources": [
-      {
-        "source": "Frankfurter Allgemeine",
-        "url": "https://www.faz.net/aktuell/gesellschaft/eurojackpot-120-millionen-euro-gehen-nach-nordrhein-westfalen-201315306.html",
-        "date": "2026-10-13T19:23:31.000Z",
-        "snippet": "Nach wochenlangen Ziehungen ohne Hauptgewinn ist es nun soweit: 120 Millionen Euro gehen nach Deutschland — die größtmögliche Gewinnsumme für Lotteriespieler.",
-        "title": "Eurojackpot geknackt: 120 Millionen Euro gehen nach Nordrhein-Westfalen"
-      },
-      {
-        "source": "RND",
-        "url": "https://www.rnd.de/panorama/eurojackpot-geknackt-120-millionen-euro-gehen-nach-nrw-N2THRZGDSNAEFCRZEIHOYOEFS4.html",
-        "date": "2026-10-13T19:06:18.000Z",
-        "snippet": "Um 120 Millionen Euro ging es bei der Lotterie Eurojackpot – die größtmögliche Gewinnsumme für Lotteriespieler in Deutschland. Tatsächlich wurde der richtige Tipp in Deutschland abgegeben.",
-        "title": "Eurojackpot geknackt: 120 Millionen Euro gehen nach NRW"
-      }
-    ],
-    "title": "Eurojackpot geknackt: 120 Millionen Euro gehen nach Nordrhein-Westfalen",
-    "summary": "Eurojackpot geknackt: 120 Millionen Euro gehen nach Nordrhein-Westfalen Nach wochenlangen Ziehungen ohne Hauptgewinn ist es nun soweit: 120 Millionen Euro gehen nach Deutschland — die größtmögliche Gewinnsumme für Lotteriespieler.\nEurojackpot geknackt: 120 Millionen Euro gehen nach NRW Um 120 Millionen Euro ging es bei der Lotterie Eurojackpot – die größtmögliche Gewinnsumme für Lotteriespieler in Deutschland. Tatsächlich wurde der richtige Tipp in Deutschland abgegeben."
-  },
-  {
-    "id": "story-281",
+    "id": "story-339",
     "topic": "politik",
     "country": "UK",
     "stateHint": "",
@@ -574,7 +853,7 @@
     "summary": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".\nTrump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations - BBC <a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZZElSX2gzUXlxUHoyNTNSZkRvaW9SaFo4eDlnNGI2R2pKR2k5OGg4YzFpS0V5ZVFpWVR3SlFmSGVmMWNuWUczeUxodmhiazA0NmthcHhHNEVKNjQ?oc=5\" target=\"_blank\">Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>"
   },
   {
-    "id": "story-293",
+    "id": "story-350",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
@@ -584,7 +863,7 @@
         "source": "Google News DE",
         "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdTNIWXN3a0pOQjNLMFNwNS1RZ2diX0t4QWN4NDNWbnJISUxlQWpXcERISDBqb1FLSk5CdXJBdWJsNU0waVlSeFZjV1MzU2U4dGxEMVRpVFhkQ1R2N1hrbTlmT1E4SS1qVVN4YkhBNlFILVZBemVreGhKY0FjTmM1UmVVVzhVbEZ3NlVuQnNpNVZnaXFabENqVV81eGs1cjZXejg2NUQ3VWd6cTREb1BPZGN3cG9UazNCdGpGZ0FrRVJ1YUZWUTNYVFl5MWo3a0l6dllOVGVwVFIxSnR0Z0hmZFZKcUtnSWNObWNXRWhfeVpVNEl2?oc=5",
         "date": "2026-10-13T19:11:47.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdTNIWXN3a0pOQjNLMFNwNS1RZ2diX0t4QWN4NDNWbnJISUxlQWpXcERISDBqb1FLSk5CdXJBdWJsNU0waVlSeFZjV1MzU2U4dGxEMVRpVFhkQ1R2N1hrbTlmT1E4SS1qVVN4YkhBNlFILVZBemVreGhKY0FjTmM1UmVVVzhVbEZ3NlVuQnNpNVZnaXFabENqVV81eGs1cjZXejg2NUQ3VWd6cTREb1BPZGN3cG9UazNCdGpGZ0FrRVJ1YUZWUTNYVFl5MWo3a0l6dllOVGVwVFIxSnR0Z0hmZFZKcUtnSWNObWNXRWhfeVpVNEl2?oc=5\" target=\"_blank\">Katie Zacharia: Nach 14 Minuten macht Trumps neue Sprecherin klar, was ihre Rolle sein wird</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WELT</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTUZhbTIzRk5BQjNIZG5pd0h1RWRYX3otWVB4RWk4b3hDSi16clBWYlZPblEwVDRhdzhhRDFTWEM5eDB1",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdTNIWXN3a0pOQjNLMFNwNS1RZ2diX0t4QWN4NDNWbnJISUxlQWpXcERISDBqb1FLSk5CdXJBdWJsNU0waVlSeFZjV1MzU2U4dGxEMVRpVFhkQ1R2N1hrbTlmT1E4SS1qVVN4YkhBNlFILVZBemVreGhKY0FjTmM1UmVVVzhVbEZ3NlVuQnNpNVZnaXFabENqVV81eGs1cjZXejg2NUQ3VWd6cTREb1BPZGN3cG9UazNCdGpGZ0FrRVJ1YUZWUTNYVFl5MWo3a0l6dllOVGVwVFIxSnR0Z0hmZFZKcUtnSWNObWNXRWhfeVpVNEl2?oc=5\" target=\"_blank\">Katie Zacharia: Nach 14 Minuten macht Trumps neue Sprecherin klar, was ihre Rolle sein wird</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WELT</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOck9xQ2tQRVgyM3NaWGZDRHMxZ0Q1RDlEMkpORFN1Z0JNUXNqVkdIWGpyWFpSU0V5bndvMWNoTnNNWWN1",
         "title": "Katie Zacharia: Nach 14 Minuten macht Trumps neue Sprecherin klar, was ihre Rolle sein wird - WELT"
       },
       {
@@ -596,10 +875,10 @@
       }
     ],
     "title": "Katie Zacharia: Nach 14 Minuten macht Trumps neue Sprecherin klar, was ihre Rolle sein wird - WELT",
-    "summary": "Katie Zacharia: Nach 14 Minuten macht Trumps neue Sprecherin klar, was ihre Rolle sein wird - WELT <ol><li><a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdTNIWXN3a0pOQjNLMFNwNS1RZ2diX0t4QWN4NDNWbnJISUxlQWpXcERISDBqb1FLSk5CdXJBdWJsNU0waVlSeFZjV1MzU2U4dGxEMVRpVFhkQ1R2N1hrbTlmT1E4SS1qVVN4YkhBNlFILVZBemVreGhKY0FjTmM1UmVVVzhVbEZ3NlVuQnNpNVZnaXFabENqVV81eGs1cjZXejg2NUQ3VWd6cTREb1BPZGN3cG9UazNCdGpGZ0FrRVJ1YUZWUTNYVFl5MWo3a0l6dllOVGVwVFIxSnR0Z0hmZFZKcUtnSWNObWNXRWhfeVpVNEl2?oc=5\" target=\"_blank\">Katie Zacharia: Nach 14 Minuten macht Trumps neue Sprecherin klar, was ihre Rolle sein wird</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WELT</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTUZhbTIzRk5BQjNIZG5pd0h1RWRYX3otWVB4RWk4b3hDSi16clBWYlZPblEwVDRhdzhhRDFTWEM5eDB1\nNach 14 Minuten macht Trumps neue Sprecherin klar, was ihre Rolle sein wird US-Präsident Donald Trumps neue Sprecherin Katie Zacharia beendet ihre erste Pressekonferenz nach 14 Minuten. Eine Antwort auf eine wichtige Frage zum Ukraine-Krieg bleibt aus."
+    "summary": "Katie Zacharia: Nach 14 Minuten macht Trumps neue Sprecherin klar, was ihre Rolle sein wird - WELT <ol><li><a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdTNIWXN3a0pOQjNLMFNwNS1RZ2diX0t4QWN4NDNWbnJISUxlQWpXcERISDBqb1FLSk5CdXJBdWJsNU0waVlSeFZjV1MzU2U4dGxEMVRpVFhkQ1R2N1hrbTlmT1E4SS1qVVN4YkhBNlFILVZBemVreGhKY0FjTmM1UmVVVzhVbEZ3NlVuQnNpNVZnaXFabENqVV81eGs1cjZXejg2NUQ3VWd6cTREb1BPZGN3cG9UazNCdGpGZ0FrRVJ1YUZWUTNYVFl5MWo3a0l6dllOVGVwVFIxSnR0Z0hmZFZKcUtnSWNObWNXRWhfeVpVNEl2?oc=5\" target=\"_blank\">Katie Zacharia: Nach 14 Minuten macht Trumps neue Sprecherin klar, was ihre Rolle sein wird</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WELT</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOck9xQ2tQRVgyM3NaWGZDRHMxZ0Q1RDlEMkpORFN1Z0JNUXNqVkdIWGpyWFpSU0V5bndvMWNoTnNNWWN1\nNach 14 Minuten macht Trumps neue Sprecherin klar, was ihre Rolle sein wird US-Präsident Donald Trumps neue Sprecherin Katie Zacharia beendet ihre erste Pressekonferenz nach 14 Minuten. Eine Antwort auf eine wichtige Frage zum Ukraine-Krieg bleibt aus."
   },
   {
-    "id": "story-309",
+    "id": "story-364",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "",
@@ -624,7 +903,7 @@
     "summary": "Grüne und SPD unterbrechen Sondierungen mit Berliner Linken Die Sondierungsgespräche in Berlin sind unterbrochen. Die Linkspartei hatte bei ihrer konstitutierenden Sitzung alle Abgeordneten eine Erklärung unter anderem zum Existenzrecht Is…\nGrüne und SPD unterbrechen Sondierungen mit Linken In Berlin unterbrechen Grüne und SPD die Sondierungsgespräche mit der Linken. Das könnte mit einer umstrittenen Personalie zusammenhängen."
   },
   {
-    "id": "story-350",
+    "id": "story-404",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "NI",
@@ -649,57 +928,7 @@
     "summary": "Pro &amp; Contra: Ausgleich für Wochenend-Feiertage? 2027 fallen zufällig viele Feiertage auf's Wochenende. Die Grüne Jugend fordert, diese nachzuholen - so wie es in Belgien schon Praxis ist.\nIst ein Ausgleich für Wochenend-Feiertage nötig? Stimmen Sie ab! Die Grüne Jugend Niedersachsen fordert für gesetzliche Feiertage, die aufs Wochenende fallen, Ausgleichstage. Wie stehen Sie dazu?"
   },
   {
-    "id": "story-357",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-13T18:38:21.000Z",
-    "sources": [
-      {
-        "source": "Frankfurter Allgemeine",
-        "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-trump-warnt-huthi-miliz-ich-werde-niemals-vergessen-faz-200583539.html",
-        "date": "2026-10-13T18:38:21.000Z",
-        "snippet": "Die Huthis würden versuchen die Ölpreise hochzutreiben, so Trump +++ Explosionen in Sanaa: Saudi-Arabien bombardiert Ölanlage und Huthi-Gebiete +++ Merz verurteilt Angriffe der Huthi auf Riad +++ alle Entwicklungen im Liveblog",
-        "title": "Liveblog Irankrieg: Trump warnt Huthi-Miliz: „Ich werde niemals vergessen“"
-      },
-      {
-        "source": "RND",
-        "url": "https://www.rnd.de/politik/nahost-ticker-trump-warnt-huthi-miliz-ich-werde-niemals-vergessen-SUZZT272ANCR5LXBULZCKG7OB4.html",
-        "date": "2026-10-13T18:25:24.000Z",
-        "snippet": "Ob auf militärischer oder diplomatischer Ebene: Sichtbare Erfolge seines Kriegs gegen den Iran bleibt Donald Trump schuldig. Derweil setzen die Huthi ihre Attacken auf saudische Flughäfen fort. Verfolgen Sie alle Entwicklungen im Liveticker.",
-        "title": "Nahost-Ticker: Trump warnt Huthi-Miliz – „Ich werde niemals vergessen“"
-      }
-    ],
-    "title": "Liveblog Irankrieg: Trump warnt Huthi-Miliz: „Ich werde niemals vergessen“",
-    "summary": "Liveblog Irankrieg: Trump warnt Huthi-Miliz: „Ich werde niemals vergessen“ Die Huthis würden versuchen die Ölpreise hochzutreiben, so Trump +++ Explosionen in Sanaa: Saudi-Arabien bombardiert Ölanlage und Huthi-Gebiete +++ Merz verurteilt Angriffe der Huthi auf Riad +++ alle Entwicklungen im Liveblog\nNahost-Ticker: Trump warnt Huthi-Miliz – „Ich werde niemals vergessen“ Ob auf militärischer oder diplomatischer Ebene: Sichtbare Erfolge seines Kriegs gegen den Iran bleibt Donald Trump schuldig. Derweil setzen die Huthi ihre Attacken auf saudische Flughäfen fort. Verfolgen Sie alle Entwicklungen im Liveticker."
-  },
-  {
-    "id": "story-359",
-    "topic": "technik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-13T18:37:01.000Z",
-    "sources": [
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/europa/frankreich-cyberattacken-supermaerkte-100.html",
-        "date": "2026-10-13T18:37:01.000Z",
-        "snippet": "Bei einem Cyberangriff sind die Tiefkühlsysteme Hunderter französischer Supermärkte lahmgelegt worden. Frankreichs Finanzminister spricht von einem \"Weckruf an alle\". Auch das deutsche Bundesamt für Sicherheit ist alarmiert.",
-        "title": "Cyberattacken auf Hunderte französische Supermärkte"
-      },
-      {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTHp4aldyczUyajNiUFgydXNXQ2E5ZHZuSWVULUNpQWhkb2Vqa3k2RENQZW01c2dOaURfYThSRTVmNWozMDJVWUpMSHU1aTZ5N0pDczVXSkJQUEZQaW1OVy1fd2U3SmlXeG1iM3BKZFpCalpDZEUybmRYUFZ2RUg2dGR5VXR5SklVeTZvOGlJa0s?oc=5",
-        "date": "2026-10-13T18:37:00.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPTHp4aldyczUyajNiUFgydXNXQ2E5ZHZuSWVULUNpQWhkb2Vqa3k2RENQZW01c2dOaURfYThSRTVmNWozMDJVWUpMSHU1aTZ5N0pDczVXSkJQUEZQaW1OVy1fd2U3SmlXeG1iM3BKZFpCalpDZEUybmRYUFZ2RUg2dGR5VXR5SklVeTZvOGlJa0s?oc=5\" target=\"_blank\">Cyberattacken auf Hunderte französische Supermärkte</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOaE90ZHZEODYyd3BoeDlOOHJocGo2YWJDN1h6V1ExVHk1aEdGOGR0VzVnZGNaa0k5ZHZhNlVuaHZXX2NyUVlZci0xVE9pNW0zZEh0Rmc3dHlabmp4Zm9CNzNteFcwWlBBdlIxdlAxWF9VTVFHb0pBUGtVVkxHMWlmd1VsclY4eHJoaFlFd2hLS3IyZkg0S2lKbUVPSTRqdmExQ3dqQzB4bkVXZHlkelE?oc=5\" target=\"_blank",
-        "title": "Cyberattacken auf Hunderte französische Supermärkte - tagesschau.de"
-      }
-    ],
-    "title": "Cyberattacken auf Hunderte französische Supermärkte",
-    "summary": "Cyberattacken auf Hunderte französische Supermärkte Bei einem Cyberangriff sind die Tiefkühlsysteme Hunderter französischer Supermärkte lahmgelegt worden. Frankreichs Finanzminister spricht von einem \"Weckruf an alle\". Auch das deutsche Bundesamt für Sicherheit ist alarmiert.\nCyberattacken auf Hunderte französische Supermärkte - tagesschau.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPTHp4aldyczUyajNiUFgydXNXQ2E5ZHZuSWVULUNpQWhkb2Vqa3k2RENQZW01c2dOaURfYThSRTVmNWozMDJVWUpMSHU1aTZ5N0pDczVXSkJQUEZQaW1OVy1fd2U3SmlXeG1iM3BKZFpCalpDZEUybmRYUFZ2RUg2dGR5VXR5SklVeTZvOGlJa0s?oc=5\" target=\"_blank\">Cyberattacken auf Hunderte französische Supermärkte</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOaE90ZHZEODYyd3BoeDlOOHJocGo2YWJDN1h6V1ExVHk1aEdGOGR0VzVnZGNaa0k5ZHZhNlVuaHZXX2NyUVlZci0xVE9pNW0zZEh0Rmc3dHlabmp4Zm9CNzNteFcwWlBBdlIxdlAxWF9VTVFHb0pBUGtVVkxHMWlmd1VsclY4eHJoaFlFd2hLS3IyZkg0S2lKbUVPSTRqdmExQ3dqQzB4bkVXZHlkelE?oc=5\" target=\"_blank"
-  },
-  {
-    "id": "story-406",
+    "id": "story-460",
     "topic": "politik",
     "country": "DE",
     "stateHint": "BW",
@@ -724,7 +953,7 @@
     "summary": "Hagel verteidigt Polizeieinsatz und kündigt Gespräche zu Rathaus-Sicherheit an Am Tuttlinger Rathaus ist ein 27-Jähriger bei einem Polizeieinsatz gestorben. Innenminister Hagel verweist auf die Ermittlungen und will mit Kommunen über Rathaussicherheit sprechen.\nTuttlingen: Hagel verteidigt Polizeieinsatz und kündigt Gespräche zu Rathaus-Sicherheit an Am Tuttlinger Rathaus ist ein 27-Jähriger bei einem Polizeieinsatz gestorben. Innenminister Hagel verweist auf die Ermittlungen und will mit Kommunen über Rathaussicherheit sprechen."
   },
   {
-    "id": "story-428",
+    "id": "story-480",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "BY",
@@ -749,32 +978,7 @@
     "summary": "Missbrauchsbeauftragte Claus: \"Risiko so hoch wie nie\" Das Risiko für Kinder und Jugendliche, sexuelle Gewalt zu erleben, sei nie so hoch gewesen wie heute. Die Missbrauchsbeauftragte Kerstin Claus fordert verbindliche Schutzkonzepte.\nMissbrauchsbeauftragte: Risiko für Kinder so hoch wie nie Die Missbrauchsbeauftragte des Bundes, Kerstin Claus, sieht junge Menschen in nie dagewesenem Maße von sexuellen Übergriffen bedroht. Sie forderte einen besseren Schutz Heranwachsender im Internet, unter anderem ein entsprechendes Schulfach."
   },
   {
-    "id": "story-443",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-13T17:49:07.000Z",
-    "sources": [
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/inland/regional/berlin/berlin-sondierungen-unterbrochen-102.html",
-        "date": "2026-10-13T17:49:07.000Z",
-        "snippet": "In Berlin hat die Linkspartei die wegen ihrer Israel-Kritik umstrittene Abgeordnete Emde in die Fraktion aufgenommen. SPD und Grüne unterbrechen deshalb die Sondierungsgespräche für eine mögliche rot-rot-grüne Koalition.",
-        "title": "Grüne und SPD in Berlin unterbrechen Sondierungen mit Linkspartei"
-      },
-      {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMlAyNFp2NnFWWk03UDRVWmRJVWszNHZONjhGMEUxUDdxM3pYYUVYMG5FQmNUbDZkTzdveE1teU53WDBkWHRLVzhUUm1QYzBYZ3dQZTZVTmR0XzBxQkNjQ3ZKMWxYZjRfMVdaNVdQNjhYVHVJX2ZpdjNseVJPQUx2T0RFVVplVVd3YWxHWWpBZF9LOUpKNG41OG1KOXB3UlduaDBiQTBtS1UxSklIdGNhOHFEcjU1Uk1ndC1r?oc=5",
-        "date": "2026-10-13T17:46:00.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMlAyNFp2NnFWWk03UDRVWmRJVWszNHZONjhGMEUxUDdxM3pYYUVYMG5FQmNUbDZkTzdveE1teU53WDBkWHRLVzhUUm1QYzBYZ3dQZTZVTmR0XzBxQkNjQ3ZKMWxYZjRfMVdaNVdQNjhYVHVJX2ZpdjNseVJPQUx2T0RFVVplVVd3YWxHWWpBZF9LOUpKNG41OG1KOXB3UlduaDBiQTBtS1UxSklIdGNhOHFEcjU1Uk1ndC1r?oc=5\" target=\"_blank\">Grüne und SPD in Berlin unterbrechen Sondierungen mit Linkspartei</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">STERN.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxPUWdXS1daRWtPWVRROXk2cHA4S3gtWTFIMVdSTGJfZk5DaTZUSm42M3dqeEhOckdPV0l3TldLTDl1a3Z1NmZROUFpX1NnZWRhUzdYM3BSMmtteVdySl9kalBuT0t5d3M3eXg2ZXF4MTdvTFFuc1dwUTM2VTFXMEZsMlB5eGZzekNybEpodH",
-        "title": "Grüne und SPD in Berlin unterbrechen Sondierungen mit Linkspartei - STERN.de"
-      }
-    ],
-    "title": "Grüne und SPD in Berlin unterbrechen Sondierungen mit Linkspartei",
-    "summary": "Grüne und SPD in Berlin unterbrechen Sondierungen mit Linkspartei In Berlin hat die Linkspartei die wegen ihrer Israel-Kritik umstrittene Abgeordnete Emde in die Fraktion aufgenommen. SPD und Grüne unterbrechen deshalb die Sondierungsgespräche für eine mögliche rot-rot-grüne Koalition.\nGrüne und SPD in Berlin unterbrechen Sondierungen mit Linkspartei - STERN.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMlAyNFp2NnFWWk03UDRVWmRJVWszNHZONjhGMEUxUDdxM3pYYUVYMG5FQmNUbDZkTzdveE1teU53WDBkWHRLVzhUUm1QYzBYZ3dQZTZVTmR0XzBxQkNjQ3ZKMWxYZjRfMVdaNVdQNjhYVHVJX2ZpdjNseVJPQUx2T0RFVVplVVd3YWxHWWpBZF9LOUpKNG41OG1KOXB3UlduaDBiQTBtS1UxSklIdGNhOHFEcjU1Uk1ndC1r?oc=5\" target=\"_blank\">Grüne und SPD in Berlin unterbrechen Sondierungen mit Linkspartei</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">STERN.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxPUWdXS1daRWtPWVRROXk2cHA4S3gtWTFIMVdSTGJfZk5DaTZUSm42M3dqeEhOckdPV0l3TldLTDl1a3Z1NmZROUFpX1NnZWRhUzdYM3BSMmtteVdySl9kalBuT0t5d3M3eXg2ZXF4MTdvTFFuc1dwUTM2VTFXMEZsMlB5eGZzekNybEpodH"
-  },
-  {
-    "id": "story-448",
+    "id": "story-500",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
@@ -799,7 +1003,7 @@
     "summary": "Katie Zacharia beendet ersten Auftritt als neue Sprecherin von Donald Trump nach wenigen Minuten Sie verbreitete Verschwörungstheorien über Michelle Obama und Hillary Clinton, jetzt spricht sie für Donald Trump: Katie Zacharia hat ihre erste Pressekonferenz absolviert. Fragen durften nur wenige Journalisten stellen.\nNeue Trump-Sprecherin Katie Zacharia: Nervöser erster Auftritt nach drei Minuten beendet Ihre Vorgängerin Karoline Leavitt war für ihren scharfen Ton gegenüber Medienvertretern und lange Pressekonferenzen berüchtigt. Mit Katie Zacharia als neue Sprecherin von US-Präsident Trump scheint dies anders zu werden."
   },
   {
-    "id": "story-556",
+    "id": "story-602",
     "topic": "politik",
     "country": "DE",
     "stateHint": "BY",
@@ -824,82 +1028,7 @@
     "summary": "Sachsen-Anhalt: CDU-Fraktion will bei Siegmund-Wahl Plenarsaal verlassen Ob aus ihren Reihen zusätzliche Stimmen für den AfD-Landtagspräsidenten kamen, diese Debatte hat die CDU schwer belastet. Das will die Fraktion verhindern, wenn Ulrich Siegmund als Ministerpräsident in Sachsen-Anhalt antritt – und dann geschlossen den Plenarsaal verlassen. Eine wichtige Frage bleibt jedoch unbeantwortet.\nSachsen-Anhalt: CDU-Fraktion will vor MP-Wahl den Saal verlassen Nach der Landtagspräsidentenwahl in Sachsen-Anhalt will die CDU diesmal auf Nummer sicher gehen: Wenn sich in Sachsen-Anhalt der AfD-Politiker Siegmund als Ministerpräsident zur Wahl stellt, wird die CDU-Fraktion den Saal verlassen."
   },
   {
-    "id": "story-561",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-13T16:33:51.000Z",
-    "sources": [
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/inland/innenpolitik/spd-debatte-vorsitz-100.html",
-        "date": "2026-10-13T16:33:51.000Z",
-        "snippet": "Wer wird künftig an der Doppelspitze der SPD stehen? Klingbeil gilt vielen als Favorit, lässt seine Kandidatur jedoch offen. Pistorius? Schwesig? Rehlinger? Sie alle haben bereits abgesagt - und die Rufe nach einer neuen Aufgabenverteilung werden lauter.",
-        "title": "Nach Rücktritt von Bas: SPD sucht neue Vorsitzende"
-      },
-      {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YVjJIZkJEUGQtV0drY2ZJRlBLNVZlcDgycE9GdmVHbjZhTDNPbEtsbzlvWnZPLUJMR0xVcG5NTkRscHdfdjBtVV84eGd6ZVJUOG1nZUVMNFJsTmdyS2xuVk04LUc3VnVuNkJ3ekxhcUNHRVM5SGQzTGxpNUhfMHc?oc=5",
-        "date": "2026-10-13T16:33:00.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9YVjJIZkJEUGQtV0drY2ZJRlBLNVZlcDgycE9GdmVHbjZhTDNPbEtsbzlvWnZPLUJMR0xVcG5NTkRscHdfdjBtVV84eGd6ZVJUOG1nZUVMNFJsTmdyS2xuVk04LUc3VnVuNkJ3ekxhcUNHRVM5SGQzTGxpNUhfMHc?oc=5\" target=\"_blank\">Nach Rücktritt von Bas: SPD sucht neue Vorsitzende</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOVkZ3X3VfRkhIYmZtR05STnpLX3ZwWHI1LXljM2g1M0ViLWkzclY1SjNTM1p6c0tGOE5xX1h3TmwyT2dXV1Q2WWJjVlJGOHFlZUhqT2lNTTVwRFQweGI3WDZGYnRveEZ0VlNKTndqRTkxTE9ET1NKbjhITHgtSlItLXFTamF2XzVsb1E?oc=5\" target=\"_blank\">Nach Bas-Rücktritt - Pistorius will nicht als SPD-Chef antreten</a>&nbs",
-        "title": "Nach Rücktritt von Bas: SPD sucht neue Vorsitzende - tagesschau.de"
-      }
-    ],
-    "title": "Nach Rücktritt von Bas: SPD sucht neue Vorsitzende",
-    "summary": "Nach Rücktritt von Bas: SPD sucht neue Vorsitzende Wer wird künftig an der Doppelspitze der SPD stehen? Klingbeil gilt vielen als Favorit, lässt seine Kandidatur jedoch offen. Pistorius? Schwesig? Rehlinger? Sie alle haben bereits abgesagt - und die Rufe nach einer neuen Aufgabenverteilung werden lauter.\nNach Rücktritt von Bas: SPD sucht neue Vorsitzende - tagesschau.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9YVjJIZkJEUGQtV0drY2ZJRlBLNVZlcDgycE9GdmVHbjZhTDNPbEtsbzlvWnZPLUJMR0xVcG5NTkRscHdfdjBtVV84eGd6ZVJUOG1nZUVMNFJsTmdyS2xuVk04LUc3VnVuNkJ3ekxhcUNHRVM5SGQzTGxpNUhfMHc?oc=5\" target=\"_blank\">Nach Rücktritt von Bas: SPD sucht neue Vorsitzende</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOVkZ3X3VfRkhIYmZtR05STnpLX3ZwWHI1LXljM2g1M0ViLWkzclY1SjNTM1p6c0tGOE5xX1h3TmwyT2dXV1Q2WWJjVlJGOHFlZUhqT2lNTTVwRFQweGI3WDZGYnRveEZ0VlNKTndqRTkxTE9ET1NKbjhITHgtSlItLXFTamF2XzVsb1E?oc=5\" target=\"_blank\">Nach Bas-Rücktritt - Pistorius will nicht als SPD-Chef antreten</a>&nbs"
-  },
-  {
-    "id": "story-663",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-13T15:30:02.000Z",
-    "sources": [
-      {
-        "source": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/inland/innenpolitik/arbeitsminiser-schweitzer-portraet-100.html",
-        "date": "2026-10-13T15:30:02.000Z",
-        "snippet": "Im März wurde Alexander Schweitzer als Ministerpräsident von Rheinland-Pfalz abgewählt. Jetzt soll er als Bundesarbeitsminister dabei helfen, Deutschland aus der Krise zu führen. …",
-        "title": "Vom Wahlverlierer zum Bundesminister"
-      },
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/inland/innenpolitik/arbeitsminiser-schweitzer-portraet-100.html",
-        "date": "2026-10-13T15:09:23.000Z",
-        "snippet": "Im März wurde Alexander Schweitzer als Ministerpräsident von Rheinland-Pfalz abgewählt. Jetzt soll er als Bundesarbeitsminister dabei helfen, Deutschland aus der Krise zu führen. Von T. Peters.",
-        "title": "Alexander Schweitzer: Vom Wahlverlierer zum Bundesminister"
-      }
-    ],
-    "title": "Vom Wahlverlierer zum Bundesminister",
-    "summary": "Vom Wahlverlierer zum Bundesminister Im März wurde Alexander Schweitzer als Ministerpräsident von Rheinland-Pfalz abgewählt. Jetzt soll er als Bundesarbeitsminister dabei helfen, Deutschland aus der Krise zu führen. …\nAlexander Schweitzer: Vom Wahlverlierer zum Bundesminister Im März wurde Alexander Schweitzer als Ministerpräsident von Rheinland-Pfalz abgewählt. Jetzt soll er als Bundesarbeitsminister dabei helfen, Deutschland aus der Krise zu führen. Von T. Peters."
-  },
-  {
-    "id": "story-728",
-    "topic": "wirtschaft",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-13T14:58:51.000Z",
-    "sources": [
-      {
-        "source": "RND",
-        "url": "https://www.rnd.de/promis/privater-einblick-prinzessin-eugenie-zeigt-tochter-adelaide-auf-instagram-6XCCFXVMSJGYXNEQEA6XGP6TGY.html",
-        "date": "2026-10-13T14:58:51.000Z",
-        "snippet": "Zwei Monate nach der Geburt zeigt Prinzessin Eugenie ihre Tochter Adelaide in einem privaten Video. Zum achten Hochzeitstag schwärmt sie von Ehemann Jack Brooksbank.",
-        "title": "Privater Einblick: Prinzessin Eugenie zeigt Tochter Adelaide auf Instagram"
-      },
-      {
-        "source": "ntv",
-        "url": "https://www.n-tv.de/leute/Prinzessin-Eugenie-zeigt-ihre-kleine-Tochter-Adelaide-id31412371.html",
-        "date": "2026-10-13T11:37:32.000Z",
-        "snippet": "Prinzessin Eugenie gratuliert ihrem Mann Jack Brooksbank zum achten Hochzeitstag. Das Video, das sie dafür nutzt, entzückt Royal-Fans allerdings noch aus einem anderen Grund: Die zwei Monate alte Tochter des Paares ist darin zu sehen.",
-        "title": "Liebeserklärung an Ehemann Jack: Prinzessin Eugenie zeigt ihre kleine Tochter Adelaide"
-      }
-    ],
-    "title": "Privater Einblick: Prinzessin Eugenie zeigt Tochter Adelaide auf Instagram",
-    "summary": "Privater Einblick: Prinzessin Eugenie zeigt Tochter Adelaide auf Instagram Zwei Monate nach der Geburt zeigt Prinzessin Eugenie ihre Tochter Adelaide in einem privaten Video. Zum achten Hochzeitstag schwärmt sie von Ehemann Jack Brooksbank.\nLiebeserklärung an Ehemann Jack: Prinzessin Eugenie zeigt ihre kleine Tochter Adelaide Prinzessin Eugenie gratuliert ihrem Mann Jack Brooksbank zum achten Hochzeitstag. Das Video, das sie dafür nutzt, entzückt Royal-Fans allerdings noch aus einem anderen Grund: Die zwei Monate alte Tochter des Paares ist darin zu sehen."
-  },
-  {
-    "id": "story-790",
+    "id": "story-816",
     "topic": "politik",
     "country": "DE",
     "stateHint": "BY",
@@ -924,7 +1053,7 @@
     "summary": "Flughafen Nürnberg: Entwarnung nach mutmaßlicher \"Luftnotlage\" Der Nürnberger Flughafen war wegen eines vermeintlich in Not geratenen Flugzeugs am Mittag für den Flugverkehr gesperrt. Das Cockpit einer Maschine aus Korfu hatte einen Entführungsfall gemeldet – Grund dafür war aber wohl nur ein technischer Defekt.\nEntwarnung am Flughafen Nürnberg nach vermeintlicher Flugzeugentführung Der Nürnberger Flughafen war wegen eines vermeintlich in Not geratenen Flugzeugs gesperrt worden. Eine Maschine aus Korfu hatte einen Entführungsfall gemeldet. Grund dafür war aber wohl nur ein technischer Defekt."
   },
   {
-    "id": "story-841",
+    "id": "story-861",
     "topic": "wirtschaft",
     "country": "DE",
     "stateHint": "",
@@ -949,7 +1078,7 @@
     "summary": "Verschärfter Preiskampf : Altersvorsorgedepot: Trade Republic will's teilweise umsonst machen - n-tv.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOWVJBOXpXVXJFa3NGbHVrWGJYVkd0Y0YxdEUxbFhFOVB4NDhwaURYMnhtSEpYMEU5Z0N1allQOGdtbmk3R01zbGxTR3JVZDE3bG8wRHk4bXJjd3EwQmZ1ZUlMRlJGenFJaEVNUnNQdWFUTzI4N2x1ZDFuUkVMYlFKU3AwWFlWd2hzcF8xVmVncjZ0Y2ZLRjlnSm9sVzY1WXExbUxoaG1UR3VJLW1tQ3RMSA?oc=5\" target=\"_blank\">Verschärfter Preiskampf : Altersvorsorgedepot: Trade Republic will's teilweise umsonst machen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdjZvYXcyY1Q3ZmVqRzlsMTdyeXhmWUpFSVpNYmlqc2JCYmdZeTZxbXFJMTY3dlhEWG1VUHBsYUd3RG5NOUlUUXJ6MVFZYXBxX1l2c1lhbHZITDQ5UE0zWlpPR0tBeUU3X05ISzI4amE1WHZjei1KWUNZUGlhcFJYdVZac\nVerschärfter Preiskampf : Altersvorsorgedepot: Trade Republic will&apos;s teilweise umsonst machen Mit dem Altersvorsorgedepot können Sparer ab dem kommenden Jahr eine staatliche Förderung erhalten, wenn sie fürs Alter in Fonds oder ETFs investieren. Nun mischt Trade Republic mit und heizt das Rennen mit Kampfkonditionen an."
   },
   {
-    "id": "story-848",
+    "id": "story-868",
     "topic": "wirtschaft",
     "country": "PT",
     "stateHint": "",
@@ -974,7 +1103,7 @@
     "summary": "FMI revê em alta crescimento da economia portuguesa para 2,1% este ano e 1,9% em 2027 - RTP <ol><li><a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQbWszVGs5Z1FuSTJzeXI0LVYtb3d3UXo1OG9hNmpXblhVS3BySUItelFwZkJYcDVYWHJ6QWgtS3BScFJEUTRIMzdVeGxxamZtaW95ZGNmUG13UmFyNV9YcmM1UXN6U0hYX3dmd1B2RWxLbTRHN1lfdjhZYWYxVU1WbkpRWUp3NVVTMXk4a0VfOW5CcnZ1UzdWV3RTbldUNl83ZklUbjFjYUtPUkk3dXVfV2dWeXUxNVBvV2h2enRuRHBFUk9laVE?oc=5\" target=\"_blank\">FMI revê em alta crescimento da economia portuguesa para 2,1% este ano e 1,9% em 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxOcEpTWXJyTUllZE5rQWt1TkRINlVFSExvN2l1dVFkRWlZMXludGJ5aXphR1hrM0hGTGhnb0p0WE0xWWZKbjBPRnJyT3p1LU9fUTU1cmZ4NmQ1RTQ1NzgxZ19fRFluNmxlQ3FfQkQ5TTVhRkRFaEZ5\nFMI revê em alta crescimento da economia portuguesa para 2,1% este ano e 1,9% em 2027 O Fundo Monetário Internacional reviu em alta o crescimento da economia portuguesa para 2,1% este ano e 1,9% em 2027, mas continua mais pessimista que o Governo, segundo o World Economic Outlook divulgado esta terça-feira."
   },
   {
-    "id": "story-925",
+    "id": "story-937",
     "topic": "panorama",
     "country": "UK",
     "stateHint": "",
@@ -999,32 +1128,7 @@
     "summary": "Watch: Emergency calls from botched Christa Pike execution released A series of calls, obtained by the Associated Press, reveal emergency services were delayed in reaching Pike.\nEmergency call about Christa Pike’s botched execution released A newly released emergency call recording reveals confusion among Tennessee prison officials and dispatchers after Christa Pike survived a lethal injection attempt."
   },
   {
-    "id": "story-977",
-    "topic": "politik",
-    "country": "INT",
-    "stateHint": "",
-    "date": "2026-10-13T10:55:00.000Z",
-    "sources": [
-      {
-        "source": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR0x3ckRQNG9zS2hldzVhTWhRblNlVmxrME8zZWNCS0F3NVc1Y2JKeVA0ZEZlZ0ZVRnZYT0lsNjVWMWdTVEh5WkpIRWNJeG0zMllPZ1R3RWtwOENtM0N4bkxrTFdjck4yTVA5ZENSdC1jTC12Nl81LTdxazBqNW9rZTFSOTI4X1owbGwxS3Y2ZE9NWFhjZHNoUnBoMGlmdDlJQ1AxOC0zUzdoMHRCQXAxdA?oc=5",
-        "date": "2026-10-13T10:55:00.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPR0x3ckRQNG9zS2hldzVhTWhRblNlVmxrME8zZWNCS0F3NVc1Y2JKeVA0ZEZlZ0ZVRnZYT0lsNjVWMWdTVEh5WkpIRWNJeG0zMllPZ1R3RWtwOENtM0N4bkxrTFdjck4yTVA5ZENSdC1jTC12Nl81LTdxazBqNW9rZTFSOTI4X1owbGwxS3Y2ZE9NWFhjZHNoUnBoMGlmdDlJQ1AxOC0zUzdoMHRCQXAxdA?oc=5\" target=\"_blank\">IMF warns global economy ‘could soon test the limits of resilience’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
-        "title": "IMF warns global economy ‘could soon test the limits of resilience’ - The Guardian"
-      },
-      {
-        "source": "Guardian World",
-        "url": "https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026",
-        "date": "2026-10-13T02:00:11.000Z",
-        "snippet": "<p>World Economic Outlook says states’ oil stocks are low and budgets are overstretched, as it upgrades UK GDP growth forecast for 2026</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks\">Threat of AI share crash puts world financial stability at risk, says IMF</a></p></li></ul><p>The global economy “could soon test the limits of resilience”, as emergency oil stocks run low and government budgets become overstretched, the International Monetary Fund has warned.</p><p>In its twice-yearly World Economic Outlook, the IMF said global growth had withstood the Middle East conflict better than feared over the past six ",
-        "title": "IMF warns global economy ‘could soon test the limits of resilience’"
-      }
-    ],
-    "title": "IMF warns global economy ‘could soon test the limits of resilience’ - The Guardian",
-    "summary": "IMF warns global economy ‘could soon test the limits of resilience’ - The Guardian <a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPR0x3ckRQNG9zS2hldzVhTWhRblNlVmxrME8zZWNCS0F3NVc1Y2JKeVA0ZEZlZ0ZVRnZYT0lsNjVWMWdTVEh5WkpIRWNJeG0zMllPZ1R3RWtwOENtM0N4bkxrTFdjck4yTVA5ZENSdC1jTC12Nl81LTdxazBqNW9rZTFSOTI4X1owbGwxS3Y2ZE9NWFhjZHNoUnBoMGlmdDlJQ1AxOC0zUzdoMHRCQXAxdA?oc=5\" target=\"_blank\">IMF warns global economy ‘could soon test the limits of resilience’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>\nIMF warns global economy ‘could soon test the limits of resilience’ <p>World Economic Outlook says states’ oil stocks are low and budgets are overstretched, as it upgrades UK GDP growth forecast for 2026</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks\">Threat of AI share crash puts world financial stability at risk, says IMF</a></p></li></ul><p>The global economy “could soon test the limits of resilience”, as emergency oil stocks run low and government budgets become overstretched, the International Monetary Fund has warned.</p><p>In its twice-yearly World Economic Outlook, the IMF said global growth had withstood the Middle East conflict better than feared over the past six "
-  },
-  {
-    "id": "story-1093",
+    "id": "story-1104",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "BY",
