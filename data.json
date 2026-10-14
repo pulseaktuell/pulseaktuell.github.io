@@ -5,19 +5,19 @@
     "o": "DE",
     "k": "wirtschaft",
     "lang": "de",
-    "d": "2026-10-14T17:59:01.000Z",
+    "d": "2026-10-14T21:43:50.000Z",
     "p": 3,
     "st": "",
     "city": "",
-    "t": "IWF fordert Industrieländer zum Abbau von Staatsschulden auf",
-    "s": "Der Internationale Währungsfonds hat an die Industrieländer appelliert, ihre Haushaltsdefizite zu verringern und Schulden abzubauen. Grund für die Warnung sind steigende Zinsen und hohe Ausgaben, welche den finanziellen Spielraum der betroffenen Staaten zunehmend einschränken. Konkrete Maßnahmen zur Umsetzung wurden im Rahmen der Warnung zunächst nicht detailliert beziffert.",
-    "m": "Der Internationale Währungsfonds sieht weltweit steigende Staatsschulden kritisch und nimmt vor allem die Industriestaaten in die Pflicht. Diese sollen ihre Haushaltsdefizite aktiv verringern, um langfristig handlungsfähig zu bleiben. Als wesentliche Ursachen für die angespannte Haushaltslage nennt der IWF hohe staatliche Ausgaben sowie gestiegene Zinsen. Durch diese Faktoren schrumpft der finanzielle Spielraum der betroffenen Länder spürbar. Der Appell zielt darauf ab, finanzkrisenartigen Entwicklungen rechtzeitig entgegenzuwirken und solide Staatsfinanzen sicherzustellen.",
-    "r": "Die Warnung des IWF verdeutlicht die globale finanzielle Belastung der Industrieländer durch Zinsen und Ausgaben. Sie ist relevant, da sie wirtschaftspolitische Kurskorrekturen bei den Staatsfinanzen anmahnt.",
+    "t": "IWF warnt Industriestaaten vor steigenden Staatsschulden",
+    "s": "Der Internationale Währungsfonds hat die Industrieländer eindringlich aufgefordert, ihre Haushaltsdefizite zu verringern. Hintergrund des Appells sind steigende finanzielle Belastungen und schwindende Spielräume für die Staaten. Die Organisation sieht dringenden Handlungsbedarf bei der Haushaltskonsolidierung.",
+    "m": "Der Internationale Währungsfonds fordert die Industrienationen zu einem konsequenten Schuldenabbau und einer Reduzierung ihrer Haushaltsdefizite auf. Als Hauptursachen für die angespannte Lage nennt der IWF steigende Zinsen sowie anhaltend hohe staatliche Ausgaben. Diese Faktoren schränken den finanziellen Handlungsspielraum der betroffenen Länder der Berichterstattung zufolge zunehmend ein. Konkrete Maßnahmen oder Fristen für den Schuldenabbau wurden in den vorliegenden Berichten nicht genannt. Die Warnung richtet sich explizit an die Gruppe der großen Industriestaaten. Weitere Einzelheiten zu den betroffenen Ländern oder Reaktionen auf den Appell liegen bislang nicht vor.",
+    "r": "Die Warnung des IWF betrifft die globale Finanzstabilität und die Handlungsfähigkeit wichtiger Volkswirtschaften. Steigende Zinsen und hohe Defizite erhöhen den Druck auf die Haushalte der Industriestaaten massiv.",
     "srcs": [
       {
         "name": "Deutschlandfunk Nachrichten",
         "url": "https://www.deutschlandfunk.de/internationaler-waehrungsfonds-warnt-vor-steigenden-staatsschulden-100.html",
-        "date": "2026-10-14T17:59:01.000Z"
+        "date": "2026-10-14T21:43:50.000Z"
       },
       {
         "name": "Tagesschau",
@@ -26,15 +26,52 @@
       }
     ],
     "url": "https://www.deutschlandfunk.de/internationaler-waehrungsfonds-warnt-vor-steigenden-staatsschulden-100.html",
-    "agree": "Beide Quellen stimmen darin überein, dass der IWF die Industrieländer zu einer Verringerung ihrer Haushaltsdefizite und Staatsschulden aufgerufen hat.",
+    "agree": "Beide Quellen berichten übereinstimmend, dass der Internationale Währungsfonds die Industrieländer aufgefordert hat, ihre Haushaltsdefizite zu verringern.",
+    "diff": [
+      {
+        "name": "Tagesschau",
+        "note": "Erwähnt zusätzlich, dass steigende Zinsen und hohe Ausgaben den finanziellen Spielraum der Staaten einschränken und fordert konkret auch einen Schuldenabbau."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-a945983e3772e187",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-14T21:43:50.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Koalitionsstreit über Bas-Vorwürfe und Forderung nach Schwesig-Entschuldigung",
+    "s": "Der Rücktritt von SPD-Chefin und Bundesarbeitsministerin Bas führt zu anhaltendem Streit innerhalb der Koalition zwischen Union und SPD. Im Zentrum der Auseinandersetzung stehen Vorwürfe gegen Bas. Zudem wird eine Entschuldigung von SPD-Politikerin Schwesig gefordert.",
+    "m": "Der Vorfall belastet das Bündnis zwischen Union und SPD schwer. Auslöser ist der Rücktritt von SPD-Chefin und Bundesarbeitsministerin Bas, der weitreichende Debatten innerhalb der Regierungskoalition ausgelöst hat. Die Hintergründe des Rücktritts sind mit scharfen Vorwürfen verbunden, die nun für anhaltenden politischen Streit sorgen. Darüber hinaus gibt es eine explizite Forderung nach einer Entschuldigung von Schwesig in diesem Zusammenhang. Offen ist, wie die Koalitionspartner diesen internen Konflikt beilegen wollen und welche personellen sowie politischen Konsequenzen folgen. Die Berichterstattung beleuchtet die Zuspitzung der Lage zwischen den Regierungsparteien.",
+    "r": "Der interne Streit in der Koalition über den Rücktritt einer Ministerin und Parteivorsitzenden betrifft die Regierungsstabilität. Die Auseinandersetzung zwischen Union und SPD offenbart anhaltende Spannungen im Regierungsbündnis.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/bas-vorwuerfe-sorgen-weiter-fuer-streit-in-der-koalition-entschuldigung-von-schwesig-gefordert-100.html",
+        "date": "2026-10-14T21:43:50.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQWlOek93UDlaT25Wai0taVVCQlBHVllXcE5ib1FFZmRhUWU0cmhNWnZ0anNLdUNYejhsOUZvcjB2YTdvY28tOFNBdGNCZmh3ZmFlelhpQjVJVHlOWVc4SEJ4VEtCMk1hVzIxTWtNVGk3b0lLU2d5OG5GelhlRmc1TzFhWlJDTG0wd0dTWENGSjVEc0pLN2huNHZtZHF6aTFkcnpSUzU1VUgyQjItYlMxVHNMeTdKWTJBdjE2NlF1QVEzWGxhek9fXzh2OXhsWTA?oc=5",
+        "date": "2026-10-14T19:07:16.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/bas-vorwuerfe-sorgen-weiter-fuer-streit-in-der-koalition-entschuldigung-von-schwesig-gefordert-100.html",
+    "agree": "Die Quellen stimmen überein, dass der Rücktritt von SPD-Chefin und Bundesarbeitsministerin Bas zu Streit in der Koalition aus Union und SPD führt und eine Entschuldigung von Schwesig gefordert wird.",
     "diff": [
       {
         "name": "Deutschlandfunk Nachrichten",
-        "note": "Die Meldung beschränkt sich auf den reinen Appell zur Verringerung der Haushaltsdefizite."
+        "note": "Berichtet über den anhaltenden Streit in der Koalition durch die Bas-Vorwürfe und die geforderte Entschuldigung von Schwesig."
       },
       {
-        "name": "Tagesschau",
-        "note": "Nennt zusätzlich steigende Zinsen und hohe Ausgaben als Ursachen für die Einschränkung des finanziellen Spielraums."
+        "name": "Google News DE",
+        "note": "Teilt im Wesentlichen die gleichen Informationen basierend auf dem Deutschlandfunk-Beitrag."
       }
     ],
     "chg": "",
@@ -46,19 +83,19 @@
     "o": "DE",
     "k": "politik",
     "lang": "de",
-    "d": "2026-10-14T17:59:01.000Z",
+    "d": "2026-10-14T21:43:50.000Z",
     "p": 3,
     "st": "",
     "city": "",
     "t": "Israelische Siedler setzen Moschee im Westjordanland in Brand",
-    "s": "Im Westjordanland haben israelische Siedler mutmaßlich eine Moschee in Brand gesetzt. Dutzende Siedler drangen in der Nacht in ein Dorf nördlich von Jerusalem ein. Der Vorfall ereignet sich vor dem Hintergrund einer starken Zunahme der Gewalt radikaler Siedler gegen Palästinenser.",
-    "m": "In der Nacht sind Dutzende israelische Siedler in ein Dorf nördlich von Jerusalem eingedrungen und haben dort nach Angaben offenbar eine Moschee in Brand gesteckt. Das betroffene Dorf heißt Michmas und liegt im besetzten Westjordanland. Die Tat reiht sich in eine Entwicklung ein, bei der die Gewalt radikaler israelischer Siedler gegen Palästinenser und deren Besitz stark zugenommen hat. Nähere Details zu den genauen Schäden an der Moschee oder zu möglichen Verletzten oder Festnahmen gehen aus den Berichten bisher nicht hervor. Auch offizielle Reaktionen von Behörden oder Sicherheitskräften stehen noch aus. Die Situation im Westjordanland ist seit längerem extrem angespannt. Der Vorfall wirft erneut Fragen zur Sicherheit und zum Schutz palästinensischer Gemeinden vor gewaltsamen Übergriffen auf.",
-    "r": "Der Vorfall verdeutlicht die anhaltende und stark zunehmende Gewalt radikalisierter Siedler gegen palästinensische Eigentümer und Dörfer im Westjordanland. Solche Übergriffe belasten die Sicherheitslage in der Region massiv.",
+    "s": "Im besetzten Westjordanland haben israelische Siedler offenbar eine Moschee in Brand gesetzt. Die Tat ereignete sich in einem Dorf nördlich von Jerusalem. Die Gewalt radikaler Siedler gegen Palästinenser und deren Eigentum hat zuletzt stark zugenommen.",
+    "m": "In der Nacht sind Dutzende israelische Siedler in ein Dorf nördlich von Jerusalem im Westjordanland eingedrungen. Dort haben sie eine Moschee in Brand gesteckt. Dieser Vorfall reiht sich in eine stark zunehmende Welle der Gewalt radikaler israelischer Siedler gegen Palästinenser und deren Besitz ein. Weitere Details zu Opfern oder dem genauen Ausmaß des Schadens an der Moschee gehen aus den Berichten nicht hervor. Die Situation im Westjordanland ist seit längerem stark angespannt.",
+    "r": "Der Vorfall verdeutlicht die zunehmende Gewalt radikaler israelischer Siedler im Westjordanland gegen palästinensischen Besitz. Solche Übergriffe belasten die Sicherheitslage in der Region weiter.",
     "srcs": [
       {
         "name": "Deutschlandfunk Nachrichten",
         "url": "https://www.deutschlandfunk.de/israelische-siedler-setzen-moschee-im-westjordanland-in-brand-104.html",
-        "date": "2026-10-14T17:59:01.000Z"
+        "date": "2026-10-14T21:43:50.000Z"
       },
       {
         "name": "t-online Nachrichten",
@@ -67,52 +104,15 @@
       }
     ],
     "url": "https://www.deutschlandfunk.de/israelische-siedler-setzen-moschee-im-westjordanland-in-brand-104.html",
-    "agree": "Die Quellen stimmen überein, dass israelische Siedler eine Moschee im Westjordanland in Brand gesetzt haben.",
+    "agree": "Beide Quellen stimmen überein, dass israelische Siedler eine Moschee im Westjordanland in Brand gesetzt haben.",
     "diff": [
       {
         "name": "Deutschlandfunk Nachrichten",
-        "note": "nennt den konkreten Namen des betroffenen Dorfes Michmas."
+        "note": "nennt den Namen des betroffenen Dorfes Michmas."
       },
       {
         "name": "t-online Nachrichten",
-        "note": "berichtet, dass die Gewalt radikaler israelischer Siedler gegen Palästinenser stark zugenommen hat und Dutzende Siedler in der Nacht in ein Dorf nördlich von Jerusalem eingedrungen sind."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-b15a2e512f6d57e8",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-14T17:59:01.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Alexander Schweitzer als neuer Bundesarbeitsminister vereidigt",
-    "s": "Der neue Bundesarbeitsminister Alexander Schweitzer ist im Bundestag vereidigt worden. Damit hat er den letzten Schritt auf dem Weg zu seinem neuen Amt getan. Die Zeremonie fand im Parlament statt.",
-    "m": "Alexander Schweitzer, der der SPD angehört, hat am Mittwoch seine Vereidigung als neuer Bundesarbeitsminister im Bundestag absolviert. Dies markiert den finalen Schritt zur Übernahme seines neuen Amtes in der Bundesregierung. Die Berichterstattung beschränkt sich auf diese Amtshandlung im Parlament. Weitere Details zu Hintergründen, politischen Vorhaben oder Reaktionen gehen aus den vorliegenden Berichten nicht hervor.",
-    "r": "Die Ernennung und Vereidigung eines neuen Bundesministers ist ein zentraler Vorgang für die exekutive Führung und die Zusammensetzung der Bundesregierung.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/alexander-schweitzer-als-neuer-arbeitsminister-vereidigt-100.html",
-        "date": "2026-10-14T17:59:01.000Z"
-      },
-      {
-        "name": "SWR Aktuell",
-        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/alexander-schweitzer-neuer-bundesarbeitsminister-100.html",
-        "date": "2026-10-14T14:41:48.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/alexander-schweitzer-als-neuer-arbeitsminister-vereidigt-100.html",
-    "agree": "Die Quellen sind sich einig, dass Alexander Schweitzer als neuer Bundesarbeitsminister im Bundestag vereidigt wurde.",
-    "diff": [
-      {
-        "name": "SWR Aktuell",
-        "note": "Nennt die Parteizugehörigkeit (SPD) und den Wochentag (Mittwoch) der Vereidigung."
+        "note": "berichtet, dass Dutzende Siedler in der Nacht in ein Dorf nördlich von Jerusalem eingedrungen sind und erwähnt die allgemein stark zugenommene Gewalt radikaler Siedler gegen Palästinenser."
       }
     ],
     "chg": "",
@@ -124,19 +124,19 @@
     "o": "DE",
     "k": "politik",
     "lang": "de",
-    "d": "2026-10-14T17:59:01.000Z",
+    "d": "2026-10-14T21:43:50.000Z",
     "p": 3,
     "st": "",
     "city": "",
     "t": "US-Präsident Trump kündigt Erschließung von Rohstoffen auf Grönland an",
-    "s": "US-Präsident Trump hat angekündigt, die Öl-, Gas- und Mineralvorkommen in Grönland umfassend zu erschließen. Damit verfolgt er seine Pläne für die Insel weiter. Die Ankündigung erfolgt nach einem Abkommen mit Dänemark über eine stärkere US-Militärpräsenz.",
-    "m": "Der US-Präsident treibt seine Vorhaben bezüglich Grönland weiter voran. Nachdem zuvor bereits ein Abkommen mit Dänemark über eine verstärkte amerikanische Militärpräsenz geschlossen wurde, nimmt er nun die dortigen Ressourcen ins Visier. Konkret kündigte Trump an, sowohl Öl- und Gasvorkommen als auch Mineralvorkommen auf der arktischen Insel massiv erschließen zu wollen. Weitere Details zum zeitlichen Ablauf oder zur konkreten Umsetzung nannte der Präsident zunächst nicht. Auch Reaktionen der grönländischen oder dänischen Regierung auf diese spezifischen Rohstoffpläne gehen aus den Berichten nicht hervor. Die Maßnahme unterstreicht das strategische und wirtschaftliche Interesse der USA an der Region.",
-    "r": "Die Ankündigung betrifft die wirtschaftliche und geopolitische Strategie der USA in der Arktis. Sie knüpft an ein zuvor geschlossenes Abkommen zur Militärpräsenz mit Dänemark an.",
+    "s": "US-Präsident Trump hat eine umfassende Erschließung von Öl-, Gas- und Mineralvorkommen in Grönland angekündigt. Damit verfolgt er seine Pläne für die Arktisregion weiter. Einzelheiten zu den Projekten oder einem Zeitplan wurden zunächst nicht genannt.",
+    "m": "Der US-Präsident hat angekündigt, die umfangreichen Öl-, Gas- und Mineralvorkommen in Grönland massiv erschließen zu wollen. Diese Ankündigung erfolgt nach einem Abkommen mit Dänemark über eine stärkere amerikanische Militärpräsenz auf der Insel. Trump treibt damit seine geopolitischen und ökonomischen Interessen in der Region aktiv voran. Offen bleibt bislang, wie die Umsetzung konkret erfolgen soll und welche Reaktion die autonome Regierung in Grönland sowie Dänemark auf die expliziten Rohstoffpläne zeigen. Beobachter werten den Schritt als Vertiefung des US-amerikanischen Einflusses in der Arktis.",
+    "r": "Die Ankündigung verdeutlicht das steigende strategische und wirtschaftliche Interesse der USA an der Arktis. Die Erschließung von Rohstoffen könnte geopolitische Spannungen in der Region beeinflussen.",
     "srcs": [
       {
         "name": "Deutschlandfunk Nachrichten",
         "url": "https://www.deutschlandfunk.de/trump-kuendigt-massive-erschliessung-von-rohstoffen-auf-groenland-an-100.html",
-        "date": "2026-10-14T17:59:01.000Z"
+        "date": "2026-10-14T21:43:50.000Z"
       },
       {
         "name": "DW Deutsch",
@@ -145,15 +145,825 @@
       }
     ],
     "url": "https://www.deutschlandfunk.de/trump-kuendigt-massive-erschliessung-von-rohstoffen-auf-groenland-an-100.html",
-    "agree": "Die Quellen sind sich einig, dass US-Präsident Trump die Erschließung von Rohstoffen in Grönland angekündigt hat.",
+    "agree": "Beide Quellen berichten übereinstimmend, dass US-Präsident Trump die Erschließung von Rohstoffen in Grönland angekündigt hat.",
     "diff": [
       {
         "name": "Deutschlandfunk Nachrichten",
-        "note": "Nennt konkret Mineralvorkommen als Teil der geplanten Erschließung."
+        "note": "Berichtet spezifisch über die Ankündigung von Öl-, Gas- und Mineralvorkommen."
       },
       {
         "name": "DW Deutsch",
-        "note": "Erwähnt das vorherige Abkommen mit Dänemark über eine stärkere amerikanische Militärpräsenz."
+        "note": "Erwähnt zusätzlich den Kontext des Abkommens mit Dänemark über eine stärkere amerikanische Militärpräsenz."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-90a6cab30e91b30a",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-14T21:43:50.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Berlin: Linke, Grüne und SPD setzen Sondierungen fort",
+    "s": "Die Parteien Linke, Grüne und SPD setzen ihre Sondierungen in Berlin fort. Bei einem Treffen am Abend haben sie sich darauf verständigt, dass eine gemeinsame Erklärung zum Vorgehen gegen Antisemitismus weiterhin Gültigkeit besitzt. Diese Erklärung soll fester Bestandteil eines künftigen Koalitionsvertrages werden.",
+    "m": "Die Sondierungsgespräche zwischen den Parteien Linke, Grüne und SPD in Berlin gehen weiter. Dies teilte der SPD-Landesvorsitzende Krach in einem Interview mit dem RBB-Fernsehen mit. Bei einem gemeinsamen Treffen am Abend verständigten sich die drei beteiligten Parteien darauf, dass ihre zuvor vereinbarte Erklärung zum Vorgehen gegen Antisemitismus unverändert fortbesteht. Diese Erklärung soll nach Angaben der Partei- und Landesvertreter als fester Bestandteil in den Koalitionsvertrag aufgenommen werden. Weitere konkrete Details zum zeitlichen Fortgang der Sondierungen oder inhaltlichen Schwerpunkten wurden in den Meldungen zunächst nicht genannt.",
+    "r": "Die Fortführung der Sondierungsgespräche und die Einigung auf inhaltliche Grundsätze geben Aufschluss über mögliche Regierungsbündnisse in Berlin. Die Verbindlichkeit gemeinsamer Erklärungen zu zentralen Themen wie Antisemitismus dient als wichtiger Maßstab für die Koalitionsbildung.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/linke-gruene-und-spd-sondieren-weiter-100.html",
+        "date": "2026-10-14T21:43:50.000Z"
+      },
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/deutschland/sondierungen-linke-gruene-spd-berlin-gehen-weiter-100.html",
+        "date": "2026-10-14T19:36:46.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/linke-gruene-und-spd-sondieren-weiter-100.html",
+    "agree": "Linke, Grüne und SPD setzen ihre Sondierungen in Berlin fort und haben sich darauf verständigt, dass ihre Erklärung zum Vorgehen gegen Antisemitismus weiterhin gilt.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Nennt den SPD-Landesvorsitzenden Krach als Informanten aus einem RBB-Interview und ergänzt, dass die Antisemitismus-Erklärung Bestandteil des Koalitionsvertrages werden soll."
+      },
+      {
+        "name": "ZDF heute",
+        "note": "Berichtet kürzer über die Verständigung und die fortgesetzten Sondierungen in Berlin, ohne konkrete Personen oder die Aufnahme in den Koalitionsvertrag zu nennen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-b15a2e512f6d57e8",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-14T21:43:50.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Alexander Schweitzer als neuer Bundesarbeitsminister vereidigt",
+    "s": "Der neue Bundesarbeitsminister Alexander Schweitzer ist im Bundestag vereidigt worden. Damit hat er am Mittwoch den letzten Schritt auf dem Weg zu seinem neuen Amt getan. Die Zeremonie fand im Parlament in Berlin statt.",
+    "m": "Alexander Schweitzer, Mitglied der SPD, hat offiziell das Amt des Bundesarbeitsministers angetreten. Am Mittwoch wurde er im Bundestag feierlich vereidigt. Dieser Schritt schließt den Prozess seiner Ernennung und Amtseinführung ab. Über weitere Personalien oder konkrete politische Vorhaben, die er in seinem neuen Amt als erstes angehen will, machten die Berichte keine näheren Angaben. Es blieben auch keine wesentlichen Fragen offen, da die Vereidigung als formaler Abschluss im Mittelpunkt stand.",
+    "r": "Die Vereidigung eines Bundesministers markiert die offizielle Amtsübernahme und ist von zentraler Bedeutung für die Handlungsfähigkeit der Bundesregierung. Ein neuer Minister an der Spitze des Arbeitsressorts steuert künftig wichtige sozialpolitische Weichenstellungen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/alexander-schweitzer-als-neuer-arbeitsminister-vereidigt-100.html",
+        "date": "2026-10-14T21:43:50.000Z"
+      },
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/alexander-schweitzer-neuer-bundesarbeitsminister-100.html",
+        "date": "2026-10-14T14:41:48.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/alexander-schweitzer-als-neuer-arbeitsminister-vereidigt-100.html",
+    "agree": "Beide Quellen stimmen überein, dass Alexander Schweitzer im Bundestag als neuer Bundesarbeitsminister vereidigt wurde.",
+    "diff": [
+      {
+        "name": "SWR Aktuell",
+        "note": "Ergänzt die Parteizugehörigkeit SPD sowie den Wochentag Mittwoch."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-02fd7b9a9cca0223",
+    "c": "INT",
+    "o": "DE",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-14T21:43:50.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Borussia Dortmund verliert in der Champions League gegen FK Bodø/Glimt",
+    "s": "In der Champions League hat Borussia Dortmund ein Spiel gegen den FK Bodø/Glimt verloren. Damit entscheidet Norwegen ein deutsch-norwegisches Champions-League-Doppelduell für sich. Zuvor hatten bereits die Bayern in Stavanger gespielt. Der weitere Spielverlauf im Oktober stellt die Teams vor Herausforderungen.",
+    "m": "Borussia Dortmund musste in der Champions League eine Niederlage gegen den FK Bodø/Glimt hinnehmen. Die sportlichen Entscheidungen des Trainers Niko Kovač, insbesondere taktische Rotationen, gingen bei dieser Begegnung nicht auf. Das Spiel reiht sich in ein sportliches Doppelduell ein, das Norwegen für sich entscheiden konnte, da zuvor auch die Bayern in Stavanger antraten. Für Borussia Dortmund bedeutet dieser Rückschlag, dass der restliche Monat Oktober mit weiteren anspruchsvollen Aufgaben gefüllt ist. Genauere Spielminuten, Tore oder Tabellenstände werden in den vorliegenden Berichten nicht genannt. Die Verantwortlichen müssen nun analysieren, wie die anstehenden Partien erfolgreicher gestaltet werden können.",
+    "r": "Die Niederlage eines deutschen Spitzenteams in der Champions League ist von sportlicher Relevanz für den internationalen Wettbewerb. Zudem verdeutlichen die Ergebnisse die sportliche Stärke norwegischer Vereine in direkten Duellen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/borussia-dortmund-verliert-gegen-fk-bod-glimt-104.html",
+        "date": "2026-10-14T21:43:50.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-verliert-bei-bodo-glimt-a-b91a4a7c-1ff1-4f63-ac2c-45800669292e#ref=rss",
+        "date": "2026-10-14T21:30:00.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/borussia-dortmund-verliert-gegen-fk-bod-glimt-104.html",
+    "agree": "Die Quellen stimmen darin überein, dass Borussia Dortmund in der Champions League gegen den FK Bodø/Glimt verloren hat.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Meldet lediglich das Ergebnis der Partie mit deutscher Beteiligung."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Erwähnt zusätzlich das Spiel der Bayern in Stavanger, Niko Kovač' nicht aufgegangene Rotationen sowie die Bedeutung des restlichen Oktobers."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-d3cc3f694dfb46d0",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-14T21:39:00.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "„The Masked Singer“: Ronan Keating als Mikrofon-Mann enttarnt",
+    "s": "Weltstar Ronan Keating lässt die Maske fallen: Er ist „Mr. Mic.“ Enttarnt werden auch Isi Glück und ein Moderator mit Verbindung zu Monaco.",
+    "m": "Weltstar Ronan Keating lässt die Maske fallen: Er ist „Mr. Mic.“ Enttarnt werden auch Isi Glück und ein Moderator mit Verbindung zu Monaco. Fernsehen: Popstar Ronan Keating bei «Masked Singer» enttarnt",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/kultur/-the-masked-singer---ronan-keating-als-mikrofon-mann-enttarnt-38398918.html",
+        "date": "2026-10-14T21:39:00.000Z"
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-10/14/popstar-ronan-keating-bei-masked-singer-enttarnt",
+        "date": "2026-10-14T21:31:04.000Z"
+      }
+    ],
+    "url": "https://www.stern.de/kultur/-the-masked-singer---ronan-keating-als-mikrofon-mann-enttarnt-38398918.html",
+    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-62ca451bfcfd3ca2",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-14T20:45:01.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Berlin: Sondierungsgespräche zwischen SPD, Grünen und Linken werden fortgesetzt",
+    "s": "Nach einer kurzzeitigen Unterbrechung der Sondierungsgespräche durch SPD und Grüne setzen die Parteien ihre Gespräche mit der Linkspartei in Berlin fort. Laut der linken Spitzenkandidatin Elif Eralp seien alle Missverständnisse ausgeräumt. Die Verhandlungen sollen am Donnerstag weitergehen. Eine Einigung gibt es bereits bezüglich einer Antisemitismus-Vereinbarung.",
+    "m": "Die am Dienstag von SPD und Grünen unterbrochenen Sondierungsgespräche mit der Linkspartei in Berlin werden offenbar am Donnerstag fortgesetzt. Nach Angaben der linken Spitzenkandidatin Elif Eralp konnten alle aufgetretenen Missverständnisse zwischen den Beteiligten ausgeräumt werden, wodurch eine Rückkehr an den Verhandlungstisch möglich wird. Ein zentraler Punkt der bisherigen Verständigung ist die Vereinbarung, dass ein gemeinsames Vorgehen und eine Erklärung gegen Antisemitismus direkt in einen etwaigen künftigen Koalitionsvertrag aufgenommen werden sollen. Damit zeigen sich die Parteien trotz der kurzzeitigen Verstimmung wieder kompromissbereit. Weitere Details zum genauen Verlauf der Gespräche oder zur zeitlichen Planung eines möglichen Koalitionsvertrags wurden zunächst nicht genannt.",
+    "r": "Die Fortsetzung der Gespräche ist relevant für die politische Zukunft Berlins und die mögliche Bildung einer Koalition aus SPD, Grünen und Linken. Die Einigung über eine Antisemitismus-Vereinbarung zeigt einen ersten inhaltlichen Konsens.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/inland/regional/berlin/fortsetzung-sondierungen-berlin-100.html",
+        "date": "2026-10-14T20:45:01.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/politik/linke-sondierungsgespraeche-in-berlin-werden-offenbar-fortgesetzt-a-1609c605-26e7-409d-8fd3-255249f0a981#ref=rss",
+        "date": "2026-10-14T19:28:00.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcDBpa0NWUjBwbld4QWRoaHpTMEhSWC1ORXJfMHRKakNlU3pXZU9ZWnhERGwxX2ZhRW1qRHJtand1aGs3WW9HVzJCbjJiQzB4RXlrUzN3UUxjU0xSa3JLdFJnVGQzU2x6dTJJUTQ4Z0lBLWxnS1RyR3dJb0lGWnd0bnVSNVFPMmREQldOYkxHOE92T1ZDVjV2dnE5NzF1Ynl5X2JkZVZZemR3SWlhbzBNWm9lYlFBU2UxOXdjN1dGaEVEWkNaZmNxTTZRVnZWWUdXaC1qd1R3MENjdVU3NWc?oc=5",
+        "date": "2026-10-14T19:10:07.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/politik/Sondierungsgespraeche-in-Berlin-werden-fortgesetzt-id31418895.html",
+        "date": "2026-10-14T19:05:39.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/berlin/fortsetzung-sondierungen-berlin-100.html",
+    "agree": "Die Parteien SPD, Grüne und Linke setzen ihre zuvor unterbrochenen Sondierungsgespräche in Berlin fort.",
+    "diff": [
+      {
+        "name": "DER SPIEGEL",
+        "note": "nennt die linke Spitzenkandidatin Elif Eralp namentlich und gibt an, dass die Gespräche am Donnerstag fortgesetzt werden und Missverständnisse ausgeräumt seien."
+      },
+      {
+        "name": "Google News DE",
+        "note": "verweist auf einen Artikel der Süddeutschen Zeitung und nennt ebenfalls Eralp im Zusammenhang mit der Fortsetzung der Gespräche."
+      },
+      {
+        "name": "ntv",
+        "note": "erwähnt die Unterbrechung am Dienstag und präzisiert, dass die Antisemitismus-Erklärung in einen etwaigen Koalitionsvertrag aufgenommen werden soll."
+      }
+    ],
+    "chg": "",
+    "independent": 4
+  },
+  {
+    "id": "story-b1a4a1cd2f93d874",
+    "c": "INT",
+    "o": "INT",
+    "k": "wissenschaft",
+    "lang": "de",
+    "d": "2026-10-14T20:37:14.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Ältestes Schiffswrack der Welt vor der Küste der Türkei entdeckt",
+    "s": "Vor der türkischen Küste wurde das weltweit älteste Schiffswrack gefunden. Analysen von Tongefässen geben Aufschluss über die Herkunft der Fundstücke. Weitere Details zu dem historischen Fund wurden von Medien bekannt gegeben.",
+    "m": "Vor der Küste der Türkei ist das weltberühmte und älteste Schiffswrack der Welt entdeckt worden. Konkrete Untersuchungen von Tonanalysen konnten geborgene Vorratsgefässe zeitlich und geografisch bestimmten Werkstätten zuordnen. Diese antiken Werkstätten operierten in der Frühgeschichte über den gesamten Jordan Valley. Die Funde eröffnen neue Einblicke in die Handelswege und die maritime Geschichte der Region. Die genaue Datierung und die Bergungsarbeiten verdeutlichen die Bedeutung des archäologischen Fundes. Es wird erwartet, dass weitere Analysen zusätzliche Details zur genauen Beschaffenheit des Schiffes und seiner Ladung liefern. Offen bleibt bislang, wie gut das Wrack im Detail erhalten ist und welche weiteren Artefakte sich an Bord befanden.",
+    "r": "Die Entdeckung des ältesten Schiffswracks der Welt erweitert das wissenschaftliche Wissen über antike Handelsbeziehungen im östlichen Mittelmeerraum. Die archäologischen Funde erlauben präzisere Rückschlüsse auf frühgeschichtliche Produktionsstätten und Logistikketten.",
+    "srcs": [
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUmZXZDdwTXlGYjVwc01iN2RZc3d3TDYzS2pqMGRVYnduem5BTWRoRXRfVnRZTDRsU0xsRlZEcGlMbkQ1MDQ4RjNWc0FvVXFhX2xTbmJQZmp0V3czeTg4bWtvLVFLN1pBNWhOTkNmdHR2M0xGRXBiNjJJcjhUVGVvYmVHMk14dERaNFd0eW9aVWJzTDZudVVn0gGcAUFVX3lxTFBpMmpqR1hSVlpjZDd2VlYzNUhSZUpVaHZLTXhpZFRxSEd2ZFU5MXFYRWUwUXBjT0doTVM5MlZ1c1BWdmI3a2JMMjByOGFaNm5seTZPSzQxOUJ3MXJmUXA4MzE1U29FMmNoUUQ5dTQwZi01anljTlljYTZhdTg5OTJFaU0tVkVpdi1zT1dqMlFzTkhrUk9EMUxDbHNaUQ?oc=5",
+        "date": "2026-10-14T20:37:14.000Z"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/14/worlds-oldest-shipwreck-found-off-coast-of-turkiye?traffic_source=rss",
+        "date": "2026-10-14T20:33:20.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUmZXZDdwTXlGYjVwc01iN2RZc3d3TDYzS2pqMGRVYnduem5BTWRoRXRfVnRZTDRsU0xsRlZEcGlMbkQ1MDQ4RjNWc0FvVXFhX2xTbmJQZmp0V3czeTg4bWtvLVFLN1pBNWhOTkNmdHR2M0xGRXBiNjJJcjhUVGVvYmVHMk14dERaNFd0eW9aVWJzTDZudVVn0gGcAUFVX3lxTFBpMmpqR1hSVlpjZDd2VlYzNUhSZUpVaHZLTXhpZFRxSEd2ZFU5MXFYRWUwUXBjT0doTVM5MlZ1c1BWdmI3a2JMMjByOGFaNm5seTZPSzQxOUJ3MXJmUXA4MzE1U29FMmNoUUQ5dTQwZi01anljTlljYTZhdTg5OTJFaU0tVkVpdi1zT1dqMlFzTkhrUk9EMUxDbHNaUQ?oc=5",
+    "agree": "Beide Quellen stimmen darin überein, dass das älteste Schiffswrack der Welt vor der Küste der Türkei gefunden wurde.",
+    "diff": [
+      {
+        "name": "Al Jazeera",
+        "note": "Berichtet ergänzend, dass Tonanalysen geborgene Vorratsgefässe zu Werkstätten im Jordan Valley zurückverfolgen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-fd9fb37b63a8cac2",
+    "c": "DE",
+    "o": "DE",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-14T20:35:12.000Z",
+    "p": 3,
+    "st": "HE",
+    "city": "",
+    "t": "MT Melsungen kassiert deutliche Niederlage in der Handball-Champions-League gegen Nantes",
+    "s": "Die MT Melsungen hat in der EHF Champions League ein deutliches Auswärtsspiel bei HBC Nantes verloren. Die Partie verlief von Beginn an schwierig für die hessischen Gäste. Nach diesem klaren Resultat gerät das Team im Wettbewerb unter Druck. Eine weitere Niederlage könnte im kommenden Gruppenspiel das vorzeitige Aus bedeuten.",
+    "m": "Die MT Melsungen musste sich in der Champions League bei HBC Nantes geschlagen geben und gerät durch diese klare Auswärtsniederlage stark unter Druck. Bereits vom Beginn der Partie an liefen die Hessen den Franzosen hinterher und fanden kein Mittel gegen den Gegner. Details zum exakten Spielstand oder Torschützen nennen die Berichte nicht. In der aktuellen Gruppenphase der Champions League könnte nun eine weitere Niederlage im nächsten Spiel das Aus für Melsungen bedeuten. Weitere sportliche Details oder Hintergründe zum Verlauf der Gruppenphase gehen aus den vorliegenden Berichten nicht hervor.",
+    "r": "Die deutliche Niederlage der MT Melsungen in der Champions League gegen Nantes verschlechtert die Ausgangslage des Teams im Wettbewerb massiv. Nächste Niederlagen könnten nun das direkte Ausscheiden besiegeln, wodurch der sportliche Druck auf die Mannschaft stark wächst.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Hessen",
+        "url": "https://www.tagesschau.de/inland/regional/hessen/hr-handball-champions-league-mt-melsungen-geraet-in-nantes-unter-die-raeder-102.html",
+        "date": "2026-10-14T20:35:12.000Z"
+      },
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/gesellschaft/regional/hessen/champions-league--champions-league--melsungen-geht-in-nantes-unter-38398622.html",
+        "date": "2026-10-14T20:26:35.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/hessen/hr-handball-champions-league-mt-melsungen-geraet-in-nantes-unter-die-raeder-102.html",
+    "agree": "Die Quellen stimmen überein, dass die MT Melsungen in der Champions League eine deutliche Niederlage gegen HBC Nantes erlitten hat.",
+    "diff": [
+      {
+        "name": "Tagesschau Regional Hessen",
+        "note": "Berichtet, dass die Hessen vom Fleck weg der Musik hinterherliefen."
+      },
+      {
+        "name": "stern",
+        "note": "Berichtet, dass Melsungen nun unter Druck steht und eine weitere Niederlage im nächsten Gruppenspiel das Aus bedeuten könnte."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-feb34010608439a9",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-14T20:01:02.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "GKV-Schätzerkreis: Zusatzbeitrag der Krankenversicherungen soll 2027 stabil bleiben",
+    "s": "Der GKV-Schätzerkreis hat über den Zusatzbeitrag für das Jahr 2027 beraten und empfohlen, diesen stabil zu halten. Gesundheitsminister Carsten Linnemann bewertet diese Entwicklung positiv. Die entsprechenden Berichte wurden von mehreren Medien übereinstimmend veröffentlicht.",
+    "m": "Der GKV-Schätzerkreis hat sich im Rahmen seiner Beratungen für einen unveränderten durchschnittlichen Zusatzbeitrag in der gesetzlichen Krankenversicherung ausgesprochen, der bei 2,9 Prozent liegen soll. Bundesgesundheitsminister Carsten Linnemann äußerte sich erfreut über diese Prognose und wertete die Entwicklung als gutes Zeichen. Dennoch wird in Berichten darauf hingewiesen, dass die finanzielle Lage der Krankenkassen trotz der Beitragsstabilität weiterhin angespannt ist. Das genaue Datum der Veröffentlichung der Schätzerkreis-Prognose und weitere Details zur genauen Kassenfinanzierung wurden in den Meldungen nicht näher spezifiziert.",
+    "r": "Die Stabilität des Zusatzbeitrags in der gesetzlichen Krankenversicherung betrifft Millionen Versicherte und gibt Aufschluss über die finanzielle Situation der Kassen. Die Einschätzungen des Gesundheitsministers und des Schätzerkreises sind zentral für die künftige Beitragsgestaltung.",
+    "srcs": [
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/inland/innenpolitik/gkv-zusatzbeitrag-bleibt-offenbar-stabil-100.html",
+        "date": "2026-10-14T20:01:02.000Z"
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/gesundheit/2026-10/zusatzbeitrag-krankenversicherung-cdu-carsten-linnemann-gkv-schaetzerkreis",
+        "date": "2026-10-14T18:27:15.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/wirtschaft/soziales/krankenversicherung-zusatzbeitrag-kann-2027-stabil-bleiben-a-20efc3bb-48e7-469d-8357-16d70bbb12fd#ref=rss",
+        "date": "2026-10-14T18:26:00.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/innenpolitik/gkv-zusatzbeitrag-bleibt-offenbar-stabil-100.html",
+    "agree": "Die Quellen sind sich einig, dass der Zusatzbeitrag der gesetzlichen Krankenversicherung im Jahr 2027 stabil bleiben kann und der Gesundheitsminister dies positiv bewertet.",
+    "diff": [
+      {
+        "name": "Tagesschau",
+        "note": "Berichtet, dass der GKV-Schätzerkreis über den Zusatzbeitrag beraten hat."
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Nennt den konkreten empfohlenen Wert von 2,9 Prozent und den Namen des Gesundheitsministers Linnemann."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Ergänzt, dass der durchschnittliche Zusatzbeitrag nicht erhöht werden muss und die Finanzlage der Kassen dennoch angespannt ist."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
+    "id": "story-f68812f968bf6b40",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-14T20:00:10.000Z",
+    "p": 4,
+    "st": "HH",
+    "city": "",
+    "t": "Nord-Stream-Prozess in Hamburg gegen ukrainischen Staatsbürger gestartet",
+    "s": "Vor dem Oberlandesgericht Hamburg hat der Prozess im Zusammenhang mit den Sprengungen der Nord-Stream-Gasleitungen begonnen. Vor der Bundesanwaltschaft muss sich der 50-jährige Ukrainer Serhii Kusnetzow verantworten. Die Anklage wirft ihm unter anderem ein Kriegsverbrechen vor. Zum Prozessauftakt gab es ein riesiges Medieninteresse.",
+    "m": "Der Angeklagte Serhii Kusnetzow soll für die Zerstörung der Nord-Stream-Gasleitungen in der Ostsee verantwortlich sein. Die Bundesanwaltschaft führt das Verfahren wegen des Vorwurfs von Kriegsverbrechen und weiterer Delikte. Zum Auftakt des Verfahrens in Hamburg schwieg der 50-jährige Ukrainer zunächst zu den Vorwürfen. Das Verfahren zieht eine enorme mediale Aufmerksamkeit nach sich. Weitere Details zum genauen Tathergang oder zu potenziellen Hintermännern wurden zum Prozessstart nicht bekannt gegeben. Die Hauptverhandlung soll in den kommenden Wochen fortgesetzt werden, um die Vorwürfe umfassend aufzuklären.",
+    "r": "Der Prozess markiert einen wichtigen juristischen Meilenstein bei der juristischen Aufarbeitung der Sabotageakte an den kritischen Energieinfrastrukturen in der Ostsee. Er bietet eine öffentlichrechtliche Plattform zur Klärung möglicher individueller Verantwortlichkeiten.",
+    "srcs": [
+      {
+        "name": "NDR Hamburg",
+        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/nord-stream-prozess-in-hamburg-gestartet,hamj-15542.html",
+        "date": "2026-10-14T20:00:10.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Hamburg",
+        "url": "https://www.tagesschau.de/inland/regional/hamburg/nord-stream-prozess-in-hamburg-gestartet-angeklagter-schweigt,nord-stream-prozess-120.html",
+        "date": "2026-10-14T19:53:57.000Z"
+      }
+    ],
+    "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/nord-stream-prozess-in-hamburg-gestartet,hamj-15542.html",
+    "agree": "Die Quellen stimmen überein, dass in Hamburg der Prozess gegen den Ukrainer Serhii Kusnetzow wegen der Nord-Stream-Sprengungen und des Vorwurfs von Kriegsverbrechen begonnen hat und das Medieninteresse groß war.",
+    "diff": [
+      {
+        "name": "NDR Hamburg",
+        "note": "Erwähnt das riesige Medieninteresse zum Prozessauftakt."
+      },
+      {
+        "name": "Tagesschau Regional Hamburg",
+        "note": "Nennt das genaue Alter des Angeklagten (50 Jahre) und berichtet, dass dieser schwieg."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-60ae0ae9fe997350",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-14T19:29:54.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Zweifel an Lebenslauf von US-Sprecherin Katie Zacharia",
+    "s": "Kurz nach ihrem Amtsantritt sehen sich US-Medienberichten zufolge Zweifel am Lebenslauf von Trumps neuer Sprecherin Katie Zacharia bestätigt. Demnach wird kritisiert, dass sie im Gegensatz zu ihren Behauptungen keine Zulassung als Anwältin in den Vereinigten Staaten besitzen soll.",
+    "m": "Die neu angetretene Sprecherin von Donald Trump, Katie Zacharia, sieht sich mit Vorwürfen bezüglich ihres beruflichen Werdegangs konfrontiert. Aktuellen Berichten zufolge soll ihre behauptete Zulassung als Anwältin in den USA nicht der Realität entsprechen. Der Fall wirft Fragen über die Überprüfung von Personalien im Umfeld der US-Regierung auf. Bislang gibt es keine offiziellen Stellungnahmen oder Klarstellungen von Katie Zacharia oder dem Team von Donald Trump zu diesen Vorwürfen. Die Debatte schürt eine Diskussion über die Transparenz und Verlässlichkeit von offiziellen Angaben bei Neubesetzungen.",
+    "r": "Die Vorwürfe gegen eine ranghohe Sprecherin im Umfeld des US-Präsidenten betreffen die Glaubwürdigkeit und Transparenz von Regierungsangaben. Solche Personalfragen sind von öffentlichem Interesse, da sie die Integrität der beteiligten Akteure berühren.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWVZmVGJ1ZHVsV2M0MVo2Q1l2S3ROWHVSMThQVXN4MWZKQ3BfU3FtaklINFAtbWtPZmVTOUhmSFBxX0ktRVJ0VllsTUpDTmhCS3VYdmVVSzN2ME5kdF9GLWY1STdCU0w1TFFrM05NYzRXNEdIeTU2WE9tVm44VldBSWpFckd4NGdhQzcxaDhzSG5fbkVTakJlR3lqc2NyRllZeUFOVHRtV01EdFlFUlJWWXVDRzF4NmZxQnhrMnc4XzROQm9tNUhxTFIzX3NrMzdWUVRkcGp6dlJpUlZfWjY4bmcwUEdDZw?oc=5",
+        "date": "2026-10-14T19:29:54.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/article6acfc46585ec8093bcfbe639/usa-medienberichte-schueren-zweifel-an-lebenslauf-von-trumps-sprecherin-katie-zacharia.html",
+        "date": "2026-10-14T19:27:32.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWVZmVGJ1ZHVsV2M0MVo2Q1l2S3ROWHVSMThQVXN4MWZKQ3BfU3FtaklINFAtbWtPZmVTOUhmSFBxX0ktRVJ0VllsTUpDTmhCS3VYdmVVSzN2ME5kdF9GLWY1STdCU0w1TFFrM05NYzRXNEdIeTU2WE9tVm44VldBSWpFckd4NGdhQzcxaDhzSG5fbkVTakJlR3lqc2NyRllZeUFOVHRtV01EdFlFUlJWWXVDRzF4NmZxQnhrMnc4XzROQm9tNUhxTFIzX3NrMzdWUVRkcGp6dlJpUlZfWjY4bmcwUEdDZw?oc=5",
+    "agree": "Die Quellen stimmen überein, dass Medienberichte Zweifel an dem Lebenslauf der neuen Sprecherin Katie Zacharia schüren und es um ihre angebliche Anwaltszulassung in den USA geht.",
+    "diff": [
+      {
+        "name": "WELT",
+        "note": "Konkretisiert, dass sie gerade erst ihr Amt angetreten hat und in den USA keine Zulassung als Anwältin haben soll."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-e7c5e8db79f29162",
+    "c": "INT",
+    "o": "UK",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-14T19:19:52.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Israel blockiert Bau einer US-geführten Militärbasis im Gazastreifen",
+    "s": "Israel verweigert die Genehmigung für den Bau eines wichtigen Militärstützpunkts im Gazastreifen. Das Projekt unter der Leitung der von den USA geführten und 2025 von der UN autorisierten sogenannten Board of Peace soll Unterkünfte für 150 internationale Soldaten schaffen. Der erste vergebene Bauauftrag an ein US-Unternehmen liegt damit vorerst auf Eis.",
+    "m": "Im August 2025 vergab die internationale Organisation Board of Peace, die von den USA geleitet und von der UN autorisiert wurde, ihren ersten Bauauftrag für den Gazastreifen. Das texanische beziehungsweise aus Louisiana stammende Unternehmen Arkel International sollte einen Militärstützpunkt für 150 internationale Truppen errichten, der als Vorhut für eine internationale Mission dienen sollte. Israel weigert sich jedoch bislang, das Projekt umzusetzen und blockiert die Bauarbeiten an diesem strategisch wichtigen Stützpunkt. Die genauen Beweggründe für die israelische Blockadehaltung sowie der künftige Umgang mit dem US-geführten Projekt sind derzeit noch offen.",
+    "r": "Die Blockade eines von den USA und der UN unterstützten Militärprojekts im Gazastreifen durch Israel betrifft direkt die internationale Sicherheitspolitik und die Koordinierung von Hilfs- und Stabilisierungsmaßnahmen vor Ort.",
+    "srcs": [
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/oct/14/israel-trump-peace-board-gaza-base",
+        "date": "2026-10-14T19:19:52.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUXhtUVV2cjYzWU5xbUtuVXpVbGJKZC1nbTFUX0JOQVVpZXFXUjZqanZLTU9wMHktTFdmaFc2NGhhZkZSdkp5dHRHZGFjM3lNTVpMd1ZqLVgta1paa0lMZXhrcEJrWEx2ZThWYlRFUkotWndzZVBVRFZIcGVpY0pOT1JzUDJpOElQc1E?oc=5",
+        "date": "2026-10-14T19:19:00.000Z"
+      }
+    ],
+    "url": "https://www.theguardian.com/us-news/2026/oct/14/israel-trump-peace-board-gaza-base",
+    "agree": "Die Quellen stimmen überein, dass Israel den Bau eines wichtigen, vom Board of Peace initiierten Militärstützpunkts im Gazastreifen blockiert.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Verweist lediglich auf den Artikel des Guardians, ohne eigene inhaltliche Zusatzdetails zu liefern."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-58b3984bc684e1f2",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-14T19:19:33.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Krankenkassenbeiträge könnten 2027 laut Schätzerkreis und Minister stabil bleiben",
+    "s": "Gesundheitsminister Carsten Linnemann sieht den Zusatzbeitrag zur gesetzlichen Krankenkasse im Jahr 2027 als stabil an. Zu diesem Ergebnis kommt nach Beratungen auch der Schätzerkreis. Hintergrund sind Maßnahmen der schwarz-roten Koalition, um drohende Finanzlöcher zu stopfen.",
+    "m": "Der Schätzerkreis hat über die finanzielle Entwicklung der gesetzlichen Krankenversicherung beraten und dabei festgestellt, dass die Beiträge im Jahr 2027 stabil bleiben können. Um dies zu erreichen, hat die schwarz-rotes Koalition ein Milliarden-Sparpaket aufgelegt, das die erwarteten Haushaltslöcher stopfen soll. Trotz der positiven Aussichten für die Beitragsstabilität warnt Gesundheitsminister Carsten Linnemann jedoch, dass die strukturellen Probleme der Kassen weiter bestehen bleiben. Es ist unklar, ob das aktuelle Sparpaket langfristig ausreicht oder ob die Maßnahmen nur eine kurzfristige Entlastung darstellen. Die Versicherten können sich vorerst über diese gute Nachricht freuen, während Experten die Entwicklung weiter beobachten.",
+    "r": "Die Stabilität der Krankenkassenbeiträge im Jahr 2027 ist von zentraler Bedeutung für Millionen Versicherte und die Finanzpolitik der Bundesregierung. Die Wirksamkeit des beschlossenen Milliarden-Sparpakets bestimmt dabei maßgeblich die zukünftige Belastung der Beitragszahler.",
+    "srcs": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/wirtschaft/linnemann-zusatzbeitrag-zur-krankenkasse-bleibt-2027-stabil-201322938.html",
+        "date": "2026-10-14T19:19:33.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/politik/schaetzerkreis-krankenkassenbeitraege-koennen-2027-stabil-bleiben-GRBNNNWZPJCWNER7BJWEV2CXFM.html",
+        "date": "2026-10-14T18:09:24.000Z"
+      }
+    ],
+    "url": "https://www.faz.net/aktuell/wirtschaft/linnemann-zusatzbeitrag-zur-krankenkasse-bleibt-2027-stabil-201322938.html",
+    "agree": "Beide Quellen stimmen überein, dass die Krankenkassenbeiträge im Jahr 2027 stabil bleiben können.",
+    "diff": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "note": "Erwähnt die Warnung von Gesundheitsminister Carsten Linnemann vor anhaltenden strukturellen Problemen."
+      },
+      {
+        "name": "RND",
+        "note": "Berichtet über das von der schwarz-roten Koalition aufgelegte Milliarden-Sparpaket und die Beratungen des Schätzerkreises."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-51efe224cfd89b9d",
+    "c": "INT",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-14T19:17:32.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Russland feiert Diesel-Deal mit den USA und plant Weltmarkt-Belieferung",
+    "s": "Moskau treibt einen umstrittenen Diesel-Deal mit den USA voran. Während die Ukraine fassungslos reagiert, feiert Russland die Vereinbarung. Die Verträge sollen schon bald unterzeichnet werden und dem Kreml Milliardeneinnahmen einbringen.",
+    "m": "Der Kreml zeigt sich hochzufrieden mit den Fortschritten bei den Verhandlungen über ein Dieselgeschäft mit den Vereinigten Staaten unter US-Präsident Donald Trump. Nach Angaben aus Moskau geht die Umsetzung sehr schnell voran und es wird mit einer baldigen Vertragsunterzeichnung gerechnet. Das Abkommen soll Russland erhebliche Milliardeneinnahmen bescheren. Von ukrainischer Seite wird dieser Schritt mit Fassungslosigkeit beobachtet. Ziel des Kreml ist es offenbar, nach dem Abschluss des Deals auch den Weltmarkt zu beliefern. Weitere Details zu den genauen Liefermengen oder den beteiligten Unternehmen wurden in den Berichten zunächst nicht genannt.",
+    "r": "Das Abkommen zwischen den USA und Russland hat geopolitische Relevanz, da es die internationalen Beziehungen und die Haltung der Ukraine stark beeinflusst. Zudem verschafft es Russland neue finanzielle Einnahmen.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWGp1NmZxT3BQeDl0aG9KTEhsSWZOS3F2ZmcwMmJiMHNMaExuQ09DdDNhbHBOVHdEbERKbndHeGFuUVQ4blN3NUtOcGZxV2l4dElWZDRocjA0Qk5XUVN5RnVucnlIQThmLXZqZWVWLWZ0Zl9EZmdEb1I2bGVwZFZ3czI2YXo5dHJIOC1TVUdUb1pQZk5ncGYxaThpWHBSMGVJWHNRR3dpV0Jkd0M3V0tJZEJR?oc=5",
+        "date": "2026-10-14T19:17:32.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/politik/Russland-feiert-Diesel-Deal-mit-den-USA-und-will-Weltmarkt-beliefern-id31418760.html",
+        "date": "2026-10-14T19:17:32.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWGp1NmZxT3BQeDl0aG9KTEhsSWZOS3F2ZmcwMmJiMHNMaExuQ09DdDNhbHBOVHdEbERKbndHeGFuUVQ4blN3NUtOcGZxV2l4dElWZDRocjA0Qk5XUVN5RnVucnlIQThmLXZqZWVWLWZ0Zl9EZmdEb1I2bGVwZFZ3czI2YXo5dHJIOC1TVUdUb1pQZk5ncGYxaThpWHBSMGVJWHNRR3dpV0Jkd0M3V0tJZEJR?oc=5",
+    "agree": "Die Quellen stimmen überein, dass Russland und die USA einen Diesel-Deal vereinbaren, der bald unterzeichnet werden soll, und dass dies in der Ukraine auf Fassungslosigkeit stößt.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Erwähnt zusätzlich, dass Russland plant, den Weltmarkt zu beliefern."
+      },
+      {
+        "name": "ntv",
+        "note": "Betont die fassungslose Reaktion der Ukraine und dass dem Kreml die Umsetzung nicht schnell genug gehen kann."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-3bdbb95aa5ecc0e3",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-14T19:03:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Häftling flieht bei Arztbesuch in Essen nach Überwältigung von Justizbeamten",
+    "s": "Bei einem Arztbesuch in Essen ist ein 34-jähriger Häftling mit Hilfe von zwei Unbekannten geflohen. Die Täter überwältigten dabei Justizvollzugsbeamte. Die Polizei hat einen Großeinsatz eingeleitet und fahndet nach den flüchtigen Männern.",
+    "m": "Der Vorfall ereignete sich in Essen während eines medizinischen Termins eines 34-jährigen Häftlings. Nach bisherigen Erkenntnissen verschafften sich zwei bislang unbekannte Männer Zugang zu der Situation und überwältigten die anwesenden JVA-Beamten, um dem Insassen die Flucht zu ermöglichen. Umgehend nach dem Ausbruch leitete die Polizei einen großangelegten Einsatz ein, um der Flüchtigenhabhaft zu werden. Die Ermittlungsbehörden gaben eine Warnung an die Bevölkerung heraus, dass die Männer möglicherweise bewaffnet sind. Ob es sich bei dem Arztbesuch um eine geplante Aktion handelte und wie die Täter von dem Termin erfahren hatten, ist derzeit noch Gegenstand der polizeilichen Ermittlungen. Es gibt noch keine Festnahmen im Zusammenhang mit der Flucht.",
+    "r": "Die Meldung ist von Bedeutung, da ein gewaltsamer Gefangenenbefreiungsversuch mit potenziell bewaffneten Tätern eine akute Bedrohung für die öffentliche Sicherheit darstellt und einen Großeinsatz der Polizei auslöst.",
+    "srcs": [
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/flucht-haeftling-essen-100.html",
+        "date": "2026-10-14T19:03:00.000Z"
+      },
+      {
+        "name": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/essen-maenner-verhelfen-haeftling-zur-flucht-201318133.html",
+        "date": "2026-10-14T14:39:00.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/flucht-haeftling-essen-100.html",
+    "agree": "Beide Quellen stimmen darin überein, dass in Essen ein Häftling während eines Arztbesuches mit Hilfe von Männern geflohen ist, Justizbeamte überwältigt wurden und die Polizei vor möglichen Waffen warnt.",
+    "diff": [
+      {
+        "name": "Tagesschau",
+        "note": "Berichtet explizit von einem Polizeigroßeinsatz und dass die Täter JVA-Beamte überwältigten."
+      },
+      {
+        "name": "Frankfurter Allgemeine",
+        "note": "Nennt das genaue Alter des geflohenen Häftlings von 34 Jahren."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-96904a1108a733a8",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-14T18:47:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Bundesregierung plant Social-Media-Verbot für Kinder unter 13 Jahren",
+    "s": "Die Bundesregierung hat Eckpunkte für einen verbesserten Schutz von Kindern und Jugendlichen im Internet beschlossen. Ein zentrales Element der Pläne ist ein Social-Media-Verbot für unter 13-Jährige. Die Maßnahme zielt darauf ab, junge Nutzer im Netz besser zu schützen.",
+    "m": "Die Bundesregierung hat offizielle Eckpunkte beschlossen, um Kinder und Jugendliche im Internet effektiver zu schützen. Ein wesentlicher Bestandteil dieser neuen Regeln ist die Einführung eines Zugangsverbots zu Social-Media-Plattformen für Kinder unter 13 Jahren. Neben dieser Altersgrenze sollen auch Suchtmechanismen auf den Plattformen reduziert und strengere Pflichten für die Betreiber eingeführt werden. Laut Regierungsplänen soll nun schnell gehandelt werden, da solche Regelungen als lange überfällig gelten. Dennoch bleiben wichtige Fragen zur Umsetzung, insbesondere hinsichtlich rechtlicher, technischer und datenschutzrechtlicher Aspekte, bislang unbeantwortet.",
+    "r": "Die geplanten Einschränkungen für Social-Media-Plattformen und der verstärkte Jugendschutz betreffen grundlegend die Nutzung digitaler Medien für Minderjährige in Deutschland. Die offenen Fragen zu Recht und Technik zeigen die Komplexität der Umsetzung.",
+    "srcs": [
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/deutschland/kinderschutz-online-ki-social-media-verbot-regierung-100.html",
+        "date": "2026-10-14T18:47:00.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/politik/bundesregierung-plant-social-media-verbot-fuer-kinder-unter-13-jahren-DDBX22N72VAJRITBEBA6WPC5LU.html",
+        "date": "2026-10-14T17:38:46.000Z"
+      }
+    ],
+    "url": "https://www.zdfheute.de/politik/deutschland/kinderschutz-online-ki-social-media-verbot-regierung-100.html",
+    "agree": "Die Quellen sind sich einig, dass die Bundesregierung Eckpunkte für ein Social-Media-Verbot ab 13 Jahren und einen besseren Schutz von Kindern im Netz beschlossen hat.",
+    "diff": [
+      {
+        "name": "RND",
+        "note": "Berichtet zusätzlich über weniger Suchtmechanismen, mehr Plattformpflichten, den Zeitdruck der Regierung zum schnellen Handeln sowie offene Fragen zu Recht, Technik und Datenschutz."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-084843d2967f3a6b",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-14T18:39:54.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Zusatzbeitrag für gesetzliche Krankenversicherung bleibt laut Linnemann 2027 stabil",
+    "s": "Der Zusatzbeitragssatz für die gesetzliche Krankenversicherung soll im Jahr 2027 stabil bleiben. Dies geht aus einer aktuellen Finanzprognose hervor, die Gesundheitsminister Carsten Linnemann mitgeteilt hat. Trotz dieser stabilen Aussichten bleibt die allgemeine Finanzlage der Krankenkassen weiterhin angespannt.",
+    "m": "Der Zusatzbeitrag zur gesetzlichen Krankenversicherung wird nach Einschätzung von Gesundheitsminister Carsten Linnemann im Jahr 2027 stabil bleiben. Grundlage für diese Annahme ist die offizielle GKV-Finanzprognose. Dennoch ist die finanzielle Situation der Kassen trotz vorangegangener gesetzlicher Entlastungsmaßnahmen weiterhin von Anspannung geprägt. Konkrete Details zu den Ursachen der angespannten Lage oder weiteren geplanten Schritten wurden in den Berichten nicht genannt. Auch der genaue bisherige Verlauf der Kassenfinanzen vor dem Jahr 2027 bleibt in den Meldungen unerwähnt.",
+    "r": "Die Entwicklung der Zusatzbeiträge in der gesetzlichen Krankenversicherung ist für Millionen Versicherte und die Stabilität des Gesundheitssystems von großer Bedeutung. Die Prognose für 2027 gibt Aufschluss über die finanzielle Belastung der Beitragszahler.",
+    "srcs": [
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/article6acfc438fd6239b19ad41ae9/gesetzliche-krankenversicherung-zusatzbeitrag-bleibt-laut-linnemann-2027-stabil.html",
+        "date": "2026-10-14T18:39:54.000Z"
+      },
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/deutschland/zusatzbeitrag-krankenkasse-stabil-linnemann-100.html",
+        "date": "2026-10-14T18:10:00.000Z"
+      }
+    ],
+    "url": "https://www.welt.de/politik/article6acfc438fd6239b19ad41ae9/gesetzliche-krankenversicherung-zusatzbeitrag-bleibt-laut-linnemann-2027-stabil.html",
+    "agree": "Die Quellen sind sich einig, dass der Zusatzbeitrag für die gesetzliche Krankenversicherung im Jahr 2027 laut Gesundheitsminister Linnemann stabil bleiben wird.",
+    "diff": [
+      {
+        "name": "WELT",
+        "note": "erwähnt ergänzend, dass die Finanzlage der Krankenkassen trotz einer gesetzlichen Entlastung angespannt bleibt"
+      },
+      {
+        "name": "ZDF heute",
+        "note": "berichtet ohne den Hinweis auf eine gesetzliche Entlastung"
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-10a15abd8e962304",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-14T18:32:53.000Z",
+    "p": 2,
+    "st": "SH",
+    "city": "",
+    "t": "Erneut illegale Kanister-Funde im Kreis Segeberg",
+    "s": "Im Kreis Segeberg wurden bei Heidmoor erneut zahlreiche illegale Kanister entdeckt. Einsatzkräfte sichern die Behälter vor Ort. Es wird derzeit geprüft, ob sich darin giftige Substanzen befinden. Ähnliche Funde gab es in der Region bereits in der Vergangenheit.",
+    "m": "Im Kreis Segeberg bei Heidmoor sind von Einsatzkräften erneut illegal entsorgte Behälter gefunden worden. Nach Angaben der Polizei handelt es sich um eine Menge von 100 bis 150 Kanistern. Die alarmierten Kräfte sichern die Behältnisse aktuell und untersuchen diese. Bisher ist noch unklar, ob die Kanister giftige Stoffe enthalten und welche konkreten Substanzen darin lagern. Es handelt sich in diesem Gebiet nicht um den ersten Vorfall dieser Art mit illegal entsorgten Kanistern. Die Ermittlungen zu den Verantwortlichen und der genauen Herkunft der Behälter dauern an.",
+    "r": "Illegale Müllentsorgung in großem Stil stellt eine potenzielle Gefahr für Mensch und Umwelt dar. Die Häufung solcher Funde im Kreis Segeberg erfordert behördliche Maßnahmen zur Gefahrenabwehr und Aufklärung.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Schleswig-Holstein",
+        "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/kreis-segeberg-erneut-illegal-entsorgte-kanister-gefunden,kanister-104.html",
+        "date": "2026-10-14T18:32:53.000Z"
+      },
+      {
+        "name": "NDR Schleswig-Holstein",
+        "url": "https://www.ndr.de/fernsehen/sendungen/schleswig-holstein_magazin/kreis-segebergweitere-illegal-entsorgte-kanister-im-wald-entdeckt,shmag-14112.html",
+        "date": "2026-10-14T17:47:54.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/kreis-segeberg-erneut-illegal-entsorgte-kanister-gefunden,kanister-104.html",
+    "agree": "Die Quellen stimmen überein, dass im Kreis Segeberg bei Heidmoor erneut illegal entsorgte Kanister gefunden wurden und geprüft wird, ob sie Giftstoffe enthalten.",
+    "diff": [
+      {
+        "name": "NDR Schleswig-Holstein",
+        "note": "nennt die konkrete Anzahl von 100 bis 150 Kanistern."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-50777c35ce40058c",
+    "c": "INT",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-14T18:26:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Netflix baut rund 1000 Arbeitsplätze ab",
+    "s": "Der Streaming-Anbieter Netflix plant den Abbau von rund 1000 Arbeitsplätzen. Grund für diesen Schritt ist unter anderem das langsamere Wachstum des Unternehmens. Bislang wurden erste Details zu den Kündigungen bekannt.",
+    "m": "Netflix reagiert auf ein nachlassendes Wachstum und verringert seine Belegschaft um etwa 1000 Stellen. Das Unternehmen gilt als die klare Nummer eins im Bereich Videostreaming, sieht sich jedoch mit einem langsameren Zuwachs konfrontiert als ursprünglich erhofft. Zudem erwächst mit dem Zusammenschluss beziehungsweise dem Duo aus Paramount und Warner ein starker neuer Konkurrent auf dem Markt. Der Schritt soll die Position des Streaming-Dienstes im verschärften Wettbewerb stabilisieren. Weitere konkrete Details zum zeitlichen Ablauf oder den betroffenen Abteilungen wurden zunächst nicht genannt.",
+    "r": "Der Stellenabbau bei einem führenden Streaming-Anbieter verdeutlicht die veränderten Marktbedingungen und den zunehmenden Konkurrenzdruck in der Branche. Die Entwicklung ist wirtschaftlich von Bedeutung für den Mediensektor.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM1lyUUMxbTNUZG5vU2Q0YVlaeGNNanl2NzdtSlJuQVV6OWhEbEpPRTlUMGd5U1Q4ejRBNkMzdUlILW1wY0d6Y0QxMVJIMzJiT0UzRzZEYmNCeXJ6aFQ4TTlCVTFxY0cyZEQ2QThVZjkxX3BXTENsMUNxRjVQd1F6RVJ0NGRhNENibGZXa3YwOXNCemVSbjVHV2hONlJyY252QVlkVmF0MHJIaGFMbDNzckFhZVE4TzQ?oc=5",
+        "date": "2026-10-14T18:26:00.000Z"
+      },
+      {
+        "name": "Handelsblatt",
+        "url": "https://www.handelsblatt.com/unternehmen/it-medien/videostreaming-netflix-streicht-rund-1000-jobs/100262301.html",
+        "date": "2026-10-14T15:24:49.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM1lyUUMxbTNUZG5vU2Q0YVlaeGNNanl2NzdtSlJuQVV6OWhEbEpPRTlUMGd5U1Q4ejRBNkMzdUlILW1wY0d6Y0QxMVJIMzJiT0UzRzZEYmNCeXJ6aFQ4TTlCVTFxY0cyZEQ2QThVZjkxX3BXTENsMUNxRjVQd1F6RVJ0NGRhNENibGZXa3YwOXNCemVSbjVHV2hONlJyY252QVlkVmF0MHJIaGFMbDNzckFhZVE4TzQ?oc=5",
+    "agree": "Beide Quellen stimmen überein, dass Netflix rund 1000 Jobs streicht.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Bringt keine nennenswerten Zusatzinformationen und verweist auf den Spiegel."
+      },
+      {
+        "name": "Handelsblatt",
+        "note": "Nennt als Hintergründe das langsamere Wachstum von Netflix als Nummer eins sowie die Konkurrenz durch das Duo aus Paramount und Warner."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-4e2ae52ad01d9c93",
+    "c": "INT",
+    "o": "DE",
+    "k": "technik",
+    "lang": "de",
+    "d": "2026-10-14T18:18:17.000Z",
+    "p": 3,
+    "st": "NI",
+    "city": "",
+    "t": "Cyberangriff legt Baustelle des Fehmarnbelt-Tunnels lahm",
+    "s": "Das Baukonsortium des Fehmarnbelt-Tunnels ist Opfer eines Cyberangriffs geworden. Bei einem der größten Infrastrukturprojekte Europas ging durch den Hackerangriff fast nichts mehr. Das genaue Ausmaß des Angriffs auf die dänische Baustelle ist derzeit noch unklar.",
+    "m": "Das betroffene Baukonsortium, das für die Errichtung des Fehmarnbelt-Tunnels verantwortlich ist, wurde Ziel von Hackern. Der Angriff betrifft die dänische Baustelle dieses europäischen Großprojekts im Bereich der Infrastruktur. Durch die Attacke wurden die Arbeitsabläufe dort massiv beeinträchtigt, sodass fast nichts mehr ging. Bisher liegen kaum Details über die Urheberschaft oder die Art der verwendeten Schadsoftware vor. Auch ist unklar, ob Daten abgeflossen sind oder Lösegeldforderungen gestellt wurden. Die zuständigen Stellen arbeiten an der Aufklärung des Vorfalls. Weitere offene Punkte betreffen die Dauer der IT-Ausfälle und die Auswirkungen auf den Gesamtzeitplan des Tunnelbaus.",
+    "r": "Der Vorfall betrifft eines der größten Infrastrukturprojekte Europas, wodurch wichtige Bauarbeiten und IT-Systeme direkt beeinträchtigt wurden. Solche Cyberangriffe auf kritische Großprojekte werfen Fragen zur IT-Sicherheit auf.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Niedersachsen",
+        "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/cyberangriff-auf-fehmarnbelt-tunnel-was-bisher-bekannt-ist,hackerangriff-150.html",
+        "date": "2026-10-14T18:18:17.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/panorama/cyberangriff-auf-die-fehmarnbelt-tunnel-baustelle-was-bisher-ueber-den-hackerangriff-bekannt-ist-F3T4SZXUNZAIDGUMJR2HIMXTDA.html",
+        "date": "2026-10-14T14:25:22.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/cyberangriff-auf-fehmarnbelt-tunnel-was-bisher-bekannt-ist,hackerangriff-150.html",
+    "agree": "Die Quellen sind sich einig, dass das am Fehmarnbelt-Tunnel beteiligte Baukonsortium Opfer eines Hackerangriffs geworden ist.",
+    "diff": [
+      {
+        "name": "Tagesschau Regional Niedersachsen",
+        "note": "berichtet, dass das Ausmaß des Angriffs noch unklar ist."
+      },
+      {
+        "name": "RND",
+        "note": "nennt das Projekt eines der größten Infrastrukturen Europas und gibt an, dass die dänische Baustelle durch den Angriff lahmgelegt wurde."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-750ab7f3eb3dce4a",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-14T18:10:03.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Dänemark verlängert Grenzkontrollen zu Deutschland um sechs Monate bis Mai 2027",
+    "s": "Dänemark hat seine Kontrollen an der Grenze zu Deutschland erneut verlängert. Die Maßnahmen werden nun bis Mai 2027 aufrechterhalten. Als Hauptgrund für diesen Schritt nannten die Behörden eine anhaltende und ernste Sicherheitslage.",
+    "m": "Die dänischen Behörden haben beschlossen, die Grenzkontrollen an der Grenze zu Deutschland für weitere sechs Monate auszudehnen. Damit gelten die Maßnahmen nach aktuellem Stand bis Mai 2027. Justizminister Nicolai Wammen begründete die Entscheidung mit einer ernsthaften Bedrohung für das Land. Diese anhaltende Bedrohung mache die Fortführung der Kontrollen aus Sicht der Regierung notwendig. Die Maßnahmen betreffen den grenzüberschreitenden Verkehr zwischen den beiden Nachbarländern. Weitere Details zu spezifischen Zwischenfällen oder konkreten Kontrollmechanismen wurden in den Berichten nicht genannt. Auch über mögliche Reaktionen der deutschen Seite oder der EU liegen bisher keine offiziellen Angaben vor.",
+    "r": "Die Verlängerung der Grenzkontrollen betrifft den Reise- und Wirtschaftsverkehr zwischen Deutschland und Dänemark unmittelbar. Sie zeigt, dass Kopenhagen die Sicherheitslage weiterhin als kritisch einschätzt und nationale Schutzmaßnahmen priorisiert.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/politik/ausland/2026-10/grenzkontrollen-daenemark-deutschland-justizminister-sicherheit",
+        "date": "2026-10-14T18:10:03.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/article6acfaf89fd6239b19ad419f9/anhaltende-bedrohung-daenemark-verlaengert-kontrollen-an-deutscher-grenze.html",
+        "date": "2026-10-14T16:54:09.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/politik/ausland/2026-10/grenzkontrollen-daenemark-deutschland-justizminister-sicherheit",
+    "agree": "Beide Quellen sind sich einig, dass Dänemark die Kontrollen an der deutschen Grenze verlängert hat und dies mit einer ernsten Sicherheitslage beziehungsweise Bedrohung begründet.",
+    "diff": [
+      {
+        "name": "WELT",
+        "note": "Nennt das genaue Enddatum der Verlängerung (Mai 2027) und den Namen des Justizministers Nicolai Wammen."
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Berichtet allgemein von einer Verlängerung um weitere sechs Monate, nennt jedoch kein konkretes Enddatum und keinen Namen des Ministers."
       }
     ],
     "chg": "",
@@ -371,9 +1181,9 @@
     "st": "",
     "city": "",
     "t": "Nord-Stream-Sprengung: Anklage wirft Ukrainer Kriegsverbrechen vor",
-    "s": "Im Zusammenhang mit der Sprengung der Nord-Stream-Pipelines steht ein ukrainischer Staatsbürger in Hamburg vor Gericht. Er wurde zuvor in Italien festgenommen. Die Anklage wirft ihm vor, die Sabotage im Jahr 2022 geleitet zu haben.",
-    "m": "Der Beschuldigte Serhij K. soll die Sprengung der Nord-Stream-Pipelines im Auftrag staatlicher ukrainischer Stellen im Jahr 2022 geleitet haben. Nach seiner Festnahme im Urlaub in Italien wurde er nach Deutschland überstellt und muss sich nun vor einem Gericht in Hamburg verantworten. Seine Verteidigung kritisiert die juristischen Schritte scharf und spricht von einem unfairen Verfahren. Die Ermittlungen zu den Hintergründen der Pipeline-Sabotage und den beteiligten Akteuren dauern an, wobei offene Fragen zur genauen Befehlskette im Raum stehen.",
-    "r": "Die juristische Aufarbeitung der Nord-Stream-Sprengung betrifft die internationale Sicherheit und die Aufklärung eines beispiellosen Anschlags auf kritische Infrastruktur. Die Vorwürfe gegen einen ukrainischen Staatsbürger beleuchten mögliche staatliche Verwicklungen.",
+    "s": "Im Zusammenhang mit der Sprengung der Nord-Stream-Pipelines im Jahr 2022 ist ein ukrainischer Staatsbürger in Hamburg vor Gericht gestellt worden. Zuvor war Serhij K. während seines Urlaubs in Italien festgenommen worden. Die Anklage wirft ihm vor, die Sabotageakte im Auftrag staatlicher ukrainischer Stellen geleitet zu haben. Die Verteidigung kritisiert das Verfahren als unfair.",
+    "m": "Der Fall um die Sprengung der Nord-Stream-Pipelines im Jahr 2022 hat eine neue juristische Dimension erreicht. Vor einem Gericht in Hamburg muss sich nun der ukrainische Staatsbürger Serhij K. verantworten, dem von der Anklage schwere Vorwürfe gemacht werden. Konkret wird ihm zur Last gelegt, die Explosionen an den Gaspipelines im direkten Auftrag staatlicher Stellen der Ukraine angeführt und geleitet zu haben. Seine Festnahme erfolgte zuvor im Zuge eines Urlaubsaufenthalts in Italien, woraufhin die Auslieferung und das Verfahren in Deutschland eingeleitet wurden. Die juristische Auseinandersetzung ist von ersten Konflikten geprägt, da die Verteidigung von Serhij K. das Verfahren scharf kritisiert und als unfair bezeichnet. Weitere Details zur genauen Ausführung der Tat oder zu den Hintergründen der staatlichen Auftraggeber gehen aus dem aktuellen Verfahrensstand noch nicht hervor.",
+    "r": "Die juristische Aufarbeitung der Nord-Stream-Sabotage durch ein deutsches Gericht ist von hoher sicherheitspolitischer und rechtlicher Bedeutung. Die Vorwürfe einer staatlichen ukrainischen Beteiligung an der Zerstörung kritischer europäischer Infrastruktur berühren fundamentale Fragen der internationalen Sicherheit.",
     "srcs": [
       {
         "name": "Google News DE",
@@ -387,56 +1197,43 @@
       }
     ],
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSFZaazNJWklsV0hIc1VDVHZCNGFyUTB1M0lwVWRMVm8zTXVWX0lpTFVzWWs4bElkVUFHXzJ1dGcydmFRZTR1UE9pVDQybTl4Q2NGblZDSkNJeG4wcm5hQ2FqbDMyTnBqZS1ZUUNKY25vMmplWTRMWE9hMTJJdEFidEY2XzNFczJvbzRHY1B0WHZnclozclNGazN4UlhhRW1m?oc=5",
-    "agree": "Die Quellen sind sich einig, dass ein Ukrainer im Zusammenhang mit der Sprengung der Nord-Stream-Pipelines vor Gericht steht.",
-    "diff": [
-      {
-        "name": "Google News DE",
-        "note": "Bringt keine inhaltlichen Abweichungen, sondern verweist auf denselben n-tv-Artikel."
-      },
-      {
-        "name": "ntv",
-        "note": "Nennt den Namen des Beschuldigten (Serhij K.), den Ort der Festnahme (Italien), den Verhandlungsort (Hamburg), das Tatjahr (2022) sowie die Kritik der Verteidigung an einem unfairen Verfahren."
-      }
-    ],
+    "agree": "Die Quellen sind sich einig, dass ein Ukrain namens Serhij K. wegen der Nord-Stream-Sprengung vor einem Gericht in Hamburg steht.",
+    "diff": [],
     "chg": "",
     "independent": 2
   },
   {
-    "id": "story-4e2ae52ad01d9c93",
-    "c": "INT",
+    "id": "story-4b90ca22d5a7b39b",
+    "c": "DE",
     "o": "DE",
-    "k": "technik",
+    "k": "politik",
     "lang": "de",
-    "d": "2026-10-14T15:43:08.000Z",
+    "d": "2026-10-14T15:33:29.000Z",
     "p": 3,
-    "st": "NI",
+    "st": "",
     "city": "",
-    "t": "Cyberangriff auf Baustelle des Fehmarnbelt-Tunnels",
-    "s": "Das Baukonsortium des Fehmarnbelt-Tunnels ist Opfer eines Cyberangriffs geworden. Bei dem großen europäischen Infrastrukturprojekt hat der Angriff zu massiven Einschränkungen auf der Baustelle geführt. Das genaue Ausmaß des Schadens und der Vorfall sind derzeit noch Gegenstand von Untersuchungen. Die beteiligten Stellen arbeiten an der Aufklärung.",
-    "m": "Ein Cyberangriff hat die dänische Baustelle des Fehmarnbelttunnels lahmgelegt, wodurch bei einem der größten Infrastrukturprojekte Europas nahezu nichts mehr geht. Betroffen ist das Baukonsortium, das für die Bauarbeiten an dem Tunnel verantwortlich ist. Bisher ist das genaue Ausmaß des Angriffs unklar, doch die Auswirkungen auf die Arbeiten vor Ort sind gravierend. Der Vorfall wirft Fragen zur IT-Sicherheit bei bedeutenden grenzüberschreitenden Infrastrukturprojekten auf. Weitere Details zum Ursprung der Hacker, möglichen Lösegeldforderungen oder dem konkreten Zeitpunkt des Eindringens in die Systeme wurden zunächst nicht bekannt gegeben. Die zuständigen Behörden und Technikteams sind im Einsatz, um die betroffenen Systeme zu überprüfen und den Betrieb schrittweise wiederherzustellen. Offen ist bislang auch, wie lange die Beeinträchtigungen anhalten werden.",
-    "r": "Der Cyberangriff auf ein europäisches Großprojekt verdeutlicht die Anfälligkeit kritischer Infrastrukturen für Sabotage und Erpressung. Die Störung der Bauarbeiten kann zudem den Zeitplan des milliardenschweren Tunnelprojekts beeinflussen.",
+    "t": "Kanzler betont Bedeutung guter Regierungsarbeit gegen Extremismus",
+    "s": "In einer Regierungserklärung hat der Kanzler erklärt, dass Deutschland unter historisch hohem Druck stehe. Er sieht in wachsender Unzufriedenheit den Nährboden für Extremismus. Dagegen müsse mit schöpferischer Anstrengung vorgegangen werden.",
+    "m": "Der Kanzler hat in seiner Regierungserklärung die aktuellen Herausforderungen für Deutschland hervorgehoben und dabei betont, dass das Land unter einem Druck stehe wie vielleicht noch nie zuvor. Als Reaktion auf die steigende Unzufriedenheit in der Bevölkerung, die den Extremismus begünstigt, forderte er eine verstärkte und gute Regierungsarbeit. Um dem entgegenzuwirken, sei eine sogenannte schöpferische Anstrengung notwendig. Weitere Details zu konkreten Maßnahmen oder Reaktionen anderer Parteien nennen die Quellen bisher nicht.",
+    "r": "Die Meldung ist relevant, da sie die Einschätzung der aktuellen politischen Lage und die strategische Ausrichtung des Kanzlers im Umgang mit Extremismus und gesellschaftlicher Unzufriedenheit aufzeigt.",
     "srcs": [
       {
-        "name": "Tagesschau Regional Niedersachsen",
-        "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/cyberangriff-auf-fehmarnbelt-tunnel-was-bisher-bekannt-ist,hackerangriff-150.html",
-        "date": "2026-10-14T15:43:08.000Z"
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/inland/innenpolitik/merz-regierungserklaerung-122.html",
+        "date": "2026-10-14T15:33:29.000Z"
       },
       {
-        "name": "RND",
-        "url": "https://www.rnd.de/panorama/cyberangriff-auf-die-fehmarnbelt-tunnel-baustelle-was-bisher-ueber-den-hackerangriff-bekannt-ist-F3T4SZXUNZAIDGUMJR2HIMXTDA.html",
-        "date": "2026-10-14T14:25:22.000Z"
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZEFfTjIzQ29jNjU3elB1TE90ZDZrTEREWXFLamNkc2hkVDl1dmlCSGZqSGg1N2w5SlJUSndXUktxTzJTNHphMi1qTW5UdldqWm5ZeUczZWNvX29oNGJyMjBLLVYtMENYZGctTHFKaW0yTjFubExwUllwdGV5Nm8wMHJOd3VxOHM?oc=5",
+        "date": "2026-10-14T15:33:00.000Z"
       }
     ],
-    "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/cyberangriff-auf-fehmarnbelt-tunnel-was-bisher-bekannt-ist,hackerangriff-150.html",
-    "agree": "Beide Quellen stimmen darin überein, dass das Baukonsortium des Fehmarnbelt-Tunnels Opfer eines Cyberangriffs geworden ist.",
+    "url": "https://www.tagesschau.de/inland/innenpolitik/merz-regierungserklaerung-122.html",
+    "agree": "Die Quellen sind sich einig, dass der Kanzler in einer Regierungserklärung betont hat, dass Deutschland unter starkem Druck steht, Unzufriedenheit zu Extremismus führt und dem mit guter Regierungsarbeit sowie schöpferischer Anstrengung begegnet werden muss.",
     "diff": [
       {
-        "name": "Tagesschau Regional Niedersachsen",
-        "note": "Erwähnt, dass das Ausmaß des Angriffs noch unklar ist."
-      },
-      {
-        "name": "RND",
-        "note": "Beschreibt das Projekt als eines der größten Infrastrukturprojekte Europas und berichtet, dass der Angriff die dänische Baustelle lahmgelegt hat und dort fast nichts mehr geht."
+        "name": "Google News DE",
+        "note": "Verweist auf den Beitrag der Tagesschau und enthält einen entsprechenden Link im Text."
       }
     ],
     "chg": "",
@@ -736,9 +1533,9 @@
     "st": "RP",
     "city": "",
     "t": "Weinjahrgang 2026 in der Pfalz trotz Hitze und Trockenheit gut",
-    "s": "Der Weinjahrgang 2026 in der Pfalz trotzt extremer Hitze und Trockenheit mit einer guten Ernte. Die Quellen bewerten den Jahrgang als verrückt und betonen die historische Hitze. Gleichzeitig wird hervorgehoben, dass Wasser für die Zukunft des Weinbaus unerlässlich ist.",
-    "m": "Die Pfalz blickt auf einen extremen Weinjahrgang im Jahr 2026 zurück, der von nie dagewesener Hitze und Trockenheit geprägt war. Entgegen den schwierigen Wetterbedingungen fällt das Gesamtergebnis der Ernte überraschend gut aus. Experten und Berichte weisen jedoch darauf hin, dass dieser Erfolg trügen kann. Langfristig hat der Weinbau in der Region ohne eine gesicherte Wasserversorgung keine Zukunft. Die genauen Umstände der Bewässerung und konkrete Erntemengen bleiben in den Berichten offen.",
-    "r": "Die Meldung ist relevant, da sie die Auswirkungen extremer Wetterbedingungen auf einen bedeutenden regionalen Wirtschaftszweig aufzeigt. Zudem verdeutlicht sie die fundamentale Bedeutung der Ressource Wasser für die zukünftige Landwirtschaft.",
+    "s": "Der Weinjahrgang 2026 in der Pfalz zeigt sich trotz extremer Hitze und Trockenheit von einer erstaunlich guten Seite. Die Ernte fällt insgesamt positiv aus. Dennoch wird betont, dass die Weinproduktion langfristig ohne ausreichend Wasser keine Zukunft hat. Die klimatischen Bedingungen stellen die Winzer vor neue Herausforderungen.",
+    "m": "Das Weinjahr 2026 in der Pfalz gilt als ein extrem verrückter Jahrgang. Die Region erlebte eine nie da gewesene Kombination aus Hitze und Trockenheit. Entgegen ersten Befürchtungen fällt das Ergebnis der Weinernte gut aus. Fachleute und Winzer blicken jedoch mit Sorge auf die Wasserversorgung. Ohne eine verlässliche Bewässerung und ausreichende Wasservorräte wird der Weinbau in der Region langfristig keine Zukunft haben. Der genaue zeitliche Ablauf der Ernte und konkrete Mengenzahlen wurden in den Berichten nicht genannt. Die Situation verdeutlicht die zunehmende Bedeutung von Klimaanpassungsmaßnahmen im regionalen Weinbau.",
+    "r": "Die Berichte sind relevant, da sie die Auswirkungen des Klimawandels auf einen bedeutenden regionalen Wirtschaftszweig und die künftige Existenzsicherung des Weinbaus in der Pfalz aufzeigen.",
     "srcs": [
       {
         "name": "SWR Aktuell Rheinland-Pfalz",
@@ -752,7 +1549,7 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/rheinland-pfalz/ludwigshafen/so-geht-es-der-weinbranche-in-der-pfalz-weinjahrgang-2026-100.html",
-    "agree": "Beide Quellen stimmen überein, dass der Weinjahrgang 2026 in der Pfalz trotz extremer und nie dagewesener Hitze und Trockenheit eine gute Ernte hervorbringt und Wasser die Zukunftsgrundlage des Weins bildet.",
+    "agree": "Die Quellen sind sich einig, dass der Weinjahrgang 2026 in der Pfalz trotz extremer Hitze und Trockenheit eine gute Ernte bringt, aber langfristig Wasser für den Weinbau lebensnotwendig ist.",
     "diff": [],
     "chg": "",
     "independent": 2
@@ -767,10 +1564,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Ältestes Schiffswrack der Welt vor der Küste der Türkei entdeckt",
-    "s": "Archäologen haben vor der türkischen Mittelmeerküste das nach eigenen Angaben weltweit älteste Schiffswrack entdeckt. Das Wrack stammt aus der Frühbronzezeit und wird auf ein Alter von rund 4.400 bis 4.700 Jahren geschätzt. Die Entdeckung gelang in der Nähe der Insel Kekova im Süden des Landes.",
-    "m": "Das historische Schiffswrack wurde vor der südtürkischen Mittelmeerküste nahe der Insel Kekova lokalisiert. Laut Angaben von Archäologen datiert der Fund in die Frühbronzezeit und weist ein geschätztes Alter zwischen 4.400 und 4.700 Jahren auf. Das Schiff hatte einst Keramiklagergefäße und Steinanker geladen, die es über das Mittelmeer transportierte. Dieser Fund gilt als das älteste bekannte Schiffswrack weltweit. Genauere Details zur Bergung oder zur genauen Schiffskonstruktion wurden in den vorliegenden Berichten zunächst nicht genannt. Die Entdeckung wirft ein neues Licht auf die maritime Geschichte und den Seehandel in der Frühbronzezeit im östlichen Mittelmeerraum. Offen ist bislang, welche weiteren Artefakte sich an der Fundstelle befinden und wie die genauen Umstände des Untergangs waren.",
-    "r": "Der Fund des ältesten bekannten Schiffswracks liefert wichtige archäologische Erkenntnisse über den prähistorischen Seehandel im Mittelmeerraum. Durch die genaue Datierung in die Frühbronzezeit erweitert der Fund das historische Wissen über maritime Aktivitäten dieser Epoche erheblich.",
+    "t": "Ältestes Schiffswrack der Welt vor der türkischen Küste entdeckt",
+    "s": "Archäologen haben vor der Mittelmeerküste der Türkei ein schätzungsweise 4.400 bis 4.700 Jahre altes Schiffswrack entdeckt. Der Fund in der Nähe der Insel Kekova gilt als das weltweit älteste bekannte Schiffswrack. Es transportierte unter anderem keramische Vorratstöpfe und steinernen Anker.",
+    "m": "Der Fund stammt aus der frühen Bronzezeit und wurde vor der südtürkischen Mittelmeerküste bei der Insel Kekova lokalisiert. Laut den beteiligten Archäologen hatte das Schiff eine Ladung aus keramischen Vorratstöpfen und steinernen Ankern geladen, die über das Mittelmeer transportiert werden sollten. Bislang sind keine weiteren Details zur genauen Entdeckungsmannschaft oder zur Bergung der Artefakte bekannt. Auch offene Fragen zum genauen Fahrtziel der Ladung oder dem Zustand des Rumpfes wurden in den Berichten nicht näher ausgeführt. Der Fund liefert jedoch bedeutende Einblicke in die frühe Seefahrt und den Handel im östlichen Mittelmeerraum während dieser Epoche.",
+    "r": "Die Entdeckung des ältesten bekannten Schiffswracks der Welt erweitert das historische Wissen über die frühe Seefahrt und den Handel in der Bronzezeit erheblich. Der Fundort vor der türkischen Küste bietet neue Anhaltspunkte für archäologische Forschungen in der Region.",
     "srcs": [
       {
         "name": "Euronews",
@@ -793,19 +1590,56 @@
     "diff": [
       {
         "name": "Euronews",
-        "note": "Berichtet zusätzlich, dass das Schiff Keramiklagergefäße und Steinanker geladen hatte und der Fund vor der Insel Kekova im Süden der Türkei gemacht wurde."
+        "note": "Berichtet detailliert über die Ladung aus Keramiktöpfen und Steinankern sowie die Datierung auf 4.400 bis 4.700 Jahre."
       },
       {
         "name": "BBC World",
-        "note": "Gibt an, dass das Wrack spezifisch in die Frühbronzezeit datiert wird."
+        "note": "Erwähnt ergänzend, dass das Wrack in die Frühbronzezeit datiert."
       },
       {
         "name": "Google News World",
-        "note": "Verweist lediglich auf die Berichterstattung der BBC über das Wrack vor Kekova."
+        "note": "Enthält keine eigenständigen Details, sondern verweist lediglich auf die Berichterstattung der BBC."
       }
     ],
     "chg": "",
     "independent": 3
+  },
+  {
+    "id": "story-e33c57a07d0b2e19",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-14T08:10:50.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Papst Leo XIV. nach Lungenoperation mit Krebsdiagnose",
+    "s": "Papst Leo XIV. hat sich auf Anraten seiner Ärzte einer Lungenoperation unterzogen. Nach Angaben des Vatikans hat sich dabei die vermutete Diagnose eines Lungenkarzinoms bestätigt. Der Heilige Vater hat den Eingriff gut überstanden.",
+    "m": "Der Vatikan gab bekannt, dass sich der Verdacht auf ein Lungenkarzinom bei Papst Leo XIV. nach einer chirurgischen Eingriff an der Lunge bestätigt hat. Zu dem operativen Eingriff hatten die Ärzte dem Pontifex zuvor geraten. Den Angaben zufolge hat Papst Leo XIV. die Operation gut überstanden. Weitere medizinische Details zum Zustand des Kirchenoberhauptes oder zum weiteren Behandlungsverlauf wurden zunächst nicht mitgeteilt. Das betroffene Organ ist die Lunge, bei der kleine Tumore oft keine Beschwerden verursachen.",
+    "r": "Die Erkrankung des Kirchenoberhauptes an Lungenkrebs und die erfolgreiche Durchführung der Operation sind von hoher medizinischer und gesellschaftlicher Bedeutung. Der Verlauf und die Behandlung des Papstes stehen im Fokus der internationalen Öffentlichkeit.",
+    "srcs": [
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/papst-erfolgreich-operiert-100.html",
+        "date": "2026-10-14T08:10:50.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xVnR4enBXY3JQaWNJeDIyeG5GVHE5N0R1LTYxVXlRUThUS2hjQ0JiTGotaWxUMHdTNDZ3VTJwTE1pMkRzMGR6VldMUXRiWVVLdTI2eUk4dm0xTE9oOUxPWUU2VlY3dTJyV1lxcjd5VVBLekhtUUw1UA?oc=5",
+        "date": "2026-10-14T08:10:00.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/ausland/papst-erfolgreich-operiert-100.html",
+    "agree": "Die Quellen sind sich einig, dass Papst Leo XIV. an Lungenkrebs erkrankt ist und sich einer Lungenoperation unterzogen hat, die er gut überstanden hat.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Erwähnt zusätzlich das Zitat, dass kleine Lungentumore häufig keine Symptome verursachen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
   },
   {
     "id": "story-aeb397853084ee3c",
@@ -2418,38 +3252,6 @@
         "note": "Verweist lediglich auf den Artikel von RTP als Quelle für dieselbe Meldung."
       }
     ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-e33c57a07d0b2e19",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-13T21:19:05.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Papst Leo XIV. hat laut Vatikan Lungenkrebs",
-    "s": "Erst am Sonntag hatte Leo XIV. einen Knoten in der Lunge öffentlich gemacht. Nur zwei Tage später wird er operiert. Die Diagnose bestätigt die Befürchtungen: Der 71-Jährige hatte ein Karzinom.",
-    "m": "Erst am Sonntag hatte Leo XIV. einen Knoten in der Lunge öffentlich gemacht. Nur zwei Tage später wird er operiert. Die Diagnose bestätigt die Befürchtungen: Der 71-Jährige hatte ein Karzinom. Dem Papst ist bei einer Operation ein bösartiger Tumor an der Lunge entfernt worden. Vor dem Eingriff hatten Tests auf ein Lungenadenokarzinom hingedeutet.",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
-    "srcs": [
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/politik/papst-leo-xiv-hat-laut-vatikan-lungenkrebs-P76LTPHJLRH2PKABVVF3FRIRKA.html",
-        "date": "2026-10-13T21:19:05.000Z"
-      },
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/gesellschaft/2026-10/papst-leo-xiv-hat-lungenkrebs",
-        "date": "2026-10-13T20:21:10.000Z"
-      }
-    ],
-    "url": "https://www.rnd.de/politik/papst-leo-xiv-hat-laut-vatikan-lungenkrebs-P76LTPHJLRH2PKABVVF3FRIRKA.html",
-    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
-    "diff": [],
     "chg": "",
     "independent": 2
   },
@@ -14481,495 +15283,6 @@
       {
         "name": "DER SPIEGEL",
         "note": "Präzisiert, dass der Unfall im Landkreis Barnim passierte und konkret drei Mopeds mit drei Fahrern und einer Mitfahrerin involviert waren."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-2f3bfe2eb10c8797",
-    "c": "INT",
-    "o": "INT",
-    "k": "wissenschaft",
-    "lang": "de",
-    "d": "2026-10-07T21:31:00.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "WHO fordert von Russland Details zu angeblichem Pest-Fall",
-    "s": "Die Weltgesundheitsorganisation hat von Russland weitere Informationen zu einem ungeklärten Todesfall in einem sibirischen Labor gefordert. Es gebe bislang keine Klarheit über die genaue Todesursache der dort beschäftigten Person. Der Fall hat international Bedenken hinsichtlich eines möglichen Verdachts auf Lungenpest ausgelöst.",
-    "m": "Ein hochrangiger Vertreter der Weltgesundheitsorganisation erklärte am Mittwoch, dass der genaue Hergang und die Ursache für den Tod eines Labormitarbeiters in Sibirien weiterhin unklar sind. Die WHO drängt die russischen Behörden nun zu einer schnellen und transparenten Bereitstellung von Informationen. Der Vorfall wird international mit Besorgnis beobachtet, da der Verdacht einer Infektion mit Lungenpest im Raum steht. Bislang liegen von offizieller Seite nur spärliche Details vor, was die Spekulationen und internationalen Fragen verstärkt. Die Organisation betont, wie wichtig Aufklärung und Kooperation in solchen Fällen für die globale Gesundheitssicherheit sind. Weitere Untersuchungen sollen klären, ob tatsächlich eine Gefährdung durch den Erreger bestand und wie es zu dem Vorfall im Labor kommen konnte.",
-    "r": "Die Aufklärung von Vorfällen mit potenziell gefährlichen Krankheitserregern in Laboratorien ist für die internationale Gesundheitssicherheit von großer Bedeutung. Das Ausbleiben detaillierter Informationen durch nationale Behörden kann globale Besorgnis und diplomatischen Druck auslösen.",
-    "srcs": [
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUVNxZUVSYWs2akY2NUdadlZBU1BadGtSbWx6SlpaWVY2ZVhJWG85Q0lIZlpRYWt4X3lpbzNyZG5HbDFZa3lRWFU4LXo2VG15eHlJWGhJTlBLVi1xb0dtOXV2Z3dZWVVXdlRxYmZzMkR4VUV6U2I2WFVCdWJPQVFqSVNpNFhlRTNQN01mbHNOaGR5Z2RNMkE?oc=5",
-        "date": "2026-10-07T21:31:00.000Z"
-      },
-      {
-        "name": "France24 English",
-        "url": "https://www.france24.com/en/un-health-agency-wants-more-details-from-russia-on-suspected-pneumonic-plague-case",
-        "date": "2026-10-07T21:24:45.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUVNxZUVSYWs2akY2NUdadlZBU1BadGtSbWx6SlpaWVY2ZVhJWG85Q0lIZlpRYWt4X3lpbzNyZG5HbDFZa3lRWFU4LXo2VG15eHlJWGhJTlBLVi1xb0dtOXV2Z3dZWVVXdlRxYmZzMkR4VUV6U2I2WFVCdWJPQVFqSVNpNFhlRTNQN01mbHNOaGR5Z2RNMkE?oc=5",
-    "agree": "Die Quellen stimmen überein, dass die WHO von Russland weitere Informationen zu einem ungeklärten Todesfall einer Laborarbeitskraft in Sibirien im Zusammenhang mit einem vermuteten Pest-Fall fordert.",
-    "diff": [
-      {
-        "name": "France24 English",
-        "note": "Ergänzt, dass die Äußerung am Mittwoch von einer Spitzenperson der WHO getätigt wurde und dass FRANCE 24-Berichterstatter Monte Francis über den Fall berichtet."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-949ea3000aa9dab9",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-07T21:05:10.000Z",
-    "p": 3,
-    "st": "BY",
-    "city": "",
-    "t": "Nach Zwangsräumung in Spanien: Rentnerin Maricarmen gestorben",
-    "s": "Die 87-jährige Maricarmen Abascal, deren Fall in Spanien landesweite Proteste auslöste, ist gestorben. Sie musste zuvor ihre Mietwohnung verlassen, in der sie 70 Jahre lang gelebt hatte. Die Ereignisse hatten eine große Debatte über die Wohnungsnot im Land entfacht.",
-    "m": "Die 87-jährige Rentnerin Maricarmen Abascal ist nach ihrer Zwangsräumung gestorben. Sie hatte zuvor 70 Jahre lang in ihrer Mietwohnung gelebt, bevor sie diese räumen musste. Ihr Schicksal wurde zu einem Symbol für die schwere Wohnungskrise in Spanien. Der Fall führte zu landesweiten Massenprotesten gegen explodierende Mieten und die allgemeine Wohnungsnot. Die Proteste und die politische Dimension des Falles hatten schließlich sogar weitreichende Konsequenzen bis hin zu Neuwahlen im Land. Weitere Details zum genauen Todeszeitpunkt oder den Umständen ihres Todes nennen die Berichte nicht.",
-    "r": "Der Tod der symbolträchtigen Rentnerin verdeutlicht die drastischen sozialen Folgen der spanischen Wohnungskrise. Zudem zeigt er, wie stark Einzelfälle politische Dynamiken wie landesweite Proteste und Neuwahlen beeinflussen können.",
-    "srcs": [
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/nach-zwangsraeumung-rentnerin-maricarmen-gestorben,VXOeyC4",
-        "date": "2026-10-07T21:05:10.000Z"
-      },
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/europa/maricarmen-spanien-zwangsraeumung-100.html",
-        "date": "2026-10-07T19:38:22.000Z"
-      }
-    ],
-    "url": "https://www.br.de/nachrichten/deutschland-welt/nach-zwangsraeumung-rentnerin-maricarmen-gestorben,VXOeyC4",
-    "agree": "Die 87-jährige Spanierin Maricarmen Abascal musste ihre Mietwohnung nach 70 Jahren räumen, was zu landesweiten Protesten führte, und ist nun gestorben.",
-    "diff": [
-      {
-        "name": "BR24 Bayern",
-        "note": "Erwähnt zusätzlich, dass der Fall letztlich zu Neuwahlen geführt hat."
-      },
-      {
-        "name": "Tagesschau",
-        "note": "Bezeichnet ihren Namen als Symbol für die spanische Wohnungskrise."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-20452c27be72559e",
-    "c": "INT",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-07T20:17:43.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Zwangsgeräumte Spanierin Maricarmen mit 87 Jahren gestorben",
-    "s": "Die 87-jährige Spanierin Maricarmen ist gestorben. Ihr Fall hatte zuvor für Aufsehen gesorgt. Wegen einer Mieterhöhung musste sie ihre langjährige Wohnung verlassen.",
-    "m": "Maricarmen Abascal musste mit 87 Jahren ihre Wohnung in Madrid verlassen, in der sie über 70 Jahre gelebt hatte, weil sie eine Mieterhöhung nicht bezahlen konnte. Die erzwungene Räumung führte zu Massenprotesten und löste landesweit Empörung aus. Nach diesen Protesten gab es Pläne für eine Rückkehr in ihre Wohnung. Nun ist sie im Alter von 87 Jahren verstorben. Der Tod wurde unter anderem vom Mieterverband bekannt gegeben. Viele Menschen zeigen sich betroffen über das Schicksal der Seniorin.",
-    "r": "Der Fall verdeutlicht soziale Konflikte rund um steigende Mieten und Zwangsräumungen in Spanien. Er zeigt zudem, wie persönliche Schicksale massiven gesellschaftlichen Protest auslösen können.",
-    "srcs": [
-      {
-        "name": "Frankfurter Allgemeine",
-        "url": "https://www.faz.net/aktuell/politik/ausland/maricarmen-abascal-zwangsgeraeumte-spanierin-gestorben-201297841.html",
-        "date": "2026-10-07T20:17:43.000Z"
-      },
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/politik/ausland/maricarmen-spanien-zwangsraeumung-tot-miete-100.html",
-        "date": "2026-10-07T19:37:00.000Z"
-      },
-      {
-        "name": "Rheinische Post",
-        "url": "https://rp-online.de/politik/ausland/mieterverband-zwangsgeraeumte-spanierin-maricarmen-gestorben_aid-156147479",
-        "date": "2026-10-07T19:12:25.000Z"
-      }
-    ],
-    "url": "https://www.faz.net/aktuell/politik/ausland/maricarmen-abascal-zwangsgeraeumte-spanierin-gestorben-201297841.html",
-    "agree": "Die Quellen stimmen überein, dass die 87-jährige Spanierin Maricarmen, die zuvor zwangsgeräumt worden war, gestorben ist.",
-    "diff": [
-      {
-        "name": "Frankfurter Allgemeine",
-        "note": "erwähnt, dass sie nach Massenprotesten eigentlich in ihre Wohnung zurückkehren sollte"
-      },
-      {
-        "name": "ZDF heute",
-        "note": "nennt den Nachnamen Abascal und erwähnt die landesweite Empörung über den Fall"
-      },
-      {
-        "name": "Rheinische Post",
-        "note": "nennt Madrid als Ort der Wohnung und führt den Mieterverband als Informanten für ihren Tod an"
-      }
-    ],
-    "chg": "",
-    "independent": 3
-  },
-  {
-    "id": "story-daa285174495fcae",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-07T19:58:58.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Drei Tote bei Angriffen auf Flughäfen in Saudi-Arabien",
-    "s": "Bei Angriffen auf Flughäfen in Saudi-Arabien sind drei Menschen getötet worden. Die Angriffe erfolgen im Zuge einer verstärkten Beschießung von Zielen in dem Golfstaat durch die vom Iran unterstützte Huthi-Miliz. Ob die Huthi-Miliz konkret hinter diesem Angriff steckt, ist derzeit noch offen.",
-    "m": "Die vom Iran unterstützte Huthi-Miliz beschießt im Zuge der Eskalation des Jemen-Kriegs vermehrt Ziele in Saudi-Arabien. Bei den jüngsten Angriffen auf Flughäfen in dem Golfstaat kamen drei Menschen ums Leben. Es ist unklar, ob die Huthi-Miliz direkt für diesen bestimmten Angriff verantwortlich ist. Die Ereignisse stehen im Kontext des anhaltenden Nahost-Konflikts und der Auseinandersetzungen mit dem Iran. Die genauen Umstände und Hintergründe der Flughafenangriffe werden im Rahmen der Berichterstattung zur Lage in Nahost verfolgt.",
-    "r": "Die Angriffe auf saudische Flughäfen mit Todesopfern verdeutlichen die Eskalation des Konflikts im Nahen Osten und die Beteiligung regionaler Akteure. Die Entwicklungen sind von internationalem Interesse für die Sicherheitslage in der Region.",
-    "srcs": [
-      {
-        "name": "Süddeutsche Zeitung",
-        "url": "https://www.sueddeutsche.de/politik/news-iran-nahost-krieg-iran-saudi-arabien-angriffe-flughaefen-huthi-li.3530668",
-        "date": "2026-10-07T19:58:58.000Z"
-      },
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/politik/ticker-zur-lage-in-nahost-drei-tote-bei-angriffen-auf-flughaefen-in-saudi-arabien-SUZZT272ANCR5LXBULZCKG7OB4.html",
-        "date": "2026-10-07T19:26:30.000Z"
-      }
-    ],
-    "url": "https://www.sueddeutsche.de/politik/news-iran-nahost-krieg-iran-saudi-arabien-angriffe-flughaefen-huthi-li.3530668",
-    "agree": "Beide Quellen berichten über Angriffe auf Flughäfen in Saudi-Arabien, bei denen drei Menschen gettoet wurden, und betten dies in die Berichterstattung zur Lage in Nahost ein.",
-    "diff": [
-      {
-        "name": "Süddeutsche Zeitung",
-        "note": "Berichtet spezifisch über die Eskalation des Jemen-Kriegs und dass die vom Iran unterstützte Huthi-Miliz verstärkt Ziele in Saudi-Arabien beschießt sowie über die offene Frage der Urheberschaft dieses Angriffs."
-      },
-      {
-        "name": "RND",
-        "note": "Erwähnt im Ticker die Rolle von US-Präsident Donald Trump und dessen mangelnde sichtbare Erfolge im Krieg gegen den Iran."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-35c37ce3abf4055a",
-    "c": "INT",
-    "o": "UK",
-    "k": "umwelt",
-    "lang": "de",
-    "d": "2026-10-07T19:23:30.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Flávio Bolsonaro führt bei Brasiliens Präsidentschaftswahl",
-    "s": "Im ersten Wahlgang der brasilianischen Präsidentschaftswahl hat sich Flávio Bolsonaro überraschend an die Spitze gesetzt. Sein Erfolg bereitet Umweltschützern und der internationalen Gemeinschaft große Sorgen. Im Zentrum der Besorgnis steht die Zukunft des Amazonas-Regenwaldes.",
-    "m": "Flávio Bolsonaro hat in der ersten Runde der Präsidentschaftswahl in Brasilien einen Vorsprung errungen. Klimaschützer und Beobachter werten diesen Erfolg als schweren Rückschlag für den Umweltschutz. Bislang galt die Eindämmung der Entwaldung im Amazonas durch Präsident Lula da Silva als großer Erfolg, der sich jedoch offenbar nicht in entsprechendem Wählerzuspruch niedergeschlagen hat. Kritiker warnen nun vor einer Zunahme von Bränden, Kriminalität und Zerstörung im global bedeutsamen Ökosystem. Sollte Bolsonaro seine Führung behaupten, droht dem Amazonas-Regenwald in den kommenden vier Jahren eine rapide Annäherung an einen irreversiblen Wendepunkt. Das Ergebnis wird weltweit mit großer Sorge verfolgt, da die internationalen Auswirkungen als gravierend eingeschätzt werden.",
-    "r": "Das Wahlergebnis in Brasilien hat direkte Auswirkungen auf die weltweite Klimapolitik und den Erhalt des Amazonas-Regenwaldes. Ein Regierungswechsel könnte die bisherigen Erfolge bei der Eindämmung der Entwaldung gefährden.",
-    "srcs": [
-      {
-        "name": "Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-advance-brazil-election-jolt-climate-campaigners",
-        "date": "2026-10-07T19:23:30.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOEZsMTE4OUxFWTRZZmJ0ZzFzei1abTJocFdncWNMcm8tTFc3NUkyUUNZUko2QTRyaEN1LUFESjdld0VCMlU0VU5jSl9LZU9xZVZlV2s4emVKLWJlQUZLUERDcFhBRVY0OWJWa0JJeFpubk85enlGSWVmcVY1RzNwaWMyUmpJdEsxQzk0Tm5Kc2xVRG0zVDUyUS1sZTY5RlM2OXkxbXM3NmNncllqSGNjNA?oc=5",
-        "date": "2026-10-07T11:20:00.000Z"
-      }
-    ],
-    "url": "https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-advance-brazil-election-jolt-climate-campaigners",
-    "agree": "Die Quellen stimmen überein, dass Flávio Bolsonaros Führung in der brasilianischen Präsidentschaftswahl eine schlechte Nachricht für Klimaschützer ist.",
-    "diff": [
-      {
-        "name": "Google News World",
-        "note": "Verweist lediglich auf den Artikel des Guardian und nennt keine eigenständigen Details."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-a2804bb13cb73208",
-    "c": "INT",
-    "o": "PT",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-07T19:19:03.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Tankstellen müssen ISP-Rabatt ab 17. ausweisen",
-    "s": "In Portugal müssen Tankstellen ab dem 17. den geltenden ISP-Rabatt ausweisen. Dies geht aus einem am gleichen Tag veröffentlichten Gesetzesdekret hervor. Die Maßnahme ist Teil von erhöhten Hilfen für den Verkehrssektor.",
-    "m": "Ein neues Gesetzesdekret sieht vor, dass Tankstellen in Portugal ab dem 17. den Rabatt auf die Erdölsteuer (ISP) direkt aushängen müssen. Gleichzeitig erhöht der Staat die finanziellen Unterstützungen für den Transportsektor beträchtlich auf insgesamt 39,5 Millionen Euro. Das Dekret wurde offiziell veröffentlicht und tritt in Kürze in Kraft. Betroffene Unternehmen müssen sich auf die neuen Kennzeichnungspflichten einstellen. Die Maßnahme soll für mehr Preistransparenz für die Verbraucher sorgen. Weitere Details zu den genauen Modalitäten der Ausweisung wurden im Rahmen der Veröffentlichung bekannt gegeben.",
-    "r": "Die Regelung betrifft direkt die Preiskennzeichnung an Tankstellen und betrifft die finanzielle Unterstützung wesentlicher Transportsektoren. Sie hat somit unmittelbare Auswirkungen auf Verbraucher und Transportunternehmen in Portugal.",
-    "srcs": [
-      {
-        "name": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/noticiario-antena1/19h-postos-de-combustivel-tem-de-afixar-desconto-do-isp-a-partir-do-dia-17_a1_1770137",
-        "date": "2026-10-07T19:19:03.000Z"
-      },
-      {
-        "name": "RTP Economia",
-        "url": "https://www.rtp.pt/noticias/economia/postos-de-combustivel-tem-de-afixar-desconto-do-isp-a-partir-do-dia-17_n1770068",
-        "date": "2026-10-07T12:15:25.000Z"
-      }
-    ],
-    "url": "https://www.rtp.pt/noticias/noticiario-antena1/19h-postos-de-combustivel-tem-de-afixar-desconto-do-isp-a-partir-do-dia-17_a1_1770137",
-    "agree": "Die Quellen stimmen überein, dass Tankstellen ab dem 17. den ISP-Rabatt ausweisen müssen.",
-    "diff": [
-      {
-        "name": "RTP Notícias",
-        "note": "Berichtet lediglich über die Uhrzeit (19h) der Veröffentlichung und die Kernmeldung."
-      },
-      {
-        "name": "RTP Economia",
-        "note": "Nennt zusätzlich die Gesamtsumme der auf 39,5 Millionen Euro erhöhten Hilfen für die Transportsektoren."
-      }
-    ],
-    "chg": "",
-    "independent": 1
-  },
-  {
-    "id": "story-b32177642d160edd",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-07T19:13:12.000Z",
-    "p": 3,
-    "st": "HH",
-    "city": "",
-    "t": "Verkehrsausschuss stimmt für Neubaustrecke Hannover-Hamburg",
-    "s": "Der Verkehrsausschuss hat sich für den Bau der Neubaustrecke zwischen Hannover und Hamburg ausgesprochen. Über das umstrittene Projekt wurde zuvor lange und hart diskutiert. Am kommenden Donnerstag steht nun die endgültige Entscheidung des Bundestags an.",
-    "m": "Die Entscheidung des Verkehrsausschusses markiert einen wichtigen Zwischenschritt für das stark diskutierte Bahnprojekt zwischen Hannover und Hamburg. Dem Votum gingen lange und harte Verhandlungen voraus, da die geplante Trasse in der Region auf Widerstand und intensive Debatte stieß. Nun ist der Weg für die parlamentarische Beratung bereitet. Am Donnerstag muss der Bundestag abschließend über das Vorhaben entscheiden. Ob und in welcher Form die Pläne nach dem Bundestagsbeschluss umgesetzt werden, hängt vom weiteren Verlauf der parlamentarischen und regionalen Abstimmungen ab. Konkrete Details zum genauen Streckenverlauf oder zum Baubeginn gehen aus den vorliegenden Berichten nicht hervor.",
-    "r": "Das Projekt hat erhebliche verkehrspolitische und regionale Bedeutung für die Verbindung zwischen Hannover und Hamburg. Die bevorstehende Bundestagsentscheidung bestimmt den weiteren Fortgang dieses Infrastrukturvorhabens.",
-    "srcs": [
-      {
-        "name": "Tagesschau Regional Hamburg",
-        "url": "https://www.tagesschau.de/inland/regional/niedersachsen/verkehrsausschuss-stimmt-fuer-neubaustrecke-hannover-hamburg,neubaustrecke-132.html",
-        "date": "2026-10-07T19:13:12.000Z"
-      },
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVmhaU0VSQ2hzaEdvOGpRUWdJYUEwT3hIOVdyYU5iZE1HakpBOEI3WHV3SEFJNkd0U3M2cWNPZktIVnVSRTF1RWxMbGVVeDVmQ3JEVmQ1aWRranVfYzhqSmFBdXRwUkV3c2FpUVNEdTdMemlpU012V1QzU2dsOGxSWlZwVHdoME84NDQyS1pXWllGTUpMN1ZxVUZDcFMyMzd3a1RKN3VWbGoyVGVVV2NSNWRKbF9JYTVEeThmcUdMVmc2MTlVMlNB?oc=5",
-        "date": "2026-10-07T15:24:21.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/regional/niedersachsen/verkehrsausschuss-stimmt-fuer-neubaustrecke-hannover-hamburg,neubaustrecke-132.html",
-    "agree": "Beide Quellen stimmen darin überein, dass der Verkehrsausschuss für die Neubaustrecke Hannover-Hamburg gestimmt hat.",
-    "diff": [
-      {
-        "name": "Tagesschau Regional Hamburg",
-        "note": "Erwähnt zusätzlich, dass die Entscheidung des Bundestags für Donnerstag ansteht und über die Trasse lange und hart diskutiert wurde."
-      },
-      {
-        "name": "Google News DE",
-        "note": "Nennt den NDR als ursächlichen Berichterstatter für die Meldung."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-431f5ee1dd282758",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-07T19:02:28.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Ryanair stellt Betrieb am Flughafen Bremen nach Gebührenstreit ein",
-    "s": "Der Billigflieger Ryanair hat angekündigt, seinen Betrieb am Flughafen Bremen komplett einzustellen. Grund für den Rückzug ist ein heftiger Streit um die Gebühren. Es handelt sich um einen weiteren Rückzug der Fluggesellschaft in Deutschland.",
-    "m": "Die irische Fluggesellschaft Ryanair zieht sich vom Flughafen Bremen zurück und stellt dort künftig ihren Betrieb ein. Auslöser für diesen Schritt ist ein intensiver Streit über die anfallenden Gebühren am Standort. Das Unternehmen begründete den Schritt unter anderem damit, dass die Bedingungen nicht mehr seriös seien. Für den Flughafen Bremen bedeutet dieser Schritt den Verlust eines bedeutenden Partners im Billigflugsegment. Dies ist ein weiterer Beleg für den Trend, dass Ryanair sein Angebot an deutschen Flughäfen reduziert. Bislang gibt es keine Informationen über mögliche Verhandlungen oder eine Wiederaufnahme der Gespräche zwischen dem Flughafen und der Airline.",
-    "r": "Der Rückzug von Ryanair hat direkte Auswirkungen auf das Flugangebot am Flughafen Bremen und zeigt die anhaltenden Konflikte zwischen Fluggesellschaften und deutschen Regionalflughäfen über Gebührenstrukturen.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPM0wxNk9icmF6aXhKZl9tRWdIRTY5bWxCd2w5WWkzZkUtT3I5TzBWLXd1dWtjeERTRU1laWRVbUlkcVhFMGE2TFA3TF83bjcxeUwwdmhoeDVHRGcwUzFUNGs0VjdJUzJ6ZV9YdVNKUnIwZGhGd01OYkE1bjNyMW4tN1N3dUItaGdERzF6alJsS01MNmJIMlJpWmZjcTFEY00tX1Z1U3RIVlBjV3pnWlRpOWpYU3pJcmlNdVVTaFhjbmF3ZkhQQ3ExTkp1OXgzTUNvbzRFSWNrejUwTDBjdU9KZFBBVG5CTnp3a3U0OWVwLVozNXAzWUNySEF3Rm5Ta181cjBBc1JQZWVUb3ZKdGdV?oc=5",
-        "date": "2026-10-07T19:02:28.000Z"
-      },
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/wirtschaft/article6ac692d2680a65c2883c3e7a/400-000-passagiere-weniger-nicht-mehr-serioes-ryanair-verlaesst-flughafen-bremen-nach-heftigem-streit-um-gebuehren.html",
-        "date": "2026-10-07T19:00:55.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPM0wxNk9icmF6aXhKZl9tRWdIRTY5bWxCd2w5WWkzZkUtT3I5TzBWLXd1dWtjeERTRU1laWRVbUlkcVhFMGE2TFA3TF83bjcxeUwwdmhoeDVHRGcwUzFUNGs0VjdJUzJ6ZV9YdVNKUnIwZGhGd01OYkE1bjNyMW4tN1N3dUItaGdERzF6alJsS01MNmJIMlJpWmZjcTFEY00tX1Z1U3RIVlBjV3pnWlRpOWpYU3pJcmlNdVVTaFhjbmF3ZkhQQ3ExTkp1OXgzTUNvbzRFSWNrejUwTDBjdU9KZFBBVG5CTnp3a3U0OWVwLVozNXAzWUNySEF3Rm5Ta181cjBBc1JQZWVUb3ZKdGdV?oc=5",
-    "agree": "Beide Quellen stimmen darin überein, dass Ryanair seinen Betrieb am Flughafen Bremen aufgrund eines heftigen Streits um Gebühren einstellt.",
-    "diff": [
-      {
-        "name": "Google News DE",
-        "note": "Verweist auf den WELT-Artikel mit dem Zitat „Nicht mehr seriös“."
-      },
-      {
-        "name": "WELT",
-        "note": "Betont, dass dies der nächste Rückzug von Ryanair in Deutschland ist."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-2b490291b57e7b28",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-07T19:00:51.000Z",
-    "p": 2,
-    "st": "BY",
-    "city": "",
-    "t": "Altkanzler Gerhard Schröder bei Globus-Markt in Moskau gefeiert",
-    "s": "Altkanzler Gerhard Schröder ist überraschend in Moskau in einem Markt der deutschen Handelskette Globus aufgetreten. Dieser Auftritt erfolgt nach seiner Berufung in den Aufsichtsrat des russischen Ablegers des Unternehmens. Vor Ort wurde er von Mitarbeitern mit viel Applaus und einer Begrüßungsrede empfangen.",
-    "m": "Altkanzler Gerhard Schröder sorgt mit einem überraschenden Auftritt in Moskau für Aufmerksamkeit. Er wurde in einer Filiale der deutschen Handelskette Globus empfangen, nachdem seine Berufung in den Aufsichtsrat des russischen Ablegers bekannt geworden war. Vor Mitarbeitern des Supermarkts ließ sich der 82-Jährige mit viel Applaus begrüßen und hielt vor Ort eine Begrüßungsrede. Der genaue Zeitpunkt und weitere Hintergründe zu dieser Reise blieben zunächst im Rahmen der Meldungen offen. Es ist der jüngste öffentliche Auftritt im Zusammenhang mit seinen geschäftlichen Aktivitäten in Russland. Weitere Details zu Verträgen oder konkreten Aufgaben im Aufsichtsrat wurden nicht genannt.",
-    "r": "Der Auftritt eines deutschen Altkanzlers im Kontext geschäftlicher Verbindungen nach Russland ist von anhaltendem politischem und öffentlichem Interesse. Die Berichterstattung beleuchtet die Aktivitäten prominenter deutscher Politiker im Ausland.",
-    "srcs": [
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/altkanzler-schroeder-wird-in-globus-markt-in-moskau-gefeiert,VXO3mWc",
-        "date": "2026-10-07T19:00:51.000Z"
-      },
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/politik/neuer-job-in-russland-altkanzler-schroeder-haelt-begruessungsrede-bei-globus-in-moskau-JB6DKLVXSBCLBNCYIRDC7PLOG4.html",
-        "date": "2026-10-07T18:08:42.000Z"
-      }
-    ],
-    "url": "https://www.br.de/nachrichten/deutschland-welt/altkanzler-schroeder-wird-in-globus-markt-in-moskau-gefeiert,VXO3mWc",
-    "agree": "Beide Quellen berichten übereinstimmend, dass Altkanzler Schröder nach seiner Berufung in den Aufsichtsrat beim russischen Ableger der deutschen Globus-Kette überraschend in Moskau aufgetaucht ist.",
-    "diff": [
-      {
-        "name": "BR24 Bayern",
-        "note": "Erwähnt zusätzlich, dass Schröder sich von Mitarbeitern mit viel Applaus begrüßen ließ und 82 Jahre alt ist."
-      },
-      {
-        "name": "RND",
-        "note": "Berichtet zusätzlich, dass Schröder eine Begrüßungsrede hielt."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-302deaa3ae1a931a",
-    "c": "INT",
-    "o": "PT",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-07T18:53:13.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Protest in Lissabon gegen bevorstehenden Besuch von US-Außenminister Marco Rubio",
-    "s": "In Lissabon haben sich rund 300 Menschen versammelt, um gegen den Besuch des US-amerikanischen Außenministers Marco Rubio zu protestieren. Die Kundgebung richtete sich gegen die für Donnerstag geplante Visite des hochrangigen US-Politikers in Portugal. Weitere Details zu dem Verlauf des Protests oder Reaktionen von Behörden wurden zunächst nicht bekannt.",
-    "m": "Etwa 300 Demonstranten kamen in der portugiesischen Hauptstadt Lissabon zusammen, um ihren Unmut über den Besuch von US-Außenminister Marco Rubio auszudrücken. Der Besuch des US-Politikers ist offiziell für den kommenden Donnerstag angesetzt. Die Versammlung verlief im Rahmen der angekündigten Kundgebung gegen die US-Außenpolitik. Genauere Angaben zu Zwischenfällen, Forderungen der Demonstrierenden oder offiziellen Stellungnahmen der Regierung liegen aus den Berichten bisher nicht vor. Der Zeitpunkt und die genaue Dauer des Besuchs von Rubio in Portugal wurden im Rahmen der Meldungen ebenfalls nicht näher spezifiziert. Die Berichterstattung beschränkt sich vorerst auf die Kernangabe der Teilnehmerzahl und den Anlass des Protests.",
-    "r": "Der Protest von rund 300 Personen in Lissabon verdeutlicht den lokalen Widerstand gegen den diplomatischen Besuch des US-Außenministers Marco Rubio. Solche Kundgebungen bieten Einblicke in die politische Stimmung vor Ort gegenüber der US-Außenpolitik bei offiziellen Staatsbesuchen.",
-    "srcs": [
-      {
-        "name": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/pais/cerca-de-300-pessoas-protestam-em-lisboa-contra-visita-de-rubio-a-portugal_n1770133",
-        "date": "2026-10-07T18:53:13.000Z"
-      },
-      {
-        "name": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUlNabmU2SXdYajE2YUhXQWQ2S2ZMbkswRG5FbnlSX0t1X0VHdVVqeEJid2hxNzlIUjJjS3REbE9sNWcxVzJnQ1lqN0IwWG4xdHdFdWw0MWZ4VEtuZ0VJQXNCR3h2OWE3WVQ5VkU0eFljRkZIN2FJaDFVUHRKTWJOazR5VlBSZjl4SVpGMU9QNmJsZXdPUDVQZThzRmpNeEhtTmJzOHVyQ0NrYUtuVGNmUk9JdU9vNm5ubEpkcXlHQQ?oc=5",
-        "date": "2026-10-07T17:59:50.000Z"
-      }
-    ],
-    "url": "https://www.rtp.pt/noticias/pais/cerca-de-300-pessoas-protestam-em-lisboa-contra-visita-de-rubio-a-portugal_n1770133",
-    "agree": "Beide Quellen stimmen überein, dass rund 300 Menschen in Lissabon gegen den anstehenden Besuch des US-Außenministers Marco Rubio protestieren.",
-    "diff": [
-      {
-        "name": "Google News Portugal",
-        "note": "Erwähnt zusätzlich SAPO als Plattform und verweist auf weitere Kopfzeilen und Perspektiven."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-1268698a8c5f1033",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-07T18:42:36.000Z",
-    "p": 2,
-    "st": "MV",
-    "city": "",
-    "t": "Finanzieller Druck in der Tagespflege wächst durch geplante Pflegereform",
-    "s": "Anlässlich des Tages der Tagespflege machen Wohlfahrtsverbände in Mecklenburg-Vorpommern auf finanzielle Sorgen aufmerksam. Einrichtungen öffnen heute ihre Türen für Besucher, um über ihre Arbeit zu informieren. Die Tagespflege bietet wichtige Entlastung für Angehörige und schafft Gemeinschaft für Pflegebedürftige. Die Finanzierung der Einrichtungen könnte jedoch mit der geplanten Pflegereform zum Problem werden.",
-    "m": "Zum Tag der Tagespflege öffnen verschiedene Einrichtungen in Mecklenburg-Vorpommern heute ihre Türen für Besucher. Die Wohlfahrtsverbände in der Region blicken mit großer Sorge in die Zukunft. Tagespflegeeinrichtungen leisten einen wertvollen Beitrag, indem sie pflegende Angehörige entlasten und für die Betreuten soziale Gemeinschaft stiften. Allerdings sehen sich die Betreiber einem zunehmenden finanziellen Druck ausgesetzt. Die ohnehin angespannte wirtschaftliche Situation könnte sich durch die im Raum stehende geplante Pflegereform weiter verschärfen. Bislang ist unklar, wie die Finanzierung langfristig gesichert werden soll und ob die Reform die bestehenden Probleme der Träger löst.",
-    "r": "Die Berichterstattung beleuchtet die wirtschaftliche Situation und Zukunftssorgen der Tagespflegeeinrichtungen in Mecklenburg-Vorpommern. Dies ist relevant für die soziale Versorgungsinfrastruktur, die Entlastung von Angehörigen und die Auswirkungen anstehender politischer Reformen auf regionaler Ebene.",
-    "srcs": [
-      {
-        "name": "NDR Mecklenburg-Vorpommern",
-        "url": "https://www.ndr.de/fernsehen/sendungen/nordmagazin/tag-der-tagespflege-der-finanzielle-druck-waechst,nordmagazin-14836.html",
-        "date": "2026-10-07T18:42:36.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Mecklenburg-Vorpommern",
-        "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/tag-der-tagespflege-entlastung-fuer-angehoerige-aber-der-finanzielle-druck-waechst,tagdertagespflege-100.html",
-        "date": "2026-10-07T18:41:46.000Z"
-      }
-    ],
-    "url": "https://www.ndr.de/fernsehen/sendungen/nordmagazin/tag-der-tagespflege-der-finanzielle-druck-waechst,nordmagazin-14836.html",
-    "agree": "Beide Quellen stimmen überein, dass in Mecklenburg-Vorpommern am Tag der Tagespflege der finanzielle Druck auf die Einrichtungen wächst und sie eine wichtige Entlastung für Angehörige darstellen.",
-    "diff": [
-      {
-        "name": "NDR Mecklenburg-Vorpommern",
-        "note": "Berichtet spezifisch, dass die Finanzierung mit der geplanten Pflegereform zum Problem werden könnte."
-      },
-      {
-        "name": "Tagesschau Regional Mecklenburg-Vorpommern",
-        "note": "Erwähnt konkret, dass Einrichtungen heute ihre Türen für Besucher öffnen und Wohlfahrtsverbände sich um die Zukunft sorgen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-087a24da964d5d63",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-07T18:33:38.000Z",
-    "p": 2,
-    "st": "HH",
-    "city": "",
-    "t": "Gedenken und Demonstrationen in Hamburg zum Jahrestag des Hamas-Angriffs",
-    "s": "Anlässlich des Jahrestags des Hamas-Angriffs auf Israel fanden in Hamburg Gedenkveranstaltungen und eine propalästinensische Demonstration statt. Die Versammlungen wurden von der Polizei geschützt. Die Vorkommnisse markieren den dritten Jahrestag der Terrorangriffe.",
-    "m": "Zum dritten Jahrestag des Terrorangriffs der Hamas auf Israel ist es in Hamburg zu verschiedenen Versammlungen gekommen. Auf dem Universitätsgelände versammelten sich rund 200 Menschen zu einer Gedenkveranstaltung, die unter Polizeischutz stattfand. Zeitgleich wurde eine propalästinensische Demonstration abgehalten. Die Polizei war im Einsatz, um die Veranstaltungen abzusichern und einen geordneten Ablauf zu gewährleisten. Weitere Details zu Zwischenfällen oder Festnahmen wurden zunächst nicht bekannt. Die Ereignisse verdeutlichen die anhaltende Betroffenheit und die kontroversen Reaktionen auf den Nahostkonflikt in Deutschland.",
-    "r": "Die Meldung ist relevant, da sie das Gedenken an den Terrorangriff der Hamas sowie politische Proteste in einer deutschen Großstadt dokumentiert und die Sicherheitslage bei solchen Versammlungen beleuchtet.",
-    "srcs": [
-      {
-        "name": "Tagesschau Regional Hamburg",
-        "url": "https://www.tagesschau.de/inland/regional/hamburg/drei-jahre-nach-hamas-angriff-gedenken-und-demos-in-hamburg,gedenken-israel-104.html",
-        "date": "2026-10-07T18:33:38.000Z"
-      },
-      {
-        "name": "NDR Hamburg",
-        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/demo-und-gedenken-drei-jahre-nach-dem-hamas-angriff,hamj-15326.html",
-        "date": "2026-10-07T17:52:04.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/regional/hamburg/drei-jahre-nach-hamas-angriff-gedenken-und-demos-in-hamburg,gedenken-israel-104.html",
-    "agree": "Beide Quellen stimmen überein, dass in Hamburg am dritten Jahrestag des Hamas-Angriffs auf Israel neben Gedenken auch eine propalästinensische Demo stattfand.",
-    "diff": [
-      {
-        "name": "Tagesschau Regional Hamburg",
-        "note": "Berichtet allgemein über Gedenken und Demos in Hamburg, ohne die genaue Teilnehmerzahl oder den genauen Ort zu nennen."
-      },
-      {
-        "name": "NDR Hamburg",
-        "note": "Ergänzt, dass die Gedenkveranstaltung auf dem Uni-Campus stattfand, rund 200 Menschen daran teilnahmen und sie unter Polizeischutz stand."
       }
     ],
     "chg": "",
