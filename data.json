@@ -1,5 +1,813 @@
 [
   {
+    "id": "story-bfcc244421fb5dfd",
+    "c": "INT",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-14T17:59:01.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "IWF fordert Industrieländer zum Abbau von Staatsschulden auf",
+    "s": "Der Internationale Währungsfonds hat an die Industrieländer appelliert, ihre Haushaltsdefizite zu verringern und Schulden abzubauen. Grund für die Warnung sind steigende Zinsen und hohe Ausgaben, welche den finanziellen Spielraum der betroffenen Staaten zunehmend einschränken. Konkrete Maßnahmen zur Umsetzung wurden im Rahmen der Warnung zunächst nicht detailliert beziffert.",
+    "m": "Der Internationale Währungsfonds sieht weltweit steigende Staatsschulden kritisch und nimmt vor allem die Industriestaaten in die Pflicht. Diese sollen ihre Haushaltsdefizite aktiv verringern, um langfristig handlungsfähig zu bleiben. Als wesentliche Ursachen für die angespannte Haushaltslage nennt der IWF hohe staatliche Ausgaben sowie gestiegene Zinsen. Durch diese Faktoren schrumpft der finanzielle Spielraum der betroffenen Länder spürbar. Der Appell zielt darauf ab, finanzkrisenartigen Entwicklungen rechtzeitig entgegenzuwirken und solide Staatsfinanzen sicherzustellen.",
+    "r": "Die Warnung des IWF verdeutlicht die globale finanzielle Belastung der Industrieländer durch Zinsen und Ausgaben. Sie ist relevant, da sie wirtschaftspolitische Kurskorrekturen bei den Staatsfinanzen anmahnt.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/internationaler-waehrungsfonds-warnt-vor-steigenden-staatsschulden-100.html",
+        "date": "2026-10-14T17:59:01.000Z"
+      },
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iwf-staatsverschuldung-industrielaender-haushalt-100.html",
+        "date": "2026-10-14T14:31:12.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/internationaler-waehrungsfonds-warnt-vor-steigenden-staatsschulden-100.html",
+    "agree": "Beide Quellen stimmen darin überein, dass der IWF die Industrieländer zu einer Verringerung ihrer Haushaltsdefizite und Staatsschulden aufgerufen hat.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Die Meldung beschränkt sich auf den reinen Appell zur Verringerung der Haushaltsdefizite."
+      },
+      {
+        "name": "Tagesschau",
+        "note": "Nennt zusätzlich steigende Zinsen und hohe Ausgaben als Ursachen für die Einschränkung des finanziellen Spielraums."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-c9c37abc57f40305",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-14T17:59:01.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Israelische Siedler setzen Moschee im Westjordanland in Brand",
+    "s": "Im Westjordanland haben israelische Siedler mutmaßlich eine Moschee in Brand gesetzt. Dutzende Siedler drangen in der Nacht in ein Dorf nördlich von Jerusalem ein. Der Vorfall ereignet sich vor dem Hintergrund einer starken Zunahme der Gewalt radikaler Siedler gegen Palästinenser.",
+    "m": "In der Nacht sind Dutzende israelische Siedler in ein Dorf nördlich von Jerusalem eingedrungen und haben dort nach Angaben offenbar eine Moschee in Brand gesteckt. Das betroffene Dorf heißt Michmas und liegt im besetzten Westjordanland. Die Tat reiht sich in eine Entwicklung ein, bei der die Gewalt radikaler israelischer Siedler gegen Palästinenser und deren Besitz stark zugenommen hat. Nähere Details zu den genauen Schäden an der Moschee oder zu möglichen Verletzten oder Festnahmen gehen aus den Berichten bisher nicht hervor. Auch offizielle Reaktionen von Behörden oder Sicherheitskräften stehen noch aus. Die Situation im Westjordanland ist seit längerem extrem angespannt. Der Vorfall wirft erneut Fragen zur Sicherheit und zum Schutz palästinensischer Gemeinden vor gewaltsamen Übergriffen auf.",
+    "r": "Der Vorfall verdeutlicht die anhaltende und stark zunehmende Gewalt radikalisierter Siedler gegen palästinensische Eigentümer und Dörfer im Westjordanland. Solche Übergriffe belasten die Sicherheitslage in der Region massiv.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/israelische-siedler-setzen-moschee-im-westjordanland-in-brand-104.html",
+        "date": "2026-10-14T17:59:01.000Z"
+      },
+      {
+        "name": "t-online Nachrichten",
+        "url": "https://www.t-online.de/nachrichten/ausland/internationale-politik/id_101481436/westjordanland-israelische-siedler-stecken-moschee-in-brand.html",
+        "date": "2026-10-14T13:49:47.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/israelische-siedler-setzen-moschee-im-westjordanland-in-brand-104.html",
+    "agree": "Die Quellen stimmen überein, dass israelische Siedler eine Moschee im Westjordanland in Brand gesetzt haben.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "nennt den konkreten Namen des betroffenen Dorfes Michmas."
+      },
+      {
+        "name": "t-online Nachrichten",
+        "note": "berichtet, dass die Gewalt radikaler israelischer Siedler gegen Palästinenser stark zugenommen hat und Dutzende Siedler in der Nacht in ein Dorf nördlich von Jerusalem eingedrungen sind."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-b15a2e512f6d57e8",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-14T17:59:01.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Alexander Schweitzer als neuer Bundesarbeitsminister vereidigt",
+    "s": "Der neue Bundesarbeitsminister Alexander Schweitzer ist im Bundestag vereidigt worden. Damit hat er den letzten Schritt auf dem Weg zu seinem neuen Amt getan. Die Zeremonie fand im Parlament statt.",
+    "m": "Alexander Schweitzer, der der SPD angehört, hat am Mittwoch seine Vereidigung als neuer Bundesarbeitsminister im Bundestag absolviert. Dies markiert den finalen Schritt zur Übernahme seines neuen Amtes in der Bundesregierung. Die Berichterstattung beschränkt sich auf diese Amtshandlung im Parlament. Weitere Details zu Hintergründen, politischen Vorhaben oder Reaktionen gehen aus den vorliegenden Berichten nicht hervor.",
+    "r": "Die Ernennung und Vereidigung eines neuen Bundesministers ist ein zentraler Vorgang für die exekutive Führung und die Zusammensetzung der Bundesregierung.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/alexander-schweitzer-als-neuer-arbeitsminister-vereidigt-100.html",
+        "date": "2026-10-14T17:59:01.000Z"
+      },
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/alexander-schweitzer-neuer-bundesarbeitsminister-100.html",
+        "date": "2026-10-14T14:41:48.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/alexander-schweitzer-als-neuer-arbeitsminister-vereidigt-100.html",
+    "agree": "Die Quellen sind sich einig, dass Alexander Schweitzer als neuer Bundesarbeitsminister im Bundestag vereidigt wurde.",
+    "diff": [
+      {
+        "name": "SWR Aktuell",
+        "note": "Nennt die Parteizugehörigkeit (SPD) und den Wochentag (Mittwoch) der Vereidigung."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-0991974397a6eefa",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-14T17:59:01.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "US-Präsident Trump kündigt Erschließung von Rohstoffen auf Grönland an",
+    "s": "US-Präsident Trump hat angekündigt, die Öl-, Gas- und Mineralvorkommen in Grönland umfassend zu erschließen. Damit verfolgt er seine Pläne für die Insel weiter. Die Ankündigung erfolgt nach einem Abkommen mit Dänemark über eine stärkere US-Militärpräsenz.",
+    "m": "Der US-Präsident treibt seine Vorhaben bezüglich Grönland weiter voran. Nachdem zuvor bereits ein Abkommen mit Dänemark über eine verstärkte amerikanische Militärpräsenz geschlossen wurde, nimmt er nun die dortigen Ressourcen ins Visier. Konkret kündigte Trump an, sowohl Öl- und Gasvorkommen als auch Mineralvorkommen auf der arktischen Insel massiv erschließen zu wollen. Weitere Details zum zeitlichen Ablauf oder zur konkreten Umsetzung nannte der Präsident zunächst nicht. Auch Reaktionen der grönländischen oder dänischen Regierung auf diese spezifischen Rohstoffpläne gehen aus den Berichten nicht hervor. Die Maßnahme unterstreicht das strategische und wirtschaftliche Interesse der USA an der Region.",
+    "r": "Die Ankündigung betrifft die wirtschaftliche und geopolitische Strategie der USA in der Arktis. Sie knüpft an ein zuvor geschlossenes Abkommen zur Militärpräsenz mit Dänemark an.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/trump-kuendigt-massive-erschliessung-von-rohstoffen-auf-groenland-an-100.html",
+        "date": "2026-10-14T17:59:01.000Z"
+      },
+      {
+        "name": "DW Deutsch",
+        "url": "https://www.dw.com/de/trump-kündigt-erschließung-von-rohstoffen-in-grönland-an/a-79657712?maca=de-rss-de-all-1119-xml-mrss",
+        "date": "2026-10-14T10:41:00.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/trump-kuendigt-massive-erschliessung-von-rohstoffen-auf-groenland-an-100.html",
+    "agree": "Die Quellen sind sich einig, dass US-Präsident Trump die Erschließung von Rohstoffen in Grönland angekündigt hat.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Nennt konkret Mineralvorkommen als Teil der geplanten Erschließung."
+      },
+      {
+        "name": "DW Deutsch",
+        "note": "Erwähnt das vorherige Abkommen mit Dänemark über eine stärkere amerikanische Militärpräsenz."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-af05d9453132a0fc",
+    "c": "DE",
+    "o": "DE",
+    "k": "umwelt",
+    "lang": "de",
+    "d": "2026-10-14T17:47:54.000Z",
+    "p": 2,
+    "st": "SH",
+    "city": "",
+    "t": "Weitere illegal entsorgte Kanister im Kreis Segeberg entdeckt",
+    "s": "Im Kreis Segeberg wurden erneut illegal entsorgte Kanister gefunden. Einsatzkräfte sichern die Behälter vor Ort bei Heidmoor. Bislang ist unklar, ob die Behältnisse giftige Substanzen enthalten. Es handelt sich um den jüngsten Fund dieser Art in der Region.",
+    "m": "Laut Angaben der Polizei beläuft sich die Anzahl der neu entdeckten Behälter auf 100 bis 150 Kanister. Einsatzkräfte sind derzeit bei Heidmoor im Einsatz, um die Kanister zu sichern. Parallel dazu wird geprüft, ob die Fundstücke Giftstoffe beinhalten. Ob ein Zusammenhang zu vorherigen Funden besteht, ist Gegenstand der weiteren Ermittlungen. Die genaue Herkunft der Kanister und die Identität der Verantwortlichen sind zum aktuellen Zeitpunkt noch völlig unklar. Offen ist zudem, wann die Bergung und fachgerechte Entsorgung vollständig abgeschlossen sein werden.",
+    "r": "Illegale Müllentsorgung in diesem Ausmaß stellt eine potenzielle Gefahr für die Umwelt und die öffentliche Sicherheit dar. Die Häufung solcher Funde erfordert behördliche Untersuchungen zur Gefahrenabwehr und Aufklärung.",
+    "srcs": [
+      {
+        "name": "NDR Schleswig-Holstein",
+        "url": "https://www.ndr.de/fernsehen/sendungen/schleswig-holstein_magazin/kreis-segebergweitere-illegal-entsorgte-kanister-im-wald-entdeckt,shmag-14112.html",
+        "date": "2026-10-14T17:47:54.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Schleswig-Holstein",
+        "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/kreis-segeberg-erneut-illegal-entsorgte-kanister-gefunden,kanister-104.html",
+        "date": "2026-10-14T14:48:31.000Z"
+      }
+    ],
+    "url": "https://www.ndr.de/fernsehen/sendungen/schleswig-holstein_magazin/kreis-segebergweitere-illegal-entsorgte-kanister-im-wald-entdeckt,shmag-14112.html",
+    "agree": "Beide Quellen berichten über den erneuten Fund illegal entsorgter Kanister im Kreis Segeberg, bei denen noch unklar ist, ob sie Giftstoffe enthalten.",
+    "diff": [
+      {
+        "name": "NDR Schleswig-Holstein",
+        "note": "nennt die konkrete Anzahl von 100 bis 150 Kanistern."
+      },
+      {
+        "name": "Tagesschau Regional Schleswig-Holstein",
+        "note": "erwähnt den konkreten Ort Heidmoor, den aktuellen Einsatz der Kräfte vor Ort und dass es sich nicht um den ersten Fund dieser Art handelt."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-c1b0c2cd5f87bb74",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-14T17:21:26.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Bundes-Grüne geben Berliner Landesverband bei Sondierung freie Hand",
+    "s": "Nach der Unterbrechung der Sondierungsgespräche hat die Grünen-Bundesspitze betont, dass die Entscheidung für das weitere Vorgehen in Berlin liegt. Der Bundesvorsitzende Felix Banaszak teilte dies in einer Nachricht an die Parteimitglieder mit. Die Berliner Grünen erhalten damit freie Hand für die Gespräche.",
+    "m": "Die Sondierungsgespräche für eine rot-grün-rote Koalition in Berlin wurden zuvor unterbrochen. In dieser Situation hat sich die Bundespartei der Grünen klar zur Autonomie ihres Berliner Landesverbandes positioniert. Bundesvorsitzender Felix Banaszak informierte die Parteimitglieder am Mittwoch per Nachricht über diesen Schritt. Darin wird betont, dass die weiteren Entscheidungen und das Vorgehen ausschließlich auf Berliner Landesebene getroffen werden. Die Bundesspitze greift somit trotz der stockenden Gespräche nicht direkt in die Verhandlungen ein.",
+    "r": "Die Intervention der Bundespartei in den Berliner Sondierungsprozess ist politisch relevant für die Regierungsbildung in der Hauptstadt. Die Entscheidung zeigt, wie die Bundesebene mit stockenden Koalitionsgesprächen auf Landesebene umgeht.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/politik/deutschland/2026-10/koalition-berlin-gruene-spd-linke-antsemitismus-felix-banaszak",
+        "date": "2026-10-14T17:21:26.000Z"
+      },
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/news/bundes-gruene-geben-berliner-landesverband-bei-sondierung-freie-hand-38398078.html",
+        "date": "2026-10-14T17:00:30.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/politik/deutschland/2026-10/koalition-berlin-gruene-spd-linke-antsemitismus-felix-banaszak",
+    "agree": "Die Grünen-Bundesspitze hat dem Berliner Landesverband im Zuge der Sondierungen freie Hand gelassen.",
+    "diff": [
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Berichtet allgemein von der Betonung der Autonomie des Berliner Landesverbandes nach der Unterbrechung der Sondierungen mit der Linken."
+      },
+      {
+        "name": "stern",
+        "note": "Nennt die unterbrochenen rot-grün-roten Sondierungen, zitiert Bundesvorsitzenden Felix Banaszak aus einer Nachricht an Parteimitglieder von Mittwoch und verweist auf die 'Bild'-Zeitung."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-f8c47e6266f307db",
+    "c": "INT",
+    "o": "DE",
+    "k": "technik",
+    "lang": "de",
+    "d": "2026-10-14T16:38:42.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Anschlag auf geheime Starlink-Bodenstation in Bulgarien",
+    "s": "Nach einem ähnlichen Vorfall in Polen ist es nun auch in Bulgarien zu einem Brand an Starlink-Antennen gekommen. Die ukrainischen Streitkräfte setzen damit offenbar ihre gezielten Angriffe auf die Infrastruktur des Satelliteninternet-Anbieters SpaceX fort. Das betroffene Rechenzentrum in Bulgarien war den Angaben zufolge bislang geheim. SpaceX und sein Satelliteninternet spielen eine zentrale Rolle im Ukraine-Krieg.",
+    "m": "Der Raumfahrtkonzern SpaceX ist mit seinem Satelliteninternet ein essenzieller Bestandteil der militärischen Kommunikation im Ukraine-Krieg. Nach einem Vorfall in Polen wurde nun ein weiterer Brandanschlag oder Sabotageakt an Starlink-Antennen in Bulgarien bekannt. Die Ukraine führt offenbar gezielte Angriffe und Sabotageakte gegen diese Rechenzentren und Einrichtungen fort, um die gegnerische oder genutzte Infrastruktur zu stören. Die betroffene Anlage in Bulgarien operierte bis zu dem Vorfall im Geheimen. Weitere Details zum genauen Hergang, den Tätern oder dem Ausmaß der Beschädigungen an der Hardware wurden in den aktuellen Berichten zunächst nicht genannt. Der Vorfall wirft erneut Fragen zur Sicherheit und Verwundbarkeit der kommerziellen Weltrauminfrastruktur bei bewaffneten Konflikten auf.",
+    "r": "Die Sabotage von Starlink-Einrichtungen in europäischen Ländern betrifft die kritische Infrastruktur für die Kommunikation im Ukraine-Krieg. Sie verdeutlicht die Verwundbarkeit privater Satelliten- und Rechenzentrumsdienste durch asymmetrische Angriffe.",
+    "srcs": [
+      {
+        "name": "t-online Nachrichten",
+        "url": "https://www.t-online.de/nachrichten/ausland/internationale-politik/id_101477082/ukraine-krieg-anschlag-auf-starlink-bodenstation-in-bulgarien.html",
+        "date": "2026-10-14T16:38:42.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/ukrainekrieg-nach-anschlag-in-polen-auch-brand-an-starlink-antennen-in-bulgarien-a-d88a6f8d-7587-48dd-9d81-c828a256e76a#ref=rss",
+        "date": "2026-10-14T13:05:00.000Z"
+      }
+    ],
+    "url": "https://www.t-online.de/nachrichten/ausland/internationale-politik/id_101477082/ukraine-krieg-anschlag-auf-starlink-bodenstation-in-bulgarien.html",
+    "agree": "Beide Quellen berichten übereinstimmend über einen Anschlag beziehungsweise Brand an Starlink-Antennen in Bulgarien im Kontext des Ukraine-Krieges.",
+    "diff": [
+      {
+        "name": "t-online Nachrichten",
+        "note": "Erwähnt, dass die Ukraine Angriffe auf Rechenzentren fortsetzt und verweist auf einen Newsblog."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Erwähnt, dass es zuvor einen Anschlag in Polen gab und die betroffene Anlage in Bulgarien bislang geheim war."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-c3a777c65d900e7f",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-14T16:32:00.000Z",
+    "p": 2,
+    "st": "MV",
+    "city": "",
+    "t": "Kostenlose Impftermine im Landkreis Ludwigslust-Parchim",
+    "s": "Im Landkreis Ludwigslust-Parchim werden ab Mittwoch, den 21. Oktober, kostenlose Impfungen angeboten. Insgesamt sind acht Termine in sechs verschiedenen Orten geplant. Das Angebot umfasst unter anderem Impfungen gegen Grippe und Corona.",
+    "m": "Die kostenlosen Impfaktionen im Landkreis Ludwigslust-Parchim starten am 21. Oktober. Bürgerinnen und Bürger können an insgesamt acht Terminen in sechs Orten des Landkreises das Angebot wahrnehmen. Geimpft wird dabei unter anderem gegen die Viruserkrankungen Corona und Grippe. Weitere Details zu genauen Standorten und Uhrzeiten wurden in den Meldungen zunächst nicht genannt. Die Aktion soll einen einfachen Zugang zu wichtigen Schutzimpfungen ermöglichen. Offen bleibt, ob eine vorherige Anmeldung erforderlich ist oder ob Impfwillige ohne Termin erscheinen können.",
+    "r": "Die Bereitstellung kostenloser Impfungen ist für die lokale Gesundheitsvorsorge von Bedeutung, da sie den Schutz vor Grippe und Corona direkt vor Ort unterstützen soll. Das Angebot betrifft konkret die Bevölkerung im Landkreis Ludwigslust-Parchim.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Mecklenburg-Vorpommern",
+        "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/kostenlos-impfen-termine-im-landkreis-ludwigslust-parchim,mvregioschwerin-6088.html",
+        "date": "2026-10-14T16:32:00.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONHNKS3ZHeHRfcGJJWk4xNGtRaEsyV29aRG9IM1k3dlEtZUJuckJMaXRySF9wWjB1bDNyUFVQNm11SmZLcnFwamNtYTJwbjhFOVlsWm0yUS1ZSE50SzB1UUtrTG9Fejdta2NXRFhNRkVJS2RLa1dqSUNfcDdqZEI0VnZhMkJnYjdlcTZLVFEtaldTbG1uQ2xzRy1iRWs1TTVDYUN6Q2FaLXRjMG4yTHZQQkdJY3lWX2dUeHZlcGlVVFlFcGg2Vm15ZXAyZUthSWthczJOVm1DNkg3QXdaQWk3SG9lS2c4QU82?oc=5",
+        "date": "2026-10-14T14:24:56.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/kostenlos-impfen-termine-im-landkreis-ludwigslust-parchim,mvregioschwerin-6088.html",
+    "agree": "Die Quellen stimmen überein, dass im Landkreis Ludwigslust-Parchim ab dem 21. Oktober kostenlose Impftermine für Corona und Grippe an acht Terminen in sechs Orten angeboten werden.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Verweist lediglich auf den NDR.de-Artikel, enthält keine eigenen zusätzlichen Informationen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-b1857d022fb204bb",
+    "c": "INT",
+    "o": "DE",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-14T16:18:15.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Tennis-Turnier Six Kings Slam mit Zverev nach Angriffen verschoben",
+    "s": "Das hochkarätig besetzte Tennis-Turnier Six Kings Slam mit deutscher Beteiligung von Alexander Zverev muss verschoben werden. Grund für die Entscheidung sind tödliche Angriffe, die sich in Saudi-Arabien ereignet haben. Die Verschiebung des Events stellt die teilnehmenden Spieler vor erhebliche Termin-Schwierigkeiten in ihrem ohnehin engen Wettkampfkalender.",
+    "m": "Das geplante Tennis-Turnier namens Six Kings Slam, an dem unter anderem der deutsche Topspieler Alexander Zverev teilnehmen sollte, wurde aufgrund von tödlichen Angriffen in Saudi-Arabien verlegt. Durch die kurzfristige Planänderung geraten die beteiligten Sportler in nennenswerte Termin-Schwierigkeiten bei der Koordination ihrer weiteren Saison. Offizielle Angaben zum genauen Hergang der Angriffe, den Opfern oder den genauen Hintergründen gehen aus den vorliegenden Berichten nicht hervor. Auch ein neuer Ersatztermin für das Turnier wurde bisher nicht kommuniziert. Die Absage verdeutlicht jedoch, wie globale Sicherheitslagen und lokale Vorkommnisse den internationalen Sportkalender direkt beeinflussen können.",
+    "r": "Die Verschiebung eines bedeutenden internationalen Tennisturniers betrifft direkt die Planung und den Turnierkalender von Spitzensportlern wie Alexander Zverev. Zudem zeigt der Vorfall, wie sicherheitsrelevante Ereignisse in Austragungsländern den Profisport unmittelbar beeinflussen.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORlR2ZmFQenhHbWJpUzlXTGlQMXRiZzJxTDllbWJVck9rR0pLOFhSb2JhdGZ0VzRVdlJPR3BTVGV2bmlETFozQWI1eFRYYTNtNUpmS1pCRW1fTUY4Nk1hMER6VVVEaUdCWGhwaWY3bVYyeWRTVXJ3SUJ2Rllya0V3OW00NkUzRzlhX0RmUTdwSDZrdE1xMHFLdThPTVI0LW5Xc1RzYlFTY1M4SVpLMWZLa1F5TjVzT0ppUGxXbDgwbmJMRFhGVUxnWEppZXVNdw?oc=5",
+        "date": "2026-10-14T16:18:15.000Z"
+      },
+      {
+        "name": "t-online Sport",
+        "url": "https://www.t-online.de/sport/mehr-sport/tennis/id_101481666/-six-kings-slam-tennis-turnier-mit-zverev-nach-angriffen-verschoben.html",
+        "date": "2026-10-14T16:18:15.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORlR2ZmFQenhHbWJpUzlXTGlQMXRiZzJxTDllbWJVck9rR0pLOFhSb2JhdGZ0VzRVdlJPR3BTVGV2bmlETFozQWI1eFRYYTNtNUpmS1pCRW1fTUY4Nk1hMER6VVVEaUdCWGhwaWY3bVYyeWRTVXJ3SUJ2Rllya0V3OW00NkUzRzlhX0RmUTdwSDZrdE1xMHFLdThPTVI0LW5Xc1RzYlFTY1M4SVpLMWZLa1F5TjVzT0ppUGxXbDgwbmJMRFhGVUxnWEppZXVNdw?oc=5",
+    "agree": "Beide Quellen stimmen darin überein, dass das Tennis-Turnier Six Kings Slam mit Alexander Zverev aufgrund von Angriffen in Saudi-Arabien verschoben werden musste und dies zu Termin-Schwierigkeiten für die Spieler führt.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Erwähnt zusätzlich die Plattform T-Online als Berichterstatter und liefert einen RSS-Link zum Artikel."
+      },
+      {
+        "name": "t-online Sport",
+        "note": "Liefert die direkten Details über die tödlichen Angriffe in Saudi-Arabien als Grund für die Turnierverschiebung."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-26d6906ab8e1e9d3",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-14T15:47:50.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Nord-Stream-Sprengung: Anklage wirft Ukrainer Kriegsverbrechen vor",
+    "s": "Im Zusammenhang mit der Sprengung der Nord-Stream-Pipelines steht ein ukrainischer Staatsbürger in Hamburg vor Gericht. Er wurde zuvor in Italien festgenommen. Die Anklage wirft ihm vor, die Sabotage im Jahr 2022 geleitet zu haben.",
+    "m": "Der Beschuldigte Serhij K. soll die Sprengung der Nord-Stream-Pipelines im Auftrag staatlicher ukrainischer Stellen im Jahr 2022 geleitet haben. Nach seiner Festnahme im Urlaub in Italien wurde er nach Deutschland überstellt und muss sich nun vor einem Gericht in Hamburg verantworten. Seine Verteidigung kritisiert die juristischen Schritte scharf und spricht von einem unfairen Verfahren. Die Ermittlungen zu den Hintergründen der Pipeline-Sabotage und den beteiligten Akteuren dauern an, wobei offene Fragen zur genauen Befehlskette im Raum stehen.",
+    "r": "Die juristische Aufarbeitung der Nord-Stream-Sprengung betrifft die internationale Sicherheit und die Aufklärung eines beispiellosen Anschlags auf kritische Infrastruktur. Die Vorwürfe gegen einen ukrainischen Staatsbürger beleuchten mögliche staatliche Verwicklungen.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSFZaazNJWklsV0hIc1VDVHZCNGFyUTB1M0lwVWRMVm8zTXVWX0lpTFVzWWs4bElkVUFHXzJ1dGcydmFRZTR1UE9pVDQybTl4Q2NGblZDSkNJeG4wcm5hQ2FqbDMyTnBqZS1ZUUNKY25vMmplWTRMWE9hMTJJdEFidEY2XzNFczJvbzRHY1B0WHZnclozclNGazN4UlhhRW1m?oc=5",
+        "date": "2026-10-14T15:47:50.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/politik/Nord-Stream-Anklage-wirft-Ukrainer-Kriegsverbrechen-vor-id31418353.html",
+        "date": "2026-10-14T15:47:50.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSFZaazNJWklsV0hIc1VDVHZCNGFyUTB1M0lwVWRMVm8zTXVWX0lpTFVzWWs4bElkVUFHXzJ1dGcydmFRZTR1UE9pVDQybTl4Q2NGblZDSkNJeG4wcm5hQ2FqbDMyTnBqZS1ZUUNKY25vMmplWTRMWE9hMTJJdEFidEY2XzNFczJvbzRHY1B0WHZnclozclNGazN4UlhhRW1m?oc=5",
+    "agree": "Die Quellen sind sich einig, dass ein Ukrainer im Zusammenhang mit der Sprengung der Nord-Stream-Pipelines vor Gericht steht.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Bringt keine inhaltlichen Abweichungen, sondern verweist auf denselben n-tv-Artikel."
+      },
+      {
+        "name": "ntv",
+        "note": "Nennt den Namen des Beschuldigten (Serhij K.), den Ort der Festnahme (Italien), den Verhandlungsort (Hamburg), das Tatjahr (2022) sowie die Kritik der Verteidigung an einem unfairen Verfahren."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-4e2ae52ad01d9c93",
+    "c": "INT",
+    "o": "DE",
+    "k": "technik",
+    "lang": "de",
+    "d": "2026-10-14T15:43:08.000Z",
+    "p": 3,
+    "st": "NI",
+    "city": "",
+    "t": "Cyberangriff auf Baustelle des Fehmarnbelt-Tunnels",
+    "s": "Das Baukonsortium des Fehmarnbelt-Tunnels ist Opfer eines Cyberangriffs geworden. Bei dem großen europäischen Infrastrukturprojekt hat der Angriff zu massiven Einschränkungen auf der Baustelle geführt. Das genaue Ausmaß des Schadens und der Vorfall sind derzeit noch Gegenstand von Untersuchungen. Die beteiligten Stellen arbeiten an der Aufklärung.",
+    "m": "Ein Cyberangriff hat die dänische Baustelle des Fehmarnbelttunnels lahmgelegt, wodurch bei einem der größten Infrastrukturprojekte Europas nahezu nichts mehr geht. Betroffen ist das Baukonsortium, das für die Bauarbeiten an dem Tunnel verantwortlich ist. Bisher ist das genaue Ausmaß des Angriffs unklar, doch die Auswirkungen auf die Arbeiten vor Ort sind gravierend. Der Vorfall wirft Fragen zur IT-Sicherheit bei bedeutenden grenzüberschreitenden Infrastrukturprojekten auf. Weitere Details zum Ursprung der Hacker, möglichen Lösegeldforderungen oder dem konkreten Zeitpunkt des Eindringens in die Systeme wurden zunächst nicht bekannt gegeben. Die zuständigen Behörden und Technikteams sind im Einsatz, um die betroffenen Systeme zu überprüfen und den Betrieb schrittweise wiederherzustellen. Offen ist bislang auch, wie lange die Beeinträchtigungen anhalten werden.",
+    "r": "Der Cyberangriff auf ein europäisches Großprojekt verdeutlicht die Anfälligkeit kritischer Infrastrukturen für Sabotage und Erpressung. Die Störung der Bauarbeiten kann zudem den Zeitplan des milliardenschweren Tunnelprojekts beeinflussen.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Niedersachsen",
+        "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/cyberangriff-auf-fehmarnbelt-tunnel-was-bisher-bekannt-ist,hackerangriff-150.html",
+        "date": "2026-10-14T15:43:08.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/panorama/cyberangriff-auf-die-fehmarnbelt-tunnel-baustelle-was-bisher-ueber-den-hackerangriff-bekannt-ist-F3T4SZXUNZAIDGUMJR2HIMXTDA.html",
+        "date": "2026-10-14T14:25:22.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/cyberangriff-auf-fehmarnbelt-tunnel-was-bisher-bekannt-ist,hackerangriff-150.html",
+    "agree": "Beide Quellen stimmen darin überein, dass das Baukonsortium des Fehmarnbelt-Tunnels Opfer eines Cyberangriffs geworden ist.",
+    "diff": [
+      {
+        "name": "Tagesschau Regional Niedersachsen",
+        "note": "Erwähnt, dass das Ausmaß des Angriffs noch unklar ist."
+      },
+      {
+        "name": "RND",
+        "note": "Beschreibt das Projekt als eines der größten Infrastrukturprojekte Europas und berichtet, dass der Angriff die dänische Baustelle lahmgelegt hat und dort fast nichts mehr geht."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-dc15e04e422299f7",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-14T15:32:58.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Gefangener nach bewaffnetem Überfall bei Arztbesuch in Essen auf der Flucht",
+    "s": "In Essen haben zwei unbekannte Männer während eines Arztbesuches einem Häftling zur Flucht verholfen. Die Täter und der Gefangene sind gemeinsam flüchtig. Die Polizei hat einen Großeinsatz eingeleitet und die Bevölkerung vor möglichen Waffen gewarnt.",
+    "m": "Der Vorfall ereignete sich während eines medizinischen Termins eines Häftlings in Essen. Zwei vermummte Täter überwältigten dabei die JVA-Beamten und ermöglichten dem Gefangenen die Flucht. Zusammen mit den Angreifern flüchtete die Person in unbekannte Richtung. Die Polizei fahndet mit einem Großaufgebot nach den drei Männern. Da die Täter möglicherweise bewaffnet sind, rät die Polizei zur Vorsicht und warnt die Bevölkerung. Die genauen Hintergründe der Tat und die Identität des Häftlings werden derzeit ermittelt.",
+    "r": "Ein gewaltsamer Ausbruch aus der Haft während eines externen Termins mit Unterstützung von Komplizen stellt eine akute Bedrohung der öffentlichen Sicherheit dar. Der laufende Großeinsatz und die Warnung der Polizei verdeutlichen das Gefahrenpotential für die Bevölkerung in Essen.",
+    "srcs": [
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/vermischtes/video6acfa0208793815072940b7c/justizbeamte-gefesselt-vermummte-angreifer-befreien-haeftling-waehrend-arztbesuchs-polizei-warnt-bevoelkerung.html",
+        "date": "2026-10-14T15:32:58.000Z"
+      },
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/flucht-haeftling-essen-100.html",
+        "date": "2026-10-14T14:40:00.000Z"
+      }
+    ],
+    "url": "https://www.welt.de/vermischtes/video6acfa0208793815072940b7c/justizbeamte-gefesselt-vermummte-angreifer-befreien-haeftling-waehrend-arztbesuchs-polizei-warnt-bevoelkerung.html",
+    "agree": "Die Quellen stimmen überein, dass ein Häftling während eines Arztbesuchs in Essen mit Hilfe von zwei Männern geflohen ist und die Polizei vor einer möglichen Bewaffnung warnt.",
+    "diff": [
+      {
+        "name": "WELT",
+        "note": "Berichtet, dass die Angreifer vermummt waren."
+      },
+      {
+        "name": "Tagesschau",
+        "note": "Erwähnt, dass JVA-Beamte überwältigt wurden und sich die Polizei in einem Großeinsatz befindet."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-fa3fedd26408946b",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-14T14:39:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Häftling flieht in Essen bei Arztbesuch mit Hilfe von Komplizen",
+    "s": "Ein 34-jähriger Häftling ist in Essen während eines Arztbesuchs geflohen. Dabei wurde er offenbar von mehreren Männern unterstützt. Die Polizei hat eine Warnung herausgegeben und fahndet nach den Fliehenden.",
+    "m": "Der Vorfall ereignete sich in einer Essener Praxis, die der 34-jährige Insasse für einen Arztbesuch aufgesucht hatte. Vor Ort überwältigten Männer die anwesenden Justizbeamten und verhalfen dem Häftling so zur Flucht. Die genauen Hintergründe und der Ablauf der Tat werden derzeit ermittelt. Die Polizei hat die Bevölkerung vor den Flüchtigen gewarnt und weist darauf hin, dass die Männer möglicherweise bewaffnet sind. Eine groß angelegte Fahndung nach den Beteiligten wurde eingeleitet.",
+    "r": "Die Meldung ist relevant, da es sich um eine gewaltsame Befreiung eines Häftlings aus dem Gewahrsam handelt. Zudem stellt die mögliche Bewaffnung der Flüchtigen eine akute Gefahr für die öffentliche Sicherheit dar.",
+    "srcs": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/essen-maenner-verhelfen-haeftling-zur-flucht-201318133.html",
+        "date": "2026-10-14T14:39:00.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/panorama/justiz/essen-maenner-verhelfen-haeftling-bei-arztbesuch-zur-flucht-polizei-warnt-bevoelkerung-a-a7a0b89f-bb08-403d-ac66-490637543df6#ref=rss",
+        "date": "2026-10-14T13:13:00.000Z"
+      }
+    ],
+    "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/essen-maenner-verhelfen-haeftling-zur-flucht-201318133.html",
+    "agree": "Die Quellen stimmen überein, dass ein Häftling bei einem Arztbesuch in Essen mit Hilfe von Männern geflohen ist und die Polizei vor einer möglichen Bewaffnung warnt.",
+    "diff": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "note": "Berichtet konkret, dass es sich um einen 34 Jahre alten Häftling handelt und die Männer Justizbeamte überwältigten."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Erwähnt, dass der Arztbesuch in einer Praxis stattfand."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-abe3d02535d4a99c",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-14T14:30:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Papst Leo erholt sich nach Lungen-Operation",
+    "s": "Nach einer Lungen-Operation erholt sich Papst Leo wie geplant von dem Eingriff. Seinen Ärzten zufolge sind die Blutwerte nach der Operation normal. Der Papst kann bereits wieder essen und durch sein Zimmer laufen.",
+    "m": "Papst Leo hat sich nach einem operativen Eingriff an der Lunge stabilisiert und befindet sich im planmäßigen Genesungsprozess. Die behandelnden Ärzte gaben bekannt, dass die Blutwerte des Kirchenoberhaupts nach der Operation unauffällig geblieben sind. Zudem zeigt der Genesungsverlauf positive motorische und physiologische Fortschritte, da der Papst bereits wieder Nahrung zu sich nimmt und sich selbstständig in seinem Zimmer bewegen kann. Nähere Details zur Dauer des stationären Aufenthalts oder zum genauen Zeitpunkt der Entlassung wurden zunächst nicht genannt. Der Eingriff und die darauffolgende Erholung stehen im Zentrum der aktuellen medizinischen Beobachtung. Die medizinischen Berichte zeichnen ein zuversichtliches Bild des gesundheitlichen Zustands.",
+    "r": "Die Meldung ist relevant, da der Gesundheitszustand des Papstes weltweite Beachtung findet und medizinische Updates zu einem operativen Eingriff an der Lunge Auskunft über seine Dienstfähigkeit geben.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOHlhbVJ4LTl3ZVpuRjlKRXU0dlRHTDZaOEU1dFpTcks0SmlDd0dJXzRRcnN1WS1YdTN1MjB4Z052MTZRTXEtdV9qU1hUb0M0NTZYeDVMa2J5bFpyVEdacEVtaS1SUTExUGxXTHlna3hpbV9ZUExQQXQyMkZpQnIyMWpUbzhOQndpYTZkTTRxYVlHTm90UF9oWWl6SWN2aHp2REJGM0NPUklOVmZVdUtGc2pqZw?oc=5",
+        "date": "2026-10-14T14:30:00.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/papst-leo-werte-nach-lungen-op-unauffaellig-a-d5ceec28-b966-47ac-bf1f-9fb7d33dda6d#ref=rss",
+        "date": "2026-10-14T14:30:00.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOHlhbVJ4LTl3ZVpuRjlKRXU0dlRHTDZaOEU1dFpTcks0SmlDd0dJXzRRcnN1WS1YdTN1MjB4Z052MTZRTXEtdV9qU1hUb0M0NTZYeDVMa2J5bFpyVEdacEVtaS1SUTExUGxXTHlna3hpbV9ZUExQQXQyMkZpQnIyMWpUbzhOQndpYTZkTTRxYVlHTm90UF9oWWl6SWN2aHp2REJGM0NPUklOVmZVdUtGc2pqZw?oc=5",
+    "agree": "Die Quellen sind sich einig, dass sich Papst Leo nach einer Lungen-Operation erholt und seine Werte unauffällig sind.",
+    "diff": [
+      {
+        "name": "DER SPIEGEL",
+        "note": "Berichtet ergänzend, dass der Papst bereits isst und durch sein Zimmer läuft."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-1613671288241eab",
+    "c": "INT",
+    "o": "PT",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-14T14:19:48.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Maria Martins gewinnt Bronze bei Bahnrad-WM in Xangai",
+    "s": "Die portugiesische Radsportlerin Maria Martins hat bei den Bahnrad-Weltmeisterschaften im chinesischen Xangai eine Medaille gewonnen. Sie sicherte sich die Bronzemedaille in einer Disziplin. Die Welttitelkämpfe hatten am Mittwoch begonnen. Der Erfolg stellt einen bedeutenden Auftakt für die Athletin dar.",
+    "m": "Bei den Bahnrad-Weltmeisterschaften im chinesischen Xangai, die an diesem Mittwoch begonnen haben, konnte Maria Martins die Bronzemedaille erringen. Die genaue Disziplin wurde in den vorliegenden Berichten zunächst nicht näher spezifiziert. Um 12:30 Uhr wurde der Medaillengewinn der Sportlerin offiziell gemeldet. Die Wettkämpfe in China versprechen in den kommenden Tagen weitere spannende Entscheidungen im internationalen Radsport. Es bleibt abzuwarten, ob die Athletin in weiteren Rennen an den Start gehen wird. Details zur Konkurrenz und zum Rennverlauf stehen noch aus.",
+    "r": "Der Medaillengewinn bei Weltmeisterschaften ist ein herausragender Erfolg im internationalen Radsport. Die Veranstaltung in Xangai markiert den Beginn der diesjährigen Titelkämpfe auf der Bahn.",
+    "srcs": [
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/desporto/maria-martins-conquista-medalha-de-bronze_v1771638",
+        "date": "2026-10-14T14:19:48.000Z"
+      },
+      {
+        "name": "RTP Desporto",
+        "url": "https://www.rtp.pt/noticias/noticiario-desporto/12h30-maria-martins-bronze-nos-mundiais-de-ciclismo-de-pista_a1_1771616",
+        "date": "2026-10-14T13:08:02.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/desporto/maria-martins-conquista-medalha-de-bronze_v1771638",
+    "agree": "Beide Quellen stimmen überein, dass Maria Martins bei den Bahnrad-Weltmeisterschaften in Xangai eine Bronzemedaille gewonnen hat.",
+    "diff": [
+      {
+        "name": "RTP Notícias",
+        "note": "Berichtet, dass die Weltmeisterschaften am Mittwoch in Xangai arrancaram (begonnen haben)."
+      },
+      {
+        "name": "RTP Desporto",
+        "note": "Nennt die konkrete Uhrzeit 12:30 Uhr für die Meldung des Medaillengewinns."
+      }
+    ],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-a1ede0363fda998f",
+    "c": "INT",
+    "o": "PT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-14T14:10:47.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Neues Programm für bezahlbares Wohnen in Portugal gestartet",
+    "s": "Ein neues Programm für bezahlbaren Wohnraum ist in Kraft getreten. Die Berechnung der Miete erfolgt abhängig von der Wohnungsgröße und der jeweiligen Gemeinde. Das System soll den Zugang zu bezahlbarem Wohnen erleichtern.",
+    "m": "Das neue Modell für bezahlbaren Wohnraum ist offiziell in Kraft getreten. Die Mietpreise werden individuell auf Basis der Wohnungstypologie und des geografischen Standorts beziehungsweise des Landkreises ermittelt. Laut den vorliegenden Berichten ist unter anderem von einer Obergrenze oder einem Richtwert für bestimmte Wohnungstypen wie T0-Wohnungen die Rede. Weitere Details zur genauen Umsetzung, den Antragsverfahren und den berechtigten Zielgruppen gehen aus den aktuellen Meldungen nicht hervor.",
+    "r": "Die Einführung neuer Regelungen für bezahlbaren Wohnraum ist für die Wohnungspolitik und den Mietmarkt relevant. Sie betrifft direkt Mieter auf der Suche nach bezahlbaren Unterkünften in verschiedenen Regionen.",
+    "srcs": [
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/pais/novo-arrendamento-acessivel-ja-em-vigor_v1771636",
+        "date": "2026-10-14T14:10:47.000Z"
+      },
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTEFFa0pSbWRmTkFVaUhjRkRpRUJsWG1iSWQwT2tLUG1SS2VsLUtpeWRuUVhiQ2drTlFLMk5RZlhrUmxHWHJ1aXJzOVFCdkd3d2xseEJ2Y2FHSk54RjNIV1FodDdiZXZNYXJQWXdZMDBreFRlZkRsZDF1N1NRVnNKX1JqSlg4TU9M?oc=5",
+        "date": "2026-10-14T13:24:10.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/pais/novo-arrendamento-acessivel-ja-em-vigor_v1771636",
+    "agree": "Beide Quellen stimmen überein, dass ein neues Programm für bezahlbaren Wohnraum bereits in Kraft getreten ist.",
+    "diff": [
+      {
+        "name": "RTP Notícias",
+        "note": "Erwähnt, dass der Mietwert auf Basis der Wohnhaustypologie und des Landkreises berechnet wird."
+      },
+      {
+        "name": "Google News Portugal",
+        "note": "Nennt ergänzend ein konkretes Beispiel für eine T0-Wohnung mit einem Wert von 785 Euro."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-a927b8f53710c14c",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-14T10:32:00.000Z",
+    "p": 2,
+    "st": "SL",
+    "city": "",
+    "t": "Stromausfall führt Polizei zu Cannabis-Plantage im Kreis Kusel",
+    "s": "In der Ortsgemeinde Altenglan im Kreis Kusel hat ein Stromausfall in einem unbewohnten Haus zufällig eine Cannabis-Plantage aufgedeckt. Die Polizei nahm die professionelle Drogen-Plantage vor Ort in Augenschein. Bislang ist völlig unklar, wer die Anlage betrieben hat und hinter den illegalen Machenschaften steckt.",
+    "m": "Durch einen unerwarteten Stromausfall geriet ein an sich unbewohntes beziehungsweise leerstehendes Gebäude in der Verbandsgemeinde Kusel-Altenglan ins Visier, was letztlich zum Fund der Plantage führte. Die saarländische beziehungsweise rheinland-pfälzische Grenzregion war Schauplatz dieses Einsatzes, da Altenglan rund 20 Kilometer hinter der saarländischen Grenze liegt. Die Beamten stießen im Inneren des Hauses auf eine professionelle und riesige Anlage zur Aufzucht von Cannabis. Die Ermittlungen der zuständigen Polizeidienststellen dauern an, wobei konkrete Tatverdächtige oder Festnahmen bislang nicht kommuniziert wurden. Auch die genaue Anzahl der sichergestellten Pflanzen und der potenzielle Marktwert der Drogen wurden in den Berichten noch nicht beziffert.",
+    "r": "Der Fund einer professionellen Cannabis-Plantage durch einen Zufall wie einen Stromausfall ist ein ungewöhnlicher Vorfall für die Kriminalitätsbekämpfung in der Region. Die Aufdeckung verdeutlicht, wie unvorhergesehene technische Defekte illegale Machenschaften in leerstehenden Immobilien enttarnen können.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Saarland",
+        "url": "https://www.tagesschau.de/inland/regional/saarland/sr-stromausfall-fuehrt-polizei-zu-riesiger-cannabis-plantage-102.html",
+        "date": "2026-10-14T10:32:00.000Z"
+      },
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/kaiserslautern/drogenplantage-durch-stromausfalle-zufaellig-aufgeflogen-kusel-altenglan-100.html",
+        "date": "2026-10-14T09:24:24.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/saarland/sr-stromausfall-fuehrt-polizei-zu-riesiger-cannabis-plantage-102.html",
+    "agree": "Beide Quellen berichten übereinstimmend, dass ein Stromausfall in einem unbewohnten Haus in Altenglan (Kreis Kusel) die Polizei zu einer Cannabis-Plantage geführt hat.",
+    "diff": [
+      {
+        "name": "Tagesschau Regional Saarland",
+        "note": "Erwähnt, dass der Fund in einer 'riesigen' Plantage bestand und die Ortschaft rund 20 Kilometer hinter der saarländischen Grenze liegt."
+      },
+      {
+        "name": "SWR Aktuell",
+        "note": "Beschreibt die Plantage als 'professionell' und verortet sie in einem 'leerstehenden Haus' in der Verbandsgemeinde Kusel-Altenglan."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-8d0b2417133c5dae",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-14T09:44:37.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Bundesregierung einigt sich bei Zuckersteuer auf Zwei-Stufen-Modell",
+    "s": "Das Bundeskabinett hat einen Gesetzesentwurf für eine neue Zuckersteuer auf den Weg gebracht. Die Einigung folgt auf vorherige Absprachen zwischen Union und SPD.",
+    "m": "Ab dem 1. Juli 2027 soll ein Zwei-Stufen-Modell für zuckerhaltige Produkte gelten, dessen konkrete Ausgestaltung vom jeweiligen Zuckeranteil abhängt. Weitere Details zu den genauen Steuersätzen und betroffenen Produktkategorien wurden im Rahmen der Kabinettsentscheidung zunächst nicht bekannt gegeben. Der Entwurf markiert den nächsten Schritt im Gesetzgebungsverfahren nach der koalitionären Einigung.",
+    "r": "Die Einführung einer Zuckersteuer ist gesundheitspolitisch und wirtschaftlich relevant für Hersteller und Verbraucher. Der Beschluss des Kabinetts treibt das Gesetzgebungsverfahren voran.",
+    "srcs": [
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-bundesregierung-einigung-100.html",
+        "date": "2026-10-14T09:44:37.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQemY2QXdZVEljb0NWeHE2eWJOMkk1SW9sWHAwVkJOXzVzTmRaei1PWlFsMTFsdHdHRXNsaWVYdDhqRXF3azRoR253T0ZoeGIzQzE4eERVeWNrbzh4bEVuek00Z29CR2JZcUdEWEI2YVo0dUxPbFE2NHZxd0xzYml2QWltYXRGaHpIYkxwNVJ0N3lveFIzOXJv?oc=5",
+        "date": "2026-10-14T09:44:00.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-bundesregierung-einigung-100.html",
+    "agree": "Beide Quellen berichten übereinstimmend über die Einigung der Bundesregierung beziehungsweise der Koalition auf eine Zuckersteuer nach einem Zwei-Stufen-Modell.",
+    "diff": [
+      {
+        "name": "Tagesschau",
+        "note": "nennt das konkrete Datum des Inkrafttretens zum 1. Juli 2027 und erwähnt die vorherige Einigung von Union und SPD."
+      },
+      {
+        "name": "Google News DE",
+        "note": "verweist knapp auf die Einigung in der Koalition."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-5adf762bc4e80f92",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-14T08:55:10.000Z",
+    "p": 2,
+    "st": "RP",
+    "city": "",
+    "t": "Weinjahrgang 2026 in der Pfalz trotz Hitze und Trockenheit gut",
+    "s": "Der Weinjahrgang 2026 in der Pfalz trotzt extremer Hitze und Trockenheit mit einer guten Ernte. Die Quellen bewerten den Jahrgang als verrückt und betonen die historische Hitze. Gleichzeitig wird hervorgehoben, dass Wasser für die Zukunft des Weinbaus unerlässlich ist.",
+    "m": "Die Pfalz blickt auf einen extremen Weinjahrgang im Jahr 2026 zurück, der von nie dagewesener Hitze und Trockenheit geprägt war. Entgegen den schwierigen Wetterbedingungen fällt das Gesamtergebnis der Ernte überraschend gut aus. Experten und Berichte weisen jedoch darauf hin, dass dieser Erfolg trügen kann. Langfristig hat der Weinbau in der Region ohne eine gesicherte Wasserversorgung keine Zukunft. Die genauen Umstände der Bewässerung und konkrete Erntemengen bleiben in den Berichten offen.",
+    "r": "Die Meldung ist relevant, da sie die Auswirkungen extremer Wetterbedingungen auf einen bedeutenden regionalen Wirtschaftszweig aufzeigt. Zudem verdeutlicht sie die fundamentale Bedeutung der Ressource Wasser für die zukünftige Landwirtschaft.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell Rheinland-Pfalz",
+        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/ludwigshafen/so-geht-es-der-weinbranche-in-der-pfalz-weinjahrgang-2026-100.html",
+        "date": "2026-10-14T08:55:10.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Rheinland-Pfalz",
+        "url": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-weinjahrgang-2026-das-wasser-macht-den-unterschied-100.html",
+        "date": "2026-10-14T05:00:58.000Z"
+      }
+    ],
+    "url": "https://www.swr.de/swraktuell/rheinland-pfalz/ludwigshafen/so-geht-es-der-weinbranche-in-der-pfalz-weinjahrgang-2026-100.html",
+    "agree": "Beide Quellen stimmen überein, dass der Weinjahrgang 2026 in der Pfalz trotz extremer und nie dagewesener Hitze und Trockenheit eine gute Ernte hervorbringt und Wasser die Zukunftsgrundlage des Weins bildet.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-d353f3714d648ac8",
+    "c": "INT",
+    "o": "INT",
+    "k": "wissenschaft",
+    "lang": "de",
+    "d": "2026-10-14T08:22:48.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Ältestes Schiffswrack der Welt vor der Küste der Türkei entdeckt",
+    "s": "Archäologen haben vor der türkischen Mittelmeerküste das nach eigenen Angaben weltweit älteste Schiffswrack entdeckt. Das Wrack stammt aus der Frühbronzezeit und wird auf ein Alter von rund 4.400 bis 4.700 Jahren geschätzt. Die Entdeckung gelang in der Nähe der Insel Kekova im Süden des Landes.",
+    "m": "Das historische Schiffswrack wurde vor der südtürkischen Mittelmeerküste nahe der Insel Kekova lokalisiert. Laut Angaben von Archäologen datiert der Fund in die Frühbronzezeit und weist ein geschätztes Alter zwischen 4.400 und 4.700 Jahren auf. Das Schiff hatte einst Keramiklagergefäße und Steinanker geladen, die es über das Mittelmeer transportierte. Dieser Fund gilt als das älteste bekannte Schiffswrack weltweit. Genauere Details zur Bergung oder zur genauen Schiffskonstruktion wurden in den vorliegenden Berichten zunächst nicht genannt. Die Entdeckung wirft ein neues Licht auf die maritime Geschichte und den Seehandel in der Frühbronzezeit im östlichen Mittelmeerraum. Offen ist bislang, welche weiteren Artefakte sich an der Fundstelle befinden und wie die genauen Umstände des Untergangs waren.",
+    "r": "Der Fund des ältesten bekannten Schiffswracks liefert wichtige archäologische Erkenntnisse über den prähistorischen Seehandel im Mittelmeerraum. Durch die genaue Datierung in die Frühbronzezeit erweitert der Fund das historische Wissen über maritime Aktivitäten dieser Epoche erheblich.",
+    "srcs": [
+      {
+        "name": "Euronews",
+        "url": "https://www.euronews.com/2026/10/14/worlds-oldest-shipwreck-discovered-off-turkeys-mediterranean-coast",
+        "date": "2026-10-14T08:22:48.000Z"
+      },
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-14T05:00:35.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PcjhBeFpSOHdzZWRrdll4QkxDU2tjejNVLWt1ektxd3NpMkg0enp1aDVOM0JMZzR3LUptd2JGQURUdjI3VDRBaURwa3d2RDdnNmVpTzlJSGsyd3M?oc=5",
+        "date": "2026-10-14T05:00:35.000Z"
+      }
+    ],
+    "url": "https://www.euronews.com/2026/10/14/worlds-oldest-shipwreck-discovered-off-turkeys-mediterranean-coast",
+    "agree": "Die Quellen stimmen überein, dass das weltweit älteste Schiffswrack vor der Küste der Türkei entdeckt wurde.",
+    "diff": [
+      {
+        "name": "Euronews",
+        "note": "Berichtet zusätzlich, dass das Schiff Keramiklagergefäße und Steinanker geladen hatte und der Fund vor der Insel Kekova im Süden der Türkei gemacht wurde."
+      },
+      {
+        "name": "BBC World",
+        "note": "Gibt an, dass das Wrack spezifisch in die Frühbronzezeit datiert wird."
+      },
+      {
+        "name": "Google News World",
+        "note": "Verweist lediglich auf die Berichterstattung der BBC über das Wrack vor Kekova."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
     "id": "story-aeb397853084ee3c",
     "c": "DE",
     "o": "DE",
@@ -310,6 +1118,43 @@
     "independent": 2
   },
   {
+    "id": "story-5543e7fdcb749e44",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-14T06:29:05.000Z",
+    "p": 3,
+    "st": "MV",
+    "city": "",
+    "t": "CDU fordert Entschuldigung von Manuela Schwesig nach Rücktritt von Bärbel Bas",
+    "s": "Nach dem Rücktritt von Bärbel Bas gerät Mecklenburg-Vorpommerns Ministerpräsidentin Manuela Schwesig in die Kritik. Mehrere Unionspolitiker fordern eine Entschuldigung von der SPD-Politikerin für deren geäußerte Vorwürfe. Auch der Bundeskanzler hat die Kritik von Schwesig bereits zurückgewiesen.",
+    "m": "Der Rücktritt von Bärbel Bas hat eine politische Debatte ausgelöst, in deren Zentrum Mecklenburg-Vorpommerns Ministerpräsidentin Manuela Schwesig steht. Mehrere Politiker der Union zeigen sich verärgert über die von Schwesig geäußerten Vorwürfe im Zusammenhang mit den Ereignissen. Die CDU fordert nun unmissverständlich eine Entschuldigung der SPD-Politikerin für ihr Vorgehen und ihre Aussagen. Flankiert wird dieser Druck dadurch, dass auch der Bundeskanzler die erhobenen Vorwürfe der Ministerpräsidentin deutlich zurückgewiesen hat. Bislang sind viele Details des Rücktritts und die genauen Hintergründe der Auseinandersetzung zwischen Bund und Ländern noch Gegenstand weiterer Berichterstattung. Die Reaktionen verdeutlichen die anhaltenden Spannungen zwischen der Bundes-CDU und den regierenden SPD-Landespolitikern. Offen bleibt, wie Schwesig auf die Entschuldigungsforderung reagieren und welche Konsequenzen der Vorfall für die künftige Zusammenarbeit haben wird.",
+    "r": "Der Konflikt zwischen der Union und der SPD-Politikerin Schwesig offenbart neue politische Spannungen auf Bundes- und Landesebene nach dem Rücktritt von Bärbel Bas. Die Auseinandersetzung bindet politische Aufmerksamkeit und könnte die Kooperation belasten.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Mecklenburg-Vorpommern",
+        "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/cdu-fordert-entschuldigung-von-schwesig-nach-bas-ruecktritt,cdu-560.html",
+        "date": "2026-10-14T06:29:05.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc0tuZGNudEFRUnR1cVFESm43YmFlOFoxLTQ4bFJad0JEZE1TaVN4eGk0VkI5cXllV2xaWkdCTTZpTHRrVDlsQkFsNU1KQ05YZ3NaSDZiNG55MGVtckVRa2RydlcyRy1kWHdTSjdKNmhKdnpnNkE3UVNaNUZfRXd1RkM2WldMbHJQU2FMLTBOTDdUZE0wZzZyUlJQVG9BaVEzVi15U1RPcGl3em5OampEY2FHYzNMU28zUDhyNDEtNnRZUFFt?oc=5",
+        "date": "2026-10-14T06:29:00.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/cdu-fordert-entschuldigung-von-schwesig-nach-bas-ruecktritt,cdu-560.html",
+    "agree": "Die Quellen sind sich einig, dass die CDU eine Entschuldigung von Manuela Schwesig fordert und der Bundeskanzler die Vorwürfe zurückgewiesen hat.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Verweist zusätzlich auf den NDR.de-Artikel als Ursprung."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-8c69bf6f125ec6d6",
     "c": "INT",
     "o": "DE",
@@ -408,43 +1253,6 @@
     ],
     "chg": "",
     "independent": 3
-  },
-  {
-    "id": "story-8d0b2417133c5dae",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-14T05:52:51.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Bundesregierung einigt sich offenbar auf Zuckersteuer-Modell",
-    "s": "Nach Angaben aus dem Finanzministerium hat sich die Bundesregierung auf eine Zuckersteuer geeinigt. Demnach soll ein Zwei-Stufen-Modell eingeführt werden. Konkrete Einzelheiten und offizielle Vorstellungen sollen demnächst bekannt gegeben werden.",
-    "m": "Das Finanzministerium bestätigte eine Einigung der Bundesregierung bezüglich einer Zuckersteuer. Laut Medienberichten ist die Einführung eines Zwei-Stufen-Modells geplant. Dieses Modell soll nach aktuellen Berichten ab dem 1. Juli 2027 in Kraft treten. Über den genauen Inhalt und die konkrete Ausgestaltung der beiden Stufen wurden bisher noch keine Details genannt. Die offizielle Präsentation der Pläne ist für die nächste Zeit angekündigt. Weitere Hintergründe und Folgen der Steuer sind derzeit noch nicht bekannt.",
-    "r": "Die Einführung einer Zuckersteuer stellt einen bedeutenden Eingriff in die Lebensmittelregulierung dar und betrifft sowohl Verbraucher als auch die Industrie. Die konkrete Ausgestaltung ab Mitte 2027 wird weitreichende Folgen für zuckerhaltige Produkte haben.",
-    "srcs": [
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-bundesregierung-einigung-100.html",
-        "date": "2026-10-14T05:52:51.000Z"
-      },
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQemY2QXdZVEljb0NWeHE2eWJOMkk1SW9sWHAwVkJOXzVzTmRaei1PWlFsMTFsdHdHRXNsaWVYdDhqRXF3azRoR253T0ZoeGIzQzE4eERVeWNrbzh4bEVuek00Z29CR2JZcUdEWEI2YVo0dUxPbFE2NHZxd0xzYml2QWltYXRGaHpIYkxwNVJ0N3lveFIzOXJv?oc=5",
-        "date": "2026-10-14T05:52:00.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-bundesregierung-einigung-100.html",
-    "agree": "Die Quellen stimmen überein, dass sich die Bundesregierung nach Angaben aus dem Finanzministerium bei der Zuckersteuer geeinigt hat und ein Zwei-Stufen-Modell angestrebt wird.",
-    "diff": [
-      {
-        "name": "Google News DE",
-        "note": "Verweist lediglich auf den Artikel der Tagesschau und enthält keinen eigenständigen Text."
-      }
-    ],
-    "chg": "",
-    "independent": 2
   },
   {
     "id": "story-a909c6b6373ebf0f",
@@ -1545,10 +2353,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Extremwetter und Überschwemmungen treffen Kalifornien und Mexiko",
-    "s": "Heftige Wellen und Überschwemmungen haben am Wochenende Küstengemeinden in Südkalifornien schwer getroffen. Die Unwetter zerstörten unter anderem Strandpromenaden und beschädigten Häuser. Die Region ist nun mit den Aufräumarbeiten beschäftigt.",
-    "m": "Auslöser der extremen Wetterbedingungen waren die Reste des tropischen Sturms Rachel. Dieser traf am Wochenende auf die Baja California in Mexiko, bevor er weiter nach Südkalifornien und Las Vegas zog. Meteorologen wiesen darauf hin, dass Rachel sich beim Annähern an Kalifornien zwar zu einem posttropischen Zyklon abgeschwächt hatte, dennoch aber eine Spur der Zerstörung hinterließ. In Long Beach wurde eine Promenade zerstört, und auch in anderen Küstenorten wurden Strandhäuser von den Wassermassen beschädigt. Städte meldeten überflutete Straßen. Der genaue Gesamtschaden wird derzeit noch ermittelt, während die betroffenen Anwohner mit den Aufräumarbeiten beginnen.",
-    "r": "Das Ereignis ist relevant, da extreme Wetterereignisse und tropische Stürme erhebliche Sachschäden an Küsteninfrastruktur und Wohngebäuden in dicht besiedelten Regionen verursachen können.",
+    "t": "Extremes Wetter verwüstet Küstenorte in Kalifornien und Mexiko",
+    "s": "Starke Regenfälle und heftige Wellen haben am Wochenende Küstenregionen in Südkalifornien, Las Vegas und im mexikanischen Baja California schwer getroffen. Dabei wurden unter anderem Strandpromenaden zerstört und Häuser beschädigt. Meteorologen zufolge trafen die Ränder beziehungsweise die Überreste des tropischen Sturms Rachel auf die Regionen.",
+    "m": "Die Auswirkungen des Sturms führten dazu, dass städtische Straßen überflutet und Strandgrundstücke stark in Mitleidenschaft gezogen wurden. Besonders betroffen waren Küstengemeinden in Südkalifornien, wo unter anderem in Long Beach eine Promenade zerstört wurde. Auch in Baja California in Mexiko sowie in Las Vegas waren die Folgen des extremen Wetters spürbar. Obwohl Meteorologen anmerkten, dass sich Rachel beim Annähern an Kalifornien zu einem posttropischen Zyklon abgeschwächt hatte, hinterließ das System eine deutliche Spur der Zerstörung. Die betroffenen Gemeinden begannen nach dem Wochenende mit den Aufräumarbeiten.",
+    "r": "Extreme Wetterereignisse wie die Überreste des tropischen Sturms Rachel verursachen erhebliche Sachschäden an Infrastruktur und Wohngebäuden in Küstenregionen. Die Ereignisse verdeutlichen die Verletzlichkeit betroffener Gemeinden gegenüber tropischen Wettersystemen auch nach deren Abschwächung.",
     "srcs": [
       {
         "name": "Guardian World",
@@ -1562,11 +2370,15 @@
       }
     ],
     "url": "https://www.theguardian.com/us-news/2026/oct/13/california-storm-floods",
-    "agree": "Beide Quellen stimmen überein, dass intensive Wellen und Überschwemmungen Häuser und Promenaden in Kalifornien beschädigt haben.",
+    "agree": "Beide Quellen berichten übereinstimmend darüber, dass heftige Wellen und Überschwemmungen infolge des Sturms Häuser und Uferpromenaden in Kalifornien schwer beschädigt haben.",
     "diff": [
       {
+        "name": "Guardian World",
+        "note": "Berichtet detailliert über die Zerstörungen in Südkalifornien, Long Beach, Baja California und Las Vegas sowie über den Einfluss des geschwächten Sturms Rachel."
+      },
+      {
         "name": "Google News World",
-        "note": "Verweist lediglich auf den Artikel des Guardian und liefert keine eigenen inhaltlichen Details."
+        "note": "Enthält lediglich den Verweis auf den Guardian-Artikel ohne zusätzliche inhaltliche Details."
       }
     ],
     "chg": "",
@@ -14158,696 +14970,6 @@
       {
         "name": "NDR Hamburg",
         "note": "Ergänzt, dass die Gedenkveranstaltung auf dem Uni-Campus stattfand, rund 200 Menschen daran teilnahmen und sie unter Polizeischutz stand."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-822dfb651c1a82dc",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-07T18:03:59.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "New Yorks Bürgermeister wirft Israel am Jahrestag Genozid vor",
-    "s": "Anlässlich des Jahrestages des Hamas-Überfalls hat New Yorks Bürgermeister Zohran Mamdani schwere Vorwürfe gegen Israel erhoben. Er bezeichnete das Vorgehen der israelischen Regierung im Gazastreifen als Völkermord. Gleichzeitig verurteilte er den Überfall der Hamas auf Israel als entsetzliches Kriegsverbrechen. In New York leben fast eine Million Juden.",
-    "m": "Zum dritten Jahrestag des Hamas-Massakers äußerte sich New Yorks Bürgermeister Zohran Mamdani in einer Erklärung zu dem Konflikt. Er nannte den Tag einen zutiefst schmerzhaften Tag und verurteilte den Überfall der Hamas als entsetzliches Kriegsverbrechen. Kritisch sorgte vor allem seine gleichzeitige Äußerung für Aufsehen, in der er der israelischen Regierung einen Genozid im Gazastreifen vorwirft. Die Metropole New York beheimatet fast eine Million Juden, weshalb solche Aussagen dort besonders brisant sind. Weitere Details zum zeitlichen Ablauf oder Reaktionen anderer Akteure wurden in den Berichten nicht genannt.",
-    "r": "Die Äußerungen des Bürgermeisters einer US-Metropole mit einer großen jüdischen Bevölkerung zu einem hochemotionalen und global bedeutsamen Konflikt sind politisch brisant. Sie berühren sowohl das Gedenken an den Hamas-Terror als auch die völkerrechtliche Bewertung des israelischen Militäreinsatzes.",
-    "srcs": [
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/politik/ausland/article6ac682d148fc4583fc769121/jahrestag-des-hamas-ueberfalls-new-yorks-buergermeister-mamdani-wirft-israel-genozid-im-gazastreifen-vor.html",
-        "date": "2026-10-07T18:03:59.000Z"
-      },
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/politik/Mamdani-wirft-Israel-am-Jahrestag-des-Hamas-Ueberfalls-Genozid-vor-id31393340.html",
-        "date": "2026-10-07T17:02:04.000Z"
-      }
-    ],
-    "url": "https://www.welt.de/politik/ausland/article6ac682d148fc4583fc769121/jahrestag-des-hamas-ueberfalls-new-yorks-buergermeister-mamdani-wirft-israel-genozid-im-gazastreifen-vor.html",
-    "agree": "Beide Quellen stimmen darin überein, dass New Yorks Bürgermeister Mamdani Israel am Jahrestag des Hamas-Überfalls einen Genozid im Gazastreifen vorgeworfen und gleichzeitig den Hamas-Überfall als Kriegsverbrechen verurteilt hat.",
-    "diff": [
-      {
-        "name": "ntv",
-        "note": "Erwähnt zusätzlich, dass fast eine Million Juden in New York leben und bezeichnet den Tag als \"zutiefst schmerzhaft\"."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-fc50033062677a89",
-    "c": "INT",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-07T17:21:00.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "IEA beschleunigt Freigabe von Ölreserven mit Fokus auf Diesel",
-    "s": "Die Internationale Energieagentur macht Tempo bei der Freigabe von strategischen Ölreserven. Dabei soll der Fokus vorrangig auf Dieselvorräte gelegt werden. Rund 100 Millionen Barrel könnten zusätzlich auf den Markt gebracht werden.",
-    "m": "Die Internationale Energieagentur (IEA) treibt die Freigabe strategischer Ölreserven massiv voran, um auf die aktuelle Situation zu reagieren. Im Zentrum der Maßnahmen stehen dabei gezielt Dieselvorräte, die priorisiert behandelt werden sollen. Insgesamt ist im Zuge dieses Vorhabens im Gespräch, rund 100 Millionen Barrel an zusätzlichen Ressourcen auf den Markt zu bringen. Konkrete Details zum genauen zeitlichen Ablauf der Ausschüttung oder den beteiligten Mitgliedsstaaten der IEA gehen aus den Berichten bisher nicht hervor. Auch die längerfristigen Folgen für die globalen Energiepreise bleiben vorerst offen. Diese Schritte sollen dazu dienen, Engpässe auszugleichen und die Versorgungslage zu stabilisieren.",
-    "r": "Die Freigabe großer strategischer Ölreserven durch die IEA mit Schwerpunkt auf Diesel ist ein bedeutender Eingriff in den globalen Energiemarkt. Die Bereitstellung von rund 100 Millionen Barrel zielt darauf ab, auf aktuelle Verknappungen zu reagieren.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdmhiczJIMzJCekVYa3FKRktBZFZtRnlGTzZ0LXVfcTFQLTU2T2dyM0VMNUtFeGtaWmxmcktPaVE3TFVqV01WSTBrd2hSYzYyZ3piZkE3b3loTm9tb3ZHbjUwVkJ4anQ2TUNDRng5RnNRalJuSFRTb21WOFVFRFM3M2xFTHRLbXZIdHItdlAweXFXU3I2aUpoZ3BhbG4wcmFNWTAySGtTdkhvVEZ5OGVDTW9IcnJueGhkaDZXRUtfZG9sUU1TdHRSbWpn?oc=5",
-        "date": "2026-10-07T17:21:00.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/wirtschaft/iea-beschleunigt-freigabe-von-oelreserven-diesel-im-fokus-a-c6d5b9fc-af7c-49b6-84ab-b66190b365f6#ref=rss",
-        "date": "2026-10-07T17:21:00.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdmhiczJIMzJCekVYa3FKRktBZFZtRnlGTzZ0LXVfcTFQLTU2T2dyM0VMNUtFeGtaWmxmcktPaVE3TFVqV01WSTBrd2hSYzYyZ3piZkE3b3loTm9tb3ZHbjUwVkJ4anQ2TUNDRng5RnNRalJuSFRTb21WOFVFRFM3M2xFTHRLbXZIdHItdlAweXFXU3I2aUpoZ3BhbG4wcmFNWTAySGtTdkhvVEZ5OGVDTW9IcnJueGhkaDZXRUtfZG9sUU1TdHRSbWpn?oc=5",
-    "agree": "Die Internationale Energieagentur IEA beschleunigt die Freigabe von strategischen Ölreserven mit einem starken Fokus auf Diesel.",
-    "diff": [
-      {
-        "name": "Google News DE",
-        "note": "Enthält lediglich eine kurze Verknüpfung und Schlagzeile zum SPIEGEL-Bericht ohne zusätzliche Details."
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "Liefert die Kerninformationen, dass rund 100 Millionen Barrel zusätzlich auf den Markt kommen sollen und die IEA Tempo macht."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-61c62f60fff156d9",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-07T15:21:57.000Z",
-    "p": 2,
-    "st": "BW",
-    "city": "",
-    "t": "Tarifverhandlungen und Sparpläne bei Audi in Neckarsulm",
-    "s": "Bei Audi in Neckarsulm haben die Tarifverhandlungen begonnen. Gleichzeitig stehen Einsparungen im Fokus des Standorts. Begleitet wird dies von einer Betriebsversammlung unter Beteiligung des VW-Chefs.",
-    "m": "Die Tarifverhandlungen haben begonnen und bringen Forderungen nach mehr Lohn mit sich. Am Standort Audi in Neckarsulm stehen zudem konkrete Maßnahmen zur Senkung der Kosten im Raum. In diesem Zusammenhang findet eine Betriebsversammlung statt, an der auch der VW-Chef teilnimmt. Erstmals ist zudem ein Bündnis für den Erhalt des Werks zusammengekommen, das sich den Herausforderungen am Standort widmet. Die Entwicklungen spiegeln die angespannte Lage und die Diskussionen um die Zukunft des Werks wider. Weitere Details zum Verlauf der Verhandlungen und den genauen Einsparzielen sind derzeit noch offen. Die beteiligten Akteure beraten über die nächsten Schritte.",
-    "r": "Die Entwicklungen bei Audi in Neckarsulm sind für die regionale Wirtschaft und die Beschäftigten von großer Bedeutung. Tarifverhandlungen und Diskussionen über Kostensenkungen betreffen zentrale Zukunftsfragen des Standorts.",
-    "srcs": [
-      {
-        "name": "SWR Aktuell Baden-Württemberg",
-        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/heilbronn/audi-neckarsulm-betriebsversammlung-allianz-tarifvertrag-100.html",
-        "date": "2026-10-07T15:21:57.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Baden-Württemberg",
-        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-tarifverhandlungen-starten-waehrend-es-bei-audi-in-neckarsulm-ums-sparen-geht-100.html",
-        "date": "2026-10-07T13:51:00.000Z"
-      }
-    ],
-    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/heilbronn/audi-neckarsulm-betriebsversammlung-allianz-tarifvertrag-100.html",
-    "agree": "Beide Quellen stimmen darin überein, dass die Tarifverhandlungen starten und bei Audi in Neckarsulm eine Betriebsversammlung mit dem VW-Chef sowie ein Treffen des Bündnisses zum Werkerhalt stattfinden.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-f1c27c566ff505ef",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-07T14:19:44.000Z",
-    "p": 4,
-    "st": "BY",
-    "city": "",
-    "t": "Früherer BND-Präsident August Hanning in Untersuchungshaft",
-    "s": "Der ehemalige Präsident des Bundesnachrichtendienstes, August Hanning, befindet sich in Untersuchungshaft. Ein Ermittlungsrichter des Bundesgerichtshofs hat den Haftbefehl gegen den 80-Jährigen in Vollzug gesetzt. Hanning steht unter anderem im Fokus von Ermittlungen wegen Spionageverdachts.",
-    "m": "Gegen den früheren BND-Chef August Hanning ist ein Haftbefehl in Vollzug gesetzt worden. Ein Ermittlungsrichter des Bundesgerichtshofs entschied entsprechend, wie unter anderem die Bundesanwaltschaft mitteilte. Der 80-Jährige muss sich nun in Untersuchungshaft begeben. Zu den konkreten Vorwürfen gegen ihn zählen neben dem Verdacht auf Spionage auch der Vorwurf des Landesverrats. Weitere Details zu den Hintergründen der Ermittlungen oder dem genauen Stand des Verfahrens wurden zunächst nicht bekannt gegeben.",
-    "r": "Die Festnahme eines ehemaligen Spitzenbeamten eines deutschen Nachrichtendienstes wegen schwerer Vorwürfe wie Spionage und Landesverrat ist von hoher sicherheitspolitischer Bedeutung. Der Fall berührt grundlegende Fragen der nationalen Sicherheit und der Kontrolle von Geheimdiensten.",
-    "srcs": [
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/ex-bnd-praesident-hanning-wegen-spionageverdachts-in-u-haft,VXMuyqj",
-        "date": "2026-10-07T14:19:44.000Z"
-      },
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/inland/gesellschaft/hanning-bnd-haftbefehl-spionage-100.html",
-        "date": "2026-10-07T13:46:15.000Z"
-      }
-    ],
-    "url": "https://www.br.de/nachrichten/deutschland-welt/ex-bnd-praesident-hanning-wegen-spionageverdachts-in-u-haft,VXMuyqj",
-    "agree": "Beide Quellen stimmen überein, dass der ehemalige BND-Präsident Hanning aufgrund eines Haftbefehls des Bundesgerichtshofs in Untersuchungshaft muss und unter Spionageverdacht steht.",
-    "diff": [
-      {
-        "name": "BR24 Bayern",
-        "note": "Ergänzt, dass Hanning 80 Jahre alt ist und neben Spionageverdacht auch der Vorwurf des Landesverrats im Raum steht."
-      },
-      {
-        "name": "Tagesschau",
-        "note": "Führt an, dass die Information über die Vollzugsetzung des Haftbefehls durch die Bundesanwaltschaft mitgeteilt wurde."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-89dfbfc617e8c67f",
-    "c": "INT",
-    "o": "PT",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-07T12:39:11.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Banco de Portugal hebt Wirtschaftswachstumsprognose auf 2,3 Prozent an",
-    "s": "Die portugiesische Zentralbank hat ihre Prognose für das Wirtschaftswachstum nach oben korrigiert. Demnach wird nun ein Wachstum von 2,3 Prozent erwartet. Die neuen Schätzungen übertreffen frühere Prognosen sowie die Erwartungen der Regierung.",
-    "m": "Das Banco de Portugal hat seine Wachstumserwartungen für die Wirtschaft angehoben und rechnet mit einem Plus von 2,3 Prozent. Diese neuen Projektionen übertreffen deutlich jene, die im Juni für die Jahre 2026 mit einem Anstieg von 0,5 Prozentpunkten und 2027 mit 0,2 Prozentpunkten veröffentlicht wurden. Zudem zeigen sich die Notenbanker optimistischer als die Regierung, die im April noch ein Wachstum von zwei Prozent für das laufende Jahr prognostiziert hatte. Die revidierten Zahlen spiegeln eine positivere Einschätzung der wirtschaftlichen Entwicklung wider. Weitere Details zu den genauen Sektoren, die das Wachstum antreiben, wurden in den vorliegenden Berichten nicht genannt.",
-    "r": "Die Anpassung wichtiger volkswirtschaftlicher Kennzahlen durch die Notenbank ist zentral für die wirtschaftspolitische Einschätzung des Landes. Der Vergleich mit den Regierungsdaten zeigt abweichende Einschätzungen zur wirtschaftlichen Entwicklung in Portugal.",
-    "srcs": [
-      {
-        "name": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT2wwSzhxc3YxdTRLMEhiZVRRVFYxNW9BUGxjOFNrS0VxSzVFeDhMb1JkN2ZNWi1RbWpxWFlhbGYwd0JPUEtDV0R1X0J6RXF5TlREWUg5MlpIWHhKLWlLRFJfb3RuSl9sYTNSRWdJTzVvR1VUZFIyTGFpQ0txdXNwZEVsbTVQVnpkYjJuLURqSVdISVZrZEJTbUYwdjRkbFpSYXJzTnpxVFJ2Vjhq?oc=5",
-        "date": "2026-10-07T12:39:11.000Z"
-      },
-      {
-        "name": "RTP Economia",
-        "url": "https://www.rtp.pt/noticias/economia/banco-de-portugal-reve-crescimento-da-economia-em-alta-para-23_n1770055",
-        "date": "2026-10-07T11:00:17.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT2wwSzhxc3YxdTRLMEhiZVRRVFYxNW9BUGxjOFNrS0VxSzVFeDhMb1JkN2ZNWi1RbWpxWFlhbGYwd0JPUEtDV0R1X0J6RXF5TlREWUg5MlpIWHhKLWlLRFJfb3RuSl9sYTNSRWdJTzVvR1VUZFIyTGFpQ0txdXNwZEVsbTVQVnpkYjJuLURqSVdISVZrZEJTbUYwdjRkbFpSYXJzTnpxVFJ2Vjhq?oc=5",
-    "agree": "Beide Quellen stimmen darin überein, dass das Banco de Portugal die Prognose für das Wirtschaftswachstum auf 2,3 Prozent nach oben angepasst hat.",
-    "diff": [
-      {
-        "name": "RTP Economia",
-        "note": "Berichtet, dass die Projektionen die im Juni veröffentlichten Werte für 2026 (0,5 Prozentpunkte) und 2027 (0,2 Prozent) übertreffen und optimistischer sind als die Regierungsprognose von zwei Prozent aus dem April."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-a92fb90a3718c0b3",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-07T11:29:04.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Israel gedenkt der Opfer des Hamas-Massakers von 2023",
-    "s": "Israel gedenkt der Opfer des islamistischen Terroranschlags vom 7. Oktober 2023. Bei dem Überfall vor drei Jahren wurden etwa 1200 Menschen getötet und Hunderte verschleppt. In Tel Aviv und weiteren Orten im Land finden Gedenkveranstaltungen statt.",
-    "m": "Vor genau drei Jahren verübten islamistische Terroristen einen verheerenden Überfall auf Israel, der das Land schwer erschütterte. Dabei kamen rund 1200 Menschen ums Leben, und Hunderte weitere wurden als Geiseln verschleppt. Zum Jahrestag wird der Opfer nun in Tel Aviv sowie an zahlreichen anderen Orten landesweit gedacht. Das Gedenken soll an die Dimension des Angriffs und das fortwährende Leid der betroffenen Familien erinnern. Die Ereignisse haben die Sicherheitslage und die politische Situation in der gesamten Region nachhaltig verändert. Bis heute sind die Folgen des Terroranschlags und der darauffolgenden Konflikte spürbar.",
-    "r": "Das Gedenken an den vor drei Jahren verübten Hamas-Überfall ist ein zentrales Ereignis für Israel mit anhaltenden regionalen und internationalen Auswirkungen. Die Aufarbeitung der Opferzahlen und der Geiselnahmen bleibt prägend für die aktuelle Lage.",
-    "srcs": [
-      {
-        "name": "SWR Aktuell",
-        "url": "https://www.swr.de/swraktuell-radio/2026-10-07-hamas-massaker-gedenken-israel-100.html",
-        "date": "2026-10-07T11:29:04.000Z"
-      },
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/asien/israel-gedenken-hamas-ueberfall-102.html",
-        "date": "2026-10-07T09:24:13.000Z"
-      }
-    ],
-    "url": "https://www.swr.de/swraktuell-radio/2026-10-07-hamas-massaker-gedenken-israel-100.html",
-    "agree": "Beide Quellen stimmen überein, dass islamistische Terroristen vor drei Jahren Israel überfielen, dabei etwa 1200 Menschen getötet und Hunderte verschleppt wurden, und dass des Überfalls gedacht wird.",
-    "diff": [
-      {
-        "name": "SWR Aktuell",
-        "note": "Erwähnt zusätzlich die Weinlesebilanz in Baden-Württemberg im Rahmen der Sendung Info Date am Mittag."
-      },
-      {
-        "name": "Tagesschau",
-        "note": "Nennt konkret Tel Aviv und weitere Orte im Land als Schauplätze der Gedenkveranstaltungen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-6df233d6f3c54a6f",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-07T10:21:48.000Z",
-    "p": 2,
-    "st": "NI",
-    "city": "",
-    "t": "Feuer im Wellness-Center im Landkreis Osnabrück",
-    "s": "Am Dienstag ist im Freizeitland Hasbergen im Landkreis Osnabrück ein Feuer ausgebrochen. Betroffen war demnach ein Wellness-Center vor Ort. Die anwesenden Saunagäste konnten sich rechtzeitig selbst in Sicherheit bringen und das Gebäude verlassen. Nach bisherigen Erkenntnissen wurde bei dem Brand glücklicherweise niemand verletzt.",
-    "m": "Das Feuer brach am Dienstag im Freizeitland Hasbergen im Landkreis Osnabrück aus. Der Vorfall ereignete sich in einem dortigen Wellness-Center, wodurch ein sofortiges Handeln der Gäste erforderlich wurde. Die Saunagäste mussten das Gebäude rasch verlassen, um sich vor den Flammen und dem Rauch zu schützen. Rettungskräfte waren im Einsatz, um die Lage vor Ort zu bewältigen und den Brand zu bekämpfen. Glücklicherweise bestätigten die Behörden, dass bei dem Vorfall keine Personen verletzt wurden. Zur genauen Ursache des Feuers sowie zur Höhe des entstandenen Sachschadens gibt es derzeit noch keine offiziellen Angaben. Auch die Ermittlungen der zuständigen Stellen zur Brandursache stehen noch am Anfang. Weitere Details zum genauen Ablauf des Einsatzes und zum Zustand des Gebäudes werden im Laufe der weiteren Untersuchungen erwartet.",
-    "r": "Brände in öffentlichen Freizeiteinrichtungen mit Saunabereichen stellen ein potenzielles Sicherheitsrisiko für viele Menschen dar. Die Tatsache, dass alle Gäste unverletzt blieben, zeigt einen glimpflichen Verlauf des Vorfalls in Hasbergen.",
-    "srcs": [
-      {
-        "name": "Tagesschau Regional Niedersachsen",
-        "url": "https://www.tagesschau.de/inland/regional/niedersachsen/brand-im-wellness-center-saunagaeste-bringen-sich-in-sicherheit,saunabrand-112.html",
-        "date": "2026-10-07T10:21:48.000Z"
-      },
-      {
-        "name": "NDR Niedersachsen",
-        "url": "https://www.ndr.de/nachrichten/niedersachsen/osnabrueck_emsland/brand-in-wellness-center-saunagaeste-muessen-raus,hasbergen-108.html",
-        "date": "2026-10-07T10:20:26.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/regional/niedersachsen/brand-im-wellness-center-saunagaeste-bringen-sich-in-sicherheit,saunabrand-112.html",
-    "agree": "Beide Quellen stimmen darin überein, dass am Dienstag im Freizeitland Hasbergen im Landkreis Osnabrück ein Feuer in einem Wellness-Center ausgebrochen ist und niemand verletzt wurde.",
-    "diff": [
-      {
-        "name": "Tagesschau Regional Niedersachsen",
-        "note": "Erwähnt zusätzlich im Titel, dass sich die Saunagäste selbst in Sicherheit brachten."
-      },
-      {
-        "name": "NDR Niedersachsen",
-        "note": "Formuliert im Titel, dass Saunagäste raus mussten."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-ef65e23371529b8a",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-07T09:30:02.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Israel gedenkt der Opfer des Hamas-Überfalls vor drei Jahren",
-    "s": "In Israel wird der Opfer des islamistischen Terroranschlags von vor drei Jahren gedacht. Bei dem Überfall wurden etwa 1.200 Menschen getötet und Hunderte verschleppt. In Tel Aviv und weiteren Orten im Land finden Gedenkveranstaltungen statt.",
-    "m": "Vor genau drei Jahren verübten islamistische Terroristen einen verheerenden Überfall auf Israel. Dabei kamen rund 1.200 Menschen ums Leben und zahlreiche Personen wurden als Geiseln verschleppt. Die Ereignisse haben das Land tief erschüttert und den Nahostkonflikt nachhaltig verschärft. Nun gedenken die Menschen in Tel Aviv und an zahlreichen anderen Orten im gesamten Staatsgebiet der Opfer. Die Gedenkfeiern stehen im Zeichen anhaltender politischer und sicherheitspolitischer Spannungen. Regierungsvertreter und Angehörige nehmen an den Zeremonien teil, um an die Getöteten zu erinnern. Offen bleibt, wie die langfristigen gesellschaftlichen und geopolitischen Folgen bewältigt werden können.",
-    "r": "Das Gedenken erinnert an einen der folgenschwersten Terrorangriffe in der Geschichte Israels. Die landesweiten Zeremonien spiegeln die anhaltende nationale Trauer und die sicherheitspolitischen Herausforderungen wider.",
-    "srcs": [
-      {
-        "name": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/ausland/asien/israel-gedenken-hamas-ueberfall-102.html",
-        "date": "2026-10-07T09:30:02.000Z"
-      },
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/israel-gedenkt-der-opfer-des-hamas-ueberfalls-vor-drei-jahren-100.html",
-        "date": "2026-10-07T09:18:50.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/ausland/asien/israel-gedenken-hamas-ueberfall-102.html",
-    "agree": "Alle Quellen stimmen überein, dass in Israel der Opfer des Hamas-Überfalls vor drei Jahren gedacht wird, bei dem etwa 1.200 Menschen getötet und Hunderte verschleppt wurden.",
-    "diff": [
-      {
-        "name": "Tagesschau",
-        "note": "Erwähnt konkret das genaue Datum des Überfalls als den 7. Oktober 2023 und präzisiert, dass in Tel Aviv und an anderen Orten der Opfer des Hamas-Überfalls gedacht wird."
-      },
-      {
-        "name": "SWR Aktuell",
-        "note": "Berichtet ebenfalls über Gedenkorte wie Tel Aviv und die Opferzahlen, nennt aber das Datum im Titel nicht explizit."
-      },
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "note": "Liefert eine sehr kurze Zusammenfassung ohne nähere Details zu den Gedenkorten."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-6f682b01f15f52b8",
-    "c": "INT",
-    "o": "PT",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-07T09:25:20.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "OMS rät bei unter Zehnjährigen von Medikamenten gegen Adipositas ab",
-    "s": "Die Weltgesundheitsorganisation OMS hat neue Empfehlungen zur Behandlung von Adipositas bei Kindern veröffentlicht. Konkret wird davon abgeraten, Minderjährige unter zehn Jahren mit Medikamenten zur Gewichtsabnahme oder mit chirurgischen Eingriffen zu behandeln. Stattdessen sollen andere Behandlungsformen priorisiert werden. Weitere Details zu den empfohlenen Alternativen nennen die Berichte nicht.",
-    "m": "Die Weltgesundheitsorganisation (OMS) hat sich in einer aktuellen Empfehlung gegen bestimmte medizinische und chirurgische Eingriffe bei übergewichtigen Kindern ausgesprochen. Betroffen von diesem Ratschlag sind Kinder unter zehn Jahren, die an Adipositas leiden. Für diese Altersgruppe sollen weder gewichtsreduzierende Medikamente noch Operationen eingesetzt werden. Die Organisation plädiert stattdessen dafür, andere, nicht-invasive Formen des Behandelns zu priorisieren. Konkrete Angaben, welche alternativen Behandlungsmethoden stattdessen angewendet werden sollen, lassen die vorliegenden Berichte offen. Ebenso werden keine näheren Hintergründe zur Datengrundlage oder zum genauen Entstehen der Empfehlung genannt.",
-    "r": "Die Empfehlung einer globalen Gesundheitsorganisation wie der OMS hat direkte Auswirkungen auf medizinische Leitlinien und die Behandlungspraktiken von Ärzten bei kindlicher Adipositas.",
-    "srcs": [
-      {
-        "name": "RTP Mundo",
-        "url": "https://www.rtp.pt/noticias/mundo/oms-desaconselha-medicamentos-e-cirurgia-para-obesidade-em-menores-de-dez-anos_n1770037",
-        "date": "2026-10-07T09:25:20.000Z"
-      },
-      {
-        "name": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeXhpLTJvODFucmhiVFN2eWRuemY5dDJTc2RmV2t1dThOV3puSnNuWUs5b3JaVk1jSFJLeWFTbEZwTnc3Zm9pNGFQdXFmRTQ5bm5WX3ZmSTJOZ1VWY05VakhlQmlFNGhSNDBnQm9UMkR4MDRzWnFjLXVDNWJGRUZYVUM0QXdSc2VYd1VfbFBlSVd2bVNkQXRhTEZtdGk0bEJSa0VvS3JUV0tScndvRjlZMzV1QlBxVk1neldfaEVB?oc=5",
-        "date": "2026-10-07T08:29:16.000Z"
-      }
-    ],
-    "url": "https://www.rtp.pt/noticias/mundo/oms-desaconselha-medicamentos-e-cirurgia-para-obesidade-em-menores-de-dez-anos_n1770037",
-    "agree": "Die Quellen stimmen überein, dass die OMS von Medikamenten und Operationen zur Adipositas-Behandlung bei unter Zehnjährigen abrät.",
-    "diff": [
-      {
-        "name": "RTP Mundo",
-        "note": "Berichtet, dass die OMS empfiehlt, andere Form von Behandlungen zu priorisieren."
-      },
-      {
-        "name": "Google News Portugal",
-        "note": "Enthält im Wesentlichen nur den Verweistitel auf den Artikel von RTP Mundo und einen Weblink."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-e466a84e7a51d1f7",
-    "c": "INT",
-    "o": "PT",
-    "k": "wissenschaft",
-    "lang": "de",
-    "d": "2026-10-07T09:25:20.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "OMS rät bei unter Zehnjährigen von Adipositas-Medikamenten und -Chirurgie ab",
-    "s": "Die Weltgesundheitsorganisation (OMS) hat empfohlen, bei Kindern unter zehn Jahren mit Adipositas von pharmakologischen Behandlungen und chirurgischen Eingriffen zur Gewichtsabnahme abzusehen. Stattdessen sollen alternative Behandlungsformen bevorzugt werden. Konkrete Details zu den empfohlenen Alternativen wurden in den vorliegenden Berichten nicht genannt.",
-    "m": "Die Empfehlung der Weltgesundheitsorganisation richtet sich gezielt gegen den Einsatz von Abnehmmedikamenten und Operationen bei Kleinkindern und Kindern unter zehn Jahren. Die Organisation plädiert dafür, bei dieser Altersgruppe andere Behandlungswege einzuschlagen, um der Gewichtsproblematik zu begegnen. Weitere Informationen zu den Ursachen der Maßnahmen, begleitenden Studien oder konkreten Alternativtherapien enthalten die Quellen nicht. Auch Angaben zu regionalen Schwerpunkten oder Reaktionen betroffener Fachkreise fehlen in den Berichten.",
-    "r": "Die Leitlinie einer globalen Gesundheitsorganisation wie der OMS zur Behandlung von Adipositas bei sehr jungen Kindern ist von gesundheitspolitischer Bedeutung. Sie setzt internationale Standards für die pädiatrische medizinische Versorgung.",
-    "srcs": [
-      {
-        "name": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/mundo/oms-desaconselha-medicamentos-e-cirurgia-para-obesidade-em-menores-de-dez-anos_n1770037",
-        "date": "2026-10-07T09:25:20.000Z"
-      },
-      {
-        "name": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaG9QMHZzR1VRLWRDYU4tS1Rwd3d1Sjh5YnJQalZuczVZTE8wSWprY0VWVWxsWTB0dFExWHo5ODNRWHFXQ2tKSDEyTlVzYzhQSlRnSWtFQ1J1VGFtRE9reTVrZVYxSnc0MTRjNDZJLV9MZ0xHM1lzeGJaeEU1WFBNNEpRekJJcVNRbzA3bTd3Rk1WRkV1Y1RaeFZNSHpuRUVleThpenVyenNBZzhYYV8zYlpudkNPWUpi?oc=5",
-        "date": "2026-10-07T07:01:00.000Z"
-      }
-    ],
-    "url": "https://www.rtp.pt/noticias/mundo/oms-desaconselha-medicamentos-e-cirurgia-para-obesidade-em-menores-de-dez-anos_n1770037",
-    "agree": "Beide Quellen stimmen darin überein, dass die OMS von Medikamenten und chirurgischen Eingriffen zur Behandlung von Adipositas abrät.",
-    "diff": [
-      {
-        "name": "RTP Notícias",
-        "note": "Berichtet spezifisch, dass sich die Empfehlung der OMS auf Kinder unter zehn Jahren bezieht, und nennt Público als weitere beteiligte Plattform."
-      },
-      {
-        "name": "Google News Portugal",
-        "note": "Erwähnt die Zeitung 'Público' im Titel und fasst die Meldung allgemeiner für Kinder zusammen, ohne die Altersgrenze von zehn Jahren im Titel zu nennen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-725a7e1eec6d07a7",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-07T09:18:50.000Z",
-    "p": 3,
-    "st": "BY",
-    "city": "",
-    "t": "Bundeswirtschaftsministerin Reiche schließt Gasmangel im Winter aus",
-    "s": "Bundeswirtschaftsministerin Reiche befürchtet trotz niedriger Gasspeicherstände in diesem Winter keinen Gasmangel in Deutschland. Die aktuellen Füllstände liegen bei rund 59 Prozent.",
-    "m": "Trotz der aktuell vergleichsweise niedrigen Füllstände der Gasspeicher von derzeit rund 59 Prozent gibt Bundeswirtschaftsministerin Reiche Entwarnung für die kommende Wintersaison. Sie sieht keinen Gasmangel in Deutschland aufkommen. Weitere Details zu den Ursachen der niedrigen Füllstände oder geplanten Gegenmaßnahmen wurden in den vorliegenden Berichten nicht genannt.",
-    "r": "Die Einschätzung der Versorgungssicherheit mit Gas im Winter ist für Verbraucher und Wirtschaft von hoher Bedeutung. Sie gibt Auskunft über die Stabilität der Energieversorgung in Deutschland.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/reiche-sieht-keinen-gasmangel-in-deutschland-im-winter-100.html",
-        "date": "2026-10-07T09:18:50.000Z"
-      },
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/wirtschaftsministerin-reiche-kein-gasmangel-in-deutschland,VXKiMBg",
-        "date": "2026-10-07T04:54:02.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/reiche-sieht-keinen-gasmangel-in-deutschland-im-winter-100.html",
-    "agree": "Beide Quellen sind sich einig, dass Bundeswirtschaftsministerin Reiche trotz niedriger Speicherstände keinen Gasmangel im Winter in Deutschland befürchtet.",
-    "diff": [
-      {
-        "name": "BR24 Bayern",
-        "note": "Erwähnt konkret den genauen Füllstand der Gasspeicher von derzeit rund 59 Prozent."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-9cf72a9302c0532a",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-07T09:18:50.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Ifo-Institut: Ölkonzerne geben Tankrabatt nur teilweise weiter",
-    "s": "Der im Rahmen eines Entlastungspakets beschlossene Tankrabatt wird nach Berechnungen des Ifo-Instituts nicht vollständig an die Verbraucher weitergegeben. Die Mineralölkonzerne haben die Preise für Benzin und Diesel zuletzt wieder deutlich angezogen. Laut der Auswertung lässt sich dieser Preisanstieg möglicherweise nicht allein mit dem gestiegenen Ölpreis erklären.",
-    "m": "Das Ifo-Institut hat untersucht, wie sich der sogenannte Tankrabatt auf die Verbraucherpreise auswirkt. Das Ergebnis zeigt, dass die Entlastung durch die Steuersenkung bei Kraftstoffen nicht im vollen Umfang an den Zapfsäulen angekommen ist. Stattdessen haben die Spritkonzerne die Preise für Benzin und Diesel zuletzt wieder kräftig angezogen. Die Forscher weisen darauf hin, dass dieser Preisanstieg über die Entwicklung des internationalen Rohölpreises hinausgeht. Der Tankrabatt war als befristete Maßnahme eingeführt worden, um Autofahrer angesichts hoher Energiepreise zu entlasten. Die Untersuchung wirft Fragen zur Preisgestaltung der Mineralölkonzerne in Deutschland auf.",
-    "r": "Die Untersuchung des Ifo-Instituts ist relevant, weil sie die Wirksamkeit einer staatlichen Entlastungsmaßnahme bewertet. Zudem beleuchtet sie das Preisverhalten von Großkonzernen auf dem Kraftstoffmarkt und betrifft potenziell Millionen von Autofahrern.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/ifo-institut-oelkonzerne-geben-tankrabatt-bislang-nur-teilweise-weiter-102.html",
-        "date": "2026-10-07T09:18:50.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/wirtschaft/service/ifo-oelkonzerne-geben-tankrabatt-bislang-nur-teilweise-weiter-a-4c3eed49-6cf7-4450-beeb-3fa30088735d#ref=rss",
-        "date": "2026-10-07T07:10:00.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/ifo-institut-oelkonzerne-geben-tankrabatt-bislang-nur-teilweise-weiter-102.html",
-    "agree": "Beide Quellen stimmen darin überein, dass das Ifo-Institut festgestellt hat, dass die Ölkonzerne den Tankrabatt bislang nur teilweise an die Verbraucher weitergeben.",
-    "diff": [
-      {
-        "name": "DER SPIEGEL",
-        "note": "Ergänzt, dass die Spritpreise trotz Tankrabatt zuletzt wieder kräftig angezogen haben und dies laut Ifo womöglich nicht nur am Ölpreis liegt."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-c6e5edea58d29453",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-07T09:13:22.000Z",
-    "p": 3,
-    "st": "HH",
-    "city": "",
-    "t": "Verkehrsausschuss stimmt für Neubaustrecke zwischen Hannover und Hamburg",
-    "s": "Der Verkehrsausschuss hat sich für den Neubau der Bahnstrecke zwischen Hamburg und Hannover ausgesprochen. Damit soll ein jahrelanger Stillstand auf dieser wichtigen Nord-Süd-Achse beendet werden. Gegen das umstrittene Projekt gibt es allerdings Widerstand.",
-    "m": "Die Bahnstrecke zwischen Hamburg und Hannover ist von großer Bedeutung für den Personen- und Güterverkehr, gilt jedoch als stark überlastet. Um diesen Zustand zu beheben, wurde jahrelang über eine Modernisierung gestritten. Nun hat der Verkehrsausschuss des Bundestags die Planungen für eine Neubaustrecke gebilligt. Während der Ausschuss grünes Licht gegeben hat, steht eine Entscheidung des Bundestags für den kommenden Tag an. Das Projekt ist jedoch nicht unumstritten, da es in diesem Zusammenhang Widerstand gegen die Pläne gibt.",
-    "r": "Die Verbindung zwischen Hannover und Hamburg ist eine zentrale Nord-Süd-Achse für den deutschen Schienenverkehr. Die Entscheidung des Verkehrsausschusses markiert einen wichtigen Schritt zur Bewältigung der Überlastung auf dieser Strecke.",
-    "srcs": [
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/mobilitaet/2026-10/bahnstrecke-hannover-hamburg-neubautrasse-deutsche-bahn-bundestag",
-        "date": "2026-10-07T09:13:22.000Z"
-      },
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/wirtschaft/bahn-neubaustrecke-100.html",
-        "date": "2026-10-07T08:58:04.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Hamburg",
-        "url": "https://www.tagesschau.de/inland/regional/niedersachsen/verkehrsausschuss-stimmt-fuer-neubaustrecke-hannover-hamburg,neubaustrecke-132.html",
-        "date": "2026-10-07T08:45:46.000Z"
-      },
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/wirtschaft/bahnstrecke-hannover-hamburg-weg-frei-fuer-neubaustrecke-ZXIOW5LQ7VE3LCAGANAHU5UWFA.html",
-        "date": "2026-10-07T08:38:31.000Z"
-      }
-    ],
-    "url": "https://www.zeit.de/mobilitaet/2026-10/bahnstrecke-hannover-hamburg-neubautrasse-deutsche-bahn-bundestag",
-    "agree": "Alle Quellen stimmen überein, dass der Verkehrsausschuss für den Neubau der Bahnstrecke zwischen Hannover und Hamburg gestimmt hat.",
-    "diff": [
-      {
-        "name": "Tagesschau",
-        "note": "Erwähnt zusätzlich die hohe Bedeutung der Strecke für den Personen- und Güterverkehr sowie die Überlastung und den Widerstand gegen das Projekt."
-      },
-      {
-        "name": "Tagesschau Regional Hamburg",
-        "note": "Erwähnt zusätzlich, dass die Trasse umstritten ist und der Bundestag am Folgetag entscheidet."
-      },
-      {
-        "name": "RND",
-        "note": "Beschreibt das Vorhaben als Beendigung eines jahrelangen Streits auf der wichtigen Nord-Süd-Achse."
-      }
-    ],
-    "chg": "",
-    "independent": 3
-  },
-  {
-    "id": "story-cd6bce7f535cb7c6",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-07T09:11:42.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Ifo-Institut: Tankrabatt bisher nur teilweise an Autofahrer weitergegeben",
-    "s": "Das Ifo-Institut hat die Entwicklung der Kraftstoffpreise an den Tankstellen untersucht. Wirtschaftswissenschaftlern zufolge wurde der staatliche Steuerrabatt in den ersten Tagen nur teilweise an die Verbraucher weitergegeben. Aktuell geben die Preise an den Zapfsäulen jedoch nach.",
-    "m": "Die Münchner Wirtschaftsforscher analysieren die Preise an den Tankstellen, ähnlich wie bereits im Frühjahr und Sommer. In den ersten Tagen nach Einführung des Tankrabatts fehlt laut den Experten ein messbares Stück zwischen dem tatsächlichen Preisrückgang und der staatlichen Steuersenkung. Auch der ADAC weist auf entsprechende Defizite bei der Weitergabe hin. Bislang ist unklar, wie sich die Margen der Mineralölkonzerne in den kommenden Wochen entwickeln werden und ob Verbraucher noch stärker entlastet werden. Die Analyse soll im Laufe des Verfahrens weiteren Aufschluss über das Marktverhalten geben.",
-    "r": "Die Untersuchung der Kraftstoffpreise durch das Ifo-Institut ist relevant, da sie die wirksame Entlastung von Verbrauchern bei staatlichen Eingriffen wie dem Tankrabatt bewertet. Die Ergebnisse geben Aufschluss über das Preisverhalten auf dem Energiemarkt.",
-    "srcs": [
-      {
-        "name": "Handelsblatt",
-        "url": "https://www.handelsblatt.com/politik/deutschland/mobilitaetskosten-ifo-tankrabatt-bisher-nur-teilweise-weitergegeben/100260313.html",
-        "date": "2026-10-07T09:11:42.000Z"
-      },
-      {
-        "name": "Süddeutsche Zeitung",
-        "url": "https://www.sueddeutsche.de/wirtschaft/tankrabatt-ifo-institut-spritpreise-diesel-entwicklung-verbraucher-li.3559725",
-        "date": "2026-10-07T06:38:46.000Z"
-      }
-    ],
-    "url": "https://www.handelsblatt.com/politik/deutschland/mobilitaetskosten-ifo-tankrabatt-bisher-nur-teilweise-weitergegeben/100260313.html",
-    "agree": "Die Quellen sind sich einig, dass der Tankrabatt in den ersten Tagen von den Tankstellen bzw. Konzernen bisher nur teilweise an die Autofahrer weitergegeben wurde.",
-    "diff": [
-      {
-        "name": "Handelsblatt",
-        "note": "Erwähnt zusätzlich, dass auch der ADAC Defizite bei der Weitergabe sieht und dass die Preise aktuell nachgeben."
-      },
-      {
-        "name": "Süddeutsche Zeitung",
-        "note": "Merkt an, dass die Münchner Wirtschaftsforscher die Preise an den Zapfsäulen wie schon im Frühjahr und Sommer analysieren."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-4086bd10deb1c4a9",
-    "c": "INT",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-07T08:50:00.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Oscar-Preisträgerin Eva Marie Saint mit 102 Jahren gestorben",
-    "s": "Die Hollywood-Schauspielerin Eva Marie Saint ist im Alter von 102 Jahren gestorben. Sie zählte zu den letzten großen Repräsentatinnen der goldenen Ära Hollywoods. Gleich mit ihrem ersten Film gewann sie 1955 einen Oscar. Am Dienstag verstarb sie in Los Angeles.",
-    "m": "Eva Marie Saint war eine bekannte US-amerikanische Schauspielerin, die für ihre markanten Rollen in der Filmgeschichte bekannt wurde. Bekannt ist unter anderem ihr Auftritt an der Seite von Marlon Brando sowie als unterkühlte Blonde, die Cary Grant in Alfred Hitchcocks Film Der unsichtbare Dritte austrickste. Für ihre Arbeit in ihrem Filmdebüt erhielt sie im Jahr 1955 einen Oscar. Nun ist sie im Alter von 102 Jahren in Los Angeles gestorben. Sie gehörte zu den letzten noch lebenden Repräsentatinnen der goldenen Ära Hollywoods. Weitere Details zu den Umständen ihres Todes oder Hintergründen wurden in den Berichten zunächst nicht genannt.",
-    "r": "Der Tod der Oscar-Preisträgerin markiert den Verlust einer der letzten großen Ikonen aus Hollywoods goldener Ära. Ihre klassischen Filmrollen prägten die Kinogeschichte des 20. Jahrhunderts maßgeblich.",
-    "srcs": [
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/panorama/prominente/eva-marie-saint-hollywood-oscar-preistraegerin-verstorben-100.html",
-        "date": "2026-10-07T08:50:00.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/kultur/kino/eva-marie-saint-ist-tot-oscarpreistraegerin-mit-102-jahren-gestorben-a-7b5844a7-f9d1-41f6-bc63-2b826784db47#ref=rss",
-        "date": "2026-10-07T00:20:00.000Z"
-      }
-    ],
-    "url": "https://www.zdfheute.de/panorama/prominente/eva-marie-saint-hollywood-oscar-preistraegerin-verstorben-100.html",
-    "agree": "Die Quellen stimmen überein, dass die Oscar-Preisträgerin Eva Marie Saint im Alter von 102 Jahren gestorben ist und bereits für ihren ersten Film einen Oscar gewann.",
-    "diff": [
-      {
-        "name": "ZDF heute",
-        "note": "Berichtet, dass sie am Dienstag verstorben ist."
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "Ergänzt, dass sie in Los Angeles gestorben ist und nennt konkrete Co-Stars wie Marlon Brando und Cary Grant sowie den Film Der unsichtbare Dritte."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-9d151aee03226357",
-    "c": "INT",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-07T08:27:40.000Z",
-    "p": 3,
-    "st": "BY",
-    "city": "",
-    "t": "US-Schauspielerin Eva Marie Saint mit 102 Jahren gestorben",
-    "s": "Die US-amerikanische Schauspielerin Eva Marie Saint ist im hohen Alter von 102 Jahren gestorben. Sie blickte auf eine jahrzehntelange Karriere in Hollywood zurück und war in zahlreichen bekannten Filmproduktionen zu sehen.",
-    "m": "Die Todesnachricht über die Hollywood-Legende wurde von den Quellen gemeldet. Saint erlangte weltweite Bekanntheit durch bedeutende Filmrollen. Zu ihren bekanntesten Arbeiten gehört der Hitchcock-Thriller Der unsichtbare Dritten an der Seite von Cary Grant. Ihr Filmdebüt gab sie 1954 in Die Faust im Nacken, wofür sie mit einem Oscar ausgezeichnet wurde. In diesem Film spielte sie an der Seite von Marlon Brando. Auch einem jüngeren Publikum wurde sie durch Auftritte wie in Superman Returns bekannt. Über die genaue Todesursache oder den Ort ihres Versterbens machen die vorliegenden Berichte keine Angaben.",
-    "r": "Der Tod von Eva Marie Saint markiert das Ende eines langen Lebens einer prägenden Persönlichkeit der Hollywood-Filmgeschichte. Ihr filmisches Erbe umfasst mehrere weltbekannte Klassiker und eine Oscar-Auszeichnung.",
-    "srcs": [
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/kultur/hollywood-legende-eva-marie-saint-ist-tot,VXLc3K4",
-        "date": "2026-10-07T08:27:40.000Z"
-      },
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/kultur/eva-marie-saint-gestorben-100.html",
-        "date": "2026-10-07T07:07:20.000Z"
-      }
-    ],
-    "url": "https://www.br.de/nachrichten/kultur/hollywood-legende-eva-marie-saint-ist-tot,VXLc3K4",
-    "agree": "Die Quellen stimmen überein, dass die Schauspielerin Eva Marie Saint im Alter von 102 Jahren gestorben ist.",
-    "diff": [
-      {
-        "name": "BR24 Bayern",
-        "note": "Erwähnt ihre Rolle im Hitchcock-Thriller Der unsichtbare Dritte an der Seite von Cary Grant."
-      },
-      {
-        "name": "Tagesschau",
-        "note": "Nennt ihr Filmdebüt im Jahr 1954 in Die Faust im Nacken an der Seite von Marlon Brando und ihre Rolle in Superman Returns."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-988e250e06b95cb7",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-07T08:25:25.000Z",
-    "p": 2,
-    "st": "BE",
-    "city": "",
-    "t": "Robbie Williams ist Headliner beim Lollapalooza Berlin 2027",
-    "s": "Der britische Popstar Robbie Williams wird im Jahr 2027 als Headliner beim Lollapalooza-Festival im Berliner Olympiapark auftreten. Das gaben die Veranstalter bekannt. Neben Williams stehen in diesem Jahr auch weitere bekannte Musiker auf der Bühne.",
-    "m": "Das Lollapalooza-Festival in Berlin hat für das Jahr 2027 einen prominenten Headliner gewonnen. Der britische Popstar Robbie Williams wird im Berliner Olympiapark das Publikum unterhalten. Neben ihm sind im Rahmen des Line-ups auch Auftritte der Band The Neighbourhood sowie des Singer-Songwriters Sombr angekündigt. Das Festival zieht regelmäßig zehntausende Musikfans in die Hauptstadt und gilt als eines der großen Kulturevents in der Region. Weitere Details zum genauen Zeitplan oder dem restlichen Programm wurden zunächst nicht bekannt gegeben.",
-    "r": "Die Ankündigung eines international bekannten Headliners für ein Großereignis wie das Lollapalooza ist für die Kultur- und Musikszene in Berlin von Bedeutung. Solche Festivals haben zudem wirtschaftliche Auswirkungen auf den Tourismus und die lokale Gastronomie.",
-    "srcs": [
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/kultur/robbie-williams-ist-headliner-fuer-lollapalooza-berlin-QAZUSOGFY5CSFOEJEFLXXYL6J4.html",
-        "date": "2026-10-07T08:25:25.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Berlin",
-        "url": "https://www.tagesschau.de/inland/regional/berlin/rbb-berlin-robbie-williams-kommt-2027-zum-lollapalooza-festival-100.html",
-        "date": "2026-10-07T06:57:00.000Z"
-      }
-    ],
-    "url": "https://www.rnd.de/kultur/robbie-williams-ist-headliner-fuer-lollapalooza-berlin-QAZUSOGFY5CSFOEJEFLXXYL6J4.html",
-    "agree": "Die Quellen sind sich einig, dass Robbie Williams im Jahr 2027 als Headliner beim Lollapalooza-Festival in Berlin auftreten wird.",
-    "diff": [
-      {
-        "name": "RND",
-        "note": "Erwähnt zusätzlich die Band The Neighbourhood und den Singer-Songwriter Sombr als weitere Künstler im Line-up sowie den Auftrittsort Olympiapark."
-      },
-      {
-        "name": "Tagesschau Regional Berlin",
-        "note": "Bietet keine zusätzlichen Details über die im RND genannten Künstler hinaus."
       }
     ],
     "chg": "",
