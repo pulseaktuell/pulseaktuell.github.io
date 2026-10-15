@@ -1,5 +1,1162 @@
 [
   {
+    "id": "story-0b0c2ba1953b5218",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-15T14:33:34.000Z",
+    "p": 2,
+    "st": "RP",
+    "city": "",
+    "t": "Schwerer Verkehrsunfall mit zwei Toten auf der A3 bei Diez",
+    "s": "Auf der Autobahn 3 in Fahrtrichtung Köln hat sich an der Anschlussstelle Diez ein schwerer Verkehrsunfall ereignet. Nach Angaben der Polizei gibt es zwei Todesopfer. Die genaue Unfallursache ist derzeit noch nicht bekannt. Die Ausfahrt an der betroffenen Anschlussstelle bleibt vorerst gesperrt.",
+    "m": "Der Unfall ereignete sich auf der A3 in Fahrtrichtung Köln im Bereich der Anschlussstelle Diez. Die Polizei bestätigte, dass bei dem Zusammenstoß zwei Menschen ums Leben kamen. Einsatzkräfte sind vor Ort, um die Unfallstelle zu sichern und die Ermittlungen aufzunehmen. Infolge des Einsatzes kommt es zu Einschränkungen für den Verkehr. Die Ausfahrt Diez ist bis auf Weiteres für den Fahrverkehr gesperrt. Weitere Details zum Hergang, zu beteiligten Fahrzeugen oder zur Identität der Opfer wurden von den Behörden zunächst nicht mitgeteilt.",
+    "r": "Der Unfall führt zu einer Vollsperrung einer Autobahnausfahrt und hat zwei Todesopfer gefordert, was zu Verkehrsbehinderungen auf einem wichtigen Verkehrsweg führt.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell Rheinland-Pfalz",
+        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/koblenz/schwerer-verkehrsunfall-a3-diez-100.html",
+        "date": "2026-10-15T14:33:34.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Rheinland-Pfalz",
+        "url": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-schwerer-verkehrsunfall-auf-der-a3-bei-diez-100.html",
+        "date": "2026-10-15T13:46:56.000Z"
+      }
+    ],
+    "url": "https://www.swr.de/swraktuell/rheinland-pfalz/koblenz/schwerer-verkehrsunfall-a3-diez-100.html",
+    "agree": "Beide Quellen stimmen überein, dass es auf der A3 in Fahrtrichtung Köln an der Anschlussstelle Diez einen schweren Verkehrsunfall mit zwei Toten gab und die Ausfahrt vorerst gesperrt ist.",
+    "diff": [
+      {
+        "name": "SWR Aktuell Rheinland-Pfalz",
+        "note": "Berichtet wortgleich mit der anderen Quelle über den Unfall."
+      },
+      {
+        "name": "Tagesschau Regional Rheinland-Pfalz",
+        "note": "Berichtet wortgleich mit der anderen Quelle über den Unfall."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-1db2bbf88385c241",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-15T14:29:35.000Z",
+    "p": 4,
+    "st": "HH",
+    "city": "",
+    "t": "Hamburger Gericht verurteilt iranische Spione wegen Anschlagsplänen",
+    "s": "Zwei Männer sind in Hamburg wegen der Vorbereitung antisemitischer Anschläge verurteilt worden. Nach Überzeugung des Gerichts sollten die Attacken in Deutschland stattfinden. Im Fokus standen dabei unter anderem Persönlichkeiten des öffentlichen Lebens wie Volker Beck und Josef Schuster.",
+    "m": "Das Hanseatische Oberlandesgericht oder ein entsprechendes Gericht in Hamburg hat das Urteil gegen die beiden Männer gefällt, die als Spione für den Iran agiert haben sollen. Die Verurteilung stützt sich auf die Vorbereitung schwerer, antisemitischer Anschläge in Deutschland. Zu den konkreten Zielen der geplanten Attacken gehörten der ehemalige Politiker Volker Beck sowie der Präsident des Zentralrats der Juden in Deutschland, Josef Schuster. Bislang wurden keine Details zu den genauen Haftstrafen oder dem exakten Zeitpunkt der Urteilsverkündung in den Berichten genannt. Die Ermittlungen und der Prozess werfen ein Schlaglicht auf nachrichtendienstliche Aktivitäten und Bedrohungen durch den Iran auf deutschem Boden. Offen bleibt in den Berichten, wie die Täter konkret vorgehen wollten und welche weiteren Hintergründe das Netzwerk im Iran und in Deutschland hat.",
+    "r": "Die Verurteilung von iranischen Agenten wegen geplanter Anschläge in Deutschland ist von hoher sicherheitspolitischer Relevanz. Sie verdeutlicht konkrete Bedrohungen jüdischer Einrichtungen und Persönlichkeiten durch ausländische Geheimdienste auf deutschem Staatsgebiet.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Hamburg",
+        "url": "https://www.tagesschau.de/inland/regional/hamburg/nach-anschlagsplaenen-spione-des-irans-in-hamburg-verurteilt,terrorprozess-102.html",
+        "date": "2026-10-15T14:29:35.000Z"
+      },
+      {
+        "name": "NDR Hamburg",
+        "url": "https://www.ndr.de/nachrichten/info/hamburg-iranische-geheimdienst-agenten-verurteilt,ndrinfo-18420.html",
+        "date": "2026-10-15T13:14:33.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/hamburg/nach-anschlagsplaenen-spione-des-irans-in-hamburg-verurteilt,terrorprozess-102.html",
+    "agree": "Beide Quellen stimmen darin überein, dass zwei iranische Spione in Hamburg wegen der Vorbereitung antisemitischer Anschläge auf unter anderem Volker Beck und Josef Schuster verurteilt wurden.",
+    "diff": [
+      {
+        "name": "Tagesschau Regional Hamburg",
+        "note": "Erwähnt im Titel, dass es sich um Spione des Irans handelt und dass die Männer nach Überzeugung des Gerichts gehandelt haben."
+      },
+      {
+        "name": "NDR Hamburg",
+        "note": "Bezeichnet die Täter als iranische Geheimdienst-Agenten."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-df4da554417adced",
+    "c": "INT",
+    "o": "UK",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-15T14:28:54.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Kontroverse um geplanten Livestream der Hinrichtung von Nidal Hasan",
+    "s": "US-Verteidigungsminister Pete Hegseth hat angekündigt, die Hinrichtung des Fort-Hood-Schützen Nidal Hasan per Livestream zu übertragen. Die geplante Hinrichtung durch ein Erschießungskommando soll die erste Hinrichtung beim US-Militär seit Jahrzehnten sein. Die Ankündigung hat schwere Reaktionen ausgelöst.",
+    "m": "Der US-Verteidigungsminister Pete Hegseth kündigte an, die Hinrichtung des Fort-Hood-Schützen Nidal Hasan öffentlich per Livestream zu übertragen. Diese geplante Maßnahme stieß bei Republikanern im Kongress, religiösen Führern und internationalen Beobachtern auf heftige Kritik und einen breiten Aufschrei. Experten für die Todesstrafe betonen, dass eine US-Regierungshinrichtung bisher noch nie im Fernsehen oder via Livestream übertragen wurde. Zudem hat das US-Militär seit 1945 niemanden mehr durch ein Erschießungskommando hinrichten lassen. Die bevorstehende Vollstreckung wäre die erste militärische Hinrichtung seit mehr als 60 Jahren.",
+    "r": "Die geplante öffentliche Übertragung einer militärischen Hinrichtung bricht mit historischen Tabus und erzeugt national sowie international erhebliche politische und gesellschaftliche Debatten.",
+    "srcs": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-15T14:28:54.000Z"
+      },
+      {
+        "name": "France24 English",
+        "url": "https://www.france24.com/en/video/20261015-outcry-over-us-plans-to-livestream-firing-squad-execution-of-fort-hood-shooter",
+        "date": "2026-10-15T12:33:28.000Z"
+      }
+    ],
+    "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+    "agree": "Die Quellen stimmen überein, dass die Hinrichtung des Fort-Hood-Schützen Nidal Hasan durch ein Erschießungskommando geplant ist und die erste militärische Hinrichtung seit über 60 Jahren darstellen soll.",
+    "diff": [
+      {
+        "name": "BBC World",
+        "note": "Berichtet, dass Trump den Livestream für die Hinrichtung abgesagt hat."
+      },
+      {
+        "name": "France24 English",
+        "note": "Berichtet ausführlich über den Aufschrei und die heftige Kritik von Republikanern im Kongress, religiösen Führern und internationalen Beobachtern an den Plänen von US-Verteidigungsminister Pete Hegseth."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-bb78abf0254fd249",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-15T14:27:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Veröffentlichter Notruf-Mitschnitt zum Tod von Hayden Panettiere",
+    "s": "Ein veröffentlichter Mitschnitt des Notrufs vom Todestag der Schauspielerin Hayden Panettiere gibt Einblicke in die dramatischen Ereignisse. Die 36-Jährige starb vor zwei Monaten. Der Bruder ihres Partners versuchte sie demnach am Telefon zu reanimieren.",
+    "m": "Die Schauspielerin Hayden Panettiere ist im Alter von 36 Jahren gestorben, wie nun durch die Veröffentlichung eines Notruf-Mitschnitts näher beleuchtet wird. Der Vorfall ereignete sich vor zwei Monaten. Aus dem Mitschnitt geht hervor, dass Zach Hickerson, der Bruder ihres Partners Brian Hickerson, in den letzten Momenten am Telefon versuchte, sie verzweifelt wiederzubeleben. Weitere Details zu den genauen Todesumständen oder offiziellen Untersuchungsergebnissen gehen aus den Berichten nicht hervor. Der Fall wirft ein Schlaglicht auf die letzten Minuten vor dem Eintreffen der Rettungskräfte. Die Öffentlichkeit nimmt durch die Audio-Veröffentlichung Anteil an den dramatischen Geschehnissen des Todestages.",
+    "r": "Die Veröffentlichung des Notruf-Mitschnitts gewährt Einblicke in den Todestag einer bekannten Schauspielerin und dokumentiert die Rettungsversuche ihres Umfelds. Solche Audio-Dokumente beleuchten oft den zeitlichen Ablauf vor Eintreffen professioneller Hilfe.",
+    "srcs": [
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/lifestyle/leute/hayden-panettiere--bruder-ihres-partners-reanimierte-sie-am-telefon-38402268.html",
+        "date": "2026-10-15T14:27:00.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/leute/Notruf-von-Hayden-Panettieres-Todestag-veroeffentlicht-id31421535.html",
+        "date": "2026-10-15T12:09:31.000Z"
+      }
+    ],
+    "url": "https://www.stern.de/lifestyle/leute/hayden-panettiere--bruder-ihres-partners-reanimierte-sie-am-telefon-38402268.html",
+    "agree": "Die Quellen sind sich einig, dass Hayden Panettiere mit 36 Jahren verstarb und der Bruder ihres Partners versuchte, sie per Notruf-Anleitung wiederzubeleben.",
+    "diff": [
+      {
+        "name": "stern",
+        "note": "Erwähnt nicht den genauen Zeitpunkt von vor zwei Monaten, sondern fokussiert sich direkt auf das Notruf-Drama."
+      },
+      {
+        "name": "ntv",
+        "note": "Gibt an, dass der Tod bereits vor zwei Monaten stattfass und nennt den vollständigen Namen des Partners Brian Hickerson."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-9bbc2475058b5dcc",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-15T14:26:00.000Z",
+    "p": 2,
+    "st": "BY",
+    "city": "",
+    "t": "Vermisster Student nach einem Jahr tot aus Starnberger See geborgen",
+    "s": "Ein vor über einem Jahr im Starnberger See verschwundener Student ist tot geborgen worden. Der 23-jährige Nichtschwimmer war im Sommer des Vorjahres bei einem Bootsausflug mit Freunden ins Wasser gegangen und untergegangen. Nun gibt es traurige Gewissheit über sein Schicksal.",
+    "m": "Der junge Mann war im Sommer vergangenen Jahres mit Freunden auf einem Boot auf dem Starnberger See unterwegs gewesen. Als Nichtschwimmer sprang er zum Baden ins Wasser, schaffte es jedoch nicht mehr aus eigener Kraft zurück auf das Boot und ging unter. Umfangreiche Suchaktionen brachten damals zunächst keinen Erfolg. Nach mehr als einem Jahr Ungewissheit wurde der Körper des 23-Jährigen nun tot aus dem See geborgen. Der genaue Zeitpunkt und die Umstände der Bergung wurden in den Berichten nicht näher spezifiziert. Die Ermittlungen zu dem tragischen Badeunfall sind damit abgeschlossen.",
+    "r": "Der Fund des seit langer Zeit vermissten Studenten bringt traurige Gewissheit in einem ungeklärten Vermisstenfall aus dem Vorjahr. Solche Badeunfälle verdeutlichen die Gefahren von Gewässern für Nichtschwimmer bei Freizeitaktivitäten.",
+    "srcs": [
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/panorama/justiz/starnberg-vermisster-student-ein-jahr-nach-verschwinden-tot-aus-starnberger-see-geborgen-a-6579c55d-d531-40ab-8075-5fc5428cd02b#ref=rss",
+        "date": "2026-10-15T14:26:00.000Z"
+      },
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/panorama/nach-mehr-als-einem-jahr--vermisster-student-tot-aus-starnberger-see-geborgen-38402286.html",
+        "date": "2026-10-15T14:00:04.000Z"
+      },
+      {
+        "name": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/bayern/vermisster-student-tot-aus-starnberger-see-geborgen,VY7Z710",
+        "date": "2026-10-15T13:58:27.000Z"
+      }
+    ],
+    "url": "https://www.spiegel.de/panorama/justiz/starnberg-vermisster-student-ein-jahr-nach-verschwinden-tot-aus-starnberger-see-geborgen-a-6579c55d-d531-40ab-8075-5fc5428cd02b#ref=rss",
+    "agree": "Die Quellen stimmen überein, dass ein vermisster 23-jähriger Student, der als Nichtschwimmer bei einem Bootsausflug mit Freunden auf dem Starnberger See unterging, nun tot geborgen wurde.",
+    "diff": [
+      {
+        "name": "BR24 Bayern",
+        "note": "Gibt abweichend an, dass der Vorfall bereits vier Monate statt über ein Jahr her ist und datiert das Ereignis auf den Monat Juni."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
+    "id": "story-af81f3f931b68a40",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-15T14:21:30.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Trump kippt geplanten Livestream von Hinrichtung in Texas",
+    "s": "Die geplante Erschießung eines zum Tode verurteilten Attentäters in Texas soll nicht mehr per Livestream übertragen werden. US-Präsident Donald Trump begründete die Entscheidung auf seiner Plattform Truth Social mit dem Wunsch vieler Menschen, nicht zusehen zu wollen.",
+    "m": "Die geplante Erschießung eines zum Tode verurteilten Attentäters auf einem Militärstützpunkt im US-Bundesstaat Texas wird entgegen vorheriger Planungen nicht per Livestream übertragen. Dies gab US-Präsident Donald Trump bekannt. Als Grund für die Kehrtwende nannte er, dass viele Menschen lieber nicht zusehen würden, wie der Mann sterbe. Die Erklärung wurde von Trump über seine eigene Plattform Truth Social verbreitet. Weitere Details zu dem Fall oder dem Datum der Hinrichtung wurden in den vorliegenden Berichten nicht genannt.",
+    "r": "Die Entscheidung eines US-Präsidenten gegen die Live-Übertragung einer staatlichen Hinrichtung wirft Fragen zur Öffentlichkeit und Transparenz solcher Maßnahmen auf. Sie zeigt zudem, wie direkt über soziale Medien politische und exekutive Entscheidungen kommuniziert werden.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-10/15/trump-kein-livestream-bei-hinrichtung-eines-attentaeters",
+        "date": "2026-10-15T14:21:30.000Z"
+      },
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/news/--trump--kein-livestream-bei-hinrichtung-eines-attentaeters-38403328.html",
+        "date": "2026-10-15T14:21:30.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/news/2026-10/15/trump-kein-livestream-bei-hinrichtung-eines-attentaeters",
+    "agree": "Beide Quellen stimmen darin überein, dass Donald Trump angekündigt hat, die geplante Hinrichtung eines Attentäters in Texas nicht per Livestream zu übertragen.",
+    "diff": [
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Die Meldung beschränkt sich lediglich auf die Schlagzeile ohne zusätzlichen Fließtext."
+      },
+      {
+        "name": "stern",
+        "note": "Liefert die Details, dass die Hinrichtung auf einem Militärstützpunkt in Texas stattfinden soll und dass Trump die Entscheidung auf Truth Social mit den Worten begründete, viele Menschen würden lieber nicht zusehen wollen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-1fc6b97881f1c0c1",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-15T14:09:52.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Schuldach in Peshawar eingestürzt: Dutzende Tote und Verletzte",
+    "s": "In der pakistanischen Stadt Peshawar ist das Dach einer Schule eingestürzt. Dabei kamen zahlreiche Menschen ums Leben, darunter viele Kinder und eine Lehrerin. Zahlreiche weitere Personen wurden verletzt und in Krankenhäuser gebracht.",
+    "m": "Das Unglück ereignete sich während des Unterrichts, als das Dach des Schulgebäudes in Peshawar plötzlich kollabierte. Unter den Todesopfern befinden sich viele Schüler im Alter von bis zu zwölf Jahren sowie eine Lehrerin. Die Zahl der Toten wird von den Quellen mit fast 30 beziehungsweise mindestens 35 angegeben. Schwerverletzte werden derzeit in Krankenhäusern behandelt und ringen dort um ihr Leben. Rettungs- und Bergungsarbeiten liefen an, um Verschüttete zu bergen und weitere Opfer zu versorgen.",
+    "r": "Das Ereignis ist von hoher Relevanz, da ein Schulunglück mit Dutzenden Todesopfern und zahlreichen Verletzten eine schwere humanitäre Katastrophe darstellt. Die genauen Ursachen für den Einsturz und mögliche Sicherheitsmängel sind von öffentlichem Interesse.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/schuldach-in-der-stadt-peshawar-stuerzt-ein-zahlreiche-tote-und-verletzte-100.html",
+        "date": "2026-10-15T14:09:52.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/panorama/pakistan-schuldach-stuerzt-ein-mindestens-35-tote-in-peshawar-PVA5A2NNXBETPAONPRNVEXSLP4.html",
+        "date": "2026-10-15T11:55:27.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/schuldach-in-der-stadt-peshawar-stuerzt-ein-zahlreiche-tote-und-verletzte-100.html",
+    "agree": "Beide Quellen stimmen darin überein, dass in der Stadt Peshawar das Dach einer Schule eingestürzt ist und es zahlreiche Todesopfer sowie Verletzte gibt.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "nennt die genaue Zahl von fast 30 Toten."
+      },
+      {
+        "name": "RND",
+        "note": "präzisiert, dass die Schüler bis zu zwölf Jahre alt waren, eine Lehrerin unter den Toten ist und es mindestens 35 Tote gab."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-f05540766e6239cf",
+    "c": "DE",
+    "o": "DE",
+    "k": "umwelt",
+    "lang": "de",
+    "d": "2026-10-15T14:09:52.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Mehlschwalbe wird zum 'Vogel des Jahres' 2027 gewählt",
+    "s": "Die Mehlschwalbe ist zum 'Vogel des Jahres' 2027 gewählt worden. Sie setzte sich bei einer öffentlichen Abstimmung gegen vier Konkurrenten durch. Der Name des Zugvogels leitet sich von seiner charakteristischen mehlweißen Unterseite ab.",
+    "m": "Bei der offiziellen Abstimmung zum 'Vogel des Jahres' 2027 konnte sich die Mehlschwalbe gegen vier Mitbewerber behaupten und den Sieg davontragen. Insgesamt entfielen 67.050 Stimmen auf den Zugvogel. Die Wahl macht auf die Situation dieser Vogelart aufmerksam, deren Name auf die markante mehlweiße Unterseite verweist. Der Titel wird jährlich von Naturschutzorganisationen vergeben, um auf bedrohte Arten und deren Lebensräume aufmerksam zu machen. Weitere Details zu den verbleibenden vier Konkurrenten oder dem genauen Ablauf der Abstimmung wurden nicht genannt.",
+    "r": "Die Ernennung eines Vogels des Jahres lenkt die öffentliche Aufmerksamkeit auf den Natur- und Artenschutz sowie die Lebensbedingungen dieser spezifischen Zugvogelart.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/mehlschwalbe-zum-vogel-des-jahres-2027-gewaehlt-100.html",
+        "date": "2026-10-15T14:09:52.000Z"
+      },
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/video/zdfheute-xpress/mehlschwalbe-vogel-des-jahres-video-100.html",
+        "date": "2026-10-15T13:22:00.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/mehlschwalbe-zum-vogel-des-jahres-2027-gewaehlt-100.html",
+    "agree": "Beide Quellen stimmen überein, dass die Mehlschwalbe zum 'Vogel des Jahres' 2027 gewählt wurde.",
+    "diff": [
+      {
+        "name": "ZDF heute",
+        "note": "nennt die genaue Stimmenzahl von 67.050, erwähnt die vier Konkurrenten sowie die Herkunft des Namens aufgrund der mehlweißen Unterseite"
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-2399040cbdae7db5",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-15T14:05:52.000Z",
+    "p": 2,
+    "st": "RP",
+    "city": "",
+    "t": "Räumung der Edelsteinbörse in Idar-Oberstein wegen Brandschutzmängeln",
+    "s": "Die Stadt Idar-Oberstein hat die Hotelgäste der Edelsteinbörse um Mitternacht vor die Tür gesetzt. Das Hotel hatte die Gäste trotz bekannter Brandschutzmängel einchecken lassen. Die Betroffenen mussten ihre Zimmer mitten in der Nacht verlassen.",
+    "m": "Die Stadt Idar-Oberstein griff zu dieser harten Maßnahme, da massive Brandschutzmängel im Gebäude vorliegen, die eine akute Gefahr darstellen. Obwohl diese Mängel der Hotelführung bekannt waren, wurden weiterhin Gäste einchecken lassen, was zum plötzlichen nächtlichen Einschreiten der Behörden führte. Um Mitternacht wurden die anwesenden Hotelgäste aufgefordert, das Gebäude unverzüglich zu verlassen und ihre Zimmer zu räumen. Bisher ist unklar, wie lange die Schließung des Hotels anhalten wird und welche rechtlichen Konsequenzen auf den Betreiber zukommen. Die Stadt betonte, dass der Schutz der Gäste angesichts der Mängel oberste Priorität habe. Offen bleibt auch, wie die Unterbringung der betroffenen Gäste für den restlichen Verlauf der Nacht organisiert wurde.",
+    "r": "Der Vorfall ist relevant, weil akute Brandschutzmängel in einer Beherbergungsstätte zu einer sofortigen nächtlichen Räumung durch die Behörden geführt haben. Dies wirft Fragen zum Umgang mit Sicherheitsvorschriften durch den Hotelbetreiber auf.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/trier/edelsteinboerse-idar-oberstein-geraeumt-hotelgast-muss-mitten-in-der-nacht-raus-100.html",
+        "date": "2026-10-15T14:05:52.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Rheinland-Pfalz",
+        "url": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-raeumung-edelsteinboerse-hotelgast-muss-mitten-in-der-nacht-zimmer-verlassen-100.html",
+        "date": "2026-10-15T13:56:00.000Z"
+      }
+    ],
+    "url": "https://www.swr.de/swraktuell/rheinland-pfalz/trier/edelsteinboerse-idar-oberstein-geraeumt-hotelgast-muss-mitten-in-der-nacht-raus-100.html",
+    "agree": "Beide Quellen stimmen darin überein, dass die Stadt Idar-Oberstein die Hotelgäste der Edelsteinbörse um Mitternacht vor die Tür gesetzt hat und das Hotel sie trotz bekannter Brandschutzmängel einchecken ließ.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-a54009dc3b777065",
+    "c": "DE",
+    "o": "DE",
+    "k": "wissenschaft",
+    "lang": "de",
+    "d": "2026-10-15T14:00:17.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Brustkrebs-Früherkennung: Mammografie-Screening künftig bereits ab 45 Jahren",
+    "s": "Frauen in Deutschland sollen künftig bereits ab einem Alter von 45 Jahren zu einem Mammografie-Screening zur Früherkennung von Brustkrebs eingeladen werden. Bisher übernehmen die Krankenkassen die Kosten für diese Untersuchung regulär erst ab 50 Jahren. Die geplante Neuregelung stellt eine wichtige Ausweitung der Krebsvorsorge dar.",
+    "m": "Brustkrebs ist die häufigste Krebserkrankung bei Frauen in Deutschland, wobei jährlich rund 75.000 Neuerkrankungen verzeichnet werden. Bisher haben Frauen erst ab 50 Jahren Anspruch auf das reguläre Mammografie-Screening, wobei das Ziel der Ausweitung auf 45-Jährige eine frühere und damit erfolgreichere Tumorerkennung ist. Die entsprechende Neuregelung soll nach den vorliegenden Planungen im Sommer 2027 in Kraft treten. Da es sich um eine Änderung der bisherigen Altersgrenzen handelt, werden künftig deutlich mehr Frauen in das Einladungsverfahren für die Früherkennung einbezogen. Die Quellen betonen übereinstimmend die medizinische Bedeutung einer möglichst frühen Entdeckung von Tumoren.",
+    "r": "Die Ausweitung des Mammografie-Screenings auf jüngere Frauen betrifft die gesetzliche Krebsvorsorge für einen erheblichen Teil der Bevölkerung. Eine frühere Erkennung von Brustkrebs kann die Heilungschancen der jährlich rund 75.000 betroffenen Frauen verbessern.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/wissen/gesundheit/mammografie-ab-45-100.html",
+        "date": "2026-10-15T14:00:17.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/wissen/brustkrebs-frueherkennung-kuenftig-bereits-ab-45-jahren-MAMAOM3GFNARZBPLPLJV3JOPTQ.html",
+        "date": "2026-10-15T13:54:37.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/wissen/gesundheit/mammografie-ab-45-100.html",
+    "agree": "Die Quellen sind sich einig, dass das Mammografie-Screening zur Früherkennung von Brustkrebs künftig bereits ab 45 Jahren stattfinden soll und damit die bisherige Altersgrenze von 50 Jahren herabgesetzt wird.",
+    "diff": [
+      {
+        "name": "SWR Aktuell",
+        "note": "Berichtet, dass es sich um eine geplante Neuregelung handelt, ohne ein konkretes Inkrafttreten zu nennen."
+      },
+      {
+        "name": "RND",
+        "note": "Führt an, dass Brustkrebs die häufigste Krebsart bei Frauen ist und jährlich rund 75.000 Frauen neu erkranken."
+      },
+      {
+        "name": "Tagesschau",
+        "note": "Gibt an, dass die geplante Neuregelung im Sommer 2027 in Kraft treten könnte."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-c2e7c17b5cd0b8c2",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-15T13:42:47.000Z",
+    "p": 2,
+    "st": "BW",
+    "city": "",
+    "t": "Erneuter Angriff auf Schüler in Ulmer Kuhberghalle",
+    "s": "In der Ulmer Kuhberghalle ist am Mittwochnachmittag erneut ein Schüler von einem Unbekannten angegriffen worden. Die Polizei hat nach dem Vorfall ihre Präsenz erhöht. Weitere Details zu den Hintergründen oder dem Täter sind derzeit noch nicht bekannt.",
+    "m": "Der Vorfall ereignete sich am Mittwochnachmittag in der Ulmer Kuhberghalle. Nach Angaben der Polizei wurde dort erneut ein Schüler von einer bislang unbekannten Person angegriffen. Es ist der wiederholte Vorfall dieser Art an dem Ort. Die Polizei hat infolgedessen ihre Präsenz in diesem Bereich erhöht, um für Sicherheit zu sorgen. Bislang gibt es keine offiziellen Informationen zur Identität des Täters oder zum genauen Tathergang. Auch der gesundheitliche Zustand des betroffenen Schülers wurde in den vorliegenden Berichten nicht näher beziffert. Die Ermittlungen der zuständigen Behörden zu den Hintergründen und dem genauen Ablauf des Angriffs dauern an.",
+    "r": "Die Meldung ist relevant, da es sich um einen wiederholten Übergriff auf einen Schüler an einem konkreten öffentlichen Ort handelt und die Polizei bereits mit einer erhöhten Präsenz reagieren musste.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell Baden-Württemberg",
+        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/erneuter-angriff-auf-schueler-in-ulm-100.html",
+        "date": "2026-10-15T13:42:47.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Baden-Württemberg",
+        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-erneuter-angriff-auf-schueler-in-der-ulmer-kuhberghalle-100.html",
+        "date": "2026-10-15T12:01:00.000Z"
+      }
+    ],
+    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/erneuter-angriff-auf-schueler-in-ulm-100.html",
+    "agree": "Beide Quellen stimmen darin überein, dass am Mittwochnachmittag ein Schüler in der Ulmer Kuhberghalle von einem Unbekannten angegriffen wurde.",
+    "diff": [
+      {
+        "name": "Tagesschau Regional Baden-Württemberg",
+        "note": "Ergänzt die Information, dass die Polizei aufgrund des Vorfalls ihre Präsenz erhöht hat."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-491ae17cd72d98c5",
+    "c": "INT",
+    "o": "DE",
+    "k": "technik",
+    "lang": "de",
+    "d": "2026-10-15T12:49:00.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Indie-Hit »Big Walk« erscheint nicht für Xbox",
+    "s": "Das hoch bewertete Videospiel »Big Walk« wird nicht für Konsolen von Microsoft erscheinen. Die Entwickler begründen diese Entscheidung mit politischen Umständen. Bislang konnten Xbox-Besitzer den Titel nicht spielen.",
+    "m": "Das erfolgreiche Videospiel »Big Walk«, das zu den bestbewerteten Titeln des Jahres zählt, wird nach Angaben der Entwickler nicht für die Xbox veröffentlicht. Als Grund für diesen Schritt nannten die Macher eine antiisraelische Kampagne. Das Spiel hat in der Gaming-Community viel Aufmerksamkeit erregt und war bislang für Xbox-Spieler nicht verfügbar. Die Entscheidung sorgt nun in der Branche für Diskussionen über den Einfluss politischer Motive auf Plattform-Veröffentlichungen. Weitere Details zu den Hintergründen der Kampagne oder Reaktionen von Microsoft sind derzeit nicht bekannt.",
+    "r": "Die Entscheidung wirft Fragen über den Einfluss politischer Kampagnen auf die Veröffentlichung von Videospielen auf bestimmten Plattformen auf. Sie betrifft eine der erfolgreichsten Neuerscheinungen des Jahres.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUWJIZVpSa0ZtNFF2UDJ1U05OdTZpV2ljYWdJY2g5Z1hmV3RXblhlal84ZmxoNDN5RHdrRG41SUV3LUFKcXRsU0h5Y1c4R3lmQTdiTEZKdHJidGszVnp4RFU5RXB5bzBsdHFhMFJQVW02cG9FTUYtUWdkbV9kem9YUURrbjBFSnlFNUZvYW4wSGZGaDloNkVNeDVDZ3gtNTRMcjV3ZC03c09BN2hxQ0hmaDV6QlE3VnZ3QUFqSnpKeXJwX1lPQUVIMEVyeWI0b0NldVNWblF4WnlXNU9mVEk0?oc=5",
+        "date": "2026-10-15T12:49:00.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/netzwelt/games/big-walk-indie-hit-erscheint-aus-politischen-gruenden-nicht-fuer-xbox-a-f237170f-4c88-4819-b1b7-6ca9162bd966#ref=rss",
+        "date": "2026-10-15T12:49:00.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUWJIZVpSa0ZtNFF2UDJ1U05OdTZpV2ljYWdJY2g5Z1hmV3RXblhlal84ZmxoNDN5RHdrRG41SUV3LUFKcXRsU0h5Y1c4R3lmQTdiTEZKdHJidGszVnp4RFU5RXB5bzBsdHFhMFJQVW02cG9FTUYtUWdkbV9kem9YUURrbjBFSnlFNUZvYW4wSGZGaDloNkVNeDVDZ3gtNTRMcjV3ZC03c09BN2hxQ0hmaDV6QlE3VnZ3QUFqSnpKeXJwX1lPQUVIMEVyeWI0b0NldVNWblF4WnlXNU9mVEk0?oc=5",
+    "agree": "Die Quellen stimmen überein, dass der Indie-Hit »Big Walk« aus politischen Gründen nicht für die Xbox erscheint.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Erwähnt Spiegel als Medium und liefert Auszüge aus dem RSS-Feed."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Berichtet, dass es sich um eines der bestbewerteten Games des Jahres handelt und die Entwickler auf eine antiisraelische Kampagne verweisen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-17e8bca989dfc510",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-15T12:35:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Mindestens zwei Tote nach schwerem Starkregen in Istanbul",
+    "s": "In der türkischen Metropole Istanbul haben heftige Regenfälle zu schweren Überschwemmungen geführt. Nach Angaben der Berichte kamen bei dem Unwetter mindestens zwei Menschen ums Leben. Zahlreiche Straßen wurden überflutet und Fahrzeuge blieben stecken.",
+    "m": "Der wohl stärkste Regen seit vierzig Jahren hat Teile der türkischen Metropole Istanbul unter Wasser gesetzt und Bilder der Verwüstung hinterlassen. Bei den heftigen Regenfällen starben mindestens zwei Menschen. Straßen wurden komplett überflutet, und zahlreiche Fahrzeuge blieben stecken. Die zuständigen Behörden befinden sich im Großeinsatz, um die Situation zu bewältigen. Meteorologischen Aussichten zufolge ist auch für den heutigen Tag weiterer Regen in der Region angekündigt.",
+    "r": "Naturkatastrophen wie heftiger Starkregen mit Todesfällen und massiven Infrastrukturbeeinträchtigungen in Großstädten erfordern Großeinsätze der Behörden. Die Berichterstattung dokumentiert die akute Gefahrenlage und anhaltenden Wetterrisiken.",
+    "srcs": [
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/istanbul-zwei-tote-nach-heftigem-starkregen-und-ueberschwemmungen-a-120cd996-adeb-4515-9c3d-1e77bcb3ff5e#ref=rss",
+        "date": "2026-10-15T12:35:00.000Z"
+      },
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/asien/tuerkei-ueberschwemmungen-istanbul-100.html",
+        "date": "2026-10-15T09:05:45.000Z"
+      }
+    ],
+    "url": "https://www.spiegel.de/ausland/istanbul-zwei-tote-nach-heftigem-starkregen-und-ueberschwemmungen-a-120cd996-adeb-4515-9c3d-1e77bcb3ff5e#ref=rss",
+    "agree": "Die Quellen stimmen überein, dass es durch heftige Regenfälle und Überschwemmungen in Istanbul mindestens zwei Tote gab.",
+    "diff": [
+      {
+        "name": "DER SPIEGEL",
+        "note": "berichtet, dass es sich möglicherweise um den stärksten Regen seit vierzig Jahren handelt und erwähnt Bilder der Verwüstung."
+      },
+      {
+        "name": "Tagesschau",
+        "note": "berichtet, dass die Behörden im Großeinsatz sind und für den heutigen Tag weiterer Regen angekündigt ist."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-b806f55b26318ce2",
+    "c": "INT",
+    "o": "UK",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-15T12:28:26.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "SchulDach-Einsturz in Peshawar fordert Dutzende Todesopfer",
+    "s": "Bei dem Einsturz eines SchulDaches in der nordwestpakistanischen Stadt Peshawar sind zahlreiche Schüler und eine Lehrkraft ums Leben gekommen. Rettungskräfte sind im Großeinsatz, da weitere Personen unter den Trümmern vermutet werden. Die genaue Ursache und die endgültige Zahl der Opfer sind Gegenstand laufender Rettungs- und Bergungsarbeiten.",
+    "m": "In Peshawar in Nordwestpakistan ist das Dach einer Schule eingestürzt, wobei Dutzende Menschen getötet wurden. Unter den Opfern befinden sich überwiegend Kinder und mindestens eine Lehrkraft. Rettung offizieller Stellen vor Ort befürchten, dass noch weitere Personen unter den Trümmern begraben liegen. Der genaue zeitliche Ablauf des Unglücks sowie technische Details zur baulichen Beschaffenheit des Schulgebäudes gehen aus den Berichten nicht hervor. Die Behörden konzentrieren sich derzeit vorrangig auf die Suche nach Überlebenden und die Bergung der Verletzten.",
+    "r": "Schwere Gebäudeeinstürze mit zahlreichen Todesopfern bei Bildungseinrichtungen erfordern internationale Aufmerksamkeit und werfen Fragen zur BauSicherheit auf. Das Ereignis zeigt akuten Handlungsbedarf bei Rettungseinsätzen in Katastrophengebieten.",
+    "srcs": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-15T12:28:26.000Z"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/10-15-pak-school-collapse-sv?traffic_source=rss",
+        "date": "2026-10-15T10:21:43.000Z"
+      }
+    ],
+    "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
+    "agree": "Die Quellen stimmen überein, dass es sich um einen Dacheinsturz an einer Schule in Peshawar in Pakistan handelt, bei dem zahlreiche Kinder und Personen getötet wurden und Rettungskräfte im Einsatz sind.",
+    "diff": [
+      {
+        "name": "BBC World",
+        "note": "Berichtet von mindestens 33 getöteten Schülern sowie einer Lehrkraft und erwähnt, dass Rettungskräfte weitere Verschüttete unter den Trümmern befürchten."
+      },
+      {
+        "name": "Al Jazeera",
+        "note": "Spricht von Dutzenden getöteten Kindern und nennt eine Zahl von mindestens 29 getöteten Personen, hauptsächlich Kindern."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-9cfab69d02cdcf24",
+    "c": "INT",
+    "o": "UK",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-15T12:03:51.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Ukraine nimmt Angriffe auf russische Ölanlagen nach Ablauf der Pause wieder auf",
+    "s": "Der ukrainische Präsident hat erklärt, dass eine bisherige Pause bei Angriffen auf Energieanlagen beendet ist. Nach Angaben aus Russland hat die Ukraine daraufhin eine Ölanlage angegriffen. Die jüngsten Angriffe Russlands haben zu diesem Schritt geführt.",
+    "m": "Der ukrainische Präsident kündigte an, dass die Ukraine ihre Angriffe auf russische Ölanlagen wieder aufnimmt. Zuvor hatte er erklärt, die Ukraine sei mit dem bisherigen Waffenstillstand im Energiesektor fertig. Russland beschuldigt die Ukraine nun offiziell, nach dieser Ankündigung eine Ölanlage attackiert zu haben. Auslöser für das Ende der Pause waren nach ukrainischen Angaben frische Angriffe von russischer Seite. Die Entwicklung zeigt eine Eskalation der Angriffe auf kritische Infrastruktur im Konflikt. Weitere Details zu Schäden an der Ölanlage oder möglichen Opfern nennen die Berichte nicht.",
+    "r": "Die Wiederaufnahme gezielter Angriffe auf Energie- und Ölinfrastruktur verschärft den Konflikt zwischen Russland und der Ukraine weiter. Dies könnte zu neuen Versorgungsrisiken und einer erhöhten militärischen Eskalation in der Region führen.",
+    "srcs": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-15T12:03:51.000Z"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/15/russia-says-ukraine-resumes-attacks-on-oil-refineries?traffic_source=rss",
+        "date": "2026-10-15T10:02:17.000Z"
+      }
+    ],
+    "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+    "agree": "Die Quellen sind sich einig, dass der ukrainische Präsident das Ende der Pause bei Angriffen auf Energieanlagen erklärt hat und Angriffe auf russische Ölanlagen wieder aufgenommen wurden.",
+    "diff": [
+      {
+        "name": "BBC World",
+        "note": "Erwähnt explizit, dass frische russische Angriffe der Auslöser dafür waren, dass die Pause für beendet erklärt wurde."
+      },
+      {
+        "name": "Al Jazeera",
+        "note": "Berichtet, dass Russland der Ukraine konkret vorwirft, eine Ölanlage angegriffen zu haben."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-fb8baf3c65bcd685",
+    "c": "DE",
+    "o": "DE",
+    "k": "umwelt",
+    "lang": "de",
+    "d": "2026-10-15T11:58:59.000Z",
+    "p": 2,
+    "st": "MV",
+    "city": "",
+    "t": "Mehlschwalbe ist Vogel des Jahres 2027",
+    "s": "Mehr als 148.500 Menschen haben bei einer NABU-Abstimmung die Mehlschwalbe zum Vogel des Jahres 2027 gewählt. Die Wahl soll auf die Bedrohung der Vogelart aufmerksam machen. Die Schwalben kämpfen vor allem mit schwindenden Nistmöglichkeiten und Futtersorgen.",
+    "m": "Bei der öffentlichen Abstimmung des Naturschutzbundes NABU setzte sich die Mehlschwalbe klar gegen Konkurrenten durch und wurde zum Vogel des Jahres 2027 gekürt. Insgesamt beteiligten sich mehr als 148.500 Bürgerinnen und Bürger an dem Votum. Im Zentrum der Initiative steht der Schutz der gefährdeten Art, deren Bestände unter gravierenden Umweltveränderungen leiden. Als Hauptgründe für die Gefährdung gelten der Mangel an geeignetem Baumaterial für Nester sowie ein drastisch schwindendes Angebot an Insekten als Nahrungsgrundlage. Mit dem Titel soll ein breites Bewusstsein für diese Problematik geschaffen und der konkrete Schutz der Tiere vorangetrieben werden.",
+    "r": "Die Auszeichnung lenkt die öffentliche Aufmerksamkeit auf den Artenschutz und die ökologischen Probleme von Gebäudebrütern in Deutschland. Sie verdeutlicht die Bedrohung durch Insektensterben und Wohnungsnot in der Natur.",
+    "srcs": [
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/panorama/vogel-des-jahres-2027-warum-die-mehlschwalbe-hilfe-braucht-57PE25GZJFDCDCPAAEN7347FMY.html",
+        "date": "2026-10-15T11:58:59.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Mecklenburg-Vorpommern",
+        "url": "https://www.ndr.de/ratgeber/die-mehlschwalbe-ist-vogel-des-jahres-2027,vogeldesjahres-100.html",
+        "date": "2026-10-15T10:31:54.000Z"
+      }
+    ],
+    "url": "https://www.rnd.de/panorama/vogel-des-jahres-2027-warum-die-mehlschwalbe-hilfe-braucht-57PE25GZJFDCDCPAAEN7347FMY.html",
+    "agree": "Beide Quellen stimmen überein, dass die Mehlschwalbe zum Vogel des Jahres 2027 gewählt wurde und gefährdet ist.",
+    "diff": [
+      {
+        "name": "Tagesschau Regional Mecklenburg-Vorpommern",
+        "note": "Erwähnt konkret, dass die Gefährdung durch immer weniger Nester und Insekten entsteht."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-a81657a836212e11",
+    "c": "INT",
+    "o": "PT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-15T11:51:33.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "EUA ponderam usar GBU-43/B MOAB contra o Irão",
+    "s": "Die US-Regierung erwägt den Einsatz der konventionell stärksten Bombe, der GBU-43/B MOAB, falls Präsident Donald Trump neue Angriffe gegen den Iran anordnet. Die sogenannte „Mutter aller Bomben“ gehört zu den mächtigsten konventionellen Waffen der US-Streitkräfte. Das Berichten zufolge diskutierte Szenario hängt von künftigen militärischen Befehlen ab.",
+    "m": "Die US-amerikanische Militärmaschinerie zieht im Konflikt mit dem Iran den potenziellen Rückgriff auf die GBU-43/B MOAB in Betracht. Diese konventionelle Waffe, oft als „Mutter aller Bomben“ bezeichnet, stellt die mächtigste ihrer Art im Arsenal der Vereinigten Staaten dar. Eine offizielle Entscheidung ist an die Bedingung geknüpft, dass Donald Trump die Wiederaufnahme von Angriffen anordnet. Bislang handelt es sich um Erwägungen im Rahmen der militärischen Planungen. Weitere Details zu konkreten Zielen oder Zeitplänen wurden in den Berichten nicht genannt. Die Situation verdeutlicht die anhrende Eskalationsgefahr in der Region.",
+    "r": "Die Erwägung des Einsatzes der mächtigsten konventionellen US-Bombe gegen den Iran verdeutlicht die potenzielle Eskalation des Konflikts. Ein solcher Schritt könnte gravierende militärische und geopolitische Folgen haben.",
+    "srcs": [
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/mundo/gbu-43b-moab-eua-ponderam-usar-a-mae-de-todas-as-bombas-contra-o-irao_n1771838",
+        "date": "2026-10-15T11:51:33.000Z"
+      },
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU1ZVVEdPcWZfZ2pzTkcxUDJzMldSY0RhZDktVE9ORmhEd0JNWGhRaUFFT0Uzc19LTWtvWDZmUjFtM0NqR3E5VHM2XzcydmkwT2VxXzBYbWFyekxBTXhtVUtOTUJwUmp6TjVxMzVPSVQzUUlJVzNLX3FXM0dZa0hjTFBLR09YSzYzOVBENzdsbF9YcjcyWnJjY0hjTUlHbHlaT0R2UDlLd2lkOWRSTG93Nmtn?oc=5",
+        "date": "2026-10-15T10:57:41.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/mundo/gbu-43b-moab-eua-ponderam-usar-a-mae-de-todas-as-bombas-contra-o-irao_n1771838",
+    "agree": "Beide Quellen berichten übereinstimmend darüber, dass die USA den Einsatz der GBU-43/B MOAB gegen den Iran erwägen, falls Donald Trump Angriffe anordnet.",
+    "diff": [
+      {
+        "name": "RTP Notícias",
+        "note": "Berichtet, dass die US-Militärmaschinerie den Einsatz der stärksten konventionellen Bombe bei einer möglichen Wiederaufnahme von Angriffen durch Donald Trump auf den Iran erwägt."
+      },
+      {
+        "name": "Google News Portugal",
+        "note": "Verlinkt im Wesentlichen auf den RTP-Artikel mit gleichem Titel und Inhalt."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-b8c8372026ff4e99",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-15T11:16:00.000Z",
+    "p": 1,
+    "st": "",
+    "city": "",
+    "t": "John Malkovich hat seit 1972 an keinen Wahlen mehr teilgenommen",
+    "s": "Der bekannte US-Schauspieler John Malkovich hat in einem Interview offenbart, dass er seit dem Jahr 1972 nicht mehr an US-Wahlen teilgenommen hat. Auslöser für diese langjährige Wahlenthaltung war der Wahlsieg von Richard Nixon in jenem Jahr. Malkovich zeigt sich tief enttäuscht vom politischen System der Vereinigten Staaten.",
+    "m": "Der US-Schauspieler John Malkovich hat in einem Interview überraschende Details über seine politische Haltung und sein Wahlverhalten preisgegeben. Laut eigener Aussage war er seit 1972 bei keiner Wahl mehr als Wähler aktiv. Der Grund für diesen Boykott liegt in der damaligen Wahl von Richard Nixon zum US-Präsidenten, welche bei dem Künstler eine dauerhafte Abkehr vom politischen Prozess auslöste. In diesem Zusammenhang wird zudem erwähnt, dass Personen, die Donald Trump kritisch sehen, ihre Perspektive anhand Malkovichs Haltung zu Nixon relativieren können. Das Phänomen wirft ein Schlaglicht auf die persönliche Entfremdung prominenter Persönlichkeiten von der US-Politik. Weitere konkrete Details zum genauen Ablauf des Interviews oder Reaktionen von Politikern und Öffentlichkeit gehen aus den Berichten nicht hervor. Der aktuelle Stand beschränkt sich auf diese einmalige Enthüllung des Schauspielers über seine jahrzehntelange Wahlmüdigkeit.",
+    "r": "Die Aussagen eines prominenten Schauspielers über seine jahrzehntelange Wahlabstinenz beleuchten die individuelle Entfremdung von demokratischen Prozessen. Solche Äusserungen geben Einblick in die politische Haltung bekannter Persönlichkeiten gegenüber historischen und aktuellen US-Präsidenten.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVXlpMU5faTZWVDRYZmlVSTJXVXRWb3ZQOGhLZ2hCcDBDTU0zS0E3d3dxWHJPTjBZMFFFTlpoVWhhTmsxV2J2NGZiclZTMGQ2UFBibFAwbDZnT0lkelhOVmNRanM0WUZPNG10WFpLSm5LemptLWlJNnlBSzRBdlJZMzZMSGRqTV9kSWVXNnFRR0NjcHM3NUU5dkhSV0tKekZtRHU0NDE2S3JoYWJWQl9lcHNVVDdpaDRtSi0zaUtB?oc=5",
+        "date": "2026-10-15T11:16:00.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/kultur/kino/john-malkovich-war-seit-1972-nicht-mehr-waehlen-a-a102059d-2487-4a96-b776-1d69e76b56a7#ref=rss",
+        "date": "2026-10-15T11:16:00.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVXlpMU5faTZWVDRYZmlVSTJXVXRWb3ZQOGhLZ2hCcDBDTU0zS0E3d3dxWHJPTjBZMFFFTlpoVWhhTmsxV2J2NGZiclZTMGQ2UFBibFAwbDZnT0lkelhOVmNRanM0WUZPNG10WFpLSm5LemptLWlJNnlBSzRBdlJZMzZMSGRqTV9kSWVXNnFRR0NjcHM3NUU5dkhSV0tKekZtRHU0NDE2S3JoYWJWQl9lcHNVVDdpaDRtSi0zaUtB?oc=5",
+    "agree": "Beide Quellen stimmen überein, dass der US-Schauspieler John Malkovich seit 1972 an keinen Wahlen mehr teilgenommen hat.",
+    "diff": [
+      {
+        "name": "DER SPIEGEL",
+        "note": "Ergänzt die Information, dass der Wahlsieg von Richard Nixon im Jahr 1972 bei dem Schauspieler eine anhaltende Wahlstörung ausgelöst hat und zieht einen historischen Vergleich zu Donald Trump."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-dc14ca9c4223b325",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-15T11:05:00.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Prinz Harry und Meghan erstmals gemeinsam in Öffentlichkeit nach Rückkehr",
+    "s": "Prinz Harry und Meghan sind erstmals seit ihrer Rückkehr zusammen in der Öffentlichkeit aufgetreten. Der Vorfall wirft Fragen über ihren Status und ihr Verhalten im Vergleich zu offiziellen Verlautbarungen auf. König Charles III. hatte zuvor ausdrücklich erklärt, dass das Paar keine sogenannten Working Royals mehr sind.",
+    "m": "Das gemeinsame Auftreten von Prinz Harry und Meghan nach ihrer Rückkehr hat in Großbritannien für Aufmerksamkeit gesorgt. König Charles III. hatte zuvor unmissverständlich klargestellt, dass die beiden nicht länger als offizielle Mitglieder der Königsfamilie im Arbeitseinsatz tätig sind, sogenannte Working Royals. Dennoch wird ihr Verhalten kritisch beobachtet, da sie sich in der Öffentlichkeit weiterhin entsprechend präsentieren. Konkrete Details zu dem genauen Anlass oder Ort des aktuellen Auftritts gehen aus den vorliegenden Berichten nicht hervor. Die Situation verdeutlicht die anhaltende Spannung zwischen dem privaten Status des Paares und ihrem öffentlichen Auftreten. Offen bleibt, wie das britische Königshaus auf diese Entwicklung reagieren wird.",
+    "r": "Das Ereignis beleuchtet das anhaltende Spannungsfeld um den offiziellen Status und das öffentliche Auftreten von Prinz Harry und Meghan. Es zeigt, wie sensibel die britische Öffentlichkeit und das Königshaus auf Aktionen des Paares reagieren.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNWlF4MlNuN25abTlHeEMzb0dGcnN2bll2Q1pfbzA2R2tvWmVlWGlkQnc5eTNYMmhHQ1Rmc1BPQkV3M1gtS0tjamk5VE91MmVVRHVqMWlNWFkwcU1NVFYwNndZZ1REVHZBR3BrMjk2NnBJTEZSa09qYXkxRDEwR3ZpdjRqdVRIMkxNUHdwNHlsMG9ZQWY5WmRNZ1NlamNtenlMeENJNmRZemhtNFVMQllSdW9IdjVoakQ0MGxPS3dfR0NGdnF3Rk15WnZCRGN4bWJOZkFXTW5rZmJpc3JsMDM2ek5iM2tlOERVNVZVSkdUTnRQRk9HN3NmYUxEZ2JudHc?oc=5",
+        "date": "2026-10-15T11:05:00.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/panorama/leute/harry-und-meghan-erstmals-seit-rueckkehr-nach-grossbritannien-zusammen-in-der-oeffentlichkeit-a-4449f03f-3dab-4013-bbba-af9caa73c019#ref=rss",
+        "date": "2026-10-15T11:05:00.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNWlF4MlNuN25abTlHeEMzb0dGcnN2bll2Q1pfbzA2R2tvWmVlWGlkQnc5eTNYMmhHQ1Rmc1BPQkV3M1gtS0tjamk5VE91MmVVRHVqMWlNWFkwcU1NVFYwNndZZ1REVHZBR3BrMjk2NnBJTEZSa09qYXkxRDEwR3ZpdjRqdVRIMkxNUHdwNHlsMG9ZQWY5WmRNZ1NlamNtenlMeENJNmRZemhtNFVMQllSdW9IdjVoakQ0MGxPS3dfR0NGdnF3Rk15WnZCRGN4bWJOZkFXTW5rZmJpc3JsMDM2ek5iM2tlOERVNVZVSkdUTnRQRk9HN3NmYUxEZ2JudHc?oc=5",
+    "agree": "Die Quellen stimmen überein, dass Prinz Harry und Meghan erstmals seit ihrer Rückkehr zusammen in der Öffentlichkeit aufgetreten sind.",
+    "diff": [
+      {
+        "name": "DER SPIEGEL",
+        "note": "Erwähnt zusätzlich die ausdrückliche Erklärung von König Charles III., dass Harry und Meghan keine Working Royals sind, und thematisiert das Problem, dass sich das Paar dennoch so verhält."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-9115bd0a0f22c4b3",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-15T10:48:12.000Z",
+    "p": 4,
+    "st": "BY",
+    "city": "",
+    "t": "Bundestag beschließt Reform der Notfallversorgung",
+    "s": "Der Bundestag hat eine Reform der Notfallversorgung beschlossen. Ziel der gesetzlichen Neuregelung ist es, Notaufnahmen und Rettungsdienste zu entlasten sowie Kosten zu senken. Künftig sollen Patienten besser gesteuert werden. Dennoch bleiben Fragen zur Finanzierung und zum Personal offen, und Kritiker fürchten um bestehende Strukturen.",
+    "m": "Die vom Bundestag beschlossene Reform der Notfallversorgung zielt darauf ab, die Notaufnahmen und Rettungsdienste zu entlasten und gleichzeitig Kosten zu senken. Ein zentraler Bestandteil der Neuregelung ist eine verbesserte Steuerung von Patienten, um das Gesundheitssystem effizienter zu gestalten. Während die Maßnahme auf den Weg gebracht wurde, äußern Kritiker die Sorge, dass bestehende Strukturen durch die Reform gefährdet werden könnten. Zudem bleiben nach dem Beschluss wichtige Fragen hinsichtlich der Finanzierung und der Personalsituation offen. Die genauen Auswirkungen auf den praktischen Ablauf in den Kliniken und beim Rettungsdienst müssen sich im weiteren Verlauf zeigen.",
+    "r": "Die Reform der Notfallversorgung betrifft zentrale Bereiche des Gesundheitssystems wie Rettungsdienste und Notaufnahmen. Da der Bundestag den Beschluss gefasst hat, hat die Neuregelung direkte Auswirkungen auf Patienten, Personal und Kostenstrukturen in ganz Deutschland.",
+    "srcs": [
+      {
+        "name": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/reform-der-notfallversorgung-beschlossen,VY6wq3d",
+        "date": "2026-10-15T10:48:12.000Z"
+      },
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/deutschland/notfallmedizin-notaufnahme-krankenhaus-klinik-reform-bundestag-100.html",
+        "date": "2026-10-15T09:01:00.000Z"
+      }
+    ],
+    "url": "https://www.br.de/nachrichten/deutschland-welt/reform-der-notfallversorgung-beschlossen,VY6wq3d",
+    "agree": "Beide Quellen stimmen überein, dass der Bundestag eine Reform der Notfallversorgung beschlossen hat, die auf eine Entlastung von Notaufnahmen und Rettungsdiensten sowie eine bessere Patientensteuerung abzielt.",
+    "diff": [
+      {
+        "name": "BR24 Bayern",
+        "note": "Berichtet zusätzlich, dass die Reform auch das Ziel hat, Kosten zu senken, und dass Kritiker um bestehende Strukturen fürchten."
+      },
+      {
+        "name": "ZDF heute",
+        "note": "Erwähnt speziell, dass nach dem Beschluss Fragen bei Personal und Finanzierung offen bleiben."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-6aaf1afbf4986342",
+    "c": "INT",
+    "o": "INT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-15T10:43:27.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Neue Brücke zwischen China und Nordkorea nach jahrelanger Verzögerung eröffnet",
+    "s": "Nach über zehn Jahren Verzögerung ist eine neue vierspurige Brücke zwischen China und Nordkorea eröffnet worden. Die Fertigstellung markiert eine wichtige neue Verkehrsverbindung zwischen den beiden Nachbarstaaten. Die Eröffnung folgt auf eine Phase erheblicher zeitlicher Verzögerungen.",
+    "m": "Die neue vierspurige Brücke verbindet China und Nordkorea und wurde nach einer Bau- und Planungszeit mit mehr als zehn Jahren Verzögerung nun offiziell für den Verkehr freigegeben. Das Projekt soll den grenzüberschreitenden Verkehr erleichtern, wobei genaue Details zum genauen Übergabeort oder zum genauen Zeitpunkt der Inbetriebnahme in den Berichten offenbleiben. Die Eröffnung findet nur rund einen Monat nach der Inbetriebnahme einer neuen Straßenbrücke zwischen Nordkorea und Russland statt, welche die Beziehungen dieser beiden Staaten vertiefen soll. Weitere offene Punkte betreffen die Frage, in welchem Umfang die neue Brücke wirtschaftlich oder strategisch genutzt werden wird und wie sich dies auf den regionalen Handel auswirkt.",
+    "r": "Die Eröffnung der Brücke ist relevant, da sie die physische Infrastruktur zwischen China und Nordkorea nach langer Verzögerung verbessert und in einen breiteren geopolitischen Kontext mit Russland eingeordnet werden kann.",
+    "srcs": [
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNjBqRVJqc0RqSTR6VmtOZ3M5R3VReWFkSWxqMDdqZWs3WFhoX2ZnSUpnYXd5X3BGbGdEbzBwSHJnY1pFQXdmMWVDWlVLVFktUTNUN0xIMnNDLUNvOWQxamtiTmdya19qU2tja3h6X3NxcV9PRzJiS2hRMXJzODBzRm80ZktLRnM4MXloWFpXdlZ6NkJwOVNWbXZ3MmxWR2pXaWJSZkZGLWt2VmY2S2MxaHBR?oc=5",
+        "date": "2026-10-15T10:43:27.000Z"
+      },
+      {
+        "name": "Euronews",
+        "url": "https://www.euronews.com/2026/10/15/new-four-lane-bridge-between-china-and-north-korea-opens-after-a-decade-of-delay",
+        "date": "2026-10-15T05:23:28.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNjBqRVJqc0RqSTR6VmtOZ3M5R3VReWFkSWxqMDdqZWs3WFhoX2ZnSUpnYXd5X3BGbGdEbzBwSHJnY1pFQXdmMWVDWlVLVFktUTNUN0xIMnNDLUNvOWQxamtiTmdya19qU2tja3h6X3NxcV9PRzJiS2hRMXJzODBzRm80ZktLRnM4MXloWFpXdlZ6NkJwOVNWbXZ3MmxWR2pXaWJSZkZGLWt2VmY2S2MxaHBR?oc=5",
+    "agree": "Die Quellen sind sich einig, dass eine neue Brücke zwischen China und Nordkorea nach mehr als zehn Jahren Verzögerung eröffnet wurde.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Erwähnt die Eröffnung der Brücke mit dem Hinweis auf KSAT."
+      },
+      {
+        "name": "Euronews",
+        "note": "Gibt an, dass es sich um eine vierspurige Brücke handelt und verknüpft das Ereignis zeitlich mit der Eröffnung einer russisch-nordkoreanischen Straßenbrücke vor rund einem Monat."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-05d439249be3409d",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-15T10:01:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Häftling gelingt Flucht bei Arztbesuch in Essen nach Überwältigung von JVA-Beamten",
+    "s": "Bei einem Arztbesuch in Essen ist einem Häftling die Flucht gelungen. Zwei unbekannte Männer überwältigten dabei JVA-Beamte und verhalfen dem Gefangenen zur Entwischung. Die Polizei hat einen Großeinsatz eingeleitet und fahndet nach den Flüchtigen.",
+    "m": "Der Vorfall ereignete sich während eines medizinischen Termins außerhalb der Justizvollzugsanstalt in Essen. Zwei bislang nicht identifizierte Täter griffen die JVA-Beamten gezielt an und überwältigten diese, um dem Häftling die Flucht zu ermöglichen. Nach der erfolgreichen Befreiungsaktion und dem anschließenden Untertauchen der Beteiligten leitete die Polizei umgehend einen großangelegten Einsatz ein. Die Ermittler sind mit zahlreichen Kräften vor Ort und fahnden nach den Flüchtigen. Im Zuge der Fahndung wird von Seiten der Behörden davor gewarnt, dass die Männer möglicherweise bewaffnet sein könnten. Genauere Details zur Identität des Häftlings oder den Tätern sowie zum genauen Tathergang wurden bislang nicht bekannt gegeben.",
+    "r": "Der gewaltsame Ausbruch eines Häftlings aus dem Gewahrsam von JVA-Beamten stellt eine akute Gefährdung der öffentlichen Sicherheit dar. Der darauffolgende Großeinsatz der Polizei mit einer Warnung vor möglichen Waffen bindet erhebliche Einsatzkräfte und alarmiert die Bevölkerung in der Region.",
+    "srcs": [
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/flucht-haeftling-essen-100.html",
+        "date": "2026-10-15T10:01:00.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU3ZQeGNYbDJxbFpYT0dyQ19PVFZKbmNkLTV1UG5GRi1mRHlPWWJDR3pYYXRhdGFDejdmT3ZlNTdYUHMydElGTE1yR3k2M3R5UFA2bFlFU2xEX1VKTzFONENadUlGVW90VmFVTU9xaEFMc25GbzVXckpoOHB0a1lPMkpvSW5aY1JyVTlHeFEzaVZ5S0xrTUVN?oc=5",
+        "date": "2026-10-15T10:01:00.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/flucht-haeftling-essen-100.html",
+    "agree": "Beide Quellen stimmen überein, dass unbekannte Täter in Essen JVA-Beamte überwältigt und einem Häftling während eines Arztbesuches zur Flucht verholfen haben, woraufhin ein Polizeigroßeinsatz mit einer Bewaffnungswarnung ausgelöst wurde.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Verweist lediglich auf den Artikel der Tagesschau und enthält einen HTML-Link im Text."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-bb53258a25645c33",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-15T09:20:18.000Z",
+    "p": 3,
+    "st": "RP",
+    "city": "",
+    "t": "Alkoholverbot an allen deutschen Bahnhöfen in Kraft getreten",
+    "s": "Seit Mitternacht gilt an allen deutschen Bahnhöfen ein Alkoholverbot. Die neue Regelung betrifft sämtliche Bahnhöfe im Bundesgebiet. Konkrete Details zur Umsetzung und Bedeutung des Verbots wurden von den Redaktionen erläutert.",
+    "m": "Das neue Alkoholkonsumverbot ist seit Mitternacht aktiv und flächendeckend an allen Bahnhöfen in Deutschland wirksam. Die Maßnahme soll für mehr Sicherheit und Ordnung im Bahnverkehr sorgen. Bislang gibt es kaum nähere Details zur praktischen Durchsetzung oder zu möglichen Sanktionen bei Verstößen. Die genauen Auswirkungen auf den Alltag von Reisenden und Pendlerinnen und Pendlern bleiben abzuwarten. Es ist unklar, wie konsequent die Einhaltung kontrolliert wird. Weitere Informationen zu den Hintergründen der Entscheidung stehen noch aus.",
+    "r": "Die bundesweite Maßnahme betrifft den gesamten Personenverkehr an Bahnhöfen in Deutschland und hat direkte Auswirkungen auf Millionen Reisende. Das Verbot soll zu einer Veränderung der Situation an Bahnhöfen beitragen.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/alkoholkonsumverbot-an-allen-bahnhoefen-alle-antworten-100.html",
+        "date": "2026-10-15T09:20:18.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Rheinland-Pfalz",
+        "url": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-alkoholkonsumverbot-an-allen-bahnhoefen-ist-in-kraft-so-funktioniert-es-100.html",
+        "date": "2026-10-15T03:00:18.000Z"
+      }
+    ],
+    "url": "https://www.swr.de/swraktuell/rheinland-pfalz/alkoholkonsumverbot-an-allen-bahnhoefen-alle-antworten-100.html",
+    "agree": "Die Quellen stimmen überein, dass seit Mitternacht ein Alkoholverbot beziehungsweise Alkoholkonsumverbot an allen deutschen Bahnhöfen gilt.",
+    "diff": [
+      {
+        "name": "SWR Aktuell",
+        "note": "Verwendet den Begriff Alkoholverbot."
+      },
+      {
+        "name": "Tagesschau Regional Rheinland-Pfalz",
+        "note": "Verwendet den präziseren Begriff Alkoholkonsumverbot."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-b2f3dcd82cc4a561",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-15T09:04:45.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Berliner Sondierungen nach Antisemitismus-Erklärung fortgesetzt",
+    "s": "Nach einer kurzen Unterbrechung setzen SPD, Grüne und die Linkspartei ihre Sondierungsgespräche in Berlin fort. Auslöser für die Pause war eine Debatte über den Umgang mit Antisemitismus. Nun haben sich alle beteiligten Parteien darauf geeinigt, eine entsprechende Vereinbarung in einen potenziellen Koalitionsvertrag aufzunehmen.",
+    "m": "Die Sondierungsgespräche zwischen SPD, Grünen und der Linkspartei in Berlin werden nach einer vorherigen Unterbrechung wieder aufgenommen. Zuvor hatten Sozialdemokraten und Grüne die Gespräche kurzzeitig ausgesetzt, um über eine gemeinsame Haltung zum Thema Antisemitismus zu beraten. Im Zuge der Wiederaufnahme verständigten sich alle drei Parteien darauf, die ausgearbeitete Antisemitismus-Vereinbarung fest in einen möglichen Koalitionsvertrag zu integrieren. Damit ist eine wesentliche Hürde für die weiteren Verhandlungen über eine Regierungsbildung in der Hauptstadt überwunden. Die Sondierungen sollen nun auf dieser Grundlage weitergeführt werden, wobei genaue Zeitpläne für den Abschluss der Gespräche von den Parteien noch bekannt gegeben werden müssen. Offen bleibt, welche weiteren inhaltlichen Streitpunkte neben der Antisemitismus-Frage noch zu klären sind.",
+    "r": "Die Meldung ist relevant, da sie den Fortgang der Sondierungsgespräche und damit die potenziellen Koalitionsoptionen in der Hauptstadt betrifft. Die Einigung auf eine Antisemitismus-Vereinbarung ist ein wichtiger Schritt für eine mögliche Regierungsbildung.",
+    "srcs": [
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/inland/regional/berlin/fortsetzung-sondierungen-berlin-100.html",
+        "date": "2026-10-15T09:04:45.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSHBLcExFemtIbE01cTJSVC1CRDNYY3Nick9ncU5xdnBfeDVWRHdhWmY1VEpldTNuWjlJdTRhUTlTRzBkU0I2UXRDQmhINVMzREpXTkhzdWRXeUhvTjRpVHhobFYtYW1KWjQxekxUMlllXzNwbjFiVldHOWstR05UU3JIM3JXWldXUEhpZEtmaHNGRkk?oc=5",
+        "date": "2026-10-15T09:04:00.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/berlin/fortsetzung-sondierungen-berlin-100.html",
+    "agree": "Die Quellen stimmen darin überein, dass die Sondierungen nach einer Unterbrechung wegen einer Antisemitismus-Erklärung fortgesetzt werden und diese Vereinbarung in einen Koalitionsvertrag aufgenommen werden soll.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Die Quelle verweist lediglich auf den Artikel der Tagesschau mit einem entsprechenden Link."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-e40dd59d7a3aac24",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-15T08:51:10.000Z",
+    "p": 2,
+    "st": "BW",
+    "city": "",
+    "t": "Erstmals lokal erworbene West-Nil-Infektionen bei Menschen in Baden-Württemberg",
+    "s": "In Baden-Württemberg sind zum ersten Mal zwei Fälle von lokal erworbenen West-Nil-Infektionen bei Menschen nachgewiesen worden. Die Betroffenen sind zuvor nicht im Ausland gewesen, was auf eine Übertragung innerhalb des Bundeslandes hindeutet. Nach Angaben des Landes besteht aktuell kein erhöhtes Risiko für die Bevölkerung.",
+    "m": "Die Infektionen mit dem West-Nil-Virus wurden bei zwei Personen in Baden-Württemberg diagnostiziert. Da beide Betroffenen zuvor keine Auslandsreisen unternommen hatten, ist von einer heimischen Übertragung auszugehen. Das Virus wird in der Regel durch Stechvögel und Mücken übertragen, wobei Vögel als Hauptwirt dienen. Das zuständige Landesministerium betont, dass trotz des erstmaligen Nachweises lokaler Fälle derzeit keine akute Gefährdung oder ein erhöhtes Risiko für die Allgemeinheit besteht. Gesundheitsbehörden beobachten die Situation nun genauer, um mögliche weitere Infektionsketten oder Verbreitungsgebiete zu erkennen. Offen bleibt bislang, in welchen genauen Regionen oder Landkreisen die Patienten leben und wie ihr gesundheitlicher Zustand aktuell ist.",
+    "r": "Der erstmalige Nachweis von lokal erworbenen West-Nil-Infektionen beim Menschen in Baden-Württemberg markiert ein neues gesundheitliches Ereignis im Bundesland. Die Einordnung des Landes, dass trotz der Infektionen kein erhöhtes Risiko besteht, ist für die Risikobewertung zentral.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell Baden-Württemberg",
+        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/erstmals-lokal-erworbene-west-nil-infektionen-bei-menschen-in-bw-nachgewiesen-100.html",
+        "date": "2026-10-15T08:51:10.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Baden-Württemberg",
+        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-zuvor-nicht-im-ausland-gewesen-erstmals-west-nil-infektionen-bei-menschen-nachgewiesen-100.html",
+        "date": "2026-10-15T07:11:26.000Z"
+      }
+    ],
+    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/erstmals-lokal-erworbene-west-nil-infektionen-bei-menschen-in-bw-nachgewiesen-100.html",
+    "agree": "Beide Quellen stimmen darin überein, dass erstmals zwei lokal erworbene West-Nil-Infektionen bei Menschen in Baden-Württemberg nachgewiesen wurden, die Betroffenen nicht im Ausland waren und laut dem Land aktuell kein erhöhtes Risiko besteht.",
+    "diff": [
+      {
+        "name": "SWR Aktuell Baden-Württemberg",
+        "note": "Berichtet exakt die gleichen Basisinformationen ohne zusätzliche Details."
+      },
+      {
+        "name": "Tagesschau Regional Baden-Württemberg",
+        "note": "Berichtet deckungsgleich mit der anderen Quelle und bietet keine abweichenden oder zusätzlichen Informationen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-c077efef5e409656",
+    "c": "INT",
+    "o": "UK",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-15T08:41:04.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Weißes Haus verteidigt neue Pressesprecherin wegen Rechtsanwaltszulassung",
+    "s": "Das Weiße Haus hat die neue Pressesprecherin Katie Zacharia verteidigt. Grund sind Fragen zu ihren rechtlichen Qualifikationen und ihrer Zulassung. Zacharia scheint in keinem ihrer früheren Wohnsitzstaaten im Anwaltsregister eingetragen zu sein.",
+    "m": "Das Weiße Haus sieht sich mit Fragen zur neuen Pressesprecherin Katie Zacharia konfrontiert und hat sie öffentlich verteidigt. Hintergrund der Diskussion sind Zweifel an ihren legalen Anmeldedaten und ihrer beruflichen Qualifikation. Recherchen zufolge taucht ihr Name in keinem Bundesstaat, in dem sie bisher gelebt hat, als registriertes Mitglied der Anwaltskammer auf. Bislang hat die Regierung keine umfassenden Details zu ihrer Zulassung vorgelegt, betont jedoch das Vertrauen in ihre Arbeit. Offen bleibt, wie die Regierung weiter mit den anhaltenden Zweifeln und Berichten umgehen wird.",
+    "r": "Die Debatte um die Qualifikation einer hochrangigen Regierungssprecherin betrifft die Glaubwürdigkeit und Transparenz der US-Regierung. Solche Personalfragen sind für die politische Berichterstattung von großer Relevanz.",
+    "srcs": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-15T08:41:04.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOLVZYOG9mRkJoeWJxQ3RZeEVRTEM3SS1DSUFtdWtid2RkdGFjNWsydlFJckVIem5GZkVUZzlEMnpqLUMyM2l5R2tYWXZTNmVKVll4OUdIV0lweE0?oc=5",
+        "date": "2026-10-15T08:41:04.000Z"
+      }
+    ],
+    "url": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
+    "agree": "Sowohl BBC World als auch Google News World berichten über die Verteidigung der neuen Pressesprecherin Katie Zacharia durch das Weiße Haus im Zusammenhang mit Fragen zu ihren Rechtsanwaltszulassungen.",
+    "diff": [
+      {
+        "name": "BBC World",
+        "note": "Liefert den Hintergrund, dass Katie Zacharia in keinem Bundesstaat, in dem sie gelebt hat, anscheinend als Anwältin registriert ist."
+      },
+      {
+        "name": "Google News World",
+        "note": "Verweist lediglich per Überschrift auf den BBC-Bericht und wirft Fragen zu den juristischen Qualifikationen auf."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-47006b8cd9371235",
+    "c": "INT",
+    "o": "INT",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-15T08:30:41.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Schuldach in Pakistan eingestürzt: Dutzende Tote",
+    "s": "Bei dem Einsturz des Daches einer Privatschule im Nordwesten Pakistans sind zahlreiche Menschen ums Leben gekommen. Das Unglück ereignete sich am Donnerstag in Peshawar. Neben Schülern befand sich auch eine Lehrerin unter den Todesopfern. Zudem wurden Dutzende Personen bei dem Vorfall verletzt.",
+    "m": "Betroffen von dem Einsturz am Donnerstag war das Al-Khair Education Centre, eine Privatschule in Peshawar im Nordwesten Pakistans. Die genauen Ursachen für den Einsturz des Schuldaches gehen aus den Berichten nicht hervor. Rettungskräfte waren im Einsatz, um Verletzte zu versorgen und nach Verschütteten zu suchen. Die Zahl der Todesopfer wird je nach Quelle mit mindestens 29 bis zu 33 Personen angegeben, darunter überwiegend Schüler sowie mindestens eine Lehrerin. Auch die Zahl der Verletzten variiert in den Meldungen und wird mit mehr als drei beziehungsweise über 50 betroffenen Personen beziffert. Offene Punkte sind weiterhin die genaue Unfallursache sowie der Zustand der Schwerverletzten in den Krankenhäusern vor Ort.",
+    "r": "Das Ereignis ist relevant, da ein schweres Schulunglück mit Dutzenden Todesopfern und Verletzten im Nordwesten Pakistans eingetreten ist. Solche Vorfälle werfen Fragen zur Gebäudesicherheit an Bildungseinrichtungen auf.",
+    "srcs": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/15/school-roof-collapses-in-northwestern-pakistan-killing-at-least-29-people?traffic_source=rss",
+        "date": "2026-10-15T08:30:41.000Z"
+      },
+      {
+        "name": "NPR World",
+        "url": "https://www.npr.org/2026/10/15/nx-s1-6003437/school-roof-collapse-pakistan",
+        "date": "2026-10-15T08:22:07.000Z"
+      }
+    ],
+    "url": "https://www.aljazeera.com/news/2026/10/15/school-roof-collapses-in-northwestern-pakistan-killing-at-least-29-people?traffic_source=rss",
+    "agree": "Die Quellen sind sich einig, dass das Dach einer Privatschule in Peshawar im Nordwesten Pakistans eingestürzt ist, was am Donnerstag zu zahlreichen Todesopfern unter Schülern und einer Lehrerin sowie zu Dutzenden Verletzten führte.",
+    "diff": [
+      {
+        "name": "Al Jazeera",
+        "note": "Beziffert die Zahl der Toten auf mindestens 33 (darunter 32 Schüler und eine Lehrerin) und nennt den Namen der Einrichtung als Al-Khair Education Centre."
+      },
+      {
+        "name": "NPR World",
+        "note": "Nennt den Tag des Vorfalls (Donnerstag), beziffert die Zahl der Toten auf mindestens 29 (28 Kinder und eine Lehrerin) und gibt an, dass mehr als 50 Personen verletzt wurden."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-00277ee49e10075d",
+    "c": "INT",
+    "o": "PT",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-15T06:09:18.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Brasilianischer Senat beschließt Reduzierung der Wochenarbeitszeit",
+    "s": "Der brasilianische Senat hat eine Verfassungsänderung zur Verkürzung der Wochenarbeitszeit ohne Lohneinbußen beschlossen. Während Präsident Lula da Silva die Entscheidung feiert, üben Wirtschaftsverbände Kritik an dem Gesetz. Die Maßnahme gilt als zentrales Vorhaben der politischen Agenda des Präsidenten.",
+    "m": "Die Abstimmung im brasilianischen Senat fand am Mittwoch statt und betrifft die Annahme einer Proposta de Emenda à Constituição (PEC). Diese sieht vor, die wöchentliche Arbeitszeit zu senken, ohne dass dies zu Gehaltskürzungen für die Arbeitnehmer führt. Die Umsetzung dieses Projekts gehört zu den zentralen politischen Versprechen und Vorhaben von Präsident Luiz Inácio Lula da Silva, der das Ergebnis der Abstimmung öffentlich begrüßte. Auf der Gegenseite formierte sich Widerstand bei Arbeitgeber- und Wirtschaftsverbänden, die die getroffene Entscheidung kritisierten. Konkrete Details zur genauen neuen Stundenzahl oder zum zeitlichen Inkrafttreten der Reform wurden in den Berichten nicht genannt.",
+    "r": "Die Entscheidung hat hohe politische und wirtschaftliche Relevanz für Brasilien, da sie das Arbeitsrecht grundlegend verändert und sowohl Befürworter als auch Kritiker mobilisiert. Die Maßnahme betrifft Millionen Beschäftigte sowie die Unternehmensstrukturen des Landes unmittelbar.",
+    "srcs": [
+      {
+        "name": "RTP Mundo",
+        "url": "https://www.rtp.pt/noticias/mundo/lula-celebra-aprovacao-no-brasil-de-reducao-de-semana-de-trabalho-empresarios-criticam-medida_n1771752",
+        "date": "2026-10-15T06:09:18.000Z"
+      },
+      {
+        "name": "RTP Economia",
+        "url": "https://www.rtp.pt/noticias/economia/senado-brasileiro-aprova-reducao-de-semana-de-trabalho-sem-cortes-salariais_n1771749",
+        "date": "2026-10-15T06:03:16.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/mundo/lula-celebra-aprovacao-no-brasil-de-reducao-de-semana-de-trabalho-empresarios-criticam-medida_n1771752",
+    "agree": "Beide Quellen stimmen darin überein, dass der brasilianische Senat die Reduzierung der Wochenarbeitszeit ohne Lohnkürzung beschlossen hat und Präsident Lula da Silva das Vorhaben unterstützt.",
+    "diff": [
+      {
+        "name": "RTP Mundo",
+        "note": "Berichtet zusätzlich über die Kritik von Wirtschaftsverbänden an der Maßnahme."
+      },
+      {
+        "name": "RTP Economia",
+        "note": "Nennt den genauen Wochentag (Mittwoch) der Beschlussfassung im Senat und erwähnt, dass Lula Kandidat für die Wiederwahl ist."
+      }
+    ],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-ec050f237232769a",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-15T03:09:06.000Z",
+    "p": 4,
+    "st": "HH",
+    "city": "",
+    "t": "Nord-Stream-Prozess in Hamburg gegen ukrainischen Verdächtigen gestartet",
+    "s": "Vor dem Oberlandesgericht Hamburg hat der Prozess gegen den ukrainischen Staatsbürger Serhii Kusnetzow begonnen. Dem 50-Jährigen wird die Verantwortung für die Sprengung der Nord-Stream-Gasleitungen in der Ostsee vorgeworfen. Zum Auftakt der Verhandlung schwieg der Angeklagte zu den Vorwürfen. Die Bundesanwaltschaft hat Anklage unter anderem wegen Kriegsverbrechen erhoben.",
+    "m": "Der lang erwartete Prozess im Zusammenhang mit den Anschlägen auf die Nord-Stream-Pipelines in der Ostsee hat in Hamburg begonnen. Im Fokus steht der 50-jährige Serhii Kusnetzow, bei dem es sich laut Berichten um einen ehemaligen ukrainischen Offizier handeln soll. Die Bundesanwaltschaft legt ihm neben anderen Delikten insbesondere Kriegsverbrechen zur Last. Zum Prozessauftakt machte der Angeklagte zunächst keine Angaben und schwieg zu den Vorwürfen. Die Ermittlungen zu den Hintergründen der Sabotageakte an den wichtigen Gasleitungen dauern an. Weitere Details zum genauen Tathergang und möglichen Hintermännern sollen im Laufe der Verhandlung geklärt werden. Das Verfahren gilt als einer der bisher bedeutendsten Prozesse zur Aufklärung der Pipeline-Sprengungen.",
+    "r": "Der Prozess ist von hoher Bedeutung, da es sich um die juristische Aufarbeitung eines der spektakulärsten Sabotageakte gegen kritische europäische Infrastruktur handelt. Die Verfahrensergebnisse könnten Licht in die Hintergründe der Nord-Stream-Sprengungen bringen und haben internationale politische sowie rechtliche Relevanz.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Hamburg",
+        "url": "https://www.tagesschau.de/inland/regional/hamburg/nord-stream-prozess-in-hamburg-gestartet-angeklagter-schweigt,nord-stream-prozess-120.html",
+        "date": "2026-10-15T03:09:06.000Z"
+      },
+      {
+        "name": "NDR Hamburg",
+        "url": "https://www.ndr.de/nachrichten/info/nord-stream-prozess-gegen-serhii-kusnetzow-in-hamburg-gestartet,ndrinfo-18402.html",
+        "date": "2026-10-14T20:09:06.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/hamburg/nord-stream-prozess-in-hamburg-gestartet-angeklagter-schweigt,nord-stream-prozess-120.html",
+    "agree": "Beide Quellen stimmen überein, dass der Prozess gegen den Ukrainer Serhii Kusnetzow wegen der Nord-Stream-Sprengungen in Hamburg gestartet ist.",
+    "diff": [
+      {
+        "name": "Tagesschau Regional Hamburg",
+        "note": "Erwähnt das genaue Alter des Angeklagten (50 Jahre)."
+      },
+      {
+        "name": "NDR Hamburg",
+        "note": "Bezeichnet den Angeklagten als ehemaligen ukrainischen Offizier."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-bfcc244421fb5dfd",
     "c": "INT",
     "o": "DE",
@@ -13699,1592 +14856,6 @@
     "url": "https://www.swr.de/swraktuell/swr-doku-wo-risiken-im-trinkwasser-lauern-100.html",
     "agree": "Beide Quellen stimmen überein, dass Trinkwasser in Deutschland grundsätzlich als unbedenklich gilt und regelmäßig kontrolliert wird, aber die tatsächliche Sicherheit hinterfragt wird.",
     "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-b320675d2d171ee4",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-08T14:36:06.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "\"Massive Bombardierungen\": Trump erwägt neue Angriffe gegen den Iran vor den Midterms - n-tv.de",
-    "s": "\"Massive Bombardierungen\": Trump erwägt neue Angriffe gegen den Iran vor den Midterms n-tv.de <a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPdUpGV2xqSE02Z1JQSGNGRUY2UHNsN2pUYWViRnhNbGg3MG5rY2F1UDVVbl94MkZKN0VSN2pVa1VXa0NFWThoZ0FGOUFCTnRnX1otRWFUVFVmdmhrYXV1SXZvdFVJdkg2LWZROXladnpQTFdjbE1XSkxrWGEwSzY3ZUZ4UWVHRWlEQ1pLVF9XM0RnV2I",
-    "m": "\"Massive Bombardierungen\": Trump erwägt neue Angriffe gegen den Iran vor den Midterms n-tv.de <a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPdUpGV2xqSE02Z1JQSGNGRUY2UHNsN2pUYWViRnhNbGg3MG5rY2F1UDVVbl94MkZKN0VSN2pVa1VXa0NFWThoZ0FGOUFCTnRnX1otRWFUVFVmdmhrYXV1SXZvdFVJdkg2LWZROXladnpQTFdjbE1XSkxrWGEwSzY3ZUZ4UWVHRWlEQ1pLVF9XM0RnV2I Führen die USA bald neue Militärschläge gegen den Iran aus? US-Medienberichten zufolge laufen die Vorbereitungen dafür bereits. Demnach steht eine endgültige Entscheidung von Präsident Trump aber noch aus.",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdk1KREt5WjNCNEtfaU1hSmtsTXNoeEU5UGE4ZjY4WVIzamlLOVY1ZmF0eGpJX1BxVWstTmdzNWZmMEpEYWNEbnl0cHp5VmlqX0thT3FGaWczYURSeUFTQnM5MG9PWVdRQ3B4SVNYZjJxWVZuWGxoTEhha0plZkZaNnZUM05IR3dDM2VKNExnd1ZxS01UVDgtV3FnV0l3QUlkbWY1WDlB?oc=5",
-        "date": "2026-10-08T14:36:06.000Z"
-      },
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/politik/Trump-erwaegt-neue-Angriffe-gegen-den-Iran-vor-den-Midterms-id31397075.html",
-        "date": "2026-10-08T14:36:06.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdk1KREt5WjNCNEtfaU1hSmtsTXNoeEU5UGE4ZjY4WVIzamlLOVY1ZmF0eGpJX1BxVWstTmdzNWZmMEpEYWNEbnl0cHp5VmlqX0thT3FGaWczYURSeUFTQnM5MG9PWVdRQ3B4SVNYZjJxWVZuWGxoTEhha0plZkZaNnZUM05IR3dDM2VKNExnd1ZxS01UVDgtV3FnV0l3QUlkbWY1WDlB?oc=5",
-    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-47b5425dd9823be4",
-    "c": "DE",
-    "o": "DE",
-    "k": "technik",
-    "lang": "de",
-    "d": "2026-10-08T14:22:19.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Fire-Abend: Amazons neue Alexa Tablets kommen mit Android und Play-Store - t3n",
-    "s": "Fire-Abend: Amazons neue Alexa Tablets kommen mit Android und Play-Store t3n <a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQanVQaXljMkxYV3NUeHYtOVJuZHVDdk5HMFBnXy1fVm40Yy1MQ2MteklfVzIyOEdWNW1ZdDFLSmNpTERIU3RPMkFkYlc2WnB5dXYyaW9SYW44amdybnRKWUJBcl8wM2J6TWVOaHJNRmZGaEZYYTYzV1F0X2NVQndQRElHR3RkUEoyNm9FT0FPa3NkdWJCODluVVlXRkVmOHBJY2JSSTFNSlE0T0ZiaWZscTVySGNvdHFkRFZaMXRhakE3YUtWV1",
-    "m": "Fire-Abend: Amazons neue Alexa Tablets kommen mit Android und Play-Store t3n <a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQanVQaXljMkxYV3NUeHYtOVJuZHVDdk5HMFBnXy1fVm40Yy1MQ2MteklfVzIyOEdWNW1ZdDFLSmNpTERIU3RPMkFkYlc2WnB5dXYyaW9SYW44amdybnRKWUJBcl8wM2J6TWVOaHJNRmZGaEZYYTYzV1F0X2NVQndQRElHR3RkUEoyNm9FT0FPa3NkdWJCODluVVlXRkVmOHBJY2JSSTFNSlE0T0ZiaWZscTVySGNvdHFkRFZaMXRhakE3YUtWV1 Amazons neue Tablets kommen mit Google Play Store und Alexa+. Das Topmodell soll Spiegelungen verringern und Lesen wie auf Papier ermöglichen.",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWmdLMldZcFpoeGl6b1FKS05qX2ZxSlc1QTVyRGM1eHhTRDZnUUZ0WXhJSkVIMTlqSHl0Ny1EVDh6bE1nT2JyUkJLWG01ampIQ0FCSU9mWWRYWmJuOVJ1TDluLXR4OE12WXVnejM5R1hyM3VsajdGeXExUXRuSVVMVg?oc=5",
-        "date": "2026-10-08T14:22:19.000Z"
-      },
-      {
-        "name": "t-online Digital",
-        "url": "https://www.t-online.de/digital/aktuelles/id_101472634/amazon-alexa-tablets-android-mit-play-store-und-alexa-preise-und-modelle.html",
-        "date": "2026-10-08T13:20:16.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWmdLMldZcFpoeGl6b1FKS05qX2ZxSlc1QTVyRGM1eHhTRDZnUUZ0WXhJSkVIMTlqSHl0Ny1EVDh6bE1nT2JyUkJLWG01ampIQ0FCSU9mWWRYWmJuOVJ1TDluLXR4OE12WXVnejM5R1hyM3VsajdGeXExUXRuSVVMVg?oc=5",
-    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-724b1c48ec7c65f1",
-    "c": "INT",
-    "o": "UK",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-08T14:10:58.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Arizona-Kongresskandidatin schildert sexuellen Übergriff bei Wahlkampf",
-    "s": "Die US-Kongresskandidatin Bernadette Greene-Placentia aus Arizona hat öffentlich erklärt, während Reparaturen an einem Wahlkampfschild vergewaltigt worden zu sein. Laut eigenen Angaben ist ihre Erinnerung an die Tat lückenhaft, nachdem sie bewusstlos geschlagen wurde.",
-    "m": "Bernadette Greene-Placentia, eine Kandidatin für den Kongress im US-Bundesstaat Arizona, hat schwere Vorwürfe erhoben und angegeben, Opfer einer Vergewaltigung geworden zu sein. Der Vorfall soll sich ereignet haben, während sie ein Wahlkampfschild reparierte. Zu den genauen Umständen der Tat ist bekannt, dass sie nach eigenen Angaben bewusstlos geschlagen wurde. Aufgrund dessen ist ihre Erinnerung an den Übergriff lückenhaft. Weitere Details zu einem Tatverdächtigen oder konkreten polizeilichen Ermittlungen nennen die vorliegenden Berichte bisher nicht. Der Fall wirft Fragen zur Sicherheit von Politikern und Wahlhelfern im alltäglichen Einsatz auf.",
-    "r": "Die Schilderungen einer Kongresskandidatin über einen mutmasslichen Übergriff während des Wahlkampfs verdeutlichen potenzielle Sicherheitsrisiken für politische Akteure. Der Fall könnte eine breitere Diskussion über den Schutz von Kandidaten bei lokalen Aktivitäten auslösen.",
-    "srcs": [
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c65yndpnk5qdo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-08T14:10:58.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ucVhCTUd1YmhoY3NSd1FCMllLN1lJZjExcGxCdVJlc2lKMDlPeG0zWXozdzZJU2k0YzJudzRjU1FLSHV5b2lCNjFSSmZLNzFjbTFxWEFxOFkxbkU?oc=5",
-        "date": "2026-10-08T14:10:58.000Z"
-      }
-    ],
-    "url": "https://www.bbc.co.uk/news/articles/c65yndpnk5qdo?at_medium=RSS&at_campaign=rss",
-    "agree": "Beide Quellen stimmen darin überein, dass eine Kongresskandidatin aus Arizona berichtete, während der Reparatur eines Wahlkampfschildes vergewaltigt worden zu sein.",
-    "diff": [
-      {
-        "name": "Google News World",
-        "note": "Verweist lediglich auf den Artikel der BBC und enthält keine eigenständigen Informationen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-4cf014b9d2c76d00",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-08T13:48:00.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Krankheitskosten in Deutschland übersteigen im Jahr 2024 halbe Billion Euro",
-    "s": "Im Jahr 2024 beliefen sich die unmittelbaren Krankheitskosten in Deutschland auf 528,5 Milliarden Euro. Damit wurde erstmals die Marke von einer halben Billion Euro überschritten. Laut den Berichten gibt es besonders große Kostenunterschiede zwischen den Geschlechtern sowie in verschiedenen Altersgruppen.",
-    "m": "Die Gesamtkosten für Krankheiten und gesundheitliche Probleme in Deutschland beliefen sich im Jahr 2024 auf exakt 528,5 Milliarden Euro. Die Daten verdeutlichen, dass gesundheitliche Probleme im Land insgesamt zunehmen. Es zeigen sich deutliche Diskrepanzen bei den Ausgaben, die stark vom Geschlecht der Betroffenen sowie vom Alter abhängen. Konkrete Details zu den treibenden Faktoren oder der genauen Verteilung auf Altersgruppen und Geschlechter wurden in den vorliegenden Berichten nicht im Detail aufgeschlüsselt. DW Deutsch weist ergänzend darauf hin, dass zwei bestimmte Krankheitsbilder ganz vorne stehen, nennt diese jedoch im Text nicht namentlich. Weitere Details zu den genauen Diagnosegruppen oder politischen Konsequenzen stehen noch aus.",
-    "r": "Die enormen und weiter steigenden Krankheitskosten sind ein zentraler Indikator für den Zustand des deutschen Gesundheitssystems und belasten öffentliche sowie private Kassen erheblich. Die genaue Analyse von Alters- und Geschlechterunterschieden ist zudem wichtig für präventive Maßnahmen und künftige gesundheitspolitische Entscheidungen.",
-    "srcs": [
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/panorama/deutschland-krankheitskosten-halbe-billion-euro-100.html",
-        "date": "2026-10-08T13:48:00.000Z"
-      },
-      {
-        "name": "DW Deutsch",
-        "url": "https://www.dw.com/de/deutschland-krankheitskosten-übersteigen-halbe-billion-euro/a-79592688?maca=de-rss-de-all-1119-xml-mrss",
-        "date": "2026-10-08T10:33:00.000Z"
-      }
-    ],
-    "url": "https://www.zdfheute.de/panorama/deutschland-krankheitskosten-halbe-billion-euro-100.html",
-    "agree": "Die Quellen sind sich einig, dass sich die Krankheitskosten in Deutschland im Jahr 2024 auf 528,5 Milliarden Euro beliefen und damit die Marke von einer halben Billion Euro überstiegen.",
-    "diff": [
-      {
-        "name": "ZDF heute",
-        "note": "Erwähnt besonders große Kostenunterschiede zwischen den Geschlechtern und im Alter."
-      },
-      {
-        "name": "DW Deutsch",
-        "note": "Merkt an, dass Krankheiten und gesundheitliche Probleme zunehmen, und erwähnt, dass zwei Krankheitsbilder ganz vorne stehen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-f1bee5106f899ca9",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-08T13:25:00.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Italienisches Parlament billigt umstrittene Wahlrechtsreform von Giorgia Meloni",
-    "s": "Das italienische Parlament hat am Donnerstag die umstrittene Wahlrechtsreform der Regierungschefin Giorgia Meloni gebilligt. Es handelt sich dabei um ein zentrales Vorhaben der Ministerpräsidentin. Vor der Abstimmung hatte Meloni für den Fall einer Ablehnung mit harten Konsequenzen gedroht. Die Reform stärkt ihre politischen Positionen und beeinflusst auch ihre Chancen auf eine Wiederwahl im Jahr 2027.",
-    "m": "Italiens Regierungschefin Giorgia Meloni hat den Machtpoker um ihre vieldiskutierte Wahlrechtsreform vorerst für sich entschieden. Das italienische Parlament stimmte dem Gesetzesvorhaben am Donnerstag zu. Die Reform gilt als eines der zentralsten Projekte der derzeitigen Regierung. Im Vorfeld der Abstimmung hatte die Ministerpräsidentin erheblichen Druck ausgeübt und bei einem eventuellen Nein mit drastischen Konsequenzen gedroht. Kritiker bezeichnen das Vorhaben als umstritten, während es für Meloni selbst als wichtiger Meilenstein gilt. Beobachter werten den Erfolg im Parlament auch als strategischen Schritt im Hinblick auf die Chancen für eine mögliche Wiederwahl Melonis im Jahr 2027. Offen bleibt, welche konkreten politischen und rechtlichen Reaktionen die Opposition nach der Billigung ankündigen wird.",
-    "r": "Die Billigung einer grundlegenden Wahlrechtsreform durch das italienische Parlament betrifft die politische Stabilität und die Machtverhältnisse in einem großen EU-Staat. Zudem hat die Entscheidung direkte Auswirkungen auf die politische Zukunft und die Wiederwahlaussichten der amtierenden Regierungschefin Giorgia Meloni im Jahr 2027.",
-    "srcs": [
-      {
-        "name": "DW Deutsch",
-        "url": "https://www.dw.com/de/italien-parlament-billigt-melonis-umstrittenes-wahlrecht/a-79596399?maca=de-rss-de-all-1119-xml-mrss",
-        "date": "2026-10-08T13:25:00.000Z"
-      },
-      {
-        "name": "t-online Nachrichten",
-        "url": "https://www.t-online.de/nachrichten/ausland/eu/id_101471944/italien-parlament-billigt-melonis-wahlrechtsreform.html",
-        "date": "2026-10-08T11:09:10.000Z"
-      }
-    ],
-    "url": "https://www.dw.com/de/italien-parlament-billigt-melonis-umstrittenes-wahlrecht/a-79596399?maca=de-rss-de-all-1119-xml-mrss",
-    "agree": "Die Quellen stimmen überein, dass das italienische Parlament die umstrittene Wahlrechtsreform von Regierungschefin Giorgia Meloni gebilligt hat.",
-    "diff": [
-      {
-        "name": "DW Deutsch",
-        "note": "Berichtet darüber, dass Meloni vor der Abstimmung für den Fall eines Neins mit harten Konsequenzen gedroht hat."
-      },
-      {
-        "name": "t-online Nachrichten",
-        "note": "Nennt den genauen Wochentag (Donnerstag) der Abstimmung und verknüpft die Reform direkt mit Melonis Chancen auf eine Wiederwahl im Jahr 2027."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-1e94e7ba80a39e03",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-08T12:58:32.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Russischer Angriff auf Linienbusse in Kramatorsk fordert zahlreiche Opfer",
-    "s": "Bei einem russischen Angriff auf Linienbusse in der ostukrainischen Stadt Kramatorsk sind zahlreiche Menschen getötet und verletzt worden. Nach übereinstimmenden Medienberichten kamen mindestens 33 Menschen ums Leben. Weitere 18 Personen erlitten Verletzungen. Die Hintergründe der Attacke werden im Kontext des anhaltenden Ukraine-Krieges bewertet.",
-    "m": "Der Vorfall ereignete sich in der ostukrainischen Stadt Kramatorsk, wo zwei Linienbusse Ziel eines Angriffs wurden. Durch die Detonationen oder den Beschuss starben mindestens 33 Menschen, 18 weitere wurden verletzt. Russland bestreitet in diesem Zusammenhang wiederholt, gezielt Zivilisten zu beschießen. Der Angriff reiht sich in die Serie schwerer Verluste und Angriffe auf zivile Infrastruktur und Transportmittel im Kriegsgebiet ein. Offene Punkte betreffen die genauen militärischen Umstände und den genauen Hergang des Angriffs auf die Busse. Die Opferzahlen könnten sich je nach Zustand der Schwerverletzten noch verändern.",
-    "r": "Der Angriff verdeutlicht die anhaltende Bedrohung von Zivilisten im Ukraine-Krieg durch Angriffe auf städtische Infrastruktur. Mit mindestens 33 Toten und 18 Verletzten handelt es sich um einen Vorfall mit massiven humanitären Folgen.",
-    "srcs": [
-      {
-        "name": "Süddeutsche Zeitung",
-        "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-selenskij-grossangriff-russland-kiew-tote-kramatorsk-bus-li.3549696",
-        "date": "2026-10-08T12:58:32.000Z"
-      },
-      {
-        "name": "t-online Nachrichten",
-        "url": "https://www.t-online.de/nachrichten/ukraine/id_101472014/ukraine-krieg-33-tote-bei-russischem-angriff-auf-linienbusse.html",
-        "date": "2026-10-08T11:30:40.000Z"
-      }
-    ],
-    "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-selenskij-grossangriff-russland-kiew-tote-kramatorsk-bus-li.3549696",
-    "agree": "Beide Quellen stimmen überein, dass bei einem russischen Angriff auf Linienbusse in Kramatorsk mindestens 33 Menschen getötet wurden.",
-    "diff": [
-      {
-        "name": "Süddeutsche Zeitung",
-        "note": "Berichtet ergänzend, dass 18 weitere Menschen verletzt wurden und Russland bestreitet, gezielt Zivilisten zu beschießen."
-      },
-      {
-        "name": "t-online Nachrichten",
-        "note": "Nennt ebenfalls 33 Tote, erwähnt aber konkret, dass zwei Linienbusse getroffen wurden und zahlreiche Menschen verletzt wurden, ohne die genaue Zahl 18 zu nennen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-0d5cab9c936bd225",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-08T12:46:50.000Z",
-    "p": 3,
-    "st": "BW",
-    "city": "",
-    "t": "29-jähriger Mann stirbt nach Polizeieinsatz in Mannheim",
-    "s": "Nach einem Polizeieinsatz am Wasserturm in Mannheim ist ein 29-jähriger Mann am Freitag in Polizeigewahrsam gestorben. Die genauen Umstände und Gründe für den Tod sind zum aktuellen Zeitpunkt noch unklar. Das Landeskriminalamt hat die Ermittlungen zu dem Vorfall aufgenommen.",
-    "m": "Der Vorfall ereignete sich am Freitag nach einem Polizeieinsatz in der Nähe des Mannheimer Wasserturms. Im Zuge dieses Einsatzes wurde der 29-jährige Mann von der Polizei festgenommen. Kurz nach der Festnahme und während er sich im Gewahrsam befand, verstarb der Mann. Bislang gibt es keine offiziellen Angaben zur genauen Todesursache oder zu den spezifischen Hintergründen, die zu dem Polizeieinsatz führten. Um eine objektive Aufklärung zu gewährleisten, hat das Landeskriminalamt die Ermittlungen übernommen. Offen ist derzeit, wie es zu dem Todesfall im Gewahrsam kommen konnte und welche Maßnahmen während des Einsatzes ergriffen wurden.",
-    "r": "Der Todesfall eines Menschen in Polizeigewahrsam ist ein schwerwiegender Vorfall, der eine lückenlose Aufklärung durch unabhängige Behörden erfordert. Die Einbindung des Landeskriminalamts soll die Umstände des Einsatzes und der Festnahme untersuchen.",
-    "srcs": [
-      {
-        "name": "SWR Aktuell Baden-Württemberg",
-        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/mann-stirbt-in-polizei-gewahrsam-gruende-unklar-100.html",
-        "date": "2026-10-08T12:46:50.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Baden-Württemberg",
-        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-mannheim-mann-stirbt-in-polizeigewahrsam-gruende-noch-unklar-100.html",
-        "date": "2026-10-08T10:03:31.000Z"
-      }
-    ],
-    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/mann-stirbt-in-polizei-gewahrsam-gruende-unklar-100.html",
-    "agree": "Beide Quellen sind sich einig, dass ein 29-jähriger Mann nach einem Polizeieinsatz am Mannheimer Wasserturm am Freitag festgenommen wurde und in Polizeigewahrsam gestorben ist, während die genauen Gründe unklar sind und das Landeskriminalamt ermittelt.",
-    "diff": [
-      {
-        "name": "SWR Aktuell Baden-Württemberg",
-        "note": "Berichtet wortgleich mit der anderen Quelle über den Vorfall in Mannheim."
-      },
-      {
-        "name": "Tagesschau Regional Baden-Württemberg",
-        "note": "Berichtet wortgleich mit der anderen Quelle über den Vorfall in Mannheim."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-c965d66b5752afd2",
-    "c": "INT",
-    "o": "US",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-08T12:13:54.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Südkorea beruft Botschafter in der Ukraine wegen Kriegsgefangenen-Streit ab",
-    "s": "Südkorea hat angekündigt, seinen Botschafter aus der Ukraine abzuberufen. Grund ist ein Streit über die Veröffentlichung der Rückführung von zwei nordkoreanischen Kriegsgefangenen. Die Maßnahme folgt auf eine vorherige Androhung von Strafschritten durch den südkoreanischen Präsidenten Lee Jae Myung.",
-    "m": "Seoul begründet den Schritt damit, dass die öffentliche Bekanntgabe der Rückführung durch Kiew die Familien der Betroffenen in Nordkorea in Gefahr bringe. In Nordkorea drohen Verwandten von Personen, die in Feindeshand geraten, harte Strafen. Die diplomatische Krise eskaliert damit wenige Tage, nachdem der südkoreanische Präsident Lee Jae Myung unbestimmte Strafmaßnahmen angedroht hatte, sollte sich die Ukraine nicht entschuldigen. Die Ukraine hat die Vorwürfe aus Seoul bislang zurückgewiesen. Offen ist, wie sich die diplomatischen Beziehungen beider Länder nach diesem Schritt weiter entwickeln werden und ob es zu weiteren Sanktionen kommt.",
-    "r": "Der Konflikt betrifft das bilaterale Verhältnis zweier Staaten im Kontext des Ukraine-Krieges und berührt Fragen der Sicherheit von Angehörigen von Kriegsgefangenen. Die diplomatische Verstimmung könnte die internationale Zusammenarbeit im Umgang mit nordkoreanischen Truppen und Gefangenen belasten.",
-    "srcs": [
-      {
-        "name": "NPR World",
-        "url": "https://www.npr.org/2026/10/08/g-s1-147115/south-korea-to-recall-its-ambassador-to-ukraine-over-north-korean-pow-dispute",
-        "date": "2026-10-08T12:13:54.000Z"
-      },
-      {
-        "name": "Euronews",
-        "url": "https://www.euronews.com/2026/10/08/south-korea-recalls-ambassador-to-ukraine-in-north-korean-prisoner-of-war-row",
-        "date": "2026-10-08T11:27:07.000Z"
-      }
-    ],
-    "url": "https://www.npr.org/2026/10/08/g-s1-147115/south-korea-to-recall-its-ambassador-to-ukraine-over-north-korean-pow-dispute",
-    "agree": "Südkorea beruft seinen Botschafter in der Ukraine im Zusammenhang mit einem Streit über nordkoreanische Kriegsgefangene ab.",
-    "diff": [
-      {
-        "name": "NPR World",
-        "note": "Erwähnt die drohenden Strafschritte des südkoreanischen Präsidenten Lee Jae Myung und dessen Entschuldigungsforderung."
-      },
-      {
-        "name": "Euronews",
-        "note": "Nennt die konkrete Begründung Seouls bezüglich der gefährdeten Familien in Nordkorea und berichtet, dass die Ukraine die Vorwürfe zurückgewiesen hat."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-d2cddbbd4cfaa204",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-08T12:00:14.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Literaturnobelpreis geht an Kanadierin Anne Carson",
-    "s": "Der Literaturnobelpreis 2026 geht an Anne Carson aus Kanada. Das teilte die Schwedische Akademie in Stockholm mit. Schon in der Vergangenheit galt Carson als Favoritin auf den Pre…",
-    "m": "Der Literaturnobelpreis 2026 geht an Anne Carson aus Kanada. Das teilte die Schwedische Akademie in Stockholm mit. Schon in der Vergangenheit galt Carson als Favoritin auf den Pre… Für ihr „kühnes und erfinderisches“ Werk Literaturnobelpreis geht an Kanadierin Anne Carson Tagesspiegel <a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQUFNSVllsN0FWNW9EbVBLVkhZMUItQzI2U1hHblNxOTdSdG1VbVZzQy1uNFRsdEFTbVM0TWdjNUpDcnluaGF0SThyZF80M0h5UE5fRnY4aG1LRGhYMk1uVGw1cm1VZUtZWFJOZUhHbTNRX1",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
-    "srcs": [
-      {
-        "name": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/kultur/literatur-nobelpreis-116.html",
-        "date": "2026-10-08T12:00:14.000Z"
-      },
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbk94NTJHNWN4YkdyUWhQTXpsVFRpdmlIRzRPcmF2bkdHVnhDTGVKWkVTYVNHblBRY1JKN3cxTjJsUzYtRmphXzB0WS1LTGpFNG04YVRpLXlLelZEbW13UEtiV0ozY1Q1eWloRDFkT2p6SDJKNXNYWFNBc0VKLXVrWUxlS2RUSGpVekEzYkpKT0NRdzZscU1WNEJMekVaUUpzckNtUVZ1TkJ6dVdlNTNORXV2RzJiQjNDQVowLVFjWQ?oc=5",
-        "date": "2026-10-08T11:04:17.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/kultur/literatur-nobelpreis-116.html",
-    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-9175ff440f4286fd",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-08T11:18:18.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Regierung hebt Wachstumsprognose für 2026 auf 1,3 Prozent an",
-    "s": "Die Bundesregierung erwartet für das laufende Jahr ein Wachstum von 1,3 Prozent. Damit blickt sie deutlich optimistischer auf die wirtschaftliche Entwicklung als noch im Frühjahr, als sie von 0,5 Prozent ausgegangen war.",
-    "m": "Die Bundesregierung erwartet für das laufende Jahr ein Wachstum von 1,3 Prozent. Damit blickt sie deutlich optimistischer auf die wirtschaftliche Entwicklung als noch im Frühjahr, als sie von 0,5 Prozent ausgegangen war. Regierung hebt Wachstumsprognose für 2026 auf 1,3 Prozent an tagesschau.de <a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOcjRpeXZLZFZVOGNLbWl0UldacWh0R2ZPTXRIbzlOaXVfckRsc0JkeDk4aDdlaG53VTJXYTEwNEViTW9oUDdoeHk5dXZCai1XUy04aVU1VUdHREI3d0NnSHE2c3piczRzeXJCeE1xcjhDMGM3N0VVdWFrOEg5N19lRDNGUWN0LV9TczJtU2pEUHVtbU5qZmNrU3JKQllsclZyVy0tSGU5VEp2SU9uX1ByMERvRl9Gck9SZDln",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
-    "srcs": [
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/wirtschaft/konjunktur/wachstumsprognose-regierung-100.html",
-        "date": "2026-10-08T11:18:18.000Z"
-      },
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd0FKN2JxdmhySU1BVU51QzhtTU15WGYxQ2owcV9TTU01SnlCblBxMVNpQndfaGtqRmpQZGU3WXdoMXJyQnpRZUktVFZxLWo5Z0JlNGFSWFZ4bHZXaEpQcUpKRHlRMFJBZkg2Y1NfVnRpWG9mNFNSbUpGSVU2ZWEtOXBqSkNPdENXVFZmZw?oc=5",
-        "date": "2026-10-08T11:18:00.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/wirtschaft/konjunktur/wachstumsprognose-regierung-100.html",
-    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-19da1a6887ed63d1",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-08T11:18:00.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Giorgia Meloni: Parlament in Italien stimmt umstrittener Wahlrechtsreform zu - Spiegel",
-    "s": "Giorgia Meloni: Parlament in Italien stimmt umstrittener Wahlrechtsreform zu Spiegel <a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE4tY2lOSDNNcUhtOEJLSkw2WVhMRFRUV2k0dW5IdWJjaUhCOHlWcldTS3A2MVpWVXlzR1M2azFNYXp1eE9FcWpFbzBsVjFhbHdManpHYWYtM1l0cXVoNFlJWlczUGlxZ",
-    "m": "Giorgia Meloni: Parlament in Italien stimmt umstrittener Wahlrechtsreform zu Spiegel <a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE4tY2lOSDNNcUhtOEJLSkw2WVhMRFRUV2k0dW5IdWJjaUhCOHlWcldTS3A2MVpWVXlzR1M2azFNYXp1eE9FcWpFbzBsVjFhbHdManpHYWYtM1l0cXVoNFlJWlczUGlxZ Italiens Ministerpräsidentin Meloni hatte ihren Rücktritt angedroht, falls die Wahlrechtsreform scheitert. Nun hat das Parlament entschieden.",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQThybElYUkxGVF9WVHdZaDBNTXJxZTR3ODJhM0xJb2lxWHAyT29tSXVKd1FLTmFtdjV0bWZsaEI1ZGhOenlobGFWWkk4Q2pyeklkRkZlV1BNSTBqZXNrUHFjWDhFdmNOVldnU0tybWlLTnpxTS1JR3N2WHZGNHVDcXMyUklOcTFDS1dUaXNEa1k4dVhzdlR4dnhlQmtheWN5VzRaUUZGTEVYYzExQzRhcGxuM1JlQnREWTZpaHZmQ19MaXdtanJBdTk3MzBWeFZyeXhibHZjYVdHRzQ?oc=5",
-        "date": "2026-10-08T11:18:00.000Z"
-      },
-      {
-        "name": "t-online Nachrichten",
-        "url": "https://www.t-online.de/nachrichten/ausland/eu/id_101472378/italien-wahlrechtsreform-von-giorgia-meloni-im-parlament-beschlossen.html",
-        "date": "2026-10-08T10:58:37.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQThybElYUkxGVF9WVHdZaDBNTXJxZTR3ODJhM0xJb2lxWHAyT29tSXVKd1FLTmFtdjV0bWZsaEI1ZGhOenlobGFWWkk4Q2pyeklkRkZlV1BNSTBqZXNrUHFjWDhFdmNOVldnU0tybWlLTnpxTS1JR3N2WHZGNHVDcXMyUklOcTFDS1dUaXNEa1k4dVhzdlR4dnhlQmtheWN5VzRaUUZGTEVYYzExQzRhcGxuM1JlQnREWTZpaHZmQ19MaXdtanJBdTk3MzBWeFZyeXhibHZjYVdHRzQ?oc=5",
-    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-0cfc88fb92cbf142",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-08T10:51:26.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "CDU-Stimmen für AfD in Sachsen-Anhalt: Radtke fordert Ausschluss",
-    "s": "Bei der Wahl des Landtagspräsidenten in Sachsen-Anhalt steht im Raum, ob CDU-Abgeordnete für den AfD-Kandidaten Rausch gestimmt haben könnten. Dennis Radtke, der Chef des CDU-Arbeitnehmerflügels, hat sich zu diesen Spekulationen geäußert. Er verlangt harte Konsequenzen für den Fall, dass sich diese Vermutungen bestätigen sollten.",
-    "m": "Im Zentrum der Berichterstattung steht die Frage, ob Abgeordnete der CDU bei der Wahl des Landtagspräsidenten in Sachsen-Anhalt ihre Stimme dem AfD-Kandidaten Rausch gegeben haben. Angesichts dieser möglichen Zusammenarbeit fordert Dennis Radtke, der Vorsitzende des CDU-Arbeitnehmerflügels, ein konsequentes Vorgehen. Konkret verlangt er bei einem Nachweis entsprechender Stimmen ein Parteiausschlussverfahren für die betroffenen Abweichler. Die Berichterstattung beleuchtet damit die anhaltende Debatte über den Umgang und mögliche Annäherungen zwischen der CDU und der AfD auf Landesebene. Bisher handelt es sich um die Forderung von Radtke auf Basis der im Raum stehenden Vermutungen über das Wahlverhalten. Weitere offizielle Bestätigungen oder Reaktionen der Parteispitze oder der betroffenen Landes-CDU werden in den Meldungen nicht genannt. Die Konsequenzen eines solchen Parteiausschlusses und die Reaktion der Parteibasis bleiben ebenfalls noch abzuwarten.",
-    "r": "Die Debatte berührt die grundsätzliche Brandmauer-Diskussion und das Verhältnis der Union zur AfD auf Landesebene. Konkrete Parteiausschlussverfahren bei nachgewiesenen Stimmenabgaben wären ein Präzedenzfall für den Umgang mit Abweichlern.",
-    "srcs": [
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-reaktionen-wahl-sachsen-anhalt-100.html",
-        "date": "2026-10-08T10:51:26.000Z"
-      },
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/politik/deutschland/cdu-afd-abstimmung-abgeordnete-parteiausschluss-radtke-100.html",
-        "date": "2026-10-08T09:08:00.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-reaktionen-wahl-sachsen-anhalt-100.html",
-    "agree": "Beide Quellen sind sich einig, dass Dennis Radtke als Chef des CDU-Arbeitnehmerflügels im Zusammenhang mit der Landtagspräsidentenwahl in Sachsen-Anhalt und dem AfD-Kandidaten Rausch ein Parteiausschlussverfahren für eventuelle CDU-Abweichler fordert.",
-    "diff": [
-      {
-        "name": "Tagesschau",
-        "note": "Verwendet den Begriff 'harte Konsequenzen' für den geforderten Parteiausschluss."
-      },
-      {
-        "name": "ZDF heute",
-        "note": "Nennt direkt den Begriff 'Parteiausschlussverfahren' in der Zusammenfassung."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-6acbe6e2f4fc9f5b",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-08T09:08:00.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "CDA-Chef Radtke fordert Parteiausschluss bei CDU-Stimmen für AfD in Sachsen-Anhalt",
-    "s": "Nach der möglichen Wahl des AfD-Politikers Rausch zum Landtagspräsidenten in Sachsen-Anhalt durch CDU-Abgeordnete gibt es scharfe Forderungen nach Konsequenzen. Der Chef des CDU-Arbeitnehmerflügels Dennis Radtke verlangt im Falle einer Bestätigung ein Parteiausschlussverfahren. Bisher ist unklar, ob tatsächlich Abgeordnete der CDU für den AfD-Kandidaten gestimmt haben. Die Berichterstattung wirft die Frage nach einer Aufweichung der Brandmauer zur AfD auf Landesebene auf.",
-    "m": "Im Landtag von Sachsen-Anhalt steht der Vorwurf im Raum, dass CDU-Abgeordnete dem AfD-Politiker Rausch ins Amt des Landtagspräsidenten verholfen haben könnten. Ob es sich dabei um gezielte Absprachen oder vereinzelte Stimmen aus den eigenen Reihen handelt, ist Gegenstand aktueller Spekulationen und Berichte. Der Chef des CDU-Sozialflügels, Dennis Radtke, hat unmissverständlich reagiert und im Falle eines Nachweises solcher Stimmen ein Parteiausschlussverfahren gefordert. Radtke begründet dies mit der unvereinbaren Haltung der CDU gegenüber rechtspopulistischen bis rechtsextremen Parteien wie der AfD. Bislang gibt es jedoch keine offiziellen Bestätigungen über das tatsächliche Abstimmungsverhalten einzelner Unionsabgeordneter. Die Vorfälle könnten innerparteiliche Debatten über den Umgang mit der AfD in den ostdeutschen Landesverbänden weiter anheizen. Politische Beobachter bewerten den Vorgang als Belastungsprobe für die Glaubwürdigkeit der Brandmauer.",
-    "r": "Die Berichterstattung berührt grundlegende Fragen der Parteidisziplin und des Umgangs der CDU mit der AfD auf Landesebene. Mögliche Absprachen oder Stimmabgaben an die AfD gefährden den offiziellen Unvereinbarkeitsbeschluss der Union.",
-    "srcs": [
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/politik/deutschland/cdu-afd-abstimmung-abgeordnete-parteiausschluss-radtke-100.html",
-        "date": "2026-10-08T09:08:00.000Z"
-      },
-      {
-        "name": "stern",
-        "url": "https://www.stern.de/gesellschaft/regional/sachsen-anhalt/sachsen-anhalt--stimmen-fuer-afd--radtke-fordert-parteiausschlussverfahren-38364254.html",
-        "date": "2026-10-08T08:52:20.000Z"
-      },
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/politik/cdu-stimmen-fuer-afd-radtke-fordert-partei-aus-schluss-verfahren-ZEXDSZ4YVBD4NO7RPMXUSF4RDU.html",
-        "date": "2026-10-08T02:12:58.000Z"
-      }
-    ],
-    "url": "https://www.zdfheute.de/politik/deutschland/cdu-afd-abstimmung-abgeordnete-parteiausschluss-radtke-100.html",
-    "agree": "Die Quellen sind sich einig, dass Dennis Radtke im Falle einer Stimmabgabe von CDU-Abgeordneten für den AfD-Politiker Rausch in Sachsen-Anhalt ein Parteiausschlussverfahren fordert.",
-    "diff": [
-      {
-        "name": "ZDF heute",
-        "note": "Bezeichnet Dennis Radtke als Chef des CDU-Arbeitnehmerflügels."
-      },
-      {
-        "name": "stern",
-        "note": "Bezeichnet Dennis Radtke als Chef des CDU-Sozialflügels und fordert harte Konsequenzen."
-      },
-      {
-        "name": "RND",
-        "note": "Bezeichnet Dennis Radtke ebenfalls als Chef des CDU-Sozialflügels und spricht von harten Konsequenzen."
-      }
-    ],
-    "chg": "",
-    "independent": 3
-  },
-  {
-    "id": "story-43b9bbe9dd8ec250",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-08T08:56:01.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Bundespräsident Steinmeier zu Staatsbesuch in Frankreich empfangen",
-    "s": "Bundespräsident Frank-Walter Steinmeier ist zu einem Staatsbesuch in Frankreich eingetroffen. Zum Auftakt wurde er von Präsident Emmanuel Macron am Pariser Triumphbogen mit militärischen Ehren empfangen. Dort legte Steinmeier am Grabmal des Unbekannten Soldaten ein Blumengebinde nieder.",
-    "m": "Der Bundespräsident ist am Donnerstag zu seinem offiziellen Staatsbesuch in Frankreich eingetroffen. Der Auftakt fand am Pariser Triumphbogen statt, wo Frank-Walter Steinmeier das Grabmal des Unbekannten Soldaten besuchte und den im Ersten Weltkrieg getöteten französischen Soldaten mit einem Blumengebinde die Ehre erwies. Frankreichs Präsident Emmanuel Macron empfing ihn zu diesem Anlass mit militärischen Ehren. Im Anschluss an den feierlichen Empfang am Triumphbogen ziehen sich die beiden Staatsoberhäupter zu politischen Gesprächen in den Elysée-Palast zurück.",
-    "r": "Der Staatsbesuch unterstreicht die diplomatischen Beziehungen zwischen Deutschland und Frankreich. Die Gespräche zwischen Steinmeier und Macron im Elysée-Palast sind für die bilaterale Abstimmung von Bedeutung.",
-    "srcs": [
-      {
-        "name": "stern",
-        "url": "https://www.stern.de/news/steinmeier-mit-militaerischen-ehren-zu-staatsbesuch-in-paris-empfangen-38365776.html",
-        "date": "2026-10-08T08:56:01.000Z"
-      },
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/steinmeier-zu-staatsbesuch-in-frankreich-empfang-mit-militaerischen-ehren-am-triumphbogen-100.html",
-        "date": "2026-10-08T08:50:38.000Z"
-      }
-    ],
-    "url": "https://www.stern.de/news/steinmeier-mit-militaerischen-ehren-zu-staatsbesuch-in-paris-empfangen-38365776.html",
-    "agree": "Die Quellen sind sich darüber einig, dass Bundespräsident Frank-Walter Steinmeier von Präsident Emmanuel Macron am Pariser Triumphbogen mit militärischen Ehren empfangen wurde.",
-    "diff": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "note": "erwähnt zusätzlich, dass sich Steinmeier und Macron nach dem Empfang zu Gesprächen in den Elysée-Palast zurückziehen"
-      },
-      {
-        "name": "stern",
-        "note": "nennt details zum besuch des grabmals des unbekannten soldaten und dem niedergelegten blumengebinde"
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-93a8a2fb0d9fdb42",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-08T08:51:59.000Z",
-    "p": 2,
-    "st": "NI",
-    "city": "",
-    "t": "Vier Meter lange Schlangenhaut auf Gehweg in Braunschweig entdeckt",
-    "s": "In Braunschweig hat eine Passantin eine vier Meter lange Schlangenhaut auf einem Gehweg entdeckt. Die Haut stammt mutmaßlich von einem Netzpython und gibt der Polizei Rätsel auf. Die Behörden ermitteln in dem Fall.",
-    "m": "Die Entdeckung der vier Meter langen Schlangenhaut ereignete sich am Montagnachmittag auf einem Gehweg im Bereich Heerstieg in Braunschweig. Die Polizei geht Hinweisen nach und ermittelt zu den Hintergründen des Funds. Ob die Haut von einem lebenden Tier stammt oder ob lediglich die Haut transportiert beziehungsweise entsorgt wurde, ist Gegenstand der Ermittlungen. Dass sich ein so langer Python frei in der Stadt bewegt hat, schließt die Polizei jedoch aus. Neben allgemeinen Ermittlungen zur Herkunft prüft die Polizei auch den Verdacht eines möglichen Artenschutzverstoßes sowie des Handels mit der Haut.",
-    "r": "Der Fund einer solch großen Schlangenhaut im öffentlichen Raum ist ungewöhnlich und führt zu polizeilichen Ermittlungen wegen möglicher Delikte wie Artenschutzverstößen oder illegalem Handel. Solche Vorfälle verdeutlichen die behördliche Überwachung des Umgangs mit exotischen Tieren.",
-    "srcs": [
-      {
-        "name": "Frankfurter Allgemeine",
-        "url": "https://www.faz.net/aktuell/gesellschaft/tiere/schlangenhaut-in-braunschweig-fund-eines-netzpythons-accg-201298949.html",
-        "date": "2026-10-08T08:51:59.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Niedersachsen",
-        "url": "https://www.tagesschau.de/inland/regional/niedersachsen/braunschweig-passantin-findet-vier-meter-lange-schlangenhaut,schlange-184.html",
-        "date": "2026-10-08T07:57:52.000Z"
-      },
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/lokales/niedersachsen/braunschweig/fund-in-braunschweig-vier-meter-lange-schlangenhaut-liegt-auf-dem-gehweg-VSXWFRYYDVA3RJCM54ZZBYPXDU.html",
-        "date": "2026-10-08T07:56:08.000Z"
-      }
-    ],
-    "url": "https://www.faz.net/aktuell/gesellschaft/tiere/schlangenhaut-in-braunschweig-fund-eines-netzpythons-accg-201298949.html",
-    "agree": "Die Quellen stimmen überein, dass eine vier Meter lange Schlangenhaut auf einem Gehweg in Braunschweig von einer Passantin entdeckt wurde und die Polizei ermittelt.",
-    "diff": [
-      {
-        "name": "Frankfurter Allgemeine",
-        "note": "Erwähnt spezifisch, dass die Polizei wegen eines möglichen Artenschutzverstoßes ermittelt."
-      },
-      {
-        "name": "Tagesschau Regional Niedersachsen",
-        "note": "Berichtet, dass die Polizei ausschließt, dass ein so großer Python in der Stadt herumkriecht, und stattdessen wegen Handels mit der Haut ermittelt."
-      },
-      {
-        "name": "RND",
-        "note": "Nennt den genauen Fundzeitpunkt (Montagnachmittag) sowie den genauen Fundort (Heerstieg)."
-      }
-    ],
-    "chg": "",
-    "independent": 3
-  },
-  {
-    "id": "story-05a368a99b941110",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-08T08:50:38.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Sachsen-Anhalt: BSW bekräftigt Nichtwahl von AfD-Politiker Tillschneider",
-    "s": "Das Bündnis Sahra Wagenknecht hat bekräftigt, den AfD-Politiker Tillschneider nicht zum Landtags-Vizepräsidenten in Sachsen-Anhalt gewählt zu haben. Generalsekretär Ruhnert betonte, dass inhaltliche Einstellungen der Grund für die Ablehnung waren.",
-    "m": "Das Bündnis Sahra Wagenknecht hat noch einmal betont, den AfD-Politiker Tillschneider bei der Wahl zum Landtags-Vizepräsidenten nicht unterstützt zu haben. Der Generalsekretär der Partei, Ruhnert, erklärte gegenüber dem MDR, dass man den Politiker wegen dessen inhaltlichen Einstellungen konsequent nicht mitwähle. Die Bekräftigung folgt auf anhaltende Diskussionen um die Stimmabgabe im Landtag von Sachsen-Anhalt. BSW-Generalsekretär Ruhnert machte deutlich, dass diese Haltung innerhalb der Partei unstrittig ist. Weitere Details zum genauen Ablauf der Wahl oder den Reaktionen der AfD wurden in den Meldungen nicht genannt.",
-    "r": "Die Klarstellung des BSW zur Nichtwahl eines rechtspopulistischen Politikers ist für die politische Landschaft in Sachsen-Anhalt und die Koalitionsdynamiken von Bedeutung.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/bsw-bekraeftigt-afd-vordenker-tillschneider-nicht-gewaehlt-zu-haben-104.html",
-        "date": "2026-10-08T08:50:38.000Z"
-      },
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdW05cm1BdkRDS1VyZDBFRlFpaUtQdkdZUjMtcHVsdXZON3cyM0psa3U3eWdMMnpVbkpMNmRJX1hFMGlMS0NsbE5vWnJBRWdTYVpBX3o0anJ0Y2V2Y1ZFMUh2eUlBS3F1TWh5dHdnVkR6cUJlWlhjbkI3YkR0YVZiQzlMVUtWZkpwb0dyLW5mNnM1dmZ0YmRCRHExeUp1d1pVcEhNaUc4TnN6eWM?oc=5",
-        "date": "2026-10-08T06:31:54.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/bsw-bekraeftigt-afd-vordenker-tillschneider-nicht-gewaehlt-zu-haben-104.html",
-    "agree": "Beide Quellen berichten übereinstimmend, dass das BSW bekräftigt hat, den AfD-Politiker Tillschneider nicht gewählt zu haben.",
-    "diff": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "note": "Berichtet, dass BSW-Generalsekretär Ruhnert dem MDR sagte, man habe Tillschneider wegen dessen inhaltlichen Einstellungen nicht mitgewählt."
-      },
-      {
-        "name": "Google News DE",
-        "note": "Enthält lediglich den Verweis auf den Deutschlandfunk-Beitrag mit technischen HTML-Metadaten."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-26b3ad85b884d43c",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-08T08:44:00.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Berlin: Weg frei für Sondierungsgespräche von SPD, Grünen und Linken",
-    "s": "In Berlin stehen SPD, Grüne und Linke vor der Aufnahme offizieller Sondierungen für eine Neuauflage des rot-grün-roten Bündnisses. Zuvor konnten die Parteien ein wesentliches Hindernis aus dem Weg räumen. Es wurde eine Verständigung beim Umgang mit antisemitischen Vorfällen erzielt.",
-    "m": "Nach mehreren Vorgesprächen wollen die Parteien SPD, Grüne und Linke in Berlin nun offiziell über die Bildung einer gemeinsamen Regierung verhandeln. Ein zuvor kritisierter Streitpunkt galt als zentrales Hindernis für den Beginn dieser Gespräche. Nach Angaben aus Verhandlungskreisen haben sich die potenziellen Koalitionspartner auf ein konkretes Handlungspaket geeinigt, das beim Auftreten antisemitischer Vorfälle greifen soll. Mit dieser Einigung ist der Weg für die Sondierungen offenbar frei. Weitere Details zu den geplanten Inhalten des Handlungspakets oder dem genauen Zeitplan der Gespräche wurden in den Berichten zunächst nicht genannt.",
-    "r": "Die Regierungsbildung in der Hauptstadt ist von politischer Bedeutung für die Landespolitik und das künftige Bündnis in Berlin. Die Einigung über ein sensibles Streitthema wie den Umgang mit Antisemitismus war eine Voraussetzung für den Start der Gespräche.",
-    "srcs": [
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/politik/deutschland/berlin-rot-gruen-rot-sondierungen-paket-gegen-antisemitismus-100.html",
-        "date": "2026-10-08T08:44:00.000Z"
-      },
-      {
-        "name": "t-online Nachrichten",
-        "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101471886/rot-rot-gruen-in-berlin-startet-sondierungen.html",
-        "date": "2026-10-08T08:14:09.000Z"
-      },
-      {
-        "name": "Süddeutsche Zeitung",
-        "url": "https://www.sueddeutsche.de/politik/linke-spd-gruene-berlin-sondierungsgespraeche-li.3560309",
-        "date": "2026-10-08T07:40:58.000Z"
-      }
-    ],
-    "url": "https://www.zdfheute.de/politik/deutschland/berlin-rot-gruen-rot-sondierungen-paket-gegen-antisemitismus-100.html",
-    "agree": "Alle Quellen sind sich einig, dass SPD, Grüne und Linke in Berlin vor Sondierungen für ein rot-grün-rotes Bündnis stehen und sich zuvor auf ein Handlungspaket gegen Antisemitismus geeinigt haben.",
-    "diff": [
-      {
-        "name": "ZDF heute",
-        "note": "Spricht von Rot-Grün-Rot und formuliert, dass der Weg wohl frei ist."
-      },
-      {
-        "name": "t-online Nachrichten",
-        "note": "Verwendet die Bezeichnung Rot-Rot-Grün und berichtet, dass die Sondierungen nach mehreren Vorgesprächen nun offiziell starten."
-      },
-      {
-        "name": "Süddeutsche Zeitung",
-        "note": "Beschreibt das Handlungspaket ausdrücklich als Ausräumung eines zentralen Hindernisses für den Beginn der Sondierungen."
-      }
-    ],
-    "chg": "",
-    "independent": 3
-  },
-  {
-    "id": "story-71c911c5effe687c",
-    "c": "INT",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-08T08:28:00.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "US-Popsängerin Olivia Rodrigo beklagt fehlende Privatsphäre beim Dating",
-    "s": "Die US-amerikanische Popsängerin Olivia Rodrigo hat sich in einem Interview über den Mangel an Privatsphäre bei romantischen Verabredungen geklagt. Sie wünscht sich, seltener in der Öffentlichkeit fotografiert zu werden. Das ungestörte Kennenlernen neuer Partner sei für sie im Rampenlicht kaum möglich.",
-    "m": "Die Musikerin Olivia Rodrigo hat in aktuellen Äußerungen thematisiert, wie schwer es für sie ist, ein normales Dating-Leben zu führen. Wenn sie jemanden date, könne sie diese Beziehungen aufgrund der ständigen medialen Aufmerksamkeit und Beobachtung nie privat halten. Dabei empfindet sie Partnerschaften und romantische Beziehungen als etwas zutiefst Privates, das eigentlich einen geschützten Raum bräuchte. Die ständige Präsenz von Fotografen und der Druck der Öffentlichkeit belasten nach ihren Worten das Knüpfen von Kontakten. Konkrete Zahlen oder weitere beteiligte Akteure wurden in den Berichten nicht genannt. Auch offene Punkte oder Hintergründe zu bestimmten Treffen blieben unerwähnt.",
-    "r": "Das Thema beleuchtet die Schattenseiten des Popstar-Daseins und den Einfluss ständiger medialer Aufmerksamkeit auf das persönliche Leben junger Künstler. Es zeigt, wie öffentliche Prominenz elementare private Bedürfnisse wie Dating einschränkt.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRFhWR0NYLVdlbDY1YVBGSW90LUJjS3ZBOFVnX01ENllET3BJdHpRRGdPNS1YbjRkMU4wQ3pabE5rUWdwSmgyZWpRb05KbTF6bEJRNWFsQl9QQ2NFRGVZVG5BME0tamtLX19MT2ZoRkQ4VXFlR2JLNEVSSnZSdDd2TllHazlVMVlibkxzZzZJSUxBQ0hEQktYUnJhcmlaQmVpTFdoNEJpb3pCNmRGcm5HYWN3Q0dSbkd4QmhiOWtsVzkxTmJLSUItSm15UEx1UlNNSUVOVFBvbnBoOTJFOWI2VEdKd281eHRmNmc?oc=5",
-        "date": "2026-10-08T08:28:00.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/panorama/leute/olivia-rodrigo-us-popsaengerin-klagt-ueber-fehlende-privatsphaere-beim-dating-a-c94a97ab-92bb-4625-ac21-847cb5384608#ref=rss",
-        "date": "2026-10-08T08:28:00.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRFhWR0NYLVdlbDY1YVBGSW90LUJjS3ZBOFVnX01ENllET3BJdHpRRGdPNS1YbjRkMU4wQ3pabE5rUWdwSmgyZWpRb05KbTF6bEJRNWFsQl9QQ2NFRGVZVG5BME0tamtLX19MT2ZoRkQ4VXFlR2JLNEVSSnZSdDd2TllHazlVMVlibkxzZzZJSUxBQ0hEQktYUnJhcmlaQmVpTFdoNEJpb3pCNmRGcm5HYWN3Q0dSbkd4QmhiOWtsVzkxTmJLSUItSm15UEx1UlNNSUVOVFBvbnBoOTJFOWI2VEdKd281eHRmNmc?oc=5",
-    "agree": "Beide Quellen stimmen überein, dass US-Popsängerin Olivia Rodrigo über fehlende Privatsphäre beim Dating klagt.",
-    "diff": [
-      {
-        "name": "Google News DE",
-        "note": "Erwähnt Spiegel als Ursprungsquelle und verweist auf weitere nicht näher genannte Schlagzeilen."
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "Berichtet ausführlicher, dass sich die Musikerin seltener fotografiert wünscht und Beziehungen als etwas Privates ansieht."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-0654e29598639b2c",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-08T07:59:27.000Z",
-    "p": 3,
-    "st": "BY",
-    "city": "",
-    "t": "Raubkatze nahe Flughafen München gesichtet: Warnung vor Puma",
-    "s": "In der Nähe des Münchner Flughafens ist nach Behördenangaben eine freilaufende Raubkatze gesichtet worden. Das Landratsamt Erding hat die Bevölkerung zur Vorsicht aufgerufen. Nach einer ersten Einschätzung handelt es sich bei dem Tier um einen Puma. Die Polizei hat die Suche nach der Raubkatze aufgenommen.",
-    "m": "Das Landratsamt Erding hat eine offizielle Warnung herausgegeben, nachdem eine Raubkatze in der Umgebung des Münchner Flughafens gesichtet wurde. Erste Einschätzungen von Behördenseite legen nahe, dass es sich um einen Puma handeln könnte. Die lokale Polizei ist im Einsatz und sucht intensiv nach dem freilaufenden Tier, um mögliche Gefahren für die Bevölkerung abzuwenden. Weitere Details zum genauen Hergang der Sichtung, der Herkunft des Tieres oder konkreten Standorten der Suche wurden zunächst nicht bekannt gegeben. Auch über mögliche Einschränkungen im Flugbetrieb oder im öffentlichen Nahverkehr in Flughafennähe liegen aktuell noch keine Informationen vor. Die Ermittlungen und Suchmaßnahmen dauern an.",
-    "r": "Die Sichtung einer potenziell gefährlichen Raubkatze in der Nähe eines internationalen Verkehrsknotenpunkts wie dem Flughafen München erfordert umgehende Sicherheitsmaßnahmen durch Behörden und Polizei zum Schutz der Öffentlichkeit.",
-    "srcs": [
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/bayern/puma-gesichtet-warnung-vor-raubkatze-nahe-flughafen-muenchen,VXMfjKq",
-        "date": "2026-10-08T07:59:27.000Z"
-      },
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWXhUMmxoMmhyX2JzWE92RVYyTTdRNmlnazlNcW9XZU9zaW94MlVoN19tVGRxTnd2dTEyWWNHS1dKNkpyYlgzWGlFNmdzdURVOGlXcmhiU2FoblRULXpJMENiYVFtQW1iNG5WR29iOTdBaUJPWDR3OHdEeE80TjQ2QXg2OXAtUWY2cWxDbEFiV091Y2hlTmdzQzY4a1NGend2R0NpNWVnTjE?oc=5",
-        "date": "2026-10-08T06:09:57.000Z"
-      }
-    ],
-    "url": "https://www.br.de/nachrichten/bayern/puma-gesichtet-warnung-vor-raubkatze-nahe-flughafen-muenchen,VXMfjKq",
-    "agree": "Beide Quellen stimmen überein, dass nahe dem Flughafen München eine Raubkatze gesichtet wurde, bei der es sich ersten Einschätzungen nach um einen Puma handelt, und dass das Landratsamt Erding sowie die Polizei alarmiert wurden.",
-    "diff": [
-      {
-        "name": "Google News DE",
-        "note": "Enthält lediglich den Verweis auf den Bericht von BR24 inklusive HTML-Metadaten, aber keine inhaltlichen Abweichungen oder Zusatzinformationen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-c4c786075af0ffbe",
-    "c": "INT",
-    "o": "INT",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-08T07:23:07.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Großbritannien benennt Konsulat in Ostjerusalem in Mission um",
-    "s": "Großbritannien hat sein Konsulat in Ostjerusalem in eine britische Mission umbenannt. Dies erfolgt im Zusammenhang mit einer israelischen Frist. Die diplomatische Vertretung wird somit nicht geschlossen, wie der britische Außenminister Ed Miliband betonte.",
-    "m": "Das britische Konsulat in Ostjerusalem wird offiziell in die UK Mission Jerusalem umbenannt. Israel hatte zuvor erklärt, dass das Konsulat seine Operationen einstelle. Der britische Außenminister Ed Miliband widersprach dieser Darstellung jedoch und betonte, dass das Gebäude nicht schließe. Stattdessen tritt die Änderung ab Donnerstag in Kraft. Einige Diplomaten werden weiterhin vor Ort bleiben. Der Schritt erfolgt zum Auslaufen der israelischen Frist. Die Maßnahme verändert den Status der diplomatischen Vertretung vor Ort, soll aber die Präsenz aufrechterhalten.",
-    "r": "Die Umbenennung betrifft diplomatische Beziehungen und den Status von Vertretungen in Jerusalem. Dies hat direkte Auswirkungen auf die diplomatische Präsenz Großbritanniens in der Region und das Verhältnis zu Israel.",
-    "srcs": [
-      {
-        "name": "Euronews",
-        "url": "https://www.euronews.com/2026/10/08/israel-says-british-consulate-in-east-jerusalem-ceasing-operations",
-        "date": "2026-10-08T07:23:07.000Z"
-      },
-      {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/8/signage-at-uk-consulate-in-east-jerusalem-removed-as-israels-deadline-over?traffic_source=rss",
-        "date": "2026-10-08T05:06:25.000Z"
-      }
-    ],
-    "url": "https://www.euronews.com/2026/10/08/israel-says-british-consulate-in-east-jerusalem-ceasing-operations",
-    "agree": "Beide Quellen stimmen darin überein, dass Großbritannien das Konsulat in Ostjerusalem in eine Mission umbenennt und einige Diplomaten dort verbleiben.",
-    "diff": [
-      {
-        "name": "Euronews",
-        "note": "Berichtet, dass Israel angab, das Konsulat stelle seine Operationen ein, und nennt Ed Miliband als britischen Außenminister."
-      },
-      {
-        "name": "Al Jazeera",
-        "note": "Erwähnt, dass die Umbenennung im Zuge des Ablaufs einer israelischen Frist geschieht und Ed Miliband erklärte, das Gebäude werde trotz des Fristablaufs nicht schließen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-efa5576571922edc",
-    "c": "INT",
-    "o": "UK",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-08T07:15:45.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Spanische Rentnerin nach umstrittener Zwangsräumung verstorben",
-    "s": "Maricarmen Abascal ist im Alter von 87 Jahren gestorben. Sie war im September aus ihrer langjährigen Wohnung in Spanien zwangsgeräumt worden. Ihre Räumung hatte landesweite Proteste im Land ausgelöst. Die genauen Umstände des Todes wurden in den Berichten nicht näher erläutert.",
-    "m": "Die 87-jährige Spanierin Maricarmen Abascal hat ihren Lebensabend durch eine zwangsweise Räumung verloren. Sie musste im September im Zuge der Evakuierung auf einer Trage aus ihrer Wohnung gebracht werden. Die Rentnerin hatte in diesem Apartment mehr als 70 Jahre lang gelebt. Der Vorfall erregte im ganzen Land große Aufmerksamkeit und führte zu landesweiten Protesten gegen die Räumungspraxis. Weitere Details zu ihrem Gesundheitszustand nach dem Vorfall oder zur genauen Todesursache liegen bislang nicht vor.",
-    "r": "Der Tod der 87-jährigen Rentnerin ist von gesellschaftlicher Relevanz, da ihr Fall zuvor landesweite Proteste und eine Debatte über Zwangsräumungen in Spanien ausgelöst hatte.",
-    "srcs": [
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-08T07:15:45.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80bkNKZXQ1RDZ6OVVmUzhPTTdyWDNwRk9CQ2xGb3pOR29KeTByN3Q3SEIzRTdBQVR1TDRqT0ZXQkJaY2VZZ09mSW1qcDctTHNEMkczX3dxRmdGd0E?oc=5",
-        "date": "2026-10-08T07:15:45.000Z"
-      }
-    ],
-    "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
-    "agree": "Beide Quellen stimmen überein, dass die 87-jährige spanische Rentnerin Maricarmen Abascal, deren frühere Zwangsräumung landesweite Proteste ausgelöst hatte, verstorben ist.",
-    "diff": [
-      {
-        "name": "Google News World",
-        "note": "Verweist in der Überschrift direkt auf den Bericht der BBC und führt keine eigenen Zusatzinformationen an."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-6aa6fd06f49184bf",
-    "c": "DE",
-    "o": "DE",
-    "k": "sport",
-    "lang": "de",
-    "d": "2026-10-08T07:10:00.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Ex-Fußballprofi Christoph Kramer schätzt Pokémon-Sammlung auf 400.000 Euro",
-    "s": "Der ehemalige Fußball-Weltmeister Christoph Kramer besitzt eine wertvolle Sammlung von Pokémon-Karten. Er sammelt die Karten bereits seit seinen Kindertagen. Mittlerweile schätzt er den Gesamtwert seiner Sammlung auf rund 400.000 Euro.",
-    "m": "Christoph Kramer, ehemaliger Fußballprofi und Weltmeister, ist leidenschaftlicher Sammler von Pokémon-Karten. Seine Sammlung hat im Laufe der Zeit einen erheblichen Wert erreicht, den er selbst auf 400.000 Euro beziffert. Zu seiner Sammlung gehören bekannte Figuren wie Pikachu, Glurak, Pantimos und Kokowei. Kramer geht davon aus, dass sich seine Generation in Zukunft lieber mit solchen Kartensammlungen schmücken wird als mit klassischen Gemälden. Trotz des hohen geschätzten Wertes plant er derzeit nicht, seine Karten zu verkaufen, und würde sie für kein Geld der Welt hergeben.",
-    "r": "Die Schätzung einer prominenten Person über den hohen materiellen und ideellen Wert einer privaten Sammelleidenschaft bietet Einblicke in den Wandel von Wertanlagen und Popkultur bei jüngeren Generationen.",
-    "srcs": [
-      {
-        "name": "Rheinische Post",
-        "url": "https://rp-online.de/nrw/panorama/chris-kramer-schaetzt-seine-pokemon-sammlung-auf-400000-euro_aid-156174451",
-        "date": "2026-10-08T07:10:00.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/sport/fussball/christoph-kramer-weltmeister-schaetzt-seine-pokemon-sammlung-auf-400-000-euro-a-2abbd96a-4aab-47f8-a75e-44a86bed5fdb#ref=rss",
-        "date": "2026-10-08T06:14:00.000Z"
-      }
-    ],
-    "url": "https://rp-online.de/nrw/panorama/chris-kramer-schaetzt-seine-pokemon-sammlung-auf-400000-euro_aid-156174451",
-    "agree": "Beide Quellen stimmen darin überein, dass Christoph Kramer seine Pokémon-Sammlung auf einen Wert von 400.000 Euro schätzt.",
-    "diff": [
-      {
-        "name": "Rheinische Post",
-        "note": "Erwähnt, dass Kramer seit Kindertagen sammelt und glaubt, seine Generation werde sich künftig lieber damit als mit klassischen Gemälden schmücken."
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "Nennt konkrete Pokémon-Namen wie Glurak, Pantimos und Kokowei und berichtet, dass Kramer seine Sammlung für kein Geld der Welt hergeben würde."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-ad1241fd33253844",
-    "c": "INT",
-    "o": "PT",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-08T07:03:35.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Europäischer Rechnungshof sieht Verdacht auf EU-Fonds-Betrug in Portugal",
-    "s": "Der Europäische Rechnungshof hat im Rahmen seiner Berichterstattung einen mutmaßlichen Betrugsfall im Zusammenhang mit EU-Mitteln in Portugal für das Jahr 2025 registriert. Die zuständigen Behörden untersuchen die Verdachtsmomente genauer, während nähere Details zu den betroffenen Projekten oder den Summen zunächst knapp gehalten werden. Die Entdeckung wirft ein Schlaglicht auf die Kontrolle und den Umgang mit europäischen Finanzhilfen im Land.",
-    "m": "Der Europäische Rechnungshof hat in seinem Bericht auf einen konkreten Verdachtsfall von Betrug bei der Verwendung europäischer Gelder in Portugal hingewiesen, der das Jahr 2025 betrifft. Bisher gibt es nur wenige offizielle Einzelheiten zu den genauen Umständen, den beteiligten Institutionen oder der Höhe des potenziellen Schadens. Das Thema ruft in Portugal und auf EU-Ebene Aufmerksamkeit hervor, da die Integrität der Vergabe von Gemeinschaftsmitteln streng überwacht wird. Speziell zum Aufbau- und Resilienzfonds PRR gibt es jedoch eine positive Rückmeldung: Der Rechnungshof hat hierbei keine Mängel bei der Erreichung der vorgeschriebenen Etappenziele und Marken für die von Portugal abgerufenen Beträge festgestellt. Die Ermittlungen und Berichte des Rechnungshofs verdeutlichen, dass neben erfolgreichen Programmen wie dem PRR weiterhin Risiken bei der Mittelverwendung bestehen, die konsequent verfolgt werden müssen.",
-    "r": "Die Meldung ist relevant, da sie mögliche Unregelmäßigkeiten im Umgang mit europäischen Finanzmitteln in Portugal aufdeckt und gleichzeitig den erfolgreichen Stand beim PRR bestätigt. Dies betrifft die finanzielle Transparenz und die Kontrolle von EU-Geldern unmittelbar.",
-    "srcs": [
-      {
-        "name": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTkxSMGNFUjdQRTVWM3dGOFpQU3VDUXByNTNlamZueXdLY2hpNDUwRHAxLTA3c2tSdG5pNW9FbmZDZ0thYm9nQ0RURjdzSUptSkhFWVU4UW1pSHdpZ3RnYi1BYXhQNzU0eXVJMEtkOVN0dEFNNDEzcDg4LXV4NHI5ZTl6T0xWUjJ5YVFzanpDSExjWktwS0ZDSHhXaDhhQTloaWc0Y3lhYl9lSWtEQ2RJNmRNeVk4OEZETjVaV0d3YWlVMENGSmRzV2dmc25QLWk4WUREandmNA?oc=5",
-        "date": "2026-10-08T07:03:35.000Z"
-      },
-      {
-        "name": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/noticiario-antena1/0h-tribunal-de-contas-europeu-suspeita-de-caso-de-fraude-com-fundos-europeus-a-envolver-portugal_a1_1770194",
-        "date": "2026-10-08T00:38:02.000Z"
-      },
-      {
-        "name": "RTP Economia",
-        "url": "https://www.rtp.pt/noticias/economia/tribunal-de-contas-europeu-portugal-com-um-caso-de-eventual-fraude-com-fundos-europeus-em-2025_n1770171",
-        "date": "2026-10-07T23:01:11.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTkxSMGNFUjdQRTVWM3dGOFpQU3VDUXByNTNlamZueXdLY2hpNDUwRHAxLTA3c2tSdG5pNW9FbmZDZ0thYm9nQ0RURjdzSUptSkhFWVU4UW1pSHdpZ3RnYi1BYXhQNzU0eXVJMEtkOVN0dEFNNDEzcDg4LXV4NHI5ZTl6T0xWUjJ5YVFzanpDSExjWktwS0ZDSHhXaDhhQTloaWc0Y3lhYl9lSWtEQ2RJNmRNeVk4OEZETjVaV0d3YWlVMENGSmRzV2dmc25QLWk4WUREandmNA?oc=5",
-    "agree": "Die Quellen stimmen überein, dass der Europäische Rechnungshof einen Fall von möglichem Betrug mit EU-Fonds in Portugal verzeichnet hat.",
-    "diff": [
-      {
-        "name": "RTP Economia",
-        "note": "Berichtet ergänzend, dass der Rechnungshof beim PRR keine Fehler bei der Erfüllung von Zielen und Marken bezüglich der erhaltenen Beträge durch Portugal festgestellt hat."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-df563bd941614260",
-    "c": "INT",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-08T06:32:18.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Michael Jacksons berühmte „Thriller“-Lederjacke wird in Abu Dhabi versteigert",
-    "s": "Die schwarz-rote Lederjacke, die Michael Jackson im Jahr 1983 in seinem Musikvideo zu „Thriller“ trug, wird im Dezember in Abu Dhabi versteigert. Veranstalter und Experten erwarten für das historische Kleidungsstück einen Rekordpreis.",
-    "m": "Das Auktionshaus bereitet die Versteigerung der ikonischen schwarz-roten Lederjacke vor, die der verstorbene „King of Pop“, Michael Jackson, 1983 im legendären „Thriller“-Video trug. Neben der Jacke sollen bei der Veranstaltung Anfang Dezember in Abu Dhabi auch zahlreiche weitere Andenken und Erinnerungsstücke an den Musiker unter den Hammer kommen. Die Erwartungen an den Erlös sind extrem hoch; Fachleute spekulieren auf einen Betrag von mehr als zehn Millionen Dollar für die Jacke. Ob dieser Schätzwert tatsächlich erreicht wird, bleibt abzuwarten. Das genaue Datum der Auktion im Dezember wurde in den Berichten bisher nicht näher spezifiziert.",
-    "r": "Die Versteigerung eines der berühmtesten popkulturellen Requisiten des „King of Pop“ erzielt aufgrund des potenziellen Rekorderlöses und des globalen Interesses an Michael Jacksons Nachlass hohe Aufmerksamkeit.",
-    "srcs": [
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/vermischtes/video6ac7372c75caf261c519d2cf/spannende-auktion-michael-jacksons-thriller-jacke-wird-versteigert-rekordpreis-erwartet.html",
-        "date": "2026-10-08T06:32:18.000Z"
-      },
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/leute/Michael-Jacksons-Thriller-Jacke-wird-versteigert-id31394501.html",
-        "date": "2026-10-08T05:12:08.000Z"
-      }
-    ],
-    "url": "https://www.welt.de/vermischtes/video6ac7372c75caf261c519d2cf/spannende-auktion-michael-jacksons-thriller-jacke-wird-versteigert-rekordpreis-erwartet.html",
-    "agree": "Beide Quellen stimmen überein, dass Michael Jacksons schwarz-rote Lederjacke aus dem Musikvideo „Thriller“ im Dezember in Abu Dhabi versteigert wird und dabei ein sehr hoher Preis erwartet wird.",
-    "diff": [
-      {
-        "name": "WELT",
-        "note": "Nennt die Jacke als Hauptgegenstand und fokussiert sich auf die Erwartung eines Rekordpreises."
-      },
-      {
-        "name": "ntv",
-        "note": "Ergänzt, dass es sich um eine schwarz-rote Lederjacke handelt, beziffert den potenziellen Erlös auf mehr als zehn Millionen Dollar und erwähnt zusätzlich, dass auch weitere Andenken an den „King of Pop“ versteigert werden."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-534ce8c9cd7b9170",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-08T06:21:49.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "FIFA-Wahl: Früherer Profi aus der Schweiz möchte Infantino herausfordern",
-    "s": "Wer wird Gegenkandidat von Gianni Infantino bei der Wahl des FIFA-Präsidenten? Die Verbände Europas suchen nach einer Lösung. Nun bringt sich ein früherer Nationalspieler ins Spiel.",
-    "m": "Wer wird Gegenkandidat von Gianni Infantino bei der Wahl des FIFA-Präsidenten? Die Verbände Europas suchen nach einer Lösung. Nun bringt sich ein früherer Nationalspieler ins Spiel. Bislang ist der in Verruf geratene Gianni Infantino der einzige Kandidat zur Wahl als FIFA-Präsident. Europas Verbände treffen sich in Berlin, um eine Lösung zu finden. Derweil bringt sich ein früherer Profi selbst ins Spiel.",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
-    "srcs": [
-      {
-        "name": "Frankfurter Allgemeine",
-        "url": "https://www.faz.net/aktuell/sport/sportpolitik/ramon-vega-moechte-gianni-infantino-bei-fifa-wahl-herausfordern-accg-201298455.html",
-        "date": "2026-10-08T06:21:49.000Z"
-      },
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/sport/fussball/Ex-Profi-will-Infantino-bei-FIFA-Wahl-herausfordern-id31394387.html",
-        "date": "2026-10-08T04:12:59.000Z"
-      }
-    ],
-    "url": "https://www.faz.net/aktuell/sport/sportpolitik/ramon-vega-moechte-gianni-infantino-bei-fifa-wahl-herausfordern-accg-201298455.html",
-    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-de320fe840057651",
-    "c": "INT",
-    "o": "DE",
-    "k": "wissenschaft",
-    "lang": "de",
-    "d": "2026-10-08T06:10:10.000Z",
-    "p": 2,
-    "st": "BY",
-    "city": "",
-    "t": "Pest-Verdacht in Russland: Lauterbach sieht kein Risiko für Europa",
-    "s": "Nach Medienberichten über den Tod einer Laborantin in Russland gibt es einen Verdacht auf Lungenpest. Der SPD-Gesundheitsexperte Karl Lauterbach hat Russland zu Transparenz und Kooperation aufgefordert. Gleichzeitig betonte er, dass aktuell keine erhöhte Gefahr für die Bevölkerung in Europa besteht.",
-    "m": "Der genaue Hintergrund des Vorfalls in Russland ist bislang unklar, insbesondere ob es sich tatsächlich um einen Lungenpestfall handelt. Lauterbach forderte ein schnelles Handeln und eine lückenlose Aufklärung der Situation. Der Verdacht steht im Zusammenhang mit dem Tod einer Laborantin, nähere Details über die Umstände wurden in den Berichten jedoch nicht genannt. Trotz der unklaren Faktenlage gab der Gesundheitsexperte Entwarnung für die europäische Bevölkerung. Offen bleibt bislang, wie die russischen Behörden auf die Forderungen nach internationaler Zusammenarbeit reagieren.",
-    "r": "Die Meldung ist relevant, da sie mögliche Gesundheitsrisiken durch gefährliche Krankheitserreger in Europa und den politischen Umgang damit betrifft. Die Aussagen eines prominenten Gesundheitsexperten zur internationalen Kooperation bei Infektionsverdachtsfällen berühren Fragen der öffentlichen Sicherheit.",
-    "srcs": [
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/pest-verdacht-lauterbach-sieht-kein-erhoehtes-risiko-fuer-europa,VXQXmr0",
-        "date": "2026-10-08T06:10:10.000Z"
-      },
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/politik/ausland/lungenpest-verdacht-lauterbach-russland-europa-100.html",
-        "date": "2026-10-08T04:04:00.000Z"
-      }
-    ],
-    "url": "https://www.br.de/nachrichten/deutschland-welt/pest-verdacht-lauterbach-sieht-kein-erhoehtes-risiko-fuer-europa,VXQXmr0",
-    "agree": "Beide Quellen stimmen überein, dass Karl Lauterbach trotz eines Pest-Verdachts und des Todes einer Laborantin in Russland kein erhöhtes Risiko für Europa sieht und Transparenz fordert.",
-    "diff": [
-      {
-        "name": "BR24 Bayern",
-        "note": "Erwähnt explizit das 'schnelle Handeln', das Lauterbach fordert."
-      },
-      {
-        "name": "ZDF heute",
-        "note": "Zitiert Lauterbach direkt mit der Aussage: \"Kein erhöhtes Risiko in Europa\" und spricht von einer Mahnung zur Kooperation."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-f791460e69a63fb7",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-08T05:49:38.000Z",
-    "p": 3,
-    "st": "ST",
-    "city": "",
-    "t": "CDU-Fraktion in Sachsen-Anhalt droht nach Wahlniederlage die Spaltung",
-    "s": "Nach dem schlechten Abschneiden bei der Landtagswahl Anfang September steht die CDU-Fraktion in Sachsen-Anhalt vor internen Zerreißproben. Mehrere Abgeordnete erwägen offenkundig einen Austritt und drohen mit einer Abspaltung. Damit wächst auch der Druck auf Noch-Ministerpräsident Sven Schulze erheblich.",
-    "m": "Die Wahlniederlage Anfang September hat in der CDU-Fraktion im Landtag von Sachsen-Anhalt zu massiven internen Spannungen geführt, die die Fraktion nun zu zerreiben drohen. Verschiedene Abgeordnete ziehen laut Berichten einen Austritt in Betracht und erwägen den Schritt, sich abzuspalten. Diese Entwicklung bringt insbesondere den amtierenden Ministerpräsidenten Sven Schulze in eine schwierige Lage, da seine politische Zukunft und der Zusammenhalt der Partei im Land auf dem Spiel stehen. Bislang ist unklar, wie viele Mandatsträger sich konkret zu diesem Schritt entschließen und ob noch ein Kompromiss gefunden werden kann. Die Situation zeigt die tiefen Gräben innerhalb der Landes-CDU nach dem verlorenen Urnengang.",
-    "r": "Interne Konflikte und drohende Abspaltungen nach Wahlen gefährden die parlamentarische Stabilität der Regierungspartei in Sachsen-Anhalt. Dies schwächt die Position von Ministerpräsident Sven Schulze und verdeutlicht die anhaltende Krise der Landes-CDU.",
-    "srcs": [
-      {
-        "name": "t-online Nachrichten",
-        "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101471636/cdu-sachsen-anhalt-fraktion-droht-nach-wahlniederlage-spaltung.html",
-        "date": "2026-10-08T05:49:38.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Sachsen-Anhalt",
-        "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/fraktion-droht-spaltung,cdu-landtag-mifri-100.html",
-        "date": "2026-10-07T18:57:39.000Z"
-      }
-    ],
-    "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101471636/cdu-sachsen-anhalt-fraktion-droht-nach-wahlniederlage-spaltung.html",
-    "agree": "Beide Quellen stimmen überein, dass der CDU-Fraktion in Sachsen-Anhalt nach der Wahlniederlage eine mögliche Spaltung droht.",
-    "diff": [
-      {
-        "name": "t-online Nachrichten",
-        "note": "Erwähnt konkret, dass Noch-Ministerpräsident Sven Schulze unter Druck gerät."
-      },
-      {
-        "name": "Tagesschau Regional Sachsen-Anhalt",
-        "note": "Nennt den Zeitpunkt des Wahldebakels genauer auf Anfang September und beschreibt, dass die Fraktion von internen Spannungen zerrieben wird."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-479ceef2d9ab974b",
-    "c": "INT",
-    "o": "PT",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-08T05:38:41.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Jemenitische Houthi-Rebellen bestätigen Raketenangriff auf Flughafen in Riad",
-    "s": "Die aus dem Jemen stammenden Houthi-Rebellen haben einen Angriff auf den Flughafen in Riad gemeldet. Dabei soll ein ballistisches Raketensystem eingesetzt worden sein. Die Gruppierung forderte Fluggesellschaften in diesem Zusammenhang auf, die Region zu meiden.",
-    "m": "Der militärische Sprecher der Houthi-Rebellen gab bekannt, dass der Flughafen der saudi-arabischen Hauptstadt Riad mit einer ballistischen Rakete ins Visier genommen wurde. Nach Angaben eines Medienberichts handelt es sich hierbei bereits um den dritten derartigen Vorfall innerhalb einer Woche. Die Rebellen sprachen im Zuge der Verlautbarung eine letzte Warnung an internationale Fluggesellschaften aus, den saudi-arabischen Luftraum beziehungsweise entsprechende Ziele zu umfliegen. Weitere offizielle Details zu eventuellen Schäden, Opfern oder Gegenmaßnahmen der saudi-arabischen Luftabwehr gehen aus den vorliegenden Berichten zunächst nicht hervor. Die Hintergründe und die genauen Auswirkungen des Angriffs bleiben vorerst unklar.",
-    "r": "Der Angriff bewaffneter jemenitischer Rebellen auf die Hauptstadt eines Nachbarlandes betrifft die internationale Flugsicherheit und die regionale Stabilität. Die Warnung an Fluggesellschaften unterstreicht die anhaltende Bedrohung des zivilen Luftverkehrs in der Konfliktregion.",
-    "srcs": [
-      {
-        "name": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/mundo/houthis-do-iemen-confirmam-ataque-contra-aeroporto-de-riade_n1770204",
-        "date": "2026-10-08T05:38:41.000Z"
-      },
-      {
-        "name": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY0ozREtjVUFZM0JNMmQ1T2hCQzhqODhCWlRrb2Zham1Jb0NZU3JSZTNrTWwxM3NNUTdWVnJ4c19zcXV5VHVEMXREZzdCeE03WnFmQ1JZTllUOXdmcS1YSVpyYU9XT291NWo4RFNIQU1xWFljUDZRU3JJSU1kX2JVRjZmdkdmZTlxMlZ0N0w2Q1lCNEE2X0dCMkIyR0ppeXpwVXZKa0tJUkd2eHY5NnhaaWVGQ2pKdzNEXzZCdVV5TdIBugFBVV95cUxPZTY3UlM3dGl6V0FwcWxCTjVoaUtQRkhKR1Q0c3oxV2ZvYi1iM0NaZGFRUVplME12RjM0R2t3cFNSMkdSZDJKT2ZKZGx5X2tRdG5BYmdYenFDZDVsc2xwbWl5VmhYUUJpc0RJM2ZxeV9sUDNheDNSTmJFNHlZa19sMVFMN1dGd1o1MktJM05QUVl0MzRPOFdMSEJjYkxoOGdCVkQ3U0pzcDJYelV3WmtyblFkVWozZ094dXc?oc=5",
-        "date": "2026-10-08T05:10:00.000Z"
-      }
-    ],
-    "url": "https://www.rtp.pt/noticias/mundo/houthis-do-iemen-confirmam-ataque-contra-aeroporto-de-riade_n1770204",
-    "agree": "Die Quellen stimmen überein, dass jemenitische Houthi-Rebellen einen Angriff mit einer ballistischen Rakete auf den Flughafen von Riad gemeldet und Fluggesellschaften vor dem Anflug gewarnt haben.",
-    "diff": [
-      {
-        "name": "Google News Portugal",
-        "note": "Erwähnt zusätzlich unter Berufung auf das Medium Correio da Manhã, dass es sich bereits um den dritten Angriff dieser Art innerhalb einer Woche handelt."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-527b006bcc4c79d2",
-    "c": "INT",
-    "o": "UK",
-    "k": "wissenschaft",
-    "lang": "de",
-    "d": "2026-10-08T05:10:40.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Pionierin der Raumfahrtsoftware: Margaret Hamilton mit 90 Jahren gestorben",
-    "s": "Die renommierte Informatikerin Margaret Hamilton ist im Alter von 90 Jahren verstorben. Bekannt wurde sie vor allem durch die Leitung der Softwareentwicklung für die Apollo-11-Mondmission der Nasa. Ihre Arbeit legte den Grundstein für moderne Berufe in der Informatik. Für ihre Verdienste wurde sie mit der Presidential Medal of Freedom ausgezeichnet.",
-    "m": "Margaret Hamilton verstarb am 30. September im Alter von 90 Jahren, wie das Massachusetts Institute of Technology (MIT) am Mittwoch bekannt gab. In einer Ära, in der Berufsbezeichnungen wie Softwareingenieur oder Informatiker noch unüblich waren, erlernte sie das Programmieren unter der Anleitung eines renommierten MIT-Meteorologen. Sie leitete die Entwicklung der Software, die die sichere Landung von Apollo 11 auf dem Mond erst ermöglichte. Ihre Beiträge waren entscheidend für den Erfolg der historischen Mission. Später wurde sie für ihre Pionierarbeit mit der höchsten zivilen Auszeichnung der Vereinigten Staaten geehrt, der Presidential Medal of Freedom. Ihr Tod markiert den Verlust einer der einflussreichsten Persönlichkeiten der frühen Computergeschichte. Die genaue Todesursache wurde in den Berichten nicht genannt.",
-    "r": "Der Tod von Margaret Hamilton ist ein bedeutender Verlust für die Geschichte der Informatik und Raumfahrt. Ihre Software war ein zentraler Baustein für den Erfolg der Apollo-11-Mondlandung.",
-    "srcs": [
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-08T05:10:40.000Z"
-      },
-      {
-        "name": "Guardian World",
-        "url": "https://www.theguardian.com/science/2026/oct/07/margaret-hamilton-moon-computer-software",
-        "date": "2026-10-08T00:40:37.000Z"
-      }
-    ],
-    "url": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
-    "agree": "Beide Quellen stimmen darin überein, dass Margaret Hamilton, die Pionierin der Softwareentwicklung für die Apollo-11-Mondmission und Trägerin der Presidential Medal of Freedom, im Alter von 90 Jahren gestorben ist.",
-    "diff": [
-      {
-        "name": "BBC World",
-        "note": "Erwähnt kurz und prägnant ihren Tod, ihre Rolle bei Apollo 11 und die Ehrung mit der Presidential Medal of Freedom."
-      },
-      {
-        "name": "Guardian World",
-        "note": "Nennt das MIT als Bekanntgeber, das genaue Todesdatum (30. September), den Todestag am Mittwoch sowie Details zu ihrer Ausbildung unter einem MIT-Meteorologen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-98b00f830687763a",
-    "c": "INT",
-    "o": "UK",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-08T05:00:44.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "USA und Libanon gewähren gesuchtem syrischem General Schutz",
-    "s": "Recherchen der BBC zufolge schützen die USA und der Libanon einen gesuchten syrischen General. Bassam al-Hassan wird demnach im Austausch für Informationen beherbergt. Zu diesen Informationen gehört auch das Schicksal des entführten US-Reporters Austin Tice.",
-    "m": "Dem Bericht zufolge handelt es sich bei dem geschützten Mann um den syrischen General Bassam al-Hassan. Er erhält Schutz von den USA und dem Libanon, obwohl er international gesucht wird. Im Gegenzug liefert al-Hassan wertvolle Informationen an die Behörden. Ein zentraler Punkt dieser Vereinbarung sind Hinweise auf den verschwundenen US-Reporter Austin Tice, der in Syrien entführt wurde. Die genauen Umstände der Unterbringung und der Status der Verhandlungen bleiben in den Berichten weiter im Detail ungenannt.",
-    "r": "Die Meldung ist relevant, da sie diplomatische undrichtige geheimdienstliche Absprachen zwischen den USA, dem Libanon und einem gesuchten syrischen Militärangehörigen im Zusammenhang mit einem vermissten US-Journalisten aufdeckt.",
-    "srcs": [
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-08T05:00:44.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SQVVPcDRvdS1vV2JOdGJTbkdMbHNrWTV1Uzgxc0xDWTRaaGZtS3lXclFfeDRYX3RYbUlNN19BSjhhRDZNbXhvaFJva2hFNzJlZEFSeEJNeWRUOHM?oc=5",
-        "date": "2026-10-08T05:00:44.000Z"
-      }
-    ],
-    "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
-    "agree": "Beide Quellen stimmen darin überein, dass die USA und der Libanon den gesuchten syrischen General Bassam al-Hassan schützen und dieser im Gegenzug Informationen, unter anderem über den entführten US-Reporter Austin Tice, liefert.",
-    "diff": [
-      {
-        "name": "Google News World",
-        "note": "Verweist lediglich auf den Artikel der BBC als Quelle."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-c25a0c195c6d75a0",
-    "c": "INT",
-    "o": "UK",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-08T03:02:06.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Texas führt erste Hinrichtung in den USA seit strittigem Fall aus Tennessee",
-    "s": "In Texas ist am Mittwochabend ein Mann hingerichtet worden. Es handelt sich um die erste Todestrafe in den USA seit einer umstrittenen Hinrichtung in Tennessee in der Vorwoche. Verteidiger hatten zuvor vergeblich versucht, die Vollstreckung per Richterspruch stoppen zu lassen.",
-    "m": "Der 46-jährige Jamaal Howard wurde am Mittwoch um 20:03 Uhr im Staatsgefängnis im texanischen Huntsville durch eine tödliche Dosis des Beruhigungsmittels Pentobarbital hingerichtet. Dies war die erste US-amerikanische Hinrichtung seit dem missglückten Verfahren an Christa Pike in Tennessee in der Vorwoche. Howards Anwälte hatten aufgrund dieses Vorfalls zuvor einen Richter angerufen, um die Aussetzung der Vollstreckung zu erwirken, scheiterten jedoch mit ihrem Antrag. Die Hinrichtung in Texas wurde trotz dieser Bedenken planmäßig durchgeführt.",
-    "r": "Die Hinrichtung dokumentiert die Fortführung der Todestrafe in den USA trotz jüngster Debatten über die Methodik nach einem Vorfall in Tennessee. Das Ereignis verdeutlicht die rechtlichen Auseinandersetzungen um Hinrichtungspausen durch Verteidiger.",
-    "srcs": [
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-08T03:02:06.000Z"
-      },
-      {
-        "name": "Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/oct/07/texas-execution-jamaal-howard",
-        "date": "2026-10-08T01:32:29.000Z"
-      }
-    ],
-    "url": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss",
-    "agree": "Die Quellen stimmen überein, dass es sich um die erste Hinrichtung in den USA nach dem Fall von Christa Pike handelt.",
-    "diff": [
-      {
-        "name": "BBC World",
-        "note": "Berichtet über den juristischen Vorstoß der Anwälte, die Hinrichtung aufgrund des Falls Christa Pike zu pausieren."
-      },
-      {
-        "name": "Guardian World",
-        "note": "Nennt den Namen des Hingerichteten (Jamaal Howard, 46), den genauen Todeszeitpunkt (20:03 Uhr), den Hinrichtungsort (Huntsville) sowie das verwendete Mittel (Pentobarbital)."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-347d50ccaa4a2975",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-08T02:03:46.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Merz hält \"False-Flag\"-Aktion bei AfD-Wahl in Sachsen-Anhalt für möglich",
-    "s": "Nach der Wahl des AfD-Politikers Rausch zum Landtagspräsidenten in Sachsen-Anhalt hat Bundeskanzler Merz angedeutet, dass die Stimmen auch von SPD, Grünen oder Linken stammen könnten. Eine Stimmabgabe von CDU-Abgeordneten hält er mit den Werten der Partei für unvereinbar. Rausch selbst geht hingegen davon aus, dass er Stimmen aus der CDU erhalten hat.",
-    "m": "Die Wahl des AfD-Politikers Rausch zum Präsidenten des Landtags in Sachsen-Anhalt sorgt für politische Debatten über die Herkunft der Stimmen. Bundeskanzler Merz brachte ins Gespräch, dass es sich um eine sogenannte \"False-Flag\"-Aktion gehandelt haben könnte, bei der auch Abgeordnete von SPD, Grünen oder der Linken für den AfD-Kandidaten gestimmt haben könnten. Er betonte ausdrücklich, dass ein Votum von CDU-Abgeordneten für Rausch absolut unvereinbar mit den Werten der Christdemokraten sei. Der betroffene AfD-Politiker Rausch widerspricht dieser Einschätzung teilweise und geht seinerseits davon aus, dass er Unterstützung und Stimmen aus den Reihen der CDU bekommen hat. Die genaue Zusammensetzung der Mehrheit im Landtag bleibt damit Gegenstand von Spekulationen und politischen Auseinandersetzungen zwischen den beteiligten Parteien.",
-    "r": "Die Aussagen des Bundeskanzlers zu einer möglichen \"False-Flag\"-Aktion beleuchten die Spannungen und den internen Rechtfertigungsdruck der Parteien nach der umstrittenen Wahl eines AfD-Politikers in ein hohes Staatsamt. Das Ereignis verdeutlicht die politischen Konfliktlinien im Umgang mit parlamentarischen Mehrheiten unter Beteiligung der AfD.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/merz-haelt-auch-false-flag-aktion-bei-wahl-von-afd-politiker-fuer-moeglich-102.html",
-        "date": "2026-10-08T02:03:46.000Z"
-      },
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd2ZnbnVDYk5kUWk4SWhER2JiUjRLcFhFRVRkS0dDX3ZSNEQySUxQMEl1SUxUQVBiOUlrVVJuc0NvU19rdUw0X0QzYUpUYnZUY3JCSFdWWVRabGpqUm93cHUtX1FEQ2l4V2QzMl8tQ1dUMlNLVk9KQkVMZ1NSSzc3aG1wclFNR2NnZnZVUkFQODZCOVdvT1NPVDhHU0ZhNzFBS2t2YUZwMjA3TGdsSFJkZ2RMZlo?oc=5",
-        "date": "2026-10-08T01:53:50.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/merz-haelt-auch-false-flag-aktion-bei-wahl-von-afd-politiker-fuer-moeglich-102.html",
-    "agree": "Die Quellen sind sich einig, dass der AfD-Politiker Rausch zum Präsidenten des Landtags in Sachsen-Anhalt gewählt wurde und Bundeskanzler Merz sich zu den möglichen Hintergründen der Stimmenabgabe geäußert hat.",
-    "diff": [
-      {
-        "name": "Google News DE",
-        "note": "Enthält lediglich den Verweis auf den Bericht des Deutschlandfunks inklusive Metadaten und Link-Snippets."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-bfdf4edc21e83765",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-08T02:03:46.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Drei Tote bei Huthi-Angriffen auf saudische Flughäfen",
-    "s": "Bei Angriffen der Huthi-Miliz auf die Flughäfen in Riad und Abha in Saudi-Arabien sind drei Menschen getötet worden. Zudem gibt es mehr als 30 beziehungsweise Dutzende Verletzte. Die Huthi-Miliz hat sich offiziell zu den Attacken bekannt.",
-    "m": "Die Angriffe trafen die saudischen Flughäfen in Riad und Abha mit Raketen. Dabei kamen nach übereinstimmenden Berichten drei Menschen ums Leben. Die Zahl der Verletzten wird von den Quellen mit Dutzenden beziehungsweise mehr als 30 angegeben. Die Huthi-Miliz übernahm die Verantwortung für die Angriffe. Weitere Details zum genauen Ablauf, zu den Schäden an der Infrastruktur oder zu möglichen Gegenmaßnahmen wurden in den vorliegenden Berichten nicht genannt.",
-    "r": "Der Angriff auf internationale Flughäfen durch eine bewaffnete Miliz verdeutlicht die anhaltende Bedrohung der Sicherheit in der Region. Solche Attacken auf zivile Infrastruktur können weitreichende Konsequenzen für den Flugverkehr und die regionale Stabilität haben.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/drei-tote-und-mehr-als-30-verletzte-in-saudi-arabien-nach-huthi-angriffen-auf-flughaefen-100.html",
-        "date": "2026-10-08T02:03:46.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/ausland/saudi-arabien-huthi-miliz-bekennt-sich-zu-angriffen-auf-flughaefen-in-riad-und-abha-a-49e98df2-7b50-44ba-a1a6-c7d46e708db1#ref=rss",
-        "date": "2026-10-07T20:00:00.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/drei-tote-und-mehr-als-30-verletzte-in-saudi-arabien-nach-huthi-angriffen-auf-flughaefen-100.html",
-    "agree": "Die Quellen sind sich einig, dass es bei Angriffen auf die Flughäfen in Riad und Abha drei Tote gab und die Huthi-Miliz dahintersteckt.",
-    "diff": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "note": "Beziffert die Zahl der Verletzten konkret auf mehr als 30."
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "Erwähnt allgemein Dutzende Verletzte und nennt das verwendete Kampfmittel (Raketentreffer) sowie das offizielle Bekennerschreiben der Huthi-Miliz."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-1a6586798452ffc0",
-    "c": "INT",
-    "o": "INT",
-    "k": "wissenschaft",
-    "lang": "de",
-    "d": "2026-10-08T02:03:06.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "WHO fordert Aufklärung von Russland nach Todesfall in Sibirien",
-    "s": "Die Weltgesundheitsorganisation hat von Russland mehr Informationen zu einem mysteriösen Todesfall einer Laborangestellten in Sibirien gefordert. Der Fall hat weltweit Besorgnis über einen möglichen Ausbruch der Lungenpest ausgelöst. Bislang ist unklar, wie die betroffene Person ums Leben kam.",
-    "m": "Eine hochrangige Offizielle der WHO erklärte am Mittwoch, dass der Organisation genaue Details zu den Umständen des Todes der Laborangestellten in Sibirien fehlen. Der Vorfall sorgte international für Aufsehen und Befürchtungen im Zusammenhang mit der Lungenpest. Die WHO appellierte direkt an die russischen Behörden, transparent zu sein und umfassende Informationen bereitzustellen, um die offenen Fragen zu klären. Bisher gibt es keine offiziellen Bestätigungen über eine tatsächliche Infektion mit dem Pesterreger im Labor. Die internationale Gemeinschaft beobachtet die Situation mit Aufmerksamkeit.",
-    "r": "Der Fall betrifft die globale Gesundheitssicherheit und wirft Fragen zum Umgang mit gefährlichen Erregern in Laboren auf.",
-    "srcs": [
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZlBlQ2RiMXBhUVJuXy0tNE5UTTBNekl0Z1dqNE53Sko2MkdTOHhzLVVST3U0bWEtRHYydFlXdXBvUi1QX2g3SE5QcGN1dG1adWNuQWF0NEVxUElVN0VZeWVxWHg2VVdfSWdPbkU4RWhDZXI5eUJVWVpfS1hkakxmWmZLbVl5eWJpeUlCMUtYc0Job3VMSjN6ajdobkY4QWZCWnB5YjNCZmtqSUhFQS1TbDV2d3R1UlVYRlNfRHpaMlI?oc=5",
-        "date": "2026-10-08T02:03:06.000Z"
-      },
-      {
-        "name": "France24 English",
-        "url": "https://www.france24.com/en/un-health-agency-wants-more-details-from-russia-on-suspected-pneumonic-plague-case",
-        "date": "2026-10-07T21:24:45.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZlBlQ2RiMXBhUVJuXy0tNE5UTTBNekl0Z1dqNE53Sko2MkdTOHhzLVVST3U0bWEtRHYydFlXdXBvUi1QX2g3SE5QcGN1dG1adWNuQWF0NEVxUElVN0VZeWVxWHg2VVdfSWdPbkU4RWhDZXI5eUJVWVpfS1hkakxmWmZLbVl5eWJpeUlCMUtYc0Job3VMSjN6ajdobkY4QWZCWnB5YjNCZmtqSUhFQS1TbDV2d3R1UlVYRlNfRHpaMlI?oc=5",
-    "agree": "Die WHO fordert von Russland weitere Details zu dem Fall einer verstorbenen Laborangestellten in Sibirien im Zusammenhang mit der Lungenpest.",
-    "diff": [
-      {
-        "name": "Google News World",
-        "note": "Erwähnt WRAL als beteiligtes Medium bei der Berichterstattung."
-      },
-      {
-        "name": "France24 English",
-        "note": "Nennt eine hochrangige WHO-Offizielle als Quelle für die Aussage vom Mittwoch und berichtet, dass der Vorfall weltweite Sorge über verdächtige Lungenpest ausgelöst hat."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-19d1e42987e69d90",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-08T01:47:35.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Vier Tote bei schwerem Verkehrsunfall in Brandenburg",
-    "s": "Bei einem schweren Verkehrsunfall in Brandenburg ist ein Auto beim Überholen in mehrere Mopeds gekracht. Vier Menschen starben noch an der Unfallstelle. Rettungskräfte konnten für die Opfer nichts mehr tun.",
-    "m": "Auf einer Landstraße in Brandenburg kam es zu einem verheerenden Verkehrsunfall, bei dem ein Autofahrer beim Versuch, mehrere Fahrzeuge zu überholen, in den Gegenverkehr geriet. Dort kollidierte der Wagen frontal mit mehreren Kleinkrafträdern. Für die beteiligten Personen kam jede Hilfe zu spät, sodass vier Menschen ihr Leben verloren. Unter den Opfern befinden sich drei Mopedfahrer sowie eine Sozia. Der Unfallort wird in einem Bericht näher bei Biesenthal verortet. Weitere Details zum genauen Unfallhergang, zur Identität der Opfer oder zu möglichen Verletzten des Autofahrers nennen die vorliegenden Berichte nicht.",
-    "r": "Der Unfall verdeutlicht die extremen Gefahren von Überholmanövern auf Landstraßen bei unübersichtlicher Verkehrslage. Solche Kollisionen zwischen Autos und schwereren Geschwindigkeiten ausgesetzten Kleinkrafträdern enden häufig tödlich.",
-    "srcs": [
-      {
-        "name": "t-online Panorama",
-        "url": "https://www.t-online.de/nachrichten/panorama/ungluecke/id_101471434/brandenburg-auto-kracht-beim-ueberholen-in-mopeds-vier-tote.html",
-        "date": "2026-10-08T01:47:35.000Z"
-      },
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/panorama/brandenburg-auto-kracht-beim-ueberholen-in-mopeds-vier-tote-bei-biesenthal-4YEWKBUICRAEFKQPP7YHZT4LO4.html",
-        "date": "2026-10-08T00:21:54.000Z"
-      }
-    ],
-    "url": "https://www.t-online.de/nachrichten/panorama/ungluecke/id_101471434/brandenburg-auto-kracht-beim-ueberholen-in-mopeds-vier-tote.html",
-    "agree": "Die Quellen stimmen überein, dass in Brandenburg ein Auto beim Überholen in Mopeds gekracht ist und dabei vier Menschen ums Leben kamen.",
-    "diff": [
-      {
-        "name": "RND",
-        "note": "nennt den genauen Unfallort bei Biesenthal und präzisiert, dass es sich um drei Fahrer und eine Sozia der Mopeds handelte"
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-a2a2418b3c953832",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-08T01:39:00.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "US-Demokraten verklagen Trump wegen mutmaßlicher Missbrauch von Staatsgeldern",
-    "s": "Die demokratische Opposition in den USA hat Klage gegen Präsident Trump eingereicht. Hintergrund sind Wahlwerbebotschaften Trumps, die aus staatlichen Haushaltsmitteln finanziert worden sein sollen. In diesen Spots inszeniert er sich vor den Zwischenwahlen als antikommunistisches Bollwerk.",
-    "m": "Die Demokraten werfen US-Präsident Trump vor, unzulässigerweise Haushaltsmittel für Wahlwerbezwecke zu verwenden. Im Zentrum der Kritik stehen Botschaften, in denen Trump unter anderem warnt, dass Amerika niemals ein kommunistisches Land sein werde. Diese Art der Inszenierung als antikommunistisches Bollwerk erfolgt im direkten Vorfeld der anstehenden Zwischenwahlen. Die Opposition sieht in dem Einsatz der staatlichen Gelder einen Verstoß gegen die geltenden Bestimmungen zur Wahlkampffinanzierung und zieht deshalb vor Gericht. Weitere Details zum genauen Gerichtsort oder zur Höhe der betroffenen Summen nennen die vorliegenden Berichte bisher nicht. Offen ist auch, wie die Justiz auf die Klage reagieren wird und welche rechtlichen Konsequenzen drohen.",
-    "r": "Die Klage berührt grundlegende Fragen der legalen Wahlkampffinanzierung und des Umgangs mit staatlichen Haushaltsmitteln durch hochrangige Amtsträger in den USA. Solche juristischen Auseinandersetzungen im Vorfeld von Wahlen können den politischen Druck auf den Präsidenten massiv erhöhen.",
-    "srcs": [
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/politik/ausland/usa-demokraten-klage-trump-steuergelder-wahlwerbung-100.html",
-        "date": "2026-10-08T01:39:00.000Z"
-      },
-      {
-        "name": "Süddeutsche Zeitung",
-        "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-wahlkampf-midterms-wahlkampffinanzierung-li.3558046",
-        "date": "2026-10-08T00:45:36.000Z"
-      }
-    ],
-    "url": "https://www.zdfheute.de/politik/ausland/usa-demokraten-klage-trump-steuergelder-wahlwerbung-100.html",
-    "agree": "Die Quellen stimmen überein, dass demokratische Politiker in den USA gegen Präsident Trump wegen seiner aus Haushaltsmitteln finanzierten Wahlwerbung klagen.",
-    "diff": [
-      {
-        "name": "ZDF heute",
-        "note": "Erwähnt konkret den Slogan 'Amerika wird niemals ein kommunistisches Land sein'."
-      },
-      {
-        "name": "Süddeutsche Zeitung",
-        "note": "Ordnet die Berichterstattung in einen Newsblog ein und bezeichnet den Vorwurf präziser als Streit um die Wahlkampffinanzierung sowie die Verwendung von Steuergeldern."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-a0374abe3e003307",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-08T01:39:00.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "US-Demokraten klagen gegen Trump wegen angeblicher Verwendung von Steuergeld für Wahlwerbung",
-    "s": "Die demokratische Opposition in den USA hat Klage gegen Präsident Trump eingereicht. Hintergrund sind Werbebotschaften, in denen er sich vor den Zwischenwahlen als antikommunistisches Bollwerk inszeniert. Die Demokraten werfen ihm vor, diese Wahlwerbung unzulässig aus Haushaltsmitteln zu finanzieren.",
-    "m": "Im Zentrum der rechtlichen Auseinandersetzung steht die Verwendung staatlicher Gelder für politische Kampagnenzwecke vor den Zwischenwahlen. Die Demokraten begründen ihre Klage damit, dass Trump offizielle Haushaltsmittel für Botschaften mit explizit politischem Inhalt einsetzt. Ein zentrales Zitat aus der umstrittenen Werbung lautet, dass Amerika niemals ein kommunistisches Land sein werde. Durch diese Praxis soll der Präsident nach Ansicht der Opposition gegen Finanzierungsvorschriften verstoßen haben. Bislang gibt es keine Informationen über eine gerichtliche Entscheidung oder eine offizielle Stellungnahme der Gegenseite. Die Berichterstattung beleuchtet damit einen mutmaßlichen Fall von unzulässiger Wahlkampffinanzierung in den USA.",
-    "r": "Der Vorwurf der missbräuchlichen Verwendung von Haushaltsmitteln für Wahlwerbung durch einen amtierenden Präsidenten berührt grundlegende Fragen der politischen Fairness und Legalität. Solche Konflikte zwischen Exekutive und Opposition können weitreichende Folgen für die Wahlkampfkultur in den USA haben.",
-    "srcs": [
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/politik/ausland/usa-demokraten-klage-trump-steuergelder-wahlwerbung-100.html",
-        "date": "2026-10-08T01:39:00.000Z"
-      },
-      {
-        "name": "Süddeutsche Zeitung",
-        "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-pest-russland-putin-trump-wahlkampf-midterms-li.3558046",
-        "date": "2026-10-08T00:45:36.000Z"
-      }
-    ],
-    "url": "https://www.zdfheute.de/politik/ausland/usa-demokraten-klage-trump-steuergelder-wahlwerbung-100.html",
-    "agree": "Beide Quellen stimmen darin überein, dass demokratische Politiker in den USA gegen Präsident Trump wegen dessen Wahlwerbung und dem mutmaßlichen Einsatz von Haushaltsmitteln klagen.",
-    "diff": [
-      {
-        "name": "ZDF heute",
-        "note": "Erwähnt konkret den Werbeslogan \"Amerika wird niemals ein kommunistisches Land sein\"."
-      },
-      {
-        "name": "Süddeutsche Zeitung",
-        "note": "Ordnet das Ereignis in einen Newsblog ein und spricht allgemeiner von Wahlkampffinanzierung und dem Vorwurf der Verwendung von Steuergeld."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-f2000b0a6c3772b3",
-    "c": "INT",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-08T01:02:21.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Michael Jacksons „Thriller“-Jacke wird im Dezember versteigert",
-    "s": "Die legendäre schwarz-rote Lederjacke, die Michael Jackson im Jahr 1983 in seinem Musikvideo zu „Thriller“ trug, wird bei einer Auktion im Dezember versteigert. Experten erwarten, dass das Erinnerungsstück einen Rekordpreis erzielen wird. Das genaue Auktionshaus oder Startgebot wurden in den Berichten nicht genannt.",
-    "m": "Die berühmte Lederjacke von Pop-Ikone Michael Jackson aus dem Musikvideo „Thriller“ von 1983 steht vor einer Versteigerung. Die Auktion ist für den kommenden Dezember angesetzt. Veranstalter und Experten gehen davon aus, dass das Kleidungsstück einen sehr hohen und möglicherweise rekordverdächtigen Preis erzielen wird. Das Musikvideo gilt als Meilenstein der Popkultur, wodurch Gegenstände daraus unter Sammlern äußerst begehrt sind. Weitere Details zum Ablauf der Versteigerung, zum aktuellen Besitzer oder zu einer möglichen Schätzung des genauen Verkaufswertes wurden bisher nicht bekannt gegeben.",
-    "r": "Die Auktion eines historisch bedeutsamen Popkultur-Artefakts ist für Sammler und den Kunstmarkt von Interesse. Der zu erwartende Rekordpreis unterstreicht den anhaltenden wirtschaftlichen und kulturellen Wert von Michael Jacksons Nachlass.",
-    "srcs": [
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/panorama/michael-jackson-thriller-jacke-soll-bei-auktion-rekordpreis-erzielen-44QM2GSBEJDWVKT2XGACQ27VNQ.html",
-        "date": "2026-10-08T01:02:21.000Z"
-      },
-      {
-        "name": "stern",
-        "url": "https://www.stern.de/panorama/spannende-auktion--jacksons--thriller--jacke-wird-versteigert---rekordpreis--38364070.html",
-        "date": "2026-10-08T00:12:43.000Z"
-      }
-    ],
-    "url": "https://www.rnd.de/panorama/michael-jackson-thriller-jacke-soll-bei-auktion-rekordpreis-erzielen-44QM2GSBEJDWVKT2XGACQ27VNQ.html",
-    "agree": "Beide Quellen stimmen überein, dass die Lederjacke aus Michael Jacksons „Thriller“-Video von 1983 im Dezember versteigert wird und ein Rekordpreis erwartet wird.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-4ef731d7d0c0486e",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-07T23:37:00.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "US-Demokraten verklagen Trump wegen Wahlwerbung mit Steuermitteln",
-    "s": "Wenige Wochen vor den US-Zwischenwahlen haben die Demokraten eine Klage gegen Präsident Donald Trump eingereicht. Auslöser sind Werbespots für seine Wiederwahl, die mit dem Disclaimer der US-Regierung versehen sind und somit aus Steuergeldern finanziert werden. Die Clips zeigen den Präsidenten als antikommunistisches Bollwerk und sorgen bereits länger für Kritik.",
-    "m": "Die US-Demokraten haben rechtliche Schritte eingeleitet, da der amtierende Präsident Donald Trump in aktuellen Werbespots für die anstehenden Kongresswahlen um Stimmen wirbt, während die Spots den offiziellen Hinweis tragen, von der US-Regierung finanziert zu sein. Diese Clips, die Trump unter anderem als antikommunistisches Bollwerk inszenieren, liefen bereits seit geraumer Zeit in der Kritik, weil sie staatliche Mittel für parteipolitische Wahlwerbung nutzen könnten. Kurz vor den entscheidenden Wahlen schicken die Demokraten nun ihre Anwälte ins Rennen, um gegen diese Praxis vorzugehen. Der genaue Ausgang und die rechtlichen Details der Klage sind in den Berichten noch nicht weiter ausgeführt.",
-    "r": "Die Verwendung staatlicher Ressourcen für Wahlwerbung berührt rechtliche und demokratische Grundsätze in den USA. Die Intervention der Opposition kurz vor den Wahlen unterstreicht die politische Brisanz des Themas.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOEFUVzBVSHJ5aVBXY1AtSHZiSXFpU1Y3dEV2US0xU25yeHJFdFIyQzdLZDg2T2JCUjhCYjJ3ZVNYOTlzZWd6dFRaWGN5MzZxbC02WFdKbWJYRFpnc2txV1cwWFJBVVRvS25HaVVQYmJSQWdpZk5rVWVKc25sd3gteFMxWFBCREsxa1Q1ZXZoQWpfdDRGMWxTTGRkUmZrb21yVl94STlIbFBCVURKYTdDQVRlX3NXeUt1LXFJQld4OG91eklpN1c4S2gwRTdIQmNW?oc=5",
-        "date": "2026-10-07T23:37:00.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/ausland/us-demokraten-verklagen-trump-wegen-wahlwerbung-aus-steuergeldern-a-0b8ed0d9-a241-4154-85a4-b3a2248af262#ref=rss",
-        "date": "2026-10-07T23:37:00.000Z"
-      },
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/politik/usa-demokraten-verklagen-trump-wegen-tv-wahlwerbung-BTMEBVGGDJBMZCOWZYDKEPKPB4.html",
-        "date": "2026-10-07T22:24:02.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOEFUVzBVSHJ5aVBXY1AtSHZiSXFpU1Y3dEV2US0xU25yeHJFdFIyQzdLZDg2T2JCUjhCYjJ3ZVNYOTlzZWd6dFRaWGN5MzZxbC02WFdKbWJYRFpnc2txV1cwWFJBVVRvS25HaVVQYmJSQWdpZk5rVWVKc25sd3gteFMxWFBCREsxa1Q1ZXZoQWpfdDRGMWxTTGRkUmZrb21yVl94STlIbFBCVURKYTdDQVRlX3NXeUt1LXFJQld4OG91eklpN1c4S2gwRTdIQmNW?oc=5",
-    "agree": "Die Quellen sind sich einig, dass US-Demokraten wegen Wahlwerbung mit Steuermitteln Klage gegen Trump eingereicht haben.",
-    "diff": [
-      {
-        "name": "Google News DE",
-        "note": "Bringt keine inhaltlichen Details, sondern leitet lediglich auf den Bericht des SPIEGEL weiter."
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "Erwähnt konkret, dass es sich um hinreichend schräge Werbespots handelt und diese den Disclaimer »Finanziert von der US-Regierung« tragen."
-      },
-      {
-        "name": "RND",
-        "note": "Führt ergänzend aus, dass die Videos Trump als antikommunistisches Bollwerk inszenieren und die Kritik daran bereits seit längerem besteht."
-      }
-    ],
-    "chg": "",
-    "independent": 3
-  },
-  {
-    "id": "story-0797e9c699a0907f",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-07T22:06:58.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Vier Tote bei Frontalzusammenstoß zwischen Auto und Mopeds in Brandenburg",
-    "s": "Auf einer Landstraße im Landkreis Barnim in Brandenburg hat sich ein schwerer Verkehrsunfall ereignet. Ein Autofahrer ist beim Überholen auf die Gegenfahrbahn geraten und dort in eine Gruppe von Mopeds gekracht. Bei dem Frontalzusammenstoß sind vier Menschen noch an der Unfallstelle gestorben. Rettungskräfte und Polizei waren im Großeinsatz vor Ort.",
-    "m": "Der Unfall geschah auf einer Landstraße nordöstlich von Berlin im Landkreis Barnim. Laut Polizei setzte ein Autofahrer zum Überholen an und erfasste dabei drei entgegenkommende Mopeds. Die Wucht des Aufpralls war so stark, dass für vier Personen jede Hilfe zu spät kam und sie noch an der Unfallstelle ihren Verletzungen erlagen. Unter den Todesopfern befinden sich nach übereinstimmenden Berichten drei Mopedfahrer sowie eine Mitfahrerin. Die Identität der Opfer sowie genaue Details zum Unfallhergang werden von den Behörden ermittelt. Die Landstraße musste für die Rettungs- und Bergungsarbeiten sowie für die Unfallaufnahme zeitweise voll gesperrt werden. Die genaue Unfallursache ist Gegenstand polizeilicher Ermittlungen.",
-    "r": "Der schwere Verkehrsunfall mit vier Todesopfern verdeutlicht die Risiken bei Überholmanövern auf Landstraßen. Solche tödlichen Kollisionen zwischen Autos und schwächeren Verkehrsteilnehmern führen regelmäßig zu verschärften Diskussionen über Verkehrssicherheit und Tempolimits.",
-    "srcs": [
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/panorama/Vier-Mopedfahrer-sterben-bei-Verkehrsunfall-in-Brandenburg-id31394059.html",
-        "date": "2026-10-07T22:06:58.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/mobilitaet/auto/brandenburg-vier-mopedfahrer-sterben-bei-verkehrsunfall-a-bcbc1ad9-512f-472b-838c-5c949c26c3c7#ref=rss",
-        "date": "2026-10-07T21:29:00.000Z"
-      }
-    ],
-    "url": "https://www.n-tv.de/panorama/Vier-Mopedfahrer-sterben-bei-Verkehrsunfall-in-Brandenburg-id31394059.html",
-    "agree": "Die Quellen sind sich einig, dass bei einem schweren Verkehrsunfall im Landkreis Barnim in Brandenburg vier Mopedfahrer beziehungsweise Mitfahrer ums Leben kamen, nachdem ein überholendes Auto in sie gekracht ist.",
-    "diff": [
-      {
-        "name": "ntv",
-        "note": "Berichtet, dass der Unfall auf einer Landstraße nordöstlich von Berlin stattfand."
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "Präzisiert, dass der Unfall im Landkreis Barnim passierte und konkret drei Mopeds mit drei Fahrern und einer Mitfahrerin involviert waren."
-      }
-    ],
     "chg": "",
     "independent": 2
   }
