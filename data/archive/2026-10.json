@@ -1,5 +1,435 @@
 [
   {
+    "id": "story-c14073e95f770a50",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-09T01:23:40.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Festnahme nach tödlichen Schüssen bei Waffenkontrolle in Berngau",
+    "s": "Bei einer Waffenkontrolle im oberpfälzischen Berngau sind zwei Mitarbeiter des Landratsamtes erschossen worden. Der mutmaßliche Täter verschanzte sich nach den Schüssen in einem Wohngebäude. In der darauffolgenden Nacht erfolgte der Zugriff und die Festnahme des Verdächtigen durch Einsatzkräfte.",
+    "m": "Der Vorfall ereignete sich während einer amtlichen Waffenkontrolle in Berngau, einer Gemeinde in der Oberpfalz in Bayern. Im Rahmen dieser Überprüfung wurden zwei Mitarbeiter des zuständigen Landratsamtes durch Schüsse getötet. Der mutmaßliche Schütze flüchtete oder verblieb daraufhin verschanzt in einem Gebäude. Die Polizei leitete umgehend Maßnahmen ein und sicherte das Gebiet. In der Nacht kam es schließlich zum Zugriff durch Spezialkräfte, bei dem der Verdächtige festgenommen werden konnte. Weitere Details zum Hintergrund des Waffenbesitzers oder zum genauen Tathergang wurden zunächst nicht bekannt gegeben.",
+    "r": "Die gewaltsame Eskalation einer behördlichen Routinekontrolle mit tödlichen Folgen für zwei Mitarbeiter verdeutlicht die Risiken im Umgang mit Waffenbesitzern. Der Fall hat aufgrund der Tötung von Amtspersonen und des Großeinsatzes überregionale Bedeutung.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-10/08/anwohner-sollen-nach-schussgeraeuschen-in-haeusern-bleiben",
+        "date": "2026-10-09T01:23:40.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/panorama/berngau-festnahme-nach-toedlichen-schuessen-bei-waffenkontrolle-in-der-oberpfalz-HM7CMTFG5ZA2TDWUR7JLIZ2G4U.html",
+        "date": "2026-10-09T01:10:58.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/news/2026-10/08/anwohner-sollen-nach-schussgeraeuschen-in-haeusern-bleiben",
+    "agree": "Die Quellen stimmen überein, dass es in Berngau in der Oberpfalz bei einer Waffenkontrolle zu tödlichen Schüssen auf Mitarbeiter des Landratsamtes kam und der mutmaßliche Täter festgenommen wurde.",
+    "diff": [
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Berichtet über die Festnahme nach tödlichen Schüssen, nennt aber keine Details zum Ablauf."
+      },
+      {
+        "name": "RND",
+        "note": "Ergänzt, dass die Getöteten Mitarbeiter des Landratsamtes waren und der Schütze sich in einem Haus verschanzte, bis in der Nacht der Zugriff erfolgte."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-5a15895dc422f0e4",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-09T01:07:06.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Zwei Behördenmitarbeiter bei Waffenkontrolle in der Oberpfalz erschossen",
+    "s": "Bei einer Waffenkontrolle in der Oberpfalz sind zwei Bedienstete des Landratsamtes Neumarkt erschossen worden. Der tragische Vorfall ereignete sich bei einem Routineeinsatz in Berngau. Die Hintergründe und der genaue Ablauf der Tat sind Gegenstand der laufenden Ermittlungen.",
+    "m": "Der Vorfall ereignete sich während einer Waffenkontrolle durch Mitarbeiter des Landratsamtes Neumarkt im oberpfälzischen Berngau. Aus bislang ungeklärten Gründen kam es zu Schüssen, bei denen zwei Behördenmitarbeiter getötet wurden. Der mutmaßliche Schütze hat sich nach der Tat vor den alarmierten Polizeikräften verschanzt. Die Polizei ist mit einem Großaufgebot vor Ort, um die Situation zu sichern und den Verdächtigen festzunehmen. Weitere Details zum Täter, zur Waffe oder zu möglichen Vorstrafen wurden von den Behörden zunächst nicht bekannt gegeben.",
+    "r": "Der gewaltsame Tod von zwei Behördenmitarbeitern bei einer routinemäßigen Waffenkontrolle verdeutlicht die unvorhersehbaren Gefahren im Außendienst von Verwaltungen. Ein Großeinsatz der Polizei ist die unmittelbare Folge, um die Sicherheit vor Ort wiederherzustellen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/zwei-behoerdenmitarbeiter-bei-waffenkontrolle-in-der-oberpfalz-erschossen-102.html",
+        "date": "2026-10-09T01:07:06.000Z"
+      },
+      {
+        "name": "Süddeutsche Zeitung",
+        "url": "https://www.sueddeutsche.de/bayern/oberpfalz-berngau-schuesse-polizei-verletzte-li.3560697",
+        "date": "2026-10-08T22:10:59.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/zwei-behoerdenmitarbeiter-bei-waffenkontrolle-in-der-oberpfalz-erschossen-102.html",
+    "agree": "Die Quellen sind sich einig, dass bei einer Waffenkontrolle in der Oberpfalz zwei Mitarbeiter einer Behörde erschossen wurden.",
+    "diff": [
+      {
+        "name": "Süddeutsche Zeitung",
+        "note": "nennt den genauen Ort Berngau, erwähnt den Routineeinsatz und berichtet, dass sich der mutmaßliche Schütze nach der Tat verschanzt hat."
+      },
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "nennt das Landratsamt Neumarkt als Arbeitgeber der getöteten Bediensteten."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-7b4b41fbe57c3842",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-09T01:07:06.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Niedersachsens SPD-Fraktionschef Stefan Politze tritt zurück",
+    "s": "Der Vorsitzende der SPD-Fraktion im niedersächsischen Landtag, Stefan Politze, hat seinen Rücktritt erklärt. Diesen Schritt gab er in einer außerordentlichen Fraktionssitzung bekannt. Hintergrund des Rücktritts sind strafrechtliche Ermittlungen gegen ihn.",
+    "m": "Stefan Politze hat seinen Rücktritt als Vorsitzender der SPD-Landtagsfraktion in Niedersachsen erklärt. Diesen Schritt kündigte er in einer am Abend stattfindenden außerordentlichen Sitzung an, wie die SPD-Fraktion mitteilte. Nähere Details zu den genauen Vorwürfen oder dem Inhalt der strafrechtlichen Ermittlungen wurden in den Meldungen zunächst nicht genannt. Die Fraktion wird sich nun neu aufstellen müssen. Der Zeitpunkt des Rücktritts erfolgte unmittelbar nach Bekanntwerden der Ermittlungen. Offen ist bislang, wer die Nachfolge von Politze antreten wird.",
+    "r": "Der Rücktritt eines ranghohen Fraktionsvorsitzenden aufgrund strafrechtlicher Ermittlungen betrifft direkt die politische Stabilität und Führung der Landes-SPD in Niedersachsen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/strafrechtliche-ermittlungen-niedersachsens-spd-fraktionschef-politze-tritt-zurueck-106.html",
+        "date": "2026-10-09T01:07:06.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/politik/niedersachsen-spd-fraktionschef-stefan-politze-tritt-zurueck-strafrechtliche-ermittlungen-a-021d1d62-e3bf-499a-b577-16c0375d5878#ref=rss",
+        "date": "2026-10-08T17:40:00.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/strafrechtliche-ermittlungen-niedersachsens-spd-fraktionschef-politze-tritt-zurueck-106.html",
+    "agree": "Die Quellen stimmen darin überein, dass der niedersächsische SPD-Fraktionschef Stefan Politze im Zuge strafrechtlicher Ermittlungen seinen Rücktritt erklärt hat.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "nennt den Vornamen des Rücktrittskandidaten in der Kurzmeldung nicht direkt im Titel, sondern führt ihn im Fließtext auf."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "nennt den vollständigen Namen Stefan Politze direkt im Titel und ergänzt, dass der Schritt in einer außerordentlichen Sitzung am Abend angekündigt wurde."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-dbde312b45e94892",
+    "c": "INT",
+    "o": "INT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-09T00:57:45.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Flugzeugträger USS Abraham Lincoln nach Rekordeinsatz in San Diego zurück",
+    "s": "Der US-Flugzeugträger USS Abraham Lincoln ist nach mehr als 300 Tagen beziehungsweise über zehn Monaten auf See in seinen Heimathafen San Diego zurückgekehrt. Familienangehörige empfangenen die zurückkehrenden Soldaten. Das Schiff war zuvor im Nahen Osten im Einsatz.",
+    "m": "Die USS Abraham Lincoln hat einen besonders langen und rekordverdächtigen Einsatz hinter sich, der mehr als 300 Tage dauerte. Nach über zehn Monaten auf See näherte sich das Schiff der US-Küste und lief schließlich wieder in San Diego ein, wo Familien ihre Lieben bei der Rückkehr in die Arme schlossen. Während der Rückkehr aus dem Nahen Osten legte der Flugzeugträger im vergangenen Monat zudem einen Stopp in Thailand ein. Die genauen Gründe für die ungewöhnlich lange Verweildauer auf See und weitere Details zum genauen Ablauf des Einsatzes wurden in den Berichten nicht näher ausgeführt.",
+    "r": "Die Rückkehr eines großen US-Flugzeugträgers nach einem monatelangen Einsatz im Nahen Osten verdeutlicht anhaltende maritime Präsenzoperationen der USA. Solche Rekordeinsätze beanspruchen Besatzungen und Material über einen längeren Zeitraum.",
+    "srcs": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/uss-abraham-lincoln-returns-after-record-breaking-deployment?traffic_source=rss",
+        "date": "2026-10-09T00:57:45.000Z"
+      },
+      {
+        "name": "Euronews",
+        "url": "https://www.euronews.com/2026/10/08/us-aircraft-carrier-abraham-lincoln-returns-to-san-diego-after-record-deployment",
+        "date": "2026-10-08T20:32:03.000Z"
+      }
+    ],
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/uss-abraham-lincoln-returns-after-record-breaking-deployment?traffic_source=rss",
+    "agree": "Die Quellen stimmen darin überein, dass der US-Flugzeugträger USS Abraham Lincoln nach einem rekordverdächtigen Einsatz von mehr als zehn Monaten beziehungsweise 300 Tagen nach San Diego zurückgekehrt ist.",
+    "diff": [
+      {
+        "name": "Al Jazeera",
+        "note": "Berichtet über die emotionalen Szenen bei der Ankunft, bei denen Familien ihre geliebten Menschen in San Diego in die Arme schlossen."
+      },
+      {
+        "name": "Euronews",
+        "note": "Erwähnt zusätzlich, dass das Schiff aus dem Nahen Osten kam und auf dem Rückweg im vergangenen Monat einen Zwischenstopp in Thailand einlegte."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-bf318ad82106f361",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-09T00:50:52.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Taylor Swift tritt bei Gala des Academy Museums auf",
+    "s": "Popstar Taylor Swift wird bei der jährlichen Gala des Academy Museums auftreten. Der Auftritt erfolgt vor dem Hintergrund möglicher Oscar-Ambitionen der Sängerin. Swift hat für den kommenden Pixar-Film „Toy Story 5“ einen Song beigesteuert.",
+    "m": "Ein Oscar fehlt bislang in der umfangreichen Trophäen-Sammlung von Taylor Swift. Nun sorgt ein bevorstehender Auftritt der Künstlerin für Aufmerksamkeit. Sie wird bei der jährlichen Gala des Academy Museums auf der Bühne stehen. In diesem Zusammenhang wird spekuliert, ob Swift Ambitionen auf den begehrten Filmpreis hat. Konkre anlassbezogene Details wurden im Rahmen der Berichterstattung nicht genannt, jedoch steht ihr musikalischer Beitrag für das Filmprojekt im Fokus. Der Pixar-Film „Toy Story 5“ bildet dabei die Verbindung zwischen ihrer musikalischen Arbeit und dem Filmpreis-Kontext.",
+    "r": "Die Meldung ist relevant, da der Auftritt einer global bekannten Künstlerin bei einer offiziellen Veranstaltung des Academy Museums im Kontext möglicher Oscar-Ambitionen steht.",
+    "srcs": [
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/promis/taylor-swift-hat-oscar-ambitionen-und-tritt-bei-gala-im-academy-museum-auf-FVTX2I5L3RGFNFMNX3JR3MO6PY.html",
+        "date": "2026-10-09T00:50:52.000Z"
+      },
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/kultur/film/grosser-auftritt--oscar-ambitionen--swift-tritt-bei-academy-museum-gala-auf-38369784.html",
+        "date": "2026-10-08T22:15:04.000Z"
+      }
+    ],
+    "url": "https://www.rnd.de/promis/taylor-swift-hat-oscar-ambitionen-und-tritt-bei-gala-im-academy-museum-auf-FVTX2I5L3RGFNFMNX3JR3MO6PY.html",
+    "agree": "Beide Quellen stimmen überein, dass Taylor Swift bei der Gala des Academy Museums auftreten wird, für den Pixar-Film „Toy Story 5“ einen Song beisteuerte und in ihrer Trophäensammlung noch ein Oscar fehlt.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-08790355964e7aec",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-09T00:13:51.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Nato kündigt jährliche Atomwaffen-Übung Steadfast Noon an",
+    "s": "Ab Dienstag trainiert die Nato in Italien für das Szenario eines Atomkriegs. Ziel der Übung ist eine glaubwürdige Abschreckung. An dem Manöver beteiligen sich Streitkräfte aus insgesamt 17 Ländern, darunter auch die Bundeswehr.",
+    "m": "Die Nato hat ihre jährliche Atomwaffenübung mit dem Namen Steadfast Noon angekündigt, die am Dienstag in Italien beginnt. Das Manöver dient der Simulation eines Atomkriegs und soll eine glaubwürdige Abschreckung demonstrieren, die sich vor allem an eine bestimmte Richtung richtet. Insgesamt nehmen Streitkräfte aus 17 verschiedenen Nationen an der Übung teil. Zu den beteiligten Ländern gehört auch Deutschland mit der Bundeswehr. Weitere Details zum genauen Ablauf oder konkreten beteiligten Waffensystemen wurden in den Berichten nicht genannt.",
+    "r": "Die Übung betrifft die internationale Sicherheit und die nukleare Abschreckungsstrategie der Nato. Die Beteiligung von 17 Mitgliedstaaten sowie der Bundeswehr unterstreicht die gemeinsame militärische Ausrichtung im Bündnis.",
+    "srcs": [
+      {
+        "name": "t-online Nachrichten",
+        "url": "https://www.t-online.de/nachrichten/ausland/id_101473108/nato-kuendigt-atomwaffen-uebung-an.html",
+        "date": "2026-10-09T00:13:51.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/nato-kuendigt-atomwaffen-uebung-an-bundeswehr-nimmt-teil-a-85a6557f-06ed-4ff5-a3ae-e9648bc2e7f3#ref=rss",
+        "date": "2026-10-08T18:16:00.000Z"
+      }
+    ],
+    "url": "https://www.t-online.de/nachrichten/ausland/id_101473108/nato-kuendigt-atomwaffen-uebung-an.html",
+    "agree": "Die Quellen stimmen überein, dass die Nato eine Atomwaffen-Übung in Italien ab Dienstag angekündigt hat.",
+    "diff": [
+      {
+        "name": "DER SPIEGEL",
+        "note": "Erwähnt zusätzlich den Namen der Übung Steadfast Noon, die Beteiligung von Streitkräften aus 17 Ländern sowie die Teilnahme der Bundeswehr."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-cf7b1de0514c6459",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-09T00:13:39.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "US-Star Fran Drescher spielt in zweiter Staffel der Serie \"Die Zweiflers\" mit",
+    "s": "Die US-Schauspielerin Fran Drescher, bekannt aus der Sitcom \"Die Nanny\", übernimmt eine Rolle in der deutschen Fernsehserie \"Die Zweiflers\". Die Macher der preisgekrönten ARD-Produktion konnten den Weltstar für die bevorstehende zweite Staffel gewinnen. Genauere Details zur Handlung oder ihrer Rolle wurden zunächst nicht genannt.",
+    "m": "Die erfolgreiche ARD-Serie \"Die Zweiflers\" bekommt für ihre zweite Staffel prominente Unterstützung aus Hollywood. Die Macher der Frankfurter Produktion haben die US-amerikanische Schauspielerin Fran Drescher verpflichtet, die vor allem durch ihre Hauptrolle in der Kult-Sitcom \"Die Nanny\" weltbekannt wurde. Die Serie konnte zuvor bereits diverse Preise gewinnen und gilt als Kritikererfolg. Die Dreharbeiten oder konkrete Ausstrahlungstermine für die neue Staffel sind in den vorliegenden Berichten noch nicht näher beziffert. Auch über den genauen Charakter, den Drescher verkörpern wird, ist bisher nichts bekannt. Fans und Medien werten die Verpflichtung jedoch als großen Coup für eine deutsche Fernsehproduktion.",
+    "r": "Die Verpflichtung eines internationalen Hollywood-Stars für eine deutsche Produktion ist ein bemerkenswerter Erfolg für die hsche Fernsehbranche. Solche Engagements erhöhen die internationale Aufmerksamkeit für heimische Serienformate wie \"Die Zweiflers\".",
+    "srcs": [
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/medien/nanny-fran-drescher-mischt-deutsche-serie-die-zweiflers-auf-L5HW3DUSFRAA3PGCII3HHY5DLM.html",
+        "date": "2026-10-09T00:13:39.000Z"
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-10/09/nanny-fran-drescher-mischt-deutsche-serie-auf",
+        "date": "2026-10-08T23:22:37.000Z"
+      }
+    ],
+    "url": "https://www.rnd.de/medien/nanny-fran-drescher-mischt-deutsche-serie-die-zweiflers-auf-L5HW3DUSFRAA3PGCII3HHY5DLM.html",
+    "agree": "Beide Quellen stimmen darin überein, dass der US-Star Fran Drescher aus \"Die Nanny\" in der deutschen Serie \"Die Zweiflers\" mitmischt.",
+    "diff": [
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Erwähnt Frankfurt als Handlungsort bzw. Bezugspunkt der Serie."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-c9c68d4657f1f4ff",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-09T00:05:00.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Zwei Todesopfer bei Waffenkontrolle in der Oberpfalz",
+    "s": "Bei einer Waffenkontrolle in Berngau in der Oberpfalz sind zwei Mitarbeiter des Landratsamtes durch Schüsse getötet worden. Der mutmaßliche Schütze hat sich nach der Tat in einem Wohnhaus verschanzt. Die Situation in dem betroffenen Gebiet dauert an. Die Polizei ist vor Ort im Einsatz.",
+    "m": "Der Vorfall ereignete sich bei einer behördlichen Routinekontrolle in Berngau in der Oberpfalz, als Mitarbeiter des Landratsamtes das Wohnhaus eines Waffenbesitzers aufsuchten. In diesem Rahmen kam es zu den tödlichen Schüssen, bei denen zwei Behördenmitarbeiter ums Leben kamen. Der Täter verschanzte sich nach den Schüssen im Gebäude. Die Hintergründe der Eskalation und genaue Details zum Ablauf sind Gegenstand polizeilicher Ermittlungen. Spezialeinheiten oder weitere Sicherheitskräfte sind in den anschließenden Einsatz eingebunden.",
+    "r": "Die gewaltsame Eskalation einer behördlichen Routinekontrolle mit Todesopfern verdeutlicht die potenziellen Gefahren bei Waffenkontrollen. Der Vorfall wirft Fragen zur Sicherheit von Behördenmitarbeitern bei Außeneinsätzen auf.",
+    "srcs": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/oberpfalz-zwei-todesopfer-nach-schuessen-bei-waffenkontrolle-201300625.html",
+        "date": "2026-10-09T00:05:00.000Z"
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/gesellschaft/2026-10/oberpfalz-schuesse-waffenkontrolle-polizei-tote",
+        "date": "2026-10-08T22:10:20.000Z"
+      }
+    ],
+    "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/oberpfalz-zwei-todesopfer-nach-schuessen-bei-waffenkontrolle-201300625.html",
+    "agree": "In Berngau in der Oberpfalz wurden zwei Mitarbeiter des Landratsamtes bei einer Waffenkontrolle durch Schüsse getötet und der mutmaßliche Täter verschanzt sich im Haus.",
+    "diff": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "note": "nennt den genauen Ort Berngau"
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "note": "berichtet über ein zweites Todesopfer"
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-3a4b8743a47cfefa",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-08T23:07:32.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Bundestag macht Weg für Planungen der neuen Bahntrasse Hannover-Hamburg frei",
+    "s": "Der Bundestag hat den Weg für weitere Planungen einer neuen Bahntrasse zwischen Hannover und Hamburg freigemacht. Über das Projekt in Niedersachsen wurde zuvor jahrelang gestritten. Nun sollen die Planungen vorangetrieben werden.",
+    "m": "Das Projekt einer Neubaustrecke zwischen Hannover und Hamburg ist seit Jahren umstritten. Der Bundestag hat nun entschieden, den Weg für die weiteren Planungen zu ebnen. Neben dem Neubau sieht die Entscheidung auch vor, Verbesserungen an der bereits bestehenden Strecke vorzunehmen. Konkrete Details zum zeitlichen Ablauf oder den genauen Kosten wurden in den vorliegenden Berichten nicht genannt. Die Maßnahme betrifft die Region Niedersachsen und soll das Schienennetz in diesem Bereich langfristig entlasten und modernisieren. Weitere offene Punkte betreffen die genaue Streckenführung und die Beteiligung der Anwohner an den Planungsverfahren.",
+    "r": "Die Entscheidung des Bundestags markiert einen wichtigen Schritt in einem jahrelang umstrittenen Infrastrukturprojekt. Die geplante Bahntrasse und die vorgesehenen Streckenverbesserungen haben erhebliche Auswirkungen auf den Bahnverkehr in Niedersachsen.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/mobilitaet/2026-10/deutsche-bahn-hannover-hamburg-bahntrasse-ausbau",
+        "date": "2026-10-08T23:07:32.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/politik/neue-bahntrasse-hannover-hamburg-bundestag-macht-weg-frei-KP3HOATAKRAKTDNE3OSQ7WYQHE.html",
+        "date": "2026-10-08T22:06:39.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/mobilitaet/2026-10/deutsche-bahn-hannover-hamburg-bahntrasse-ausbau",
+    "agree": "Beide Quellen stimmen überein, dass der Bundestag den Weg für weitere Planungen der neuen Bahntrasse zwischen Hannover und Hamburg freigemacht hat und dass über das Projekt jahrelang gestritten wurde.",
+    "diff": [
+      {
+        "name": "RND",
+        "note": "Erwähnt zusätzlich, dass der Bundestag auch Verbesserungen an der jetzigen Strecke fordert."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-0fcd5b8591fa223c",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-08T22:44:27.000Z",
+    "p": 3,
+    "st": "NI",
+    "city": "",
+    "t": "Fragen und Antworten zur geplanten Neubaustrecke Hamburg-Hannover",
+    "s": "Der Bundestag hat den Weg für eine neue Bahntrasse durch Niedersachsen freigemacht. Das Projekt sorgt für Diskussionen und wirft zahlreiche Fragen in der Region auf. Es soll die Verbindung zwischen Hamburg und Hannover verbessern. Konkrete Details zu den Auswirkungen auf Anwohner und Natur stehen im Fokus der Berichterstattung.",
+    "m": "Die geplante Neubaustrecke zwischen Hamburg und Hannover ist durch einen Beschluss des Bundestages einen entscheidenden Schritt vorangekommen. Das Projekt betrifft direkt das Bundesland Niedersachsen und führt zu Fragen über den genauen Verlauf und die Konsequenzen für die Region. Bisher gibt es vor allem eine Bestätigung des parlamentarischen Weges für die Trasse. Zahlreiche Bürger und Kommunen beschäftigen sich mit den praktischen Folgen des Bahnprojekts. Offen sind oft noch exakte Zeitpläne für den Bau und die genauen Standortentscheidungen. Die Deutsche Bahn und die Politik stehen im Dialog über die Ausgestaltung.",
+    "r": "Das Infrastrukturprojekt betrifft wichtige Verkehrsachsen in Deutschland und hat direkte Auswirkungen auf die betroffenen Regionen in Niedersachsen. Daher ist die Klärung von Fragen zum Verlauf und Bau von großer Bedeutung.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Niedersachsen",
+        "url": "https://www.tagesschau.de/inland/regional/niedersachsen/neubaustrecke-hamburg-hannover-wichtige-fragen-und-antworten-zu-dem-projekt,neubaustrecke-134.html",
+        "date": "2026-10-08T22:44:27.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPejJWVFUxT01mVUdHZGxneXVSOGkwSVZYTjdHbGY2VnVqb242T1FNZG5BWHpVb3R3X2RranhpaER1d3FUTHFkbHBJWTFVNDZEVG96VXI4MmlRWEc0bHA2eEs4aENrMmUzY0VNTTd1YlVqN2M3SmM5NU5ST2hUQ011ZlVObXAtWERBZnFhTXZFY2tGaFVUaldINkEwUzBvWUFvbFQ3YkRwTS1aMW9ESktZVGRkRW5QWTR2eDY4dENrS01RT3NOQndERXBIMEpCZ3Z4bU1KbGFwV1NfLWJfY2VVSGZJcjJrWThJV2ZfQ2FTX1RCUW51MWZBLUg5WFFldw?oc=5",
+        "date": "2026-10-08T22:44:00.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/niedersachsen/neubaustrecke-hamburg-hannover-wichtige-fragen-und-antworten-zu-dem-projekt,neubaustrecke-134.html",
+    "agree": "Beide Quellen berichten über die geplante Neubaustrecke Hamburg-Hannover und die damit verbundenen Fragen in Niedersachsen.",
+    "diff": [
+      {
+        "name": "Tagesschau Regional Niedersachsen",
+        "note": "Erwähnt konkret, dass der Bundestag den Weg für eine neue Bahntrasse durch Niedersachsen frei gemacht hat."
+      },
+      {
+        "name": "Google News DE",
+        "note": "Verweist auf einen Beitrag des NDR mit Fragen und Antworten zu dem Projekt."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-d18d51d04fba2869",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-08T22:10:41.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Ukrainisches Verhandlungsteam trifft in den USA auf Trump-Unterhändler",
+    "s": "Ein ukrainisches Verhandlungstrio reist zu Gesprächen in die USA, um Unterhändler des US-Präsidenten zu treffen. Das zweitägige Treffen am Freitag und Samstag soll neue Impulse in den Bemühungen um ein Ende des Ukraine-Kriegs setzen. Neben der ukrainischen Delegation soll auch ein europäisches Team an den Gesprächen teilnehmen. US-Beamte haben die Zusammenkunft bestätigt.",
+    "m": "Präsident Wolodymyr Selenskyj kündigte am Donnerstag an, dass die ukrainische Delegation in den USA mit Jared Kushner und Steve Witkoff zusammentreffen wird. Die Verhandlungen sind für Freitag und Samstag angesetzt und sollen zwei Tage umfassen. Kiew hofft weiterhin auf direkte Friedensgespräche mit Moskau. Unterdessen gab es Berichte über ein mutmaßliches Treffen des Kremlchefs mit Altkanzler Gerhard Schröder. Das Treffen der Unterhändler markiert einen neuen Vorstoß im diplomatischen Prozess, wobei die genauen Inhalte der Agenda noch nicht vollständig bekannt sind. US-amerikanische offizielle Stellen bestätigten die Planungen für die Konsultationen.",
+    "r": "Die Gespräche zwischen der Ukraine und den Unterhändlern der US-Regierung sind ein wichtiger diplomatischer Schritt zur Beendigung des Krieges. Die Einbindung europäischer Akteure verleiht dem Treffen zusätzliches internationales Gewicht.",
+    "srcs": [
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/news/ukraine-team-zu-gespraech-mit-trump-unterhaendlern-am-freitag-und-samstag-in-den-usa-38369468.html",
+        "date": "2026-10-08T22:10:41.000Z"
+      },
+      {
+        "name": "t-online Nachrichten",
+        "url": "https://www.t-online.de/nachrichten/ukraine/id_101466202/ukraine-krieg-ukraine-team-zu-gespraech-mit-trump-unterhaendlern.html",
+        "date": "2026-10-08T21:29:18.000Z"
+      }
+    ],
+    "url": "https://www.stern.de/news/ukraine-team-zu-gespraech-mit-trump-unterhaendlern-am-freitag-und-samstag-in-den-usa-38369468.html",
+    "agree": "Beide Quellen berichten über ein bevorstehendes beziehungsweise laufendes Gespräch zwischen einem ukrainischen Team und Unterhändlern der US-Seite.",
+    "diff": [
+      {
+        "name": "stern",
+        "note": "Berichtet detailliert über das bevorstehende zweitägige Treffen am Freitag und Samstag in den USA, nennt die Beteiligten Jared Kushner und Steve Witkoff sowie die Teilnahme eines europäischen Teams laut Selenskyj."
+      },
+      {
+        "name": "t-online Nachrichten",
+        "note": "Erwähnt zusätzlich ein mögliches Treffen des Kremlchefs mit Altkanzler Gerhard Schröder 'zu Hause' und verweist auf einen allgemeinen Newsblog."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-29d4825bb7e3fbe2",
     "c": "INT",
     "o": "DE",

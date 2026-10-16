@@ -1,5 +1,683 @@
 [
   {
+    "id": "story-8292fdb41ca5840d",
+    "c": "INT",
+    "o": "INT",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-16T03:23:21.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Vier Tote bei Amoklauf an Grundschule im US-Bundesstaat Oregon",
+    "s": "Bei einer Schießerei an einer Grundschule in Bend im US-Bundesstaat Oregon wurden vier Menschen getötet. Ein 16-jähriger Verdächtiger eröffnete das Feuer auf dem Gelände. Neben den Todesopfern erlitten ein weiteres Kind und ein Lehrer schwere Verletzungen. Der mutmaßliche Täter wurde tot aufgefunden.",
+    "m": "Die Bluttat ereignete sich an einer Grundschule in der Stadt Bend in Oregon. Ein 16-jähriger Verdächtiger feuerte wahllos auf Menschen und riss vier Personen in den Tod. Unter den Opfern befinden sich drei Kinder im Alter von fünf, acht und elf Jahren sowie eine Lehrkraft. Zwei weitere Personen, ein Kind und eine Lehrkraft, wurden bei dem Amoklauf kritisch verletzt und in Krankenhäuser eingeliefert. Der Schütze wurde kurz nach der Tat tot am Tatort aufgefunden, wobei die genauen Umstände seines Todes zunächst unklar blieben. Die Hintergründe der Tat und das Motiv des Jugendlichen sind Gegenstand laufender Ermittlungen der örtlichen Behörden.",
+    "r": "Schulmassaker mit mehreren Todesopfern werfen erneut Fragen zur Waffensicherheit und zur psychischen Verfassung von Jugendlichen in den USA auf. Die Tat verdeutlicht die anhaltende Bedrohung durch Waffengewalt an Bildungseinrichtungen.",
+    "srcs": [
+      {
+        "name": "Euronews",
+        "url": "https://www.euronews.com/2026/10/16/four-killed-in-oregon-elementary-school-shooting-including-three-children-aged-5-to-11",
+        "date": "2026-10-16T03:23:21.000Z"
+      },
+      {
+        "name": "France24 English",
+        "url": "https://www.france24.com/en/americas/20261015-two-hospitalised-after-shooting-at-oregon-elementary-school-gunman-dead",
+        "date": "2026-10-16T00:57:46.000Z"
+      }
+    ],
+    "url": "https://www.euronews.com/2026/10/16/four-killed-in-oregon-elementary-school-shooting-including-three-children-aged-5-to-11",
+    "agree": "Beide Quellen stimmen darin überein, dass bei einer Schießerei an einer Schule in Oregon vier Menschen, darunter drei Kinder, getötet wurden.",
+    "diff": [
+      {
+        "name": "Euronews",
+        "note": "Berichtet detailliert, dass es sich um eine Grundschule in Bend handelte, nennt das Alter der getöteten Kinder (5, 8 und 11 Jahre) sowie den getöteten Lehrer, beziffert den Verdächtigen auf 16 Jahre und erwähnt zwei Schwerverletzte (ein Kind und einen Lehrer) sowie den Tod des Ve"
+      },
+      {
+        "name": "France24 English",
+        "note": "Beschränkt sich auf die Kernaussage, dass vier Menschen inklusive drei Kindern bei einer Schulschießerei in Oregon starben."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-0d03889f9334f126",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-16T03:04:39.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "VW bereitet Rückruf von E-Autos wegen fehlerhafter Batteriezellen vor",
+    "s": "Wegen Qualitätsmängeln bei Batteriezellen plant der Autobauer Volkswagen einen Rückruf für bestimmte Elektroauto-Modelle. Im Extremfall besteht durch den Mangel die Gefahr eines Brandes. Betroffen sind nach Angaben von Medienberichten je nach Quelle einige Tausend bis hin zu Millionen Fahrzeugen. Der neue Mangel folgt kurz auf einen erst wenige Wochen zurückliegenden Rückruf wegen einer fehlerhaften Schraube.",
+    "m": "Volkswagen steht vor einem neuen Rückruf von Elektrofahrzeugen, nachdem Qualitätsmängel bei Batteriezellen festgestellt wurden. Im Extremfall droht den betroffenen E-Autos ein Brand. Das Unternehmen bereitet die entsprechenden Maßnahmen zur Beseitigung des Mangels derzeit vor. Dieser Vorfall ereignet sich nur wenige Wochen nach einem massiven Rückruf von Millionen Fahrzeugen, der durch eine fehlerhafte Schraube ausgelöst worden war. Die genaue Zahl der nun betroffenen Fahrzeuge wird in den Quellen unterschiedlich beziffert, wobei von einigen Tausend bis zu Millionen die Rede ist. Die Redaktion prüft die Hintergründe und den genauen zeitlichen Ablauf des neuen Rückrufs. Offen bleibt bislang, welche konkreten Modelle im Detail zurückgerufen werden müssen und wann die Aktion offiziell startet.",
+    "r": "Der erneute Rückruf bei Volkswagen kurz nach einer Großaktion wirft Fragen zur Qualitätssicherung bei E-Autos auf. Zudem ist die potenzielle Brandgefahr durch fehlerhafte Batteriezellen ein sicherheitsrelevantes Problem für Halter und Hersteller.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/wirtschaft/2026-10/vw-rueckruf-batterie-elektroautos-id3-id4",
+        "date": "2026-10-16T03:04:39.000Z"
+      },
+      {
+        "name": "Rheinische Post",
+        "url": "https://rp-online.de/wirtschaft/unternehmen/brandgefahr-vw-bereitet-rueckruf-wegen-fehlerhafter-batteriezellen-vor_aid-156638219",
+        "date": "2026-10-15T17:24:00.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/wirtschaft/2026-10/vw-rueckruf-batterie-elektroautos-id3-id4",
+    "agree": "Volkswagen bereitet einen neuen Rückruf wegen Mängeln an E-Autos vor.",
+    "diff": [
+      {
+        "name": "ZEIT ONLINE",
+        "note": "nennt konkret fehlerhafte Batteriezellen und beziffert die betroffenen Fahrzeuge auf einige Tausend."
+      },
+      {
+        "name": "Rheinische Post",
+        "note": "verknüpft den Vorfall mit einem erst wenige Wochen zurückliegenden Rückruf von Millionen Fahrzeugen wegen einer fehlerhaften Schraube."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-cf4bbc86517cc53f",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-16T03:01:39.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Mexiko sperrt nach Amöben-Tod sechs Seen in Yucatán",
+    "s": "Nach dem Tod eines Wasserskilehrers durch eine Infektion mit einer sogenannten hirnfressenden Amöbe in Mexiko haben die Behörden in der Urlaubsregion Yucatán reagiert. Insgesamt wurden sechs Seen gesperrt, um eine weitere Ausbreitung zu verhindern. Der Vorfall hat in der Region große Besorgnis ausgelöst, da derartige Infektionen extrem selten sind.",
+    "m": "Ein Wasserskilehrer ist in Mexiko verstorben, nachdem er sich mit einer gefährlichen Amöbe infiziert hatte, die eine schwere Hirninfektion verursachte. Als Reaktion auf diesen tragischen Todesfall ordneten die Behörden in der Region Yucatán die Schließung des betroffenen Sees sowie von fünf weiteren Gewässern an. Ziel dieser Maßnahme ist es, die Bevölkerung und Touristen vor weiteren Infektionen zu schützen. Infektionen durch diesen Parasiten gelten medizinisch als äußerst selten, verlaufen jedoch in der überwiegenden Mehrheit der Fälle tödlich. Der Vorfall und die darauf folgenden Sperrungen werfen Fragen zur Sicherheit in stehenden Gewässern der betroffenen Urlaubsregion auf.",
+    "r": "Der Fall zeigt die gesundheitlichen Risiken durch seltene, aber hochgefährliche Parasiten in Gewässern auf. Die behördlichen Sperrungen von sechs Seen in einer Urlaubsregion sind eine direkte Maßnahme zum Schutz der Öffentlichkeit.",
+    "srcs": [
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/vermischtes/article6ad19174199dc15f1abd5aec/merida-nach-tod-durch-hirnfressende-amoebe-mexiko-sperrt-sechs-seen.html",
+        "date": "2026-10-16T03:01:39.000Z"
+      },
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/panorama/gefaehrlicher-parasit--nach-tod-durch--hirnfressende-amoebe---mexiko-sperrt-seen-38405094.html",
+        "date": "2026-10-16T02:05:19.000Z"
+      }
+    ],
+    "url": "https://www.welt.de/vermischtes/article6ad19174199dc15f1abd5aec/merida-nach-tod-durch-hirnfressende-amoebe-mexiko-sperrt-sechs-seen.html",
+    "agree": "Beide Quellen berichten über die Sperrung von sechs Seen in Mexiko nach dem Tod eines Mannes durch eine hirnfressende Amöbe.",
+    "diff": [
+      {
+        "name": "WELT",
+        "note": "Erwähnt konkret, dass das Opfer ein Wasserskilehrer war."
+      },
+      {
+        "name": "stern",
+        "note": "Gibt an, dass die Sperrungen in der Urlaubsregion Yucatán erfolgten und dass die Infektionen extrem selten sind, aber fast immer tödlich verlaufen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-52bc3c4ecc8b45f7",
+    "c": "INT",
+    "o": "UK",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-16T03:01:38.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Vier Tote bei Amoklauf an Grundschule in Oregon",
+    "s": "Bei einem Amoklauf an einer Grundschule im US-Bundesstaat Oregon sind drei Kinder und eine Lehrkraft getötet worden. Der mutmaßliche Täter, ein 16-Jähriger, wurde von einem Anwohner erschossen. Die Polizei äußerte sich zu den Hintergründen des Vorfalls.",
+    "m": "Der bewaffnete Vorfall ereignete sich an einer Grundschule in Oregon. Der mutmaßliche Täter war erst 16 Jahre alt und drang in das Gebäude ein. Ein örtlicher Anwohner beziehungsweise Bystander folgte dem Jugendlichen in die Schule und erschoss ihn, wodurch möglicherweise noch schlimmeres verhindert wurde. Die Opferzahl beläuft sich auf insgesamt vier Tote, darunter drei Kinder und eine Lehrkraft. Der Polizeichef aus Bend in Oregon übernahm die Bekanntgabe der Details und bestätigte die Identität des Schützen sowie dessen Tod durch den Anwohner. Weitere Einzelheiten zum Motiv oder zum genauen Tathergang wurden zunächst nicht bekannt gegeben.",
+    "r": "Schulmassaker mit mehreren Todesopfern werfen erneut Sicherheitsfragen an US-Bildungseinrichtungen auf. Das Eingreifen von Zivilisten beziehungsweise Anwohnern bei solchen Taten unterstreicht die Rolle von bewaffneten Bürgern in Krisensituationen.",
+    "srcs": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-16T03:01:38.000Z"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting?traffic_source=rss",
+        "date": "2026-10-15T22:51:56.000Z"
+      }
+    ],
+    "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
+    "agree": "Beide Quellen stimmen überein, dass bei einer Schießerei an einer Grundschule in Oregon drei Kinder und eine Lehrkraft getötet wurden, der 16-jährige Täter von einem Anwohner bzw. Bystander erschossen wurde.",
+    "diff": [
+      {
+        "name": "BBC World",
+        "note": "Erwähnt, dass es sich um eine 'primary school' handelt und der Schütze von einem 'local community member' verfolgt und getötet wurde."
+      },
+      {
+        "name": "Al Jazeera",
+        "note": "Nennt den Polizeichef in Bend, Oregon, als Informanten und bezeichnet den Schützen-Stopper als 'bystander'."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-64875a64fab023dd",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-16T02:40:48.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Trump kritisiert ukrainische Angriffe auf russische Industrieanlagen",
+    "s": "US-Präsident Trump hat ukrainische Angriffe auf russische Industrieanlagen als eine Schande bezeichnet. Die Äußerung fällt in eine Phase anhaltender Angriffe mit russischen Drohnen und ukrainischen Gegenreaktionen. In Kiew ist infolge der Lage der Strom ausgefallen.",
+    "m": "Die Ukraine hat laut Berichten die Energie-Waffenruhe aufgehoben, nachdem das Land zuvor täglich von russischen Drohnen heimgesucht worden war. In diesem Zusammenhang kam es zu einem ukrainischen Angriff auf eine russische Raffinerie in Russland. US-Präsident Trump kritisierte diese ukrainischen Industrieangriffe scharf und nannte sie eine Schande. Unterdessen ist in der ukrainischen Hauptstadt Kiew der Strom ausgefallen. Die Entwicklungen verdeutlichen die anhäufende Eskalation im Ukraine-Krieg im Bereich der Energie- und Infrastrukturangriffe.",
+    "r": "Die Äußerungen des US-Präsidenten Trump zur ukrainischen Kriegsführung und der Stromausfall in Kiew sind von geopolitischer Bedeutung. Sie beleuchten die Haltung internationaler Akteure zum Verlauf und zur Eskalation des Ukraine-Krieges.",
+    "srcs": [
+      {
+        "name": "t-online Nachrichten",
+        "url": "https://www.t-online.de/nachrichten/ukraine/id_101477082/news-zum-ukraine-krieg-trump-nennt-ukrainische-angriffe-schande-.html",
+        "date": "2026-10-16T02:40:48.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/ausland/article6ad1855c199dc15f1abd5a8a/kriegswende-trump-nennt-ukrainische-angriffe-auf-russische-raffinerie-eine-schande.html",
+        "date": "2026-10-16T02:14:56.000Z"
+      }
+    ],
+    "url": "https://www.t-online.de/nachrichten/ukraine/id_101477082/news-zum-ukraine-krieg-trump-nennt-ukrainische-angriffe-schande-.html",
+    "agree": "Beide Quellen stimmen überein, dass US-Präsident Trump ukrainische Angriffe auf russische Industrieanlagen bzw. Raffinerien als Schande bezeichnet hat.",
+    "diff": [
+      {
+        "name": "t-online Nachrichten",
+        "note": "Erwähnt zusätzlich, dass in Kiew der Strom ausgefallen ist."
+      },
+      {
+        "name": "WELT",
+        "note": "Berichtet, dass die Ukraine die Energie-Waffenruhe aufgehoben hat, da sie zuvor täglich von russischen Drohnen heimgesucht wurde, und nennt konkret den Angriff auf eine russische Raffinerie."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-a1570deb3f607452",
+    "c": "INT",
+    "o": "UK",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-16T01:58:52.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Mehrere Waldbrände in Kalifornien wegen Hitze und starkem Wind ausgebrochen",
+    "s": "In Kalifornien haben am Donnerstag mehrere Waldbrände begonnen, angefacht durch hohe Temperaturen und starken Wind. Der größte Brand, das sogenannte Henderson-Feuer, brach auf dem Militärstützpunkt Camp Pendleton bei San Diego aus und erfasste über 1.000 Hektar. Behörden verhängten Evakuierungen und sperrten zeitweise einen Abschnitt der Interstate 5. Die Region stellt sich auf weitere extreme Wetterbedingungen und eine beschleunigte Ausbreitung der Feuer in den kommenden Tagen ein.",
+    "m": "Am Donnerstag sind im US-Bundesstaat Kalifornien infolge extremer Hitze und starker Winde mehrere Waldbrände ausgebrochen. Die Behörden haben für die betroffenen Gebiete Evakuierungen angeordnet. Das größte betroffene Feuer trägt den Namen Henderson-Feuer und ist auf dem Marine-Truppenübungsplatz Camp Pendleton nahe San Diego entstanden. Binnen kurzer Zeit hat dieses Feuer eine Fläche von über 1.000 Acres vernichtet. Als Sicherheitsmaßnahme wurde zudem ein Teilstück der wichtigen Autobahn Interstate 5 vorübergehend gesperrt. Meteorologen und Rettungskräfte warnen, dass die Wetterlage mit starkem Wind und schwerer Hitze in den nächsten Tagen anhält und eine rasche Ausbreitung der Flammen begünstigt. Weitere Details zu möglichen Verletzten, betroffenen zivilen Gebäuden oder der genauen Brandursache wurden in den vorliegenden Berichten noch nicht genannt.",
+    "r": "Die Waldbrände gefährden die öffentliche Sicherheit, Infrastruktur wie wichtige Autobahnen und erfordern Evakuierungen in Kalifornien. Angesichts ungünstiger Wettervorhersagen mit Hitze und Wind besteht die Gefahr einer weiteren Ausbreitung.",
+    "srcs": [
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/oct/15/wildfire-california-high-temperatures-strong-winds",
+        "date": "2026-10-16T01:58:52.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ2RpN0RseGw1T1RYQnBBc0d6REd5VV9TS0JCdFctdV9qREtxMDJuclFRbG1lUVRXTTVJUk5uSl9JUW9uMmc4Tk9JNzltc3Bsem1Qc0Z3TzN5TlVxY0ZCU1U4dTRNOE91ZF9keW5fY2tnTjRuU2JMbHUtT0xzVzZIYXF1Qll0cUV1QU9HSGZhMHk1LVdjMUF0UnZWNUZvVTQ?oc=5",
+        "date": "2026-10-15T20:56:00.000Z"
+      }
+    ],
+    "url": "https://www.theguardian.com/us-news/2026/oct/15/wildfire-california-high-temperatures-strong-winds",
+    "agree": "Die Quellen stimmen überein, dass in Kalifornien mehrere Waldbrände unter dem Einfluss von Hitze und Wind ausgebrochen sind und Evakuierungen veranlasst wurden.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Verweist lediglich auf den Artikel des Guardian und liefert keine eigenständigen Details."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-1d7b9ff8834ce641",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-16T01:57:54.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "EZB genehmigt Unicredit-Übernahmepläne für die Commerzbank",
+    "s": "Die italienische Großbank Unicredit hat von der Europäischen Zentralbank die offizielle Genehmigung für eine mögliche Übernahme der Commerzbank erhalten. Damit hat das Kreditinstitut eine wichtige Hürde in dem Prozess genommen. Die Bemühungen um den Zusammenschluss laufen nach Angaben von Medien bereits seit zwei Jahren. Nun müssen weitere Schritte und mögliche Widerstände geklärt werden.",
+    "m": "Die italienische Großbank Unicredit strebt seit zwei Jahren eine Übernahme der Commerzbank an und hat nun eine wesentliche regulatorische Hürde genommen. Die Europäische Zentralbank hat dem Vorhaben grünes Licht erteilt, wie aus Berichten hervorgeht. Bislang gab es langem Widerstand gegen die Annäherung der beiden Bankhäuser. Die aktuelle Entscheidung der EZB ist ein zentraler Meilenstein für das Vorhaben der Italiener. Ob die Übernahme letztlich erfolgreich sein wird, hängt von weiteren behördlichen Prüfungen, den Märkten und den beteiligten Akteuren ab. Konkrete Details zu den nächsten Schritten oder Angeboten wurden in den Meldungen zunächst nicht genannt. Die Entwicklung wird von Beobachtern genau verfolgt, da ein solcher Zusammenschluss den europäischen Bankensektor maßgeblich verändern könnte. Offen bleibt weiterhin, wie die Commerzbank und andere beteiligte Parteien auf die erteilte Genehmigung reagieren.",
+    "r": "Die Freigabe durch die EZB ist ein zentraler regulatorischer Schritt bei grenzüberschreitenden Bankübernahmen in Europa. Ein Zusammenschluss von Unicredit und Commerzbank hätte erhebliche Auswirkungen auf den Finanzmarkt.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/unicredit-erhaelt-gruenes-licht-der-ezb-fuer-uebernahme-der-commerzbank-106.html",
+        "date": "2026-10-16T01:57:54.000Z"
+      },
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/wirtschaft/ezb-uebernahme-commerzbank-100.html",
+        "date": "2026-10-15T19:53:38.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/unicredit-erhaelt-gruenes-licht-der-ezb-fuer-uebernahme-der-commerzbank-106.html",
+    "agree": "Beide Quellen stimmen überein, dass die italienische Großbank Unicredit von der EZB grünes Licht für eine Übernahme der Commerzbank erhalten hat.",
+    "diff": [
+      {
+        "name": "Tagesschau",
+        "note": "Erwähnt zusätzlich, dass sich die Unicredit bereits seit zwei Jahren um die Commerzbank bemüht und es zuvor langen Widerstand gab."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-0fe2fe6591d587dc",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-16T01:57:54.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Proteste gegen Regierung in Albanien weiten sich aus",
+    "s": "In Albanien haben sich die landesweiten Proteste gegen die Regierung und die Situation an den Hochschulen weiter ausgedehnt. Die Kundgebungen werden zunehmend von gewaltsamen Auseinandersetzungen begleitet. Dabei kommt es unter anderem zu Sachbeschädigungen und dem Einsatz von Tränengas durch die Polizei. Die genauen Hintergründe und weiteren Reaktionen der Behörden sind Gegenstand der aktuellen Entwicklung.",
+    "m": "Die Demonstrationen in Albanien, die sich ursprünglich gegen schlechte Zustände an den Hochschulen richteten, haben sich zu breiten Protesten gegen die Regierung ausgeweitet. Die Lage hat sich in den vergangenen Tagen verschärft und wird zunehmend gewaltsam. Medienberichten zufolge werfen Studierende Scheiben ein, während die Polizei mit Tränengas reagiert, um die Situation zu kontrollieren. Es ist von einer zunehmenden Dynamik und einer wachsenden Beteiligung auszugehen, während die Ausschreitungen anhalten. Die Proteste legen strukturelle Probleme im Bildungssektor sowie allgemeine politische Unzufriedenheit offen. Weitere Details zu Verletzten, Festnahmen oder offiziellen Stellungnahmen der Regierung liegen im Rahmen der Berichterstattung bislang nicht vor.",
+    "r": "Die Ausweitung der Proteste und die zunehmende Gewalt in Albanien sind ein bedeutendes innenpolitisches Ereignis, das die Stabilität des Landes betrifft. Die Eskalation zwischen Studierenden und Sicherheitskräften verdeutlicht die aktuelle gesellschaftliche Anspannung in der Region.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/proteste-gegen-regierung-in-albanien-weiten-sich-aus-102.html",
+        "date": "2026-10-16T01:57:54.000Z"
+      },
+      {
+        "name": "DW Deutsch",
+        "url": "https://www.dw.com/de/albanien-proteste-gegen-regierung-weiten-sich-aus/a-79671388?maca=de-rss-de-all-1119-xml-mrss",
+        "date": "2026-10-15T14:59:00.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/proteste-gegen-regierung-in-albanien-weiten-sich-aus-102.html",
+    "agree": "Beide Quellen stimmen darin überein, dass sich die Proteste gegen die Regierung in Albanien und gegen Zustände an den Hochschulen ausweiten.",
+    "diff": [
+      {
+        "name": "DW Deutsch",
+        "note": "Berichtet konkret über Gewalt und Details wie eingeworfene Scheiben durch Studierende und den Einsatz von Tränengas durch die Polizei."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-ef0b4870713c31c9",
+    "c": "INT",
+    "o": "UK",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-16T01:53:19.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Amoklauf an Grundschule in Oregon: Vier Tote und zwei Verletzte",
+    "s": "Bei einer Schießerei an einer Grundschule im US-Bundesstaat Oregon sind am Donnerstag vier Menschen getötet worden, darunter drei Kinder und eine Lehrkraft. Ein 16-jähriger Tatverdächtiger eröffnete das Feuer im Silver Rail Elementary School in Bend. Der Jugendliche wurde von einem anwesenden Bürger erschossen.",
+    "m": "Der Vorfall ereignete sich am Donnerstag an der Silver Rail Elementary School in Bend, Oregon. Ein 16-jähriger Schütze drang in die Grundschule ein und tötete drei Kinder im Alter von fünf, achten und elf Jahren sowie eine Lehrkraft. Zwei weitere Personen erlitten Verletzungen und befinden sich in kritischem beziehungsweise schwerem Zustand im Krankenhaus. Der mutmaßliche Täter wurde im Gebäude von einem Gemeindemitglied verfolgt und getötet. Behörden gaben die Details auf einer abendlichen Pressekonferenz bekannt. Weitere Hintergründe zum Motiv des Jugendlichen sind derzeit noch nicht bekannt.",
+    "r": "Schulschießereien in den USA mit tödlichem Ausgang verdeutlichen anhaltende Probleme mit Waffengewalt und die Rolle von Zivilpersonen bei der Beendigung akuter Gefahrenlagen. Die Ereignisse erfordern umfassende Aufklärung und lösen internationale Betroffenheit aus.",
+    "srcs": [
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/oct/15/oregon-elementary-school-shooting",
+        "date": "2026-10-16T01:53:19.000Z"
+      },
+      {
+        "name": "France24 English",
+        "url": "https://www.france24.com/en/americas/20261015-two-hospitalised-after-shooting-at-oregon-elementary-school-gunman-dead",
+        "date": "2026-10-15T21:58:33.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONTNGNjRGRC1WTzA5OXI5TDZiRUtDcV9PakRXeEhiaVJuSDhrUHl4UWoweDVDRkx6TXEwWjVjSnlrUklNa0JXRWZjQ0dzN1pKeW9HNXZOS0trcXNQcUNkanRjelo3YjM4eDBTTU1Tel9OdHcyV2xkUlpYX2dNSllwX3RWY1Ruc2Rt?oc=5",
+        "date": "2026-10-15T21:41:00.000Z"
+      }
+    ],
+    "url": "https://www.theguardian.com/us-news/2026/oct/15/oregon-elementary-school-shooting",
+    "agree": "Alle Quellen stimmen überein, dass ein 16-jähriger Schütze an einer Grundschule in Bend, Oregon, drei Kinder und eine Lehrkraft getötet hat, bevor er von einem anwesenden Bürger erschossen wurde.",
+    "diff": [
+      {
+        "name": "Guardian World",
+        "note": "Berichtet, dass sich zwei Personen in kritischem Zustand im Krankenhaus befinden."
+      },
+      {
+        "name": "France24 English",
+        "note": "Erwähnt, dass insgesamt zwei weitere Personen verwundet wurden und der bewaffnete Bürger den Täter im Gebäude verfolgte."
+      },
+      {
+        "name": "Google News World",
+        "note": "Verweist lediglich auf den Bericht des Guardian und bietet keine eigenständigen Zusatzinformationen."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
+    "id": "story-de7d41dd404a3864",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-16T00:31:00.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Fünf Tote nach Gewalttat an Grundschule im US-Bundesstaat Oregon",
+    "s": "An einer Grundschule im US-Bundesstaat Oregon hat sich eine gewaltsame Attacke ereignet. Nach ersten Berichten gab es mehrere Todesopfer, darunter auch den mutmaßlichen Täter. Die genauen Hintergründe der Bluttat sind derzeit noch unklar.",
+    "m": "Im US-Bundesstaat Oregon kam es an einer Grundschule zu einer folgenschweren Gewalttat, bei der nach aktuellen Medienberichten fünf Menschen ums Leben kamen. Unter den Todesopfern befindet sich auch der Angreifer, bei dem es sichsten Angaben zufolge um einen Teenager handeln soll. Rettungskräfte und Polizei waren im Großeinsatz vor Ort, um das Schulgelände zu sichern und die Hintergründe der Attacke zu untersuchen. Bislang gibt es keine offiziellen Details zu den Motiven des mutmaßlichen jugendlichen Täters oder zum exakten Hergang des Verbrechens. Die Schulgemeinschaft und die Behörden stehen vor der Aufarbeitung dieses tragischen Vorfalls. Weitere offizielle Mitteilungen der Ermittlungsbehörden zum genauen Tathergang und zu den Identitäten der Opfer werden im Laufe der weiteren Untersuchungen erwartet.",
+    "r": "Die Meldung ist von großer gesellschaftlicher und sicherheitspolitischer Relevanz, da es sich um eine Gewalttat an einer Bildungseinrichtung mit mehreren Todesopfern handelt. Sie verdeutlicht erneut die Problematik von Waffengewalt an Schulen in den Vereinigten Staaten.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYXZsVzB1THVHSVgwdmpURndwMWJMVndvZlhoS1pWUUpJWnYtRVZEYjNXb1BxNzRFZzhUVk5QVTNTWjF1VW5sbHNabFZWeDVVT1ptWTJReHVqSzFVSnFmeVRCNkRxMVg4OXVnQzFqT2VKcTF5QlZieW5DdExGdjdoTzlDZHV4cmttMEZScFIwdGozZXdPR0tzZ2VhTGVuTV9aVjd6SHlGMDcwWUp6S1hzaFBQZG5nTGdOdmJQejRBV3RCUUIwcUVobUlST0lIcS00VXc?oc=5",
+        "date": "2026-10-16T00:31:00.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/panorama/oregon-fuenf-tote-nach-gewalttat-an-grundschule-im-westen-der-usa-a-7cbb1a35-5486-409b-b682-60c9508d7a00#ref=rss",
+        "date": "2026-10-16T00:31:00.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYXZsVzB1THVHSVgwdmpURndwMWJMVndvZlhoS1pWUUpJWnYtRVZEYjNXb1BxNzRFZzhUVk5QVTNTWjF1VW5sbHNabFZWeDVVT1ptWTJReHVqSzFVSnFmeVRCNkRxMVg4OXVnQzFqT2VKcTF5QlZieW5DdExGdjdoTzlDZHV4cmttMEZScFIwdGozZXdPR0tzZ2VhTGVuTV9aVjd6SHlGMDcwWUp6S1hzaFBQZG5nTGdOdmJQejRBV3RCUUIwcUVobUlST0lIcS00VXc?oc=5",
+    "agree": "Die Quellen stimmen überein, dass es an einer Grundschule in Oregon eine tödliche Gewalttat gab, bei der auch der mutmaßliche Täter tot ist.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Berichtet in der Überschrift von insgesamt fünf Toten."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Nennt im Fließtext mindestens vier Todesopfer und erwähnt, dass es sich beim Täter um einen Teenager handeln soll."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-477aeaf5d94d934c",
+    "c": "INT",
+    "o": "UK",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-16T00:27:21.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Houthi-Raketen schlagen im Präsidentenpalast in Aden ein",
+    "s": "Houthi-Rebellen haben den Präsidentenpalast im südjemenitischen Aden mit Raketen angegriffen. Nach Angaben der Regierung kamen dabei fünf Menschen ums Leben. Es handelt sich um den ersten Angriff auf den Al-Maashiq-Palast im aktuellen Konflikt.",
+    "m": "Der Raketenangriff ereignete sich am Donnerstag auf den Al-Maashiq-Palast in der südjemenitischen Hafenstadt Aden. Der Palast dient als Sitz der international anerkannten und von Saudi-Arabien unterstützten Regierung des Jemen. Die vom Iran unterstützten Houthi-Rebellen feuerten die Geschosse auf den Komplex ab, was nach Regierungsangaben fünf Todesopfer forderte. Die Koalition unter Führung Saudi-Arabiens listete derweil Dutzende Angriffe der Houthis auf saudische Infrastruktur in den vergangenen Wochen auf. Der Vorfall markiert den ersten direkten Einschlag am Präsidentenpalast in Aden im Rahmen der jüngsten Kämpfe zwischen den Konfliktparteien. Weitere Einzelheiten zu den Opfern oder den genauen Schäden wurden zunächst nicht bekannt gegeben.",
+    "r": "Der Angriff auf den Regierungssitz im Jemen verdeutlicht die Eskalation des Konflikts zwischen den Houthi-Rebellen und der saudisch geführten Koalition. Solche direkten Angriffe auf Schlüsselorte gefährden die Stabilität der international anerkannten Regierung zusätzlich.",
+    "srcs": [
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/15/houthi-missiles-strike-aden-yemen",
+        "date": "2026-10-16T00:27:21.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbkFOY3lPYnZzY2JhR0RfeEUtQU1lZDVLU1N4a254d1Z6ZmlLM25LUm12Q2tudk1VOU9oR0xSaW92aUJEUlgyWWJ5NVQzVEJNb0dzU21MWWlXcU5JNkVKWlE5eVBteEItT3RXSHRvY2djQTFkOGNIUFVuVXRERUItcnMtSl9hdw?oc=5",
+        "date": "2026-10-15T20:00:00.000Z"
+      }
+    ],
+    "url": "https://www.theguardian.com/world/2026/oct/15/houthi-missiles-strike-aden-yemen",
+    "agree": "Die Quellen sind sich einig, dass Houthi-Raketen den Präsidentenpalast im jemenitischen Aden getroffen und dabei fünf Menschen getötet haben.",
+    "diff": [
+      {
+        "name": "Guardian World",
+        "note": "Berichtet detailliert über den Angriff auf den Al-Maashiq-Palast, die Opferzahl von fünf Toten, den Hintergrund des Konflikts sowie die Liste der saudisch geführten Koalition über Houthi-Angriffe auf saudische Infrastruktur."
+      },
+      {
+        "name": "Google News World",
+        "note": "Teilt lediglich die Überschrift und verweist auf den Artikel des Guardian."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-8a47f4a614708d1f",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-16T00:26:59.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Entlassene FBI-Agenten nach Ermittlungen gegen Trump klagen auf Wiedereinstellung",
+    "s": "Neun FBI-Agenten, die in der Vergangenheit gegen Donald Trump ermittelt hatten, wurden nach dessen Amtsantritt entlassen. Nun haben sie Klage eingereicht, um ihre Wiedereinstellung zu erwirken. Die US-Regierung geht davon aus, dass in naher Zukunft noch weitere derartige Klagen folgen werden.",
+    "m": "Die betroffenen neun Beamten werfen der Regierung vor, mit den Entlassungen persönliche Rache des Präsidenten zu befriedigen. Der Zeitpunkt der Entlassung fiel direkt mit der Amtseinführung von Donald Trump zusammen, nachdem die Agenten zuvor in Verfahren gegen ihn involviert waren. Die Kläger fordern nun vor Gericht ihre rechtmäßige Wiedereinstellung beim Bundeskriminalamt. Vertreter der Regierung rechnen angesichts der Personalentscheidungen mit weiteren rechtlichen Schritten und zusätzlichen Klagen anderer Betroffener. Bislang gibt es keine offiziellen Stellungnahmen der beteiligten Regierungsbehörden zu den konkreten Vorwürfen der Kläger.",
+    "r": "Die Klage von FBI-Agenten gegen ihre Entlassung nach Ermittlungen gegen den US-Präsidenten berührt Fragen der Rechtssicherheit und des politischen Einflusses auf Bundesbehörden. Der Fall könnte weitreichende Konsequenzen für den Umgang mit kritischen Beamten unter der Regierung Trump haben.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQS1UxSTIwOHhWakJRQUVUd2JBTHZjZWhsVlJRN2ViRUVidUE5ZDEwRHJ4TFBtd3g3ZURWMkt2RlQ4RFFvLXZsUjYyQmxySlhzVXVaTk5KZUVJdG9TQ0I2Y3VkUlJ5U1JmMHNnbzJ1MU1QZ21KaGZOY0dNOUVfak94dW9JY2ZET1JfXzZLb2wzSHRJUWdGN0FJUE9ySG52RS1kcy14LWJxSHhOdmxYM1lWSzc5dFU1NW9rQWktNmYxSVRzaXp6UXhpVlBJVHZSY0xsUGdYTGRJd1g4LXlSbG1OTUdfU2VzYUNsN0ZpVTA1T29YOXZaZWV1SnlVQU0?oc=5",
+        "date": "2026-10-16T00:26:59.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/ausland/article6ad16c9c199dc15f1abd5a38/usa-persoenliche-rache-des-praesidenten-zu-befriedigen-fbi-agenten-klagen-auf-wiedereinstellung.html",
+        "date": "2026-10-16T00:22:41.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQS1UxSTIwOHhWakJRQUVUd2JBTHZjZWhsVlJRN2ViRUVidUE5ZDEwRHJ4TFBtd3g3ZURWMkt2RlQ4RFFvLXZsUjYyQmxySlhzVXVaTk5KZUVJdG9TQ0I2Y3VkUlJ5U1JmMHNnbzJ1MU1QZ21KaGZOY0dNOUVfak94dW9JY2ZET1JfXzZLb2wzSHRJUWdGN0FJUE9ySG52RS1kcy14LWJxSHhOdmxYM1lWSzc5dFU1NW9rQWktNmYxSVRzaXp6UXhpVlBJVHZSY0xsUGdYTGRJd1g4LXlSbG1OTUdfU2VzYUNsN0ZpVTA1T29YOXZaZWV1SnlVQU0?oc=5",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-e9d34d5177e434e8",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-16T00:14:07.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Porsche präsentiert Design des neuen Supersportwagens „Mission S“",
+    "s": "Der Sportwagenhersteller Porsche hat das Design eines neuen Supersportwagens namens „Mission S“ vorgestellt. Das Fahrzeug gibt einen Vorgeschmack auf die künftige Ausrichtung des Unternehmens. Porsche plant, in Zukunft weniger, dafür aber exklusivere und teurere Luxusautos zu verkaufen.",
+    "m": "Der Sportwagenhersteller Porsche hat das Design seines neuen Supersportwagens mit der Bezeichnung „Mission S“ öffentlich gemacht. Mit diesem Modell gibt das Unternehmen einen konkreten Vorgeschmack auf seine neue strategische Ausrichtung. Diese sieht vor, künftig in geringeren Stückzahlen zu produzieren, dafür aber auf den Verkauf teurerer Luxusautos zu setzen. Weitere Details zur Technik, zum genauen Erscheinungsdatum oder zum Preis wurden in den Berichten zunächst nicht genannt. Die Präsentation markiert einen wichtigen Schritt in der Neuausrichtung der Marken- und Produktstrategie des Sportwagenbauers.",
+    "r": "Die Präsentation des Supersportwagens gibt Einblick in die künftige Luxus- und Verkaufsstrategie von Porsche. Die Neuausrichtung des Herstellers auf exklusivere Modelle ist wirtschaftlich von Bedeutung.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeFJFTzZpbEhwQml0czhzU1hjRnhJZEtwRi03UzVVUWtsTFd3OEg2VnFhZlhfR0FVOS0xOFhWNWFlZ05VNE81RTlkVTdaNFZ1bEdPLXF4TjFOVE00aDVKNURrN3J4NlhYUlM0amNoOUJMX25FdjUxUVJ1TkdVdldMcXRQUWZuV21FTDhvMzJmWUxlX3VDZDI2dk03dUNWcVlRYndGdXBjWExXN0V5QlJpaDRadjVZckxzT2tVT3ZnVXVqeWY0?oc=5",
+        "date": "2026-10-16T00:14:07.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/wirtschaft/porsche-praesentiert-design-des-neuen-supersportwagens-mission-s-AKCHVYPS6NFXRH7SCDLPYOXYAQ.html",
+        "date": "2026-10-16T00:14:07.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeFJFTzZpbEhwQml0czhzU1hjRnhJZEtwRi03UzVVUWtsTFd3OEg2VnFhZlhfR0FVOS0xOFhWNWFlZ05VNE81RTlkVTdaNFZ1bEdPLXF4TjFOVE00aDVKNURrN3J4NlhYUlM0amNoOUJMX25FdjUxUVJ1TkdVdldMcXRQUWZuV21FTDhvMzJmWUxlX3VDZDI2dk03dUNWcVlRYndGdXBjWExXN0V5QlJpaDRadjVZckxzT2tVT3ZnVXVqeWY0?oc=5",
+    "agree": "Die Quellen sind sich einig, dass Porsche das Design eines neuen Supersportwagens präsentiert hat und künftig weniger, aber teurere Luxusautos verkaufen möchte.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Erwähnt in der Kurzbeschreibung lediglich die Präsentation des Designs eines neuen Supersportwagens ohne Namensnennung."
+      },
+      {
+        "name": "RND",
+        "note": "Nennt den Namen des Supersportwagens konkret als „Mission S“."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-b889328326be4b3a",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-15T23:30:02.000Z",
+    "p": 3,
+    "st": "NW",
+    "city": "",
+    "t": "Bundestag beschließt Erhöhung der Tabaksteuer",
+    "s": "Der Deutsche Bundestag hat eine Anhebung der Tabaksteuer beschlossen. Durch die Maßnahme sollen die Einnahmen des Bundes aus diesem Bereich weiter gesteigert werden. Millionen Raucher in Deutschland müssen sich infolgedessen auf steigende Preise einstellen.",
+    "m": "Der Bundestag hat eine Erhöhung der Tabaksteuer beschlossen, um dem Bund zusätzliche Milliardeneinnahmen zu sichern. Da in Deutschland Millionen Menschen rauchen, hat die Steuererhöhung weitreichende finanzielle Auswirkungen auf die Verbraucher. In diesem Zusammenhang wird auch die Frage aufgeworfen, was die steuerlichen Änderungen konkret für Konsumenten von E-Zigaretten beziehungsweise Vaper bedeuten. Genaue Details zu den neuen Steuersätzen, dem konkreten Zeitplan für das Inkrafttreten oder den genauen Mehrbelastungen für die verschiedenen Tabakprodukte gehen aus den vorliegenden Berichten bisher nicht hervor. Die parlamentarischen Mehrheiten bei der Abstimmung wurden ebenfalls nicht genannt.",
+    "r": "Die Steueränderung betrifft Millionen Raucher in Deutschland unmittelbar und erhöht die Einnahmen des Bundeshaushalts. Konkrete finanzielle Folgen für Verbraucher und der genaue zeitliche Rahmen machen das Thema relevant.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/inland/innenpolitik/rauchen-bundestag-tabaksteuer-100.html",
+        "date": "2026-10-15T23:30:02.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Nordrhein-Westfalen",
+        "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-rauchen-und-vapen-wird-teurer-was-bringt-die-tabaksteuererhoehung-102.html",
+        "date": "2026-10-15T21:25:00.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/innenpolitik/rauchen-bundestag-tabaksteuer-100.html",
+    "agree": "Der Bundestag hat eine Erhöhung der Tabaksteuer beschlossen.",
+    "diff": [
+      {
+        "name": "Tagesschau Regional Nordrhein-Westfalen",
+        "note": "Wirft zusätzlich die Frage auf, was die Steueränderung für Vaper bedeutet."
+      }
+    ],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-8534b9621b03c0db",
+    "c": "INT",
+    "o": "PT",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-15T22:31:08.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Erdbeben der Stärke 4,2 in Spanien im Norden Portugals spürbar",
+    "s": "Am frühen Donnerstagabend wurde ein Erdbeben mit einer Stärke von 4,2 auf der Richterskala verzeichnet. Das Epizentrum lag in Spanien, jedoch waren die Erschütterungen auch im Norden Portugals deutlich zu spüren. Das Ereignis wurde vom Instituto Português do Mar e da Atmosfera (IPMA) registriert. Weitere Details zu Schäden oder Verletzten liegen bislang nicht vor.",
+    "m": "Das Erdbeben ereignete sich am frühen Donnerstagabend und wies eine Magnitude von 4,2 auf der Richterskala auf. Die Erschütterungen strahlten von Spanien aus und wurden im Norden von Portugal wahrgenommen. Das seismische Ereignis wurde offiziell vom Instituto Português do Mar e da Atmosfera (IPMA) erfasst. Die Berichterstattung weist darauf hin, dass das Beben trotz seines Epizentrums im Nachbarland grenzüberschreitend wahrnehmbar war. Konkrete Angaben zu materiellen Schäden oder betroffenen Personen wurden in den vorliegenden Meldungen nicht genannt. Auch offene Fragen zur genauen Tiefe des Bebens oder dem genauen Epizentrum in Spanien bleiben in den aktuellen Kurzmeldungen zunächst unbeantwortet.",
+    "r": "Erdbeben mit spürbaren Auswirkungen in benachbarten Regionen sind für die Bevölkerung sicherheitsrelevant und erfordern offizielle Einordnungen durch meteorologische Institute. Die Registrierung durch das IPMA unterstreicht die Überwachung grenzüberschreitender seismischer Aktivitäten.",
+    "srcs": [
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/pais/sismo-de-42-em-espanha-sentido-no-norte-de-portugal_n1771970",
+        "date": "2026-10-15T22:31:08.000Z"
+      },
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbXg2anNXX01kQnBnSHZMR1VydEMySV82bWNaZl9IcEZ3Q2NwYnoweFIzeXRvdG4xRVBiQXlRblFHRXBHTzd3ZUtkUXpQWG5hZEV1VTNYakZmTlZ2S04xTHQ3WTBNTUE3d3lFaDFva1I3Smpvb2xPVXgyX1UtR0xia3IzV1JsZG52QVJRMU1EbE5ZQlJiU2tEbGxwZ01odlVmSFMyYlNLZkNYQlU?oc=5",
+        "date": "2026-10-15T21:18:08.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/pais/sismo-de-42-em-espanha-sentido-no-norte-de-portugal_n1771970",
+    "agree": "Beide Quellen stimmen überein, dass ein Erdbeben der Stärke 4,2 in Spanien am frühen Donnerstagabend im Norden Portugals spürbar war.",
+    "diff": [
+      {
+        "name": "RTP Notícias",
+        "note": "nennt das Instituto Português do Mar e da Atmosfera (IPMA) als die Institution, die das Beben registriert hat"
+      },
+      {
+        "name": "Google News Portugal",
+        "note": "verweist in der Überschrift zusätzlich auf den Sender SIC Notícias als Berichterstatter"
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-350efbe9ab398250",
+    "c": "INT",
+    "o": "PT",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-15T22:25:22.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Pedro Abrunhosa und Bordalo II unterstützen Demonstranten in Porto",
+    "s": "Der Musiker Pedro Abrunhosa und der Künstler Bordalo II haben sich in Porto auf die Seite von Demonstranten gestellt. Bordalo II veröffentlichte ein Video, das die Installation einer inzwischen entfernten Plakette mit der Aufschrift 'Zu verkaufen' vor dem Rathaus zeigt.",
+    "m": "Die prominenten portugiesischen Persönlichkeiten Pedro Abrunhosa und Bordalo II positionierten sich öffentlich an der Seite von Demonstrierenden in der Stadt Porto. Im Rahmen dieser Aktion teilte Bordalo II ein Video im Internet. Darin zu sehen ist eine temporäre Installation: eine Plakette mit der Aufschrift 'Vende-se' (Zu verkaufen), die direkt vor dem Gebäude der Stadtverwaltung (Câmara Municipal) angebracht wurde. Diese Installation wurde inzwischen wieder entfernt. Die genauen Hintergründe der Demonstrationen sowie die Forderungen der Protestierenden gehen aus den vorliegenden Berichten nicht hervor. Es bleibt unklar, ob im Zusammenhang mit der Aktion rechtliche Schritte gegen die beteiligten Personen eingeleitet wurden oder ob weitere Proteste geplant sind.",
+    "r": "Die Beteiligung bekannter Persönlichkeiten an öffentlichen Protesten und Aktionen vor symbolischen Orten wie dem Rathaus hat gesellschaftliche Relevanz. Sie wirft Fragen über die Natur der Demonstrationen und deren öffentliche Wahrnehmung in Portugal auf.",
+    "srcs": [
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY3llZE5kUGFlTnlKYmdFczZvYzZ3Sl9IYklyRFc0Ti1fLUFNSHVEQ1JsdTNQNlJ3R09ZcldONHBiaVV3ZjZ2Mk52S3BfVkVwSldOZEF1Yk9jTzJSMXFtajdZYV9Wa3VuckZtR3ZXZnphcTVRaFJRb3dZOTZRQVRUdE5OYndrTHBLSEdyVkRPWVhXZFN5dDBaVGZmRnN1NG9aY0lac0RoVWJVNU9RRWVGWlBQT1h3TDBsWENsbA?oc=5",
+        "date": "2026-10-15T22:25:22.000Z"
+      },
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/economia/pedro-abrunhosa-e-bordalo-ii-colocam-se-do-lado-dos-manifestantes-no-porto_n1771952",
+        "date": "2026-10-15T21:31:12.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY3llZE5kUGFlTnlKYmdFczZvYzZ3Sl9IYklyRFc0Ti1fLUFNSHVEQ1JsdTNQNlJ3R09ZcldONHBiaVV3ZjZ2Mk52S3BfVkVwSldOZEF1Yk9jTzJSMXFtajdZYV9Wa3VuckZtR3ZXZnphcTVRaFJRb3dZOTZRQVRUdE5OYndrTHBLSEdyVkRPWVhXZFN5dDBaVGZmRnN1NG9aY0lac0RoVWJVNU9RRWVGWlBQT1h3TDBsWENsbA?oc=5",
+    "agree": "Beide Quellen stimmen darin überein, dass Pedro Abrunhosa und Bordalo II sich in Porto auf die Seite von Demonstranten gestellt haben.",
+    "diff": [
+      {
+        "name": "RTP Notícias",
+        "note": "Berichtet konkret, dass Bordalo II ein Video mit der Installation einer inzwischen entfernten 'Vende-se'-Plakette vor der Câmara Municipal veröffentlicht hat."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-7188689defbf1124",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-15T22:07:26.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "EZB genehmigt Unicredit-Übernahme von Commerzbank-Anteilen",
+    "s": "Die Europäische Zentralbank hat der Unicredit die Genehmigung erteilt, ihre Anteile an der Commerzbank weiter auszubauen. Die italienische Großbank versucht bereits seit zwei Jahren, sich an das deutsche Institut heranzupirschen. Ein Übernahmeangebot im Sommer verfehlte eine Mehrheit noch knapp. Nun steht die Aufsicht grünes Licht für den Einstieg.",
+    "m": "Die Unicredit treibt ihre geplante Übernahme der Commerzbank entscheidend voran, nachdem die EZB-Aufsicht den Italienern nun grünes Licht gegeben hat. Die Genehmigung der Europäischen Zentralbank gilt als zentraler und notwendiger Schritt bei dem Vorhaben. Bereits seit zwei Jahren pirscht sich die Unicredit schrittweise an die Commerzbank heran. Ein im Sommer unterbreitetes Übernahmeangebot hatte die angestrebte Mehrheit damals nur knapp verfehlt. Aktuellen Plänen zufolge strebt die Unicredit an, zum Jahresende rund 50 Prozent der Stimmrechte an dem deutschen Geldhaus zu halten. Die weiteren Modalitäten und Reaktionen der beteiligten Parteien sowie der Politik bleiben abzuwarten.",
+    "r": "Die Freigabe durch die EZB ist ein zentraler Meilenstein für den grenzüberschreitenden Bankenpakt zwischen der Unicredit und der Commerzbank, der den europäischen Finanzsektor stark beeinflussen kann.",
+    "srcs": [
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/wirtschaft/unicredit-ezb-genehmigt-uebernahme-von-commerzbank-anteilen-YJF5346LYVCMBOSOXIDSO44PUQ.html",
+        "date": "2026-10-15T22:07:26.000Z"
+      },
+      {
+        "name": "Handelsblatt",
+        "url": "https://www.handelsblatt.com/politik/deutschland/bankenaufsicht-unicredit-ezb-genehmigt-uebernahme-von-commerzbank-anteilen/100262660.html",
+        "date": "2026-10-15T19:02:23.000Z"
+      },
+      {
+        "name": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ezb-genehmigt-unicredit-uebernahme-der-commerzbank-201431745.html",
+        "date": "2026-10-15T18:26:29.000Z"
+      }
+    ],
+    "url": "https://www.rnd.de/wirtschaft/unicredit-ezb-genehmigt-uebernahme-von-commerzbank-anteilen-YJF5346LYVCMBOSOXIDSO44PUQ.html",
+    "agree": "Alle Quellen stimmen darin überein, dass die EZB-Aufsicht der Unicredit die Übernahme von Commerzbank-Anteilen genehmigt hat und dass sich die italienische Bank seit zwei Jahren um die Anteile bemüht, nachdem ein Sommer-Angebot knapp verfehlt wurde.",
+    "diff": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "note": "Ergänzt, dass die EZB-Genehmigung als zentraler Schritt gilt und die Unicredit anstrebt, zum Jahresende rund 50 Prozent der Stimmrechte zu halten."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
     "id": "story-85d0f72a1be78e93",
     "c": "DE",
     "o": "DE",
@@ -395,6 +1073,47 @@
     "independent": 2
   },
   {
+    "id": "story-fb674e75655037cc",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-15T20:42:50.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Schwerer Unfall am Eurotunnel: 19 Verletzte nach Bus-Kollision",
+    "s": "Am Eingang des Eurotunnels in Frankreich ist ein Kleinbus mit einem Güterzug kollidiert. Bei dem schweren Unfall wurden 19 Menschen verletzt. Infolge des Unglücks stehen am Eurotunnel derzeit alle Züge still.",
+    "m": "Am Eingang des Eurotunnels in Frankreich kam es zu einer schweren Kollision zwischen einem Kleinbus und einem Güterzug. Bei dem Zusammenstoß erlitten 19 Personen Verletzungen, zu denen auch der Busfahrer zählt. Aufgrund des Unfalls wurde der Zugverkehr am Eurotunnel komplett unterbrochen und die Züge stehen still. Die genauen Umstände des Unfalls und der genaue Hergang der Kollision sind Gegenstand weiterer Beobachtungen. Rettungskräfte waren im Einsatz, um die Verletzten zu versorgen. Weitere Details zur Nationalität der Verletzten oder zur Dauer der Streckensperrung wurden in den vorliegenden Berichten noch nicht mitgeteilt.",
+    "r": "Der Unfall am Eurotunnel beeinträchtigt den internationalen Reise- und Güterverkehr erheblich und führt zu weitreichenden Zugausfällen. Mit 19 Verletzten, darunter dem Busfahrer, hat das Ereignis direkte gesundheitliche Folgen für die Betroffenen.",
+    "srcs": [
+      {
+        "name": "t-online Panorama",
+        "url": "https://www.t-online.de/nachrichten/panorama/id_101483710/schwerer-unfall-am-eurotunnel-19-verletzte.html",
+        "date": "2026-10-15T20:42:50.000Z"
+      },
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/panorama/unfall-frankreich-eurotunnel-verletzte-grossbritannien-100.html",
+        "date": "2026-10-15T20:27:00.000Z"
+      }
+    ],
+    "url": "https://www.t-online.de/nachrichten/panorama/id_101483710/schwerer-unfall-am-eurotunnel-19-verletzte.html",
+    "agree": "Beide Quellen stimmen überein, dass es am Eurotunnel zu einem Unfall mit 19 Verletzten kam, bei dem ein Kleinbus und ein Zug kollidierten und die Züge stillstehen.",
+    "diff": [
+      {
+        "name": "t-online Panorama",
+        "note": "Erwähnt explizit, dass es sich bei dem Zug um einen Güterzug handelte."
+      },
+      {
+        "name": "ZDF heute",
+        "note": "Gibt an, dass der Unfall am Eingang des Eurotunnels in Frankreich stattfand und nennt den Busfahrer unter den Verletzten."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-7b06fbabe5318212",
     "c": "INT",
     "o": "DE",
@@ -445,10 +1164,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Huthi-Miliz trifft Präsidentenpalast in Aden mit Toten und Verletzten",
-    "s": "Im Jemen hat die Huthi-Miliz den Präsidentenpalast in der Hafenstadt Aden angegriffen. Bei dem Einschlag im wichtigsten Gebäudekomplex des Gegners gab es Tote und Verletzte. In Aden hat die international anerkannte Regierung ihren Sitz, zudem befindet sich dort ein Kommandozentrum eines saudisch angeführten Bündnisses.",
-    "m": "Die Huthi-Miliz hat den Präsidentenpalast im südjemenitischen Aden getroffen und dabei Tote und Verletzte verursacht. In der betroffenen Stadt hat die international anerkannte Regierung ihren jemenitischen Regierungssitz. Vor Ort ist außerdem ein strategisches Kommandozentrum des saudisch angeführten Bündnisses stationiert, das an der Seite der offiziellen Regierung gegen die Huthi-Milizen militärisch vorgeht. Der Angriff richtete sich gezielt gegen diesen wichtigsten Gebäudekomplex der gegnerischen Seite. Es handelt sich um eine drastische Eskalation in dem anhaltenden Konflikt im Jemen. Die genaue Opferzahl und das Ausmaß der Zerstörung sind Bestandteil der aktuellen Berichterstattung. Weitere Details zur Durchführung des Angriffs und zu möglichen Gegenreaktionen des Bündnisses stehen noch aus.",
-    "r": "Der Angriff auf den Regierungssitz und das Bündnis-Kommandozentrum in Aden durch die Huthi-Miliz stellt eine erhebliche Eskalation des Jemen-Konflikts dar. Die Beteiligung internationaler Akteure wie des saudisch angeführten Bündnisses verleiht dem Vorfall geopolitische Relevanz.",
+    "t": "Huthi-Miliz greift Präsidentenpalast im jemenitischen Aden an",
+    "s": "Im jemenitischen Aden hat die Huthi-Miliz den wichtigsten Gebäudekomplex des Feindes getroffen. Bei dem Angriff auf den Präsidentenpalast gab es Tote und Verletzte. In der südjemenitischen Stadt hat die international anerkannte Regierung ihren Sitz.",
+    "m": "In der Stadt Aden im Südjemen befindet sich der Sitz der international anerkannten Regierung. Dort ist zugleich ein Kommandozentrum des von Saudi-Arabien angeführten Bündnisses stationiert, das an der Seite der Regierung gegen die Huthi-Miliz kämpft. Die Miliz hat nun diesen wichtigsten Gebäudekomplex ihres Gegners, den Präsidentenpalast, getroffen. Bei dem Angriff kam es zu Todesfällen und Verletzten. Weitere Details zum genauen zeitlichen Ablauf, der Anzahl der Opfer oder dem genauen Ausmaß der Schäden gehen aus den vorliegenden Berichten nicht hervor. Die Situation im Jemen bleibt aufgrund dieser Konflikte hochgradig angespannt. Offen ist, wie das saudisch angeführte Bündnis und die Regierung auf diesen gezielten Treffer reagieren werden.",
+    "r": "Der Angriff auf den Regierungssitz und das Kommandozentrum in Aden durch die Huthi-Miliz verschärft den Konflikt im Jemen. Die Beteiligung internationaler Akteure wie des saudisch angeführten Bündnisses verdeutlicht die regionale Dimension der Auseinandersetzung.",
     "srcs": [
       {
         "name": "Google News DE",
@@ -462,19 +1181,62 @@
       }
     ],
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQkcyZUpuYzNDaXNOYUZLZ2tVUl80S1Z2UUNKdVJVWXZLMm9aY0V2RGJGenE2XzNMREdoWjhiOTVGT1ZyLWNwREtpUENRbm4tZlhCaDhLRGdFWVdKelJzZUxLR19vTnc5SVdVMVFSSlFKcWYyNlh0NzNHTTFuNko0VEx4MTVGZTZkclozcWswYVU5Zk9FTWJacEdmcWFnbS1LT2c?oc=5",
-    "agree": "Beide Quellen stimmen überein, dass die Huthi-Miliz den Präsidentenpalast getroffen hat, es Tote und Verletzte gab und sich in Aden der Regierungssitz sowie ein Kommandozentrum des saudisch angeführten Bündnisses befinden.",
+    "agree": "Die Quellen stimmen überein, dass die Huthi-Miliz den Präsidentenpalast im Jemen getroffen hat und es dabei Tote und Verletzte gab.",
     "diff": [
       {
-        "name": "Google News DE",
-        "note": "Erwähnt den Vorfall mit einem RSS-Link und der Angabe von n-tv.de als Portal."
-      },
-      {
         "name": "ntv",
-        "note": "Liefert den ausführlichen Fließtext zu den Hintergründen der Stadt Aden, dem Regierungssitz und dem saudisch angeführten Bündnis."
+        "note": "Erwähnt zusätzlich, dass Aden im Südjemen liegt und dort die international anerkannte Regierung sowie ein Kommandozentrum des saudisch angeführten Bündnisses stationiert sind."
       }
     ],
     "chg": "",
     "independent": 2
+  },
+  {
+    "id": "story-140d0a258a3a739c",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-15T19:41:44.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "EZB erlaubt Unicredit Aufstockung bei Commerzbank",
+    "s": "Die Europäische Zentralbank hat der italienischen Großbank Unicredit die Genehmigung erteilt, ihren Anteil an der Commerzbank auf fast 50 Prozent auszubauen. Damit rückt eine vollständige Kontrollübernahme des deutschen Dax-Konzerns in greifbare Nähe. Die Freigabe der Bankenaufsicht ist ein entscheidender Meilenstein für die seit längerem laufenden Bemühungen der Italiener.",
+    "m": "Die Unicredit pirscht sich bereits seit zwei Jahren an das deutsche Institut heran. Ein im Sommer unterbreitetes Übernahmeangebot hatte eine Mehrheit zunächst noch knapp verfehlt. Nun hat die Bankenaufsicht der EZB offiziell grünes Licht für die Aufstockung der Anteile auf rund 50 Prozent gegeben. Durch diesen Schritt kann die italienische Großbank die Kontrolle über den Dax-Konzern übernehmen. Die Entscheidung stößt in der Finanzwelt auf große Beachtung, da eine Fusion der beiden Banken weitreichende Folgen für den deutschen Bankensektor haben könnte. Bislang gibt es noch keine offiziellen Reaktionen der Commerzbank-Führung auf die jüngste Entscheidung der EZB.",
+    "r": "Die Entscheidung der EZB markiert einen Wendepunkt in einem der bedeutendsten europäischen Bankenübernahmeverfahren und betrifft die Struktur des deutschen Finanzmarktes direkt.",
+    "srcs": [
+      {
+        "name": "Handelsblatt",
+        "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-ezb-gibt-unicredit-gruenes-licht-fuer-volle-commerzbank-uebernahme/100262659.html",
+        "date": "2026-10-15T19:41:44.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQM3hFdHZOZDF0ZURtUzkzb3hETHFiS3lYR3lMS1YwX2xDYzZNZllUYTVDbXp4SGtLQV9YSGxPVzVCcUVTQ0hrcUpoNnhXZnhOLXV0TVdsSHl2OWZpNkRJNjNwam5OWlYzcnJzNjlUYnY1OGtTd1BFMGlkWjYwU3Jfb1I0V2M0bk5YeGo2TmI5amlVc0V4ck5CVGcyYUZYVDVlM3RHZDhZbGNfcWV5b0ZOUlJDS3g1QTdpYlRqOGZWVTc1enZfNlB2OEpzdkltWU80ZThRcFdLazVQZGdxcEtiTGpsUmZmZEVfamNN?oc=5",
+        "date": "2026-10-15T18:23:59.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/wirtschaft/article6ad11745a886e67335c3cf74/italienische-grossbank-ezb-gibt-unicredit-gruenes-licht-fuer-uebernahme-von-commerzbank.html",
+        "date": "2026-10-15T18:17:43.000Z"
+      },
+      {
+        "name": "Rheinische Post",
+        "url": "https://rp-online.de/wirtschaft/unternehmen/ezb-gibt-unicredit-gruenes-licht-fuer-uebernahme-von-commerzbank-anteilen_aid-156640469",
+        "date": "2026-10-15T18:13:00.000Z"
+      }
+    ],
+    "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-ezb-gibt-unicredit-gruenes-licht-fuer-volle-commerzbank-uebernahme/100262659.html",
+    "agree": "Die Quellen stimmen überein, dass die EZB der Unicredit die Erlaubnis erteilt hat, ihren Anteil an der Commerzbank auf fast 50 Prozent aufzustocken.",
+    "diff": [
+      {
+        "name": "Rheinische Post",
+        "note": "Erwähnt zusätzlich, dass sich die Unicredit bereits seit zwei Jahren an die Commerzbank heranpirscht und ein Übernahmeangebot im Sommer eine Mehrheit nur knapp verfehlte."
+      }
+    ],
+    "chg": "",
+    "independent": 4
   },
   {
     "id": "story-696299e7f755e05e",
@@ -571,9 +1333,9 @@
     "st": "RP",
     "city": "",
     "t": "Schwerer Verkehrsunfall mit zwei Toten auf der A3 bei Diez",
-    "s": "Auf der Autobahn 3 in Fahrtrichtung Köln hat sich an der Anschlussstelle Diez ein schwerer Verkehrsunfall ereignet. Nach Angaben der Polizei kamen bei dem Unfall zwei Männer ums Leben. Nähere Details zum Unfallhergang und den beteiligten Fahrzeugen wurden zunächst nicht genannt.",
-    "m": "Der Unfall ereignete sich auf der Autobahn 3 in Fahrtrichtung Köln im Bereich der Anschlussstelle Diez. Laut Polizeiangaben sind bei dem schweren Verkehrsunfall zwei Menschen gestorben, bei den Opfern handelt es sich um zwei Männer. Weitere Informationen zu den genauen Umständen, der Unfallursache, beteiligten Fahrzeugen oder eventuellen weiteren Verletzten liegen derzeit noch nicht vor. Rettungskräfte und Polizei waren im Einsatz, um die Unfallstelle zu sichern und die Ermittlungen aufzunehmen.",
-    "r": "Die Meldung ist relevant, da es sich um einen schweren Verkehrsunfall mit tödlichem Ausgang auf einer Bundesautobahn handelt, der zu Verkehrsbehinderungen und polizeilichen Ermittlungen führt.",
+    "s": "Auf der Autobahn 3 in Fahrtrichtung Köln hat sich an der Anschlussstelle Diez ein schwerer Verkehrsunfall ereignet. Nach Angaben der Polizei kamen bei dem Unfall zwei Männer ums Leben. Die genauen Umstände des Geschehens werden derzeit noch ermittelt.",
+    "m": "Der Unfall ereignete sich auf der A3 in Fahrtrichtung Köln im Bereich der Anschlussstelle Diez. Laut Polizeiberichten sind bei dem Zusammenstoß zwei Männer ums Leben gekommen. Weitere Details zum genauen Hergang, zur Beteiligung anderer Fahrzeuge oder zu möglichen Verletzten wurden zunächst nicht bekannt gegeben. Rettungskräfte und Polizei waren im Einsatz, um die Unfallstelle zu sichern und die Ermittlungen aufzunehmen. Der Verkehr in Richtung Köln wurde durch den Vorfall beeinträchtigt.",
+    "r": "Der Unfall mit zwei Todesfällen auf einer wichtigen Autobahnverbindung ist für den Verkehr und die Sicherheit von unmittelbarer Bedeutung. Die genaue Klärung der Unfallursache steht noch aus.",
     "srcs": [
       {
         "name": "SWR Aktuell",
@@ -587,7 +1349,7 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/rheinland-pfalz/koblenz/schwerer-verkehrsunfall-a3-diez-100.html",
-    "agree": "Beide Quellen stimmen darin überein, dass sich an der Anschlussstelle Diez auf der A3 in Richtung Köln ein schwerer Verkehrsunfall mit zwei Toten ereignet hat.",
+    "agree": "Beide Quellen stimmen darin überein, dass sich auf der A3 in Fahrtrichtung Köln an der Anschlussstelle Diez ein schwerer Verkehrsunfall mit zwei Toten ereignet hat.",
     "diff": [],
     "chg": "",
     "independent": 2
@@ -603,9 +1365,9 @@
     "st": "RP",
     "city": "",
     "t": "Nächtliche Räumung der Edelsteinbörse in Idar-Oberstein wegen Brandschutzmängeln",
-    "s": "Die Stadt Idar-Oberstein hat die Gäste der Edelsteinbörse um Mitternacht aus dem Hotel gewiesen. Grund für die abrupte Räumung sind gravierende Brandschutzmängel im Gebäude. Das Hotel hatte trotz dieser bekannten Mängel Gäste einchecken lassen.",
-    "m": "Die städtische Maßnahme zur Räumung der Edelsteinbörse in Idar-Oberstein erfolgte um Mitternacht. Betroffen waren die Hotelgäste, die trotz bekannter Brandschutzmängel in dem Gebäude untergebracht worden waren. Das Hotel hatte die Buchungen und den Check-in trotz der Sicherheitsrisiken zugelassen. Daraufhin sah sich die Stadt zum Eingreifen gezwungen, um die Sicherheit der Personen zu gewährleisten. Weitere Details zum Ablauf der Evakuierung oder zu den konkreten Schritten gegen das Hotelhotelmanagement wurden zunächst nicht bekannt gegeben. Die offenen Punkte betreffen die künftige Nutzung des Gebäudes und mögliche rechtliche Konsequenzen für den Betrieb.",
-    "r": "Die Meldung ist relevant, da eine akute Gefährdung von Hotelgästen durch Brandschutzmängel ein behördliches Eingreifen in der Nacht erforderlich machte.",
+    "s": "Die Stadt Idar-Oberstein hat die Gäste des Hotels in der Edelsteinbörse um Mitternacht vor die Tür gesetzt. Trotz bekannter Brandschutzmängel hatte das Hotel die Gäste einchecken lassen. Die Betroffenen mussten ihre Zimmer mitten in der Nacht verlassen.",
+    "m": "Die Stadtverwaltung von Idar-Oberstein griff zu dieser drastischen Maßnahme, um die Sicherheit der Hotelgäste zu gewährleisten. Zuvor war bekannt geworden, dass in dem Gebäude gravierende Brandschutzmängel vorliegen. Dennoch hatte das Hotel in der Edelsteinbörse weiter Gäste aufgenommen und einchecken lassen. Um Mitternacht wurden die Betroffenen schließlich überraschend aus ihren Zimmern geholt und vor die Tür gesetzt. Die Aktion verdeutlicht das konsequente Vorgehen der Behörden bei akuten Gefahren für die öffentliche Sicherheit. Weitere Details zu den genauen Brandschutzmängeln oder den Konsequenzen für den Hotelbetreiber nennen die Berichte bisher nicht.",
+    "r": "Die nächtliche Räumung eines Hotels wegen bekannter Brandschutzmängel ist ein relevanter Vorgang für die lokale Sicherheit und verdeutlicht das Eingreifen der Behörden zum Schutz von Gästen.",
     "srcs": [
       {
         "name": "SWR Aktuell",
@@ -619,8 +1381,17 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/rheinland-pfalz/trier/edelsteinboerse-idar-oberstein-geraeumt-hotelgast-muss-mitten-in-der-nacht-raus-100.html",
-    "agree": "Beide Quellen stimmen darin überein, dass die Stadt Idar-Oberstein die Gäste der Edelsteinbörse um Mitternacht vor die Tür setzen musste, weil das Hotel trotz bekannter Brandschutzmängel Gäste einchecken ließ.",
-    "diff": [],
+    "agree": "Beide Quellen sind sich einig, dass die Stadt Idar-Oberstein die Gäste der Edelsteinbörse um Mitternacht vor die Tür gesetzt hat, weil das Hotel trotz bekannter Brandschutzmängel Gäste einchecken ließ.",
+    "diff": [
+      {
+        "name": "SWR Aktuell",
+        "note": "Berichtet im Titel von einer 'Räumung Edelsteinbörse' und beschreibt, dass ein Hotelgast mitten in der Nacht vor die Tür gesetzt wurde."
+      },
+      {
+        "name": "Tagesschau Regional Rheinland-Pfalz",
+        "note": "Formuliert ähnlich wie SWR, beschreibt im Titel ebenfalls die Räumung und dass ein Gast mitten in der Nacht das Zimmer verlassen musste."
+      }
+    ],
     "chg": "",
     "independent": 2
   },
@@ -693,10 +1464,10 @@
     "p": 2,
     "st": "MV",
     "city": "",
-    "t": "Deutsch-polnische Polizeistreife auf Usedom",
-    "s": "Auf der Insel Usedom arbeiten deutsche und polnische Polizisten eng zusammen. Um gemeinsam auf Streife gehen zu können, haben die Beamten Max Will und Grzegorz Krajewski jeweils die Sprache des anderen gelernt.",
-    "m": "Die grenzüberschreitende Zusammenarbeit zwischen deutschen und polnischen Einsatzkräften auf Usedom wird durch sprachliche Qualifikation praktisch umgesetzt. Die Beamten Max Will und Grzegorz Krajewski haben sich dazu entschlossen, die Landessprache des jeweiligen Nachbarlandes zu erlernen. Dies ermöglicht ihnen gemeinsame Streifengänge, um die Sicherheit in der Grenzregion zu erhöhen. Durch diese sprachliche Verständigung sollen Barrieren im Alltag abgebaut und die Kooperation der Behörden beider Länder direkt vor Ort gestärkt werden. Weitere Details zu organisatorischen Abläufen oder dem konkreten Einsatzgebiet werden in den Berichten nicht genannt.",
-    "r": "Das Erlernen der Nachbarsprache durch Polizeibeamte veranschaulicht praktische Ansätze zur Verbesserung der grenzüberschreitenden Zusammenarbeit in der europäischen Grenzregion Usedom.",
+    "t": "Zwei Sprachen, ein Team: Wie deutsche und polnische Polizisten auf Usedom zusammenarbeiten",
+    "s": "Auf der Insel Usedom arbeiten deutsche und polnische Polizisten eng zusammen. Um die gemeinsame Streifentätigkeit zu ermöglichen, haben die Beamten jeweils die Sprache des Nachbarlandes gelernt. Ein Beispiel dafür sind der deutsche Polizist Max Will und sein polnischer Kollege Grzegorz Krajewski.",
+    "m": "Die deutsch-polnische Polizeikooperation auf Usedom zeigt, wie grenzübergreifende Zusammenarbeit praktisch umgesetzt wird. Die Beamten Max Will und Grzegorz Krajewski absolvierten gegenseitig Sprachkurse, um Verständigungsprobleme im täglichen Dienst zu vermeiden. Dies erleichtert die gemeinsame Streife und den Umgang mit Bürgern und Vorfällen auf beiden Seiten der Grenze. Solche binomischen Teams stärken das Sicherheitsgefühl und die Effektivität der Strafverfolgung in der Grenzregion. Details über die genaue Häufigkeit der Streifengänge oder weitere beteiligte Beamte nennen die Berichte nicht.",
+    "r": "Das Projekt verdeutlicht die praktische Umsetzung der grenzübergreifenden polizeilichen Zusammenarbeit in der Grenzregion Usedom. Die Sprachkompetenz der Beamten bildet dabei die Grundlage für einen reibungslosen gemeinsamen Einsatz.",
     "srcs": [
       {
         "name": "Tagesschau Regional Mecklenburg-Vorpommern",
@@ -710,15 +1481,11 @@
       }
     ],
     "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/zwei-sprachen-ein-team-wie-deutsche-und-polnische-polizisten-auf-usedom-zusammenarbeiten,pomerania-102.html",
-    "agree": "Beide Quellen stimmen darin überein, dass die Polizisten Max Will und Grzegorz Krajewski die Sprache des jeweils anderen gelernt haben, um gemeinsam auf Usedom Streife zu gehen.",
+    "agree": "Beide Quellen stimmen überein, dass Max Will und Grzegorz Krajewski die Sprache des jeweils anderen gelernt haben, um gemeinsam auf Usedom auf Streife gehen zu können.",
     "diff": [
       {
         "name": "Tagesschau Regional Mecklenburg-Vorpommern",
-        "note": "Bezeichnet die beiden Protagonisten konkret als den 'deutschen Polizist Max Will' und seinen 'polnischen Kollegen Grzegorz Krajewski'."
-      },
-      {
-        "name": "NDR Mecklenburg-Vorpommern",
-        "note": "Nennt die Namen Max Will und Grzegorz Krajewski, ohne die genaue Nationalität der jeweiligen Person im Text explizit zuzuordnen."
+        "note": "Nennt explizit die Nationalitäten der beiden Polizisten (der deutsche Polizist Max Will und sein polnischer Kollege)."
       }
     ],
     "chg": "",
@@ -734,10 +1501,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Tote und Überschwemmungen nach starkem Regen in Istanbul",
-    "s": "Heftige Regenfälle in Istanbul haben zu schweren Überschwemmungen und Todesfällen geführt. Straßen stehen unter Wasser und zahlreiche Fahrzeuge stecken fest. Die Behörden in der Region befinden sich im Großeinsatz. Auch für weitere Landesteile wird mit starkem Regen gerechnet.",
-    "m": "Die extremen Wetterbedingungen in der Türkei haben in der Metropole Istanbul mindestens zwei Menschen das Leben gekostet. Wassermassen überfluteten Straßen und setzten Fahrzeuge fest, während Rettungs- und Einsatzkräfte zu Großeinsätzen ausrücken mussten. Die türkischen Behörden warnen angesichts der anhaltenden Wetterlage vor weiteren Gefahren. Meteorologen und offizielle Stellen rechnen auch in anderen Regionen des Landes mit fortgesetztem Starkregen. Angesichts der drohenden Wassermassen bleibt die Situation vor Ort angespannt und die Behörden sind in Alarmbereitschaft.",
-    "r": "Das Ereignis ist relevant, da schwere Unwetter in Großstädten wie Istanbul zu Todesopfern, Verkehrsbehinderungen und Großeinsätzen der Behörden führen. Wetterwarnungen betreffen zudem weitere Regionen der Türkei.",
+    "t": "Tote nach heftigen Überschwemmungen in Istanbul",
+    "s": "Heftige Regenfälle haben in Istanbul zu schweren Überschwemmungen geführt. Dabei sind nach Behördenangaben mehrere Menschen ums Leben gekommen. Straßen stehen unter Wasser und zahlreiche Fahrzeuge stecken fest. Rettungskräfte und Behörden sind im Großeinsatz.",
+    "m": "In der türkischen Metropole Istanbul haben extreme Regenfälle schwere Überschwemmungen ausgelöst, die mindestens zwei Menschen das Leben kosteten. Die Wassermassen verwandelten Straßen in Flüsse, wodurch Fahrzeuge steckensaßen und der Verkehr stark behindert wurde. Die zuständigen Behörden und Rettungskräfte befinden sich im Großeinsatz, um den Betroffenen zu helfen und Schäden zu beseitigen. Meteorologen warnen unterdessen vor weiteren Unwettern. Auch in anderen Regionen der Türkei wird mit starkem Regen und möglichen Folgeschäden gerechnet.",
+    "r": "Die Meldung ist relevant wegen der eingetretenen Todesfälle und der massiven Verkehrsbehinderungen durch Überschwemmungen in einer Großstadt. Zudem drohen weitere Unwetter, die auch andere Regionen der Türkei betreffen könnten.",
     "srcs": [
       {
         "name": "ZDF heute",
@@ -751,15 +1518,15 @@
       }
     ],
     "url": "https://www.zdfheute.de/panorama/tuerkei-ueberschwemmungen-hochwasser-starkregen-tote-100.html",
-    "agree": "Die Quellen stimmen darin überein, dass heftige Regenfälle in Istanbul zu Überschwemmungen und Todesfällen geführt haben und die Behörden im Einsatz sind.",
+    "agree": "Die Quellen stimmen überein, dass heftige Regenfälle in Istanbul zu Überschwemmungen und Todesfällen geführt haben.",
     "diff": [
       {
         "name": "ZDF heute",
-        "note": "Nennt konkret mindestens zwei Todesopfer und erwähnt, dass auch in anderen Regionen der Türkei mit starkem Regen gerechnet wird."
+        "note": "Nennt die konkrete Zahl von mindestens zwei Toten und erwähnt, dass auch in anderen Regionen der Türkei mit starkem Regen gerechnet wird."
       },
       {
         "name": "Tagesschau",
-        "note": "Berichtet von mehreren Toten und beschreibt konkret, dass Straßen unter Wasser stehen, Fahrzeuge stecken bleiben und neuer Starkregen droht."
+        "note": "Berichtet allgemein von mehreren Toten, beschreibt die Situation auf den Straßen mit steckengebliebenen Fahrzeugen und erwähnt, dass Behörden im Großeinsatz sind sowie neuer Starkregen droht."
       }
     ],
     "chg": "",
@@ -810,16 +1577,16 @@
     "id": "story-e40dd59d7a3aac24",
     "c": "DE",
     "o": "DE",
-    "k": "panorama",
+    "k": "wissenschaft",
     "lang": "de",
     "d": "2026-10-15T18:31:05.000Z",
     "p": 2,
     "st": "BW",
     "city": "",
-    "t": "Erstmals lokal erworbene West-Nil-Infektionen bei Menschen in Baden-Württemberg nachgewiesen",
-    "s": "In Baden-Württemberg wurden erstmals zwei lokal erworbene West-Nil-Infektionen bei Menschen nachgewiesen. Die betroffenen Personen waren zuvor nicht im Ausland gewesen. Nach Angaben des Landes besteht aktuell kein erhöhtes Risiko für die Bevölkerung.",
-    "m": "Das Ministerium oder die zuständigen Behörden haben die ersten beiden Fälle von lokal übertragenen West-Nil-Virus-Infektionen beim Menschen in Baden-Württemberg bestätigt. Bislang traten solche Infektionen in Deutschland vor allem nach Auslandsreisen auf oder betrafen Tiere wie Vögel und Pferde. Die aktuelle Entdeckung zeigt, dass das Virus nun auch hierzulande aktiv von Stechmücken auf den Menschen übertragen wird. Da die Betroffenen nicht im Ausland waren, muss die Infektion lokal erfolgt sein. Das Gesundheitsministerium betont, dass trotz dieses Nachweises derzeit kein erhöhtes Risiko für die Allgemeinheit besteht. Weitere Untersuchungen und Überwachungen der Mückenpopulationen laufen, um die Ausbreitung des Virus besser einschätzen zu können.",
-    "r": "Der Nachweis von lokal erworbenen West-Nil-Infektionen markiert eine neue Entwicklung bei der Ausbreitung des Virus in Deutschland. Dies ist relevant für die öffentliche Gesundheit und die Überwachung von durch Mücken übertragenen Krankheitserregern.",
+    "t": "Erstmals lokal erworbene West-Nil-Infektionen beim Menschen in Baden-Württemberg nachgewiesen",
+    "s": "In Baden-Württemberg wurden erstmals zwei lokal erworbene West-Nil-Infektionen bei Menschen nachgewiesen. Die betroffenen Personen waren zuvor nicht im Ausland gewesen, was auf eine Ansteckung innerhalb des Bundeslandes hindeutet. Laut Angaben des Landes besteht derzeit jedoch kein erhöhtes Risiko für die Bevölkerung. Weitere Details zu den Patienten oder den genauen Orten der Infektion wurden zunächst nicht genannt.",
+    "m": "Das Gesundheitsministerium von Baden-Württemberg hat die ersten beiden Fälle von lokal übertragenen West-Nil-Infektionen beim Menschen in dem Bundesland gemeldet. Da die Betroffenen in der jüngeren Vergangenheit keine Auslandsreisen unternommen hatten, ist davon auszugehen, dass die Übertragung vor Ort stattgefunden hat. Das Virus wird in der Regel durch Stechmücken übertragen, wobei Vögel als Hauptwirte dienen und Menschen sogenannte Fehlwirte sind. Behörden betonen, dass trotz des Nachweises aktuell kein erhöhtes Infektionsrisiko für die Allgemeinheit besteht. Dennoch wird die Situation von den zuständigen Gesundheitsbehörden und dem Landesgesundheitsamt weiter beobachtet. Infektionen verlaufen oft symptomlos oder ähneln einer leichten Grippe, können in seltenen Fällen aber auch schwerer erkranken. Es bleiben Fragen offen, wie weit sich das Virus in der Mückenpopulation des Landes bereits ausgebreitet hat.",
+    "r": "Der Nachweis von erstmals im Land erworbenen West-Nil-Infektionen beim Menschen ist relevant für die Überwachung von durch Mücken übertragenen Krankheitserregern. Auch wenn kein erhöhtes Risiko besteht, zeigt der Fall eine geografische Ausweitung des Virusgeschehens auf den Menschen in der Region.",
     "srcs": [
       {
         "name": "SWR Aktuell Baden-Württemberg",
@@ -833,13 +1600,8 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/erstmals-lokal-erworbene-west-nil-infektionen-bei-menschen-in-bw-nachgewiesen-100.html",
-    "agree": "Beide Quellen stimmen überein, dass erstmals zwei lokal erworbene West-Nil-Infektionen bei Menschen in Baden-Württemberg nachgewiesen wurden und die Betroffenen zuvor nicht im Ausland waren.",
-    "diff": [
-      {
-        "name": "Tagesschau Regional Baden-Württemberg",
-        "note": "Die Meldung ist inhaltlich und im Wortlaut identisch mit der Meldung von SWR Aktuell Baden-Württemberg."
-      }
-    ],
+    "agree": "Beide Quellen berichten übereinstimmend über die ersten zwei lokal erworbenen West-Nil-Infektionen bei Menschen in Baden-Württemberg und dass die Betroffenen zuvor nicht im Ausland waren.",
+    "diff": [],
     "chg": "",
     "independent": 2
   },
@@ -968,79 +1730,6 @@
     "independent": 2
   },
   {
-    "id": "story-7188689defbf1124",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-15T18:23:59.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "EZB genehmigt Unicredit Übernahme von Commerzbank-Anteilen",
-    "s": "Die Europäische Zentralbank hat der italienischen Großbank Unicredit grünes Licht für den Erwerb von Commerzbank-Anteilen gegeben. Die Unicredit bemüht sich bereits seit rund zwei Jahren um eine Annäherung an das deutsche Geldhaus. Die Entscheidung der EZB-Aufsicht stellt einen wichtigen Schritt in diesem Prozess dar. Nun bleibt abzuwarten, wie die Unicredit weiter vorgeht.",
-    "m": "Die italienische Großbank Unicredit hat von der EZB-Aufsicht die offizielle Genehmigung erhalten, Anteile an der Commerzbank zu übernehmen. Damit ist ein weiterer Meilenstein in dem seit zwei Jahren andauernden Annäherungsprozess erreicht. Die Unicredit baut ihre Position im Hinblick auf das deutsche Geldhaus schrittweise aus. Ob und wann es zu einer kompletten Übernahme kommt, ist derzeit noch offen. Die beteiligten Banken haben sich zu den konkreten Schritten und dem zeitlichen Ablauf geäußert. Beobachter bewerten den Schritt der EZB als bedeutsames Signal für den europäischen Bankensektor. Weitere Details zu den genauen Prozentzahlen der Anteile wurden zunächst nicht genannt.",
-    "r": "Die Entscheidung der EZB-Aufsicht ist für den europäischen Bankenmarkt und die beteiligten Institute von großer Bedeutung. Sie schafft neue Fakten bei der langjährigen Annäherung zwischen Unicredit und Commerzbank.",
-    "srcs": [
-      {
-        "name": "Handelsblatt",
-        "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-ezb-genehmigt-lautunicredit-uebernahme-von-commerzbank-anteilen/100262659.html",
-        "date": "2026-10-15T18:23:59.000Z"
-      },
-      {
-        "name": "t-online Wirtschaft",
-        "url": "https://www.t-online.de/finanzen/aktuelles/wirtschaft/id_101483626/unicredit-ezb-genehmigt-uebernahme-von-commerzbank-anteilen.html",
-        "date": "2026-10-15T18:15:21.000Z"
-      }
-    ],
-    "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-ezb-genehmigt-lautunicredit-uebernahme-von-commerzbank-anteilen/100262659.html",
-    "agree": "Beide Quellen stimmen überein, dass die EZB-Aufsicht der Unicredit die Übernahme von Commerzbank-Anteilen nach zweijähriger Annäherungsphase genehmigt hat.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-0d03889f9334f126",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-15T18:20:51.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "VW bereitet Rückruf von E-Autos wegen fehlerhafter Batteriezellen vor",
-    "s": "Der Autobauer VW plant in Deutschland einen neuen Rückruf für Elektroautos aus der ID.-Familie. Grund sind fehlerhafte Batteriezellen, die zu einer erhöhten Wärmebelastung und einer Brandgefahr führen können. Erst vor wenigen Wochen musste das Unternehmen Fahrzeuge wegen einer fehlerhaften Schraube zurückrufen. Betroffen sind nach Angaben der Berichte Tausende bis Millionen Fahrzeuge, wobei die genauen Details noch bekannt gegeben werden müssen.",
-    "m": "Volkswagen steht kurz vor der Organisation eines weiteren Rückrufs für seine Elektrofahrzeuge. Im Zentrum des Problems stehen fehlerhafte Batteriezellen, welche die Wärmebelastung im Betrieb erhöhen und dadurch eine konkrete Brandgefahr darstellen. Dieser neue Mangel trifft den Konzern kurz nach einer bereits erfolgten Rückrufaktion im Zusammenhang mit einer fehlerhaften Schraube, die erst vor wenigen Wochen angelaufen war. Der anstehende Rückruf betrifft in Deutschland vor allem Fahrzeuge der ID.-Familie. Die Dimensionen der betroffenen Fahrzeuganzahl werden in den Berichten unterschiedlich beziffert, von Tausenden bis hin zu Millionen Autos. Genauere Details zum zeitlichen Ablauf der Rückrufaktion, betroffenen Baujahren oder genauen Modellen außerhalb der ID.-Reihe wurden von den beteiligten Quellen noch nicht im Detail genannt. Kunden und Halter der betroffenen Elektroautos müssen sich demnach in Kürze auf entsprechende Werkstatttermine einstellen, um die gefährlichen Batteriezellen überprüfen und austauschen zu lassen.",
-    "r": "Der erneute Rückruf von VW-Elektroautos ist sicherheitsrelevant, da fehlerhafte Batteriezellen eine akute Brandgefahr darstellen. Zudem trifft der Vorfall den Konzern kurz nach einer erst kürzlich durchgeführten großangelegten Rückrufaktion.",
-    "srcs": [
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/wirtschaft/article6ad10dd4685ee9448efa1d3a/id-familie-brandgefahr-bei-ueber-80-prozent-ladung-vw-bereitet-rueckruf-wegen-fehlerhafter-batteriezellen-vor.html",
-        "date": "2026-10-15T18:20:51.000Z"
-      },
-      {
-        "name": "Rheinische Post",
-        "url": "https://rp-online.de/wirtschaft/unternehmen/brandgefahr-vw-bereitet-rueckruf-wegen-fehlerhafter-batteriezellen-vor_aid-156638219",
-        "date": "2026-10-15T17:24:00.000Z"
-      }
-    ],
-    "url": "https://www.welt.de/wirtschaft/article6ad10dd4685ee9448efa1d3a/id-familie-brandgefahr-bei-ueber-80-prozent-ladung-vw-bereitet-rueckruf-wegen-fehlerhafter-batteriezellen-vor.html",
-    "agree": "Beide Quellen stimmen überein, dass VW einen neuen Rückruf für Elektroautos wegen fehlerhafter Batteriezellen und einer damit verbundenen Brandgefahr vorbereitet.",
-    "diff": [
-      {
-        "name": "WELT",
-        "note": "Konkretisiert, dass über 80 Prozent Ladung zu einer Brandgefahr führen und der Rückruf Tausende Elektroautos der ID.-Familie in Deutschland betrifft."
-      },
-      {
-        "name": "Rheinische Post",
-        "note": "Erwähnt, dass es sich um Millionen Fahrzeuge handeln könnte, und stellt den Bezug zu einem erst wenige Wochen zurückliegenden Rückruf wegen einer fehlerhaften Schraube her."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
     "id": "story-1b2ee1ac85199815",
     "c": "INT",
     "o": "PT",
@@ -1133,9 +1822,9 @@
     "st": "BY",
     "city": "",
     "t": "Bundestag beschließt Reform der Notfallversorgung",
-    "s": "Der Bundestag hat eine umfassende Reform der Notfallversorgung beschlossen. Ziel der gesetzlichen Änderungen ist es, die Notaufnahmen sowie die Rettungsdienste zu entlasten und gleichzeitig die Kosten zu senken. Künftig soll eine bessere Steuerung der Patienten erfolgen.",
-    "m": "Die Reform der Notfallversorgung wurde vom Bundestag auf den Weg gebracht, um die stark beanspruchten Notaufnahmen und Rettungsdienste zu entlasten und die Kosten im Gesundheitssystem zu senken. Ein zentraler Bestandteil ist die Einführung einer verbesserten Steuerung von Patienten, damit diese zielgerichtet in die passenden Versorgungsstrukturen geleitet werden. Während die Politik von notwendigen Schritten zur Effizienzsteigerung spricht, äußern Kritiker erhebliche Sorgen um den Fortbestand bestehender Strukturen. Zudem weisen Beobachter darauf hin, dass in Bezug auf die konkrete Finanzierung und den künftigen Personalbedarf noch wesentliche Fragen offenbleiben. Das Gesetz muss nun die weiteren parlamentarischen Stationen durchlaufen, bis es in Kraft treten kann.",
-    "r": "Die Reform betrifft zentrale Bereiche des deutschen Gesundheitssystems und hat direkte Auswirkungen auf Patienten, Rettungsdienste und Krankenhäuser. Die Neuregelung zielt darauf ab, strukturelle Überlastungen abzubauen und finanzielle Einsparungen zu erzielen.",
+    "s": "Der Bundestag hat eine Reform der Notfallversorgung beschlossen. Ziel der gesetzlichen Neuregelung ist es, Notaufnahmen sowie Rettungsdienste zu entlasten und Kosten zu senken. Patienten sollen in Zukunft besser gesteuert werden. Dennoch bleiben Fragen bei der Umsetzung offen.",
+    "m": "Die Reform der Notfallversorgung soll zu strukturellen Änderungen im Gesundheitssystem führen. Durch eine bessere Steuerung der Patienten sollen überlastete Notaufnahmen und Rettungsdienste entlastet werden, was gleichzeitig zur Kostensenkung beitragen soll. Der Bundestag hat nun den entsprechenden Beschluss gefasst. Kritiker und Beobachter weisen jedoch darauf hin, dass wichtige Fragen ungeklärt bleiben. Insbesondere bezüglich der Bereiche Personal und Finanzierung bestehen weiterhin Bedenken. Zudem befürchten Kritiker den Verlust bestehender Strukturen im Zuge der Umorganisation. Weitere Details zur genauen Umsetzung und den Auswirkungen auf Patienten und medizinisches Personal werden in den kommenden Schritten erwartet.",
+    "r": "Die Neuregelung der Notfallversorgung betrifft wesentliche Bereiche des deutschen Gesundheitssystems und hat direkte Auswirkungen auf Patienten, Rettungsdienste sowie medizinisches Personal. Die Reform zielt auf eine Effizienzsteigerung und Kostenreduktion ab.",
     "srcs": [
       {
         "name": "BR24 Bayern",
@@ -1149,15 +1838,15 @@
       }
     ],
     "url": "https://www.br.de/nachrichten/deutschland-welt/reform-der-notfallversorgung-beschlossen,VY6wq3d",
-    "agree": "Der Bundestag hat eine Reform zur Neugestaltung der Notfallversorgung beschlossen, die auf eine Entlastung der Notaufnahmen und Rettungsdienste sowie eine bessere Patientensteuerung abzielt.",
+    "agree": "Die Quellen stimmen überein, dass der Bundestag eine Reform der Notfallversorgung beschlossen hat.",
     "diff": [
       {
         "name": "BR24 Bayern",
-        "note": "Berichtet, dass die Reform auch das Ziel hat, Kosten zu senken, und dass Kritiker um bestehende Strukturen fürchten."
+        "note": "Berichtet, dass Kritiker um bestehende Strukturen fürchten."
       },
       {
         "name": "ZDF heute",
-        "note": "Hebt hervor, dass nach dem Beschluss insbesondere bei den Themen Personal und Finanzierung noch Fragen offen bleiben."
+        "note": "Erwähnt, dass insbesondere bei Personal und Finanzierung Fragen offen bleiben."
       }
     ],
     "chg": "",
@@ -1292,10 +1981,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Trump sagt Livestream von Hinrichtung des Fort-Hood-Angreifers ab",
-    "s": "US-Präsident Trump hat angekündigt, dass die geplante Live-Übertragung der Hinrichtung des Fort-Hood-Attentäters Nidal Hasan per Erschießungskommando nicht stattfinden wird. Grund für die Absage ist laut Trump, dass einige es vorziehen würden, die Tötung nicht zu sehen. Es handelt sich um die erste militärische Hinrichtung in den USA seit über 60 Jahren.",
-    "m": "US-Präsident Trump zog die Pläne für eine Live-Übertragung der bevorstehenden Hinrichtung von Nidal Hasan zurück. Hasan ist der Attentäter des Fort-Hood-Vorfalls. Die Hinrichtung soll durch ein Erschießungskommando vollstreckt werden. Laut Trump fiel die Entscheidung zur Absage des Livestreams, weil manche Beobachter die Tötung lieber nicht im Fernsehen oder Internet sehen möchten. Sollte die Vollstreckung stattfinden, wäre dies die erste militärische Hinrichtung in den Vereinigten Staaten seit mehr als sechs Jahrzehnten. Weitere offizielle Details zu den genauen Umständen, dem Zeitpunkt oder den Reaktionen von Angehörigen und Beteiligten wurden in den Meldungen nicht genannt. Die Berichterstattung beschränkt sich auf Trumps Äußerung und die historische Einordnung als erste Militärexekution seit über sechzig Jahren.",
-    "r": "Die Absage des Livestreams einer historischen militärischen Hinrichtung durch den US-Präsidenten markiert einen bemerkenswerten Umgang mit der medialen Begleitung von Todesstrafen. Es ist die erste militärische Exekution in den USA seit über 60 Jahren, was dem Fall erhebliche Aufmerksamkeit verleiht.",
+    "t": "Trump sagt Livestream der Hinrichtung von Fort Hood-Attentäter ab",
+    "s": "US-Präsident Donald Trump hat den geplanten Livestream der Hinrichtung des Fort Hood-Attentäters Nidal Hasan per Erschießungskommando abgesagt. Er begründete dies damit, dass einige Menschen die Tötung lieber nicht sehen würden. Es wäre die erste militärische Hinrichtung in den USA seit über 60 Jahren.",
+    "m": "Die geplante Hinrichtung des Attentäters Nidal Hasan, der für den Amoklauf in Fort Hood verantwortlich ist, sorgt für mediales Interesse, da es sich um die erste militärische Hinrichtung seit über 60 Jahren handeln würde. Ursprünglich war ein Livestream des Ereignisses geplant, welcher nun jedoch von Donald Trump persönlich abgesagt wurde. Als Begründung äußerte der Präsident, dass einige Personen diesen Vorgang womöglich nicht mit ansehen möchten. Die genauen Umstände der Absage und die Reaktionen von beteiligten Akteuren innerhalb der US-Militärjustiz und Politik stehen im Fokus der Berichterstattung. Weitere Details zum Zeitpunkt der Vollstreckung oder zusätzlichen Sicherheitsmaßnahmen wurden in den vorliegenden Meldungen zunächst nicht genannt.",
+    "r": "Die Absage des Livestreams einer historischen militärischen Hinrichtung durch den US-Präsidenten betrifft eine bemerkenswerte Entscheidung in der US-Strafverfolgung und Militärgeschichte. Die Thematik berührt ethische Fragen zur öffentlichen Zurschaustellung von staatlichen Tötungen.",
     "srcs": [
       {
         "name": "BBC World",
@@ -1309,15 +1998,11 @@
       }
     ],
     "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
-    "agree": "Beide Quellen stimmen darin überein, dass Donald Trump den Livestream der Hinrichtung des Fort-Hood-Angreifers Nidal Hasan durch ein Erschießungskommando abgesagt hat.",
+    "agree": "Die Quellen stimmen überein, dass Donald Trump den Livestream der Hinrichtung des Fort Hood-Attentäters Nidal Hasan abgesagt hat und dass es sich um die erste militärische Hinrichtung seit über 60 Jahren handelt.",
     "diff": [
       {
         "name": "Google News World",
-        "note": "Verweist lediglich auf den Artikel der BBC mit gleichem Titel."
-      },
-      {
-        "name": "BBC World",
-        "note": "Liefert den originalen Nachrichtentext zur Absage inklusive Trumps Begründung."
+        "note": "Verweist lediglich auf den BBC-Bericht und wiederholt die identische Schlagzeile ohne zusätzliche Informationen."
       }
     ],
     "chg": "",
@@ -1333,10 +2018,10 @@
     "p": 2,
     "st": "BW",
     "city": "",
-    "t": "Zweifel an Berichten über Pyrotechnik-Schmuggel in Kondomen beim DFB-Pokal",
-    "s": "Beim DFB-Pokalspiel zwischen Waldhof Mannheim und dem 1. FC Kaiserslautern soll angeblich Pyrotechnik rektal in Kondomen ins Stadion geschmuggelt worden sein. Ein bekannter Fanforscher äußert nun jedoch starke Zweifel an diesen Berichten. Bislang ist unklar, wie sich die Situation tatsächlich zugetragen hat und ob diese Schmuggelmethode angewandt wurde.",
-    "m": "Im Vorfeld beziehungsweise im Rahmen des DFB-Pokalspiels zwischen Waldhof Mannheim und dem 1. FC Kaiserslautern kam der Verdacht auf, dass Fans Pyrotechnik auf ungewöhnliche Weise in das Stadion geschmuggelt haben könnten. Konkret stand die Behauptung im Raum, Bengalos oder andere pyrotechnische Gegenstände seien rektal in Kondomen versteckt und so durch die Kontrollen gebracht worden. Ein Fanforscher hat diese Darstellung nun öffentlich bezweifelt und hält die Methode für unrealistisch oder zumindest nicht belegt. Das Thema sorgt in den Medien und der Fanszene für Aufsehen, da solche Vorwürfe die Sicherheitsdiskussion bei Risikospielen neu entfachen. Bislang liegen keine offiziellen Bestätigungen oder detaillierten Polizeiberichte vor, die diese Schmuggelmethode eindeutig belegen. Die genauen Umstände und Hintergründe des Vorfalls werden weiter diskutiert.",
-    "r": "Die Meldung beleuchtet die Sicherheitskontrollen bei brisanten Fußballspielen und hinterfragt spektakuläre Medienberichte über angebliche Schmuggelmethoden. Solche Vorfälle beeinflussen die generelle Sicherheitsdebatte rund um den Profifußball und das Verhältnis zwischen Fans, Vereinen und den Behörden.",
+    "t": "Zweifel an Berichten über Pyrotechnik-Schmuggel in Kondomen bei Fußballspiel",
+    "s": "Im Vorfeld des DFB-Pokalspiels zwischen Waldhof Mannheim und dem 1. FC Kaiserslautern kam die Vermutung auf, dass Fans Pyrotechnik auf ungewöhnliche Weise ins Stadion geschmuggelt haben könnten. Berichten zufolge soll Pyrotechnik in Kondomen rektal transportiert worden sein. Ein bekannter Fanforscher äußerte nun jedoch starke Zweifel an dieser Darstellung.",
+    "m": "Die Diskussion entzündete sich rund um das DFB-Pokalspiel der Vereine Waldhof Mannheim und 1. FC Kaiserslautern. Es kursierten Berichte und Spekulationen darüber, dass Anhänger Pyrotechnik in Kondomen versteckt und rektal in das Stadion eingebracht haben könnten. Diese Methode des Einschmuggelns sorgte für Aufsehen und mediales Interesse. Ein befragter Fanforscher meldete sich zu Wort und äußerte deutliche Zweifel an der Plausibilität dieses Vorgangs. Ob es tatsächlich entsprechende Vorfälle gab oder ob die Berichte auf Spekulationen beruhen, ist Gegenstand der Betrachtung. Weitere offizielle Untersuchungen oder Bestätigungen von Vereinssicherheitskräften oder der Polizei wurden in den Meldungen nicht näher ausgeführt. Der Vorfall wirft ein Schlaglicht auf die Methoden und Kontrollen bei Hochrisikospielen im deutschen Profifußball.",
+    "r": "Die Diskussion berührt Fragen der Sicherheit und der Kontrollmethoden bei Fußball-Risikospielen. Sie verdeutlicht, wie ungewöhnliche Schmuggelvorwürfe im Umfeld des Profifußballs medial verhandelt und von Experten eingeordnet werden.",
     "srcs": [
       {
         "name": "SWR Aktuell",
@@ -1350,7 +2035,7 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/ausschreitungen-waldhof-mannheim-gegen-kaiserslautern-fanforscher-zu-pyrotechnik-100.html",
-    "agree": "Beide Quellen stimmen überein, dass ein Fanforscher starke Zweifel daran hat, ob Fans beim DFB-Pokalspiel zwischen Waldhof Mannheim und dem 1. FC Kaiserslautern Pyrotechnik rektal in Kondomen ins Stadion geschmuggelt haben.",
+    "agree": "Beide Quellen stimmen überein, dass ein Fanforscher starke Zweifel daran hat, ob Fans beim DFB-Pokalspiel zwischen Waldhof Mannheim und dem 1. FC Kaiserslautern Pyrotechnik in Kondomen rektal ins Stadion geschmuggelt haben.",
     "diff": [],
     "chg": "",
     "independent": 2
@@ -1365,10 +2050,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Selenskyj wirft Elon Musk vor, dass Starlink-Einschränkungen Menschenleben kosten",
-    "s": "Der ukrainische Präsident hat sich zu der Rolle von Elon Musks Satellitensystem Starlink im Konflikt mit Russland geäußert. Laut Berichten hat er dem Unternehmer vorgeworfen, dass Einschränkungen des Systems Menschenleben kosten. Die genauen Umstände und Einschränkungen werden thematisiert.",
-    "m": "Im Kontext des anhaltenden Ukraine-Russia-Krieges spielt die Satellitenkommunikation eine zentrale Rolle für die ukrainischen Streitkräfte. Das von Elon Musk bereitgestellte Starlink-System ist dabei ein essenzieller Bestandteil der militärischen und zivilen Kommunikation. Der ukrainische Präsident hat nun öffentlich erklärt, dass jegliche Einschränkungen dieses Systems direkte Auswirkungen auf das Leben von Menschen haben. Bislang gibt es wenige Details darüber, welche konkreten Einschränkungen Musk vorgenommen oder angedroht hat und wie diese die Lage vor Ort beeinflussen. Die Äußerungen verdeutlichen jedoch die Abhängigkeit der Ukraine von kommerzieller Satellitentechnologie in Kriegszeiten und werfen Fragen zur Machtposition privater Technologie-Anbieter in geopolitischen Konflikten auf.",
-    "r": "Die Äußerungen des ukrainischen Präsidenten zu Starlink beleuchten die kritische Abhängigkeit kriegführender Parteien von privater Satelliteninfrastruktur. Dies verdeutlicht den wachsenden Einfluss von Technologie-Unternehmern auf globale Konflikte.",
+    "t": "Selenskyj wirft Elon Musk vor, Starlink-Einschränkungen kosteten Leben",
+    "s": "Der ukrainische Präsident Wolodymyr Selenskyj hat sich kritisch zu Einschränkungen des Satellitensystems Starlink geäußert. Laut seinen Aussagen haben solche Maßnahmen im Krieg zwischen der Ukraine und Russland Menschenleben gekostet. Das Thema wird in einem Bericht der BBC beleuchtet.",
+    "m": "Im Zusammenhang mit dem anhaltenden Krieg zwischen der Ukraine und Russland steht das Satellitensystem Starlink im Fokus. Der ukrainische Präsident hat dem Tech-Milliardär Elon Musk direkt mitgeteilt, dass jegliche Einschränkungen des Systems das Leben von Menschen kosten. Starlink spielt eine zentrale Rolle für die Kommunikation und Koordination in der Ukraine. Nähere Details zum genauen Zeitpunkt oder der Art der Restriktionen gehen aus den vorliegenden Berichten nicht hervor. Es bleibt unklar, welche konkreten Gegenreaktionen oder Antworten Elon Musk auf diesen Vorwurf gegeben hat.",
+    "r": "Die Vorwürfe des ukrainischen Präsidenten gegen Elon Musk beleuchten die kritische Abhängigkeit kriegführender Parteien von ziviler Satelliteninfrastruktur. Die Diskussion verdeutlicht die geopolitische Macht privater Technologiekonzerne.",
     "srcs": [
       {
         "name": "BBC World",
@@ -1382,15 +2067,15 @@
       }
     ],
     "url": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
-    "agree": "Beide Quellen stimmen darin überein, dass es einen Bericht der BBC über den Zusammenhang zwischen Starlink und dem Ukraine-Russland-Krieg gibt, in dem Äußerungen des ukrainischen Präsidenten gegenüber Elon Musk thematisiert werden.",
+    "agree": "",
     "diff": [
       {
         "name": "BBC World",
-        "note": "Berichtet direkt, dass der ukrainische Präsident Elon Musk mitgeteilt hat, Einschränkungen von Starlink kosteten Leben."
+        "note": "Berichtet direkt über die Aussage des ukrainischen Präsidenten an Elon Musk, dass Starlink-Einschränkungen Leben gekostet haben."
       },
       {
         "name": "Google News World",
-        "note": "Verweist lediglich auf den Videobeitrag der BBC zu dem Thema."
+        "note": "Verweist lediglich auf den entsprechenden Video-Beitrag der BBC."
       }
     ],
     "chg": "",
@@ -1447,10 +2132,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Die Linke erfolgreich mit Eilantrag gegen Ministerin Reiche",
-    "s": "Die Partei Die Linke wirft Wirtschaftsministerin Reiche vor, mit einem Instagram-Video das Neutralitätsgebot verletzt zu haben. Das Bundesverfassungsgericht hat nun in einem Eilverfahren zugunsten der Linken entschieden. Damit ist die Ministerin mit ihrem rechtlichen Vorgehen gescheitert.",
-    "m": "Auslöser für den Streit ist ein umstrittenes Instagram-Video der Wirtschaftsministerin Katherina Reiche, in dem sie hoheitliche Aufgaben oder politische Botschaften darstellte. Die Linke sah darin einen klaren Verstoss gegen das amtliche Neutralitätsgebot und zog vor das höchste deutsche Gericht. Nun hat das Gericht dem Eilverfahren der Linken stattgegeben und der Ministerin eine Niederlage beschert. Die genauen Auflagen und die juristische Begründung des Beschlusses im Eilverfahren gehen aus den bisherigen Berichten nicht detailliert hervor. Der Fall wirft erneut Fragen zur Nutzung von Social Media durch Regierungsmitglieder auf.",
-    "r": "Die Entscheidung des höchsten deutschen Gerichts berührt Fragen zur Amtsführung von Regierungsmitgliedern und zur Einhaltung des Neutralitätsgebots bei der Nutzung Sozialer Medien wie Instagram.",
+    "t": "Linke erfolgreich mit Eilantrag gegen Ministerin Reiche wegen Instagram-Video",
+    "s": "Die Partei Die Linke wirft Wirtschaftsministerin Katherina Reiche vor, das staatliche Neutralitätsgebot verletzt zu haben. Grund dafür ist ein strittiges Instagram-Video der Ministerin. Nun hat das Bundesverfassungsgericht im Eilverfahren über den Fall entschieden und der Linken Recht gegeben.",
+    "m": "Ein von Wirtschaftsministerin Katherina Reiche veröffentlichtes Instagram-Video hat zu einem rechtlichen Streit geführt, da die Partei Die Linke darin einen Verstoß gegen das amtliche Neutralitätsgebot sieht. In der Folge zog die Partei vor das Bundesverfassungsgericht, um im Eilverfahren gegen das Vorgehen der Ministerin vorzugehen. Das Gericht hat nun zugunsten der Antragsteller entschieden und den Eilantrag der Linken bewilligt. Details zu den genauen Inhalten des Videos sowie zur konkreten Begründung des Gerichts gehen aus den vorliegenden Berichten nicht hervor. Der Fall wirft Fragen zum Umgang von Regierungsmitgliedern mit sozialen Medien und der Einhaltung neutraler Amtsführung auf. Die rechtlichen und politischen Nachwirkungen der Entscheidung bleiben zunächst abzuwarten.",
+    "r": "Die gerichtliche Entscheidung im Eilverfahren gegen eine Bundesministerin wegen der Nutzung von Social Media betrifft grundlegende Fragen zur Amtsführung und zur Einhaltung des Neutralitätsgebots. Dies ist von allgemeinem politischen und rechtlichen Interesse für die Ausübung regierungsamtlicher Öffentlichkeitsarbeit.",
     "srcs": [
       {
         "name": "RND",
@@ -1464,15 +2149,15 @@
       }
     ],
     "url": "https://www.rnd.de/politik/streit-um-instagram-video-linke-mit-eilantrag-gegen-ministerin-reiche-erfolgreich-ERY4UX25MJHY5KFOQVRLXMGMNQ.html",
-    "agree": "Die Quellen stimmen darin überein, dass Die Linke mit einem Eilantrag vor Gericht gegen Ministerin Reiche wegen eines Instagram-Videos erfolgreich war.",
+    "agree": "Die Quellen stimmen überein, dass Die Linke mit einem Eilantrag gegen Wirtschaftsministerin Reiche wegen eines Instagram-Videos vor Gericht erfolgreich war.",
     "diff": [
       {
         "name": "RND",
-        "note": "Erwähnt explizit, dass es sich um das höchste deutsche Gericht handelt."
+        "note": "Nennt den Namen der Ministerin (Reiche), bezeichnet sie als Wirtschaftsministerin und erwähnt, dass es sich um das höchste deutsche Gericht handelt."
       },
       {
         "name": "t-online Nachrichten",
-        "note": "Nennt den Vornamen der Ministerin (Katherina Reiche)."
+        "note": "Nennt den vollständigen Namen Katherina Reiche und erwähnt, dass das Video sie in Bedrängnis bringt."
       }
     ],
     "chg": "",
@@ -1484,40 +2169,36 @@
     "o": "DE",
     "k": "politik",
     "lang": "de",
-    "d": "2026-10-15T16:45:01.000Z",
+    "d": "2026-10-15T16:35:05.000Z",
     "p": 3,
-    "st": "",
+    "st": "BY",
     "city": "",
-    "t": "Bundeswirtschaftsministerin Reiche muss Instagram-Video über die Linke löschen",
-    "s": "Bundeswirtschaftsministerin Reiche muss ein Instagram-Video, in dem sie der Partei Antisemitismus vorwirft, vorerst entfernen. Das hat das Bundesverfassungsgericht in einem Eilverfahren entschieden. Die Linke hatte in Karlsruhe gegen den Beitrag geklagt, der auf dem offiziellen Kanal des Ministeriums erschienen war.",
-    "m": "Wirtschaftsministerin Reiche hatte auf dem offiziellen Instagram-Kanal ihres Ministeriums ein Video veröffentlicht, in dem sie der Linken unter anderem vorwarf, Antisemitismus offen zu leben, und zudem das Thema Enteignung ansprach. Die Linkspartei ging daraufhin juristisch gegen diesen Beitrag vor und zog vor das Bundesverfassungsgericht nach Karlsruhe. Das Gericht gab der Partei in einem Eilverfahren Recht und verfügte, dass das Video vorerst gelöscht werden muss. Der Fall berührt Fragen zur zulässigen Amtsführung und Meinungsäußerung von Regierungsmitgliedern über politische Parteien auf offiziellen Kanälen.",
-    "r": "Das Verfahren klärt die rechtlichen Grenzen für Regierungsmitglieder bei der Nutzung offizieller Social-Media-Kanäle für parteipolitische Vorwürfe.",
+    "t": "Bundesverfassungsgericht: Reiche muss Instagram-Video über Linke löschen",
+    "s": "Bundeswirtschaftsministerin Reiche muss ein Instagram-Video, in dem sie der Partei die Linke unter anderem des Antisemitismus bezichtigt, vorerst entfernen. Dies hat das Bundesverfassungsgericht in einem Eilverfahren entschieden. Die Linke hat damit einen juristischen Erfolg gegen die Politikerin erzielt. Das Gericht gab dem Eilantrag der Partei statt.",
+    "m": "Das Bundesverfassungsgericht hat in einem Eilverfahren entschieden, dass Bundeswirtschaftsministerin Reiche ein von ihr veröffentlichtes Instagram-Video vorerst löschen muss. In dem umstrittenen Beitrag hatte die Politikerin der Partei die Linke unter anderem Antisemitismus vorgeworfen. Gegen diese Darstellung und Veröffentlichung war die Linke gerichtlich vorgegangen und hat nun vor dem höchsten deutschen Gericht einen Erfolg erzielt. Die Anordnung zur vorläufigen Entfernung des Videos gilt, bis in der Hauptsache entschieden ist oder weitere rechtliche Schritte erfolgen. Die genauen Hintergründe des Streits sowie weitere Details zur Argumentation der Parteien und des Gerichts gehen aus den vorliegenden Berichten nicht hervor.",
+    "r": "Die Entscheidung des Bundesverfassungsgerichts betrifft die Meinungsäußerung von Regierungsmitgliedern und schützt Parteien vor vorläufig unzulässigen Vorwürfen im digitalen Raum. Der Fall zeigt die rechtlichen Grenzen für politische Aussagen von Ministerinnen auf Social-Media-Plattformen auf.",
     "srcs": [
       {
-        "name": "SWR Aktuell",
+        "name": "Tagesschau",
         "url": "https://www.tagesschau.de/inland/reiche-linke-instagram-100.html",
-        "date": "2026-10-15T16:45:01.000Z"
+        "date": "2026-10-15T16:35:05.000Z"
       },
       {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/politik/Ministerin-Reiche-muss-Instagram-Post-ueber-Linke-loeschen-id31422811.html",
-        "date": "2026-10-15T15:04:59.000Z"
+        "name": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/reiche-muss-video-mit-antisemitismusvorwurf-gegen-linke-loeschen,VY8CIHA",
+        "date": "2026-10-15T16:06:10.000Z"
       }
     ],
     "url": "https://www.tagesschau.de/inland/reiche-linke-instagram-100.html",
-    "agree": "Die Quellen stimmen überein, dass Bundeswirtschaftsministerin Reiche ein Instagram-Video über die Linke mit Antisemitismus-Vorwürfen vorerst löschen muss, da das Bundesverfassungsgericht in Karlsruhe entsprechend entschieden hat.",
+    "agree": "Die Quellen sind sich einig, dass das Bundesverfassungsgericht im Eilverfahren entschieden hat, dass Bundeswirtschaftsministerin Reiche ein Instagram-Video mit Antisemitismusvorwürfen gegen die Linke vorerst löschen muss.",
     "diff": [
       {
-        "name": "SWR Aktuell",
-        "note": "Keine nennenswerten abweichenden Zusatzinformationen im Textfragment."
-      },
-      {
         "name": "Tagesschau",
-        "note": "Nennt die Autoren des Beitrags (I. Sayram und J. Pentz) und erwähnt ausdrücklich das Eilverfahren."
+        "note": "Nennt die Autoren I. Sayram und J. Pentz."
       },
       {
-        "name": "ntv",
-        "note": "Erwähnt zusätzlich das Schlagwort Enteignung und präzisiert, dass der Post auf dem offiziellen Kanal des Ministeriums erschien."
+        "name": "BR24 Bayern",
+        "note": "Formuliert, dass die Linke im Streit um das Video einen Erfolg erzielt hat."
       }
     ],
     "chg": "",
@@ -1530,13 +2211,13 @@
     "k": "sport",
     "lang": "de",
     "d": "2026-10-15T16:14:33.000Z",
-    "p": 2,
+    "p": 3,
     "st": "BY",
     "city": "",
-    "t": "Schwerer Rückschlag für Skistar Kilde vor Saisonauftakt",
-    "s": "Der norwegische Skirennfahrer Aleksander Aamodt Kilde hat sich kurz vor dem Saisonbeginn im Training schwer verletzt. Er erlitt eine Verletzung an der Achillessehne. Der Vorfall ereignet sich anderthalb Wochen vor dem geplanten Weltcup-Auftakt in Sölden.",
-    "m": "Aleksander Aamodt Kilde hat bei einem Trainingssturz in Chile einen Achillessehnenriss erlitten. Für den 34-jährigen Norweger ist dies der nächste schwere Rückschlag in einer ohnehin von Verletzungen geplagten Karriere. Der Unfall geschah nur anderthalb Wochen vor dem bevorstehenden Saisonauftakt der Skifahrer im österreichischen Sölden. Durch die schwere Verletzung muss Kilde nun eine erneute, langwierige Zwangspause einlegen. Wie lange der Ausfall genau dauern wird und wann eine Rückkehr in den Leistungssport möglich ist, wurde zunächst nicht bekannt gegeben. Der Athlet hatte in der Vergangenheit bereits mehrfach mit gesundheitlichen Problemen und Verletzungen zu kämpfen.",
-    "r": "Die schwere Verletzung eines prominenten Athleten wie Aleksander Aamodt Kilde kurz vor dem Weltcup-Auftakt hat direkte Auswirkungen auf das Teilnehmerfeld und die sportlichen Erwartungen der bevorstehenden Skisaison.",
+    "t": "Horror-Verletzung am Fuß: Nächster Schock für Norwegens Ski-Star Kilde",
+    "s": "Kurz vor dem Saisonauftakt hat sich der norwegische Skirennfahrer Aleksander Aamodt Kilde im Training schwer verletzt. Er zog sich eine Verletzung an der Achillessehne zu. Für den ohnehin von Verletzungen geplagten Sportler bedeutet dies den nächsten herben Rückschlag. Der genaue Unfallhergang und die Dauer der Pause wurden in den ersten Berichten angerissen.",
+    "m": "Der norwegische Ski-Star Aleksander Aamodt Kilde hat sich eineinhalb Wochen vor dem Weltcup-Auftakt in Sölden bei einem Trainingssturz schwer verletzt. Dabei erlitt er einen Achillessehnenriss und muss nun die nächste lange Zwangspause hinnehmen. Der Unfall ereignete sich während eines Trainingslagers in Chile. Für den 34-jährigen Athleten ist dies ein weiterer schwerer Rückschlag in seiner Karriere, die in letzter Zeit bereits stark von gesundheitlichen Problemen und Verletzungen geprägt war. Wie lange der norwegische Skirennfahrer genau ausfallen wird, ist angesichts der Schwere der Verletzung an der Achillessehne zu diesem Zeitpunkt noch nicht gänzlich absehbar. Der Saisonbeginn in Sölden findet somit definitiv ohne ihn statt.",
+    "r": "Die schwere Verletzung eines prominenten Athleten wie Aleksander Aamodt Kilde kurz vor dem Weltcup-Auftakt hat erhebliche Auswirkungen auf den internationalen Skisport und das norwegische Team. Der Ausfall des Spitzenfahrers verändert die Ausgangslage für die bevorstehenden Rennen in Sölden maßgeblich.",
     "srcs": [
       {
         "name": "ntv",
@@ -1550,15 +2231,11 @@
       }
     ],
     "url": "https://www.n-tv.de/sport/Naechster-Schock-fuer-Norwegens-Ski-Star-Kilde-id31422884.html",
-    "agree": "Die Quellen stimmen überein, dass sich Aleksander Aamodt Kilde anderthalb Wochen vor dem Saisonauftakt in Sölden eine schwere Fußverletzung an der Achillessehne zugezogen hat.",
+    "agree": "Die Quellen sind sich einig, dass sich der norwegische Ski-Star Aleksander Aamodt Kilde kurz vor dem Saisonauftakt in Sölden im Training eine schwere Verletzung an der Achillessehne zugezogen hat und vor einer Zwangspause steht.",
     "diff": [
       {
-        "name": "ntv",
-        "note": "nennt Kildes Alter mit 34 Jahren."
-      },
-      {
         "name": "BR24 Bayern",
-        "note": "präzisiert, dass der Trainingssturz in Chile stattfand und es sich um einen Achillessehnenriss handelt."
+        "note": "nennt das Alter von 34 Jahren, den konkreten Trainingsort Chile und präzisiert die Verletzung als Achillessehnenriss."
       }
     ],
     "chg": "",
@@ -1575,9 +2252,9 @@
     "st": "BW",
     "city": "",
     "t": "Trumpf setzt bei Industrieroboter auf Künstliche Intelligenz",
-    "s": "Der Laserspezialist Trumpf aus Ditzingen plant den Einsatz von Künstlicher Intelligenz, um Industrieroboter flexibler zu gestalten. Durch diese Technologie soll die Automatisierung zukünftig auch für kleinere Serien rentabel werden. Dies könnte vor allem kleineren Unternehmen neue Möglichkeiten eröffnen.",
-    "m": "Das in Ditzingen ansässige Unternehmen Trumpf, das als Laserspezialist bekannt ist, integriert Künstliche Intelligenz in seine Industrieroboter. Ziel dieser Initiative ist es, die Flexibilität der Roboter deutlich zu erhöhen. Bisher war die Automatisierung für Kleinserien und kleinere Betriebe oft wirtschaftlich unattraktiv. Mit dem KI-Ansatz soll sich das ändern, sodass auch kleinere Unternehmen von automatisierten Prozessen profitieren können. Konkrete Zahlen oder ein genauer Zeitplan für die Markteinführung wurden in den Berichten nicht genannt. Auch offene technische Fragen und die genauen Kosten blieben in den vorliegenden Informationen unerwähnt.",
-    "r": "Die Initiative von Trumpf zeigt, wie Künstliche Intelligenz neue Anwendungsbereiche in der industriellen Fertigung erschließen kann. Insbesondere die wirtschaftliche Tragfähigkeit für Kleinbetriebe und kleinere Serien könnte Produktionsprozesse verändern.",
+    "s": "Das Lasergroßunternehmen Trumpf aus Ditzingen plant den Einsatz von Künstlicher Intelligenz bei Industrierobotern. Ziel ist es, Roboter flexibler in der Produktion einsetzbar zu machen. Dadurch soll die Automatisierung künftig auch für kleinere Serien und Unternehmen wirtschaftlich interessant werden.",
+    "m": "Der Laserspezialist Trumpf mit Sitz in Ditzingen treibt die Integration von Künstlicher Intelligenz in die Robotik voran. Durch den Einsatz von KI sollen Industrieroboter deutlich flexibler arbeiten können. Diese technologische Weiterentwicklung zielt darauf ab, Fertigungsprozesse anzupassen, die bisher vor allem für Großserien rentabel waren. Mit diesem Ansatz könnte sich die automatisierte Produktion künftig auch für kleinere Losgrößen lohnen. Dies eröffnet insbesondere kleineren Unternehmen neue Möglichkeiten zur Effizienzsteigerung. Konkrete Details zu Zeitplänen oder investierten Summen wurden in den Berichten nicht genannt. Auch offene Fragen zur genauen technischen Umsetzung blieben zunächst unerwähnt.",
+    "r": "Die Initiative eines großen Industrieunternehmens zur Flexibilisierung von Robotern mittels KI zeigt Wege auf, wie Automatisierungstechnologien für neue Zielgruppen wie Kleinbetriebe geöffnet werden könnten.",
     "srcs": [
       {
         "name": "SWR Aktuell Baden-Württemberg",
@@ -1591,13 +2268,8 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/laserspezialist-trumpf-ditzingen-setzt-auf-ki-roboter-100.html",
-    "agree": "Beide Quellen berichten übereinstimmend, dass der Laserspezialist Trumpf aus Ditzingen KI einsetzt, um Industrieroboter flexibler zu machen und Automatisierung für kleinere Serien und Unternehmen zu ermöglichen.",
-    "diff": [
-      {
-        "name": "Tagesschau Regional Baden-Württemberg",
-        "note": "Die Quelle ergänzt eine Frage im Titel, ob sich die Automatisierung für Kleinbetriebe lohnt."
-      }
-    ],
+    "agree": "Beide Quellen berichten übereinstimmend, dass der Laserspezialist Trumpf aus Ditzingen Künstliche Intelligenz einsetzt, um Industrieroboter flexibler zu machen und Automatisierung für kleinere Serien sowie Unternehmen lohnend zu gestalten.",
+    "diff": [],
     "chg": "",
     "independent": 2
   },
@@ -2172,13 +2844,13 @@
     "p": 2,
     "st": "BW",
     "city": "",
-    "t": "Erneuter Angriff auf Schüler in Ulmer Kuhberghalle",
-    "s": "In der Ulmer Kuhberghalle ist nach Polizeiangaben am Mittwochnachmittag erneut ein Schüler von einem Unbekannten angegriffen worden. Es handelt sich um einen weiteren Vorfall an diesem Ort. Die Polizei hat infolgedessen ihre Präsenz erhöht.",
-    "m": "Der Vorfall ereignete sich am Mittwochnachmittag in der Ulmer Kuhberghalle, wo ein Schüler von einer bislang unbekannten Person angegriffen wurde. Nähere Details zum Tathergang oder zu möglichen Verletzungen des Schülers nennen die vorliegenden Berichte bisher nicht. Aufgrund des erneuten Vorfalls hat die Polizei reagiert und ihre Präsenz vor Ort erhöht. Die Ermittlungen zu den Hintergründen und der Identität des Angreifers dauern an. Weitere offene Punkte betreffen die genauen Umstände des Angriffs und ob ein Zusammenhang zu früheren Vorfällen besteht.",
-    "r": "Angriffe auf Schüler in öffentlichen Hallen betreffen die lokale Sicherheit und erfordern polizeiliche Schutzmaßnahmen. Die erhöhte Polizeipräsenz soll für Aufklärung und Sicherheit sorgen.",
+    "t": "Erneuter Angriff auf Schüler in der Ulmer Kuhberghalle",
+    "s": "In der Ulmer Kuhberghalle ist nach Angaben der Polizei am Mittwochnachmittag erneut ein Schüler von einem Unbekannten angegriffen worden. Es handelt sich um einen weiteren Vorfall an diesem Ort. Die Behörden haben auf die Vorkommnisse reagiert.",
+    "m": "Am Mittwochnachmittag wurde der Polizei zufolge ein Schüler in der Ulmer Kuhberghalle von einer bislang unbekannten Person angegriffen. Dies ist bereits der zweite bekannte Vorfall dieser Art in der Halle, was zu einer Erhöhung der Polizeipräsenz vor Ort geführt hat. Die genauen Hintergründe sowie die Identität des Angreifers sind derzeit noch unklar. Ermittlungen wurden eingeleitet, um die Umstände des Angriffs aufzuklären. Weitere Details zum Gesundheitszustand des Schülers oder zum genauen Tathergang wurden von den Behörden zunächst nicht bekannt gegeben. Die Polizei geht den Hinweisen nach und bittet mögliche Zeugen um Mithilfe.",
+    "r": "Wiederholte Gewaltvorfälle an Schulen oder in Jugendhallen sind sicherheitsrelevant und erfordern behördliches Eingreifen. Die erhöhte Polizeipräsenz soll für mehr Sicherheit sorgen und weitere Taten verhindern.",
     "srcs": [
       {
-        "name": "SWR Aktuell",
+        "name": "SWR Aktuell Baden-Württemberg",
         "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/erneuter-angriff-auf-schueler-in-ulm-100.html",
         "date": "2026-10-15T13:42:47.000Z"
       },
@@ -2193,7 +2865,7 @@
     "diff": [
       {
         "name": "Tagesschau Regional Baden-Württemberg",
-        "note": "Erwähnt zusätzlich im Titel, dass die Polizei ihre Präsenz erhöht hat."
+        "note": "Erwähnt zusätzlich, dass die Polizei ihre Präsenz erhöht hat."
       }
     ],
     "chg": "",
@@ -2722,10 +3394,10 @@
     "p": 2,
     "st": "",
     "city": "",
-    "t": "Weißes Haus verteidigt neue Pressesprecherin wegen juristischer Qualifikationen",
-    "s": "Das Weiße Haus hat seine neue Pressesprecherin Katie Zacharia gegen Fragen zu ihren juristischen Qualifikationen verteidigt. Berichten zufolge scheint sie in keinem ihrer früheren Wohnortsstaaten als Rechtsanwältin zugelassen zu sein. Die Berichterstattung über diese Kontroverse greift Fragen bezüglich ihres beruflichen Hintergrunds auf. Weitere offizielle Schritte oder Stellungnahmen der Betroffenen selbst stehen noch aus.",
-    "m": "Das Weiße Haus sieht sich mit Fragen zur Eignung und den Qualifikationen seiner neuen Pressesprecherin Katie Zacharia konfrontiert. Im Zentrum der Debatte steht der Umstand, dass Zacharia offenbar in keinem der US-Bundesstaaten, in denen sie bisher gelebt hat, als Rechtsanwältin an einer Anwaltskammer registriert ist. Dies wirft Fragen bezüglich ihrer formellen juristischen Qualifikationen für die Position auf. Regierungsvertreter haben die Vorwürfe zurückgewiesen und die Personalie verteidigt. Der genaue Hintergrund ihrer Ausbildung und bisherigen beruflichen Stationen wird derzeit von Medien genauer beleuchtet. Es ist unklar, welche konkreten Auswirkungen diese Diskussion auf ihre Arbeit im Weißen Haus haben wird. Bislang wurden keine offiziellen Dokumente oder Korrekturen zu ihrem Lebenslauf veröffentlicht.",
-    "r": "Die Diskussion um die Qualifikationen einer hochrangigen Regierungssprecherin betrifft die Glaubwürdigkeit und Transparenz der US-Regierung. Solche Personalfragen sind von allgemeinem öffentlichem und politischem Interesse.",
+    "t": "Weißes Haus verteidigt neue Pressesprecherin nach Berichten über ihre juristische Qualifikation",
+    "s": "Das Weiße Haus hat seine neue Pressesprecherin Katie Zacharia gegen Fragen zu ihren juristischen Qualifikationen verteidigt. Berichten zufolge scheint sie in keinem Bundesstaat, in dem sie gelebt hat, als Rechtsanwältin zugelassen zu sein. Die Diskussion wirft Fragen über ihre beruflichen Voraussetzungen für das Amt auf. Weitere Details zu den Vorwürfen wurden zunächst nicht bekannt.",
+    "m": "Die Personalie der neuen Pressesprecherin des Weißen Hauses, Katie Zacharia, sorgt für Diskussionen. Auslöser sind Berichte, wonach sie in den Bundesstaaten, in denen sie bisher gewohnt hat, nicht im Anwaltsregister eingetragen ist. Eine offizielle Registrierung am Bar-Verzeichnis konnte demnach nicht festgestellt werden. Das Weiße Haus sah sich daraufhin veranlasst, die Qualifikationen und die Integrität seiner Sprecherin öffentlich zu verteidigen. Bislang bleibt unklar, welche konkreten rechtlichen Anforderungen für die Position im Einzelnen gelten und ob das Fehlen der Zulassung praktische Konsequenzen hat. Beobachter und Medien fordern genauere Aufklärung über ihren beruflichen Hintergrund. Die Angelegenheit beleuchtet die genaue Prüfung von Personalentscheidungen in der US-Regierung.",
+    "r": "Die Debatte betrifft die Integrität und die beruflichen Voraussetzungen von Regierungsmitarbeitern in den USA. Die öffentliche Verteidigung durch das Weiße Haus unterstreicht die politische Sensibilität der Personalie.",
     "srcs": [
       {
         "name": "BBC World",
@@ -2739,15 +3411,15 @@
       }
     ],
     "url": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
-    "agree": "Beide Quellen stimmen überein, dass das Weiße Haus seine neue Pressesprecherin Katie Zacharia wegen ihrer juristischen Qualifikationen verteidigen musste.",
+    "agree": "Beide Quellen stimmen überein, dass das Weiße Haus seine neue Pressesprecherin Katie Zacharia und deren juristische Qualifikationen verteidigt.",
     "diff": [
       {
         "name": "BBC World",
-        "note": "Berichtet konkret, dass Katie Zacharia in keinem Bundesstaat, in dem sie gelebt hat, an der Anwaltskammer registriert zu sein scheint."
+        "note": "Berichtet im Detail, dass Katie Zacharia in keinem Bundesstaat, in dem sie gelebt hat, als Rechtsanwältin registriert zu sein scheint."
       },
       {
         "name": "Google News World",
-        "note": "Verweist lediglich auf den Artikel der BBC, ohne eigenständige neue Fakten zu liefern."
+        "note": "Verweist lediglich auf den Artikel der BBC und wiederholt die Hauptschlagzeile ohne zusätzlichen Text."
       }
     ],
     "chg": "",
@@ -2842,9 +3514,9 @@
     "st": "",
     "city": "",
     "t": "Brasilien: Senat billigt Reduzierung der wöchentlichen Arbeitszeit",
-    "s": "Der brasilianische Senat hat eine Verfassungsänderung zur Reduzierung der wöchentlichen Arbeitszeit ohne Lohneinbußen gebilligt. Präsident Luiz Inácio Lula da Silva feierte die Entscheidung als Erfolg. Während die Regierung die Maßnahme befürwortet, gibt es von Seiten der Arbeitgeberverbände erhebliche Kritik.",
-    "m": "Der brasilianische Senat hat am Mittwoch die Proposta de Emenda à Constituição (PEC) verabschiedet. Diese sieht eine spürbare Verkürzung der wöchentlichen Arbeitszeit vor, ohne dass es zu Kürzungen der Löhne für die Beschäftigten kommt. Die Reform gilt als eine der zentralen politischen Forderungen und Wahlkampfthemen von Präsident Lula da Silva. Befürworter sehen darin einen wichtigen Schritt zu mehr sozialer Gerechtigkeit und Entlastung der Arbeitnehmer. Auf der anderen Seite lehnen Wirtschafts- und Unternehmensverbände das Vorhaben ab. Sie warnen vor steigenden Kosten und wettbewerbsnachteiligen Folgen für die brasilianische Wirtschaft. Offen bleibt, wie die genaue Umsetzung in den Betrieben erfolgen wird und welche Übergangsfristen gelten.",
-    "r": "Die gesetzliche Verkürzung der Arbeitszeit ohne Lohnausgleich berührt zentrale arbeitsmarkt- und wirtschaftspolitische Interessen in Brasilien. Der Konflikt zwischen der politischen Führung und den Arbeitgeberverbänden verdeutlicht die wirtschaftlichen Spannungen des Landes.",
+    "s": "Der brasilianische Senat hat eine Verfassungsänderung zur Reduzierung der wöchentlichen Arbeitszeit ohne Lohneinbußen gebilligt. Während Präsident Lula da Silva den Beschluss feiert, gibt es erhebliche Kritik von Wirtschaftsverbänden. Das Gesetz stellt eine zentrale politische Initiative der Regierung dar.",
+    "m": "Der brasilianische Senat stimmte am Mittwoch für die Proposta de Emenda à Constituição (PEC), welche die wöchentliche Arbeitszeit verkürzt. Von den beteiligten Akteuren wird die Maßnahme unterschiedlich bewertet. Präsident Luiz Inácio Lula da Silva, der als Kandidat für eine Wiederwahl antritt, feierte den Erfolg als wichtige politische Errungenschaft. Die gesetzliche Neuerung sieht vor, dass die Arbeitszeit sinkt, ohne dass es zu Gehaltskürzungen für die Arbeitnehmer kommt. Gegenwind kommt hingegen von Unternehmensseite, wo Vertreter scharfe Kritik an der Entscheidung übten. Offen bleibt bislang, wie die genaue Umsetzung in der Praxis erfolgen soll und welche wirtschaftlichen Langzeitfolgen die Reform haben wird.",
+    "r": "Die arbeitsrechtliche Reform in Brasilien betrifft Millionen Beschäftigte und die dortige Wirtschaft, während sie gleichzeitig ein zentrales Projekt der Regierung darstellt. Die kontroverse Aufnahme durch Politik und Unternehmertum verleiht dem Ereignis hohe Tragweite.",
     "srcs": [
       {
         "name": "RTP Mundo",
@@ -2858,15 +3530,15 @@
       }
     ],
     "url": "https://www.rtp.pt/noticias/mundo/lula-celebra-aprovacao-no-brasil-de-reducao-de-semana-de-trabalho-empresarios-criticam-medida_n1771752",
-    "agree": "Die Quellen stimmen überein, dass der brasilianische Senat eine Reduzierung der wöchentlichen Arbeitszeit ohne Kürzung der Löhne gebilligt hat und dass Präsident Lula da Silva die Maßnahme feiert, während Arbeitgeber sie kritisieren.",
+    "agree": "Beide Quellen stimmen darin überein, dass der brasilianische Senat die Reduzierung der wöchentlichen Arbeitszeit ohne Lohneinbußen gebilligt hat.",
     "diff": [
       {
         "name": "RTP Mundo",
-        "note": "Erwähnt explizit die Kritik von Unternehmerverbänden an der Maßnahme."
+        "note": "Erwähnt zusätzlich die Freude von Präsident Lula sowie die Kritik von Wirtschaftsverbänden an der Maßnahme."
       },
       {
         "name": "RTP Economia",
-        "note": "Nennt den genauen Wochentag (Mittwoch) der Abstimmung, bezeichnet das Vorhaben als PEC (Proposta de Emenda à Constituição) und nennt es eine Kandidatur-Bandeira für Lulas Wiederwahl."
+        "note": "Nennt den genauen Wochentag (Mittwoch), bezeichnet die Maßnahme als PEC und erwähnt, dass Lula als Kandidat für die Wiederwahl antritt."
       }
     ],
     "chg": "",
@@ -14764,436 +15436,6 @@
       {
         "name": "Guardian World",
         "note": "Berichtet detailliert, dass die Festgenommenen von der Plattform Matsadaash stammen und von Mitarbeitern Vorwürfe wegen Folter und erzwungener Geständnisse erhoben wurden."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-c14073e95f770a50",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-09T01:23:40.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Festnahme nach tödlichen Schüssen bei Waffenkontrolle in Berngau",
-    "s": "Bei einer Waffenkontrolle im oberpfälzischen Berngau sind zwei Mitarbeiter des Landratsamtes erschossen worden. Der mutmaßliche Täter verschanzte sich nach den Schüssen in einem Wohngebäude. In der darauffolgenden Nacht erfolgte der Zugriff und die Festnahme des Verdächtigen durch Einsatzkräfte.",
-    "m": "Der Vorfall ereignete sich während einer amtlichen Waffenkontrolle in Berngau, einer Gemeinde in der Oberpfalz in Bayern. Im Rahmen dieser Überprüfung wurden zwei Mitarbeiter des zuständigen Landratsamtes durch Schüsse getötet. Der mutmaßliche Schütze flüchtete oder verblieb daraufhin verschanzt in einem Gebäude. Die Polizei leitete umgehend Maßnahmen ein und sicherte das Gebiet. In der Nacht kam es schließlich zum Zugriff durch Spezialkräfte, bei dem der Verdächtige festgenommen werden konnte. Weitere Details zum Hintergrund des Waffenbesitzers oder zum genauen Tathergang wurden zunächst nicht bekannt gegeben.",
-    "r": "Die gewaltsame Eskalation einer behördlichen Routinekontrolle mit tödlichen Folgen für zwei Mitarbeiter verdeutlicht die Risiken im Umgang mit Waffenbesitzern. Der Fall hat aufgrund der Tötung von Amtspersonen und des Großeinsatzes überregionale Bedeutung.",
-    "srcs": [
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/news/2026-10/08/anwohner-sollen-nach-schussgeraeuschen-in-haeusern-bleiben",
-        "date": "2026-10-09T01:23:40.000Z"
-      },
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/panorama/berngau-festnahme-nach-toedlichen-schuessen-bei-waffenkontrolle-in-der-oberpfalz-HM7CMTFG5ZA2TDWUR7JLIZ2G4U.html",
-        "date": "2026-10-09T01:10:58.000Z"
-      }
-    ],
-    "url": "https://www.zeit.de/news/2026-10/08/anwohner-sollen-nach-schussgeraeuschen-in-haeusern-bleiben",
-    "agree": "Die Quellen stimmen überein, dass es in Berngau in der Oberpfalz bei einer Waffenkontrolle zu tödlichen Schüssen auf Mitarbeiter des Landratsamtes kam und der mutmaßliche Täter festgenommen wurde.",
-    "diff": [
-      {
-        "name": "ZEIT ONLINE",
-        "note": "Berichtet über die Festnahme nach tödlichen Schüssen, nennt aber keine Details zum Ablauf."
-      },
-      {
-        "name": "RND",
-        "note": "Ergänzt, dass die Getöteten Mitarbeiter des Landratsamtes waren und der Schütze sich in einem Haus verschanzte, bis in der Nacht der Zugriff erfolgte."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-5a15895dc422f0e4",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-09T01:07:06.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Zwei Behördenmitarbeiter bei Waffenkontrolle in der Oberpfalz erschossen",
-    "s": "Bei einer Waffenkontrolle in der Oberpfalz sind zwei Bedienstete des Landratsamtes Neumarkt erschossen worden. Der tragische Vorfall ereignete sich bei einem Routineeinsatz in Berngau. Die Hintergründe und der genaue Ablauf der Tat sind Gegenstand der laufenden Ermittlungen.",
-    "m": "Der Vorfall ereignete sich während einer Waffenkontrolle durch Mitarbeiter des Landratsamtes Neumarkt im oberpfälzischen Berngau. Aus bislang ungeklärten Gründen kam es zu Schüssen, bei denen zwei Behördenmitarbeiter getötet wurden. Der mutmaßliche Schütze hat sich nach der Tat vor den alarmierten Polizeikräften verschanzt. Die Polizei ist mit einem Großaufgebot vor Ort, um die Situation zu sichern und den Verdächtigen festzunehmen. Weitere Details zum Täter, zur Waffe oder zu möglichen Vorstrafen wurden von den Behörden zunächst nicht bekannt gegeben.",
-    "r": "Der gewaltsame Tod von zwei Behördenmitarbeitern bei einer routinemäßigen Waffenkontrolle verdeutlicht die unvorhersehbaren Gefahren im Außendienst von Verwaltungen. Ein Großeinsatz der Polizei ist die unmittelbare Folge, um die Sicherheit vor Ort wiederherzustellen.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/zwei-behoerdenmitarbeiter-bei-waffenkontrolle-in-der-oberpfalz-erschossen-102.html",
-        "date": "2026-10-09T01:07:06.000Z"
-      },
-      {
-        "name": "Süddeutsche Zeitung",
-        "url": "https://www.sueddeutsche.de/bayern/oberpfalz-berngau-schuesse-polizei-verletzte-li.3560697",
-        "date": "2026-10-08T22:10:59.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/zwei-behoerdenmitarbeiter-bei-waffenkontrolle-in-der-oberpfalz-erschossen-102.html",
-    "agree": "Die Quellen sind sich einig, dass bei einer Waffenkontrolle in der Oberpfalz zwei Mitarbeiter einer Behörde erschossen wurden.",
-    "diff": [
-      {
-        "name": "Süddeutsche Zeitung",
-        "note": "nennt den genauen Ort Berngau, erwähnt den Routineeinsatz und berichtet, dass sich der mutmaßliche Schütze nach der Tat verschanzt hat."
-      },
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "note": "nennt das Landratsamt Neumarkt als Arbeitgeber der getöteten Bediensteten."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-7b4b41fbe57c3842",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-09T01:07:06.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Niedersachsens SPD-Fraktionschef Stefan Politze tritt zurück",
-    "s": "Der Vorsitzende der SPD-Fraktion im niedersächsischen Landtag, Stefan Politze, hat seinen Rücktritt erklärt. Diesen Schritt gab er in einer außerordentlichen Fraktionssitzung bekannt. Hintergrund des Rücktritts sind strafrechtliche Ermittlungen gegen ihn.",
-    "m": "Stefan Politze hat seinen Rücktritt als Vorsitzender der SPD-Landtagsfraktion in Niedersachsen erklärt. Diesen Schritt kündigte er in einer am Abend stattfindenden außerordentlichen Sitzung an, wie die SPD-Fraktion mitteilte. Nähere Details zu den genauen Vorwürfen oder dem Inhalt der strafrechtlichen Ermittlungen wurden in den Meldungen zunächst nicht genannt. Die Fraktion wird sich nun neu aufstellen müssen. Der Zeitpunkt des Rücktritts erfolgte unmittelbar nach Bekanntwerden der Ermittlungen. Offen ist bislang, wer die Nachfolge von Politze antreten wird.",
-    "r": "Der Rücktritt eines ranghohen Fraktionsvorsitzenden aufgrund strafrechtlicher Ermittlungen betrifft direkt die politische Stabilität und Führung der Landes-SPD in Niedersachsen.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/strafrechtliche-ermittlungen-niedersachsens-spd-fraktionschef-politze-tritt-zurueck-106.html",
-        "date": "2026-10-09T01:07:06.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/politik/niedersachsen-spd-fraktionschef-stefan-politze-tritt-zurueck-strafrechtliche-ermittlungen-a-021d1d62-e3bf-499a-b577-16c0375d5878#ref=rss",
-        "date": "2026-10-08T17:40:00.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/strafrechtliche-ermittlungen-niedersachsens-spd-fraktionschef-politze-tritt-zurueck-106.html",
-    "agree": "Die Quellen stimmen darin überein, dass der niedersächsische SPD-Fraktionschef Stefan Politze im Zuge strafrechtlicher Ermittlungen seinen Rücktritt erklärt hat.",
-    "diff": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "note": "nennt den Vornamen des Rücktrittskandidaten in der Kurzmeldung nicht direkt im Titel, sondern führt ihn im Fließtext auf."
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "nennt den vollständigen Namen Stefan Politze direkt im Titel und ergänzt, dass der Schritt in einer außerordentlichen Sitzung am Abend angekündigt wurde."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-dbde312b45e94892",
-    "c": "INT",
-    "o": "INT",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-09T00:57:45.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Flugzeugträger USS Abraham Lincoln nach Rekordeinsatz in San Diego zurück",
-    "s": "Der US-Flugzeugträger USS Abraham Lincoln ist nach mehr als 300 Tagen beziehungsweise über zehn Monaten auf See in seinen Heimathafen San Diego zurückgekehrt. Familienangehörige empfangenen die zurückkehrenden Soldaten. Das Schiff war zuvor im Nahen Osten im Einsatz.",
-    "m": "Die USS Abraham Lincoln hat einen besonders langen und rekordverdächtigen Einsatz hinter sich, der mehr als 300 Tage dauerte. Nach über zehn Monaten auf See näherte sich das Schiff der US-Küste und lief schließlich wieder in San Diego ein, wo Familien ihre Lieben bei der Rückkehr in die Arme schlossen. Während der Rückkehr aus dem Nahen Osten legte der Flugzeugträger im vergangenen Monat zudem einen Stopp in Thailand ein. Die genauen Gründe für die ungewöhnlich lange Verweildauer auf See und weitere Details zum genauen Ablauf des Einsatzes wurden in den Berichten nicht näher ausgeführt.",
-    "r": "Die Rückkehr eines großen US-Flugzeugträgers nach einem monatelangen Einsatz im Nahen Osten verdeutlicht anhaltende maritime Präsenzoperationen der USA. Solche Rekordeinsätze beanspruchen Besatzungen und Material über einen längeren Zeitraum.",
-    "srcs": [
-      {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/uss-abraham-lincoln-returns-after-record-breaking-deployment?traffic_source=rss",
-        "date": "2026-10-09T00:57:45.000Z"
-      },
-      {
-        "name": "Euronews",
-        "url": "https://www.euronews.com/2026/10/08/us-aircraft-carrier-abraham-lincoln-returns-to-san-diego-after-record-deployment",
-        "date": "2026-10-08T20:32:03.000Z"
-      }
-    ],
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/uss-abraham-lincoln-returns-after-record-breaking-deployment?traffic_source=rss",
-    "agree": "Die Quellen stimmen darin überein, dass der US-Flugzeugträger USS Abraham Lincoln nach einem rekordverdächtigen Einsatz von mehr als zehn Monaten beziehungsweise 300 Tagen nach San Diego zurückgekehrt ist.",
-    "diff": [
-      {
-        "name": "Al Jazeera",
-        "note": "Berichtet über die emotionalen Szenen bei der Ankunft, bei denen Familien ihre geliebten Menschen in San Diego in die Arme schlossen."
-      },
-      {
-        "name": "Euronews",
-        "note": "Erwähnt zusätzlich, dass das Schiff aus dem Nahen Osten kam und auf dem Rückweg im vergangenen Monat einen Zwischenstopp in Thailand einlegte."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-bf318ad82106f361",
-    "c": "INT",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-09T00:50:52.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Taylor Swift tritt bei Gala des Academy Museums auf",
-    "s": "Popstar Taylor Swift wird bei der jährlichen Gala des Academy Museums auftreten. Der Auftritt erfolgt vor dem Hintergrund möglicher Oscar-Ambitionen der Sängerin. Swift hat für den kommenden Pixar-Film „Toy Story 5“ einen Song beigesteuert.",
-    "m": "Ein Oscar fehlt bislang in der umfangreichen Trophäen-Sammlung von Taylor Swift. Nun sorgt ein bevorstehender Auftritt der Künstlerin für Aufmerksamkeit. Sie wird bei der jährlichen Gala des Academy Museums auf der Bühne stehen. In diesem Zusammenhang wird spekuliert, ob Swift Ambitionen auf den begehrten Filmpreis hat. Konkre anlassbezogene Details wurden im Rahmen der Berichterstattung nicht genannt, jedoch steht ihr musikalischer Beitrag für das Filmprojekt im Fokus. Der Pixar-Film „Toy Story 5“ bildet dabei die Verbindung zwischen ihrer musikalischen Arbeit und dem Filmpreis-Kontext.",
-    "r": "Die Meldung ist relevant, da der Auftritt einer global bekannten Künstlerin bei einer offiziellen Veranstaltung des Academy Museums im Kontext möglicher Oscar-Ambitionen steht.",
-    "srcs": [
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/promis/taylor-swift-hat-oscar-ambitionen-und-tritt-bei-gala-im-academy-museum-auf-FVTX2I5L3RGFNFMNX3JR3MO6PY.html",
-        "date": "2026-10-09T00:50:52.000Z"
-      },
-      {
-        "name": "stern",
-        "url": "https://www.stern.de/kultur/film/grosser-auftritt--oscar-ambitionen--swift-tritt-bei-academy-museum-gala-auf-38369784.html",
-        "date": "2026-10-08T22:15:04.000Z"
-      }
-    ],
-    "url": "https://www.rnd.de/promis/taylor-swift-hat-oscar-ambitionen-und-tritt-bei-gala-im-academy-museum-auf-FVTX2I5L3RGFNFMNX3JR3MO6PY.html",
-    "agree": "Beide Quellen stimmen überein, dass Taylor Swift bei der Gala des Academy Museums auftreten wird, für den Pixar-Film „Toy Story 5“ einen Song beisteuerte und in ihrer Trophäensammlung noch ein Oscar fehlt.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-08790355964e7aec",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-09T00:13:51.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Nato kündigt jährliche Atomwaffen-Übung Steadfast Noon an",
-    "s": "Ab Dienstag trainiert die Nato in Italien für das Szenario eines Atomkriegs. Ziel der Übung ist eine glaubwürdige Abschreckung. An dem Manöver beteiligen sich Streitkräfte aus insgesamt 17 Ländern, darunter auch die Bundeswehr.",
-    "m": "Die Nato hat ihre jährliche Atomwaffenübung mit dem Namen Steadfast Noon angekündigt, die am Dienstag in Italien beginnt. Das Manöver dient der Simulation eines Atomkriegs und soll eine glaubwürdige Abschreckung demonstrieren, die sich vor allem an eine bestimmte Richtung richtet. Insgesamt nehmen Streitkräfte aus 17 verschiedenen Nationen an der Übung teil. Zu den beteiligten Ländern gehört auch Deutschland mit der Bundeswehr. Weitere Details zum genauen Ablauf oder konkreten beteiligten Waffensystemen wurden in den Berichten nicht genannt.",
-    "r": "Die Übung betrifft die internationale Sicherheit und die nukleare Abschreckungsstrategie der Nato. Die Beteiligung von 17 Mitgliedstaaten sowie der Bundeswehr unterstreicht die gemeinsame militärische Ausrichtung im Bündnis.",
-    "srcs": [
-      {
-        "name": "t-online Nachrichten",
-        "url": "https://www.t-online.de/nachrichten/ausland/id_101473108/nato-kuendigt-atomwaffen-uebung-an.html",
-        "date": "2026-10-09T00:13:51.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/ausland/nato-kuendigt-atomwaffen-uebung-an-bundeswehr-nimmt-teil-a-85a6557f-06ed-4ff5-a3ae-e9648bc2e7f3#ref=rss",
-        "date": "2026-10-08T18:16:00.000Z"
-      }
-    ],
-    "url": "https://www.t-online.de/nachrichten/ausland/id_101473108/nato-kuendigt-atomwaffen-uebung-an.html",
-    "agree": "Die Quellen stimmen überein, dass die Nato eine Atomwaffen-Übung in Italien ab Dienstag angekündigt hat.",
-    "diff": [
-      {
-        "name": "DER SPIEGEL",
-        "note": "Erwähnt zusätzlich den Namen der Übung Steadfast Noon, die Beteiligung von Streitkräften aus 17 Ländern sowie die Teilnahme der Bundeswehr."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-cf7b1de0514c6459",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-09T00:13:39.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "US-Star Fran Drescher spielt in zweiter Staffel der Serie \"Die Zweiflers\" mit",
-    "s": "Die US-Schauspielerin Fran Drescher, bekannt aus der Sitcom \"Die Nanny\", übernimmt eine Rolle in der deutschen Fernsehserie \"Die Zweiflers\". Die Macher der preisgekrönten ARD-Produktion konnten den Weltstar für die bevorstehende zweite Staffel gewinnen. Genauere Details zur Handlung oder ihrer Rolle wurden zunächst nicht genannt.",
-    "m": "Die erfolgreiche ARD-Serie \"Die Zweiflers\" bekommt für ihre zweite Staffel prominente Unterstützung aus Hollywood. Die Macher der Frankfurter Produktion haben die US-amerikanische Schauspielerin Fran Drescher verpflichtet, die vor allem durch ihre Hauptrolle in der Kult-Sitcom \"Die Nanny\" weltbekannt wurde. Die Serie konnte zuvor bereits diverse Preise gewinnen und gilt als Kritikererfolg. Die Dreharbeiten oder konkrete Ausstrahlungstermine für die neue Staffel sind in den vorliegenden Berichten noch nicht näher beziffert. Auch über den genauen Charakter, den Drescher verkörpern wird, ist bisher nichts bekannt. Fans und Medien werten die Verpflichtung jedoch als großen Coup für eine deutsche Fernsehproduktion.",
-    "r": "Die Verpflichtung eines internationalen Hollywood-Stars für eine deutsche Produktion ist ein bemerkenswerter Erfolg für die hsche Fernsehbranche. Solche Engagements erhöhen die internationale Aufmerksamkeit für heimische Serienformate wie \"Die Zweiflers\".",
-    "srcs": [
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/medien/nanny-fran-drescher-mischt-deutsche-serie-die-zweiflers-auf-L5HW3DUSFRAA3PGCII3HHY5DLM.html",
-        "date": "2026-10-09T00:13:39.000Z"
-      },
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/news/2026-10/09/nanny-fran-drescher-mischt-deutsche-serie-auf",
-        "date": "2026-10-08T23:22:37.000Z"
-      }
-    ],
-    "url": "https://www.rnd.de/medien/nanny-fran-drescher-mischt-deutsche-serie-die-zweiflers-auf-L5HW3DUSFRAA3PGCII3HHY5DLM.html",
-    "agree": "Beide Quellen stimmen darin überein, dass der US-Star Fran Drescher aus \"Die Nanny\" in der deutschen Serie \"Die Zweiflers\" mitmischt.",
-    "diff": [
-      {
-        "name": "ZEIT ONLINE",
-        "note": "Erwähnt Frankfurt als Handlungsort bzw. Bezugspunkt der Serie."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-c9c68d4657f1f4ff",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-09T00:05:00.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Zwei Todesopfer bei Waffenkontrolle in der Oberpfalz",
-    "s": "Bei einer Waffenkontrolle in Berngau in der Oberpfalz sind zwei Mitarbeiter des Landratsamtes durch Schüsse getötet worden. Der mutmaßliche Schütze hat sich nach der Tat in einem Wohnhaus verschanzt. Die Situation in dem betroffenen Gebiet dauert an. Die Polizei ist vor Ort im Einsatz.",
-    "m": "Der Vorfall ereignete sich bei einer behördlichen Routinekontrolle in Berngau in der Oberpfalz, als Mitarbeiter des Landratsamtes das Wohnhaus eines Waffenbesitzers aufsuchten. In diesem Rahmen kam es zu den tödlichen Schüssen, bei denen zwei Behördenmitarbeiter ums Leben kamen. Der Täter verschanzte sich nach den Schüssen im Gebäude. Die Hintergründe der Eskalation und genaue Details zum Ablauf sind Gegenstand polizeilicher Ermittlungen. Spezialeinheiten oder weitere Sicherheitskräfte sind in den anschließenden Einsatz eingebunden.",
-    "r": "Die gewaltsame Eskalation einer behördlichen Routinekontrolle mit Todesopfern verdeutlicht die potenziellen Gefahren bei Waffenkontrollen. Der Vorfall wirft Fragen zur Sicherheit von Behördenmitarbeitern bei Außeneinsätzen auf.",
-    "srcs": [
-      {
-        "name": "Frankfurter Allgemeine",
-        "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/oberpfalz-zwei-todesopfer-nach-schuessen-bei-waffenkontrolle-201300625.html",
-        "date": "2026-10-09T00:05:00.000Z"
-      },
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/gesellschaft/2026-10/oberpfalz-schuesse-waffenkontrolle-polizei-tote",
-        "date": "2026-10-08T22:10:20.000Z"
-      }
-    ],
-    "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/oberpfalz-zwei-todesopfer-nach-schuessen-bei-waffenkontrolle-201300625.html",
-    "agree": "In Berngau in der Oberpfalz wurden zwei Mitarbeiter des Landratsamtes bei einer Waffenkontrolle durch Schüsse getötet und der mutmaßliche Täter verschanzt sich im Haus.",
-    "diff": [
-      {
-        "name": "Frankfurter Allgemeine",
-        "note": "nennt den genauen Ort Berngau"
-      },
-      {
-        "name": "ZEIT ONLINE",
-        "note": "berichtet über ein zweites Todesopfer"
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-3a4b8743a47cfefa",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-08T23:07:32.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Bundestag macht Weg für Planungen der neuen Bahntrasse Hannover-Hamburg frei",
-    "s": "Der Bundestag hat den Weg für weitere Planungen einer neuen Bahntrasse zwischen Hannover und Hamburg freigemacht. Über das Projekt in Niedersachsen wurde zuvor jahrelang gestritten. Nun sollen die Planungen vorangetrieben werden.",
-    "m": "Das Projekt einer Neubaustrecke zwischen Hannover und Hamburg ist seit Jahren umstritten. Der Bundestag hat nun entschieden, den Weg für die weiteren Planungen zu ebnen. Neben dem Neubau sieht die Entscheidung auch vor, Verbesserungen an der bereits bestehenden Strecke vorzunehmen. Konkrete Details zum zeitlichen Ablauf oder den genauen Kosten wurden in den vorliegenden Berichten nicht genannt. Die Maßnahme betrifft die Region Niedersachsen und soll das Schienennetz in diesem Bereich langfristig entlasten und modernisieren. Weitere offene Punkte betreffen die genaue Streckenführung und die Beteiligung der Anwohner an den Planungsverfahren.",
-    "r": "Die Entscheidung des Bundestags markiert einen wichtigen Schritt in einem jahrelang umstrittenen Infrastrukturprojekt. Die geplante Bahntrasse und die vorgesehenen Streckenverbesserungen haben erhebliche Auswirkungen auf den Bahnverkehr in Niedersachsen.",
-    "srcs": [
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/mobilitaet/2026-10/deutsche-bahn-hannover-hamburg-bahntrasse-ausbau",
-        "date": "2026-10-08T23:07:32.000Z"
-      },
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/politik/neue-bahntrasse-hannover-hamburg-bundestag-macht-weg-frei-KP3HOATAKRAKTDNE3OSQ7WYQHE.html",
-        "date": "2026-10-08T22:06:39.000Z"
-      }
-    ],
-    "url": "https://www.zeit.de/mobilitaet/2026-10/deutsche-bahn-hannover-hamburg-bahntrasse-ausbau",
-    "agree": "Beide Quellen stimmen überein, dass der Bundestag den Weg für weitere Planungen der neuen Bahntrasse zwischen Hannover und Hamburg freigemacht hat und dass über das Projekt jahrelang gestritten wurde.",
-    "diff": [
-      {
-        "name": "RND",
-        "note": "Erwähnt zusätzlich, dass der Bundestag auch Verbesserungen an der jetzigen Strecke fordert."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-0fcd5b8591fa223c",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-08T22:44:27.000Z",
-    "p": 3,
-    "st": "NI",
-    "city": "",
-    "t": "Fragen und Antworten zur geplanten Neubaustrecke Hamburg-Hannover",
-    "s": "Der Bundestag hat den Weg für eine neue Bahntrasse durch Niedersachsen freigemacht. Das Projekt sorgt für Diskussionen und wirft zahlreiche Fragen in der Region auf. Es soll die Verbindung zwischen Hamburg und Hannover verbessern. Konkrete Details zu den Auswirkungen auf Anwohner und Natur stehen im Fokus der Berichterstattung.",
-    "m": "Die geplante Neubaustrecke zwischen Hamburg und Hannover ist durch einen Beschluss des Bundestages einen entscheidenden Schritt vorangekommen. Das Projekt betrifft direkt das Bundesland Niedersachsen und führt zu Fragen über den genauen Verlauf und die Konsequenzen für die Region. Bisher gibt es vor allem eine Bestätigung des parlamentarischen Weges für die Trasse. Zahlreiche Bürger und Kommunen beschäftigen sich mit den praktischen Folgen des Bahnprojekts. Offen sind oft noch exakte Zeitpläne für den Bau und die genauen Standortentscheidungen. Die Deutsche Bahn und die Politik stehen im Dialog über die Ausgestaltung.",
-    "r": "Das Infrastrukturprojekt betrifft wichtige Verkehrsachsen in Deutschland und hat direkte Auswirkungen auf die betroffenen Regionen in Niedersachsen. Daher ist die Klärung von Fragen zum Verlauf und Bau von großer Bedeutung.",
-    "srcs": [
-      {
-        "name": "Tagesschau Regional Niedersachsen",
-        "url": "https://www.tagesschau.de/inland/regional/niedersachsen/neubaustrecke-hamburg-hannover-wichtige-fragen-und-antworten-zu-dem-projekt,neubaustrecke-134.html",
-        "date": "2026-10-08T22:44:27.000Z"
-      },
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPejJWVFUxT01mVUdHZGxneXVSOGkwSVZYTjdHbGY2VnVqb242T1FNZG5BWHpVb3R3X2RranhpaER1d3FUTHFkbHBJWTFVNDZEVG96VXI4MmlRWEc0bHA2eEs4aENrMmUzY0VNTTd1YlVqN2M3SmM5NU5ST2hUQ011ZlVObXAtWERBZnFhTXZFY2tGaFVUaldINkEwUzBvWUFvbFQ3YkRwTS1aMW9ESktZVGRkRW5QWTR2eDY4dENrS01RT3NOQndERXBIMEpCZ3Z4bU1KbGFwV1NfLWJfY2VVSGZJcjJrWThJV2ZfQ2FTX1RCUW51MWZBLUg5WFFldw?oc=5",
-        "date": "2026-10-08T22:44:00.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/regional/niedersachsen/neubaustrecke-hamburg-hannover-wichtige-fragen-und-antworten-zu-dem-projekt,neubaustrecke-134.html",
-    "agree": "Beide Quellen berichten über die geplante Neubaustrecke Hamburg-Hannover und die damit verbundenen Fragen in Niedersachsen.",
-    "diff": [
-      {
-        "name": "Tagesschau Regional Niedersachsen",
-        "note": "Erwähnt konkret, dass der Bundestag den Weg für eine neue Bahntrasse durch Niedersachsen frei gemacht hat."
-      },
-      {
-        "name": "Google News DE",
-        "note": "Verweist auf einen Beitrag des NDR mit Fragen und Antworten zu dem Projekt."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-d18d51d04fba2869",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-08T22:10:41.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Ukrainisches Verhandlungsteam trifft in den USA auf Trump-Unterhändler",
-    "s": "Ein ukrainisches Verhandlungstrio reist zu Gesprächen in die USA, um Unterhändler des US-Präsidenten zu treffen. Das zweitägige Treffen am Freitag und Samstag soll neue Impulse in den Bemühungen um ein Ende des Ukraine-Kriegs setzen. Neben der ukrainischen Delegation soll auch ein europäisches Team an den Gesprächen teilnehmen. US-Beamte haben die Zusammenkunft bestätigt.",
-    "m": "Präsident Wolodymyr Selenskyj kündigte am Donnerstag an, dass die ukrainische Delegation in den USA mit Jared Kushner und Steve Witkoff zusammentreffen wird. Die Verhandlungen sind für Freitag und Samstag angesetzt und sollen zwei Tage umfassen. Kiew hofft weiterhin auf direkte Friedensgespräche mit Moskau. Unterdessen gab es Berichte über ein mutmaßliches Treffen des Kremlchefs mit Altkanzler Gerhard Schröder. Das Treffen der Unterhändler markiert einen neuen Vorstoß im diplomatischen Prozess, wobei die genauen Inhalte der Agenda noch nicht vollständig bekannt sind. US-amerikanische offizielle Stellen bestätigten die Planungen für die Konsultationen.",
-    "r": "Die Gespräche zwischen der Ukraine und den Unterhändlern der US-Regierung sind ein wichtiger diplomatischer Schritt zur Beendigung des Krieges. Die Einbindung europäischer Akteure verleiht dem Treffen zusätzliches internationales Gewicht.",
-    "srcs": [
-      {
-        "name": "stern",
-        "url": "https://www.stern.de/news/ukraine-team-zu-gespraech-mit-trump-unterhaendlern-am-freitag-und-samstag-in-den-usa-38369468.html",
-        "date": "2026-10-08T22:10:41.000Z"
-      },
-      {
-        "name": "t-online Nachrichten",
-        "url": "https://www.t-online.de/nachrichten/ukraine/id_101466202/ukraine-krieg-ukraine-team-zu-gespraech-mit-trump-unterhaendlern.html",
-        "date": "2026-10-08T21:29:18.000Z"
-      }
-    ],
-    "url": "https://www.stern.de/news/ukraine-team-zu-gespraech-mit-trump-unterhaendlern-am-freitag-und-samstag-in-den-usa-38369468.html",
-    "agree": "Beide Quellen berichten über ein bevorstehendes beziehungsweise laufendes Gespräch zwischen einem ukrainischen Team und Unterhändlern der US-Seite.",
-    "diff": [
-      {
-        "name": "stern",
-        "note": "Berichtet detailliert über das bevorstehende zweitägige Treffen am Freitag und Samstag in den USA, nennt die Beteiligten Jared Kushner und Steve Witkoff sowie die Teilnahme eines europäischen Teams laut Selenskyj."
-      },
-      {
-        "name": "t-online Nachrichten",
-        "note": "Erwähnt zusätzlich ein mögliches Treffen des Kremlchefs mit Altkanzler Gerhard Schröder 'zu Hause' und verweist auf einen allgemeinen Newsblog."
       }
     ],
     "chg": "",
