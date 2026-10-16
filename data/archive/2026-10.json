@@ -1,5 +1,593 @@
 [
   {
+    "id": "story-60a09fe2fe97e65b",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-09T15:18:53.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "USA verhängen scharfe Sanktionen gegen Internationalen Strafgerichtshof",
+    "s": "Die US-Regierung hat weitreichende Sanktionen gegen den Internationalen Strafgerichtshof in Den Haag verhängt. Damit will Washington unter anderem die finanzielle Handlungsfähigkeit des Gerichts beschränken. Hintergrund sind Ermittlungen des Gerichts zu mutmaßlichen US-Kriegsverbrechen.",
+    "m": "Die US-Regierung hat angekündigt, dem Internationalen Strafgerichtshof sämtliche Finanzmittel zu entziehen und weitere Sanktionen zu verhängen. US-Präsident Donald Trump hatte das Gericht in Den Haag bereits länger im Visier. Die neuen Maßnahmen folgen nur wenige Stunden nach der Verleihung des Friedensnobelpreises an eine ehemalige Richterin. Das Vorgehen der USA steuert auf einen diplomatischen Konflikt mit Europa zu. Den Haag hat die US-Sanktionen bereits scharf kritisiert. Die Maßnahmen zielen darauf ab, die Handlungsfähigkeit des Gerichts massiv zu beschränken und Untersuchungen zu mutmaßlichen Kriegsverbrechen der USA abzuwenden.",
+    "r": "Die Sanktionen der USA gegen ein internationales Gericht belasten die diplomatischen Beziehungen zu Europa und werfen Fragen zum Umgang mit völkerrechtlicher Strafverfolgung auf. Das Vorgehen könnte internationale Spannungen weiter verschärfen.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/politik/ausland/2026-10/usa-verhaengen-sanktionen-gegen-internationalen-strafgerichtshof",
+        "date": "2026-10-09T15:18:53.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/politik/trump-regierung-verhaengt-sanktionen-gegen-internationalen-strafgerichtshof-IT2R3GPQCJB4NORPOOEYBG4CZI.html",
+        "date": "2026-10-09T15:15:51.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/usa-verhaengen-weitreichende-sanktionen-gegen-internationalen-strafgerichtshof-a-8f053077-f181-4a25-979d-eb23a1558023#ref=rss",
+        "date": "2026-10-09T15:07:00.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/politik/ausland/2026-10/usa-verhaengen-sanktionen-gegen-internationalen-strafgerichtshof",
+    "agree": "Alle Quellen berichten übereinstimmend, dass die US-Regierung Sanktionen gegen den Internationalen Strafgerichtshof verhängt hat.",
+    "diff": [
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Erwähnt, dass den USA sämtliche Finanzmittel entzogen werden sollen und dies eine Reaktion auf Ermittlungen zu mutmaßlichen Kriegsverbrechen ist."
+      },
+      {
+        "name": "RND",
+        "note": "Merkt an, dass der Schritt nur wenige Stunden nach der Verleihung des Nobelpreises an eine Ex-Richterin erfolgte und Trump das Gericht schon lange im Visier hatte."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Führt aus, dass die USA auf einen diplomatischen Konflikt mit Europa zusteuern und Den Haag das Vorgehen scharf kritisiert."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
+    "id": "story-5cf8441ac2cf3da3",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-09T15:10:04.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Rot-Rot-Grün in Mecklenburg-Vorpommern vereinbart Koalitionsgespräche",
+    "s": "Fast drei Wochen nach der Landtagswahl in Mecklenburg-Vorpommern haben SPD, Linke und Grüne ihre Sondierungsgespräche erfolgreich abgeschlossen. Nun sollen die jeweiligen Parteigremien über die offizielle Aufnahme von Koalitionsverhandlungen entscheiden. Angestrebt wird eine gemeinsame Regierungskoalition.",
+    "m": "Die Sondierungsgespräche zwischen SPD, Linke und Grüne in Mecklenburg-Vorpommern fanden knapp drei Wochen nach der dortigen Landtagswahl statt. Nach Abschluss der Sondierungen steht fest, dass die drei Parteien in Koalitionsverhandlungen eintreten wollen. Als Ziel für die geplante Regierung wurde ausgegeben, dass diese auf Verlässlichkeit, Stabilität und Vertrauen setzen soll. Bevor die Verhandlungen offiziell beginnen können, müssen noch die Gremien der Parteien grünes Licht geben. Genauere Details zum Zeitplan oder inhaltlichen Schwerpunkten der Gespräche wurden in den Berichten zunächst nicht genannt. Weitere Akteure oder Parteien wurden im Kontext dieser Koalitionsbildung nicht erwähnt. Die offenen Punkte betreffen nun die formelle Zustimmung der Parteigremien und die anstehenden konkreten Verhandlungsergebnisse.",
+    "r": "Die Aufnahme von Koalitionsverhandlungen nach erfolgreichen Sondierungen in Mecklenburg-Vorpommern ist ein zentraler Schritt zur Bildung einer neuen Landesregierung aus SPD, Linken und Grünen. Das Ereignis bestimmt die künftige politische Ausrichtung und Regierungsverantwortung in dem Bundesland.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/politik/deutschland/2026-10/koalition-mecklenburg-vorpommern-spd-linke-gruene-sondierungen",
+        "date": "2026-10-09T15:10:04.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWmhoUmt4ZmxHdEJ3Q3RZOGk2WHJqdDZ0WEQxdG5Yelg2X0libTlkQ185YWhiRjJuZDhiWi1xbm0taVNYbmxqMkVsamhJaG9wMDRORlVzVnlZc0xBTEYzS3hZajRuVmZ0UkFrRU85Unh4SFNiUWZGMnd2YlBUYk5EMldpYmNfVzNCUlhQYkliMWVDcDJmRTFBSTV1Uy1DeVI4Q1VWVDBaa3B1Y0txNkZJVUlCd0c5Y3pTZi1VUDlESlhaZkN4WWlrcTlXaXpubTdkVmtqUE9YNThIazViNnpfZ1JUZkg?oc=5",
+        "date": "2026-10-09T13:44:00.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-rot-rot-gruen-vereinbart-koalitionsgespraeche-a-b6054156-102a-45e5-833d-a915325ce7d2#ref=rss",
+        "date": "2026-10-09T13:44:00.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/politik/deutschland/2026-10/koalition-mecklenburg-vorpommern-spd-linke-gruene-sondierungen",
+    "agree": "Die Quellen sind sich einig, dass SPD, Linke und Grüne in Mecklenburg-Vorpommern nach erfolgreichen Sondierungen Koalitionsgespräche vereinbart haben.",
+    "diff": [
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Berichtet, dass nun die Parteigremien die Aufnahme von Koalitionsverhandlungen beschließen sollen."
+      },
+      {
+        "name": "Google News DE",
+        "note": "Verlinkt auf den Spiegel-Artikel und bestätigt ebenfalls die erfolgreichen Sondierungen von Rot-Rot-Grün."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Erwähnt zusätzlich, dass die Gespräche fast drei Wochen nach der Landtagswahl stattfinden und dass eine Regierung angestrebt wird, die auf Verlässlichkeit, Stabilität und Vertrauen setzt."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
+    "id": "story-14b3660b8a841fb2",
+    "c": "DE",
+    "o": "DE",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-09T15:07:50.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Bundestrainer Eric Frenzel befürchtet das Aus für die Nordische Kombination",
+    "s": "Die Nordische Kombination ist künftig kein Bestandteil des olympischen Programms mehr. Bundestrainer Eric Frenzel rechnet infolge dieser Entscheidung mit drastischen Konsequenzen für die gesamte Sportart. Bislang ist unklar, wie sich der Ausschluss von den Olympischen Winterspielen langfristig auf den Fortbestand auswirken wird. Die Entwicklung stellt den Verband und die Athleten vor immense Herausforderungen.",
+    "m": "Die Streichung der Nordischen Kombination aus dem olympischen Programm sorgt bei den Verantwortlichen für große Sorge. Bundestrainer Eric Frenzel zeichnet ein drastisches Szenario und befürchtet einen sehr schnellen Niedergang der Sportart. Nach Einschätzung des Ski-Asses droht dem Sport durch den Verlust der olympischen Bühne der sogenannte Blitz-Tod. Konkrete Details zu möglichen Nachfolgeformaten oder Rettungsmaßnahmen für den Weltcup-Kalender wurden in den Berichten nicht genannt. Offen bleibt vor allem, ob nationale Wettkämpfe das wegbrechende internationale Interesse kompensieren können. Die Beteiligten stehen nun unter Zugzwang, um das Fortbestehen der Disziplin zu sichern.",
+    "r": "Die Entscheidung betrifft den Kernbereich des Wintersports und gefährdet die Existenzgrundlage einer traditionellen olympischen Disziplin. Die Einschätzung des Bundestrainers unterstreicht die dramatischen sportlichen und strukturellen Folgen des Ausschlusses.",
+    "srcs": [
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/sport/Bundestrainer-befuerchtet-Nordischer-Kombination-droht-der-Blitz-Tod-id31401361.html",
+        "date": "2026-10-09T15:07:50.000Z"
+      },
+      {
+        "name": "t-online Sport",
+        "url": "https://www.t-online.de/sport/wintersport/ski-nordisch/id_101474236/nordische-kombination-ski-ass-eric-frenzel-befuerchtet-aus-fuer-die-sportart.html",
+        "date": "2026-10-09T12:10:00.000Z"
+      }
+    ],
+    "url": "https://www.n-tv.de/sport/Bundestrainer-befuerchtet-Nordischer-Kombination-droht-der-Blitz-Tod-id31401361.html",
+    "agree": "Beide Quellen stimmen darin überein, dass die Nordische Kombination kein Teil des olympischen Programms mehr ist und Bundestrainer Eric Frenzel gravierende Folgen für die Sportart befürchtet.",
+    "diff": [
+      {
+        "name": "ntv",
+        "note": "Bezeichnet das Szenario als drastisch und spricht von einem befürchteten Blitz-Tod der Sportart."
+      },
+      {
+        "name": "t-online Sport",
+        "note": "Bezeichnet Eric Frenzel als Ski-Ass und stellt die Frage nach den konkreten Folgen für die Sportart."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-a238f35a3c0f8ae3",
+    "c": "INT",
+    "o": "INT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-09T15:04:58.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Ehemalige UN-Menschenrechtschefin Navi Pillay erhält den Friedensnobelpreis 2026",
+    "s": "Die frühere Richterin am Internationalen Strafgerichtshof und ehemalige UN-Menschenrechtschefin Navi Pillay ist mit dem Friedensnobelpreis 2026 ausgezeichnet worden. Das norwegischeNobelkomitee begründete die Entscheidung mit ihren herausragenden Verdiensten. Die Verleihung würdigt ihr langjähriges Engagement auf internationaler Ebene.",
+    "m": "Navi Pillay wurde der Friedensnobelpreis für das Jahr 2026 zuerkannt. Das norwegische Nobelkomitee hob in seiner Begründung insbesondere ihre Bemühungen zur Förderung des Friedens und des Völkerrechts hervor. Pillay blickt auf eine renommierte juristische Karriere zurück, in der sie unter anderem als Richterin am Internationalen Strafgerichtshof (ICC) sowie als Hohe Kommissarin der Vereinten Nationen für Menschenrechte tätig war. Die Auszeichnung unterstreicht die globale Bedeutung ihres Einsatzes für menschenrechtliche Standards und internationale Gerichtsbarkeit. Zu den genauen Umständen der Verleihung oder den weiteren Nominierten machten die vorliegenden Berichte keine Angaben. Die Ehrung gilt als eine der weltweit höchsten Anerkennungen für friedensstiftende Maßnahmen.",
+    "r": "Die Verleihung des Friedensnobelpreises an eine prominente internationale Juristin und Menschenrechtsverteidigerin setzt ein starkes weltweites Signal für die Bedeutung des Völkerrechts. Die Auszeichnung hebt den langjährigen Einsatz für Frieden und Menschenrechte auf höchster globaler Ebene hervor.",
+    "srcs": [
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNlRoWmxDMW0yZ3V4UFd4OWhXaGZQOWJWWnY1QzRFdnRhU0tQalFJbE1ua3hpWFc3ZlAtbERMbl96cG5rUWt1WjJNMFlsUndsN3JsZ1RSUU9CWE9VUVRhdlhwVVZrQ2NLQXRmVWxEdWYwRDFDYkZ5RE9ZeXhOSlBJSkl6b183Q1dXUmJYTHlQcFpqOFM4VHM0?oc=5",
+        "date": "2026-10-09T15:04:58.000Z"
+      },
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-09T14:00:47.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNlRoWmxDMW0yZ3V4UFd4OWhXaGZQOWJWWnY1QzRFdnRhU0tQalFJbE1ua3hpWFc3ZlAtbERMbl96cG5rUWt1WjJNMFlsUndsN3JsZ1RSUU9CWE9VUVRhdlhwVVZrQ2NLQXRmVWxEdWYwRDFDYkZ5RE9ZeXhOSlBJSkl6b183Q1dXUmJYTHlQcFpqOFM4VHM0?oc=5",
+    "agree": "Die Quellen stimmen überein, dass Navi Pillay den Friedensnobelpreis erhalten hat.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Bezeichnet Pillay als ehemalige Richterin am Internationalen Strafgerichtshof (ICC)."
+      },
+      {
+        "name": "BBC World",
+        "note": "Bezeichnet Pillay als ehemalige UN-Menschenrechtschefin und zitiert die Begründung des Nobelkomitees zur Förderung von Frieden und Völkerrecht."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-972a305e091d49e7",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-09T14:51:35.000Z",
+    "p": 3,
+    "st": "NW",
+    "city": "",
+    "t": "NRW-Innenminister Reul bei Treppensturz schwer verletzt",
+    "s": "NRW-Innenminister Herbert Reul hat sich bei einem dienstlichen Termin schwer verletzt. Der 74-Jährige erlitt einen Hüftbruch nach einem Sturz. Der Unfall ereignete sich in Nordrhein-Westfalen.",
+    "m": "Der 74-jährige nordrhein-westfälische Innenminister Herbert Reul hat sich bei einem Treppensturz schwer verletzt. Der Unfall ereignete sich bei einem dienstlichen Termin im Polizeipräsidium Wuppertal. Nur einen Tag zuvor hatte Reul öffentlich über gesundheitliche Probleme gesprochen. Durch den Sturz zog sich der Politiker einen Hüftbruch zu. Die Verletzungen machten eine medizinische Behandlung und den Ausfall bei Terminen erforderlich. Nähere Details zur genauen Operation oder dem aktuellen Genesungsverlauf wurden zunächst nicht bekannt gegeben.",
+    "r": "Der Ausfall eines Landesministers nach einem schweren Unfall betrifft die unmittelbare Regierungsfähigkeit und Handlungsfähigkeit des nordrhein-westfälischen Innenministeriums.",
+    "srcs": [
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/politik/Treppensturz-NRW-Innenminister-Reul-bricht-sich-die-Huefte-id31401570.html",
+        "date": "2026-10-09T14:51:35.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Nordrhein-Westfalen",
+        "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-sturz-im-polizeipraesidium-nrw-innenminister-reul-bricht-sich-die-huefte-100.html",
+        "date": "2026-10-09T14:23:00.000Z"
+      }
+    ],
+    "url": "https://www.n-tv.de/politik/Treppensturz-NRW-Innenminister-Reul-bricht-sich-die-Huefte-id31401570.html",
+    "agree": "Die Quellen sind sich einig, dass NRW-Innenminister Herbert Reul sich bei einem Sturz schwer an der Hüfte verletzt hat.",
+    "diff": [
+      {
+        "name": "ntv",
+        "note": "Erwähnt, dass Reul an einem Tag über gesundheitliche Probleme sprach und am nächsten Tag bei einem Diensttermin stürzte, sowie sein Alter von 74 Jahren."
+      },
+      {
+        "name": "Tagesschau Regional Nordrhein-Westfalen",
+        "note": "Nennt konkret das Polizeipräsidium Wuppertal als Ort des dienstlichen Termins, bei dem der Sturz stattfand."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-1d1b4697832c3f2e",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-09T14:48:16.000Z",
+    "p": 3,
+    "st": "HH",
+    "city": "",
+    "t": "Bundestag beschließt neue Bahnstrecke zwischen Hannover und Hamburg",
+    "s": "Der Deutsche Bundestag hat den Weg für den Bau einer neuen Bahnstrecke zwischen Hamburg und Hannover freigemacht. Mit der Entscheidung soll die wichtige Verbindung im Schienennetz ausgebaut und modernisiert werden. Das Parlament stimmte entsprechend für das entsprechende Vorhaben. Details zum genauen zeitlichen Ablauf und den Kosten wurden in den Meldungen zunächst nicht genannt.",
+    "m": "Der Bundestag hat in einer Abstimmung für den Neubau der Bahnstrecke auf der Strecke Hannover-Hamburg gestimmt. Die Entscheidung umfasst neben dem Neubau auch eine Modernisierung der bereits bestehenden Strecke. Damit soll die Kapazität und Zuverlässigkeit auf dieser bedeutenden Nord-Süd-Achse erhöht werden. Genauere Angaben zu Baubeginn, Fertigstellungstermin oder dem genauen Streckenverlauf gehen aus den Berichten nicht hervor. Auch die beteiligten Baufirmen und das genaue Investitionsvolumen bleiben in dieser Phase offene Punkte. Die Maßnahme soll den Bahnverkehr in der Region langfristig verbessern.",
+    "r": "Die Entscheidung des Bundestages für eine neue Bahntrasse ist für den Fernverkehr und die Infrastruktur von großer Bedeutung. Sie betrifft eine der wichtigsten Schienenverbindungen im Norden Deutschlands.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/bundestag-stimmt-fuer-neue-bahntrasse-auf-der-strecke-hannover-hamburg-102.html",
+        "date": "2026-10-09T14:48:16.000Z"
+      },
+      {
+        "name": "NDR Hamburg",
+        "url": "https://www.ndr.de/nachrichten/info/bundestag-beschliesst-neubau-der-bahnstrecke-hannover-hamburg,ndrinfo-18210.html",
+        "date": "2026-10-09T13:14:43.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/bundestag-stimmt-fuer-neue-bahntrasse-auf-der-strecke-hannover-hamburg-102.html",
+    "agree": "Beide Quellen stimmen überein, dass der Bundestag für eine neue Bahnstrecke zwischen Hannover und Hamburg gestimmt hat.",
+    "diff": [
+      {
+        "name": "NDR Hamburg",
+        "note": "Erwähnt zusätzlich zur neuen Trasse explizit die Modernisierung der bestehenden Strecke."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-b33648bb2d013102",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-09T14:48:16.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Dienstwagen-Streit in Sachsen-Anhalt: BMW zieht Angebot für AfD-Landtagspräsidenten zurück",
+    "s": "Der Automobilkonzern BMW hat das Leasingangebot für den Dienstwagen des neuen Landtagspräsidenten von Sachsen-Anhalt, Rausch, überraschend zurückgezogen. AfD-Politiker Rausch hat daraufhin einen Brief an das Unternehmen geschrieben und das Vorgehen kritisiert. Der Vorgang sorgt für eine kontroverse Dienstwagen-Debatte im Bundesland. Die konkreten Beweggründe für die Entscheidung von BMW wurden zunächst nicht näher ausgeführt.",
+    "m": "Der Streit um den Dienstwagen des neuen Landtagspräsidenten von Sachsen-Anhalt, der der AfD angehört, hat eine politische Debatte ausgelöst. BMW als bislang vorgesehener Leasingpartner verweigerte dem Politiker offenbar den Dienstwagen und zog das entsprechende Angebot zurück. Rausch reagierte auf diesen Schritt mit einem direkten Schreiben an den Autokonzern, in dem er die Entscheidung rügte. Bislang ist unklar, ob andere Hersteller als Dienstwagen-Anbieter einspringen oder wie das Parlament intern mit der Situation umgeht. Der Fall wirft Fragen über das Verhältnis zwischen privaten Wirtschaftsunternehmen und Amtsträgern rechtspopulistischer Parteien auf. Offen bleibt zudem, ob offizielle Beschlüsse zur künftigen Fahrzeugbeschaffung geändert werden müssen. Weitere Details zum genauen Zeitpunkt des Briefes und zu offiziellen Reaktionen seitens BMW stehen noch aus.",
+    "r": "Die Weigerung eines Großkonzerns, einem AfD-Landtagspräsidenten einen Dienstwagen zu leasen, berührt Fragen des politischen Umgangs mit Amtsträgern und der Rolle von Unternehmen. Der Vorfall in Sachsen-Anhalt beleuchtet mögliche Vorbehalte der Wirtschaft gegenüber Spitzenpolitikern dieser Partei.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/bmw-verweigert-neuen-afd-landtagspraesidenten-offenbar-den-dienstwagen-rausch-schreibt-an-autokonzer-100.html",
+        "date": "2026-10-09T14:48:16.000Z"
+      },
+      {
+        "name": "t-online Nachrichten",
+        "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101474266/dienstwagen-debatte-in-sachsen-anhalt-afd-politiker-rausch-schreibt-bmw.html",
+        "date": "2026-10-09T12:21:50.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/bmw-verweigert-neuen-afd-landtagspraesidenten-offenbar-den-dienstwagen-rausch-schreibt-an-autokonzer-100.html",
+    "agree": "Die Quellen sind sich einig, dass BMW das Leasingangebot für den Dienstwagen des neuen Landtagspräsidenten Rausch in Sachsen-Anhalt zurückgezogen hat und Rausch daraufhin an den Autokonzern geschrieben hat.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Erwähnt explizit, dass Rausch den Rückzug des Leasingangebots kritisiert hat und einen Brief an den Autokonzern schrieb."
+      },
+      {
+        "name": "t-online Nachrichten",
+        "note": "Betitelt den Vorfall als Dienstwagen-Debatte und beschreibt die Reaktionen im Detail."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-4de8cf69d3dfb6d0",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-09T14:43:58.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Menschenkette verhindert Teilnahme von AfD-Politiker Tillschneider an Gedenken in Halle",
+    "s": "In Halle wird mit verschiedenen Veranstaltungen an das antisemitische Attentat auf die Synagoge vor sieben Jahren erinnert. Eine Menschenkette stoppte den AfD-Politiker Tillschneider bei dem Versuch, an einer Kranzniederlegung teilzunehmen. Er war bei den Anwesenden nicht willkommen.",
+    "m": "Zum Jahrestag des antisemitisch motivierten Anschlags auf die Synagoge in Halle finden heute diverse Gedenkveranstaltungen statt, darunter Kranzniederlegungen, Glockenläuten und eine Schweigeminute. Bei diesen Erinnerungen kam es zu einem Zwischenfall, als der Vizepräsident des Landtags in Sachsen-Anhalt und AfD-Politiker Hans-Thomas Tillschneider an dem Gedenken teilnehmen wollte. Eine gebildete Menschenkette hinderte ihn jedoch aktiv an der Teilnahme. Die Anwesenden machten damit deutlich, dass er dort nicht erwünscht war. Das Attentat selbst ereignete sich vor sieben Jahren und wurde von einem Rechtsextremisten verübt. Die genauen Umstände des heutigen Protests gegen den Politiker wurden in den Berichten skizziert, weitere Details blieben zunächst offen.",
+    "r": "Das Ereignis verdeutlicht die anhaltenden gesellschaftlichen und politischen Spannungen beim Gedenken an rechtsextremistische und antisemitische Taten. Zudem zeigt es, wie Zivilgesellschaft und Bürger aktiv Einfluss auf Gedenkveranstaltungen nehmen.",
+    "srcs": [
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/politik/sachsen-anhalt-afd-politiker-tillschneider-bei-halle-gedenken-gestoppt-I3HZXYUMYVGGHGUTOGBFUCMIDQ.html",
+        "date": "2026-10-09T14:43:58.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-menschenkette-verhindert-teilnahme-von-afd-politiker-tillschneider-an-halle-gedenken-a-2f0f423b-d452-4087-89d8-3bbd05835c5c#ref=rss",
+        "date": "2026-10-09T14:15:00.000Z"
+      }
+    ],
+    "url": "https://www.rnd.de/politik/sachsen-anhalt-afd-politiker-tillschneider-bei-halle-gedenken-gestoppt-I3HZXYUMYVGGHGUTOGBFUCMIDQ.html",
+    "agree": "Die Quellen stimmen überein, dass der AfD-Politiker Tillschneider in Halle durch eine Menschenkette an der Teilnahme am Gedenken für die Opfer des Synagogen-Anschlags gehindert wurde.",
+    "diff": [
+      {
+        "name": "RND",
+        "note": "Erwähnt konkret Kranzniederlegungen, Glockenläuten und eine Schweigeminute sowie die Funktion von Tillschneider als AfD-Politiker."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Bezeichnet Tillschneider zusätzlich als Vizepräsidenten des Landtags in Sachsen-Anhalt und gibt an, dass das Attentat vor sieben Jahren stattfand."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-fd132e45632457fc",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-09T14:35:00.000Z",
+    "p": 3,
+    "st": "ST",
+    "city": "",
+    "t": "BMW zieht Dienstwagen-Angebot für AfD-Landtagspräsidenten zurück",
+    "s": "BMW hat ein Leasingangebot für den Dienstwagen des neuen AfD-Landtagspräsidenten von Sachsen-Anhalt, Tobias Rausch, zurückgezogen. Der Politiker reagiert auf diesen Schritt mit Kritik und scharfer Empörung. Der Vorgang sorgt in der Landespolitik für Aufsehen.",
+    "m": "Nach der Wahl von Tobias Rausch zum Landtagspräsidenten von Sachsen-Anhalt hat der Automobilkonzern BMW beschlossen, das Angebot für seinen Dienstwagen nicht aufrechtzuerhalten und das Leasingangebot zurückzuziehen. Der betroffene Politiker zeigte sich über diese Entscheidung gegenüber der 'Mitteldeutschen Zeitung' empört und übte deutliche Kritik an dem Vorgehen des Unternehmens. Weitere Details zu den genauen Hintergründen der Entscheidung von BMW oder offiziellen Stellungnahmen des Unternehmens liegen in den Berichten derzeit nicht vor. Auch die Frage, wie die Bereitstellung eines Dienstwagens für das Amt nun anderweitig geregelt werden soll, bleibt in den Quellen offen. Der Vorfall wirft ein Schlaglicht auf den Umgang von Wirtschaftsunternehmen mit Mandatsträgern rechtspopulistischer Parteien in herausgehobenen Ämtern.",
+    "r": "Die Entscheidung eines großen Automobilkonzerns, einem neu gewählten Landtagspräsidenten einer rechtspopulistischen Partei keinen Dienstwagen zur Verfügung zu stellen, ist ein relevanter Vorgang an der Schnittstelle von Wirtschaft und Landespolitik.",
+    "srcs": [
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/deutschland/bmw-dienstwagen-landtag-afd-ablehnung-100.html",
+        "date": "2026-10-09T14:35:00.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Sachsen-Anhalt",
+        "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/tobias-rausch-dienstwagen,bmw-zieht-leasingvertrag-zurueck-100.html",
+        "date": "2026-10-09T14:23:25.000Z"
+      }
+    ],
+    "url": "https://www.zdfheute.de/politik/deutschland/bmw-dienstwagen-landtag-afd-ablehnung-100.html",
+    "agree": "Die Quellen sind sich einig, dass BMW das Angebot für den Dienstwagen des neuen AfD-Landtagspräsidenten in Sachsen-Anhalt zurückgezogen hat und der Politiker darauf mit Kritik beziehungsweise Empörung reagierte.",
+    "diff": [
+      {
+        "name": "ZDF heute",
+        "note": "Erwähnt die Reaktion des Politikers als 'empört' und verweist auf die 'Mitteldeutsche Zeitung' als Quelle für diese Äußerung."
+      },
+      {
+        "name": "Tagesschau Regional Sachsen-Anhalt",
+        "note": "Beschreibt die Reaktion allgemein als Kritik."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-b1b64c522f8135eb",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-09T14:29:00.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "NRW-Innenminister Herbert Reul nach Sturz an der Hüfte verletzt",
+    "s": "Nordrhein-Westfalens Innenminister Herbert Reul hat sich bei einem Sturz über eine Treppenstufe an der Hüfte verletzt. Erst am Vortag hatte der 74-Jährige gesundheitliche Probleme nach einer Operation öffentlich gemacht. Nun muss er erneut in ärztliche Behandlung.",
+    "m": "Der nordrhein-westfälische Innenminister Herbert Reul hat sich bei einem Sturz über eine Treppenstufe an der Hüfte verletzt. Erst am Vortag hatte der 74-jährige Politiker bei einem öffentlichen Auftritt über Sprachprobleme nach einer vorangegangenen Operation gesprochen. Durch den Treppensturz kommt nun eine akute Verletzung zu den kürzlich offengelegten gesundheitlichen Beschwerden hinzu. Der Minister muss sich deshalb erneut in ärztliche Behandlung begeben. Weitere Details zum genauen Ablauf des Sturzes, den genauen Unfallfolgen oder der Dauer der Behandlung wurden zunächst nicht bekannt.",
+    "r": "Die Verletzung des nordrhein-westfälischen Innenministers ist von politischem Interesse, da sie die Handlungsfähigkeit eines Landesministers betrifft und auf kurz zuvor öffentlich gemachte gesundheitliche Probleme folgt.",
+    "srcs": [
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/politik/herbert-reul-nordrhein-westfalens-innenminister-bricht-sich-die-huefte-a-168f076c-85e0-44a7-97ba-d96a9ec5fd07#ref=rss",
+        "date": "2026-10-09T14:29:00.000Z"
+      },
+      {
+        "name": "t-online Nachrichten",
+        "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101474692/herbert-reul-nrw-innenminister-bricht-sich-die-huefte.html",
+        "date": "2026-10-09T14:20:07.000Z"
+      }
+    ],
+    "url": "https://www.spiegel.de/politik/herbert-reul-nordrhein-westfalens-innenminister-bricht-sich-die-huefte-a-168f076c-85e0-44a7-97ba-d96a9ec5fd07#ref=rss",
+    "agree": "Die Quellen stimmen überein, dass sich der nordrhein-westfälische Innenminister Herbert Reul am Tag nach der Äußerung über gesundheitliche Probleme an der Hüfte verletzt hat.",
+    "diff": [
+      {
+        "name": "DER SPIEGEL",
+        "note": "Berichtet konkret, dass der Sturz über eine Treppenstufe stattfand und nennt die Hüftverletzung explizit als Unfallfolge."
+      },
+      {
+        "name": "t-online Nachrichten",
+        "note": "Erwähnt das genaue Alter von Herbert Reul (74 Jahre) und dass er erneut in ärztliche Behandlung muss."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-580b0542c63c7cfb",
+    "c": "INT",
+    "o": "UK",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-09T14:25:18.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Gestohlene Renoir-Gemälde an der Côte d’Azur sichergestellt und Verdächtige festgenommen",
+    "s": "Vor rund einem Monat wurden Gemälde von Pierre-Auguste Renoir aus einem Museum an der Französischen Riviera gestohlen. Nun sind zwei der Kunstwerke wieder aufgetaucht. Der lokale Bürgermeister bestätigte den Fund am Freitag.",
+    "m": "Die beiden wiedergefundenen Werke haben einen Wert von mehreren Millionen Dollar. Der Diebstahl ereignete sich vor einem Monat, als Täter einen Zaun durchschnitt und ein Fenster des Renoir-Museums auf der Französischen Riviera einschlugen. Ursprünglich hatten die Diebe vier Gemälde des französischen Meisters entwendet, jedoch zwei davon während ihrer Flucht zurückgelassen. Im Zuge des Falls wurden nun sechs Verdächtige festgenommen. Der erfolgreiche Fund der Kunstwerke und die Festnahmen wurden am Freitag vom lokalen Bürgermeister bekannt gegeben.",
+    "r": "Die Wiederbeschaffung von Millionen teuren Meisterwerken und die Festnahme von sechs Verdächtigen sind von großer kultureller und strafrechtlicher Bedeutung. Der Fall beleuchtet die Sicherheitsrisiken in regionalen Museen.",
+    "srcs": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cwkg50v1vn07o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-09T14:25:18.000Z"
+      },
+      {
+        "name": "France24 English",
+        "url": "https://www.france24.com/en/france/20261009-renoir-paintings-stolen-from-french-riviera-museum-recovered-six-people-arrested",
+        "date": "2026-10-09T12:09:40.000Z"
+      }
+    ],
+    "url": "https://www.bbc.co.uk/news/articles/cwkg50v1vn07o?at_medium=RSS&at_campaign=rss",
+    "agree": "Die Quellen stimmen überein, dass zwei Renoir-Gemälde vor rund einem Monat bei einem Einbruch in ein Museum an der Französischen Riviera gestohlen und kürzlich wiedergefunden wurden, wobei die Täter damals durch einen Zaun und ein Fenster eingedrungen waren.",
+    "diff": [
+      {
+        "name": "BBC World",
+        "note": "Berichtet, dass die zwei Werke im vergangenen Monat sichergestellt wurden, als Täter einen Zaun durchschnitten und ein Fenster im Renoir-Museum auf der Französischen Riviera einschlugen."
+      },
+      {
+        "name": "France24 English",
+        "note": "Ergänzt, dass die wiedergefundenen Renoir-Gemälde Millionen von Dollar wert sind, sechs Verdächtigen festgenommen wurden, die Angabe vom lokalen Bürgermeister am Freitag stammt und ursprünglich vier Gemälde gestohlen wurden, von denen zwei auf der Flucht zurückgelassen wurden."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-34d41f7caae366c5",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-09T14:18:45.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Königin Silvia von Schweden besucht ihre alte Schule in Düsseldorf",
+    "s": "Königin Silvia von Schweden ist an ihre ehemalige Schule in Düsseldorf zurückgekehrt. Sie besuchte die Einrichtung, die sie vor 60 Jahren als Mädchenschule besucht hatte. Vor Schülern sprach sie über ihre Jugend und ihren damaligen Berufswunsch. Dabei verriet sie mit einem Lachen, dass die Rolle einer Königin nicht auf ihrer Liste stand.",
+    "m": "Die schwedische Königin Silvia hat eine Reise in ihre Vergangenheit unternommen und ihre alte Schule in Düsseldorf besucht. Vor rund 60 Jahren ging sie dort noch als Schülerin auf die damalige Mädchenschule. Bei dem Treffen mit den heutigen Schülern erzählte sie amüsiert von ihrer Jugendzeit. Auf die Frage nach ihren damaligen Plänen stellte sie klar, dass sie als junge Frau keineswegs den Traum gehegt hatte, einmal Königin zu werden. Der Weg führte sie von dieser Schule schließlich auf die internationale Bühne und ins schwedische Königsschloss. Weitere Details über den genauen Anlass oder den weiteren Ablauf des Besuchs wurden in den Berichten nicht genannt.",
+    "r": "Der Besuch einer europäischen Monarchin an ihrer früheren Wirkungsstätte in Deutschland erzeugt mediale Aufmerksamkeit. Solche Termine bieten Einblicke in die biografischen Hintergründe von Mitgliedern des Königshauses.",
+    "srcs": [
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/panorama/koenigin-stand-nicht-auf-meiner-liste-warum-silvia-von-schweden-eine-schule-in-duesseldorf-besucht-5JB2P2YJ6NGXZKQKG6X3C7O6FA.html",
+        "date": "2026-10-09T14:18:45.000Z"
+      },
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/gesellschaft/regional/nordrhein-westfalen/koenigin-in-duesseldorf--silvias-berufswunsch--koenigin-stand-nicht-auf-meiner-liste-38369986.html",
+        "date": "2026-10-09T12:22:10.000Z"
+      }
+    ],
+    "url": "https://www.rnd.de/panorama/koenigin-stand-nicht-auf-meiner-liste-warum-silvia-von-schweden-eine-schule-in-duesseldorf-besucht-5JB2P2YJ6NGXZKQKG6X3C7O6FA.html",
+    "agree": "Beide Quellen berichten, dass Königin Silvia von Schweden ihre alte Schule in Düsseldorf besucht hat und dort verriet, dass Königin nicht ihr Berufswunsch war.",
+    "diff": [
+      {
+        "name": "RND",
+        "note": "Erwähnt zusätzlich, dass sie vor 60 Jahren die Mädchenschule besuchte und von der Mädchenschule zur Weltbühne gelangte."
+      },
+      {
+        "name": "stern",
+        "note": "Bezeichnet den Weg der Königin als den von der Mädchenschule ins Königsschloss."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-8fa281d21195f86b",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-09T14:09:59.000Z",
+    "p": 2,
+    "st": "BW",
+    "city": "",
+    "t": "Baden-Württembergische Landesregierung setzt auf externe Berater",
+    "s": "Die Landesregierung von Baden-Württemberg zieht prominente Politiker als externe Berater hinzu. Diese Unterstützung soll in drei spezifischen Bereichen zum Einsatz kommen. Dabei handelt es sich um den Bürokratieabbau, das Landesmedienzentrum sowie die Oper in Stuttgart. Das Vorgehen wirft die Frage auf, ob der Einsatz solcher Experten sinnvoll ist.",
+    "m": "Für anstehende Aufgaben in wichtigen staatlichen Bereichen holt sich die Landesregierung in Baden-Württemberg bekannte Persönlichkeiten der Politik als Unterstützung ins Boot. Konkret betrifft dies den geplanten Bürokratieabbau, die Arbeit des Landesmedienzentrums sowie die Belange der Oper in Stuttgart. In diesen drei Bereichen sieht die Regierung offenbar Handlungsbedarf und setzt auf externe Expertise. Ob diese Strategie der Einbindung prominenter Berater letztlich zum Erfolg führt und welche konkreten Mandate die Beteiligten erhalten, wird im politischen Raum diskutiert. Bislang ist vor allem die personelle Ausrichtung auf diese drei Handlungsfelder bekannt. Weitere Details zu den genauen Verträgen, Kosten oder Zeitplänen wurden in den Berichten nicht genannt.",
+    "r": "Die Einbindung bekannter Ex-Politiker als externe Berater durch die Landesregierung betrifft zentrale Handlungsfelder wie den Bürokratieabbau und öffentliche Kultur- sowie Bildungseinrichtungen. Dies berührt Fragen der effizienten Verwaltung und der politischen Steuerung im Land.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell Baden-Württemberg",
+        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/berater-taktik-landesregierung-100.html",
+        "date": "2026-10-09T14:09:59.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Baden-Württemberg",
+        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-palmer-kurz-oettinger-landesregierung-setzt-auf-externe-berater-100.html",
+        "date": "2026-10-09T08:43:30.000Z"
+      }
+    ],
+    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/berater-taktik-landesregierung-100.html",
+    "agree": "Beide Quellen stimmen überein, dass die Landesregierung in Baden-Württemberg in den Bereichen Bürokratieabbau, Landesmedienzentrum und Oper in Stuttgart auf prominente externe Berater setzt.",
+    "diff": [
+      {
+        "name": "SWR Aktuell Baden-Württemberg",
+        "note": "Stellt im Titel zusätzlich die Frage, ob der Einsatz dieser Berater sinnvoll ist."
+      },
+      {
+        "name": "Tagesschau Regional Baden-Württemberg",
+        "note": "Verwendet denselben Einleitungstext, verzichtet im Titel jedoch auf die rhetorische Frage zur Sinnhaftigkeit."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-6ace50fbf4f92942",
+    "c": "INT",
+    "o": "PT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-09T13:51:55.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Justizministerin annulliert Entscheidung zur Aufhebung des Schutzes von Rui Pinto",
+    "s": "Die portugiesische Justizministerin hat eine Entscheidung rückgängig gemacht, mit der der Schutz für den Hacker Rui Pinto entzogen worden war. Dieser Schritt erfolgte nach einem Treffen mit der Kommission für Spezialprogramme im Rahmen der Überwachung seines besonderen Sicherheitsprogramms. Weitere Details zu den Hintergründen der ursprünglichen Entziehung oder der Annullierung gehen aus den kurzen Meldungen nicht hervor.",
+    "m": "Die Entscheidung der Justizministerin, den Schutz für den Hacker Rui Pinto wiederherzustellen, wurde im Nachgang zu einem Treffen mit der Kommission für Spezialprogramme getroffen. Dieses Gremium ist für die Begleitung der Situation im Zusammenhang mit dem speziellen Sicherheitsprogramm des Informatikers zuständig. Rui Pinto ist als Whistleblower beziehungsweise Hacker bekannt. Die genauen Motive für die zunächst erfolgte Entziehung des Schutzes sowie für dessen nun erfolgte Annullierung werden in den Berichten nicht genannt. Auch Details zu seiner aktuellen Gefährdungslage oder dem konkreten Ablauf des Treffens bleiben in den vorliegenden Informationen unerwähnt.",
+    "r": "Die Intervention der Justizministerin in das Sicherheitsprogramm einer prominenten Person ist von öffentlichem Interesse. Sie wirft Fragen zur Sicherheit und zum Umgang mit Whistleblowern im Justizsystem auf.",
+    "srcs": [
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/pais/ministra-da-justica-anula-decisao-que-retirou-protecao-a-rui-pinto_n1770682",
+        "date": "2026-10-09T13:51:55.000Z"
+      },
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOG5nVTB3UGQ1S0dobm5qQ1B0QjFqUHhMVHdMZXZzb0NUOUN5SVFBZzdTRUxCN2VSa2JNMU9CajVXRmxNbm00WFhUWVZrTkduUkNSemlhZFJGN2JhSk1HdS1COHNlN1FNRWFkZzMzQnJVeXZLYVJDdnNLSWNvWU9yUzlfbV9JTHZNMnAwdDlDZXBzLTllUFR0TGlXNNIBjAFBVV95cUxNWnhnbDFERnJyUG1EX2puX014cnRFc3U4THZHNUFPck9tZzNiOVJzOUtMRzMtOS1wY0ZWdVBJTWtCX09kZGlIX25Pb2JySk9tVDBfUkJzS0JMQXZ3ZW9CR3BpRm9PNUVBeDYwNUZIUmVnRURjYktBVGhWelFpMWVUUEQ0Vl9zZnRuak5QSQ?oc=5",
+        "date": "2026-10-09T12:41:00.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/pais/ministra-da-justica-anula-decisao-que-retirou-protecao-a-rui-pinto_n1770682",
+    "agree": "Beide Quellen stimmen darin überein, dass die Justizministerin eine Entscheidung zur Aufhebung des Schutzes von Rui Pinto annulliert hat.",
+    "diff": [
+      {
+        "name": "RTP Notícias",
+        "note": "Berichtet, dass die Entscheidung nach einem Treffen mit der Kommission für Spezialprogramme im Rahmen der Überwachung des Sicherheitsprogramms getroffen wurde."
+      },
+      {
+        "name": "Google News Portugal",
+        "note": "Verweist auf das Jornal de Notícias als ursprüngliche Quelle für die Meldung."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-c1aedfe35f99a65a",
     "c": "INT",
     "o": "PT",
