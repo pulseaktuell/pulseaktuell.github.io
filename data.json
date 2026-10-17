@@ -1,5 +1,549 @@
 [
   {
+    "id": "story-222d0426bc1a7d9f",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-17T16:21:24.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Ausschreitungen und Zusammenstöße bei landesweiten Protesten in Frankreich",
+    "s": "Bei einem landesweiten Protesttag in Frankreich ist es in mehreren Städten zu gewaltsamen Zusammenstößen zwischen Demonstrierenden und der Polizei gekommen. Betroffen waren unter anderem Paris, Lyon und Marseille. In Lyon brannte während der Ausschreitungen ein Tourismusbüro vollständig aus.",
+    "m": "Im Rahmen eines landesweiten Protesttages in Frankreich kam es in verschiedenen urbanen Zentren wie Paris, Lyon und Marseille zu heftigen Konfrontationen zwischen Einsatzkräften und Teilnehmenden der Demonstrationen. Die Lage eskalierte in einigen Regionen zu offenen Auseinandersetzungen. Besonders schwer betroffen war die Stadt Lyon, wo im Zuge der Unruhen ein Tourismusbüro in Brand geriet und ausbrannte. Die genaue Schadenshöhe sowie die Zahl der Festnahmen oder Verletzten wurden in den vorliegenden Berichten zunächst nicht beziffert. Die Behörden waren mit einem Großaufgebot im Einsatz, um die Kontrolle über die Straßen zu behalten. Weitere Details zum Auslöser der Proteste oder zu konkreten Forderungen der Demonstrierenden gehen aus den Meldungen nicht hervor.",
+    "r": "Die gewaltsamen Ausschreitungen bei landesweiten Protesten in Frankreich sind von sicherheitspolitischer und gesellschaftlicher Relevanz, da sie die öffentliche Ordnung in mehreren Großstädten massiv beeinträchtigen. Solche Ereignisse geben Aufschluss über das aktuelle soziale Klima und die Stabilität vor Ort.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/politik/ausland/2026-10/proteste-frankreich-ausschreitungen-polizei-lebenshaltungskosten",
+        "date": "2026-10-17T16:21:24.000Z"
+      },
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/zusammenstoesse-zwischen-demonstranten-und-polizei-in-paris-lyon-und-marseille-100.html",
+        "date": "2026-10-17T16:06:49.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/politik/ausland/2026-10/proteste-frankreich-ausschreitungen-polizei-lebenshaltungskosten",
+    "agree": "Beide Quellen stimmen darin überein, dass es bei landesweiten Protesten in Frankreich zu gewaltsamen Zusammenstößen zwischen Demonstrierenden und der Polizei kam.",
+    "diff": [
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Erwähnt konkret das Ausbrennen eines Tourismusbüros in Lyon."
+      },
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Nennt Paris, Lyon und Marseille als konkrete Schauplätze der Zusammenstöße."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-d52027b74b175e0e",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-17T16:21:20.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Harry Styles gedenkt Liam Payne mit unveröffentlichtem Song",
+    "s": "Harry Styles hat bei einem Konzert an seinen verstorbenen Freund und ehemaligen „One Direction“-Bandkollegen Liam Payne erinnert. An dessen zweitem Todestag präsentierte er einen bisher unveröffentlichten Song. Der Auftritt sorgte für große Emotionen bei den Fans weltweit.",
+    "m": "Anlässlich des zweiten Todestages des verstorbenen „One Direction“-Stars Liam Payne widmete ihm Harry Styles bei einem Konzert in New York einen bisher unveröffentlichten Song. Das rührende Musikstück mit dem Titel „What Is Enough“ hatte Styles nach übereinstimmenden Medienberichten bereits vor zwei Jahren für seinen Freund geschrieben. Der plötzliche Tod von Payne hatte zuvor weltweit tiefe Trauer und Erschütterung bei Fans ausgelöst. Mit der emotionalen Darbietung setzte Styles ein Zeichen des Gedenkens an den gemeinsamen Weg in der Band. Weitere Details zum Fortgang der Gedenkveranstaltungen oder Reaktionen anderer Beteiligter wurden in den Berichten nicht genannt.",
+    "r": "Das Gedenken eines bekannten Popstars an einen verstorbenen Musikerkollegen im Rahmen eines großen öffentlichen Konzerts besitzt hohe mediale und gesellschaftliche Relevanz für die Musikszene und eine weltweite Fangemeinde.",
+    "srcs": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/gesellschaft/menschen/harry-styles-erinnert-mit-neuem-song-an-liam-paynes-201597184.html",
+        "date": "2026-10-17T16:21:20.000Z"
+      },
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/lifestyle/leute/harry-styles--emotionaler-auftritt-zu-liam-paynes-todestag-38412494.html",
+        "date": "2026-10-17T16:15:00.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/promis/todestag-von-liam-payne-harry-styles-spielt-unveroeffentlichten-song-fuer-seinen-verstorbenen-freund-5UDENHVOFJH2LAN4QNMQZBTKAU.html",
+        "date": "2026-10-17T15:45:55.000Z"
+      }
+    ],
+    "url": "https://www.faz.net/aktuell/gesellschaft/menschen/harry-styles-erinnert-mit-neuem-song-an-liam-paynes-201597184.html",
+    "agree": "Die Quellen sind sich einig, dass Harry Styles an Liam Paynes zweitem Todestag bei einem Konzert einen unveröffentlichten Song für seinen verstorbenen Ex-Bandkollegen gespielt hat.",
+    "diff": [
+      {
+        "name": "RND",
+        "note": "Nennt New York als Konzertort sowie den genauen Songtitel „What Is Enough“ und gibt an, dass das Lied vor zwei Jahren geschrieben wurde."
+      },
+      {
+        "name": "stern",
+        "note": "Erwähnt ebenfalls New York als Konzertort und beschreibt den Song als „rührend“."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
+    "id": "story-c8192688562e5f31",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-17T16:10:18.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Einigung bei Sondierungen: Linke, SPD und Grüne planen Vergesellschaftung von Wohnungen in",
+    "s": "In Berlin haben sich SPD, Grüne und Linke bei Sondierungsgesprächen auf eine Koalition geeinigt. Ein zentraler und kontroverser Streitpunkt war dabei die Frage der Vergesellschaftung von Wohnungen. Die drei Parteien planen nun entsprechende Maßnahmen für den Fall einer Regierungsbildung. Weitere Details zum genauen Vorgehen und den nächsten Schritten wurden bekannt gegeben.",
+    "m": "Die Parteispitzen von SPD, Grünen und Linken haben nach ihren Sondierungsgesprächen in Berlin eine grundsätzliche Einigung erzielt. Im Zentrum der Verhandlungen stand vor allem das Vorhaben der Vergesellschaftung von Wohnungen, das nun im Falle einer Koalition angegangen werden soll. Konkret sollen dabei private Wohnungskonzerne, die einen Bestand von mindestens 10.000 Wohnungen in Berlin besitzen, enteignet werden. Die SPD-Spitze bewertete diesen Beschluss im Nachgang als einen vertretbaren Kompromiss zwischen den beteiligten Parteien. Damit ist ein wichtiger Schritt in Richtung möglicher Koalitionsverhandlungen getan. Die Umsetzung dieses umstrittenen wohnungspolitischen Vorhabens bleibt jedoch auch weiterhin ein zentrales Thema für die Berliner Landespolitik. Offen ist bislang, wie die rechtlichen und finanziellen Hürden einer solchen Vergesellschaftung im Detail überwunden werden sollen.",
+    "r": "Die Einigung der potenziellen Koalitionspartner in Berlin hat weitreichende Bedeutung für die Wohnungspolitik und den Umgang mit großen privaten Vermietern. Das Vorhaben der Vergesellschaftung berührt grundlegende eigentumsrechtliche Fragen und betrifft zehntausende Mieter in der Hauptstadt.",
+    "srcs": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/politik/inland/spd-linke-und-gruene-einigen-sich-bei-sondierungen-in-berlin-accg-201596743.html",
+        "date": "2026-10-17T16:10:18.000Z"
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/politik/deutschland/2026-10/berlin-sondierungen-linke-gruene-spd-pressestatement",
+        "date": "2026-10-17T16:00:12.000Z"
+      }
+    ],
+    "url": "https://www.faz.net/aktuell/politik/inland/spd-linke-und-gruene-einigen-sich-bei-sondierungen-in-berlin-accg-201596743.html",
+    "agree": "Die Parteien SPD, Grüne und Linke haben sich in Berlin bei Sondierungen auf die Vergesellschaftung von Wohnungen geeinigt.",
+    "diff": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "note": "Berichtet, dass private Wohnungskonzerne ab einem Bestand von 10.000 Wohnungen enteignet werden sollen."
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Erwähnt, dass die SPD-Spitze den Beschluss als einen vertretbaren Kompromiss bezeichnet hat."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-bde3b1fb23d4c842",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-17T16:06:49.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Niedersachsens Ministerpräsident Lies verteidigt Vorstoß zu Verbrennermotoren",
+    "s": "Niedersachsens Ministerpräsident Lies hat den deutsch-französischen Vorstoß zur Aufweichung des für 2035 geplanten EU-Verbrennerverbots verteidigt. Der SPD-Politiker betonte im Deutschlandfunk, dass dies kein Festhalten am Verbrenner darstelle. Das Land Niedersachsen ist eng mit der Automobilindustrie verknüpft, da Lies auch im VW-Aufsichtsrat sitzt.",
+    "m": "Der niedersächsische Ministerpräsident Olaf Lies hat sich im Deutschlandfunk zu aktuellen Diskussionen rund um die europäische Klimapolitik und die Automobilbranche geäußert. Dabei verteidigte er die deutsch-französische Initiative, das für das Jahr 2035 geplante Verbot neuer Verbrennermotoren in der EU abzuschwächen. Lies, der als SPD-Politiker zugleich dem Aufsichtsrat von Volkswagen angehört, argumentierte, dass die Automobilindustrie ausreichend finanzielle Mittel erwirtschaften müsse, um die notwendige Transformation hin zu alternativen Antrieben zu bewältigen. Die Debatte berührt zentrale wirtschafts- und verkehrspolitische Fragen auf europäischer Ebene sowie die Zukunft des Industrie- und Autostandorts Deutschland. Konkrete Zeitpläne oder Beschlüsse jenseits der politischen Forderung wurden in den vorliegenden Berichten nicht genannt.",
+    "r": "Die Diskussion um das EU-Verbrennerverbot betrifft die strategische Ausrichtung der europäischen Automobilindustrie und den wirtschaftlichen Transformationsprozess. Aussagen von Entscheidungsträgern wie dem niedersächsischen Ministerpräsidenten geben Aufschluss über die politische Haltung wichtiger Autoländer in der EU.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/niedersachsens-ministerpraesident-lies-spd-automobilindustrie-muss-geld-fuer-transformation-verdiene-102.html",
+        "date": "2026-10-17T16:06:49.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaXo4bGZ0VEx3U2RCWFFacTFSX0VTTnNvcDI1RHlTQ3I1ZnFSSTBtR3FKZXBmNHJYaFhXRWRwaFhKR0F3UDlYOTVNSzYzQkhxb19OanAza09DSVA0bThua3Z5U2wtTkpiRllsWkcwa3hnZEFraGZsSG11TklOakZJWjBFWm9TQU9rTUFOc2E2cVBIYkc2N1ZMNVZJWW1GZnJjeG9id3hkYWdFMXBiWVFCUDhLLW5kSl80aGtvZDJDLTdQeGdJSmh1UG1DdThMdng0Y0MtNlhwYw?oc=5",
+        "date": "2026-10-17T15:02:46.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/niedersachsens-ministerpraesident-lies-spd-automobilindustrie-muss-geld-fuer-transformation-verdiene-102.html",
+    "agree": "Die Quellen stimmen überein, dass Niedersachsens Ministerpräsident Olaf Lies (SPD) den deutsch-französischen Vorstoß zur Abschwächung des EU-Verbrennerverbots verteidigt hat.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-30cf39caaef84073",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-17T16:06:49.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Selenskyj kritisiert Aussetzung von US-Sanktionen gegen Russland",
+    "s": "Der ukrainische Präsident Selenskyj hat die Aussetzung von US-Sanktionen gegen Russland scharf kritisiert. Er warnt davor, dass eine Lockerung des Drucks und finanzielle Belohnungen für den Kremlchef Putin einen Ansporn zum Weitermachen darstellen. Die Maßnahme steht im Kontext jüngster politischer Entscheidungen in den USA.",
+    "m": "Präsident Wolodymyr Selenskyj hat sich kritisch zur Entscheidung der USA geäußert, bestimmte Sanktionen gegen Russland auszusetzen. Nach seiner Ansicht sendet eine solche Entlastung das falsche Signal an Moskau und ermutigt die russische Führung zu weiteren Angriffen. Die Süddeutsche Zeitung ergänzt in ihrer Berichterstattung, dass US-Präsident Trump zuvor bereits geplante Russland-Zölle kurz vor deren Inkrafttreten auf Eis gelegt hatte. Bislang gibt es keine offiziellen Berichte darüber, wie Washington auf Selenskyjs Kritik reagiert hat oder ob die Aussetzung der Maßnahmen temporär oder dauerhaft angelegt ist. Die internationalen diplomatischen Reaktionen auf diesen Kurswechsel in der US-Handels- und Sanktionspolitik bleiben vorerst abzuwarten. Beobachter werten den Schritt als möglichen Wendepunkt im westlichen Vorgehen gegenüber dem Konflikt in der Ukraine.",
+    "r": "Die Äußerungen des ukrainischen Präsidenten verdeutlichen die Sorge Kiews vor einem nachlassenden internationalen Druck auf Russland. Zudem werfen die Entscheidungen der US-Regierung Fragen zur künftigen westlichen Sanktions- und Zollpolitik auf.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/selenskyj-kritisiert-aussetzung-von-us-sanktionen-102.html",
+        "date": "2026-10-17T16:06:49.000Z"
+      },
+      {
+        "name": "Süddeutsche Zeitung",
+        "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-selenskij-usa-sanktionen-russland-li.3563283",
+        "date": "2026-10-17T11:40:00.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/selenskyj-kritisiert-aussetzung-von-us-sanktionen-102.html",
+    "agree": "Beide Quellen stimmen darin überein, dass der ukrainische Präsident Selenskyj die Aussetzung von US-Sanktionen gegen Russland kritisiert und warnt, dass dies Putin zu weiterem Vornamen anspornt.",
+    "diff": [
+      {
+        "name": "Süddeutsche Zeitung",
+        "note": "Ergänzt die Information, dass zuvor Trump Russland-Zölle kurz vor ihrem Inkrafttreten auf Eis gelegt hatte."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-30f618e6aec1615f",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-17T16:06:49.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Israelische Siedler attackieren Fahrzeuge von EU-Diplomaten im Westjordanland",
+    "s": "Im besetzten Westjordanland ist es zu einem Angriff israelischer Siedler auf Fahrzeuge europäischer Diplomaten gekommen. Dabei wurden Maskierte aktiv, die das Auto umstellten und Ausweise forderten. Laut Berichten schlugen die Angreifer zudem eine Scheibe ein. Der Vorfall ereignete sich im Zusammenhang mit diplomatischen Aktivitäten vor Ort.",
+    "m": "Der Vorfall ereignete sich im Westjordanland, wo maskierte Männer ein Fahrzeug europäischer Diplomaten umstellten. Die Angreifer forderten von den Insassen die Herausgabe von Ausweisen und schlugen im Verlauf des Übergriffs eine Scheibe des Autos ein. Es handelt sich laut Medienberichten bereits um den zweiten Vorfall dieser Art innerhalb weniger Tage. Die Identität der Diplomaten oder die genaue Region im Westjordanland wurden in den Meldungen zunächst nicht näher spezifiziert. Bisher gibt es keine offiziellen Angaben über Verletzte oder Reaktionen der betroffenen europäischen Staaten auf diesen neuen Übergriff.",
+    "r": "Der Vorfall betrifft den diplomatischen Schutz und wirft Fragen zur Sicherheit ausländischer Vertretungen im Westjordanland auf. Zudem verdeutlicht die Wiederholung innerhalb weniger Tage eine Verschärfung der Sicherheitslage vor Ort.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/israelische-siedler-attackieren-fahrzeug-von-eu-diplomaten-100.html",
+        "date": "2026-10-17T16:06:49.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/politik/Israelische-Siedler-attackieren-EU-Diplomaten-im-Westjordanland-id31429695.html",
+        "date": "2026-10-17T15:36:27.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/israelische-siedler-attackieren-fahrzeug-von-eu-diplomaten-100.html",
+    "agree": "Die Quellen stimmen überein, dass israelische Siedler Fahrzeuge von EU-Diplomaten im Westjordanland attackiert haben.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Berichtet allgemein über den Angriff auf Fahrzeuge von EU-Diplomaten durch israelische Siedler."
+      },
+      {
+        "name": "ntv",
+        "note": "Ergänzt Details, dass maskierte Männer das Fahrzeug umstellten, Ausweise forderten, eine Scheibe einchlugen und dass es sich um den zweiten Vorfall dieser Art innerhalb weniger Tage handelt."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-55809cf1cbb7e548",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-17T16:06:49.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Unionsfraktionschef Frei fordert Änderungen bei der Zuckersteuer",
+    "s": "Unionsfraktionschef Frei fordert Änderungen an der kürzlich vom Bundeskabinett beschlossenen Zuckersteuer. Er verlangt insbesondere Anpassungen für die Getränkehersteller.",
+    "m": "Das Bundeskabinett hat sich erst vor wenigen Tagen auf einen entsprechenden Gesetzentwurf zur Zuckersteuer verständigt. Nun bringt sich Unionsfraktionschef Frei mit Forderungen nach Modifikationen ein. Konkret fordert er Übergangsfristen für die Getränkehersteller. Diese Zeitspanne soll den Unternehmen ermöglichen, ihre Rezepturen entsprechend anzupassen. Weitere Details zum genauen Ablauf des Gesetzgebungsverfahrens oder zur Reaktion der Koalitionspartner gehen aus den Berichten nicht hervor.",
+    "r": "Die Intervention des Unionsfraktionschefs betrifft den aktuellen Gesetzgebungsprozess zur Zuckersteuer unmittelbar nach der Kabinettseinigung. Sie wirft Fragen zum zeitlichen Fahrplan und zur Anpassungsfähigkeit der Industrie auf.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/unionsfraktionschef-frei-will-aenderungen-bei-zuckersteuer-100.html",
+        "date": "2026-10-17T16:06:49.000Z"
+      },
+      {
+        "name": "Süddeutsche Zeitung",
+        "url": "https://www.sueddeutsche.de/politik/bundesregierung-news-zuckersteuer-thorsten-frei-li.3529564",
+        "date": "2026-10-17T05:20:29.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/unionsfraktionschef-frei-will-aenderungen-bei-zuckersteuer-100.html",
+    "agree": "Die Quellen sind sich einig, dass Unionsfraktionschef Frei Änderungen bei der Zuckersteuer fordert.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Berichtet allgemein über die Forderung von Frei nach Änderungen bei der Zuckersteuer."
+      },
+      {
+        "name": "Süddeutsche Zeitung",
+        "note": "Erwähnt zusätzlich den vor wenigen Tagen gefassten Beschluss des Bundeskabinetts zum Gesetzentwurf und konkretisiert Freis Forderung auf Übergangsfristen zur Rezepturänderung für Getränkehersteller."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-9138bfce0f0fc677",
+    "c": "INT",
+    "o": "US",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-17T15:57:40.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Proteste und Zusammenstöße in ganz Frankreich wegen steigender Lebenshaltungskosten",
+    "s": "In ganz Frankreich sind Demonstranten und Studenten am Samstag zusammengekommen, um gegen die steigenden Lebenshaltungskosten zu protestieren. Im Zuge der Kundgebungen kam es zu Scharmützeln und Bränden. Die Proteste finden vor dem Hintergrund einer sich vertiefenden Haushaltskrise des Landes statt.",
+    "m": "Die Demonstranten schlossen sich mit Studenten zusammen, um auf die wirtschaftliche Notlage aufmerksam zu machen. Bislang ist bekannt, dass es bei den landesweiten Protesten zu Auseinandersetzungen und Bränden kam. Die zugrundeliegende fiskalische Krise in Frankreich verstärkt den Druck auf die Bevölkerung und treibt die Menschen auf die Straße. Weitere Details zu Verletzten, Festnahmen oder den genauen Orten der Ausschreitungen nennen die Berichte nicht. Die Lage bleibt angespannt, während die Regierung nach Lösungen für die Haushaltskrise sucht.",
+    "r": "Die landesweiten Proteste und Unruhen spiegeln die wachsende gesellschaftliche Unzufriedenheit über die Wirtschaftslage wider. Sie verdeutlichen die innenpolitischen Herausforderungen durch die französische Haushaltskrise.",
+    "srcs": [
+      {
+        "name": "NPR World",
+        "url": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france",
+        "date": "2026-10-17T15:57:40.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQakZaQjYzdlRBLUk2R1FOdVZvVExzZEtDWXRpOXYyZXpsNUYwX05idjRDamJtWDdRUk5qeFQyVDBlaV9iX010ZHVYRk5SNGNuMVNkTW9QVmVzLVBsZDZFdHZDUG5jLUNzWFJHQ1pUMnZKUWRJMGtHLThsUHFYWkw4SEg0YTVuUUV4M3JhTXJUa204UjBZam9oNksyTm1jaDV5RmRYNVFKM3hRZw?oc=5",
+        "date": "2026-10-17T09:18:00.000Z"
+      }
+    ],
+    "url": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france",
+    "agree": "Beide Quellen stimmen überein, dass Demonstranten und Studenten in Frankreich gegen steigende Lebenshaltungskosten protestiert haben und es dabei zu Scharmützeln und Bränden kam.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Erwähnt zusätzlich den Namen Audacy im Titel."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-02a434989c934d21",
+    "c": "INT",
+    "o": "INT",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-17T15:47:52.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Papst Leo nach erfolgreicher Lungenkrebsoperation aus Krankenhaus entlassen",
+    "s": "Papst Leo hat am Samstag das Gemelli-Krankenhaus in Rom nach einer Operation wegen Lungenkrebs verlassen. Der Eingriff, bei dem der untere Lappen der rechten Lunge entfernt wurde, verlief erfolgreich. Seine Entlassung erfolgte wenige Tage nach der Operation.",
+    "m": "Papst Leo XIV. wurde am Samstag aus dem Gemelli-Krankenhaus in Rom entlassen, nachdem bei ihm zuvor eine Operation zur Entfernung des unteren Lappens der rechten Lunge wegen Lungenkrebs durchgeführt worden war. Es ist geplant, dass der Pontifex am Sonntag das traditionelle Angelus-Gebet samt Segen auf dem Petersplatz abhalten wird. Darüber hinaus ist für den November eine Reise nach Lateinamerika im Terminkalender des Papstes vorgesehen. Die Operation lag zum Zeitpunkt seiner Entlassung wenige Tage zurück. Genauere Details zum postoperativen Zustand wurden von den vorliegenden Quellen nicht genannt.",
+    "r": "Die Entlassung des Papstes nach einer schweren Lungenkrebsoperation ist von hohem öffentlichem Interesse, da sie Aufschluss über seinen Gesundheitszustand und die Wiederaufnahme seiner offiziellen Termine gibt.",
+    "srcs": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/pope-leo-leaves-hospital-after-lung-cancer-surgery?traffic_source=rss",
+        "date": "2026-10-17T15:47:52.000Z"
+      },
+      {
+        "name": "NPR World",
+        "url": "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery",
+        "date": "2026-10-17T15:10:14.000Z"
+      },
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-17T13:51:36.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNEllc3JQcGxaV00wb0JyUGVOeEtwMFpvdUU4OEdqMHFFcmdqQXlIYnZZOFY0dFNYZXhWdldOYTNEdjlOWU9BRlZqWHVhVEh3YUVrcUhNN2hhUGhFNUFRNTIzbzhxY2xwNmhCZ0Q4OHhsdHotbnYzekg5OFR1NzhVV3hBSWc5aXkwSEY1bEx3X0V5cllKeXl1SFNxSWZsdnFkd2xPQw?oc=5",
+        "date": "2026-10-17T10:30:44.000Z"
+      }
+    ],
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/pope-leo-leaves-hospital-after-lung-cancer-surgery?traffic_source=rss",
+    "agree": "Alle Quellen stimmen darin überein, dass Papst Leo nach einer Lungenkrebsoperation das Krankenhaus in Rom am Samstag verlassen hat.",
+    "diff": [
+      {
+        "name": "NPR World",
+        "note": "Erwähnt die Entfernung des unteren Lappens der rechten Lunge und die für November geplante Reise nach Lateinamerika."
+      },
+      {
+        "name": "BBC World",
+        "note": "Berichtet, dass der Pontifex am Sonntag das traditionelle Angelus-Gebet und den Segen auf dem Petersplatz geben wird."
+      },
+      {
+        "name": "Google News World",
+        "note": "Verweist auf die Berichterstattung von NBC News bezüglich der Krankenhausentlassung."
+      }
+    ],
+    "chg": "",
+    "independent": 4
+  },
+  {
+    "id": "story-0fe326d491d45f6d",
+    "c": "INT",
+    "o": "DE",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-17T15:26:49.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Chelsea-Torwart Martínez nach Kopfzusammenstoß im Krankenhaus",
+    "s": "Beim Premier-League-Spiel des FC Chelsea beim FC Everton kam es zu einem schweren Unfall. Torwart Emiliano Martínez zog sich bei einem Luftzweikampf offenbar eine schwere Kopfverletzung zu und blieb bewusstlos. Die Partie musste wegen des Vorfalls für rund zehn Minuten unterbrochen werden.",
+    "m": "Der Unfall ereignete sich während einer Partie des FC Chelsea gegen den FC Everton, als Torwart Emiliano Martínez in einen heftigen Luftzweikampf verwickelt wurde. Dabei zog sich der Schlussmann eine schwere Kopfverletzung zu und blieb nach dem Zusammenprall zunächst bewusstlos liegen. Wegen der Schwere der Verletzung und der notwendigen Behandlung auf dem Platz wurde die Begegnung für etwa zehn Minuten unterbrochen. Martínez wurde im Anschluss an den Vorfall in ein Krankenhaus gebracht, um dort weiter medizinisch versorgt und untersucht zu werden. Nähere Details zur genauen Diagnose oder zum aktuellen Gesundheitszustand des Torwarts wurden zunächst nicht bekannt gegeben. Der Zwischenfall sorgte bei Beteiligten und Fans für große Sorge.",
+    "r": "Kopfverletzungen und Gehirnerschütterungen bei Kontaktsportarten wie Fußball stellen ein erhebliches Gesundheitsrisiko für Spieler dar und erfordern oft sofortige medizinische Notfallversorgung im Krankenhaus.",
+    "srcs": [
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/sport/fussball/article6ad38a011918705d12968cbc/fc-chelsea-bewusstlos-nach-zusammenprall-sorgen-um-torwart-emiliano-martinez.html",
+        "date": "2026-10-17T15:26:49.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/sport/fussball/fc-chelsea-torwart-martinez-nach-kopfzusammenstoss-im-krankenhaus-a-0316956a-9ce9-4bdd-8d82-f709563b3ad7#ref=rss",
+        "date": "2026-10-17T15:10:00.000Z"
+      }
+    ],
+    "url": "https://www.welt.de/sport/fussball/article6ad38a011918705d12968cbc/fc-chelsea-bewusstlos-nach-zusammenprall-sorgen-um-torwart-emiliano-martinez.html",
+    "agree": "Die Quellen stimmen überein, dass Chelseas Torwart Emiliano Martínez bei einem Zusammenprall im Spiel gegen Everton eine schwere Kopfverletzung erlitt und die Partie deshalb für rund zehn Minuten unterbrochen werden musste.",
+    "diff": [
+      {
+        "name": "WELT",
+        "note": "Berichtet, dass der Torwart nach dem Zusammenprall bewusstlos war und das Spiel bei Everton stattfand."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Erwähnt explizit einen Luftzweikampf und dass der Torwart ins Krankenhaus gebracht wurde."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-ff7380066144f9bf",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-17T14:57:55.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "AfD-Politiker in NRW tragen Fechtkampf aus",
+    "s": "Im seit Monaten zerstrittenen nordrhein-westfälischen Landesverband der AfD haben sich zwei Parteimitglieder zu einer Mensur getroffen. Das Duell fand in Düsseldorf statt. Die beteiligten Politiker bezeichneten die Aktion als Privatsache aus einer Bierlaune heraus.",
+    "m": "Der Machtkampf im NRW-Landesverband der AfD hat eine ungewöhnliche Wendung genommen, da sich zwei Parteimitglieder zu einem Fechtkampf trafen. Dieser sogenannte Mensur-Kampf wurde in Düsseldorf ausgetragen. Nach Angaben eines Beteiligten handelte es sich dabei um eine reine Privatsache, die aus einer Bierlaune heraus entstanden sei. Genauere Details über den genauen Hergang, den Veranstaltungsort im Detail oder mögliche disziplinarische Konsequenzen innerhalb der Partei gehen aus den Berichten bisher nicht hervor. Auch die Identität der beiden beteiligten Politiker wird in den Quellen nicht genannt. Der Vorfall beleuchtet jedoch den anhaltenden internen Streit in dem Landesverband.",
+    "r": "Der Vorfall wirft ein Schlaglicht auf die internen Spannungen und den anhaltenden Machtkampf innerhalb des AfD-Landesverbands in Nordrhein-Westfalen. Ungewöhnliche Handlungen von Parteimitgliedern in diesem Kontext sind von allgemeinem journalistischen Interesse.",
+    "srcs": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/politik/inland/afd-politiker-liefern-sich-fechtkampf-in-duesseldorf-accg-201597023.html",
+        "date": "2026-10-17T14:57:55.000Z"
+      },
+      {
+        "name": "Rheinische Post",
+        "url": "https://rp-online.de/nrw/panorama/mensur-in-duesseldorf-afd-politiker-tragen-fechtkampf-aus_aid-156749991",
+        "date": "2026-10-17T14:26:21.000Z"
+      }
+    ],
+    "url": "https://www.faz.net/aktuell/politik/inland/afd-politiker-liefern-sich-fechtkampf-in-duesseldorf-accg-201597023.html",
+    "agree": "Beide Quellen stimmen darin überein, dass sich zwei AfD-Politiker in Nordrhein-Westfalen zu einer Mensur getroffen haben und dies als Privatsache aus einer Bierlaune bezeichneten.",
+    "diff": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "note": "Erwähnt zusätzlich, dass im NRW-Landesverband der AfD seit Monaten ein Machtkampf tobt."
+      },
+      {
+        "name": "Rheinische Post",
+        "note": "Konkretisiert den Ort des Treffens auf Düsseldorf."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-d903e43247349d8b",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-17T14:29:50.000Z",
+    "p": 4,
+    "st": "BY",
+    "city": "",
+    "t": "Papst Leo XIV. nach Lungen-OP aus Krankenhaus entlassen",
+    "s": "Nach einer Krebsoperation an der Lunge hat Papst Leo XIV. das Krankenhaus verlassen und kehrt in den Vatikan zurück. Die Genesungsaussichten des Papstes werden als positiv bewertet. Schon am kommenden Sonntag will er wieder das Angelus-Gebet sprechen.",
+    "m": "Wenige Tage nach einem operativen Eingriff aufgrund einer Krebsdiagnose an der Lunge konnte Papst Leo XIV. das Krankenhaus wieder verlassen. Laut Angaben des Vatikans erfolgt die Rückkehr in den Vatikan zeitnah. Bereits für den morgigen beziehungsweise kommenden Sonntag ist geplant, dass das Oberhaupt der katholischen Kirche das traditionelle Angelus-Gebet vom Fenster seiner päpstlichen Wohnung aus spricht. Während der Vatikan positive Aussichten zur Genesung kommunizierte, blieben laut Berichten einige Details zum genauen gesundheitlichen Verlauf zunächst unklar. Der Eingriff selbst wurde zuvor erfolgreich durchgeführt.",
+    "r": "Die Entlassung des Papstes aus dem Krankenhaus nach einer Krebsoperation betrifft das weltweite katholische Oberhaupt und hat hohe religiöse sowie gesellschaftliche Relevanz.",
+    "srcs": [
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/europa/papst-krankenhaus-op-100.html",
+        "date": "2026-10-17T14:29:50.000Z"
+      },
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/panorama/prominente/papst-leo-rueckkehr-vatikan-krankenhaus-entlassung-100.html",
+        "date": "2026-10-17T11:18:00.000Z"
+      },
+      {
+        "name": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/vatikan-papst-leo-xiv-kann-krankenhaus-verlassen,VYIbVPE",
+        "date": "2026-10-17T10:52:40.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/ausland/europa/papst-krankenhaus-op-100.html",
+    "agree": "Alle Quellen stimmen überein, dass Papst Leo XIV. nach einer Lungen- und Krebsoperation das Krankenhaus verlassen kann oder bereits verlassen hat.",
+    "diff": [
+      {
+        "name": "Tagesschau",
+        "note": "Berichtet, dass der Papst das Krankenhaus bereits verlassen hat und schon morgen das Angelus-Gebet sprechen will."
+      },
+      {
+        "name": "ZDF heute",
+        "note": "Erwähnt, dass die Genesungsaussichten positiv sind und einiges noch unklar bleibt."
+      },
+      {
+        "name": "BR24 Bayern",
+        "note": "Teilt mit, dass Leo XIV. noch heute in den Vatikan zurückkehren wird."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
+    "id": "story-ecbfd21f7288aba6",
+    "c": "INT",
+    "o": "US",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-17T14:25:10.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Selenskyj fordert Unterstützung für neue US-Sanktionen gegen Russland",
+    "s": "Der ukrainische Präsident Wolodymyr Selenskyj hat Unterstützung für neue US-Sanktionen gegen Russland gefordert. Dies geschah, nachdem US-Präsident Donald Trump die Maßnahmen vorerst auf Eis gelegt hatte. Selenskyj bezeichnete diesen Schritt als bedauerlich und warnte vor den Folgen.",
+    "m": "Wolodymyr Selenskyj äußerte sich enttäuscht über die Entscheidung von Donald Trump, neue US-Sanktionen gegen Russland zu pausieren. Laut Selenskyj würde dieses Vorgehen Russland ermutigen, seine Angriffe fortzusetzen. Trump begründete die Atempause vor dem Kongress damit, dass sie im nationalen Interesse liege, nannte jedoch keine weiteren Details. Die Medienberichte greifen die Reaktionen und Forderungen des ukrainischen Präsidenten auf, nachdem die Sanktionen kurz zuvor gestoppt worden waren. Weitere Einzelheiten zu den geplanten Sanktionen oder den Gründen für die Atempause wurden in den Meldungen nicht genannt. Die Situation verdeutlicht die unterschiedlichen außenpolitischen Prioritäten zwischen der Ukraine und den Vereinigten Staaten. Offen bleibt, wie lange die Pause anhalten wird und ob der Kongress Einfluss auf die Entscheidung nehmen kann.",
+    "r": "Die Diskussion um die US-Sanktionen betrifft direkt die internationale Unterstützung für die Ukraine im Krieg gegen Russland. Das Eingreifen der US-Regierung hat unmittelbaren Einfluss auf den diplomatischen und wirtschaftlichen Druck auf Moskau.",
+    "srcs": [
+      {
+        "name": "NPR World",
+        "url": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
+        "date": "2026-10-17T14:25:10.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Gc3hnSnpqd2lBNzJFT0l2alF1YjBEaVVyeHVBV2hweHdzX1pyZTc2Q1NDVUE2Y1dlcDF1OEZhdVlXTndrQ0R3VjBVMTJmQURsNWl3c0FSWHMxdlpDSVVmdGtyWF8zQWk0UFR2M0UwWV83VTc3RTV5Rmk1d0w?oc=5",
+        "date": "2026-10-17T12:27:41.000Z"
+      }
+    ],
+    "url": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
+    "agree": "Beide Quellen berichten, dass Selenskyj Unterstützung für neue US-Sanktionen fordert, nachdem Trump diese auf Eis gelegt hat.",
+    "diff": [
+      {
+        "name": "NPR World",
+        "note": "Berichtet, dass Selenskyj die Entscheidung als unglücklich bezeichnete und Trump dem Kongress mitteilte, die Pause liege im nationalen Interesse."
+      },
+      {
+        "name": "Google News World",
+        "note": "Verweist zusätzlich auf die CBC und erwähnt, dass der Stopp wenige Stunden zurückliegt."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-e9dee47e77e99dc7",
     "c": "INT",
     "o": "PT",
@@ -31,6 +575,47 @@
       {
         "name": "Google News Portugal",
         "note": "Verweist lediglich auf den Bericht von RTP als Aggregator mit einem HTML-Link."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-7efb9d80e0cce439",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-17T13:27:34.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "„Bitten Sie um Ihre Entlassung!“, ruft der Delegierte der Jungen Union dem",
+    "s": "Bei einem Auftritt von Friedrich Merz beim Parteinachwuchs der Jungen Union in Bonn kam es zu einem brenzligen Moment. Ein Delegierter forderte den Kanzler öffentlich zur Entlassung auf. Die Junge Union fordert zwar Reformen, stellt sich aber offiziell hinter ihre Spitze.",
+    "m": "Friedrich Merz absolvierte einen soliden Auftritt beim Parteinachwuchs der Jungen Union in Bonn. Während die Parteijugend grundsätzlich auf Reformen pocht, zählt ihre offizielle Spitze den Kanzler nicht an. In einem Moment der Veranstaltung wurde es auf der Bühne jedoch kurz brenzlig für Merz. Ein anwesender Delegierter der Jungen Union rief ihm direkt zu: „Bitten Sie um Ihre Entlassung!“. Weitere Details zu den Hintergründen dieser spontanen Zwischenruf-Aktion oder der genauen Reaktion von Merz gehen aus den Berichten nicht hervor. Offen bleibt zudem, wie die breitere Basis der Jungen Union diesen Vorfall bewertet.",
+    "r": "Der Vorfall zeigt die Spannungen zwischen Teilen der Basis der Jungen Union und der politischen Führung. Solche Zwischenrufe werfen ein Schlaglicht auf die innerparteiliche Stimmung und die Erwartungen des Nachwuchsflügels an die Bundespolitik.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNdXVKc0VZRkxUNnc2Q3dvajNxbW94aldRM0xEWFNwMFoyUHE1QU1xME4zRE82Mjl6ZS04bldXUDBmbU5qVS1mWDlpc1lEZ2JwalYxaXZlTldBVkh3c29CMzd3d2plY1hIRzFmUFQySWc0bXM5Y2dMZzh5dUNzY3hReEowZkltLUE5eFhiNWJXdHEwcGctV1JlazNuY01NQUIwZE1ZdU54S1ExUlp2ZUJ2Sjd3ZkxfZWZTRzFWT0dEbjB0blpKUUd2SmlrV2pQUU5JdUxhbGxSdGhwRGs4cjB3YnFyQWxsdTNvbS1oU2RnTGN4OEF2VWx4ZXZqNA?oc=5",
+        "date": "2026-10-17T13:27:34.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/deutschland/plus6acf9f5277d7df6c69d6c3fe/junge-union-bitten-sie-um-ihre-entlassung-ruft-der-delegierte-der-jungen-union-dem-kanzler-zu.html",
+        "date": "2026-10-17T13:25:21.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNdXVKc0VZRkxUNnc2Q3dvajNxbW94aldRM0xEWFNwMFoyUHE1QU1xME4zRE82Mjl6ZS04bldXUDBmbU5qVS1mWDlpc1lEZ2JwalYxaXZlTldBVkh3c29CMzd3d2plY1hIRzFmUFQySWc0bXM5Y2dMZzh5dUNzY3hReEowZkltLUE5eFhiNWJXdHEwcGctV1JlazNuY01NQUIwZE1ZdU54S1ExUlp2ZUJ2Sjd3ZkxfZWZTRzFWT0dEbjB0blpKUUd2SmlrV2pQUU5JdUxhbGxSdGhwRGs4cjB3YnFyQWxsdTNvbS1oU2RnTGN4OEF2VWx4ZXZqNA?oc=5",
+    "agree": "Die Quellen stimmen überein, dass ein Delegierter der Jungen Union den Kanzler während eines Auftritts von Friedrich Merz in Bonn aufforderte, um seine Entlassung zu bitten.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Übernimmt den Ausruf des Delegierten direkt als Überschrift."
+      },
+      {
+        "name": "WELT",
+        "note": "Führt aus, dass die Junge Union auf Reformen pocht, ihre Spitze den Kanzler aber nicht an zählt, und beschreibt Merzs Auftritt in Bonn als grundsätzlich soliden, wenn auch kurz brenzligen Moment."
       }
     ],
     "chg": "",
@@ -160,43 +745,6 @@
     "independent": 2
   },
   {
-    "id": "story-30cf39caaef84073",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-17T13:15:40.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Selenskyj kritisiert Aussetzung von US-Sanktionen gegen Russland",
-    "s": "Der ukrainische Präsident Selenskyj hat die Aussetzung von US-Sanktionen gegen Russland scharf kritisiert. Er warnt davor, dass eine Lockerung des Drucks und finanzielle Belohnungen für den Kremlchef Putin einen Ansporn zum Weitermachen darstellen. Die Maßnahme steht im Kontext jüngster politischer Entscheidungen der USA unter Donald Trump. Hintergrund ist das Einfrieren von Russland-Zölllen kurz vor deren geplantem Inkrafttreten.",
-    "m": "Der ukrainische Präsident Wolodymyr Selenskyj hat sich kritisch zu Schritten der Vereinigten Staaten geäußert, bestimmte Sanktionen gegen Russland auszusetzen. In seiner Erklärung betonte er, dass jegliche Reduzierung des Drucks auf Moskau sowie finanzielle Begünstigungen den russischen Präsidenten Wladimir Putin nur ermutigen würden, seine Angriffe fortzusetzen. Die Debatte wird durch Berichte angeheizt, wonach der US-amerikanische Politiker Donald Trump kürzlich angekündigte Russland-Zölle kurz vor ihrem offiziellen Inkrafttreten auf Eis gelegt hat. Diese US-Entscheidung sorgt international für Gesprächsstoff und wirft Fragen über die zukünftige westliche Gangart gegenüber Russland auf. Bislang gibt es keine offiziellen Angaben darüber, ob die Aussetzung der Zölle und Sanktionen temporär oder dauerhaft angelegt ist. Die ukrainische Führung sieht in diesem Vorgehen jedoch ein gefährliches Signal, das den Aggressor stärken könnte. Offen bleibt, wie die US-Regierung auf die scharfe Kritik aus Kiew reagieren wird und ob dies Auswirkungen auf künftige Hilfspakete hat.",
-    "r": "Die Äußerungen des ukrainischen Präsidenten und die US-Entscheidung verdeutlichen mögliche Spannungen im westlichen Bündnis bezüglich des wirtschaftlichen Drucks auf Russland. Solche politischen Kehrtwenden können direkten Einfluss auf den Kriegsverlauf und die internationale Unterstützung für die Ukraine haben.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/selenskyj-kritisiert-aussetzung-von-us-sanktionen-102.html",
-        "date": "2026-10-17T13:15:40.000Z"
-      },
-      {
-        "name": "Süddeutsche Zeitung",
-        "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-selenskij-usa-sanktionen-russland-li.3563283",
-        "date": "2026-10-17T11:40:00.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/selenskyj-kritisiert-aussetzung-von-us-sanktionen-102.html",
-    "agree": "Beide Quellen stimmen überein, dass der ukrainische Präsident Selenskyj die Aussetzung von US-Sanktionen oder Zöllen kritisiert und warnt, dies sei ein Ansporn für Putin.",
-    "diff": [
-      {
-        "name": "Süddeutsche Zeitung",
-        "note": "Ergänzt die Information, dass Trump zuvor Russland-Zölle kurz vor ihrem Inkrafttreten auf Eis gelegt hatte."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
     "id": "story-d2005c8d4c372534",
     "c": "INT",
     "o": "DE",
@@ -234,38 +782,6 @@
         "note": "Berichtet über den Einsatz von Tränengas in Paris und beziffert die Zahl der Festnahmen auf mehr als 160."
       }
     ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-bde3b1fb23d4c842",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-17T13:15:40.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Niedersachsens Ministerpräsident Lies verteidigt Vorstoß zu Verbrenner-Verbot",
-    "s": "Niedersachsens Ministerpräsident Olaf Lies hat sich im Deutschlandfunk zu den Plänen geäußert, das für 2035 geplante EU-Verbot für neue Verbrennermotoren abzuschwächen. Der SPD-Politiker verteidigte den deutsch-französischen Vorstoß und betonte die wirtschaftliche Notwendigkeit für die Automobilindustrie. Gleichzeitig stellte er klar, dass es sich dabei nicht um ein generelles Festhalten am Verbrennungsmotor handele.",
-    "m": "Niedersachsens Ministerpräsident Olaf Lies hat den deutsch-französischen Vorstoß zur Aufweichung des für 2035 geplanten EU-Verbots für neue Verbrennermotoren verteidigt. In einem Interview mit dem Deutschlandfunk erklärte der SPD-Politiker, dass die deutsche Automobilindustrie ausreichend Geld verdienen müsse, um die anstehende Transformation erfolgreich zu finanzieren. Lies, der als Ministerpräsident in Niedersachsen auch dem Aufsichtsrat des Volkswagen-Konzerns angehört, betonte, dass diese Positionierung kein grundsätzliches Festhalten am Verbrenner darstelle. Die Debatte berührt damit direkt die wirtschaftlichen Interessen großer deutscher Autobauer im Kontext der europäischen Klimapolitik.",
-    "r": "Die Aussagen eines niedersächsischen Regierungschefs und VW-Aufsichtsratsmitglieds zum EU-Verbrenner-Verbot sind von hoher wirtschaftlicher und politischer Relevanz für den Standort Deutschland und die europäische Klimagesetzgebung.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/niedersachsens-ministerpraesident-lies-spd-automobilindustrie-muss-geld-fuer-transformation-verdiene-102.html",
-        "date": "2026-10-17T13:15:40.000Z"
-      },
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaXo4bGZ0VEx3U2RCWFFacTFSX0VTTnNvcDI1RHlTQ3I1ZnFSSTBtR3FKZXBmNHJYaFhXRWRwaFhKR0F3UDlYOTVNSzYzQkhxb19OanAza09DSVA0bThua3Z5U2wtTkpiRllsWkcwa3hnZEFraGZsSG11TklOakZJWjBFWm9TQU9rTUFOc2E2cVBIYkc2N1ZMNVZJWW1GZnJjeG9id3hkYWdFMXBiWVFCUDhLLW5kSl80aGtvZDJDLTdQeGdJSmh1UG1DdThMdng0Y0MtNlhwYw?oc=5",
-        "date": "2026-10-17T12:02:32.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/niedersachsens-ministerpraesident-lies-spd-automobilindustrie-muss-geld-fuer-transformation-verdiene-102.html",
-    "agree": "",
-    "diff": [],
     "chg": "",
     "independent": 2
   },
@@ -466,10 +982,10 @@
     "p": 2,
     "st": "",
     "city": "",
-    "t": "Videospiel-Charts im September bieten viele Überraschungen",
-    "s": "Die Videospiel-Charts für den Monat September präsentieren sich voller Neueinsteiger und bieten einige unerwartete Wendungen. Obwohl im laufenden Jahr zahlreiche große Titel erscheinen, überraschen vor allem die Spiele auf den vorderen Platzierungen. Der September gilt als besonders starker Monat für Videospielveröffentlichungen.",
-    "m": "Im September sorgen die aktuellen Videospiel-Charts für zahlreiche Überraschungen bei den Top-Platzierungen. Obwohl das Jahr bereits viele großartige Spiele hervorgebracht hat, zeichnet sich der September durch eine besonders hohe Dichte an Neuerscheinungen aus. Es überrascht, welche Titel letztendlich die Spitzenpositionen für sich beanspruchen können. Darunter befinden sich auch klassische Spiele, die den ersten Platz belegen. Die genauen Titel und Platzierungen außerhalb des ersten Platzes werden in den vorliegenden Berichten nicht detailliert beziffert.",
-    "r": "Die monatlichen Videospiel-Charts spiegeln den aktuellen Status und die Beliebtheit von Neuerscheinungen sowie Klassikern wider. Sie zeigen Trends auf dem Spielemarkt und verdeutlichen, welche Titel das Interesse der Spielerschaft besonders anziehen.",
+    "t": "Videospiel-Charts im September überraschen mit Klassikern auf den Top-Plätzen",
+    "s": "Die Videospiel-Charts im September sind voll von Neueinsteigern, da in diesem Monat besonders viele großartige Spiele erschienen sind. Überraschend ist jedoch, welche Titel sich die Spitzenpositionen sichern konnten. Dies geht aus den aktuellen Berichten über die Spielescharts hervor.",
+    "m": "Das Spielejahr bringt zahlreiche Neuerscheinungen hervor, wobei der Monat September eine besonders hohe Dichte an Titeln aufweist. Daher überrascht es wenig, dass die Gamecharts von Neueinsteigern dominiert werden. Unerwartet ist laut den Berichten allerdings, welche Spiele letztendlich die Top-Platzierungen für sich beanspruchen können. Konkrete Platzierungen oder Titel wurden in den vorliegenden Berichten bisher nicht namentlich genannt. Die Charts bieten somit einige unerwartete Wendungen hinsichtlich der erfolgreichsten Spiele dieses Monats.",
+    "r": "Die monatlichen Videospiel-Charts spiegeln den starken Veröffentlichungskalender des Jahres wider und zeigen unerwartete Trends bei den Spitzenreitern.",
     "srcs": [
       {
         "name": "Google News DE",
@@ -483,19 +999,60 @@
       }
     ],
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZjZEaTRoUXYwXzlvY0JMdU1rTjhnWHFXR3djcV92NHQ1VGZBTmUtUmV6Z2VHLWktMXRwMDJzQTdLR2JQRkQ0VVFEOWhuT2U0NDZtQTdiSFlxaUxaVGxuUDBKX21SUDdweGZvXzUzNV95V2dOT2syR0t3YzFzSlJjR1NPUUpHb2ZVdEgzNU03ZGt1Z01jQ190QjFDV3A0Smo0ZU1XbDd6MGoxTTA?oc=5",
-    "agree": "Beide Quellen stimmen darin überein, dass die Videospiel-Charts im September trotz vieler starker Veröffentlichungen in diesem Jahr überraschende Top-Platzierungen und Neueinsteiger hervorbringen.",
-    "diff": [
+    "agree": "Die Quellen sind sich einig, dass der September viele neue Spiele brachte und die Top-Platzierungen der Charts überraschend sind.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-fa3cb979640bc0c0",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-17T12:07:08.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "US-Präsident Trump setzt geplante Sanktionen gegen Russland aus",
+    "s": "US-Präsident Donald Trump hat kurz vor Inkrafttreten geplante Sanktionen gegen Russland ausgesetzt. Das Weiße Haus begründet diesen Schritt mit dem nationalen Interesse. Während Moskau positiv auf die Entscheidung reagiert, zeigt sich die Ukraine entsetzt.",
+    "m": "Die ausgesetzten Sanktionen sollten den Kreml unter anderem wegen des anhaltenden Ukraine-Kriegs stärker unter Druck setzen. Erst kürzlich hatte der US-Präsident zudem einen umstrittenen Diesel-Deal mit Russland vereinbart. Das Weiße Haus begründete die Aussetzung offiziell mit dem nationalen Interesse. Die Regierung in Moskau reagierte erfreut auf diesen Schritt der US-Regierung. Die ukrainische Seite hingegen reagierte entsetzt auf die Kehrtwende in Washington. Weitere Details zu den konkreten Inhalten der Sanktionen oder den genauen Hintergründen des Diesel-Deals nennen die Berichte nicht.",
+    "r": "Die Entscheidung der USA hat direkte Auswirkungen auf den internationalen Druck im Ukraine-Krieg und beeinflusst das Verhältnis zu Russland und der Ukraine. Die Begründung über das nationale Interesse verdeutlicht eine veränderte US-Prioritätensetzung.",
+    "srcs": [
       {
-        "name": "Google News DE",
-        "note": "Erwähnt zusätzlich explizit, dass ein Klassiker den ersten Platz belegt."
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/amerika/usa-russland-ukraine-sanktionen-100.html",
+        "date": "2026-10-17T12:07:08.000Z"
       },
       {
-        "name": "ntv",
-        "note": "Beschreibt ausführlicher, dass in diesem Jahr generell viele großartige Spiele erscheinen und der September besonders stark besetzt ist."
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcXZTY3BXVFlUQUNYQ1ZjR04yNG9CbENsQ0VxTDRRM3Z1Qk4xOUVpaWNuTk4zczhUOWVmaGVOYnU2TGNJaHhQSy1KeTFYSWxrUnpGWTJCTXBPZTV5TGlWS01QRHBhMFoyMFFDUGluX3hWZVJSTXRNeVNUNEgxcUNVUFMzYnZySTZyY0E?oc=5",
+        "date": "2026-10-17T12:07:00.000Z"
+      },
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/ausland/usa-zoelle-russland-oel-sanktionen-trump-ukraine-krieg-100.html",
+        "date": "2026-10-17T10:40:00.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/ausland/amerika/usa-russland-ukraine-sanktionen-100.html",
+    "agree": "Alle Quellen sind sich einig, dass US-Präsident Trump geplante Sanktionen gegen Russland ausgesetzt hat.",
+    "diff": [
+      {
+        "name": "Tagesschau",
+        "note": "Erwähnt zusätzlich einen umstrittenen Diesel-Deal mit Russland und die Reaktionen von Moskau (erfreut) sowie der Ukraine (entsetzt)."
+      },
+      {
+        "name": "Google News DE",
+        "note": "Verlinkt lediglich auf den Artikel der Tagesschau und enthält keinen eigenständigen redaktionellen Text."
+      },
+      {
+        "name": "ZDF heute",
+        "note": "Erwähnt, dass das Gesetz den Kreml speziell wegen des Ukraine-Kriegs stärker unter Druck setzen sollte."
       }
     ],
     "chg": "",
-    "independent": 2
+    "independent": 3
   },
   {
     "id": "story-7e7593d9e042ea60",
@@ -582,9 +1139,9 @@
     "st": "",
     "city": "",
     "t": "Messerangriff in Seniorenheim im Münsterland fordert ein Todesopfer",
-    "s": "In einem Seniorenheim in Olfen im Münsterland hat ein 72-jähriger Bewohner mehrere Frauen mit einem Messer angegriffen. Eine Frau kam bei dem Angriff ums Leben, zwei weitere Personen wurden schwer verletzt. Die Hintergründe der Bluttat sind derzeit noch unklar.",
-    "m": "Der Vorfall ereignete sich in einer Senioreneinrichtung in Olfen im Münsterland. Ein 72 Jahre alter Bewohner der Einrichtung soll dort mehrere Frauen attackiert haben. Bei dem Messerangriff starb eine Frau, zudem wurden zwei weitere Frauen schwer verletzt. Die Kriminalpolizei und die Staatsanwaltschaft haben die Ermittlungen aufgenommen, um die genauen Motive und den Ablauf der Tat zu klären. Medienberichten zufolge soll der tatverdächtige Senior zum Zeitpunkt des Angriffs in einem Rollstuhl gesessen haben. Offizielle Stellen und Ermittler stehen vor der Aufgabe, das genaue Geschehen in dem Heim zu rekonstruieren.",
-    "r": "Gewalttaten in Senioreneinrichtungen mit Todesfolgen werfen Fragen nach der Sicherheit in Pflegeheimen und der Betreuung von Bewohnern auf. Der Vorfall erfordert eine umfassende Aufklärung durch die zuständigen Behörden in Nordrhein-Westfalen.",
+    "s": "In einem Seniorenheim in Olfen im Münsterland hat ein 72-jähriger Bewohner mehrere Frauen mit einem Messer angegriffen. Eine Frau kam bei der Tat ums Leben, zwei weitere Personen wurden schwer verletzt. Die Hintergründe des Angriffs sind derzeit noch unklar und Gegenstand polizeilicher Ermittlungen.",
+    "m": "Der Vorfall ereignete sich in einer Senioreneinrichtung in Olfen im Münsterland. Ein 72-jähriger Mann, der Berichten zufolge im Rollstuhl saß und selbst Bewohner des Heims ist, soll dort auf mehrere Frauen mit einem Messer eingestochen haben. Bei dem Angriff starb eine Frau, während zwei weitere Frauen schwer verletzt wurden. Die genauen Motive für die Bluttat sind zum aktuellen Zeitpunkt noch völlig unklar. Die Kriminalpolizei hat die Ermittlungen aufgenommen, um den genauen Tathergang und die Hintergründe zu rekonstruieren. Die Bevölkerung und Angehörige stehen unter dem Eindruck dieser Gewalttat in einer sozialen Einrichtung. Rettungskräfte waren im Großeinsatz, um die Verletzten zu versorgen und Spuren zu sichern.",
+    "r": "Die Gewalttat in einer Pflegeeinrichtung mit einem Todesopfer und Schwerverletzten wirft Fragen zur Sicherheit in solchen Einrichtungen auf. Solche Ereignisse erfordern eine umfassende Aufarbeitung durch die zuständigen Ermittlungsbehörden.",
     "srcs": [
       {
         "name": "DER SPIEGEL",
@@ -598,15 +1155,15 @@
       }
     ],
     "url": "https://www.spiegel.de/panorama/muensterland-verdaechtiger-des-messerangriffs-im-seniorenheim-in-olfen-sass-offenbar-im-rollstuhl-a-427cd452-e8c4-4697-8b9d-d7c57e959cde#ref=rss",
-    "agree": "Die Quellen stimmen überein, dass ein 72-jähriger Bewohner in einem Seniorenheim in Olfen im Münsterland mehrere Frauen mit einem Messer angegriffen hat und dabei eine Frau starb.",
+    "agree": "Ein 72-jähriger Bewohner hat in einem Seniorenheim in Olfen im Münsterland mehrere Frauen mit einem Messer angegriffen, wobei eine Frau starb.",
     "diff": [
       {
         "name": "DER SPIEGEL",
-        "note": "Berichtet, dass der 72-jährige Verdächtige im Rollstuhl gesessen haben soll, und nennt zwei Schwerverletzte."
+        "note": "Berichtet, dass der 72-jährige Tatverdächtige im Rollstuhl saß, und nennt zwei Schwerverletzte."
       },
       {
         "name": "RND",
-        "note": "Berichtet allgemein von einer Toten und den Ermittlungen, nennt jedoch keine konkrete Zahl der Verletzten."
+        "note": "Berichtet allgemein von einer Toten und erwähnt, dass die Ermittler nach Antworten suchen."
       }
     ],
     "chg": "",
@@ -645,19 +1202,97 @@
     "independent": 2
   },
   {
+    "id": "story-0f7383f19144fa48",
+    "c": "INT",
+    "o": "INT",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-17T10:35:22.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Papst Leo XIV. nach Lungenkrebs-Operation zurück im Vatikan",
+    "s": "Papst Leo XIV. hat den Krankenhausaufenthalt vier Tage nach einer Operation wegen Lungenkrebs beendet. Bei dem 71-Jährigen war in der vergangenen Woche ein bösartiger Tumor und ein Teil der rechten Lunge operativ entfernt worden. Am Samstag kehrte das Oberhaupt in den Vatikan zurück.",
+    "m": "Die Entlassung von Papst Leo XIV. aus dem Krankenhaus erfolgte am Samstag, nur vier Tage nach dem medizinischen Eingriff. Ärzte hatten dem 71-jährigen Papst in der Vorwoche einen bösartigen Tumor entfernt und dabei einen Teil seiner rechten Lunge entnommen. Konkrete Angaben zum weiteren Genesungsverlauf oder Einschränkungen wurden zunächst nicht detailliert bekannt gegeben. Der schnelle Rückkehr in den Vatikan überraschte Beobachter angesichts des schweren operativen Eingriffs. Die Operation hatte weltweit für große Aufmerksamkeit gesorgt. Offen bleibt, wann der Papst seine öffentlichen Amtsgeschäfte wieder in vollem Umfang aufnehmen wird.",
+    "r": "Die gesundheitliche Entwicklung des Papstes ist von weltweitem religiösen und medialen Interesse. Der erfolgreiche Eingriff und die schnelle Entlassung betreffen das Oberhaupt der katholischen Kirche direkt.",
+    "srcs": [
+      {
+        "name": "France24 English",
+        "url": "https://www.france24.com/en/europe/20261017-pope-leo-returns-to-vatican-four-days-after-lung-cancer-surgery",
+        "date": "2026-10-17T10:35:22.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWkFLeWxHQ3AxZDFWd1h3STgwbzcxR1JHbzlhcy1nQW9MMWh5eUJXN3dZWUh4RWFlSmlyNkJ0OFJ1RzhuWlROLW5oU3VJQjJqZkFzN2F6UjZkNzRWVHNBYmVGcHdBOGV1cG5ROE9KanlVakJaSktvR1lmNDBLWXUzNkMtdW9KWTNpdUlnRDloa3dYTHRJb2FyVG5TSmpiU1ZrSDBSazdjajVGTHl4X2pvUHBQS2dsbVhIRTBnN1V5VW1pLXFGZnFyV1hNTHNOZEpWekxETWVma0Y2cG5paHJuQ1pR?oc=5",
+        "date": "2026-10-17T09:39:33.000Z"
+      }
+    ],
+    "url": "https://www.france24.com/en/europe/20261017-pope-leo-returns-to-vatican-four-days-after-lung-cancer-surgery",
+    "agree": "Beide Quellen stimmen überein, dass Papst Leo XIV. vier Tage nach einer Lungenkrebs-Operation in den Vatikan zurückgekehrt ist.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Erwähnt zusätzlich WKMG in der Überschrift und verweist darauf als Nachrichtenherkunft."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-69f0c12ef7c7b897",
+    "c": "INT",
+    "o": "PT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-17T10:25:25.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "US-Präsident Donald Trump verschiebt neue Russland-Sanktionen des Kongresses",
+    "s": "US-Präsident Donald Trump hat ein vom Kongress beschlossenes, umfassendes Sanktionspaket gegen die russische Wirtschaft per Dekret ausgesetzt. Er begründete diesen Schritt gegenüber dem Kongress am Freitag damit, dass die Aussetzung im nationalen Interesse liege. Das genaue Ausmaß und die Dauer der Verzögerung sind Gegenstand aktueller Berichte.",
+    "m": "Der US-amerikanische Präsident Donald Trump hat am Freitag offiziell ein Dekret unterzeichnet, mit dem er ein neues, weitreichendes Sanktionspaket gegen Russland aufschiebt. Diese Strafmaßnahmen waren zuvor vom US-Kongress verabschiedet worden. Trump argumentierte in seiner Mitteilung an den Gesetzgeber, dass das Stoppen oder Verschieben der Sanktionen dem nationalen Interesse der Vereinigten Staaten diene. Bislang ist unklar, wie lange die Suspendierung anhalten soll und ob der Kongress Gegenmaßnahmen ergreifen wird. Die Entscheidung wirft Fragen bezüglich des künftigen Kurses der US-Außenpolitik gegenüber Moskau auf. Die Berichte stammen von portugiesischen Medien und dem Sender RTP Mundo.",
+    "r": "Die Entscheidung der US-Regierung, vom Kongress beschlossene Sanktionen gegen Russland auszusetzen, betrifft die internationale Geopolitik und die bilateralen Beziehungen. Sie zeigt potenzielle Differenzen zwischen der Exekutive und der Legislative in den USA auf.",
+    "srcs": [
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdmdWandud1o5am5qWUs5NVpDY0plNUEwVWZrSWJTWktHTTVvUDhNMTdXb3BNR2pLTjZhZFJmNVg2ZllnMWxoeGhXbW12X0pCN0Y3STQyT2wzTnZoX3JfRXg1WXZKUXNCMFh3WURUeUpYdUt3ZVliOHJMaG52alFZSTBhTzdtYzJnaklDUUg0TXp0VGRGZk9FelpxeG01NDJQVFp2aTFyQThWMGFy?oc=5",
+        "date": "2026-10-17T10:25:25.000Z"
+      },
+      {
+        "name": "RTP Mundo",
+        "url": "https://www.rtp.pt/noticias/mundo/trump-adia-novas-sancoes-contra-russia-aprovadas-pelo-congresso_n1772245",
+        "date": "2026-10-17T07:48:49.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdmdWandud1o5am5qWUs5NVpDY0plNUEwVWZrSWJTWktHTTVvUDhNMTdXb3BNR2pLTjZhZFJmNVg2ZllnMWxoeGhXbW12X0pCN0Y3STQyT2wzTnZoX3JfRXg1WXZKUXNCMFh3WURUeUpYdUt3ZVliOHJMaG52alFZSTBhTzdtYzJnaklDUUg0TXp0VGRGZk9FelpxeG01NDJQVFp2aTFyQThWMGFy?oc=5",
+    "agree": "Die Quellen stimmen überein, dass US-Präsident Donald Trump neue, vom Kongress beschlossene Sanktionen gegen Russland ausgesetzt hat.",
+    "diff": [
+      {
+        "name": "Google News Portugal",
+        "note": "Berichtet über die Verzögerung unter Berufung auf das Medium Público."
+      },
+      {
+        "name": "RTP Mundo",
+        "note": "Ergänzt, dass Trump das entsprechende Dekret am Freitag unterzeichnete und dem Kongress mitteilte, die Maßnahme liege im nationalen Interesse."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-66621628f8556f91",
     "c": "DE",
     "o": "DE",
     "k": "panorama",
     "lang": "de",
     "d": "2026-10-17T08:45:17.000Z",
-    "p": 2,
+    "p": 1,
     "st": "BW",
     "city": "",
     "t": "Pferdeanhänger und zwei Autos in Mannheim-Seckenheim ausgebrannt",
-    "s": "In Mannheim-Seckenheim geriet in der Nacht zum Samstag ein geparkter Pferdeanhänger in Brand. Das Feuer griff in der Folge auf zwei Fahrzeuge über, die in unmittelbarer Nähe abgestellt waren. Verletzte wurden in den vorliegenden Berichten nicht genannt. Die genaue Brandursache ist derzeit noch unklar.",
-    "m": "Der Vorfall ereignete sich im Mannheimer Stadtteil Seckenheim in der Nacht von Freitag auf Samstag. Aus bisher ungeklärter Ursache fing ein dort abgestimmter Pferdeanhänger Feuer. Die Flammen breiteten sich rasch aus und erfassten auch zwei Autos, die neben dem Anhänger geparkt waren. Beide Wagen sowie der Anhänger wurden durch das Feuer beschädigt oder zerstört. Ob es Verletzte gab oder wie hoch der entstandene Sachschaden ist, geht aus den aktuellen Meldungen nicht hervor. Die Ermittlungen zur Brandursache durch die zuständigen Behörden stehen noch am Anfang.",
-    "r": "Brände im urbanen Raum mit Übergreifen auf benachbarte Fahrzeuge bergen stets das Risiko von Sachschäden und Gefahren für die Öffentlichkeit. Die Ursachenklärung ist für die Schadensregulierung und Sicherheitsbewertung von Bedeutung.",
+    "s": "In der Nacht zum Samstag geriet in Mannheim-Seckenheim ein geparkter Pferdeanhänger in Brand. Die Flammen breiteten sich auf zwei Autos aus, die neben dem Anhänger abgestellt waren. Verletzte wurden in den vorliegenden Berichten nicht genannt. Die genaue Brandursache ist derzeit noch unklar.",
+    "m": "Der Vorfall ereignete sich im Mannheimer Stadtteil Seckenheim. In der Nacht zum Samstag stand ein dort geparkter Pferdeanhänger plötzlich in Flammen. Durch die starke Hitzeentwicklung oder direkte Flammenübertragung griffen die Feuer auf zwei Fahrzeuge über, die in unmittelbarer Nähe parkten. Sowohl am Anhänger als auch an den beiden Autos entstand Sachschaden. Rettungskräfte und Feuerwehr waren im Einsatz, um den Brand zu löschen. Bisher gibt es keine offiziellen Angaben zur Schadenshöhe oder zur Ursache des Feuers. Die Polizei hat die Ermittlungen aufgenommen, um zu klären, wie es zu dem nächtlichen Feuer kommen konnte.",
+    "r": "Brände von Fahrzeugen und Anhängern im urbanen Raum erfordern stets den Einsatz von Rettungskräften und bergen Gefahren für die Umgebung. Der Vorfall ist von lokalem Interesse für die Sicherheit in Mannheim-Seckenheim.",
     "srcs": [
       {
         "name": "Tagesschau Regional Baden-Württemberg",
@@ -665,21 +1300,21 @@
         "date": "2026-10-17T08:45:17.000Z"
       },
       {
-        "name": "SWR Aktuell",
+        "name": "SWR Aktuell Baden-Württemberg",
         "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/seckenheim-autos-brand-geraten-100.html",
         "date": "2026-10-17T08:45:17.000Z"
       }
     ],
     "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-mannheim-seckenheim-pferdeanhaenger-und-autos-ausgebrannt-100.html",
-    "agree": "Beide Quellen berichten übereinstimmend, dass in der Nacht zum Samstag in Mannheim-Seckenheim ein geparkter Pferdeanhänger in Brand geriet und die Flammen auf zwei daneben geparkte Autos übergeschlagen sind.",
+    "agree": "Beide Quellen stimmen überein, dass in der Nacht zum Samstag in Mannheim-Seckenheim ein geparkter Pferdeanhänger in Brand geriet und die Flammen auf zwei daneben geparkte Autos überschlugen.",
     "diff": [
       {
         "name": "Tagesschau Regional Baden-Württemberg",
-        "note": "Erwähnt im Titel, dass der Pferdeanhänger und die Autos ausgebrannt sind."
+        "note": "Erwähnt im Titel, dass es sich um Autos im Plural handelte (Autos ausgebrannt)."
       },
       {
-        "name": "SWR Aktuell",
-        "note": "Verwendet einen kürzeren Titel, der sich auf den in Brand geratenen Pferdeanhänger beschränkt."
+        "name": "SWR Aktuell Baden-Württemberg",
+        "note": "Der Titel beschränkt sich auf den brennenden Pferdeanhänger."
       }
     ],
     "chg": "",
@@ -762,6 +1397,47 @@
       {
         "name": "Google News World",
         "note": "Nennt US. News & World Report als beteiligtes Medium, bietet ansonsten keine weiteren Details."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-07b7645199801de8",
+    "c": "INT",
+    "o": "DE",
+    "k": "technik",
+    "lang": "de",
+    "d": "2026-10-17T07:23:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "US-Verkehrsbehörde prüft fliegenden Tesla-Roadster",
+    "s": "Ein fliegender Tesla-Roadster hat die Aufmerksamkeit der US-Verkehrsbehörde auf sich gezogen. Es steht die Frage im Raum, ob die geplante Variante gegen Sicherheitsvorschriften und Verkehrsregeln verstößt. Elon Musk hatte zuvor angekündigt, dass das Fahrzeug in Produktion gehen soll.",
+    "m": "Die US-Verkehrsbehörde NHTSA oder eine entsprechende Aufsichtsbehörde wurde durch die Ankündigung eines fliegenden Tesla-Roadsters alarmiert. Unternehmenschef Elon Musk hat laut Berichten erklärt, dass der Roadster im Jahr 2028 in die Produktion gehen soll. Potenzielle Kunden haben bereits jetzt die Möglichkeit, das Fahrzeug über die offizielle Website von Tesla zu reservieren. Im Zentrum der Diskussion steht die sogenannte Rocket-Variante des Sportwagens, bei der geprüft wird, inwiefern sie mit geltenden Sicherheitsvorschriften und Verkehrsregeln vereinbar ist. Bisher ist unklar, wie die Regulierungsbehörden das Konzept bewerten und welche technischen Anpassungen für eine Zulassung erforderlich wären.",
+    "r": "Die behördliche Prüfung eines angekündigten Elektroautos mit Flug- oder Raketenfunktionen berührt grundlegende Fragen der Verkehrssicherheit und der Zulassung neuartiger Fahrzeugkonzepte.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVnBDc2c1VEdScnJ2NXBObXBuLXlyRTZsNmZJTnFfRFZXTmI4Z1ZORHp5M2JPVTRwRnZudlJCTUx1QVJwQm5sd09oZm5oWlJia2lELWNDUnMxcGZFSEhWdERGenduX3IxWE83aF91ZVpOd3RLY1d1akdBQXBBY1JHazBia0RuUm91Z0pNTmVEUl9CNklVM0YzVElhWldwZDdBd3ZmQ1d1SnlTV2ZHcmNwMA?oc=5",
+        "date": "2026-10-17T07:23:00.000Z"
+      },
+      {
+        "name": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/tesla-roadster-nhtsa-mahnt-elon-musk-zur-einhaltung-der-verkehrsregeln-accg-201591956.html",
+        "date": "2026-10-17T02:21:14.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVnBDc2c1VEdScnJ2NXBObXBuLXlyRTZsNmZJTnFfRFZXTmI4Z1ZORHp5M2JPVTRwRnZudlJCTUx1QVJwQm5sd09oZm5oWlJia2lELWNDUnMxcGZFSEhWdERGenduX3IxWE83aF91ZVpOd3RLY1d1akdBQXBBY1JHazBia0RuUm91Z0pNTmVEUl9CNklVM0YzVElhWldwZDdBd3ZmQ1d1SnlTV2ZHcmNwMA?oc=5",
+    "agree": "Die Quellen sind sich einig, dass ein fliegender Tesla-Roadster die US-Verkehrsbehörde auf den Plan gerufen hat.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Erwähnt die Berichterstattung von derStandard.de zu dem Vorfall."
+      },
+      {
+        "name": "Frankfurter Allgemeine",
+        "note": "Nennt Details von Elon Musk, wonach der Roadster 2028 in Produktion gehen soll, Kunden ihn bereits reservieren können und die 'Rocket'-Variante im Fokus steht."
       }
     ],
     "chg": "",
@@ -967,6 +1643,43 @@
       {
         "name": "Google News World",
         "note": "Verweist lediglich auf den Artikel des Guardian ohne eigene Zusatzinformationen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-8a1efdd814298461",
+    "c": "INT",
+    "o": "UK",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-17T03:11:10.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Drei Männer wegen Mordes an Surfern in Mexiko zu Haftstrafen verurteilt",
+    "s": "Ein Gericht in Mexiko hat drei Männer zu jeweils 158 Jahren Haft verurteilt. Sie wurden des Mordes an zwei australischen Brüdern und einem US-amerikanischen Surfer schuldig gesprochen. Die Tat ereignete sich während eines Surfausflugs.",
+    "m": "Die australischen Brüder Jake und Callum Robinson sowie ihr US-amerikanischer Freund Carter Rhoad wurden auf einer gemeinsamen Surfreise in Mexiko getötet. Den ermittelten Erkenntnissen zufolge geschah die Tötung im Rahmen eines missglückten Raubüberfalls. Nun wurden drei Tatverdächtige zu außergewöhnlich langen Gefängnisstrafen von jeweils 158 Jahren verurteilt. Die genauen Umstände des Raubes sowie die Beweislage führten zu diesem Schuldspruch durch die mexikanischen Behörden. Der Fall hatte international für Aufsehen gesorgt und verdeutlicht die anhaltenden Probleme mit Gewaltkriminalität in bestimmten Regionen Mexikos.",
+    "r": "Die Verurteilung von drei Männern zu jeweils 158 Jahren Haft wegen Mordes an ausländischen Touristen ist ein drastisches Urteil im Bereich der internationalen Kriminalität. Der Vorfall beleuchtet zudem Sicherheitsrisiken für Touristen in Mexiko.",
+    "srcs": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-17T03:11:10.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Td2ZsbFdISWxWS2JJcWMxUjhBUVdqb1RzWXRIeUxubjhnMUhQTVpCcnMtd1YwU3ZoZjJ3UkYxTlhVUDEyMVg3Vmo2T2ZNNHVJOHZxMGpXUHNHRlE?oc=5",
+        "date": "2026-10-17T03:11:10.000Z"
+      }
+    ],
+    "url": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
+    "agree": "Die Quellen stimmen überein, dass drei Männer zu jeweils 158 Jahren Haft für den Mord an australischen und US-amerikanischen Surfern in Mexiko verurteilt wurden.",
+    "diff": [
+      {
+        "name": "BBC World",
+        "note": "Erwähnt die Namen der Opfer (Jake und Callum Robinson sowie Carter Rhoad) und nennt die Tatursache als gescheiterten Raubüberfall."
       }
     ],
     "chg": "",
@@ -15279,672 +15992,6 @@
       {
         "name": "ntv",
         "note": "erwähnt ergänzend, dass Reiche vor den Angriffen eine Konferenz in Riad besuchte"
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-95781d900b4f6429",
-    "c": "INT",
-    "o": "UK",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-11T20:55:02.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Trumps Ankündigung eines Energie-Waffenstillstands überrascht Ukraine und Russland",
-    "s": "Der US-Präsident hat in einem Social-Media-Beitrag angekündigt, es werde einen Energie-Waffenstillstand geben. Diese Ankündigung schien sowohl die Ukraine als auch Russland zu überraschen. Bisher gibt es keine offizielle Reaktion aus Moskau auf diese Äußerung.",
-    "m": "In einem Social-Media-Beitrag hat der US-Präsident die Existenz beziehungsweise das Zustandekommen eines Energie-Waffenstillstands verkündet. Die genauen Hintergründe und Details dieser Erklärung sind Gegenstand medialer Analysen. Die ukrainische Seite wurde von diesem Vorstoß offenbar überrascht. Auch von russischer Seite steht eine offizielle Stellungnahme zu dieser Behauptung noch aus. Der genaue zeitliche Ablauf der Social-Media-Veröffentlichung und die konkreten Bedingungen des vermeintlichen Waffenstillstands werden in den Quellen nicht näher erläutert. Es bleibt unklar, ob und in welcher Form diplomatische Vorgespräche stattgefunden haben oder ob es sich um eine einseitige Initiative handelt. Weitere Details zu den beteiligten Akteuren oder den möglichen Auswirkungen auf die Energieinfrastruktur im Konfliktgebiet fehlen in den Berichten ebenfalls.",
-    "r": "Die Ankündigung eines US-Präsidenten zu einem Energie-Waffenstillstand betrifft einen laufenden internationalen Konflikt und könnte direkte Folgen für die Energieversorgung und die Kriegsparteien haben. Da sowohl die Ukraine überrascht wurde als auch eine Reaktion aus Russland aussteht, sind die diplomatischen Auswirkungen derzeit ungewiss.",
-    "srcs": [
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-11T20:55:02.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XSXRldmJZYkxMeHFYcVpMMmpwYmdKTDJZQTB3YW5ReDRMaTA0X3pXb0VkVTVBVk9DRnlSb3hhZlFncEVpQUU3c0xmTTlPa0I0WkhaT2tJeWQ?oc=5",
-        "date": "2026-10-11T20:55:02.000Z"
-      }
-    ],
-    "url": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss",
-    "agree": "Die Quellen stimmen überein, dass der US-Präsident in einem Social-Media-Beitrag einen Energie-Waffenstillstand verkündet hat, welcher die Ukraine überraschte und zu dem Russland noch nicht kommentiert hat.",
-    "diff": [
-      {
-        "name": "Google News World",
-        "note": "Verweist lediglich auf den BBC-Bericht und liefert keine eigenständigen zusätzlichen Informationen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-556cc61ccb5bbfa5",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-11T20:44:56.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Huthi-Miliz greift erneut saudische Flughäfen mit Raketen an",
-    "s": "Die Huthi-Rebellen haben erneut saudische Flughäfen mit Raketen angegriffen. Angesichts der anhaltenden Angriffe bleiben sichtbare Erfolge der Politik von US-Präsident Donald Trump gegen den Iran aus. Die Entwicklungen werden in einem Liveticker verfolgt.",
-    "m": "Die Huthi-Milizen setzen ihre Angriffe auf saudische Flughäfen mit Raketen fort. Diese Attacken finden vor dem Hintergrund des Konflikts mit dem Iran statt. US-Präsident Donald Trump wird von Beobachtern kritisiert, da er im Konflikt mit dem Iran auf militärischer sowie diplomatischer Ebene bisher schuldig geblieben ist, sichtbare Erfolge vorzuweisen. Die genauen Schäden oder Opferzahlen der aktuellen Angriffe sind im Rahmen der Berichterstattung nicht näher beziffert. Die laufenden Ereignisse werden in Form eines Livetickers dokumentiert, um über die Dynamik der Lage im Nahen Osten zu informieren.",
-    "r": "Die Angriffe auf saudische Infrastruktur durch die Huthi-Milizen verdeutlichen die anhaltende instabile Sicherheitslage im Nahen Osten. Gleichzeitig werfen sie Fragen bezüglich der Wirksamkeit der aktuellen US-Strategie unter Donald Trump gegenüber dem Iran auf.",
-    "srcs": [
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/politik/nahost-ticker-huthi-greifen-erneut-saudische-flughaefen-mit-raketen-an-SUZZT272ANCR5LXBULZCKG7OB4.html",
-        "date": "2026-10-11T20:44:56.000Z"
-      },
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/news/2026-10/11/saudi-arabien-zwoelf-tote-bei-angriff-auf-flughafen-in-riad",
-        "date": "2026-10-11T20:37:03.000Z"
-      }
-    ],
-    "url": "https://www.rnd.de/politik/nahost-ticker-huthi-greifen-erneut-saudische-flughaefen-mit-raketen-an-SUZZT272ANCR5LXBULZCKG7OB4.html",
-    "agree": "Beide Quellen stimmen darin überein, dass Huthi-Rebellen erneut saudische Flughäfen mit Raketen angegriffen haben und die US-Politik unter Donald Trump gegenüber dem Iran bisher keine sichtbaren Erfolge erzielt hat.",
-    "diff": [
-      {
-        "name": "RND",
-        "note": "Erwähnt zusätzlich, dass die Entwicklungen in einem Liveticker verfolgt werden."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-0cd2ea7592e593cc",
-    "c": "INT",
-    "o": "INT",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-11T20:28:46.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Ukraine und Russland vereinbaren Energiestillstand nach Ankündigung von Donald Trump",
-    "s": "Der ukrainische Präsident Wolodymyr Selenskyj hat positiv auf die Ankündigung von US-Präsident Donald Trump reagiert. Laut Trump haben sich die Konfliktparteien Russland und die Ukraine auf einen vorübergehenden Energiestillstand geeinigt. Details zu den genauen Bedingungen der Vereinbarung wurden zunächst nicht genannt.",
-    "m": "US-Präsident Donald Trump hat öffentlich erklärt, dass sich Russland und die Ukraine auf einen sogenannten Energiestillstand verständigt haben. Der ukrainische Präsident Wolodymyr Selenskyj begrüßte diesen Schritt offiziell. Bislang sind kaum konkrete Details über die Ausgestaltung, die Dauer oder die genaue Überwachung dieses Waffenstillstands im Energiesektor bekannt. Es bleibt unklar, welche konkreten Zusagen die Regierungen in Moskau und Kiew gemacht haben. Die Meldung basiert auf ersten Kurzmeldungen internationaler Nachrichtenagenturen. Beobachter warten auf nähere offizielle Stellungnahmen der beteiligten Parteien zur Umsetzung dieser Einigung.",
-    "r": "Die Vereinbarung eines Energiestillstands zwischen Russland und der Ukraine könnte eine signifikante Deeskalation in bestimmten Bereichen des Konflikts darstellen. Da beide Länder stark von kritischer Infrastruktur im Energiesektor abhängig sind, hat die Ankündigung unmittelbare geopolitische und wirtschaftliche Relevanz.",
-    "srcs": [
-      {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/zelenskyy-welcomes-us-announced-energy-ceasefire?traffic_source=rss",
-        "date": "2026-10-11T20:28:46.000Z"
-      },
-      {
-        "name": "France24 English",
-        "url": "https://www.france24.com/en/americas/20261011-trump-says-russia-and-ukraine-agree-energy-ceasefire",
-        "date": "2026-10-11T14:41:09.000Z"
-      }
-    ],
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/zelenskyy-welcomes-us-announced-energy-ceasefire?traffic_source=rss",
-    "agree": "Beide Quellen stimmen überein, dass US-Präsident Trump einen Energiestillstand zwischen Russland und der Ukraine verkündet hat und Selenskyj diesen begrüßt.",
-    "diff": [
-      {
-        "name": "Al Jazeera",
-        "note": "Berichtet explizit, dass Präsident Selenskyj den von den USA angekündigten Energiestillstand willkommen geheißen hat."
-      },
-      {
-        "name": "France24 English",
-        "note": "Verwendet eine Eilmeldung-Kennzeichnung für die Bekanntgabe des 'energy ceasefire' durch Trump."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-cc2c06e2521b7f5b",
-    "c": "INT",
-    "o": "PT",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-11T20:27:59.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Papst Leo XIV. kündigt Lungenoperation an",
-    "s": "Papst Leo XIV. hat am Sonntag angekündigt, sich in den kommenden Tagen einer Operation zu unterziehen. Grund dafür ist ein Lungenknoten, der bei ihm festgestellt wurde. Das medizinische Eingreifen soll zeitnah erfolgen.",
-    "m": "Der Eingriff zur Entfernung des Knotens wird in den nächsten Tagen stattfinden. Nach Angaben des Papstes wurde der Befund in einer sehr frühen Phase entdeckt. Der Knoten ist auf das Organ Lunge beschränkt. Bekannt gegeben hat das Kirchenoberhaupt diese Nachricht überraschend während des sonstäglichen Angelus-Gebets. Weitere Details zu dem Gesundheitszustand oder dem genauen Ablauf des Eingriffs wurden zunächst nicht genannt. Die Meldung stützt sich auf die Ankündigung des Papstes vom Sonntag.",
-    "r": "Die Gesundheitsnachrichten des Papstes von internationaler Tragweite sind von großem öffentlichem und medialem Interesse. Ein operativer Eingriff bei einem Kirchenoberhaupt hat potenziell weitreichende Auswirkungen auf dessen Terminkalender und die Amtsgeschäfte.",
-    "srcs": [
-      {
-        "name": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/pais/papa-leao-xiv-vai-ser-operado-nos-proximos-dias-a-nodulo-no-pulmao_n1771049",
-        "date": "2026-10-11T20:27:59.000Z"
-      },
-      {
-        "name": "RTP Mundo",
-        "url": "https://www.rtp.pt/noticias/mundo/papa-leao-xiv-vai-ser-operado-para-remover-nodulo-num-pulmao_n1770995",
-        "date": "2026-10-11T11:30:10.000Z"
-      }
-    ],
-    "url": "https://www.rtp.pt/noticias/pais/papa-leao-xiv-vai-ser-operado-nos-proximos-dias-a-nodulo-no-pulmao_n1771049",
-    "agree": "Die Quellen stimmen überein, dass Papst Leo XIV. am Sonntag angekündigt hat, sich in den nächsten Tagen wegen eines in einem sehr frühen Stadium entdeckten Lungenknotens operieren zu lassen.",
-    "diff": [],
-    "chg": "",
-    "independent": 1
-  },
-  {
-    "id": "story-db3b18d4450c616d",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-11T20:20:00.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Journalistenverband wirft AfD-Politiker Siegmund Einschüchterung von Reporter vor",
-    "s": "Der Deutsche Journalisten-Verband wirft dem AfD-Politiker Ulrich Siegmund Einschüchterung vor. Grund ist eine Äußerung gegenüber dem Heute-Show-Reporter Fabian Köster. Siegmund hatte Köster gefragt, ob er sich für den Fall der Kündigung des Medienstaatsvertrags schon einen Job gesucht habe.",
-    "m": "Der Vorfall ereignete sich im Zusammenhang mit Medienstrukturen und politischer Debatte. Der AfD-Politiker Ulrich Siegmund konfrontierte den Reporter Fabian Köster von der Heute Show mit der gezielten Frage, ob dieser bereits über einen Berufswechsel nachgedacht habe, falls der Medienstaatsvertrag gekündigt werden sollte. Diese Äußerung wurde vom Deutschen Journalisten-Verband als Grenzüberschreitung und Einschüchterungsversuch gewertet. Der DJV kritisierte das Vorgehen scharf und sieht dadurch die freie Ausübung des Journalismus bedroht. Bisher sind keine weiteren rechtlichen Schritte oder offiziellen Reaktionen vonseiten der AfD-Fraktion bekannt. Der Vorfall wirft ein Schlaglicht auf den zunehmend rauen Umgangston zwischen Politikern und Medienschaffenden.",
-    "r": "Die Auseinandersetzung verdeutlicht die anhaltenden Spannungen zwischen Vertretern der AfD und Medienschaffenden. Solche Vorfälle sind relevant für die Diskussion um Pressefreiheit und den Umgangston in der politischen Landschaft.",
-    "srcs": [
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/politik/afd-in-sachsen-anhalt-journalistenverband-wirft-ulrich-siegmund-einschuechterung-vor-a-8534b38c-2052-4771-81d4-b3678cc50f55#ref=rss",
-        "date": "2026-10-11T20:20:00.000Z"
-      },
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/kultur/medien/article6acb932361b3d4c01d3e3406/nach-zdf-interview-journalisten-verband-wirft-ulrich-siegmund-einschuechterung-von-reporter-vor.html",
-        "date": "2026-10-11T14:20:11.000Z"
-      }
-    ],
-    "url": "https://www.spiegel.de/politik/afd-in-sachsen-anhalt-journalistenverband-wirft-ulrich-siegmund-einschuechterung-vor-a-8534b38c-2052-4771-81d4-b3678cc50f55#ref=rss",
-    "agree": "Beide Quellen stimmen überein, dass der DJV dem AfD-Politiker Ulrich Siegmund nach einer Äußerung gegenüber Reporter Fabian Köster Einschüchterung und eine Grenzüberschreitung vorwirft.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-8d908f5413a7f6ed",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-11T20:15:01.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Polnische Polizei verhindert offenbar Anschlag auf Premier Tusk",
-    "s": "Die polnische Polizei hat Hinweise auf geplante Anschläge auf Regierungschef Tusk sowie Verteidigungsminister Kosiniak-Kamysz erhalten. Im Zusammenhang mit den Drohungen wurde ein Mann festgenommen. Die genauen Hintergründe und Details der Pläne sind derzeit noch unklar.",
-    "m": "Die Entdeckung der Anschlagspläne hat in Polen großen Alarm ausgelöst und zu einer Krisensitzung geführt. Konkret sollen der polnische Ministerpräsident Donald Tusk und Verteidigungsminister Władysław Kosiniak-Kamysz im Visier gestanden haben. Die Behörden nahmen nach den Hinweisen einen Tatverdächtigen fest. Trotz der Festnahme ist vieles in dem Fall noch im Unklaren. Die Ermittlungen der Sicherheitskräfte dauern an, um mögliche Hinterleute und das Ausmaß der Bedrohung zu klären. Weitere offizielle Details wurden zunächst nicht bekannt gegeben.",
-    "r": "Die Festnahme im Zusammenhang mit konkreten Anschlagsplänen gegen ranghohe Regierungsmitglieder in Polen betrifft die nationale Sicherheit unmittelbar. Das Ereignis verdeutlicht die aktuelle Gefährdungslage für politische Spitzenkräfte in dem Nachbarland.",
-    "srcs": [
-      {
-        "name": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/ausland/europa/polen-tusk-anschlag-100.html",
-        "date": "2026-10-11T20:15:01.000Z"
-      },
-      {
-        "name": "Rheinische Post",
-        "url": "https://rp-online.de/politik/ausland/polen-anschlag-auf-donald-tusk-geplant-festnahme_aid-156345693",
-        "date": "2026-10-11T15:43:00.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/ausland/europa/polen-tusk-anschlag-100.html",
-    "agree": "Die Quellen stimmen überein, dass es Hinweise auf einen Anschlag auf Polens Regierungschef Tusk gibt und die Lage noch von Unklarheiten geprägt ist.",
-    "diff": [
-      {
-        "name": "SWR Aktuell",
-        "note": "Erwähnt neben Tusk auch den Verteidigungsminister, nennt jedoch keine Festnahme."
-      },
-      {
-        "name": "Tagesschau",
-        "note": "Berichtet konkret über die Festnahme eines Mannes und nennt zusätzlich den Verteidigungsminister Kosiniak-Kamysz."
-      },
-      {
-        "name": "Rheinische Post",
-        "note": "Berichtet neben der Festnahme auch über eine einberufene Krisensitzung in Polen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-61a54c8fff923536",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-11T18:57:13.000Z",
-    "p": 2,
-    "st": "HH",
-    "city": "",
-    "t": "Rohrbruch in Eidelstedt sorgt für stundenlangen Wasserausfall",
-    "s": "In Hamburg-Eidelstedt kam es am Samstagabend zu einem Wasserrohrbruch. Die Reichsbahnstraße musste aufgrund des Schadens vorübergehend voll gesperrt werden. Anwohnerinnen und Anwohner waren für mehrere Stunden ohne eigenes Leitungswasser.",
-    "m": "Am Samstagabend ereignete sich in Eidelstedt ein Wasserrohrbruch, der die Versorgung von Anwohnerinnen und Anwohnern für mehrere Stunden unterbrach. Als Sofortmaßnahme war eine vorübergehende Sperrung der Reichsbahnstraße erforderlich, um die Schäden zu beheben. Inzwischen konnten die Reparaturarbeiten erfolgreich abgeschlossen werden. Sowohl der fließende Verkehr als auch die Wasserversorgung wurden wieder vollständig freigegeben bzw. hergestellt. Weitere Details zu den Ursachen des Rohrbruchs oder zur genauen Schadenshöhe wurden in den vorliegenden Berichten nicht genannt.",
-    "r": "Der Vorfall betrifft die lokale Infrastruktur in Hamburg und führte zu temporären Einschränkungen im Straßenverkehr sowie bei der Wasserversorgung von Anwohnern. Die schnelle Behebung stellt die Grundversorgung vor Ort wieder her.",
-    "srcs": [
-      {
-        "name": "Tagesschau Regional Hamburg",
-        "url": "https://www.tagesschau.de/inland/regional/hamburg/rohrbruch-in-eidelstedt-wasser-notversorgung-fuer-anwohnende,wasserrohrbruch-164.html",
-        "date": "2026-10-11T18:57:13.000Z"
-      },
-      {
-        "name": "NDR Hamburg",
-        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/wasserrohrbruch-in-eidelstedt-anwohnende-stunden-ohne-eigenes-wasser,hamj-15454.html",
-        "date": "2026-10-11T18:50:56.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/regional/hamburg/rohrbruch-in-eidelstedt-wasser-notversorgung-fuer-anwohnende,wasserrohrbruch-164.html",
-    "agree": "Beide Quellen stimmen überein, dass es am Samstagabend in Eidelstedt einen Wasserrohrbruch gab, die Reichsbahnstraße gesperrt werden musste und die Wasserversorgung sowie der Verkehr inzwischen wieder laufen.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-c0aad5965e9dac2f",
-    "c": "INT",
-    "o": "INT",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-11T18:47:57.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Nahostkrieg und Schuldenkrise im Fokus der IWF- und Weltbank-Jahrestagung",
-    "s": "Der Krieg im Nahen Osten und hohe Schuldenstände stehen im Zentrum der Beratungen bei den Treffen des Internationalen Währungsfonds und der Weltbank in Bangkok. Die Veranstaltung bringt internationale Finanzexperten und politische Entscheidungsträger zusammen. Im Fokus stehen dabei insbesondere die wirtschaftlichen und inflationären Folgen der militärischen Auseinandersetzungen.",
-    "m": "Die diesjährigen Tagungen des Internationalen Währungsfonds (IWF) und der Weltbank in Bangkok werden maßgeblich von geopolitischen Konflikten und globalen Finanzproblemen geprägt. Im Mittelpunkt der Gespräche stehen die ökonomischen Konsequenzen des US-Israel-Krieges gegen den Iran. Experten und Delegierte beraten über Strategien zur Bewältigung der steigenden Inflation, die durch den Konflikt angetrieben wird. Neben den direkten Kriegsfolgen bildet die anhaltende globale Schuldenkrise einen weiteren Schwerpunkt der Agenda. Konkrete Maßnahmen zur Entlastung hochverschuldeter Staaten und zur Stabilisierung der Weltwirtschaft sollen erörtert werden. Das Treffen bietet eine Plattform für Finanzminister und Notenbankchefs, um auf die aktuellen Krisen zu reagieren.",
-    "r": "Die Tagungen von IWF und Weltbank sind von hoher Relevanz für die globale Wirtschaftspolitik, da dort internationale Antworten auf Inflation und Schuldenkrisen koordiniert werden. Die wirtschaftlichen Verflechtungen machen die Beschlüsse für die globale Finanzstabilität bedeutsam.",
-    "srcs": [
-      {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/11/war-and-high-debt-to-dominate-imf-world-bank-meetings-in-bangkok?traffic_source=rss",
-        "date": "2026-10-11T18:47:57.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWEpIcGcyUmZSRThybm5ITWltdHNxSTdzX2RzdWdfU3NHdE5paWJDbDdQQ200OFBtUmJfVDBWd184UnFfS1Z2N1J3Z1k0NGVkOVpnQjQ2bjJsYkxVTVJ1RlU5TFN0SFhRWkV1eTZXcHd4dnlKcmpVYXlmNTNaZm5pMGRDa0MxVDdQWmpUWkZvYXZDMnBwM19DZm5SMVF2YnJQN2JhLWYyRExnUFJOZWhGUGxKMWlpVy12UVVpMkV1d0Y3SUpiTGFLR1k4Uy1FUQ?oc=5",
-        "date": "2026-10-11T12:09:13.000Z"
-      }
-    ],
-    "url": "https://www.aljazeera.com/news/2026/10/11/war-and-high-debt-to-dominate-imf-world-bank-meetings-in-bangkok?traffic_source=rss",
-    "agree": "Beide Quellen stimmen überein, dass der Krieg im Nahen Osten und hohe Schuldenstände die Tagungen von IWF und Weltbank in Bangkok dominieren werden.",
-    "diff": [
-      {
-        "name": "Al Jazeera",
-        "note": "Erwähnt konkret den US-Israel-Krieg gegen den Iran und dessen inflationäre Auswirkungen."
-      },
-      {
-        "name": "Google News World",
-        "note": "Verweist auf U.S. News & World Report als Herkunft der Berichterstattung über die Konferenz."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-b967369527504f2c",
-    "c": "INT",
-    "o": "UK",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-11T18:34:10.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Trump und Rubio prüfen Entlassung der US-Botschafterin in Griechenland",
-    "s": "US-Präsident Trump und Außenminister Rubio erwägen die Entlassung der US-Botschafterin in Griechenland, Kimberly Guilfoyle. Grund sind Berichte über mögliches Fehlverhalten vor und während ihrer Amtszeit in Athen. Eine endgültige Entscheidung wird in der aktuellen Woche erwartet.",
-    "m": "Donald Trump und Marco Rubio prüfen offenbar personelle Konsequenzen für Kimberly Guilfoyle, die als US-Botschafterin in Griechenland tätig ist. Auslöser sind mehrere Berichte, die ihr ein unangemessenes und womöglich illegales Verhalten zur Last legen. Ein ranghoher US-Beamter erklärte am Sonntag, dass sowohl der Präsident als auch der Außenminister extrem verärgert über das Verhalten der Diplomatin seien. Eine Entscheidung über mögliche Maßnahmen könnte nach einem US-Bundesfeiertag im Laufe der Woche fallen. Die Vorwürfe beziehen sich sowohl auf Handlungen vor als auch während ihrer Amtszeit in Athen. Weitere offizielle Details zu den genauen Vorwürfen wurden in den Berichten zunächst nicht genannt.",
-    "r": "Die mögliche Entlassung einer US-Botschafterin wegen Vorwürfen illegalen und unangemessenen Verhaltens betrifft die diplomatische Führungsebene der USA. Die Entscheidung von Präsident Trump und Außenminister Rubio könnte noch in dieser Woche fallen.",
-    "srcs": [
-      {
-        "name": "Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/oct/11/trump-rubio-weigh-firing-kimberly-guilfoyle",
-        "date": "2026-10-11T18:34:10.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSXE5NHBUS2pQa1MzS3NISjU1X1VhdDM4b3NFTUE5TVN1QWdIWkxKbmloY1FHRGowQzlFZ3RLTGJGRU1fNXd0d09FWnBrdnVvcGJjWEFydmwtY01yM2t0eGkxeUt2UkstRExRcnlpVkJzTjhRR0xkc2dpdm4yMi16a2locFhOV0VmaHFESHVzN0ZKX0Z3M3c?oc=5",
-        "date": "2026-10-11T18:34:00.000Z"
-      }
-    ],
-    "url": "https://www.theguardian.com/us-news/2026/oct/11/trump-rubio-weigh-firing-kimberly-guilfoyle",
-    "agree": "Beide Quellen stimmen darin überein, dass Donald Trump und Marco Rubio die Entlassung der US-Botschafterin in Griechenland, Kimberly Guilfoyle, wegen Berichten über improper conduct prüfen.",
-    "diff": [
-      {
-        "name": "Guardian World",
-        "note": "Berichtet im Detail, dass ein ranghoher US-Beamter am Sonntag äußerte, Trump und Rubio seien extrem verärgert, und dass eine Entscheidung über das Vorgehen nach dem Bundesfeiertag in dieser Woche fallen könnte."
-      },
-      {
-        "name": "Google News World",
-        "note": "Verweist lediglich knapp mit einer Überschrift auf den Bericht des Guardian über die erwogene Entlassung."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-7c38be86e20fc73f",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-11T18:34:05.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Donald Trump verkündet teilweise Waffenruhe für Energieanlagen im Ukraine-Krieg",
-    "s": "US-Präsident Donald Trump hat eine teilweise Waffenruhe für Energieanlagen im Ukraine-Krieg verkündet. Demnach sollen Russland und die Ukraine einer entsprechenden Vereinbarung zugestimmt haben. Die Ankündigung sorgte international für unterschiedliche Reaktionen und Verwunderung.",
-    "m": "Donald Trump verbreitete die Nachricht über eine Vereinbarung zu einer Energie-Waffenruhe auf der Plattform Truth Social, nannte dabei jedoch keine Details. Der ukrainische Präsident Wolodymyr Selenskyj zeigte sich von der Ankündigung überrascht und erklärte, er habe von einer solchen Einigung nichts gewusst. Aus Moskau gab es zunächst keine offizielle Reaktion auf Trumps Post. Europäische Akteure begrüßten zwar grundsätzlich den Gedanken einer Entlastung, blieben angesichts anhaltender russischer Angriffe jedoch skeptisch. Bislang ist unklar, wie eine solche Vereinbarung konkret ausgestaltet sein und überwacht werden soll.",
-    "r": "Die Ankündigung eines US-Präsidenten über eine Waffenruhe zwischen Kriegsparteien ist von hoher geopolitischer Relevanz. Sie wirft Fragen bezüglich der diplomatischen Abstimmung und der tatsächlichen Umsetzung vor Ort auf.",
-    "srcs": [
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/politik/ukraine-krieg-trump-verkuendet-waffenruhe-fuer-energieanlagen-X7NQAUN7SZGXNI7OSPKKTRPBJ4.html",
-        "date": "2026-10-11T18:34:05.000Z"
-      },
-      {
-        "name": "Süddeutsche Zeitung",
-        "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-trump-energie-waffenruhe-ukraine-russland-li.3549696",
-        "date": "2026-10-11T15:27:41.000Z"
-      }
-    ],
-    "url": "https://www.rnd.de/politik/ukraine-krieg-trump-verkuendet-waffenruhe-fuer-energieanlagen-X7NQAUN7SZGXNI7OSPKKTRPBJ4.html",
-    "agree": "Die Quellen stimmen überein, dass US-Präsident Donald Trump eine Waffenruhe für Energieanlagen im Ukraine-Krieg verkündet hat.",
-    "diff": [
-      {
-        "name": "RND",
-        "note": "Berichtet, dass die Europäer die Idee begrüßen, aber angesichts russischer Angriffe skeptisch sind."
-      },
-      {
-        "name": "Süddeutsche Zeitung",
-        "note": "Erwähnt, dass Trump die Info auf Truth Social ohne Details gepostet hat und es aus Moskau bislang keine Reaktion gibt."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-b9d5fc4b27e285f2",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-11T18:15:01.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "USA drohen Ukraine wegen Angriffen auf Raffinerien mit Waffenstopp",
-    "s": "Berichten der „Financial Times“ zufolge setzen die USA die Ukraine wegen anhaltender Angriffe auf russische Ölraffinerien unter Druck. Washington droht demnach mit drastischen Konsequenzen wie dem Stopp von Waffenlieferungen. Zudem steht das Teilen von Geheimdienstinformationen auf dem Spiel.",
-    "m": "Die US-Regierung soll laut einem Bericht der „Financial Times“ massiven Druck auf die Führung in Kiew ausüben. Grund für die Drohungen sind ukrainische Angriffe auf russische Ölraffinerien, die von Washington offenbar kritisch gesehen werden. Neben dem vollständigen Stopp von Waffenlieferungen drohen die USA auch damit, das Teilen von entscheidenden Geheimdienstinformationen einzustellen. Details über die konkreten Hintergründe dieser US-Haltung oder Reaktionen der ukrainischen Seite gehen aus den Berichten bisher nicht hervor. Auch über den genauen Zeitpunkt oder mögliche Ultimaten gibt es noch keine offiziellen Bestätigungen. Die Situation verdeutlicht potenzielle Spannungen zwischen den Verbündeten bezüglich der militärischen Strategie gegen Russland.",
-    "r": "Die drohenden Einschränkungen der US-amerikanischen Unterstützung könnten die militärische Handlungsfähigkeit der Ukraine im Konflikt mit Russland erheblich beeinträchtigen. Der Vorgang zeigt mögliche Differenzen zwischen den Verbündeten in der Kriegsstrategie auf.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeF9yLUtHRXhMWF9mcUxTRkNQdE03ZDVUMTN4V2NDZ1N2OVdnMWs4TVpURmxwcGV1c3AtTkJXWlkycUxkOVBwR0c2Z3VJVjFjN19aVTVCSmI5WDZLd3ZHMnVqcXpYOVpWMXA4RkhkendKcXl5djNtaU1abThOc0NveFJBX210VlZwSUNIbFctczRaaV9tQ0RJc3hXYzIzU2U4bEpCUFNUOS1CVzQzM2VNdkw1Q3lRbVIxRlFnRlhURFNOcU05Y0RQdS1fa1BuYzBzTEdvQ3RzVnJmQnFUVk95OHpGM1p1ZlFZdkdqQnlwYw?oc=5",
-        "date": "2026-10-11T18:15:01.000Z"
-      },
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/politik/ausland/article6acbcc835528343575e008bd/diesel-streit-usa-drohen-ukraine-laut-financial-times-mit-stopp-von-waffenlieferungen.html",
-        "date": "2026-10-11T18:13:29.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeF9yLUtHRXhMWF9mcUxTRkNQdE03ZDVUMTN4V2NDZ1N2OVdnMWs4TVpURmxwcGV1c3AtTkJXWlkycUxkOVBwR0c2Z3VJVjFjN19aVTVCSmI5WDZLd3ZHMnVqcXpYOVpWMXA4RkhkendKcXl5djNtaU1abThOc0NveFJBX210VlZwSUNIbFctczRaaV9tQ0RJc3hXYzIzU2U4bEpCUFNUOS1CVzQzM2VNdkw1Q3lRbVIxRlFnRlhURFNOcU05Y0RQdS1fa1BuYzBzTEdvQ3RzVnJmQnFUVk95OHpGM1p1ZlFZdkdqQnlwYw?oc=5",
-    "agree": "Die Quellen sind sich einig, dass die USA der Ukraine laut der „Financial Times“ wegen Angriffen auf russische Ölraffinerien mit einem Stopp von Waffenlieferungen und Geheimdienstinformationen drohen.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-bcd999ae22eee017",
-    "c": "INT",
-    "o": "DE",
-    "k": "sport",
-    "lang": "de",
-    "d": "2026-10-11T18:01:00.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Manchester City gewinnt nach feindseligem Empfang mit 3:0 gegen FC Liverpool",
-    "s": "Im ersten Spiel nach dem Urteil im Finanzskandal wurde Manchester City von den Fans des FC Liverpool mit Buhrufen und Spott empfangen. Davon zeigten sich die Spieler jedoch wenig beeindruckt. Die Mannschaft trat in Anfield an und setzte sich am Ende mit 3:0 durch.",
-    "m": "Die Begegnung zwischen dem FC Liverpool und Manchester City war von einer harten und feindseligen Atmosphäre geprägt. Eine Gruppe von über 600 mitgereisten City-Fans wurde unter Polizeibegleitung zum Stadion eskortiert und lieferte sich verbale Auseinandersetzungen mit heimischen Anhängern. Auf dem Spielfeld zeigte sich Manchester City unbeeindruckt von den äußeren Umständen und dominierte die Partie. Nach einer Roten Karte für Ryan Gravenberch nutzte City die Überzahl und gewann das Premier-League-Spiel deutlich mit 3:0. Neben diesem Spiel gab es in der Liga weitere Partien mit den Ergebnissen Crystal Palace gegen Nottingham Forest (3:1) und Hull City gegen Everton (2:2).",
-    "r": "Das Spiel markiert den sportlichen Auftritt von Manchester City unmittelbar nach dem Urteil im Finanzskandal in einem besonders aufgeladenen Umfeld. Der klare Auswärtssieg trotz feindseliger Kulisse hat direkte Auswirkungen auf den Verlauf der Premier League.",
-    "srcs": [
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/sport/fussball/premier-league-manchester-city-wird-gegen-fc-liverpool-nach-urteil-im-finanzskandal-ausgebuht-a-99842015-4923-4f56-8680-34787eb6cae8#ref=rss",
-        "date": "2026-10-11T18:01:00.000Z"
-      },
-      {
-        "name": "Guardian Sport",
-        "url": "https://www.theguardian.com/football/live/2026/oct/11/liverpool-v-manchester-city-premier-league-live-score-updates",
-        "date": "2026-10-11T17:52:02.000Z"
-      }
-    ],
-    "url": "https://www.spiegel.de/sport/fussball/premier-league-manchester-city-wird-gegen-fc-liverpool-nach-urteil-im-finanzskandal-ausgebuht-a-99842015-4923-4f56-8680-34787eb6cae8#ref=rss",
-    "agree": "Beide Quellen berichten über das Premier-League-Spiel zwischen dem FC Liverpool und Manchester City im Umfeld einer feindseligen Atmosphäre.",
-    "diff": [
-      {
-        "name": "DER SPIEGEL",
-        "note": "fokussiert auf den aufgebrachten Empfang der Spieler nach dem Urteil im Finanzskandal."
-      },
-      {
-        "name": "Guardian Sport",
-        "note": "liefert den Ticker zum Spielverlauf, nennt das genaue Ergebnis von 3:0, die Rote Karte für Ryan Gravenberch, die Polizeieskorte für über 600 City-Fans sowie weitere Spielergebnisse."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-bb3b6278250c1bc1",
-    "c": "DE",
-    "o": "DE",
-    "k": "sport",
-    "lang": "de",
-    "d": "2026-10-11T17:53:53.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "SC Freiburg erobert in Unterzahl die Bundesligatabelle zurück",
-    "s": "Der SC Freiburg hat durch einen späten Heimsieg gegen Schalke die Tabellenspitze der Bundesliga übernommen. Bemerkenswert ist, dass die Mannschaft nach einer Hinausstellung rund 20 Minuten in Unterzahl agieren musste. Ein Joker sorgte kurz vor Schluss für den entscheidenden Treffer.",
-    "m": "Der SC Freiburg kehrte an die Spitze der Bundesligatabelle zurück, nachdem ein eingewechselter Spieler in der Schlussphase den Siegtreffer gegen Schalke erzielte. Die Partie gestaltete sich dramatisch, da die Freiburger bereits seit etwa 20 Minuten in Unterzahl spielen mussten, bevor ihnen der entscheidende Treffer gelang. Durch diesen Erfolg sicherten sich die Breisgauer wichtige Punkte im Meisterschaftsrennen. Torschütze des entscheidenden Tores war der Joker Goto, wie aus Berichten hervorgeht. Weitere Details zum Spielverlauf, zu T Karten oder zu den genauen Tabellenkonstellationen über den Tag hinaus nennen die vorliegenden Kurzmeldungen nicht.",
-    "r": "Der Sprung an die Tabellenspitze unter erschwerten Bedingungen in Unterzahl macht die Partie für den Saisonverlauf der Bundesliga relevant.",
-    "srcs": [
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/sport/fussball/bundesliga/article6acbc8660b7f39d1d33830c4/sieg-gegen-schalke-04-in-unterzahl-schiesst-sich-freiburg-an-die-tabellenspitze.html",
-        "date": "2026-10-11T17:53:53.000Z"
-      },
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQcDBNZjQ2dzJwODNPV29VMDFVc2ZDS1pxcXB2Y2NHWmhFODI3ck9MZFhVSEpyUG82eDZGVm1SSXdEUDZDUUwyVVNnSFZtc0l1ZXd3ai1uVkJ3bE1mVG1RZENYMTh1enNXc2ljaVUzMUFCaGk3a0h2N2FfeFgwVmZvckJxa1pkUWQzSl9JVkdweFNCS1AwSzV2S3VDazJyUE5CUUtrZTZ4QVcwcWJmRjYzVkJvaWlHZDJiWHdDa2xfcnhuZzVOQ1hoSkhoMWZVUXVKa3dHUE94U1ptZmdQS045UHZyUFFhUlhYQ0VLeUhyM2p0b3cxdWdILUNYU0t0WmVwaHEzYmVSVDlJYVJU?oc=5",
-        "date": "2026-10-11T17:30:00.000Z"
-      }
-    ],
-    "url": "https://www.welt.de/sport/fussball/bundesliga/article6acbc8660b7f39d1d33830c4/sieg-gegen-schalke-04-in-unterzahl-schiesst-sich-freiburg-an-die-tabellenspitze.html",
-    "agree": "Die Quellen stimmen überein, dass Freiburg trotz einer Unterzahlphase in der Schlussphase gegen Schalke gewonnen hat und dadurch die Tabellenspitze erobert hat.",
-    "diff": [
-      {
-        "name": "WELT",
-        "note": "Berichtet allgemein von einem Joker in der Schlussphase als Torschützen."
-      },
-      {
-        "name": "Google News DE",
-        "note": "Nennt den Torschützen konkret beim Namen Goto und verweist auf Eurosport."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-14faabd58acdd26c",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-11T17:48:00.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Philippe Sands erhält Friedenspreis des Deutschen Buchhandels und kritisiert Nahost-Politik",
-    "s": "Der Jurist und Schriftsteller Philippe Sands wurde mit dem Friedenspreis des Deutschen Buchhandels ausgezeichnet. In diesem Rahmen äußerte er sich zur Krise des Völkerrechts. Zudem richtete er deutliche Kritik an der Haltung Deutschlands.",
-    "m": "Philippe Sands hat den Friedenspreis des Deutschen Buchhandels erhalten und die Gelegenheit genutzt, um sich zur aktuellen Krise des Völkerrechts zu äußern. Er bedankte sich für die Auszeichnung mit einem eindringlichen Appell. Dabei kritisierte er das Schweigen Deutschlands im Nahost-Konflikt. Konkret forderte Sands, dass auch Verletzungen des Völkerrechts angesprochen werden müssen. Insbesondere betonte er, dass das Vorgehen Israels in Gaza kritisiert werden müsse. Weitere Details oder Reaktionen deutscher Politiker wurden in den Berichten nicht genannt.",
-    "r": "Die Äußerungen eines prominenten Friedenspreisträgers zur deutschen Außenpolitik und zum Völkerrecht im Nahost-Konflikt berühren Fragen der politischen Haltung Deutschlands. Solche Appelle von hochrangigen Intellektuellen und Juristen finden oft Beachtung in der öffentlichen Debatte.",
-    "srcs": [
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/politik/ausland/interview-philippe-sands-friedenspreis-buchmesse-100.html",
-        "date": "2026-10-11T17:48:00.000Z"
-      },
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/inland/regional/hessen/philippe-sands-friedenspreis-buchhandel-frankfurt-100.html",
-        "date": "2026-10-11T15:38:17.000Z"
-      }
-    ],
-    "url": "https://www.zdfheute.de/politik/ausland/interview-philippe-sands-friedenspreis-buchmesse-100.html",
-    "agree": "Die Quellen sind sich einig, dass Philippe Sands den Friedenspreis des Deutschen Buchhandels erhalten hat und in diesem Zusammenhang das Schweigen Deutschlands sowie das Vorgehen Israels kritisierte.",
-    "diff": [
-      {
-        "name": "ZDF heute",
-        "note": "Berichtet, dass Sands im ZDF über die Krise des Völkerrechts und den deutschen Umgang mit dem Nahost-Konflikt sprach."
-      },
-      {
-        "name": "Tagesschau",
-        "note": "Erwähnt, dass Sands den Preis als Jurist und Schriftsteller entgegennahm und sich mit einem Appell bedankte, zu Völkerrechtsverletzungen nicht zu schweigen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-85eb2e0d1bdc57b4",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-11T17:44:19.000Z",
-    "p": 3,
-    "st": "BY",
-    "city": "",
-    "t": "Polen: Festnahme nach mutmaßlichem Anschlagsplan auf Premier Tusk",
-    "s": "In Polen ist ein Verdächtiger festgenommen worden, der einen Anschlag auf Ministerpräsident Donald Tusk und Verteidigungsminister Władysław Kosiniak-Kamysz geplant haben soll. Grundlage für die Festnahme waren entsprechende Hinweise der Behörden. Polen gilt als wichtiger Verbündeter der Ukraine innerhalb von EU und Nato.",
-    "m": "Die polnischen Behörden haben einen Mann im Zusammenhang mit mutmaßlichen Anschlagsplänen festgenommen. Ziel des geplanten Angriffe sollten sowohl Regierungschef Donald Tusk als auch Verteidigungsminister Władysław Kosiniak-Kamysz sein. Auslöser für das Einschreiten waren konkrete Informationen über einen möglichen Attentatsversuch. Nähere Angaben zu den Hintergründen, dem konkreten Tatmotiv oder der Identität des Verdächtigen wurden zunächst nicht bekannt gegeben. Das EU- und Nato-Land Polen spielt eine zentrale Rolle als Verbündeter der Ukraine. Die Ermittlungen zu dem Vorfall dauern weiter an, während offene Fragen zur genauen Vorgehensweise des Verdächtigen noch geklärt werden müssen.",
-    "r": "Die Festnahme eines Verdächtigen wegen mutmaßlicher Anschlagspläne auf die polnische Regierungsspitze betrifft die politische Sicherheit eines wichtigen europäischen Verbündeten. Der Vorfall unterstreicht die aktuellen Sicherheitsrisiken im Kontext der geopolitischen Lage.",
-    "srcs": [
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/polen-offenbar-anschlaege-auf-premier-tusk-und-minister-geplant,VXjfT90",
-        "date": "2026-10-11T17:44:19.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/ausland/polen-festnahme-nach-mutmasslich-geplantem-anschlag-auf-donald-tusk-a-790b46ad-997c-41fe-8004-15c882ece983#ref=rss",
-        "date": "2026-10-11T16:35:00.000Z"
-      }
-    ],
-    "url": "https://www.br.de/nachrichten/deutschland-welt/polen-offenbar-anschlaege-auf-premier-tusk-und-minister-geplant,VXjfT90",
-    "agree": "Die Quellen sind sich einig, dass in Polen ein Verdächtiger wegen mutmaßlicher Pläne für einen Anschlag auf Ministerpräsident Donald Tusk und Verteidigungsminister Kosiniak-Kamysz festgenommen wurde.",
-    "diff": [
-      {
-        "name": "BR24 Bayern",
-        "note": "Erwähnt zusätzlich, dass Polen ein wichtiger Verbündeter der Ukraine in EU und Nato ist."
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "Verwendet Zitate zum Thema 'Informationen über einen möglichen Attentatsversuch'."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-6ddb71e1f3ec0858",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-11T17:31:38.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Trump verkündet Energie-Waffenruhe zwischen Russland und Ukraine",
-    "s": "US-Präsident Donald Trump hat auf seiner Plattform Truth Social eine Vereinbarung über eine sogenannte Energie-Waffenruhe zwischen Russland und der Ukraine verkündet. Demnach sollen beide Kriegspartei-Staaten ab sofort auf Angriffe auf ihre jeweiligen Energiesektoren verzichten. Eine offizielle Bestätigung aus Moskau oder Kiew lag zunächst nicht vor und wurde in Teilen sogar direkt dementiert.",
-    "m": "US-Präsident Donald Trump gab via Truth Social bekannt, dass Russland und die Ukraine einer Energie-Waffenruhe zugestimmt haben, die mit sofortiger Wirkung in Kraft trete. Die Ukraine zeigte sich von der Ankündigung jedoch offenbar überrascht. Der ukrainische Präsident Wolodymyr Selenskyj reagierte auf die Meldung mit der Aussage, dass ihm diese Vereinbarung neu sei, und berichtete stattdessen von fortgesetzten russischen Angriffen auf ein ukrainisches Kraftwerk. Aus Moskau gab es zunächst ebenfalls keine offizielle Bestätigung der von Trump verkündeten Maßnahme. Ähnliche Behauptungen über angebliche Abkommen hatte Trump in der Vergangenheit bereits mehrfach geäußert. Die Berichterstattung zeigt damit eine deutliche Diskrepanz zwischen der Darstellung des US-Präsidenten und den Reaktionen beziehungsweise der Realität vor Ort in der Ukraine.",
-    "r": "Die Meldung ist relevant, da sie ein von den USA verkündetes, angebliches Abkommen zur kriegsbezogenen Energieinfrastruktur zwischen Russland und der Ukraine betrifft, dessen tatsächlicher Bestand jedoch von ukrainischer Seite sofort bezweifelt wurde.",
-    "srcs": [
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/amerika/trump-russland-ukraine-energie-waffenrufe-100.html",
-        "date": "2026-10-11T17:31:38.000Z"
-      },
-      {
-        "name": "Rheinische Post",
-        "url": "https://rp-online.de/politik/ausland/russland-und-ukraine-donald-trump-meldet-energie-waffenruhe_aid-156351003",
-        "date": "2026-10-11T14:45:00.000Z"
-      },
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/politik/ausland/article6acb9d4a61b3d4c01d3e34c6/ukraine-krieg-trump-verkuendet-energie-waffenruhe-ist-mir-neu-sagt-selenskyj.html",
-        "date": "2026-10-11T14:32:50.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/ausland/amerika/trump-russland-ukraine-energie-waffenrufe-100.html",
-    "agree": "Alle Quellen berichten übereinstimmend, dass US-Präsident Donald Trump auf der Plattform Truth Social eine Energie-Waffenruhe zwischen Russland und der Ukraine verkündet hat.",
-    "diff": [
-      {
-        "name": "Tagesschau",
-        "note": "Erwähnt, dass eine Bestätigung sowohl aus Kiew als auch aus Moskau bislang nicht vorliegt."
-      },
-      {
-        "name": "Rheinische Post",
-        "note": "Fügt hinzu, dass Trump in der Vergangenheit bereits vergleichbare Dinge behauptet hat, bei denen es sich nicht um das erste Mal handelt."
-      },
-      {
-        "name": "WELT",
-        "note": "Zitiert den ukrainischen Präsidenten Selenskyj mit den Worten „Ist mir neu“ und berichtet über weitere russische Angriffe auf ein Kraftwerk."
-      }
-    ],
-    "chg": "",
-    "independent": 3
-  },
-  {
-    "id": "story-ee373fd170004668",
-    "c": "INT",
-    "o": "UK",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-11T17:21:39.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Trump verkündet Energie-Feuerpause in Ukraine – Selenskyj weiß von nichts",
-    "s": "US-Präsident Donald Trump hat überraschend einen sofortigen Waffenstillstand für Energieinfrastruktur im Ukraine-Krieg verkündet. Beide Seiten hätten zugestimmt, so Trump in einem Beitrag in sozialen Medien. Der ukrainische Präsident Wolodymyr Selenskyj zeigte sich jedoch überrascht und erklärte, das Abkommen sei völlig neu für ihn.",
-    "m": "Donald Trump erklärte auf der Plattform Truth Social, dass mit sofortiger Wirkung eine sogenannte Energie-Feuerpause im Krieg zwischen Russland und der Ukraine gelte und beide Konfliktparteien zugestimmt hätten. Die Ankündigung erfolgte offenbar ohne vorherige Absprache mit dem ukrainischen Präsidenten Wolodymyr Selenskyj, der kurz zuvor einen US-Aufruf abgelehnt hatte, die Angriffe auf russische Ölraffineries zu stoppen. Selenskyj forderte stattdessen, dass Moskau zuerst die Angriffe auf die ukrainische Energieinfrastruktur einstellen müsse. Konkrete Details oder offizielle Bestätigungen aus Moskau zu dem angeblichen Abkommen liegen noch nicht vor. Die Tragweite und die praktische Umsetzung der von Trump verkündeten Maßnahme bleiben zunächst unklar.",
-    "r": "Die Ankündigung eines einseitig verkündeten, aber offenbar unkoordinierten Waffenstillstands durch den US-Präsidenten verdeutlicht die Spannungen zwischen den USA und der Ukraine in der Kriegsführung. Das angebliche Abkommen betrifft kritische Infrastruktur wie Energieanlagen und Ölraffinerien, deren Schutz für beide Kriegsparteien von strategischer Bedeutung ist.",
-    "srcs": [
-      {
-        "name": "Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/11/zelenskyy-trump-ukraine-russia-energy-ceasefire",
-        "date": "2026-10-11T17:21:39.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTzc1VDRBeG0yTGxXNkJYVjB3TVh3ZlF1OVExT3NCb184NzYxM0pmQVhMbG9od1p2X1drSmo1ck1nZS1aNjdPRUdqSU1LSUlaZDhYVU8yOGcwVS1UMFVaUkpBdmJyYUJpN29YaGpoTFlRXzBaSC0wRUR3bEhGaFRCcDFvNFVxT3dMYUJzeWoxdkEtM0VhLVN3Mg?oc=5",
-        "date": "2026-10-11T15:56:00.000Z"
-      }
-    ],
-    "url": "https://www.theguardian.com/world/2026/oct/11/zelenskyy-trump-ukraine-russia-energy-ceasefire",
-    "agree": "Die Quellen sind sich einig, dass Donald Trump eine Energie-Feuerpause im Ukraine-Krieg verkündet hat und Wolodymyr Selenskyj dies als Neuheit bezeichnete.",
-    "diff": [
-      {
-        "name": "Guardian World",
-        "note": "Berichtet ausführlich über Trumps Truth-Social-Beitrag, Selenskyjs Reaktion und die vorherige Weigerung Kiews, Angriffe auf Ölraffinerien zu stoppen."
-      },
-      {
-        "name": "Google News World",
-        "note": "Liefert lediglich den Titel und Verweis auf den Bericht des Guardian ohne zusätzliche Details."
       }
     ],
     "chg": "",
