@@ -1,23 +1,105 @@
 [
   {
+    "id": "story-ae57ad013060d4b8",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-17T04:44:51.000Z",
+    "p": 4,
+    "st": "BY",
+    "city": "",
+    "t": "US-Präsident Donald Trump setzt geplante Russland-Sanktionen aus",
+    "s": "US-Präsident Donald Trump hat per Dekret geplante Strafmaßnahmen gegen Russland kurz vor deren Inkrafttreten vorerst außer Kraft gesetzt. Das im Kongress beschlossene Sanktionspaket sollte unter anderem den Kreml wegen des Ukraine-Kriegs stärker unter Druck setzen. Trump begründete den Schritt mit dem nationalen Interesse der Vereinigten Staaten.",
+    "m": "Das im US-Kongress beschlossene Gesetz sah vor, neue Strafmaßnahmen gegen Russland in wenigen Tagen in Kraft zu setzen. Durch das aktuelle Dekret von US-Präsident Donald Trump wurde dieses Sanktionspaket nun vorerst auf Eis gelegt. Offiziell wurde dieser Schritt damit begründet, dass er im nationalen Interesse der USA liege. Ziel des ursprünglichen Gesetzes war es insbesondere, den Kreml im Zusammenhang mit dem anhaltenden Ukraine-Krieg stärker unter Druck zu setzen. Es bleibt zunächst offen, ob und wann die Sanktionen zu einem späteren Zeitpunkt wieder aufgegriffen oder dauerhaft gestrichen werden.",
+    "r": "Die Entscheidung der US-Regierung, geplante Russland-Sanktionen kurz vor Inkrafttreten auszusetzen, ist von internationaler Bedeutung für die geopolitische Lage und den Verlauf des Ukraine-Kriegs. Sie zeigt den außenpolitischen Kurs der US-Führung unter Donald Trump in Bezug auf den Kreml.",
+    "srcs": [
+      {
+        "name": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/trump-setzt-sanktionen-gegen-russland-aus,VY0QBSm",
+        "date": "2026-10-17T04:44:51.000Z"
+      },
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/ausland/usa-zoelle-russland-oel-sanktionen-trump-ukraine-krieg-100.html",
+        "date": "2026-10-17T03:32:00.000Z"
+      }
+    ],
+    "url": "https://www.br.de/nachrichten/deutschland-welt/trump-setzt-sanktionen-gegen-russland-aus,VY0QBSm",
+    "agree": "Beide Quellen stimmen darin überein, dass US-Präsident Donald Trump geplante Sanktionen gegen Russland kurz vor dem Inkrafttreten ausgesetzt hat.",
+    "diff": [
+      {
+        "name": "BR24 Bayern",
+        "note": "Erwähnt zusätzlich, dass die Maßnahme per Dekret erfolgte und dies im nationalen Interesse der USA liege."
+      },
+      {
+        "name": "ZDF heute",
+        "note": "Erwähnt zusätzlich, dass das Gesetz den Kreml wegen des Ukraine-Kriegs stärker unter Druck setzen sollte."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-2043ac6abe74d5d3",
+    "c": "INT",
+    "o": "DE",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-17T04:30:48.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Deutsche Ü80-Fußball-Nationalmannschaft gewinnt Weltmeisterschaft",
+    "s": "Die deutsche Ü80-Fußball-Nationalmannschaft hat in Australien die Weltmeisterschaft gewonnen. Im Finale setzte sich das Team gegen die USA durch. Zuvor gab es unter anderem einen Erfolg gegen Japan.",
+    "m": "Das deutsche Ü80-Senioren-Nationalteam sicherte sich den Weltmeistertitel im Fußball in Australien. Im Endspiel trafen die deutschen Spieler auf die USA und konnten diese besiegen. Auf dem Weg ins Finale mussten die Senioren auch gegen Japan antreten und sich gegen diese Mannschaft durchsetzen, obwohl die japanischen Spieler laut Bericht einen gewissen Vorteil besaßen. Genauere Details zum Turnierverlauf, zum genauen Finalergebnis oder zu den beteiligten Spielern nennen die vorliegenden Berichte nicht.",
+    "r": "Der Sieg einer Senioren-Nationalmannschaft bei einer Weltmeisterschaft in dieser Altersklasse ist ein bemerkenswerter sportlicher Erfolg mit internationalem Charakter. Das Turnier fand in Australien statt und endete mit einem deutschen Finalerfolg gegen die USA.",
+    "srcs": [
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/sport/article6ad2f28e51e5094f7a56f55e/gegen-usa-deutsche-ue80-senioren-gewinnen-fussball-weltmeisterschaft.html",
+        "date": "2026-10-17T04:30:48.000Z"
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-10/17/deutsche-ue80-senioren-gewinnen-fussball-weltmeisterschaft",
+        "date": "2026-10-17T03:55:05.000Z"
+      }
+    ],
+    "url": "https://www.welt.de/sport/article6ad2f28e51e5094f7a56f55e/gegen-usa-deutsche-ue80-senioren-gewinnen-fussball-weltmeisterschaft.html",
+    "agree": "Beide Quellen stimmen überein, dass die deutsche Ü80-Fußball-Nationalmannschaft die Weltmeisterschaft gewonnen hat.",
+    "diff": [
+      {
+        "name": "WELT",
+        "note": "Berichtet zusätzlich, dass das Turnier in Australien stattfand, das Finale gegen die USA gewonnen wurde und im Turnierverlauf auch Japan geschlagen wurde, das einen gewissen Vorteil hatte."
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Enthält im Vergleich zur WELT keine zusätzlichen Details zum Turnierverlauf oder den Austragungsorten."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-6e9157bff0a62e06",
     "c": "INT",
     "o": "DE",
     "k": "politik",
     "lang": "de",
-    "d": "2026-10-17T00:50:23.000Z",
-    "p": 3,
+    "d": "2026-10-17T03:07:59.000Z",
+    "p": 2,
     "st": "",
     "city": "",
     "t": "Trumps Pressesprecherin Zacharia gibt Amt nach kurzer Zeit wieder auf",
-    "s": "Die erst kürzlich angetretene Pressesprecherin des US-Präsidenten Donald Trump, Katie Zacharia, gibt ihr Amt bereits wieder auf. Berichten zufolge zieht sie damit die Konsequenzen nach ihrem Amtsantritt. Der genaue Zeitpunkt und die Modalitäten ihres Rücktritts werden in den Berichten beleuchtet.",
-    "m": "Die frisch angetretene neue Pressesprecherin von US-Präsident Donald Trump, Katie Zacharia, legt ihr Amt nach Medienberichten schon wieder nieder. Der Schritt erfolgt kurz nach ihrem Amtsantritt und überrascht Beobachter der US-Politik. Hintergrund für die schnelle Trennung sind laut übereinstimmenden Berichten falsche Angaben, die Zacharia zu ihrem eigenen Lebenslauf gemacht hatte. Weitere Details über mögliche Nachfolgeregelungen oder offizielle Statements aus dem Weißen Haus wurden zunächst nicht weiter ausgeführt. Der Vorfall wirft ein Schlaglicht auf die Personalpolitik der neuen US-Regierung unter Donald Trump.",
-    "r": "Personalwechsel auf höchster Ebene im Weißen Haus sind für die politische Stabilität und die Öffentlichkeitsarbeit der US-Regierung von Bedeutung. Falsche Angaben im Lebenslauf einer Sprecherin berühren zudem Fragen der Glaubwürdigkeit.",
+    "s": "Die erst kürzlich angetretene neue Pressesprecherin von US-Präsident Donald Trump, Katie Zacharia, gibt ihr Amt bereits wieder auf. Berichten zufolge verlässt sie den Posten nach kurzer Zeit. Nähere offizielle Details zum genauen Zeitpunkt und den Umständen des Rücktritts wurden zunächst nicht flächendeckend genannt.",
+    "m": "Die gerade erst angetretene neue Pressesprecherin von US-Präsident Donald Trump, Katie Zacharia, legt ihr Amt wieder nieder. Laut übereinstimmenden Medienberichten zieht sie damit bereits kurz nach ihrem Amtsantritt die Konsequenzen. Der Rücktritt erfolgt demnach infolge von falschen Angaben, die sie in ihrem Lebenslauf gemacht hatte. Weitere Einzelheiten zu den internen Reaktionen im Weißen Haus oder zur Nachfolge der Pressesprecherin sind aus den vorliegenden Berichten bisher nicht bekannt. Der genaue zeitliche Ablauf der Demission wird in den Quellen ebenfalls nicht detailliert weiter ausgeführt.",
+    "r": "Personalwechsel auf Führungsebene im Weißen Haus sind für die politische Berichterstattung und die Administration von US-Präsident Trump von hoher Bedeutung. Der Vorfall wirft ein Schlaglicht auf die internen Personalprüfungen vor der Besetzung wichtiger Regierungsämter.",
     "srcs": [
       {
         "name": "Deutschlandfunk Nachrichten",
         "url": "https://www.deutschlandfunk.de/trumps-pressesprecherin-zacharia-tritt-wieder-ab-110.html",
-        "date": "2026-10-17T00:50:23.000Z"
+        "date": "2026-10-17T03:07:59.000Z"
       },
       {
         "name": "SWR Aktuell",
@@ -26,15 +108,134 @@
       }
     ],
     "url": "https://www.deutschlandfunk.de/trumps-pressesprecherin-zacharia-tritt-wieder-ab-110.html",
-    "agree": "Die Quellen sind sich einig, dass die frisch angetretene Pressesprecherin von US-Präsident Trump, Zacharia, ihr Amt bereits wieder aufgibt.",
+    "agree": "Beide Quellen stimmen überein, dass die erst kürzlich angetretene neue Pressesprecherin von US-Präsident Trump, Katie Zacharia, ihr Amt bereits wieder aufgibt.",
     "diff": [
       {
         "name": "Deutschlandfunk Nachrichten",
-        "note": "Berichtet lediglich allgemein, dass die neue Pressesprecherin Zacharia ihr Amt wieder aufgibt."
+        "note": "Berichtet lediglich allgemein über die Aufgabe des Amtes."
       },
       {
         "name": "SWR Aktuell",
-        "note": "Nennt den Vornamen Katie und nennt als Grund falsche Angaben zu ihrem Lebenslauf."
+        "note": "Ergänzt, dass der Rücktritt aufgrund falscher Angaben zum Lebenslauf erfolgt ist und nennt den vollständigen Vornamen Katie."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-b94fa1412778d8f8",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-17T02:59:00.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Donald Trump stoppt geplante US-Zölle gegen Russland",
+    "s": "Der US-Kongress hatte weitreichende Sanktionen und Zölle gegen Russland geplant, um das Land im Ukrainekrieg unter Druck zu setzen. US-Präsident Donald Trump hat dieses Vorhaben nun gestoppt. Als Grund für die Aussetzung nannte er das nationale Interesse der Vereinigten Staaten.",
+    "m": "Mit dem Vorhaben wollte der US-Kongress den Angreifer Russland im anhaltenden Ukrainekrieg massiv unter Druck setzen, um den Konflikt zu beeinflussen. Konkret waren weitreichende Sanktionen und Zölle vorgesehen, die nun jedoch nicht wie geplant umgesetzt werden. US-Präsident Donald Trump hat die Maßnahmen überraschend ausgesetzt. Zur Begründung verwies er auf das sogenannte nationale Interesse der USA. Welche konkreten wirtschaftlichen oder politischen Konsequenzen dieser Schritt für das Verhältnis zu Russland und den Verbündeten haben wird, ist derzeit noch offen. Auch Details zu einer möglichen Wiederaufnahme der Pläne in der Zukunft wurden zunächst nicht genannt.",
+    "r": "Die Entscheidung der US-Regierung beeinflusst den internationalen Umgang mit Russland im Ukrainekrieg. Sie zeigt den konkreten Einfluss des Präsidenten auf geplante Gesetzgebungsverfahren und Sanktionen des Kongresses.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZWktRkl3S29ncTFDYTh3LUhkSUh1blZvM3Y3ZldHWHpXNWgxNGxybUUzZXR6SFpQSGwtcGh3LXNhSnVJcjdsbXJGdUVZOW1oWE1pLW5JNHBZek5qV1M4dWRpZjd3WEJCRnM5OGEyYW96Ym45bnFpZFFrenphdE5Xamx4aHkwT1pTbzBNa001SnVYZTdqdUpFM2libXQzcGlVdzNCa3dRa0VpRl9fcWtydDlJc3BVQVJfOHlIcA?oc=5",
+        "date": "2026-10-17T02:59:00.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/donald-trump-stoppt-geplante-zoelle-gegen-russland-a-df6895bf-8a7f-4e7b-8233-6cde66878ea2#ref=rss",
+        "date": "2026-10-17T02:59:00.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZWktRkl3S29ncTFDYTh3LUhkSUh1blZvM3Y3ZldHWHpXNWgxNGxybUUzZXR6SFpQSGwtcGh3LXNhSnVJcjdsbXJGdUVZOW1oWE1pLW5JNHBZek5qV1M4dWRpZjd3WEJCRnM5OGEyYW96Ym45bnFpZFFrenphdE5Xamx4aHkwT1pTbzBNa001SnVYZTdqdUpFM2libXQzcGlVdzNCa3dRa0VpRl9fcWtydDlJc3BVQVJfOHlIcA?oc=5",
+    "agree": "Donald Trump hat geplante Zölle gegen Russland gestoppt und sich dabei auf das nationale Interesse der USA berufen.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Verweist in der Überschrift auf den SPIEGEL-Artikel als Quelle."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Liefert den vollständigen Kontext zu den geplanten Sanktionen des US-Kongresses und der Begründung durch das nationale Interesse."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-e40e32ab7a394b12",
+    "c": "INT",
+    "o": "UK",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-17T02:52:59.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Mexikanisches Gericht verurteilt drei Männer zu langen Haftstrafen nach Surfer-Mord",
+    "s": "Ein Richter in Mexiko hat drei Männer wegen des Mordes an zwei australischen Brüdern und deren US-amerikanischem Freund zu jeweils über 158 Jahren Haft verurteilt. Die Bluttat ereignete sich im Jahr 2024 während eines Surfausflugs im mexikanischen Bundesstaat Baja California. Die Täter wurden nun für ihre Verbrechen zur Rechenschaft gezogen.",
+    "m": "Die drei Opfer, die australischen Brüder Jake und Callum Robinson sowie ihr amerikanischer Freund Carter Rhoad, befanden sich im Jahr 2024 auf einer Surfreise in Baja California, als sie getötet wurden. Nun hat ein mexikanisches Gericht ein hartes Urteil gesprochen und die drei Angeklagten zu jeweils 158 Jahren und neun Monaten Gefängnis verurteilt. Die genauen Umstände des Verbrechens und die Beweisführung führten zu diesem Schuldspruch. Der Fall hatte international für Aufsehen gesorgt, insbesondere in Australien und den USA. Mit dem Urteil ist ein wichtiger Schritt zur Aufarbeitung des Verbrechens getan, während die genauen Motive der Täter im Rahmen des Prozesses beleuchtet wurden. Die Angeklagten müssen ihre langen Haftstrafen nun antreten.",
+    "r": "Die Verurteilung von drei Männern zu extrem langen Haftstrafen wegen Mordes an ausländischen Touristen in Mexiko ist ein international beachteter Kriminalfall. Das Urteil zeigt das Vorgehen der mexikanischen Justiz in Fällen von Gewaltverbrechen gegen Touristen.",
+    "srcs": [
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb",
+        "date": "2026-10-17T02:52:59.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVlJ5TTkzWWhTYXF5d2pvVGw5UGMtek5wS1FVdldlNnRsMFVLbm9lR0dPeXptcDBHSWZKckttcW9TOWlFeFlTaElMRk9JLThsSUlPRnZZQnhNcmxBTHNWLVRuYkhMcmtkd0IycFNFOWk5YXkyZk5KaGE3ZEpESE0xTUJJWVZFMDYzQ215YVhvQ05pOHgya01IaUtaY3BHZUVJT1Z5MmFLbm1qdnJlOUF3SmhubkRudllEcWRYZEZaajRNMHNjN1NMQWY5QmpvLUM3NFQ2bW9QUkY0OXdERlpTa0NjZ0pZbDV1a3JNbUtKNVA?oc=5",
+        "date": "2026-10-17T02:52:00.000Z"
+      }
+    ],
+    "url": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb",
+    "agree": "Beide Quellen stimmen überein, dass ein mexikanischer Richter drei Männer zu 158 Jahren Gefängnis für den Mord an zwei australischen Surfern und ihrem US-amerikanischen Freund verurteilt hat.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Verweist lediglich auf den Artikel des Guardian und nennt die drei Opfer und den genauen Aufenthaltsort (Baja California) nicht explizit im eigenen Fließtext."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-85a104db1b967d62",
+    "c": "INT",
+    "o": "UK",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-17T01:19:04.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Schule in Oregon: Lehrerin und bewaffneter Vater stoppen Angreifer",
+    "s": "An einer Grundschule im US-Bundesstaat Oregon hat ein 16-jähriger Verdächtiger einen Angriff verübt. Eine Lehrerin kämpfte gegen den Angreifer, bevor ein bewaffneter Vater den Verdächtigen mehrfach anschoss. Laut Polizei hatte der Jugendliche die Schule früher selbst besucht und gezielt einen Förderunterrichtsklassenraum ins Visier genommen.",
+    "m": "Der Vorfall ereignete sich an einer Grundschule in Oregon, als ein 16-jähriger ehemaliger Schüler das Gelände betrat. Sein Ziel warsten Berichten zufolge ein Klassenraum für Sonderpädagogik. Die Situation eskalierte, als sich eine Lehrerin dem Angreifer entgegenstellte und physisch mit ihm kämpfte. In dieser kritischen Situation griff ein bewaffneter Vater ein und stoppte den Jugendlichen durch mehrere Schüsse. Der Verdächtige wurde daraufhin außer Gefecht gesetzt. Die Polizei hat die Ermittlungen zu den Hintergründen und dem genauen Tathergang aufgenommen. Weitere Details zum Zustand des Verdächtigen oder zu Verletzten unter den Schülern und Lehrkräften wurden in den vorliegenden Meldungen nicht genannt.",
+    "r": "Der Vorfall wirft ein Schlaglicht auf die Sicherheit an US-amerikanischen Bildungseinrichtungen und die Rolle von bewaffneten Bürgern bei der Abwehr von Gewalttaten. Die Tat verdeutlicht zudem das Risiko von Amokläufen oder gezielten Angriffen an Schulen durch ehemalige Schüler.",
+    "srcs": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-17T01:19:04.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01aVBXeU5MVGNET3RhTC1tbld1cjZRV05ZQzRSeWYtd3gwd0tLS1JraHpBNzZqUzJfM1RnQTM5a3RFWmpob3FySVFtQlBDMUFQUXlEN0RQZy1nYTQ?oc=5",
+        "date": "2026-10-17T01:19:04.000Z"
+      }
+    ],
+    "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+    "agree": "Die Quellen stimmen überein, dass eine Lehrerin gegen den Angreifer kämpfte und ein bewaffneter Vater den Verdächtigen mehrfach schoss.",
+    "diff": [
+      {
+        "name": "BBC World",
+        "note": "Berichtet ausführlich, dass der 16-jährige Verdächtige die Grundschule früher besucht hatte und einen Raum für Sonderpädagogik ins Visier nahm."
+      },
+      {
+        "name": "Google News World",
+        "note": "Enthält keine zusätzlichen Details, sondern verweist lediglich auf den Bericht der BBC."
       }
     ],
     "chg": "",
@@ -100,10 +301,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Tote und Verletzte nach Angriff in Seniorenheim in Olfen",
-    "s": "In einem Seniorenheim im nordrhein-westfälischen Olfen im Münsterland hat es einen gewaltsamen Angriff gegeben. Dabei starb eine Frau, zwei weitere Personen wurden schwer verletzt. Der mutmaßliche Täter soll laut Polizei ebenfalls in der Einrichtung gelebt haben. Die Hintergründe der Tat und die genauen Abläufe sind Gegenstand laufender Ermittlungen.",
-    "m": "Der Vorfall ereignete sich in einem Seniorenheim im münsterländischen Olfen, wo eine Frau durch einen Angriff getötet wurde. Neben dem Todesopfer erlitten zwei weitere Menschen schwere Verletzungen. Nach ersten Erkenntnissen der Polizei handelt es sich bei dem mutmaßlichen Angreifer um einen Bewohner des Heimes selbst. Einsatzkräfte von Polizei und Rettungsdiensten rückten zu dem Großeinsatz aus, um die Verletzten zu versorgen und Spuren zu sichern. Die Identität der Opfer und des Tatverdächtigen wurden zunächst nicht im Detail öffentlich genannt. Die Kriminalpolizei hat die Ermittlungen aufgenommen, um das genaue Motiv und die Umstände der Bluttat zu klären. Weitere offene Fragen betreffen den genauen Hergang und den gesundheitlichen Zustand der schwer verletzten Personen.",
-    "r": "Die Meldung ist von Bedeutung, da es sich um eine schwere Gewalttat mit einem Todesopfer und mehreren Schwerverletzten in einer Senioreneinrichtung handelt. Solche Vorfälle werfen Fragen zur Sicherheit in Pflegeheimen und zum Umgang mit gefährlichen Situationen auf.",
+    "t": "Eine Tote und zwei Schwerverletzte bei Angriff in Seniorenheim in Olfen",
+    "s": "In einem Seniorenheim in Olfen im Münsterland ist es zu einem gewaltsamen Angriff gekommen. Dabei starb eine Frau, während zwei weitere Personen schwer verletzt wurden. Die genauen Umstände und Hintergründe der Tat sind Gegenstand polizeilicher Ermittlungen. Der mutmaßliche Täter soll laut Polizei selbst in dem Heim gelebt haben.",
+    "m": "Der Vorfall ereignete sich in einer Senioreneinrichtung in Olfen im Münsterland. Nach Angaben der Polizei wurde bei der Attacke eine Frau getötet. Zwei weitere Menschen, bei denen es sich nach Informationen der Frankfurter Allgemeinen ebenfalls um Frauen handelt, erlitten schwere Verletzungen. Der mutmaßliche Täter, der die Tat begangen haben soll, war nach Polizeiangaben selbst Bewohner des Heims. Die Polizei hat die Ermittlungen aufgenommen, um den genauen Ablauf und das Motiv der Bluttat zu klären. Weitere Details zu den Opfern oder dem Tathergang wurden zunächst nicht bekanntgegeben.",
+    "r": "Die Gewalttat in einer Pflegeeinrichtung mit Todesfolge und Verletzten ist ein gravierendes Kriminalitätsereignis, das Fragen zur Sicherheit in Senioreneinrichtungen aufwirft. Der Fall verdeutlicht potenzielle Risiken im Zusammenleben innerhalb solcher Institutionen.",
     "srcs": [
       {
         "name": "DER SPIEGEL",
@@ -122,19 +323,19 @@
       }
     ],
     "url": "https://www.spiegel.de/panorama/olfen-im-muensterland-eine-tote-nach-angriff-in-seniorenheim-a-c4da062c-9b61-4f13-a602-e43977f61976#ref=rss",
-    "agree": "Die Quellen stimmen darin überein, dass es in einem Seniorenheim in Olfen im Münsterland einen Angriff gab, bei dem eine Frau starb und zwei weitere Menschen schwer verletzt wurden.",
+    "agree": "Die Quellen stimmen überein, dass es in einem Seniorenheim in Olfen im Münsterland einen Angriff gab, bei dem eine Frau starb und zwei weitere Menschen schwer verletzt wurden.",
     "diff": [
       {
         "name": "DER SPIEGEL",
-        "note": "Erwähnt explizit, dass der mutmaßliche Täter laut Polizei selbst im Heim lebte."
+        "note": "Erwähnt explizit, dass der mutmaßliche Täter selbst im Heim lebte."
       },
       {
         "name": "RND",
-        "note": "Bietet eine allgemeine Zusammenfassung ohne zusätzliche spezifische Details im Vorspann."
+        "note": "Berichtet in Kurzform über den Vorfall, nennt aber keine spezifischen Zusatzdetails."
       },
       {
         "name": "Frankfurter Allgemeine",
-        "note": "Gibt an, dass es sich bei den beiden schwer verletzten Personen um Frauen handelte und der Angriff von einem Bewohner ausgegangen ist."
+        "note": "Gibt an, dass es sich bei den zwei schwer verletzten Personen ebenfalls um Frauen handelt."
       }
     ],
     "chg": "",
@@ -147,13 +348,13 @@
     "k": "sport",
     "lang": "de",
     "d": "2026-10-16T22:46:57.000Z",
-    "p": 3,
+    "p": 2,
     "st": "",
     "city": "",
-    "t": "Frankreich besiegt Portugal in Verlängerung und zieht ins WM-Finale ein",
-    "s": "Die französische Nationalmannschaft hat das Halbfinale der Weltmeisterschaft im Rollhockey gegen Portugal gewonnen. Nach der regulären Spielzeit und einer Verlängerung setzte sich Frankreich durch. Damit steht das Team im Endspiel des Turniers. Portugal schied nach der Halbfinalniederlage aus.",
-    "m": "Das WM-Halbfinalspiel im Rollhockey zwischen Portugal und Frankreich bot einen dramatischen Verlauf. Nach der regulären Spielzeit und einer anschließenden Verlängerung konnte sich Frankreich durchsetzen und den Einzug ins Finale der Weltmeisterschaft 2026 sichern. Konkret endete die Begegnung mit einem 6-3-Sieg für die französische Auswahl nach Verlängerung. Für Portugal bedeutet dies das Aus im Halbfinale des Turniers. Die französische Mannschaft trifft im Endspiel auf den Sieger der anderen Halbfinalpartie.",
-    "r": "Das WM-Halbfinalspiel bestimmt den Finalisten des internationalen Rollhockey-Turniers. Das Ergebnis von 6-3 nach Verlängerung beendet die Titelträume der portugiesischen Mannschaft.",
+    "t": "Frankreich schlägt Portugal im Halbfinale der Rollhockey-WM nach Verlängerung",
+    "s": "Frankreich hat das Halbfinale der Rollhockey-Weltmeisterschaft 2026 gegen Portugal für sich entschieden. Die französische Mannschaft setzte sich nach einer Verlängerung durch und zog in das Finale des Turniers ein. Portugal schied nach dieser Niederlage aus dem Titelrennen aus.",
+    "m": "Im Halbfinale der Rollhockey-Weltmeisterschaft 2026 trafen die Nationalmannschaften von Frankreich und Portugal aufeinander. Nach regulärer Spielzeit und Verlängerung stand ein Endergebnis von 6:3 für die französische Auswahl fest. Durch diesen Sieg sicherte sich Frankreich den Einzug in das Finale des Turniers. Für Portugal bedeutete das Resultat das Ausscheiden aus dem Wettbewerb. Das Turnier trägt die offizielle Bezeichnung Mundial de Hóquei em Patins 2026. Weitere Details zum Spielverlauf, den Torschützen oder dem Austragungsort gehen aus den Berichten nicht hervor.",
+    "r": "Das Spiel markiert eine entscheidende Phase der Rollhockey-Weltmeisterschaft 2026, da es über den Finaleinzug zwischen Frankreich und Portugal entschieden hat. Das Resultat von 6:3 nach Verlängerung bestimmt die finalen Paarungen des Turniers.",
     "srcs": [
       {
         "name": "Google News Portugal",
@@ -161,21 +362,17 @@
         "date": "2026-10-16T22:46:57.000Z"
       },
       {
-        "name": "RTP Notícias",
+        "name": "RTP Desporto",
         "url": "https://www.rtp.pt/noticias/outras-modalidades/mundial-hoquei-franca-na-final-apos-bater-portugal-no-prolongamento_d1772173",
         "date": "2026-10-16T18:44:59.000Z"
       }
     ],
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRG5XY3VkMmJYc3RrdWpkYlVOY2hGNTBER3djOUhDbGlxZnpNUW4tOWhKNmNiM2dQMTl2Wm1hTldzaU9RcXZtbmtxR0RHcFRfeGZ4U0otT0g0c1BoQ1JPS3g2NkoxWmdLSFozUmVRem05Mjh6RURxQnJUdko5TmVKbEhEeGJhRjNVOGNrbFF4dUcwVFZuVXVTeVMwSGdhYXpaRmU2ODFjYkRtRDJtajF4V2c3ZE51TTUwWE1IdTdlZnA?oc=5",
-    "agree": "Beide Quellen berichten, dass Frankreich Portugal nach Verlängerung geschlagen hat und in das Finale eingezogen ist.",
+    "agree": "Beide Quellen stimmen überein, dass Frankreich Portugal im Halbfinale der Rollhockey-Weltmeisterschaft nach Verlängerung besiegt hat und in das Finale eingezogen ist.",
     "diff": [
       {
-        "name": "Google News Portugal",
-        "note": "Nennt die RTP als Medium und erwähnt im Titel die Halbfinalpaarung."
-      },
-      {
-        "name": "RTP Notícias",
-        "note": "Nennt den genauen Endstand von 6-3 nach Verlängerung und das Turnierjahr 2026."
+        "name": "RTP Desporto",
+        "note": "nennt das genaue Spielergebnis von 6:3 nach Verlängerung für Frankreich."
       }
     ],
     "chg": "",
@@ -292,6 +489,43 @@
     "independent": 2
   },
   {
+    "id": "story-2ab98536b48efc8f",
+    "c": "INT",
+    "o": "PT",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-16T22:03:42.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "System Volta fordert Maßnahmen zur Entlastung von Supermarkt-Pfandautomaten",
+    "s": "Der Betreiber des Pfandsystems Volta hat der portugiesischen Regierung einen neuen Plan vorgelegt. Darin werden verbesserte Lösungen gefordert, um den Druck an den Rücknahmeautomaten bei Supermärkten zu verringern.",
+    "m": "Das System Volta, welches für die Verwaltung von Pfand- und Rückgabeverpackungen zuständig ist, sieht sich mit Herausforderungen bei der Rücknahme konfrontiert. Um die logistische Belastung und den Andrang direkt an den Supermärkten zu mindern, wurde ein konkreter Aktionsplan ausgearbeitet und an die Regierung übermittelt. Details zu den vorgeschlagenen Maßnahmen oder konkreten technischen Anpassungen gehen aus den Berichten bisher nicht hervor. Ziel ist es jedoch, den Ablauf für Verbraucher und Händler effizienter zu gestalten und Engpässe zu vermeiden. Die Regierung muss nun über die eingereichten Vorschläge beraten.",
+    "r": "Die Optimierung von Rücknahmesystemen betrifft die alltägliche Abwicklung für Verbraucher und den Handel in Portugal. Ein funktionierendes Pfandsystem ist essenziell für die Recyclingquoten und reibungslose Abläufe im Einzelhandel.",
+    "srcs": [
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/pais/sistema-volta-quer-medidas-para-reduzir-pressao-junto-de-supermercados_n1772208",
+        "date": "2026-10-16T22:03:42.000Z"
+      },
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNjUxRnBHWjdiMkh4VVg2VUZOd0ZxdDd6eE5IX0pmWlY2WElEVWJOTV9BMnZNRmFmc250eWdEbG1MYklFUEZfdGFlQ194eUt0NVhDZDB0UDEtT0dzM1VYVXZmLVNrR0ZUUTl2NHRwbW1VOWhYaHFTZTVjcnhfakZCQTdqTS10ejIxTWFJak5zUkRrdTFOMkN1MUM5ejllUQ?oc=5",
+        "date": "2026-10-16T19:40:33.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/pais/sistema-volta-quer-medidas-para-reduzir-pressao-junto-de-supermercados_n1772208",
+    "agree": "Beide Quellen berichten, dass das System Volta Maßnahmen vorgeschlagen hat, um den Druck an den Rücknahmeautomaten bei Supermärkten zu verringern und einen Plan an die Regierung gesendet hat.",
+    "diff": [
+      {
+        "name": "Google News Portugal",
+        "note": "Verweist zusätzlich auf den Ursprung des Berichts im Diário de Notícias."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-3173d9ebaf44a052",
     "c": "DE",
     "o": "DE",
@@ -302,9 +536,9 @@
     "st": "",
     "city": "",
     "t": "Johannes Winkel als Vorsitzender der Jungen Union wiedergewählt",
-    "s": "Johannes Winkel bleibt Vorsitzender der Jungen Union. Beim Deutschlandtag der Nachwuchsorganisation von CDU und CSU wurde der Bundestagsabgeordnete in seinem Amt bestätigt. Er erzielte dabei sein bislang bestes Ergebnis.",
-    "m": "Johannes Winkel wurde auf dem Deutschlandtag der Jungen Union, der Nachwuchsorganisation von CDU und CSU, als Vorsitzender wiedergewählt. Der Bundestagsabgeordnete erhielt bei der Abstimmung ein herausragendes Ergebnis von 94,6 Prozent der Stimmen, was sein bislang bestes Resultat in dieser Funktion darstellt. Nach seiner Wiederwahl rief Winkel zu Zuversicht und Selbstbewusstsein auf. Gleichzeitig nutzte er die Gelegenheit für eine politische Abrechnung und teilte in Richtung der SPD aus. Weitere Details zu den Inhalten seiner Rede oder Gegenkandidaten wurden nicht genannt.",
-    "r": "Die Wiederwahl des Vorsitzenden einer großen politischen Nachwuchsorganisation gibt Einblicke in die Stimmung und Personalia innerhalb der unionsinternen Strukturen. Zudem markieren die Äußerungen des wiedergewählten Chefs die strategische Ausrichtung der Jugendorganisation gegenüber dem politischen Mitbewerber.",
+    "s": "Johannes Winkel ist beim Deutschlandtag der Jungen Union als Vorsitzender wiedergewählt worden. Der Bundestagsabgeordnete der Nachwuchsorganisation von CDU und CSU erhielt deutlichen Rückhalt von den Delegierten. Nach seiner Wiederwahl rief er zu Zuversicht auf und äußerte sich kritisch über die SPD.",
+    "m": "Beim Deutschlandtag der Jungen Union von CDU und CSU wurde der Bundestagsabgeordnete Johannes Winkel in seinem Amt als Vorsitzender bestätigt. Er erzielte nach eigenen Angaben sein bislang bestes Wahlergebnis und kam auf einen Zustimmungswert von 94,6 Prozent der Stimmen. In seiner Rede nach der Wahl forderte Winkel die Delegierten zu mehr Zuversicht und Selbstbewusstsein auf. Gleichzeitig nutzte er die Bühne für politische Angriffe und teilte in Richtung der SPD aus. Offen bleibt, welche konkreten inhaltlichen Schwerpunkte die Junge Union unter seiner neuen Führung für die kommenden Jahre setzen will. Weitere Personalentscheidungen des Deutschlandtages wurden in den Berichten nicht genannt.",
+    "r": "Die Wiederwahl an der Spitze der Jungen Union zeigt die interne Geschlossenheit der CDU/CSU-Nachwuchsorganisation. Als Bundestagsabgeordneter prägt Winkel weiterhin die politische Ausrichtung des konservativen Nachwuchses und positioniert sich klar im parteipolitischen Wettbewerb.",
     "srcs": [
       {
         "name": "Tagesschau",
@@ -318,15 +552,15 @@
       }
     ],
     "url": "https://www.tagesschau.de/inland/innenpolitik/junge-union-vorsitzender-100.html",
-    "agree": "Die Quellen sind sich einig, dass Johannes Winkel als Vorsitzender der Jungen Union wiedergewählt wurde.",
+    "agree": "Johannes Winkel wurde als Vorsitzender der Jungen Union wiedergewählt.",
     "diff": [
       {
         "name": "Tagesschau",
-        "note": "Erwähnt, dass Winkel sein bislang bestes Ergebnis erzielte, zu Zuversicht und Selbstbewusstsein aufrief und Kritik in Richtung der SPD äußerte."
+        "note": "Erwähnt, dass es sein bislang bestes Ergebnis war, er zu Zuversicht aufrief und gegen die SPD austeilte."
       },
       {
         "name": "DER SPIEGEL",
-        "note": "Nennt das genaue Wahlergebnis von 94,6 Prozent der Stimmen und präzisiert, dass der Deutschlandtag die Veranstaltung der Nachwuchsorganisation von CDU und CSU war."
+        "note": "Nennt den genauen Abstimmungswert von 94,6 Prozent der Stimmen sowie den Umstand, dass die Wahl beim Deutschlandtag der Nachwuchsorganisation von CDU und CSU stattfand und er Bundestagsabgeordneter ist."
       }
     ],
     "chg": "",
@@ -342,10 +576,10 @@
     "p": 2,
     "st": "",
     "city": "",
-    "t": "Kraftstoffpreise: Gasóleo wird teurer, Gasolina verbilligt sich",
-    "s": "In der kommenden Woche verändern sich die Kraftstoffpreise in Portugal voraussichtlich erneut. Während Diesel an der Zapfsäule mehr kosten wird, sinkt der Preis für Benzin leicht. Die Anpassungen basieren auf Schätzungen von Branchenverbänden.",
-    "m": "Ab dem kommenden Montag müssen Autofahrer in Portugal mit unterschiedlichen Preisentwicklungen bei den Kraftstoffen rechnen. Laut Schätzungen der Associação Nacional de Revendedores de Combustíveis und des Automóvel Club de Portugal (ACP) steigt der Preis für den Liter Diesel um etwa vier bis viereinhalb Cêntimos. Im Gegensatz dazu wird der Liter Benzin um eineinhalb Cêntimos günstiger. Diese Preisbewegungen spiegeln die wöchentlichen Schwankungen auf dem Treibstoffmarkt wider, die regelmäßig von Automobilclubs und Händlerverbänden prognostiziert werden.",
-    "r": "Die Entwicklung der Kraftstoffpreise hat direkte finanzielle Auswirkungen auf Verbraucher und Wirtschaft in Portugal. Wöchentliche Prognosen helfen Verkehrsteilnehmern, das Tanken kostenoptimiert zu planen.",
+    "t": "Kraftstoffpreise in der kommenden Woche: Gasóleo steigt, Gasolina sinkt",
+    "s": "Für die kommende Woche wird in Portugal eine Preisanpassung an den Tankstellen erwartet. Während Diesel voraussichtlich teurer wird, soll Benzin im Preis sinken. Die genauen Schätzungen variieren leicht je nach Verband.",
+    "m": "Ab kommenden Montag verändern sich die Kraftstoffpreise in Portugal voraussichtlich erneut. Die Associação Nacional de Revendedores de Combustíveis (ANRCor) schätzt den Anstieg beim Diesel auf vier Cêntimos pro Liter und prognostiziert für Benzin einen Rückgang von anderthalb Cêntimos. Das Automóvel Club de Portugal (ACP) rechnet hingegen mit einem noch etwas höheren Preisanstieg beim Diesel von viereinhalb Cêntimos pro Liter, während der Rückgang beim Benzin mit anderthalb Cêntimos übereinstimmt. Diese Schätzungen spiegeln die wöchentlichen Schwankungen auf dem Kraftstoffmarkt wider und betreffen die Verbraucher direkt beim nächsten Tankstellenbesuch. Die genauen Ursachen für diese spezifischen Anpassungen werden in den Berichten nicht näher erläutert.",
+    "r": "Die Meldung ist relevant, da sich die bevorstehenden Kraftstoffpreisänderungen unmittelbar auf die Verbraucher und Transportkosten in Portugal auswirken. Die wöchentlichen Schwankungen geben Aufschluss über die aktuelle Preisentwicklung an den Tankstellen.",
     "srcs": [
       {
         "name": "RTP Notícias",
@@ -359,15 +593,15 @@
       }
     ],
     "url": "https://www.rtp.pt/noticias/economia/gasoleo-sobe-quatro-centimos-por-litro-na-proxima-semana_v1772223",
-    "agree": "Die Quellen sind sich einig, dass der Preis für Diesel in der nächsten Woche steigt und der für Benzin um 1,5 Cêntimos sinkt.",
+    "agree": "Beide Quellen sind sich einig, dass der Benzinpreis in der nächsten Woche um anderthalb Cêntimos pro Liter sinken wird und der Dieselpreis steigen soll.",
     "diff": [
       {
         "name": "RTP Notícias",
-        "note": "Beziffert den Preisanstieg bei Diesel auf vier Cêntimos pro Liter und nennt die Associação Nacional de Revendedores de Combustíveis als Quelle."
+        "note": "Schätzt den Anstieg beim Gasóleo auf vier Cêntimos pro Liter."
       },
       {
         "name": "RTP Economia",
-        "note": "Beziffert den Preisanstieg bei Diesel auf 4,5 Cêntimos pro Liter und nennt den Automóvel Club de Portugal (ACP) als Quelle."
+        "note": "Schätzt den Anstieg beim Gasóleo auf viereinhalb Cêntimos pro Liter."
       }
     ],
     "chg": "",
@@ -383,10 +617,10 @@
     "p": 2,
     "st": "",
     "city": "",
-    "t": "Gericht verurteilt „Rich Kids“-Drogenbande zu Haftstrafen",
-    "s": "Eine aus wohlhabenden Familien stammende Drogenbande, die als „Rich Kids“ bekannt wurde, ist vom Gericht zu Haftstrafen verurteilt worden. Die Täter hatten mit umfangreichen Drogengeschäften im großen Stil gehandelt. Nun müssen die Verantwortlichen ins Gefängnis.",
-    "m": "Die als „Rich Kids“ bezeichnete Drogenbande stammte aus wohlhabenden Verhältnissen und hatte im großen Stil mit Betäubungsmitteln gehandelt. Laut den Berichten beliefen sich die Umsätze oder Erlöse aus den Drogendeals auf rund elf Millionen Euro. Das zuständige Gericht hat nun die Urteile gesprochen und Haftstrafen gegen die Mitglieder verhängt. Damit findet ein aufsehenerregender Kriminalfall um junge Täter aus gutem Hause seinen Abschluss vor Gericht. Weitere Details zum genauen Ablauf des Verfahrens, den konkreten Strafmaßen der einzelnen Bandenmitglieder sowie zu möglichen Hintermännern oder Komplizen gehen aus den vorliegenden Berichten nicht hervor.",
-    "r": "Die Verurteilung einer prominenten Drogenbande aus wohlhabendem Milieu zeigt, dass auch Täter aus solchen Verhältnissen hart bestraft werden. Der Fall verdeutlicht zudem das Ausmaß illegaler Drogenfinanzierung mit Millionenbeträgen.",
+    "t": "Rich-Kids-Drogenbande zu Haftstrafen verurteilt",
+    "s": "Eine als Rich Kids bezeichnete Drogenbande aus wohlhabenden Familien wurde zu Haftstrafen verurteilt. Die Gruppe hatte im großen Stil mit Betäubungsmitteln gehandelt. Nun müssen die Verantwortlichen ins Gefängnis.",
+    "m": "Das Landgericht hat die Mitglieder der sogenannten Rich-Kids-Drogenbande zu Haftstrafen verurteilt. Die Täter stammten aus wohlhabenden Familien und hatten im großen Stil illegale Drogengeschäfte betrieben. Durch die kriminellen Machenschaften wurden erhebliche Umsätze erzielt, bevor die Behörden einschritten. Im Zuge der Ermittlungen und des Prozesses wurden Details zur Organisation der Bande bekannt. Das Urteil setzt ein deutliches Zeichen gegen die Drogenkriminalität in diesem Milieu. Ob weitere Hintermänner existieren, ist Gegenstand weiterer Ermittlungen.",
+    "r": "Die Verurteilung einer Drogenbande aus wohlhabenden Verhältnissen beleuchtet organisierte Kriminalität jenseits sozialer Brennpunkte. Das Urteil zeigt die Konsequenzen illegaler Drogengeschäfte im großen Stil auf.",
     "srcs": [
       {
         "name": "RND",
@@ -400,11 +634,15 @@
       }
     ],
     "url": "https://www.rnd.de/panorama/duesseldorf-rich-kids-drogenbande-zu-haftstrafen-verurteilt-QUDQJJGEOJF5FCG7LKAWQFGJAQ.html",
-    "agree": "Beide Quellen stimmen überein, dass eine aus wohlhabenden Familien stammende „Rich Kids“-Drogenbande zu Haftstrafen verurteilt wurde.",
+    "agree": "Beide Quellen berichten über die Verurteilung einer Drogenbande aus wohlhabenden Familien, die sogenannte Rich-Kids-Drogenbande, zu Haftstrafen wegen Drogengeschäften.",
     "diff": [
       {
         "name": "Rheinische Post",
-        "note": "Erwähnt konkret eine Summe von elf Millionen Euro aus Drogendeals."
+        "note": "nennt im Untertitel eine konkrete Summe von elf Millionen aus Drogendeals"
+      },
+      {
+        "name": "RND",
+        "note": "keine zusätzlichen Details im Text"
       }
     ],
     "chg": "",
@@ -421,9 +659,9 @@
     "st": "",
     "city": "",
     "t": "Trumps Sprecherin Zacharia gibt Posten nach wenigen Tagen auf",
-    "s": "Die Zeit von Katie Zacharia als Sprecherin des Weißen Hauses findet ein überraschend schnelles Ende. Erst vor wenigen Tagen hatte der US-Präsident die wichtige Personalie verkündet. Nun hat sie ihren Posten nach nur kurzer Zeit wieder aufgegeben.",
-    "m": "Die Amtszeit von Katie Zacharia als Sprecherin des Weißen Hauses dauerte nach übereinstimmenden Medienberichten lediglich fünf Tage beziehungsweise eine Woche. Zuvor war sie von US-Präsident Donald Trump öffentlich angezählt worden. Die Hintergründe für den plötzlichen Abgang wurden in den Berichten zunächst nicht im Detail genannt. Es ist unklar, wer die Nachfolge antreten wird oder ob interne Differenzen zu dem schnellen Aus führten. Der Vorgang wirft Fragen zur personellen Kontinuität in der Kommunikationsabteilung der US-Regierung auf.",
-    "r": "Der rasche Abgang einer hochrangigen Regierungssprecherin kurz nach ihrer Ernennung ist ein ungewöhnlicher Vorgang in der US-Politik. Er verdeutlicht mögliche Spannungen oder kurzfristige Personalwechsel im direkten Umfeld des US-Präsidenten.",
+    "s": "Die Sprecherin des Weißen Hauses, Katie Zacharia, hat ihren Posten überraschend nach nur wenigen Tagen im Amt aufgegeben. Erst rund eine Woche zuvor hatte US-Präsident Donald Trump die wichtige Personalie öffentlich verkündet. Nun zog die Sprecherin nach öffentlicher Kritik des Präsidenten die Konsequenzen.",
+    "m": "Katie Zacharia war erst seit fünf bis sieben Tagen als Sprecherin des Weißen Hauses im Amt, als ihr Rücktritt bekannt wurde. Zuvor hatte US-Präsident Donald Trump sie öffentlich angezählt, was zu ihrem schnellen Ausscheiden führte. Die genauen Hintergründe für die Differenzen zwischen dem Präsidenten und seiner Sprecherin wurden in den ersten Berichten nicht im Detail genannt. Der Vorfall wirft ein Schlaglicht auf die anhaltende Personalfluktuation und den hohen Druck im direkten Umfeld des US-Präsidenten. Bisher ist noch unklar, wer die Nachfolge von Zacharia antreten wird und wie das Weiße Haus die Personalie intern neu ordnen will. Beobachter werten den Vorfall als einen weiteren Rückschlag für die Kommunikationsstrategie der Regierungszentrale.",
+    "r": "Der schnelle Abgang einer Regierungssprecherin kurz nach ihrer Ernennung wirft Fragen zur personellen Stabilität und zur internen Kommunikation im Weißen Haus auf. Solche frühen Personalwechsel können die Regierungsarbeit und das öffentliche Auftreten des Präsidenten belasten.",
     "srcs": [
       {
         "name": "t-online Nachrichten",
@@ -437,11 +675,52 @@
       }
     ],
     "url": "https://www.t-online.de/nachrichten/ausland/usa/id_101485376/trump-zaehlt-sie-oeffentlich-an-dann-gibt-seine-sprecherin-zacharia-auf.html",
-    "agree": "Die Quellen stimmen überein, dass Katie Zacharia ihre Position als Sprecherin des Weißen Hauses nach nur kurzer Zeit – rund einer Woche beziehungsweise fünf Tagen im Amt – überraschend wieder aufgegeben hat, nachdem der US-Präsident sie zuvor öffentlich kritis",
+    "agree": "Die Quellen stimmen überein, dass Katie Zacharia nach nur kurzer Zeit im Amt als Sprecherin des Weißen Hauses zurückgetreten ist und Donald Trump die Personalie erst rund eine Woche zuvor verkündet hatte.",
     "diff": [
       {
+        "name": "t-online Nachrichten",
+        "note": "Berichtet, dass Trump sie öffentlich angezählt hat."
+      },
+      {
         "name": "Rheinische Post",
-        "note": "präzisiert die Amtszeit auf genau fünf Tage."
+        "note": "Gibt an, dass sie bereits nach fünf Tagen im Amt war."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-26decb20b8e9b299",
+    "c": "INT",
+    "o": "PT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-16T19:19:02.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Montenegro weist Vorwurf des Egoismus zurück und beklagt Drohungen",
+    "s": "Der portugiesische Politiker Luís Montenegro hat bestritten, Demonstranten in Porto Egoismus vorgeworfen zu haben. Gleichzeitig berichtete er über Drohungen, denen er ausgesetzt war. Die Berichterstattung beleuchtet die Kontroverse um die Äußerungen und die Reaktionen darauf. Es liegen Berichte über die entsprechenden Klarstellungen und Beschwerden vor.",
+    "m": "Luís Montenegro hat sich zu den Vorwürfen geäußert und klargestellt, dass er Demonstranten im Raum Porto nicht als egoistisch bezeichnet hat. Diese Klarstellung erfolgt im Kontext anhaltender politischer Spannungen und öffentlicher Auftritte. Neben der Richtigstellung seiner Aussagen machte Montenegro öffentlich, dass er mit Drohungen konfrontiert wurde. Die genauen Umstände und Hintergründe dieser Drohungen sowie die Reaktionen der Demonstrierenden sind Gegenstand der aktuellen Berichterstattung. Die Quellen verweisen auf entsprechende Medienberichte, unter anderem von der Zeitung Público, die die Details der Vorwürfe und der Gegenreaktion aufgreifen. Weitere offene Punkte betreffen die konkreten Reaktionen der beteiligten Gruppen und die Sicherheitslage des Politikers.",
+    "r": "Die Auseinandersetzung zwischen Politikern und Demonstranten sowie öffentlich gemachte Drohungen berühren Fragen der politischen Kultur und Sicherheit. Solche Vorfälle verdeutlichen die zunehm Verschärfung im öffentlichen und politischen Diskurs.",
+    "srcs": [
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/19h-montenegro-nega-ter-acusado-manifestantes-de-egoismo_a1_1772195",
+        "date": "2026-10-16T19:19:02.000Z"
+      },
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX0czcFhfTVV6eWpBSm9DekZEMUFUYmp2NWhvb2g4b3YtdEpqWkhSOEtrT3ducFNkdnVFc1g4S2ZPRDRTRDlrOXRiTHhvRVNvVmJSeFNoVmdiQWdIVGdhRk5OMFhGSTk0RnNqV1hlb2lGZzhBbkpVbjFkblZpaE82Uzc3SFNyMElCWG5DdnlFQU9ySVg5bGpmQ1otRlhoeUpWT1E1ZkYwZy10WXRuZzI5WWpZRGVLZ1pXLXhDNVBKeUZxX1h1Z0E?oc=5",
+        "date": "2026-10-16T18:26:20.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/noticiario-antena1/19h-montenegro-nega-ter-acusado-manifestantes-de-egoismo_a1_1772195",
+    "agree": "Die Quellen stimmen überein, dass Luís Montenegro bestreitet, Demonstranten als egoistisch bezeichnet zu haben, und sich über Drohungen beschwert.",
+    "diff": [
+      {
+        "name": "Google News Portugal",
+        "note": "Erwähnt spezifisch die Demonstranten aus Porto und die Zeitung Público als Quelle für die Berichterstattung über die Drohungen."
       }
     ],
     "chg": "",
@@ -530,10 +809,10 @@
     "p": 2,
     "st": "",
     "city": "",
-    "t": "Sean »Diddy« Combs nach Prügelei in anderes Gefängnis verlegt",
-    "s": "Der US-Rapper Sean »Diddy« Combs wurde in ein anderes Gefängnis verlegt. Hintergrund der Maßnahme iststenberichten zufolge eine Auseinandersetzung mit einem Mitgefangenen. Es ist bereits der zweite bekannte Vorfall dieser Art in diesem Jahr für den Musiker. Nun befindet er sich in einer kleineren Haftanstalt.",
-    "m": "Der Inhaftierte Sean »Diddy« Combs ist offenbar wegen einer Schlägerei innerhalb der Justizvollzugsanstalt in ein anderes Gefängnis verlegt worden. Medienberichten zufolge soll sich der Rap-Superstar zum zweiten Mal in diesem Jahr mit einem Mitgefangenen geprügelt haben. Nach den Vorkommnissen wurde er in ein kleineres Gefängnis gebracht. Weitere Details zu den genauen Umständen der Prügelei, möglichen Verletzten oder disziplinarischen Schritten gegen andere Beteiligte wurden zunächst nicht bekannt. Die Anstaltsleitung äußerte sich im Rahmen der bisherigen Berichterstattung nicht näher zu den Gründen der schnellen Verlegung. Combs sitzt derzeit im Zuge schwerwiegender Vorwürfe in Untersuchungshaft beziehungsweise Haft, während rechtliche Schritte gegen ihn vorbereitet werden.",
-    "r": "Die Verlegung eines prominenten Häftlings nach gewaltsamen Zwischenfällen wirft Fragen zur Sicherheit in Justizvollzugsanstalten auf. Solche Ereignisse können den weiteren Verlauf des Gerichtsverfahrens und die Haftbedingungen beeinflussen.",
+    "t": "Sean Diddy Combs nach Prügelei in anderes Gefängnis verlegt",
+    "s": "Der US-amerikanische Rapper Sean Diddy Combs wurde in ein anderes Gefängnis verlegt. Vorausgegangen war Medienberichten zufolge eine handfeste Auseinandersetzung mit einem Mithäftling. Es ist bereits der zweite bekannte Vorfall dieser Art im laufenden Jahr.",
+    "m": "Der Musikmogul Sean Diddy Combs, der derzeit inhaftiert ist, befindet sich nach Informationen des SPIEGEL in einer neuen Haftanstalt. Konkret wurde er in ein kleineres Gefängnis verlegt, nachdem er sich mit einem Mitgefangenen geprügelt haben soll. Dies ist bereits die zweite gewaltsame Auseinandersetzung, an der Combs in diesem Jahr in Haft beteiligt gewesen sein soll. Über die genauen Umstände des jüngsten Vorfalls, Verletzungen oder die Identität des Kontrahenten machten die Berichte zunächst keine weiteren Angaben. Die Justizbehörden haben sich zu den Sicherheitsmaßnahmen und den Gründen für die Verlegung im Detail bisher nicht umfassend geäußert. Der Fall wirft erneut Fragen zur Sicherheit und zum Umgang mit prominenten Insassen in den betroffenen US-Haftanstalten auf.",
+    "r": "Die Verlegung eines prominenten Häftlings wie Sean Diddy Combs nach mutmaßlichen Gewalttaten in der Haftanstalt wirft Fragen zur Sicherheit im US-Strafvollzug auf. Solche Vorfälle beleuchten die Bedingungen unter denen hochkarätige Persönlichkeiten inhaftiert sind.",
     "srcs": [
       {
         "name": "Google News DE",
@@ -548,7 +827,16 @@
     ],
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcWhhWHZzMU1kNHB1VDk2YWU3OVpJdExKZkMwTXVuWlBnb0tHUW9XYTRQajNrMTFjVW5GODFIdjBoYk5rOTk1bDFXWkhEel9YNE1IdE4tUGU2VmxaZ3VBc1M3VnZ1M3NyeHBJRHdQS1VxTGVXQVRaT0cyYmo1MEZiU29FdWxuelBDSGZXU1pDVDRfOHJUd0NKWlRlaDUyajFIR2k0X2FUV09KSXFwRzVrOHBFY0ozRUJ4bUx6NzFvOGQ3bnhBMWE2dUdsYU92THA1ejh1M1E5OGs?oc=5",
     "agree": "",
-    "diff": [],
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Verweist auf den Bericht des SPIEGEL bezüglich der Verlegung und der mutmaßlichen Prügelei."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Berichtet, dass sich Diddy zum zweiten Mal in diesem Jahr mit einem Mitgefangenen geprügelt hat und nun in ein kleineres Gefängnis gebracht wurde."
+      }
+    ],
     "chg": "",
     "independent": 2
   },
@@ -603,10 +891,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Trumps neue Sprecherin Katie Zacharia gerät wegen Qualifikation und Angaben unter Druck",
-    "s": "Wenige Tage nach ihrem Amtsantritt als neue Sprecherin des Weißen Hauses steht Katie Zacharia in der Kritik. Medienberichte und Prüfungen werfen Fragen zu ihrer beruflichen Qualifikation und ihrem Status als Anwältin auf. Zudem sorgen Kommunikationsprobleme für Irritationen.",
-    "m": "Katie Zacharia hat ihr Amt als Sprecherin des Weißen Hauses an Trumps Seite angetreten, sieht sich jedoch unmittelbar mit heftigen Kontroversen konfrontiert. Im Zentrum der Diskussion steht die Frage, ob sie tatsächlich als Anwältin qualifiziert ist oder ob ihre diesbezüglichen Angaben nicht der Wahrheit entsprechen. Laut Berichten der Tagesschau ist sie bei einer entsprechenden Prüfung durchgefallen. Darüber hinaus wird über wirre Sätze und Versprecher der Sprecherin berichtet, die zusätzliche Irritationen auslösen. Das RND verweist ebenfalls auf den Druck, unter dem Zacharia wegen ihrer Angaben zum Beruf steht. Weitere Details zum genauen zeitlichen Ablauf oder offiziellen Reaktionen des Weißen Hauses nennen die Quellen bisher nicht.",
-    "r": "Die Kontroverse betrifft die Integrität und Qualifikation einer hochrangigen Regierungssprecherin der US-Regierung kurz nach ihrem Amtsantritt. Dies wirft Fragen über den Hintergrund von Personalentscheidungen im Weißen Haus auf.",
+    "t": "Trumps neue Sprecherin Katie Zacharia gerät wegen Qualifikation unter Druck",
+    "s": "Wenige Tage nach ihrem Amtsantritt als neue Sprecherin des Weißen Hauses steht Katie Zacharia in der Kritik. Grund für die Irritationen sind offene Fragen zu ihrer beruflichen Qualifikation, insbesondere zu ihrem Status als Anwältin. Zusätzliche Aufmerksamkeit erregen unklare Aussagen und Versprechungen der Sprecherin.",
+    "m": "Katie Zacharia hat vor Kurzem ihre Arbeit als neue Sprecherin des Weißen Hauses aufgenommen, sieht sich jedoch schnell mit heftiger Kritik und Schlagzeilen konfrontiert. Im Zentrum der Diskussion steht die Frage, ob sie tatsächlich als Anwältin qualifiziert ist oder nicht. Entsprechende Zweifel an ihren beruflichen Angaben haben eine Prüfung nach sich gezogen, bei der sie offenbar durchgefallen ist. Neben diesen Unstimmigkeiten bei den biografischen Angaben sorgen auch wirre Sätze und Versprecher der Sprecherin bei öffentlichen Auftritten für wachsende Irritationen. Bislang ist unklar, wie das Weiße Haus auf die anhaltenden Vorwürfe reagieren wird und ob die Position der Sprecherin langfristig haltbar ist.",
+    "r": "Die Personalie ist von Bedeutung, da die Position der Sprecherin des Weißen Hauses eine zentrale kommunikative Schnittstelle der US-Regierung darstellt. Öffentliche Zweifel an der Glaubwürdigkeit und Qualifikation der Amtsinhaberin belasten unmittelbar die politische Außendarstellung der neuen Administration.",
     "srcs": [
       {
         "name": "RND",
@@ -620,11 +908,15 @@
       }
     ],
     "url": "https://www.rnd.de/politik/katie-zacharia-trumps-neue-sprecherin-wegen-angaben-zu-beruf-unter-druck-DH2ZQUIEK5CYDJFM6YSWVJWQAI.html",
-    "agree": "Beide Quellen stimmen überein, dass Katie Zacharia nur wenige Tage nach ihrem Start als neue Sprecherin des Weißen Hauses wegen Fragen zu ihrem Beruf und dem Status als Anwältin unter Druck geraten ist.",
+    "agree": "Die Quellen stimmen darin überein, dass Katie Zacharia wenige Tage nach ihrem Start als Sprecherin des Weißen Hauses wegen Fragen zu ihrem Beruf als Anwältin in die Schlagzeilen geraten ist.",
     "diff": [
       {
+        "name": "RND",
+        "note": "Berichtet im Titel von Angaben zum Beruf, die unter Druck geraten sind, und formuliert die Frage nach dem Anwältinnenstatus."
+      },
+      {
         "name": "Tagesschau",
-        "note": "Berichtet zusätzlich, dass Zacharia bei einer Prüfung durchgefallen ist und dass wirre Sätze sowie Versprecher für Irritationen sorgen."
+        "note": "Erwähnt zusätzlich, dass sie bei einer Prüfung durchgefallen ist, und führt wirre Sätze sowie Versprecher als Gründe für Irritationen auf."
       }
     ],
     "chg": "",
@@ -641,9 +933,9 @@
     "st": "",
     "city": "",
     "t": "Wirtschaftsministerin Reiche fordert Direktzahlungen und Reformen nach Tankrabatt",
-    "s": "Bundeswirtschaftsministerin Katherina Reiche hat sich im ARD-Interview der Woche für gezielte Direktzahlungen für Geringverdiener nach dem Auslaufen des Tankrabatts ausgesprochen. Zugleich warnt sie vor anhaltenden Engpässen bei Treibstoffen aus dem Nahen Osten. Neben den Entlastungen fordert die CDU-Politikerin arbeitsmarktpolitische Reformen wie eine Erhöhung der Arbeitsstunden.",
-    "m": "Im ARD-Interview der Woche mit Hauptstadtkorrespondent Jan Zimmermann hat Bundeswirtschaftsministerin Katherina Reiche über die Zeit nach dem Auslaufen des Tankrabatts gesprochen. Sie plädiert dafür, Autofahrer mit geringem Einkommen künftig durch direkte Zahlungen zu entlasten und erhöht damit den Druck auf das Finanzministerium. Inhaltlich warnt die CDU-Politikerin zudem vor drohenden Engpässen bei Diesel, Benzin und Kerosin, die aus dem Nahen Osten importiert werden. Um die wirtschaftliche Situation zu stabilisieren, fordert sie strukturelle Änderungen auf dem Arbeitsmarkt. Dazu gehört unter anderem der Vorschlag, die reguläre Zahl der Arbeitsstunden zu erhöhen. Konkrete Details zur Umsetzung der Direktzahlungen oder des Arbeitsmarktumbaus wurden in den Auszügen bisher nicht genannt.",
-    "r": "Die Aussagen der Bundeswirtschaftsministerin geben Einblick in kommende politische Debatten zur Nachfolge des Tankrabatts sowie zu möglichen Reformen am Arbeitsmarkt. Zudem verdeutlichen sie die Sorge vor Energieengpässen und die Verteilungskämpfe zwischen Ministerien.",
+    "s": "Bundeswirtschaftsministerin Katherina Reiche hat sich im ARD-Interview der Woche für gezielte Direktzahlungen für Geringverdiener nach dem Auslaufen des Tankrabatts ausgesprochen. Gleichzeitig warnt sie vor anhaltenden Engpässen bei Kraftstoffen wie Diesel, Kerosin und Benzin aus dem Nahen Osten. Zudem fordert die CDU-Politikerin Reformen auf dem Arbeitsmarkt, darunter eine Erhöhung der Arbeitsstunden.",
+    "m": "Im ARD-Interview der Woche mit Hauptstadtkorrespondent Jan Zimmermann äußerte sich Bundeswirtschaftsministerin Katherina Reiche zu den wirtschaftlichen Aussichten und Entlastungsmaßnahmen nach dem Auslaufen des Tankrabatts zum Jahresende. Sie plädiert dafür, künftig gezielt Autofahrer mit wenig Geld durch Direktzahlungen zu unterstützen, wodurch der Druck auf das Finanzministerium wächst. Neben diesen Entlastungsfragen warnt die CDU-Politikerin vor anhaltenden Versorgungsengpässen bei Diesel, Kerosin und Benzin aus dem Nahen Osten. Zur Stärkung der Wirtschaft mahnt sie zudem grundlegende Reformen auf dem Arbeitsmarkt an, zu denen insbesondere die Erhöhung der geleisteten Arbeitsstunden gehört. Offen bleibt bislang, wie das Finanzministerium auf die Forderungen nach Direktzahlungen reagieren wird und wann konkrete Gesetzesinitiativen folgen.",
+    "r": "Die Aussagen der Wirtschaftsministerin zu Kraftstoffengpässen und Entlastungen nach dem Tankrabatt geben Aufschluss über künftige politische Maßnahmen. Die Debatte um Arbeitsmarktreformen und Direktzahlungen für Geringverdiener betrifft direkt die wirtschaftliche und finanzpolitische Ausrichtung in Deutschland.",
     "srcs": [
       {
         "name": "SWR Aktuell",
@@ -657,15 +949,15 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell-radio/was-kommt-nach-dem-tankrabatt-wirtschaftsministerin-reiche-100.html",
-    "agree": "Die Quellen sind sich einig, dass sich Bundeswirtschaftsministerin Reiche im ARD-Interview der Woche für Direktzahlungen an Geringverdiener nach dem Ende des Tankrabatts ausgesprochen hat.",
+    "agree": "Beide Quellen berichten, dass sich Wirtschaftsministerin Katherina Reiche im ARD-Interview der Woche für Direktzahlungen zur Entlastung von Geringverdienern nach dem Auslaufen des Tankrabatts ausspricht.",
     "diff": [
       {
         "name": "SWR Aktuell",
-        "note": "Berichtet zusätzlich über Reiches Warnung vor Engpässen bei Diesel, Kerosin und Benzin aus dem Nahen Osten, die Forderung nach einer Erhöhung der Arbeitsstunden sowie das Interview mit Hauptstadtkorrespondent Jan Zimmermann."
+        "note": "Berichtet zusätzlich über Reiches Warnung vor Engpässen bei Diesel, Kerosin und Benzin aus dem Nahen Osten, ihre Forderung nach einer Erhöhung der Arbeitsstunden auf dem Arbeitsmarkt sowie über das Interview mit Hauptstadtkorrespondent Jan Zimmermann."
       },
       {
         "name": "Tagesschau",
-        "note": "Erwähnt zusätzlich, dass Reiche mit ihrer Forderung den Druck auf das Finanzministerium erhöht."
+        "note": "Erwähnt zusätzlich, dass Reiche durch ihre Forderung nach Direktzahlungen den Druck auf das Finanzministerium erhöht."
       }
     ],
     "chg": "",
@@ -1046,10 +1338,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Sally Rooneys Bücher werden in Großbritannien nicht mehr verkauft",
-    "s": "Die irische Bestsellerautorin Sally Rooney wird ihre Bücher künftig nicht mehr in Großbritannien vertreiben lassen. Grund dafür ist ihre Entscheidung, Tantiemen an die Organisation Palestine Action zu spenden. Die Gruppe ist von der britischen Regierung als terroristische Vereinigung eingestuft worden.",
-    "m": "Die Autorin von Romanen wie Normal People erklärte am Mittwoch gemeinsam mit ihrem Verlag, dass der Verkauf in Großbritannien aufgrund ihrer Unterstützung für die pro-palästinensische Gruppe eingestellt wird. Rooney ist eine ausgesprochene Befürworterin von Palestine Action. Die Organisation wurde im vergangenen Jahr unter den britischen Antiterrorgesetzen von der Regierung proscribed und verboten. Mit der Weiterleitung ihrer Autorenhonorare an diese verbotene Gruppierung kollidiert ihr Vorgehen mit den rechtlichen Bestimmungen im Vereinigten Königreich. Dies führt nun zu dem drastischen Schritt des Vertriebsstopps ihrer Werke in der Region. Offen bleibt, ob und wie sich diese Entscheidung langfristig auf ihre internationalen Verkaufszahlen auswirken wird.",
-    "r": "Der Vertriebsstopp für eine international bekannte Autorin in einem großen Markt wie Großbritannien wegen Terrorismusbezügen der Empfänger von Tantiemen ist von kulturpolitischer und gesellschaftlicher Relevanz.",
+    "t": "Sally Rooneys Bücher in Großbritannien wegen Unterstützung für pro-palästinensische Gruppe aus dem",
+    "s": "Die Bücher der irischen Bestsellerautorin Sally Rooney werden in Großbritannien nicht mehr verkauft. Grund dafür sind ihre Pläne, die Tantiemen ihrer Werke für die pro-palästinensische Gruppe Palestine Action zu verwenden. Diese Organisation wurde im vergangenen Jahr von der britischen Regierung als terroristische Vereinigung eingestuft und verboten.",
+    "m": "Die irische Autorin Sally Rooney und ihr Verlag gaben am Mittwoch bekannt, dass ihre Romane, zu denen bekannte Werke wie Normal People und Conversations with Friends gehören, künftig nicht mehr in Britannien erhältlich sein werden. Auslöser ist Rooneys offene Unterstützung für Palestine Action und ihre Absicht, die Einnahmen aus ihren Buchverkäufen der Organisation zukommen zu lassen. Die britische Regierung hatte die Gruppe im vergangenen Jahr im Rahmen der Antiterrorgesetze proskribiert. Rooney zeigt sich trotz des Verbots solidarisch mit der Bewegung. Der Vertriebsstopp in Großbritannien ist eine direkte Folge dieser finanziellen Unterstützung für eine als terroristisch eingestufte Vereinigung.",
+    "r": "Der Fall verbindet literarischen Erfolg mit internationaler Politik und wirft Fragen zur Finanzierung verbotener Organisationen durch Kulturschaffende auf. Zudem betrifft er direkt den Buchmarkt in Großbritannien und die Verfügbarkeit bekannter Bestseller.",
     "srcs": [
       {
         "name": "France24 English",
@@ -1063,11 +1355,15 @@
       }
     ],
     "url": "https://www.france24.com/en/video/20261016-sally-rooney-s-books-no-longer-sold-in-uk-over-support-for-banned-pro-palestinian-group",
-    "agree": "Die Quellen stimmen überein, dass Sally Rooneys Bücher aufgrund ihrer Unterstützung für die pro-palästinensische Gruppe Palestine Action nicht mehr in Großbritannien verkauft werden.",
+    "agree": "Die Quellen sind sich einig, dass Sally Rooneys Bücher in Großbritannien nicht mehr verkauft werden, weil sie eine pro-palästinensische Gruppe unterstützt.",
     "diff": [
       {
         "name": "France24 English",
-        "note": "Erwähnt konkret den Zeitpunkt (Mittwoch), Rooneys Verlag sowie Buchtitel wie Normal People und Conversations with Friends."
+        "note": "nennt die konkreten Buchtitel Normal People und Conversations with Friends sowie die Tatsache, dass die Ankündigung am Mittwoch von der Autorin und ihrem Verlag gemacht wurde"
+      },
+      {
+        "name": "NPR World",
+        "note": "enthält keine weiteren Details und fasst die Meldung sehr kurz zusammen"
       }
     ],
     "chg": "",
@@ -1115,10 +1411,10 @@
     "p": 2,
     "st": "BW",
     "city": "",
-    "t": "Cyberangriff auf Hochschulservicezentrum BW führt zu Problemen im Ostalbkreis",
-    "s": "Nach einem Cyberangriff auf das Hochschulservicezentrum Baden-Württemberg kämpfen mehrere Hochschulen mit massiven Verwaltungsproblemen. In Schwäbisch Gmünd ist unter anderem der Zugriff der Studierenden auf wichtige Dokumente eingeschränkt. Zudem sind Bewerbungen teilweise nur noch per E-Mail möglich.",
-    "m": "Der Cyberangriff hat das Hochschulservicezentrum BW getroffen und in der Folge zu technischen Einschränkungen an mehreren Hochschulen im Ostalbkreis geführt. Betroffen ist unter anderem der Standort in Schwäbisch Gmünd, wo Studierende derzeit keinen vollständigen Zugriff auf ihre Dokumente haben. Die digitale Verwaltung ist durch den Vorfall stark beeinträchtigt, weshalb Bewerbungsverfahren teils auf den klassischen Weg per E-Mail ausweichen müssen. Genau Details zum Ausmaß des Angriffs, zu den Hintergründen der Täter sowie zur Dauer der Störungen sind derzeit noch nicht vollständig bekannt. Die betroffenen Institutionen arbeiten an der Aufklärung und Behebung der technischen Probleme.",
-    "r": "Der Cyberangriff auf zentrale IT-Strukturen zeigt die Verwundbarkeit von Bildungseinrichtungen und beeinträchtigt den regulären Studien- sowie Bewerbungsbetrieb in der Region.",
+    "t": "Cyberangriff auf Hochschulservicezentrum BW beeinträchtigt Hochschulen im Ostalbkreis",
+    "s": "Nach einem Cyberangriff auf das Hochschulservicezentrum Baden-Württemberg klagen mehrere Hochschulen im Ostalbkreis über erhebliche Verwaltungsprobleme. Insbesondere in Schwäbisch Gmünd sind die Auswirkungen spürbar, wo Studierenden unter anderem der Zugriff auf wichtige Dokumente fehlt. Aufgrund der technischen Störungen können Bewerbungen teilweise nur noch per E-Mail eingereicht werden. Die zuständigen Stellen arbeiten an der Aufklärung und Behebung des Vorfalls.",
+    "m": "Der Cyberangriff hat gezielt das Hochschulservicezentrum Baden-Württemberg getroffen und in der Folge zu massiven Einschränkungen im Verwaltungsbetrieb mehrerer Hochschulen in der Region geführt. Im Ostalbkreis, besonders am Standort Schwäbisch Gmünd, sind IT-Systeme und digitale Services der betroffenen Einrichtungen stark beeinträchtigt. Studierende berichten von fehlendem Zugriff auf hochschulinterne Dokumente, Plattformen und digitale Lernumgebungen. Da zentrale Portale temporär nicht erreichbar sind, müssen administrative Prozesse wie Bewerbungen auf alternative Wege wie E-Mail ausweichen. Das Ausmaß des Angriffs und mögliche Datenabflüsse werden derzeit von IT-Sicherheitsexperten untersucht. Wann die Systeme wieder regulär laufen, ist zum aktuellen Zeitpunkt noch unklar.",
+    "r": "Der Cyberangriff auf zentrale IT-Dienstleister im Hochschulwesen zeigt die Verwundbarkeit digitaler Bildungsstrukturen und beeinträchtigt den regulären Studien- sowie Verwaltungsbetrieb. Die Störung betrifft fundamentale Prozesse wie die Bearbeitung von Bewerbungen im Ostalbkreis.",
     "srcs": [
       {
         "name": "SWR Aktuell",
@@ -1132,17 +1428,8 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/hochschule-hfg-gmuend-ostalbkreis-cyberangriff-100.html",
-    "agree": "Beide Quellen sind sich einig, dass ein Cyberangriff auf das Hochschulservicezentrum BW zu Verwaltungsproblemen an Hochschulen im Ostalbkreis geführt hat und in Schwäbisch Gmünd Studierenden der Zugriff auf Dokumente fehlt sowie Bewerbungen teils nur per Mail ",
-    "diff": [
-      {
-        "name": "SWR Aktuell",
-        "note": "Identische Berichterstattung ohne nennenswerte Abweichungen zum Partnerartikel."
-      },
-      {
-        "name": "Tagesschau Regional Baden-Württemberg",
-        "note": "Identische Berichterstattung ohne nennenswerte Abweichungen zum Partnerartikel."
-      }
-    ],
+    "agree": "Beide Quellen stimmen überein, dass ein Cyberangriff auf das Hochschulservicezentrum BW zu Verwaltungsproblemen an Hochschulen im Ostalbkreis geführt hat, wodurch Bewerbungen teils nur per Mail möglich sind und in Schwäbisch Gmünd der Zugriff auf Dokumente feh",
+    "diff": [],
     "chg": "",
     "independent": 2
   },
@@ -1194,13 +1481,13 @@
     "k": "panorama",
     "lang": "de",
     "d": "2026-10-16T15:26:13.000Z",
-    "p": 2,
+    "p": 3,
     "st": "BW",
     "city": "",
-    "t": "Fall Maria Ladenburger: Wie die Tat Freiburg veränderte",
-    "s": "Vor zehn Jahren wurde die 19-jährige Studentin Maria Ladenburger auf dem Heimweg von einer Party in Freiburg vergewaltigt und getötet. Das Verbrechen erschütterte die Öffentlichkeit bundesweit und hinterließ tiefe Spuren in der Region.",
-    "m": "Die Tat ereignete sich vor genau zehn Jahren, als die Studentin Maria Ladenburger nachts von einer Party nach Hause gehen wollte. Auf diesem Heimweg wurde sie Opfer eines Gewaltverbrechens, bei dem sie vergewaltigt und getötet wurde. Der Vorfall löste bundesweit großes Entsetzen und eine intensive mediale Debatte aus. Im Nachgang veränderte das Verbrechen nachhaltig das Sicherheitsgefühl in Freiburg sowie die konkrete Polizeiarbeit vor Ort. Bis heute gilt der Fall als eines der schrecklichsten Verbrechen der jüngeren Regionalgeschichte. Die Hintergründe und Konsequenzen der Tat prägen die Sicherheitsdiskussionen in der Region bis in die Gegenwart.",
-    "r": "Das Verbrechen an der Studentin Maria Ladenburger vor zehn Jahren hat bundesweit für Entsetzen gesorgt. Zudem hat die Tat die Polizeiarbeit sowie das Sicherheitsgefühl in Freiburg nachhaltig verändert.",
+    "t": "Vor zehn Jahren erschütterte der Mordfall Maria Ladenburger Freiburg",
+    "s": "Vor zehn Jahren wurde die 19-jährige Studentin Maria Ladenburger auf dem Heimweg von einer Party in Freiburg vergewaltigt und getötet. Das Verbrechen sorgte bundesweit für Entsetzen und tiefe Erschütterung. Die Tat hatte nachhaltige Auswirkungen auf die Stadtgesellschaft in Freiburg sowie auf die dortige Polizeiarbeit. Auch ein Jahrzehnt nach dem Verbrechen bleibt der Fall im Gedächtnis.",
+    "m": "Die Bluttat an der 19-jährigen Studentin Maria Ladenburger vor genau zehn Jahren markiert einen Einschnitt für die Stadt Freiburg und die Ermittlungsbehörden. Die junge Frau war damals nach einer Party auf dem Heimweg, als sie überfallen, vergewaltigt und getötet wurde. Der Vorfall löste bundesweit großes Aufsehen und eine intensive gesellschaftliche Debatte über Sicherheit aus. Die konkreten Umstände der Tat sowie die darauffolgenden polizeilichen Ermittlungen veränderten die Arbeit der Einsatzkräfte vor Ort maßgeblich. Bis heute gilt der Fall als eines der prägendsten Verbrechen der Region in den vergangenen Jahren. Details zu den damaligen polizeilichen Schritten und den genauen Konsequenzen für die Sicherheitsmaßnahmen werden im historischen Rückblick beleuchtet.",
+    "r": "Das zehntägige beziehungsweise zehnjährige Jubiläum des Verbrechens erinnert an eine Tat, die bundesweit Aufmerksamkeit erregte und lokale Strukturen nachhaltig prägte. Die Aufarbeitung zeigt, wie stark solche Ereignisse die Polizeiarbeit und das Sicherheitsgefühl in einer Region langfristig verändern können.",
     "srcs": [
       {
         "name": "SWR Aktuell Baden-Württemberg",
@@ -1214,7 +1501,7 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/freiburg/zehnter-jahrestag-tod-von-maria-ladenburger-in-freiburg-100.html",
-    "agree": "Beide Quellen berichten übereinstimmend über den Mord an der 19-jährigen Studentin Maria Ladenburger vor zehn Jahren in Freiburg, ihre Identität als Studentin, den Tatzeitpunkt auf dem Heimweg von einer Party sowie die bundesweite Erschütterung durch die Tat.",
+    "agree": "Beide Quellen stimmen darin überein, dass die 19-jährige Studentin Maria Ladenburger vor zehn Jahren auf dem Heimweg von einer Party in Freiburg vergewaltigt und getötet wurde und dass der Fall bundesweit für Erschütterung sorgte.",
     "diff": [],
     "chg": "",
     "independent": 2
@@ -1271,9 +1558,9 @@
     "st": "",
     "city": "",
     "t": "US-Journalist bei Siedlerangriff im Westjordanland verletzt",
-    "s": "Bei einem koordinierten Angriff israelischer Siedler im Westjordanland sind mindestens zwei Menschen verletzt worden. Unter den Verletzten befindet sich auch ein Fotojournalist der Washington Post aus den USA. Der Vorfall ereignete sich während der aktuellen Olivenernte, bei der die Gewalt durch Siedler in den besetzten palästinensischen Gebieten zunimmt.",
-    "m": "Etwa 80 maskierte israelische Siedler griffen am Freitag Palästinenser an, die versuchten, ihre Oliven zu ernten. Dabei setzten die Angreifer Olivenbäume in Brand und warfen Steine auf die Menschen im Dorf. Mindestens zwei Personen wurden durch den koordinierten Übergriff verletzt, darunter ein US-amerikanischer Fotojournalist der Washington Post. Der Vorfall reiht sich in eine wachsende Zahl ähnlicher gewaltsamer Zwischenfälle während der diesjährigen Olivenernte in den besetzten palästinensischen Gebieten ein. Die Region erlebt seit längerem einen deutlichen Anstieg von Übergriffen durch israelische Siedler auf die palästinensische Zivilbevölkerung und deren Erntehelfer. Weitere Details zu den Verletzten oder möglichen Festnahmen wurden in den Berichten zunächst nicht genannt.",
-    "r": "Der Vorfall verdeutlicht die zunehmende Gewalt im besetzten Westjordanland während der Olivenernte. Die Beteiligung eines US-Journalisten lenkt internationale Aufmerksamkeit auf die anhaltenden Konflikte vor Ort.",
+    "s": "Rund 80 israelische Siedler haben im Westjordanland palästinensische Olivenbauern angegriffen. Dabei wurden mindestens zwei Personen verletzt, darunter ein US-amerikanischer Fotojournalist der Washington Post. Der koordinierte Vorfall ereignete sich während der aktuellen Olivenernte.",
+    "m": "Der Vorfall im besetzten Westjordanland ereignete sich am Freitag in einem Dorf, als palästinensische Bauern ihre Oliven ernten wollten. Etwa 80 maskierte israelische Siedler setzten Olivenbäume in Brand und warfen Steine auf die Anwesenden. Unter den mindestens zwei Verletzten befindet sich auch ein Fotojournalist der US-Zeitung The Washington Post. Der Angriff reiht sich in eine wachsende Welle von Gewalt durch israelische Siedler ein, die während der saisonalen Olivenernte in der Region zu beobachten ist. Angriffe dieser Art erschweren die ohnehin angespannte Sicherheitslage im besetzten palästinensischen Gebiet zusätzlich. Konkrete Angaben zu Festnahmen oder polizeilichen Ermittlungen liegen aus den Berichten nicht vor.",
+    "r": "Der Übergriff verdeutlicht die zunehmende Gewalt durch israelische Siedler im Westjordanland während der Olivenernte. Solche Vorfälle belasten die Sicherheitslage für Palästinenser und internationale Beobachter im besetzten Gebiet weiter.",
     "srcs": [
       {
         "name": "France24 English",
@@ -1292,19 +1579,19 @@
       }
     ],
     "url": "https://www.france24.com/en/middle-east/20261016-us-journalist-injured-during-israeli-settler-attack-on-west-bank-olive-harvest",
-    "agree": "Die Quellen stimmen überein, dass israelische Siedler Palästinenser und einen US-Journalisten bei einem Angriff während der Olivenernte im Westjordanland verletzt haben.",
+    "agree": "Die Quellen stimmen überein, dass israelische Siedler Palästinenser bei der Olivenernte im Westjordanland angegriffen haben und dabei auch ein US-journalist verletzt wurde.",
     "diff": [
       {
         "name": "France24 English",
-        "note": "Berichtet detailliert, dass etwa 80 Siedler beteiligt waren, Olivenbäume in Brand gesetzt und Steine geworfen wurden, und nennt die Washington Post als Arbeitgeber des US-Fotojournalisten."
+        "note": "nennt Details zum Tathergang mit etwa 80 beteiligten Siedlern, Brandstiftungen an Olivenbäumen und Steinwürfen sowie die Redaktionszugehörigkeit des betroffenen US-Fotojournalisten zur Washington Post."
       },
       {
         "name": "BBC World",
-        "note": "Erwähnt zusätzlich, dass die angreifenden Siedler maskiert waren."
+        "note": "berichtet ebenfalls über den Vorfall, nennt aber weniger Details als France24."
       },
       {
         "name": "Google News World",
-        "note": "Enthält keinen eigenen Fließtext, sondern verweist lediglich auf den Bericht der BBC."
+        "note": "verweist lediglich knapp auf die Berichterstattung der BBC ohne eigene inhaltliche Details."
       }
     ],
     "chg": "",
@@ -1790,9 +2077,9 @@
     "st": "BW",
     "city": "",
     "t": "CureVac-Kaufangebot: Geplant waren Impfstoffe für Jagdvögel und Rennkamele",
-    "s": "Eine Investorengruppe plante den Kauf eines Werks des Tübinger Unternehmens CureVac, um dort mRNA-Impfstoffe für Rennkamele und Jagdvögel herzustellen. Das Vorhaben wurde jedoch durch eine Absage von BioNTech verhindert. BioNTech lehnte das entsprechende Übernahmeangebot für den Standort ab.",
-    "m": "Das geplante Investment in das Tübinger CureVac-Werk sollte von einer Investorengruppe getätigt werden, die dort gezielt mRNA-Impfstoffe für spezielle Tiere wie Jagdvögel und Rennkamele produzieren wollte. Die Realisierung dieses Projekts scheiterte jedoch an BioNTech, das das vorliegende Übernahmeangebot für das Werk ablehnte. Weitere Details zu den Hintergründen der Investorengruppe oder dem genauen Zeitpunkt des Angebots gehen aus den Berichten nicht hervor. Auch die Reaktionen von CureVac auf die abgelehnte Übernahme oder die konkreten Kapazitäten des betroffenen Standorts bleiben in den vorliegenden Informationen ungenannt. Die beteiligten Unternehmen und Akteure äußerten sich zunächst nicht weiter zu den geplatzten Plänen für die Spezialtier-Impfstoffproduktion in Tübingen.",
-    "r": "Das Ereignis beleuchtet Investitionsversuche und Produktionspläne im Bereich der mRNA-Technologie an einem Standort in Baden-Württemberg. Es zeigt auf, wie strategische Entscheidungen von Hauptakteuern wie BioNTech über die Nutzung solcher Produktionskapazitäten bestimmen.",
+    "s": "Eine Investorengruppe plante in Tübingen die Produktion von mRNA-Impfstoffen für Rennkamele und Jagdvögel durch den Kauf eines CureVac-Werks. Das Vorhaben scheiterte jedoch, da BioNTech das entsprechende Übernahmeangebot ablehnte.",
+    "m": "Hintergrund des geplanten Projekts in Tübingen war die Nutzung von CureVac-Infrastruktur für spezielle Tierimpfstoffe, konkret für Rennkamele und Jagdvögel. Eine Investorengruppe hatte zu diesem Zweck ein Kaufangebot für das CureVac-Werk unterbreitet. Die Transaktion kam jedoch nicht zustande, da BioNTech als beteiligter Akteur das Übernahmeangebot ablehnte. Weitere Details zu den Hintergründen der Investorengruppe oder zum genauen Finanzvolumen des Angebots wurden in den vorliegenden Berichten nicht genannt. Auch der Zeitpunkt der Verhandlungen bleibt offen. Das Werk verbleibt somit vorerst in seiner bisherigen Struktur.",
+    "r": "Die Meldung zeigt strategische Entscheidungen im Bereich der mRNA-Technologie außerhalb der Humanmedizin auf. Zudem verdeutlicht sie die Marktmacht und Entscheidungsgewalt von BioNTech über Produktionsstätten in Tübingen.",
     "srcs": [
       {
         "name": "SWR Aktuell Baden-Württemberg",
@@ -1806,7 +2093,7 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/tuebingen/investoren-curevac-standort-tuebingen-millionen-beschaeftigte-biontech-rennkamele-jagdvoegel-100.html",
-    "agree": "Beide Quellen stimmen überein, dass eine Investorengruppe das CureVac-Werk in Tübingen übernehmen wollte, um mRNA-Impfstoffe für Rennkamele und Jagdvögel zu produzieren, BioNTech das Angebot jedoch ablehnte.",
+    "agree": "Beide Quellen sind sich einig, dass eine Investorengruppe ein Kaufangebot für ein CureVac-Werk in Tübingen abgab, um mRNA-Impfstoffe für Rennkamele und Jagdvögel zu produzieren, welches von BioNTech abgelehnt wurde.",
     "diff": [],
     "chg": "",
     "independent": 2
@@ -1822,9 +2109,9 @@
     "st": "",
     "city": "",
     "t": "Welche Tabakware wie viel teurer wird",
-    "s": "Zigaretten, Feinschnitt und andere Tabakwaren sowie tabakähnliche Produkte sollen künftig deutlich stärker besteuert werden. Dies geht aus aktuellen Planungen hervor, wonach Verbraucherinnen und Verbraucher mit erheblich höheren Preisen rechnen müssen. Bislang ist unklar, wie die genaue Preisgestaltung im Detail aussehen wird.",
-    "m": "Die geplante Steuererhöhung betrifft ein breites Spektrum an Tabakwaren und tabakähnlichen Produkten. Ziel ist es, die Besteuerung dieser Produkte deutlich anzuheben, was direkte Auswirkungen auf die Endverbraucher haben wird. Die Tagesschau berichtet über die konkreten Pläne und stellt die Frage, welche Tabakwaren genau wie stark im Preis steigen werden. Da Rauchen gesundheitsschädlich ist, könnten gesundheitspolitische Motive hinter der Maßnahme stehen, wenngleich im Text primär die finanziellen Mehrbelastungen im Fokus stehen. Weitere Details zum zeitlichen Ablauf der Umsetzung oder zur genauen Höhe der Steueraufschläge nennen die vorliegenden Kurzmeldungen bislang nicht. Offen bleibt zudem, ob alternative Produkte wie E-Zigaretten oder erhitzter Tabak gleichermaßen belastet werden.",
-    "r": "Die Meldung ist relevant, da eine drastische Erhöhung der Tabaksteuer Millionen Verbraucher betrifft und steuerpolitische sowie gesundheitspolitische Signalwirkung hat.",
+    "s": "Zigaretten und andere Tabakwaren sollen in Zukunft deutlich stärker besteuert werden. Dies geht aus aktuellen Plänen hervor, die spürbare Preiserhöhungen für Verbraucher zur Folge haben dürften.",
+    "m": "Die Bundesregierung beziehungsweise die zuständigen Stellen planen eine massive Anhebung der Besteuerung für Tabakwaren, Feinschnitt und vergleichbare tabakähnliche Produkte. Durch diese höheren Abgaben ist mit einem signifikanten Preisanstieg für Raucher zu rechnen. Bislang sind in den vorliegenden kurzen Meldungen noch keine genauen Zeitpunkte für das Inkrafttreten oder konkrete Cent-Beträge der Verteuerung genannt worden. Offen bleibt zudem, wie stark die einzelnen Produktkategorien im Detail unterschiedlich belastet werden sollen. Die Maßnahme betrifft den gesamten deutschen Markt für Tabak und Nikotinprodukte.",
+    "r": "Die Erhöhung der Tabaksteuer hat direkte finanzielle Auswirkungen auf Millionen von Verbraucherinnen und Verbraucher in Deutschland. Sie ist zudem ein gesundheits- und fiskalpolitisch relevantes Instrument.",
     "srcs": [
       {
         "name": "Tagesschau",
@@ -1838,11 +2125,11 @@
       }
     ],
     "url": "https://www.tagesschau.de/inland/innenpolitik/ueberblick-tabaksteuer-100.html",
-    "agree": "Die Quellen sind sich einig, dass Tabakwaren und ähnliche Produkte stärker besteuert werden sollen und die Preise steigen dürften.",
+    "agree": "Beide Quellen stimmen überein, dass Tabakwaren stärker besteuert werden sollen und die Preise dadurch steigen.",
     "diff": [
       {
         "name": "Google News DE",
-        "note": "Verweist lediglich auf den Artikel der Tagesschau und enthält keine eigenen inhaltlichen Ergänzungen."
+        "note": "Verweist lediglich per Link auf den Artikel der Tagesschau und nennt im Snippet den gleichen Titel."
       }
     ],
     "chg": "",
@@ -2375,9 +2662,9 @@
     "st": "NW",
     "city": "",
     "t": "Bundestag beschließt Erhöhung der Tabaksteuer",
-    "s": "Der Deutsche Bundestag hat eine Anhebung der Tabaksteuer beschlossen. Durch die Maßnahme soll der Bund künftig noch höhere Einnahmen erzielen. Für Konsumenten von Tabakwaren bedeutet dies, dass sie sich auf steigende Preise einstellen müssen.",
-    "m": "Der Bundestag hat eine Erhöhung der Tabaksteuer beschlossen, was zu höheren Preisen für Raucher und Vaper führen wird. Millionen Menschen in Deutschland rauchen, womit die Tabaksteuer dem Bund bereits bisher Milliardeneinnahmen beschert. Künftig soll dieser Betrag durch die neue Regelung noch weiter steigen. Details zu den genauen Steuersätzen oder dem Zeitpunkt des Inkrafttretens gehen aus den vorliegenden Berichten nicht hervor. Auch die konkreten Auswirkungen auf die verschiedenen Produktgruppen wie Zigaretten oder E-Zigaretten werden nicht im Detail beziffert.",
-    "r": "Die Entscheidung betrifft Millionen Raucher in Deutschland sowie die Einnahmen des Bundeshaushalts. Steuererhöhungen in diesem Bereich wirken sich direkt auf das Konsumverhalten und die staatlichen Finanzen aus.",
+    "s": "Der Deutsche Bundestag hat eine Anhebung der Tabaksteuer beschlossen. Durch die Maßnahme soll der Bund künftig noch höhere Einnahmen erzielen. Für Raucherinnen und Raucher bedeutet dies, dass sie sich auf steigende Preise einstellen müssen. Auch E-Zigaretten beziehungsweise Vaper sind von den Änderungen betroffen.",
+    "m": "Millionen Menschen konsumieren in Deutschland Tabakprodukte, was dem Staat bereits bislang erhebliche Milliardeneinnahmen beschert. Mit dem nun gefassten Beschluss des Bundestages wird die Steuer künftig weiter steigen. Konkrete Preisentwicklungen für die einzelnen Produkte sowie der genaue Zeitplan des Inkrafttretens wurden im Rahmen der Berichterstattung noch nicht im Detail beziffert. Die Maßnahme betrifft sowohl klassische Raucher als auch Konsumenten von Vapern. Ob die Steuererhöhung auch eine Lenkungswirkung zur Raucherentwöhnung entfalten soll, ist Teil der politischen Diskussion. Der Bund sichert sich durch den Schritt dauerhaft höhere Einnahmen aus dem Konsum von Tabakwaren.",
+    "r": "Die Erhöhung der Tabaksteuer betrifft Millionen Menschen in Deutschland direkt durch steigende Preise und generiert zusätzliche Einnahmen für den Bund.",
     "srcs": [
       {
         "name": "Tagesschau Regional Nordrhein-Westfalen",
@@ -2391,15 +2678,15 @@
       }
     ],
     "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-rauchen-und-vapen-wird-teurer-was-bringt-die-tabaksteuererhoehung-102.html",
-    "agree": "Der Bundestag hat eine Erhöhung der Tabaksteuer beschlossen, die zu höheren Preisen für Raucher führen wird.",
+    "agree": "Beide Quellen stimmen überein, dass der Bundestag eine Erhöhung der Tabaksteuer beschlossen hat und sich Raucher auf höhere Preise einstellen müssen.",
     "diff": [
       {
         "name": "Tagesschau Regional Nordrhein-Westfalen",
-        "note": "Erwähnt zusätzlich Vaper neben Rauchern."
+        "note": "Erwähnt explizit, dass die Neuerung auch Vaper betrifft."
       },
       {
         "name": "Tagesschau Inland",
-        "note": "Erwähnt, dass Millionen Menschen in Deutschland rauchen und die Steuer dem Bund Milliardeneinnahmen beschert."
+        "note": "Merkt an, dass Millionen Menschen in Deutschland rauchen und die Tabaksteuer dem Bund bereits Milliardeneinnahmen beschert."
       }
     ],
     "chg": "",
@@ -15595,289 +15882,6 @@
       {
         "name": "WELT",
         "note": "Nennt konkret 12 Todesopfer, darunter ausländische Staatsangehörige, und die Einstellung des Flugbetriebs."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-4ba7951fd590eca6",
-    "c": "INT",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-11T04:29:56.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Sturm Isaias trifft US-Ostküste und sorgt für Tote und Stromausfälle",
-    "s": "Der Wirbelsturm Isaias ist als erster Hurrikan der Saison auf die US-Ostküste getroffen und hat schwere Verwüstungen angerichtet. Dabei kamen nach ersten Meldungen mehrere Menschen ums Leben. Zudem kam es zu massiven Stromausfällen in Hunderttausenden Haushalten. Die Lage bleibt gefährlich, wobei sich das System inzwischen abgeschwächt hat.",
-    "m": "Der Sturm Isaias traf als erster Hurrikan der Saison auf die US-Küste und brachte heftige Regenfälle sowie zerstörerische Winde mit sich. Infolge des Unwetters gab es erste Todesopfer an der Ostküste zu beklagen. Hunderttausende Haushalte waren zeitweise ohne Strom, da Leitungen beschädigt wurden. Meteorologen und Behörden wiesen darauf hin, dass weiterhin Lebensgefahr besteht. Inzwischen hat sich der Sturm jedoch deutlich abgeschwächt. Die genaue Schadensbilanz und die Zahl der betroffenen Regionen werden derzeit noch ermittelt. Rettungskräfte und Versorger arbeiten an der Wiederherstellung der Infrastruktur. Offen ist, wie lange die Reparaturarbeiten dauern werden.",
-    "r": "Der Sturm zeigt die zerstörerische Kraft früher tropischer Wirbelstürme an der US-Küste. Die Folgen für die Stromversorgung und die Gefahrenlage erfordern behördliche Schutzmaßnahmen.",
-    "srcs": [
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/politik/ausland/article6acb0df561b3d4c01d3e2bd8/usa-vier-tote-und-hunderttausende-ohne-strom-durch-sturm-isaias.html",
-        "date": "2026-10-11T04:29:56.000Z"
-      },
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/amerika/usa-hurrikan-isaias-tote-100.html",
-        "date": "2026-10-10T20:44:04.000Z"
-      }
-    ],
-    "url": "https://www.welt.de/politik/ausland/article6acb0df561b3d4c01d3e2bd8/usa-vier-tote-und-hunderttausende-ohne-strom-durch-sturm-isaias.html",
-    "agree": "Die Quellen stimmen überein, dass der Sturm Isaias auf die US-Küste getroffen ist, dabei mehrere Todesopfer gefordert hat und Hunderttausende Haushalte vom Stromnetz abgeschnitten wurden.",
-    "diff": [
-      {
-        "name": "WELT",
-        "note": "Berichtet konkret von vier Toten."
-      },
-      {
-        "name": "Tagesschau",
-        "note": "Erwähnt, dass Isaias der erste Hurrikan der Saison ist, und teilt mit, dass sich der Sturm inzwischen deutlich abgeschwächt hat."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-78ebf94ce6dc80f5",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-11T04:16:29.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Trump attackiert Selenskyj und fordert Führungswechsel in der Ukraine",
-    "s": "US-Präsident Trump hat den ukrainischen Präsidenten Wolodymyr Selenskyj scharf attackiert. Er forderte zudem einen Führungswechsel in der Ukraine. Laut Trump sei mit einem anderen Präsidenten ein Friedensdeal möglich. Zudem verlangte er ein Ende der ukrainischen Angriffe auf russische Ölanlagen.",
-    "m": "Der US-Präsident hat sich im Kontext des Ukrainekriegs mit deutlichen Forderungen zu Wort gemeldet und den ukrainischen Präsidenten Wolodymyr Selenskyj attackiert. Konkret verlangt Trump, dass die Angriffe auf russische Ölanlagen sofort eingestellt werden. Darüber hinaus brachte er ins Gespräch, dass es für einen dauerhaften Frieden in der Region einen Führungswechsel an der Spitze der Ukraine brauche. Mit einem anderen Präsidenten anstelle von Selenskyj könne ein entsprechender Deal erzielt werden. Die Aussagen werfen neue Fragen zur künftigen Haltung der US-Regierung unter Trump gegenüber Kiew auf. Bislang gibt es keine offiziellen Reaktionen der ukrainischen Führung auf diese Forderungen. Die Berichterstattung beleuchtet die zunehmenden diplomatischen Spannungen zwischen den Beteiligten. Weitere Details zu möglichen diplomatischen Initiativen oder Reaktionen internationaler Partner wurden in den Quellen nicht genannt.",
-    "r": "Die Aussagen des US-Präsidenten zur ukrainischen Staatsführung und zu militärischen Zielen könnten massiven Einfluss auf den Verlauf des Krieges und die internationale Unterstützung für die Ukraine haben. Sie verdeutlichen die divergierenden Standpunkte zwischen Kiew und Teilen der US-Politik bezüglich der Kriegsführung.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVTZXeVc2cEVOV1o5V1hmZFA0TUs4YzEzYWlYYVVtMHQ4TlRCaEtDdzNuVjdaUm4tVDJvQ3E1bVNKanZvdUxSV0NNTTdLbkR2NVZFSTYxYjlLa3VQT2JiSEtZSlFHY3pMcGNTeEVnX0FKRVNCVC12dU12Qkl4d3V4dWdPYlBrcmdkUnZB?oc=5",
-        "date": "2026-10-11T04:16:29.000Z"
-      },
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/politik/ausland/2026-10/donald-trump-ukraine-russland-selenskyj",
-        "date": "2026-10-11T04:16:29.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVTZXeVc2cEVOV1o5V1hmZFA0TUs4YzEzYWlYYVVtMHQ4TlRCaEtDdzNuVjdaUm4tVDJvQ3E1bVNKanZvdUxSV0NNTTdLbkR2NVZFSTYxYjlLa3VQT2JiSEtZSlFHY3pMcGNTeEVnX0FKRVNCVC12dU12Qkl4d3V4dWdPYlBrcmdkUnZB?oc=5",
-    "agree": "Die Quellen stimmen überein, dass US-Präsident Trump den ukrainischen Präsidenten Selenskyj attackiert und einen Führungswechsel in der Ukraine gefordert hat.",
-    "diff": [
-      {
-        "name": "ZEIT ONLINE",
-        "note": "Berichtet konkret, dass Trump ein Ende der Angriffe auf russische Ölanlagen fordert."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-d35210924d65692b",
-    "c": "INT",
-    "o": "UK",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-11T03:57:22.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Zwölf Tote und über 300 Verletzte bei Angriff auf Flughafen in Riad",
-    "s": "Bei einem Angriff auf den Flughafen in der saudi-arabischen Hauptstadt Riad sind nach offiziellen Angaben mindestens zwölf Menschen getötet und über 300 weitere verletzt worden. Saudi-arabische und US-amerikanische offizielle Stellen machen jemenitische Houthi-Rebellen für den Anschlag verantwortlich. Die Gruppierung hat sich zu diesem jüngsten Angriff bisher noch nicht geäußert.",
-    "m": "Der Angriff auf den Flughafen in Riad hat zu einer schweren Eskalation geführt, bei der zwölf Menschen ihr Leben verloren und mehr als 300 Personen Verletzungen erlitten. Saudi-Arabien hat diese Opferzahlen offiziell bestätigt und betont, dass Houthi-Kämpfer hinter dem Schlag stecken. Auch US-Vertreter teilen diese Einschätzung und schreiben den Angriff den Rebellen aus dem Jemen zu. Bislang gibt es seitens der Houthi-Bewegung keine offizielle Stellungnahme oder einen Kommentar zu dem konkreten Vorfall. Die Sicherheitslage rund um die kritische Infrastruktur in der Region ist stark angespannt. Es bleibt abzuwarten, welche Konsequenzen dieser Vorfall für den anhaltenden Konflikt haben wird und ob weitere Sicherheitsmaßnahmen ergriffen werden.",
-    "r": "Der Angriff auf einen internationalen Flughafen mit zwölf Todesopfern und hunderten Verletzten verdeutlicht die anhaltende Bedrohung durch grenzüberschreitende Konflikte in der Region. Die Schuldzuweisungen zwischen Staaten und bewaffneten Gruppierungen belasten die ohnehin fragile sicherheitspolitische Lage zusätzlich.",
-    "srcs": [
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-11T03:57:22.000Z"
-      },
-      {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss",
-        "date": "2026-10-11T01:02:07.000Z"
-      }
-    ],
-    "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-    "agree": "Die Quellen stimmen überein, dass bei einem Angriff auf den Flughafen in Riad zwölf Menschen getötet und über 300 verletzt wurden, und dass die Verantwortung den Houthi zugeschrieben wird.",
-    "diff": [
-      {
-        "name": "BBC World",
-        "note": "Erwähnt zusätzlich, dass die Houthi-Rebellen sich zu dem jüngsten Angriff noch nicht geäußert haben."
-      },
-      {
-        "name": "Al Jazeera",
-        "note": "Erwähnt, dass Saudi-Arabien die Opferzahlen offiziell bestätigt hat und spricht von Houthi-Kämpfern."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-095b7814976c01ad",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-11T02:46:35.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "US-Justizministerium ermittelt gegen Fernsehsender wegen Kartellverdachts",
-    "s": "Das US-Justizministerium hat Ermittlungen gegen mehrere große US-Fernsehsender aufgenommen. Im Fokus steht ein gemeinsamer Beschluss der Sender, die Berichterstattung über den Präsidentschaftskandidaten Donald Trump vorübergehend einzustellen. Geprüft wird ein möglicher Verstoß gegen das US-Kartellrecht.",
-    "m": "Auslöser für die staatlichen Untersuchungen ist die kartellrechtliche Prüfung eines abgestimmten Vorgehens in der US-Medienbranche. Mehrere bedeutende TV-Sender hatten demnach die Entscheidung getroffen, ihre Berichterstattung über Donald Trump für einen kurzen Zeitraum zu pausieren. Das US-Justizministerium untersucht nun, ob diese Absprache unzulässige wettbewerbsbeschränkende Praktiken darstellt. Bislang stehen offizielle Ergebnisse der Ermittlungen sowie genaue Reaktionen der betroffenen Sender noch aus. Der Fall wirft grundsätzliche Fragen zur Koordination von Medienunternehmen in politischen Kontexten auf.",
-    "r": "Die Ermittlungen des US-Justizministeriums gegen große Fernsehsender wegen eines möglichen Kartellrechtsverstosses berühren Fragen der Medienfreiheit und des freien Wettbewerbs in den USA.",
-    "srcs": [
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/politik/ausland/article6acaf3ad5528343575dffb32/nach-trump-boykott-us-justizministerium-ermittelt-gegen-tv-sender-wegen-kartellverdachts.html",
-        "date": "2026-10-11T02:46:35.000Z"
-      },
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQy1zMHJuWnM1Qmo3REtjaXoza3NtMEhjekJJRVh2ZDdLWk1MT2hUUllaR3dlVXFVNFVuTmhwSXNNa2ZsZzB3M1FBdXlvRGtEajMtNU1Xb2NyRm9Id3JrMVZaZ3Z3SDRuUnhURHBuMklLeFF6bndQdm9FREl3MEZaREF0LTRXUFJfTmdUc3hfV1pkM0lNVVB2eEEtNi1jcU9Ca0lhSTZhZTU3TGg0?oc=5",
-        "date": "2026-10-11T00:49:38.000Z"
-      }
-    ],
-    "url": "https://www.welt.de/politik/ausland/article6acaf3ad5528343575dffb32/nach-trump-boykott-us-justizministerium-ermittelt-gegen-tv-sender-wegen-kartellverdachts.html",
-    "agree": "Die Quellen stimmen überein, dass das US-Justizministerium Ermittlungen wegen Kartellverdachts gegen TV-Sender eingeleitet hat.",
-    "diff": [
-      {
-        "name": "WELT",
-        "note": "Berichtet spezifisch über den gemeinsamen Beschluss der Sender, die Berichterstattung gegen Trump kurzzeitig einzustellen."
-      },
-      {
-        "name": "Google News DE",
-        "note": "Verweist zusätzlich auf die Berichterstattung der ZEIT und weitere Schlagzeilen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-626c7cf8fc5b0541",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-11T02:29:00.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Bericht: US-Justizministerium ermittelt gegen Fernsehsender",
-    "s": "Das US-Justizministerium ermittelt offenbar gegen TV-Sender. Dies geht aus Medienberichten hervor. Der Vorfall ereignet sich vor dem Hintergrund eines anhaltenden Medienkampfes in Washington, bei dem das Weiße Haus zuvor bereits mehrere TV-sender ausgeschlossen hatte.",
-    "m": "Laut Medienberichten hat das US-Justizministerium Ermittlungen gegen TV-Sender aufgenommen. Diese Entwicklung verschärft den ohnehin schon angespannten Medienkampf in Washington weiter. Zuvor war es bereits zu Spannungen gekommen, nachdem das Weiße Haus mehrere Fernsehsender von Veranstaltungen ausgeschlossen hatte. Genauere Details zu den Gründen der Ermittlungen oder den betroffenen Sendern wurden in den Berichten zunächst nicht genannt. Der Fall wirft Fragen zur Pressefreiheit und dem Verhältnis zwischen der US-Regierung und Medienvertretern auf.",
-    "r": "Die Ermittlungen des US-Justizministeriums gegen Fernsehsender verdeutlichen die anhaltenden Spannungen zwischen der US-Regierung und Medienvertretern. Solche Konflikte sind von Bedeutung für die Medienfreiheit und den politischen Diskurs in den Vereinigten Staaten.",
-    "srcs": [
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/politik/ausland/cnn-klage-kartell-trump-usa-100.html",
-        "date": "2026-10-11T02:29:00.000Z"
-      },
-      {
-        "name": "t-online Nachrichten",
-        "url": "https://www.t-online.de/nachrichten/ausland/usa/id_101469766/usa-news-us-justizministerium-ermittelt-offenbar-gegen-tv-sender.html",
-        "date": "2026-10-11T01:55:26.000Z"
-      }
-    ],
-    "url": "https://www.zdfheute.de/politik/ausland/cnn-klage-kartell-trump-usa-100.html",
-    "agree": "Beide Quellen berichten übereinstimmend, dass das US-Justizministerium offenbar gegen Fernsehsender ermittelt.",
-    "diff": [
-      {
-        "name": "ZDF heute",
-        "note": "Ordnet die Ermittlungen in den Medienkampf in Washington ein und erwähnt den vorherigen Ausschluss mehrerer TV-Sender durch das Weiße Haus."
-      },
-      {
-        "name": "t-online Nachrichten",
-        "note": "Erwähnt kurz am Rande, dass der Hurrikan 'Isaias' weitere Todesopfer gefordert hat."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-c3775fc45d40267d",
-    "c": "INT",
-    "o": "INT",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-11T00:21:52.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Zwölf Tote bei Angriff auf Flughafen in Riad",
-    "s": "Bei einem Angriff auf den King Khalid International Airport in Riad sind nach Berichten zwölf Menschen getötet worden. Es handelt sich um den dritten Angriff auf den saudi-arabischen Flughafen innerhalb einer Woche. Das Videomaterial zeigt deutliche Schäden im Inneren des Gebäudes.",
-    "m": "Der King Khalid International Airport in Riad wurde Ziel eines Angriffs, bei dem zwölf Todesopfer zu beklagen sind. Dies ist bereits der dritte Angriff auf den Flughafen innerhalb derselben Woche. Auf veröffentlichtem Videomaterial sind sichtbare Schäden im Inneren des Flughafens zu erkennen. Die genauen Hintergründe sowie die Urheberschaft der Attacken gehen aus den vorliegenden Berichten zunächst nicht hervor. Auch die Details zur Luftabwehr oder Sicherheitslage bleiben in den Meldungen offen. Die kontinuierlichen Angriffe erhöhen den Druck auf die Sicherheitskräfte in der saudi-arabischen Hauptstadt.",
-    "r": "Der Vorfall ist von großer sicherheitspolitischer Bedeutung, da ein internationaler Verkehrsflughafen in der Hauptstadt Saudi-Arabiens innerhalb kurzer Zeit mehrfach angegriffen wurde. Die hohe Zahl an Todesopfern verdeutlicht die Eskalation der Lage vor Ort.",
-    "srcs": [
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NNm8zRGJqcUNiY05QN1Y0MHN1QnJVV0IzNTl2OHY2T3NEdlVkanBTUWFlVEprZVZrLXNvbVFtMWxxeXRreFZmRDFRY0lUbWdtcENxXzBMMm9LNm8?oc=5",
-        "date": "2026-10-11T00:21:52.000Z"
-      },
-      {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/damage-seen-inside-saudi-airport-after-third-attack-this-week?traffic_source=rss",
-        "date": "2026-10-10T20:43:19.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NNm8zRGJqcUNiY05QN1Y0MHN1QnJVV0IzNTl2OHY2T3NEdlVkanBTUWFlVEprZVZrLXNvbVFtMWxxeXRreFZmRDFRY0lUbWdtcENxXzBMMm9LNm8?oc=5",
-    "agree": "Beide Quellen berichten über Angriffe auf den King Khalid International Airport in Riad, bei denen es sich um den dritten Vorfall dieser Art innerhalb einer Woche handelt.",
-    "diff": [
-      {
-        "name": "Google News World",
-        "note": "Berichtet konkret über zwölf getötete Menschen bei dem Angriff."
-      },
-      {
-        "name": "Al Jazeera",
-        "note": "Erwähnt keine Todesopfer, verweist jedoch auf Videoaufnahmen, die Schäden im Inneren des Flughafens zeigen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-1fe92b5f81de52e6",
-    "c": "INT",
-    "o": "INT",
-    "k": "wissenschaft",
-    "lang": "de",
-    "d": "2026-10-10T22:36:44.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "WHO gibt Entwarnung nach Tod von russischem Laborarbeiter",
-    "s": "Die Weltgesundheitsorganisation WHO hat bestätigt, dass nach dem Tod eines russischen Laborarbeiters bisher kein Pestfall registriert wurde. Es gibt keine Hinweise auf eine laufende Übertragung der Krankheit. Bislang bleibt eine bestätigte Diagnose ein zentraler Unsicherheitsfaktor.",
-    "m": "Nach dem Tod eines russischen Laborarbeiters hat sich die WHO zu der Situation geäußert. Es wurden bisher keine Pestfälle im Zusammenhang mit dem Vorfall registriert. Dennoch bleibt das Fehlen einer bestätigten Diagnose ein entscheidender Unsicherheitsfaktor. Laut Angaben der WHO gibt es derzeit jedoch keinerlei Anzeichen für eine anhaltende Übertragung. Weitere Details zu den genauen Umständen des Todes oder dem betroffenen Labor wurden in den Berichten nicht genannt.",
-    "r": "Die Erklärung der WHO ist relevant, da sie potenziellen Gesundheitsrisiken und Befürchtungen im Zusammenhang mit dem Tod eines Laborarbeiters in Russland entgegengewirkt. Die Bestätigung des Ausbleibens von Pestfällen sorgt für Klarheit über die aktuelle Sicherheitslage.",
-    "srcs": [
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN3JVYWtmNzEwM19UZkxKS0ZhdUxTSlMxVmR4N0VuNWhiT0ZhcEdvSTVhUnZUeDFKcUFkRl9WQlg1RDNDTUNpaUVEQ0pwT0J4YnI1MTk0MHl3SEdnMk1UanBWMGJXc0M3X2N6RDNvMkNhTVAwNnBFOGR4NnNpeFhsbHA2WFQzSmJybmhzWUR1MDVVd3RFa1ZKN3BuUkZlazQ2akpmRThURlQwbDZn0gGyAUFVX3lxTFAxZXdNMW9RUk05dW85VEdKdWdhMm5jVTFMUXk3NjBqSEFVZS1RVXloLVJyT01ZYjNkNU5fS1BJOUZhNHdudHhKMnpkR1pzdEdhTnpjaGlSN0pwdGZibWJHTzZvNHJ3TE5CeHhONjh3a1hIZmYySF9QbjBwekZQWERHRkxWY19UMzVvT2JFbm5LX3FsaC16RDBUeUdPajRwUmk3Sms3bDF0ejJTMENoY09Nb0E?oc=5",
-        "date": "2026-10-10T22:36:44.000Z"
-      },
-      {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/10/who-says-no-plague-case-registered-after-russian-lab-workers-death?traffic_source=rss",
-        "date": "2026-10-10T22:34:29.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN3JVYWtmNzEwM19UZkxKS0ZhdUxTSlMxVmR4N0VuNWhiT0ZhcEdvSTVhUnZUeDFKcUFkRl9WQlg1RDNDTUNpaUVEQ0pwT0J4YnI1MTk0MHl3SEdnMk1UanBWMGJXc0M3X2N6RDNvMkNhTVAwNnBFOGR4NnNpeFhsbHA2WFQzSmJybmhzWUR1MDVVd3RFa1ZKN3BuUkZlazQ2akpmRThURlQwbDZn0gGyAUFVX3lxTFAxZXdNMW9RUk05dW85VEdKdWdhMm5jVTFMUXk3NjBqSEFVZS1RVXloLVJyT01ZYjNkNU5fS1BJOUZhNHdudHhKMnpkR1pzdEdhTnpjaGlSN0pwdGZibWJHTzZvNHJ3TE5CeHhONjh3a1hIZmYySF9QbjBwekZQWERHRkxWY19UMzVvT2JFbm5LX3FsaC16RDBUeUdPajRwUmk3Sms3bDF0ejJTMENoY09Nb0E?oc=5",
-    "agree": "Beide Quellen stimmen überein, dass die WHO erklärt hat, es seien keine Pestfälle nach dem Tod des russischen Laborarbeiters registriert worden.",
-    "diff": [
-      {
-        "name": "Google News World",
-        "note": "Verweist auf Al Jazeera als primäre Nachrichtenquelle für die WHO-Meldung."
-      },
-      {
-        "name": "Al Jazeera",
-        "note": "Erwähnt zusätzlich, dass das Fehlen einer bestätigten Diagnose ein zentraler Unsicherheitsfaktor bleibt und keine Anzeichen für eine laufende Übertragung vorliegen."
       }
     ],
     "chg": "",
