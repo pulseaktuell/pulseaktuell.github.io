@@ -1,40 +1,959 @@
 [
   {
-    "id": "story-bcae364922994ff0",
-    "c": "INT",
-    "o": "PT",
+    "id": "story-74af0a36ea98738f",
+    "c": "DE",
+    "o": "DE",
     "k": "wirtschaft",
     "lang": "de",
-    "d": "2026-10-18T11:29:37.000Z",
+    "d": "2026-10-18T19:29:00.000Z",
     "p": 2,
     "st": "",
     "city": "",
-    "t": "Wohnungsnot-Proteste: Aktivisten halten an Camps in Lissabon und Porto fest",
-    "s": "Nach landesweiten Protesten für das Recht auf Wohnen und gegen hohe Lebenshaltungskosten haben Demonstrierende ihre provisorischen Camps in Lissabon und Porto über Nacht beibehalten. Die Kundgebungen fanden am Samstag statt und richteten sich gegen die drastischen Preissteigerungen. Nun setzen die Aktivisten ihre Aktionen vor Ort fort.",
-    "m": "Im Zuge der Demonstrationen vom Samstag für bezahlbaren Wohnraum und gegen die steigenden Lebenshaltungskosten haben Aktivisten beschlossen, ihre Zelte und Camps nicht abzubrechen. In der Hauptstadt Lissabon verbrachten Demonstrierende die Nacht auf dem Rossio-Platz. Gleichzeitig wurde auch in Porto auf der Praça D. João I kampiert. Die Proteste verdeutlichen die anhaltende Frustration über die schwierige Lage auf dem Immobilienmarkt und die allgemeine Teuerung in Portugal. Weitere Details zum Ablauf der Nacht und zu Reaktionen von Behörden oder Eigentümern gehen aus den Berichten nicht hervor. Auch offizielle Zahlen zu den beteiligten Personen oder konkrete politische Forderungen wurden in diesem Rahmen zunächst nicht beziffert. Die Situation bleibt Gegenstand laufender Berichterstattung.",
-    "r": "Die anhaltenden Proteste spiegeln die gesellschaftliche und wirtschaftliche Belastung durch steigende Lebenshaltungskosten und Wohnungsnot wider. Die Beibehaltung der Camps zeigt die Entschlossenheit der Demonstrierenden, das Thema auf der politischen Agenda zu halten.",
+    "t": "Bahn-Panne: ICE-Lokführer verpasst fahrplanmäßigen Halt in Fulda",
+    "s": "In einem ICE kam es zu einer Panne, da der Lokführer den geplanten Halt im hessischen Fulda vergaß. Reisende mussten erleben, wie der Zug ohne anzuhalten am Bahnsteig vorbeifuhr. Wie es zu diesem Fehler kommen konnte und welche Konsequenzen das für die Passagiere hatte, ist Gegenstand der Berichte.",
+    "m": "Ein ICE fuhr an seinem vorgesehenen Halt am Bahnhof in Fulda vorbei, weil der Lokomotivführer diesen schlicht verpasst hatte. Die betroffenen Reisenden konnten den Bahnhof nicht planmäßig verlassen oder erreichen. Weitere Details zu den genauen Umständen des Vorfalls, der Dauer der Weiterfahrt bis zum nächsten Halt oder Maßnahmen gegen den Lokführer nennen die vorliegenden Berichte nicht. Der Vorfall reiht sich in die Berichterstattung über Pannen im Bahnverkehr ein.",
+    "r": "Der Vorfall verdeutlicht menschliche oder technische Fehler im Schienenverkehr, die den Reiseplan von Fahrgästen massiv beeinträchtigen können. Solche Pannen werfen Fragen zur Zuverlässigkeit des Betriebs auf.",
+    "srcs": [
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/panorama/ice-rauscht-an-fulda-vorbei---lokfuehrer-vergisst-halt-38416278.html",
+        "date": "2026-10-18T19:29:00.000Z"
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-10/18/ice-lokfuehrer-verpasst-halt-und-rauscht-an-fulda-vorbei",
+        "date": "2026-10-18T18:10:40.000Z"
+      }
+    ],
+    "url": "https://www.stern.de/panorama/ice-rauscht-an-fulda-vorbei---lokfuehrer-vergisst-halt-38416278.html",
+    "agree": "Beide Quellen berichten übereinstimmend von einer Bahn-Panne, bei der ein ICE-Lokführer den Halt in Fulda verpasst hat.",
+    "diff": [
+      {
+        "name": "stern",
+        "note": "Erwähnt zusätzlich, dass Reisende ihren Augen nicht getraut haben und der Zug am Bahnsteig vorbeirauschte."
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Hält sich sehr kurz und benennt lediglich den Vorfall in der Überschrift."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-bba2157825956cc1",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-18T19:25:47.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "US-Präsident Trump spricht Wahlempfehlung für Netanjahu aus",
+    "s": "US-Präsident Donald Trump hat dem israelischen Ministerpräsidenten Benjamin Netanjahu seine Unterstützung für die anstehende Parlamentswahl ausgesprochen. Damit mischt sich der US-Präsident direkt in den israelischen Wahlkampf ein. Gleichzeitig fordern die USA Israel zu einem Vorgehen gegen Siedlergewalt auf. In vielen US-Städten protestieren zudem Menschen gegen den Präsidenten.",
+    "m": "Der US-Präsident hält trotz eines insgesamt angespannten Verhältnisses an seinem Bündnis mit dem israelischen Ministerpräsidenten fest. Im Rahmen seiner Wahlempfehlung äußerte Trump die Überzeugung, dass Netanjahu die Bürger niemals im Stich lassen werde. Parallel zu diesen politischen Entwicklungen kam die Forderung der USA an Israel auf, entschieden gegen gewalttätige Ausschreitungen von Siedlern vorzugehen. Währenddessen formiert sich in zahlreichen Städten der Vereinigten Staaten Protest gegen die Politik des Präsidenten. Die genauen Hintergründe und weiteren Entwicklungen werden in diversen Liveblogs und Newsformaten fortlaufend dokumentiert. Die Parlamentswahl in Israel rückt damit stärker in den Fokus der internationalen US-Außenpolitik.",
+    "r": "Die Intervention eines US-Präsidenten in einen israelischen Wahlkampf ist ein gewichtiger geopolitischer Schritt, der die bilateralen Beziehungen und die Nahostpolitik beeinflussen kann. Zudem verdeutlichen die gleichzeitigen Proteste in den USA innenpolitische Spannungen.",
+    "srcs": [
+      {
+        "name": "t-online Nachrichten",
+        "url": "https://www.t-online.de/nachrichten/ausland/usa/id_101478814/us-news-trump-spricht-wahlempfehlung-fuer-netanjahu-aus.html",
+        "date": "2026-10-18T19:25:47.000Z"
+      },
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/trump-spricht-wahlempfehlung-fuer-netanjahu-aus-100.html",
+        "date": "2026-10-18T19:05:37.000Z"
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-10/18/trump-spricht-wahlempfehlung-fuer-netanjahu-aus",
+        "date": "2026-10-18T18:53:35.000Z"
+      },
+      {
+        "name": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-trump-spricht-wahlempfehlung-fuer-netanjahu-aus-faz-200583539.html",
+        "date": "2026-10-18T16:24:45.000Z"
+      }
+    ],
+    "url": "https://www.t-online.de/nachrichten/ausland/usa/id_101478814/us-news-trump-spricht-wahlempfehlung-fuer-netanjahu-aus.html",
+    "agree": "Die Quellen sind sich einig, dass US-Präsident Trump eine Wahlempfehlung beziehungsweise Unterstützung für den israelischen Ministerpräsidenten Netanjahu ausgesprochen hat.",
+    "diff": [
+      {
+        "name": "t-online Nachrichten",
+        "note": "Berichtet zusätzlich über Proteste von Menschen in vielen US-Städten gegen den Präsidenten."
+      },
+      {
+        "name": "Frankfurter Allgemeine",
+        "note": "Erwähnt als einzige Quelle das Zitat von Trump, dass Netanjahu die Bürger niemals im Stich lassen werde, sowie die US-Forderung nach einem Vorgehen gegen Siedlergewalt."
+      }
+    ],
+    "chg": "",
+    "independent": 4
+  },
+  {
+    "id": "story-f38819b16dbf6008",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-18T18:51:42.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Macron verurteilt Gewalt nach erneuten Ausschreitungen in Paris",
+    "s": "In Frankreich ist es erneut zu landesweiten Ausschreitungen gekommen. Besonders in Paris kam es zu gewaltsamen Zwischenfällen. Staatspräsident Emmanuel Macron hat diese Vorfälle scharf verurteilt.",
+    "m": "Frankreichs Präsident Emmanuel Macron hat die anhaltenden landesweiten Ausschreitungen kritisiert und eine unnachgiebige Haltung angekündigt. Nach Angaben aus den Medienberichten betonte er, dass absolut nichts die ausgeübte Gewalt entschuldigen könne. Die Vorfälle ereigneten sich unter anderem in der Hauptstadt Paris, wo es wiederholt zu tumultartigen Szenen kam. Konkrete Zahlen zu Verletzten, Festnahmen oder Sachschäden nennen die vorliegenden Berichte bisher nicht. Auch über die genauen Auslöser der aktuellen Proteste oder die Identität der beteiligten Gruppen machen die Quellen keine Angaben.",
+    "r": "Die Ausschreitungen in Frankreich und die offizielle Reaktion der Staatsführung sind von gesellschaftlicher und politischer Relevanz. Sie werfen Fragen zur inneren Sicherheit und zum Umgang mit anhaltenden Protesten im Land auf.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZWc1alVZNGxFcWRmekd5YkdsN1AtLTFFRENBUnczMHU2cVNmM1ZPOU8yWmhkVHlfWEczbHVEUkJORVRIX2FWOC1wVEVabVQzekJlUmxEZ3FvVnZHdFRyVU95NkxVa1k4TmpCVV9MV3U0WlJqX3Q5S3lBaVdfUjRUOVJCZUUwVEJXMUNF?oc=5",
+        "date": "2026-10-18T18:51:42.000Z"
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/politik/ausland/2026-10/frankreich-gewalt-paris-emmanuel-macron",
+        "date": "2026-10-18T18:51:42.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZWc1alVZNGxFcWRmekd5YkdsN1AtLTFFRENBUnczMHU2cVNmM1ZPOU8yWmhkVHlfWEczbHVEUkJORVRIX2FWOC1wVEVabVQzekJlUmxEZ3FvVnZHdFRyVU95NkxVa1k4TmpCVV9MV3U0WlJqX3Q5S3lBaVdfUjRUOVJCZUUwVEJXMUNF?oc=5",
+    "agree": "Beide Quellen stimmen darin überein, dass der französische Präsident Emmanuel Macron die Gewalt bei den erneuten Ausschreitungen in Paris scharf verurteilt und eine harte Reaktion angekündigt hat.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Erwähnt DIE ZEIT als das Medium, das über die Ereignisse berichtet, und verweist auf einen Weblink."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-db57e45545609dec",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-18T18:43:39.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Hubertus Heil schließt Kandidatur für SPD-Vorsitz nicht aus",
+    "s": "Der frühere Bundesarbeitsminister Hubertus Heil hält sich eine Bewerbung für den SPD-Vorsitz offen. Er hat sich zu einer möglichen Kandidatur geäußert und betont, dass er viele Ermutigungen sowie Zuspruch aus der Partei erhält. Entscheidend für einen Schritt sei jedoch, welche inhaltliche Richtung die Partei künftig einschlagen wolle.",
+    "m": "Die Diskussion um die Führung der SPD bekommt neue Dynamik, nachdem sich der ehemalige Bundesarbeitsminister zu einer potenziellen Kandidatur äußerte. Heil verwies darauf, dass das alleinige Vorhandensein von parteiinternem Zuspruch und Ermutigungen für ihn nicht ausschlaggebend sei. Vielmehr knüpft er eine mögliche Bewerbung an die grundsätzliche programmatische Ausrichtung, die die Partei in Zukunft wählen wird. Bislang handelt es sich um eine offene Überlegung, bei der konkrete Schritte oder offizielle Nominierungen noch ausstehen. Die Partei befindet sich damit in einer Phase der strategischen Orientierung.",
+    "r": "Die Äußerungen eines prominenten Politikers über eine mögliche Parteivorsitzkandidatur sind für die politische Zukunft und Ausrichtung einer Regierungspartei von Bedeutung.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/politik/deutschland/2026-10/hubertus-heil-spd-parteivorsitz-lars-klingbeil",
+        "date": "2026-10-18T18:43:39.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/politik/hubertus-heil-erwaegt-kandidatur-fuer-spd-vorsitz-a-ce9a0408-c813-4535-b057-d5c71ff5cb5f#ref=rss",
+        "date": "2026-10-18T18:27:00.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/politik/bundespolitik-im-liveblog-hubertus-heil-schliesst-kandidatur-fuer-spd-vorsitz-nicht-aus-ATUFTG5YRJHEBGGSHEXTQJZCZU.html",
+        "date": "2026-10-18T18:04:14.000Z"
+      },
+      {
+        "name": "Süddeutsche Zeitung",
+        "url": "https://www.sueddeutsche.de/politik/bundesregierung-news-spd-vorsitz-hubertus-heil-li.3529564",
+        "date": "2026-10-18T17:44:27.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/politik/deutschland/2026-10/hubertus-heil-spd-parteivorsitz-lars-klingbeil",
+    "agree": "Die Quellen sind sich einig, dass der ehemalige Arbeitsminister Hubertus Heil eine Kandidatur für den SPD-Vorsitz nicht ausschließt und dafür viel Zuspruch aus der Partei erhält.",
+    "diff": [
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Erwähnt als zusätzliches Detail, dass für Heil entscheidend ist, welche Richtung die Partei einschlagen will."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Führt aus, dass der Zuspruch allein für Heil nicht entscheidend ist."
+      },
+      {
+        "name": "RND",
+        "note": "Die Meldung ist in einen Liveblog zur Bundespolitik eingebettet."
+      },
+      {
+        "name": "Süddeutsche Zeitung",
+        "note": "Erscheint ebenfalls in Form eines Newsblogs zur Bundespolitik."
+      }
+    ],
+    "chg": "",
+    "independent": 4
+  },
+  {
+    "id": "story-4a62c8ced455b177",
+    "c": "INT",
+    "o": "PT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-18T18:38:02.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "André Ventura schlägt Notfallpaket für portugiesische Wohnungsnot vor",
+    "s": "Der Parteivorsitzende André Ventura hat ein Gesetzgebungspaket als Notfallmaßnahme zur Bewältigung der Wohnungsbaukrise in Portugal vorgeschlagen. Damit soll auf die angespannte Lage auf dem Wohnungsmarkt reagiert werden. Details zu den konkreten Inhalten des Vorschlags wurden zunächst in den Meldungen nicht genannt.",
+    "m": "André Ventura hat ein legislatives Notfallpaket zur Bekämpfung der Krise im Wohnungssektor in Portugal eingebracht. Der Vorstoß zielt darauf ab, politische und wirtschaftliche Gegenmaßnahmen gegen die anhaltende Wohnungsnot zu ergreifen. Die Initiative wurde über Medien wie das Diário de Notícias aufgegriffen und thematisiert. Nähere Einzelheiten über das parlamentarische Verfahren oder die genaue Ausgestaltung der Maßnahmen gehen aus den vorliegenden Berichten nicht hervor. Auch Reaktionen anderer Parteien oder der Regierung auf diesen Vorschlag sind in den Quellen bisher nicht dokumentiert. Die Debatte um bezahlbaren Wohnraum bleibt damit ein zentrales politisches Thema in Portugal.",
+    "r": "Der Vorstoß betrifft direkt die politische und wirtschaftliche Lage in Portugal im Bereich der Wohnungsversorgung. Wohnungsnot und Krisenbewältigung sind für die soziale Stabilität und die Gesetzgebung des Landes von hoher Relevanz.",
+    "srcs": [
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/18h-andre-ventura-propoe-um-pacote-de-emergencia-para-resolver-a-crise-na-habitacao-em-portugal_a1_1772523",
+        "date": "2026-10-18T18:38:02.000Z"
+      },
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVExyUmNQdkZUeWtsZWlMZ1VxVUE4M2FWV0tTSE1ISmlrR2VJN0NTRlp6dGhaTWZ1OHJjZWpzMFFwUXNIT0xCbjludzZZazM1ekdOcjZPZkxpV3Q5OGVxd0JJLWUzeEJvR0dycUxoV2p4UnNmMWl6UF90VVl5cVlaaFdVbUZRTVRFZ3FnaXpySWJCcGlsWGhsbEE1aXZudHJKQWtGM0ZYVTlPcjdJN19nVA?oc=5",
+        "date": "2026-10-18T16:41:48.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/noticiario-antena1/18h-andre-ventura-propoe-um-pacote-de-emergencia-para-resolver-a-crise-na-habitacao-em-portugal_a1_1772523",
+    "agree": "Beide Quellen stimmen darin überein, dass André Ventura ein Notfallpaket zur Lösung der Wohnkrise in Portugal vorgeschlagen hat.",
+    "diff": [
+      {
+        "name": "RTP Notícias",
+        "note": "Bezeichnet den Vorschlag als Notfallpaket zur Lösung der Wohnungsbaukrise in Portugal."
+      },
+      {
+        "name": "Google News Portugal",
+        "note": "Verweist auf das Diário de Notícias und nennt es ein legislatives Notfallpaket."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-2413d74cba24aef5",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-18T18:31:44.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Holzkreuz erschlägt Priester während Live-Messe in Ecuador",
+    "s": "Bei einem Gottesdienst in einer Kirche in Ecuador ist es zu einem tragischen Unfall gekommen. Ein großes Holzkreuz löste sich hinter dem Altar und stürzte auf den Priester, während die Messe im Internet live übertragen wurde. Die Gläubigen und die Gemeinde stehen nach dem Vorfall unter Schock.",
+    "m": "Das Unglück ereignete sich während einer regulären Messe, die per Live-Übertragung im Netz verfolgt werden konnte. Der Priester leitete den Gottesdienst vor dem Altar, als sich das schwere Holzkreuz im Hintergrund plötzlich löste und ihm direkt auf den Kopf schlug. Die genauen Umstände, wie es zu der Halterung kam oder warum das Kreuz nachgab, sind in den Berichten nicht näher ausgeführt. Angesichts der dramatischen Bilder wandte sich die Kirche direkt an die Öffentlichkeit und bat die Gläubigen, das tödliche Unglück keinesfalls als göttliches Zeichen zu deuten. Die Gemeinde zeigt sich tief bestürzt über den plötzlichen und unerwarteten Unfall während der heiligen Handlung.",
+    "r": "Der Vorfall verdeutlicht die potenziellen Gefahren durch ungesicherte schwere Inventargegenstände in Kirchen, insbesondere wenn diese während Live-Übertragungen ein breites Publikum erreichen. Zudem zeigt der Appell der Kirche, wie sensibel mit solchen tragischen Zufällen im religiösen Kontext umgegangen wird.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMXBjVC1BT0k3YS1HOWl4U0E1Tk54R3puMjRSSFBlaXdaR0k5X0FhVU1ka1dIODhva3hzbUxwXzF6d0ZGOVQxajhYLVdMQmRuRnk0STBBSTA4bl9MdHNoV0w5ZE5VUEs5Qkt5SXlUandJaFI0andRUE1VZkd3ZTRGRjA2YWJ0LUgwa1I1MXZhdHZMUURSZTJraHJ3?oc=5",
+        "date": "2026-10-18T18:31:44.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/panorama/Holzkreuz-erschlaegt-Priester-mitten-in-der-Messe-id31431934.html",
+        "date": "2026-10-18T18:31:44.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMXBjVC1BT0k3YS1HOWl4U0E1Tk54R3puMjRSSFBlaXdaR0k5X0FhVU1ka1dIODhva3hzbUxwXzF6d0ZGOVQxajhYLVdMQmRuRnk0STBBSTA4bl9MdHNoV0w5ZE5VUEs5Qkt5SXlUandJaFI0andRUE1VZkd3ZTRGRjA2YWJ0LUgwa1I1MXZhdHZMUURSZTJraHJ3?oc=5",
+    "agree": "Die Quellen stimmen überein, dass ein Holzkreuz während einer Live-Messe auf einen Priester gefallen ist.",
+    "diff": [
+      {
+        "name": "ntv",
+        "note": "Berichtet detailliert über den Unfallort Ecuador, den genauen Ablauf vor dem Altar und die Bitte der Kirche, das Unglück nicht als göttliches Zeichen zu deuten."
+      },
+      {
+        "name": "Google News DE",
+        "note": "Verweist lediglich knapp auf die Schlagzeile und die Live-Übertragung im Netz."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-5e019a62c036e3db",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-18T18:28:23.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Hubertus Heil erwägt Kandidatur für SPD-Vorsitz im Januar",
+    "s": "Der frühere Arbeitsminister Hubertus Heil zieht eine Kandidatur für den SPD-Vorsitz in Betracht. Die Partei plant, auf einem Sonderparteitag im Januar eine neue Parteispitze zu wählen. Heil selbst hält sich einen Antritt offen und schließt diesen nicht aus.",
+    "m": "Im Rennen um den SPD-Vorsitz bringt sich der ehemalige Bundesarbeitsminister Hubertus Heil ins Gespräch. Er schließt eine eigene Kandidatur für die Parteispitze im Januar nicht aus. Die SPD will auf einem anstehenden Sonderparteitag im Januar eine neue Führung wählen. Heil macht seine endgültige Entscheidung unter anderem von der inhaltlichen Aufstellung der Sozialdemokraten in den kommenden Wochen abhängig. Bisher gibt es zu dieser möglichen Gegenkandidatur keine weiteren offiziellen Festlegungen.",
+    "r": "Die mögliche Kandidatur eines prominenten Ex-Ministers ist ein wichtiger Personalaspekt für die bevorstehende Neuaufstellung der SPD im Januar.",
+    "srcs": [
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/politik/Ex-Minister-Hubertus-Heil-erwaegt-Kandidatur-fuer-SPD-Vorsitz-id31431907.html",
+        "date": "2026-10-18T18:28:23.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/article6ad4fbf6bbcd3ed7e3024cb6/vor-dem-sonderparteitag-kann-es-nicht-ausschliessen-hubertus-heil-deutet-kandidatur-fuer-spd-vorsitz-im-januar-an.html",
+        "date": "2026-10-18T17:10:36.000Z"
+      }
+    ],
+    "url": "https://www.n-tv.de/politik/Ex-Minister-Hubertus-Heil-erwaegt-Kandidatur-fuer-SPD-Vorsitz-id31431907.html",
+    "agree": "Beide Quellen stimmen darin überein, dass der frühere Bundesarbeitsminister Hubertus Heil eine Kandidatur für den SPD-Vorsitz im Januar nicht ausschließt.",
+    "diff": [
+      {
+        "name": "ntv",
+        "note": "Nennt zusätzlich, dass Heil seine Entscheidung an die inhaltliche Aufstellung der Sozialdemokraten in den kommenden Wochen knüpft und erwähnt sein Heimat-Bundesland Niedersachsen."
+      },
+      {
+        "name": "WELT",
+        "note": "Formuliert die Äußerung als wörtliches Zitat und spricht von einer möglichen Gegenkandidatur im Rennen um den SPD-Vorsitz."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-682c30dcf61b4965",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-18T18:13:53.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Ecuador: Priester stirbt durch herabfallendes Kreuz bei Live-Messe",
+    "s": "In Ecuador ist ein katholischer Priester während einer Messe durch ein herabfallendes Holzkreuz tödlich verletzt worden. Das Unglück ereignete sich in einer Kirche und wurde per Live-Stream im Internet übertragen.",
+    "m": "Das tödliche Unglück ereignete sich mitten in einer religiösen Messe in Ecuador. Ein schweres Holzkreuz löste sich und traf den Priester so unglücklich, dass er starb. Besondere Aufmerksamkeit erlangt der Vorfall dadurch, dass der Gottesdienst zum Zeitpunkt des Unfalls live übertragen wurde und die Szenen folglich vor laufenden Kameras stattfanden. Weitere Details zum genauen Hergang, dem Zustand des Kreuzes oder Reaktionen der Gemeinde wurden in den Berichten bisher nicht genannt.",
+    "r": "Der Vorfall zeigt ein tragisches und ungewöhnliches Unglück während einer öffentlichen Kirchenveranstaltung. Die Live-Übertragung sorgt für eine breite visuelle Dokumentation des Ereignisses.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-10/18/ecuador-priester-bei-messe-von-kreuz-erschlagen",
+        "date": "2026-10-18T18:13:53.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/ecuador-katholischer-priester-bei-messe-von-kreuz-erschlagen-a-20df0e2b-d9b8-4f95-be3c-e8644185347b#ref=rss",
+        "date": "2026-10-18T17:25:00.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/news/2026-10/18/ecuador-priester-bei-messe-von-kreuz-erschlagen",
+    "agree": "Die Quellen stimmen überein, dass ein Priester in Ecuador während einer Messe von einem herabfallenden Kreuz erschlagen wurde.",
+    "diff": [
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Berichtet in der Überschrift, dass der Priester während einer Messe erschlagen wurde, liefert im Kurztitel jedoch keinen Fließtext."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Ergänzt, dass es sich um einen katholischen Priester handelte und das Unglück vor laufender Kamera bei einer Live-Übertragung geschah."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-30333e08ae0447b1",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-18T18:13:46.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Erneut schwere Ausschreitungen und Plünderungen in Paris",
+    "s": "Nach den gewaltsamen Exzessen des Vortages ist es in Paris erneut zu Krawallen gekommen. Am Platz der Republik wurden Geschäfte geplündert. Die Polizei ging mit Tränengas gegen die Ausschreitungen vor.",
+    "m": "Nach den gewaltsamen Exzessen des Vortages kommt es in der französischen Hauptstadt Paris erneut zu schweren Krawallen. Im Bereich des Platzes der Republik kam es zu Plünderungen von Geschäften, woraufhin die Einsatzkräfte der Polizei mit Tränengas reagierten. Die Situation im Land bleibt angespannt und die Behörden versuchen, die Kontrolle wiederherzustellen. Parallel dazu wurden auch aus anderen Landesteilen Vorfälle gemeldet. So verlor im ostfranzösischen Mulhouse eine Jugendliche infolge der gewaltsamen Auseinandersetzungen ein Auge. Die genauen Hintergründe und die Identität der Täter sind Gegenstand weiterer Ermittlungen. Die anhaltende Gewalt sorgt in ganz Frankreich für große Besorgnis und wirft Fragen zum Schutz der öffentlichen Sicherheit auf.",
+    "r": "Die erneuten Krawalle in Paris und Mulhouse unterstreichen die anhaltende Eskalation der Gewalt in Frankreich. Schwere Sachschäden wie Plünderungen und schwere Verletzungen wie der Verlust eines Auges verdeutlichen die Dimension der Ausschreitungen.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-10/18/frankreichs-protesttag-endet-in-gewalt-und-pluenderungen",
+        "date": "2026-10-18T18:13:46.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/frankreich-neue-ausschreitungen-in-paris-polizei-setzt-traenengas-ein-a-1aa579b7-f840-4e26-8dab-70ceb24addc7#ref=rss",
+        "date": "2026-10-18T16:43:00.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/news/2026-10/18/frankreichs-protesttag-endet-in-gewalt-und-pluenderungen",
+    "agree": "Beide Quellen stimmen darin überein, dass es nach den Krawallen des Vortages in Paris zu erneuter Gewalt kam und die Polizei Tränengas einsetzte.",
+    "diff": [
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Berichtet im Titel von den erneuten Krawallen in Paris und dem Einsatz von Tränengas."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Ergänzt Details zu den Plünderungen von Geschäften am Platz der Republik und nennt den Vorfall im ostfranzösischen Mulhouse, bei dem eine Jugendliche ein Auge verlor."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-bcae364922994ff0",
+    "c": "INT",
+    "o": "PT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-18T18:12:45.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Wohnungsnot-Proteste: Aktivisten halten Camps in Lissabon und Porto",
+    "s": "Nach den Demonstrationen für das Recht auf Wohnen und gegen die hohen Lebenshaltungskosten in Portugal haben Aktivisten ihre Protestlager in Lissabon und Porto über Nacht beibehalten. Die Kundgebungen fanden am Samstag statt. Aktuell informieren die Medien fortlaufend über die Entwicklung der Protestwelle in beiden Städten.",
+    "m": "Nach den landesweiten Protesten vom Samstag für besseren Zugang zu Wohnraum und gegen den Anstieg der Lebenshaltungskosten haben Demonstrierende ihre Zelte nicht abgebaut. In der Hauptstadt Lissabon verbrachten Aktivisten die Nacht auf dem Rossio-Platz. Gleichzeitig wurde auch in Porto auf der Praça D. João I campiert. Die Proteste richten sich gegen die schwierige Situation auf dem Wohnungsmarkt und die finanzielle Belastung der Bürger. Bislang wurden keine Zwischenfälle oder polizeilichen Räumungen gemeldet. Die Berichterstattung wird fortlaufend aktualisiert, um neue Entwicklungen der anhaltenden Protestwelle zu erfassen.",
+    "r": "Die anhaltenden Proteste und Lager verdeutlichen den anhaltenden sozialen Unmut über die Wohnungs- und Kostenkrise in Portugal. Sie zeigen die Entschlossenheit der Demonstrierenden, über den eigentlichen Protesttag hinaus Präsenz zu zeigen.",
     "srcs": [
       {
         "name": "RTP Notícias",
         "url": "https://www.rtp.pt/noticias/pais/manifestantes-pelo-direito-a-habitacao-mantem-acampamentos-em-lisboa-e-porto_e1772433",
-        "date": "2026-10-18T11:29:37.000Z"
+        "date": "2026-10-18T18:12:45.000Z"
       },
       {
         "name": "Google News Portugal",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPczF0V1R4cFgya2RFby1zbHhJXzlOMEZlV2tUYUd0eXFNMER4REZJTG1fRHlVbUplOS02ajZpcHltV25PcUNqRGxlc0w1djVYVW5abmxXT3Q0VW9qcng2ZHJvNlZRMEZ6dEl0V3dpeHFIN3dnN2hlcUlObFplaU1UNUcxTlNRQ3g4VXVjME85OE5ObEtRcXpRQ1NVQ1FvbVZXUURDanpfRlFwNEpLZ3V5Snh2WUJOcTRidmc?oc=5",
-        "date": "2026-10-18T10:29:37.000Z"
+        "date": "2026-10-18T17:12:45.000Z"
       }
     ],
     "url": "https://www.rtp.pt/noticias/pais/manifestantes-pelo-direito-a-habitacao-mantem-acampamentos-em-lisboa-e-porto_e1772433",
-    "agree": "Beide Quellen stimmen überein, dass Demonstrierende ihre Camp-Aktivitäten in Lissabon und Porto nach den Protesten fortführen.",
+    "agree": "Beide Quellen stimmen darin überein, dass Demonstrierende für das Recht auf Wohnen ihre Lager in Lissabon und Porto nach den Protesten beibehalten haben.",
     "diff": [
       {
+        "name": "Google News Portugal",
+        "note": "Die Quelle verweist lediglich per Link und Überschrift auf den Artikel von RTP und liefert keinen eigenständigen Text."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-c5b2d05a5b85a9e3",
+    "c": "DE",
+    "o": "DE",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-18T18:05:40.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Sportvorstand Markus Krösche verlässt Eintracht Frankfurt überraschend",
+    "s": "Der Sportvorstand des Fußballbundesligisten Eintracht Frankfurt, Markus Krösche, ist überraschend zurückgetreten und hat um seine Freistellung gebeten. Klubvorstand Axel Hellmann übernimmt den Posten vorerst zusätzlich. Die Zusammenarbeit wurde mit sofortiger Wirkung beendet.",
+    "m": "Markus Krösche hat Eintracht Frankfurt nach erfolgreichen Jahren verlassen. Um den 46-Jährigen war es zuletzt unruhig geworden, und es hatte bereits länger gemurrt. Dennoch kommt die Trennung von dem Sportvorstand nun einem Paukenschlag gleich. Während seiner Amtszeit verkaufte er Spieler für Rekordgewinne. Zudem trug er maßgeblich dazu bei, dass der Verein im Jahr 2022 die Europa League gewinnen konnte. Klubvorstand Axel Hellmann übernimmt die Aufgaben von Krösche vorerst zusätzlich, während die Suche nach einer langfristigen Nachfolge im Verein beginnt.",
+    "r": "Der Abgang eines prägenden Sportvorstands ist für einen Bundesligisten von großer sportlicher und struktureller Bedeutung. Die Trennung erfolgt zu einem Zeitpunkt, an dem es im Umfeld des Vereins bereits unruhig war.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/sport/2026-10/markus-kroesche-eintracht-frankfurt-freistellung-axel-hellmann",
+        "date": "2026-10-18T18:05:40.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/sport/fussball/eintracht-frankfurt-trennung-von-sportchef-markus-kroesche-nach-erfolgsjahren-a-fc772741-2b68-47a7-8c07-df14df3bffca#ref=rss",
+        "date": "2026-10-18T17:10:00.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/sport/fussball/bundesliga/article6ad4f7b615f4f374d6f86461/sportvorstand-markus-kroesche-verlaesst-eintracht-frankfurt-sofort.html",
+        "date": "2026-10-18T16:51:42.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/sport/2026-10/markus-kroesche-eintracht-frankfurt-freistellung-axel-hellmann",
+    "agree": "Die Quellen sind sich einig, dass Markus Krösche als Sportvorstand von Eintracht Frankfurt zurückgetreten ist und Axel Hellmann den Posten vorerst übernimmt.",
+    "diff": [
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Berichtet, dass Krösche als Sportvorstand zurückgetreten ist."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Erwähnt die Rekordgewinne durch Spielerverkäufe, den Europa-League-Sieg 2022, Krosches Alter von 46 Jahren und dass es zuletzt unruhig um ihn war."
+      },
+      {
+        "name": "WELT",
+        "note": "Beschreibt den Rücktritt als überraschenden Paukenschlag, merkt an, dass es schon länger rumort hatte und die Zusammenarbeit mit sofortiger Wirkung beendet wurde."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
+    "id": "story-b7daa14129edd8f8",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-18T17:55:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Vier Tote und viele Verletzte bei Brand auf kanadischer Militärbasis",
+    "s": "Bei einem Großbrand auf dem Militärstützpunkt Wainwright in Kanada sind am Samstag mindestens vier Menschen ums Leben gekommen. Dutzende weitere Personen wurden bei dem Feuer verletzt, das sich rasend schnell ausbreitete. Premierminister Carney bezeichnete das Unglück als eine der schlimmsten Tragödien für die Streitkräfte in Friedenszeiten. Über die Hintergründe des Brandes ist bisher nichts bekannt.",
+    "m": "Das verheerende Feuer brach am Samstag auf dem kanadischen Militärstützpunkt Wainwright aus und führte zu einer schweren Bilanz mit vier Todesopfern und Dutzenden Verletzten. Premierminister Carney äußerte sich tief bestürzt und sprach von einer der schwersten Tragödien für die Armee in Friedenszeiten. Wie sich das Feuer so schnell ausbreiten konnte, ist derzeit noch völlig unklar. Auch offizielle Angaben zu den genauen Hintergründen und der Ursache des Großbrandes wurden von den Behörden bisher nicht mitgeteilt. Die Ermittlungen dauern an, während Rettungs- und Hilfskräfte im Einsatz sind, um die Situation vor Ort zu bewältigen und die Betroffenen zu versorgen.",
+    "r": "Das Ereignis ist von großer Relevanz, da es sich um eine der schwersten Friedenszeit-Tragödien für das kanadische Militär handelt und zahlreiche Menschen getötet sowie verletzt wurden.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQm9wUWZoR2xsM0pucUZPYnBQMXU0RDRlZmxqcVd2WWlZMk9hMWhnTWZYVXp2dzRudGNWSnpyNEFJeTVnVThsMjRGRXlKTUtvRG5tcUZwU3JjallWWkxxSW1zSm1abUM3cV96bGVxOS1BZ2ZBOWJKWHQ5SjF5VmsxaElScnp2UjAxSUp5YWh0aVFMOTQ?oc=5",
+        "date": "2026-10-18T17:55:00.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/panorama/vier-tote-durch-feuer-auf-militaerbasis-in-kanada-ZRAL65BFE5CB3CVTW26BJHZOPQ.html",
+        "date": "2026-10-18T17:47:16.000Z"
+      },
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/panorama/kanada-feuer-brand-militaerbasis-wainwright-tote-100.html",
+        "date": "2026-10-18T17:42:00.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQm9wUWZoR2xsM0pucUZPYnBQMXU0RDRlZmxqcVd2WWlZMk9hMWhnTWZYVXp2dzRudGNWSnpyNEFJeTVnVThsMjRGRXlKTUtvRG5tcUZwU3JjallWWkxxSW1zSm1abUM3cV96bGVxOS1BZ2ZBOWJKWHQ5SjF5VmsxaElScnp2UjAxSUp5YWh0aVFMOTQ?oc=5",
+    "agree": "Alle Quellen stimmen überein, dass bei einem Feuer auf einer Militärbasis in Kanada vier Menschen starben und viele verletzt wurden.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Verlinkt auf einen Bericht von tagesschau.de mit der Überschrift über vier Tote und viele Verletzte."
+      },
+      {
+        "name": "RND",
+        "note": "Nennt den Namen des Stützpunkts (Wainwright) und zitiert Premierminister Carney, der von einer der schlimmsten Tragödien in Friedenszeiten sprach; erwähnt zudem, dass sich das Feuer am Samstag rasend schnell ausbreitete und Dutzende schwer verletzt wurden."
+      },
+      {
+        "name": "ZDF heute",
+        "note": "Berichtet, dass über mögliche Hintergründe bislang nichts bekannt ist."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
+    "id": "story-27b84e37b98f378e",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-18T17:54:35.000Z",
+    "p": 2,
+    "st": "BW",
+    "city": "",
+    "t": "Gebäudebrand in Reilingen: Hoher Sachschaden und Dachgeschoss in Flammen",
+    "s": "In der Nacht auf Sonntag kam es in Reilingen zu einem Gebäudebrand, der einen Großeinsatz der Feuerwehr auslöste. Die Flammen breiteten sich bis auf das Dachgeschoss des betroffenen Hauses aus. Bei dem Feuer entstand nach ersten Angaben hoher Sachschaden. Personen kamen in den vorliegenden Berichten bisher nicht zu Schaden.",
+    "m": "Der Brand in Reilingen ereignete sich während der Nachtstunden zum Sonntag. Die alarmierten Einsatzkräfte der Feuerwehr mussten vor Ort gegen die Flammen vorgehen, die sich bis in das Dachgeschoss des Gebäudes ausgebreitet hatten. Bisher gibt es keine offiziellen Angaben zur genauen Brandursache. Auch die Höhe des entstandenen Sachschadens lässt sich zum aktuellen Zeitpunkt noch nicht exakt beziffern, wird jedoch von den Quellen als hoch eingestuft. Ob Menschen verletzt wurden, geht aus den bisherigen Meldungen nicht hervor. Die Ermittlungen zur Klärung der Brandursache und zur Schadenshöhe dauern an.",
+    "r": "Nächtliche Gebäudebrände mit hohem Sachschaden stellen erhebliche Gefahren für Mensch und Eigentum dar und erfordern zeitintensive Feuerwehreinsätze. Die genauen Umstände des Brandes in Reilingen müssen nun von den Behörden ermittelt werden.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell Baden-Württemberg",
+        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/brand-gebaeude-dachgeschoss-100.html",
+        "date": "2026-10-18T17:54:35.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Baden-Württemberg",
+        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-feuerwehr-im-einsatz-wegen-gebaeudebrand-feuer-dehnt-sich-auf-dachgeschoss-aus-100.html",
+        "date": "2026-10-18T06:17:00.000Z"
+      }
+    ],
+    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/brand-gebaeude-dachgeschoss-100.html",
+    "agree": "Beide Quellen stimmen überein, dass es in der Nacht zum Sonntag in Reilingen zu einem Gebäudebrand mit hohem Sachschaden kam, bei dem sich die Flammen bis ins Dachgeschoss ausbreiteten.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-b9176d73272014ca",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-18T17:52:08.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Peter Altmaier äußert große Sorge um die Verfassung der CDU",
+    "s": "Der ehemalige CDU-Kanzleramtschef Peter Altmaier hat sich in einem Interview besorgt über den Zustand seiner Partei gezeigt. Auf die Frage, ob er je in so großer Sorge um die CDU war, antwortete er mit einem klaren Nein. Zudem warnte er vor einem weiteren Vertrauensverlust der politischen Mitte.",
+    "m": "Peter Altmaier sieht die CDU in einer schweren Krise und warnt eindringlich vor einem fortgesetzten Vertrauensverlust der politischen Mitte. Als einen zentralen Grund für die Probleme der Partei und den Mangel an Orientierung bemängelt der langjährige Bundesminister und frühere Kanzleramtschef, dass vielen heutigen führenden Politikern entscheidende Regierungserfahrung fehlt. Diese Einschätzung macht deutlich, wie stark erfahrene Parteimitglieder die aktuelle Entwicklung und personelle Aufstellung der Christdemokraten kritisch begleiten. Die Äußerungen werfen ein Schlaglicht auf die innerparteiliche Debatte um Kurs und Führungskompetenz in der Opposition. Weitere konkrete Details zum zeitlichen Ablauf oder zu Reaktionen anderer Parteimitglieder nennen die vorliegenden Berichte nicht. Offen bleibt zudem, welche konkreten Schritte die CDU zur Bewältigung dieser Krise einleiten will.",
+    "r": "Die Aussagen eines prominenten ehemaligen Regierungsmitglieds zur Krise der CDU bieten Einblicke in die innerparteiliche Selbstreflexion und die Bewertung fehlender Regierungserfahrung in der heutigen Führungsebene. Dies verdeutlicht die anhaltenden Debatten über die strategische Ausrichtung der Partei in der Opposition.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNLVl6SnpqRjU5cUxHM1BoYWlsajE0NnBlb1k2d2ZjR291ekxWZTlUa1FVazMzUUNCZktDeFRtdDlFRGgtcU5zZ2I2V2cwX09Sbmt3WC0wYjl5RGhXb2dzak5zTncyR1RtSmI1UDBEcVJ4djdBOFBTbEMwN2JwRU9oWFoxV0hrQjZrYmRoQzNhbDNtX2VXVElGZ3RlM2I0VDd1T1FxeVlJVXZNb25peE92bGdaVmJ6VEgwa3E0MG9tbVhTY3lCdHdVZkFyMzVZby11Tms2YVkzQUNnbmlkRUh6NjdYQnREOElxTnd1eVVrenZ2Nno3NDIxOUhUakhIZ2R6S0VEVkRzeHZ5cVctcnhrMTNwRnZGekY1MlFn?oc=5",
+        "date": "2026-10-18T17:52:08.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/deutschland/article6ad4f1593b48a94d0848944a/union-in-der-krise-waren-sie-je-in-so-grosser-sorge-um-ihre-cdu-wenn-ich-ehrlich-sein-soll-nein-antwortet-altmaier.html",
+        "date": "2026-10-18T17:49:54.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNLVl6SnpqRjU5cUxHM1BoYWlsajE0NnBlb1k2d2ZjR291ekxWZTlUa1FVazMzUUNCZktDeFRtdDlFRGgtcU5zZ2I2V2cwX09Sbmt3WC0wYjl5RGhXb2dzak5zTncyR1RtSmI1UDBEcVJ4djdBOFBTbEMwN2JwRU9oWFoxV0hrQjZrYmRoQzNhbDNtX2VXVElGZ3RlM2I0VDd1T1FxeVlJVXZNb25peE92bGdaVmJ6VEgwa3E0MG9tbVhTY3lCdHdVZkFyMzVZby11Tms2YVkzQUNnbmlkRUh6NjdYQnREOElxTnd1eVVrenZ2Nno3NDIxOUhUakhIZ2R6S0VEVkRzeHZ5cVctcnhrMTNwRnZGekY1MlFn?oc=5",
+    "agree": "Die Quellen stimmen überein, dass Peter Altmaier sich in großer Sorge um die CDU befindet und dies in einem Interview entsprechend geäußert hat.",
+    "diff": [
+      {
+        "name": "WELT",
+        "note": "Berichtet ergänzend, dass Altmaier vor einem Vertrauensverlust der politischen Mitte warnt und bei vielen führenden Politikern Regierungserfahrung vermisst."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-6824df97f613a62e",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-18T17:20:12.000Z",
+    "p": 3,
+    "st": "BY",
+    "city": "",
+    "t": "Großbrand auf Militärbasis in Kanada fordert Tote und Verletzte",
+    "s": "Auf einem kanadischen Militärstützpunkt ist ein schwerer Großbrand ausgebrochen. Das Feuer hat mindestens vier Menschen das Leben gekostet und Dutzende Verletzte gefordert. Nahegelegene Kliniken sind durch den Andrang an Verletzten stark belastet. Die genaue Ursache für das Unglück ist bislang noch völlig unklar.",
+    "m": "Das schwere Unglück ereignete sich auf einem der meistgenutzten Militärstützpunkte Kanadas, der Basis Wainwright. Dort brach ein Feuer aus, das offenbar außer Kontrolle geriet und zu dem verheerenden Brand führte. Infolge des Vorfalls wurden mindestens vier Todesopfer gemeldet sowie eine zweistellige Zahl an Verletzten. Die medizinische Versorgung steht vor großen Herausforderungen, da die umliegenden Kliniken bereits an ihre Kapazitätsgrenzen geraten sind. Rettungs- und Hilfskräfte sind im Einsatz, um die Lage zu bewältigen und Betroffene zu versorgen. Bislang gibt es keine offiziellen Angaben zur Brandursache oder zu genauen Hergang des Zwischenfalls. Die Ermittlungen dazu dauern an, während die Belegschaft und die Behörden versuchen, die unmittelbaren Folgen des Brandes einzudämmen.",
+    "r": "Das Ereignis ist von Bedeutung, da ein Großbrand auf einem bedeutenden Militärstützpunkt zu Opfern unter den Menschen geführt und die medizinische Versorgung in der Region stark belastet hat.",
+    "srcs": [
+      {
+        "name": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/grossbrand-auf-militaerbasis-in-kanada-tote-und-verletzte,VYNwGG7",
+        "date": "2026-10-18T17:20:12.000Z"
+      },
+      {
+        "name": "t-online Nachrichten",
+        "url": "https://www.t-online.de/nachrichten/ausland/id_101486214/kanada-grossbrand-auf-militaerbasis-wainwright-tote-und-verletzte.html",
+        "date": "2026-10-18T17:02:41.000Z"
+      }
+    ],
+    "url": "https://www.br.de/nachrichten/deutschland-welt/grossbrand-auf-militaerbasis-in-kanada-tote-und-verletzte,VYNwGG7",
+    "agree": "Beide Quellen stimmen überein, dass es auf einer kanadischen Militärbasis zu einem Großbrand mit Toten und Verletzten gekommen ist.",
+    "diff": [
+      {
+        "name": "BR24 Bayern",
+        "note": "Berichtet konkret von mindestens vier Toten, dutzenden Verletzten und überlasteten Kliniken in der Umgebung."
+      },
+      {
+        "name": "t-online Nachrichten",
+        "note": "Nennt den Namen des Stützpunkts (Wainwright) und erwähnt, dass das Feuer außer Kontrolle zu sein schien."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-2422d347ba15aafe",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-18T16:51:00.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Gewalt und Krawalle bei Protesten in Frankreich und Italien",
+    "s": "In Frankreich und Italien ist es bei landesweiten Protesten zu schweren Ausschreitungen und Krawallen gekommen. Regierungsvertreter beider Länder verurteilten die Gewalt scharf und kündigten Reaktionen an. In Frankreich kam es zu brennenden Gebäuden und Plünderungen, während in Italien vor allem Mailand betroffen war. Die Demonstrationen führten in beiden Ländern zu massiven Spannungen.",
+    "m": "Die Proteste in Frankreich und Italien sind am Samstag massiv eskaliert und haben zu heftigen Ausschreitungen geführt. In Frankreich brannten Gebäude, Geschäfte wurden geplündert und es kam zu Straßenschlachten zwischen Demonstranten und Sicherheitskräften. Die französische Regierung reagierte darauf mit der Ankündigung einer rigorosen Strafverfolgung der Täter. Parallel dazu kam es auch in Italien zu schweren Krawallen, wobei besonders die norditalienische Metropole Mailand von den Ausschreitungen betroffen war. Die italienische Ministerpräsidentin Giorgia Meloni verurteilte die Gewalt öffentlich und stellte sich hinter die Sicherheitskräfte. Die Hintergründe und genauen Forderungen der Demonstranten bleiben in den Berichten teilweise offen, jedoch zeigen die Ereignisse eine besorgniserregende Dynamik der Gewalt bei öffentlichen Kundgebungen in beiden europäischen Nachbarländern.",
+    "r": "Die landesweiten Ausschreitungen in zwei großen europäischen Staaten verdeutlichen eine akute Eskalation sozialer oder politischer Spannungen und erfordern Reaktionen der jeweiligen Regierungen.",
+    "srcs": [
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/ausland/frankreich-proteste-ausschreitungen-gewalt-paris-100.html",
+        "date": "2026-10-18T16:51:00.000Z"
+      },
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/ausland/europa/italien-proteste-belgien-portugal-100.html",
+        "date": "2026-10-18T14:45:02.000Z"
+      }
+    ],
+    "url": "https://www.zdfheute.de/politik/ausland/frankreich-proteste-ausschreitungen-gewalt-paris-100.html",
+    "agree": "Beide Quellen berichten über gewaltsame Krawalle und Proteste in europäischen Ländern am Samstag, die von den jeweiligen Regierungschefs oder der Regierung verurteilt wurden.",
+    "diff": [
+      {
+        "name": "ZDF heute",
+        "note": "Fokussiert auf Frankreich und nennt konkrete Ausschreitungen wie brennende Gebäude, geplünderte Geschäfte und Straßenschlachten sowie die Ankündigung einer rigorosen Strafverfolgung durch die Regierung."
+      },
+      {
+        "name": "SWR Aktuell",
+        "note": "Berichtet über Proteste und Krawalle in Italien am Samstag, hebt besonders Mailand als Schwerpunkt hervor und erwähnt die Verurteilung der Gewalt durch Ministerpräsidentin Meloni."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-038e794e9db900f7",
+    "c": "INT",
+    "o": "UK",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-18T16:37:52.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Zelenskyj dankt Trump für wiederaufgenommene Geheimdienstkooperation",
+    "s": "Der ukrainische Präsident Wolodymyr Selenskyj hat der US-Regierung für die Wiederaufnahme des Geheimdatenaustauschs gedankt. Gleichzeitig erklärte er in einem Interview, die USA hätten zuvor den Starlink-Zugang gedrosselt, um eine politische Botschaft zu senden. Die Maßnahme erfolgte vor dem Hintergrund anhaltender russischer Angriffe auf die ukrainische Energieinfrastruktur.",
+    "m": "In einem Interview mit NBC äußerte sich Wolodymyr Selenskyj zu den jüngsten Spannungen und Entwicklungen im Verhältnis zu den USA. Demnach habe die US-Regierung den Zugang zum Satelliteninternet über Starlink absichtlich gedrosselt, damit US-Präsident Donald Trump in einem anhaltenden politischen Streit eine Botschaft übermitteln konnte. Mittlerweile habe Washington den Datenaustausch bezüglich bevorstehender russischer Ballistikraketenangriffe jedoch wieder freigegeben. Diese Angriffe treffen vor allem die ukrainische Energieinfrastruktur schwer, während gleichzeitig im Konflikt mit Russland weiterhin gegenseitige Angriffe auf die Energieversorgung stattfinden. Dabei wurden kürzlich zwei Menschen getötet und mindestens 17 weitere verletzt, während der Winter bevorsteht und die humanitäre sowie infrastrukturelle Belastung zunimmt.",
+    "r": "Die Meldung ist relevant, da sie diplomatische Spannungen zwischen der Ukraine und den USA sowie deren direkte Auswirkungen auf die ukrainische Verteidigungs- und Infrastrukturfähigkeit im Krieg gegen Russland beleuchtet.",
+    "srcs": [
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/18/killed-injured-russia-ukraine-strikes-power-infrastructure",
+        "date": "2026-10-18T16:37:52.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTmh5WmYyVmh4N096X21la2RhLUJvTV9qV3o2RlRIeHZtcFdwa0lLbFBjQ2dNSUJ2RFkzeHZ3MUxtdFlqcVRMdWFySFpNR1RvLWtHVFNrVFpSOThtUklfSkRrbTBka1E1anNCa214QjA1VzVFLXdZUHBGMVdMZ2xBMkw5czViOENTZUhBQzNzLXVLbnRyN0lvZ2gxQ3o2NTRQejFoMW1UNA?oc=5",
+        "date": "2026-10-18T14:31:00.000Z"
+      }
+    ],
+    "url": "https://www.theguardian.com/world/2026/oct/18/killed-injured-russia-ukraine-strikes-power-infrastructure",
+    "agree": "Beide Quellen stimmen überein, dass sich Wolodymyr Selenskyj bei Trump für die wiederaufgenommene Geheimdienstkooperation nach einer Starlink-Nachricht bedankt hat.",
+    "diff": [
+      {
+        "name": "Guardian World",
+        "note": "Berichtet detailliert über zwei getötete und 17 verletzte Personen, russische Angriffe auf die Energieinfrastruktur, den herannahenden Winter sowie das NBC-Interview mit Selenskyj und die Details zur Starlink-Drosselung."
+      },
+      {
+        "name": "Google News World",
+        "note": "Enthält lediglich eine kurze Schlagzeile ohne zusätzlichen Fließtext oder Details."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-7c04704ee23309f7",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-18T15:36:56.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Trump unterstützt Netanjahus Wiederwahl als israelischer Ministerpräsident",
+    "s": "US-Präsident Donald Trump hat sich öffentlich für die Wiederwahl des israelischen Ministerpräsidenten Benjamin Netanjahu ausgesprochen. Dies geht aus Medienberichten hervor, die sich auf Trumps Unterstützung beziehen. Die Wahlempfehlung stärkt Netanjahu politisch in einer Zeit anstehender Wahlen. Weitere Details zum genauen Zeitpunkt oder Ablauf der Wahlen wurden in den Berichten nicht genannt.",
+    "m": "US-Präsident Donald Trump hat den israelischen Ministerpräsidenten Benjamin Netanjahu öffentlich unterstützt und wirbt für dessen Wiederwahl. Diese offene Wahlempfehlung kommt nach Monaten, in denen es keine solche Unterstützung gab, und stärkt Netanjahus Position erheblich. Trump bezeichnete den israelischen Regierungschef in diesem Zusammenhang als großartigen und kämpferischen Ministerpräsidenten. Die Berichterstattung beleuchtet damit eine wichtige Intervention der USA in die israelische Innenpolitik kurz vor Wahlen. Ob sich diese Unterstützung konkret auf das Wahlergebnis auswirken wird, bleibt abzuwarten. Weitere internationale Reaktionen auf den Vorstoß des US-Präsidenten liegen bislang nicht vor.",
+    "r": "Die Intervention eines US-Präsidenten in Form einer direkten Wahlempfehlung für einen ausländischen Regierungschef ist ein bemerkenswerter Vorgang der internationalen Diplomatie. Sie beeinflusst die politische Dynamik im israelischen Wahlkampf unmittelbar.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPZXdVUTZtNHZpWVlkVWNsc0pNRTZPQUdPVXFLcXFNbU1IYjZCRWt3VEVueFA4a0YtNzBMdVpCOHVfbXl4OEJ0S2ViVVg0elQzMkJkQnNuTnE3REpiTVBLeVh0RTlfVm1RZEhYeFcxQlNpYXhDbzhmQjJid1luUkFOcHFjSHhaOWxGbnNaWU5xNFNTQ0xHeU9OUDFqTU51MUEyeDVGbTViQ1EzSHlyTVZ4NjRKSk9GblhuR3NwZjFheHZiempxYXVoZ3ZkazRJY3hHRU5QMlRwdGNqOFM5dXBCdzRpajc5c2FNc01wQzhFaUdfTlZDU09ZNHdzWXlzTDl4Ui1uSE1fMzFOdw?oc=5",
+        "date": "2026-10-18T15:36:56.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/article6ad4e34b51e5094f7a570e0e/vor-der-parlamentswahl-grossartiger-kaempferischer-ministerpraesident-trump-unterstuetzt-netanjahu-bei-wiederwahl.html",
+        "date": "2026-10-18T15:33:32.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPZXdVUTZtNHZpWVlkVWNsc0pNRTZPQUdPVXFLcXFNbU1IYjZCRWt3VEVueFA4a0YtNzBMdVpCOHVfbXl4OEJ0S2ViVVg0elQzMkJkQnNuTnE3REpiTVBLeVh0RTlfVm1RZEhYeFcxQlNpYXhDbzhmQjJid1luUkFOcHFjSHhaOWxGbnNaWU5xNFNTQ0xHeU9OUDFqTU51MUEyeDVGbTViQ1EzSHlyTVZ4NjRKSk9GblhuR3NwZjFheHZiempxYXVoZ3ZkazRJY3hHRU5QMlRwdGNqOFM5dXBCdzRpajc5c2FNc01wQzhFaUdfTlZDU09ZNHdzWXlzTDl4Ui1uSE1fMzFOdw?oc=5",
+    "agree": "Die Quellen stimmen überein, dass US-Präsident Donald Trump den israelischen Ministerpräsidenten Benjamin Netanjahu bei dessen Wiederwahl unterstützt.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Führt das Thema über eine Schlagzeile und einen verkürzten Link im RSS-Format auf."
+      },
+      {
+        "name": "WELT",
+        "note": "Liefert den redaktionellen Kontext, dass es sich um eine Wahlempfehlung handelt und diese Unterstützung nach Monaten ohne Wahlempfehlung erfolgt."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-93426d4b0d7514f2",
+    "c": "INT",
+    "o": "INT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-18T15:26:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Falklandinseln sehen sich vier Jahrzehnte nach dem Krieg neuen argentinischen Drohungen ausgesetzt",
+    "s": "Vierzig Jahre nach dem Falklandkrieg sehen sich die Bewohner der Inseln erneut mit einer feindlich gesinnten Politik aus Argentinien konfrontiert. Angesichts schlechter Umfragewerte nimmt der argentinische Präsident die Ölindustrie der Inseln ins Visier. Auch die wichtige Fischereiindustrie könnte ins Blickfeld der Angriffe geraten.",
+    "m": "Die rund 4.000 Einwohner der Falklandinseln blicken mit Sorge auf die aktuelle politische Lage, da die Regierung in Buenos Aires den Druck auf das britische Überseegebiet verstärkt. Auslöser für die wirtschaftlichen Angriffe ist offenbar eine innenpolitische Krise und ein Umfragetief des argentinischen Präsidenten. Besonders die lokale Ölindustrie steht im Fokus der wirtschaftlichen Störaktionen, und es gibt Befürchtungen, dass die lukrative Fischerei als Nächstes blockiert werden könnte. Vertreter der Inselversammlung beobachten diese Entwicklungen mit großer Aufmerksamkeit und verweisen auf die ständige Bedrohung ihrer wirtschaftlichen Souveränität. Trotz des offiziellen Frühlingswechsels herrscht in der Hauptstadt Stanley rauem Wetter entsprechend ein ungemütliches Klima mit stürmischer See. Die historischen Spannungen zwischen Argentinien und Großbritannien um das Archipel im Südatlantik flammen damit auf wirtschaftlicher Ebene wieder auf.",
+    "r": "Die neuen wirtschaftlichen Angriffe Argentiniens gefährden die Stabilität der Falklandinseln und lassen den historischen Konflikt im Südatlantik wieder aufleben. Die Entwicklung ist relevant für die geopolitische Lage und die Rohstoffversorgung in der Region.",
+    "srcs": [
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdjNTQkxUN01oTFNNNXN0YmxrODUyYmRKRjNPdS1vMEZYeG52cHM3Y18xTHpRSDlLdlVoVnNZaFA0WWRadWNJRUd6NUIwX1UtUEx6YUhPdWdwdVA1aDY2ZDIzWWkwRGpiQ0dRbExmeE5hb3QzbFp6czBZcWxSZzBqMDJpa1VDTlRSRjBVbzAtVDhtV3dFaFJtWXRmb3J6X0UxbnFBQmlpbWN2cThjSnJWNmZic2dFTk5PZllwQ0xNRHRNMDMwTW5XSE50b3lueER3Q0xhRzcxZVVfMFVyTUxWNjJ1RFZXX1hL?oc=5",
+        "date": "2026-10-18T15:26:00.000Z"
+      },
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/18/4000-people-minding-our-own-business-four-decades-on-falklands-again-face-a-hostile-argentina",
+        "date": "2026-10-18T04:00:49.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdjNTQkxUN01oTFNNNXN0YmxrODUyYmRKRjNPdS1vMEZYeG52cHM3Y18xTHpRSDlLdlVoVnNZaFA0WWRadWNJRUd6NUIwX1UtUEx6YUhPdWdwdVA1aDY2ZDIzWWkwRGpiQ0dRbExmeE5hb3QzbFp6czBZcWxSZzBqMDJpa1VDTlRSRjBVbzAtVDhtV3dFaFJtWXRmb3J6X0UxbnFBQmlpbWN2cThjSnJWNmZic2dFTk5PZllwQ0xNRHRNMDMwTW5XSE50b3lueER3Q0xhRzcxZVVfMFVyTUxWNjJ1RFZXX1hL?oc=5",
+    "agree": "Die Quellen stimmen überein, dass die Falklandinseln vier Jahrzehnte nach dem historischen Konflikt erneut unter wirtschaftlichem Druck durch Argentinien stehen.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Verweist lediglich auf den Artikel von The Guardian mit dem Zitat über 4.000 Menschen."
+      },
+      {
+        "name": "Guardian World",
+        "note": "Beschreibt detailliert die Sitzung der Legislativversammlung in Stanley, das Wetter und die konkreten Angriffe auf die Öl- und Fischereiindustrie."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-f2f0f1016cc788b8",
+    "c": "INT",
+    "o": "PT",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-18T15:25:01.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Provedora de Justiça fordert Auskunft von der PSP nach Polizeieinsatz in Porto",
+    "s": "Die portugiesische Provedora de Justiça hat bei der Polizei PSP dringende Informationen zu einem Polizeieinsatz gegen Teilnehmer einer Kundgebung für das Recht auf Wohnen in Porto angefordert. Anlass ist eine dort stattgefundene gewaltsame Intervention der Ordnungskräfte. Die Ombudsstelle reagiert damit auf die Vorkommnisse während der Demonstration. Weitere Details zu Verletzten oder konkreten Abläufen stehen im Raum.",
+    "m": "Die portugiesische Bürgerbeauftragte, die Provedora de Justiça, ist nach einem umstrittenen Polizeieinsatz gegen Demonstrierende für das Recht auf Wohnen in Porto aktiv geworden und verlangt von der Sicherheitsbehörde PSP umgehende Informationen. Konkret geht es um die Umstände der polizeilichen Gewaltanwendung, die sich gegen die Versammlung richtete. Der Einsatz hat in der Öffentlichkeit und bei Institutionen Fragen zur Verhältnismäßigkeit aufgeworfen. Die Untersuchung soll Licht in das Vorgehen der Beamten bringen. Die genauen Folgen, wie etwa die Anzahl von Verletzten oder Festnahmen, werden im Rahmen dieser behördlichen Aufarbeitung geprüft.",
+    "r": "Der Fall betrifft grundlegende Fragen des Versammlungsrechts und der Verhältnismäßigkeit polizeilichen Handelns. Eine Intervention der Ombudsstelle verleiht dem Vorfall institutionelles Gewicht und drükt auf behördliche Aufklärung.",
+    "srcs": [
+      {
         "name": "RTP Notícias",
-        "note": "nennt konkret die Plätze Rossio in Lissabon und Praça D. João I in Porto als Orte der Übernachtung und verweist auf eine laufende Aktualisierung."
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/15h-provedora-de-justica-pede-informacoes-urgentes-a-psp-sobre-a-carga-policial-contra-os-manifestantes-do-porto-pelo-direito-a-habitacao_a1_1772492",
+        "date": "2026-10-18T15:25:01.000Z"
       },
       {
         "name": "Google News Portugal",
-        "note": "bietet lediglich eine Schlagzeilen-Weiterverweisung auf den Bericht von RTP."
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZGRRRFpRZlk5Z3hkWGY3VS1ZUWNnaHA0dHQ0Ml9rWGJtdTFoQm9sX1JLZEVodWgyR1NPR3c3YktFY28xQzVSNFJKM2E3b01Kamd2NWN2NWphbFl3VHpMM1hWMm5YcHlVNkV2ckNYQ1VVUHo1VnJOVndDMGdZck1taHp3WGdkakN5dnJGbGV1NUd4VzFSdU13ZU9sZGd0Sk5yWHZKNkJHeHZXUmNlcjVmVExIWGdibHVGcXRHNEJ3alhGUUpNb3c40gG4AUFVX3lxTE1FV1VqRVFCdVV2NS1xTGo0T3hTZWZCeUFBaEd2bzN5UXJvUDFjVTRiLVJOQktnRVdsN25sdGlSTnJCYlo0WDFLUjRXN2xCdkpfaHlndVNCck5JM2FOZXRlbWlSQ3hYWU4tLVFZUEEzMmx3MnJUTkN3alJWVEEzOExzQ3hXb3hycVFmaU9XamlmaXZ1M3h1WGNCMTBRZkptWW1jRWt4NDBud2dXWjRiMDRPSVp1dGNjMmY?oc=5",
+        "date": "2026-10-18T13:59:00.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/noticiario-antena1/15h-provedora-de-justica-pede-informacoes-urgentes-a-psp-sobre-a-carga-policial-contra-os-manifestantes-do-porto-pelo-direito-a-habitacao_a1_1772492",
+    "agree": "Beide Quellen berichten darüber, dass die Provedora de Justiça von der PSP dringende Informationen zu einem Polizeieinsatz bei einer Wohnraum-Demonstration in Porto fordert.",
+    "diff": [
+      {
+        "name": "RTP Notícias",
+        "note": "Nennt explizit, dass es sich um eine Demonstration für das Recht auf Wohnen handelt und erwähnt die Uhrzeit 15h."
+      },
+      {
+        "name": "Google News Portugal",
+        "note": "Verlinkt bzw. zitiert den Jornal de Notícias als Medium und bricht den Text am Ende ab."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-c851447e56663dc7",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-18T14:57:11.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Grüne Jugend kritisiert schwarz-grüne Bündnisse scharf",
+    "s": "Die Grüne Jugend lehnt Koalitionen mit der Union entschieden ab und kritisiert dabei auch Kanzler Friedrich Merz. Grünen-Chef Franziska Banaszak warnt hingegen davor, sich mögliche Machtoptionen prinzipiell zu verbauen. Der interne Konflikt verdeutlicht unterschiedliche strategische Ausrichtungen innerhalb der Partei bezüglich möglicher Regierungsbündnisse mit der CDU.",
+    "m": "Die Jugendorganisation der Grünen hat sich vehement gegen Koalitionen und Bündnisse mit der Union ausgesprochen und dabei den Slogan ausgegeben, sich nicht an die CDU ranwanzen zu wollen. Im Rahmen dieser Positionierung wurde auch Unionskanzlerkandidat oder Kanzler Friedrich Merz scharf attackiert. Demgegenüber steht die Haltung von Grünen-Chef Franziska Banaszak, der davor warnt, sich diese politische Machtoption grundsätzlich zu verbauen. Der Streit offenbart eine inhaltliche und strategische Diskrepanz innerhalb der Grünen bezüglich künftiger Regierungsoptionen auf Bundes- oder Landesebene. Weitere Details zu konkreten Landesverbänden oder Zeitplänen für mögliche Koalitionsverhandlungen wurden in den Berichten nicht genannt. Die Auseinandersetzung findet vor dem Hintergrund aktueller politischer Mehrheitsverhältnisse und möglicher Zukunftsszenarien statt. Offen bleibt, wie die Partei diesen internen Richtungsstreit langfristig lösen wird.",
+    "r": "Die Debatte über schwarz-grüne Bündnisse zeigt tiefgreifende strategische Differenzen zwischen der Parteispitze und der Grünen Jugend auf. Dies betrifft unmittelbar die künftige Koalitionsfähigkeit und mögliche Regierungsoptionen der Grünen.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVGRaSHBaVXg5V3RFdVdKY3FScnhzRjN3QW9EWHh1TThIQ3JUR2thM080X0FjRzBDTWd5VWRpbnJwb3I4aWJEb1o5emhpQXJyR3ZSejlYR0RtTGZiUjFpOUZhdUtZRlN2MWdMTUJqNk1VcTJvQVNVY2toWFZTZ3BCZUhCUEhLQVI2clpGVjZpc0FWQjV5eTZSMlpOYW1zRmNHUWxpTGwtSEhDR3Y4bmVKb3lOdGc1OXJYNWFWYjM5SUh3eUlLcjVDbzFIV0dKelc5OUNIc3BseEF5ejdCTVNTRnVYY0JMQUFiRXlmTzY1cE9vMTFDR0JiUVU4OFkxZw?oc=5",
+        "date": "2026-10-18T14:57:11.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/deutschland/article6ad4c4b051e5094f7a570bee/bundeskongress-nicht-an-die-cdu-ranwanzen-gruene-jugend-kritisiert-schwarz-gruene-buendnisse.html",
+        "date": "2026-10-18T13:29:01.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVGRaSHBaVXg5V3RFdVdKY3FScnhzRjN3QW9EWHh1TThIQ3JUR2thM080X0FjRzBDTWd5VWRpbnJwb3I4aWJEb1o5emhpQXJyR3ZSejlYR0RtTGZiUjFpOUZhdUtZRlN2MWdMTUJqNk1VcTJvQVNVY2toWFZTZ3BCZUhCUEhLQVI2clpGVjZpc0FWQjV5eTZSMlpOYW1zRmNHUWxpTGwtSEhDR3Y4bmVKb3lOdGc1OXJYNWFWYjM5SUh3eUlLcjVDbzFIV0dKelc5OUNIc3BseEF5ejdCTVNTRnVYY0JMQUFiRXlmTzY1cE9vMTFDR0JiUVU4OFkxZw?oc=5",
+    "agree": "Die Quellen sind sich einig, dass die Grüne Jugend Bündnisse mit der CDU ablehnt und Grünen-Chef Banaszak davor warnt, sich diese Machtoption zu verbauen.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Bringt die gleiche Meldung wie WELT mit einer verkürzten Überschrift und einem RSS-Link."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-e4c9fc947afe852d",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-18T14:53:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "USA liefern der Ukraine laut Selenskyj wieder Abwehrdaten",
+    "s": "Die Vereinigten Staaten stellen der Ukraine nach einer vorherigen Unterbrechung wieder Geheimdienstinformationen zur Verfügung. Dies gab der ukrainische Präsident Wolodymyr Selenskyj bekannt. Die Daten sollen vor allem bei der Abwehr russischer Raketenangriffe helfen. Zugleich äußerte die ukrainische Führung Bedenken hinsichtlich des künftigen Kurses der USA gegenüber Moskau.",
+    "m": "Nach Angaben des ukrainischen Präsidenten Wolodymyr Selenskyj haben die USA die Weitergabe von Geheimdienstinformationen an die Ukraine nach einer Pause wieder aufgenommen. Diese Unterstützung ist von zentraler Bedeutung für die ukrainischen Streitkräfte, insbesondere bei der Detektion und Abwehr feindlicher Raketenangriffe. Trotz dieser Wiederaufnahme der Kooperation betonte Selenskyj seine Besorgnis über die allgemeine strategische Ausrichtung der US-Regierung im Umgang mit Russland. Konkrete Hintergründe zur genauen Dauer der Unterbrechung oder den Gründen für den Sinneswandel wurden in den vorliegenden Berichten nicht genannt.",
+    "r": "Die Wiederaufnahme von US-Geheimdiensthilfen für die Ukraine ist ein entscheidender Faktor für die militärische Verteidigungsfähigkeit des Landes gegen Luftangriffe. Gleichzeitig verdeutlichen die Bedenken Selenskyjs mögliche Spannungen oder Unsicherheiten im deutsch- oder international unterstützten Bündnis mit den USA.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUmFGY1ZaU29lWGVNUE1LRkU0eFZGNzA0WG0xZnpoeDVlRVg4S0FyNS1MMmxWeklHbU1FUElKSEhrcFlGYWh2N2gydUxUdnlMTGMzSWpIdlBRZ3Bva1dGRFJPcm9VMTNyY3A3dlBNMXRaVVE3d21XT3oxdENoak5QRTZEOGFFSGFOUlFueGV2RzVTTnNtaEloc0hjLUNmMzcxbE9fS3V4TzB0czdhaXl1aEt1WURISUNySjBWZ0Y4cFZoSm1NbGhjcFBVMEdQVU9RTXVMYVlGd3MyRnpVMDM1eDdfUjhjcFZlWVdreTRTaFd0UUE?oc=5",
+        "date": "2026-10-18T14:53:00.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/ukraine-usa-liefern-der-ukraine-laut-selenskyj-wieder-daten-zur-abwehr-von-raketenangriffen-a-d5de6de1-daba-4c30-99d9-2e21ffd87859#ref=rss",
+        "date": "2026-10-18T14:53:00.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUmFGY1ZaU29lWGVNUE1LRkU0eFZGNzA0WG0xZnpoeDVlRVg4S0FyNS1MMmxWeklHbU1FUElKSEhrcFlGYWh2N2gydUxUdnlMTGMzSWpIdlBRZ3Bva1dGRFJPcm9VMTNyY3A3dlBNMXRaVVE3d21XT3oxdENoak5QRTZEOGFFSGFOUlFueGV2RzVTTnNtaEloc0hjLUNmMzcxbE9fS3V4TzB0czdhaXl1aEt1WURISUNySjBWZ0Y4cFZoSm1NbGhjcFBVMEdQVU9RTXVMYVlGd3MyRnpVMDM1eDdfUjhjcFZlWVdreTRTaFd0UUE?oc=5",
+    "agree": "Die Quellen stimmen überein, dass die USA der Ukraine laut Angaben von Wolodymyr Selenskyj nach einer Unterbrechung wieder Geheimdienstdaten zur Raketenabwehr liefern.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Verweist lediglich auf den Artikel des Spiegels mit einer identischen Kurzmeldung."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-a6daf4e738ed8d5e",
+    "c": "INT",
+    "o": "PT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-18T11:59:22.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Drone löst Luftraum-Alarme im Báltikum und NATO-Einsatz aus",
+    "s": "Ein verdächtiger Drone hat im baltischen Raum Luftalarm ausgelöst und den Einsatz von NATO-Kampfjets zur Folge gehabt. Medienberichten zufolge soll der Vorfall im Zusammenhang mit der Ausweitung des Konflikts stehen. Genauere Details zum genauen Flugverlauf und Ursprung des Fluggeräts werden untersucht.",
+    "m": "Medienberichten zufolge hat ein Drone im Báltikum für Alarmbereitschaft gesorgt und den sofortigen Aufstieg von NATO-Kampfflugzeugen ausgelöst. Nach Angaben des litauischen öffentlich-rechtlichen Senders LRT soll das unbemannte Flugobjekt aus Richtung Polen in den litauischen Luftraum eingedrungen sein. Der Vorfall wirft Fragen zur Sicherheit des NATO-Luftraums an der Ostflanke auf und wird von Beobachtern im Kontext der anhaltenden kriegerischen Auseinandersetzungen als Besorgnis erregend bewertet. Offizielle Stellen analysieren die genaue Route und den Zweck des Flugs. Es gibt bislang keine Berichte über Schäden oder verletzte Personen.",
+    "r": "Der Vorfall zeigt mögliche Sicherheitsrisiken für den NATO-Luftraum an der Ostflanke auf. Der Einsatz von Kampfjets verdeutlicht die erhöhte Wachsamkeit der Bündnispartner in der Region.",
+    "srcs": [
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/mundo/guerra-esta-a-alargar-se-drone-gera-alertas-no-baltico-e-aciona-cacas-da-nato_n1772465",
+        "date": "2026-10-18T11:59:22.000Z"
+      },
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQXViSjlVYlhjQXY1T3hfaUc4ZHh0aGpkVjVkVjFQUnlzbTdvZmpSeEtTTGJ6T3Z5bWhiLXk1dnZNdFpIbzViSmhQTVNsbU0zZU9MQ0hnd2NRQ0JiT1ZjcnA4TmlLQ0Z1VFR4U2lDWTJfNkQ1cmd0M3hTOXp3dEw2aVkydGNQR0lRTWVGWGhaSjRPMFVTb2NYXzVFZU5uRnZzbjZpNWx6VEZYUHgtX2d3X2FaTjBDT1BUbTU1YQ?oc=5",
+        "date": "2026-10-18T11:30:13.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/mundo/guerra-esta-a-alargar-se-drone-gera-alertas-no-baltico-e-aciona-cacas-da-nato_n1772465",
+    "agree": "Beide Quellen stimmen überein, dass ein Drone im Báltikum Alarme auslöste und NATO-Kampfjets eingesetzt wurden.",
+    "diff": [
+      {
+        "name": "RTP Notícias",
+        "note": "Berichtet ergänzend, dass der Drone laut dem litauischen Sender LRT aus Polen in den litauischen Luftraum eingedrungen sein soll und zitiert das Zitat, dass sich die Kriegssituation ausweite."
+      },
+      {
+        "name": "Google News Portugal",
+        "note": "Enthält lediglich einen Verweis und den gleichen Titel wie die RTP-Meldung ohne eigenständige neue Fakten."
       }
     ],
     "chg": "",
@@ -353,38 +1272,6 @@
     "independent": 2
   },
   {
-    "id": "story-27b84e37b98f378e",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-18T09:22:26.000Z",
-    "p": 2,
-    "st": "BW",
-    "city": "",
-    "t": "Gebäudebrand verursacht hohen Sachschaden: Dachgeschoss stand in Flammen",
-    "s": "In Reilingen kam es in der Nacht zum Sonntag zu einem Gebäudebrand. Die Flammen breiteten sich bis auf das Dachgeschoss aus. Der Vorfall rief die Feuerwehr auf den Plan. Es entstand hoher Sachschaden.",
-    "m": "In der Nacht auf Sonntag ereignete sich in Reilingen ein Brand in einem Gebäude, der einen Großeinsatz der Feuerwehr auslöste. Das Feuer breitete sich schnell bis auf das Dachgeschoss aus und verursachte erheblichen materiellen Schaden. Über Verletzte oder genaue Schadenssummen ist derzeit noch nichts bekannt. Die Brandursache wird von den zuständigen Behörden ermittelt. Der Vorfall zeigt einmal mehr die Gefahren von nächtlichen Gebäudebränden. Weitere Details zur Schadenshöhe und zum genauen Ablauf des Einsatzes stehen noch aus.",
-    "r": "Der Brand ist von regionaler Relevanz, da er einen größeren Feuerwehreinsatz und erheblichen Sachschaden in Reilingen verursacht hat. Solche Ereignisse verdeutlichen die potenziellen Gefahren von Gebäudefeuern für die lokale Bevölkerung.",
-    "srcs": [
-      {
-        "name": "SWR Aktuell",
-        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/brand-gebaeude-dachgeschoss-100.html",
-        "date": "2026-10-18T09:22:26.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Baden-Württemberg",
-        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-feuerwehr-im-einsatz-wegen-gebaeudebrand-feuer-dehnt-sich-auf-dachgeschoss-aus-100.html",
-        "date": "2026-10-18T06:17:00.000Z"
-      }
-    ],
-    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/brand-gebaeude-dachgeschoss-100.html",
-    "agree": "Beide Quellen stimmen darin überein, dass es in der Nacht auf Sonntag in Reilingen zu einem Gebäudebrand mit hohem Sachschaden kam, bei dem sich die Flammen bis auf das Dachgeschoss ausbreiteten.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
     "id": "story-ddcecaee43f9b357",
     "c": "INT",
     "o": "DE",
@@ -461,6 +1348,43 @@
       {
         "name": "SWR Aktuell",
         "note": "Nennt die Vorsitzende der SPD-Frauen, Wegge, namentlich als Urheberin der Vorwürfe gegen den Koalitionspartner und erwähnt den Rücktritt von Bärbel Bas als Hintergrund."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-54047f22ca33069b",
+    "c": "INT",
+    "o": "PT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-18T07:49:39.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "US-Diplomatiechef Marco Rubio relativiert Sanktionsbefreiung für Russland",
+    "s": "US-Außenminister Marco Rubio hat die Entscheidung von Präsident Donald Trump verteidigt, Russland von neuen Sanktionen auszunehmen. Er bezeichnete diesen Schritt als eine zeitweilige Pause. Diese Pause soll dazu dienen, die wirtschaftlichen Auswirkungen solcher Maßnahmen genauer zu analysieren.",
+    "m": "Die Entscheidung der US-Regierung unter Donald Trump, Russland vorerst von bestimmten neuen Sanktionen zu verschonen, sorgt für internationale Beachtung. US-Chefdiplomat Marco Rubio äußerte sich nun zu diesem Schritt und spielte die Tragweite herunter. Laut seiner Darstellung handelt es sich lediglich um eine taktische Unterbrechung des Prozesses. Ziel dieser Phase sei es, die potenziellen wirtschaftlichen Konsequenzen der geplanten Maßnahmen gründlich zu prüfen. Konkrete Details zu den betroffenen Sektoren oder zur genauen Dauer dieser Überprüfung wurden in den Berichten zunächst nicht genannt. Die Maßnahme wirft Fragen zur künftigen US-Sanktionspolitik gegenüber Moskau auf. Beobachter achten nun darauf, ob und wann neue Beschränkungen in Kraft treten.",
+    "r": "Die Haltung der US-Regierung zu Sanktionen gegen Russland ist ein zentraler Faktor für die internationale Geopolitik und die Wirtschaftsbeziehungen. Die Äußerungen von Marco Rubio geben Einblick in das taktische Vorgehen Washingtons bei wirtschaftspolitischen Maßnahmen.",
+    "srcs": [
+      {
+        "name": "RTP Mundo",
+        "url": "https://www.rtp.pt/noticias/mundo/chefe-da-diplomacia-dos-eua-relativiza-isencao-de-sancoes-contra-moscovo_n1772419",
+        "date": "2026-10-18T07:49:39.000Z"
+      },
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSTFGdm9OcFI5Q3Rnal8zaDdvbTJxTVAySWlxN1RSNWVPY1NaeHJ4TmNsSUFNUzBTYWxMSEw3X2lpTTVERjAtNDA0dVJ4OFhleG9UMktMMmtkMEZNMFludkJBRXVzSzRwaC1XMjFrLXFxZGg3dWV0X1M5aUREVk9VYVFBSHhFZkVoZzVVa3dWcTAzT0ltbGViaGxYM1h3X3c3U1BUcnRkTXRVX0xLR0c0ZDhuT0phUQ?oc=5",
+        "date": "2026-10-18T07:06:38.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/mundo/chefe-da-diplomacia-dos-eua-relativiza-isencao-de-sancoes-contra-moscovo_n1772419",
+    "agree": "Die Quellen stimmen überein, dass US-Außenminister Marco Rubio die Entscheidung von Donald Trump bezüglich der Sanktionsbefreiung für Russland relativiert hat.",
+    "diff": [
+      {
+        "name": "Google News Portugal",
+        "note": "Die Quelle verweist lediglich auf den Bericht von RTP und enthält keine eigenständigen Zusatzinformationen."
       }
     ],
     "chg": "",
@@ -15060,919 +15984,5 @@
     ],
     "chg": "",
     "independent": 3
-  },
-  {
-    "id": "story-6a26c385f411ba3c",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-12T23:19:16.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Merz plant Senkung der Stromsteuer – Zweifel an Finanzierung",
-    "s": "Bundeskanzler Merz hat eine Senkung der Stromsteuer für Unternehmen und Privatleute angekündigt. An den Plänen gibt es jedoch finanzielle Bedenken. SPD-Politiker Klingbeil hat entsprechende Zweifel geäußert.",
-    "m": "Bundeskanzler Merz treibt die Pläne zur Entlastung von Verbrauchern und Wirtschaft voran und will die Stromsteuer senken. Die Initiative sieht vor, sowohl Unternehmen als auch Privatleute von den Abgaben zu entlasten. Die genaue Ausgestaltung und die Gegenfinanzierung der Maßnahme sind jedoch noch nicht abschließend geklärt. SPD-Generalsekretär Klingbeil hat in diesem Zusammenhang Zweifel an der soliden Finanzierung des Vorhabens geäußert. Die Debatte berührt zentrale Fragen der Steuerpolitik und der Belastung der Bürger sowie der heimischen Wirtschaft. Bislang stehen offizielle Details zur Umsetzung und zum exakten Zeitpunkt der Entlastung noch aus.",
-    "r": "Die Senkung der Stromsteuer betrifft zentrale wirtschaftliche und steuerpolitische Fragen für Unternehmen sowie Privatleute in Deutschland. Die geäußerten Zweifel an der Finanzierung verdeutlichen den politischen Abstimmungsbedarf in der Bundesregierung.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/merz-will-stromsteuer-senken-klingbeil-aeussert-zweifel-an-finanzierung-102.html",
-        "date": "2026-10-12T23:19:16.000Z"
-      },
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd2VlcmEwSW5nQy1JdzZUU0ZHY1l5QnAwZk11YmJGYkJHREpFdGFYaU0zOHA5UUl3REpvS0ZrVElNZ3pwVXNFbGRITmxuTXJDT2RqeUlOd2otXzg4bmtBOFdGQU1FM3hCeDFjZmZmejF6dERVZ3Njc0wyREppS0J2VzhFN0dVMlRTRlB1VWR1VF85a1I3QTZTcWZjZHR4M1RUSmotZVVhU0YxWWkwRDZjeQ?oc=5",
-        "date": "2026-10-12T19:45:48.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/merz-will-stromsteuer-senken-klingbeil-aeussert-zweifel-an-finanzierung-102.html",
-    "agree": "Die Quellen stimmen überein, dass Bundeskanzler Merz die Stromsteuer senken will und Klingbeil Zweifel an der Finanzierung äußert.",
-    "diff": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "note": "Berichtet über die Ankündigung von Kanzler Merz zur Stromsenkung und die Finanzierungszweifel von Klingbeil."
-      },
-      {
-        "name": "Google News DE",
-        "note": "Verweist auf den Deutschlandfunk-Beitrag zur Stromsteuersenkung und Klingbeils Zweifel."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-b1e43f6d2fd346d4",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-12T23:19:16.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "CDU in Sachsen-Anhalt erwägt Saalaustritt bei Ministerpräsidentenwahl",
-    "s": "Die CDU-Landtagsfraktion in Sachsen-Anhalt diskutiert einen ungewöhnlichen Schritt für die bevorstehende Ministerpräsidentenwahl. Um jeden Verdacht von Stimmen aus den eigenen Reihen für die AfD zu verhindern, wird vorgeschlagen, dass alle 15 CDU-Abgeordneten vor der Abstimmung geschlossen den Plenarsaal verlassen. Damit soll eine mögliche politische Zwickmühle und ein Imageschaden für die Partei vermieden werden.",
-    "m": "Der geschäftsführende Vorstand der CDU-Landtagsfraktion in Sachsen-Anhalt hat einen entsprechenden Vorschlag zur Abstimmung über das Amt des Ministerpräsidenten erarbeitet. Konkret sollen die 15 Abgeordneten der Christdemokraten dem Plenarsaal während des Wahlvorgangs fernbleiben. Hintergrund dieser Maßnahme ist die Sorge vor einer verdeckten Unterstützung oder dem Verdacht, dass CDU-Mitglieder für einen Kandidaten der AfD stimmen könnten. Durch den geschlossenen Rückzug will die Fraktion jegliche Spekulationen im Vorfeld unterbinden und klare Kante gegen eine Zusammenarbeit zeigen. Bisher ist unklar, wie die endgültige Entscheidung innerhalb der Fraktion ausfällt und welche konkreten Konsequenzen ein solcher Boykott für den Ablauf der Wahl haben wird. Offen bleibt auch, ob andere Parteien im Landtag diesen Schritt unterstützen oder kritisieren.",
-    "r": "Der interne Vorschlag der sachsen-anhaltinischen CDU berührt grundlegende Fragen des parlamentarischen Abstimmungsverhaltens und potenzieller Mehrheitsfindungen. Die Debatte verdeutlicht den Umgang der etablierten Parteien mit dem parlamentarischen Einfluss der AfD.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/verlaesst-die-cdu-bei-der-ministerpraesidentenwahl-den-saal-110.html",
-        "date": "2026-10-12T23:19:16.000Z"
-      },
-      {
-        "name": "Süddeutsche Zeitung",
-        "url": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-mecklenburg-vorpommern-sachsen-anhalt-berlin-cdu-afd-li.3540501",
-        "date": "2026-10-12T16:30:00.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/verlaesst-die-cdu-bei-der-ministerpraesidentenwahl-den-saal-110.html",
-    "agree": "Die Quellen sind sich einig, dass die CDU in Sachsen-Anhalt plant, den Plenarsaal bei der Ministerpräsidentenwahl zu verlassen, um den Verdacht von AfD-Stimmen aus den eigenen Reihen zu vermeiden.",
-    "diff": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "note": "Berichtet detailliert, dass der geschäftsführende Vorstand der Landtagsfraktion diesen Schritt als Lösung vorgeschlagen hat und die genaue Zahl von 15 CDU-Abgeordneten genannt wird."
-      },
-      {
-        "name": "Süddeutsche Zeitung",
-        "note": "Berichtet im Rahmen eines Newsblogs über den Vorschlag, dass die CDU-Abgeordneten den Saal verlassen sollen, ohne die genaue Zahl der Abgeordneten zu nennen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-427d2617dc4a5fae",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-12T22:55:35.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Trump kündigt Diesel-Deal mit Putin an und kritisiert Selenskyj",
-    "s": "US-Präsident Donald Trump steht wegen hoher Spritpreise unter Druck und hat einen Diesel-Deal mit Kremlchef Wladimir Putin angekündigt. Gleichzeitig äußerte er harte Kritik am ukrainischen Präsidenten Wolodymyr Selenskyj und brachte einen Führungswechsel in Kiew ins Gespräch. Die aktuellen Äußerungen verdeutlichen eine mögliche Verschiebung der US-Haltung im Ukraine-Krieg. Welche konkreten Folgen dieser Vorstoß hat, ist Gegenstand intensiver Debatten.",
-    "m": "Donald Trump steht innenpolitisch massiv unter Druck, da die Spritpreise in den USA auf hohem Niveau verharren. Um dieses Problem zu adressieren, verkündete er überraschend einen Diesel-Deal mit dem russischen Präsidenten Wladimir Putin. Im starken Kontrast zu dieser Annäherung an Moskau steht sein scharfes Vorgehen gegen den ukrainischen Präsidenten Wolodymyr Selenskyj. Trump teilte offen gegen Selenskyj aus und forderte sogar ein neues Staatsoberhaupt in Kiew. Damit stellt er die politische Führung der Ukraine öffentlich infrage. Beobachter und internationale Partner analysieren nun, wie sich diese Aussagen auf den Verlauf des Ukraine-Krieges und die westliche Einheitsfront auswirken werden. Insbesondere die Frage, ob der geplante Deal tatsächlich zustande kommt und welche Bedingungen damit verknüpft sind, bleibt vorerst offen.",
-    "r": "Die Äußerungen des US-Präsidenten zu einem Diesel-Deal mit Russland und zur ukrainischen Führung berühren zentrale Fragen der westlichen Außen- und Sicherheitspolitik. Sie verdeutlichen den Einfluss innenpolitischer Faktoren wie Spritpreise auf das internationale Handeln der USA.",
-    "srcs": [
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/news/2026-10/13/trump-putin-will-deal-mehr-als-selenskyj",
-        "date": "2026-10-12T22:55:35.000Z"
-      },
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/politik/trump-schliesst-diesel-deal-mit-putin-und-fordert-selenskyj-abloesung-was-das-fuer-den-krieg-2IG6OKE6LZC55GYGOKOXTC6LTY.html",
-        "date": "2026-10-12T14:23:55.000Z"
-      }
-    ],
-    "url": "https://www.zeit.de/news/2026-10/13/trump-putin-will-deal-mehr-als-selenskyj",
-    "agree": "Beide Quellen berichten über die thematische Verbindung von Donald Trump, Wladimir Putin und Wolodymyr Selenskyj im Kontext des Ukraine-Krieges.",
-    "diff": [
-      {
-        "name": "ZEIT ONLINE",
-        "note": "Berichtet kurz, dass Trump geäußert habe, Putin wolle einen Deal mehr als Selenskyj."
-      },
-      {
-        "name": "RND",
-        "note": "Liefert ausführlichen Kontext zu den hohen Spritpreisen als Druckmittel für Trump, dem angekündigten Diesel-Deal mit Putin sowie der Forderung nach einem neuen Staatsoberhaupt in Kiew."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-0a69692a945e1093",
-    "c": "INT",
-    "o": "PT",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-12T21:46:26.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "André Ventura lehnt Regierungsabkommen mit Montenegro ab",
-    "s": "Der Chega-Vorsitzende André Ventura hat erklärt, dass ein politisches Verstaendnis mit dem PSD-Chef Luis Montenegro nicht mehr moeglich ist. Reagierend auf Aeusserungen von Pedro Passos Coelho lehnte er jegliches Regierungsabkommen kategorisch ab. Die Zeit fuer Verstaendnisse sei demnach abgelaufen.",
-    "m": "Der Vorsitzende der Partei Chega, André Ventura, hat eine mögliche Regierungszusammenarbeit mit Luis Montenegro und der PSD ausgeschlossen. In seiner Reaktion auf vorherige Aussagen von Pedro Passos Coelho betonte Ventura, dass die Zeit für solche politischen Verständnisse vorbei sei. Damit reagiert er auf die jüngsten Debatten über mögliche Koalitionen oder Regierungsabkommen in Portugal. Die Quellen nennen keine weiteren Details zu den genauen Umständen oder Bedingungen dieser Absage. Auch konkrete Zahlen, Hintergründe oder Reaktionen seitens der PSD werden in den Texten nicht erwähnt. Der aktuelle Stand beschränkt sich auf Venturas strikte Ablehnung jeglicher Regierungsvereinbarung.",
-    "r": "Die Absage von André Ventura an ein Regierungsabkommen mit dem PSD verdeutlicht die politischen Fronten und betrifft die potenzielle Regierungsbildung. Solche Positionierungen sind von Bedeutung für das parlamentarische Machtgefüge.",
-    "srcs": [
-      {
-        "name": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/politica/esse-tempo-passou-ventura-recusa-qualquer-acordo-de-governacao-com-montenegro_n1771282",
-        "date": "2026-10-12T21:46:26.000Z"
-      },
-      {
-        "name": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQktiVWJXaTlBM0tDZl90STlxOUxQbTRDbWtaNTRoWlZSYzdvSUFfb05LZEd2bl9fTzZSR1ZyVnlvVmhPVEVXU0JGZWxDa0FVb2hIY1huNlhJaGVxaEJHQUUwbU00OTVrR245dmtManJSa0x3bTh4Zmp2X3pjTFZURjh1aGRsd1FYWEhfSU5MSnY1em5fRGZtaUJfV1BCeVgxYkt0bTlzcEI5cC01dmRRUUk1QUl3d3VONzBtV1BsU3o?oc=5",
-        "date": "2026-10-12T21:08:51.000Z"
-      }
-    ],
-    "url": "https://www.rtp.pt/noticias/politica/esse-tempo-passou-ventura-recusa-qualquer-acordo-de-governacao-com-montenegro_n1771282",
-    "agree": "Beide Quellen berichten übereinstimmend darüber, dass André Ventura jegliches Regierungsabkommen mit Montenegro abgelehnt hat und dass die Zeit für Vereinbarungen vorbei sei.",
-    "diff": [
-      {
-        "name": "Google News Portugal",
-        "note": "Enthaelt zusaetzlich HTML-Links und Code-Fragmente im Text."
-      },
-      {
-        "name": "RTP Notícias",
-        "note": "Berichtet direkt ueber die Reaktion auf die Erklaerungen von Pedro Passos Coelho."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-c0a8c7df5e9fbe66",
-    "c": "INT",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-12T21:28:16.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "„Breaking Bad“-Schauspieler RJ Mitte ist mit 34 Jahren gestorben",
-    "s": "Der US-amerikanische Schauspieler RJ Mitte, bekannt aus der Serie „Breaking Bad“, ist im Alter von 34 Jahren gestorben. Die genauen Todesumstände sind noch unklar, da die Behörden diesbezüglich ermitteln. Sein plötzlicher Tod hat Fans und die Medien überrascht.",
-    "m": "Der Schauspieler RJ Mitte, der vor allem durch seine Rolle in der Erfolgsserie „Breaking Bad“ weltweite Bekanntheit erlangte, ist im Alter von 34 Jahren verstorben. Nach übereinstimmenden Medienberichten unter Berufung auf das Portal „TMZ“ wird ein Suizid als Todesursache vermutet. Die zuständigen Behörden haben die Ermittlungen zu den genauen Umständen seines Todes aufgenommen. Offizielle Verlautbarungen oder Stellungnahmen von nahen Angehörigen stehen in weiten Teilen noch aus. Der Fall wirft Fragen zum zeitlichen Hergang auf, der bisher von den Behörden nicht im Detail öffentlich gemacht wurde. Weitere Informationen zu Hintergründen oder Trauerfeiern wurden in den vorliegenden Berichten noch nicht genannt.",
-    "r": "Der Tod eines international bekannten Seriendarstellers in jungen Jahren ist von großem medialem Interesse. Die Umstände und die behördlichen Ermittlungen bestimmen die aktuelle Berichterstattung.",
-    "srcs": [
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/vermischtes/article6acd49dab52dabc39e80e6e9/im-alter-von-34-jahren-breaking-bad-schauspieler-rj-mitte-ist-tot.html",
-        "date": "2026-10-12T21:28:16.000Z"
-      },
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNLW9PeVNrVzExbnNocjQyUG1wU2pXTDlDWHc5dkNOTS1EWVdnd3g5TldzcHlwRXFDWVlnYkRxZUk0RHI5RXhlZUt0NERvNkpEQzJ5ckN1SE9zVHlUajRydEJHaXRNcS0wMXI4cDJNbG1Vc01uZ0x3Vl9nS0k0S0lGOFhsRV9VWExNWENPSVFpc0xrNFhoVnlzSVZfelRxZ1E3bG13ZkQxOWxEeTIydjJvVEtDMWI1cURBblZCUWxHb0JtNVdzb0pfNGFkV0c1dmxIcnpV?oc=5",
-        "date": "2026-10-12T21:26:00.000Z"
-      }
-    ],
-    "url": "https://www.welt.de/vermischtes/article6acd49dab52dabc39e80e6e9/im-alter-von-34-jahren-breaking-bad-schauspieler-rj-mitte-ist-tot.html",
-    "agree": "Die Quellen stimmen überein, dass der „Breaking Bad“-Schauspieler RJ Mitte im Alter von 34 Jahren gestorben ist.",
-    "diff": [
-      {
-        "name": "WELT",
-        "note": "Berichtet, dass er mit 34 Jahren starb und laut TMZ Suizid beging, während die Behörden ermitteln."
-      },
-      {
-        "name": "Google News DE",
-        "note": "Verweist in der Überschrift auf den Tod des Schauspielers und nennt den Spiegel als beteiligtes Medium."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-4ff5c5b6d1c2bc0f",
-    "c": "INT",
-    "o": "UK",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-12T21:20:51.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Sechs ukrainische Energieanlagen trotz Waffenstillstandsankündigung von Trump getroffen",
-    "s": "Der ukrainischen Führung zufolge hat Russland seit der Ankündigung eines Waffenstillstands durch US-Präsident Trump sechs ukrainische Energieanlagen angegriffen. Entgegen der Erwartung, dass die Energieinfrastruktur nicht ins Visier genommen würde, gehen die Luftangriffe weiter. Dies teilte der ukrainische Präsident Wolodymyr Selenskyj mit.",
-    "m": "Laut Angaben des ukrainischen Präsidenten Wolodymyr Selenskyj wurden seit der Ankündigung eines Waffenstillstands durch US-Präsident Donald Trump insgesamt sechs ukrainische Energieanlagen von Russland attackiert. US-Präsident Trump hatte zuvor erklärt, dass entsprechende Infrastruktur nicht Ziel von Angriffen sein würde. Dennoch halten die Attacken auf das ukrainische Strom- und Energienetz weiter an. Dies stellt die Wirksamkeit der angekündigten Vereinbarungen und Vermittlungsbemühungen in Frage. Die ukrainische Seite fordert internationale Beachtung für diese anhaltenden Verstöße. Weitere Details zu den genauen Standorten der getroffenen Anlagen wurden in den vorliegenden Berichten zunächst nicht genannt. Auch offizielle Reaktionen der russischen Seite oder der US-Regierung gehen aus den Meldungen nicht hervor.",
-    "r": "Die Meldung ist relevant, da sie die anhaltenden Angriffe auf die ukrainische Energieinfrastruktur trotz einer von den USA angekündigten Waffenruhe dokumentiert. Dies betrifft die Sicherheit der kritischen Infrastruktur in der Ukraine und die diplomatischen Bemühungen um eine Deeskalation.",
-    "srcs": [
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-12T21:20:51.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTaGRvQkRDWnpVYTFrajZyUVprTi1OM2tXZXpIUl8wOWZycm1LelV2SlVfZUw5MFhHUEN5STNYVV80d1pYeUFQOW9wSGRVdEF3eW1xVE9zbzJpRjQ?oc=5",
-        "date": "2026-10-12T21:20:51.000Z"
-      }
-    ],
-    "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-    "agree": "Beide Quellen stimmen darin überein, dass laut Selenskyj seit Trumps Waffenstillstandsankündigung sechs ukrainische Energieanlagen von Russland getroffen wurden.",
-    "diff": [
-      {
-        "name": "Google News World",
-        "note": "Verweist lediglich auf den BBC-Bericht und wiederholt die Überschrift."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-abc6bc4b35f1c5f2",
-    "c": "INT",
-    "o": "UK",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-12T21:07:25.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Trumps internationale Probleme verschärfen sich kurz vor Wahlen",
-    "s": "Wenige Wochen vor den entscheidenden Wahlen sieht sich US-Präsident Trump mit wachsenden aussenpolitischen Schwierigkeiten konfrontiert. Angesichts des näher rückenden Wahltages richtet er seinen Blick ins Ausland, um dort Unterstützung für ein dringendes innenpolitisches Problem zu erhalten. Die Berichte deuten auf eine zunehmende Komplexität der Situation hin.",
-    "m": "Der Präsident der Vereinigten Staaten steht vor grossen aussenpolitischen Herausforderungen, die seinen Wahlkampf belasten. Kurz vor dem entscheidenden Wahltag versucht die Administration, internationale Unterstützung zu mobilisieren, um innenpolitische Schwierigkeiten zu bewältigen. Die genaue Natur dieser Probleme und die beteiligten Akteure im Ausland werden im Detail analysiert. Bisher ist bekannt, dass diese diplomatischen Bemühungen in eine kritische Phase der Vorbereitung auf die Wahlen fallen. Weitere Details zu konkreten Abkommen oder Gesprächspartnern nennen die Berichte nicht. Die Situation bleibt angespannt, während Beobachter die potenziellen Auswirkungen auf den Wahlausgang bewerten.",
-    "r": "Die weltpolitischen Verwicklungen und deren Einfluss auf den anstehenden Wahlkampf in den USA sind von internationalem Interesse. Die innenpolitischen Verknüpfungen mit aussenpolitischen Manövern verdeutlichen die strategischen Herausforderungen der US-Regierung.",
-    "srcs": [
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cqgm087rkze2o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-12T21:07:25.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WS1FxR1ZVQWl1dnBHWFAtbzdoWURJSDhsbTlYRkhlZEw5eGxxVWFKWUZMMEtIOXRhRlZQcWwxeGJIZExaNC0tblM1QjJ4UW50eVNOSnFRZm1Ld0E?oc=5",
-        "date": "2026-10-12T21:07:25.000Z"
-      }
-    ],
-    "url": "https://www.bbc.co.uk/news/articles/cqgm087rkze2o?at_medium=RSS&at_campaign=rss",
-    "agree": "Beide Quellen berichten übereinstimmend über die Analyse von Trumps wachsenden globalen Problemen kurz vor den Wahlen.",
-    "diff": [
-      {
-        "name": "Google News World",
-        "note": "Verweist direkt auf den Originalbeitrag der BBC."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-4c910689d2a67f30",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-12T20:48:00.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Bayern klagt in Karlsruhe gegen das Erbschaftsteuerrecht",
-    "s": "Der Freistaat Bayern hat beim Bundesverfassungsgericht in Karlsruhe Klage gegen das aktuelle Erbschaftsteuerrecht eingereicht. Vordergründig argumentiert die Landesregierung mit dem Schutz von Erben und der Forderung nach mehr finanziellem Spielraum für die Bundesländer. Kritiker werfen dem Freistaat jedoch vor, mit diesem Schritt vor allem eigene Interessen im Länderfinanzausgleich verfolgen zu wollen. Bislang steht der Freistaat mit dieser juristischen Initiative im Bund weitgehend allein da.",
-    "m": "Die Klage Bayerns gegen das Erbschaftsteuerrecht sorgt in der Bundesrepublik für scharfe Kritik und wird als Alleingang wahrgenommen. Offiziell begründet die Bayerische Staatsregierung den Gang nach Karlsruhe mit der notwendigen Entlastung von Erben sowie der Stärkung der Länderkompetenzen in Steuerfragen. Beobachter und Kritiker vermuten dahinter jedoch eine Taktik nach dem Motto „Bayern first“, bei der fiskalische Vorteile im Rahmen des Länderfinanzausgleichs im Vordergrund stehen könnten. Da andere Bundesländer bisher nicht auf den Zug aufgesprungen sind und die Initiative nicht unterstützen, fehlt dem Freistaat im laufenden Verfahren ein breites Bündnis an Verbündeten. Das Bundesverfassungsgericht muss nun prüfen, ob die bayerischen Bedenken gegen das geltende Bundesrecht begründet sind und ob eine Anpassung der gesetzlichen Grundlagen erfolgen muss. Die Entscheidung könnte weitreichende Folgen für die Verteilung von Steuereinnahmen und das Bund-Länder-Verhältnis haben. Offen ist bislang, wie das Gericht die Erfolgsaussichten der Klage bewertet und wann mit einem Urteil zu rechnen ist.",
-    "r": "Die Auseinandersetzung berührt die Verteilung von Steuermitteln und das Bund-Länder-Verhältnis im Rahmen des Länderfinanzausgleichs. Ein Karlsruher Urteil könnte grundsätzliche Auswirkungen auf das deutsche Erbschaftsteuerrecht haben.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPRzVwX1FfWnlsZGpzc1ozMEloSWhPM091eVd4RmJnQ0N4MVBNUlhVZFVuaEJvek1TV2VjMGV1dmhJcUZpeC0xVEZ5aWdWb09IaDI1TjlXQmVMVGJocGNZQTVzRzNUek9qSTlCX3A3MU5vVkJCVGwybmZBWU1QTGk1REpOTVZoWnVFeUN0TXpSbUtCVk5PX2xoLWNVSXVscXR5ZVhjRGlPcHVkNF91bEV5VEFoNmFveUZBZWNwdXI1SVRlVTJ2MktDQXNCTjdTaG5yTHdqNC1rTkJ1amotZkVFYjh0ZnB1Z0xlRkFQdHhselY3WGRNZzJxNUZOUU9GMWlwamVyQ1ZHRUFiUzFUY1NQMzJn?oc=5",
-        "date": "2026-10-12T20:48:00.000Z"
-      },
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/politik/deutschland/plus6acc75c15528343575e00e68/klage-in-karlsruhe-kritik-an-bayern-first-warum-der-freistaat-beim-erbschaftsteuer-streit-kaum-verbuendete-hat.html",
-        "date": "2026-10-12T20:46:14.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPRzVwX1FfWnlsZGpzc1ozMEloSWhPM091eVd4RmJnQ0N4MVBNUlhVZFVuaEJvek1TV2VjMGV1dmhJcUZpeC0xVEZ5aWdWb09IaDI1TjlXQmVMVGJocGNZQTVzRzNUek9qSTlCX3A3MU5vVkJCVGwybmZBWU1QTGk1REpOTVZoWnVFeUN0TXpSbUtCVk5PX2xoLWNVSXVscXR5ZVhjRGlPcHVkNF91bEV5VEFoNmFveUZBZWNwdXI1SVRlVTJ2MktDQXNCTjdTaG5yTHdqNC1rTkJ1amotZkVFYjh0ZnB1Z0xlRkFQdHhselY3WGRNZzJxNUZOUU9GMWlwamVyQ1ZHRUFiUzFUY1NQMzJn?oc=5",
-    "agree": "",
-    "diff": [
-      {
-        "name": "Google News DE",
-        "note": "Berichtet über die Klage in Karlsruhe und die Kritik am Vorgehen Bayerns."
-      },
-      {
-        "name": "WELT",
-        "note": "Analysiert die Kritik an Bayern first und beleuchtet den Verdacht von Vorteilen im Länderfinanzausgleich."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-8612e26718259bde",
-    "c": "INT",
-    "o": "INT",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-12T20:43:33.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Südafrikas stellvertretender Polizeichef Shadrack Sibiya tritt zurück",
-    "s": "Der stellvertretende südafrikanische Polizeichef Shadrack Sibiya hat seinen Rücktritt erklärt. Er befindet sich derzeit nach seiner Festnahme im vergangenen Monat in Haft. Gegen ihn wird wegen Korruption, Vergewaltigung und Kindesmissbrauchs ermittelt. Sibiya weist sämtliche Anschuldigungen zurück.",
-    "m": "Der südafrikanische stellvertretende Polizeichef Shadrack Sibiya ist von seinem Amt zurückgetreten. Er befindet sich aktuell im Gefängnis, nachdem er im vergangenen Monat festgenommen worden war. Die gegen ihn erhobenen Vorwürfe umfassen Korruption, Vergewaltigung und Kindesmissbrauch. Konkret wird ihm unter anderem vorgeworfen, ein 16-jähriges Mädchen und eine 18-jährige Frau angegriffen beziehungsweise grooming betrieben zu haben. Sibiya bestreitet alle Anschuldigungen und weist die Vorwürfe vehement zurück. Offen sind derzeit die weiteren juristischen Schritte des Verfahrens sowie die genauen Konsequenzen für die Polizeiführung in Südafrika.",
-    "r": "Der Rücktritt eines hochrangigen Polizeibeamten aufgrund schwerwiegender strafrechtlicher Vorwürfe ist von hohem öffentlichen und sicherheitspolitischen Interesse. Die Vorfälle beleuchten die Integrität der nationalen Sicherheitsbehörden.",
-    "srcs": [
-      {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/12/south-africa-deputy-police-chief-resigns-amid-sex-offence-charges?traffic_source=rss",
-        "date": "2026-10-12T20:43:33.000Z"
-      },
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-12T16:46:49.000Z"
-      }
-    ],
-    "url": "https://www.aljazeera.com/news/2026/10/12/south-africa-deputy-police-chief-resigns-amid-sex-offence-charges?traffic_source=rss",
-    "agree": "Die Quellen stimmen überein, dass Shadrack Sibiya als stellvertretender Polizeichef von Südafrika zurückgetreten ist und mit Vorwürfen wie Vergewaltigung sowie Korruption konfrontiert ist.",
-    "diff": [
-      {
-        "name": "Al Jazeera",
-        "note": "Erwähnt zusätzlich, dass Sibiya seit seiner Festnahme im Vormonat im Gefängnis sitzt und dass es neben den Sexualdelikten auch Korruptionsvorwürfe gibt."
-      },
-      {
-        "name": "BBC World",
-        "note": "Konkretisiert die Vorwürfe des Kindesmissbrauchs und der Vergewaltigung mit den Altersangaben der Opfer von 16 und 18 Jahren."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-504d0ddece7a7467",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-12T20:35:34.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "SPD-Chef Klingbeil lässt erneute Kandidatur für Parteispitze offen",
-    "s": "Nach dem Rücktritt von Bärbel Bas als Bundesarbeitsministerin und SPD-Parteichefin hat Co-Parteivorsitzender Lars Klingbeil eine erneute Kandidatur für die Parteispitze offen gelassen. Beim anstehenden Parteitag um den Jahreswechsel steht die gesamte SPD-Führung zur Neuwahl. Klingbeil betonte, es gehe ihm um die bestmögliche Aufstellung und nicht darum, an dem Amt zu kleben.",
-    "m": "Der SPD-Co-Vorsitzende Lars Klingbeil hat sich im ZDF-heute-journal am Montag zu seiner politischen Zukunft geäußert und dabei eine erneute Kandidatur für die Parteispitze zunächst offen gelassen. Anlass für die Personaldebatte ist der zuvor erfolgte Rücktritt von Bärbel Bas, die bislang sowohl das Amt der Bundesarbeitsministerin als auch das der SPD-Parteichefin innehatte. Im Zuge dieser Entwicklung hat Klingbeil eine Neuwahl der gesamten SPD-Führung angekündigt. Diese soll im Rahmen eines Parteitages um den Jahreswechsel stattfinden. Dabei ist nach Angaben von Klingbeil und weiteren Berichten geplant, die Partei erneut von einer Doppelspitze führen zu lassen. Zu seiner eigenen Person erklärte er, er sei sich der Kritik bewusst, betonte jedoch, dass es nicht um seine Person oder das Klammern an einem Amt gehe, sondern ausschließlich um die bestmögliche Aufstellung der Partei für die Zukunft.",
-    "r": "Die Neubesetzung der SPD-Spitze nach dem Rücktritt von Bärbel Bas betrifft die Führung und strategische Ausrichtung einer der regierenden Parteien in Deutschland. Die Ankündigung von Neuwahlen auf dem Parteitag zum Jahreswechsel hat direkte Auswirkungen auf die politische Landschaft.",
-    "srcs": [
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/politik/article6acd3e16b6f83a3710ef2745/vor-dem-parteitag-es-geht-um-die-bestmoegliche-aufstellung-klingbeil-laesst-erneute-kandidatur-fuer-spd-spitze-offen.html",
-        "date": "2026-10-12T20:35:34.000Z"
-      },
-      {
-        "name": "stern",
-        "url": "https://www.stern.de/news/klingbeil-laesst-erneute-kandidatur-fuer-spd-spitze-offen-38386816.html",
-        "date": "2026-10-12T20:01:13.000Z"
-      },
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/politik/deutschland/spd-spitze-neuwahl-klingbeil-bas-ruecktritt-100.html",
-        "date": "2026-10-12T11:38:00.000Z"
-      }
-    ],
-    "url": "https://www.welt.de/politik/article6acd3e16b6f83a3710ef2745/vor-dem-parteitag-es-geht-um-die-bestmoegliche-aufstellung-klingbeil-laesst-erneute-kandidatur-fuer-spd-spitze-offen.html",
-    "agree": "Die Quellen sind sich einig, dass Lars Klingbeil nach dem Rückzug von Bärbel Bas eine erneute Kandidatur für die SPD-Spitze offengelassen hat und die Parteiführung um den Jahreswechsel auf einem Parteitag neu gewählt wird.",
-    "diff": [
-      {
-        "name": "WELT",
-        "note": "Erwähnt kurz, dass es um die bestmögliche Aufstellung geht und Klingbeil eine Kandidatur offen lässt."
-      },
-      {
-        "name": "stern",
-        "note": "Zitiert Klingbeils Äußerung im ZDF-heute-journal vom Montag wörtlich und nennt den Rücktritt von Bärbel Bas als Bundesarbeitsministerin und SPD-Parteichefin."
-      },
-      {
-        "name": "ZDF heute",
-        "note": "Berichtet, dass die SPD-Führung wieder als Doppelspitze gewählt werden soll."
-      }
-    ],
-    "chg": "",
-    "independent": 3
-  },
-  {
-    "id": "story-1d6bcfef835cb656",
-    "c": "INT",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-12T20:20:14.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Festnahme von Selma Blair nach Vorfall an Bord eines Flugzeugs",
-    "s": "Die US-Schauspielerin Selma Blair ist nach einer mutmaßlichen Attacke auf das Flugpersonal in Gewahrsam genommen worden. Der Vorfall ereignete sich an Bord einer Delta-Air-Lines-Maschine. Das Management der Schauspielerin begründete das Verhalten mit einem gesundheitlichen Notfall. Die zuständigen Behörden untersuchen den Vorfall nun.",
-    "m": "Die US-Schauspielerin Selma Blair soll während eines Fluges in einer Maschine von Delta Air Lines massiv ausgerastet sein. Berichten zufolge hat sie Flugpersonal geschlagen, gebissen und zudem versucht, eine Tür des Flugzeugs zu öffnen. Nach der Landung wurde sie in Gewahrsam genommen. Ihr Management erklärte das Verhalten nachträglich mit einem medizinischen beziehungsweise gesundheitlichen Notfall. Der genaue Hergang sowie die Hintergründe des Vorfalls werden derzeit behördlich untersucht. Offen ist bislang, welche konkreten rechtlichen Konsequenzen auf die Schauspielerin zukommen und wie sich der gesundheitliche Notfall im Detail äußerte.",
-    "r": "Der Vorfall an Bord eines Linienflugs beleuchtet die sicherheitsrelevanten Herausforderungen durch renitente Passagiere. Die Verwicklung einer prominenten Person und die offiziellen Ermittlungen machen die Meldung öffentlichkeitswirksam.",
-    "srcs": [
-      {
-        "name": "Frankfurter Allgemeine",
-        "url": "https://www.faz.net/aktuell/gesellschaft/menschen/selma-blair-festnahme-nach-vorfall-auf-delta-flug-201312015.html",
-        "date": "2026-10-12T20:20:14.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/panorama/leute/selma-blair-soll-flugpersonal-gebissen-und-geschlagen-haben-a-1cebe0e1-0dcf-4917-8a1e-8a0a32b3ed69#ref=rss",
-        "date": "2026-10-12T20:06:00.000Z"
-      }
-    ],
-    "url": "https://www.faz.net/aktuell/gesellschaft/menschen/selma-blair-festnahme-nach-vorfall-auf-delta-flug-201312015.html",
-    "agree": "Beide Quellen stimmen überein, dass Selma Blair Flugpersonal attackiert hat und deshalb in Gewahrsam genommen wurde, wobei ihr Management das Verhalten mit einem gesundheitlichen Notfall begründete.",
-    "diff": [
-      {
-        "name": "Frankfurter Allgemeine",
-        "note": "Berichtet zusätzlich, dass Blair versucht haben soll, eine Tür zu öffnen."
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "Nennt konkret Delta Air Lines als die betroffene Fluggesellschaft."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-3f34cb8ba103b232",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-12T20:15:13.000Z",
-    "p": 3,
-    "st": "BY",
-    "city": "",
-    "t": "Festnahmen in Deutschland nach Brand in polnischer Starlink-Station",
-    "s": "Ende September kam es in Polen zu einem Brand an einer Starlink-Station, die auch für die Ukraine von Bedeutung ist. Nun wurden in Deutschland zwei Verdächtige festgenommen. Die polnische Regierung verdächtigt Russland hinter dem Vorfall zu stehen.",
-    "m": "Polens Regierungschef Donald Tusk hat die Festnahme zweier Verdächtiger in Deutschland bekanntgegeben. Den Beschuldigten wird vorgeworfen, im September eine Starlink-Bodenstation in Polen in Brand gesetzt zu haben. Warschau stuft den Vorfall als russische Sabotage und als einen Akt hybrider Kriegsführung ein. Die betroffene Station leitet unter anderem Internetdaten in die Ukraine weiter. Ob weitere Hinterleute existieren oder wann eine Auslieferung der Verdächtigen geprüft wird, ist derzeit noch nicht offiziell bekannt gegeben worden. Die Ermittlungen in dem internationalen Fall dauern an.",
-    "r": "Der Vorfall betrifft mutmaßliche Sabotage an kritischer Infrastruktur mit direktem Bezug zum Ukraine-Krieg. Die Festnahmen auf deutschem Boden machen den Fall zu einem grenzüberschreitenden sicherheitspolitischen Ereignis.",
-    "srcs": [
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/polen-meldet-festnahmen-in-deutschland-nach-starlink-brand,VXrPqeK",
-        "date": "2026-10-12T20:15:13.000Z"
-      },
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/polen-starlink-brand-festnahmen-100.html",
-        "date": "2026-10-12T19:49:18.000Z"
-      },
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/politik/Brand-in-polnischer-Starlink-Station-Festnahmen-in-Deutschland-id31410339.html",
-        "date": "2026-10-12T18:42:47.000Z"
-      }
-    ],
-    "url": "https://www.br.de/nachrichten/deutschland-welt/polen-meldet-festnahmen-in-deutschland-nach-starlink-brand,VXrPqeK",
-    "agree": "Die Quellen stimmen überein, dass Ende September eine Starlink-Station in Polen brannte, dass nun zwei Verdächtige in Deutschland festgenommen wurden und dass Polen dahinter russische Sabotage vermutet.",
-    "diff": [
-      {
-        "name": "BR24 Bayern",
-        "note": "Erwähnt als einzige Quelle nicht explizit den Bezug der Starlink-Station zur Ukraine."
-      },
-      {
-        "name": "Tagesschau",
-        "note": "Nennt im Gegensatz zu Tusk keine wörtlichen Zitate bezüglich des Akts der hybriden Kriegsführung."
-      },
-      {
-        "name": "ntv",
-        "note": "Erwähnt als einzige Quelle explizit, dass die Station Internetdaten in die Ukraine weiterleitet, zusammen mit der Tagesschau."
-      }
-    ],
-    "chg": "",
-    "independent": 3
-  },
-  {
-    "id": "story-98c43e8106f34738",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-12T20:09:56.000Z",
-    "p": 2,
-    "st": "BW",
-    "city": "",
-    "t": "Linienbus bricht bei Unfall im Kreis Böblingen in zwei Teile",
-    "s": "Zwischen Aidlingen und Darmsheim im Kreis Böblingen ist am Montagabend ein Linienbus verunglückt. Bei dem Unfall brach der Bus in zwei Teile. Mehrere Menschen wurden durch das Unglück verletzt. Die Polizei gab erste vorläufige Informationen zum Unfallhergang bekannt.",
-    "m": "Am Montagabend hat sich zwischen Aidlingen und Darmsheim im Kreis Böblingen ein schwerer Verkehrsunfall mit einem Linienbus ereignet. Das Fahrzeug brach bei dem Unglück in zwei Teile. Nach Angaben der Polizei wurden bei dem Vorfall mehrere Personen verletzt, darunter auch Kinder, die sich in dem Bus befanden. Der Busfahrer erlitt bei dem Unfall schwere Verletzungen. Die genaue Unfallursache sowie der Hergang sind Gegenstand der polizeilichen Ermittlungen. Die Rettungskräfte waren mit einem Großaufgebot vor Ort, um die Verletzten zu versorgen und die Unfallstelle zu sichern. Weitere Details zu den beteiligten Personen oder dem Zustand der Verletzten liegen derzeit noch nicht vor.",
-    "r": "Der schwere Unfall eines Linienbusses mit mehreren Verletzten und Kindern an Bord im Kreis Böblingen erfordert Rettungs- und Ermittlungsmaßnahmen.",
-    "srcs": [
-      {
-        "name": "SWR Aktuell",
-        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/busunglueck-kreis-boeblingen-100.html",
-        "date": "2026-10-12T20:09:56.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Baden-Württemberg",
-        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-linienbus-im-kreis-boeblingen-verunglueckt-in-zwei-teile-gebrochen-100.html",
-        "date": "2026-10-12T17:47:00.000Z"
-      }
-    ],
-    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/busunglueck-kreis-boeblingen-100.html",
-    "agree": "Ein Linienbus ist am Montagabend zwischen Aidlingen und Darmsheim im Kreis Böblingen verunglückt und in zwei Teile gebrochen.",
-    "diff": [
-      {
-        "name": "SWR Aktuell",
-        "note": "Berichtet, dass sich auch Kinder im Bus befanden und der Busfahrer schwer verletzt wurde."
-      },
-      {
-        "name": "Tagesschau Regional Baden-Württemberg",
-        "note": "Nennt die konkrete vorläufige Zahl von vier verletzten Personen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-1d99a09b83aed922",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-12T19:52:00.000Z",
-    "p": 2,
-    "st": "BY",
-    "city": "",
-    "t": "Ukraine-Krieg: Trumps Diesel-Deal mit Russland und die Folgen",
-    "s": "Donald Trump will den Kauf russischen Diesels erlauben, was im In- und Ausland kritisiert wird. Was ist der Grund für die Entscheidung des US-Präsidenten und was soll die Ukraine tun? Die DW hat mit Experten gesprochen.",
-    "m": "Donald Trump will den Kauf russischen Diesels erlauben, was im In- und Ausland kritisiert wird. Was ist der Grund für die Entscheidung des US-Präsidenten und was soll die Ukraine tun? Die DW hat mit Experten gesprochen. Drei Wochen vor den Zwischenwahlen in den USA bedrängt Präsident Trump die Ukraine massiv, Angriffe auf die russischen Erdölraffinerien einzustellen. Trump will die Dieselpreise daheim senken – mit Putins Hilfe. Das hat gravierende Folgen.",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
-    "srcs": [
-      {
-        "name": "DW Deutsch",
-        "url": "https://www.dw.com/de/ukraine-krieg-trumps-diesel-deal-mit-russland-und-die-folgen/a-79646257?maca=de-rss-de-all-1119-xml-mrss",
-        "date": "2026-10-12T19:52:00.000Z"
-      },
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/trumps-diesel-deal-und-die-folgen-fuer-die-ukraine-und-europa,VXq6Fhd",
-        "date": "2026-10-12T13:12:21.000Z"
-      }
-    ],
-    "url": "https://www.dw.com/de/ukraine-krieg-trumps-diesel-deal-mit-russland-und-die-folgen/a-79646257?maca=de-rss-de-all-1119-xml-mrss",
-    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-5ad035aac4e74c13",
-    "c": "INT",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-12T19:40:07.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Beifahrerin des verunglückten L'Osteria-Gründers äußert sich nach Unfall auf Mallorca",
-    "s": "Bei einer Rallye auf Mallorca kam L'Osteria-Gründer Klaus Rader ums Leben, während seine Co-Pilotin Christina Ettel schwer verletzt wurde. Knapp eine Woche nach dem tödlichen Crash hat sich die 39-Jährige erstmals zu dem Unglück geäußert. Sie sprach über den schmerzhaften Verlust und ihren eigenen Gesundheitszustand.",
-    "m": "Der tragische Unfall ereignete sich bei einem Autorennen auf Mallorca vor knapp einer Woche und kostete den L'Osteria-Gründer Klaus Rader das Leben. Seine Beifahrerin und Rallye-Co-Pilotin Christina Ettel überlebte das Unglück schwer verletzt. Nun hat die 39-Jährige erstmals öffentlich über den Vorfall gesprochen. Dabei ging sie auf den Verlust ihres Fahrers und Partner sowie auf ihre eigenen gesundheitlichen Folgen ein. Unter anderem stellte sie klar, dass sie entgegen erster Befürchtungen nicht querschnittsgelähmt ist. Weitere Details zum genauen Unfallhergang oder den Ursachen wurden in den Berichten zunächst nicht genannt. Die Ermittlungen zu dem Vorfall dauern an.",
-    "r": "Der Unfall bei einer Rallye auf Mallorca mit dem prominenten Todesopfer Klaus Rader hat überregional Aufmerksamkeit erregt. Die nun folgenden Aussagen der überlebenden Beifahrerin geben Einblicke in ihren Gesundheitszustand nach dem Crash.",
-    "srcs": [
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/leute/Beifahrerin-von-L-Osteria-Gruender-spricht-ueber-toedlichen-Unfall-id31410427.html",
-        "date": "2026-10-12T19:40:07.000Z"
-      },
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/panorama/nach-todes-crash-von-l-osteria-gruender-beifahrerin-spricht-ueber-unfall-auf-mallorca-REMDSGAMQBB75IU7BLRVPB2ZFE.html",
-        "date": "2026-10-12T16:30:28.000Z"
-      }
-    ],
-    "url": "https://www.n-tv.de/leute/Beifahrerin-von-L-Osteria-Gruender-spricht-ueber-toedlichen-Unfall-id31410427.html",
-    "agree": "Beide Quellen berichten übereinstimmend, dass der L'Osteria-Gründer Klaus Rader vor knapp einer Woche bei einem Autorennen auf Mallorca ums Leben kam und seine Beifahrerin schwer verletzt überlebte.",
-    "diff": [
-      {
-        "name": "ntv",
-        "note": "Erwähnt die Aussage der Beifahrerin Christina Ettel, dass sie nicht querschnittsgelähmt ist, und nennt ihr Alter von 39 Jahren."
-      },
-      {
-        "name": "RND",
-        "note": "Bezeichnet den Unfall als Todes-Crash und erwähnt den schmerzhaften Verlust, den die Beifahrerin empfindet."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-177dc708894abeb1",
-    "c": "INT",
-    "o": "PT",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-12T19:37:41.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Portugal bezeichnet Angola als strategischen und unersetzlichen Partner",
-    "s": "Die portugiesische Staatssekretärin für auswärtige Angelegenheiten und Zusammenarbeit hat Angola bei einem Besuch in Luanda als einen unersetzlichen strategischen Partner bezeichnet. Die Partnerschaft erstreckt sich dabei auf bilaterale, regionale sowie multilaterale Ebenen. Das Treffen und die Aussagen unterstreichen die diplomatischen Beziehungen zwischen beiden Staaten.",
-    "m": "Bei einem Besuch in der angolanischen Hauptstadt Luanda betonte die portugiesische Staatssekretärin für auswärtige Angelegenheiten und Zusammenarbeit die große Bedeutung des afrikanischen Landes für Portugal. Angola wurde in diesem Zusammenhang als strategischer und unersetzlicher Partner gewürdigt. Diese Partnerschaft ist laut der Regierungsvertreterin sowohl für die bilaterale Zusammenarbeit als auch für den regionalen und multilateralen Kontext von zentraler Bedeutung. Konkrete Details zu weiteren Abkommen oder spezifischen Gesprächsthemen während des Aufenthalts in Luanda wurden in den Berichten nicht genannt. Der offizielle Besuch dient der Bekräftigung der diplomatischen und politischen Bande zwischen den beiden Ländern.",
-    "r": "Die Aussagen der portugiesischen Regierung unterstreichen die anhaltende diplomatische und geopolitische Bedeutung der Beziehungen zwischen Portugal und Angola auf verschiedenen Ebenen.",
-    "srcs": [
-      {
-        "name": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/economia/angola-parceiro-estrategico-insubstituivel-de-portugal-diz-governo-portugues_n1771258",
-        "date": "2026-10-12T19:37:41.000Z"
-      },
-      {
-        "name": "RTP Economia",
-        "url": "https://www.rtp.pt/noticias/economia/angola-parceiro-estrategico-insubstituivel-de-portugal_n1771198",
-        "date": "2026-10-12T16:27:50.000Z"
-      }
-    ],
-    "url": "https://www.rtp.pt/noticias/economia/angola-parceiro-estrategico-insubstituivel-de-portugal-diz-governo-portugues_n1771258",
-    "agree": "Beide Quellen stimmen überein, dass die portugiesische Staatssekretärin für auswärtige Angelegenheiten und Zusammenarbeit in Luanda erklärt hat, dass Angola ein strategischer und unersetzlicher Partner für Portugal in bilateralen, regionalen und multilateralen",
-    "diff": [],
-    "chg": "",
-    "independent": 1
-  },
-  {
-    "id": "story-32f723c3acc05a7a",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-12T19:07:25.000Z",
-    "p": 3,
-    "st": "HH",
-    "city": "",
-    "t": "Staatsanwaltschaft beschlagnahmt Interview-Aufnahmen der \"Zeit\" im Block-Prozess",
-    "s": "Im Zusammenhang mit dem Block-Prozess hat die Staatsanwaltschaft Ton- und Bildaufnahmen der Wochenzeitung \"Zeit\" beschlagnahmt. Die fraglichen Interviews mit Kindern waren kurz nach einer Entführung entstanden. Die Redaktion wertet das Vorgehen als einen Angriff auf die Pressefreiheit und kündigt rechtliche Schritte an.",
-    "m": "Die Beschlagnahme von Interview-Aufzeichnungen der \"Zeit\" sorgt für rechtliche Auseinandersetzungen und mediales Aufsehen. Es handelt sich um Aufnahmen von Gesprächen mit Kindern, die kurz nach dem Ereignis einer Entführung geführt wurden und im Rahmen des sogenannten Block-Prozesses eine Rolle spielen. Die Staatsanwaltschaft hat diese Materialien sichergestellt, was von Seiten der Wochenzeitung scharf kritisiert wird. Das Medium sieht in der Maßnahme einen schwerwiegenden Eingriff und einen direkten Angriff auf die geschützte Pressefreiheit. Die \"Zeit\" hat angekündigt, juristisch gegen die Beschlagnahme vorzugehen, um den Quellenschutz und die journalistische Arbeit zu verteidigen. Bisher sind keine weiteren Details zu den genauen Gründen der richterlichen Anordnung oder dem weiteren Fortgang des Verfahrens öffentlich bekannt.",
-    "r": "Der Vorgang betrifft fundamentale Fragen des Quellenschutzes und der Pressefreiheit im Rahmen eines laufenden Gerichtsverfahrens. Die juristische Auseinandersetzung zwischen Medienhaus und Justizbehörden hat grundsätzliche Bedeutung für die journalistische Berichterstattung über sensible Fälle.",
-    "srcs": [
-      {
-        "name": "Tagesschau Regional Hamburg",
-        "url": "https://www.tagesschau.de/inland/regional/hamburg/block-prozess-staatsanwaltschaft-beschlagnahmt-aufnahmen-der-zeit,house-of-block-100.html",
-        "date": "2026-10-12T19:07:25.000Z"
-      },
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObTB6Y0VTRENraTZPdVhOb2FZZFM3Y0gxemlJQmlrcnlYYlY2U3ZlY3hxeEs5UWl5UUR1VldYZ1BZOWlZVXVVcXVJNEFBZXdWWUVPQ1UxNzh5T0lidlBVU2hhZ1RsUng0YXdUZGtXbzNERTNPOGx1ckFTOUljTmVjNHF6QUpJUm05NnFBVGlocWpVektjSjBrWFlLR0hWbll6S2tnOGlCOUtsUThHYnVHOVluTWQzZWJRenFrWm9CMmxha2JJZllV?oc=5",
-        "date": "2026-10-12T19:07:00.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/regional/hamburg/block-prozess-staatsanwaltschaft-beschlagnahmt-aufnahmen-der-zeit,house-of-block-100.html",
-    "agree": "Die Quellen stimmen überein, dass die Staatsanwaltschaft Interview-Aufnahmen der \"Zeit\" im Zusammenhang mit dem Block-Prozess beschlagnahmt hat.",
-    "diff": [
-      {
-        "name": "Google News DE",
-        "note": "Verweist auf NDR.de und nennt den Titel \"House of Block\"."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-feceb83a60f9c183",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-12T18:59:49.000Z",
-    "p": 2,
-    "st": "MV",
-    "city": "",
-    "t": "Neues muslimisches Gebetszentrum in Rostock-Evershagen sorgt für Anwohner-Sorgen",
-    "s": "In Rostock-Evershagen baut die Sahaba-Gemeinde eine ehemalige Kita zu einem muslimischen Gebetszentrum um. Anwohner zeigen sich besorgt über die Entwicklung und befürchten negative Auswirkungen auf ihr direktes Wohnumfeld. Die Stadtverwaltung hat für das Vorhaben bereits die offizielle Baugenehmigung erteilt.",
-    "m": "Das Vorhaben der Sahaba-Gemeinde in Rostock-Evershagen sieht den Umbau einer ehemaligen Kindertagesstätte in ein muslimisches Gebetszentrum vor. Das Projekt stößt in der Nachbarschaft auf Skepsis und Besorgnis. Konkret befürchten Anwohner eine Zunahme der Lärmbelastung sowie eine Verschärfung der ohnehin angespannten Parkplatzsituation im Stadtteil. Ungeachtet dieser Einwände hat die zuständige Stadtverwaltung die rechtliche Grundlage geschaffen und die Baugenehmigung für die Umnutzung erteilt. Weitere Details zum zeitlichen Ablauf der Bauarbeiten oder zum genauen Eröffnungstermin sind aus den vorliegenden Berichten nicht bekannt.",
-    "r": "Das Ereignis berührt gesellschaftliche und lokale Fragen des Zusammenlebens sowie baurechtliche Entscheidungen in einer Gemeinde. Die Sorgen der Anwohner und die behördliche Genehmigung verdeutlichen potenzielle Konfliktpunkte bei der Umnutzung von Immobilien in Wohngebieten.",
-    "srcs": [
-      {
-        "name": "Tagesschau Regional Mecklenburg-Vorpommern",
-        "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/neues-gebetszentrum-in-rostock-evershagen-anwohner-besorgt,gemeindezentrum-100.html",
-        "date": "2026-10-12T18:59:49.000Z"
-      },
-      {
-        "name": "NDR Mecklenburg-Vorpommern",
-        "url": "https://www.ndr.de/fernsehen/sendungen/nordmagazin/neues-gebetszentrum-in-rostock-evershagen-anwohnende-besorgt,nordmagazin-14972.html",
-        "date": "2026-10-12T18:59:37.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/neues-gebetszentrum-in-rostock-evershagen-anwohner-besorgt,gemeindezentrum-100.html",
-    "agree": "Beide Quellen berichten über das neue muslimische Gebetszentrum in einer ehemaligen Kita in Rostock-Evershagen und die Sorgen der Anwohner wegen Lärm und Parkplätzen.",
-    "diff": [
-      {
-        "name": "Tagesschau Regional Mecklenburg-Vorpommern",
-        "note": "Erwähnt die Sahaba-Gemeinde als Bauherrin und die bereits erteilte Baugenehmigung der Stadt."
-      },
-      {
-        "name": "NDR Mecklenburg-Vorpommern",
-        "note": "Bezeichnet das Zentrum explizit als muslimisches Gebetszentrum und verwendet die Formulierung Anwohnende."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-c4aaca335a9db38a",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-12T18:39:00.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "EU beschließt Ausbildungseinsatz im Libanon als Ersatz für Unifil",
-    "s": "Die Europäische Union hat einen neuen Einsatz im Libanon beschlossen, der als Ersatz für die auslaufende Unifil-Mission dient. Die Mission soll die dortigen Sicherheitskräfte stärken. An dem Vorhaben ist auch Deutschland beteiligt.",
-    "m": "Die Europäische Union forciert ein außenpolitisches Mammutprojekt und hat einen neuen Einsatz im Libanon beschlossen. Diese Mission soll als Ersatz für die auslaufenden Unifil-Blauhelmsoldaten dienen. Der beschlossene Einsatz hat einen militärischen und einen zivilen Pfeiler. Konkret handelt es sich um einen Ausbildungseinsatz. Damit sollen die libanesischen Sicherheitskräfte gezielt gestärkt werden, unter anderem im Hinblick auf die Hisbollah. An der Mission beteiligt sich auch Deutschland.",
-    "r": "Der Einsatz ist sicherheits- und außenpolitisch relevant, da die EU damit unmittelbar in der krisengeschüttelten Region aktiv wird und die lokalen Kräfte institutionell stärkt. Zudem schließt die Mission die Lücke nach dem Abzug der UN-Blauhelme.",
-    "srcs": [
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/ausland/eu-beschliesst-libanon-einsatz-a-2a1b3b3a-03d4-4a7b-bb73-eeaa7898640a#ref=rss",
-        "date": "2026-10-12T18:39:00.000Z"
-      },
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/politik/ausland/eu-libanon-einsatz-hisbollah-iran-israel-100.html",
-        "date": "2026-10-12T17:01:00.000Z"
-      }
-    ],
-    "url": "https://www.spiegel.de/ausland/eu-beschliesst-libanon-einsatz-a-2a1b3b3a-03d4-4a7b-bb73-eeaa7898640a#ref=rss",
-    "agree": "Die EU hat einen neuen Einsatz im Libanon als Ersatz für die auslaufende Unifil-Mission beschlossen.",
-    "diff": [
-      {
-        "name": "DER SPIEGEL",
-        "note": "Berichtet, dass die Mission einen militärischen und einen zivilen Pfeiler haben soll und spricht von einem außenpolitischen Mammutprojekt."
-      },
-      {
-        "name": "ZDF heute",
-        "note": "Ergänzt, dass es sich um einen Ausbildungseinsatz handelt, der die Sicherheitskräfte gegen die Hisbollah stärken soll, und dass Deutschland beteiligt ist."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-9741f962097680db",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-12T16:58:11.000Z",
-    "p": 5,
-    "st": "",
-    "city": "",
-    "t": "Bärbel Bas tritt als SPD-Vorsitzende und Ministerin zurück",
-    "s": "Bärbel Bas hat ihren Rücktritt als SPD-Vorsitzende sowie als Bundesarbeitsministerin verkündet. Als Grund für diesen Schritt nennt sie in ihrer Erklärung vor allem persönliche Motive. Ihr Rückzug betrifft damit sowohl die Parteiführung als auch ein wichtiges Regierungsamt.",
-    "m": "Die SPD-Politikerin Bärbel Bas hat ihren überraschenden Rücktritt von ihren Ämtern als SPD-Vorsitzende und Bundesarbeitsministerin bekannt gegeben. In ihrer veröffentlichten Rücktrittserklärung begründet sie diesen Schritt primär mit persönlichen Gründen. Der doppelte Rückzug bedeutet für die Partei einen personellen Einschnitt und reißt eine wichtige Lücke im Bundeskabinett auf. Bislang gibt es noch keine offiziellen Informationen zu einer möglichen Nachfolge für den Parteivorsitz oder das Ministeramt. Offen ist zudem, wie die SPD die Doppelspitze und das Ministerium zeitnah neu besetzen will.",
-    "r": "Der gleichzeitige Rückzug einer Parteivorsitzenden und Bundesministerin hat direkte Auswirkungen auf die Stabilität der Regierung und die politische Führung der SPD. Ein solcher Schritt erfordert zeitnahe personelle Neuordnungen auf höchster Ebene.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/die-ruecktrittserklaerung-von-baerbel-bas-im-wortlaut-100.html",
-        "date": "2026-10-12T16:58:11.000Z"
-      },
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/politik/deutschland/erklaerung-ruecktritt-baerbel-bas-erklaerung-100.html",
-        "date": "2026-10-12T07:32:00.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/die-ruecktrittserklaerung-von-baerbel-bas-im-wortlaut-100.html",
-    "agree": "Beide Quellen stimmen überein, dass Bärbel Bas von ihren Ämtern als SPD-Vorsitzende und Bundesarbeitsministerin zurückgetreten ist und dafür persönliche Gründe angibt.",
-    "diff": [
-      {
-        "name": "ZDF heute",
-        "note": "Erwähnt zusätzlich, dass Bärbel Bas in ihrer Erklärung auch die Union kritisiert."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-50eb2e44cedc57fd",
-    "c": "INT",
-    "o": "DE",
-    "k": "sport",
-    "lang": "de",
-    "d": "2026-10-12T16:58:11.000Z",
-    "p": 4,
-    "st": "HH",
-    "city": "",
-    "t": "Alexander Zverev wird erstmals Nummer eins der Tennis-Weltrangliste",
-    "s": "Der deutsche Tennisprofi Alexander Zverev steigt erstmals in seiner Karriere an die Spitze der Weltrangliste auf. Er profitiert dabei von einer Niederlage seines Konkurrenten Carlos Alcaraz beim Turnier in Shanghai. Laut der Spielerorganisation ATP ist Zverev damit die Position uneinholbar sicher. Spätestens zum Saisonende beziehungsweise Jahresende wird er offiziell die Nummer eins sein.",
-    "m": "Alexander Zverev krönt mit dem Erreichen der Weltranglistenspitze eine historische Saison. Der deutsche Spitzenspieler erfüllt sich damit einen großen Traum und ist nun sogar erfolgreicher als Tennislegende Boris Becker. Konkret steht fest, dass er die Tennis-Saison als Weltranglisten-Erster beenden wird. Möglich wurde dies durch das Ausscheiden des Spaniers Carlos Alcaraz beim ATP-Turnier in Shanghai, wodurch Zverev in der Wertung uneinholbar in Führung liegt. Der Hamburger aus Deutschland hat zudem in dieser oder vorherigen Phasen wichtige Grand-Slam-Erfolge wie Siege bei den French Open und US Open vorzuweisen, die zu diesem Erfolg beitragen. Genauere Details zum Turnierverlauf in Shanghai oder weiteren Verfolgern werden in den Berichten nicht genannt.",
-    "r": "Die Meldung ist von sportlicher Bedeutung, da erstmals ein deutscher Tennisprofi die Spitzenposition der Weltrangliste übernimmt und damit einen historischen Erfolg im internationalen Herrentennis erzielt.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/zverev-spaetestens-zum-saisonende-nummer-eins-der-weltrangliste-102.html",
-        "date": "2026-10-12T16:58:11.000Z"
-      },
-      {
-        "name": "t-online Sport",
-        "url": "https://www.t-online.de/sport/mehr-sport/tennis/id_101477646/alexander-zverev-wird-nummer-eins-der-tennis-weltrangliste.html",
-        "date": "2026-10-12T15:49:31.000Z"
-      },
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/sport/tennis/video6acce6238776d79fbd9ca64b/erster-deutscher-seit-becker-offiziell-zverev-wird-nummer-eins-der-weltrangliste.html",
-        "date": "2026-10-12T13:54:57.000Z"
-      },
-      {
-        "name": "DW Deutsch",
-        "url": "https://www.dw.com/de/alexander-zverev-neue-nummer-eins-der-tennis-weltrangliste/a-79642250?maca=de-rss-de-all-1119-xml-mrss",
-        "date": "2026-10-12T13:47:00.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Hamburg",
-        "url": "https://www.ndr.de/sport/mehr_sport/offiziell-zverev-wird-die-nummer-1-der-tennis-weltrangliste,zverev-1674.html",
-        "date": "2026-10-12T13:23:12.000Z"
-      },
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/sport/tennis-zverev-neue-nummer-eins-100.html",
-        "date": "2026-10-12T12:26:27.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/zverev-spaetestens-zum-saisonende-nummer-eins-der-weltrangliste-102.html",
-    "agree": "Alle Quellen stimmen darin überein, dass Alexander Zverev durch eine Niederlage von Carlos Alcaraz in Shanghai die Nummer eins der Tennis-Weltrangliste wird.",
-    "diff": [
-      {
-        "name": "WELT",
-        "note": "Erwähnt das Alter von Alexander Zverev mit 29 Jahren."
-      },
-      {
-        "name": "DW Deutsch",
-        "note": "Merkt an, dass Zverev damit erfolgreicher als Tennislegende Boris Becker ist."
-      },
-      {
-        "name": "Tagesschau Regional Hamburg",
-        "note": "Bezeichnet Zverev explizit als Hamburger."
-      },
-      {
-        "name": "ZDF heute",
-        "note": "Erwähnt Zverevs frühere Siege bei den French Open und US Open."
-      }
-    ],
-    "chg": "",
-    "independent": 6
-  },
-  {
-    "id": "story-c2449f1c5c73e6a5",
-    "c": "INT",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-12T16:58:11.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Wirtschaftsnobelpreis 2023 geht an US-Ökonomen Hall und Woodford",
-    "s": "Der diesjährige Preis für Wirtschaftswissenschaften wird an die beiden US-amerikanischen Forscher Robert E. Hall und Michael Woodford verliehen. Dies gab die Königlich-Schwedische Akademie der Wissenschaften in Stockholm bekannt. Die Auszeichnung erfolgt für ihre wissenschaftlichen Arbeiten zur makroökonomischen Stabilisierung.",
-    "m": "Die Königlich-Schwedische Akademie der Wissenschaften hat in Stockholm die Verleihung des sogenannten Wirtschaftsnobelpreises an die US-Ökonomen Robert E. Hall und Michael Woodford bekanntgegeben. Die beiden Forscher erhalten den Preis für die Erforschung der mikroökonomischen Grundlagen der makroökonomischen Stabilisierung. Konkret haben sie Modelle entwickelt, die es Staaten und Zentralbanken erleichtern sollen, Konjunkturschwankungen effektiv abzumildern. Der Preis gilt als die renommierteste Auszeichnung in den Wirtschaftswissenschaften, auch wenn er formal nicht zu den klassischen Nobelpreisen gehört. Die genauen Hintergründe und die praktische Anwendung ihrer Theorien stehen im Fokus der diesjährigen Preisbegründung.",
-    "r": "Die Verleihung des Wirtschaftsnobelpreises gehört zu den international bedeutendsten Auszeichnungen im Bereich der Wirtschaftswissenschaften und prämiiert grundlegende theoretische Arbeiten. Die prämierten Modelle bieten praxisnahe Werkzeuge für staatliche Akteure und Zentralbanken zur Bewältigung von Konjunkturschwankungen.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/us-oekonomen-robert-e-hall-und-michael-woodford-erhalten-den-sogenannten-wirtschaftsnobelpreis-100.html",
-        "date": "2026-10-12T16:58:11.000Z"
-      },
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/wirtschaft/video6accf61d8776d79fbd9ca81a/stockholm-wirtschaftsnobelpreis-geht-an-us-oekonomen-robert-e-hall-und-michael-woodford.html",
-        "date": "2026-10-12T15:09:11.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/us-oekonomen-robert-e-hall-und-michael-woodford-erhalten-den-sogenannten-wirtschaftsnobelpreis-100.html",
-    "agree": "Beide Quellen stimmen überein, dass der Wirtschaftsnobelpreis an die US-Ökonomen Robert E. Hall und Michael Woodford vergeben wird und dies von der Königlich-Schwedischen Akademie der Wissenschaften in Stockholm bekanntgegeben wurde.",
-    "diff": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "note": "Erwähnt, dass die Auszeichnung für die mikroökonomischen Grundlagen der makroökonomischen Stabilisierung erfolgt."
-      },
-      {
-        "name": "WELT",
-        "note": "Ergänzt, dass die Forscher Modelle entwickelt haben, die Staaten und Zentralbanken das Abmildern von Konjunkturschwankungen erleichtern."
-      }
-    ],
-    "chg": "",
-    "independent": 2
   }
 ]
