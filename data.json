@@ -1,5 +1,867 @@
 [
   {
+    "id": "story-bcae364922994ff0",
+    "c": "INT",
+    "o": "PT",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-18T11:29:37.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Wohnungsnot-Proteste: Aktivisten halten an Camps in Lissabon und Porto fest",
+    "s": "Nach landesweiten Protesten für das Recht auf Wohnen und gegen hohe Lebenshaltungskosten haben Demonstrierende ihre provisorischen Camps in Lissabon und Porto über Nacht beibehalten. Die Kundgebungen fanden am Samstag statt und richteten sich gegen die drastischen Preissteigerungen. Nun setzen die Aktivisten ihre Aktionen vor Ort fort.",
+    "m": "Im Zuge der Demonstrationen vom Samstag für bezahlbaren Wohnraum und gegen die steigenden Lebenshaltungskosten haben Aktivisten beschlossen, ihre Zelte und Camps nicht abzubrechen. In der Hauptstadt Lissabon verbrachten Demonstrierende die Nacht auf dem Rossio-Platz. Gleichzeitig wurde auch in Porto auf der Praça D. João I kampiert. Die Proteste verdeutlichen die anhaltende Frustration über die schwierige Lage auf dem Immobilienmarkt und die allgemeine Teuerung in Portugal. Weitere Details zum Ablauf der Nacht und zu Reaktionen von Behörden oder Eigentümern gehen aus den Berichten nicht hervor. Auch offizielle Zahlen zu den beteiligten Personen oder konkrete politische Forderungen wurden in diesem Rahmen zunächst nicht beziffert. Die Situation bleibt Gegenstand laufender Berichterstattung.",
+    "r": "Die anhaltenden Proteste spiegeln die gesellschaftliche und wirtschaftliche Belastung durch steigende Lebenshaltungskosten und Wohnungsnot wider. Die Beibehaltung der Camps zeigt die Entschlossenheit der Demonstrierenden, das Thema auf der politischen Agenda zu halten.",
+    "srcs": [
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/pais/manifestantes-pelo-direito-a-habitacao-mantem-acampamentos-em-lisboa-e-porto_e1772433",
+        "date": "2026-10-18T11:29:37.000Z"
+      },
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPczF0V1R4cFgya2RFby1zbHhJXzlOMEZlV2tUYUd0eXFNMER4REZJTG1fRHlVbUplOS02ajZpcHltV25PcUNqRGxlc0w1djVYVW5abmxXT3Q0VW9qcng2ZHJvNlZRMEZ6dEl0V3dpeHFIN3dnN2hlcUlObFplaU1UNUcxTlNRQ3g4VXVjME85OE5ObEtRcXpRQ1NVQ1FvbVZXUURDanpfRlFwNEpLZ3V5Snh2WUJOcTRidmc?oc=5",
+        "date": "2026-10-18T10:29:37.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/pais/manifestantes-pelo-direito-a-habitacao-mantem-acampamentos-em-lisboa-e-porto_e1772433",
+    "agree": "Beide Quellen stimmen überein, dass Demonstrierende ihre Camp-Aktivitäten in Lissabon und Porto nach den Protesten fortführen.",
+    "diff": [
+      {
+        "name": "RTP Notícias",
+        "note": "nennt konkret die Plätze Rossio in Lissabon und Praça D. João I in Porto als Orte der Übernachtung und verweist auf eine laufende Aktualisierung."
+      },
+      {
+        "name": "Google News Portugal",
+        "note": "bietet lediglich eine Schlagzeilen-Weiterverweisung auf den Bericht von RTP."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-e2a67c407c9105f9",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-18T11:26:40.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Papst Leo XIV. spricht Angelus-Gebet nach Lungen-OP",
+    "s": "Papst Leo XIV. ist fünf Tage nach seiner Krebsoperation wieder öffentlich aufgetreten. Vor tausenden Gläubigen auf dem Petersplatz sprach er das Angelus-Gebet. Es war der erste öffentliche Auftritt nach dem medizinischen Eingriff an der Lunge.",
+    "m": "Fünf Tage nach einer Krebsoperation an der Lunge hat Papst Leo XIV. seinen ersten offiziellen und öffentlichen Auftritt absolviert. Er sprach das traditionelle Angelus-Gebet vor tausenden versammelten Gläubigen. Auf dem Petersplatz bereiteten die Menschen ihm einen emotionalen Empfang mit Jubelrufen wie Es lebe der Papst. Der Pontifex nutzte die Gelegenheit, um sich ausdrücklich für die weltweite Unterstützung zu bedanken. Damit zeigt sich der Papst überraschend schnell nach dem schweren Eingriff wieder in der Öffentlichkeit. Offen bleibt, wann er seine Amtsgeschäfte wieder in vollem Umfang aufnehmen kann.",
+    "r": "Der erste öffentliche Auftritt des Papstes nach einer Krebsoperation ist ein wichtiges gesundheitliches Signal für den Vatikan und Gläubige weltweit. Das Ereignis zeigt den aktuellen Genesungsstand des Kirchenoberhaupts.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/fuenf-tage-nach-lungen-op-papst-spricht-angelus-gebet-im-vatikan-vor-tausenden-glaeubigen-100.html",
+        "date": "2026-10-18T11:26:40.000Z"
+      },
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/panorama/papst-lungen-op-angelus-gebet-petersplatz-100.html",
+        "date": "2026-10-18T10:31:33.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/fuenf-tage-nach-lungen-op-papst-spricht-angelus-gebet-im-vatikan-vor-tausenden-glaeubigen-100.html",
+    "agree": "Die Quellen sind sich einig, dass Papst Leo XIV. fünf Tage nach seiner Lungen-Operation das Angelus-Gebet vor Tausenden Gläubigen im Vatikan gesprochen hat.",
+    "diff": [
+      {
+        "name": "ZDF heute",
+        "note": "Berichtet ergänzend, dass der Papst für die Unterstützung gedankt hat und die Gläubigen auf dem Petersplatz 'Es lebe der Papst' riefen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-c73da8c1590ad178",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-18T11:26:40.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Großbrand auf kanadischer Militärbasis fordert Tote und Verletzte",
+    "s": "In der kanadischen Provinz Alberta hat sich ein ernsthafter Zwischenfall auf einer Militärbasis ereignet. Dabei kam es zu einem Großbrand, der Todesopfer und Verletzte forderte. Die genauen Umstände des Feuers sind derzeit Gegenstand von Berichten.",
+    "m": "Auf einer kanadischen Militärbasis in der Provinz Alberta ist ein Großbrand ausgebrochen, der nach übereinstimmenden Medienberichten zu Toten und Verletzten geführt hat. Der Vorfall wird von den Behörden als ernsthafter Zwischenfall eingestuft. Genauere Details über die Zahl der Opfer, das betroffene Areal auf der Basis oder die Ursache des Feuers wurden in den ersten Meldungen nicht genannt. Die Rettungskräfte waren im Einsatz, um die Situation vor Ort zu bewältigen. Weitere Informationen zum genauen zeitlichen Ablauf und den Hintergründen des Brandes stehen noch aus.",
+    "r": "Der Vorfall auf einer militärischen Einrichtung mit Todesfölgen und Verletzten besitzt sicherheitspolitische und regionale Relevanz. Ereignisse dieser Art auf Militärbasen erfordern offizielle Aufklärung und Sicherheitsüberprüfungen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/tote-und-verletzte-bei-grossbrand-auf-kanadischer-militaerbasis-102.html",
+        "date": "2026-10-18T11:26:40.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVkkzLVdLRXRMN09sY0MzU3pLMU95YlJwRUFJYzRheTZubUYtbnk3UGZkcFdNV2R5bzcwVVVhYmFOMDVUeUpLSUI0UHRKNkZSTGVxMUMxc0VPZWN2U1J0ZTVNU293Z1hFZWUxdmxwUm5BRDFLMTFiNnhRUUxJUDhRZ2RnYjBubU1ZTFppbnRHdTBld1FxZ1NJVzRub0RScjYwRVFrd3VGS0RPLUxkRXIwTjRxTWJGTlMyQS1CUExBVjFiTHVLd1VZQVRLazY3dFhmWXRqcldUZGg0MlREVlZpR2tqNA?oc=5",
+        "date": "2026-10-18T06:04:00.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/tote-und-verletzte-bei-grossbrand-auf-kanadischer-militaerbasis-102.html",
+    "agree": "Die Quellen stimmen überein, dass es auf einer kanadischen Militärbasis in der Provinz Alberta einen Großbrand mit Toten und Verletzten gegeben hat.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Berichtet über den Großbrand mit Toten und Verletzten auf einer Militärbasis in Alberta."
+      },
+      {
+        "name": "Google News DE",
+        "note": "Bezeichnet das Geschehen unter Berufung auf den Tagesspiegel als ernsthaften Zwischenfall."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-bea2136b20956ad2",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-18T11:26:40.000Z",
+    "p": 2,
+    "st": "BY",
+    "city": "",
+    "t": "US-Außenminister Rubio fordert Israel zum Einschreiten gegen Siedlergewalt auf",
+    "s": "Die Vereinigten Staaten fordern von Israel ein entschlosseneres Vorgehen gegen die zunehmende Gewalt durch israelische Siedler im Westjordanland. US-Außenminister Marco Rubio äußerte sich tief besorgt über die aktuellen Vorfälle in der Region. Die Forderung verdeutlicht den wachsenden diplomatischen Druck auf die israelische Regierung bezüglich der Lage im Westjordanland.",
+    "m": "US-Außenminister Marco Rubio hat die israelische Regierung unmissverständlich aufgefordert, konsequent gegen gewalttätige Übergriffe von Siedlern im Westjordanland vorzugehen. Als Begründung für diesen dringenden Appell verwies der US-Außenminister auf besorgniserregende Bildaufnahmen und Entwicklungen vor Ort. Die Situation im Westjordanland ist seit längerer Zeit von anhaltenden Spannungen und Konflikten geprägt, die durch Siedleraktivitäten weiter verschärft werden. Bislang gibt es keine offiziellen Berichte darüber, wie die israelische Führung auf diese konkrete Forderung aus Washington reagieren wird. Beobachter werten den Vorstoß als klares Signal der US-Regierung, dass die Einhaltung von Recht und Ordnung im Westjordanland für die internationalen Partner von großer Bedeutung ist. Offen bleibt vorerst, welche konkreten Maßnahmen oder Konsequenzen die US-Seite bei ausbleibenden Schritten seitens Israel erwägt.",
+    "r": "Die Äußerungen des US-Außenministers dokumentieren den diplomatischen Druck der USA auf Israel bezüglich der Sicherheitslage und der Siedleraktivitäten im Westjordanland. Dies ist von Bedeutung für die internationalen Beziehungen und die Stabilität in der Nahostregion.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/us-aussenminister-rubio-fordert-israel-zum-einschreiten-gegen-siedlergewalt-auf-102.html",
+        "date": "2026-10-18T11:26:40.000Z"
+      },
+      {
+        "name": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/aktuelle-news-zum-usa-iran-krieg-vom-12-bis-18-oktober,VXoPckm",
+        "date": "2026-10-18T11:09:50.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/us-aussenminister-rubio-fordert-israel-zum-einschreiten-gegen-siedlergewalt-auf-102.html",
+    "agree": "Beide Quellen stimmen darin überein, dass die USA von Israel ein stärkeres Vorgehen gegen Siedlergewalt im Westjordanland fordern.",
+    "diff": [
+      {
+        "name": "BR24 Bayern",
+        "note": "Ergänzt das wörtliche Zitat von US-Außenminister Marco Rubio, dass man sehr beunruhigt über die Bilder sei."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-df90a72c41a7de95",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-18T11:26:40.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Erneuter Sicherheitsvorfall am Flughafen Leipzig/Halle führt zu Sperrung",
+    "s": "Am Flughafen Leipzig/Halle hat sich ein neuerlicher Zwischenfall ereignet, bei dem ein Fahrzeug voraussichtlich einen Sicherheitszaun durchbrochen hat. Die Polizei bestätigte Beschädigungen an der Einzäunung. Die Nordpiste wurde in diesem Zusammenhang gesperrt.",
+    "m": "Der Vorfall ereignete sich am Flughafen Leipzig/Halle und führte zur Sperrung der Nordpiste. Nach Angaben der Polizei durchbrach mit hoher Wahrscheinlichkeit ein Auto beziehungsweise Fahrzeug den Sicherheitszaun des Geländes, wodurch Sachschaden entstand. Bei anschließenden Kontrollen und Durchsuchungen wurden zunächst weder verdächtige oder unberechtigte Personen noch verdächtige Gegenstände auf dem Gelände gefunden. Die Ermittlungen zu den Hintergründen des Durchbruchs und zum Verbleib des Fahrzeugs beziehungsweise der Insassen dauern an.",
+    "r": "Sicherheitsvorfälle an kritischen Infrastrukturen wie internationalen Flughäfen erfordern sofortige polizeiliche Maßnahmen und Überprüfungen zum Schutz des Luftverkehrs. Die Sperrung einer Start- und Landebahn beeinträchtigt zudem den geregelten Flugbetrieb.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/erneuter-zwischenfall-am-flughafen-leipzig-halle-sicherheitszaun-offenbar-von-fahrzeug-durchbrochen-100.html",
+        "date": "2026-10-18T11:26:40.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/panorama/leipzig-halle-zwischenfall-am-flughafen-betrieb-eingeschraenkt-a-a93457e3-82be-4857-ac73-505f849a953e#ref=rss",
+        "date": "2026-10-18T07:10:00.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/erneuter-zwischenfall-am-flughafen-leipzig-halle-sicherheitszaun-offenbar-von-fahrzeug-durchbrochen-100.html",
+    "agree": "Beide Quellen stimmen überein, dass es am Flughafen Leipzig/Halle einen Zwischenfall gab, bei dem ein Fahrzeug offenbar einen Zaun durchbrochen hat, und dass die Nordpiste gesperrt wurde.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Erwähnt präzisierend, dass es sich laut Polizei \"mit hoher Wahrscheinlichkeit\" um ein Fahrzeug handelte und der Zaun beschädigt wurde."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Berichtet kurz, dass laut Polizei zunächst weder unberechtigte Personen noch verdächtige Gegenstände gefunden wurden."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-7b3e143fe5096d86",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-18T11:02:53.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Republikaner kritisieren Trumps Russland-Kurs als unverantwortlich",
+    "s": "US-Präsident Donald Trump entfernt sich zunehmend von der Ukraine und gerät dafür in die Kritik von Politikern aus den eigenen Reihen. Der republikanische Senator Thom Tillis bezeichnete das Vorgehen als völlig unverantwortlich. Er schlug stattdessen vor, die Energiepreise durch eine Lösung der Iran-Frage zu senken, statt dem russischen Präsidenten Wladimir Putin entgegenzukommen.",
+    "m": "Der US-Präsident Donald Trump rückt in seiner Politik immer weiter von der Ukraine ab und muss dafür scharfe Kritik aus der eigenen Partei der Republikaner einstecken. Konkret erklärte der Senator Thom Tillis am Samstag, dass dieser Kurs völlig unverantwortlich sei. Tillis betonte, dass der Präsident die Energiepreise effektiver senken könne, indem er die Iran-Frage löse, anstatt Wladimir Putin Gefallen zu erwiesen. Der russische Staatspräsident führt bereits seit fast fünf Jahren einen Krieg gegen die Ukraine. Über weitere Reaktionen innerhalb der Republikaner oder konkrete politische Schritte der US-Regierung nennen die vorliegenden Berichte keine Details. Der Vorfall verdeutlicht jedoch wachsende parteiinterne Spannungen bezüglich der künftigen US-Außenpolitik gegenüber Russland und der Ukraine.",
+    "r": "Die Meldung ist relevant, da sie parteiinterne Kritik von Republikanern an der Ukraine- und Russland-Politik von US-Präsident Donald Trump aufzeigt. Dies verdeutlicht mögliche politische Spannungen in den USA bezüglich des seit fast fünf Jahren andauernden Krieges in der Ukraine.",
+    "srcs": [
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/news/-voellig-unverantwortlich---republikaner-kritisieren-trumps-russland-kurs-38413094.html",
+        "date": "2026-10-18T11:02:53.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQllFWFNXTVdsRmVoa1pqTjk5U0x5QmRBMDlfZktEcE1BUy1saVYzb2VheVo1TWFMbUdoVnp6T0hmTllNU1NRS2pwbEdla3h0Sm9hSVJ3ekxuUHpldmQtZjV4RmFKRzcxQXo2WGNHc3ZEQV9ab2w2NU5uX1dWT1RVVTBuTW1oTzlVZEtoQ0hWVi1aTnNBalpyM1ZXQi10VHRLN1pyUjJORXJmMTJtX0JXU2t1aDVEdw?oc=5",
+        "date": "2026-10-18T10:47:09.000Z"
+      }
+    ],
+    "url": "https://www.stern.de/news/-voellig-unverantwortlich---republikaner-kritisieren-trumps-russland-kurs-38413094.html",
+    "agree": "Die Quellen stimmen darin überein, dass Republikaner den Russland-Kurs von Donald Trump kritisieren.",
+    "diff": [
+      {
+        "name": "stern",
+        "note": "Berichtet detailliert über die Aussagen des Senators Thom Tillis vom Samstag, der Trumps Kurs als völlig unverantwortlich bezeichnet und stattdessen eine Lösung der Iran-Frage zur Senkung der Energiepreise fordert."
+      },
+      {
+        "name": "Google News DE",
+        "note": "Enthält lediglich eine Kurzmeldung beziehungsweise einen Ticker-Verweis auf die Kritik der Republikaner am Russland-Kurs von Trump."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-93b011ba0d876803",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-18T10:15:00.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Helene Fischer kündigt neues Album mit dem Titel WIR für 2026 an",
+    "s": "Die Schlagersängerin Helene Fischer hat ein neues Studioalbum angekündigt, das im Jahr 2026 erscheinen soll. Das Werk trägt den Titel WIR. Die Ankündigung sorgte für große Aufmerksamkeit bei Fans und Medien. Genauere Details zum genauen Veröffentlichungszeitpunkt im Jahr 2026 stehen noch aus.",
+    "m": "Das neue Album von Helene Fischer soll unter dem Titel WIR im Jahr 2026 auf den Markt kommen. Nach Angaben der Künstlerin und Medienberichten wird das Album sowohl bewährte musikalische Elemente als auch neue, möglicherweise etwas provokativere Töne anschlagen. Die Sängerin selbst kündigte an, dass das Werk Altbekanntes liefern, aber auch frische Impulse setzen werde. Fans dürfen gespannt sein, wie sich dieser musikalische Spagat in den neuen Songs anhören wird. Der genaue Release-Termin innerhalb des Jahres 2026 wurde bisher noch nicht offiziell kommuniziert. Auch über eine begleitende Tournee gibt es zum aktuellen Zeitpunkt noch keine konkreten Informationen.",
+    "r": "Die Ankündigung eines neuen Albums einer der erfolgreichsten deutschen Künstlerinnen ist von großem kulturellen und wirtschaftlichen Interesse für die Musikbranche. Das Album WIR markiert einen wichtigen Meilenstein in der Karriere von Helene Fischer für das Jahr 2026.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdW1TR0N4NVVRSFpYLVFkb09pNkh1T2lZYVhXNGlFcWFnUlBYNG9JUGRhZVBzeUxnak1wS3hadERHTFVFUkd4eEc2LUYyejBwVXd3QWJKeEJHUlkteFAyMlF3RGU0LWVLMnNTc1ZrTzE2X0pqd2VZejduVTlfMlpodTR4aVFHYU1ISHlmYzdqSjNtX2N2eXBQSlRhRGdoRXN3RnVFMnZrNUlSU3RsWEVpYzBBR19RSFltTFJ2R1RMMmJpbW9VTWNPR0VJSnBvdXhxcktVRHVwaG5NS0dRSjA3S1hwS1JuUnRxTjBVeU0yUWttM3VlVW8w?oc=5",
+        "date": "2026-10-18T10:15:00.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/kultur/musik/helene-fischer-kuendigt-neues-album-fuer-2026-an-vielleicht-sogar-ein-bisschen-provokativ-a-d566a45f-77ce-422e-a9f3-ae162929ee93#ref=rss",
+        "date": "2026-10-18T10:15:00.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdW1TR0N4NVVRSFpYLVFkb09pNkh1T2lZYVhXNGlFcWFnUlBYNG9JUGRhZVBzeUxnak1wS3hadERHTFVFUkd4eEc2LUYyejBwVXd3QWJKeEJHUlkteFAyMlF3RGU0LWVLMnNTc1ZrTzE2X0pqd2VZejduVTlfMlpodTR4aVFHYU1ISHlmYzdqSjNtX2N2eXBQSlRhRGdoRXN3RnVFMnZrNUlSU3RsWEVpYzBBR19RSFltTFJ2R1RMMmJpbW9VTWNPR0VJSnBvdXhxcktVRHVwaG5NS0dRSjA3S1hwS1JuUnRxTjBVeU0yUWttM3VlVW8w?oc=5",
+    "agree": "Beide Quellen stimmen darin überein, dass Helene Fischer ein neues Album für das Jahr 2026 angekündigt hat.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Berichtet, dass das Album vielleicht sogar ein bisschen provokativ werden könnte."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Nennt den genauen Albumtitel WIR und gibt an, dass es Altbekanntes, aber auch neue Facetten liefern wird."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-7269a3eeec5eda57",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-18T10:03:43.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Eskalation der Proteste in Frankreich mit massiven Ausschreitungen",
+    "s": "In Frankreich ist es zu beispiellosen Protesten mit schweren Ausschreitungen gekommen. In mehreren Städten wurden Gebäude in Brand gesetzt, Geschäfte geplündert und Gewalt verübt. Die Behörden verzeichneten rund 1.800 Festnahmen. Zu den betroffenen Gebäuden gehört unter anderem das historische Rathaus in Limoges.",
+    "m": "Die Proteste in Frankreich haben eine neue Eskalationsstufe erreicht, die von massiven Gewaltausbrüchen, Plünderungen und Bränden in mehreren Städten geprägt ist. Besonders schwer betroffen ist unter anderem das historische Rathaus in Limoges, das von den Flammen erfasst wurde. Insgesamt wurden im Zuge der Ausschreitungen landesweit 1.800 Personen festgenommen, was die drastische Lage für die Sicherheitskräfte verdeutlicht. Vermummte Personen nutzten die Demonstrationen für gezielte Zerstörungen und Angriffe. Die genauen Hintergründe und die langfristigen politischen sowie gesellschaftlichen Folgen dieser beispiellosen Krawalle sind Gegenstand laufender Beobachtungen. Offen ist zudem, wie die Regierung auf diese massiven Sicherheitsstörungen reagieren wird.",
+    "r": "Die Ausschreitungen verdeutlichen eine drastische Verschärfung der sozialen oder politischen Konflikte in Frankreich. Die hohen Festnahmezahlen und Zerstörungen privater und öffentlicher Gebäude erfordern erhöhte Sicherheitsmaßnahmen und belasten die öffentliche Ordnung.",
+    "srcs": [
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-116.html",
+        "date": "2026-10-18T10:03:43.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY2l4UkdLblNpOWdYT1dPOUhMUHhxVFh4SWM1T2FENUZXNWZuRVI2bmJ5TDh1ejk0SUNBbVRtN2xDaUt5YWZwVUdUY0tsMkVXcUFXZ2Z2c20xdlpPX09QUlEyTzg1eUFJRl9kZjZGVm91UlhsSUx3UEcyeEVtajJFbVlB?oc=5",
+        "date": "2026-10-18T10:03:00.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-116.html",
+    "agree": "Beide Quellen stimmen überein, dass es in Frankreich zu massiven Protesten mit Gewalt, Plünderungen und Bränden kam und 1.800 Menschen festgenommen wurden.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Die Quelle verweist in ihrem Titel und Text auf den Bericht der Tagesschau und enthält HTML-Code."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-c3c589f35df2f04a",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-18T09:34:15.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Junge Union fordert gesellschaftliche Ächtung von Rot-Grün-Rot in Berlin",
+    "s": "Die Junge Union fordert im Zusammenhang mit dem Regierungsbündnis Rot-Grün-Rot in Berlin eine gesellschaftliche Ächtung. Zudem verlangt die Nachwuchsorganisation den Ausschluss von Verfassungsschutz- und BKA-Informationen für die Koalition. Für sie stellt das Bündnis einen Kulturbruch dar. Bislang ist unklar, wie andere Parteien auf diese Forderungen reagieren werden.",
+    "m": "Die Junge Union hat in Berlin scharfe Kritik an der rot-grün-roten Koalition geübt und fordert neben der gesellschaftlichen Ächtung auch drastische Schritte im Informationsaustausch. Konkret verlangt die Organisation, dass die Koalition von Informationen des Verfassungsschutzes und des Bundeskriminalamtes (BKA) ausgeschlossen wird. Das Bündnis wird von der Jungen Union als Kulturbruch gewertet. Weitere Details zu den Hintergründen der Forderung oder konkrete Reaktionen der betroffenen Parteien gehen aus den Berichten bisher nicht hervor. Die Debatte wirft Fragen zur politischen Kultur und zum Umgang mit Sicherheitsbehörden in der Hauptstadt auf. Die Umsetzung der geforderten Maßnahmen erscheint politisch unwahrscheinlich, bleibt aber ein Diskussionspunkt.",
+    "r": "Die Forderungen der Jungen Union berühren Fragen des politischen Umgangs mit bestimmten Koalitionen und den Zugriff auf sensible Informationen von Sicherheitsbehörden. Solche Debatten sind relevant für das politische Klima und die Sicherheitsarchitektur in Berlin.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWjYwZFpEYURNTTBUeWo1Rkt0VlgtSUNlVlhCaEVFcEl2SEUtTlNwcGtKWGZZMWVic2tSMk44a2dPRGFuWE1yenMtU2JkdFJTNjRMVVJFR2RaUnQtMHRYVjE2T2hqcHlqS0VHWF9oWHlIS2xGUExZS0RpX0l3eVJSWlN1NWhyMDNYN0l3aTE1UW1nY3hNRjFMVGU1blNwX2FkM216X1UxdWU2dURLQ3VFLUFOVzFCWVMzdndlU2VveTBod0FDNlJlQ181NUVITlVJcjdHdk4taTJDb3FObTFXVQ?oc=5",
+        "date": "2026-10-18T09:34:15.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/deutschland/article6ad48a1dbbcd3ed7e302435c/rot-gruen-rot-in-berlin-junge-union-fordert-gesellschaftliche-aechtung.html",
+        "date": "2026-10-18T09:28:55.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWjYwZFpEYURNTTBUeWo1Rkt0VlgtSUNlVlhCaEVFcEl2SEUtTlNwcGtKWGZZMWVic2tSMk44a2dPRGFuWE1yenMtU2JkdFJTNjRMVVJFR2RaUnQtMHRYVjE2T2hqcHlqS0VHWF9oWHlIS2xGUExZS0RpX0l3eVJSWlN1NWhyMDNYN0l3aTE1UW1nY3hNRjFMVGU1blNwX2FkM216X1UxdWU2dURLQ3VFLUFOVzFCWVMzdndlU2VveTBod0FDNlJlQ181NUVITlVJcjdHdk4taTJDb3FObTFXVQ?oc=5",
+    "agree": "Die Quellen stimmen überein, dass die Junge Union in Berlin eine gesellschaftliche Ächtung von Rot-Grün-Rot fordert.",
+    "diff": [
+      {
+        "name": "WELT",
+        "note": "Berichtet ergänzend, dass die Junge Union den Ausschluss von Verfassungsschutz- und BKA-Informationen verlangt und die Koalition als Kulturbruch bezeichnet."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-27b84e37b98f378e",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-18T09:22:26.000Z",
+    "p": 2,
+    "st": "BW",
+    "city": "",
+    "t": "Gebäudebrand verursacht hohen Sachschaden: Dachgeschoss stand in Flammen",
+    "s": "In Reilingen kam es in der Nacht zum Sonntag zu einem Gebäudebrand. Die Flammen breiteten sich bis auf das Dachgeschoss aus. Der Vorfall rief die Feuerwehr auf den Plan. Es entstand hoher Sachschaden.",
+    "m": "In der Nacht auf Sonntag ereignete sich in Reilingen ein Brand in einem Gebäude, der einen Großeinsatz der Feuerwehr auslöste. Das Feuer breitete sich schnell bis auf das Dachgeschoss aus und verursachte erheblichen materiellen Schaden. Über Verletzte oder genaue Schadenssummen ist derzeit noch nichts bekannt. Die Brandursache wird von den zuständigen Behörden ermittelt. Der Vorfall zeigt einmal mehr die Gefahren von nächtlichen Gebäudebränden. Weitere Details zur Schadenshöhe und zum genauen Ablauf des Einsatzes stehen noch aus.",
+    "r": "Der Brand ist von regionaler Relevanz, da er einen größeren Feuerwehreinsatz und erheblichen Sachschaden in Reilingen verursacht hat. Solche Ereignisse verdeutlichen die potenziellen Gefahren von Gebäudefeuern für die lokale Bevölkerung.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/brand-gebaeude-dachgeschoss-100.html",
+        "date": "2026-10-18T09:22:26.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Baden-Württemberg",
+        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-feuerwehr-im-einsatz-wegen-gebaeudebrand-feuer-dehnt-sich-auf-dachgeschoss-aus-100.html",
+        "date": "2026-10-18T06:17:00.000Z"
+      }
+    ],
+    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/brand-gebaeude-dachgeschoss-100.html",
+    "agree": "Beide Quellen stimmen darin überein, dass es in der Nacht auf Sonntag in Reilingen zu einem Gebäudebrand mit hohem Sachschaden kam, bei dem sich die Flammen bis auf das Dachgeschoss ausbreiteten.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-ddcecaee43f9b357",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-18T09:15:12.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Großbrand auf kanadischem Militärstützpunkt Wainwright fordert Tote und Verletzte",
+    "s": "Auf dem kanadischen Militärstützpunkt Wainwright hat sich ein schwerer Vorfall ereignet, der zu einem Großbrand geführt hat. Das Feuer hat Todesopfer sowie Verletzte gefordert und breitet sich auf dem Gelände aus. Die genauen Umstände des Unglücks werden derzeit noch untersucht.",
+    "m": "Auf dem Militärstützpunkt Wainwright in Kanada, der zu den am stärksten genutzten Einrichtungen des Landes gehört, ist ein schwerer Vorfall mit Todesopfern und Verletzten eingetreten. Ein dort ausgebrochenes Feuer entwickelte sich zu einem unkontrollierten Großbrand. Wegen starker Winde dehnte sich das Feuer über das eigentliche Stützpunktgelände hinaus aus. Die Behörden halten sich zur genauen Ursache des Vorfalls bislang bedeckt. Bisher gibt es keine offiziellen Angaben zur genauen Anzahl der betroffenen Personen oder zum Ausmaß der Schäden. Der Einsatz zur Bekämpfung der Flammen und zur Sicherung des Geländes dauert an.",
+    "r": "Das Ereignis ist relevant, da es sich um einen schweren Zwischenfall auf einem bedeutenden Militärgelände mit Todesopfern und unkontrollierter Brandausbreitung handelt. Die Öffentlichkeit wartet auf offizielle Erklärungen zur Brandursache.",
+    "srcs": [
+      {
+        "name": "t-online Nachrichten",
+        "url": "https://www.t-online.de/nachrichten/ausland/id_101486214/kanada-grossbrand-auf-militaerbasis-wainwright-tote-und-verletzte.html",
+        "date": "2026-10-18T09:15:12.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/panorama/Tote-und-Verletzte-auf-Militaerbasis-in-Kanada-id31430393.html",
+        "date": "2026-10-18T03:58:50.000Z"
+      }
+    ],
+    "url": "https://www.t-online.de/nachrichten/ausland/id_101486214/kanada-grossbrand-auf-militaerbasis-wainwright-tote-und-verletzte.html",
+    "agree": "Beide Quellen stimmen darin überein, dass es auf dem kanadischen Militärstützpunkt Wainwright zu einem Großbrand mit Toten und Verletzten gekommen ist.",
+    "diff": [
+      {
+        "name": "t-online Nachrichten",
+        "note": "Erwähnt, dass es sich um einen der meistgenutzten Militärstützpunkte Kanadas handelt und das Feuer außer Kontrolle geraten zu sein scheint."
+      },
+      {
+        "name": "ntv",
+        "note": "Berichtet, dass sich das Großfeuer wegen starker Winde über das Gelände hinaus ausbreitet und die Behörden zur Ursache schweigen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-c23487e85c03fe51",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-18T08:48:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "SPD-Frauen werfen Union im Streit um Bärbel Bas Sexismus vor",
+    "s": "Im Zuge des Streits um den Rücktritt von Bundestagspräsidentin Bärbel Bas werfen SPD-Frauen der Union Sexismus vor. Die Vorsitzende der SPD-Frauen, Wegge, erhebt diesen Vorwurf gegen den Koalitionspartner. Hintergrund ist eine politische Auseinandersetzung mit gegenseitigen harten Vorwürfen.",
+    "m": "Der Streit zwischen SPD und Union hat sich durch Vorwürfe der SPD-Frauen verschärft. Die Vorsitzende der SPD-Frauen, Wegge, wirft der Union Sexismus vor und kritisiert CDU-Attacken gegen Ministerpräsidentin Manuela Schwesig als Sexismus mit System. Zuvor hatte Schwesig der Union ein unmenschliches Verhalten gegenüber Bärbel Bas vorgeworfen. Hintergrund der gesamten Auseinandersetzung ist der Rücktritt von Bärbel Bas, in dessen Folge sich die Koalitionspartner heftige Vorwürfe machen. Konkrete Details zu den Umständen des Rücktritts oder weiteren Reaktionen der Union gehen aus den Berichten nicht hervor.",
+    "r": "Die Auseinandersetzung zwischen den Koalitionspartnern SPD und Union über den Rücktritt von Bärbel Bas und den Umgang miteinander zeigt politische Spannungen auf höchster Ebene. Solche Konflikte können die Regierungsarbeit belasten und das Vertrauen in die Koalition beschädigen.",
+    "srcs": [
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/deutschland/spd-wegge-kritik-union-schwesig-sexismus-vorwurf-100.html",
+        "date": "2026-10-18T08:48:00.000Z"
+      },
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/inland/innenpolitik/spd-wirft-cdu-sexismus-vor-100.html",
+        "date": "2026-10-18T03:45:01.000Z"
+      }
+    ],
+    "url": "https://www.zdfheute.de/politik/deutschland/spd-wegge-kritik-union-schwesig-sexismus-vorwurf-100.html",
+    "agree": "Die SPD-Frauen werfen der Union im Zusammenhang mit dem Streit um Bärbel Bas Sexismus vor.",
+    "diff": [
+      {
+        "name": "ZDF heute",
+        "note": "Berichtet, dass die SPD-Frauen den CDU-Attacken gegen Schwesig 'Sexismus mit System' vorwerfen und Schwesig der Union ein 'unmenschliches' Verhalten gegenüber Bas vorgeworfen hatte."
+      },
+      {
+        "name": "SWR Aktuell",
+        "note": "Nennt die Vorsitzende der SPD-Frauen, Wegge, namentlich als Urheberin der Vorwürfe gegen den Koalitionspartner und erwähnt den Rücktritt von Bärbel Bas als Hintergrund."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-e3d931f17dee4848",
+    "c": "INT",
+    "o": "PT",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-18T07:42:06.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Schwerer Brand auf kanadischem Militärstützpunkt in Alberta fordert Opfer",
+    "s": "Auf dem kanadischen Militärstützpunkt Wainwright in der Provinz Alberta ist ein schwerer Brand ausgebrochen. Das Feuer hat nach Angaben der Behörden zu Todesfällen und Verletzten geführt. Genaue Opferzahlen wurden bisher nicht genannt.",
+    "m": "Das Feuer ereignete sich auf der Basis Wainwright in der kanadischen Provinz Alberta. Nach offiziellen Angaben der Behörden hat der Vorfall mehrere Menschen das Leben gekostet und weitere Personen verletzt. Die genaue Zahl der Todesopfer und Verletzten ist zum aktuellen Zeitpunkt noch unklar. Rettungs- und Sicherheitskräfte sind im Einsatz, um die Lage vor Ort zu kontrollieren. Die Ursache des Brandes sowie das Ausmaß der Schäden an der militärischen Infrastruktur werden derzeit untersucht. Weitere offizielle Details zu den Hintergründen der Katastrophe stehen noch aus.",
+    "r": "Der Vorfall auf einer militärischen Einrichtung mit Todesopfern und Verletzten ist sicherheitsrelevant und betrifft die öffentliche Ordnung in Kanada. Die unklare Opferzahl verdeutlicht die Dynamik der aktuellen Situation.",
+    "srcs": [
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/mundo/incendio-em-base-militar-canadiana-em-alberta-causa-mortos-e-feridos_n1772424",
+        "date": "2026-10-18T07:42:06.000Z"
+      },
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMEZuSTVWRkRKYlEza1ZYZGI4alRyVWJna1pnRnp5N2JMeTZjcnBmSUdQbWtBOU1rd0oyTjVWVUgtZVZvMlpUWmxjT2hpdGM2Q1lDbEdsVF9FbHc1d2RUYkxZdnhld05raXZNc3FGS28wSXhVN3JUX040T2tUVTBXYkVETjJwTjNsZmF4UXo1bEVqWUhZQk40NHprRVBWdEpXNlhlcGhmZmZLZ9IBpAFBVV95cUxPaGJyMHlyY0lfUFMyMmVlUFdiTWxNQ1Q0RlJya1NLYnV5UTVLdURhSEU4alRtWHFXazV3Q05JLXFkZXlNLUNuSm10eEtJS19nM3ZSekF0czF2TUJiMXNjLWZkdGVJZ01hX1U0UHJTRnhaR3hFblYtNDJobVN5OVdlYWgxdzRMSHVsZUFqLW54VlJCU3p6Ui1wakw1R1gxdVdUNnd3VQ?oc=5",
+        "date": "2026-10-18T06:34:00.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/mundo/incendio-em-base-militar-canadiana-em-alberta-causa-mortos-e-feridos_n1772424",
+    "agree": "Die Quellen stimmen überein, dass ein schwerer Brand auf einer kanadischen Militärbasis in Alberta zu Toten und Verletzten geführt hat.",
+    "diff": [
+      {
+        "name": "Google News Portugal",
+        "note": "Erwähnt zusätzlich den Correio da Manhã als berichtendes Medium und spricht von 'vielen' Toten und Verletzten."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-bb4fd9d32578a06a",
+    "c": "INT",
+    "o": "PT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-18T07:38:09.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Ex-Ministerin wirft Nachfolger in Migrationspolitik Annäherung an Rechtspopulisten vor",
+    "s": "Die ehemalige portugiesische Migrationsministerin aus den Reihen der Sozialisten hat ihren Amtsnachfolger António Leitão Amaro öffentlich kritisiert. Sie wirft ihm vor, dem Diskurs der rechtspopulistischen Partei Chega nachzugeben. Zudem schüre er Ängste in der Bevölkerung in Bezug auf Zuwanderer in Portugal.",
+    "m": "Die scharfe Kritik der früheren Ministerin entzündet sich an der aktuellen politischen Ausrichtung und Kommunikation ihres Nachfolgers António Leitão Amaro von der sozialdemokratischen PSD. Konkret wirft sie ihm vor, durch seine Politik und Wortwahl den Forderungen und der Rhetorik des rechtspopulistischen Chega-Lagers entgegenzukommen. Aus ihrer Sicht fördert dieses Vorgehen eine Atmosphäre der Angst gegenüber Migrantinnen und Migranten im Land. Der Vorwurf markiert eine deutliche Auseinandersetzung innerhalb der politischen Landschaft Portugals bezüglich des Umgangs mit Zuwanderung und dem Aufstieg rechtspopulistischer Strömungen. Weitere konkrete Gesetzesänderungen oder offizielle Reaktionen des Ministeriums gehen aus den vorliegenden Berichten bislang nicht hervor.",
+    "r": "Der Schlagabtausch zwischen Regierungsvertreter und Opposition verdeutlicht die anhaltende und polarisierende Debatte um den Kurs in der Migrationspolitik sowie den Umgang mit rechtspopulistischen Parteien in Portugal.",
+    "srcs": [
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/politica/ana-catarina-mendes-ex-ministra-das-migracoes-acusa-sucessor-de-ceder-ao-chega_n1772426",
+        "date": "2026-10-18T07:38:09.000Z"
+      },
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV0NvcWZhUTBuMlpFbHZMbm52WTNBUFo2MDBabXpfWk5jSTBrekU4ZER2dmNvQTN4WnFtY2dfRHp6bmJsZnF0Z003SDRvdktUcUVsZ2dBT09mRTN5VlE4ZGJOUzBFelR3QWt2OS1keU5YaDVxZXFwWjhpOVZhcjVwc19JUU1hd1NiMFN4MDN6NnFFXzNrUDBEUjZKdzRmYkNX0gGbAUFVX3lxTFBQYjVmeG16WlFVNWxnOEdKSUQ2Y01GQ2NOZi1VTDJLTkpxTmNsNG41UUo5azRvZDF3aktJazlYd0hXZWQ4MkVOSFExelVTYjRsRi1KUGwzV2lQR0NhYm9IeGtEMi01ZzFwcEZ0YVQ3eGt0V2lqTlY1dVhNWjdKcHZydkdGR3dmc0tXVzhpal83amVhNVhwa3VlZVJR?oc=5",
+        "date": "2026-10-18T06:25:04.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/politica/ana-catarina-mendes-ex-ministra-das-migracoes-acusa-sucessor-de-ceder-ao-chega_n1772426",
+    "agree": "Die Quellen stimmen überein, dass eine ehemalige sozialistische Ministerin für Migration ihren Amtsnachfolger António Leitão Amaro beschuldigt hat, dem Chega-Diskurs nachzugeben und Ängste vor Einwanderern zu schüren.",
+    "diff": [
+      {
+        "name": "Google News Portugal",
+        "note": "Verweist zusätzlich auf den Correio da Manhã als ursprüngliches Medium für diese Meldung."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-b5e379632bd400da",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-18T06:51:00.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "AfD-Kandidat in Cloppenburg lehnt versehentlich eigene Wahl ab",
+    "s": "In Cloppenburg hat ein Kandidat der AfD bei einer Kommunalwahl aus Versehen seinen eigenen Sitz im Rat abgelehnt. Grund dafür war ein falsch gesetztes Kreuz auf einem offiziellen Dokument. Der betroffene Politiker äußerte großen Ärger über diesen Fehler.",
+    "m": "Der AfD-Kandidat Andreas Bluhm hat durch einen Formfehler einen bereits sicheren Sitz im Rat von Cloppenburg verloren. Auf dem entsprechenden Dokument setzte er das Kreuz an der falschen Stelle, wodurch die Wahl formell abgelehnt wurde. Über dieses Missgeschick äußerte er sich im Nachhinein sehr verärgert. Der Fall zeigt, wie entscheidend formale Details bei der Annahme von Mandaten sind und welche drastischen Folgen ein einfacher Flüchtigkeitsfehler haben kann. Weitere politische Konsequenzen oder offene Fragen wurden in den Berichten nicht genannt.",
+    "r": "Der Vorfall zeigt exemplarisch, wie formale Fehler bei Wahlannahmen zu personellen Verlusten in kommunalen Gremien führen können. Solche Pannen werfen ein Schlaglicht auf die Bedeutung bürokratischer Sorgfalt im politischen Prozess.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWWpHRkdORldSVHRUSHBZZThGakgzZXF4MEFMYTd3XzZOMmJsc0t1Zlo5VElkYjZVLVhyR0JNeFFjbkFIenlJd21icmJKcG5lTmFjX042YW9vd0NsbUxhSXExUlJGeEZJOGdxYkxkdV92cnNaY2Z5RXVENTBZQXd2TXpFZW13cjAxVGVzMXdiZE9GUWJ4cnktaUJQWXhERExSQjc3Y25XdzRMeDlvNVpYRWpQR0xMYXlPbEJZMGFZVTFyeG5JUFRvcFRKRTdvTzhTTHJRMnYzd1RXZkEtUW43eQ?oc=5",
+        "date": "2026-10-18T06:51:00.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/politik/deutschland/cloppenburg-afd-kandidat-lehnt-versehentlich-seine-eigene-wahl-ab-a-33599902-61b4-4a7d-aee8-d2c4eb8662e5#ref=rss",
+        "date": "2026-10-18T06:51:00.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWWpHRkdORldSVHRUSHBZZThGakgzZXF4MEFMYTd3XzZOMmJsc0t1Zlo5VElkYjZVLVhyR0JNeFFjbkFIenlJd21icmJKcG5lTmFjX042YW9vd0NsbUxhSXExUlJGeEZJOGdxYkxkdV92cnNaY2Z5RXVENTBZQXd2TXpFZW13cjAxVGVzMXdiZE9GUWJ4cnktaUJQWXhERExSQjc3Y25XdzRMeDlvNVpYRWpQR0xMYXlPbEJZMGFZVTFyeG5JUFRvcFRKRTdvTzhTTHJRMnYzd1RXZkEtUW43eQ?oc=5",
+    "agree": "Beide Quellen stimmen darin überein, dass ein AfD-Kandidat in Cloppenburg aus Versehen seine eigene Wahl abgelehnt hat.",
+    "diff": [
+      {
+        "name": "DER SPIEGEL",
+        "note": "Nennt den Namen des Kandidaten (Andreas Bluhm) und zitiert dessen Ärger über den Fehler."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-ea706e4d744717f4",
+    "c": "INT",
+    "o": "INT",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-18T06:34:02.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Daniel Dubois verteidigt WBO-Schwergewichtstitel gegen Fabio Wardley",
+    "s": "Daniel Dubois hat seinen WBO-Schwergewichtstitel im Boxen gegen seinen Landsmann Fabio Wardley verteidigt. Der Kampf fand in London statt. Dubois dominierte das Duell und ging als Sieger aus dem Ring. Nach dem Sieg steht für ihn möglicherweise eine Herausforderung durch IBO-Champion Hrgovic an.",
+    "m": "Daniel Dubois hat seinen WBO-Schwergewichtstitel durch einen Sieg gegen Fabio Wardley erfolgreich verteidigt. Der Kampf ging in London über die Bühne, wobei Dubois den britischen Boxer dominierte. Die Begegnung endete innerhalb von fünf Minuten in der O2 Arena. Im Rahmen des Events gab es zudem Kontroversen um Ringrichteraktionen bei anderen Kämpfen, bei denen geworfene Handtücher ignoriert wurden. Auch der Auftritt von Luke Littler wurde am Rande erwähnt. Nach diesem Titelgewinn blickt Dubois auf eine mögliche nächste Herausforderung gegen IBO-Champion Hrgovic.",
+    "r": "Der Kampf ist sportlich relevant, da es um die Verteidigung eines bedeutenden Weltmeistertitels im Boxen geht. Zudem zeigt er die aktuellen Entwicklungen und kommenden Herausforderungen in der Schwergewichtsklasse auf.",
+    "srcs": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/10/18/daniel-dubois-defeats-fabio-wardley-to-retain-wbo-heavyweight-boxing-title?traffic_source=rss",
+        "date": "2026-10-18T06:34:02.000Z"
+      },
+      {
+        "name": "Guardian Sport",
+        "url": "https://www.theguardian.com/sport/live/2026/oct/17/daniel-dubois-fabio-wardley-ii-boxing-wbo-heavyweight-title-fight-live",
+        "date": "2026-10-17T22:39:05.000Z"
+      }
+    ],
+    "url": "https://www.aljazeera.com/sports/2026/10/18/daniel-dubois-defeats-fabio-wardley-to-retain-wbo-heavyweight-boxing-title?traffic_source=rss",
+    "agree": "Die Quellen sind sich einig, dass Daniel Dubois seinen WBO-Schwergewichtstitel gegen Fabio Wardley in London verteidigt hat.",
+    "diff": [
+      {
+        "name": "Al Jazeera",
+        "note": "Erwähnt die bevorstehende Herausforderung durch den IBO-Champion Hrgovic."
+      },
+      {
+        "name": "Guardian Sport",
+        "note": "Beschreibt den Kampf als Fünf-Minuten-Demolierung in der O2 Arena und nennt Details zu anderen fragwürdigen Kampfszenen und Luke Littler."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-7272da37ec45a38e",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-18T05:29:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Landesweite »No Kings«-Proteste in den USA vor Midtermwahlen",
+    "s": "Wenige Wochen vor den anstehenden Midtermwahlen in den USA hat die »No Kings«-Bewegung landesweit demonstriert. Im ganzen Land fanden am Samstag zahlreiche Protestaktionen statt. Die Demonstrationen umfassten verschiedene Veranstaltungsformate wie Autokorsos und Konzerte.",
+    "m": "Am Samstag kam es in den USA zu mehr als 3000 Protestaktionen der »No Kings«-Bewegung gegen die Politik von US-Präsident Trump. Die Demonstrationen fanden im ganzen Land statt und wurden unter anderem durch Autokorsos, Konzerte und Nachbarschaftstreffen geprägt. Wenige Wochen vor den Midterms stand insbesondere die Mobilisierung von Wählern im Mittelpunkt der landesweiten Proteste. Die genauen politischen Forderungen und Reaktionen von Regierungsseite gehen aus den vorliegenden Berichten nicht hervor.",
+    "r": "Die landesweiten Proteste kurz vor den Midtermwahlen verdeutlichen die anhaltende gesellschaftliche Mobilisierung gegen die Politik von US-Präsident Trump.",
+    "srcs": [
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/usa-landesweite-no-kings-proteste-vor-midtermwahlen-a-edf27c1c-ba80-4336-8a20-3acb1e009d0b#ref=rss",
+        "date": "2026-10-18T05:29:00.000Z"
+      },
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/ausland/no-king-proteste-trump-usa-proteste-midterms-100.html",
+        "date": "2026-10-17T23:55:00.000Z"
+      }
+    ],
+    "url": "https://www.spiegel.de/ausland/usa-landesweite-no-kings-proteste-vor-midtermwahlen-a-edf27c1c-ba80-4336-8a20-3acb1e009d0b#ref=rss",
+    "agree": "Die Quellen sind sich einig, dass kurz vor den Midterms landesweite »No Kings«-Proteste gegen die Politik von US-Präsident Trump stattgefunden haben.",
+    "diff": [
+      {
+        "name": "DER SPIEGEL",
+        "note": "nennt konkrete Details wie mehr als 3000 Aktionen am Samstag sowie Formate wie Autokorsos, Konzerte und Nachbarschaftstreffen"
+      },
+      {
+        "name": "ZDF heute",
+        "note": "betont, dass die Mobilisierung von Wählern im Mittelpunkt stand"
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-c6e8393a58df4083",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-18T01:39:11.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Saudi-Arabien wehrt Raketen- und Drohnenangriffe der Huthi-Miliz ab",
+    "s": "Saudi-Arabien hat ballistische Raketen und Drohnen abgefangen, die aus dem Jemen auf sein Staatsgebiet abgeschossen wurden. Hinter den Angriffen steht die mit Iran verbündete Huthi-Miliz, die ihre Attacken auf das sunnitische Königreich fortsetzt. Es gibt bislang keine Berichte über Opfer oder nennenswerten Schaden durch die abgewehrten Geschosse. Die Lage in der Region bleibt angespannt.",
+    "m": "Die Huthi-Miliz aus dem Jemen setzt ihre militärischen Angriffe mit Drohnen, Marschflugkörpern und ballistischen Raketen fort und nimmt dabei gezielt Ziele im benachbarten Saudi-Arabien ins Visier. Das sunnitische Königreich reagiert darauf mit seinen Luftverteidigungssystemen, die die anfliegenden Projektile nach Angaben der Berichte abfangen konnten. Die Huthi-Milizen werden politisch und militärisch vom Iran unterstützt, was den Konflikt zu einem regionalen Stellvertreterkrieg macht. Diese Angriffe verdeutlichen die anhaltende Bedrohung der saudi-arabischen Infrastruktur und Sicherheit durch den jemenitischen Bürgerkrieg. Bislang wurden keine offiziellen Angaben zu eventuellen Trümmerteilen am Boden oder konkreten Personenschäden gemacht. Die internationalen Beobachter werten solche Attacken als kontinuierliche Provokation, die den Frieden in der gesamten Nahost-Region gefährdet.",
+    "r": "Die Angriffe der jemenitischen Huthi-Miliz auf Saudi-Arabien unterstreichen die anhaltende Instabilität und die fortwährenden militärischen Auseinandersetzungen in der Nahost-Region. Die Fähigkeit Saudi-Arabiens zur Luftabwehr ist entscheidend für den Schutz der eigenen Infrastruktur gegen diese Drohnen- und Raketenangriffe.",
+    "srcs": [
+      {
+        "name": "Süddeutsche Zeitung",
+        "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-news-huthi-saudi-arabien-drohnen-raketen-li.3560260",
+        "date": "2026-10-18T01:39:11.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZHM1WDBzUkJzSmZEcEREVHBRMmRBS3ZOMUcxbUpDQ094Z3JzZ2U5emFWdG9fVXFZQkRQMEs4LWxqY1oxeDl3OW0zVzFRMmdwYXNyOG1idk5wanp6LU9RZk5YSjI4dVpvMENnU3BDdnpKVTJIUFRvcWxtenYzdTNzQ3d0cmxnNy1Cb1BoVHJB?oc=5",
+        "date": "2026-10-18T01:13:29.000Z"
+      }
+    ],
+    "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-news-huthi-saudi-arabien-drohnen-raketen-li.3560260",
+    "agree": "Beide Quellen stimmen darin überein, dass Saudi-Arabien ballistische Raketen aus dem Jemen abgefangen hat, die von der Huthi-Miliz abgeschossen wurden.",
+    "diff": [
+      {
+        "name": "Süddeutsche Zeitung",
+        "note": "Berichtet zusätzlich, dass auch Drohnen abgefangen wurden und die Huthi-Miliz mit Iran verbündet ist sowie das Königreich als sunnitisch bezeichnet wird."
+      },
+      {
+        "name": "Google News DE",
+        "note": "Nennt n-tv.de als beteiligtes Medium und bricht mitten im Satz ab."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-56a681c9c891f870",
+    "c": "INT",
+    "o": "UK",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-17T23:52:38.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Europäische Diplomaten und Politiker im Westjordanland von israelischen Siedlern angegriffen",
+    "s": "Israeli Siedler haben im besetzten Westjordanland europäische Diplomaten, einen französischen Bürgermeister und den Erzbischof von Cambrai angegriffen. Bei dem Vorfall während einer Olivenernte wurden drei Personen verletzt und ein Fahrzeug beschädigt. Die israelische Armee verurteilte die Gewalt, während das Büro des Premierministers von einer Verleumdungskampagne sprach.",
+    "m": "Der Angriff ereignete sich am Samstag in dem Ort Taybeh im besetzten Westjordanland, als palästinensische Landwirte bei der Olivenernte unterstützt werden sollten. Zu den Opfern der Gewalt gehörten europäische Diplomaten, der französische Bürgermeister von Aulnoye-Aymeries, Bernard Baudoux, sowie der Erzbischof von Cambrai. Bürgermeister Baudoux trug seine offizielle Amtsbinde und wurde beim Einsteigen in ein Auto mit diplomatischen Kennzeichen attackiert und zu Boden geschlagen. Insgesamt wurden drei Menschen verletzt und ein Auto beschädigt. Ziel des gewaltsamen Vorfalls war es offenbar, die Palästinenser an der Ernte auf ihrem eigenen Land zu hindern. Während das israelische Militär die Ausschreitungen verurteilte, bezeichnete das Büro des Premierministers die Vorwürfe als Teil einer Schmutzkampagne. Die internationalen Reaktionen und die genauen Sicherheitsvorkehrungen für künftige diplomatische Delegationen in der Region sind Gegenstand offener Fragen.",
+    "r": "Der Übergriff auf ausländische Diplomaten und Kommunalpolitiker durch Siedler im Westjordanland betrifft die diplomatischen Beziehungen und die Sicherheitslage in der Region unmittelbar. Das Ereignis wirft Fragen zum Schutz internationaler Beobachter und zur Durchsetzung des rechtlichen Rahmens in den besetzten Gebieten auf.",
+    "srcs": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-17T23:52:38.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6MTJzVzlOQ3h3T3UweTdNRjRrUlRhcUhhVWlGZ2EwWG84SnRxRkNFQVBaSldicVlKYzY5b25LN0hBOE9LTi1UcU51Z2xwWVVwX2kxTXZnWm1xVEU?oc=5",
+        "date": "2026-10-17T23:52:38.000Z"
+      },
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank",
+        "date": "2026-10-17T18:57:56.000Z"
+      }
+    ],
+    "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+    "agree": "Die Quellen stimmen überein, dass europäische Diplomaten im Westjordanland von israelischen Siedlern angegriffen wurden und das israelische Militär die Gewalt verurteilte.",
+    "diff": [
+      {
+        "name": "Guardian World",
+        "note": "Nennt konkrete Details wie den Ort Taybeh, die Verletzung von drei Personen, die Beschädigung eines Autos sowie die Anwesenheit des französischen Bürgermeisters Bernard Baudoux und des Erzbischofs von Cambrai. Führt aus, dass der Vorfall während des Versuchs stattfand, palästinen"
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
+    "id": "story-b28f43302cb83a89",
+    "c": "INT",
+    "o": "UK",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-17T23:22:06.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Auto fährt in Fußballspiel in Kansas: Zwei Tote und Verletzte",
+    "s": "In Wichita im US-Bundesstaat Kansas ist ein Auto über einen Fußballplatz gefahren und hat zwei Menschen, darunter ein Kind, getötet. Mehrere weitere Personen wurden bei dem Vorfall auf dem Stryker-Gelände verletzt. Der Fahrer wurde von der Polizei festgenommen.",
+    "m": "Der Vorfall ereignete sich während eines Fußballspiels im Stryker Soccer Complex in Wichita, Kansas. Laut Angaben der Polizei fuhr eine Person mit einem Fahrzeug gezielt über das Spielfeld. Dabei wurden zwei Menschen getötet, darunter mindestens ein Kind. Mehrere weitere Personen erlitten Verletzungen und mussten medizinisch versorgt werden. Der mutmaßliche Fahrer wurde noch vor Ort oder kurz darauf festgenommen und befindet sich in Polizeigewahrsam. Bei dem Einsatz stellte die Polizei zudem fest, dass sich zwei Minderjährige im Fahrzeug befanden. Die genauen Hintergründe und das Motiv des Fahrers sind derzeit Gegenstand von Ermittlungen der örtlichen Behörden.",
+    "r": "Der Vorfall ist von hoher Relevanz, da ein Amok- oder Unfallgeschehen auf einem Sportplatz mehrere Menschenleben forderte und Kinder betraf. Die rasche Festnahme des Verdächtigen ist ein zentraler Aspekt der laufenden polizeilichen Ermittlungen in den USA.",
+    "srcs": [
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/oct/17/kansas-soccer-game-killings",
+        "date": "2026-10-17T23:22:06.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTXBUczkzNko4NjUxYkxYeE9BSWVyeFk3dGxOS2REZXUwZ254SWppeUFtQTg3TUdWUW5xa1V6MlFYWDY5UXFPaFNSUDlGc1VpSjVQdjNjOHZuRGw2SENrMFlpdmUxbHQtdnpXOUhORGVxWjJsUEpQX00zRElFZDhQVw?oc=5",
+        "date": "2026-10-17T23:09:00.000Z"
+      }
+    ],
+    "url": "https://www.theguardian.com/us-news/2026/oct/17/kansas-soccer-game-killings",
+    "agree": "Die Quellen stimmen überein, dass in Kansas eine Person mit einem Auto durch ein Fußballspiel gefahren ist und dabei zwei Menschen, darunter ein Kind, getötet wurden.",
+    "diff": [
+      {
+        "name": "Guardian World",
+        "note": "Berichtet detailliert über die Festnahme des Fahrers, die Anwesenheit von zwei Jugendlichen im Auto, die Pressekonferenz von Aaron Moses und das Stryker-Fußballgelände."
+      },
+      {
+        "name": "Google News World",
+        "note": "Enthält lediglich den Verweis auf den Guardian-Artikel ohne eigene Zusatzinformationen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-9953d28f0764ab36",
+    "c": "INT",
+    "o": "INT",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-17T22:56:37.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Historisches Rathaus von Limoges bei Ausschreitungen in Frankreich in Brand gesetzt",
+    "s": "Bei den anhaltenden landesweiten Protesten in Frankreich wegen der Lebenshaltungskosten wurde das 143 Jahre alte Rathaus in Limoges in Brand gesetzt. Das historische Gebäude in Zentralfrankreich ist nach Berichten weitgehend zerstört worden. Die Ausschreitungen wurden Berichten zufolge von linksextremen Randalern ausgelöst. Die Behörden und Einsatzkräfte reagieren auf die gewaltsamen Zwischenfälle.",
+    "m": "Das 143 Jahre alte Rathaus der Stadt Limoges in Zentralfrankreich ist bei gewaltsamen Unruhen schwer beschädigt und weitgehend zerstört worden. Auslöser für den Brand waren landesweite Proteste und Demonstrationen gegen die steigenden Lebenshaltungskosten in Frankreich. Nach Angaben von Fox News wurde das historische Gebäude von linksextremen Randalern in Brand gesteckt. Euronews bestätigte, dass die Flammen das Gebäude erfassten und es zu massiven Zerstörungen führten. Die genaue Schadenshöhe und das Ausmaß der dauerhaften Zerstörung an der historischen Architektur werden noch ermittelt. Es ist Teil einer Welle von Unruhen, die das Land erschüttern und zu Zusammenstößen mit Sicherheitskräften führen. Weitere Details zur Festnahme von Verdächtigen oder Verletzten wurden in den vorliegenden Berichten noch nicht genannt.",
+    "r": "Die Zerstörung eines historischen Regierungsgebäudes durch Brandstiftung bei landesweiten Protesten verdeutlicht die Eskalation der sozialen Unruhen in Frankreich. Solche Vorfälle haben direkte Auswirkungen auf die öffentliche Sicherheit und die kommunale Infrastruktur.",
+    "srcs": [
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZU5GMUJ0MnNEanZ4SWN6TmlDSWJ5VUttanhFSW1YT1hkcU9INTNDWlkxMVMydkpPa1NUN1RhUnZncWY5YzdjbDZETWZwejlTMGIxMFJ4T2t0dUNWS01pYUxwWkl0MU9CcG5lTGxzSkhYcHplM1VOdUM3b1NwRkliTTdMYVlLZWloRVlGVjZ0TzNWOTBsUl95eHExcUdfVVRpdmVBUEdJcjl2RlVndjJxNzkyU0lBZFpzNXVwZjZoNUxic1ZqcTQ4M9IBzgFBVV95cUxNMG9LUWZwT3BxWEM1UVVrVEdmX0xtMkd0LW9LMHU4R3dJcDhkQVZkWmhDeE96RTFBX0ZiLTRfMFVHZjNwYjdUOXYwTnBCYTlfSDdpa3FqZVNLVWpBckR0SHdmOGgzY3BpU3plY09rQnJuTXhvUU1QMHpEYmJwY3FDX0J1SkcxM081UWcxTjd4UjVDa2tGLVpWTnl0eU4tLUpManJCT1EtNXBsSFp1UmRvR2VfVE1oZmEwRW5MTmVjOUpWRm1LNUV2Sy1udDdWdw?oc=5",
+        "date": "2026-10-17T22:56:37.000Z"
+      },
+      {
+        "name": "Euronews",
+        "url": "https://www.euronews.com/2026/10/17/historic-limoges-town-hall-engulfed-in-flames-amid-protests-in-france",
+        "date": "2026-10-17T20:55:12.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZU5GMUJ0MnNEanZ4SWN6TmlDSWJ5VUttanhFSW1YT1hkcU9INTNDWlkxMVMydkpPa1NUN1RhUnZncWY5YzdjbDZETWZwejlTMGIxMFJ4T2t0dUNWS01pYUxwWkl0MU9CcG5lTGxzSkhYcHplM1VOdUM3b1NwRkliTTdMYVlLZWloRVlGVjZ0TzNWOTBsUl95eHExcUdfVVRpdmVBUEdJcjl2RlVndjJxNzkyU0lBZFpzNXVwZjZoNUxic1ZqcTQ4M9IBzgFBVV95cUxNMG9LUWZwT3BxWEM1UVVrVEdmX0xtMkd0LW9LMHU4R3dJcDhkQVZkWmhDeE96RTFBX0ZiLTRfMFVHZjNwYjdUOXYwTnBCYTlfSDdpa3FqZVNLVWpBckR0SHdmOGgzY3BpU3plY09rQnJuTXhvUU1QMHpEYmJwY3FDX0J1SkcxM081UWcxTjd4UjVDa2tGLVpWTnl0eU4tLUpManJCT1EtNXBsSFp1UmRvR2VfVE1oZmEwRW5MTmVjOUpWRm1LNUV2Sy1udDdWdw?oc=5",
+    "agree": "Die Quellen stimmen überein, dass das historische Rathaus in Limoges im Zuge von Protesten und Unruhen in Frankreich in Brand gesetzt wurde.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Erwähnt konkret, dass es sich um linksextreme Randalierer handelte und das Gebäude 'weitgehend verloren' ist."
+      },
+      {
+        "name": "Euronews",
+        "note": "Nennt das genaue Alter des Gebäudes mit 143 Jahren und verortet es in Zentralfrankreich als Folge von Protesten über die Lebenshaltungskosten."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-7a70ce49e447b7f0",
+    "c": "INT",
+    "o": "UK",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-17T22:45:48.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Tödliche Schüsse in New York City U-Bahn-Station",
+    "s": "Am Samstagnachmittag wurde ein Mann in einer New York City U-Bahn-Station erschossen. Die Polizei fahndet derzeit nach dem flüchtigen Täter. Das Verbrechen ereignete sich auf einem Bahnsteig in Manhattan.",
+    "m": "Ein etwa 30-jähriger Mann kam am Samstagnachmittag bei einer Schießerei im Bereich einer U-Bahn-Station in New York City ums Leben. Nach Angaben des New York City Police Department (NYPD) fiel das Opfer auf dem Bahnsteig der E-Linie an der Haltestelle 53rd Street und 7th Avenue den Schüssen zum Opfer. Die Identität des getöteten Mannes wurde zunächst nicht offiziell bekannt gegeben. Die Ermittlungsbehörden leiteten umgehend eine Fahndung nach dem mutmaßlichen Schützen ein. Der Vorfall ereignete sich am helllichten Tag und sorgte für erhebliche Aufregung im öffentlichen Nahverkehr der Metropole. Nähere Hintergründe zum Motiv oder zum Tathergang sind derzeit noch Gegenstand polizeilicher Ermittlungen.",
+    "r": "Der gewaltsame Vorfall in einer hochfrequentierten U-Bahn-Station wirft erneut Fragen zur Sicherheit im öffentlichen Nahverkehr von New York City auf. Da nach dem Täter gefahndet wird, besteht akuter Handlungsbedarf für die Strafverfolgungsbehörden.",
+    "srcs": [
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/oct/17/new-york-city-subway-station-shooting",
+        "date": "2026-10-17T22:45:48.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUUo1SlEwUmJrWGNPdTNYR2UtVno0amFZYnluX3NIZ2pIeFBtV2RmeURiY215aW9sUnBGZGVxbVJ1X1liVHo5emYwQ3VfTzQ5aWg5ekMwZERna003ZnoySlZLX0pXNm5KelZvYzI4MVlnR3hrUHJzNFo4RkNPMFhXVnZaTkRiMmd0SUlfejN3?oc=5",
+        "date": "2026-10-17T22:45:00.000Z"
+      }
+    ],
+    "url": "https://www.theguardian.com/us-news/2026/oct/17/new-york-city-subway-station-shooting",
+    "agree": "Die Quellen sind sich einig, dass ein Mann in einer U-Bahn-Station in New York City erschossen wurde und die Polizei nach dem flüchtigen Tatverdächtigen sucht.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Verweist lediglich auf den Artikel des Guardian ohne zusätzlichen Informationsgehalt."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-e9dee47e77e99dc7",
     "c": "INT",
     "o": "PT",
@@ -35,6 +897,47 @@
     ],
     "chg": "",
     "independent": 2
+  },
+  {
+    "id": "story-6dea5430f3dd2d89",
+    "c": "INT",
+    "o": "PT",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-17T20:59:49.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Iúri Leitão gewinnt erneut Bahnrad-Weltmeisterschaft im Omnium",
+    "s": "Der portugiesische Radfahrer Iúri Leitão hat bei den Bahnrad-Weltmeisterschaften in Shanghai die Goldmedaille in der Disziplin Omnium gewonnen. Damit verteidigte er erfolgreich seinen Weltmeistertitel. Die Wettkämpfe finden derzeit in China statt.",
+    "m": "Der portugiesische Radsportler Iúri Leitão hat sich erneut zum Weltmeister im Bahnradsport gekrönt. Er sicherte sich den Goldtitel in der anspruchsvollen Disziplin Omnium. Die diesjährigen Weltmeisterschaften im Bahnradsport werden aktuell in der chinesischen Metropole Shanghai ausgetragen. Für Leitão stellt dieser erneute Erfolg eine wichtige Bestätigung seiner sportlichen Klasse auf internationaler Ebene dar. Weitere Details zum Rennverlauf oder zu den platzierten Konkurrenten nennen die vorliegenden Berichte nicht.",
+    "r": "Die erfolgreiche Titelverteidigung eines Weltmeisters bei internationalen Meisterschaften ist von sportlicher Relevanz für den Bahnradsport. Der Wettkampf verdeutlicht den aktuellen Leistungsstand auf globaler Ebene.",
+    "srcs": [
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/desporto/iuri-leitao-e-outra-vez-campeao-do-mundo_v1772396",
+        "date": "2026-10-17T20:59:49.000Z"
+      },
+      {
+        "name": "RTP Desporto",
+        "url": "https://www.rtp.pt/noticias/ciclismo/ouro-renovado-iuri-leitao-volta-a-sagrar-se-campeao-mundial-de-ciclismo-de-pista_d1772331",
+        "date": "2026-10-17T14:04:22.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/desporto/iuri-leitao-e-outra-vez-campeao-do-mundo_v1772396",
+    "agree": "Beide Quellen stimmen überein, dass Iúri Leitão im Bahnradsport erneut Weltmeister in der Disziplin Omnium geworden ist.",
+    "diff": [
+      {
+        "name": "RTP Notícias",
+        "note": "Erwähnt zusätzlich, dass die Weltmeisterschaften in Xangai (Shanghai) in China stattfinden."
+      },
+      {
+        "name": "RTP Desporto",
+        "note": "Konzentriert sich ausschließlich auf den erneuten Titelgewinn ohne nähere Ortsangabe."
+      }
+    ],
+    "chg": "",
+    "independent": 1
   },
   {
     "id": "story-bc2595422212ecfb",
@@ -1242,6 +2145,47 @@
       {
         "name": "DER SPIEGEL",
         "note": "Erwähnt konkret, dass Martínez nach dem Vorfall in ein Krankenhaus gebracht wurde."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-7f5d851ce16afca5",
+    "c": "INT",
+    "o": "US",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-17T15:10:14.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Papst Leo XIV. nach Lungenkrebs-Operation aus dem Krankenhaus entlassen",
+    "s": "Papst Leo XIV. hat das römische Gemelli-Krankenhaus wenige Tage nach einer Lungenkrebs-Operation verlassen. Bei dem Eingriff wurde ihm der Unterlappen der rechten Lunge entfernt. Für November ist bereits eine Reise nach Lateinamerika geplant.",
+    "m": "Der Pontifex wurde am Samstag aus dem Krankenhaus entlassen, nachdem zuvor der Unterlappen seiner rechten Lunge wegen einer Krebserkrankung chirurgisch entfernt worden war. Trotz des Eingriffs und der kurzen Erholungszeit steht der nächste große Termin bereits fest. So wird er am Sonntag auf dem Petersplatz das traditionelle Angelus-Gebet sprechen und seinen Segen erteilen. Zudem ist im Terminkalender des Papstes eine Reise nach Lateinamerika vorgesehen, die für November angesetzt ist. Es bleibt abzuwarten, wie sich die Genesung auf die anstrengenden Reisedetails auswirken wird.",
+    "r": "Die Meldung ist von internationaler Relevanz, da es sich um den Gesundheitszustand des katholischen Kirchenoberhaupts und dessen offizielle Termine handelt.",
+    "srcs": [
+      {
+        "name": "NPR World",
+        "url": "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery",
+        "date": "2026-10-17T15:10:14.000Z"
+      },
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-17T13:51:36.000Z"
+      }
+    ],
+    "url": "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery",
+    "agree": "Beide Quellen stimmen überein, dass Papst Leo XIV. wenige Tage nach einer Lungenkrebs-Operation aus dem Krankenhaus entlassen wurde.",
+    "diff": [
+      {
+        "name": "NPR World",
+        "note": "Berichtet, dass der Papst für November eine Reise nach Lateinamerika plant."
+      },
+      {
+        "name": "BBC World",
+        "note": "Berichtet, dass der Pontifex am Sonntag das traditionelle Angelus-Gebet und den Segen auf dem Petersplatz abhalten wird."
       }
     ],
     "chg": "",
@@ -15026,978 +15970,6 @@
       {
         "name": "WELT",
         "note": "Ergänzt, dass die Forscher Modelle entwickelt haben, die Staaten und Zentralbanken das Abmildern von Konjunkturschwankungen erleichtern."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-20e62526bed15c9f",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-12T16:58:11.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "CSU-Chef Söder fordert CDU-Abweichler in Sachsen-Anhalt zum Parteiaustritt auf",
-    "s": "Angesichts des Landtags in Sachsen-Anhalt hat CSU-Chef Markus Söder mögliche Abweichler in den Reihen der CDU scharf kritisiert. Wer die AfD wähle, habe in der Union keine Zukunft. In diesem Zusammenhang forderte er die betreffenden Personen zum Parteiaustritt beziehungsweise Rücktritt auf.",
-    "m": "In der Sendung von Caren Miosga äußerte sich CSU-Chef Markus Söder dezidiert zu den Vorgängen im Landtag von Sachsen-Anhalt. Er reagierte damit auf die Situation, dass CDU-Abgeordnete möglicherweise für die AfD stimmen könnten. Söder machte unmissverständlich klar, dass ein solches Verhalten unvereinbar mit den Werten der Union sei. Er konfrontierte die Betroffenen mit der Frage, ob sie sich politisch woanders orientieren wollten, und rief sie in diesem Fall dazu auf, dies offen zu sagen. Die Äußerungen verdeutlichen die strikte Brandmauer-Politik der Unionsspitze gegenüber der AfD. Offen bleibt, wie viele Abgeordnete tatsächlich von diesem internen Konflikt betroffen sind und ob es zu konkreten personellen Konsequenzen kommt.",
-    "r": "Die Äußerungen des CSU-Vorsitzenden verdeutlichen die harte Haltung der Parteiführung gegenüber jeglicher Annäherung an die AfD in den Landesparlamenten. Das Thema betrifft unmittelbar die parteiinterne Disziplin und die strategische Ausrichtung der Union.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/soeder-fordert-cdu-abweichler-zu-parteiaustritt-auf-100.html",
-        "date": "2026-10-12T16:58:11.000Z"
-      },
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/inland/innenpolitik/soeder-cdu-abweichler-100.html",
-        "date": "2026-10-12T06:08:20.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/soeder-fordert-cdu-abweichler-zu-parteiaustritt-auf-100.html",
-    "agree": "Beide Quellen stimmen darin überein, dass CSU-Chef Söder CDU-Abgeordnete in Sachsen-Anhalt wegen möglicher Stimmen für die AfD kritisiert und zum Austritt oder Rücktritt aufgefordert hat.",
-    "diff": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "note": "Erwähnt konkret den Parteiaustritt und dass Söder die Äußerungen im ARD-Fernsehen tätigte."
-      },
-      {
-        "name": "Tagesschau",
-        "note": "Spricht konkret von mutmaßlichen Abweichlern, einem Rücktritt und nennt die Talkshow von Caren Miosga als Ort der Äußerung."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-d148441e4f7f3da7",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-12T16:58:11.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "CDU in Sachsen-Anhalt erwägt Saalflucht bei Ministerpräsidentenwahl",
-    "s": "Die CDU-Landtagsfraktion in Sachsen-Anhalt berät über einen außergewöhnlichen Schritt für die bevorstehende Ministerpräsidentenwahl. Um jeden Verdacht von Stimmen aus den eigenen Reihen für die AfD zu verhindern, wird ein geschlossener Auszug der 15 Abgeordneten vorgeschlagen. Der geschäftsführende Vorstand hat diese Maßnahme als Lösung in die Diskussion eingebracht.",
-    "m": "Der geschäftsführende Vorstand der CDU-Landtagsfraktion in Sachsen-Anhalt hat vorgeschlagen, dass die 15 Abgeordneten bei der anstehenden Ministerpräsidentenwahl geschlossen den Saal verlassen sollen. Mit diesem Schritt will die Partei dem Vorwurf und Verdacht entgegentreten, dass es bei der Abstimmung verdeckte Stimmen aus den eigenen Reihen für einen Kandidaten der AfD geben könnte. Die Diskussion findet im Rahmen der aktuellen Landtagswahlen statt. Konkrete Details zum weiteren zeitlichen Ablauf der Abstimmung oder ob der Vorschlag bereits offiziell beschlossen wurde, gehen aus den Berichten nicht hervor. Es bleibt zudem offen, wie sich dieser Schritt auf die Mehrheitsverhältnisse und das Gesamtergebnis der Wahl auswirken wird.",
-    "r": "Die Maßnahme betrifft direkt die politischen Machtverhältnisse und demokratischen Prozesse bei einer Landesregierungswahl. Ein möglicher Stimmengewinn der AfD durch das Zünglein an der Waage oder Stimmen aus anderen Lagern ist von hoher landespolitischer Sprengkraft.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/verlaesst-die-cdu-bei-der-ministerpraesidentenwahl-den-saal-100.html",
-        "date": "2026-10-12T16:58:11.000Z"
-      },
-      {
-        "name": "Süddeutsche Zeitung",
-        "url": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-mecklenburg-vorpommern-sachsen-anhalt-berlin-cdu-afd-li.3540501",
-        "date": "2026-10-12T16:30:00.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/verlaesst-die-cdu-bei-der-ministerpraesidentenwahl-den-saal-100.html",
-    "agree": "Beide Quellen stimmen überein, dass die CDU in Sachsen-Anhalt plant, den Saal bei der Ministerpräsidentenwahl zu verlassen, um den Verdacht von AfD-Stimmen aus den eigenen Reihen zu vermeiden.",
-    "diff": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "note": "Berichtet konkret, dass der geschäftsführende Vorstand der Landtagsfraktion diesen Auszug als Lösung vorgeschlagen hat und nennt die Zahl von 15 CDU-Abgeordneten."
-      },
-      {
-        "name": "Süddeutsche Zeitung",
-        "note": "Ordnet die Meldung in einen Newsblog zu den Landtagswahlen ein."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-30596e3fae6e1786",
-    "c": "INT",
-    "o": "UK",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-12T16:51:44.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "US-Immigrationsagenten durchsuchen Haus von Kongressabgeordneter Ilhan Omar",
-    "s": "US-Behörden haben das Wohnhaus der demokratischen Kongressabgeordneten Ilhan Omar durchsucht. Die für ihre Kritik an US-Präsident Trump bekannte Politikerin bezeichnete die Durchsuchung als gezielten Versuch, politische Gegner ins Visier zu nehmen.",
-    "m": "Die Durchsuchung des Hauses der bekannten Trump-Kritikerin Ilhan Omar erfolgte im Rahmen einer laufenden strafrechtlichen Untersuchung durch US-Immigrationsagenten. Konkrete Vorwürfe oder Einzelheiten zu den Hintergründen der Ermittlungen wurden bisher nicht öffentlich bekannt gegeben. Die demokratische Politikerin äußerte sich scharf zu dem Vorfall und betonte, sie werde sich durch solche Maßnahmen nicht einschüchtern lassen oder zum Schweigen bringen. Der Vorfall wirft Fragen über mögliche politische Motivationen hinter den staatlichen Ermittlungen auf, da Omar zu den prominentesten linken Stimmen im US-Kongress gehört. Weitere Details zu den beschlagnahmten Gegenständen oder dem weiteren Verlauf der Untersuchung stehen noch aus.",
-    "r": "Die Durchsuchung des Hauses einer amtierenden Kongressabgeordneten durch US-Behörden im Rahmen einer strafrechtlichen Untersuchung ist ein Vorgang von nationaler politischer Bedeutung. Die Vorwürfe der gezielten Verfolgung politischer Gegner verdeutlichen anhaltende Spannungen im US-politischen System.",
-    "srcs": [
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-12T16:51:44.000Z"
-      },
-      {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/12/trump-critic-democratic-rep-ilhan-omars-home-searched-by-federal-agents?traffic_source=rss",
-        "date": "2026-10-12T14:59:53.000Z"
-      }
-    ],
-    "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
-    "agree": "Beide Quellen stimmen darin überein, dass US-Behörden beziehungsweise -Immigrationsagenten das Haus der Kongressabgeordneten Ilhan Omar durchsucht haben und dass sie eine Kritikerin von Trump ist.",
-    "diff": [
-      {
-        "name": "BBC World",
-        "note": "Berichtet, dass Omar die Durchsuchung als Versuch bezeichnete, politische Gegner ins Visier zu nehmen, und erklärte, sie werde nicht zum Schweigen gebracht."
-      },
-      {
-        "name": "Al Jazeera",
-        "note": "Erwähnt ergänzend, dass die Durchsuchung Teil einer strafrechtlichen Untersuchung war und dass sie eine demokratische Kongressmitglied ist."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-be90d77a20a7aec3",
-    "c": "INT",
-    "o": "UK",
-    "k": "technik",
-    "lang": "de",
-    "d": "2026-10-12T16:38:36.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Cyberangriff manipuliert Kühlanlagen in französischen Supermärkten",
-    "s": "Bei einem beispiellosen Cyberangriff in Frankreich wurden die Temperaturen vernetzter Supermarkt-Kühlschränke auf bis zu 50 Grad Celsius erhöht. Hunderten Geschäften von Ketten wie Intermarché und Coopérative U drohen immense Schäden. Die Pariser Staatsanwaltschaft bestätigte Ermittlungen zu dem Vorfall, bei dem auch Brände und Lebensmittelverluste gemeldet wurden. Es gibt zudem Befürchtungen, dass niederländische Ketten betroffen sein könnten.",
-    "m": "Der großangelegte Hackerangriff hat in der Nacht zu Montag hunderte Filialen großer Lebensmitteleinzelhändler in ganz Frankreich getroffen. Durch die gezielte Manipulation der Temperaturregelung an vernetzten Kühlanlagen heizten sich die Geräte auf bis zu 50 Grad Celsius auf. Die Pariser Staatsanwaltschaft hat offizielle Ermittlungen eingeleitet und spricht von einem bislang beispiellosen Vorfall. Zu den gemeldeten Schäden gehören neben dem Totalverlust gekühlter Lebensmittel auch ausgebrochene Brände in den betroffenen Märkten. Ob und in welchem Ausmaß Supermarktketten in den Niederlanden ebenfalls Opfer des Angriffs wurden, wird derzeit noch befürchtet und geprüft. Die Identität der Angreifer sowie die genauen technischen Hintergründe des Eindringens in die Steuerungssysteme sind Gegenstand der laufenden polizeilichen Untersuchungen.",
-    "r": "Der Vorfall verdeutlicht die Verletzlichkeit digital vernetzter Infrastrukturen im Einzelhandel und führt zu erheblichen wirtschaftlichen sowie materiellen Schäden durch Lebensmittelverluste und Brände.",
-    "srcs": [
-      {
-        "name": "Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/12/cyber-attack-defrosts-refrigerators-france-supermarket-chains-intermarche-cooperative-u",
-        "date": "2026-10-12T16:38:36.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObVV6N2RhN3poNzA0M3lyU1RvaDRvVG5YbXNORi0tbmxScTliUklMM3ZoQWhCR1lWLU1FU2VNVV9MdkgtaDhPVlM4eEljRUk0VlFlYzZJQ1puUmY2ZC1jSWUtcVpLQ1pJS1J6WmNRMUVlUWZrUGdJdXoxTTBsa0NPekFKLVpTYl9KY0F1NUdubmZmb0NaT25sdEpXYmxldlBURVk4T2pKc1ZKYkY2MzFvVkRKbDE5S3hwMExuaThNdXgxN0J2cXVFYVFYVElhdw?oc=5",
-        "date": "2026-10-12T15:24:00.000Z"
-      }
-    ],
-    "url": "https://www.theguardian.com/world/2026/oct/12/cyber-attack-defrosts-refrigerators-france-supermarket-chains-intermarche-cooperative-u",
-    "agree": "Beide Quellen berichten übereinstimmend über einen beispiellosen Cyberangriff, bei dem Hacker französische Supermarkt-Kühlschränke auf 50 Grad Celsius aufgeheizt haben.",
-    "diff": [
-      {
-        "name": "Guardian World",
-        "note": "Berichtet detailliert über betroffene Ketten wie Intermarché und Coopérative U, Schäden wie Brände und Lebensmittelverluste, die Ermittlungen der Pariser Staatsanwaltschaft sowie Befürchtungen über betroffene niederländische Ketten."
-      },
-      {
-        "name": "Google News World",
-        "note": "Verweist lediglich als Sammel- oder Suchergebnis auf den Artikel des Guardian und enthält keine eigenständigen Zusatzinformationen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-56d7a610c8e0dfa9",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-12T16:35:30.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Nato-Oberbefehlshaber skizziert dreistufigen Plan für Abwehr bei russischem Angriff",
-    "s": "Die Nato stellt sich auf einen möglichen russischen Angriff ein und hat einen konkreten Abwehrplan ausgearbeitet. Nato-Oberbefehlshaber Grynkewich präsentierte die Strategie in Warschau. Der Plan sieht vor, den Aggressor in drei Schritten aufzuhalten, zu zermürben und schließlich zu zerschlagen.",
-    "m": "Die Nato rüstet sich strategisch für einen potenziellen militärischen Konflikt mit Russland. In Warschau stellte der Nato-Oberbefehlshaber Grynkewich seine neue Siegesstrategie öffentlich vor. Das Verteidigungskonzept ist dabei in drei klare Schritte gegliedert, die den Gegner systematisch schwächen sollen. Laut den Ausführungen des Generals beginnt die organisierte Abwehr der Nato bereits vor dem allerersten Schuss des gegnerischen Angreifers. Details zu den genauen operativen Schritten und Truppenbewegungen wurden im Rahmen der Präsentation in Warschau zunächst nicht weiter im Detail ausgeführt. Die Strategie verdeutlicht jedoch die zunehmende Entschlossenheit und Vorbereitung des Bündnisses auf ein solches Szenario an der Ostflanke.",
-    "r": "Die Pläne des Nato-Oberbefehlshabers zur Abwehr eines möglichen Angreifers verdeutlichen die strategische Ausrichtung und Vorbereitung des Bündnisses auf Ernstfälle an der Ostflanke. Solche sicherheitspolitischen Strategien haben direkte Auswirkungen auf die europäische Sicherheitsarchitektur.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaWU5Q04tY3ZHTUtkMWhTT1hfRVJabVZQOHBtTUpBUVg1TDBRWEFId0ZnRlRycG1MSXQ4dUl6amh3d1dLbEFOWFR3VmF4VG91UlBKQkh3WEpTUzFhMlNIUE5KY3ZtNERUM0FqNHBjQlpiTnRUVWZaTWNoX0dhNGhnRkoweE8wekZHSlk0dkFmb1hoY1B2cjBJenhuWERMdEJ1OXJ4UzN0UGZPVjJQ?oc=5",
-        "date": "2026-10-12T16:35:30.000Z"
-      },
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/politik/Nato-Oberbefehlshaber-skizziert-Plan-bei-einem-Angriff-Russlands-id31409745.html",
-        "date": "2026-10-12T16:35:30.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaWU5Q04tY3ZHTUtkMWhTT1hfRVJabVZQOHBtTUpBUVg1TDBRWEFId0ZnRlRycG1MSXQ4dUl6amh3d1dLbEFOWFR3VmF4VG91UlBKQkh3WEpTUzFhMlNIUE5KY3ZtNERUM0FqNHBjQlpiTnRUVWZaTWNoX0dhNGhnRkoweE8wekZHSlk0dkFmb1hoY1B2cjBJenhuWERMdEJ1OXJ4UzN0UGZPVjJQ?oc=5",
-    "agree": "Beide Quellen stimmen darin überein, dass der Nato-Oberbefehlshaber einen Plan zur Abwehr eines russischen Angriffs in drei Schritten skizziert hat.",
-    "diff": [
-      {
-        "name": "ntv",
-        "note": "Berichtet ergänzend, dass die Präsentation in Warschau stattfand, die Schritte als Siegesstrategie zum Aufhalten, Zermürben und Zerschlagen definiert sind und die Abwehr laut General bereits vor dem ersten Schuss des Gegners beginnt."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-0357a1149d60d8ad",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-12T16:34:59.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Haus der US-Abgeordneten Ilhan Omar von Bundesagenten durchsucht",
-    "s": "Das Haus der prominenten demokratischen Kongressabgeordneten Ilhan Omar ist von Bundesagenten durchsucht worden. Die linke US-Politikerin ist oft Ziel von Attacken des ehemaligen Präsidenten Donald Trump. Der Vorfall ereignete sich wenige Wochen vor den anstehenden Kongresswahlen in den USA. Die genauen Hintergründe des Einsatzes waren zunächst Gegenstand von Medienberichten.",
-    "m": "Bundesagenten des Homeland Security Investigations (HSI) haben das Wohnhaus der demokratischen Kongressabgeordneten Ilhan Omar in Washington durchsucht. Das US-Justizministerium hat im Zusammenhang mit dem Einsatz strafrechtliche Ermittlungen bestätigt. Omar gilt als scharfe Kritikerin des früheren US-Präsidenten Donald Trump und ist in der Vergangenheit wiederholt Ziel rassistischer Angriffe von seiner Seite gewesen. Die Durchsuchung findet in einer sensiblen politischen Phase kurz vor den Kongresswahlen statt. Weitere Details zu den Vorwürfen oder konkreten Beschuldigten wurden von offizieller Seite zunächst nicht genannt. Offen ist zudem, ob die Maßnahme in direktem Zusammenhang mit ihrer politischen Tätigkeit steht. Die Ermittlungen des Ministeriums dauern an.",
-    "r": "Die Durchsuchung des Hauses einer prominenten US-Abgeordneten durch Bundesagenten im Vorfeld von Wahlen ist von hoher politischer Bedeutung. Sie wirft Fragen zu möglichen strafrechtlichen Ermittlungen gegen gewählte Mandatsträger auf.",
-    "srcs": [
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/politik/ausland/2026-10/ilhan-omar-haus-durchsuchung-washington-dc-justizministerium-gxe",
-        "date": "2026-10-12T16:34:59.000Z"
-      },
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/politik/ausland/article6accf43ef2750bc2e609f0c7/ilhan-omar-durchsuchung-am-fruehen-morgen-brisante-fragen-bleiben-offen.html",
-        "date": "2026-10-12T16:07:46.000Z"
-      }
-    ],
-    "url": "https://www.zeit.de/politik/ausland/2026-10/ilhan-omar-haus-durchsuchung-washington-dc-justizministerium-gxe",
-    "agree": "Beide Quellen stimmen darin überein, dass das Haus der prominenten US-Abgeordneten und Trump-Kritikerin Ilhan Omar durchsucht wurde.",
-    "diff": [
-      {
-        "name": "ZEIT ONLINE",
-        "note": "Erwähnt, dass Omar häufig Ziel rassistischer Attacken durch Donald Trump ist und die Durchsuchung wenige Wochen vor den Kongresswahlen stattfand."
-      },
-      {
-        "name": "WELT",
-        "note": "Konkretisiert, dass es sich um Bundesagenten des Homeland Security Investigations (HSI) in Washington handelte und das Justizministerium von strafrechtlichen Ermittlungen spricht."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-ed8d783173ba0188",
-    "c": "DE",
-    "o": "DE",
-    "k": "sport",
-    "lang": "de",
-    "d": "2026-10-12T16:34:40.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Manuel Neuer sitzt bei Bayerns Champions-League-Spiel in Stavanger auf der Bank",
-    "s": "Der FC Bayern München muss im Champions-League-Spiel in Stavanger auf Torwart Manuel Neuer verzichten. Nach jüngsten Fehlern im Bundesliga-Spiel gegen Augsburg erhält der Routinier eine Pause. Trainer Vincent Kompany betonte jedoch, dass diese Entscheidung nicht leistungsbedingt sei.",
-    "m": "Manuel Neuer steht im kommenden Champions-League-Spiel des FC Bayern in Stavanger nicht in der Startelf. Vorausgegangen waren heftige Kritiken an dem Torhüter nach seinen folgenschweren Schnitzern beim 2:2-Unterschied in der Bundesliga gegen Augsburg. Bayern-Trainer Vincent Kompany begründete die Entscheidung damit, dass Neuer etwas am Fuß habe. Ob der erfahrene Schlussmann überhaupt im Kader stehen wird, ließ der Coach zunächst noch offen. Eine schnelle sportliche Rehabilitation nach dem Patzer in Augsburg bleibt dem Torwart damit vorerst verwehrt.",
-    "r": "Die Personalie um Manuel Neuer wirft nach seinen jüngsten Fehlern Fragen zur Aufstellung des FC Bayern auf. Die Auszeit in der Champions League betrifft einen der prominentesten Spieler des deutschen Rekordmeisters.",
-    "srcs": [
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/sport/fussball/Neuer-in-der-Champions-League-nicht-im-Bayern-Kasten-id31410050.html",
-        "date": "2026-10-12T16:34:40.000Z"
-      },
-      {
-        "name": "stern",
-        "url": "https://www.stern.de/gesellschaft/regional/bayern/champions-league--bayern-ohne-torwart-neuer-gegen-stavanger-38386446.html",
-        "date": "2026-10-12T16:24:18.000Z"
-      }
-    ],
-    "url": "https://www.n-tv.de/sport/fussball/Neuer-in-der-Champions-League-nicht-im-Bayern-Kasten-id31410050.html",
-    "agree": "Beide Quellen stimmen überein, dass Manuel Neuer im Champions-League-Spiel des FC Bayern gegen Stavanger nicht im Tor stehen wird und Trainer Vincent Kompany sich zu der Personalie geäußert hat.",
-    "diff": [
-      {
-        "name": "ntv",
-        "note": "Erwähnt, dass Neuer laut Trainer wegen eines Problems am Fuß pausiert und viel Kritik nach dem Spiel in Augsburg eingeprasselt ist."
-      },
-      {
-        "name": "stern",
-        "note": "Berichtet, dass Neuer auf eine schnelle Reaktion nach dem Bundesliga-Patzer verzichten muss und offen lässt, ob er überhaupt im Kader steht."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-0c3a9e19920de7a0",
-    "c": "INT",
-    "o": "UK",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-12T16:20:42.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Bundesarbeitskräfte durchsuchen Wohnhaus von Ilhan Omar im Rahmen von Ermittlungen",
-    "s": "Bundesagenten haben am Montagmorgen das Wohnhaus der US-Abgeordneten Ilhan Omar im Rahmen einer strafrechtlichen Untersuchung durchsucht. Das Justizministerium sowie Medienberichte bestätigten den Einsatz. Omar kritisierte die Razzia scharf als politisch motiviertes Vorgehen der Regierung. Die Hintergründe und der konkrete Anlass der Untersuchung blieben zunächst unvollständig.",
-    "m": "Am Montagmorgen haben Bundesagenten das Wohnhaus der US-Abgeordneten Ilhan Omar im Rahmen einer laufenden strafrechtlichen Untersuchung durchsucht. Dies bestätigten das Justizministerium sowie Berichte der Associated Press und von Fox News. Trump und wichtige Verbündete hatten Omar zuvor des Einwanderungsbetrugs beschuldigt und ihre Ausweisung gefordert. In einer Stellungnahme in den sozialen Medien bezeichnete Omar die Razzia als Versuch der Trump-Administration, politische Gegner ins Visier zu nehmen und die Strafverfolgungsbehörden zu instrumentalisieren. Weitere Details zu den Vorwürfen oder konkreten Verdachtsmomenten wurden zunächst nicht bekannt. Die Untersuchung dauert an und wirft Fragen über politische Einflussnahme auf.",
-    "r": "Die Durchsuchung des Hauses einer US-Abgeordneten durch Bundesbehörden betrifft hochrangige politische Akteure und wirft Fragen zur Instrumentalisierung der Justiz auf.",
-    "srcs": [
-      {
-        "name": "Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/oct/12/federal-agents-ilhan-omar-home-raid",
-        "date": "2026-10-12T16:20:42.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYlNQNFg0NFRuZERjQi1EeEp0YW5jVnp1cmRFU1RTcXdoSDZDNTg3cWNVZzRUak0yNXE5UWVZTEwwQ2VucHQtRTFLTmloMGtqRmxodzhYeDktVnptUWMzZm9ZT3BHYWp6bXI4RzVKbmJ0cGV4OFFmS1EtdEhOTWV0ZFlOWW1ubmpFLWdWMk9VQVFCekFqLTNqTWZmN3NJRWUzZi1Ham8xMjNFdmR3UFE1X2c2Y9IBuAFBVV95cUxOR0UzUE9MQTRBZ2RPbGhoNjkwbGVPNGFHUzA3UjdLNndzNjRidS1XZ1JSZVhiUVhmNDhGTk9rYWJTVVduMnJiYVJQSF94ZmdFTE1UcS1BWTVudjFuUndTM0xMUmhubkJJNTFtY0JKN2NvT0RDb210TUFwSGtlSTVlRUZrSy1YeVNVRVBQdklRMnFzNjZPS0VERUE2dy0wdUxDbDB5WTFwSzYtWWdvVU5KeTMxTmxOdFdX?oc=5",
-        "date": "2026-10-12T13:04:36.000Z"
-      }
-    ],
-    "url": "https://www.theguardian.com/us-news/2026/oct/12/federal-agents-ilhan-omar-home-raid",
-    "agree": "Beide Quellen berichten übereinstimmend, dass Bundesagenten das Haus von Ilhan Omar im Rahmen einer strafrechtlichen Untersuchung durchsucht haben.",
-    "diff": [
-      {
-        "name": "Guardian World",
-        "note": "Liefert Details zu den Vorwürfen von Trump bezüglich Einwanderungsbetrug, Omars Reaktion in den sozialen Medien sowie die Bestätigung durch das Justizministerium."
-      },
-      {
-        "name": "Google News World",
-        "note": "Erwähnt lediglich kurz den Polizeieinsatz unter Berufung auf Fox40 als Bericht."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-30f47f52aec306eb",
-    "c": "DE",
-    "o": "DE",
-    "k": "sport",
-    "lang": "de",
-    "d": "2026-10-12T15:49:31.000Z",
-    "p": 5,
-    "st": "",
-    "city": "",
-    "t": "Alexander Zverev wird neue Nummer eins der Tennis-Weltrangliste",
-    "s": "Der deutsche Tennisprofi Alexander Zverev wird die Weltrangliste anführen. Er profitiert dabei von einer Niederlage seines Konkurrenten Carlos Alcaraz. Damit erfüllt sich der Sportler einen großen Karrieretraum.",
-    "m": "Alexander Zverev krönt eine starke Saison mit dem Sprung an die Spitze der Tennis-Weltrangliste. Der Hamburger wird das Jahr offiziell als Nummer eins beenden und ist damit sogar erfolgreicher als Boris Becker. Möglich wurde dies, da der Spanier Carlos Alcaraz in Shanghai eine Niederlage einstecken musste. Zu Zverevs Erfolgen in diesem Jahr gehören unter anderem Siege bei den French Open und den US Open. Details zum genauen Zeitpunkt des offiziellen Aufstiegs oder weiteren Reaktionen wurden in den Berichten nicht genannt.",
-    "r": "Der Aufstieg an die Weltspitze markiert einen historischen Meilenstein für den deutschen Tennissport. Er zeigt die sportliche Dominanz von Zverev in dieser Saison, gekrönt durch Grand-Slam-Titel.",
-    "srcs": [
-      {
-        "name": "t-online Sport",
-        "url": "https://www.t-online.de/sport/mehr-sport/tennis/id_101477646/alexander-zverev-wird-nummer-eins-der-tennis-weltrangliste.html",
-        "date": "2026-10-12T15:49:31.000Z"
-      },
-      {
-        "name": "DW Deutsch",
-        "url": "https://www.dw.com/de/alexander-zverev-neue-nummer-eins-der-tennis-weltrangliste/a-79642250?maca=de-rss-de-all-1119-xml-mrss",
-        "date": "2026-10-12T13:47:00.000Z"
-      },
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/sport/tennis-zverev-neue-nummer-eins-100.html",
-        "date": "2026-10-12T12:26:27.000Z"
-      }
-    ],
-    "url": "https://www.t-online.de/sport/mehr-sport/tennis/id_101477646/alexander-zverev-wird-nummer-eins-der-tennis-weltrangliste.html",
-    "agree": "Alle Quellen sind sich einig, dass Alexander Zverev die Nummer eins der Tennis-Weltrangliste wird und dabei von einer Niederlage von Carlos Alcaraz profitiert.",
-    "diff": [
-      {
-        "name": "t-online Sport",
-        "note": "Erwähnt die Erfüllung eines Traums durch den Weltranglisten-Aufstieg."
-      },
-      {
-        "name": "DW Deutsch",
-        "note": "Berichtet, dass Zverevs Erfolg historisch sei und er damit sogar erfolgreicher als Boris Becker ist."
-      },
-      {
-        "name": "Tagesschau Regional Hamburg",
-        "note": "Nennt Shanghai als Ort der Niederlage von Carlos Alcaraz und betont den Hamburger Bezug des Spielers."
-      },
-      {
-        "name": "ZDF heute",
-        "note": "Führt an, dass Zverev in diesem Jahr die French Open und die US Open gewonnen hat."
-      }
-    ],
-    "chg": "",
-    "independent": 3
-  },
-  {
-    "id": "story-237bafc2bd4cd67b",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-12T15:32:54.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Kanzler Friedrich Merz weist SPD-Kritik am Rücktritt von Bärbel Bas zurück",
-    "s": "Nach dem Rücktritt von Arbeitsministerin Bärbel Bas hat Bundeskanzler Friedrich Merz die Kritik von der SPD und Bas selbst an seiner Partei zurückgewiesen. Er betonte, dass er von der CDU eine christliche Rücksichtnahme auf Bas gefordert habe. Die CDU geht nach dem Vorfall ihrerseits zum Gegenangriff über.",
-    "m": "Der Rücktritt von Arbeitsministerin Bärbel Bas hat zu politischen Auseinandersetzungen zwischen der SPD und der CDU geführt. Kanzler Friedrich Merz nahm zu den Vorwürfen Stellung und wies den Vorwurf mangelnder Rücksichtnahme entschieden zurück. Er erklärte, er habe sich intern für einen rücksichtsvollen Umgang mit Bas innerhalb seiner eigenen Partei eingesetzt. Unterdessen hat die CDU ihrerseits eine Gegenoffensive gestartet, um die Kritik abzuwehren und die eigene Position zu verteidigen. Bisher sind keine weiteren Details zu den Hintergründen des Rücktritts oder zu einer möglichen Nachfolge bekannt. Der Vorfall belastet das politische Klima zwischen den Koalitionspartnern.",
-    "r": "Der Streit um den Rücktritt einer Bundesministerin und die Reaktion des Bundeskanzlers berühren direkt das Regierungsbündnis und die politische Stabilität in Berlin. Solche Konflikte zwischen Kanzler und Koalitionspartnern sind für die politische Bewertung der Bundesregierung von zentraler Bedeutung.",
-    "srcs": [
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/politik/deutschland/2026-10/baerbel-bas-ruecktritt-angriffe-cdu-friedrich-merz-gxe",
-        "date": "2026-10-12T15:32:54.000Z"
-      },
-      {
-        "name": "t-online Nachrichten",
-        "url": "https://www.t-online.de/nachrichten/deutschland/id_101477816/bas-ruecktritt-kanzler-merz-weist-spd-kritik-zurueck.html",
-        "date": "2026-10-12T14:00:35.000Z"
-      }
-    ],
-    "url": "https://www.zeit.de/politik/deutschland/2026-10/baerbel-bas-ruecktritt-angriffe-cdu-friedrich-merz-gxe",
-    "agree": "Die Quellen stimmen überein, dass Arbeitsministerin Bärbel Bas zurückgetreten ist und Kanzler Friedrich Merz die Kritik der SPD an seiner Partei zurückgewiesen hat.",
-    "diff": [
-      {
-        "name": "ZEIT ONLINE",
-        "note": "Berichtet, dass Merz explizit eine christliche Rücksichtnahme auf Bas von seiner Partei gefordert habe."
-      },
-      {
-        "name": "t-online Nachrichten",
-        "note": "Erwähnt zusätzlich, dass die CDU zum Gegenangriff übergeht."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-641f5dacfa282415",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-12T15:28:00.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Sachsen-Anhalt: CDU-Politiker raten zum Saalverlassen bei Ministerpräsidentenwahl",
-    "s": "In Sachsen-Anhalt wird innerhalb der CDU diskutiert, bei der anstehenden Ministerpräsidentenwahl geschlossen den Saal zu verlassen. Hintergrund sind Sorgen in der Union, dass eigene Abgeordnete den AfD-Kandidaten Ulrich Siegmund heimlich mitwählen könnten. Nun rückt diese mögliche Vorsichtsmaßnahme in den Fokus der Partei.",
-    "m": "Die aktuellen Berichte greifen eine mögliche Strategie der CDU in Sachsen-Anhalt auf, um eine unkontrollierte Stimmabgabe bei einer Ministerpräsidentenwahl zu verhindern. Konkret gibt es die Empfehlung von CDU-Politikern an die Fraktion, den Plenarsaal bei der Wahl geschlossen zu verlassen. Damit soll vermieden werden, dass Abgeordnete der Union heimlich für den AfD-Kandidaten Ulrich Siegmund stimmen. In der gesamten Union ist die Sorge vor einem solchen Szenario offenbar groß. Bislang handelt es sich um eine diskutierte Vorsichtsmaßnahme und Empfehlung von Politikern. Weitere Details zum genauen zeitlichen Ablauf der Wahl oder offiziellen Beschlüssen der Gesamtfraktion nennen die Quellen nicht.",
-    "r": "Die Diskussion über ein geschlossenes Verlassen des Saals bei der Ministerpräsidentenwahl in Sachsen-Anhalt betrifft das politische Gefüge und mögliche Stimmenüberläufe an die AfD. Das Thema verdeutlicht die innerparteilichen Vorsichtsmaßnahmen der Union gegenüber der AfD.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNZ1dkbU1OT3dhaW80YjRfbmhIcHROQkpQVUVTVmNXVnJmdWFHWVZqZl92SHhlcHVOQzZCTkswcjlpUTBqbTExd2RwUVZsMDJjNm8yRWh5alp0RUk5emNrYVN5YlNoalRJT0RZLUhObW9UWGJnUnBKQUJScmZMaXdOYUlQTUxkZkZxaVg1T2VVTG5HdEFqdENHczhjNEc2a09Pa3MwOURWcXJMT3R1aEhEcEF6WTU3SXFUcUlJQkdaRDVBU0JiY19MblFHSGxfajFrUHNjQmZuZnlHN1pyMW9MeWs3ZFJyN2htVzFuaWFRREtERHVYcXhsV0tDbmhkT1p3NUtEUmp4aEl3bGhy?oc=5",
-        "date": "2026-10-12T15:28:00.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/politik/sachsen-anhalt-cdu-politiker-empfehlen-fraktion-bei-ministerpraesidentenwahl-geschlossen-den-saal-zu-verlassen-a-67c19d5b-92f8-46ee-bee5-df43df9a3784#ref=rss",
-        "date": "2026-10-12T15:28:00.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNZ1dkbU1OT3dhaW80YjRfbmhIcHROQkpQVUVTVmNXVnJmdWFHWVZqZl92SHhlcHVOQzZCTkswcjlpUTBqbTExd2RwUVZsMDJjNm8yRWh5alp0RUk5emNrYVN5YlNoalRJT0RZLUhObW9UWGJnUnBKQUJScmZMaXdOYUlQTUxkZkZxaVg1T2VVTG5HdEFqdENHczhjNEc2a09Pa3MwOURWcXJMT3R1aEhEcEF6WTU3SXFUcUlJQkdaRDVBU0JiY19MblFHSGxfajFrUHNjQmZuZnlHN1pyMW9MeWs3ZFJyN2htVzFuaWFRREtERHVYcXhsV0tDbmhkT1p3NUtEUmp4aEl3bGhy?oc=5",
-    "agree": "Beide Quellen stimmen darin überein, dass CDU-Politiker ihrer Fraktion in Sachsen-Anhalt empfehlen, bei der Ministerpräsidentenwahl geschlossen den Saal zu verlassen.",
-    "diff": [
-      {
-        "name": "Google News DE",
-        "note": "Die Quelle verweist in ihrer Kurzbeschreibung direkt auf den Artikel des SPIEGEL und erwähnt, dass CDU-Politiker der Fraktion empfehlen, den Saal geschlossen zu verlassen."
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "Die Quelle führt ergänzend aus, dass die Sorge in der Union groß ist, ob CDU-Abgeordnete den AfD-Politiker Ulrich Siegmund heimlich zum Ministerpräsidenten mitwählen könnten."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-e7c7e4c879f09d71",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-12T14:39:00.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Prozess um \"Soester Horrorhaus\" am Landgericht Arnsberg begonnen",
-    "s": "Monatelang soll eine Frau in Soest gefangen gehalten und misshandelt worden sein. Nun stehen vier Männer vor Gericht, zwei sind noch jugendlich. Zum Prozessauftakt gibt es eine neue Wendung: Videos könnten die Angeklagten belasten.",
-    "m": "Monatelang soll eine Frau in Soest gefangen gehalten und misshandelt worden sein. Nun stehen vier Männer vor Gericht, zwei sind noch jugendlich. Zum Prozessauftakt gibt es eine neue Wendung: Videos könnten die Angeklagten belasten. In einem Wohnhaus in Soest in NRW soll eine Frau über Monate hinweg misshandelt und vergewaltigt worden sein. Zwei Männer und zwei Teenager stehen nun vor Gericht. Der Prozess beginnt unerwartet.",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
-    "srcs": [
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/prozessbeginn-schwere-misshandlung-100.html",
-        "date": "2026-10-12T14:39:00.000Z"
-      },
-      {
-        "name": "t-online Panorama",
-        "url": "https://www.t-online.de/nachrichten/panorama/kriminalitaet/id_101476928/-soester-horrorhaus-maenner-quaelen-frau-monatelang-prozess.html",
-        "date": "2026-10-12T13:03:15.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/prozessbeginn-schwere-misshandlung-100.html",
-    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-b9b6a2312781db88",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-12T14:23:31.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Militärkomplex im Fokus: EU sanktioniert Russlands Kriegshelfer mit Rekord-Paket - n-tv.de",
-    "s": "Die Europäische Union hat ein neues und umfangreiches Sanktionspaket verabschiedet. Im Fokus stehen dabei Hersteller und Zulieferer von Raketen, Drohnen und Flugzeugen für den russischen Krieg in der Ukraine. Die Maßnahmen sollen den militärischen Komplex Moskaus gezielt treffen.",
-    "m": "Das aktuelle Sanktionspaket gilt als Rekord-Paket der EU und richtet sich direkt gegen Russlands Kriegshelfer. Konkret ins Visier genommen werden Unternehmen und Akteure, die in die Produktion und Lieferung von Raketen, Drohnen sowie Flugzeugen für den russischen Angriffskrieg involviert sind. Neben der wirtschaftlichen und militärischen Schwächung Russlands soll das Paket laut Berichten zudem ein politisches Signal darstellen. Es ist demnach auch als Reaktion beziehungsweise als Signal gegen jüngste Annäherungen zwischen Washington und Moskau zu verstehen. Weitere Details zum genauen Umfang der betroffenen Firmen und dem zeitlichen Inkrafttreten der Maßnahmen gehen aus den vorliegenden Berichten nicht hervor.",
-    "r": "Die neuen EU-Sanktionen gegen Rüstungszulieferer Russlands haben direkte Auswirkungen auf den internationalen Handel und die geopolitischen Beziehungen. Das Paket setzt zudem ein bemerkenswertes diplomatisches Signal im Verhältnis zu den USA.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMTNoZzA3UVRvTGNMb1hqUTZJcF9mUy1WOVFmN2RuQjNUVG41Q3hIV3RPbWlsT01heGZUZ2pLdkpDaEZfRzg2bGdCRWRVRWRxLVhjbVhyYWNVRHpPb2hHNjdHYktFdTVhNFBaNmJUdTJLdk1wd2pNVkMxUFBYb2ozZEJHZUxQbV9yUy1VVlNWa0NIc2dKc0RrclRHVzVITmVL?oc=5",
-        "date": "2026-10-12T14:23:31.000Z"
-      },
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/politik/EU-sanktioniert-Russlands-Kriegshelfer-mit-Rekord-Paket-id31408952.html",
-        "date": "2026-10-12T14:23:31.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMTNoZzA3UVRvTGNMb1hqUTZJcF9mUy1WOVFmN2RuQjNUVG41Q3hIV3RPbWlsT01heGZUZ2pLdkpDaEZfRzg2bGdCRWRVRWRxLVhjbVhyYWNVRHpPb2hHNjdHYktFdTVhNFBaNmJUdTJLdk1wd2pNVkMxUFBYb2ozZEJHZUxQbV9yUy1VVlNWa0NIc2dKc0RrclRHVzVITmVL?oc=5",
-    "agree": "Beide Quellen stimmen darin überein, dass die EU ein Rekord-Sanktionspaket gegen Hersteller und Zulieferer von Raketen, Drohnen und Flugzeugen für Russlands Krieg verabschiedet hat.",
-    "diff": [
-      {
-        "name": "ntv",
-        "note": "Erwähnt zusätzlich, dass das Sanktionspaket auch als Signal gegen Washingtons jüngste Annäherung an Moskau gedacht ist."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-9c2237aa02154e13",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-12T14:20:17.000Z",
-    "p": 2,
-    "st": "BW",
-    "city": "",
-    "t": "Stuttgarter Millionenerbin fordert höhere Steuern für Reiche",
-    "s": "Die Stuttgarter Millionenerbin Stefanie Bremer setzt sich öffentlich für höhere Steuern für Vermögende ein. Sie ist in dem Verein taxmenow aktiv, der eine stärkere Besteuerung von Vermögen und Erbschaften fordert. Damit positioniert sie sich klar gegen ihren eigenen materiellen Vorteil.",
-    "m": "Stefanie Bremer aus Stuttgart verfügt über ein großes Vermögen, spricht sich jedoch vehement für eine höhere Besteuerung von reichen Menschen aus. Im Rahmen ihres Engagements ist sie Mitglied im Verein taxmenow geworden. Dieser Zusammenschluss von Vermögenden setzt sich für gerechtere Steuern, insbesondere bei großen Erbschaften und Vermögen, ein. Die Initiative argumentiert, dass eine Umverteilung dringend notwendig ist, um die soziale Spaltung zu verringern. Bremers Haltung sorgt in der aktuellen steuerpolitischen Debatte für Aufmerksamkeit, da sie aus der betroffenen Gruppe heraus agiert.",
-    "r": "Die Äußerungen einer Vermögenden für höhere Abgaben bereichern die politische Debatte über die Erbschaftsteuer und Vermögensbesteuerung. Sie zeigt, dass es innerhalb der Gruppe der Reichen unterschiedliche Ansichten über die gerechte Lastenverteilung gibt.",
-    "srcs": [
-      {
-        "name": "SWR Aktuell",
-        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/steuern-reiche-besteuerung-steuergerechtigkeit-taxmenow-stefanie-bremer-100.html",
-        "date": "2026-10-12T14:20:17.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Baden-Württemberg",
-        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-streit-um-erbschaftsteuer-warum-eine-millionenerbin-mehr-steuern-zahlen-will-100.html",
-        "date": "2026-10-12T10:23:13.000Z"
-      }
-    ],
-    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/steuern-reiche-besteuerung-steuergerechtigkeit-taxmenow-stefanie-bremer-100.html",
-    "agree": "Beide Quellen stimmen darin überein, dass Stefanie Bremer aus Stuttgart eine Millionenerbin ist, die sich im Verein taxmenow für höhere Steuern für Reiche einsetzt.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-635cee6dfd6b97d4",
-    "c": "INT",
-    "o": "PT",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-12T13:21:56.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Robert E. Hall und Michael Woodford gewinnen den Wirtschaftsnobelpreis 2026",
-    "s": "Die US-amerikanischen Wirtschaftswissenschaftler Robert E. Hall und Michael Woodford wurden mit dem Nobelpreis für Wirtschaft 2026 ausgezeichnet. Die Ehrung würdigt ihre bedeutenden Arbeiten zur makroökonomischen Stabilisierung.",
-    "m": "Robert E. Hall und Michael Woodford sind die Preisträger des Nobelpreises der Wirtschaftswissenschaften für das Jahr 2026 im Bereich der makroökonomischen Stabilisierung. Die beiden US-amerikanischen Forscher haben theoretische Werkzeuge entwickelt, die es Regierungen, Zentralbanken und Ökonomen ermöglichen, die Konsequenzen ihrer geld- und wirtschaftspolitischen Entscheidungen fundierter zu analysieren. Zudem helfen diese Modelle dabei, wirksame Wege zur Verringerung wirtschaftlicher Schwankungen zu bewerten. Konkrete Details zu den jeweiligen Universitäten oder dem genauen Preisgeld wurden in den vorliegenden Berichten nicht genannt.",
-    "r": "Die Auszeichnung ist für die globale Wirtschaftspolitik von Bedeutung, da die theoretischen Arbeiten der Preisträger maßgeblich zur Entscheidungsfindung von Zentralbanken und Regierungen bei der Bewältigung konjunktureller Schwankungen beitragen.",
-    "srcs": [
-      {
-        "name": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNzlPOTBZcjRrWlhidWwyQlFnYXFUS2tVQmJ0ZDhpRjJrOGhQbklDU1Y2UWNFYVlLd3VoYW9pbEI1QjlrMWwtREZJUjZLcDB5ZFhmY25HVHZMY3V6eFdvclBhbXdiQno0MlgxN1pzZUpNUkNVLUZ4THFBRFo4UVhKa1lLX2tsZnlsYUcxYk90cjNhSGdTQndPTmZCSTh0ai12cnd2WFU4TWstYk9ZY2h0YlljV2RMdkp6SHhCd0FsQjdWVU43bzVtVkdBNElMOVlKY0VyQWNLVEVZTWk0alhjZTZhcUtvNUQ0dXc?oc=5",
-        "date": "2026-10-12T13:21:56.000Z"
-      },
-      {
-        "name": "RTP Economia",
-        "url": "https://www.rtp.pt/noticias/economia/estabilizacao-macroeconomica-robert-e-hall-e-michael-woodford-sao-os-vencedores-do-nobel-da-economia-de-2026_n1771153",
-        "date": "2026-10-12T10:53:34.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNzlPOTBZcjRrWlhidWwyQlFnYXFUS2tVQmJ0ZDhpRjJrOGhQbklDU1Y2UWNFYVlLd3VoYW9pbEI1QjlrMWwtREZJUjZLcDB5ZFhmY25HVHZMY3V6eFdvclBhbXdiQno0MlgxN1pzZUpNUkNVLUZ4THFBRFo4UVhKa1lLX2tsZnlsYUcxYk90cjNhSGdTQndPTmZCSTh0ai12cnd2WFU4TWstYk9ZY2h0YlljV2RMdkp6SHhCd0FsQjdWVU43bzVtVkdBNElMOVlKY0VyQWNLVEVZTWk0alhjZTZhcUtvNUQ0dXc?oc=5",
-    "agree": "Beide Quellen stimmen darin überein, dass Robert E. Hall und Michael Woodford den Nobelpreis für Wirtschaft des Jahres 2026 im Bereich der makroökonomischen Stabilisierung gewonnen haben.",
-    "diff": [
-      {
-        "name": "RTP Economia",
-        "note": "Ergänzt, dass die beiden US-Amerikaner theoretische Werkzeuge entwickelt haben, die Regierungen, Zentralbanken und Ökonomen helfen, die Effekte ihrer Entscheidungen zu verstehen und Wege zur Reduzierung wirtschaftlicher Schwankungen zu bewerten."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-1e1731958020482c",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-12T12:45:00.000Z",
-    "p": 5,
-    "st": "NW",
-    "city": "",
-    "t": "Bundesarbeitsministerin und SPD-Chefin Bärbel Bas tritt zurück",
-    "s": "Die SPD-Politikerin und Bundesarbeitsministerin Bärbel Bas hat überraschend ihren Rücktritt von ihren Ämtern als Co-Vorsitzende der SPD und als Arbeitsministerin mit sofortiger Wirkung erklärt. Dies teilten Medienberichte am Tagesschau-Portal mit. Die Entscheidung betrifft sowohl ihr Parteiamt als auch ihr Regierungsamt. Weitere offizielle Details wurden zunächst nicht bekannt.",
-    "m": "Bärbel Bas ist mit sofortiger Wirkung als Bundesarbeitsministerin und Co-Vorsitzende der SPD zurückgetreten. Dieser plötzliche Schritt kam für Beobachter überraschend. Als Gründe für ihren Entschluss nannte Bas persönliche Motive sowie anhaltende öffentliche Angriffe gegen ihre Person. Der Rücktritt betrifft gleichzeitig zwei der wichtigsten Positionen in der deutschen Bundespolitik und in der regierenden Partei. Es bleibt zunächst offen, wer die Nachfolge von Bärbel Bas im Ministerium und an der Parteispitze antreten wird. Die politischen Reaktionen auf den unerwarteten Abgang stehen ebenfalls noch aus.",
-    "r": "Der gleichzeitige Rücktritt der Bundesarbeitsministerin und SPD-Parteichefin ist ein schwerer Schlag für die Regierungsspitze und die Partei. Der Vorfall entzieht dem Kabinett eine zentrale Ministerin und lässt die SPD ohne eine ihrer beiden Co-Vorsitzenden zurück.",
-    "srcs": [
-      {
-        "name": "Tagesschau Regional Nordrhein-Westfalen",
-        "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-nach-tod-der-stieftochter-arbeitsministerin-und-spd-chefin-bas-tritt-zurueck-100.html",
-        "date": "2026-10-12T12:45:00.000Z"
-      },
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/inland/innenpolitik/ruecktritt-bas-100.html",
-        "date": "2026-10-12T08:59:04.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-nach-tod-der-stieftochter-arbeitsministerin-und-spd-chefin-bas-tritt-zurueck-100.html",
-    "agree": "Beide Quellen berichten übereinstimmend, dass Bärbel Bas als Bundesarbeitsministerin und SPD-Co-Vorsitzende zurückgetreten ist.",
-    "diff": [
-      {
-        "name": "Tagesschau Regional Nordrhein-Westfalen",
-        "note": "Berichtet über den Rücktritt ohne nähere Nennung der Hintergründe."
-      },
-      {
-        "name": "Tagesschau",
-        "note": "Ergänzt, dass der Schritt überraschend kam, mit sofortiger Wirkung erfolgte und von Bas mit persönlichen Gründen sowie öffentlichen Angriffen begründet wurde."
-      }
-    ],
-    "chg": "",
-    "independent": 1
-  },
-  {
-    "id": "story-076e86a19959ff18",
-    "c": "DE",
-    "o": "DE",
-    "k": "umwelt",
-    "lang": "de",
-    "d": "2026-10-12T11:36:16.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Zielerreichung bis 2045: Verbraucher und Unternehmen müssten Billionen für Klimaziel investieren -",
-    "s": "Um das deutsche Klimaziel bis 2045 zu erreichen, sind laut Experten enorme Investitionen in den nächsten zwei Jahrzehnten erforderlich. Ein Großteil dieser Gelder muss demnach von Verbrauchern und Unternehmen aufgebracht werden. Der Staat stemmt dagegen nur einen Bruchteil der Gesamtsumme. Dennoch relativieren Fachleute den Betrag, da er im Alltagsschnitt nicht so gigantisch wirkt, wie er zunächst erscheint.",
-    "m": "Die Erreichung der deutschen Klimaneutralität bis 2045 erfordert nach Einschätzung von Experten gigantische finanzielle Anstrengungen in den kommenden rund zwanzig Jahren. Die Lasten verteilen sich vor allem auf die Schultern von Unternehmen und Verbrauchern, die Summen in Billionenhöhe investieren müssen. Der staatliche Anteil an diesen Gesamtkosten fällt im Vergleich dazu relativ gering aus und macht nur einen Bruchteil aus. Dennoch wird betont, dass die geforderten Beträge bei genauerer Betrachtung nicht so erdrückend sind, wie der erste Eindruck vermuten lässt. Genauere Details zum genauen zeitlichen Verlauf oder zur konkreten Zusammensetzung der Kosten werden in den vorliegenden Berichten nicht genannt. Offen bleibt auch, welche konkreten Entlastungen oder Förderungen für Bürger und Firmen geplant sind.",
-    "r": "Die Investitionen verdeutlichen die enormen wirtschaftlichen Herausforderungen der deutschen Klimapolitik. Sie zeigen, dass der Staat die Transformation nicht allein finanzieren kann und private Akteure stark gefordert sind.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaW9hNGU0RDhXNDlIbncwa1BBOGk4M1hUTUxIRVNzclkxOGxBTWxkU0R0SndNNW4tVnh4NkgxbzNGcG9jLUp4ZTlQVmtyaVMyQ3VEeER3TURoM01vb0FZV2VmYi0tVHBFVENiSGU2RFlOMEZMQ20wQ19EeWF0RHJBdkhwdVZ2RnZ6ZlV4RWxJQ2czNmhXSVd6angtbzF2OTFpcnNOT3hmRnFNeHB5X183Z3FTMThDd1ZiT0ZCQg?oc=5",
-        "date": "2026-10-12T11:36:16.000Z"
-      },
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/wirtschaft/Verbraucher-und-Unternehmen-muessten-Billionen-fuer-Klimaziel-investieren-id31408059.html",
-        "date": "2026-10-12T11:36:16.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaW9hNGU0RDhXNDlIbncwa1BBOGk4M1hUTUxIRVNzclkxOGxBTWxkU0R0SndNNW4tVnh4NkgxbzNGcG9jLUp4ZTlQVmtyaVMyQ3VEeER3TURoM01vb0FZV2VmYi0tVHBFVENiSGU2RFlOMEZMQ20wQ19EeWF0RHJBdkhwdVZ2RnZ6ZlV4RWxJQ2czNmhXSVd6angtbzF2OTFpcnNOT3hmRnFNeHB5X183Z3FTMThDd1ZiT0ZCQg?oc=5",
-    "agree": "Die Quellen sind sich einig, dass für das Erreichen des Klimaziels bis 2045 Billionen-Investitionen durch Verbraucher und Unternehmen nötig sind.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-771247b4e9253e0d",
-    "c": "INT",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-12T10:33:02.000Z",
-    "p": 3,
-    "st": "BY",
-    "city": "",
-    "t": "Wirtschaftsnobelpreis 2023 geht an die US-Forscher Michael Woodford und Robert E. Hall",
-    "s": "Der diesjährige Preis für Wirtschaftswissenschaften geht an die US-Ökonomen Michael Woodford und Robert E. Hall. Die Bekanntgabe erfolgte durch die Königlich-Schwedische Akademie der Wissenschaften in Stockholm. Die Auszeichnung würdigt ihre Arbeit gegen das Auf und Ab der Wirtschaft. Beide Preisträger stammen aus den USA.",
-    "m": "In Stockholm hat die Königlich-Schwedische Akademie der Wissenschaften die Gewinner des Wirtschaftsnobelpreises bekannt gegeben. Die Auszeichnung geht an die beiden US-Ökonomen Michael Woodford und Robert E. Hall. Gewürdigt wird damit ihre wissenschaftliche Arbeit gegen das wirtschaftliche Auf und Ab. Die Bekanntgabe fand im Rahmen der diesjährigen Nobelpreisverleihungen statt. Weitere Details zu ihren konkreten Forschungsarbeiten oder Modellen wurden in den Meldungen nicht genannt. Die Auszeichnung gilt als einer der renommiertesten Preise in den Wirtschaftswissenschaften. Offen bleibt, wie die genaue Begründung im Detail lautet.",
-    "r": "Die Verleihung des Wirtschaftsnobelpreises ist eine international bedeutende Auszeichnung für herausragende Leistungen in den Wirtschaftswissenschaften. Die Bekanntgabe der Preisträger durch die schwedische Akademie lenkt die weltweite Aufmerksamkeit auf deren wirtschaftswissenschaftliche Arbeit.",
-    "srcs": [
-      {
-        "name": "t-online Wirtschaft",
-        "url": "https://www.t-online.de/finanzen/aktuelles/wirtschaft/id_101477246/michael-woodford-und-robert-hall-nobelpreis-fuer-wirtschaft-geht-in-die-usa.html",
-        "date": "2026-10-12T10:33:02.000Z"
-      },
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/wirtschaftsnobelpreis-geht-an-us-oekonomen-woodford-und-hall,VXp8Hx2",
-        "date": "2026-10-12T10:09:00.000Z"
-      }
-    ],
-    "url": "https://www.t-online.de/finanzen/aktuelles/wirtschaft/id_101477246/michael-woodford-und-robert-hall-nobelpreis-fuer-wirtschaft-geht-in-die-usa.html",
-    "agree": "Die Quellen sind sich einig, dass der Wirtschaftsnobelpreis an die US-Ökonomen Michael Woodford und Robert E. Hall in Stockholm vergeben wurde.",
-    "diff": [
-      {
-        "name": "BR24 Bayern",
-        "note": "Erwähnt zusätzlich die Königlich-Schwedische Akademie der Wissenschaften als Institution in Stockholm und dass der Preis gegen das Auf und Ab der Wirtschaft gerichtet ist."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-f7ee2b5a69d952e3",
-    "c": "INT",
-    "o": "INT",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-12T09:58:00.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Ukraine dementiert von Trump verkündeten Energiewaffenstillstand",
-    "s": "Der US-amerikanische Politiker Donald Trump erklärte, er habe einen Waffenstillstand zum Schutz der Energieinfrastruktur in Russland und der Ukraine vermittelt. Ukrainische offizielle Stellen widersprechen dieser Darstellung jedoch und berichten von anhaltenden Angriffen auf Gasanlagen. Die Vorfälle werfen Fragen über die tatsächliche Wirksamkeit und Einhaltung der angeblichen Vereinbarung auf.",
-    "m": "Nach Angaben von Donald Trump wurde ein Waffenstillstand vereinbart, der gezielte Angriffe auf Energieeinfrastruktur in der Ukraine und Russland verhindern soll. Kurz nach dieser Ankündigung meldeten ukrainische Behörden jedoch, dass die Angriffe auf ukrainische Gasanlagen unvermindert weitergingen. Durch die anhaltenden Bombardierungen in der Nacht wurden nach aktuellen Berichten 33 Menschen verletzt. Die ukrainische Seite betont, dass Russland seine Angriffe auf kritische Energieeinrichtungen trotz des angeblichen Abkommens fortsetzt. Damit stehen die Aussagen der US-Seite in starkem Widerspruch zur realen Situation vor Ort. Offene Punkte betreffen die genauen Details der vermittelten Vereinbarung sowie die Reaktion der internationalen Diplomatie auf die fortlaufenden Angriffe.",
-    "r": "Die Meldung ist relevant, da sie einen potenziellen internationalen Waffenstillstand im Energiesektor und dessen sofortigen Bruch durch tatsächliche Angriffe vor Ort dokumentiert. Dies betrifft die diplomatischen Bemühungen der USA im Ukraine-Krieg sowie die Sicherheit der kritischen Infrastruktur.",
-    "srcs": [
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNenNrNjdxdUZuN0RldlJxbHBrYWM0aEdGU25GM21GMTZjZ3I3YXNlcnNWazNNcEdid3FuNUUxblppNDFSUmpBeE4tWjN5U2QzbVZ3U2Q5QlZVblFNaHFFTHZpWVBCbjdCQ1RTWkc2aDdESnNwaEhGX0ltVUpUdUl2YW53RU5BVGx2OF9hR2xxREpWWkM4dF8tMHZmVnFQbGJHZGgybEJNRWNkVUJVR3c?oc=5",
-        "date": "2026-10-12T09:58:00.000Z"
-      },
-      {
-        "name": "NPR World",
-        "url": "https://www.npr.org/2026/10/12/nx-s1-5998614/trump-russia-ukraine-energy-ceasefire",
-        "date": "2026-10-12T06:41:57.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNenNrNjdxdUZuN0RldlJxbHBrYWM0aEdGU25GM21GMTZjZ3I3YXNlcnNWazNNcEdid3FuNUUxblppNDFSUmpBeE4tWjN5U2QzbVZ3U2Q5QlZVblFNaHFFTHZpWVBCbjdCQ1RTWkc2aDdESnNwaEhGX0ltVUpUdUl2YW53RU5BVGx2OF9hR2xxREpWWkM4dF8tMHZmVnFQbGJHZGgybEJNRWNkVUJVR3c?oc=5",
-    "agree": "Die Quellen stimmen überein, dass Donald Trump einen Waffenstillstand zum Schutz der Energieinfrastruktur in der Ukraine und Russland behauptet hat, während die Ukraine von anhaltenden Angriffen auf ihre Gasanlagen berichtet.",
-    "diff": [
-      {
-        "name": "Google News World",
-        "note": "Berichtet über die Meldung von NBC News, dass Trump einen Energiewaffenstillstand behauptet, während die Ukraine anhaltende Angriffe auf Energieeinrichtungen meldet."
-      },
-      {
-        "name": "NPR World",
-        "note": "Ergänzt konkrete Details dazu, dass die anhaltenden Bombenangriffe auf Gasanlagen in der Nacht stattfanden und dabei 33 Menschen verletzt wurden."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-823ff8751c0881cc",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-12T09:04:00.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Russische Angriffe auf ukrainische Energieanlagen trotz vereinbarter Waffenruhe",
-    "s": "Trotz einer von US-Präsident Donald Trump verkündeten Energie-Waffenruhe zwischen Kyjiw und Moskau wurden neue Angriffe auf ukrainische Energieanlagen gemeldet. Die EU hat daraufhin den Druck auf Russland durch neue Sanktionen erhöht. Die genauen Umstände und Auswirkungen der Angriffe werden weiterhin beobachtet.",
-    "m": "Nachdem US-Präsident Donald Trump eine Energie-Waffenruhe zwischen Kyjiw und Moskau verkündet hatte, kam es nur wenige Stunden später zu neuen russischen Angriffen auf ukrainische Energieanlagen in der Ukraine. Diese Entwicklung folgt auf einen zuvor getätigten Diesel-Deal zwischen den USA und Russland. Als Reaktion auf die anhaltenden Angriffe und die Missachtung der Waffenruhe hat die Europäische Union den Druck auf Russland durch die Verabschiedung neuer Sanktionen verstärkt. Die Situation verdeutlicht die anhaltende Fragilität von diplomatischen Vereinbarungen und Waffenruhen in dem Konflikt. Bislang gibt es keine detaillierten Angaben über das genaue Ausmaß der Schäden an den betroffenen Energieanlagen oder über mögliche Verletzte. Weitere offene Punkte betreffen die internationale Reaktion auf den Bruch der Waffenruhe und die Wirksamkeit der neu verhängten Sanktionen.",
-    "r": "Die Angriffe trotz einer verkündeten Energie-Waffenruhe zeigen die anhaltende Instabilität im Ukraine-Konflikt und führen zu direkten Reaktionen der EU in Form neuer Sanktionen. Dies betrifft die internationale Sicherheit und die globale Energieinfrastruktur.",
-    "srcs": [
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/politik/ausland/trump-energie-waffenruhe-ukraine-krieg-russland-usa-100.html",
-        "date": "2026-10-12T09:04:00.000Z"
-      },
-      {
-        "name": "DW Deutsch",
-        "url": "https://www.dw.com/de/angriffe-trotz-energie-waffenruhe-in-der-ukraine/a-79637337?maca=de-rss-de-all-1119-xml-mrss",
-        "date": "2026-10-12T08:54:00.000Z"
-      }
-    ],
-    "url": "https://www.zdfheute.de/politik/ausland/trump-energie-waffenruhe-ukraine-krieg-russland-usa-100.html",
-    "agree": "Die Quellen sind sich einig, dass es trotz einer von US-Präsident Trump verkündeten Energie-Waffenruhe zu neuen Angriffen auf ukrainische Energieanlagen kam.",
-    "diff": [
-      {
-        "name": "ZDF heute",
-        "note": "Berichtet zusätzlich, dass die EU den Druck auf Russland mit neuen Sanktionen erhöht hat."
-      },
-      {
-        "name": "DW Deutsch",
-        "note": "Erwähnt im Kontext der Waffenruhe einen zuvor getätigten Diesel-Deal von US-Präsident Trump mit Russland."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-0da8c6e0939fbf59",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-12T07:39:31.000Z",
-    "p": 2,
-    "st": "HE",
-    "city": "",
-    "t": "Rapper Haftbefehl sagt Konzerte wegen Gesundheitsproblemen ab",
-    "s": "Der Offenbacher Rapper Haftbefehl hat mehrere geplante Konzerte abgesagt. Seine Familie und sein Bruder gaben an, dass er sich derzeit unter ärztlicher Aufsicht befindet. Ein zuvor gefeiertes Comeback in Frankfurt hatte Fans noch Hoffnung auf weitere Auftritte gemacht.",
-    "m": "Der Rapper Haftbefehl hat erneut gesundheitliche Rückschläge erlitten und muss mehrere Konzerte absagen. Sein Bruder und seine Familie informierten die Öffentlichkeit über Social Media über den Vorfall und erklärten, dass der Musiker aktuell unter ärztlicher Aufsicht stehe. Konkrete Details zu seinem gesundheitlichen Zustand wurden nicht genannt, jedoch ist bekannt, dass Haftbefehl seit Jahren mit den Folgen seiner Drogensucht zu kämpfen hat. Erst kürzlich hatte er in Frankfurt ein viel beachtetes Comeback gefeiert, das seine Anhänger auf eine fortgesetzte Tournee hoffen ließ. Nun kann der Rapper vorerst nicht zu seinen Fans sprechen und die Auftritte fallen aus. Wann mit neuen Konzerten zu rechnen ist, bleibt derzeit offen.",
-    "r": "Die Absage von Konzerten eines bekannten Künstlers wegen gesundheitlicher Probleme hat Relevanz für die Musikszene und seine Anhängerschaft. Die Bekanntgabe des Bruders über die Hintergründe wirft zudem ein Schlaglicht auf den langjährigen Kampf des Rappers mit seiner Drogensucht.",
-    "srcs": [
-      {
-        "name": "Tagesschau Regional Hessen",
-        "url": "https://www.tagesschau.de/inland/regional/hessen/hr-zwei-konzerte-von-haftbefehl-abgesagt-rapper-unter-aerztlicher-aufsicht-100.html",
-        "date": "2026-10-12T07:39:31.000Z"
-      },
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/leute/Haftbefehl-steht-unter-aerztlicher-Aufsicht-id31406534.html",
-        "date": "2026-10-12T05:04:14.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/regional/hessen/hr-zwei-konzerte-von-haftbefehl-abgesagt-rapper-unter-aerztlicher-aufsicht-100.html",
-    "agree": "Beide Quellen berichten übereinstimmend, dass Haftbefehl mehrere Konzerte absagen musste und sich unter ärztlicher Aufsicht befindet.",
-    "diff": [
-      {
-        "name": "Tagesschau Regional Hessen",
-        "note": "Erwähnt das vorherige Comeback in Frankfurt und dass sich die Familie auf Social Media mit der Nachricht gemeldet hat, dass er gerade nicht zu den Fans sprechen könne."
-      },
-      {
-        "name": "ntv",
-        "note": "Berichtet ergänzend, dass der Rapper seit Jahren mit den Folgen seiner Drogensucht zu kämpfen hat und die Angabe zur ärztlichen Aufsicht von seinem Bruder stammt."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-f8c91bb366fe620a",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-12T07:33:46.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Alexander Schweitzer soll neuer Arbeitsminister im Kabinett Merz werden",
-    "s": "Nach dem Rücktritt von Bärbel Bas soll Alexander Schweitzer das Amt des Bundesarbeitsministers übernehmen. Dies geht aus übereinstimmenden Medien- und Parteikriegen hervor. Der SPD-Politiker war zuvor Ministerpräsident in Rheinland-Pfalz.",
-    "m": "Der ehemalige rheinland-pfälzische Ministerpräsident Alexander Schweitzer soll als Nachfolger von Bärbel Bas neuer Bundesarbeitsminister im Kabinett Merz werden. Das wurde AFP am Montag aus Parteikreisen bestätigt. Bärbel Bas hatte zuvor ihren Rücktritt sowohl von ihrem Ministeramt als auch vom Ko-Parteivorsitz erklärt. Schweitzer ist derzeit auch SPD-Vorsitzender in Rheinland-Pfalz. Die Personalie wurde unter anderem über das ARD-Hauptstadtstudio und ZEIT-Informationen bekannt. Weitere Details zur genauen Amtsübergabe oder zum Zeitpunkt wurden in den Berichten zunächst nicht genannt.",
-    "r": "Die Personalie besetzt ein wichtiges Bundesressort neu und betrifft die personelle Aufstellung der Bundesregierung nach dem Rücktritt einer Ministerin.",
-    "srcs": [
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/politik/deutschland/2026-10/alexander-schweitzer-spd-arbeitsminister-baerbel-bas",
-        "date": "2026-10-12T07:33:46.000Z"
-      },
-      {
-        "name": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/inland/innenpolitik/alexander-schweitzer-arbeitsminister-100.html",
-        "date": "2026-10-12T07:30:03.000Z"
-      },
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/politik/alexander-schweitzer-soll-nachfolger-von-baerbel-bas-als-arbeitsminister-werden-2ZQVKQH6G5HZROCIRZFQB7HUH4.html",
-        "date": "2026-10-12T07:29:21.000Z"
-      },
-      {
-        "name": "stern",
-        "url": "https://www.stern.de/news/alexander-schweitzer-soll-neuer-arbeitsminister-werden-38382978.html",
-        "date": "2026-10-12T07:21:18.000Z"
-      }
-    ],
-    "url": "https://www.zeit.de/politik/deutschland/2026-10/alexander-schweitzer-spd-arbeitsminister-baerbel-bas",
-    "agree": "Die Quellen sind sich einig, dass Alexander Schweitzer neuer Arbeitsminister als Nachfolger von Bärbel Bas werden soll.",
-    "diff": [
-      {
-        "name": "ZEIT ONLINE",
-        "note": "nennt ihn derzeitigen SPD-Vorsitzenden in Rheinland-Pfalz"
-      },
-      {
-        "name": "SWR Aktuell",
-        "note": "beruft sich auf Informationen des ARD-Hauptstadtstudios und bezeichnet ihn als früheren Ministerpräsidenten"
-      },
-      {
-        "name": "RND",
-        "note": "erwähnt den Rücktritt von Bärbel Bas direkt als Auslöser"
-      },
-      {
-        "name": "stern",
-        "note": "nennt AFP als Quelle für die Bestätigung aus Parteikreisen am Montag und merkt an, dass Bas zuvor auch von ihrem Ko-Parteivorsitz zurückgetreten ist"
-      }
-    ],
-    "chg": "",
-    "independent": 4
-  },
-  {
-    "id": "story-95d20e7f0be577c6",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-12T07:29:00.000Z",
-    "p": 2,
-    "st": "NW",
-    "city": "",
-    "t": "Rapper Haftbefehl steht unter ärztlicher Aufsicht und Konzert abgesagt",
-    "s": "Der Rapper Haftbefehl befindet sich derzeit unter ärztlicher Aufsicht. Aus diesem Grund wurde ein für Düsseldorf geplantes Konzert abgesagt. Sein Bruder Capo wandte sich mit einer ernsten Videobotschaft an die Öffentlichkeit. Die Familie bittet in dieser Situation um Verständnis für ihre Entscheidung.",
-    "m": "Die Absage des Auftritts in Düsseldorf sowie die aktuelle ärztliche Aufsicht des Rappers Haftbefehl wurden durch ein Social-Media-Video seines Bruders Capo bekannt gegeben. Capo richtete sich mit einer besorgten Nachricht an die Fans, um die Konzertabsage zu begründen. Konkrete Details zur genauen Art der gesundheitlichen Probleme oder zur Dauer der ärztlichen Betreuung wurden in den vorliegenden Meldungen nicht genannt. Die Familie bittet die Anhänger um Verständnis für die getroffene Maßnahme. Weitere Konzerte oder offizielle Statements von Management oder Ärzten liegen bisher nicht vor.",
-    "r": "Die gesundheitliche Situation eines bekannten Künstlers und die damit verbundenen Veranstaltungsabsagen sind für die Öffentlichkeit und die Medien von allgemeinem Interesse. Solche Ereignisse betreffen sowohl die Musikbranche als auch die betroffenen Fans direkt vor Ort.",
-    "srcs": [
-      {
-        "name": "stern",
-        "url": "https://www.stern.de/lifestyle/leute/rapper-haftbefehl---aktuell-unter-aerztlicher-aufsicht--38382470.html",
-        "date": "2026-10-12T07:29:00.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Nordrhein-Westfalen",
-        "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-konzert-in-duesseldorf-abgesagt-haftbefehl-unter-aerztlicher-aufsicht-100.html",
-        "date": "2026-10-12T06:18:00.000Z"
-      }
-    ],
-    "url": "https://www.stern.de/lifestyle/leute/rapper-haftbefehl---aktuell-unter-aerztlicher-aufsicht--38382470.html",
-    "agree": "Beide Quellen stimmen darin überein, dass sich der Rapper Haftbefehl unter ärztlicher Aufsicht befindet und sein Bruder Capo per Video eine ernste Nachricht an die Fans gerichtet hat.",
-    "diff": [
-      {
-        "name": "stern",
-        "note": "Erwähnt die Bitte um Verständnis für eine Entscheidung der Familie."
-      },
-      {
-        "name": "Tagesschau Regional Nordrhein-Westfalen",
-        "note": "Konkretisiert, dass ein Konzert in Düsseldorf abgesagt wurde."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-67680507f95f7cbe",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-12T07:17:22.000Z",
-    "p": 5,
-    "st": "",
-    "city": "",
-    "t": "Bärbel Bas tritt von allen Ämtern zurück und Alexander Schweitzer wird Arbeitsminister",
-    "s": "Bundesarbeitsministerin und SPD-Chefin Bärbel Bas hat überraschend ihren Rücktritt von allen Ämtern erklärt. Auslöser für diesen Schritt sind der Tod ihrer Stieftochter sowie schwere Vorwürfe gegen den Koalitionspartner Union wegen anhaltender Angriffe. Als Nachfolger für das Ministeramt ist bereits Alexander Schweitzer vorgesehen.",
-    "m": "Der überraschende Rücktritt von Bärbel Bas umfasst sowohl den SPD-Vorsitz als auch ihr Amt als Bundesarbeitsministerin. Als Hauptgründe nannte sie den tragischen Tod ihrer Stieftochter sowie politische Angriffe aus den Reihen der Union, die das Vertrauen in die Koalitionszusammenarbeit schwer beschädigt hätten. Für die Nachfolge im Bundesarbeitsministerium gibt es eine schnelle Lösung, wobei Alexander Schweitzer das Amt übernehmen soll. Zudem hat SPD-Generalsekretär Klingbeil infolge der Ereignisse eine geplante Reise abgesagt. Die politischen Folgen für das Regierungsbündnis und die genauen Hintergründe der parteiinternen sowie koalitionären Spannungen werden derzeit intensiv diskutiert. Offen ist noch, wie die Neubesetzung des Parteivorsitzes und die weitere Arbeit der Koalition konkret gestaltet werden.",
-    "r": "Der Rücktritt einer hochrangigen Ministerin und Parteivorsitzenden erschüttert die Bundesregierung und wirft Fragen zur Stabilität des Koalitionsbündnisses auf. Die Ereignisse erfordern eine schnelle personelle Neuaufstellung in Ministerium und Partei.",
-    "srcs": [
-      {
-        "name": "Süddeutsche Zeitung",
-        "url": "https://www.sueddeutsche.de/politik/baerbel-bas-ruecktritt-bundesregierung-spd-li.3562098",
-        "date": "2026-10-12T07:17:22.000Z"
-      },
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/politik/deutschland/article6acc76bd6afea86e1d9b69a9/baerbel-bas-tritt-von-allen-aemtern-zurueck-und-erhebt-schwere-vorwuerfe-gegen-koalitionspartner.html",
-        "date": "2026-10-12T06:00:14.000Z"
-      }
-    ],
-    "url": "https://www.sueddeutsche.de/politik/baerbel-bas-ruecktritt-bundesregierung-spd-li.3562098",
-    "agree": "Bärbel Bas tritt von allen Ämtern als Ministerin und Parteivorsitzende zurück und Alexander Schweitzer wird neuer Arbeitsminister.",
-    "diff": [
-      {
-        "name": "WELT",
-        "note": "Erwähnt zusätzlich, dass Klingbeil seine Reise abgesagt hat."
-      },
-      {
-        "name": "Süddeutsche Zeitung",
-        "note": "Berichtet über die Attacken der Union gegen Bärbel Bas."
       }
     ],
     "chg": "",
