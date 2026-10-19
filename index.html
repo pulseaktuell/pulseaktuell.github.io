@@ -361,6 +361,22 @@ function renderAll(){
   if(currentSheet)openSheet(currentSheet,true);
 }
 
+function shareUrl(it){
+  const u=new URL(location.href);
+  u.searchParams.set('story',String(it.id));
+  u.hash='';
+  return u.href;
+}
+function factBullets(it){
+  const candidates=[it.s,it.m,it.r].filter(v=>typeof v==='string'&&v.trim());
+  const facts=[];
+  for(const text of candidates){
+    const parts=text.replace(/\s+/g,' ').split(/(?<=[.!?])\s+(?=[A-ZÄÖÜ0-9„“])/u).map(x=>x.trim()).filter(Boolean);
+    for(const part of parts){if(part.length>18&&!facts.includes(part))facts.push(part);if(facts.length>=5)break}
+    if(facts.length>=5)break;
+  }
+  return facts.slice(0,5);
+}
 function sheetHTML(it,isOpen){
   const cat=CATS[it.k];
   const canShare=typeof navigator!=='undefined'&&!!navigator.share;
@@ -373,17 +389,19 @@ function sheetHTML(it,isOpen){
       <h2>${esc(it.t)}</h2><div class="story-meta"><span class="story-badge ai-badge">KI-zusammengefasst</span><span class="story-badge">${sourceDiversityLabel(it)}</span><span class="story-badge">${it.d?'Aktualisiert '+new Intl.DateTimeFormat('de-DE',{hour:'2-digit',minute:'2-digit'}).format(new Date(it.d))+' Uhr':'Aktuelle Meldung'}</span></div>
     </div>
     <div class="sbody">
+      <h4>Die wichtigsten Fakten</h4><ul class="pulse-facts">${factBullets(it).map(f=>`<li>${esc(f)}</li>`).join('')}</ul>
       <h4>Kurzfassung</h4><p>${esc(it.s)}</p>
       ${it.m?`<h4>Was bisher bekannt ist</h4><p>${esc(it.m)}</p>`:''}
-      
       ${it.r?`<h4>Warum relevant</h4><p class="relevance">${esc(it.r)}</p>`:''}
       ${isUpdated(it)?`<div class="change-box"><div class="change-title">Was hat sich geändert?</div><div class="change-text">${esc(updateInfo(it)||'Neue Informationen oder Quellen hinzugefügt')}</div></div>`:''}
-      <h4>Quellen</h4>
-      <div class="source-links">${(Array.isArray(it.srcs)?it.srcs:[]).map(src=>`<p><a href="${esc(src.url||'#')}" target="_blank" rel="noopener noreferrer">${esc(src.name||'Quelle')}</a><small style="display:block;color:var(--label3);margin-top:2px">${sourceType(src)}</small></p>`).join('') || '<p>Keine Quellenlinks verfügbar.</p>'}</div>
+      <h4>Originalberichte</h4>
+      <p class="pulse-source-intro">Die Originalquellen sind die maßgebliche Grundlage. Öffne sie, um Kontext und Einzelheiten selbst zu prüfen.</p>
+      <div class="source-links">${(Array.isArray(it.srcs)?it.srcs:[]).map(src=>`<p><a href="${esc(src.url||'#')}" target="_blank" rel="noopener noreferrer">${esc(src.name||'Quelle')} ↗</a><small style="display:block;color:var(--label3);margin-top:4px">${sourceType(src)} · Originalbericht wird in neuem Tab geöffnet</small></p>`).join('') || '<p>Keine Quellenlinks verfügbar.</p>'}</div>
       ${it.agree?`<h4>Quellenvergleich</h4><p>${esc(it.agree)}</p>`:''}
       ${Array.isArray(it.diff)&&it.diff.length?`<h4>Abweichende Angaben</h4>${it.diff.map(d=>`<p><strong>${esc(d.name)}:</strong> ${esc(d.note)}</p>`).join('')}`:''}
       <p class="note">${sourceDiversityLabel(it)} · ${dayLabel(it.d)} · Die Meldung kann Fehler oder fehlende Informationen enthalten. Es empfiehlt sich, die Originalquellen zu lesen.</p><div class="sact">
         ${originalUrl(it)?`<a class="primary" href="${esc(originalUrl(it))}" target="_blank" rel="noopener noreferrer">Originalbericht lesen</a>`:''}
+        <button class="secondary" type="button" data-copy-story="${it.id}">Link kopieren</button>
         ${canShare?`<button class="secondary" data-share="${it.id}">Teilen</button>`:''}
       </div>
     </div>
@@ -431,12 +449,13 @@ function closeSheet(){
   const root=$('#sheetRoot');
   root.querySelectorAll('.overlay,.sheet').forEach(n=>n.classList.remove('open'));
   currentSheet=null;document.body.style.overflow='';
+  try{const u=new URL(location.href);if(u.searchParams.has('story')){u.searchParams.delete('story');history.replaceState({},'',u)}}catch(e){}
   setTimeout(()=>{if(!currentSheet)root.innerHTML=''},360);
   if(lastFocus&&lastFocus.focus)try{lastFocus.focus({preventScroll:true})}catch(e){}
 }
 
 document.addEventListener('click',e=>{
-  const t=e.target.closest('[data-open],[data-close],[data-supporter],[data-scope],[data-state],[data-country],[data-cat],[data-share],[data-more],[data-clear-search]');
+  const t=e.target.closest('[data-open],[data-close],[data-supporter],[data-scope],[data-state],[data-country],[data-cat],[data-share],[data-copy-story],[data-more],[data-clear-search]');
   if(!t)return;
   const d=t.dataset;
   if(d.supporter!==undefined){lastFocus=t;currentSheet='__supporter__';t.classList.add('is-hidden');const root=$('#sheetRoot');root.innerHTML=supporterHTML(false);requestAnimationFrame(()=>requestAnimationFrame(()=>root.querySelectorAll('.overlay,.sheet').forEach(n=>n.classList.add('open'))));document.body.style.overflow='hidden';return}
@@ -450,8 +469,15 @@ document.addEventListener('click',e=>{
   if(d.clearSearch!==undefined){S.search='';const input=$('#searchInput');if(input)input.value='';S.shown=6;renderControls();renderFeed();return}
   if(d.cat!==undefined){S.cat=d.cat;S.shown=6;renderControls();renderFeed();return}
   if(d.share!==undefined){
-    const it=ITEMS.find(i=>i.id===d.share);if(!it)return;
-    try{navigator.share({title:it.t,text:it.s,url:originalUrl(it)||undefined}).catch(()=>{})}catch(err){}
+    const it=ITEMS.find(i=>String(i.id)===String(d.share));if(!it)return;
+    try{navigator.share({title:it.t,text:it.s,url:shareUrl(it)}).catch(()=>{})}catch(err){}
+  }
+  if(d.copyStory!==undefined){
+    const it=ITEMS.find(i=>String(i.id)===String(d.copyStory));if(!it)return;
+    const url=shareUrl(it),btn=t;
+    const done=()=>{const old=btn.textContent;btn.textContent='Link kopiert';setTimeout(()=>{if(btn.isConnected)btn.textContent=old},1800)};
+    if(navigator.clipboard&&navigator.clipboard.writeText)navigator.clipboard.writeText(url).then(done).catch(()=>{prompt('Link kopieren:',url)});
+    else prompt('Link kopieren:',url);
   }
 });
 document.addEventListener('input',e=>{
