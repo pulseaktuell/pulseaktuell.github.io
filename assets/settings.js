@@ -74,17 +74,26 @@ function setup(){
     motionButton.textContent=on?'Animationen an':'Animationen aus';
   };
 
+  // Sonstiges in jeder Variante des Einstellungsmenüs ergänzen.
+  if(!panel.querySelector('.pulse-settings-section')){
+    const section=document.createElement('div');
+    section.className='pulse-settings-section';
+    section.innerHTML='<div class="pulse-settings-section-title">Sonstiges</div><nav class="pulse-settings-links" aria-label="Weitere Bereiche"><a href="./impressum.html">Impressum</a><a href="./quellen.html">Quellen</a><a href="./arbeitsweise.html">Arbeitsweise</a><a href="./erklaert.html">Pulse erklärt</a><a href="./datenschutz.html">Datenschutz</a></nav>';
+    panel.appendChild(section);
+  }
+
   updateTheme();
 
-  // Einheitlicher Footer auf allen statischen Seiten; vorhandene Footer werden vereinheitlicht.
+  // Einheitlicher Footer auf allen Inhaltsseiten. #foot auf der Startseite bleibt Statusanzeige.
   const footerLinks='<nav class="pulse-footer-links" aria-label="Weitere Bereiche"><a href="./impressum.html">Impressum</a><span class="pulse-footer-dot">·</span><a href="./quellen.html">Quellen</a><span class="pulse-footer-dot">·</span><a href="./arbeitsweise.html">Arbeitsweise</a><span class="pulse-footer-dot">·</span><a href="./erklaert.html">Pulse erklärt</a><span class="pulse-footer-dot">·</span><a href="./datenschutz.html">Datenschutz</a></nav>';
-  let footer=document.querySelector('.pulse-footer,body .foot');
+  let footer=document.querySelector('.pulse-footer')||document.querySelector('body .foot:not(#foot)');
   if(!footer){
     footer=document.createElement('footer');
     const main=document.querySelector('main');
     if(main&&main.parentNode)main.insertAdjacentElement('afterend',footer);
     else document.body.appendChild(footer);
   }
+  document.querySelectorAll('body .foot:not(#foot)').forEach(node=>{if(node!==footer)node.remove()});
   footer.classList.add('pulse-footer');
   footer.setAttribute('aria-label','Weitere Bereiche von Pulse');
   footer.innerHTML=footerLinks;
