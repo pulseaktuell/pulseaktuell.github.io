@@ -52,10 +52,11 @@ try{
    count.textContent=filtered.length+' Meldungen'+(q?' gefunden':'');
    clear.hidden=!q;
    if(!filtered.length){root.innerHTML='<div class="empty">Keine Meldungen für diese Auswahl.</div>';return}
+   const desktopTimeline=window.matchMedia('(min-width: 900px)').matches;
    const by=new Map();
-   for(const it of filtered){const m=String(it.d||'').slice(0,7);if(!by.has(m))by.set(m,[]);by.get(m).push(it)}
+   for(const it of filtered){const key=String(it.d||'').slice(0,desktopTimeline?10:7);if(!by.has(key))by.set(key,[]);by.get(key).push(it)}
    root.innerHTML=[...by.entries()].map(([m,list])=>{
-     const title=new Intl.DateTimeFormat('de-DE',{month:'long',year:'numeric'}).format(new Date(m+'-01T12:00:00'));
+     const title=desktopTimeline?new Intl.DateTimeFormat('de-DE',{weekday:'long',day:'numeric',month:'long',year:'numeric'}).format(new Date(m+'T12:00:00')):new Intl.DateTimeFormat('de-DE',{month:'long',year:'numeric'}).format(new Date(m+'-01T12:00:00'));
      return '<section class="month"><button class="month-head" data-toggle="'+esc(m)+'"><span>'+esc(title)+'</span><small>'+list.length+' Meldungen</small></button><div class="month-list" id="month-'+esc(m)+'">'+list.map(it=>'<button class="story" type="button" data-open="'+esc(it.id||'')+'"><h3>'+esc(it.t)+'</h3><p>'+esc(it.s)+'</p><time>'+fmt(it.d)+'</time></button>').join('')+'</div></section>';
    }).join('');
  };
