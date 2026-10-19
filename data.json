@@ -1,5 +1,298 @@
 [
   {
+    "id": "story-3586e8b6abb1910f",
+    "c": "INT",
+    "o": "DE",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-19T00:07:22.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Real Madrid siegt gegen Sevilla vor Leipzig-Spiel in Champions League",
+    "s": "Real Madrid hat seine Generalprobe vor dem anstehenden Heimspiel gegen RB Leipzig in der spanischen Liga erfolgreich bestritten. Gegen den FC Sevilla gelang den Madrilenen ein Sieg. Maßgeblich am Erfolg beteiligt waren unter anderem Kylian Mbappé sowie ein ehemaliger Spieler von RB Leipzig.",
+    "m": "Die Generalprobe für das bevorstehende Heimspiel gegen RB Leipzig in der Champions League ist für Real Madrid gelungen. Beim Ligaspiel gegen den FC Sevilla fuhr die Mannschaft einen Sieg ein. Zu den auffälligen Akteuren auf dem Platz zählten Kylian Mbappé, der mit einem frechen Treffer glänzte, sowie ein ehemaliger Profi von RB Leipzig. Weitere Details zum genauen Spielverlauf, Torschützen oder dem Endstand nennen die vorliegenden Berichte nicht. Auch über mögliche Verletzungen oder taktische Aufstellungen wird in den kurzen Meldungen keine Auskunft gegeben.",
+    "r": "Die Meldung ist sportlich relevant, da Real Madrid als kommender Gegner von RB Leipzig im Fokus steht und seine Form unter Beweis gestellt hat.",
+    "srcs": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/sport/fussball/mbappe-trifft-per-panenka-real-madrid-siegt-gegen-sevilla-accg-201599367.html",
+        "date": "2026-10-19T00:07:22.000Z"
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-10/18/mbapp-trifft-frech-real-madrid-siegt-gegen-sevilla",
+        "date": "2026-10-18T21:03:05.000Z"
+      }
+    ],
+    "url": "https://www.faz.net/aktuell/sport/fussball/mbappe-trifft-per-panenka-real-madrid-siegt-gegen-sevilla-accg-201599367.html",
+    "agree": "Beide Quellen stimmen überein, dass Real Madrid gegen Sevilla gewonnen hat und Kylian Mbappé dabei mit einem frechen Tor traf.",
+    "diff": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "note": "Erwähnt zusätzlich, dass die Partie als Generalprobe für das Heimspiel gegen RB Leipzig galt und ein Ex-Leipziger glänzte."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-451e16d1db296f68",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-18T23:48:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Flugzeug nach Bombendrohung auf Flug von Tel Aviv nach Wien in Sofia",
+    "s": "Ein Airbus von Austrian Airlines auf dem Weg von Tel Aviv nach Wien musste nach einer Bombendrohung ungeplant in Sofia notlanden. Das Flugzeug wurde im bulgarischen Luftraum von einem Kampfjet begleitet. An Bord der Maschine befanden sich 51 Passagiere und sechs Crewmitglieder. Die Sicherheitskräfte begannen mit der Durchsuchung des Flugzeugs nach Sprengsätzen.",
+    "m": "Die Maschine startete am Nachmittag in Tel Aviv mit dem Ziel Wien. Während des Fluges kam es zu einer Bombendrohung, woraufhin die Besatzung eine Zwischenlandung einleitete und ein Notsignal sendete. Die bulgarischen Behörden reagierten, indem ein Kampfjet aufstieg und das Flugzeug bis zur Landung auf dem Flughafen in Sofia begleitete. Insgesamt waren 51 Passagiere sowie sechs Mitglieder der Besatzung von dem Vorfall betroffen. Die Austrian-Airlines-Maschine wird nun vor Ort umfassend auf mögliche Sprengsätze untersucht. Nähere Details zur Art der Drohung oder zu den Hintergründen sind aus den Berichten bisher nicht bekannt.",
+    "r": "Der Zwischenfall betrifft die internationale zivile Luftfahrt und erfordert Sicherheitsmaßnahmen bei Bombendrohungen im Flugverkehr. Die erzwungene Notlandung und der Einsatz von Militärjets verdeutlichen die strikten Protokolle zur Gefahrenabwehr.",
+    "srcs": [
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/tel-aviv-wien-flugzeug-muss-nach-bombendrohung-in-sofia-notlanden-a-c9bcc4c7-d69a-459e-aa61-29897b45bc3e#ref=rss",
+        "date": "2026-10-18T23:48:00.000Z"
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/bombendrohung-flug-tel-aviv-wien-sofia-notlandung",
+        "date": "2026-10-18T23:35:55.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/panorama/Bombendrohung-Flugzeug-aus-Tel-Aviv-muss-in-Sofia-notlanden-id31432118.html",
+        "date": "2026-10-18T23:34:55.000Z"
+      },
+      {
+        "name": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/bombendrohung-austrian-airlines-flug-von-tel-aviv-notlandet-in-sofia-201599348.html",
+        "date": "2026-10-18T23:26:43.000Z"
+      }
+    ],
+    "url": "https://www.spiegel.de/ausland/tel-aviv-wien-flugzeug-muss-nach-bombendrohung-in-sofia-notlanden-a-c9bcc4c7-d69a-459e-aa61-29897b45bc3e#ref=rss",
+    "agree": "Die Quellen sind sich einig, dass ein Flugzeug auf dem Weg von Tel Aviv nach Wien wegen einer Bombendrohung in Sofia notlanden musste und dabei von einem Kampfjet begleitet wurde.",
+    "diff": [
+      {
+        "name": "DER SPIEGEL",
+        "note": "Erwähnt konkret, dass die Maschine ein Notsignal sendete und 51 Passagiere sowie sechs Crewmitglieder an Bord waren."
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Nennt Austrian Airlines als die betroffene Fluggesellschaft."
+      },
+      {
+        "name": "ntv",
+        "note": "Beschreibt den Ablauf mit dem Start am Nachmittag und dem Alarm im Luftraum über Bulgarien."
+      },
+      {
+        "name": "Frankfurter Allgemeine",
+        "note": "Nennt ebenfalls die genaue Passagieranzahl von 51 Personen und Austrian Airlines."
+      }
+    ],
+    "chg": "",
+    "independent": 4
+  },
+  {
+    "id": "story-d02b56534e1c2fea",
+    "c": "INT",
+    "o": "PT",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-18T22:59:02.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Portugal gewinnt Bronze bei Rollhockey-Weltmeisterschaft gegen Spanien",
+    "s": "Portugal hat bei der Rollhockey-Weltmeisterschaft die Bronzemedaille gewonnen. Im Spiel um Platz drei setzte sich die portugiesische Nationalmannschaft gegen Spanien durch. Das Turnier fand auf internationaler Ebene statt. Die genauen Spieldetails wurden in den Quellen nicht genannt.",
+    "m": "Portugal sicherte sich bei der Rollhockey-Weltmeisterschaft die Bronzemedaille durch einen Sieg im entscheidenden Spiel gegen den Konkurrenten Spanien. Das Turnier zählt zu den weltweit wichtigsten Wettbewerben in dieser Sportart. Nähere Informationen zum Turnierverlauf, dem genauen Ergebnis oder den Torschützen gehen aus den kurzen Meldungen nicht hervor. Es bleibt offen, welche Nation das Finale des Turniers bestritten und gewonnen hat.",
+    "r": "Der Medaillengewinn bei einer Weltmeisterschaft ist ein sportliches Großereignis für die beteiligten Nationen. Das Kräftemessen zwischen Portugal und Spanien im Rollhockey besitzt traditionell hohe Relevanz im internationalen Sportgeschehen.",
+    "srcs": [
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/22h-portugal-conquista-bronze-no-mundial-de-hoquei-em-patins_a1_1772560",
+        "date": "2026-10-18T22:59:02.000Z"
+      },
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa0NRc2dwYm5GcUpkb1BKRmd4cGV0dnhhSTY2a0xyNklyd0IxdVRXdEtjcnlLdVAyMzdFSzNROE5PZno4ZjMyTEJKWk16Ql9UTDFzb0ZpSE1tN3c2R1NGWV9ZTWVBQTZkeWIta1BmT2JENktRaWlYYS1zbk9xYkhhTzFWakhCaWtKZXcxYzJxUk0xYjE0RDFKVmltOXZMbzVYWk9zTmdwRlpEM01TMWlOXzFvTEE?oc=5",
+        "date": "2026-10-18T21:27:17.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/noticiario-antena1/22h-portugal-conquista-bronze-no-mundial-de-hoquei-em-patins_a1_1772560",
+    "agree": "Beide Quellen stimmen darin überein, dass Portugal gegen Spanien gewonnen und die Bronzemedaille bei der Rollhockey-Weltmeisterschaft errungen hat.",
+    "diff": [
+      {
+        "name": "RTP Notícias",
+        "note": "Meldet den Gewinn der Bronzemedaille durch Portugal bei der Rollhockey-Weltmeisterschaft mit Zeitangabe."
+      },
+      {
+        "name": "Google News Portugal",
+        "note": "Verweist auf die Partie gegen Spanien als entscheidendes Spiel um den dritten Platz."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-9ab0bd2d0487c494",
+    "c": "INT",
+    "o": "INT",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-18T22:45:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Papst Leo kündigt schrittweise Rückkehr zu seinen Aufgaben an",
+    "s": "Papst Leo ist nach einer Krebserkrankung und einer Operation aus dem Krankenhaus zurückgekehrt. Vor Gläubigen auf dem Petersplatz bedankte er sich für die Unterstützung während seines Aufenthalts. Nun plant er, seine Amtspflichten schrittweise wieder aufzunehmen.",
+    "m": "Nach seiner Entlassung aus dem Krankenhaus hat sich Papst Leo am Sonntag an Tausende Gläubige auf dem Petersplatz gewandt. Er sprach zu den Menschenmenge und dankte ihnen ausdrücklich für ihre Gebete und die Unterstützung während seiner Zeit im Krankenhaus. Zuvor musste sich der Papst einer Krebsoperation unterziehen, die seinen Gesundheitszustand in den Fokus rückte. Nun kündigte das Kirchenoberhaupt an, dass er seine gewohnten Aufgaben in den kommenden Wochen und Monaten nur schrittweise wieder aufnehmen wird. Weitere medizinische Details oder ein genauer Zeitplan für die vollständige Wiederaufnahme aller Termine wurden zunächst nicht genannt.",
+    "r": "Die Meldung ist von gesellschaftlicher und religiöser Relevanz, da sie Einblicke in den Gesundheitszustand und die bevorstehende Arbeitsfähigkeit des katholischen Kirchenoberhauptes nach einem schwerwiegenden Eingriff gibt.",
+    "srcs": [
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQVFF0d0RHb0s5WUtxbS0wU0xLNklwUXNnTHhnZldZSGFSWjNnWDd1RjA4WUxSWENrZExNX1phakdmLVViM0t5bkNoR1ZnSFJyYjg3czNGb2VIenA2U0NGeFpUdVdfTnhzUWxfTVIxSTJ6S1NxY3NtdElVaklPd0t2R3BKTVVjZ014TDhkR0FEbzUyRDI0ejlPbkpEQXVHSFNURXJHeHhZWVp2YW9CSjQ2N2FUYjc5OW91LVFqQ1FXT1pPckxqS01GSEdsSHUxdDBqcGRYNS1icXlpdGt0QkR0MDdJZ0prNjJfSHZFWC01aV9pQ0pmMkxKeFdWcmlLSUxJTzlTWGNBU0Q1QlVz?oc=5",
+        "date": "2026-10-18T22:45:00.000Z"
+      },
+      {
+        "name": "NPR World",
+        "url": "https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery",
+        "date": "2026-10-18T12:55:01.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQVFF0d0RHb0s5WUtxbS0wU0xLNklwUXNnTHhnZldZSGFSWjNnWDd1RjA4WUxSWENrZExNX1phakdmLVViM0t5bkNoR1ZnSFJyYjg3czNGb2VIenA2U0NGeFpUdVdfTnhzUWxfTVIxSTJ6S1NxY3NtdElVaklPd0t2R3BKTVVjZ014TDhkR0FEbzUyRDI0ejlPbkpEQXVHSFNURXJHeHhZWVp2YW9CSjQ2N2FUYjc5OW91LVFqQ1FXT1pPckxqS01GSEdsSHUxdDBqcGRYNS1icXlpdGt0QkR0MDdJZ0prNjJfSHZFWC01aV9pQ0pmMkxKeFdWcmlLSUxJTzlTWGNBU0Q1QlVz?oc=5",
+    "agree": "Die Quellen sind sich einig, dass Papst Leo nach einer Krebserkrankung beziehungsweise einem Krankenhausaufenthalt zu den Gläubigen auf dem Petersplatz gesprochen und eine schrittweise Wiederaufnahme seiner Aufgaben angekündigt hat.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "erwähnt im Titel, dass die Krebsoperation zuvor stattgefunden hat."
+      },
+      {
+        "name": "NPR World",
+        "note": "nennt den Namen Papst Leo XIV und präzisiert, dass es sich um den Dank für Gebete während der Hospitalisierung am Sonntag handelte."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-1ead2532809a5c8b",
+    "c": "INT",
+    "o": "PT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-18T22:17:38.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Wohnungsbau-Proteste: Aktivisten halten an Zeltlager in Lissabon fest",
+    "s": "Demonstranten für das Recht auf Wohnraum in Lissabon haben beschlossen, ihr Protestlager fortzuführen. Die Entscheidung fiel während einer Volksversammlung. Auch in Porto gehen die Proteste gegen die aktuellen Wohnungspolitiken weiter.",
+    "m": "Das Zeltlager auf dem Rossio-Platz in Lissabon bleibt bestehen, nachdem dies bei einer Versammlung so beschlossen wurde. Die Aktivisten protestieren damit weiterhin gegen die gängige Wohnungspolitik. Neben der Hauptstadt ist auch die Praça D. João I in Porto Schauplatz der anhaltenden Proteste. Weitere Details zum Ablauf der Versammlung oder genaue Teilnehmerzahlen nennen die vorliegenden Berichte nicht.",
+    "r": "Die Proteste verdeutlichen die anhaltende gesellschaftliche und politische Spannung rund um das Thema Wohnungsnot in Portugal. Die Fortführung der Lager zeigt eine Entschlossenheit der Aktivisten gegenüber der aktuellen Politik.",
+    "srcs": [
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/pais/manifestantes-pelo-direito-a-habitacao-mantem-acampamento-em-lisboa_e1772433",
+        "date": "2026-10-18T22:17:38.000Z"
+      },
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSmZyMHByZkgxRFhndW9xbzFYQ3J4c0w5bUw0Wkl1NmxVeWxlVS04Zjh2S2diQjF4MUxHeEg2WjYzSHhRcUhzSVcxMzBndENKQndlOVlKZWU0OU5SdWZFM0lKT2ZfeGpCR3FuRmU0ejdTeWZqcWVIY2ZuRmlCR3QtSGN0YTB1RFptOEtaZ194dXN5bFpsY3U2Y1I4TU1QQUhLNVNweXlRc2d5N3gxamc?oc=5",
+        "date": "2026-10-18T21:47:26.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/pais/manifestantes-pelo-direito-a-habitacao-mantem-acampamento-em-lisboa_e1772433",
+    "agree": "Die Quellen sind sich einig, dass Demonstranten für das Recht auf Wohnraum ihr Acampamento in Lissabon fortsetzen.",
+    "diff": [
+      {
+        "name": "Google News Portugal",
+        "note": "Enthält im Wesentlichen nur den Verweis auf den RTP-Artikel mit HTML-Snippet und verlinkt das gleiche Thema."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-f38819b16dbf6008",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-18T21:43:46.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Emmanuel Macron verurteilt Ausschreitungen in Frankreich scharf",
+    "s": "In Frankreich ist es erneut zu landesweiten Ausschreitungen gekommen, bei denen es zu Gewalt, Plünderungen und Bränden kam. Besonders in Paris traten schwere Unruhen auf. Staatspräsident Emmanuel Macron reagierte mit scharfer Kritik.",
+    "m": "Der französische Staatspräsident Emmanuel Macron hat die anhaltenden Krawalle als unerhörte Gewalt verurteilt und eine unnachgiebige staatliche Antwort angekündigt. Nach seinen Worten entschuldige absolut nichts die Taten, die das Land erschüttern. Die aktuellen Unruhen beinhalten neben Plünderungen und Bränden auch gewaltsame Zusammenstöße. Genauere Angaben zu Verletzten, Festnahmen oder den unmittelbaren Auslösern der neuerlichen Protestwelle gehen aus den vorliegenden Berichten nicht hervor. Die Situation in der Hauptstadt Paris wird von anhaltenden Spannungen dominiert.",
+    "r": "Die landesweiten Ausschreitungen und die offizielle Reaktion der Staatsführung sind von hoher politischer und gesellschaftlicher Relevanz für die innere Sicherheit Frankreichs. Die Verurteilung durch den Präsidenten verdeutlicht die Eskalation der Lage.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZWc1alVZNGxFcWRmekd5YkdsN1AtLTFFRENBUnczMHU2cVNmM1ZPOU8yWmhkVHlfWEczbHVEUkJORVRIX2FWOC1wVEVabVQzekJlUmxEZ3FvVnZHdFRyVU95NkxVa1k4TmpCVV9MV3U0WlJqX3Q5S3lBaVdfUjRUOVJCZUUwVEJXMUNF?oc=5",
+        "date": "2026-10-18T21:43:46.000Z"
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/politik/ausland/2026-10/frankreich-gewalt-paris-emmanuel-macron",
+        "date": "2026-10-18T21:43:46.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZWc1alVZNGxFcWRmekd5YkdsN1AtLTFFRENBUnczMHU2cVNmM1ZPOU8yWmhkVHlfWEczbHVEUkJORVRIX2FWOC1wVEVabVQzekJlUmxEZ3FvVnZHdFRyVU95NkxVa1k4TmpCVV9MV3U0WlJqX3Q5S3lBaVdfUjRUOVJCZUUwVEJXMUNF?oc=5",
+    "agree": "Die Quellen stimmen überein, dass es in Frankreich erneut zu Ausschreitungen kam und Präsident Emmanuel Macron diese scharf verurteilt hat.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Erwähnt konkret die Begleiterscheinungen wie Gewalt, Plünderungen, Brände und die Vorkommnisse in Paris."
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Berichtet über Macrons Ankündigung einer unnachgiebigen Antwort des Staates."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-62fc5b11fccb22a8",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-18T19:37:27.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "SPD-Abgeordnete warnen vor Koalitionsverhandlungen in Berlin mit Linken und Grünen",
+    "s": "In Berlin streben SPD, Grüne und Linke Koalitionsverhandlungen an. Gegen dieses Bündnis gibt es nun jedoch internen Widerstand. Rund 20 Abgeordnete der SPD-Bundestagsfraktion sprechen eine eindringliche Warnung vor den Plänen aus.",
+    "m": "Die Parteien SPD, Grüne und Linke planen die Aufnahme von Koalitionsverhandlungen in Berlin. Ein solches Linksbündnis stößt jedoch auf heftige Kritik aus den eigenen Reihen der Sozialdemokraten. Rund 20 Abgeordnete der SPD-Bundestagsfraktion haben sich nun zusammengetan, um vor diesem Schritt zu warnen. Die genauen Hintergründe und Argumente für die Skepsis innerhalb der Bundestagsfraktion werden in den Berichten thematisiert, wobei die konkreten Sorgen der Parlamentarier im Detail beleuchtet werden. Die Frage, wie die Parteiführung auf diesen Protest reagiert und ob die Verhandlungen wie geplant stattfinden können, bleibt vorerst offen.",
+    "r": "Interne Konflikte innerhalb der SPD-Bundestagsfraktion können die geplante Regierungsbildung in Berlin beeinflussen. Die Positionierung von Abgeordneten gegen ein mögliches Linksbündnis zeigt den Dissens über künftige Koalitionsoptionen.",
+    "srcs": [
+      {
+        "name": "t-online Nachrichten",
+        "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101486944/linksbuendnis-in-berlin-geplant-20-spd-abgeordnete-warnen-.html",
+        "date": "2026-10-18T19:37:27.000Z"
+      },
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/gesellschaft/regional/berlin-brandenburg/regierungsbildung-in-berlin--medien--20-spd-abgeordnete-gegen-verhandlungen-mit-linke-38416270.html",
+        "date": "2026-10-18T19:06:45.000Z"
+      }
+    ],
+    "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101486944/linksbuendnis-in-berlin-geplant-20-spd-abgeordnete-warnen-.html",
+    "agree": "Die Quellen stimmen überein, dass SPD, Grüne und Linke Koalitionsverhandlungen in Berlin planen und rund 20 SPD-Bundestagsabgeordnete davor warnen.",
+    "diff": [
+      {
+        "name": "stern",
+        "note": "Erwähnt zusätzlich den Medienaspekt bei der Bekanntgabe der Warnung und wirft die Frage nach dem 'Warum' auf."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-74af0a36ea98738f",
     "c": "DE",
     "o": "DE",
@@ -92,37 +385,82 @@
     "independent": 4
   },
   {
-    "id": "story-f38819b16dbf6008",
+    "id": "story-198c488e87bb3137",
     "c": "INT",
     "o": "DE",
     "k": "politik",
     "lang": "de",
-    "d": "2026-10-18T18:51:42.000Z",
-    "p": 3,
+    "d": "2026-10-18T19:22:40.000Z",
+    "p": 4,
     "st": "",
     "city": "",
-    "t": "Macron verurteilt Gewalt nach erneuten Ausschreitungen in Paris",
-    "s": "In Frankreich ist es erneut zu landesweiten Ausschreitungen gekommen. Besonders in Paris kam es zu gewaltsamen Zwischenfällen. Staatspräsident Emmanuel Macron hat diese Vorfälle scharf verurteilt.",
-    "m": "Frankreichs Präsident Emmanuel Macron hat die anhaltenden landesweiten Ausschreitungen kritisiert und eine unnachgiebige Haltung angekündigt. Nach Angaben aus den Medienberichten betonte er, dass absolut nichts die ausgeübte Gewalt entschuldigen könne. Die Vorfälle ereigneten sich unter anderem in der Hauptstadt Paris, wo es wiederholt zu tumultartigen Szenen kam. Konkrete Zahlen zu Verletzten, Festnahmen oder Sachschäden nennen die vorliegenden Berichte bisher nicht. Auch über die genauen Auslöser der aktuellen Proteste oder die Identität der beteiligten Gruppen machen die Quellen keine Angaben.",
-    "r": "Die Ausschreitungen in Frankreich und die offizielle Reaktion der Staatsführung sind von gesellschaftlicher und politischer Relevanz. Sie werfen Fragen zur inneren Sicherheit und zum Umgang mit anhaltenden Protesten im Land auf.",
+    "t": "Barack Obama rügt Donald Trump nach Razzia bei Ilhan Omar",
+    "s": "Ex-Präsident Barack Obama hat die Razzia bei der Abgeordneten Ilhan Omar scharf kritisiert. Er bezeichnete die Maßnahme als offenkundigen Einschüchterungsversuch, der alle Amerikaner empören sollte. Die Trump-Regierung prüft Berichten zufolge einen Entzug der Staatsbürgerschaft Omars.",
+    "m": "Die Razzia bei der demokratischen Abgeordneten Ilhan Omar durch Behörden hat heftige Reaktionen ausgelöst, angeführt von Ex-Präsident Barack Obama. Obama verurteilte das Vorgehen als einen gezielten Einschüchterungsversuch und forderte Empörung von allen Amerikanern. Zeitgleich wird in der Trump-Regierung offenbar geprüft, ob der Abgeordneten die US-Staatsbürgerschaft entzogen werden kann. Weitere Details zu den genauen Hintergründen der Razzia oder dem formalen Stand der Entzugsüberlegungen gehen aus den Berichten bisher nicht hervor. Es bleibt unklar, welche konkreten rechtlichen Schritte die Regierung plant und wie Omar auf die Vorwürfe reagiert.",
+    "r": "Die Intervention eines ehemaligen US-Präsidenten gegen eine amtierende Regierung und deren Maßnahmen gegen eine gewählte Abgeordnete ist ein bemerkenswerter innenpolitischer Vorgang. Die Prüfung eines Staatsbürgerschaftsentzugs wirft zudem fundamentale rechtsstaatliche Fragen auf.",
     "srcs": [
       {
         "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZWc1alVZNGxFcWRmekd5YkdsN1AtLTFFRENBUnczMHU2cVNmM1ZPOU8yWmhkVHlfWEczbHVEUkJORVRIX2FWOC1wVEVabVQzekJlUmxEZ3FvVnZHdFRyVU95NkxVa1k4TmpCVV9MV3U0WlJqX3Q5S3lBaVdfUjRUOVJCZUUwVEJXMUNF?oc=5",
-        "date": "2026-10-18T18:51:42.000Z"
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQNTdkbm4weno1TkRaTnBMWVV2WG9XYzNOQjRwVlZ5ZjJRRzJhSk1XVm5fOGg3dkhWYWNDZlhJY25jZWZjbUZ1MElxblE1SFVfN2lCaUhFbjFQQ080YWdYMTFrWkgzbkdTSkl6Y1hYLThLMWJsQlYwMEN5bkZiZTI4azFUZEJYdDJCVXcwaGh1UHZ4bm44ZTNSeExUWXYzUDlBa21kQzVvOVFuSEhqd1l6Z2dXV1pBRU5VeUgydmtHSHpOSVFBRnJ5ckozMU1KS3FXVE16Q1dqS1pEa0tHTkFIREVCSm1RWXpySFBnMVFYNFQxYzkzTkhQcHV1N2x4X0tUdGx6cV9rNkFEX0diM0kzVjFB?oc=5",
+        "date": "2026-10-18T19:22:40.000Z"
       },
       {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/politik/ausland/2026-10/frankreich-gewalt-paris-emmanuel-macron",
-        "date": "2026-10-18T18:51:42.000Z"
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/article6ad518c551e5094f7a57109c/razzia-bei-abgeordneter-offenkundiger-einschuechterungsversuch-sollte-alle-amerikaner-empoeren-obama-ruegt-trump-scharf.html",
+        "date": "2026-10-18T19:20:26.000Z"
       }
     ],
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZWc1alVZNGxFcWRmekd5YkdsN1AtLTFFRENBUnczMHU2cVNmM1ZPOU8yWmhkVHlfWEczbHVEUkJORVRIX2FWOC1wVEVabVQzekJlUmxEZ3FvVnZHdFRyVU95NkxVa1k4TmpCVV9MV3U0WlJqX3Q5S3lBaVdfUjRUOVJCZUUwVEJXMUNF?oc=5",
-    "agree": "Beide Quellen stimmen darin überein, dass der französische Präsident Emmanuel Macron die Gewalt bei den erneuten Ausschreitungen in Paris scharf verurteilt und eine harte Reaktion angekündigt hat.",
+    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQNTdkbm4weno1TkRaTnBMWVV2WG9XYzNOQjRwVlZ5ZjJRRzJhSk1XVm5fOGg3dkhWYWNDZlhJY25jZWZjbUZ1MElxblE1SFVfN2lCaUhFbjFQQ080YWdYMTFrWkgzbkdTSkl6Y1hYLThLMWJsQlYwMEN5bkZiZTI4azFUZEJYdDJCVXcwaGh1UHZ4bm44ZTNSeExUWXYzUDlBa21kQzVvOVFuSEhqd1l6Z2dXV1pBRU5VeUgydmtHSHpOSVFBRnJ5ckozMU1KS3FXVE16Q1dqS1pEa0tHTkFIREVCSm1RWXpySFBnMVFYNFQxYzkzTkhQcHV1N2x4X0tUdGx6cV9rNkFEX0diM0kzVjFB?oc=5",
+    "agree": "Die Quellen sind sich einig, dass Barack Obama die Razzia bei der Abgeordneten Ilhan Omar als Einschüchterungsversuch rügt und die Trump-Regierung den Entzug von Omars Staatsbürgerschaft prüft.",
     "diff": [
       {
         "name": "Google News DE",
-        "note": "Erwähnt DIE ZEIT als das Medium, das über die Ereignisse berichtet, und verweist auf einen Weblink."
+        "note": "Bringt die verkürzte Headline zur Razzia und zu Obamas scharfer Kritik an Trump."
+      },
+      {
+        "name": "WELT",
+        "note": "Liefert die vollständigen Details, dass Obama die Maßnahme als Einschüchterungsversuch wertet und die Trump-Regierung den Entzug der Staatsbürgerschaft prüft."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-af8c23e231bb5a5b",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-18T18:45:27.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Frankreich: Macron beruft nach gewaltsamen Protesten Krisensitzung ein",
+    "s": "In Frankreich ist es bei Protesten zu massiven Ausschreitungen gekommen. Am Tag nach den Krawallen wird das Ausmaß der Zerstörung sichtbar. Angesichts der Ereignisse beruft Präsident Macron eine Krisensitzung ein.",
+    "m": "Die französischen Proteste sind in massive Ausschreitungen und Gewalt umgeschlagen. Nach den Krawallen befasst sich die Regierung in einer Krisensitzung mit der Lage, wobei Präsident Emmanuel Macron von ungezügelter Gewalt spricht und Konsequenzen ankündigt. Das genaue Ausmaß der Zerstörung wird erst am Tag nach den Ereignissen öffentlich sichtbar. Die Regierung macht explizit Linksradikale für die Eskalation und die Krawalle verantwortlich. Bisher gibt es noch keine offiziellen Angaben über die genaue Zahl von Verletzten, Festnahmen oder die Höhe des Sachschadens.",
+    "r": "Die massiven Ausschreitungen und die staatliche Reaktion darauf verdeutlichen eine innenpolitische Krise in Frankreich. Die Einberufung einer Krisensitzung durch den Präsidenten zeigt das hohe Eskalationspotenzial der Proteste.",
+    "srcs": [
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-100.html",
+        "date": "2026-10-18T18:45:27.000Z"
+      },
+      {
+        "name": "t-online Nachrichten",
+        "url": "https://www.t-online.de/nachrichten/ausland/id_101486110/frankreich-massive-ausschreitungen-bei-protesten-krisensitzung-.html",
+        "date": "2026-10-18T08:01:09.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-100.html",
+    "agree": "Die Quellen sind sich einig, dass es in Frankreich bei Protesten zu massiven Ausschreitungen kam und Präsident Macron eine Krisensitzung einberufen hat.",
+    "diff": [
+      {
+        "name": "Tagesschau",
+        "note": "Berichtet, dass am Tag nach der Gewalt das Ausmaß der Zerstörung sichtbar wird, die Regierung Linksradikale für die Krawalle verantwortlich macht und Macron von ungezügelter Gewalt spricht."
+      },
+      {
+        "name": "t-online Nachrichten",
+        "note": "Erwähnt zusätzlich, dass Präsident Macron Konsequenzen angekündigt hat."
       }
     ],
     "chg": "",
@@ -138,10 +476,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Hubertus Heil schließt Kandidatur für SPD-Vorsitz nicht aus",
-    "s": "Der frühere Bundesarbeitsminister Hubertus Heil hält sich eine Bewerbung für den SPD-Vorsitz offen. Er hat sich zu einer möglichen Kandidatur geäußert und betont, dass er viele Ermutigungen sowie Zuspruch aus der Partei erhält. Entscheidend für einen Schritt sei jedoch, welche inhaltliche Richtung die Partei künftig einschlagen wolle.",
-    "m": "Die Diskussion um die Führung der SPD bekommt neue Dynamik, nachdem sich der ehemalige Bundesarbeitsminister zu einer potenziellen Kandidatur äußerte. Heil verwies darauf, dass das alleinige Vorhandensein von parteiinternem Zuspruch und Ermutigungen für ihn nicht ausschlaggebend sei. Vielmehr knüpft er eine mögliche Bewerbung an die grundsätzliche programmatische Ausrichtung, die die Partei in Zukunft wählen wird. Bislang handelt es sich um eine offene Überlegung, bei der konkrete Schritte oder offizielle Nominierungen noch ausstehen. Die Partei befindet sich damit in einer Phase der strategischen Orientierung.",
-    "r": "Die Äußerungen eines prominenten Politikers über eine mögliche Parteivorsitzkandidatur sind für die politische Zukunft und Ausrichtung einer Regierungspartei von Bedeutung.",
+    "t": "Hubertus Heil schließt eine Kandidatur für den SPD-Vorsitz nicht aus",
+    "s": "Der frühere Bundesarbeitsminister Hubertus Heil hält sich eine Bewerbung für den SPD-Vorsitz offen. Er hat sich zu einer möglichen Kandidatur geäußert und betont, dass er viel Zuspruch und Ermutigungen aus seiner Partei erhält. Entscheidend für seine Entscheidung sei jedoch vor allem, welche inhaltliche Richtung die SPD einschlagen wolle. Ob er tatsächlich antritt, ist damit noch nicht endgültig entschieden.",
+    "m": "Der frühere Bundesarbeitsminister Hubertus Heil hat sich in jüngsten Äußerungen zu einer möglichen Kandidatur für den SPD-Vorsitz geäußert und eine Bewerbung nicht ausgeschlossen. Er berichtete, dass er viele Ermutigungen und viel Zuspruch aus den Reihen seiner Partei erhalte, anzutreten. Heil machte jedoch deutlich, dass dieser Zuspruch allein für ihn nicht ausschlaggebend sei. Vielmehr hänge seine endgültige Entscheidung davon ab, welche politische und inhaltliche Richtung die SPD künftig einschlagen möchte. Konkrete Schritte oder ein zeitlicher Rahmen für eine Bekanntgabe wurden in den Berichten nicht genannt. Die Meldungen sind im Kontext der aktuellen Bundespolitik und parteiinterner Debatten einzuordnen.",
+    "r": "Die mögliche Kandidatur eines prominenten SPD-Politikers für den Parteivorsitz ist für die innerparteiliche Ausrichtung und die Bundespolitik von Bedeutung. Die Debatte zeigt, wie die Sozialdemokraten über ihre zukünftige politische Richtung diskutieren.",
     "srcs": [
       {
         "name": "ZEIT ONLINE",
@@ -165,23 +503,23 @@
       }
     ],
     "url": "https://www.zeit.de/politik/deutschland/2026-10/hubertus-heil-spd-parteivorsitz-lars-klingbeil",
-    "agree": "Die Quellen sind sich einig, dass der ehemalige Arbeitsminister Hubertus Heil eine Kandidatur für den SPD-Vorsitz nicht ausschließt und dafür viel Zuspruch aus der Partei erhält.",
+    "agree": "Die Quellen sind sich einig, dass der frühere Arbeitsminister Hubertus Heil eine Kandidatur für den SPD-Vorsitz nicht ausschließt und dafür Zuspruch aus der Partei erhält.",
     "diff": [
       {
         "name": "ZEIT ONLINE",
-        "note": "Erwähnt als zusätzliches Detail, dass für Heil entscheidend ist, welche Richtung die Partei einschlagen will."
+        "note": "Erwähnt, dass für Heil vor allem entscheidend ist, welche Richtung die Partei einschlagen will."
       },
       {
         "name": "DER SPIEGEL",
-        "note": "Führt aus, dass der Zuspruch allein für Heil nicht entscheidend ist."
+        "note": "Führt aus, dass Heil viel Zuspruch aus seiner Partei bekommt, dieser allein aber nicht entscheidend sei."
       },
       {
         "name": "RND",
-        "note": "Die Meldung ist in einen Liveblog zur Bundespolitik eingebettet."
+        "note": "Nennt die Einbindung in einen Liveblog zur Bundespolitik."
       },
       {
         "name": "Süddeutsche Zeitung",
-        "note": "Erscheint ebenfalls in Form eines Newsblogs zur Bundespolitik."
+        "note": "Berichtet im Newsblog zur Bundespolitik, dass Heil viele Ermutigungen aus der Partei erhält, anzutreten."
       }
     ],
     "chg": "",
@@ -279,9 +617,9 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Hubertus Heil erwägt Kandidatur für SPD-Vorsitz im Januar",
-    "s": "Der frühere Arbeitsminister Hubertus Heil zieht eine Kandidatur für den SPD-Vorsitz in Betracht. Die Partei plant, auf einem Sonderparteitag im Januar eine neue Parteispitze zu wählen. Heil selbst hält sich einen Antritt offen und schließt diesen nicht aus.",
-    "m": "Im Rennen um den SPD-Vorsitz bringt sich der ehemalige Bundesarbeitsminister Hubertus Heil ins Gespräch. Er schließt eine eigene Kandidatur für die Parteispitze im Januar nicht aus. Die SPD will auf einem anstehenden Sonderparteitag im Januar eine neue Führung wählen. Heil macht seine endgültige Entscheidung unter anderem von der inhaltlichen Aufstellung der Sozialdemokraten in den kommenden Wochen abhängig. Bisher gibt es zu dieser möglichen Gegenkandidatur keine weiteren offiziellen Festlegungen.",
+    "t": "Hubertus Heil erwägt mögliche Kandidatur für den SPD-Vorsitz im Januar",
+    "s": "Der frühere Bundesarbeitsminister Hubertus Heil zieht eine Kandidatur für den SPD-Vorsitz in Betracht. Auf einem Sonderparteitag im Januar soll eine neue Parteispitze gewählt werden. Heil schließt einen entsprechenden Antritt für das Amt nicht aus.",
+    "m": "Im Rennen um die neue SPD-Spitze bringt sich der frühere Bundesarbeitsminister Hubertus Heil ins Gespräch. Auf einem für Januar geänderten Sonderparteitag will die Partei einen neuen Vorsitz wählen. Heil ließ durch verlauten, dass er eine Kandidatur derzeit nicht ausschließen kann. Der Politiker knüpft seine mögliche Entscheidung maßgeblich an die inhaltliche Ausrichtung der Sozialdemokraten in den kommenden Wochen. Bislang ist unklar, welche weiteren Personen ihren Hut in den Ring werfen werden.",
     "r": "Die mögliche Kandidatur eines prominenten Ex-Ministers ist ein wichtiger Personalaspekt für die bevorstehende Neuaufstellung der SPD im Januar.",
     "srcs": [
       {
@@ -296,15 +634,52 @@
       }
     ],
     "url": "https://www.n-tv.de/politik/Ex-Minister-Hubertus-Heil-erwaegt-Kandidatur-fuer-SPD-Vorsitz-id31431907.html",
-    "agree": "Beide Quellen stimmen darin überein, dass der frühere Bundesarbeitsminister Hubertus Heil eine Kandidatur für den SPD-Vorsitz im Januar nicht ausschließt.",
+    "agree": "Die Quellen sind sich einig, dass der ehemalige Bundesarbeitsminister Hubertus Heil eine Kandidatur für den SPD-Vorsitz im Januar nicht ausschließt.",
     "diff": [
       {
         "name": "ntv",
-        "note": "Nennt zusätzlich, dass Heil seine Entscheidung an die inhaltliche Aufstellung der Sozialdemokraten in den kommenden Wochen knüpft und erwähnt sein Heimat-Bundesland Niedersachsen."
+        "note": "Erwähnt zusätzlich, dass Heil aus Niedersachsen stammt und seine Entscheidung von der inhaltlichen Aufstellung der SPD in den kommenden Wochen abhängig macht."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-c35d39f15d6a4048",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-18T18:20:56.000Z",
+    "p": 4,
+    "st": "BY",
+    "city": "",
+    "t": "USA liefern Ukraine wieder Geheimdienstinformationen zur Raketenabwehr",
+    "s": "Die Vereinigten Staaten versorgen die Ukraine nach einer vorherigen Unterbrechung wieder mit Geheimdienstinformationen. Dies gab der ukrainische Präsident Wolodymyr Selenskyj bekannt. Die Daten dienen der gezielten Abwehr russischer Raketenangriffe auf ukrainisches Gebiet.",
+    "m": "Der ukrainische Präsident Wolodymyr Selenskyj hat bestätigt, dass die USA den Informationsfluss wieder aufgenommen haben. Konkret erhalten die ukrainischen Streitkräfte nun wieder Geheimdienstdaten, die für die Abwehr russischer Raketenangriffe entscheidend sind. Selenskyj äußerte sich in diesem Zusammenhang dankbar für die Unterstützung. Gleichzeitig betonte er jedoch auch eine gewisse Besorgnis hinsichtlich des generellen US-Kurses gegenüber Moskau. Nähere Details zu den Hintergründen der vorangegangenen Unterbrechung oder dem genauen Zeitpunkt der Wiederaufnahme nennen die Berichte nicht. Auch offene Fragen zur künftigen strategischen Ausrichtung der US-Hilfen bleiben vorerst bestehen.",
+    "r": "Die Wiederaufnahme der US-Geheimdiensthilfen ist zentral für die militärische Verteidigungsfähigkeit der Ukraine gegen russische Angriffe. Gleichzeitig verdeutlichen Selenskyjs Sorgen über den US-Kurs potenzielle diplomatische Spannungen oder Kurswechsel.",
+    "srcs": [
+      {
+        "name": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/ukraine-ticker-republikaner-kritisieren-trumps-russland-kurs,VYN6RXO",
+        "date": "2026-10-18T18:20:56.000Z"
       },
       {
-        "name": "WELT",
-        "note": "Formuliert die Äußerung als wörtliches Zitat und spricht von einer möglichen Gegenkandidatur im Rennen um den SPD-Vorsitz."
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/ukraine-usa-liefern-der-ukraine-laut-selenskyj-wieder-daten-zur-abwehr-von-raketenangriffen-a-d5de6de1-daba-4c30-99d9-2e21ffd87859#ref=rss",
+        "date": "2026-10-18T14:53:00.000Z"
+      }
+    ],
+    "url": "https://www.br.de/nachrichten/deutschland-welt/ukraine-ticker-republikaner-kritisieren-trumps-russland-kurs,VYN6RXO",
+    "agree": "Beide Quellen stimmen überein, dass die USA nach einer Unterbrechung wieder Geheimdienstinformationen zur Raketenabwehr an die Ukraine liefern und Selenskyj sich besorgt über den US-Kurs äußerte.",
+    "diff": [
+      {
+        "name": "BR24 Bayern",
+        "note": "Erwähnt zusätzlich, dass Selenskyj sich dankbar für die Lieferung gezeigt hat."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Berichtet prägnanter, ohne die explizite Dankbarkeitsäußerung Selenskyjs zu nennen."
       }
     ],
     "chg": "",
@@ -539,10 +914,10 @@
     "p": 2,
     "st": "BW",
     "city": "",
-    "t": "Gebäudebrand in Reilingen: Hoher Sachschaden und Dachgeschoss in Flammen",
-    "s": "In der Nacht auf Sonntag kam es in Reilingen zu einem Gebäudebrand, der einen Großeinsatz der Feuerwehr auslöste. Die Flammen breiteten sich bis auf das Dachgeschoss des betroffenen Hauses aus. Bei dem Feuer entstand nach ersten Angaben hoher Sachschaden. Personen kamen in den vorliegenden Berichten bisher nicht zu Schaden.",
-    "m": "Der Brand in Reilingen ereignete sich während der Nachtstunden zum Sonntag. Die alarmierten Einsatzkräfte der Feuerwehr mussten vor Ort gegen die Flammen vorgehen, die sich bis in das Dachgeschoss des Gebäudes ausgebreitet hatten. Bisher gibt es keine offiziellen Angaben zur genauen Brandursache. Auch die Höhe des entstandenen Sachschadens lässt sich zum aktuellen Zeitpunkt noch nicht exakt beziffern, wird jedoch von den Quellen als hoch eingestuft. Ob Menschen verletzt wurden, geht aus den bisherigen Meldungen nicht hervor. Die Ermittlungen zur Klärung der Brandursache und zur Schadenshöhe dauern an.",
-    "r": "Nächtliche Gebäudebrände mit hohem Sachschaden stellen erhebliche Gefahren für Mensch und Eigentum dar und erfordern zeitintensive Feuerwehreinsätze. Die genauen Umstände des Brandes in Reilingen müssen nun von den Behörden ermittelt werden.",
+    "t": "Gebäudebrand in Reilingen sorgt für Großeinsatz und hohen Sachschaden",
+    "s": "In der Nacht auf Sonntag kam es in Reilingen zu einem Gebäudebrand. Das Feuer dehnte sich bis in das Dachgeschoss des betroffenen Hauses aus. Die Feuerwehr war im Einsatz, um den Brand zu bekämpfen. Es entstand hoher Sachschaden.",
+    "m": "Der Vorfall ereignete sich in der Nacht zum Sonntag in Reilingen. Das Feuer brach in einem Gebäude aus und breitete sich rasant bis in den Dachbereich aus. Aufgrund der Flammen musste die Feuerwehr mit einem Einsatz ausrücken. Die Löscharbeiten dauerten an, und das Dachgeschoss stand zeitweise komplett in Flammen. Genauere Angaben zur Brandursache liegen derzeit noch nicht vor. Auch über eventuelle Verletzte gibt es in den vorliegenden Berichten noch keine Informationen. Der entstandene Sachschaden wird als hoch eingeschätzt. Die Ermittlungen zur Klärung der Brandursache wurden eingeleitet.",
+    "r": "Der Gebäudebrand ist für die lokale Öffentlichkeit und die Sicherheit vor Ort relevant, da er einen massiven Feuerwehreinsatz und erheblichen materiellen Schaden verursacht hat.",
     "srcs": [
       {
         "name": "SWR Aktuell Baden-Württemberg",
@@ -556,7 +931,7 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/brand-gebaeude-dachgeschoss-100.html",
-    "agree": "Beide Quellen stimmen überein, dass es in der Nacht zum Sonntag in Reilingen zu einem Gebäudebrand mit hohem Sachschaden kam, bei dem sich die Flammen bis ins Dachgeschoss ausbreiteten.",
+    "agree": "Beide Quellen stimmen überein, dass es in der Nacht auf Sonntag in Reilingen zu einem Gebäudebrand mit hohem Sachschaden kam, bei dem sich die Flammen bis ins Dachgeschoss ausbreiteten.",
     "diff": [],
     "chg": "",
     "independent": 2
@@ -593,6 +968,98 @@
       {
         "name": "WELT",
         "note": "Berichtet ergänzend, dass Altmaier vor einem Vertrauensverlust der politischen Mitte warnt und bei vielen führenden Politikern Regierungserfahrung vermisst."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-ec330806720471bf",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-18T17:47:16.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Vier Tote durch Feuer auf Militärbasis in Kanada",
+    "s": "Bei einem Feuer auf dem kanadischen Militärstützpunkt Wainwright sind vier Menschen ums Leben gekommen und Dutzende schwer verletzt worden. Premierminister Carney bezeichnete das Unglück als eine der schlimmsten Tragödien für die Armee in Friedenszeiten. Das Feuer breitete sich am Samstag auf dem Gelände aus. Die genauen Umstände des Brandes werden untersucht.",
+    "m": "Das Unglück ereignete sich auf der Militärbasis Wainwright in Kanada, wo am Samstag ein rasch um sich greifendes Feuer ausbrach. Mindestens vier Menschen starben, während Dutzende weitere schwer verletzt wurden. Premierminister Carney äußerte sich bestürzt und sprach von einer der schlimmsten Tragödien für die Streitkräfte in Friedenszeiten. Die Behörden schweigen bislang offiziellen Angaben zufolge zur genauen Ursache des Brandes. Laut Medienberichten wird jedoch geprüft, ob eine Gasleitung bei einer Übung beschädigt worden sein könnte. Ein Fernsehsender spekulierte zudem, dass die Zahl der Todesopfer möglicherweise höher liegen könnte als bisher offiziell bestätigt. Weitere Details zu den Verletzten und dem genauen Hergang des Zwischenfalls stehen noch aus.",
+    "r": "Das Ereignis ist von hoher Relevanz, da es sich um eine der schwersten Friedenszeiten-Tragödien für das kanadische Militär handelt. Regierungsvertreter wie Premierminister Carney haben sich offiziell zu dem Vorfall geäußert.",
+    "srcs": [
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/panorama/vier-tote-durch-feuer-auf-militaerbasis-in-kanada-ZRAL65BFE5CB3CVTW26BJHZOPQ.html",
+        "date": "2026-10-18T17:47:16.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/kanada-vier-menschen-bei-feuer-auf-militaerbasis-gestorben-a-b02dfcac-97d6-4551-9b3e-6583ad1a1126#ref=rss",
+        "date": "2026-10-18T17:44:00.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSXA2VXRLX2poakxPWXp4X3JPWEltVnJGRFcyQnFFc2puaDNLcmNJUHJSaUdra2h6Wm1PYWRoa2JlUWctV3BiYVZHd0otYUZGM2d6WlFUSzZmdHFCSGNZYzFtRlNxa3VCd1FCZXZENWx5N2Z3WDZ2SEZuYWZteW13NUZxT1pBYk9yYnd3TFBTX1pNU0FvcFV0OVZmVS1NSWQ3Sy1MRXlUbHJfdk4xY1JEdC04ZE1oZ09wdVdZekR6RHBKWHBaN1RxMmhxRWZtRER5YnNmZTlxd3I?oc=5",
+        "date": "2026-10-18T17:08:00.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/panorama/Mindestens-vier-Tote-durch-Feuer-auf-Militaerbasis-in-Kanada-id31431870.html",
+        "date": "2026-10-18T16:48:16.000Z"
+      }
+    ],
+    "url": "https://www.rnd.de/panorama/vier-tote-durch-feuer-auf-militaerbasis-in-kanada-ZRAL65BFE5CB3CVTW26BJHZOPQ.html",
+    "agree": "Alle Quellen stimmen darin überein, dass bei einem Feuer auf einer kanadischen Militärbasis vier Menschen gestorben und Dutzende schwer verletzt wurden, und dass Premierminister Carney von einer schweren Tragödie sprach.",
+    "diff": [
+      {
+        "name": "RND",
+        "note": "Erwähnt, dass sich das Feuer am Samstag rasend schnell ausbreitete."
+      },
+      {
+        "name": "Google News DE",
+        "note": "Verweist auf eine weitere Schlagzeile des Tagesspiegels und bezeichnet das Geschehen als ernsten Zwischenfall."
+      },
+      {
+        "name": "ntv",
+        "note": "Bringt eine mögliche Brandursache ins Spiel, wonach eine Gasleitung bei einer Übung beschädigt worden sein könnte, und erwähnt, dass die Zahl der Opfer laut einem TV-Sender höher liegen könnte, während die Behörden zur Ursache schweigen."
+      }
+    ],
+    "chg": "",
+    "independent": 4
+  },
+  {
+    "id": "story-4f0b3cfcd13c4545",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-18T17:42:00.000Z",
+    "p": 3,
+    "st": "BY",
+    "city": "",
+    "t": "Vier Tote und zahlreiche Verletzte bei Großbrand auf Militärbasis in Kanada",
+    "s": "Bei einem Großbrand auf einer kanadischen Militärbasis sind mindestens vier Menschen ums Leben gekommen und Dutzende verletzt worden. Die Brandursache ist derzeit noch völlig unklar. Über mögliche Hintergründe wurde bislang nichts bekannt gegeben.",
+    "m": "Der Vorfall ereignete sich auf einem kanadischen Militärstützpunkt und führte zu einem verheerenden Großbrand mit schwerwiegenden Folgen. Mindestens vier Todesopfer sowie eine zweistellige Anzahl an Verletzten wurden bestätigt. Die Situation vor Ort ist angespannt, da umliegende Krankenhäuser in der Region durch die Vielzahl an Verletzten an ihre Kapazitätsgrenzen geraten. Rettungskräfte und Behörden sind im Großeinsatz. Bislang gibt es keinerlei gesicherte Erkenntnisse oder Hinweise darauf, was den Ausbruch des Feuers verursacht haben könnte. Die Ermittlungen zur Brandursache und zu den genauen Hintergründen dauern an, wobei offene Fragen bezüglich der betroffenen Einheiten und des genauen Schadensausmaßes noch geklärt werden müssen.",
+    "r": "Das Ereignis ist von hoher sicherheits- und gesellschaftspolitischer Relevanz, da ein Großeinsatz auf einer militärischen Einrichtung mit mehreren Todesopfern und stark beanspruchten regionalen Kliniken verbunden ist.",
+    "srcs": [
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/panorama/kanada-feuer-brand-militaerbasis-wainwright-tote-100.html",
+        "date": "2026-10-18T17:42:00.000Z"
+      },
+      {
+        "name": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/grossbrand-auf-militaerbasis-in-kanada-tote-und-verletzte,VYNwGG7",
+        "date": "2026-10-18T17:20:12.000Z"
+      }
+    ],
+    "url": "https://www.zdfheute.de/panorama/kanada-feuer-brand-militaerbasis-wainwright-tote-100.html",
+    "agree": "Beide Quellen stimmen überein, dass es sich um einen Großbrand auf einer Militärbasis in Kanada mit mindestens vier Toten und dutzenden Verletzten handelt und die Ursache noch unklar ist.",
+    "diff": [
+      {
+        "name": "BR24 Bayern",
+        "note": "Berichtet zusätzlich, dass umliegende Kliniken rund um die Basis aufgrund der Verletzten an ihre Grenzen geraten."
       }
     ],
     "chg": "",
@@ -649,10 +1116,10 @@
     "p": 4,
     "st": "",
     "city": "",
-    "t": "Gewalt und Krawalle bei Protesten in Frankreich und Italien",
-    "s": "In Frankreich und Italien ist es bei landesweiten Protesten zu schweren Ausschreitungen und Krawallen gekommen. Regierungsvertreter beider Länder verurteilten die Gewalt scharf und kündigten Reaktionen an. In Frankreich kam es zu brennenden Gebäuden und Plünderungen, während in Italien vor allem Mailand betroffen war. Die Demonstrationen führten in beiden Ländern zu massiven Spannungen.",
-    "m": "Die Proteste in Frankreich und Italien sind am Samstag massiv eskaliert und haben zu heftigen Ausschreitungen geführt. In Frankreich brannten Gebäude, Geschäfte wurden geplündert und es kam zu Straßenschlachten zwischen Demonstranten und Sicherheitskräften. Die französische Regierung reagierte darauf mit der Ankündigung einer rigorosen Strafverfolgung der Täter. Parallel dazu kam es auch in Italien zu schweren Krawallen, wobei besonders die norditalienische Metropole Mailand von den Ausschreitungen betroffen war. Die italienische Ministerpräsidentin Giorgia Meloni verurteilte die Gewalt öffentlich und stellte sich hinter die Sicherheitskräfte. Die Hintergründe und genauen Forderungen der Demonstranten bleiben in den Berichten teilweise offen, jedoch zeigen die Ereignisse eine besorgniserregende Dynamik der Gewalt bei öffentlichen Kundgebungen in beiden europäischen Nachbarländern.",
-    "r": "Die landesweiten Ausschreitungen in zwei großen europäischen Staaten verdeutlichen eine akute Eskalation sozialer oder politischer Spannungen und erfordern Reaktionen der jeweiligen Regierungen.",
+    "t": "Gewalt und Krawalle bei landesweiten Protesten in Frankreich und Italien",
+    "s": "In Frankreich und Italien ist es im Rahmen landesweiter Proteste zu schweren Ausschreitungen und Krawallen gekommen. Dabei kam es zu brennenden Gebäuden, geplünderten Geschäften und Straßenschlachten. Die jeweiligen Regierungen verurteilten die Gewalt scharf und kündigten Reaktionen an.",
+    "m": "Die Demonstrationen und Proteste in Frankreich sind massiv eskaliert, was sich in brennenden Gebäuden, geplünderten Geschäften und gewaltsamen Straßenschlachten äußerte. Als Reaktion auf die Eskalation kündigte die französische Regierung eine rigorose Strafverfolgung an. Parallel dazu kam es am Samstag auch in Italien zu Protesten und Krawallen, wobei vor allem die Stadt Mailand stark betroffen war. Die italienische Ministerpräsidentin Meloni verurteilte die ausgeübte Gewalt öffentlich. Die genauen Hintergründe der Proteste, die Zahl der Verletzten oder Festgenommenen sowie die Schadenshöhe gehen aus den vorliegenden Berichten im Detail noch nicht hervor.",
+    "r": "Die gewaltsamen Ausschreitungen in zwei großen europäischen Ländern verdeutlichen eine spürbare gesellschaftliche Anspannung und politische Herausforderungen für die Regierungen. Die Reaktionen der Staatsführungen unterstreichen die Dringlichkeit der Lage zur Wiederherstellung der öffentlichen Sicherheit.",
     "srcs": [
       {
         "name": "ZDF heute",
@@ -666,15 +1133,15 @@
       }
     ],
     "url": "https://www.zdfheute.de/politik/ausland/frankreich-proteste-ausschreitungen-gewalt-paris-100.html",
-    "agree": "Beide Quellen berichten über gewaltsame Krawalle und Proteste in europäischen Ländern am Samstag, die von den jeweiligen Regierungschefs oder der Regierung verurteilt wurden.",
+    "agree": "Beide Quellen berichten über gewaltsame Proteste und Krawalle im jeweiligen Land, die von den Regierungen verurteilt wurden.",
     "diff": [
       {
         "name": "ZDF heute",
-        "note": "Fokussiert auf Frankreich und nennt konkrete Ausschreitungen wie brennende Gebäude, geplünderte Geschäfte und Straßenschlachten sowie die Ankündigung einer rigorosen Strafverfolgung durch die Regierung."
+        "note": "Berichtet über brennende Gebäude, geplünderte Geschäfte und Straßenschlachten in Frankreich sowie die Ankündigung einer rigorosen Strafverfolgung durch die Regierung."
       },
       {
         "name": "SWR Aktuell",
-        "note": "Berichtet über Proteste und Krawalle in Italien am Samstag, hebt besonders Mailand als Schwerpunkt hervor und erwähnt die Verurteilung der Gewalt durch Ministerpräsidentin Meloni."
+        "note": "Berichtet über Proteste und Krawalle am Samstag in Italien, insbesondere in Mailand, und erwähnt die Verurteilung der Gewalt durch Ministerpräsidentin Meloni."
       }
     ],
     "chg": "",
@@ -772,10 +1239,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Falklandinseln sehen sich vier Jahrzehnte nach dem Krieg neuen argentinischen Drohungen ausgesetzt",
-    "s": "Vierzig Jahre nach dem Falklandkrieg sehen sich die Bewohner der Inseln erneut mit einer feindlich gesinnten Politik aus Argentinien konfrontiert. Angesichts schlechter Umfragewerte nimmt der argentinische Präsident die Ölindustrie der Inseln ins Visier. Auch die wichtige Fischereiindustrie könnte ins Blickfeld der Angriffe geraten.",
-    "m": "Die rund 4.000 Einwohner der Falklandinseln blicken mit Sorge auf die aktuelle politische Lage, da die Regierung in Buenos Aires den Druck auf das britische Überseegebiet verstärkt. Auslöser für die wirtschaftlichen Angriffe ist offenbar eine innenpolitische Krise und ein Umfragetief des argentinischen Präsidenten. Besonders die lokale Ölindustrie steht im Fokus der wirtschaftlichen Störaktionen, und es gibt Befürchtungen, dass die lukrative Fischerei als Nächstes blockiert werden könnte. Vertreter der Inselversammlung beobachten diese Entwicklungen mit großer Aufmerksamkeit und verweisen auf die ständige Bedrohung ihrer wirtschaftlichen Souveränität. Trotz des offiziellen Frühlingswechsels herrscht in der Hauptstadt Stanley rauem Wetter entsprechend ein ungemütliches Klima mit stürmischer See. Die historischen Spannungen zwischen Argentinien und Großbritannien um das Archipel im Südatlantik flammen damit auf wirtschaftlicher Ebene wieder auf.",
-    "r": "Die neuen wirtschaftlichen Angriffe Argentiniens gefährden die Stabilität der Falklandinseln und lassen den historischen Konflikt im Südatlantik wieder aufleben. Die Entwicklung ist relevant für die geopolitische Lage und die Rohstoffversorgung in der Region.",
+    "t": "Falklandinseln sehen sich vier Jahrzehnte nach Konflikt erneut wirtschaftlichem Druck aus Argentinien",
+    "s": "Vier Jahrzehnte nach dem Falklandkrieg blicken die Bewohner der Falklandinseln besorgt auf neue Spannungen mit Argentinien. Angesichts Umfragetiefs richtet die argentinische Regierung wirtschaftliche Angriffe gegen die Ölindustrie der Inseln. Auch die bedeutende Fischereiindustrie könnte ins Visier geraten.",
+    "m": "Die rund 4.000 Einwohner der Falklandinseln spüren vier Jahrzehnte nach dem historischen Konflikt erneut den Druck aus dem südamerikanischen Festland. Aktuell nutzt die argentinische Präsidentschaft wirtschaftliche Drohgebärden und Angriffe auf die lokale Ölindustrie, um von innenpolitischen Umfragetiefs abzulenken. Berichten zufolge wird zudem in Erwägung gezogen, die für die Inseln essenzielle Fischereiindustrie ins Visier zu nehmen. In der Hauptstadt Stanley, wo das legislative Parlament im selben Gebäude wie das Gericht tagt, verfolgen lokale Politiker und Bürger die Entwicklungen mit Sorge. Das Wetter vor Ort ist von den typisch rauen Bedingungen des Südatlantiks geprägt. Bislang handelt es sich vor allem um wirtschaftliche und politische Spannungen, deren langfristige Folgen für die Souveränität und die Wirtschaft der Inseln von der Haltung der argentinischen Führung abhängen.",
+    "r": "Die Berichterstattung ist relevant, da sie neue politische und wirtschaftliche Spannungen zwischen Argentinien und den Falklandinseln vier Jahrzehnte nach dem Konflikt aufzeigt. Dies betrifft geopolitische Stabilität und wirtschaftliche Interessen im Südatlantik.",
     "srcs": [
       {
         "name": "Google News World",
@@ -789,15 +1256,15 @@
       }
     ],
     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdjNTQkxUN01oTFNNNXN0YmxrODUyYmRKRjNPdS1vMEZYeG52cHM3Y18xTHpRSDlLdlVoVnNZaFA0WWRadWNJRUd6NUIwX1UtUEx6YUhPdWdwdVA1aDY2ZDIzWWkwRGpiQ0dRbExmeE5hb3QzbFp6czBZcWxSZzBqMDJpa1VDTlRSRjBVbzAtVDhtV3dFaFJtWXRmb3J6X0UxbnFBQmlpbWN2cThjSnJWNmZic2dFTk5PZllwQ0xNRHRNMDMwTW5XSE50b3lueER3Q0xhRzcxZVVfMFVyTUxWNjJ1RFZXX1hL?oc=5",
-    "agree": "Die Quellen stimmen überein, dass die Falklandinseln vier Jahrzehnte nach dem historischen Konflikt erneut unter wirtschaftlichem Druck durch Argentinien stehen.",
+    "agree": "Beide Quellen stimmen überein, dass die Falklandinseln mit etwa 4.000 Einwohnern und einer feindseligen Haltung sowie wirtschaftlichen Attacken seitens Argentiniens konfrontiert sind.",
     "diff": [
       {
         "name": "Google News World",
-        "note": "Verweist lediglich auf den Artikel von The Guardian mit dem Zitat über 4.000 Menschen."
+        "note": "Verweist lediglich auf den Artikel des Guardian mit dem Titel und der Kernbotschaft über die bedrohten Falklandinseln."
       },
       {
         "name": "Guardian World",
-        "note": "Beschreibt detailliert die Sitzung der Legislativversammlung in Stanley, das Wetter und die konkreten Angriffe auf die Öl- und Fischereiindustrie."
+        "note": "Liefert die ausführliche Reportage vor Ort in Stanley, beschreibt die Sitzung der Legislativversammlung im holzgetäfelten Gerichtssaal und nennt die Hintergründe der argentinischen Angriffe auf die Öl- und Fischereiindustrie aufgrund umfragebedingter Probleme."
       }
     ],
     "chg": "",
@@ -845,19 +1312,51 @@
     "independent": 2
   },
   {
+    "id": "story-d81892d6462feb6f",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-18T15:06:41.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Märkte Insight: Auch der Dax bekommt das KI-Beben zu spüren – aber",
+    "s": "Der Deutsche Aktienindex (Dax) spürt die Auswirkungen des Booms rund um Künstliche Intelligenz, allerdings weniger sichtbar als andere Märkte. Viele traditionelle Industrieunternehmen profitieren von der gefragten Zukunftstechnologie. Damit sind sowohl erhebliche Kurschancen als auch spezifische Risiken für Anleger verbunden.",
+    "m": "Das sogenannte KI-Beben erfasst zunehmend auch den deutschen Leitindex Dax, zeigt sich dort jedoch in einer weniger offensichtlichen Form als in anderen Segmenten. Viele Industrieunternehmen versuchen gezielt, von der gefragten Technologie rund um Künstliche Intelligenz zu profitieren. Analysten wie Ulf Sommer bewerten die Situation und weisen darauf hin, dass dieser Wandel sowohl beträchtliche Chancen als auch gewisse Risiken für die entsprechenden Aktien birgt. Konkrete Details zum zeitlichen Ablauf oder genauen Unternehmensbeteiligungen nennen die vorliegenden Berichte nicht. Es bleibt offen, welche Firmen im Detail am stärksten von der Entwicklung partizipieren und wie sich potenzielle Risiken kurzfristig auf die Bilanzen auswirken werden.",
+    "r": "Die Analyse beleuchtet, wie sich der globale Trend der Künstlichen Intelligenz auf den deutschen Aktienindex und insbesondere auf Industrieunternehmen auswirkt. Dies ist für Investoren und Marktbeobachter von Bedeutung, um Chancen und Risiken im heimischen Markt einzuschätzen.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT0wxMGIwWWZiU1RTdUthYW4zdnFCck9COTRIQy1iaWU4UF9hX3FKekhXVUFIaVBQOXcyTDIzZ2FxWTZPVmM3MzA5MGJGRFBYeGZBcHVYc1NreGdBS0RuT2J0dS1JYVk5UXMya0w5TlFva0wzLWYxcVRjSGxfRVcwTExJYTJQSHRlS2x3eEU3aWRBMnB1WnY1WXpReW9Ed3hpWGlmOE51dFA0UHBLa04wYmdxeGpza1RFQlM0YXBkMG5QLWdRb083VV9ZMXpFR1hY?oc=5",
+        "date": "2026-10-18T15:06:41.000Z"
+      },
+      {
+        "name": "Handelsblatt",
+        "url": "https://www.handelsblatt.com/finanzen/maerkte-insight-auch-der-dax-bekommt-das-ki-beben-zu-spueren-aber-weniger-sichtbar/100262546.html",
+        "date": "2026-10-18T15:06:41.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT0wxMGIwWWZiU1RTdUthYW4zdnFCck9COTRIQy1iaWU4UF9hX3FKekhXVUFIaVBQOXcyTDIzZ2FxWTZPVmM3MzA5MGJGRFBYeGZBcHVYc1NreGdBS0RuT2J0dS1JYVk5UXMya0w5TlFva0wzLWYxcVRjSGxfRVcwTExJYTJQSHRlS2x3eEU3aWRBMnB1WnY1WXpReW9Ed3hpWGlmOE51dFA0UHBLa04wYmdxeGpza1RFQlM0YXBkMG5QLWdRb083VV9ZMXpFR1hY?oc=5",
+    "agree": "Die Quellen stimmen überein, dass der Dax die Auswirkungen des KI-Bebens zu spüren bekommt und Industrieunternehmen von der Technologie profitieren können.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-c851447e56663dc7",
     "c": "DE",
     "o": "DE",
     "k": "politik",
     "lang": "de",
     "d": "2026-10-18T14:57:11.000Z",
-    "p": 3,
+    "p": 2,
     "st": "",
     "city": "",
     "t": "Grüne Jugend kritisiert schwarz-grüne Bündnisse scharf",
-    "s": "Die Grüne Jugend lehnt Koalitionen mit der Union entschieden ab und kritisiert dabei auch Kanzler Friedrich Merz. Grünen-Chef Franziska Banaszak warnt hingegen davor, sich mögliche Machtoptionen prinzipiell zu verbauen. Der interne Konflikt verdeutlicht unterschiedliche strategische Ausrichtungen innerhalb der Partei bezüglich möglicher Regierungsbündnisse mit der CDU.",
-    "m": "Die Jugendorganisation der Grünen hat sich vehement gegen Koalitionen und Bündnisse mit der Union ausgesprochen und dabei den Slogan ausgegeben, sich nicht an die CDU ranwanzen zu wollen. Im Rahmen dieser Positionierung wurde auch Unionskanzlerkandidat oder Kanzler Friedrich Merz scharf attackiert. Demgegenüber steht die Haltung von Grünen-Chef Franziska Banaszak, der davor warnt, sich diese politische Machtoption grundsätzlich zu verbauen. Der Streit offenbart eine inhaltliche und strategische Diskrepanz innerhalb der Grünen bezüglich künftiger Regierungsoptionen auf Bundes- oder Landesebene. Weitere Details zu konkreten Landesverbänden oder Zeitplänen für mögliche Koalitionsverhandlungen wurden in den Berichten nicht genannt. Die Auseinandersetzung findet vor dem Hintergrund aktueller politischer Mehrheitsverhältnisse und möglicher Zukunftsszenarien statt. Offen bleibt, wie die Partei diesen internen Richtungsstreit langfristig lösen wird.",
-    "r": "Die Debatte über schwarz-grüne Bündnisse zeigt tiefgreifende strategische Differenzen zwischen der Parteispitze und der Grünen Jugend auf. Dies betrifft unmittelbar die künftige Koalitionsfähigkeit und mögliche Regierungsoptionen der Grünen.",
+    "s": "Die Grüne Jugend lehnt Koalitionen mit der Union strikt ab und kritisiert schwarz-grüne Bündnisse. Dabei attackiert sie auch den Kanzler scharf. Grünen-Chef Felix Banaszak warnt hingegen davor, sich solche Machtoptionen grundsätzlich zu verbauen.",
+    "m": "Die Nachwuchsorganisation der Grünen hat sich klar gegen eine Zusammenarbeit mit der Union positioniert und fordert, sich nicht an die CDU anzubiedern. Inhaltlich richtet sich die Kritik gegen mögliche schwarz-grüne Bündnisse sowie gegen Kanzler Friedrich Merz. Im Gegensatz dazu plädiert der Bundesvorsitzende der Grünen, Felix Banaszak, für Pragmatismus und warnt davor, sich politische Machtoptionen von vornherein zu verbauen. Der interne Dissens verdeutlicht unterschiedliche strategische Vorstellungen innerhalb der Partei bezüglich möglicher künftiger Koalitionen auf Bundes- oder Landesebene.",
+    "r": "Die Debatte beleuchtet strategische Richtungsstreitpunkte innerhalb der Partei Bündnis 90/Die Grünen hinsichtlich möglicher Regierungsbündnisse mit der Union.",
     "srcs": [
       {
         "name": "Google News DE",
@@ -871,11 +1370,15 @@
       }
     ],
     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVGRaSHBaVXg5V3RFdVdKY3FScnhzRjN3QW9EWHh1TThIQ3JUR2thM080X0FjRzBDTWd5VWRpbnJwb3I4aWJEb1o5emhpQXJyR3ZSejlYR0RtTGZiUjFpOUZhdUtZRlN2MWdMTUJqNk1VcTJvQVNVY2toWFZTZ3BCZUhCUEhLQVI2clpGVjZpc0FWQjV5eTZSMlpOYW1zRmNHUWxpTGwtSEhDR3Y4bmVKb3lOdGc1OXJYNWFWYjM5SUh3eUlLcjVDbzFIV0dKelc5OUNIc3BseEF5ejdCTVNTRnVYY0JMQUFiRXlmTzY1cE9vMTFDR0JiUVU4OFkxZw?oc=5",
-    "agree": "Die Quellen sind sich einig, dass die Grüne Jugend Bündnisse mit der CDU ablehnt und Grünen-Chef Banaszak davor warnt, sich diese Machtoption zu verbauen.",
+    "agree": "Die Quellen sind sich einig, dass die Grüne Jugend schwarz-grüne Bündnisse kritisiert und Grünen-Chef Banaszak davor warnt, sich diese Machtoption zu verbauen.",
     "diff": [
       {
         "name": "Google News DE",
-        "note": "Bringt die gleiche Meldung wie WELT mit einer verkürzten Überschrift und einem RSS-Link."
+        "note": "Bringt die verkürzte Überschrift und verweist auf den WELT-Artikel."
+      },
+      {
+        "name": "WELT",
+        "note": "Liefert den vollständigen Artikeltext inklusive der Attacke auf Kanzler Merz und der Positionierung von Grünen-Chef Banaszak."
       }
     ],
     "chg": "",
@@ -919,6 +1422,43 @@
     "independent": 2
   },
   {
+    "id": "story-f6f2496168c530d8",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-18T14:46:40.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "USA liefern Ukraine wieder Geheimdienstdaten zur Raketenortung",
+    "s": "Die USA unterstützen die Ukraine offenbar wieder mit Geheimdienstdaten. Damit soll das von Russland angegriffene Land in die Lage versetzt werden, russische Raketen zu orten. Dies geschieht trotz zuvor groß gewesener Spannungen zwischen den Ländern.",
+    "m": "Die Beziehungen zwischen den USA und der Ukraine waren zuletzt stark angespannt, was unter anderem auf einen Berichten zufolge vereinbarten Diesel-Deal zwischen Donald Trump und Wladimir Putin zurückgeführt wird. Nun zeigt sich jedoch eine Kehrtwende in einem zentralen Bereich der militärischen Unterstützung. Die USA übermitteln der Ukraine erneut wichtige Informationen aus ihren Geheimdiensten. Konkret dienen diese Daten dazu, russische Raketenangriffe frühzeitig zu orten und entsprechende Gegenmaßnahmen zu ermöglichen. Damit kann Kiew trotz der diplomatischen Verwerfungen wieder auf wesentliche Aufklärungshilfe aus Washington zählen.",
+    "r": "Die Wiederaufnahme der US-Geheimdiensthilfen ist von hoher sicherheitspolitischer Relevanz für den Verlauf des Krieges. Sie zeigt, dass trotz politischer Spannungen zwischen den Regierungen eine strategische militärische Zusammenarbeit fortbesteht.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZnd6RnlUd1l3bDkwQzlXcFB3ellQR29URlk2cl9OQ2NNSVBrRjV2djU4MFc4U2RELU1qdDI0LWltTS1pVG9yM0pDekVraTBfUDRfUVpvLUZhTmNGWHJSNkg2MDRDaFhlRnVVSlVLZjdEclhSQlZ5UHY3ZFhHdWdjOVdJQmxlbHJ4eXBWR1lMWjROUQ?oc=5",
+        "date": "2026-10-18T14:46:40.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/politik/USA-liefern-Ukraine-wieder-Geheimdienstdaten-id31431630.html",
+        "date": "2026-10-18T14:46:40.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZnd6RnlUd1l3bDkwQzlXcFB3ellQR29URlk2cl9OQ2NNSVBrRjV2djU4MFc4U2RELU1qdDI0LWltTS1pVG9yM0pDekVraTBfUDRfUVpvLUZhTmNGWHJSNkg2MDRDaFhlRnVVSlVLZjdEclhSQlZ5UHY3ZFhHdWdjOVdJQmxlbHJ4eXBWR1lMWjROUQ?oc=5",
+    "agree": "Beide Quellen stimmen überein, dass die USA der Ukraine wieder Geheimdienstdaten zur Ortung russischer Raketen liefern.",
+    "diff": [
+      {
+        "name": "ntv",
+        "note": "Erwähnt zusätzlich die großen Spannungen zwischen den USA und der Ukraine sowie den Hintergrund des Diesel-Deals zwischen Donald Trump und Wladimir Putin."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-a6daf4e738ed8d5e",
     "c": "INT",
     "o": "PT",
@@ -928,13 +1468,13 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Drone löst Luftraum-Alarme im Báltikum und NATO-Einsatz aus",
-    "s": "Ein verdächtiger Drone hat im baltischen Raum Luftalarm ausgelöst und den Einsatz von NATO-Kampfjets zur Folge gehabt. Medienberichten zufolge soll der Vorfall im Zusammenhang mit der Ausweitung des Konflikts stehen. Genauere Details zum genauen Flugverlauf und Ursprung des Fluggeräts werden untersucht.",
-    "m": "Medienberichten zufolge hat ein Drone im Báltikum für Alarmbereitschaft gesorgt und den sofortigen Aufstieg von NATO-Kampfflugzeugen ausgelöst. Nach Angaben des litauischen öffentlich-rechtlichen Senders LRT soll das unbemannte Flugobjekt aus Richtung Polen in den litauischen Luftraum eingedrungen sein. Der Vorfall wirft Fragen zur Sicherheit des NATO-Luftraums an der Ostflanke auf und wird von Beobachtern im Kontext der anhaltenden kriegerischen Auseinandersetzungen als Besorgnis erregend bewertet. Offizielle Stellen analysieren die genaue Route und den Zweck des Flugs. Es gibt bislang keine Berichte über Schäden oder verletzte Personen.",
-    "r": "Der Vorfall zeigt mögliche Sicherheitsrisiken für den NATO-Luftraum an der Ostflanke auf. Der Einsatz von Kampfjets verdeutlicht die erhöhte Wachsamkeit der Bündnispartner in der Region.",
+    "t": "Drohne im Biltikum löst NATO-Alarm aus",
+    "s": "Ein Drohnenvorfall im Biltikum hat zu Sicherheitsalarmen und dem Einsatz von NATO-Jägern geführt. Nach Berichten der litauischen Sender soll die Drohne aus Polen kommend in den litauischen Luftraum eingedrungen sein. Der Vorfall wird im Kontext einer möglichen Ausweitung des Krieges diskutiert.",
+    "m": "Der Vorfall ereignete sich, als eine Drohne in den litauischen Luftraum eindrang, wobei die Flugbahn offenbar von Polen aus in das baltische Land führte. Dies löste sofortige Sicherheitsvorgaben und die Alarmierung sowie den Einsatz von NATO-Kampfflugzeugen aus. Die beteiligten Akteure sind die litauischen Behörden beziehungsweise der dortige öffentlich-rechtliche Sender LRT sowie die NATO. Es handelt sich um ein Ereignis, das vor dem Hintergrund anhaltender Spannungen und Konflikte in Europa bewertet wird. Die Berichterstattung weist darauf hin, dass eine Ausweitung des Krieges befürchtet wird. Konkrete Details zu Schäden oder dem Verbleib der Drohne wurden in den vorliegenden Berichten nicht genannt.",
+    "r": "Der Vorfall verdeutlicht die erhöhte Nervosität und die Sicherheitsmaßnahmen an der NATO-Ostflanke. Der Einsatz von Kampfflugzeugen zeigt, wie schnell Luftraumverletzungen militärische Reaktionen nach sich ziehen.",
     "srcs": [
       {
-        "name": "RTP Notícias",
+        "name": "RTP Mundo",
         "url": "https://www.rtp.pt/noticias/mundo/guerra-esta-a-alargar-se-drone-gera-alertas-no-baltico-e-aciona-cacas-da-nato_n1772465",
         "date": "2026-10-18T11:59:22.000Z"
       },
@@ -945,15 +1485,15 @@
       }
     ],
     "url": "https://www.rtp.pt/noticias/mundo/guerra-esta-a-alargar-se-drone-gera-alertas-no-baltico-e-aciona-cacas-da-nato_n1772465",
-    "agree": "Beide Quellen stimmen überein, dass ein Drone im Báltikum Alarme auslöste und NATO-Kampfjets eingesetzt wurden.",
+    "agree": "Die Quellen stimmen überein, dass eine Drohne im Biltikum Alarme auslöste und NATO-Jäger alarmiert wurden.",
     "diff": [
       {
-        "name": "RTP Notícias",
-        "note": "Berichtet ergänzend, dass der Drone laut dem litauischen Sender LRT aus Polen in den litauischen Luftraum eingedrungen sein soll und zitiert das Zitat, dass sich die Kriegssituation ausweite."
+        "name": "RTP Mundo",
+        "note": "Berichtet, dass das Drohne offenbar aus Polen in den litauischen Luftraum eingedrungen sei und beruft sich dabei auf den litauischen Sender LRT."
       },
       {
         "name": "Google News Portugal",
-        "note": "Enthält lediglich einen Verweis und den gleichen Titel wie die RTP-Meldung ohne eigenständige neue Fakten."
+        "note": "Liefert im Wesentlichen den Verweis auf die RTP-Meldung inklusive eines Links, ohne eigenständige neue Fakten zu nennen."
       }
     ],
     "chg": "",
@@ -1363,10 +1903,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "US-Diplomatiechef Marco Rubio relativiert Sanktionsbefreiung für Russland",
-    "s": "US-Außenminister Marco Rubio hat die Entscheidung von Präsident Donald Trump verteidigt, Russland von neuen Sanktionen auszunehmen. Er bezeichnete diesen Schritt als eine zeitweilige Pause. Diese Pause soll dazu dienen, die wirtschaftlichen Auswirkungen solcher Maßnahmen genauer zu analysieren.",
-    "m": "Die Entscheidung der US-Regierung unter Donald Trump, Russland vorerst von bestimmten neuen Sanktionen zu verschonen, sorgt für internationale Beachtung. US-Chefdiplomat Marco Rubio äußerte sich nun zu diesem Schritt und spielte die Tragweite herunter. Laut seiner Darstellung handelt es sich lediglich um eine taktische Unterbrechung des Prozesses. Ziel dieser Phase sei es, die potenziellen wirtschaftlichen Konsequenzen der geplanten Maßnahmen gründlich zu prüfen. Konkrete Details zu den betroffenen Sektoren oder zur genauen Dauer dieser Überprüfung wurden in den Berichten zunächst nicht genannt. Die Maßnahme wirft Fragen zur künftigen US-Sanktionspolitik gegenüber Moskau auf. Beobachter achten nun darauf, ob und wann neue Beschränkungen in Kraft treten.",
-    "r": "Die Haltung der US-Regierung zu Sanktionen gegen Russland ist ein zentraler Faktor für die internationale Geopolitik und die Wirtschaftsbeziehungen. Die Äußerungen von Marco Rubio geben Einblick in das taktische Vorgehen Washingtons bei wirtschaftspolitischen Maßnahmen.",
+    "t": "US-Außenminister Rubio relativiert Aussetzung von Russland-Sanktionen",
+    "s": "Der US-amerikanische Außenminister Marco Rubio hat sich zu einer Entscheidung von Präsident Donald Trump geäußert. Demnach wurde die Verhängung neuer Sanktionen gegen Russland vorübergehend ausgesetzt. Rubio begründete diesen Schritt als eine Maßnahme zur Prüfung der wirtschaftlichen Folgen.",
+    "m": "Die US-Regierung unter Präsident Donald Trump hat vorerst von neuen Sanktionen gegen Russland abgesehen. Der designierte oder amtierende Chef der US-Diplomatie, Marco Rubio, erklärte diese Entscheidung öffentlich und spielte die Tragweite herunter. Laut Rubio dient die Pause dazu, die möglichen wirtschaftlichen Auswirkungen solcher Strafmaßnahmen sorgfältig zu analysieren. Weitere konkrete Details zu Dauer oder Bedingungen dieser Aussetzung wurden in den Berichten nicht genannt. Die Maßnahme wirft Fragen zur zukünftigen US-Sanktionspolitik gegenüber Moskau auf. Beobachter und beteiligte Akteure müssen nun abwarten, ob nach der Analysephase neue Restriktionen folgen werden. Offen bleibt zudem, wie internationale Partner auf diesen Schritt der US-Regierung reagieren.",
+    "r": "Die Äußerungen des US-Außenministers geben Einblick in die Taktik der US-Regierung bezüglich wirtschaftlicher Sanktionen gegen Russland. Die Entscheidung zur Überprüfung von Maßnahmen könnte internationale Auswirkungen auf die Handelspolitik und diplomatische Beziehungen haben.",
     "srcs": [
       {
         "name": "RTP Mundo",
@@ -1380,11 +1920,11 @@
       }
     ],
     "url": "https://www.rtp.pt/noticias/mundo/chefe-da-diplomacia-dos-eua-relativiza-isencao-de-sancoes-contra-moscovo_n1772419",
-    "agree": "Die Quellen stimmen überein, dass US-Außenminister Marco Rubio die Entscheidung von Donald Trump bezüglich der Sanktionsbefreiung für Russland relativiert hat.",
+    "agree": "Beide Quellen stimmen darin überein, dass US-Außenminister Marco Rubio die Entscheidung von Donald Trump zur Befreiung Russlands von neuen Sanktionen als Prüfungsphase relativiert hat.",
     "diff": [
       {
         "name": "Google News Portugal",
-        "note": "Die Quelle verweist lediglich auf den Bericht von RTP und enthält keine eigenständigen Zusatzinformationen."
+        "note": "Enthält lediglich einen Verweis beziehungsweise Link auf den Artikel von RTP Mundo."
       }
     ],
     "chg": "",
@@ -15486,503 +16026,5 @@
     "diff": [],
     "chg": "",
     "independent": 2
-  },
-  {
-    "id": "story-6d56d6cff361af76",
-    "c": "INT",
-    "o": "UK",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-13T12:03:51.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Notrufe nach gescheiterter Hinrichtung von Christa Pike veröffentlicht",
-    "s": "Veröffentlichte Notrufaufnahmen geben Einblicke in die Abläufe nach einer fehlgeschlagenen Hinrichtung von Christa Pike. Die Dokumente wurden von der Associated Press erlangt. Sie verdeutlichen verzögerte Reaktionszeiten und unklare Kommunikation.",
-    "m": "Die Aufzeichnungen der Notrufe offenbaren erhebliche Verwirrung unter den Gefängnisbeamten in Tennessee und den Disponenten. Anlass war der Umstand, dass Christa Pike einen Versuch der Todesspritze überlebt hatte. Durch die erhaltenen Aufnahmen der Associated Press wurde bekannt, dass der Rettungsdienst verzögert bei Pike eintraf. Die Berichte beleuchten organisatorische und kommunikative Probleme während des Vorfalls. Bislang sind die genauen Hintergründe für das Überleben der Inhaftierten nicht im Detail geklärt. Der Fall wirft Fragen zur Durchführung und Vorbereitung solcher Maßnahmen auf. Offen bleibt, wie es zu den Verzögerungen bei der Alarmierung und dem Eintreffen der Einsatzkräfte kommen konnte.",
-    "r": "Die Veröffentlichung der Notrufe dokumentiert offizielle Pannen und Kommunikationsprobleme bei einer staatlichen Hinrichtung. Dies berührt rechtsstaatliche und organisatorische Fragen des Justizvollzugs.",
-    "srcs": [
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-13T12:03:51.000Z"
-      },
-      {
-        "name": "Euronews",
-        "url": "https://www.euronews.com/2026/10/13/emergency-call-about-christa-pikes-botched-execution-released",
-        "date": "2026-10-13T11:05:18.000Z"
-      }
-    ],
-    "url": "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&at_campaign=rss",
-    "agree": "Die Quellen stimmen überein, dass Notrufaufnahmen zu einer fehlgeschlagenen Hinrichtung von Christa Pike veröffentlicht wurden.",
-    "diff": [
-      {
-        "name": "BBC World",
-        "note": "Erwähnt explizit, dass die Notrufe von der Associated Press beschafft wurden und dass sich der Rettungsdienst verzögerte."
-      },
-      {
-        "name": "Euronews",
-        "note": "Berichtet spezifisch von Verwirrung unter den Gefängnisbeamten in Tennessee und den Disponenten."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-a79a660e39ad1fb7",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-13T11:05:00.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Bochum: Brand in Wohnhaus - drei Tote und fünf Verletzte",
-    "s": "Im Bochumer Stadtteil Hofstede hat ein Haus gebrannt. Mehrere Menschen wurden verletzt, für drei Erwachsene kam jede Hilfe zu spät.",
-    "m": "Im Bochumer Stadtteil Hofstede hat ein Haus gebrannt. Mehrere Menschen wurden verletzt, für drei Erwachsene kam jede Hilfe zu spät. Bei einem Brand in einem Mehrfamilienhaus in Bochum kommen drei Menschen ums Leben. Die Polizei ermittelt – was bisher über den Einsatz bekannt ist.",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
-    "srcs": [
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/panorama/bochum-brand-in-wohnhaus-drei-tote-und-fuenf-verletzte-a-984700b3-90bf-4fe7-b2fd-b4b57f6f5c9d#ref=rss",
-        "date": "2026-10-13T11:05:00.000Z"
-      },
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/panorama/drei-tote-bei-brand-in-mehrfamilienhaus-in-bochum-XH66DQWFDZG55CBGLP7NA23JWI.html",
-        "date": "2026-10-13T07:50:28.000Z"
-      }
-    ],
-    "url": "https://www.spiegel.de/panorama/bochum-brand-in-wohnhaus-drei-tote-und-fuenf-verletzte-a-984700b3-90bf-4fe7-b2fd-b4b57f6f5c9d#ref=rss",
-    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-e3c9af357dfed68c",
-    "c": "INT",
-    "o": "INT",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-13T10:55:00.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "IWF warnt vor schwindender Widerstandskraft der Weltwirtschaft",
-    "s": "Der Internationale Währungsfonds hat in seinem neuesten World Economic Outlook vor Risiken für die globale Finanzstabilität gewarnt. Demnach könnten niedrige staatliche Erdölreserven und überstrapazierte Budgets die Wirtschaft an ihre Belastungsgrenze bringen. Dennoch hat der IWF beispielsweise die BIP-Prognose für das Vereinigte Königreich für das Jahr 2026 angehoben.",
-    "m": "In seinem halbjährlich erscheinenden World Economic Outlook warnt der Internationale Währungsfonds davor, dass die globale Wirtschaft bald die Grenzen ihrer Widerstandskraft austesten könnte. Als Hauptgründe werden niedrige staatliche Notreserven an Öl sowie stark überlastete Staatshaushalte genannt. Zugleich weist der IWF darauf hin, dass die Weltwirtschaft den Konflikt im Nahen Osten in den vergangenen Monaten besser überstanden hat als zunächst befürchtet. Ein weiterer genannter Risikofaktor für die globale Finanzstabilität ist die drohende Gefahr eines Absturzes von KI-Aktien. Positiv hervorgehoben wird hingegen eine angehobene Prognose für das britische Bruttoinlandsprodukt im Jahr 2026.",
-    "r": "Die Einschätzungen des IWF besitzen hohe Relevanz für die globale Finanz- und Wirtschaftspolitik, da sie zentrale Risikofaktoren wie Energiereserven, Haushaltsdefizite und neue Technologien wie KI für die weltweite Stabilität aufzeigen.",
-    "srcs": [
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR0x3ckRQNG9zS2hldzVhTWhRblNlVmxrME8zZWNCS0F3NVc1Y2JKeVA0ZEZlZ0ZVRnZYT0lsNjVWMWdTVEh5WkpIRWNJeG0zMllPZ1R3RWtwOENtM0N4bkxrTFdjck4yTVA5ZENSdC1jTC12Nl81LTdxazBqNW9rZTFSOTI4X1owbGwxS3Y2ZE9NWFhjZHNoUnBoMGlmdDlJQ1AxOC0zUzdoMHRCQXAxdA?oc=5",
-        "date": "2026-10-13T10:55:00.000Z"
-      },
-      {
-        "name": "Guardian World",
-        "url": "https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026",
-        "date": "2026-10-13T02:00:11.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR0x3ckRQNG9zS2hldzVhTWhRblNlVmxrME8zZWNCS0F3NVc1Y2JKeVA0ZEZlZ0ZVRnZYT0lsNjVWMWdTVEh5WkpIRWNJeG0zMllPZ1R3RWtwOENtM0N4bkxrTFdjck4yTVA5ZENSdC1jTC12Nl81LTdxazBqNW9rZTFSOTI4X1owbGwxS3Y2ZE9NWFhjZHNoUnBoMGlmdDlJQ1AxOC0zUzdoMHRCQXAxdA?oc=5",
-    "agree": "",
-    "diff": [
-      {
-        "name": "Google News World",
-        "note": "Verweist lediglich auf die Berichterstattung des Guardian über die Warnung des IWF."
-      },
-      {
-        "name": "Guardian World",
-        "note": "Liefert die Details, dass staatliche Ölbestände niedrig und Budgets überstretched sind, dass die Prognose für das britische BIP für 2026 angehoben wurde und dass ein Crash von KI-Aktien die Finanzstabilität gefährdet."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-3c85a757a2b2deee",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-13T10:34:15.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Nach Bas-Rücktritt: Boris Pistorius lehnt Kandidatur für SPD-Vorsitz ab",
-    "s": "Nach dem Rücktritt von Bärbel Bas muss die SPD ihre Führung neu aufstellen. Ein prominenter möglicher Kandidat steht dafür nicht zur Verfügung: Boris Pistorius.",
-    "m": "Nach dem Rücktritt von Bärbel Bas muss die SPD ihre Führung neu aufstellen. Ein prominenter möglicher Kandidat steht dafür nicht zur Verfügung: Boris Pistorius. Die Koalition steckt tief in einer Krise. Neben inhaltlichen Diskussionen rücken bei der SPD Personalfragen in den Vordergrund. Verfolgen Sie hier alle aktuellen News aus der Bundespolitik im Liveblog.",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
-    "srcs": [
-      {
-        "name": "t-online Nachrichten",
-        "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101479070/nach-bas-ruecktritt-boris-pistorius-lehnt-kandidatur-fuer-spd-vorsitz-ab.html",
-        "date": "2026-10-13T10:34:15.000Z"
-      },
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/politik/bundespolitik-im-liveblog-boris-pistorius-lehnt-kandidatur-fuer-spd-vorsitz-ab-ATUFTG5YRJHEBGGSHEXTQJZCZU.html",
-        "date": "2026-10-13T09:59:40.000Z"
-      }
-    ],
-    "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101479070/nach-bas-ruecktritt-boris-pistorius-lehnt-kandidatur-fuer-spd-vorsitz-ab.html",
-    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-740edcf8ea39a541",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-13T10:10:55.000Z",
-    "p": 2,
-    "st": "RP",
-    "city": "",
-    "t": "Amtseinführung heute: Schweitzer wird Bundesarbeitsminister",
-    "s": "Der frühere rheinland-pfälzische Ministerpräsident Alexander Schweitzer (SPD) wird neuer Bundesarbeitsminister. Er tritt die Nachfolge von Bärbel Bas an, die zurückgetreten ist.",
-    "m": "Der frühere rheinland-pfälzische Ministerpräsident Alexander Schweitzer (SPD) wird neuer Bundesarbeitsminister. Er tritt die Nachfolge von Bärbel Bas an, die zurückgetreten ist. Der frühere rheinland-pfälzische Ministerpräsident Alexander Schweitzer (SPD) wird neuer Bundesarbeitsminister. Er tritt die Nachfolge von Bärbel Bas an, die zurückgetreten ist.",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
-    "srcs": [
-      {
-        "name": "SWR Aktuell",
-        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/alexander-schweitzer-soll-neuer-bundesarbeitsminister-werden-100.html",
-        "date": "2026-10-13T10:10:55.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Rheinland-Pfalz",
-        "url": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-schweitzer-soll-laut-medienberichten-bundesarbeitsminister-werden-100.html",
-        "date": "2026-10-13T07:07:00.000Z"
-      }
-    ],
-    "url": "https://www.swr.de/swraktuell/rheinland-pfalz/alexander-schweitzer-soll-neuer-bundesarbeitsminister-werden-100.html",
-    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-bca6e0842291993d",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-13T10:04:04.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Erstmals seit Ende 2023: Teurer Sprit treibt Inflationsrate über Drei-Prozent-Marke",
-    "s": "Das Leben in Deutschland hat sich im September so stark verteuert wie seit fast drei Jahren nicht. Grund sie die hohen Energiepreise. Experten erwarten eine weiter hohe Inflation - trotz Tankrabatt.",
-    "m": "Das Leben in Deutschland hat sich im September so stark verteuert wie seit fast drei Jahren nicht. Grund sie die hohen Energiepreise. Experten erwarten eine weiter hohe Inflation - trotz Tankrabatt. Die Inflationsrate in Deutschland ist im September auf 3,3 Prozent gestiegen – der höchste Wert seit Dezember 2023. Haupttreiber sind Energiepreise: Sprit verteuerte sich um 37,1 Prozent, Heizöl um fast 75 Prozent. Welche Produkte billiger wurden. Das Leben in Deutschland hat sich im September so stark verteuert wie seit fast drei Jahren nicht. Der neue Tankrabatt soll die Spritkosten senken. Experten rechnen dennoch mit weiter hoher Inflation.",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
-    "srcs": [
-      {
-        "name": "Handelsblatt",
-        "url": "https://www.handelsblatt.com/politik/deutschland/erstmals-seit-ende-2023-teurer-sprit-treibt-inflationsrate-ueber-drei-prozent-marke/100261760.html",
-        "date": "2026-10-13T10:04:04.000Z"
-      },
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/wirtschaft/inflation-steigt-erstmals-seit-ende-2023-ueber-drei-prozent-2VWXURAGEFDILN43SIDK6O6TBY.html",
-        "date": "2026-10-13T09:45:34.000Z"
-      },
-      {
-        "name": "t-online Wirtschaft",
-        "url": "https://www.t-online.de/finanzen/aktuelles/wirtschaft/id_101478486/inflation-in-deutschland-steigt-erstmals-seit-2023-ueber-drei-prozent-.html",
-        "date": "2026-10-13T07:15:56.000Z"
-      }
-    ],
-    "url": "https://www.handelsblatt.com/politik/deutschland/erstmals-seit-ende-2023-teurer-sprit-treibt-inflationsrate-ueber-drei-prozent-marke/100261760.html",
-    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
-    "diff": [],
-    "chg": "",
-    "independent": 3
-  },
-  {
-    "id": "story-a51ee9c03b299079",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-13T07:58:41.000Z",
-    "p": 2,
-    "st": "BY",
-    "city": "",
-    "t": "\"Breaking Bad\"-Schauspieler RJ Mitte mit 34 Jahren gestorben",
-    "s": "Der Schauspieler und Aktivist für Behindertenrechte, RJ Mitte, ist im Alter von 34 Jahren gestorben. Bekannt wurde er durch die Serie \"Breaking Bad\" - auch dort ließ er Erfahrungen mit seiner Erkrankung einfließen.",
-    "m": "Der Schauspieler und Aktivist für Behindertenrechte, RJ Mitte, ist im Alter von 34 Jahren gestorben. Bekannt wurde er durch die Serie \"Breaking Bad\" - auch dort ließ er Erfahrungen mit seiner Erkrankung einfließen. In der Erfolgsserie \"Breaking Bad\" spielte RJ Mitte den Sohn von Hauptdarsteller Bryan Cranston. Jetzt ist der US-Schauspieler mit nur 34 Jahren gestorben. Die Hintergründe sind noch unklar.",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
-    "srcs": [
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/kultur/rj-mitte-breaking-bad-tod-100.html",
-        "date": "2026-10-13T07:58:41.000Z"
-      },
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/kultur/breaking-bad-schauspieler-rj-mitte-ist-tot,VXuKwOC",
-        "date": "2026-10-13T07:01:50.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/kultur/rj-mitte-breaking-bad-tod-100.html",
-    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-f6feab9068c9d229",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-13T07:05:00.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Friedrich Merz kritisiert: »Radikale Töchter« klagt gegen Bund wegen Förderstopp",
-    "s": "Das Demokratieprojekt »Radikale Töchter« hat Kanzler Merz Rassismus vorgeworfen, dann verlor es sicher geglaubte Fördermittel. Beweisen E-Mails einen Zusammenhang? Laut der »Süddeutschen Zeitung« ist nun ein Gericht involviert.",
-    "m": "Das Demokratieprojekt »Radikale Töchter« hat Kanzler Merz Rassismus vorgeworfen, dann verlor es sicher geglaubte Fördermittel. Beweisen E-Mails einen Zusammenhang? Laut der »Süddeutschen Zeitung« ist nun ein Gericht involviert. Die NGO für Demokratieförderung kritisierte Kanzler Merz – und verlor plötzlich sicher geglaubte Fördermittel. Nun landet der Streit vor Gericht: Interne E-Mails der Behörden erhärten einen Verdacht.",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
-    "srcs": [
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-kritisiert-radikale-toechter-klagt-gegen-bund-wegen-foerderstopp-a-3b9df000-406c-4f1e-8cb6-1c7406ae9240#ref=rss",
-        "date": "2026-10-13T07:05:00.000Z"
-      },
-      {
-        "name": "Süddeutsche Zeitung",
-        "url": "https://www.sueddeutsche.de/politik/radikale-toechter-foerdergeld-regierung-stopp-klage-merz-li.3560694",
-        "date": "2026-10-13T04:00:00.000Z"
-      }
-    ],
-    "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-kritisiert-radikale-toechter-klagt-gegen-bund-wegen-foerderstopp-a-3b9df000-406c-4f1e-8cb6-1c7406ae9240#ref=rss",
-    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-e8151a877622633e",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-13T05:38:53.000Z",
-    "p": 3,
-    "st": "BY",
-    "city": "",
-    "t": "Polen: Festnahmen in Deutschland nach Brand an Starlink-Station",
-    "s": "Nach dem Brand an einer Starlink-Station in Polen gibt es Festnahmen in Deutschland. Polens Regierung vermutet Russland hinter der Sabotageaktion.",
-    "m": "Nach dem Brand an einer Starlink-Station in Polen gibt es Festnahmen in Deutschland. Polens Regierung vermutet Russland hinter der Sabotageaktion. Polens Regierungschef Tusk meldet die Festnahme zweier Verdächtiger in Deutschland: Sie sollen im September eine Starlink-Station in Polen angezündet haben. Warschau spricht dabei von russischer Sabotage und einem \"Akt hybrider Kriegsführung\". Ende September brennt eine Starlink-Station in Polen, die auch für die Ukraine wichtig ist. Jetzt wurden in Deutschland zwei Verdächtige festgenommen. Die polnische Regierung vermutet Russland hinter dem Vorfall.",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
-    "srcs": [
-      {
-        "name": "t-online Nachrichten",
-        "url": "https://www.t-online.de/nachrichten/ukraine/id_101478134/polen-festnahmen-in-deutschland-nach-brand-an-starlink-station.html",
-        "date": "2026-10-13T05:38:53.000Z"
-      },
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/polen-meldet-festnahmen-in-deutschland-nach-starlink-brand,VXrPqeK",
-        "date": "2026-10-12T20:15:13.000Z"
-      },
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/polen-starlink-brand-festnahmen-100.html",
-        "date": "2026-10-12T19:49:18.000Z"
-      }
-    ],
-    "url": "https://www.t-online.de/nachrichten/ukraine/id_101478134/polen-festnahmen-in-deutschland-nach-brand-an-starlink-station.html",
-    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
-    "diff": [],
-    "chg": "",
-    "independent": 3
-  },
-  {
-    "id": "story-6b16fd16f52184af",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-13T05:37:06.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Neue Schülerproteste: Wie ein Brandbeschleuniger in Frankreichs Krise",
-    "s": "Dass Demonstrationen eskalieren, kennt Frankreich. Doch das Ausmaß der Schülerproteste übertrifft frühere Bewegungen deutlich. Das zeigt, wie tief das Land gespalten ist. Heute soll erneut protestiert werden.",
-    "m": "Dass Demonstrationen eskalieren, kennt Frankreich. Doch das Ausmaß der Schülerproteste übertrifft frühere Bewegungen deutlich. Das zeigt, wie tief das Land gespalten ist. Heute soll erneut protestiert werden. Von Julia Borutta. Neue Schülerproteste: Wie ein Brandbeschleuniger in Frankreichs Krise tagesschau.de <a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOZnhJN01iNjdQYThJWjJmbVpHSlZXZ0p5RzU5Q2NRVmxOR2Vjb1ZMbWpDZG16aVh4QUVLckZFX01qSTlLdzcxM3JBako0c2hMQ0x1VFp2QkU1YUt4RXBxT1JTcDVWT1RaT25CVy1KRVowZXE5TVRVUVN0aUVNV3l1MV9PRWJpYjNYQU9hTjJWS0JUbHFzbW5xakh6bnI3TGtUMHQzYWNWUXBwUGwyMnhqSmxtV3JKMV",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
-    "srcs": [
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/europa/frankreich-neue-schuelerproteste-100.html",
-        "date": "2026-10-13T05:37:06.000Z"
-      },
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMThTNFVnZmUta1IwaHVidkJ5UWZ6X1AyYk9DVEo4SDJNWUtXSTluOU01SHBRYlhaUm1SZnUyTW9zMDdQMXFJeHZVRWhyX3RFTU1sOTY4cWZQenlnVlNXS1liV2F5cEJub3g0c0ZxbDVkejBxOEcyc21kTUhRbC0xVG5abXZyX2pGeFE?oc=5",
-        "date": "2026-10-13T05:37:00.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/ausland/europa/frankreich-neue-schuelerproteste-100.html",
-    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-586e0361c6597ad8",
-    "c": "INT",
-    "o": "UK",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-12T23:39:39.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Breaking-Bad-Schauspieler RJ Mitte mit 34 Jahren gestorben",
-    "s": "Der US-amerikanische Schauspieler RJ Mitte ist am Montag im Alter von 34 Jahren gestorben. Bekannt wurde er vor allem durch seine Rolle als Walter White Jr. in der preisgekrönten Dramaserie Breaking Bad. Mitte, der selbst an einer Cerebralparese litt, setzte sich stark für die Vertretung von Menschen mit Behinderungen ein.",
-    "m": "Der Tod des Schauspielers RJ Mitte wurde von seinen Vertretern bestätigt. Er starb am Montag in Brownsville im US-Bundesstaat Texas. Eine offizielle Todesursache wurde von den Vertretern bisher nicht genannt. In der gefeierten Serie Breaking Bad spielte er den Sohn des Protagonisten Walter White. Neben seiner schauspielerischen Arbeit machte er sich als engagierter Verfechter von Rechten und Repräsentanz für Menschen mit Behinderungen einen Namen.",
-    "r": "Der Tod eines bekannten internationalen Fernsehschauspielers von einer erfolgreichen Produktion hat weltweites mediales Interesse zur Folge.",
-    "srcs": [
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-12T23:39:39.000Z"
-      },
-      {
-        "name": "Guardian World",
-        "url": "https://www.theguardian.com/culture/2026/oct/12/rj-mitte-breaking-bad-actor-death",
-        "date": "2026-10-12T21:10:44.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnZlZvN0lMVHlGSENUMlp1Z3paWTFnanp2Qk50NzZjVzRiTk9aNGtLSGkxUWNDMVVzSFpnTHFlMmJzNG5pRDU1ZU1aVmZKQVFsLW5acVNhUGx1am8?oc=5",
-        "date": "2026-10-12T21:01:15.000Z"
-      }
-    ],
-    "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
-    "agree": "Die Quellen stimmen überein, dass der Breaking-Bad-Schauspieler RJ Mitte im Alter von 34 Jahren gestorben ist.",
-    "diff": [
-      {
-        "name": "Guardian World",
-        "note": "nennt den Todestag (Montag), den Sterbeort (Brownsville, Texas), die Bestätigung durch Vertreter sowie sein Engagement für Behindertenrepräsentation"
-      },
-      {
-        "name": "BBC World",
-        "note": "erwähnt, dass Mitte mit Cerebralparese lebte und in der Emmy-prämierten Serie mitwirkte"
-      },
-      {
-        "name": "Google News World",
-        "note": "verweist lediglich auf die Berichterstattung der BBC"
-      }
-    ],
-    "chg": "",
-    "independent": 3
-  },
-  {
-    "id": "story-decf715e40f808e7",
-    "c": "INT",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-12T23:30:19.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "\"Breaking Bad\"-Schauspieler RJ Mitte im Alter von 34 Jahren gestorben",
-    "s": "Der US-amerikanische Schauspieler RJ Mitte ist im Alter von 34 Jahren gestorben. Bekannt wurde er vor allem durch seine Rolle als Walter White Jr. in der preisgekrönten Fernsehserie „Breaking Bad“. Sein Tod wurde von seinen Vertretern in einer Erklärung mitgeteilt. Die genaue Todesursache des 34-Jährigen wurde zunächst nicht bekannt gegeben.",
-    "m": "Der Tod von RJ Mitte im Alter von 34 Jahren wurde am Montag von seinen Vertretern in einer Erklärung an die Nachrichtenagentur AFP bestätigt. Internationale Bekanntheit erlangte er durch seine Darstellung des Sohnes des Protagonisten, Walter White Jr., in der gefeierten Fernsehserie „Breaking Bad“. Genau wie seine Serienfigur lebte der Schauspieler im realen Leben mit Zerebralparese, einer Bewegungsstörung, die auf eine frühe Hirnschädigung zurückgeht. Über die genaue Todesursache des US-Amerikaners ist bislang nichts öffentlich bekannt geworden. Neben seiner schauspielerischen Arbeit setzte er sich auch abseits der Kameras aktiv für die Rechte und Belange von Menschen mit Behinderungen ein. Weitere Details zum genauen Hergang oder zu Hintergründen des Todes wurden von den Quellen zunächst nicht genannt.",
-    "r": "Der Tod eines bekannten internationalen Seriendarstellers in jungen Jahren ist von medienübergreifendem Interesse. Zudem wirft der Fall ein Schlaglicht auf das öffentliche Engagement des Schauspielers für Menschen mit Behinderungen.",
-    "srcs": [
-      {
-        "name": "stern",
-        "url": "https://www.stern.de/news/-breaking-bad--schauspieler-rj-mitte-im-alter-von-34-jahren-gestorben-38387000.html",
-        "date": "2026-10-12T23:30:19.000Z"
-      },
-      {
-        "name": "Frankfurter Allgemeine",
-        "url": "https://www.faz.net/aktuell/gesellschaft/menschen/walter-white-jr-in-breaking-bad-schauspieler-rj-mitte-gestorben-201312048.html",
-        "date": "2026-10-12T21:46:17.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/panorama/rj-mitte-ist-tot-breaking-bad-schauspieler-mit-34-jahren-gestorben-a-3ef6ae8c-d90b-493c-8b04-3831e9b63d7b#ref=rss",
-        "date": "2026-10-12T21:26:00.000Z"
-      }
-    ],
-    "url": "https://www.stern.de/news/-breaking-bad--schauspieler-rj-mitte-im-alter-von-34-jahren-gestorben-38387000.html",
-    "agree": "Die Quellen stimmen überein, dass der Schauspieler RJ Mitte, bekannt aus der Serie „Breaking Bad“, im Alter von 34 Jahren gestorben ist und im realen Leben wie seine Serienrolle mit Zerebralparese lebte.",
-    "diff": [
-      {
-        "name": "stern",
-        "note": "Berichtet, dass die Todesursache zunächst nicht bekannt gegeben wurde und die Erklärung über den Tod von den Vertretern des Schauspielers am Montag der Nachrichtenagentur AFP mitgeteilt wurde."
-      },
-      {
-        "name": "Frankfurter Allgemeine",
-        "note": "Erwähnt zusätzlich, dass RJ Mitte sich abseits der Kamera für Menschen mit Behinderungen einsetzte."
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "Nennt keine wesentlichen abweichenden oder zusätzlichen Details im Vergleich zu den anderen Quellen."
-      }
-    ],
-    "chg": "",
-    "independent": 3
-  },
-  {
-    "id": "story-8e9e579710a92e2e",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-12T23:19:16.000Z",
-    "p": 3,
-    "st": "BY",
-    "city": "",
-    "t": "Merz und Selenskyj fordern Waffenruhe für Energieanlagen",
-    "s": "Bundeskanzler Friedrich Merz und der ukrainische Präsident Wolodymyr Selenskyj haben Russland in einem Telefonat zu einem sofortigen Waffenstillstand für die Energieinfrastruktur aufgerufen. Hintergrund sind gegenseitige Angriffe auf Kraftwerke und Netze in dem andauernden Konflikt. Die deutsche Bundesregierung bestätigte die gemeinsame Forderung nach dem Gespräch der beiden Politiker.",
-    "m": "Bundeskanzler Friedrich Merz und der ukrainische Präsident Wolodymyr Selenskyj haben Russland in einem Telefonat aufgefordert, einem umfassenden Waffenstillstand für die gesamte Energieinfrastruktur zuzustimmen. Die Ukraine und Russland überziehen sich im anhaltenden Krieg gegenseitig mit massiven Angriffen auf Energieanlagen, was besonders in den Wintermonaten zu schweren Versorgungsproblemen führt. Bisher sind Friedensbemühungen zur Beilegung des Konflikts erfolglos geblieben. Ein Sprecher der deutschen Bundesregierung gab das Gespräch und die gemeinsame Forderung der beiden Regierungschefs offiziell bekannt. Ob Russland auf diesen Vorstoß reagieren wird, ist derzeit noch völlig offen. Weitere Details zu dem Gespräch oder konkreten Fristen wurden zunächst nicht mitgeteilt.",
-    "r": "Die gemeinsame Forderung von Bundeskanzler Merz und Präsident Selenskyj nach einer Energie-Waffenruhe ist ein diplomatischer Vorstoß im anhaltenden Krieg. Angesichts der gegenseitigen Angriffe auf die Infrastruktur hat dieser Appell direkte Auswirkungen auf die Versorgungssicherheit in der Region.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/merz-und-selenskyj-fordern-waffenruhe-fuer-energieanlagen-106.html",
-        "date": "2026-10-12T23:19:16.000Z"
-      },
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/russland-ukraine-krieg-im-news-ticker-vom-12-bis-18-oktober,VXo3Zsz",
-        "date": "2026-10-12T20:25:33.000Z"
-      },
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/politik/ukraine-news-im-ticker-merz-und-selenskyj-fordern-waffenruhe-fuer-energieanlagen-HE2HCGE6JQFTFWLUN43NO5POI4.html",
-        "date": "2026-10-12T18:21:30.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/merz-und-selenskyj-fordern-waffenruhe-fuer-energieanlagen-106.html",
-    "agree": "Die Quellen stimmen überein, dass Bundeskanzler Merz und der ukrainische Präsident Selenskyj eine Waffenruhe für Energieanlagen fordern.",
-    "diff": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "note": "Teilt mit, dass ein Sprecher der Bundesregierung das Telefonat und die Forderung nach einem Waffenstillstand für die gesamte Energieinfrastruktur offiziell bestätigt hat."
-      },
-      {
-        "name": "BR24 Bayern",
-        "note": "Erwähnt ergänzend, dass Kiew und Moskau sich gegenseitig mit Angriffen auf die Energieinfrastruktur überziehen."
-      },
-      {
-        "name": "RND",
-        "note": "Gibt an, dass sich die Ukraine seit mehr als vier Jahren verteidigt und Friedensbemühungen bisher erfolglos verliefen."
-      }
-    ],
-    "chg": "",
-    "independent": 3
   }
 ]
