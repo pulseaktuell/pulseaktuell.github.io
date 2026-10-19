@@ -21,7 +21,7 @@ function setup(){
     panel.id='settingsPanel';
     panel.className='pulse-settings-panel';
     panel.hidden=true;
-    panel.innerHTML='<div class="pulse-settings-title">Einstellungen</div><div class="pulse-settings-row"><span>Darstellung</span><button type="button" data-theme-toggle></button></div><div class="pulse-settings-row"><span>Barrierefreiheit</span><div class="pulse-settings-actions"><button type="button" data-font-toggle>Größere Schrift</button><button type="button" data-motion-toggle>Animationen aus</button></div></div>';
+    panel.innerHTML='<div class="pulse-settings-title">Einstellungen</div><div class="pulse-settings-row"><span>Darstellung</span><button type="button" data-theme-toggle></button></div><div class="pulse-settings-row"><span>Barrierefreiheit</span><div class="pulse-settings-actions"><button type="button" data-font-toggle>Größere Schrift</button><button type="button" data-motion-toggle>Animationen aus</button></div></div><div class="pulse-settings-section"><div class="pulse-settings-section-title">Sonstiges</div><nav class="pulse-settings-links" aria-label="Weitere Bereiche"><a href="./impressum.html">Impressum</a><a href="./quellen.html">Quellen</a><a href="./arbeitsweise.html">Arbeitsweise</a><a href="./erklaert.html">Pulse erklärt</a><a href="./datenschutz.html">Datenschutz</a></nav></div>'
     const header=button.closest('header');
     if(header&&header.parentNode) header.parentNode.insertBefore(panel,header.nextSibling);
     else document.body.prepend(panel);
@@ -74,7 +74,29 @@ function setup(){
     motionButton.textContent=on?'Animationen an':'Animationen aus';
   };
 
+  // Sonstiges in jeder Variante des Einstellungsmenüs ergänzen.
+  if(!panel.querySelector('.pulse-settings-section')){
+    const section=document.createElement('div');
+    section.className='pulse-settings-section';
+    section.innerHTML='<div class="pulse-settings-section-title">Sonstiges</div><nav class="pulse-settings-links" aria-label="Weitere Bereiche"><a href="./impressum.html">Impressum</a><a href="./quellen.html">Quellen</a><a href="./arbeitsweise.html">Arbeitsweise</a><a href="./erklaert.html">Pulse erklärt</a><a href="./datenschutz.html">Datenschutz</a></nav>';
+    panel.appendChild(section);
+  }
+
   updateTheme();
+
+  // Einheitlicher Footer auf allen Inhaltsseiten. #foot auf der Startseite bleibt Statusanzeige.
+  const footerLinks='<nav class="pulse-footer-links" aria-label="Weitere Bereiche"><a href="./impressum.html">Impressum</a><span class="pulse-footer-dot">·</span><a href="./quellen.html">Quellen</a><span class="pulse-footer-dot">·</span><a href="./arbeitsweise.html">Arbeitsweise</a><span class="pulse-footer-dot">·</span><a href="./erklaert.html">Pulse erklärt</a><span class="pulse-footer-dot">·</span><a href="./datenschutz.html">Datenschutz</a></nav>';
+  let footer=document.querySelector('.pulse-footer')||document.querySelector('body .foot:not(#foot)');
+  if(!footer){
+    footer=document.createElement('footer');
+    const main=document.querySelector('main');
+    if(main&&main.parentNode)main.insertAdjacentElement('afterend',footer);
+    else document.body.appendChild(footer);
+  }
+  document.querySelectorAll('body .foot:not(#foot)').forEach(node=>{if(node!==footer)node.remove()});
+  footer.classList.add('pulse-footer');
+  footer.setAttribute('aria-label','Weitere Bereiche von Pulse');
+  footer.innerHTML=footerLinks;
 
   document.addEventListener('click',function(e){
     if(panel.hidden)return;
