@@ -74,13 +74,14 @@ function setup(){
     motionButton.textContent=on?'Animationen an':'Animationen aus';
   };
 
-  // Sonstiges in jeder Variante des Einstellungsmenüs ergänzen.
-  if(!panel.querySelector('.pulse-settings-section')){
-    const section=document.createElement('div');
+  // Dieselben fünf Links auf jeder Seite im Einstellungsmenü erzwingen.
+  let section=panel.querySelector('.pulse-settings-section');
+  if(!section){
+    section=document.createElement('div');
     section.className='pulse-settings-section';
-    section.innerHTML='<div class="pulse-settings-section-title">Sonstiges</div><nav class="pulse-settings-links" aria-label="Weitere Bereiche"><a href="./impressum.html">Impressum</a><a href="./quellen.html">Quellen</a><a href="./arbeitsweise.html">Arbeitsweise</a><a href="./erklaert.html">Pulse erklärt</a><a href="./datenschutz.html">Datenschutz</a></nav>';
     panel.appendChild(section);
   }
+  section.innerHTML='<div class="pulse-settings-section-title">Sonstiges</div><nav class="pulse-settings-links" aria-label="Weitere Bereiche"><a href="./impressum.html">Impressum</a><a href="./quellen.html">Quellen</a><a href="./arbeitsweise.html">Arbeitsweise</a><a href="./erklaert.html">Pulse erklärt</a><a href="./datenschutz.html">Datenschutz</a></nav>';
 
   updateTheme();
 
