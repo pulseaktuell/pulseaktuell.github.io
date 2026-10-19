@@ -389,19 +389,18 @@ function sheetHTML(it,isOpen){
       <h2>${esc(it.t)}</h2><div class="story-meta"><span class="story-badge ai-badge">KI-zusammengefasst</span><span class="story-badge">${sourceDiversityLabel(it)}</span><span class="story-badge">${it.d?'Aktualisiert '+new Intl.DateTimeFormat('de-DE',{hour:'2-digit',minute:'2-digit'}).format(new Date(it.d))+' Uhr':'Aktuelle Meldung'}</span></div>
     </div>
     <div class="sbody">
-      <h4>Die wichtigsten Fakten</h4><ul class="pulse-facts">${factBullets(it).map(f=>`<li>${esc(f)}</li>`).join('')}</ul>
+${window.matchMedia('(min-width: 900px)').matches?`<h4>Die wichtigsten Fakten</h4><ul class="pulse-facts">${factBullets(it).map(f=>`<li>${esc(f)}</li>`).join('')}</ul>`:''}
       <h4>Kurzfassung</h4><p>${esc(it.s)}</p>
       ${it.m?`<h4>Was bisher bekannt ist</h4><p>${esc(it.m)}</p>`:''}
       ${it.r?`<h4>Warum relevant</h4><p class="relevance">${esc(it.r)}</p>`:''}
       ${isUpdated(it)?`<div class="change-box"><div class="change-title">Was hat sich geändert?</div><div class="change-text">${esc(updateInfo(it)||'Neue Informationen oder Quellen hinzugefügt')}</div></div>`:''}
-      <h4>Originalberichte</h4>
-      <p class="pulse-source-intro">Die Originalquellen sind die maßgebliche Grundlage. Öffne sie, um Kontext und Einzelheiten selbst zu prüfen.</p>
-      <div class="source-links">${(Array.isArray(it.srcs)?it.srcs:[]).map(src=>`<p><a href="${esc(src.url||'#')}" target="_blank" rel="noopener noreferrer">${esc(src.name||'Quelle')} ↗</a><small style="display:block;color:var(--label3);margin-top:4px">${sourceType(src)} · Originalbericht wird in neuem Tab geöffnet</small></p>`).join('') || '<p>Keine Quellenlinks verfügbar.</p>'}</div>
+${window.matchMedia('(min-width: 900px)').matches?`<h4>Originalberichte</h4><p class="pulse-source-intro">Die Originalquellen sind die maßgebliche Grundlage. Öffne sie, um Kontext und Einzelheiten selbst zu prüfen.</p>`:'<h4>Quellen</h4>'}
+      <div class="source-links">${(Array.isArray(it.srcs)?it.srcs:[]).map(src=>`<p><a href="${esc(src.url||'#')}" target="_blank" rel="noopener noreferrer">${esc(src.name||'Quelle')}</a><small style="display:block;color:var(--label3);margin-top:2px">${sourceType(src)}</small></p>`).join('') || '<p>Keine Quellenlinks verfügbar.</p>'}</div>
       ${it.agree?`<h4>Quellenvergleich</h4><p>${esc(it.agree)}</p>`:''}
       ${Array.isArray(it.diff)&&it.diff.length?`<h4>Abweichende Angaben</h4>${it.diff.map(d=>`<p><strong>${esc(d.name)}:</strong> ${esc(d.note)}</p>`).join('')}`:''}
       <p class="note">${sourceDiversityLabel(it)} · ${dayLabel(it.d)} · Die Meldung kann Fehler oder fehlende Informationen enthalten. Es empfiehlt sich, die Originalquellen zu lesen.</p><div class="sact">
         ${originalUrl(it)?`<a class="primary" href="${esc(originalUrl(it))}" target="_blank" rel="noopener noreferrer">Originalbericht lesen</a>`:''}
-        <button class="secondary" type="button" data-copy-story="${it.id}">Link kopieren</button>
+${window.matchMedia('(min-width: 900px)').matches?`<button class="secondary" type="button" data-copy-story="${it.id}">Link kopieren</button>`:''}
         ${canShare?`<button class="secondary" data-share="${it.id}">Teilen</button>`:''}
       </div>
     </div>
