@@ -70,3 +70,13 @@ body>main.wrap,.wrap{width:min(calc(100% - 64px),1360px);max-width:1360px;paddin
  .source-links a{font-weight:750;text-decoration:none}
  .source-links a:hover{text-decoration:underline}
 }
+
+@media(min-width:900px){
+ .pulse-source-details{margin:18px 0 20px}
+ .pulse-source-details>summary{cursor:pointer;list-style:none;display:flex;align-items:center;justify-content:space-between;gap:14px;padding:13px 15px;border-radius:10px;background:var(--fill);font-size:13px;font-weight:800}
+ .pulse-source-details>summary::-webkit-details-marker{display:none}
+ .pulse-source-details>summary:after{content:"+";font-size:20px;color:var(--tint)}
+ .pulse-source-details[open]>summary:after{content:"−"}
+ .pulse-source-details .source-links{margin-top:10px}
+ .pulse-desktop-header .pulse-desktop-density{margin-right:54px}
+}
