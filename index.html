@@ -371,7 +371,7 @@ function factBullets(it){
   const candidates=[it.s,it.m,it.r].filter(v=>typeof v==='string'&&v.trim());
   const facts=[];
   for(const text of candidates){
-    const parts=text.replace(/\s+/g,' ').split(/(?<=[.!?])\s+(?=[A-ZÄÖÜ0-9„“])/u).map(x=>x.trim()).filter(Boolean);
+    const parts=(text.replace(/\s+/g,' ').match(/[^.!?]+[.!?]?/g)||[]).map(x=>x.trim()).filter(Boolean);
     for(const part of parts){if(part.length>18&&!facts.includes(part))facts.push(part);if(facts.length>=5)break}
     if(facts.length>=5)break;
   }
