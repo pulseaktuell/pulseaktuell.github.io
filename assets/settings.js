@@ -85,19 +85,15 @@ function setup(){
 
   updateTheme();
 
-  // Einheitlicher Footer auf allen Inhaltsseiten. #foot auf der Startseite bleibt Statusanzeige.
-  const footerLinks='<nav class="pulse-footer-links" aria-label="Weitere Bereiche"><a href="./impressum.html">Impressum</a><span class="pulse-footer-dot">·</span><a href="./quellen.html">Quellen</a><span class="pulse-footer-dot">·</span><a href="./arbeitsweise.html">Arbeitsweise</a><span class="pulse-footer-dot">·</span><a href="./erklaert.html">Pulse erklärt</a><span class="pulse-footer-dot">·</span><a href="./datenschutz.html">Datenschutz</a></nav>';
-  let footer=document.querySelector('.pulse-footer')||document.querySelector('body .foot:not(#foot)');
-  if(!footer){
-    footer=document.createElement('footer');
-    const main=document.querySelector('main');
-    if(main&&main.parentNode)main.insertAdjacentElement('afterend',footer);
-    else document.body.appendChild(footer);
-  }
-  document.querySelectorAll('body .foot:not(#foot)').forEach(node=>{if(node!==footer)node.remove()});
-  footer.classList.add('pulse-footer');
-  footer.setAttribute('aria-label','Weitere Bereiche von Pulse');
-  footer.innerHTML=footerLinks;
+  // Die fünf Infoseiten sind ausschließlich in den Einstellungen verlinkt,
+  // nicht zusätzlich als Linkleiste am Seitenende. #foot auf der Startseite
+  // bleibt eine dynamische Statusanzeige.
+  document.querySelectorAll('.pulse-footer, body .foot:not(#foot)').forEach(node=>{
+    if(node.classList.contains('pulse-footer') ||
+       node.querySelector('a[href="./impressum.html"],a[href="./quellen.html"],a[href="./arbeitsweise.html"],a[href="./erklaert.html"],a[href="./datenschutz.html"]')){
+      node.remove();
+    }
+  });
 
   document.addEventListener('click',function(e){
     if(panel.hidden)return;
