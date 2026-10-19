@@ -1,6 +1,798 @@
 [
   {
-    "id": "story-161",
+    "id": "story-155",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "BE",
+    "date": "2026-10-19T19:52:35.000Z",
+    "sources": [
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/inland/berlin-wahl-spd-gruene-koalitionsverhandlungen-100.html",
+        "date": "2026-10-19T19:52:35.000Z",
+        "snippet": "Die Grünen und die SPD wollen in Berlin mit der Linkspartei Koalitionsverhandlungen aufnehmen. Beide Parteien entschieden sich am Abend für die Gespräche - die Abstimmung bei der Linken steht noch aus.",
+        "title": "Berlin: Grüne und SPD stimmen für Koalitionsgespräche mit Linke"
+      },
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/politik/deutschland/berlin-spd-stimmt-fuer-koalitionsgespraeche-mit-linke-und-gruenen-a-6a348e5e-b947-4117-93e2-aa98ac8b892a#ref=rss",
+        "date": "2026-10-19T19:39:00.000Z",
+        "snippet": "Linke, SPD und Grüne wollen über ein rot-grün-rotes Bündnis für Berlin verhandeln. Der SPD-Landesvorstand hat den Plänen nun zugestimmt, auch die Grünen nehmen das Sondierungspapier an.",
+        "title": "Berlin: SPD und Grüne stimmen für Koalitionsgespräche mit der Linken"
+      },
+      {
+        "source": "t-online Nachrichten",
+        "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101487066/berlin-gruene-fuer-koalitionsgespraeche-mit-linke-und-spd.html",
+        "date": "2026-10-19T19:36:02.000Z",
+        "snippet": "In Berlin rückt ein rot-rot-grünes Bündnis näher. Grüne und SPD stimmten mit großer Mehrheit für die Aufnahme von Koalitionsverhandlungen.",
+        "title": "Berlin: Grüne für Koalitionsgespräche mit Linke und SPD"
+      },
+      {
+        "source": "Tagesschau Regional Berlin",
+        "url": "https://www.tagesschau.de/inland/regional/berlin/rbb-spd-und-gruene-entscheiden-montag-ueber-aufnahme-von-koalitionsgespraechen-in-berlin-100.html",
+        "date": "2026-10-19T19:30:00.000Z",
+        "snippet": "Zwei Tage nach dem Abschluss der Sondierungen in Berlin haben sich SPD und Grüne für die Aufnahme von Koalitionsverhandlungen bereit erklärt. Die Linke will Ende Oktober auf einem Parteitag darüber entscheiden.",
+        "title": "SPD und Grüne stimmen für Koalitionsgespräche"
+      }
+    ],
+    "title": "Berlin: Grüne und SPD stimmen für Koalitionsgespräche mit Linke",
+    "summary": "Berlin: Grüne und SPD stimmen für Koalitionsgespräche mit Linke Die Grünen und die SPD wollen in Berlin mit der Linkspartei Koalitionsverhandlungen aufnehmen. Beide Parteien entschieden sich am Abend für die Gespräche - die Abstimmung bei der Linken steht noch aus.\nBerlin: SPD und Grüne stimmen für Koalitionsgespräche mit der Linken Linke, SPD und Grüne wollen über ein rot-grün-rotes Bündnis für Berlin verhandeln. Der SPD-Landesvorstand hat den Plänen nun zugestimmt, auch die Grünen nehmen das Sondierungspapier an.\nBerlin: Grüne für Koalitionsgespräche mit Linke und SPD In Berlin rückt ein rot-rot-grünes Bündnis näher. Grüne und SPD stimmten mit großer Mehrheit für die Aufnahme von Koalitionsverhandlungen.\nSPD und Grüne stimmen für Koalitionsgespräche Zwei Tage nach dem Abschluss der Sondierungen in Berlin haben sich SPD und Grüne für die Aufnahme von Koalitionsverhandlungen bereit erklärt. Die Linke will Ende Oktober auf einem Parteitag darüber entscheiden."
+  },
+  {
+    "id": "story-38",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-19T21:32:13.000Z",
+    "sources": [
+      {
+        "source": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/sinto-hermann-mano-hoellenreiner-gestorben-100.html",
+        "date": "2026-10-19T21:32:13.000Z",
+        "snippet": "Der deutsche Sinto und Auschwitz-Überlebende Hermann \"Mano\" Höllenreiner ist tot.",
+        "title": "Auschwitz-Überlebender - Sinto Hermann \"Mano\" Höllenreiner gestorben"
+      },
+      {
+        "source": "DW Deutsch",
+        "url": "https://www.dw.com/de/auschwitz-überlebender-hermann-mano-höllenreiner-gestorben/a-79699831?maca=de-rss-de-all-1119-xml-mrss",
+        "date": "2026-10-19T14:08:00.000Z",
+        "snippet": "Als Kind überlebte Hermann \"Mano\" Höllenreiner mehrere Konzentrationslager der Nationalsozialisten. Jahrzehntelang schwieg er über seine Erlebnisse. Später wurde er zu einer wichtigen Stimme gegen das Vergessen.",
+        "title": "Auschwitz-Überlebender Hermann \"Mano\" Höllenreiner gestorben"
+      },
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/inland/auschwitz-ueberlebender-hoellenreiner-gestorben-100.html",
+        "date": "2026-10-19T13:04:07.000Z",
+        "snippet": "Hermann Höllenreiner überlebte das Vernichtungslager Auschwitz - und floh im Alter von elf Jahren von einem der Todesmärsche. Mit 92 Jahren ist er nun gestorben.",
+        "title": "Auschwitz-Überlebender Höllenreiner im Alter von 92 gestorben"
+      }
+    ],
+    "title": "Auschwitz-Überlebender - Sinto Hermann \"Mano\" Höllenreiner gestorben",
+    "summary": "Auschwitz-Überlebender - Sinto Hermann \"Mano\" Höllenreiner gestorben Der deutsche Sinto und Auschwitz-Überlebende Hermann \"Mano\" Höllenreiner ist tot.\nAuschwitz-Überlebender Hermann \"Mano\" Höllenreiner gestorben Als Kind überlebte Hermann \"Mano\" Höllenreiner mehrere Konzentrationslager der Nationalsozialisten. Jahrzehntelang schwieg er über seine Erlebnisse. Später wurde er zu einer wichtigen Stimme gegen das Vergessen.\nAuschwitz-Überlebender Höllenreiner im Alter von 92 gestorben Hermann Höllenreiner überlebte das Vernichtungslager Auschwitz - und floh im Alter von elf Jahren von einem der Todesmärsche. Mit 92 Jahren ist er nun gestorben."
+  },
+  {
+    "id": "story-88",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-19T20:57:08.000Z",
+    "sources": [
+      {
+        "source": "WELT",
+        "url": "https://www.welt.de/wirtschaft/article6ad6824b51e5094f7a57242f/langjaehriger-miele-chef-stirbt-im-alter-von-98-jahren.html",
+        "date": "2026-10-19T20:57:08.000Z",
+        "snippet": "Der langjährige Miele-Chef Peter Christian Zinkann ist tot. Der 98-Jährige leitete das Familienunternehmen über vier Jahrzehnte und führte zahlreiche neue Geräte im Markt ein.",
+        "title": "Langjähriger Miele-Chef stirbt im Alter von 98 Jahren"
+      },
+      {
+        "source": "ntv",
+        "url": "https://www.n-tv.de/wirtschaft/Langjaehriger-Miele-Chef-stirbt-im-Alter-von-98-Jahren-id31435965.html",
+        "date": "2026-10-19T19:59:59.000Z",
+        "snippet": "Miele trauert um Peter Christian Zinkann: Der langjährige Chef des Haushaltsgeräte-Herstellers ist im Alter von 98 Jahren gestorben. Über vier Jahrzehnte prägte er die Entwicklung des Gütersloher Familienunternehmens.",
+        "title": "Vier Jahrzehnte im Unternehmen: Langjähriger Miele-Chef stirbt im Alter von 98 Jahren"
+      },
+      {
+        "source": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-10/19/langjaehriger-miele-chef-stirbt-im-alter-von-98-jahren",
+        "date": "2026-10-19T19:37:20.000Z",
+        "snippet": "",
+        "title": "Haushaltsgeräte-Hersteller: Langjähriger Miele-Chef stirbt im Alter von 98 Jahren"
+      }
+    ],
+    "title": "Langjähriger Miele-Chef stirbt im Alter von 98 Jahren",
+    "summary": "Langjähriger Miele-Chef stirbt im Alter von 98 Jahren Der langjährige Miele-Chef Peter Christian Zinkann ist tot. Der 98-Jährige leitete das Familienunternehmen über vier Jahrzehnte und führte zahlreiche neue Geräte im Markt ein.\nVier Jahrzehnte im Unternehmen: Langjähriger Miele-Chef stirbt im Alter von 98 Jahren Miele trauert um Peter Christian Zinkann: Der langjährige Chef des Haushaltsgeräte-Herstellers ist im Alter von 98 Jahren gestorben. Über vier Jahrzehnte prägte er die Entwicklung des Gütersloher Familienunternehmens.\nHaushaltsgeräte-Hersteller: Langjähriger Miele-Chef stirbt im Alter von 98 Jahren "
+  },
+  {
+    "id": "story-98",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-19T20:45:08.000Z",
+    "sources": [
+      {
+        "source": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/politik/deutschland/2026-10/berliner-gruene-stimmen-fuer-koalitionsverhandlungen-mit-linken-und-spd",
+        "date": "2026-10-19T20:45:08.000Z",
+        "snippet": "Nach der SPD haben sich auch die Grünen für Koalitionsverhandlungen mit der Linken in Berlin entschieden. Die Mehrheit des Landesausschusses stimmte dafür.",
+        "title": "Berlin: Berliner Grüne stimmen für Koalitionsverhandlungen mit Linken und SPD"
+      },
+      {
+        "source": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/politik/wahl-in-berlin/berliner-gruene-stimmen-fuer-koalitionsverhandlungen-mit-spd-und-linke-201603305.html",
+        "date": "2026-10-19T20:06:23.000Z",
+        "snippet": "Nach der Berliner SPD entscheiden sich auch die Grünen für gemeinsame Verhandlungen mit der Linken. Worum es beim kleinen Parteitag sonst noch ging.",
+        "title": "Rot-Rot-Grün: Berliner Grüne stimmen für Koalitionsverhandlungen"
+      },
+      {
+        "source": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/deutschland/berlin-rot-rot-gruen-spd-gruene-linke-koalition-verhandlungen-100.html",
+        "date": "2026-10-19T19:30:00.000Z",
+        "snippet": "Die Kritik aus dem Bund hält die Berliner Parteien nicht ab - die SPD hat sich für Koalitionsverhandlungen mit den Linken ausgesprochen. Die Grünen stimmten am Abend auch zu.",
+        "title": "Berliner SPD und Grüne für Koalitionsverhandlungen mit Linken"
+      }
+    ],
+    "title": "Berlin: Berliner Grüne stimmen für Koalitionsverhandlungen mit Linken und SPD",
+    "summary": "Berlin: Berliner Grüne stimmen für Koalitionsverhandlungen mit Linken und SPD Nach der SPD haben sich auch die Grünen für Koalitionsverhandlungen mit der Linken in Berlin entschieden. Die Mehrheit des Landesausschusses stimmte dafür.\nRot-Rot-Grün: Berliner Grüne stimmen für Koalitionsverhandlungen Nach der Berliner SPD entscheiden sich auch die Grünen für gemeinsame Verhandlungen mit der Linken. Worum es beim kleinen Parteitag sonst noch ging.\nBerliner SPD und Grüne für Koalitionsverhandlungen mit Linken Die Kritik aus dem Bund hält die Berliner Parteien nicht ab - die SPD hat sich für Koalitionsverhandlungen mit den Linken ausgesprochen. Die Grünen stimmten am Abend auch zu."
+  },
+  {
+    "id": "story-898",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-19T11:30:01.000Z",
+    "sources": [
+      {
+        "source": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-1620.html",
+        "date": "2026-10-19T11:30:01.000Z",
+        "snippet": "Autobauer Volkswagen verschärft seine Sparmaßnahmen. Übereinstimmenden Berichten zufolge sollen weltweit die Gehälter für mehrere Jahre eingefroren werden. Der Konzern will sich d…",
+        "title": "VW will offenbar Gehälter einfrieren"
+      },
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-1620.html",
+        "date": "2026-10-19T11:27:22.000Z",
+        "snippet": "Autobauer Volkswagen verschärft seine Sparmaßnahmen. Übereinstimmenden Berichten zufolge sollen weltweit die Gehälter für mehrere Jahre eingefroren werden. Der Konzern will sich dazu nicht äußern.",
+        "title": "Volkswagen will offenbar Gehälter einfrieren"
+      },
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XV1g4UzNORWR3TEhTTmhnV2xWa3ZrdEtaMTcxN3FIVnN2OE10N1hXUS1EVlRrWTJqdDhienJHbEtDbUF2ZnBRcERYUi1KQ0xlRHR6WDdRTzR1S3llWFI2MG01LUdZYjE3RjJmQWN3?oc=5",
+        "date": "2026-10-19T11:27:00.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9XV1g4UzNORWR3TEhTTmhnV2xWa3ZrdEtaMTcxN3FIVnN2OE10N1hXUS1EVlRrWTJqdDhienJHbEtDbUF2ZnBRcERYUi1KQ0xlRHR6WDdRTzR1S3llWFI2MG01LUdZYjE3RjJmQWN3?oc=5\" target=\"_blank\">Volkswagen will offenbar Gehälter einfrieren</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOVTZuM1l4RUl5bS1XVFhzeW1WWnMyRTltTUNWcHpxVjMzSVpaUTF0dHJMeGVCSWdJdUpKb2hPUXZwblNzNU1HdkxGSEdtUDhWR1ZDZ043THYzQnZmdGtwbXJxNTFJVHZBOUtfcDFYSkZ3eUJSUEQtdDJBSmVOSW92emN4QWtTVmtFUEJoamlNN0hYM0k4ZkNhTmo1c0NLOWpjcHZsOWYwZ0RDMkpvTkt0MXdn?oc=5\" target=\"_blank\">VW plant offenbar ein Einfrieren der Mitarbeite",
+        "title": "Volkswagen will offenbar Gehälter einfrieren - tagesschau.de"
+      }
+    ],
+    "title": "VW will offenbar Gehälter einfrieren",
+    "summary": "VW will offenbar Gehälter einfrieren Autobauer Volkswagen verschärft seine Sparmaßnahmen. Übereinstimmenden Berichten zufolge sollen weltweit die Gehälter für mehrere Jahre eingefroren werden. Der Konzern will sich d…\nVolkswagen will offenbar Gehälter einfrieren Autobauer Volkswagen verschärft seine Sparmaßnahmen. Übereinstimmenden Berichten zufolge sollen weltweit die Gehälter für mehrere Jahre eingefroren werden. Der Konzern will sich dazu nicht äußern.\nVolkswagen will offenbar Gehälter einfrieren - tagesschau.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9XV1g4UzNORWR3TEhTTmhnV2xWa3ZrdEtaMTcxN3FIVnN2OE10N1hXUS1EVlRrWTJqdDhienJHbEtDbUF2ZnBRcERYUi1KQ0xlRHR6WDdRTzR1S3llWFI2MG01LUdZYjE3RjJmQWN3?oc=5\" target=\"_blank\">Volkswagen will offenbar Gehälter einfrieren</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOVTZuM1l4RUl5bS1XVFhzeW1WWnMyRTltTUNWcHpxVjMzSVpaUTF0dHJMeGVCSWdJdUpKb2hPUXZwblNzNU1HdkxGSEdtUDhWR1ZDZ043THYzQnZmdGtwbXJxNTFJVHZBOUtfcDFYSkZ3eUJSUEQtdDJBSmVOSW92emN4QWtTVmtFUEJoamlNN0hYM0k4ZkNhTmo1c0NLOWpjcHZsOWYwZ0RDMkpvTkt0MXdn?oc=5\" target=\"_blank\">VW plant offenbar ein Einfrieren der Mitarbeite"
+  },
+  {
+    "id": "story-2",
+    "topic": "panorama",
+    "country": "PT",
+    "stateHint": "",
+    "date": "2026-10-19T22:29:52.000Z",
+    "sources": [
+      {
+        "source": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/economia/manifestantes-pelo-direito-a-habitacao-querem-greve-iberica-a-11-de-novembro_e1772593",
+        "date": "2026-10-19T22:29:52.000Z",
+        "snippet": "Os protestos pelo direito à habitação têm marcado os últimos dias em Portugal, com os manifestantes a pedirem uma greve ibérica a 11 de novembro. No Porto, o protesto vai já no décimo dia, enquanto em Lisboa entra no terceiro. Na \"Invicta\", o aviso de manifestação foi prolongado até final do ano.",
+        "title": "Manifestantes pelo direito à habitação querem greve ibérica a 11 de novembro"
+      },
+      {
+        "source": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU2gzbF91SU00ZGZEUE1OMG9RWmdvNGFqUEpUSzBhUXRiNklYZHJ1Z0lMOVo4TEgyYzE4QUc2Zk1RZThTcEZ2SFZQS01CMmJaaXFEcXMyc0FkQ2tlb25zWS16YzREV1ZzWm1kcTZZdW13RDB2a2RpNmdfNVktSGEtUGM1OWlIbXFuNUJoY1hBQ084Ullxb3ZEWFdRbjc4X2RtRVVhWGJDWUdjQkZXU2ozVXBiX1JqV1hpcWJtb2s4VQ?oc=5",
+        "date": "2026-10-19T20:31:33.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOU2gzbF91SU00ZGZEUE1OMG9RWmdvNGFqUEpUSzBhUXRiNklYZHJ1Z0lMOVo4TEgyYzE4QUc2Zk1RZThTcEZ2SFZQS01CMmJaaXFEcXMyc0FkQ2tlb25zWS16YzREV1ZzWm1kcTZZdW13RDB2a2RpNmdfNVktSGEtUGM1OWlIbXFuNUJoY1hBQ084Ullxb3ZEWFdRbjc4X2RtRVVhWGJDWUdjQkZXU2ozVXBiX1JqV1hpcWJtb2s4VQ?oc=5\" target=\"_blank\">Manifestantes pelo direito à habitação querem greve ibérica a 11 de novembro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbWZBMXRXRDYyWXFBdUwxbThqdTYyZHJ4ZW1EUkN3TElTb19XMFJQeFZWZjVzU0NoYk1zQjVzVEIxbEd3ZE11cFNMMVE1Q2dzSllyZDhGQ1AyNi1PVURlSWs4VVZKaEl3cmFYMGlVbXZ0WF9DNklrSk1DSXBUUVlsc3dQU3",
+        "title": "Manifestantes pelo direito à habitação querem greve ibérica a 11 de novembro - RTP"
+      }
+    ],
+    "title": "Manifestantes pelo direito à habitação querem greve ibérica a 11 de novembro",
+    "summary": "Manifestantes pelo direito à habitação querem greve ibérica a 11 de novembro Os protestos pelo direito à habitação têm marcado os últimos dias em Portugal, com os manifestantes a pedirem uma greve ibérica a 11 de novembro. No Porto, o protesto vai já no décimo dia, enquanto em Lisboa entra no terceiro. Na \"Invicta\", o aviso de manifestação foi prolongado até final do ano.\nManifestantes pelo direito à habitação querem greve ibérica a 11 de novembro - RTP <ol><li><a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOU2gzbF91SU00ZGZEUE1OMG9RWmdvNGFqUEpUSzBhUXRiNklYZHJ1Z0lMOVo4TEgyYzE4QUc2Zk1RZThTcEZ2SFZQS01CMmJaaXFEcXMyc0FkQ2tlb25zWS16YzREV1ZzWm1kcTZZdW13RDB2a2RpNmdfNVktSGEtUGM1OWlIbXFuNUJoY1hBQ084Ullxb3ZEWFdRbjc4X2RtRVVhWGJDWUdjQkZXU2ozVXBiX1JqV1hpcWJtb2s4VQ?oc=5\" target=\"_blank\">Manifestantes pelo direito à habitação querem greve ibérica a 11 de novembro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbWZBMXRXRDYyWXFBdUwxbThqdTYyZHJ4ZW1EUkN3TElTb19XMFJQeFZWZjVzU0NoYk1zQjVzVEIxbEd3ZE11cFNMMVE1Q2dzSllyZDhGQ1AyNi1PVURlSWs4VVZKaEl3cmFYMGlVbXZ0WF9DNklrSk1DSXBUUVlsc3dQU3"
+  },
+  {
+    "id": "story-25",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-19T21:32:13.000Z",
+    "sources": [
+      {
+        "source": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/sektenfuehrer-in-kenia-der-toetung-von-191-menschen-schuldig-gesprochen-100.html",
+        "date": "2026-10-19T21:32:13.000Z",
+        "snippet": "Ein Gericht in Kenia hat den Sektenführer Mackenzie und weitere Angeklagte der Tötung von 191 Menschen schuldig gesprochen.",
+        "title": "Afrika - Sektenführer in Kenia der Tötung von 191 Menschen schuldig gesprochen"
+      },
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/kenia-sektenfuehrer-wegen-toetung-von-191-menschen-schuldig-gesprochen-a-2e81361d-1caa-4d08-9d7e-7250bccbfd6e#ref=rss",
+        "date": "2026-10-19T19:40:00.000Z",
+        "snippet": "Er wollte, dass seine Anhänger verhungern, um »Jesus zu begegnen«: Ein Gericht in Kenia hat den Sektenführer Paul Mackenzie nun verurteilt. Ein Großteil der weit über Hundert Opfer waren Kinder.",
+        "title": "Kenia: Sektenführer wegen Tötung von 191 Menschen schuldig gesprochen"
+      }
+    ],
+    "title": "Afrika - Sektenführer in Kenia der Tötung von 191 Menschen schuldig gesprochen",
+    "summary": "Afrika - Sektenführer in Kenia der Tötung von 191 Menschen schuldig gesprochen Ein Gericht in Kenia hat den Sektenführer Mackenzie und weitere Angeklagte der Tötung von 191 Menschen schuldig gesprochen.\nKenia: Sektenführer wegen Tötung von 191 Menschen schuldig gesprochen Er wollte, dass seine Anhänger verhungern, um »Jesus zu begegnen«: Ein Gericht in Kenia hat den Sektenführer Paul Mackenzie nun verurteilt. Ein Großteil der weit über Hundert Opfer waren Kinder."
+  },
+  {
+    "id": "story-94",
+    "topic": "panorama",
+    "country": "INT",
+    "stateHint": "",
+    "date": "2026-10-19T20:49:39.000Z",
+    "sources": [
+      {
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_ukrainian-soldier-rescued-in-drone-evacuation-191026?traffic_source=rss",
+        "date": "2026-10-19T20:49:39.000Z",
+        "snippet": "The Ukrainian army says it has carried out the world’s first drone evacuation of a wounded soldier from the front line.",
+        "title": "Injured Ukrainian soldier rescued in first-ever drone evacuation mission"
+      },
+      {
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObDBQQTdRSW55VU9wYjREUGhkV0EwcW5RbFYzQXQwSXh6aWZGM0tFNkJHUEdpWjVZTE0yM3FwbkN3VHI1QllfMnVxcjNZQU5xSlZuUDgtOVduQ1lLbzJpTW96ZjliZVBHOUROTkl3VEdvbUpGRDJzUkdzV1I1RkI2TU04cVdLYlBTV0Z4bUpwV0pZeTBrd0N2RTNySE9JU1FrTWNfS3ltcGJGT1E3UUk5TjZoT1Vsa3FK?oc=5",
+        "date": "2026-10-19T13:21:02.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxObDBQQTdRSW55VU9wYjREUGhkV0EwcW5RbFYzQXQwSXh6aWZGM0tFNkJHUEdpWjVZTE0yM3FwbkN3VHI1QllfMnVxcjNZQU5xSlZuUDgtOVduQ1lLbzJpTW96ZjliZVBHOUROTkl3VEdvbUpGRDJzUkdzV1I1RkI2TU04cVdLYlBTV0Z4bUpwV0pZeTBrd0N2RTNySE9JU1FrTWNfS3ltcGJGT1E3UUk5TjZoT1Vsa3FK?oc=5\" target=\"_blank\">Ukraine claims world’s first drone evacuation of wounded soldier</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
+        "title": "Ukraine claims world’s first drone evacuation of wounded soldier - NBC News"
+      }
+    ],
+    "title": "Injured Ukrainian soldier rescued in first-ever drone evacuation mission",
+    "summary": "Injured Ukrainian soldier rescued in first-ever drone evacuation mission The Ukrainian army says it has carried out the world’s first drone evacuation of a wounded soldier from the front line.\nUkraine claims world’s first drone evacuation of wounded soldier - NBC News <a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxObDBQQTdRSW55VU9wYjREUGhkV0EwcW5RbFYzQXQwSXh6aWZGM0tFNkJHUEdpWjVZTE0yM3FwbkN3VHI1QllfMnVxcjNZQU5xSlZuUDgtOVduQ1lLbzJpTW96ZjliZVBHOUROTkl3VEdvbUpGRDJzUkdzV1I1RkI2TU04cVdLYlBTV0Z4bUpwV0pZeTBrd0N2RTNySE9JU1FrTWNfS3ltcGJGT1E3UUk5TjZoT1Vsa3FK?oc=5\" target=\"_blank\">Ukraine claims world’s first drone evacuation of wounded soldier</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>"
+  },
+  {
+    "id": "story-136",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-19T20:03:13.000Z",
+    "sources": [
+      {
+        "source": "RND",
+        "url": "https://www.rnd.de/sport/eklat-um-wm-investoren-uefa-fragen-und-ein-ultimatum-fuer-infantino-SLPN3SSXWZC73NHUNIB2OQDGII.html",
+        "date": "2026-10-19T20:03:13.000Z",
+        "snippet": "42 Fragen, ein Ultimatum: Die Uefa will von Fifa-Chef Gianni Infantino Aufklärung zu den gescheiterten Investorenplänen.",
+        "title": "Eklat um WM-Investoren: Uefa-Fragen und ein Ultimatum für Infantino"
+      },
+      {
+        "source": "ZDF heute",
+        "url": "https://www.zdfheute.de/sport/fussball-uefa-fragenkatalog-infantino-investoren-fifa-100.html",
+        "date": "2026-10-19T19:55:00.000Z",
+        "snippet": "Mit einem Fragenkatalog samt Ultimatum hat die UEFA Aufklärung zu den WM-Investorenplänen von FIFA-Chef Gianni Infantino gefordert. Die Antworten will die UEFA bis zum 2. November.",
+        "title": "Investorendeal: UEFA hat Fragen an Infantino"
+      }
+    ],
+    "title": "Eklat um WM-Investoren: Uefa-Fragen und ein Ultimatum für Infantino",
+    "summary": "Eklat um WM-Investoren: Uefa-Fragen und ein Ultimatum für Infantino 42 Fragen, ein Ultimatum: Die Uefa will von Fifa-Chef Gianni Infantino Aufklärung zu den gescheiterten Investorenplänen.\nInvestorendeal: UEFA hat Fragen an Infantino Mit einem Fragenkatalog samt Ultimatum hat die UEFA Aufklärung zu den WM-Investorenplänen von FIFA-Chef Gianni Infantino gefordert. Die Antworten will die UEFA bis zum 2. November."
+  },
+  {
+    "id": "story-142",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-19T19:57:52.000Z",
+    "sources": [
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQmlYOGFqNTVNUUhvSE5paHRiWE9OMFh2S0tuajRGbGs1M2gyUEtXUGVJRnllZlkxVGFSTUZadlgyRkdrcXU5a1V0aENnVDdUMjJYTWZ2UU1aYl9lcW1Ra2xBdHpaUGxwNm1salhzaEJ5dVRsZTl0c1U1WnU5ZkQ4R0NkMkNNMUVvMkZQaUdVemVBTVExVjVnSGNJdGpnanlpNU5PRk5TcE5nc1hqajM2ZVkxRGMyR0lyVGNjY2NLTjc?oc=5",
+        "date": "2026-10-19T19:57:52.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQmlYOGFqNTVNUUhvSE5paHRiWE9OMFh2S0tuajRGbGs1M2gyUEtXUGVJRnllZlkxVGFSTUZadlgyRkdrcXU5a1V0aENnVDdUMjJYTWZ2UU1aYl9lcW1Ra2xBdHpaUGxwNm1salhzaEJ5dVRsZTl0c1U1WnU5ZkQ4R0NkMkNNMUVvMkZQaUdVemVBTVExVjVnSGNJdGpnanlpNU5PRk5TcE5nc1hqajM2ZVkxRGMyR0lyVGNjY2NLTjc?oc=5\" target=\"_blank\">Mars-Mission: „Idefix“ fliegt zu Marsmond – Japanische Raummission startet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tagesspiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSldLUk0zcm5qMi16VG05a0l6TVdQanpvRmR5d29LUTdQZHpJOHJiNl9uT2V5ejBNMXVwTHhkX1NtZko5T0F6X1UwLWdqa253bm44N21rc24yM2U2UkNKMHk4QlV6OGxjZEJIdEU0azA3ZHdPT1Rpd0dWSDJVeF",
+        "title": "Mars-Mission: „Idefix“ fliegt zu Marsmond – Japanische Raummission startet - Tagesspiegel"
+      },
+      {
+        "source": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-10/19/idefix-fliegt-zu-marsmond-japanische-raummission-startet",
+        "date": "2026-10-19T19:56:43.000Z",
+        "snippet": "",
+        "title": "Mars-Mission: «Idefix» fliegt zu Marsmond – Japanische Raummission startet"
+      }
+    ],
+    "title": "Mars-Mission: „Idefix“ fliegt zu Marsmond – Japanische Raummission startet - Tagesspiegel",
+    "summary": "Mars-Mission: „Idefix“ fliegt zu Marsmond – Japanische Raummission startet - Tagesspiegel <ol><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQmlYOGFqNTVNUUhvSE5paHRiWE9OMFh2S0tuajRGbGs1M2gyUEtXUGVJRnllZlkxVGFSTUZadlgyRkdrcXU5a1V0aENnVDdUMjJYTWZ2UU1aYl9lcW1Ra2xBdHpaUGxwNm1salhzaEJ5dVRsZTl0c1U1WnU5ZkQ4R0NkMkNNMUVvMkZQaUdVemVBTVExVjVnSGNJdGpnanlpNU5PRk5TcE5nc1hqajM2ZVkxRGMyR0lyVGNjY2NLTjc?oc=5\" target=\"_blank\">Mars-Mission: „Idefix“ fliegt zu Marsmond – Japanische Raummission startet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tagesspiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSldLUk0zcm5qMi16VG05a0l6TVdQanpvRmR5d29LUTdQZHpJOHJiNl9uT2V5ejBNMXVwTHhkX1NtZko5T0F6X1UwLWdqa253bm44N21rc24yM2U2UkNKMHk4QlV6OGxjZEJIdEU0azA3ZHdPT1Rpd0dWSDJVeF\nMars-Mission: «Idefix» fliegt zu Marsmond – Japanische Raummission startet "
+  },
+  {
+    "id": "story-183",
+    "topic": "technik",
+    "country": "DE",
+    "stateHint": "BY",
+    "date": "2026-10-19T19:32:03.000Z",
+    "sources": [
+      {
+        "source": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/bund-will-mit-us-chiphersteller-nvidia-zusammenarbeiten,VYWYbpF",
+        "date": "2026-10-19T19:32:03.000Z",
+        "snippet": "Die Bundesregierung hat mit dem US-Chipentwickler Nvidia eine Zusammenarbeit zur Entwicklung von Künstlicher Intelligenz vereinbart. Das Bundeswirtschafts- und das Forschungsministerium unterzeichneten eine entsprechende Absichtserklärung mit Nvidia.",
+        "title": "Bund will mit US-Chiphersteller Nvidia zusammenarbeiten"
+      },
+      {
+        "source": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/politik/deutschland/2026-10/nvidia-bundesregierung-ki-kooperation-physical-ai-robotik-gxe",
+        "date": "2026-10-19T19:05:21.000Z",
+        "snippet": "Deutschland will mit dem US-Unternehmen Nvidia bei der Entwicklung von Künstlicher Intelligenz zusammenarbeiten. Hierfür wurde nun eine Erklärung unterzeichnet.",
+        "title": "Künstliche Intelligenz: Bund unterzeichnet KI-Absichtserklärung mit Chiphersteller Nvidia"
+      }
+    ],
+    "title": "Bund will mit US-Chiphersteller Nvidia zusammenarbeiten",
+    "summary": "Bund will mit US-Chiphersteller Nvidia zusammenarbeiten Die Bundesregierung hat mit dem US-Chipentwickler Nvidia eine Zusammenarbeit zur Entwicklung von Künstlicher Intelligenz vereinbart. Das Bundeswirtschafts- und das Forschungsministerium unterzeichneten eine entsprechende Absichtserklärung mit Nvidia.\nKünstliche Intelligenz: Bund unterzeichnet KI-Absichtserklärung mit Chiphersteller Nvidia Deutschland will mit dem US-Unternehmen Nvidia bei der Entwicklung von Künstlicher Intelligenz zusammenarbeiten. Hierfür wurde nun eine Erklärung unterzeichnet."
+  },
+  {
+    "id": "story-191",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-19T19:29:00.000Z",
+    "sources": [
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/frankreich-staedte-verhaengen-naechtliche-ausgangssperren-nach-pluenderungen-a-9793648b-83d2-4067-a54a-8d7469b117ce#ref=rss",
+        "date": "2026-10-19T19:29:00.000Z",
+        "snippet": "Während der Proteste gegen hohe Lebenshaltungskosten kam es am Wochenende in mehreren französischen Städten zu Ausschreitungen und Plünderungen. Als Reaktion verhängen die zuständigen Stellen nun nächtliche Ausgangssperren.",
+        "title": "Frankreich: Städte verhängen nächtliche Ausgangssperren nach Plünderungen"
+      },
+      {
+        "source": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/politik/ausland/2026-10/ausschreitungen-frankreich-ausgangssperre-lille-douai-gxe",
+        "date": "2026-10-19T18:12:08.000Z",
+        "snippet": "In mehreren Städten in Frankreich gelten ab dem Abend Ausgangssperren für Minderjährige. Die Regelungen gelten unter anderem für Teile von Paris, Lille und Douai.",
+        "title": "Proteste in Frankreich: Mehrere französische Städte verhängen nächtliche Ausgangssperren"
+      }
+    ],
+    "title": "Frankreich: Städte verhängen nächtliche Ausgangssperren nach Plünderungen",
+    "summary": "Frankreich: Städte verhängen nächtliche Ausgangssperren nach Plünderungen Während der Proteste gegen hohe Lebenshaltungskosten kam es am Wochenende in mehreren französischen Städten zu Ausschreitungen und Plünderungen. Als Reaktion verhängen die zuständigen Stellen nun nächtliche Ausgangssperren.\nProteste in Frankreich: Mehrere französische Städte verhängen nächtliche Ausgangssperren In mehreren Städten in Frankreich gelten ab dem Abend Ausgangssperren für Minderjährige. Die Regelungen gelten unter anderem für Teile von Paris, Lille und Douai."
+  },
+  {
+    "id": "story-200",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "NI",
+    "date": "2026-10-19T19:26:39.000Z",
+    "sources": [
+      {
+        "source": "NDR Niedersachsen",
+        "url": "https://www.ndr.de/fernsehen/sendungen/hallo_niedersachsen/nach-toedlichen-schuessen-stader-mutter-kind-haus-oeffnet-wieder,hallonds-11026.html",
+        "date": "2026-10-19T19:26:39.000Z",
+        "snippet": "Fast vier Monate war die Einrichtung nach der Tragödie mit sechs Toten geschlossen. Die Leitung übernimmt die Tochter eines Opfers.",
+        "title": "Nach tödlichen Schüssen: Stader Mutter-Kind-Haus öffnet wieder"
+      },
+      {
+        "source": "Tagesschau Regional Niedersachsen",
+        "url": "https://www.tagesschau.de/inland/regional/niedersachsen/nach-toedlichen-schuessen-mutter-kind-heim-in-stade-oeffnet-wieder,stade-390.html",
+        "date": "2026-10-19T19:26:09.000Z",
+        "snippet": "Neue Geschäftsführerin der Stethu GmbH ist Kiara Lindner. Ihre Mutter Ilka war eines der Opfer der Gewalttat am 29. Juni.",
+        "title": "Nach tödlichen Schüssen: Mutter-Kind-Heim in Stade öffnet wieder"
+      }
+    ],
+    "title": "Nach tödlichen Schüssen: Stader Mutter-Kind-Haus öffnet wieder",
+    "summary": "Nach tödlichen Schüssen: Stader Mutter-Kind-Haus öffnet wieder Fast vier Monate war die Einrichtung nach der Tragödie mit sechs Toten geschlossen. Die Leitung übernimmt die Tochter eines Opfers.\nNach tödlichen Schüssen: Mutter-Kind-Heim in Stade öffnet wieder Neue Geschäftsführerin der Stethu GmbH ist Kiara Lindner. Ihre Mutter Ilka war eines der Opfer der Gewalttat am 29. Juni."
+  },
+  {
+    "id": "story-202",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "NI",
+    "date": "2026-10-19T19:25:12.000Z",
+    "sources": [
+      {
+        "source": "Tagesschau Regional Niedersachsen",
+        "url": "https://www.tagesschau.de/inland/regional/niedersachsen/21-jaehrige-ist-neue-leiterin-von-mutter-kind-haus-in-stade,stade-394.html",
+        "date": "2026-10-19T19:25:12.000Z",
+        "snippet": "Im Juni wurden dort sechs Menschen erschossen. Nun übernimmt die Tochter eines Opfers. NDR Niedersachsen hat mit ihr gesprochen.",
+        "title": "Nach Bluttat von Stade: Tochter von Getöteter leitet Mutter-Kind-Haus"
+      },
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/panorama/stade-tochter-von-opfer-uebernimmt-mutter-kind-haus-a-4ad6b0f9-d6a3-487e-bc4a-53db3b2a1ac8#ref=rss",
+        "date": "2026-10-19T15:00:00.000Z",
+        "snippet": "Die Mutter-Kind-Einrichtung in Stade ist wieder geöffnet. Im Juni hatte ein Mann dort sechs Menschen erschossen. Neue Geschäftsführerin ist Kiara Lindner, deren Mutter bei dem Angriff starb.",
+        "title": "Stade: Tochter von Opfer übernimmt Mutter-Kind-Haus"
+      }
+    ],
+    "title": "Nach Bluttat von Stade: Tochter von Getöteter leitet Mutter-Kind-Haus",
+    "summary": "Nach Bluttat von Stade: Tochter von Getöteter leitet Mutter-Kind-Haus Im Juni wurden dort sechs Menschen erschossen. Nun übernimmt die Tochter eines Opfers. NDR Niedersachsen hat mit ihr gesprochen.\nStade: Tochter von Opfer übernimmt Mutter-Kind-Haus Die Mutter-Kind-Einrichtung in Stade ist wieder geöffnet. Im Juni hatte ein Mann dort sechs Menschen erschossen. Neue Geschäftsführerin ist Kiara Lindner, deren Mutter bei dem Angriff starb."
+  },
+  {
+    "id": "story-206",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-19T19:23:41.000Z",
+    "sources": [
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/inland/innenpolitik/bund-nvidia-zusammenarbeit-ki-100.html",
+        "date": "2026-10-19T19:23:41.000Z",
+        "snippet": "Deutschland und der US-Chip-Gigant Nvidia haben eine Zusammenarbeit bei der Entwicklung Künstlicher Intelligenz beschlossen. Die Vereinbarung wurde beim ersten \"Invest-in-Germany\"-Gipfel verkündet - und soll die deutsche Wettbewerbsfähigkeit stärken.",
+        "title": "Bundesregierung vereinbart KI-Kooperation mit Nvidia"
+      },
+      {
+        "source": "WELT",
+        "url": "https://www.welt.de/wirtschaft/article6ad65cd5598b12b947353b3a/investitionsgipfel-bundesregierung-vereinbart-mit-nvidia-kooperation-fuer-hochmodernes-ki-oekosystem-in-europa.html",
+        "date": "2026-10-19T18:38:57.000Z",
+        "snippet": "Deutschland und Nvidia schließen eine KI-Initiative für Roboter. Ziel ist es, industrielle KI systematisch in die breite Anwendung zu ⁠bringen. Die Vision ist ein ‌„hochmodernes KI‑Ökosystem in Europa“.",
+        "title": "Bundesregierung vereinbart mit Nvidia Kooperation für „hochmodernes KI-Ökosystem in Europa“"
+      }
+    ],
+    "title": "Bundesregierung vereinbart KI-Kooperation mit Nvidia",
+    "summary": "Bundesregierung vereinbart KI-Kooperation mit Nvidia Deutschland und der US-Chip-Gigant Nvidia haben eine Zusammenarbeit bei der Entwicklung Künstlicher Intelligenz beschlossen. Die Vereinbarung wurde beim ersten \"Invest-in-Germany\"-Gipfel verkündet - und soll die deutsche Wettbewerbsfähigkeit stärken.\nBundesregierung vereinbart mit Nvidia Kooperation für „hochmodernes KI-Ökosystem in Europa“ Deutschland und Nvidia schließen eine KI-Initiative für Roboter. Ziel ist es, industrielle KI systematisch in die breite Anwendung zu ⁠bringen. Die Vision ist ein ‌„hochmodernes KI‑Ökosystem in Europa“."
+  },
+  {
+    "id": "story-217",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "HE",
+    "date": "2026-10-19T19:19:23.000Z",
+    "sources": [
+      {
+        "source": "Tagesschau Regional Hessen",
+        "url": "https://www.tagesschau.de/inland/regional/hessen/hr-staatsanwaltschaft-giessen-klagt-afd-politiker-wegen-ns-parole-an-100.html",
+        "date": "2026-10-19T19:19:23.000Z",
+        "snippet": "Die Staatsanwaltschaft Gießen hat Anklage gegen den AfD-Politiker Kevin Dorow erhoben. Er soll bei der Gründung der neuen AfD-Jugendorganisation eine Parole der Hitlerjugend verwendet haben. Dorow weist den Vorwurf zurück.",
+        "title": "Staatsanwaltschaft Gießen klagt AfD-Politiker wegen NS-Parole an"
+      },
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/politik/deutschland/kevin-dorow-staatsanwaltschaft-klagt-afd-politiker-wegen-ns-parole-an-a-01739e4f-e274-4dec-a236-698d910e05a7#ref=rss",
+        "date": "2026-10-19T18:02:00.000Z",
+        "snippet": "Kevin Dorow soll bei der Gründungsversammlung der AfD-Jugendorganisation eine Propagandaparole der Hitlerjugend verwendet haben. Die Staatsanwaltschaft Gießen hat Anklage erhoben. Ob es zu einem Prozess kommt, ist noch offen.",
+        "title": "Kevin Dorow: Staatsanwaltschaft klagt AfD-Politiker wegen NS-Parole an"
+      }
+    ],
+    "title": "Staatsanwaltschaft Gießen klagt AfD-Politiker wegen NS-Parole an",
+    "summary": "Staatsanwaltschaft Gießen klagt AfD-Politiker wegen NS-Parole an Die Staatsanwaltschaft Gießen hat Anklage gegen den AfD-Politiker Kevin Dorow erhoben. Er soll bei der Gründung der neuen AfD-Jugendorganisation eine Parole der Hitlerjugend verwendet haben. Dorow weist den Vorwurf zurück.\nKevin Dorow: Staatsanwaltschaft klagt AfD-Politiker wegen NS-Parole an Kevin Dorow soll bei der Gründungsversammlung der AfD-Jugendorganisation eine Propagandaparole der Hitlerjugend verwendet haben. Die Staatsanwaltschaft Gießen hat Anklage erhoben. Ob es zu einem Prozess kommt, ist noch offen."
+  },
+  {
+    "id": "story-229",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-19T19:07:27.000Z",
+    "sources": [
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSnFodk5mTHV6cXJpV1Y0SEQ4dFR0cFVXSjJFOUFFZTRwYUQzVDdOeEJ3TGkxUlctWDhXTlNSeWtkRWw0SGExYUhhWjI4MWx1Tzk0ZmliTzVYanM3Wm52ZmdtVlctaWxLbVl3SHVTNVdQSkhuSWdES0xYeTE3R0R3TExtSHMwSlpwWDZFLU53Ym9pSkthN24wVElZYUt1RnAxRXlEdlQwZVRMb2pVckRaR2t0dDJNeFZuZldWd0xOOWtuZER6QXVUNlBfOFFlc1J2SWVLSk9BN1pTZE40ZVhtdnlGcFVTcTVHNWdVenBtRm1PMHEzbG9DOGVB?oc=5",
+        "date": "2026-10-19T19:07:27.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSnFodk5mTHV6cXJpV1Y0SEQ4dFR0cFVXSjJFOUFFZTRwYUQzVDdOeEJ3TGkxUlctWDhXTlNSeWtkRWw0SGExYUhhWjI4MWx1Tzk0ZmliTzVYanM3Wm52ZmdtVlctaWxLbVl3SHVTNVdQSkhuSWdES0xYeTE3R0R3TExtSHMwSlpwWDZFLU53Ym9pSkthN24wVElZYUt1RnAxRXlEdlQwZVRMb2pVckRaR2t0dDJNeFZuZldWd0xOOWtuZER6QXVUNlBfOFFlc1J2SWVLSk9BN1pTZE40ZVhtdnlGcFVTcTVHNWdVenBtRm1PMHEzbG9DOGVB?oc=5\" target=\"_blank\">Ukraine-Krieg: Baby in Kinderwagen von Drohne getötet – Selenskyj spricht von „reiner Gräueltat“</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WELT</font></li><li><a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNYlp1WHVOSk1JbEl1V1F3dzE5OTNpNWNxR21Odlh1ZDRvSDZISGRYNlBsWVJ1b2NRRTh",
+        "title": "Ukraine-Krieg: Baby in Kinderwagen von Drohne getötet – Selenskyj spricht von „reiner Gräueltat“ - WELT"
+      },
+      {
+        "source": "WELT",
+        "url": "https://www.welt.de/politik/ausland/article6ad6636351e5094f7a572328/ukraine-krieg-baby-in-kinderwagen-von-drohne-getoetet-selenskyj-spricht-von-reiner-graeueltat.html",
+        "date": "2026-10-19T19:03:54.000Z",
+        "snippet": "Ein russischer Drohnenangriff auf einen Park im Gebiet Charkiw hat sechs Menschen getötet, darunter ein einjähriges Mädchen. Präsident Wolodymyr Selenskyj fordert schärfere Strafen gegen Russland.",
+        "title": "Baby in Kinderwagen von Drohne getötet – Selenskyj spricht von „reiner Gräueltat“"
+      }
+    ],
+    "title": "Ukraine-Krieg: Baby in Kinderwagen von Drohne getötet – Selenskyj spricht von „reiner Gräueltat“ - WELT",
+    "summary": "Ukraine-Krieg: Baby in Kinderwagen von Drohne getötet – Selenskyj spricht von „reiner Gräueltat“ - WELT <ol><li><a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSnFodk5mTHV6cXJpV1Y0SEQ4dFR0cFVXSjJFOUFFZTRwYUQzVDdOeEJ3TGkxUlctWDhXTlNSeWtkRWw0SGExYUhhWjI4MWx1Tzk0ZmliTzVYanM3Wm52ZmdtVlctaWxLbVl3SHVTNVdQSkhuSWdES0xYeTE3R0R3TExtSHMwSlpwWDZFLU53Ym9pSkthN24wVElZYUt1RnAxRXlEdlQwZVRMb2pVckRaR2t0dDJNeFZuZldWd0xOOWtuZER6QXVUNlBfOFFlc1J2SWVLSk9BN1pTZE40ZVhtdnlGcFVTcTVHNWdVenBtRm1PMHEzbG9DOGVB?oc=5\" target=\"_blank\">Ukraine-Krieg: Baby in Kinderwagen von Drohne getötet – Selenskyj spricht von „reiner Gräueltat“</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WELT</font></li><li><a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNYlp1WHVOSk1JbEl1V1F3dzE5OTNpNWNxR21Odlh1ZDRvSDZISGRYNlBsWVJ1b2NRRTh\nBaby in Kinderwagen von Drohne getötet – Selenskyj spricht von „reiner Gräueltat“ Ein russischer Drohnenangriff auf einen Park im Gebiet Charkiw hat sechs Menschen getötet, darunter ein einjähriges Mädchen. Präsident Wolodymyr Selenskyj fordert schärfere Strafen gegen Russland."
+  },
+  {
+    "id": "story-247",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "MV",
+    "date": "2026-10-19T18:52:31.000Z",
+    "sources": [
+      {
+        "source": "Tagesschau Regional Mecklenburg-Vorpommern",
+        "url": "https://www.ndr.de/sport/mehr_sport/gekommen-um-zu-bleiben-sv-warnemuende-startet-in-die-saison,warnemuende-120.html",
+        "date": "2026-10-19T18:52:31.000Z",
+        "snippet": "Nach einem herausfordernden ersten Bundesliga-Jahr lautet das Ziel der Mecklenburger erneut: Klassenerhalt. Der Verein will sich dauerhaft im deutschen Oberhaus etablieren.",
+        "title": "Volleyball-Bundesliga: SV Warnemünde startet in die neue Saison und will sich etablieren"
+      },
+      {
+        "source": "NDR Mecklenburg-Vorpommern",
+        "url": "https://www.ndr.de/fernsehen/sendungen/nordmagazin/volleyball-sv-warnemuende-startet-in-zweite-bundesliga-saison,nordmagazin-15178.html",
+        "date": "2026-10-19T18:06:41.000Z",
+        "snippet": "Das große Ziel steht für den Aufsteiger bereits fest: Auch nach dieser zweiten Saison will man erstklassig bleiben.",
+        "title": "Volleyball: SV Warnemünde startet in zweite Bundesliga-Saison"
+      }
+    ],
+    "title": "Volleyball-Bundesliga: SV Warnemünde startet in die neue Saison und will sich etablieren",
+    "summary": "Volleyball-Bundesliga: SV Warnemünde startet in die neue Saison und will sich etablieren Nach einem herausfordernden ersten Bundesliga-Jahr lautet das Ziel der Mecklenburger erneut: Klassenerhalt. Der Verein will sich dauerhaft im deutschen Oberhaus etablieren.\nVolleyball: SV Warnemünde startet in zweite Bundesliga-Saison Das große Ziel steht für den Aufsteiger bereits fest: Auch nach dieser zweiten Saison will man erstklassig bleiben."
+  },
+  {
+    "id": "story-300",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "BY",
+    "date": "2026-10-19T18:19:08.000Z",
+    "sources": [
+      {
+        "source": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/migrantenverbaende-fordern-schutz-vor-moeglicher-afd-regierung,VYWCZq1",
+        "date": "2026-10-19T18:19:08.000Z",
+        "snippet": "Migrantenverbände in Deutschland fordern den Schutz von Minderheiten, bevor es in Sachsen-Anhalt zu einer AfD-geführten Regierung kommt. Wenige Tage vor der Ministerpräsidentenkonferenz haben sie in einem Brief konkrete Forderungen aufgestellt.",
+        "title": "Migrantenverbände fordern Schutz vor möglicher AfD-Regierung"
+      },
+      {
+        "source": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/deutschland/afd-regierung-sachsen-anhalt-migrantenverband-schutzmassnahme-100.html",
+        "date": "2026-10-19T18:15:00.000Z",
+        "snippet": "Migrantenverbände fordern angesichts einer möglichen AfD-Regierung in Sachsen-Anhalt einen Schutzplan für Minderheiten. Bund und Länder sollen außerdem Wohnsitzauflagen lockern.",
+        "title": "Migrantenverbände fordern Schutz vor AfD"
+      }
+    ],
+    "title": "Migrantenverbände fordern Schutz vor möglicher AfD-Regierung",
+    "summary": "Migrantenverbände fordern Schutz vor möglicher AfD-Regierung Migrantenverbände in Deutschland fordern den Schutz von Minderheiten, bevor es in Sachsen-Anhalt zu einer AfD-geführten Regierung kommt. Wenige Tage vor der Ministerpräsidentenkonferenz haben sie in einem Brief konkrete Forderungen aufgestellt.\nMigrantenverbände fordern Schutz vor AfD Migrantenverbände fordern angesichts einer möglichen AfD-Regierung in Sachsen-Anhalt einen Schutzplan für Minderheiten. Bund und Länder sollen außerdem Wohnsitzauflagen lockern."
+  },
+  {
+    "id": "story-314",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "MV",
+    "date": "2026-10-19T18:14:47.000Z",
+    "sources": [
+      {
+        "source": "Tagesschau Regional Mecklenburg-Vorpommern",
+        "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/eisengiesserei-ueckermuende-widerstand-gegen-geplante-schliessung,ueckermuende-108.html",
+        "date": "2026-10-19T18:14:47.000Z",
+        "snippet": "Auch nach erneuten Gesprächen gibt es keine Rettung für den Standort. Beschäftigte halten Mahnwache als Zeichen des Protests.",
+        "title": "Eisengießerei Ueckermünde: Widerstand gegen geplante Schließung"
+      },
+      {
+        "source": "NDR Mecklenburg-Vorpommern",
+        "url": "https://www.ndr.de/fernsehen/sendungen/nordmagazin/geplante-schliessung-mahnwache-vor-eisengiesserei-ueckermuende,nordmagazin-15168.html",
+        "date": "2026-10-19T18:06:22.000Z",
+        "snippet": "Knapp 300 Mitarbeiter würden bei einer Schließung ihre Arbeit verlieren. Gibt es noch eine Chance auf Rettung?",
+        "title": "Geplante Schließung: Mahnwache vor Eisengießerei Ueckermünde"
+      }
+    ],
+    "title": "Eisengießerei Ueckermünde: Widerstand gegen geplante Schließung",
+    "summary": "Eisengießerei Ueckermünde: Widerstand gegen geplante Schließung Auch nach erneuten Gesprächen gibt es keine Rettung für den Standort. Beschäftigte halten Mahnwache als Zeichen des Protests.\nGeplante Schließung: Mahnwache vor Eisengießerei Ueckermünde Knapp 300 Mitarbeiter würden bei einer Schließung ihre Arbeit verlieren. Gibt es noch eine Chance auf Rettung?"
+  },
+  {
+    "id": "story-402",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-19T17:30:02.000Z",
+    "sources": [
+      {
+        "source": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-ausschreitungen-ausgangssperren-100.html",
+        "date": "2026-10-19T17:30:02.000Z",
+        "snippet": "Nach den Ausschreitungen in Frankreich kündigt die Regierung lokale Ausgangssperren an. Für Samstag kursieren Aufrufe zu weiteren Protesten. Bundesinnenminister Dobrindt machte zw…",
+        "title": "Frankreichs Premier kündigt Ausgangssperren an"
+      },
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-ausschreitungen-ausgangssperren-100.html",
+        "date": "2026-10-19T17:19:39.000Z",
+        "snippet": "Nach den Ausschreitungen in Frankreich kündigt die Regierung lokale Ausgangssperren an. Für Samstag kursieren Aufrufe zu weiteren Protesten. Bundesinnenminister Dobrindt machte zwei Gruppen für die Krawalle im Nachbarland verantwortlich.",
+        "title": "Frankreichs Premierminister Lecornu kündigt Ausgangssperren an"
+      }
+    ],
+    "title": "Frankreichs Premier kündigt Ausgangssperren an",
+    "summary": "Frankreichs Premier kündigt Ausgangssperren an Nach den Ausschreitungen in Frankreich kündigt die Regierung lokale Ausgangssperren an. Für Samstag kursieren Aufrufe zu weiteren Protesten. Bundesinnenminister Dobrindt machte zw…\nFrankreichs Premierminister Lecornu kündigt Ausgangssperren an Nach den Ausschreitungen in Frankreich kündigt die Regierung lokale Ausgangssperren an. Für Samstag kursieren Aufrufe zu weiteren Protesten. Bundesinnenminister Dobrindt machte zwei Gruppen für die Krawalle im Nachbarland verantwortlich."
+  },
+  {
+    "id": "story-420",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-19T17:19:02.000Z",
+    "sources": [
+      {
+        "source": "WELT",
+        "url": "https://www.welt.de/politik/ausland/video6ad64f555e327b030a8553bd/sabotage-bulgarien-erlaesst-haftbefehl-gegen-zwei-deutsche-wegen-starlink-anschlags.html",
+        "date": "2026-10-19T17:19:02.000Z",
+        "snippet": "Nach einem mutmaßlichen Brandanschlag auf eine Anlage des US-Kommunikationssystems Starlink in Bulgarien ist gegen zwei Deutsche ein europäischer Haftbefehl erlassen worden.",
+        "title": "Bulgarien erlässt Haftbefehl gegen zwei Deutsche wegen Starlink-Anschlags"
+      },
+      {
+        "source": "ntv",
+        "url": "https://www.n-tv.de/politik/Haftbefehl-gegen-Deutsche-wegen-Starlink-Anschlags-in-Bulgarien-id31435529.html",
+        "date": "2026-10-19T17:04:39.000Z",
+        "snippet": "Nicht nur in Polen, auch in Bulgarien brennt eine Anlage des Satellitendienstes Starlink. Im Verdacht stehen zwei Deutsche im Alter von 19 Jahren. Ihnen drohen Haftstrafen von drei bis zwölf Jahren.",
+        "title": "Als Touristen eingereist: Haftbefehl gegen Deutsche wegen Starlink-Anschlags in Bulgarien"
+      }
+    ],
+    "title": "Bulgarien erlässt Haftbefehl gegen zwei Deutsche wegen Starlink-Anschlags",
+    "summary": "Bulgarien erlässt Haftbefehl gegen zwei Deutsche wegen Starlink-Anschlags Nach einem mutmaßlichen Brandanschlag auf eine Anlage des US-Kommunikationssystems Starlink in Bulgarien ist gegen zwei Deutsche ein europäischer Haftbefehl erlassen worden.\nAls Touristen eingereist: Haftbefehl gegen Deutsche wegen Starlink-Anschlags in Bulgarien Nicht nur in Polen, auch in Bulgarien brennt eine Anlage des Satellitendienstes Starlink. Im Verdacht stehen zwei Deutsche im Alter von 19 Jahren. Ihnen drohen Haftstrafen von drei bis zwölf Jahren."
+  },
+  {
+    "id": "story-464",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "SN",
+    "date": "2026-10-19T16:57:35.000Z",
+    "sources": [
+      {
+        "source": "Tagesschau Regional Sachsen",
+        "url": "https://www.tagesschau.de/inland/regional/sachsen/polizei-loch-unfall-auto-,flughafen-zaun-verursacher-100.html",
+        "date": "2026-10-19T16:57:35.000Z",
+        "snippet": "Im Fall des beschädigten Zauns am Flughafen Leipzig/Halle haben sich zwei Männer der Polizei gestellt. Einer der beiden erklärte, mit dem Auto in den Zaun gefahren zu sein.",
+        "title": "Loch im Flughafenzaun Leipzig/Halle: Zwei Tatverdächtige stellen sich der Polizei"
+      },
+      {
+        "source": "ZDF heute",
+        "url": "https://www.zdfheute.de/panorama/flughafen-leipzig-vorfall-sicherheitszaun-100.html",
+        "date": "2026-10-19T14:24:00.000Z",
+        "snippet": "Er will am Flughafen Leipzig die Kontrolle über ein Auto verloren und damit den Zaun durchbrochen haben: Mit dieser Aussage hat sich nun ein 20-Jähriger bei der Polizei gestellt.",
+        "title": "Nach Vorfall am Flughafen Leipzig: Zwei Männer stellen sich"
+      }
+    ],
+    "title": "Loch im Flughafenzaun Leipzig/Halle: Zwei Tatverdächtige stellen sich der Polizei",
+    "summary": "Loch im Flughafenzaun Leipzig/Halle: Zwei Tatverdächtige stellen sich der Polizei Im Fall des beschädigten Zauns am Flughafen Leipzig/Halle haben sich zwei Männer der Polizei gestellt. Einer der beiden erklärte, mit dem Auto in den Zaun gefahren zu sein.\nNach Vorfall am Flughafen Leipzig: Zwei Männer stellen sich Er will am Flughafen Leipzig die Kontrolle über ein Auto verloren und damit den Zaun durchbrochen haben: Mit dieser Aussage hat sich nun ein 20-Jähriger bei der Polizei gestellt."
+  },
+  {
+    "id": "story-491",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "BY",
+    "date": "2026-10-19T16:38:16.000Z",
+    "sources": [
+      {
+        "source": "RND",
+        "url": "https://www.rnd.de/panorama/italien-deutsche-bergsteigerin-stuerzt-50-meter-in-den-tod-S5XIV567MVDPRC5YVN4W7G4KXM.html",
+        "date": "2026-10-19T16:38:16.000Z",
+        "snippet": "Die erfahrene Kletterin war in den Alpen nahe der Grenze zu Slowenien unterwegs. Vermutet wird, dass sich in der Steilwand ein Griff löste. Den Sturz in die Tiefe überlebte sie nicht.",
+        "title": "Italien: Deutsche Bergsteigerin stürzt 50 Meter in den Tod"
+      },
+      {
+        "source": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/deutsche-bergsteigerin-stuerzt-in-italien-in-den-tod,VYUMuWg",
+        "date": "2026-10-19T11:35:14.000Z",
+        "snippet": "Die erfahrene Kletterin war in den Alpen nahe der Grenze zu Slowenien unterwegs. Vermutet wird, dass sich in der Steilwand ein Griff löste. Den Sturz in die Tiefe überlebte die 32-Jährige nicht.",
+        "title": "Deutsche Bergsteigerin stürzt in Italien in den Tod"
+      }
+    ],
+    "title": "Italien: Deutsche Bergsteigerin stürzt 50 Meter in den Tod",
+    "summary": "Italien: Deutsche Bergsteigerin stürzt 50 Meter in den Tod Die erfahrene Kletterin war in den Alpen nahe der Grenze zu Slowenien unterwegs. Vermutet wird, dass sich in der Steilwand ein Griff löste. Den Sturz in die Tiefe überlebte sie nicht.\nDeutsche Bergsteigerin stürzt in Italien in den Tod Die erfahrene Kletterin war in den Alpen nahe der Grenze zu Slowenien unterwegs. Vermutet wird, dass sich in der Steilwand ein Griff löste. Den Sturz in die Tiefe überlebte die 32-Jährige nicht."
+  },
+  {
+    "id": "story-578",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "BY",
+    "date": "2026-10-19T15:43:35.000Z",
+    "sources": [
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/inland/regional/bayern/verbrechen-kerstin-langley-vermisste-opfer-gewalttat-100.html",
+        "date": "2026-10-19T15:43:35.000Z",
+        "snippet": "Im Fall der seit dem Sommer 2007 vermissten Kerstin Lee Langley aus Regensburg gibt es einen Durchbruch: Die damals 39-Jährige soll von einem Trio getötet worden sein. Eine der Verdächtigen legte nun ein Geständnis ab.",
+        "title": "Durchbruch im Fall Langley: Vermisste wurde Opfer einer Gewalttat"
+      },
+      {
+        "source": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/bayern/cold-case-kerstin-langley-vermisste-wurde-opfer-einer-gewalttat,VYCsD0Z",
+        "date": "2026-10-19T15:20:07.000Z",
+        "snippet": "Durchbruch im Fall der seit 2007 vermissten Kerstin Langley: Laut Ermittlern stammen die bei Neumarkt in der Oberpfalz gefundenen Knochen sehr wahrscheinlich von ihr. Die Frau wurde Opfer einer Gewalttat. Es gibt drei Verdächtige und ein Geständnis.",
+        "title": "Cold Case Kerstin Langley: Vermisste wurde Opfer einer Gewalttat"
+      }
+    ],
+    "title": "Durchbruch im Fall Langley: Vermisste wurde Opfer einer Gewalttat",
+    "summary": "Durchbruch im Fall Langley: Vermisste wurde Opfer einer Gewalttat Im Fall der seit dem Sommer 2007 vermissten Kerstin Lee Langley aus Regensburg gibt es einen Durchbruch: Die damals 39-Jährige soll von einem Trio getötet worden sein. Eine der Verdächtigen legte nun ein Geständnis ab.\nCold Case Kerstin Langley: Vermisste wurde Opfer einer Gewalttat Durchbruch im Fall der seit 2007 vermissten Kerstin Langley: Laut Ermittlern stammen die bei Neumarkt in der Oberpfalz gefundenen Knochen sehr wahrscheinlich von ihr. Die Frau wurde Opfer einer Gewalttat. Es gibt drei Verdächtige und ein Geständnis."
+  },
+  {
+    "id": "story-673",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-19T14:39:00.000Z",
+    "sources": [
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNZzdLUUdHV0N2Z1dHSWdETWlNSDNPbHhJX1J4eldLQ3JuTDhWeXdSWXA4SHZRSzhxS2NKa3NXaXJ1RXR3VmVjb2E0TDJFdkdDN3lkX3R4b21PVnVKR1NMVlROR1U1bmQ3dHY0LXc0eFdpeHlkOFR3RHZRS1pLRXFWaml3NmlBdnhZM1gtUnc1Nkl2SXRBZzBITW9vYjhycFA4TU1kRV9PaU51S25SZEgzbm9sLVZSODRzVHZZQzg0TTc4TEJPQ2g4VFBwbTRlWFhhWUc3NGFISC1oeVA0ejMtTXRQV3dWR19wM0t4MDY5SUp4QXg4Wk9JazFPQkZmQUZQZFB4cQ?oc=5",
+        "date": "2026-10-19T14:39:00.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxNZzdLUUdHV0N2Z1dHSWdETWlNSDNPbHhJX1J4eldLQ3JuTDhWeXdSWXA4SHZRSzhxS2NKa3NXaXJ1RXR3VmVjb2E0TDJFdkdDN3lkX3R4b21PVnVKR1NMVlROR1U1bmQ3dHY0LXc0eFdpeHlkOFR3RHZRS1pLRXFWaml3NmlBdnhZM1gtUnc1Nkl2SXRBZzBITW9vYjhycFA4TU1kRV9PaU51S25SZEgzbm9sLVZSODRzVHZZQzg0TTc4TEJPQ2g4VFBwbTRlWFhhWUc3NGFISC1oeVA0ejMtTXRQV3dWR19wM0t4MDY5SUp4QXg4Wk9JazFPQkZmQUZQZFB4cQ?oc=5\" target=\"_blank\">(S+) TSV 1860 München: Warum der Club trotz der Niederlage gegen den FC Bayern II vor Euphorie sprüht</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNOUQ4SWpPZFVOMkZEU2Z3UzlUcWpVcW1VRmZNT3p5VklEZ",
+        "title": "(S+) TSV 1860 München: Warum der Club trotz der Niederlage gegen den FC Bayern II vor Euphorie sprüht - Spiegel"
+      },
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/sport/fussball/tsv-1860-muenchen-warum-der-club-trotz-der-niederlage-gegen-den-fc-bayern-ii-vor-euphorie-sprueht-a-f7ce8068-453f-4731-8d25-460cd9bcba2c#ref=rss",
+        "date": "2026-10-19T14:39:00.000Z",
+        "snippet": "Nach dem Zwangsabstieg findet sich 1860 München in der Regionalliga wieder, dort setzte es eine emotionale Derbyniederlage. Dennoch herrscht Aufbruchstimmung im Verein, in dem jeder Spieler mit zwei Trikots auskommen muss.",
+        "title": "TSV 1860 München: Warum der Club trotz der Niederlage gegen den FC Bayern II vor Euphorie sprüht"
+      }
+    ],
+    "title": "(S+) TSV 1860 München: Warum der Club trotz der Niederlage gegen den FC Bayern II vor Euphorie sprüht - Spiegel",
+    "summary": "(S+) TSV 1860 München: Warum der Club trotz der Niederlage gegen den FC Bayern II vor Euphorie sprüht - Spiegel <ol><li><a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxNZzdLUUdHV0N2Z1dHSWdETWlNSDNPbHhJX1J4eldLQ3JuTDhWeXdSWXA4SHZRSzhxS2NKa3NXaXJ1RXR3VmVjb2E0TDJFdkdDN3lkX3R4b21PVnVKR1NMVlROR1U1bmQ3dHY0LXc0eFdpeHlkOFR3RHZRS1pLRXFWaml3NmlBdnhZM1gtUnc1Nkl2SXRBZzBITW9vYjhycFA4TU1kRV9PaU51S25SZEgzbm9sLVZSODRzVHZZQzg0TTc4TEJPQ2g4VFBwbTRlWFhhWUc3NGFISC1oeVA0ejMtTXRQV3dWR19wM0t4MDY5SUp4QXg4Wk9JazFPQkZmQUZQZFB4cQ?oc=5\" target=\"_blank\">(S+) TSV 1860 München: Warum der Club trotz der Niederlage gegen den FC Bayern II vor Euphorie sprüht</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNOUQ4SWpPZFVOMkZEU2Z3UzlUcWpVcW1VRmZNT3p5VklEZ\nTSV 1860 München: Warum der Club trotz der Niederlage gegen den FC Bayern II vor Euphorie sprüht Nach dem Zwangsabstieg findet sich 1860 München in der Regionalliga wieder, dort setzte es eine emotionale Derbyniederlage. Dennoch herrscht Aufbruchstimmung im Verein, in dem jeder Spieler mit zwei Trikots auskommen muss."
+  },
+  {
+    "id": "story-720",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-19T14:15:02.000Z",
+    "sources": [
+      {
+        "source": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/ausland/europa/europa-proteste-interview-ross-100.html",
+        "date": "2026-10-19T14:15:02.000Z",
+        "snippet": "Frankreich steht nach den Unruhen am Wochenende unter Schock. Hat Macron die Unzufriedenheit im Land unterschätzt? Politikwissenschaftler Ross über die Vorwürfe gegen den Präsiden…",
+        "title": "\"Macron hat nicht die richtigen Antworten gefunden\""
+      },
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/europa/europa-proteste-interview-ross-100.html",
+        "date": "2026-10-19T14:09:22.000Z",
+        "snippet": "Frankreich steht nach den Unruhen am Wochenende unter Schock. Hat Macron die Unzufriedenheit im Land unterschätzt? Politikwissenschaftler Ross über die Vorwürfe gegen den Präsidenten - und welche Optionen dieser nun hat.",
+        "title": "Frankreich-Proteste: \"Macron hat nicht die richtigen Antworten gefunden\""
+      }
+    ],
+    "title": "\"Macron hat nicht die richtigen Antworten gefunden\"",
+    "summary": "\"Macron hat nicht die richtigen Antworten gefunden\" Frankreich steht nach den Unruhen am Wochenende unter Schock. Hat Macron die Unzufriedenheit im Land unterschätzt? Politikwissenschaftler Ross über die Vorwürfe gegen den Präsiden…\nFrankreich-Proteste: \"Macron hat nicht die richtigen Antworten gefunden\" Frankreich steht nach den Unruhen am Wochenende unter Schock. Hat Macron die Unzufriedenheit im Land unterschätzt? Politikwissenschaftler Ross über die Vorwürfe gegen den Präsidenten - und welche Optionen dieser nun hat."
+  },
+  {
+    "id": "story-728",
+    "topic": "politik",
+    "country": "UK",
+    "stateHint": "",
+    "date": "2026-10-19T14:11:08.000Z",
+    "sources": [
+      {
+        "source": "Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/19/ebola-cases-kenya-us-quarantine",
+        "date": "2026-10-19T14:11:08.000Z",
+        "snippet": "<p>Opposition to US-led quarantine center in Kenya follows sweeping funding cuts and withdrawal from WHO</p><p>An eighth person in Kenya has tested positive for the Bundibugyo strain of Ebola in the country’s first-ever cluster of cases of the virus, as the second-largest outbreak in history has killed more than 4,300 and sickened more than 9,000 people in the region.</p><p>It highlights the diminished role the US has played in the worsening Ebola outbreak by building a controversial quarantine center in Kenya, pulling back health support globally, and banning travelers from certain countries. All of this has also reduced the ability to identify and respond to the outbreak and exacerbated mi",
+        "title": "Ebola cases in Kenya highlight US failures amid Trump cuts to key services"
+      },
+      {
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPc3k1aU0xWUo2aUMzaUIwT1o4cEU1ZlpVMmpVU0ludTIyNmptX3FhMjctLVFjYzliWDBiOXh1QnRrc0xKNFFHbUlfNDVRNWlicGp2UmZFSUI3TE5kZWxwLWRSOXRsTEpyaVFKcFQ5d2JTSVk0SzliRXJ3ZGxCdDZtM3Z5MA?oc=5",
+        "date": "2026-10-19T12:00:00.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPc3k1aU0xWUo2aUMzaUIwT1o4cEU1ZlpVMmpVU0ludTIyNmptX3FhMjctLVFjYzliWDBiOXh1QnRrc0xKNFFHbUlfNDVRNWlicGp2UmZFSUI3TE5kZWxwLWRSOXRsTEpyaVFKcFQ5d2JTSVk0SzliRXJ3ZGxCdDZtM3Z5MA?oc=5\" target=\"_blank\">Ebola cases in Kenya highlight US failures amid Trump cuts to key services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+        "title": "Ebola cases in Kenya highlight US failures amid Trump cuts to key services - The Guardian"
+      }
+    ],
+    "title": "Ebola cases in Kenya highlight US failures amid Trump cuts to key services",
+    "summary": "Ebola cases in Kenya highlight US failures amid Trump cuts to key services <p>Opposition to US-led quarantine center in Kenya follows sweeping funding cuts and withdrawal from WHO</p><p>An eighth person in Kenya has tested positive for the Bundibugyo strain of Ebola in the country’s first-ever cluster of cases of the virus, as the second-largest outbreak in history has killed more than 4,300 and sickened more than 9,000 people in the region.</p><p>It highlights the diminished role the US has played in the worsening Ebola outbreak by building a controversial quarantine center in Kenya, pulling back health support globally, and banning travelers from certain countries. All of this has also reduced the ability to identify and respond to the outbreak and exacerbated mi\nEbola cases in Kenya highlight US failures amid Trump cuts to key services - The Guardian <a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPc3k1aU0xWUo2aUMzaUIwT1o4cEU1ZlpVMmpVU0ludTIyNmptX3FhMjctLVFjYzliWDBiOXh1QnRrc0xKNFFHbUlfNDVRNWlicGp2UmZFSUI3TE5kZWxwLWRSOXRsTEpyaVFKcFQ5d2JTSVk0SzliRXJ3ZGxCdDZtM3Z5MA?oc=5\" target=\"_blank\">Ebola cases in Kenya highlight US failures amid Trump cuts to key services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>"
+  },
+  {
+    "id": "story-732",
+    "topic": "politik",
+    "country": "UK",
+    "stateHint": "",
+    "date": "2026-10-19T14:09:54.000Z",
+    "sources": [
+      {
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-19T14:09:54.000Z",
+        "snippet": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack.",
+        "title": "Australian MP critically injured after being hit by car in apparent attack"
+      },
+      {
+        "source": "NPR World",
+        "url": "https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured",
+        "date": "2026-10-19T11:38:43.000Z",
+        "snippet": "A car hit an Australian federal independent lawmaker on Monday, critically injuring her in an apparent deliberate attack, Prime Minister Anthony Albanese said. The driver was arrested.",
+        "title": "Australian prime minister says lawmaker critically injured by car is &apos;no accident&apos;"
+      }
+    ],
+    "title": "Australian MP critically injured after being hit by car in apparent attack",
+    "summary": "Australian MP critically injured after being hit by car in apparent attack The independent politician is in hospital after what the prime minister says may have been a deliberate attack.\nAustralian prime minister says lawmaker critically injured by car is &apos;no accident&apos; A car hit an Australian federal independent lawmaker on Monday, critically injuring her in an apparent deliberate attack, Prime Minister Anthony Albanese said. The driver was arrested."
+  },
+  {
+    "id": "story-880",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-19T11:45:01.000Z",
+    "sources": [
+      {
+        "source": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt-konjunktur-industrie-100.html",
+        "date": "2026-10-19T11:45:01.000Z",
+        "snippet": "In der Industrie sind Zehntausende Jobs gefährdet. Zugleich erwarten Ökonomen, dass die deutsche Wirtschaft stärker wächst als gedacht. Kann das den Stellenabbau stoppen? Von Seba…",
+        "title": "Bringt der Aufschwung auch mehr Jobs?"
+      },
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt-konjunktur-industrie-100.html",
+        "date": "2026-10-19T11:25:35.000Z",
+        "snippet": "In der Industrie sind Zehntausende Jobs gefährdet. Zugleich erwarten Ökonomen, dass die deutsche Wirtschaft stärker wächst als gedacht. Kann das den Stellenabbau stoppen? Von Sebastian Schreiber.",
+        "title": "Bringt der Aufschwung in Deutschland auch mehr Jobs?"
+      }
+    ],
+    "title": "Bringt der Aufschwung auch mehr Jobs?",
+    "summary": "Bringt der Aufschwung auch mehr Jobs? In der Industrie sind Zehntausende Jobs gefährdet. Zugleich erwarten Ökonomen, dass die deutsche Wirtschaft stärker wächst als gedacht. Kann das den Stellenabbau stoppen? Von Seba…\nBringt der Aufschwung in Deutschland auch mehr Jobs? In der Industrie sind Zehntausende Jobs gefährdet. Zugleich erwarten Ökonomen, dass die deutsche Wirtschaft stärker wächst als gedacht. Kann das den Stellenabbau stoppen? Von Sebastian Schreiber."
+  },
+  {
+    "id": "story-973",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
@@ -14,13 +806,6 @@
         "title": "Mit Trump-Unterstützung: Alberta stimmt über Abspaltung von Kanada ab"
       },
       {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOUdnNlpYdzNjQ2RyY3BIQ0ppTDJWY0JVcjRxOUowTEd1MnRSX1pNSVAyMlZDZFhBYk16OVFYMU1yRl8zQ0Q5MjRBQ0Nwb0tqQjU4VUVzUm5CS1B5MGQtTE1NVHlZa25SdWgxbjR6NWJsbXpLeGNudHlWWGVFb2h3WldHNzdQV005?oc=5",
-        "date": "2026-10-19T05:09:54.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOUdnNlpYdzNjQ2RyY3BIQ0ppTDJWY0JVcjRxOUowTEd1MnRSX1pNSVAyMlZDZFhBYk16OVFYMU1yRl8zQ0Q5MjRBQ0Nwb0tqQjU4VUVzUm5CS1B5MGQtTE1NVHlZa25SdWgxbjR6NWJsbXpLeGNudHlWWGVFb2h3WldHNzdQV005?oc=5\" target=\"_blank\">Provinz Alberta stimmt über Abspaltung von Kanada ab</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEB.DE</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMXJRdmJNeTc3NFVpQ2tBdDBaLXYzR1REN1FXOUVQZ01MRzI2WnFFa0oxNGxObzFUR1hONmlSVVdZbFEwYmozNVk5ZkdzZzhvazQ2d1pZSHZEZUV0U0RiWVE5V0lPRDBpbFFSZl9GWFNOMnpNWEdUc0VvWU9xQWFuUjR1UFZOM1JI?oc=5\" target=\"_blank\">Alberta stimmt über mögliche Abspaltung von Kanada ab</a>&nbsp;&nb",
-        "title": "Provinz Alberta stimmt über Abspaltung von Kanada ab - WEB.DE"
-      },
-      {
         "source": "Tagesschau",
         "url": "https://www.tagesschau.de/ausland/amerika/kanada-alberta-volksabstimmung-100.html",
         "date": "2026-10-19T04:55:25.000Z",
@@ -29,735 +814,35 @@
       }
     ],
     "title": "Mit Trump-Unterstützung: Alberta stimmt über Abspaltung von Kanada ab",
-    "summary": "Mit Trump-Unterstützung: Alberta stimmt über Abspaltung von Kanada ab In Kanada entscheiden die Bewohner der Provinz Alberta über eine mögliche Abspaltung. Einen prominenten Unterstützer hat die Unabhängigkeitsbewegung jenseits der kanadischen Südgrenze.\nProvinz Alberta stimmt über Abspaltung von Kanada ab - WEB.DE <ol><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOUdnNlpYdzNjQ2RyY3BIQ0ppTDJWY0JVcjRxOUowTEd1MnRSX1pNSVAyMlZDZFhBYk16OVFYMU1yRl8zQ0Q5MjRBQ0Nwb0tqQjU4VUVzUm5CS1B5MGQtTE1NVHlZa25SdWgxbjR6NWJsbXpLeGNudHlWWGVFb2h3WldHNzdQV005?oc=5\" target=\"_blank\">Provinz Alberta stimmt über Abspaltung von Kanada ab</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEB.DE</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMXJRdmJNeTc3NFVpQ2tBdDBaLXYzR1REN1FXOUVQZ01MRzI2WnFFa0oxNGxObzFUR1hONmlSVVdZbFEwYmozNVk5ZkdzZzhvazQ2d1pZSHZEZUV0U0RiWVE5V0lPRDBpbFFSZl9GWFNOMnpNWEdUc0VvWU9xQWFuUjR1UFZOM1JI?oc=5\" target=\"_blank\">Alberta stimmt über mögliche Abspaltung von Kanada ab</a>&nbsp;&nb\nAlberta stimmt über mögliche Abspaltung von Kanada ab Seit einigen Jahren erstarkt in der ölreichen Provinz Alberta im Westen Kanadas eine Separatistenbewegung - unterstützt auch von US-Präsident Trump. Heute wird über ein mögliches Unabhängigkeitsreferendum abgestimmt. Von Martin Ganslmeier."
+    "summary": "Mit Trump-Unterstützung: Alberta stimmt über Abspaltung von Kanada ab In Kanada entscheiden die Bewohner der Provinz Alberta über eine mögliche Abspaltung. Einen prominenten Unterstützer hat die Unabhängigkeitsbewegung jenseits der kanadischen Südgrenze.\nAlberta stimmt über mögliche Abspaltung von Kanada ab Seit einigen Jahren erstarkt in der ölreichen Provinz Alberta im Westen Kanadas eine Separatistenbewegung - unterstützt auch von US-Präsident Trump. Heute wird über ein mögliches Unabhängigkeitsreferendum abgestimmt. Von Martin Ganslmeier."
   },
   {
-    "id": "story-8",
+    "id": "story-1017",
     "topic": "panorama",
-    "country": "PT",
-    "stateHint": "",
-    "date": "2026-10-19T10:35:25.000Z",
-    "sources": [
-      {
-        "source": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/economia/manifestantes-no-porto-convidam-pedro-duarte-a-juntar-se-a-assembleia-popular_e1772593",
-        "date": "2026-10-19T10:35:25.000Z",
-        "snippet": "Os protestos pelo direito à Habitação têm marcado os últimos dias em Portugal. No Porto, vai já no décimo dia e em Lisboa entra no terceiro dia. Na \"Invicta\", o aviso de manifestação foi prolongado até final do ano.",
-        "title": "Manifestantes no Porto convidam Pedro Duarte a juntar-se à assembleia popular"
-      },
-      {
-        "source": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcnh1SVlHYzRsZDVPUndaVF9EbjlGOVNwUmJRRFREbFdYX0RRbHNEejhNWkVHX0pLaG15ZEZ3dGhUb2dYckQtS1QybkZGZ0JvN2dfZFAtei1hWXE5dDl3R2dyMVlRQUN3NTZ1WDVITk5zYzB3ZVNaRGJCTW9zS1R0bUNodmhtZlBHQ2VueEdZaWhUMDRjVFhlcjQ3ZDQ4cTUtckE5UklPSFB3azgwTnVnYTRiQ2c5d0VnN2VZSXhLQVQ?oc=5",
-        "date": "2026-10-19T09:35:25.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcnh1SVlHYzRsZDVPUndaVF9EbjlGOVNwUmJRRFREbFdYX0RRbHNEejhNWkVHX0pLaG15ZEZ3dGhUb2dYckQtS1QybkZGZ0JvN2dfZFAtei1hWXE5dDl3R2dyMVlRQUN3NTZ1WDVITk5zYzB3ZVNaRGJCTW9zS1R0bUNodmhtZlBHQ2VueEdZaWhUMDRjVFhlcjQ3ZDQ4cTUtckE5UklPSFB3azgwTnVnYTRiQ2c5d0VnN2VZSXhLQVQ?oc=5\" target=\"_blank\">Manifestantes no Porto convidam Pedro Duarte a juntar-se à assembleia popular</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQSmZyMHByZkgxRFhndW9xbzFYQ3J4c0w5bUw0Wkl1NmxVeWxlVS04Zjh2S2diQjF4MUxHeEg2WjYzSHhRcUhzSVcxMzBndENKQndlOVlKZWU0OU5SdWZFM0lKT2ZfeGpCR3FuRmU0ejdTeWZqcWVIY2ZuRmlCR3QtSGN0",
-        "title": "Manifestantes no Porto convidam Pedro Duarte a juntar-se à assembleia popular - RTP"
-      }
-    ],
-    "title": "Manifestantes no Porto convidam Pedro Duarte a juntar-se à assembleia popular",
-    "summary": "Manifestantes no Porto convidam Pedro Duarte a juntar-se à assembleia popular Os protestos pelo direito à Habitação têm marcado os últimos dias em Portugal. No Porto, vai já no décimo dia e em Lisboa entra no terceiro dia. Na \"Invicta\", o aviso de manifestação foi prolongado até final do ano.\nManifestantes no Porto convidam Pedro Duarte a juntar-se à assembleia popular - RTP <ol><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcnh1SVlHYzRsZDVPUndaVF9EbjlGOVNwUmJRRFREbFdYX0RRbHNEejhNWkVHX0pLaG15ZEZ3dGhUb2dYckQtS1QybkZGZ0JvN2dfZFAtei1hWXE5dDl3R2dyMVlRQUN3NTZ1WDVITk5zYzB3ZVNaRGJCTW9zS1R0bUNodmhtZlBHQ2VueEdZaWhUMDRjVFhlcjQ3ZDQ4cTUtckE5UklPSFB3azgwTnVnYTRiQ2c5d0VnN2VZSXhLQVQ?oc=5\" target=\"_blank\">Manifestantes no Porto convidam Pedro Duarte a juntar-se à assembleia popular</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQSmZyMHByZkgxRFhndW9xbzFYQ3J4c0w5bUw0Wkl1NmxVeWxlVS04Zjh2S2diQjF4MUxHeEg2WjYzSHhRcUhzSVcxMzBndENKQndlOVlKZWU0OU5SdWZFM0lKT2ZfeGpCR3FuRmU0ejdTeWZqcWVIY2ZuRmlCR3QtSGN0"
-  },
-  {
-    "id": "story-10",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "RP",
-    "date": "2026-10-19T10:34:49.000Z",
-    "sources": [
-      {
-        "source": "SWR Aktuell",
-        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/kaiserslautern/hass-und-hetze-gegen-bundespraesident-steinmeier-urteil-gesprochen-100.html",
-        "date": "2026-10-19T10:34:49.000Z",
-        "snippet": "Weil er im Internet gegen Bundespräsident Steinmeier gehetzt hat, muss ein 70-Jähriger aus der Südwestpfalz jetzt 2.500 Euro Strafe zahlen.",
-        "title": "Mann hetzt gegen Bundespräsident in Sozialen Medien und muss Geldstrafe zahlen"
-      },
-      {
-        "source": "Tagesschau Regional Rheinland-Pfalz",
-        "url": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-mann-soll-bundespraesident-steinmeier-im-internet-verunglimpft-haben-100.html",
-        "date": "2026-10-19T09:39:00.000Z",
-        "snippet": "Weil er im Internet gegen Bundespräsident Steinmeier gehetzt hat, muss ein 70-Jähriger aus der Südwestpfalz jetzt 2.500 Euro Strafe zahlen.",
-        "title": "Mann hetzt gegen Bundespräsident in Sozialen Medien und muss nun viel Geld zahlen"
-      }
-    ],
-    "title": "Mann hetzt gegen Bundespräsident in Sozialen Medien und muss Geldstrafe zahlen",
-    "summary": "Mann hetzt gegen Bundespräsident in Sozialen Medien und muss Geldstrafe zahlen Weil er im Internet gegen Bundespräsident Steinmeier gehetzt hat, muss ein 70-Jähriger aus der Südwestpfalz jetzt 2.500 Euro Strafe zahlen.\nMann hetzt gegen Bundespräsident in Sozialen Medien und muss nun viel Geld zahlen Weil er im Internet gegen Bundespräsident Steinmeier gehetzt hat, muss ein 70-Jähriger aus der Südwestpfalz jetzt 2.500 Euro Strafe zahlen."
-  },
-  {
-    "id": "story-22",
-    "topic": "sport",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-19T10:29:02.000Z",
-    "sources": [
-      {
-        "source": "stern",
-        "url": "https://www.stern.de/sport/tragisches-unglueck-in-den-usa--vor-footballspiel--soldat-stirbt-nach-sturz-beim-abseilen-38417690.html",
-        "date": "2026-10-19T10:29:02.000Z",
-        "snippet": "Bei einer Show stürzt ein US-Soldat vor Tausenden Zuschauern aus großer Höhe auf das Spielfeld. Wie es zu dem tödlichen Unglück vor dem Footballspiel kommen konnte, ist noch unklar.",
-        "title": "Tragisches Unglück in den USA: Vor Footballspiel: Soldat stirbt nach Sturz beim Abseilen"
-      },
-      {
-        "source": "RND",
-        "url": "https://www.rnd.de/panorama/san-antonio-us-soldat-stuerzt-bei-show-vor-footballspiel-toedlich-ab-WLTGYIZOQZHHNL5DUDAUIMH4JQ.html",
-        "date": "2026-10-19T08:32:47.000Z",
-        "snippet": "Bei einer Show stürzt ein US-Soldat vor Tausenden Zuschauern aus großer Höhe auf das Spielfeld. Wie es zu dem tödlichen Unglück vor dem Footballspiel kommen konnte, ist noch unklar.",
-        "title": "San Antonio: US-Soldat stürzt bei Footballspiel tödlich ab"
-      }
-    ],
-    "title": "Tragisches Unglück in den USA: Vor Footballspiel: Soldat stirbt nach Sturz beim Abseilen",
-    "summary": "Tragisches Unglück in den USA: Vor Footballspiel: Soldat stirbt nach Sturz beim Abseilen Bei einer Show stürzt ein US-Soldat vor Tausenden Zuschauern aus großer Höhe auf das Spielfeld. Wie es zu dem tödlichen Unglück vor dem Footballspiel kommen konnte, ist noch unklar.\nSan Antonio: US-Soldat stürzt bei Footballspiel tödlich ab Bei einer Show stürzt ein US-Soldat vor Tausenden Zuschauern aus großer Höhe auf das Spielfeld. Wie es zu dem tödlichen Unglück vor dem Footballspiel kommen konnte, ist noch unklar."
-  },
-  {
-    "id": "story-25",
-    "topic": "sport",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-19T10:26:00.000Z",
-    "sources": [
-      {
-        "source": "stern",
-        "url": "https://www.stern.de/sport/us-soldat-stuerzt-in-den-tod---23-000-menschen-schauen-zu-38417934.html",
-        "date": "2026-10-19T10:26:00.000Z",
-        "snippet": "Show gehört in den USA vor einem Footballspiel dazu. Nun ist ein US-Soldat vor dem Duell einer College-Auswahl gegen ein Team der Navy aus großer Höhe aufs Spielfeld gestürzt.",
-        "title": "Vor Footballspiel: US-Soldat stürzt ab – 23.000 schauen zu"
-      },
-      {
-        "source": "ntv",
-        "url": "https://www.n-tv.de/sport/Toedlicher-Sturz-vor-Footballspiel-erschuettert-die-USA-id31433091.html",
-        "date": "2026-10-19T08:22:07.000Z",
-        "snippet": "Show gehört in den USA vor einem Footballspiel dazu. Beim Duell einer College-Auswahl gegen ein Team der Navy geht sie dramatisch schief. Ein Soldat stürzt aus großer Höhe aufs Feld und stirbt.",
-        "title": "Soldat stirbt bei Show: Tödlicher Sturz vor Footballspiel erschüttert die USA"
-      }
-    ],
-    "title": "Vor Footballspiel: US-Soldat stürzt ab – 23.000 schauen zu",
-    "summary": "Vor Footballspiel: US-Soldat stürzt ab – 23.000 schauen zu Show gehört in den USA vor einem Footballspiel dazu. Nun ist ein US-Soldat vor dem Duell einer College-Auswahl gegen ein Team der Navy aus großer Höhe aufs Spielfeld gestürzt.\nSoldat stirbt bei Show: Tödlicher Sturz vor Footballspiel erschüttert die USA Show gehört in den USA vor einem Footballspiel dazu. Beim Duell einer College-Auswahl gegen ein Team der Navy geht sie dramatisch schief. Ein Soldat stürzt aus großer Höhe aufs Feld und stirbt."
-  },
-  {
-    "id": "story-31",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-19T10:25:40.000Z",
-    "sources": [
-      {
-        "source": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/frankreichs-praesident-macron-lehnt-ruecktritt-von-innenminister-nunez-ab-100.html",
-        "date": "2026-10-19T10:25:40.000Z",
-        "snippet": "In Frankreich hat Präsident Macron das nach den schweren Unruhen eingereichte Rücktrittsgesuch von Innenminister Nunez abgelehnt.",
-        "title": "Nach Ausschreitungen - Frankreichs Präsident Macron lehnt Rücktritt von Innenminister Nunez ab"
-      },
-      {
-        "source": "DW Deutsch",
-        "url": "https://www.dw.com/de/macron-lehnt-rücktritt-von-frankreichs-innenminister-ab/a-79697113?maca=de-rss-de-all-1119-xml-mrss",
-        "date": "2026-10-19T10:11:00.000Z",
-        "snippet": "Nach schweren Ausschreitungen in Frankreich räumt Innenminister Nuñez einen Kontrollverlust der Polizei ein. Tausende Menschen wurden festgenommen, die wirtschaftlichen Schäden gehen in die Hunderte Millionen.",
-        "title": "Macron lehnt Rücktritt von Frankreichs Innenminister ab"
-      }
-    ],
-    "title": "Nach Ausschreitungen - Frankreichs Präsident Macron lehnt Rücktritt von Innenminister Nunez ab",
-    "summary": "Nach Ausschreitungen - Frankreichs Präsident Macron lehnt Rücktritt von Innenminister Nunez ab In Frankreich hat Präsident Macron das nach den schweren Unruhen eingereichte Rücktrittsgesuch von Innenminister Nunez abgelehnt.\nMacron lehnt Rücktritt von Frankreichs Innenminister ab Nach schweren Ausschreitungen in Frankreich räumt Innenminister Nuñez einen Kontrollverlust der Polizei ein. Tausende Menschen wurden festgenommen, die wirtschaftlichen Schäden gehen in die Hunderte Millionen."
-  },
-  {
-    "id": "story-34",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-19T10:25:40.000Z",
-    "sources": [
-      {
-        "source": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/nach-erneuter-siedlergewalt-israelische-polizei-nimmt-zehn-verdaechtige-fest-102.html",
-        "date": "2026-10-19T10:25:40.000Z",
-        "snippet": "Nach den Angriffen israelischer Siedler auf Palästinenser und europäische Diplomaten im Westjordanland hat die israelische Polizei zehn Personen festgenommen.",
-        "title": "Westjordanland - Nach erneuter Siedlergewalt: Israelische Polizei nimmt zehn Verdächtige fest"
-      },
-      {
-        "source": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/politik/ausland/2026-10/israelische-siedler-westjordanland-uebergriffe-schhin-bet-polizei",
-        "date": "2026-10-19T09:49:15.000Z",
-        "snippet": "Die Polizei hat nach Angriffen auf EU-Diplomaten und eine US-Journalistin im Westjordanland zehn Verdächtige festgenommen. Strafverfolgung gegen Siedler gilt als selten.",
-        "title": "Angriffe im Westjordanland: Israelische Polizei nimmt nach Angriffen von Siedlern Verdächtige fest"
-      }
-    ],
-    "title": "Westjordanland - Nach erneuter Siedlergewalt: Israelische Polizei nimmt zehn Verdächtige fest",
-    "summary": "Westjordanland - Nach erneuter Siedlergewalt: Israelische Polizei nimmt zehn Verdächtige fest Nach den Angriffen israelischer Siedler auf Palästinenser und europäische Diplomaten im Westjordanland hat die israelische Polizei zehn Personen festgenommen.\nAngriffe im Westjordanland: Israelische Polizei nimmt nach Angriffen von Siedlern Verdächtige fest Die Polizei hat nach Angriffen auf EU-Diplomaten und eine US-Journalistin im Westjordanland zehn Verdächtige festgenommen. Strafverfolgung gegen Siedler gilt als selten."
-  },
-  {
-    "id": "story-36",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-19T10:25:40.000Z",
-    "sources": [
-      {
-        "source": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/sinto-hermann-mano-hoellenreiner-gestorben-100.html",
-        "date": "2026-10-19T10:25:40.000Z",
-        "snippet": "Der deutsche Sinto und Auschwitz-Überlebende Hermann \"Mano\" Höllenreiner ist tot.",
-        "title": "Auschwitz-Überlebender - Sinto Hermann \"Mano\" Höllenreiner gestorben"
-      },
-      {
-        "source": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/hermann-hoellenreiner-auschwitz-ueberlebender-sinti-tod-gxe",
-        "date": "2026-10-19T10:18:19.000Z",
-        "snippet": "Als Neunjähriger wurde Hermann »Mano« Höllenreiner nach Auschwitz deportiert. Jahrzehnte später berichtete er über NS-Verbrechen und die Verfolgung der Sinti und Roma.",
-        "title": "Hermann Höllenreiner: Auschwitz-Überlebender Hermann Höllenreiner ist tot"
-      }
-    ],
-    "title": "Auschwitz-Überlebender - Sinto Hermann \"Mano\" Höllenreiner gestorben",
-    "summary": "Auschwitz-Überlebender - Sinto Hermann \"Mano\" Höllenreiner gestorben Der deutsche Sinto und Auschwitz-Überlebende Hermann \"Mano\" Höllenreiner ist tot.\nHermann Höllenreiner: Auschwitz-Überlebender Hermann Höllenreiner ist tot Als Neunjähriger wurde Hermann »Mano« Höllenreiner nach Auschwitz deportiert. Jahrzehnte später berichtete er über NS-Verbrechen und die Verfolgung der Sinti und Roma."
-  },
-  {
-    "id": "story-38",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-19T10:25:40.000Z",
-    "sources": [
-      {
-        "source": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/anteil-von-frauen-in-fuehrungspositionen-weiter-unter-eu-schnitt-102.html",
-        "date": "2026-10-19T10:25:40.000Z",
-        "snippet": "Der Anteil von Frauen in Führungspositionen in Deutschland liegt weiter unter dem europäischen Durchschnitt.",
-        "title": "Statistik - Anteil von Frauen in Führungspositionen weiter unter EU-Schnitt"
-      },
-      {
-        "source": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/karriere/frauen-in-fuehrungspositionen-deutschland-liegt-weiter-unter-eu-durchschnitt-a-629492bf-70cf-4276-91a1-9119f6729db0#ref=rss",
-        "date": "2026-10-19T09:13:00.000Z",
-        "snippet": "Nicht einmal jede dritte Führungskraft in Deutschland ist weiblich. Damit liegt das Land unter dem EU-Schnitt. Aktuelle Zahlen zeigen: Der Abstand wächst sogar.",
-        "title": "Frauen in Führungspositionen: Deutschland liegt weiter unter EU-Durchschnitt"
-      }
-    ],
-    "title": "Statistik - Anteil von Frauen in Führungspositionen weiter unter EU-Schnitt",
-    "summary": "Statistik - Anteil von Frauen in Führungspositionen weiter unter EU-Schnitt Der Anteil von Frauen in Führungspositionen in Deutschland liegt weiter unter dem europäischen Durchschnitt.\nFrauen in Führungspositionen: Deutschland liegt weiter unter EU-Durchschnitt Nicht einmal jede dritte Führungskraft in Deutschland ist weiblich. Damit liegt das Land unter dem EU-Schnitt. Aktuelle Zahlen zeigen: Der Abstand wächst sogar."
-  },
-  {
-    "id": "story-40",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "BY",
-    "date": "2026-10-19T10:25:40.000Z",
-    "sources": [
-      {
-        "source": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/oesterreichisches-flugzeug-aus-tel-aviv-in-sofia-gelandet-entwarnung-nach-durchsuchung-100.html",
-        "date": "2026-10-19T10:25:40.000Z",
-        "snippet": "Nach einer Bombendrohung ist ein Flugzeug von Austrian Airlines auf dem Weg vom israelischen Tel Aviv nach Wien außerplanmäßig in der bulgarischen Hauptstadt Sofia gelandet.",
-        "title": "Bombendrohung - Österreichisches Flugzeug aus Tel Aviv in Sofia gelandet - Entwarnung nach Durchsuchung"
-      },
-      {
-        "source": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/flugzeug-aus-tel-aviv-nach-bombendrohung-in-sofia-notgelandet,VYSrjxK",
-        "date": "2026-10-19T06:52:55.000Z",
-        "snippet": "Eine Bombendrohung hat einen Austrian-Airlines-Flug von Tel Aviv nach Wien am Sonntagabend zur Umkehr gezwungen. Die Maschine landete in Sofia, begleitet von einem bulgarischen Kampfjet. Jetzt wurde Entwarnung gegeben.",
-        "title": "Entwarnung nach Bombendrohung bei Flugzeug aus Tel Aviv"
-      }
-    ],
-    "title": "Bombendrohung - Österreichisches Flugzeug aus Tel Aviv in Sofia gelandet - Entwarnung nach Durchsuchung",
-    "summary": "Bombendrohung - Österreichisches Flugzeug aus Tel Aviv in Sofia gelandet - Entwarnung nach Durchsuchung Nach einer Bombendrohung ist ein Flugzeug von Austrian Airlines auf dem Weg vom israelischen Tel Aviv nach Wien außerplanmäßig in der bulgarischen Hauptstadt Sofia gelandet.\nEntwarnung nach Bombendrohung bei Flugzeug aus Tel Aviv Eine Bombendrohung hat einen Austrian-Airlines-Flug von Tel Aviv nach Wien am Sonntagabend zur Umkehr gezwungen. Die Maschine landete in Sofia, begleitet von einem bulgarischen Kampfjet. Jetzt wurde Entwarnung gegeben."
-  },
-  {
-    "id": "story-43",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-19T10:25:40.000Z",
-    "sources": [
-      {
-        "source": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/gruene-und-spd-stimmen-ueber-koalitionsverhandlungen-ab-kritik-von-20-spd-abgeordneten-102.html",
-        "date": "2026-10-19T10:25:40.000Z",
-        "snippet": "In Berlin entscheiden Grüne und SPD heute über die Aufnahme von Koalitionsverhandlungen mit der Linken. Die Grünen berufen dazu einen kleinen Parteitag ein, die SPD entscheidet in einer digitalen Sitzung ihres Landesvorstands.",
-        "title": "Regierungsbildung in Berlin - Grüne und SPD stimmen über Koalitionsverhandlungen ab - Kritik von 20 SPD-Abgeordneten"
-      },
-      {
-        "source": "Süddeutsche Zeitung",
-        "url": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-berlin-linke-gruene-spd-koalitionsverhandlungen-li.3540501",
-        "date": "2026-10-19T05:06:59.000Z",
-        "snippet": "Die Grünen haben dazu am Abend einen kleinen Parteitag einberufen. Die SPD befindet bei einer digitalen Sitzung ihres Landesvorstands darüber. Die Linke trifft ihre Entscheidung erst auf einem Parteitag am 31. Oktober.",
-        "title": "Newsblog zu den Landtagswahlen: Grüne und SPD in Berlin entscheiden über Koalitionsverhandlungen mit Linken"
-      }
-    ],
-    "title": "Regierungsbildung in Berlin - Grüne und SPD stimmen über Koalitionsverhandlungen ab - Kritik von 20 SPD-Abgeordneten",
-    "summary": "Regierungsbildung in Berlin - Grüne und SPD stimmen über Koalitionsverhandlungen ab - Kritik von 20 SPD-Abgeordneten In Berlin entscheiden Grüne und SPD heute über die Aufnahme von Koalitionsverhandlungen mit der Linken. Die Grünen berufen dazu einen kleinen Parteitag ein, die SPD entscheidet in einer digitalen Sitzung ihres Landesvorstands.\nNewsblog zu den Landtagswahlen: Grüne und SPD in Berlin entscheiden über Koalitionsverhandlungen mit Linken Die Grünen haben dazu am Abend einen kleinen Parteitag einberufen. Die SPD befindet bei einer digitalen Sitzung ihres Landesvorstands darüber. Die Linke trifft ihre Entscheidung erst auf einem Parteitag am 31. Oktober."
-  },
-  {
-    "id": "story-59",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-19T10:25:05.000Z",
-    "sources": [
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-200.html",
-        "date": "2026-10-19T10:25:05.000Z",
-        "snippet": "Russland hat die Ukraine abermals mit Raketen und Drohnen angegriffen - einmal mehr gab es laut dem ukrainischen Präsidenten Selenskyj keine frühzeitige Warnung westlicher Partner. US-Außenminister Rubio widerspricht.",
-        "title": "Russland greift Kiew offenbar erneut mit Raketen an"
-      },
-      {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVkFTX2RteGJmeE1pLURqbEloU19tT2VhWHNIZHViOG5HOW5uOFVOektLcnd5LXNscGlxeUx1WnRIc0tUVVU2OXFmcGxMdmx4RmFjak4tMTgzZ1c5Y2Vyb1NreXI5cFFneEE1NkRQZkpCUFBaMzh3UEV3Y01BU3BBbQ?oc=5",
-        "date": "2026-10-19T09:44:00.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPVkFTX2RteGJmeE1pLURqbEloU19tT2VhWHNIZHViOG5HOW5uOFVOektLcnd5LXNscGlxeUx1WnRIc0tUVVU2OXFmcGxMdmx4RmFjak4tMTgzZ1c5Y2Vyb1NreXI5cFFneEE1NkRQZkpCUFBaMzh3UEV3Y01BU3BBbQ?oc=5\" target=\"_blank\">Russland greift Kiew offenbar erneut mit Raketen an</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUjNPTElFSmxzY1N0MGh4MC04OXlTOWlxY1U0dVUtZ01wZEN4YWxaSTVjQi1vNlpxd1Q3QlloeUN3cFp0OUp0Y3podHNteHdGMDZHTWhaTkRnMmVkSXNaR2dLOXRGbzB3X2dYRlM1SFBCTjlSUUNaQ0ZJYVVZcWVhczNkWTBKNG5XTDFVVXd2OWVmMUp6aURKV01haEx0V0Y0aHY1akpYSHh1dUhhR1ZoS3ZnemFnVHh1aDhIVGloMXM?oc=5\" target=\"_bl",
-        "title": "Russland greift Kiew offenbar erneut mit Raketen an - tagesschau.de"
-      }
-    ],
-    "title": "Russland greift Kiew offenbar erneut mit Raketen an",
-    "summary": "Russland greift Kiew offenbar erneut mit Raketen an Russland hat die Ukraine abermals mit Raketen und Drohnen angegriffen - einmal mehr gab es laut dem ukrainischen Präsidenten Selenskyj keine frühzeitige Warnung westlicher Partner. US-Außenminister Rubio widerspricht.\nRussland greift Kiew offenbar erneut mit Raketen an - tagesschau.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPVkFTX2RteGJmeE1pLURqbEloU19tT2VhWHNIZHViOG5HOW5uOFVOektLcnd5LXNscGlxeUx1WnRIc0tUVVU2OXFmcGxMdmx4RmFjak4tMTgzZ1c5Y2Vyb1NreXI5cFFneEE1NkRQZkpCUFBaMzh3UEV3Y01BU3BBbQ?oc=5\" target=\"_blank\">Russland greift Kiew offenbar erneut mit Raketen an</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUjNPTElFSmxzY1N0MGh4MC04OXlTOWlxY1U0dVUtZ01wZEN4YWxaSTVjQi1vNlpxd1Q3QlloeUN3cFp0OUp0Y3podHNteHdGMDZHTWhaTkRnMmVkSXNaR2dLOXRGbzB3X2dYRlM1SFBCTjlSUUNaQ0ZJYVVZcWVhczNkWTBKNG5XTDFVVXd2OWVmMUp6aURKV01haEx0V0Y0aHY1akpYSHh1dUhhR1ZoS3ZnemFnVHh1aDhIVGloMXM?oc=5\" target=\"_bl"
-  },
-  {
-    "id": "story-81",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-19T10:19:10.000Z",
-    "sources": [
-      {
-        "source": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-        "date": "2026-10-19T10:19:10.000Z",
-        "snippet": "Nach den Angriffen auf Kyjiw beklagt Selenskyj erneut mangelnde Vorwarnung durch Verbündete. Mehr als eine halbe Million Haushalte seien ohne Strom. Das Liveblog",
-        "title": "Krieg gegen die Ukraine: Ukraine wurde laut Selenskyj erneut nicht vor Angriffen gewarnt"
-      },
-      {
-        "source": "Süddeutsche Zeitung",
-        "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-selenskij-usa-geheimdienstdaten-li.3563283",
-        "date": "2026-10-19T09:05:00.000Z",
-        "snippet": "Damit ändert der ukrainische Präsident seine frühere Aussage, er habe nach einer Unterbrechung wieder Informationen von Verbündeten erhalten. Infolge der jüngsten russischen Angriffe seien mehr als eine halbe Million Haushalte ohne Strom.",
-        "title": "Krieg in der Ukraine: Selenskij: Ukraine wurde erneut nicht vor Angriffen gewarnt"
-      }
-    ],
-    "title": "Krieg gegen die Ukraine: Ukraine wurde laut Selenskyj erneut nicht vor Angriffen gewarnt",
-    "summary": "Krieg gegen die Ukraine: Ukraine wurde laut Selenskyj erneut nicht vor Angriffen gewarnt Nach den Angriffen auf Kyjiw beklagt Selenskyj erneut mangelnde Vorwarnung durch Verbündete. Mehr als eine halbe Million Haushalte seien ohne Strom. Das Liveblog\nKrieg in der Ukraine: Selenskij: Ukraine wurde erneut nicht vor Angriffen gewarnt Damit ändert der ukrainische Präsident seine frühere Aussage, er habe nach einer Unterbrechung wieder Informationen von Verbündeten erhalten. Infolge der jüngsten russischen Angriffe seien mehr als eine halbe Million Haushalte ohne Strom."
-  },
-  {
-    "id": "story-99",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-19T10:15:02.000Z",
-    "sources": [
-      {
-        "source": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/ausland/europa/frankreichs-justizminister-sieht-schwaechen-bei-sicherheitsbehoerden-100.html",
-        "date": "2026-10-19T10:15:02.000Z",
-        "snippet": "Nach den gewalttätigen Protesten am Wochenende ist Frankreichs Regierung mit der Frage beschäftigt, wie es dazu kommen konnte. Innenminister Nuñez bot seinen Rücktritt an, Justizm…",
-        "title": "Regierung räumt \"Kontrollverlust\" der Behörden ein"
-      },
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/europa/frankreichs-justizminister-sieht-schwaechen-bei-sicherheitsbehoerden-100.html",
-        "date": "2026-10-19T09:56:31.000Z",
-        "snippet": "Nach den gewalttätigen Protesten am Wochenende ist Frankreichs Regierung mit der Frage beschäftigt, wie es dazu kommen konnte. Innenminister Nuñez bot seinen Rücktritt an, Justizminister Daramanin sieht Defizite bei den Behörden.",
-        "title": "Krawalle in Frankreich - Regierung räumt \"Kontrollverlust\" der Behörden ein"
-      }
-    ],
-    "title": "Regierung räumt \"Kontrollverlust\" der Behörden ein",
-    "summary": "Regierung räumt \"Kontrollverlust\" der Behörden ein Nach den gewalttätigen Protesten am Wochenende ist Frankreichs Regierung mit der Frage beschäftigt, wie es dazu kommen konnte. Innenminister Nuñez bot seinen Rücktritt an, Justizm…\nKrawalle in Frankreich - Regierung räumt \"Kontrollverlust\" der Behörden ein Nach den gewalttätigen Protesten am Wochenende ist Frankreichs Regierung mit der Frage beschäftigt, wie es dazu kommen konnte. Innenminister Nuñez bot seinen Rücktritt an, Justizminister Daramanin sieht Defizite bei den Behörden."
-  },
-  {
-    "id": "story-125",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-19T10:08:48.000Z",
-    "sources": [
-      {
-        "source": "stern",
-        "url": "https://www.stern.de/lifestyle/leute/-victoria-s-secret--show--barbara-palvin--laufsteg-comeback-sechs-wochen-nach-geburt-38418698.html",
-        "date": "2026-10-19T10:08:48.000Z",
-        "snippet": "„Victoria's Secret“-Engel Barbara Palvin ist gerade erst Mutter geworden. Ihren Laufsteg-Auftritt nennt sie „keine große Sache“. Und die Show hält noch eine Überraschung bereit.",
-        "title": "„Victoria's Secret“-Show: Barbara Palvin: Laufsteg-Comeback sechs Wochen nach Geburt"
-      },
-      {
-        "source": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/panorama/leute/victorias-secret-barbara-palvin-sechs-wochen-nach-geburt-wieder-auf-dem-laufsteg-a-75b3d2af-d008-4e34-b49d-019c6bf38d6f#ref=rss",
-        "date": "2026-10-19T02:33:00.000Z",
-        "snippet": "Im September wurden Schauspieler Dylan Sprouse und Model Barbara Palvin Eltern. Jetzt präsentierte die frischgebackene Mama Unterwäsche für Victoria’s Secret. Und wirft damit eine ganz grundsätzliche Frage auf.",
-        "title": "Victoria's Secret: Barbara Palvin sechs Wochen nach Geburt wieder auf dem Laufsteg"
-      }
-    ],
-    "title": "„Victoria's Secret“-Show: Barbara Palvin: Laufsteg-Comeback sechs Wochen nach Geburt",
-    "summary": "„Victoria's Secret“-Show: Barbara Palvin: Laufsteg-Comeback sechs Wochen nach Geburt „Victoria's Secret“-Engel Barbara Palvin ist gerade erst Mutter geworden. Ihren Laufsteg-Auftritt nennt sie „keine große Sache“. Und die Show hält noch eine Überraschung bereit.\nVictoria's Secret: Barbara Palvin sechs Wochen nach Geburt wieder auf dem Laufsteg Im September wurden Schauspieler Dylan Sprouse und Model Barbara Palvin Eltern. Jetzt präsentierte die frischgebackene Mama Unterwäsche für Victoria’s Secret. Und wirft damit eine ganz grundsätzliche Frage auf."
-  },
-  {
-    "id": "story-130",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-19T10:07:31.000Z",
-    "sources": [
-      {
-        "source": "t-online Panorama",
-        "url": "https://www.t-online.de/nachrichten/panorama/ungluecke/id_101487280/ruegen-tanker-mit-russischem-rohoel-treibt-in-der-ostsee.html",
-        "date": "2026-10-19T10:07:31.000Z",
-        "snippet": "In der Nacht bleibt ein 190 Meter langer Tanker vor Rügen liegen – er soll russisches Rohöl transportieren. Ob er zu Russlands Schattenflotte gehört, ist unklar.",
-        "title": "Rügen: Tanker mit russischem Rohöl treibt in der Ostsee"
-      },
-      {
-        "source": "WELT",
-        "url": "https://www.welt.de/politik/deutschland/article6ad5d559de9d7a845942b18d/schattenflotte-tanker-mit-russischem-rohoel-treibt-auf-der-ostsee-deutschland-alarmiert-notfallschlepper.html",
-        "date": "2026-10-19T09:04:27.000Z",
-        "snippet": "Ein Tanker mit russischem Rohöl treibt nach einem Antriebsproblem auf der Ostsee. Deutsche und dänische Behörden beobachten die Lage, russische Marineschiffe sind in der Nähe.",
-        "title": "Tanker mit russischem Rohöl treibt auf der Ostsee – Deutschland alarmiert Notfallschlepper"
-      }
-    ],
-    "title": "Rügen: Tanker mit russischem Rohöl treibt in der Ostsee",
-    "summary": "Rügen: Tanker mit russischem Rohöl treibt in der Ostsee In der Nacht bleibt ein 190 Meter langer Tanker vor Rügen liegen – er soll russisches Rohöl transportieren. Ob er zu Russlands Schattenflotte gehört, ist unklar.\nTanker mit russischem Rohöl treibt auf der Ostsee – Deutschland alarmiert Notfallschlepper Ein Tanker mit russischem Rohöl treibt nach einem Antriebsproblem auf der Ostsee. Deutsche und dänische Behörden beobachten die Lage, russische Marineschiffe sind in der Nähe."
-  },
-  {
-    "id": "story-132",
-    "topic": "politik",
     "country": "INT",
     "stateHint": "",
-    "date": "2026-10-19T10:07:00.000Z",
+    "date": "2026-10-19T08:56:42.000Z",
     "sources": [
       {
-        "source": "France24 English",
-        "url": "https://www.france24.com/en/video/20261019-french-interior-minister-admits-police-lost-control-of-protests",
-        "date": "2026-10-19T10:07:00.000Z",
-        "snippet": "France's Interior Minister Laurent Nunez admitted Monday that the police \"lost control\" in some cities during violent protests that erupted in cities across the country at the weekend. He said there had been a \"lack of anticipation\" in preparations and that he had tendered his resignation to President Emmanuel Macron \"because I felt responsible for everything that happened.\" Macron did not accept his resignation.",
-        "title": "French interior minister admits police 'lost control' of protests"
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRVBJZ0FaQjFyYlhSaUNPUDRqV1l5RjU2bXltdlBHYmpmNVZpMWF3d25EYXpneWpUQ0RPTVFFSUNXN3BCNDNrb2tGNDlVOUFGYTN2TzYtelgxaUNJLTYwS1FDbFNJMTB0dXVZOURaRDJZVkF1SC1EOE0zRWNuenFyVVkzZFQwSnlqX1pqUjJaOVJ1b1JGUWcxeXZnbXdVMnhFeVVPbEtNUDdaQVZGblZBVjMxZldhUQ?oc=5",
+        "date": "2026-10-19T08:56:42.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNRVBJZ0FaQjFyYlhSaUNPUDRqV1l5RjU2bXltdlBHYmpmNVZpMWF3d25EYXpneWpUQ0RPTVFFSUNXN3BCNDNrb2tGNDlVOUFGYTN2TzYtelgxaUNJLTYwS1FDbFNJMTB0dXVZOURaRDJZVkF1SC1EOE0zRWNuenFyVVkzZFQwSnlqX1pqUjJaOVJ1b1JGUWcxeXZnbXdVMnhFeVVPbEtNUDdaQVZGblZBVjMxZldhUQ?oc=5\" target=\"_blank\">World Food Programme cuts aid to 500,000 Palestinians in Gaza, citing funding shortages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
+        "title": "World Food Programme cuts aid to 500,000 Palestinians in Gaza, citing funding shortages - NBC News"
       },
-      {
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/19/frances-macron-declines-ministers-resignation-after-violent-protests?traffic_source=rss",
-        "date": "2026-10-19T08:25:27.000Z",
-        "snippet": "Interior Minister Laurent Nunez acknowledges that police 'lost control' during weekend protests.",
-        "title": "France’s Macron declines minister’s resignation after violent protests"
-      }
-    ],
-    "title": "French interior minister admits police 'lost control' of protests",
-    "summary": "French interior minister admits police 'lost control' of protests France's Interior Minister Laurent Nunez admitted Monday that the police \"lost control\" in some cities during violent protests that erupted in cities across the country at the weekend. He said there had been a \"lack of anticipation\" in preparations and that he had tendered his resignation to President Emmanuel Macron \"because I felt responsible for everything that happened.\" Macron did not accept his resignation.\nFrance’s Macron declines minister’s resignation after violent protests Interior Minister Laurent Nunez acknowledges that police 'lost control' during weekend protests."
-  },
-  {
-    "id": "story-260",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-19T09:15:05.000Z",
-    "sources": [
-      {
-        "source": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-1620.html",
-        "date": "2026-10-19T09:15:05.000Z",
-        "snippet": "Der angeschlagene Autobauer Volkswagen verschärft seine Sparmaßnahmen. Übereinstimmenden Berichten zufolge sollen weltweit die Gehälter für mehrere Jahre eingefroren werden. Der K…",
-        "title": "VW will offenbar Gehälter einfrieren"
-      },
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-1620.html",
-        "date": "2026-10-19T09:06:30.000Z",
-        "snippet": "Der angeschlagene Autobauer Volkswagen verschärft seine Sparmaßnahmen. Übereinstimmenden Berichten zufolge sollen weltweit die Gehälter für mehrere Jahre eingefroren werden. Der Konzern will sich dazu nicht äußern.",
-        "title": "Volkswagen will offenbar Gehälter einfrieren"
-      }
-    ],
-    "title": "VW will offenbar Gehälter einfrieren",
-    "summary": "VW will offenbar Gehälter einfrieren Der angeschlagene Autobauer Volkswagen verschärft seine Sparmaßnahmen. Übereinstimmenden Berichten zufolge sollen weltweit die Gehälter für mehrere Jahre eingefroren werden. Der K…\nVolkswagen will offenbar Gehälter einfrieren Der angeschlagene Autobauer Volkswagen verschärft seine Sparmaßnahmen. Übereinstimmenden Berichten zufolge sollen weltweit die Gehälter für mehrere Jahre eingefroren werden. Der Konzern will sich dazu nicht äußern."
-  },
-  {
-    "id": "story-261",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-19T09:15:02.000Z",
-    "sources": [
-      {
-        "source": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/ausland/europa/unzufriedenheit-mit-klitschko-kiew-100.html",
-        "date": "2026-10-19T09:15:02.000Z",
-        "snippet": "In Kiew steht der nächste Kriegswinter bevor. Viele Menschen werfen Bürgermeister Klitschko hier Missmanagement vor. Statt die Strom- und Wasserversorgung zu sichern, würde Geld f…",
-        "title": "In Kiew wächst die Kritik an Klitschko"
-      },
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/europa/unzufriedenheit-mit-klitschko-kiew-100.html",
-        "date": "2026-10-19T09:04:40.000Z",
-        "snippet": "In Kiew steht der nächste Kriegswinter bevor. Viele Menschen werfen Bürgermeister Klitschko hier Missmanagement vor. Statt die Strom- und Wasserversorgung zu sichern, würde Geld für Straßenbau ausgegeben. Von Rebecca Barth.",
-        "title": "In Kiew wächst die Kritik an Bürgermeister Klitschko"
-      }
-    ],
-    "title": "In Kiew wächst die Kritik an Klitschko",
-    "summary": "In Kiew wächst die Kritik an Klitschko In Kiew steht der nächste Kriegswinter bevor. Viele Menschen werfen Bürgermeister Klitschko hier Missmanagement vor. Statt die Strom- und Wasserversorgung zu sichern, würde Geld f…\nIn Kiew wächst die Kritik an Bürgermeister Klitschko In Kiew steht der nächste Kriegswinter bevor. Viele Menschen werfen Bürgermeister Klitschko hier Missmanagement vor. Statt die Strom- und Wasserversorgung zu sichern, würde Geld für Straßenbau ausgegeben. Von Rebecca Barth."
-  },
-  {
-    "id": "story-317",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-19T08:46:28.000Z",
-    "sources": [
-      {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM1M0Rk1KNm13SXFXME1pNEk0bzdaY1ZERnd4MTN4cTV4TG11VkxkVVJlRnRKcHp2bk5BVDdNSWVtY1ZITFhic3FXcW9SWHFNdXlJQ2pUQ014RFFkNEM0NV84NXN1RDRYMkJ4SGhCRzBGVzAwTUl3cnNfcnFDY0VJRU1BWFZ2SlF0LWN6cXVGMXBYcWhoQnotU2UzazAxRWlRVDJBY3o3OWtqdDktQ1AwcVI1SWgwLWpWcmU0VmFWdzU3TmtOb3JPQWFxQm1tOWl4WmlTMjA4cw?oc=5",
-        "date": "2026-10-19T08:46:28.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM1M0Rk1KNm13SXFXME1pNEk0bzdaY1ZERnd4MTN4cTV4TG11VkxkVVJlRnRKcHp2bk5BVDdNSWVtY1ZITFhic3FXcW9SWHFNdXlJQ2pUQ014RFFkNEM0NV84NXN1RDRYMkJ4SGhCRzBGVzAwTUl3cnNfcnFDY0VJRU1BWFZ2SlF0LWN6cXVGMXBYcWhoQnotU2UzazAxRWlRVDJBY3o3OWtqdDktQ1AwcVI1SWgwLWpWcmU0VmFWdzU3TmtOb3JPQWFxQm1tOWl4WmlTMjA4cw?oc=5\" target=\"_blank\">Lindt & Sprüngli entlässt Konzernchef Lechner und Chef in Aachen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aachener Zeitung</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNYXRxaDllanhMRkRaT0xtMWItQ2syTUVWRzNVblNGbU05MW9WcjJoM0dEYktBdWxma1RWR2gtWlV0ZWdJM1lnU0dMUHc0dTd2eGFrclhBMGVpZ244RGhIamE5MkVqbjk0UUZwN",
-        "title": "Lindt & Sprüngli entlässt Konzernchef Lechner und Chef in Aachen - Aachener Zeitung"
-      },
-      {
-        "source": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/wirtschaft/lindt-spruengli-entlaesst-konzernchef-lechner-a-7e490637-b245-4350-8674-6c9d9f7ea578#ref=rss",
-        "date": "2026-10-19T07:32:00.000Z",
-        "snippet": "Der heiße Sommer und die hohen Preise für Kakao haben den Schokoladenhersteller Lindt & Sprüngli in die Krise gestürzt. Jetzt soll ein Wechsel im Vorstand die Wende bringen.",
-        "title": "Lindt & Sprüngli entlässt Konzernchef Lechner"
-      }
-    ],
-    "title": "Lindt & Sprüngli entlässt Konzernchef Lechner und Chef in Aachen - Aachener Zeitung",
-    "summary": "Lindt & Sprüngli entlässt Konzernchef Lechner und Chef in Aachen - Aachener Zeitung <ol><li><a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM1M0Rk1KNm13SXFXME1pNEk0bzdaY1ZERnd4MTN4cTV4TG11VkxkVVJlRnRKcHp2bk5BVDdNSWVtY1ZITFhic3FXcW9SWHFNdXlJQ2pUQ014RFFkNEM0NV84NXN1RDRYMkJ4SGhCRzBGVzAwTUl3cnNfcnFDY0VJRU1BWFZ2SlF0LWN6cXVGMXBYcWhoQnotU2UzazAxRWlRVDJBY3o3OWtqdDktQ1AwcVI1SWgwLWpWcmU0VmFWdzU3TmtOb3JPQWFxQm1tOWl4WmlTMjA4cw?oc=5\" target=\"_blank\">Lindt & Sprüngli entlässt Konzernchef Lechner und Chef in Aachen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aachener Zeitung</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNYXRxaDllanhMRkRaT0xtMWItQ2syTUVWRzNVblNGbU05MW9WcjJoM0dEYktBdWxma1RWR2gtWlV0ZWdJM1lnU0dMUHc0dTd2eGFrclhBMGVpZ244RGhIamE5MkVqbjk0UUZwN\nLindt & Sprüngli entlässt Konzernchef Lechner Der heiße Sommer und die hohen Preise für Kakao haben den Schokoladenhersteller Lindt & Sprüngli in die Krise gestürzt. Jetzt soll ein Wechsel im Vorstand die Wende bringen."
-  },
-  {
-    "id": "story-358",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-19T08:30:04.000Z",
-    "sources": [
-      {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM3Utck9KRDNoUGQ5VWFndVBqZHZIUHFZXzRXWjhDR2NPR0Iwc2VhUHFQbEtQX2ExZjNMUlJGUE5oeDRRQ2Y1NUZRejZKV1NPMkViMF9zdDBRS1JhUDVmVGYtblp4ZE4xSm5yTlc5YTVmeVhDWlZsaFpwcGtIYW1FZ18yRFBtOWRzT25OWnNPWFBBRGlxX0dIbmpoQQ?oc=5",
-        "date": "2026-10-19T08:30:04.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPM3Utck9KRDNoUGQ5VWFndVBqZHZIUHFZXzRXWjhDR2NPR0Iwc2VhUHFQbEtQX2ExZjNMUlJGUE5oeDRRQ2Y1NUZRejZKV1NPMkViMF9zdDBRS1JhUDVmVGYtblp4ZE4xSm5yTlc5YTVmeVhDWlZsaFpwcGtIYW1FZ18yRFBtOWRzT25OWnNPWFBBRGlxX0dIbmpoQQ?oc=5\" target=\"_blank\">Nebenwirkungen der Krebstherapie: Schmerzen und Angst rauben Patrice Aminati den Schlaf</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNc2J6d19COEdlaFI0NlVfUG9McEMzQ1B6b0F0NjFPLW9wclpybTNabEJpUkt0ay13SGRub1l6eDdHaEtnMF96TXFjSUx1Mm1SYldKc3paSnRsSlZHVTVoWlhGazRVUHBINkFmU0dITm5HUXFnNVZtTmxjSnFmN2xob2U4U3lkWHJfcTNfbkZIU2M1R0s1X2N1M2JCZF9",
-        "title": "Nebenwirkungen der Krebstherapie: Schmerzen und Angst rauben Patrice Aminati den Schlaf - n-tv.de"
-      },
-      {
-        "source": "ntv",
-        "url": "https://www.n-tv.de/leute/Schmerzen-und-Angst-rauben-Patrice-Aminati-den-Schlaf-id31433097.html",
-        "date": "2026-10-19T08:30:04.000Z",
-        "snippet": "Patrice Aminati lässt ihre Fans regelmäßig auch an den schweren Momenten ihrer Krebstherapie teilhaben. So meldet sich die Moderatorin nun nachts aus dem Bett und berichtet von herausfordernden Nebenwirkungen, die sie um den Schlaf bringen.",
-        "title": "Nebenwirkungen der Krebstherapie: Schmerzen und Angst rauben Patrice Aminati den Schlaf"
-      }
-    ],
-    "title": "Nebenwirkungen der Krebstherapie: Schmerzen und Angst rauben Patrice Aminati den Schlaf - n-tv.de",
-    "summary": "Nebenwirkungen der Krebstherapie: Schmerzen und Angst rauben Patrice Aminati den Schlaf - n-tv.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPM3Utck9KRDNoUGQ5VWFndVBqZHZIUHFZXzRXWjhDR2NPR0Iwc2VhUHFQbEtQX2ExZjNMUlJGUE5oeDRRQ2Y1NUZRejZKV1NPMkViMF9zdDBRS1JhUDVmVGYtblp4ZE4xSm5yTlc5YTVmeVhDWlZsaFpwcGtIYW1FZ18yRFBtOWRzT25OWnNPWFBBRGlxX0dIbmpoQQ?oc=5\" target=\"_blank\">Nebenwirkungen der Krebstherapie: Schmerzen und Angst rauben Patrice Aminati den Schlaf</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNc2J6d19COEdlaFI0NlVfUG9McEMzQ1B6b0F0NjFPLW9wclpybTNabEJpUkt0ay13SGRub1l6eDdHaEtnMF96TXFjSUx1Mm1SYldKc3paSnRsSlZHVTVoWlhGazRVUHBINkFmU0dITm5HUXFnNVZtTmxjSnFmN2xob2U4U3lkWHJfcTNfbkZIU2M1R0s1X2N1M2JCZF9\nNebenwirkungen der Krebstherapie: Schmerzen und Angst rauben Patrice Aminati den Schlaf Patrice Aminati lässt ihre Fans regelmäßig auch an den schweren Momenten ihrer Krebstherapie teilhaben. So meldet sich die Moderatorin nun nachts aus dem Bett und berichtet von herausfordernden Nebenwirkungen, die sie um den Schlaf bringen."
-  },
-  {
-    "id": "story-360",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-19T08:30:02.000Z",
-    "sources": [
-      {
-        "source": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/inland/berlin-spd-linke-gruene-100.html",
-        "date": "2026-10-19T08:30:02.000Z",
-        "snippet": "Die rot-grün-roten Sondierungsgespräche in Berlin waren holprig, aber erfolgreich. Heute wollen Grüne und SPD über Koalitionsverhandlungen mit der Linken entscheiden. Doch Kritik …",
-        "title": "\"Ich habe noch erhebliche Zweifel\""
-      },
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/inland/berlin-spd-linke-gruene-100.html",
-        "date": "2026-10-19T08:23:24.000Z",
-        "snippet": "Die rot-grün-roten Sondierungsgespräche in Berlin waren holprig, aber erfolgreich. Heute wollen Grüne und SPD über Koalitionsverhandlungen mit der Linken entscheiden. Doch Kritik und Zweifel sind laut, etwa bei SPD-Fraktionschef Miersch.",
-        "title": "Kritik an Rot-Grün-Rot in Berlin: \"Ich habe noch erhebliche Zweifel\""
-      }
-    ],
-    "title": "\"Ich habe noch erhebliche Zweifel\"",
-    "summary": "\"Ich habe noch erhebliche Zweifel\" Die rot-grün-roten Sondierungsgespräche in Berlin waren holprig, aber erfolgreich. Heute wollen Grüne und SPD über Koalitionsverhandlungen mit der Linken entscheiden. Doch Kritik …\nKritik an Rot-Grün-Rot in Berlin: \"Ich habe noch erhebliche Zweifel\" Die rot-grün-roten Sondierungsgespräche in Berlin waren holprig, aber erfolgreich. Heute wollen Grüne und SPD über Koalitionsverhandlungen mit der Linken entscheiden. Doch Kritik und Zweifel sind laut, etwa bei SPD-Fraktionschef Miersch."
-  },
-  {
-    "id": "story-422",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-19T07:53:00.000Z",
-    "sources": [
-      {
-        "source": "DW Deutsch",
-        "url": "https://www.dw.com/de/ukraine-krieg-usa-liefern-laut-selenskyj-wieder-geheimdienstinformationen/a-79695673?maca=de-rss-de-all-1119-xml-mrss",
-        "date": "2026-10-19T07:53:00.000Z",
-        "snippet": "Nach einer Unterbrechung erhält die Ukraine nach Angaben ihres Präsidenten wieder wichtige Daten aus Washington. Die US-Regierung bestreitet jedoch, die Weitergabe gestoppt zu haben. Auch bei Starlink gibt es Streit.",
-        "title": "Ukraine-Krieg: USA liefern laut Selenskyj wieder Geheimdienstinformationen"
-      },
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/europa/ukraine-geheimdienst-informationen-usa-100.html",
-        "date": "2026-10-18T22:23:09.000Z",
-        "snippet": "Die Ukraine klagte zuletzt über fehlende US-Geheimdienstinformationen zu russischen Angriffen. Inzwischen liefern die USA diese laut dem ukrainischen Präsidenten wieder. Doch angesichts des jüngsten US-Kurses zeigt er sich tief besorgt.",
-        "title": "USA liefern laut Selenskyj wieder Geheimdienstinformationen"
-      }
-    ],
-    "title": "Ukraine-Krieg: USA liefern laut Selenskyj wieder Geheimdienstinformationen",
-    "summary": "Ukraine-Krieg: USA liefern laut Selenskyj wieder Geheimdienstinformationen Nach einer Unterbrechung erhält die Ukraine nach Angaben ihres Präsidenten wieder wichtige Daten aus Washington. Die US-Regierung bestreitet jedoch, die Weitergabe gestoppt zu haben. Auch bei Starlink gibt es Streit.\nUSA liefern laut Selenskyj wieder Geheimdienstinformationen Die Ukraine klagte zuletzt über fehlende US-Geheimdienstinformationen zu russischen Angriffen. Inzwischen liefern die USA diese laut dem ukrainischen Präsidenten wieder. Doch angesichts des jüngsten US-Kurses zeigt er sich tief besorgt."
-  },
-  {
-    "id": "story-523",
-    "topic": "politik",
-    "country": "PT",
-    "stateHint": "",
-    "date": "2026-10-19T06:49:58.000Z",
-    "sources": [
-      {
-        "source": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/mundo/debate-marcado-por-poucas-propostas-ataques-e-acusacoes-de-corrupcao_n1772573",
-        "date": "2026-10-19T06:49:58.000Z",
-        "snippet": "O debate entre Luiz Inácio Lula da Silva e Flávio Bolsonaro foi marcado por poucas propostas, sucessivas trocas de ataques pessoais e acusações de corrupção, com o senador a apostar na segurança e o Presidente brasileiro na defesa do legado.",
-        "title": "Debate marcado por poucas propostas, ataques e acusações de corrupção"
-      },
-      {
-        "source": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQdjdqNkoyMWw3a3hycVZrNHA2MUNrLTVuWDNlZ096MlhiSEQ1b1ppbEE4eTRBVGEwSElxTjBPYXNIVV9NdXVxTnFXUnRHVE1WX3I1NTY1YUJSbXJYc3VWR0w5ZGoxT1BYb0lkSjNwY29IV0JPQkNfRlFfOVZaaE9NcHlaemlTRVRfX0Q4b3NmaXhRai0wTmtNTU1kY0tVbUI1Y3R6dFhUS1FYZnRsMHpJWXhUdkhwZEh0WVQyMDdYX2JEaWYwMFRzSl9QZ0JfZjBQYUI0N0J4VmRmemppVlEzbXFfZmpVVGdBMWNmSGZQSXNxa2pMSUtMeS00TUxfTXFmOVd6dXBsUUw0NVRickJtV0diVQ?oc=5",
-        "date": "2026-10-19T05:40:12.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxQdjdqNkoyMWw3a3hycVZrNHA2MUNrLTVuWDNlZ096MlhiSEQ1b1ppbEE4eTRBVGEwSElxTjBPYXNIVV9NdXVxTnFXUnRHVE1WX3I1NTY1YUJSbXJYc3VWR0w5ZGoxT1BYb0lkSjNwY29IV0JPQkNfRlFfOVZaaE9NcHlaemlTRVRfX0Q4b3NmaXhRai0wTmtNTU1kY0tVbUI1Y3R6dFhUS1FYZnRsMHpJWXhUdkhwZEh0WVQyMDdYX2JEaWYwMFRzSl9QZ0JfZjBQYUI0N0J4VmRmemppVlEzbXFfZmpVVGdBMWNmSGZQSXNxa2pMSUtMeS00TUxfTXFmOVd6dXBsUUw0NVRickJtV0diVQ?oc=5\" target=\"_blank\">Debate entre Lula da Silva e Flávio Bolsonaro marcado por ataques, acusações de corrupção e poucas propostas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SIC Notícias</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLTJ0TU1lSW5mb",
-        "title": "Debate entre Lula da Silva e Flávio Bolsonaro marcado por ataques, acusações de corrupção e poucas propostas - SIC Notícias"
-      }
-    ],
-    "title": "Debate marcado por poucas propostas, ataques e acusações de corrupção",
-    "summary": "Debate marcado por poucas propostas, ataques e acusações de corrupção O debate entre Luiz Inácio Lula da Silva e Flávio Bolsonaro foi marcado por poucas propostas, sucessivas trocas de ataques pessoais e acusações de corrupção, com o senador a apostar na segurança e o Presidente brasileiro na defesa do legado.\nDebate entre Lula da Silva e Flávio Bolsonaro marcado por ataques, acusações de corrupção e poucas propostas - SIC Notícias <ol><li><a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxQdjdqNkoyMWw3a3hycVZrNHA2MUNrLTVuWDNlZ096MlhiSEQ1b1ppbEE4eTRBVGEwSElxTjBPYXNIVV9NdXVxTnFXUnRHVE1WX3I1NTY1YUJSbXJYc3VWR0w5ZGoxT1BYb0lkSjNwY29IV0JPQkNfRlFfOVZaaE9NcHlaemlTRVRfX0Q4b3NmaXhRai0wTmtNTU1kY0tVbUI1Y3R6dFhUS1FYZnRsMHpJWXhUdkhwZEh0WVQyMDdYX2JEaWYwMFRzSl9QZ0JfZjBQYUI0N0J4VmRmemppVlEzbXFfZmpVVGdBMWNmSGZQSXNxa2pMSUtMeS00TUxfTXFmOVd6dXBsUUw0NVRickJtV0diVQ?oc=5\" target=\"_blank\">Debate entre Lula da Silva e Flávio Bolsonaro marcado por ataques, acusações de corrupção e poucas propostas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SIC Notícias</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLTJ0TU1lSW5mb"
-  },
-  {
-    "id": "story-555",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-19T06:27:00.000Z",
-    "sources": [
-      {
-        "source": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/panorama/leute/harald-schmidt-hat-seinen-jaguar-verschenkt-a-bafcc31c-c8ef-4c01-9279-41a036731286#ref=rss",
-        "date": "2026-10-19T06:27:00.000Z",
-        "snippet": "»Ich brauch kein Auto mehr, ich hab kein Auto mehr«: Harald Schmidt hat sich offenbar komplett vom Konzept eigener Pkw verabschiedet. Sein ehemaliger Jaguar macht dem neuen Eigentümer aber vermutlich nicht nur Freude.",
-        "title": "Harald Schmidt hat seinen Jaguar verschenkt"
-      },
-      {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ1M3NlU3M0RvUnZQWVYtSlVMTkNxV0M1bDI2SDNRd1NEWHJVU0NzVjhZTkpVandaS2w3OUM3eHhVT2h3d0E4c0tVX1RvSnNOSW05dFR4MDZOSjNQall6QjVlRWd3M011YmxWUnlHNzJnUFNPbTR4RndXa3JIYkhScFJTWVM4TEFRaFhsN2dMOTJiMWR1WmplUFVWTVM1ZGtMWnN6dkE3RHNmWTRLTGo3RkJPcDZ3WHV0TUUySXVxWDFfWWQ1bnc?oc=5",
-        "date": "2026-10-19T04:15:10.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ1M3NlU3M0RvUnZQWVYtSlVMTkNxV0M1bDI2SDNRd1NEWHJVU0NzVjhZTkpVandaS2w3OUM3eHhVT2h3d0E4c0tVX1RvSnNOSW05dFR4MDZOSjNQall6QjVlRWd3M011YmxWUnlHNzJnUFNPbTR4RndXa3JIYkhScFJTWVM4TEFRaFhsN2dMOTJiMWR1WmplUFVWTVM1ZGtMWnN6dkE3RHNmWTRLTGo3RkJPcDZ3WHV0TUUySXVxWDFfWWQ1bnc?oc=5\" target=\"_blank\">Umstieg auf Bus und Bahn: Harald Schmidt hat seinen Jaguar verschenkt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tagesspiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOTE5SX3ZGX3B4aEFENmNPMnBVR1MxVEQ1dlRmcTI5YTV3cnZiOGNZR1NsT3hvaWtwa1psTTVsMEEtQWEyVEVYZk1TQUpIVGlOQkpzYjZ4OFkxMDVNYmJtVGstYzFIWDNMZm1TVV8yQllyUkQ3SFhOc040aGF",
-        "title": "Umstieg auf Bus und Bahn: Harald Schmidt hat seinen Jaguar verschenkt - Tagesspiegel"
-      }
-    ],
-    "title": "Harald Schmidt hat seinen Jaguar verschenkt",
-    "summary": "Harald Schmidt hat seinen Jaguar verschenkt »Ich brauch kein Auto mehr, ich hab kein Auto mehr«: Harald Schmidt hat sich offenbar komplett vom Konzept eigener Pkw verabschiedet. Sein ehemaliger Jaguar macht dem neuen Eigentümer aber vermutlich nicht nur Freude.\nUmstieg auf Bus und Bahn: Harald Schmidt hat seinen Jaguar verschenkt - Tagesspiegel <ol><li><a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ1M3NlU3M0RvUnZQWVYtSlVMTkNxV0M1bDI2SDNRd1NEWHJVU0NzVjhZTkpVandaS2w3OUM3eHhVT2h3d0E4c0tVX1RvSnNOSW05dFR4MDZOSjNQall6QjVlRWd3M011YmxWUnlHNzJnUFNPbTR4RndXa3JIYkhScFJTWVM4TEFRaFhsN2dMOTJiMWR1WmplUFVWTVM1ZGtMWnN6dkE3RHNmWTRLTGo3RkJPcDZ3WHV0TUUySXVxWDFfWWQ1bnc?oc=5\" target=\"_blank\">Umstieg auf Bus und Bahn: Harald Schmidt hat seinen Jaguar verschenkt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tagesspiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOTE5SX3ZGX3B4aEFENmNPMnBVR1MxVEQ1dlRmcTI5YTV3cnZiOGNZR1NsT3hvaWtwa1psTTVsMEEtQWEyVEVYZk1TQUpIVGlOQkpzYjZ4OFkxMDVNYmJtVGstYzFIWDNMZm1TVV8yQllyUkQ3SFhOc040aGF"
-  },
-  {
-    "id": "story-560",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "BY",
-    "date": "2026-10-19T06:24:16.000Z",
-    "sources": [
-      {
-        "source": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/schwere-unruhen-in-frankreich-macron-kuendigt-runden-tisch-an,VYT97Id",
-        "date": "2026-10-19T06:24:16.000Z",
-        "snippet": "Nach den Krawallen in Frankreich hat Präsident Macron für diese Woche einen Runden Tisch mit Schülern, Lehrern, Gewerkschaften und Wirtschaftsvertretern angekündigt. Das Auswärtige Amt rät Frankreich-Reisenden zur Vorsicht.",
-        "title": "Schwere Unruhen in Frankreich - Macron kündigt Runden Tisch an"
-      },
-      {
-        "source": "ZDF heute",
-        "url": "https://www.zdfheute.de/politik/ausland/frankreich-ausschreitungen-proteste-macron-100.html",
-        "date": "2026-10-18T21:39:00.000Z",
-        "snippet": "Einen Tag nach den schweren Krawallen in Frankreich ist es in Paris wieder zu Ausschreitungen gekommen. Präsident Macron verurteilte die Gewalt und kündigte einen Runden Tisch an.",
-        "title": "Neue Unruhen in Paris - Macron kündigt Runden Tisch an"
-      }
-    ],
-    "title": "Schwere Unruhen in Frankreich - Macron kündigt Runden Tisch an",
-    "summary": "Schwere Unruhen in Frankreich - Macron kündigt Runden Tisch an Nach den Krawallen in Frankreich hat Präsident Macron für diese Woche einen Runden Tisch mit Schülern, Lehrern, Gewerkschaften und Wirtschaftsvertretern angekündigt. Das Auswärtige Amt rät Frankreich-Reisenden zur Vorsicht.\nNeue Unruhen in Paris - Macron kündigt Runden Tisch an Einen Tag nach den schweren Krawallen in Frankreich ist es in Paris wieder zu Ausschreitungen gekommen. Präsident Macron verurteilte die Gewalt und kündigte einen Runden Tisch an."
-  },
-  {
-    "id": "story-593",
-    "topic": "panorama",
-    "country": "UK",
-    "stateHint": "",
-    "date": "2026-10-19T06:00:18.000Z",
-    "sources": [
       {
         "source": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
         "date": "2026-10-19T06:00:18.000Z",
         "snippet": "The number of people helped by the UN agency in the Palestinian territory will drop by about a third - from 1.6 million to 1.1 million.",
         "title": "Funding shortages force World Food Programme to cut aid to Gaza"
-      },
-      {
-        "source": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9seUx2Zm44anRwdkxWd3pBQ0ZjcjV0WnlRTXhpaUNxeFNXNVBHWklTMEhJYVAwVnRiTzJhUGYxQWJBdDNvTlMxWWJDVWJOWTlqVXBTbWdDNnlldFU?oc=5",
-        "date": "2026-10-19T06:00:18.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9seUx2Zm44anRwdkxWd3pBQ0ZjcjV0WnlRTXhpaUNxeFNXNVBHWklTMEhJYVAwVnRiTzJhUGYxQWJBdDNvTlMxWWJDVWJOWTlqVXBTbWdDNnlldFU?oc=5\" target=\"_blank\">World Food Programme forced to cut aid to Gaza due to funding shortages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-        "title": "World Food Programme forced to cut aid to Gaza due to funding shortages - BBC"
       }
     ],
-    "title": "Funding shortages force World Food Programme to cut aid to Gaza",
-    "summary": "Funding shortages force World Food Programme to cut aid to Gaza The number of people helped by the UN agency in the Palestinian territory will drop by about a third - from 1.6 million to 1.1 million.\nWorld Food Programme forced to cut aid to Gaza due to funding shortages - BBC <a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9seUx2Zm44anRwdkxWd3pBQ0ZjcjV0WnlRTXhpaUNxeFNXNVBHWklTMEhJYVAwVnRiTzJhUGYxQWJBdDNvTlMxWWJDVWJOWTlqVXBTbWdDNnlldFU?oc=5\" target=\"_blank\">World Food Programme forced to cut aid to Gaza due to funding shortages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>"
+    "title": "World Food Programme cuts aid to 500,000 Palestinians in Gaza, citing funding shortages - NBC News",
+    "summary": "World Food Programme cuts aid to 500,000 Palestinians in Gaza, citing funding shortages - NBC News <a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNRVBJZ0FaQjFyYlhSaUNPUDRqV1l5RjU2bXltdlBHYmpmNVZpMWF3d25EYXpneWpUQ0RPTVFFSUNXN3BCNDNrb2tGNDlVOUFGYTN2TzYtelgxaUNJLTYwS1FDbFNJMTB0dXVZOURaRDJZVkF1SC1EOE0zRWNuenFyVVkzZFQwSnlqX1pqUjJaOVJ1b1JGUWcxeXZnbXdVMnhFeVVPbEtNUDdaQVZGblZBVjMxZldhUQ?oc=5\" target=\"_blank\">World Food Programme cuts aid to 500,000 Palestinians in Gaza, citing funding shortages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>\nFunding shortages force World Food Programme to cut aid to Gaza The number of people helped by the UN agency in the Palestinian territory will drop by about a third - from 1.6 million to 1.1 million."
   },
   {
-    "id": "story-609",
-    "topic": "politik",
-    "country": "PT",
-    "stateHint": "",
-    "date": "2026-10-19T05:50:31.000Z",
-    "sources": [
-      {
-        "source": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/guerra-na-ucrania/trump-acusa-zelensky-de-nao-querer-acabar-com-a-guerra_n1772561",
-        "date": "2026-10-19T05:50:31.000Z",
-        "snippet": "O Presidente dos Estados Unidos, Donald Trump, acusou hoje o homólogo ucraniano, Volodymyr Zelensky, de \"não querer pôr fim\" à guerra com a Rússia, num contexto de recente aumento de tensões entre Washington e Kiev.",
-        "title": "Trump acusa Zelensky de não querer acabar com a guerra"
-      },
-      {
-        "source": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQVJtaHRNZVRLcE1PWjdJS3FxdzRwVmlzV3puZEpYcC1MQjVJcjJDNWN1T2dPTTdxV0lEdWc5LTR1OFIzYVItLUN1d3o3dFJ0R1RTRXB0amFQdjNXVGVjQURPLTVwand6elNWR1pjWXRONXZDNVFxVkNreDhZd3BTRGNMNjlQQTd6QnFiY0gzT2RpeUtBd1BQVmN30gGOAUFVX3lxTE8tNE1kRGV4bGZDU2traGhMZnZxNDdCbENLZzhiektRYTBvOWdCWTNBZDRVMFBWazRHUE5Yc2RyMnZQc2lDcGtsSEJaVS1LWWRERExPUUlFWFBKSkhGQ2J6Z1dKTHlhNThsX0JRY1h0aVpJYmhCY1c1RXNwd0VjaFFjcUg4eU9peXdLRHd6cHc?oc=5",
-        "date": "2026-10-19T00:06:00.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNQVJtaHRNZVRLcE1PWjdJS3FxdzRwVmlzV3puZEpYcC1MQjVJcjJDNWN1T2dPTTdxV0lEdWc5LTR1OFIzYVItLUN1d3o3dFJ0R1RTRXB0amFQdjNXVGVjQURPLTVwand6elNWR1pjWXRONXZDNVFxVkNreDhZd3BTRGNMNjlQQTd6QnFiY0gzT2RpeUtBd1BQVmN30gGOAUFVX3lxTE8tNE1kRGV4bGZDU2traGhMZnZxNDdCbENLZzhiektRYTBvOWdCWTNBZDRVMFBWazRHUE5Yc2RyMnZQc2lDcGtsSEJaVS1LWWRERExPUUlFWFBKSkhGQ2J6Z1dKTHlhNThsX0JRY1h0aVpJYmhCY1c1RXNwd0VjaFFjcUg4eU9peXdLRHd6cHc?oc=5\" target=\"_blank\">Trump acusa Zelensky de não querer acabar com a guerra</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jornal de Notícias</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd3REZklCbEJwNmFqMmszZkVvcTBO",
-        "title": "Trump acusa Zelensky de não querer acabar com a guerra - Jornal de Notícias"
-      }
-    ],
-    "title": "Trump acusa Zelensky de não querer acabar com a guerra",
-    "summary": "Trump acusa Zelensky de não querer acabar com a guerra O Presidente dos Estados Unidos, Donald Trump, acusou hoje o homólogo ucraniano, Volodymyr Zelensky, de \"não querer pôr fim\" à guerra com a Rússia, num contexto de recente aumento de tensões entre Washington e Kiev.\nTrump acusa Zelensky de não querer acabar com a guerra - Jornal de Notícias <ol><li><a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNQVJtaHRNZVRLcE1PWjdJS3FxdzRwVmlzV3puZEpYcC1MQjVJcjJDNWN1T2dPTTdxV0lEdWc5LTR1OFIzYVItLUN1d3o3dFJ0R1RTRXB0amFQdjNXVGVjQURPLTVwand6elNWR1pjWXRONXZDNVFxVkNreDhZd3BTRGNMNjlQQTd6QnFiY0gzT2RpeUtBd1BQVmN30gGOAUFVX3lxTE8tNE1kRGV4bGZDU2traGhMZnZxNDdCbENLZzhiektRYTBvOWdCWTNBZDRVMFBWazRHUE5Yc2RyMnZQc2lDcGtsSEJaVS1LWWRERExPUUlFWFBKSkhGQ2J6Z1dKTHlhNThsX0JRY1h0aVpJYmhCY1c1RXNwd0VjaFFjcUg4eU9peXdLRHd6cHc?oc=5\" target=\"_blank\">Trump acusa Zelensky de não querer acabar com a guerra</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jornal de Notícias</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd3REZklCbEJwNmFqMmszZkVvcTBO"
-  },
-  {
-    "id": "story-612",
-    "topic": "panorama",
-    "country": "INT",
-    "stateHint": "",
-    "date": "2026-10-19T05:49:09.000Z",
-    "sources": [
-      {
-        "source": "Euronews",
-        "url": "https://www.euronews.com/2026/10/19/albertans-vote-on-path-to-independence-as-carney-fights-to-keep-canada-united",
-        "date": "2026-10-19T05:49:09.000Z",
-        "snippet": "Alberta has the world's fourth-largest proven oil reserves and separatist momentum has been driven by anger over Ottawa's management of the sector.",
-        "title": "Albertans vote on path to independence as Carney fights to keep Canada united"
-      },
-      {
-        "source": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQY0RIOUJFbWtSSWwzUC1KX0dWY2NBZndwbW01ZjdIeUhtZWVyWnRDWkJGMXFEN2M3QjFMbXpmU29JZ3FYMUJaY2pjQWNFamt6VFJUREtVUC1ncklZdklEd3RpaWpBNnhTV1cyVTc1dWtuMktZYzdhRDlwWDlhWlhMdkxhdHhSNUx2ZXVHLTFhX0dOUU42QmVyYmpKa3ZiMFhrb2ZMVEI0YkJZc08wTk1oWFRnSjhLTm85ZGVNWVJtX1p3MUJxVldTZjBNdw?oc=5",
-        "date": "2026-10-19T04:02:00.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQY0RIOUJFbWtSSWwzUC1KX0dWY2NBZndwbW01ZjdIeUhtZWVyWnRDWkJGMXFEN2M3QjFMbXpmU29JZ3FYMUJaY2pjQWNFamt6VFJUREtVUC1ncklZdklEd3RpaWpBNnhTV1cyVTc1dWtuMktZYzdhRDlwWDlhWlhMdkxhdHhSNUx2ZXVHLTFhX0dOUU42QmVyYmpKa3ZiMFhrb2ZMVEI0YkJZc08wTk1oWFRnSjhLTm85ZGVNWVJtX1p3MUJxVldTZjBNdw?oc=5\" target=\"_blank\">Albertans Vote on Path to Independence as Carney Fights to Keep Canada United</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">U.S. News & World Report</font>",
-        "title": "Albertans Vote on Path to Independence as Carney Fights to Keep Canada United - U.S. News & World Report"
-      }
-    ],
-    "title": "Albertans vote on path to independence as Carney fights to keep Canada united",
-    "summary": "Albertans vote on path to independence as Carney fights to keep Canada united Alberta has the world's fourth-largest proven oil reserves and separatist momentum has been driven by anger over Ottawa's management of the sector.\nAlbertans Vote on Path to Independence as Carney Fights to Keep Canada United - U.S. News & World Report <a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQY0RIOUJFbWtSSWwzUC1KX0dWY2NBZndwbW01ZjdIeUhtZWVyWnRDWkJGMXFEN2M3QjFMbXpmU29JZ3FYMUJaY2pjQWNFamt6VFJUREtVUC1ncklZdklEd3RpaWpBNnhTV1cyVTc1dWtuMktZYzdhRDlwWDlhWlhMdkxhdHhSNUx2ZXVHLTFhX0dOUU42QmVyYmpKa3ZiMFhrb2ZMVEI0YkJZc08wTk1oWFRnSjhLTm85ZGVNWVJtX1p3MUJxVldTZjBNdw?oc=5\" target=\"_blank\">Albertans Vote on Path to Independence as Carney Fights to Keep Canada United</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">U.S. News & World Report</font>"
-  },
-  {
-    "id": "story-645",
-    "topic": "politik",
-    "country": "INT",
-    "stateHint": "",
-    "date": "2026-10-19T05:10:37.000Z",
-    "sources": [
-      {
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/us-president-donald-trump-endorses-netanyahu-for-israeli-election?traffic_source=rss",
-        "date": "2026-10-19T05:10:37.000Z",
-        "snippet": "US President Donald Trump endorses Netanyahu for Israeli election",
-        "title": "US President Donald Trump endorses Netanyahu for Israeli election"
-      },
-      {
-        "source": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SaHdLZERuUDhzYTkxTC1kdnppcnl5WlJsaU9ZbG1hZEZENHZCbERIVy15SzkydngyQzdNSVU4TW5CdVIzUzZNb1ByRUtFakVTVzd6RHhtb0ROUUZ4MmR1eElOcw?oc=5",
-        "date": "2026-10-19T02:22:29.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SaHdLZERuUDhzYTkxTC1kdnppcnl5WlJsaU9ZbG1hZEZENHZCbERIVy15SzkydngyQzdNSVU4TW5CdVIzUzZNb1ByRUtFakVTVzd6RHhtb0ROUUZ4MmR1eElOcw?oc=5\" target=\"_blank\">Trump endorses Netanyahu ahead of Israeli elections | NHK WORLD-JAPAN News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NHKニュース</font>",
-        "title": "Trump endorses Netanyahu ahead of Israeli elections | NHK WORLD-JAPAN News - NHKニュース"
-      }
-    ],
-    "title": "US President Donald Trump endorses Netanyahu for Israeli election",
-    "summary": "US President Donald Trump endorses Netanyahu for Israeli election US President Donald Trump endorses Netanyahu for Israeli election\nTrump endorses Netanyahu ahead of Israeli elections | NHK WORLD-JAPAN News - NHKニュース <a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SaHdLZERuUDhzYTkxTC1kdnppcnl5WlJsaU9ZbG1hZEZENHZCbERIVy15SzkydngyQzdNSVU4TW5CdVIzUzZNb1ByRUtFakVTVzd6RHhtb0ROUUZ4MmR1eElOcw?oc=5\" target=\"_blank\">Trump endorses Netanyahu ahead of Israeli elections | NHK WORLD-JAPAN News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NHKニュース</font>"
-  },
-  {
-    "id": "story-751",
+    "id": "story-1155",
     "topic": "panorama",
     "country": "PT",
     "stateHint": "",
@@ -780,80 +865,5 @@
     ],
     "title": "Tempestade causa um morto na Catalunha e destruição em Valência, Ibiza e Maiorca - Jornal de Notícias",
     "summary": "Tempestade causa um morto na Catalunha e destruição em Valência, Ibiza e Maiorca - Jornal de Notícias <ol><li><a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNHFJVkRBVnFzUkN1RkpFNUNZZ0lhSlphLTZNTXNSMjE4YjFrWTkxRU4tMTFWS3BVQ2h6NmppdjFfT1dsOUh3VzVVV2RxUnI2aENGNmcwVzdLeTJQMzMwMm9WM1pLaElrZVJmNksxRlNiZ2FtNWJMdXlZVXlSVTZOemZ0NkF2b3pYNXhDaW84akloeEJjb2tKcHJ4SGtuUFhNUUg4SUR5RC02d1ExMHdIT0xJeWZJbjNuZXFN0gGvAUFVX3lxTE5WTHVKOHl0M3VZRzVyX2xVUnRTUm84Z2JORDNDSHZYYnl6bDMwM3VlclE5TXFyeG1QMGtTd0VTbU40WGRiRmhFdngzOFhtdE9iTEhTWld4czNpZ2dsRTduaHo2Y0E3LTZuVzY5aHJuN1JYNFVnX3BialZOcmlOVFpXX2k0MVdZdEhRX1BORE1CNEhWQVhtMnkzeFpFMS1HdV9tYllXamtTcnZFazVINzg?oc=5\" target=\"_blank\">Tempestade causa um morto na Catalunha e destruição em Valência, Ibiza e Maiorca</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jornal de \nTempestade causa um morto na Catalunha e destruição em Valência, Ibiza e Maiorca Uma tempestade mediterrânica causou hoje inundações em várias regiões de Espanha, incluindo as Ilhas Baleares, depois de no sábado ter causado a morte de uma pessoa perto de Barcelona, anunciaram autoridades locais."
-  },
-  {
-    "id": "story-772",
-    "topic": "politik",
-    "country": "UK",
-    "stateHint": "",
-    "date": "2026-10-18T23:20:15.000Z",
-    "sources": [
-      {
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-18T23:20:15.000Z",
-        "snippet": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
-        "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going"
-      },
-      {
-        "source": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jTzFvVzZoMldNWlJEVTc2bUg5OEh5dmxlWEJvLVA2LWQxVks4c0pNVzBQVTFmZGhKYTFDZHZ5MGZIT1laODhMMHhNWV9qd3VXajRiU1Z0U2MzaDQ?oc=5",
-        "date": "2026-10-18T23:20:15.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jTzFvVzZoMldNWlJEVTc2bUg5OEh5dmxlWEJvLVA2LWQxVks4c0pNVzBQVTFmZGhKYTFDZHZ5MGZIT1laODhMMHhNWV9qd3VXajRiU1Z0U2MzaDQ?oc=5\" target=\"_blank\">Trump says suspension of Russia sanctions is to keep peace negotiations going</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-        "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going - BBC"
-      }
-    ],
-    "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-    "summary": "Trump says suspension of Russia sanctions is to keep peace negotiations going The US president blocked numerous sanctions on Russia two days before they were due to take effect.\nTrump says suspension of Russia sanctions is to keep peace negotiations going - BBC <a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jTzFvVzZoMldNWlJEVTc2bUg5OEh5dmxlWEJvLVA2LWQxVks4c0pNVzBQVTFmZGhKYTFDZHZ5MGZIT1laODhMMHhNWV9qd3VXajRiU1Z0U2MzaDQ?oc=5\" target=\"_blank\">Trump says suspension of Russia sanctions is to keep peace negotiations going</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>"
-  },
-  {
-    "id": "story-783",
-    "topic": "panorama",
-    "country": "PT",
-    "stateHint": "",
-    "date": "2026-10-18T22:00:04.000Z",
-    "sources": [
-      {
-        "source": "RTP Desporto",
-        "url": "https://www.rtp.pt/noticias/selecao-nacional/portugal-vence-espanha-e-conquista-bronze-no-mundial-de-hoquei-em-patins_d1772554",
-        "date": "2026-10-18T22:00:04.000Z",
-        "snippet": "Portugal conquistou domingo a medalha de bronze no 47.º Mundial de hóquei em patins masculino, ao vencer a campeã em título, Espanha, por 5-3, em Assunção, no Paraguai.",
-        "title": "Portugal vence Espanha e conquista bronze no Mundial de hóquei em patins"
-      },
-      {
-        "source": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVnJvRVZsTlFLSG1iVnZCQjYxcU9mUkFmNncxTkhfX1d3UzdNYmtmUlBQdGxlbVhpa2U1S3VKTGtObmpBMzJwcmZxWTJJdkxJbjJaczdTVnIzQ09rNm5jWlAtVDJlaG53QU52TEhKTXV1aUNfWFh0U0d1dlktbmc4N29BakVDYjhyaEpWS2wwN09uSll2WEpYNWlCUmZqVEE?oc=5",
-        "date": "2026-10-18T21:10:19.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQVnJvRVZsTlFLSG1iVnZCQjYxcU9mUkFmNncxTkhfX1d3UzdNYmtmUlBQdGxlbVhpa2U1S3VKTGtObmpBMzJwcmZxWTJJdkxJbjJaczdTVnIzQ09rNm5jWlAtVDJlaG53QU52TEhKTXV1aUNfWFh0U0d1dlktbmc4N29BakVDYjhyaEpWS2wwN09uSll2WEpYNWlCUmZqVEE?oc=5\" target=\"_blank\">Portugal vence Espanha e conquista bronze no Mundial de hóquei em patins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diário de Notícias</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2poeDQyV0VoSEhudjV2UktZNzJ5Z0FQAQ?hl=pt-PT&gl=PT&ceid=PT:pt-150&oc=5\" target=\"_blank\">Ver mais cabeçalhos e perspetivas no Google Notícias</a></strong>",
-        "title": "Portugal vence Espanha e conquista bronze no Mundial de hóquei em patins - Diário de Notícias"
-      }
-    ],
-    "title": "Portugal vence Espanha e conquista bronze no Mundial de hóquei em patins",
-    "summary": "Portugal vence Espanha e conquista bronze no Mundial de hóquei em patins Portugal conquistou domingo a medalha de bronze no 47.º Mundial de hóquei em patins masculino, ao vencer a campeã em título, Espanha, por 5-3, em Assunção, no Paraguai.\nPortugal vence Espanha e conquista bronze no Mundial de hóquei em patins - Diário de Notícias <a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQVnJvRVZsTlFLSG1iVnZCQjYxcU9mUkFmNncxTkhfX1d3UzdNYmtmUlBQdGxlbVhpa2U1S3VKTGtObmpBMzJwcmZxWTJJdkxJbjJaczdTVnIzQ09rNm5jWlAtVDJlaG53QU52TEhKTXV1aUNfWFh0U0d1dlktbmc4N29BakVDYjhyaEpWS2wwN09uSll2WEpYNWlCUmZqVEE?oc=5\" target=\"_blank\">Portugal vence Espanha e conquista bronze no Mundial de hóquei em patins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diário de Notícias</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2poeDQyV0VoSEhudjV2UktZNzJ5Z0FQAQ?hl=pt-PT&gl=PT&ceid=PT:pt-150&oc=5\" target=\"_blank\">Ver mais cabeçalhos e perspetivas no Google Notícias</a></strong>"
-  },
-  {
-    "id": "story-826",
-    "topic": "panorama",
-    "country": "UK",
-    "stateHint": "",
-    "date": "2026-10-18T19:53:27.000Z",
-    "sources": [
-      {
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-18T19:53:27.000Z",
-        "snippet": "Presley Gerber's death in September is being investigated as a suspected overdose.",
-        "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27"
-      },
-      {
-        "source": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsME1IN1U0Z2pXa3FXdVBhTkFCMjVIcldNNVUtX3puRnhaQnFjYnFTalZZWGxGMFh0VEJXMENrMU16ZVA3SGhTWFQ2c2l4LTRZQWFBdWNYNF9RSlE?oc=5",
-        "date": "2026-10-18T19:53:27.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsME1IN1U0Z2pXa3FXdVBhTkFCMjVIcldNNVUtX3puRnhaQnFjYnFTalZZWGxGMFh0VEJXMENrMU16ZVA3SGhTWFQ2c2l4LTRZQWFBdWNYNF9RSlE?oc=5\" target=\"_blank\">Cindy Crawford 'beyond heartbroken' after death of son Presley at 27</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-        "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27 - BBC"
-      }
-    ],
-    "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
-    "summary": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27 Presley Gerber's death in September is being investigated as a suspected overdose.\nCindy Crawford 'beyond heartbroken' after death of son Presley at 27 - BBC <a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsME1IN1U0Z2pXa3FXdVBhTkFCMjVIcldNNVUtX3puRnhaQnFjYnFTalZZWGxGMFh0VEJXMENrMU16ZVA3SGhTWFQ2c2l4LTRZQWFBdWNYNF9RSlE?oc=5\" target=\"_blank\">Cindy Crawford 'beyond heartbroken' after death of son Presley at 27</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>"
   }
 ]
