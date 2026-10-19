@@ -11,3 +11,39 @@
 .navbar{position:sticky!important;top:env(safe-area-inset-top,0px)!important;z-index:20!important}
 .navbar>.pulse-settings-toggle{position:absolute!important;right:12px!important;top:50%!important;transform:translateY(-50%)!important;margin:0!important;width:32px!important;height:32px!important}
 .navbar>.pulse-settings-toggle svg{width:18px!important;height:18px!important}
+
+
+/* Gemeinsamer Abschlussbereich und responsives Desktop-Layout */
+.pulse-footer{width:100%;max-width:980px;margin:30px auto 0;padding:18px 12px calc(28px + env(safe-area-inset-bottom,0px));border-top:1px solid var(--sep,var(--fill));color:var(--label2,var(--muted));text-align:center;font:500 13px/1.8 -apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}
+.pulse-footer .pulse-footer-links{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:4px 9px}
+.pulse-footer a,.pulse-settings-links a{color:var(--tint,#007AFF);text-decoration:none}
+.pulse-footer a:hover,.pulse-settings-links a:hover{text-decoration:underline}
+.pulse-footer .pulse-footer-dot{color:var(--label2,var(--muted))}
+.pulse-settings-links{display:flex;flex-wrap:wrap;gap:7px 12px;padding:7px 0 2px}
+.pulse-settings-links a{font-size:12px;font-weight:650}
+.pulse-settings-section{padding-top:8px;margin-top:7px;border-top:.5px solid var(--sep,var(--fill))}
+.pulse-settings-section-title{font-weight:700;color:var(--label2,var(--muted));margin-bottom:4px}
+.pulse-settings-panel{position:relative;z-index:30}
+@media (min-width:760px){
+ body{font-size:16px}
+ body>main.wrap,.wrap{width:min(calc(100% - 48px),1180px);max-width:1180px;padding-left:24px;padding-right:24px}
+ .pulse-footer{max-width:1180px}
+ .nav,.navbar{height:60px}
+ .nav{padding-left:24px;padding-right:24px}
+ .nav>.pulse-settings-toggle,.navbar>.pulse-settings-toggle{right:24px!important}
+ .card{padding:30px}
+ .head{padding-top:34px}
+ .head h1{font-size:40px}
+ .pulse-settings-panel{max-width:1180px;margin:8px auto 12px;padding:14px 18px}
+}
+@media (min-width:900px){
+ body:has(#feed) .wrap{max-width:1180px}
+ #feed.list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));align-items:start;gap:12px}
+ #feed.list>.section{grid-column:1/-1}
+ #feed.list>.card{margin:0;min-width:0}
+ body:has(#feed) .controls{margin-left:-24px;margin-right:-24px;padding-left:24px;padding-right:24px}
+ body:has(#feed) .chips,body:has(#feed) .country-chips,body:has(#feed) .state-chips{padding-left:24px;padding-right:24px}
+}
+@media (min-width:1440px){body:has(#feed) #feed.list{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media (max-width:759px){.pulse-footer{margin-top:22px;padding-top:14px}.pulse-settings-panel{margin-left:0;margin-right:0}}
+@media (prefers-reduced-motion:reduce){.pulse-footer *{scroll-behavior:auto!important}}
