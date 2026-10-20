@@ -1,55 +1,92 @@
 [
   {
-    "id": "story-0f5260829165193b",
-    "c": "DE",
+    "id": "story-bddcb70923ebceb0",
+    "c": "INT",
     "o": "DE",
-    "k": "politik",
+    "k": "panorama",
     "lang": "de",
-    "d": "2026-10-20T15:23:59.000Z",
+    "d": "2026-10-20T19:25:33.000Z",
     "p": 2,
     "st": "",
     "city": "",
-    "t": "Nach Landtagswahl - Mecklenburg-Vorpommern: Bisherige Landtagspräsidentin Hesse (SPD) wiedergewählt",
-    "s": "Einen Monat nach der Landtagswahl in Mecklenburg-Vorpommern ist dort das neue Parlament zu seiner konstituierenden Sitzung zusammengekommen. Im Schweriner Schloss wurde die SPD-Politikerin und bisherige Landtagspräsidentin Hesse erneut ins Amt gewählt.",
-    "m": "Einen Monat nach der Landtagswahl in Mecklenburg-Vorpommern ist dort das neue Parlament zu seiner konstituierenden Sitzung zusammengekommen. Im Schweriner Schloss wurde die SPD-Politikerin und bisherige Landtagspräsidentin Hesse erneut ins Amt gewählt. Das Parlament in Schwerin ist zu seiner konstituierenden Sitzung zusammengekommen und hat zunächst seine Präsidentin gewählt: SPD-Politikerin Birgit Hesse setzte sich gegen einen AfD-Kandidaten durch.",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "t": "Christina Applegate: Fünf Jahre lang falsche Multiple-Sklerose-Diagnose",
+    "s": "Bei der Schauspielerin Christina Applegate wurde nach fünf Jahren eine Multiple-Sklerose-Diagnose widerrufen. Es handelte sich stattdessen um eine Fehldiagnose. Die neue Erkenntnis bringt der Betroffenen jedoch keine Erleichterung.",
+    "m": "Die US-amerikanische Schauspielerin Christina Applegate musste über einen Zeitraum von fünf Jahren mit der Diagnose Multiple Sklerose leben und wurde entsprechend behandelt. Nun hat sich herausgestellt, dass es sich dabei um eine Fehldiagnose gehandelt hat. Trotz dieser überraschenden Wendung stellt sich bei der Künstlerin keine Erleichterung über den Irrtum ein. Welche Erkrankung stattdessen vorliegt oder wie es zu der langjährigen Verwechslung kommen konnte, geht aus den vorliegenden Berichten nicht hervor. Die Situation verdeutlicht die Belastung durch medizinische Fehldiagnosen bei prominenten Persönlichkeiten.",
+    "r": "Die Meldung ist relevant, da sie einen aufsehenerregenden medizinischen Irrtum bei einer bekannten Persönlichkeit aufdeckt. Sie wirft Fragen zur Diagnosesicherheit über einen längeren Zeitraum hinweg auf.",
     "srcs": [
       {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/mecklenburg-vorpommern-bisherige-landtagspraesidentin-hesse-spd-wiedergewaehlt-100.html",
-        "date": "2026-10-20T15:23:59.000Z"
+        "name": "RND",
+        "url": "https://www.rnd.de/promis/christina-applegate-hat-doch-keine-ms-jahrelange-fehldiagnose-PIT4TVN2ZVDCDE5S7ODJ2MIUSE.html",
+        "date": "2026-10-20T19:25:33.000Z"
       },
       {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-birgit-hesse-als-landtagspraesidentin-wiedergewaehlt-a-224faf7a-1d32-4f2f-ac22-1620cb5bc31b#ref=rss",
-        "date": "2026-10-20T13:40:00.000Z"
+        "name": "stern",
+        "url": "https://www.stern.de/kultur/tv/krankheit--christina-applegate-hat-doch-keine-ms-38427010.html",
+        "date": "2026-10-20T18:55:29.000Z"
       }
     ],
-    "url": "https://www.deutschlandfunk.de/mecklenburg-vorpommern-bisherige-landtagspraesidentin-hesse-spd-wiedergewaehlt-100.html",
-    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
+    "url": "https://www.rnd.de/promis/christina-applegate-hat-doch-keine-ms-jahrelange-fehldiagnose-PIT4TVN2ZVDCDE5S7ODJ2MIUSE.html",
+    "agree": "Die Quellen sind sich einig, dass Christina Applegate fünf Jahre lang fälschlicherweise wegen Multipler Sklerose behandelt wurde und dies keine Erleichterung bringt.",
     "diff": [],
     "chg": "",
     "independent": 2
   },
   {
+    "id": "story-cb0c5c48553b25f1",
+    "c": "INT",
+    "o": "DE",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-20T19:17:58.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "BVB siegt in Baku dank Guirassy",
+    "s": "Borussia Dortmund hat in der Champions League gegen den FK Sabah einen knappen Sieg eingefahren. Nach zuvor drei erfolglosen Pflichtspielen tat sich das Team von Trainer Kovac im Olympiastadion schwer. Erneuter Matchwinner für die Dortmunder war Stürmer Guirassy, der seine Mannschaft vor einer Blamage bewahrte.",
+    "m": "Borussia Dortmund trat in Baku im Rahmen der Champions League an, um die sieglose Serie aus den vergangenen drei Pflichtspielen zu beenden. Gegen den FK Sabah mühte sich die Mannschaft phasenweise sehr schwer und stand vor einer möglichen Blamage. Erneut fungierte Stürmer Guirassy als Retter und erzielte die entscheidenden Szenen für das Team. Trainer Kovac stand somit besonders im Fokus, die sportliche Talfahrt vorerst zu stoppen. Das Spiel fand im Olympiastadion statt. Weitere Details zum genauen Spielverlauf, Torschützen oder dem Endstand nennen die Berichte nicht. Offen bleibt, wie nachhaltig dieser knappe Erfolg für die kommenden Aufgaben des BVB ist.",
+    "r": "Der Sieg beendet vorerst eine Serie von drei sieglosen Pflichtspielen für Borussia Dortmund. Das Ergebnis ist wichtig für den Verlauf der Champions League und entlastet Trainer Kovac.",
+    "srcs": [
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/sport/guirassy-bewahrt-bvb-vor-blamage-in-baku-YJZD3V3BXZFM3GZUYYGXBJ343U.html",
+        "date": "2026-10-20T19:17:58.000Z"
+      },
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/sport/fussball/fk-sabah---dortmund--guirassy-bewahrt-bvb-vor-blamage-in-baku-38426946.html",
+        "date": "2026-10-20T18:45:00.000Z"
+      }
+    ],
+    "url": "https://www.rnd.de/sport/guirassy-bewahrt-bvb-vor-blamage-in-baku-YJZD3V3BXZFM3GZUYYGXBJ343U.html",
+    "agree": "Die Quellen stimmen überein, dass Borussia Dortmund in Baku gegen den FK Sabah einen Sieg errang, nachdem es zuvor drei sieglose Pflichtspiele gab, und dass Stürmer Guirassy als Retter fungierte.",
+    "diff": [
+      {
+        "name": "stern",
+        "note": "Erwähnt im Gegensatz zu RND explizit, dass es sich um ein Champions-League-Spiel handelt und nennt den Gegner FK Sabah."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-3224c55eac13bce7",
-    "c": "DE",
+    "c": "INT",
     "o": "DE",
     "k": "wirtschaft",
     "lang": "de",
-    "d": "2026-10-20T15:23:59.000Z",
-    "p": 2,
+    "d": "2026-10-20T19:10:16.000Z",
+    "p": 3,
     "st": "",
     "city": "",
-    "t": "Cloud-Dienste - Großausfall bei Google führt zu Störungen bei Banken",
-    "s": "Ein Ausfall von Cloud-Diensten des US-Unternehmens Google hat zu technischen Störungen in Europa geführt.",
-    "m": "Ein Ausfall von Cloud-Diensten des US-Unternehmens Google hat zu technischen Störungen in Europa geführt. Nicht nur Bank-Apps waren betroffen: Auch Webseiten und Unternehmensdienste kämpften mit Störungen. Google arbeitet an der Behebung – doch Ursache und Ausmaß sind noch offen.",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "t": "Großausfall bei Google-Cloud-Diensten führt zu Störungen in Europa",
+    "s": "Ein technischer Ausfall von Cloud-Diensten des US-Unternehmens Google hat in Europa zu verschiedenen Störungen geführt. Davon waren unter anderem europäische Banken betroffen. Der genaue Umfang der Probleme wird noch ermittelt. Google arbeitet derzeit mit Hochdruck an der Behebung der technischen Mängel.",
+    "m": "Der Ausfall der Google-Cloud-Dienste hat weitreichende technische Probleme in ganz Europa verursacht. Neben dem regulären Online-Banking bei diversen Instituten bekamen auch zahlreiche andere Webseiten und wichtige Unternehmensdienste die Auswirkungen zu spüren. Nutzerinnen und Nutzer berichteten über nicht erreichbare Dienste und Fehlermeldungen bei Bank-Apps. Das Unternehmen Google hat die Störungen bestätigt und arbeitet an einer schnellen Lösung. Bislang sind jedoch weder die genaue Ursache für den plötzlichen Ausfall noch das exakte Gesamtausmaß der betroffenen Systeme offiziell bekannt gegeben worden. Auch wie lange die Reparaturarbeiten noch andauern werden, ist zum aktuellen Zeitpunkt unklar.",
+    "r": "Der Ausfall zentraler Cloud-Dienste eines globalen Anbieters verdeutlicht die Anfälligkeit digitaler Infrastrukturen für kritische Wirtschaftssektoren. Solche Störungen beeinträchtigen grenzüberschreitend die Dienstleistungen von Banken und Unternehmen sowie den Zugang für Verbraucher.",
     "srcs": [
       {
         "name": "Deutschlandfunk Nachrichten",
         "url": "https://www.deutschlandfunk.de/grossausfall-bei-google-fuehrt-zu-stoerungen-bei-banken-102.html",
-        "date": "2026-10-20T15:23:59.000Z"
+        "date": "2026-10-20T19:10:16.000Z"
       },
       {
         "name": "Handelsblatt",
@@ -58,7 +95,615 @@
       }
     ],
     "url": "https://www.deutschlandfunk.de/grossausfall-bei-google-fuehrt-zu-stoerungen-bei-banken-102.html",
-    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
+    "agree": "Die Quellen sind sich einig, dass ein Ausfall von Cloud-Diensten des Unternehmens Google zu technischen Störungen bei Banken geführt hat.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Berichtet, dass die technischen Störungen in Europa aufgetreten sind."
+      },
+      {
+        "name": "Handelsblatt",
+        "note": "Ergänzt, dass neben Bank-Apps auch Webseiten und Unternehmensdienste betroffen waren und Google an der Behebung arbeitet, während Ursache und Ausmaß noch offen sind."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-db13d6114524afa8",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-20T19:10:16.000Z",
+    "p": 3,
+    "st": "BY",
+    "city": "",
+    "t": "AfD bestätigt Hackerangriff auf E-Mail-Konten der Partei",
+    "s": "Unbekannte haben einen Hackerangriff auf E-Mail-Konten der AfD verübt. Die Partei hat den Vorfall im Nachhinein bestätigt. Nach Angaben der AfD waren davon Postfächer betroffen, die überwiegend kaum oder nicht mehr genutzt wurden. Im Internet behaupten Angreifer jedoch, zahlreiche E-Mails veröffentlicht zu haben.",
+    "m": "Der Vorfall soll sich bereits im September bei einem digitalen Dienstleister ereignet haben. Dabei wurden nach Parteiangaben Daten aus seit Jahren kaum genutzten Mail-Postfächern kopiert. Während die AfD von \"einigen wenigen\" betroffenen Postfächern spricht, brüsten sich Unbekannte im Netz damit, rund 421.000 E-Mails der Partei veröffentlicht zu haben. Es bleibt unklar, welche konkreten Informationen in den kopierten Daten enthalten sind und wer hinter dem Angriff steckt. Die Behörden beziehungsweise weitere Details zum Umgang mit dem Datenleck wurden in den Berichten zunächst nicht näher genannt.",
+    "r": "Der Hackerangriff auf eine im Bundestag vertretene Partei betrifft die Cybersicherheit und den Schutz politischer Daten. Die Diskrepanz zwischen den Angaben der Parteispitze und den Behauptungen der Angreifer wirft Fragen zur Aufklärung auf.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/afd-bestaetigt-hackerangriff-auf-e-mail-konten-der-partei-100.html",
+        "date": "2026-10-20T19:10:16.000Z"
+      },
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/inland/innenpolitik/afd-hackerangriff-102.html",
+        "date": "2026-10-20T16:38:28.000Z"
+      },
+      {
+        "name": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/afd-bestaetigt-hackerangriff-auf-e-mail-postfaecher,VYa1GcH",
+        "date": "2026-10-20T15:21:20.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/afd-bestaetigt-hackerangriff-auf-e-mail-konten-der-partei-100.html",
+    "agree": "Die AfD hat einen Hackerangriff auf ihre E-Mail-Konten bestätigt, wobei es sich um Postfächer handelte, die überwiegend nicht mehr genutzt wurden.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Berichtet, dass der Vorfall bereits im September bei einem digitalen Dienstleister stattfand."
+      },
+      {
+        "name": "Tagesschau",
+        "note": "Erwähnt, dass die Unbekannten laut eigenen Angaben Daten aus den Konten veröffentlicht haben."
+      },
+      {
+        "name": "BR24 Bayern",
+        "note": "Nennt die konkrete Zahl von rund 421.000 E-Mails, mit deren Veröffentlichung sich Unbekannte im Netz brüsten, während die AfD von \"einigen wenigen\" Postfächern spricht."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
+    "id": "story-4175a097df42d92e",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-20T19:10:16.000Z",
+    "p": 3,
+    "st": "BY",
+    "city": "",
+    "t": "Josef Schuster strebt vierte Amtszeit als Zentralratspräsident an",
+    "s": "Der Präsident des Zentralrats der Juden in Deutschland, Josef Schuster, kandidiert für eine vierte Amtszeit. Der 72-jährige Würzburger Arzt steht seit 2014 an der Spitze des Verbandes. Die Neuwahl ist für Ende November angesetzt.",
+    "m": "Der Präsident des Zentralrats der Juden in Deutschland, Josef Schuster, hat angekündigt, für eine vierte Amtszeit zu kandidieren. Der 72-jährige Würzburger Arzt ist seit 2014 im Amt und vertritt als Stimme die rund 150.000 Jüdinnen und Juden in Deutschland. Die anstehende Wahl findet in unruhigen Zeiten statt und wird Ende November dieses Jahres durchgeführt. Schuster prägt die Arbeit des Zentralrats seit über einem Jahrzehnt maßgeblich. Weitere Details zur Wahl oder möglichen Gegenkandidaten wurden in den Berichten zunächst nicht genannt.",
+    "r": "Die Personalie betrifft die Führung und Vertretung der jüdischen Gemeinschaft in Deutschland für die kommenden Jahre. Angesichts gesellschaftlicher Herausforderungen ist die Neubesetzung oder Bestätigung der Spitzenposition von zentraler Bedeutung für den interreligiösen und politischen Dialog.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/schuster-will-zentralratspraesident-bleiben-100.html",
+        "date": "2026-10-20T19:10:16.000Z"
+      },
+      {
+        "name": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/in-unruhigen-zeiten-schuster-will-zentralrats-praesident-bleiben,VYarylf",
+        "date": "2026-10-20T14:24:20.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/schuster-will-zentralratspraesident-bleiben-100.html",
+    "agree": "Die Quellen sind sich einig, dass Josef Schuster für eine vierte Amtszeit als Präsident des Zentralrats der Juden in Deutschland kandidieren möchte.",
+    "diff": [
+      {
+        "name": "BR24 Bayern",
+        "note": "Erwähnt zusätzlich, dass Schuster ein 72-jähriger Würzburger Arzt ist, seit 2014 im Amt ist, die rund 150.000 Jüdinnen und Juden in Deutschland vertritt, die Wahl Ende November stattfindet und die Zeiten unruhig sind."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-0f5260829165193b",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-20T19:10:16.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Mecklenburg-Vorpommern: Birgit Hesse als Landtagspräsidentin wiedergewählt",
+    "s": "Etwa einen Monat nach der Landtagswahl in Mecklenburg-Vorpommern ist das neue Parlament zu seiner konstituierenden Sitzung zusammengekommen. Im Schweriner Schloss wurde die bisherige Landtagspräsidentin Birgit Hesse erneut in ihr Amt gewählt. Sie setzte sich bei der Abstimmung im Landtag gegen einen Kandidaten der AfD durch. Die SPD-Politikerin steht damit weiterhin an der Spitze des Landesparlaments.",
+    "m": "Das neu gewählte Parlament von Mecklenburg-Vorpommern hat in Schwerin seine konstituierende Sitzung abgehalten. Im Zentrum stand dabei die Wahl der Landtagspräsidentin, bei der die bisherige Amtsinhaberin Birgit Hesse von der SPD erneut das Vertrauen aussprach. Sie setzte sich bei der Abstimmung im Plenarsaal gegen einen Gegenkandidaten der AfD-Fraktion durch. Die Sitzung markiert den offiziellen Start der neuen Legislaturperiode nach der Landtagswahl vor rund einem Monat. Weitere Details zur Zusammensetzung des Präsidiums oder zur Regierungsbildung gehen aus den Berichten nicht hervor. Die Wahl im Schweriner Schloss verlief ansonsten wie für eine konstituierende Sitzung üblich. Es bleibt abzuwarten, wie sich die Arbeit des Parlaments in den kommenden Wochen gestaltet.",
+    "r": "Die Neugestaltung und Konstituierung des Parlaments nach einer Landtagswahl ist ein zentraler Schritt für die politische Handlungsfähigkeit eines Bundeslandes. Die Wiederwahl der Präsidentin bestimmt maßgeblich die organisatorische Leitung der kommenden Legislaturperiode.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/mecklenburg-vorpommern-bisherige-landtagspraesidentin-hesse-spd-wiedergewaehlt-100.html",
+        "date": "2026-10-20T19:10:16.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-birgit-hesse-als-landtagspraesidentin-wiedergewaehlt-a-224faf7a-1d32-4f2f-ac22-1620cb5bc31b#ref=rss",
+        "date": "2026-10-20T13:40:00.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/mecklenburg-vorpommern-bisherige-landtagspraesidentin-hesse-spd-wiedergewaehlt-100.html",
+    "agree": "Die Quellen sind sich einig, dass das neue Parlament in Mecklenburg-Vorpommern zu seiner konstituierenden Sitzung im Schweriner Schloss zusammengekommen ist und Birgit Hesse (SPD) als Landtagspräsidentin wiedergewählt wurde.",
+    "diff": [
+      {
+        "name": "DER SPIEGEL",
+        "note": "Erwähnt zusätzlich, dass sich Birgit Hesse gegen einen AfD-Kandidaten durchsetzen musste."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-35c423f5abf35a4c",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-20T19:10:16.000Z",
+    "p": 2,
+    "st": "BE",
+    "city": "",
+    "t": "Aktivisten kleben sich vor Rheinmetall-Gelände in Berlin fest",
+    "s": "Mehrere Demonstranten haben sich vor dem Firmengelände von Rheinmetall in Berlin festgeklebt. Mit der Aktion protestieren sie gegen Waffenlieferungen nach Israel. Es handelt sich um eine Blockade vor dem Werk des Rüstungskonzerns.",
+    "m": "Vor dem Firmengelände des Rüstungsunternehmens Rheinmetall in Berlin haben mehrere Menschen eine Protestaktion durchgeführt. Im Rahmen der Demonstration klebten sich die Teilnehmenden fest. Der Protest richtet sich explizit gegen Waffenlieferungen nach Israel. Weitere Details zu den genauen Hintergründen, der Anzahl der beteiligten Personen, polizeilichen Maßnahmen oder möglichen Räumungen gehen aus den vorliegenden Berichten derzeit nicht hervor. Auch über Verkehrsbehinderungen oder Festnahmen liegen noch keine offiziellen Informationen vor.",
+    "r": "Die Protestaktion vor einem Rüstungsbetrieb betrifft die aktuelle sicherheits- und außenpolitische Debatte über Rüstungsexporte. Der Vorfall ereignete sich direkt vor Ort an einem Unternehmensstandort in Berlin.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/demonstranten-kleben-sich-vor-rheinmetall-firmengelaende-in-berlin-fest-100.html",
+        "date": "2026-10-20T19:10:16.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Berlin",
+        "url": "https://www.tagesschau.de/inland/regional/berlin/rbb-berlin-menschen-kleben-sich-vor-rheinmetall-firmengelaende-fest-100.html",
+        "date": "2026-10-20T11:14:21.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/demonstranten-kleben-sich-vor-rheinmetall-firmengelaende-in-berlin-fest-100.html",
+    "agree": "Die Quellen stimmen überein, dass sich Demonstranten vor dem Firmengelände von Rheinmetall in Berlin festgeklebt haben und die Aktion gegen Rüstung beziehungsweise Waffenlieferungen nach Israel gerichtet ist.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Nennt zusätzlich, dass es sich um eine Demonstration von mehreren Menschen speziell gegen Waffenlieferungen nach Israel handelt."
+      },
+      {
+        "name": "Tagesschau Regional Berlin",
+        "note": "Beschränkt sich auf die Ortsangabe und die Feststellung der Blockade durch festgeklebte Menschen ohne weitere Details."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-2a0e3747b4394efe",
+    "c": "INT",
+    "o": "PT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-20T19:06:16.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Wohnungsbauminister offen für Mietrechtsreform mit der PS",
+    "s": "Der portugiesische Minister für Wohnungsbau und Infrastruktur hat sich in Coimbra gesprächsbereit gezeigt, das Mietrecht gemeinsam mit der sozialistischen Partei PS zu überarbeiten. Gleichzeitig wies er den Vorwurf zurück, die geltenden Regelungen seien menschenunwürdig. Nähere Details zu den geplanten Änderungen oder einem konkreten Zeitplan wurden zunächst nicht bekannt.",
+    "m": "Der Vorstoß des Ministers erfolgte bei einem Auftritt in Coimbra, bei dem er die Gesprächsbereitschaft bezüglich der umstrittenen Mietgesetze signalisierte. Die Opposition und insbesondere die PS fordern seit längerer Zeit Anpassungen am rechtlichen Rahmen für den Mietmarkt, um Mieter besser zu schützen und den steigenden Kosten entgegenzuwirken. Trotz der angekündigten Dialogbereitschaft verteidigte der Minister die bisherige Gesetzgebung und lehnte die Bezeichnung als unmenschlich entschieden ab. Die Verhandlungen mit der PS könnten in den kommenden Wochen aufgenommen werden, um einen konsensfähigen Kompromiss auszuloten. Bislang handelt es sich jedoch lediglich um eine grundsätzliche politische Öffnung ohne verbindliche Beschlüsse. Die Reaktionen der beteiligten Parteien auf das Angebot stehen noch aus.",
+    "r": "Die Reform des Mietrechts betrifft direkt den Wohnungsmarkt und die sozialen Lebenshaltungskosten in Portugal, weshalb politische Verhandlungen zwischen der Regierung und der PS von hoher gesellschaftlicher Relevanz sind.",
+    "srcs": [
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQWpmTXFLVkI4SlRtdmtpNlVPbHE1T2xsM0FCMWpScTNFTmhlR3dPTDdFZGtNZmhUclp2NGoySmVHRFhnWlhzenlPbEZLT29uU2JKblVQRkFIbWxDSDEyQ09UTUw2VFpObXBxWlU5ajF2Z2ZMZ1RfemFMWE5vMkxRWVZPcEtucTB5WEZSdTZ2Q0JQcGdla3JXV1hJVlg2UkE?oc=5",
+        "date": "2026-10-20T19:06:16.000Z"
+      },
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/economia/ministro-da-habitacao-admite-abertura-para-rever-lei-das-rendas-com-o-ps_n1773025",
+        "date": "2026-10-20T18:00:28.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQWpmTXFLVkI4SlRtdmtpNlVPbHE1T2xsM0FCMWpScTNFTmhlR3dPTDdFZGtNZmhUclp2NGoySmVHRFhnWlhzenlPbEZLT29uU2JKblVQRkFIbWxDSDEyQ09UTUw2VFpObXBxWlU5ajF2Z2ZMZ1RfemFMWE5vMkxRWVZPcEtucTB5WEZSdTZ2Q0JQcGdla3JXV1hJVlg2UkE?oc=5",
+    "agree": "Sowohl Google News Portugal als auch RTP Notícias berichten, dass der Minister für Wohnungsbau und Infrastruktur in Coimbra seine grundsätzliche Offenheit für eine Überarbeitung des Mietrechts gemeinsam mit der PS erklärt hat.",
+    "diff": [
+      {
+        "name": "Google News Portugal",
+        "note": "Meldet die Gesprächsbereitschaft des Ministers mit Verweis auf den Bericht des Diário de Notícias."
+      },
+      {
+        "name": "RTP Notícias",
+        "note": "Ergänzt, dass die Aussagen des Ministers in Coimbra getätigt wurden und er den Vorwurf einer menschenunwürdigen Gesetzgebung zurückgewiesen hat."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-9cf2dd8402c5a43d",
+    "c": "INT",
+    "o": "INT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-20T18:59:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Republikaner kritisieren Donald Trumps Haltung zur Ukraine",
+    "s": "Einige Republikaner im US-Kongress widersprechen der weicheren Haltung von Donald Trump gegenüber Russland. Sie drohen damit, die finanzielle Unterstützung für seine politische Agenda einzustellen. Anlass sind Trumps Handlungen bezüglich der Ukraine, die von Kritikern als beschämend eingestuft werden. Zu den Streitpunkten gehören ein Dieseldeal mit Russland sowie eine Pause bei Sanktionen.",
+    "m": "Die US-Politik steht wegen interner Spannungen bei den Republikanern im Fokus, nachdem Donald Trump seine Unterstützung für die Ukraine infrage gestellt hat. Konkret haben einige republikanische Abgeordnete Kritik an Trumps Kurs geäußert und angekündigt, die Unterstützung für seine Vorhaben zu überdenken oder zu entziehen. Auslöser für diesen Widerstand sind nach Berichten ein jüngster Dieseldeal mit Russland sowie eine ausgesetzte Sanktionspolitik der USA. Kritiker bewerten das Vorgehen des Präsidenten in diesem Zusammenhang als peinlich und unzureichend. Die genauen Konsequenzen für die Gesetzgebung im Kongress sowie die zukünftige US-Außenpolitik gegenüber der Ukraine bleiben vorerst abzuwarten.",
+    "r": "Der innerparteiliche Widerstand von Republikanern gegen den Kurs von Donald Trump könnte dessen politische Agenda im Kongress gefährden. Zudem werfen die Unstimmigkeiten Fragen zur künftigen US-Haltung im Ukraine-Konflikt auf.",
+    "srcs": [
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeWh6UnFFV05zWUZpN0JkSW11YlowaDFsVG85azlLaVdPTFdfSzJYTmpjbFV0eE9IZGdiTWtONjNjLUJKZGFqczFDMnJ6QXBpeTM3TnpXc1BzTlpwaGpWMnpkQS1kd3JNOThFWTFqbnpkaVNKRkJOZzVkem5yckpTT1l0LURWaWFwSkdKLXJRaEliYW91?oc=5",
+        "date": "2026-10-20T18:59:00.000Z"
+      },
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/oct/20/republicans-push-back-trump-ukraine-russia",
+        "date": "2026-10-20T17:32:57.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeWh6UnFFV05zWUZpN0JkSW11YlowaDFsVG85azlLaVdPTFdfSzJYTmpjbFV0eE9IZGdiTWtONjNjLUJKZGFqczFDMnJ6QXBpeTM3TnpXc1BzTlpwaGpWMnpkQS1kd3JNOThFWTFqbnpkaVNKRkJOZzVkem5yckpTT1l0LURWaWFwSkdKLXJRaEliYW91?oc=5",
+    "agree": "Die Quellen stimmen überein, dass Republikaner gegen Donald Trumps veränderte Haltung zur Ukraine und zu Russland opponieren.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Bringt keine eigenständigen Details, sondern verweist lediglich auf den Guardian-Artikel."
+      },
+      {
+        "name": "Guardian World",
+        "note": "Berichtet konkret, dass GOP-Abgeordnete drohen, finanzielle Unterstützung für die Agenda des Präsidenten zu entziehen, und nennt als Gründe einen Russland-Dieseldeal sowie eine Sanktionspause."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-e53e6c797b0915c0",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-20T18:33:41.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Ukraine fordert Beteiligung an möglichem Treffen von Putin, Trump und Xi",
+    "s": "US-Präsident Donald Trump schlägt ein Gipfeltreffen mit Wladimir Putin und Xi Jinping vor, um unter anderem über den Ukraine-Krieg zu sprechen. Der ukrainische Präsident Wolodymyr Selenskyj fordert nun vehement eine Teilnahme seines Landes an diesen Gesprächen. Verhandlungen über die Zukunft der Ukraine seien nur mit der Ukraine am Verhandlungstisch akzeptabel.",
+    "m": "Das mögliche Treffen wurde vom US-Präsidenten ins Gespräch gebracht, um zentrale geopolitische Fragen und den Krieg in der Ukraine zu besprechen. Der ukrainische Präsident Wolodymyr Selenskyj äußerte sich zu diesen Plänen am Dienstag während eines Besuchs in der norwegischen Hauptstadt Oslo. Er betonte, dass es für die Ukraine absolut klar sei, bei Verhandlungen über ihre eigene Zukunft direkt mit am Tisch zu sitzen. Bisher handelt es sich bei dem Treffen der Staatschefs von den USA, Russland und China um einen Vorschlag ohne konkreten Termin oder Bestätigung der anderen beteiligten Seiten. Offen ist demnach, ob ein solches Dreiertreffen tatsächlich stattfindet und ob die Forderung der Ukraine nach Einbindung von den Initiatoren berücksichtigt wird.",
+    "r": "Die Meldung ist relevant, da ein mögliches Gipfeltreffen der Großmächte USA, Russland und China weitreichende Folgen für den Verlauf und die Beendigung des Krieges in der Ukraine haben könnte. Die Reaktion der ukrainischen Führung verdeutlicht den Anspruch Kiews auf Mitsprache bei allen Verhandlungen über die eigene Souveränität und Zukunft.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2lYN0RQQWZjT0pMdFFpQ2pKWEhLRmJLLUVSdDdVcDBQV09oUkowcU9LdFV2TDBGbF9YR3B5dUI4WDdQTHNTcHhuZHdBVWZjcGlXa081ZzZRUkRQRnM3N0VEQzc4aV9HdFVvbXBQU3dPMHRzTDJCV00wazNSekdPTEdGZThzRFplZ2RjQ2V0b0x0RnZRd2JiYWFYbUhVNXhvQ3ZIcDFGbVN4aTNYQlVBMmdR?oc=5",
+        "date": "2026-10-20T18:33:41.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/politik/Ukraine-will-an-moeglichem-Treffen-von-Putin-Trump-und-Xi-teilnehmen-id31440247.html",
+        "date": "2026-10-20T18:33:41.000Z"
+      },
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/news/selenskyj--ukraine-muss-an-moeglichem-treffen-von-putin--trump-und-xi-teilnehmen-38426896.html",
+        "date": "2026-10-20T18:09:35.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2lYN0RQQWZjT0pMdFFpQ2pKWEhLRmJLLUVSdDdVcDBQV09oUkowcU9LdFV2TDBGbF9YR3B5dUI4WDdQTHNTcHhuZHdBVWZjcGlXa081ZzZRUkRQRnM3N0VEQzc4aV9HdFVvbXBQU3dPMHRzTDJCV00wazNSekdPTEdGZThzRFplZ2RjQ2V0b0x0RnZRd2JiYWFYbUhVNXhvQ3ZIcDFGbVN4aTNYQlVBMmdR?oc=5",
+    "agree": "Die Quellen sind sich einig, dass US-Präsident Donald Trump ein Treffen mit Wladimir Putin und Xi Jinping vorschlägt und die Ukraine eine Teilnahme an diesen Plänen fordert.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Verweist auf n-tv.de und erwähnt die Pläne des US-Präsidenten bezüglich der Ukraine."
+      },
+      {
+        "name": "ntv",
+        "note": "Berichtet kurz, dass Trump ein Treffen zur Besprechung des Ukraine-Krieges vorschlägt und sich der ukrainische Präsident zu Wort gemeldet hat."
+      },
+      {
+        "name": "stern",
+        "note": "Ergänzt das genaue Zitat von Selenskyj und nennt als Ort seiner Äußerung einen Besuch am Dienstag in der norwegischen Hauptstadt Oslo."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
+    "id": "story-52b80259cc8f7be0",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-20T18:23:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Bulgarien lehnt neue EU-Finanzhilfe für die Ukraine ab",
+    "s": "Bulgarien wird sich an einem geplanten neuen EU-Finanzhilfspaket für die Ukraine nicht beteiligen. Dies erklärte der russlandfreundliche bulgarische Regierungschef Rumen Radew. Zur Begründung verwies er auf die Erschöpfung der Volkswirtschaften sowie auf wachsende Spannungen und Instabilität durch den anhaltenden Krieg.",
+    "m": "Bulgariens Ministerpräsident Rumen Radew hat eine Beteiligung seines Landes an einem neuen EU-Finanzhilfspaket für die Ukraine kategorisch ausgeschlossen. Es geht dabei um 70 Milliarden Euro, die der ukrainische Präsident Wolodymyr Selenskyj von der Europäischen Union für das Jahr 2027 gefordert hat. Radew begründete die Ablehnung damit, dass der Krieg die europäischen Volkswirtschaften stark erschöpfe. Dies führe zu sozialer Spannung und politischer Instabilität innerhalb der Staatengemeinschaft. Konkrete Details zu alternativen Positionen innerhalb der bulgarischen Regierung oder Reaktionen der EU auf die Ankündigung wurden in den Berichten nicht genannt.",
+    "r": "Die Weigerung eines EU-Mitgliedstaates, sich an groß angelegten Finanzhilfen für die Ukraine zu beteiligen, betrifft die europäische Solidarität und gemeinsame Lastenverteilung. Solche nationalen Blockaden könnten künftige Hilfspakete der EU erschweren.",
+    "srcs": [
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/bulgarien-lehnt-beteiligung-an-neuer-eu-finanzhilfe-fuer-ukraine-ab-a-c691ff7a-35a8-4bfe-a930-3e9f40ffc6f6#ref=rss",
+        "date": "2026-10-20T18:23:00.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/ausland/article6ad79b761935debc092ac140/ukraine-auf-keine-weise-bulgarien-lehnt-beteiligung-an-neuen-euhilfen-ab.html",
+        "date": "2026-10-20T17:16:07.000Z"
+      }
+    ],
+    "url": "https://www.spiegel.de/ausland/bulgarien-lehnt-beteiligung-an-neuer-eu-finanzhilfe-fuer-ukraine-ab-a-c691ff7a-35a8-4bfe-a930-3e9f40ffc6f6#ref=rss",
+    "agree": "Beide Quellen stimmen darin überein, dass der bulgarische Regierungschef Rumen Radew eine Beteiligung an neuen EU-Finanzhilfen für die Ukraine in Höhe von 70 Milliarden Euro abgelehnt und dies mit der Erschöpfung der Volkswirtschaften sowie entstehender Instab",
+    "diff": [
+      {
+        "name": "WELT",
+        "note": "Ergänzt, dass die geforderten 70 Milliarden Euro für das Jahr 2027 von dem ukrainischen Präsidenten Wolodymyr Selenskyj stammen und die entstehenden Spannungen konkret als sozial und politisch bezeichnet werden."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-96d65eac08e12715",
+    "c": "INT",
+    "o": "PT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-20T17:32:08.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Luís Neves warnt nach Polizeieinsätzen in Lissabon und Porto",
+    "s": "Der nationale Direktor der portugiesischen Polizei, Luís Neves, hat sich zu den jüngsten Polizeieinsätzen gegen Protestcamps in Lissabon und Porto geäußert. Er lobte die professionelle Arbeit der PSP während der Räumungen. Gleichzeitig kündigte er ein härteres Vorgehen gegen illegale Proteste an.",
+    "m": "Luís Neves hat die Handhabung der Protestcamps in den Städten Lissabon und Porto durch die Polícia de Segurança Pública (PSP) öffentlich gewürdigt. Bei seinen Äußerungen machte er unmissverständlich klar, dass der Staat illegale Zeltlager und Camps nicht länger tolerieren wird. Der zuständige Minister der Verwaltung verwies in diesem Zusammenhang darauf, dass jegliche Gesetzesverstöße von Demonstranten konsequent von den Sicherheitskräften beantwortet werden. Die Aussagen markieren eine härtere Gangart der Behörden gegenüber anhaltenden Protestformen im öffentlichen Raum. Konkrete Details zu den betroffenen Gruppen oder genauen Zeitpunkten der Räumungen gehen aus den Berichten nicht hervor.",
+    "r": "Die Aussagen des Polizeichefs und des Ministers verdeutlichen die verschärfte Gangart der portugiesischen Behörden gegen Protestcamps. Das Thema berührt die Grundrechte auf Versammlungsfreiheit und die öffentliche Ordnung in den Großstädten.",
+    "srcs": [
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUGl0T0JhMEZnZm5kYU9jYUhmRU5hNzFKaDZaMU5tTGVINldQR1hjNEIwT1E5YjFjMzRDc2JJMGhSVUFqdm81eHI5QUZOY1lNOHV1NEtmeXpEWTV4NlY2WmU5WDJDY1ZJWWJLeHVOOE02OTlzTk9BRW5LUUYwamRvNllvNEVPZ1owd1dvWWFjLUJSMmdHeEpqSVFIMGk0LUEtR08wZ0dpMA?oc=5",
+        "date": "2026-10-20T17:32:08.000Z"
+      },
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/pais/luis-neves-deixa-aviso-acabaram-as-acampadas-e-os-acampamentos_n1773012",
+        "date": "2026-10-20T16:03:05.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUGl0T0JhMEZnZm5kYU9jYUhmRU5hNzFKaDZaMU5tTGVINldQR1hjNEIwT1E5YjFjMzRDc2JJMGhSVUFqdm81eHI5QUZOY1lNOHV1NEtmeXpEWTV4NlY2WmU5WDJDY1ZJWWJLeHVOOE02OTlzTk9BRW5LUUYwamRvNllvNEVPZ1owd1dvWWFjLUJSMmdHeEpqSVFIMGk0LUEtR08wZ0dpMA?oc=5",
+    "agree": "Beide Quellen berichten über die Äußerungen von Luís Neves bezüglich der Beendigung von Camps und acampamentos.",
+    "diff": [
+      {
+        "name": "Google News Portugal",
+        "note": "Nennt die Schlagzeile zur Warnung vor dem Ende der Camps, liefert aber ansonsten keinen weiteren Fließtext."
+      },
+      {
+        "name": "RTP Notícias",
+        "note": "Erwähnt das öffentliche Lob für die PSP-Einsätze in Lissabon und Porto sowie die Warnung des Ministers der Verwaltung vor Gesetzesverstößen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-df70c4864147bd3f",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-20T17:22:37.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Prinz Harry äußert den Wunsch zur Beilegung des Familienstreits",
+    "s": "Prinz Harry zeigt sich offen für eine Versöhnung mit seiner Familie und wünscht sich, dass die Konflikte beigelegt werden. Trotz einer kürzlichen Rückkehr nach Großbritannien bleibt das Verhältnis zu seinem Bruder jedoch angespannt. Zugleich scheint sich zum Vater, König Charles III., wieder eine Verbindung aufzubauen.",
+    "m": "Zwischen Prinz Harry und König Charles III. baut sich offenbar wieder eine Verbindung auf. Im Gegensatz dazu ist das Verhältnis zu seinem Bruder trotz Harrys Rückkehr nach Großbritannien weiterhin belastet und angespannt. Prinz Harry hat den Wunsch geäußert, die Vergangenheit hinter sich zu lassen und den langjährigen Familienstreit zu lösen. Ob es zu konkreten Schritten und einer umfassenden Aussöhnung zwischen den britischen Royals kommt, bleibt vorerst offen. Die Berichterstattung beleuchtet die aktuelle emotionale und familiäre Lage des Herzogs von Sussex.",
+    "r": "Die Meldung ist von gesellschaftlichem Interesse, da das Verhältnis von Prinz Harry zum britischen Königshaus weiterhin im Fokus der Öffentlichkeit steht und mögliche Annäherungen zwischen den Familienmitgliedern thematisiert werden.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOXzJLWGR5dHVhdnFZOXBzcG5oRk1ic0xTNG1mTkwwUEtuQURabEZ3ZFpKc2F6bWtKT3liSWhobVpsVWgwd2FrRHlrZkVITXdPd1ZUUERlVTB0WE1PQjFjXzF0S3dDT0tQZzd5dDloeEd6NEI3b0E4bGQxRTQ4TFA5QUtyMm1vX0RuV0ViWjk3Ulg4R2xFV1E?oc=5",
+        "date": "2026-10-20T17:22:37.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/leute/Prinz-Harry-will-Streit-mit-seiner-Familie-loesen-id31439939.html",
+        "date": "2026-10-20T17:22:37.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOXzJLWGR5dHVhdnFZOXBzcG5oRk1ic0xTNG1mTkwwUEtuQURabEZ3ZFpKc2F6bWtKT3liSWhobVpsVWgwd2FrRHlrZkVITXdPd1ZUUERlVTB0WE1PQjFjXzF0S3dDT0tQZzd5dDloeEd6NEI3b0E4bGQxRTQ4TFA5QUtyMm1vX0RuV0ViWjk3Ulg4R2xFV1E?oc=5",
+    "agree": "Die Quellen stimmen überein, dass Prinz Harry den Streit mit seiner Familie lösen möchte und sein Verhältnis zu König Charles III. sowie seinem Bruder angespannt bis im Aufbau begriffen ist.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Verweist auf einen Artikel von n-tv.de mit dem Zitat Ich möchte, dass es klappt."
+      },
+      {
+        "name": "ntv",
+        "note": "Führt aus, dass sich zu König Charles III. wieder eine Verbindung aufzubauen scheint, während das Verhältnis zum Bruder trotz der Rückkehr nach Großbritannien angespannt bleibt."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-61d6cfbeffe1b607",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-20T17:12:52.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Finanzministerium räumt Panne bei neuem Tabaksteuergesetz ein",
+    "s": "Das Bundesfinanzministerium hat eine Panne beim neuen Tabaksteuergesetz eingeräumt. Im veröffentlichten Text steht, dass die Steuererhöhungen bereits ab Mittwoch und nicht erst ab 2027 greifen sollen. Eine Berichtigung dieses Fehlers wird derzeit vorbereitet.",
+    "m": "Das Bundesfinanzministerium ist wegen eines Fehlers im neuen Tabaksteuergesetz in die Kritik geraten. Demnach sind im Gesetzestext höhere Steuersätze versehentlich so formuliert worden, dass sie bereits ab dem kommenden Mittwoch statt erst im Jahr 2027 in Kraft treten würden. Das Ministerium hat die Panne inzwischen eingeräumt und arbeitet an einer offiziellen Berichtigung. Die betroffene Branche reagierte mit Empörung auf den Fehler. Konkrete Details zur schnellen Korrektur und zu den genauen Auswirkungen auf den Markt werden noch geklärt.",
+    "r": "Gesetzgebungsfehler im Steuerrecht betreffen unmittelbar die Wirtschaft und sorgen für Verunsicherung sowie Empörung in der betroffenen Branche. Eine schnelle Korrektur ist notwendig, um rechtliche und wirtschaftliche Unklarheiten zu vermeiden.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQmVjWDhlbGdPaEdpdlhVYTE0MVBBLWhlLVFqNU1IMFBKZGxvcW91RFdfS2M3alY3MUI5aVlXa2t6bXZGakl0ODBnMG9EWVJjNFFVYUUyTmx6N2U0SkRJb3pZa1JpcnU1N2FtSERRUmkxZWJNVEc5SU1fUmplY1hjODFVU281ZnFpUlZKcXc2R29UN3UzQnJYR093OA?oc=5",
+        "date": "2026-10-20T17:12:52.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/politik/Finanzministerium-patzt-bei-neuem-Tabaksteuergesetz-id31439992.html",
+        "date": "2026-10-20T17:12:52.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQmVjWDhlbGdPaEdpdlhVYTE0MVBBLWhlLVFqNU1IMFBKZGxvcW91RFdfS2M3alY3MUI5aVlXa2t6bXZGakl0ODBnMG9EWVJjNFFVYUUyTmx6N2U0SkRJb3pZa1JpcnU1N2FtSERRUmkxZWJNVEc5SU1fUmplY1hjODFVU281ZnFpUlZKcXc2R29UN3UzQnJYR093OA?oc=5",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-8528dcb91b1fa500",
+    "c": "INT",
+    "o": "INT",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-20T16:52:00.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Großer Weißer Hai springt bei Kalifornien aus dem Wasser",
+    "s": "Am Wochenende hat ein Großer Weißer Hai vor der Küste Kaliforniens für Aufsehen gesorgt. Videos zeigen, wie das Tier vor dem Marina State Beach spektakulär aus dem Wasser sprang. Der Vorfall ereignete sich, während eine Gruppe von Freunden Fotos am Strand machte.",
+    "m": "Der Vorfall am Marina State Beach ereignete sich am vergangenen Wochenende. Im Internet kursierende Videos dokumentieren den spektakulären Moment, in dem der Große Weiße Hai mehrere Fuß hoch aus dem Wasser springt. In diesem Augenblick posierte eine Gruppe von Freunden für Fotos am Strand, wodurch der Hai unerwartet als Fotobombe im Hintergrund auftauchte. Konkrete Zahlen zu Größe oder Gewicht des Hais wurden in den Berichten nicht genannt. Auch Angaben über Verletzte oder Schäden liegen nicht vor. Der Vorfall verdeutlicht die gelegentliche Nähe von Meeresräubern zu belebten Küstenabschnitten.",
+    "r": "Die Meldung dokumentiert ein ungewöhnliches Naturphänomen und die Begegnung von Wildtieren mit Strandbesuchern. Sie zeigt, wie nah Meeresbewohner an von Menschen genutzten Küsten aktiv sein können.",
+    "srcs": [
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQd2p6WmtTSzN1VWVNd2owaFJXS3pobWRBcWpvSjBNYjhndlRGMnZKS3l3R1hGaDc5Tm5hVVU5YnpYYm12cDVjNGE5aFFzVnREOThBLWUwUW1JNVQ4ekdpcERMV250dHZ5c1BESTQza1ZXQzJCMWlJZzV2NHBfMzdQS0pqdjNheG53S25qVnBnOA?oc=5",
+        "date": "2026-10-20T16:52:00.000Z"
+      },
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/oct/20/great-white-shark-photobomb-california",
+        "date": "2026-10-20T16:45:59.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQd2p6WmtTSzN1VWVNd2owaFJXS3pobWRBcWpvSjBNYjhndlRGMnZKS3l3R1hGaDc5Tm5hVVU5YnpYYm12cDVjNGE5aFFzVnREOThBLWUwUW1JNVQ4ekdpcERMV250dHZ5c1BESTQza1ZXQzJCMWlJZzV2NHBfMzdQS0pqdjNheG53S25qVnBnOA?oc=5",
+    "agree": "Die Quellen stimmen überein, dass ein Großer Weißer Hai am Marina State Beach in Kalifornien aus dem Wasser gesprungen ist und dies auf Video festgehalten wurde.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Verweist lediglich auf den Guardian-Artikel mit demselben Titel."
+      },
+      {
+        "name": "Guardian World",
+        "note": "Liefert die Details zu den Videos, dem genauen Ort (Marina State Beach) und der fotografierenden Gruppe von Freunden."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-c7283763591f4eda",
+    "c": "INT",
+    "o": "PT",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-20T16:41:59.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Patti Smith fordert politische Veränderung und kritisiert US-Führung",
+    "s": "Die Musikerin und Dichterin Patti Smith hat nach dem Erhalt des Prinzessin-von-Asturien-Preises der Künste zu einer politischen Veränderung in ihrem Heimatland aufgerufen. Dabei äußerte sie sich beschämt über die derzeitige Führung und betonte, dass die Bevölkerung die Macht habe, Dinge zu verändern.",
+    "m": "Patti Smith wurde am Dienstag mit dem renommierten Prinzessin-von-Asturien-Preis für Kunst ausgezeichnet. Anlässlich dieser Ehrung nutzte die US-amerikanische Künstlerin die Aufmerksamkeit, um deutliche Kritik an der politischen Situation in den Vereinigten Staaten zu üben. Sie bezeichnete die amerikanische Führung als deplorabel und rief die Bürger eindringlich dazu auf, aktiv einen Wandel herbeizuführen. Trotz des oft empfundenen Gefühls der Ohnmacht erinnerte Smith daran, dass die Menschen stets über die tatsächliche Macht für politische und gesellschaftliche Veränderungen verfügen. Konkrete Angaben zu den genauen Hintergründen oder Reaktionen auf ihre Äußerungen liegen derzeit nicht vor.",
+    "r": "Die Äußerungen einer international bekannten Künstlerin bei einer bedeutenden Preisverleihung werfen ein Schlaglicht auf die politische Stimmung und das Verhältnis von Kulturschaffenden zur aktuellen Staatsführung der USA.",
+    "srcs": [
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/cultura/patti-smith-apela-a-mudanca-no-seu-pais-envergonhada-com-lideranca-deploravel_n1773021",
+        "date": "2026-10-20T16:41:59.000Z"
+      },
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORzFXc2RxcHBsQml3OHJxajlJVndZVncwN2RfbzVNSzg4b1MzV3J4OXB6cmk3WWs2MC03NkNpWmxaQWVVOXhwamNrSVlDOWIyTlgtUVpVR0J6ZUlfUkxvLThZbTJYOGVVYmhpQXBtNW9oOXdSdGgyZDFBOWFtRmloMHFLSTZpU1NlbFVCUlYzYVV5ZEZWT2V4dHNaR3lKMjV6OE5ZZG5OVndBWUo4Y0lIdGhQVW1Ockp3c0Q1SnN1NlpMTXVEUHRjdW9zMmo?oc=5",
+        "date": "2026-10-20T15:10:45.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/cultura/patti-smith-apela-a-mudanca-no-seu-pais-envergonhada-com-lideranca-deploravel_n1773021",
+    "agree": "Beide Quellen berichten, dass Patti Smith zu einer Veränderung in ihrem Land aufgerufen und die Führung als deplorabel bezeichnet hat.",
+    "diff": [
+      {
+        "name": "Google News Portugal",
+        "note": "Nennt explizit die Vereinigten Staaten als das betroffene Land und verweist auf den Medienpartner SAPO."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-51396921cf0e1098",
+    "c": "INT",
+    "o": "UK",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-20T16:24:05.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Alberta stimmt gegen Unabhängigkeit von Kanada",
+    "s": "Bei einer Volksabstimmung in der kanadischen Provinz Alberta haben sich die Wähler deutlich gegen eine Unabhängigkeit ausgesprochen. Unoffiziellen Ergebnissen zufolge stimmten rund 76 Prozent der Wähler für den Verbleib bei Kanada. Nur etwa 24 Prozent unterstützten den Beginn eines Sezessionsprozesses.",
+    "m": "Die Abstimmung in Alberta liefert einen entscheidenden Sieg für Premierminister Mark Carney und die Befürworter der kanadischen Einheit. Von fast 1,9 Millionen beziehungsweise mehr als 1,5 Millionen ausgezählten Stimmen sprach sich eine klare Mehrheit gegen den Plan aus, den Weg zur Unabhängigkeit einzuschlagen. Das Ergebnis vertieft zugleich die internen Differenzen innerhalb der separatistischen Bewegung der Provinz. Der Ausgang gilt zudem als politischer Rückenwind für die Einheit zu einer Zeit, in der das Land mit sich verschlechternden Beziehungen zu den Vereinigten Staaten konfrontiert ist. Offizielle Endergebnisse standen zunächst noch aus.",
+    "r": "Das Ergebnis der Abstimmung stärkt die nationale Einheit Kanadas in einer Phase angespannter Beziehungen zu den USA und verhindert vorerst eine Abspaltung der bevölkerungsreichen Provinz Alberta.",
+    "srcs": [
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
+        "date": "2026-10-20T16:24:05.000Z"
+      },
+      {
+        "name": "France24 English",
+        "url": "https://www.france24.com/en/video/20261020-alberta-rejects-move-toward-independence-from-canada",
+        "date": "2026-10-20T13:51:33.000Z"
+      }
+    ],
+    "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
+    "agree": "Beide Quellen stimmen überein, dass rund 76 Prozent der Wähler in Alberta für den Verbleib bei Kanada gestimmt haben und etwa 24 Prozent für den Beginn eines Trennungsprozesses.",
+    "diff": [
+      {
+        "name": "Guardian World",
+        "note": "Erwähnt, dass es sich um fast 1,9 Millionen ausgezählte Stimmen handelt und das Ergebnis als Sieg für Premierminister Mark Carney und die Einheit gewertet wird."
+      },
+      {
+        "name": "France24 English",
+        "note": "Nennt einen Dienstag als Veröffentlichungszeitpunkt, verweist auf mehr als 1,5 Millionen ausgezählte Stimmen und erwähnt die sich verschlechternden Beziehungen zu den Vereinigten Staaten als Kontext."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-09fa0b9597cd722c",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-20T16:20:13.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "„Angst vor dem Fremden ist Gift jeder freiheitlichen Gesellschaft“, mahnt Merz -",
+    "s": "Anlässlich des 65. Jubiläums des Anwerbeabkommens mit der Türkei hat sich Bundeskanzler Merz zur Bedeutung von Migranten geäußert. Er betonte, dass Deutschland durch Zuwanderung in vielen Bereichen reicher geworden sei. Zudem warnte er vor Angst vor dem Fremden und kritisierte den Begriff Remigration scharf.",
+    "m": "Zum 65. Jubiläum des Anwerbeabkommens zwischen Deutschland und der Türkei erklärte Bundeskanzler Merz, dass Deutschland durch Migranten aus der Türkei kulturell, wirtschaftlich, wissenschaftlich und kulinarisch bereichert worden sei. In seiner Rede warnte er eindringlich, dass die Angst vor dem Fremden Gift für jede freiheitliche Gesellschaft sei. Darüber hinaus positionierte er sich gegen den gegenwärtig oft debattierten Begriff der Remigration und bezeichnete diesen explizit als Unwort. Die Äußerungen von Merz fallen in eine Zeit intensiver gesellschaftlicher Debatten über Migration und Integration in Deutschland. Weitere konkrete Details zum Ablauf der Feierlichkeiten oder Reaktionen anderer Politiker nennen die vorliegenden Berichte nicht.",
+    "r": "Die Aussagen des Bundeskanzlers zu Migration und gesellschaftlichem Zusammenhalt anlässlich eines historischen Jubiläums sind von politischer und gesellschaftlicher Relevanz. Sie setzen einen offiziellen Akzent in der aktuellen Integrationsdebatte.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOYTY5eFA0alAtM2ZHOWcwZFQ1Sm1yUWhJQjJrMkJjOGNmNXctWG1SRGY1cUp0TVBIOGdWcjlIUzNtOTVVM205QzRFWmNsbDVIMGMyRU5YcmlNQWpUaWdEdkpweDFuVGZnVVB0S0FKajQ2czhCSEFBNnl4eFpKaTZDdnpsWmdGbnNpcmpkcW5SZmYwWWpTVTlOTDIyeThNcktvODZaR2tpcGtGbHZiNTM2NGlLWVZRa1Q1Q2xDeFhjQVUxR0FCUnNzSEdlY0JQbXNrSE1meUk0M0xSZUJ2VEhpX1hrYWlNTXNHcFlaWFFNWGdZaHJSYllFTG1FaUZyS3pzemRwdy1lc2NnQQ?oc=5",
+        "date": "2026-10-20T16:20:13.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/deutschland/article6ad78aae51e5094f7a5734b4/friedrich-merz-wuerdigt-gastarbeiter-angst-vor-dem-fremden-ist-gift-jeder-freiheitlichen-gesellschaft.html",
+        "date": "2026-10-20T16:18:44.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOYTY5eFA0alAtM2ZHOWcwZFQ1Sm1yUWhJQjJrMkJjOGNmNXctWG1SRGY1cUp0TVBIOGdWcjlIUzNtOTVVM205QzRFWmNsbDVIMGMyRU5YcmlNQWpUaWdEdkpweDFuVGZnVVB0S0FKajQ2czhCSEFBNnl4eFpKaTZDdnpsWmdGbnNpcmpkcW5SZmYwWWpTVTlOTDIyeThNcktvODZaR2tpcGtGbHZiNTM2NGlLWVZRa1Q1Q2xDeFhjQVUxR0FCUnNzSEdlY0JQbXNrSE1meUk0M0xSZUJ2VEhpX1hrYWlNTXNHcFlaWFFNWGdZaHJSYllFTG1FaUZyS3pzemRwdy1lc2NnQQ?oc=5",
+    "agree": "",
     "diff": [],
     "chg": "",
     "independent": 2
@@ -92,75 +737,6 @@
     "url": "https://www.deutschlandfunk.de/porto-fuer-standardbrief-soll-um-20-cent-auf-1-15-euro-steigen-102.html",
     "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
     "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-4175a097df42d92e",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-20T15:23:59.000Z",
-    "p": 2,
-    "st": "BY",
-    "city": "",
-    "t": "Vierte Amtszeit angestrebt - Schuster will Zentralratspräsident bleiben",
-    "s": "Der Präsident des Zentralrats der Juden in Deutschland, Schuster, strebt eine vierte Amtszeit an.",
-    "m": "Der Präsident des Zentralrats der Juden in Deutschland, Schuster, strebt eine vierte Amtszeit an. Der Würzburger Arzt Josef Schuster kandidiert für eine vierte Amtszeit als Präsident des Zentralrats der Juden. Seit 2014 ist der 72-Jährige die Stimme der 150.000 Jüdinnen und Juden in Deutschland. Ende November wird gewählt.",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/schuster-will-zentralratspraesident-bleiben-100.html",
-        "date": "2026-10-20T15:23:59.000Z"
-      },
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/in-unruhigen-zeiten-schuster-will-zentralrats-praesident-bleiben,VYarylf",
-        "date": "2026-10-20T14:24:20.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/schuster-will-zentralratspraesident-bleiben-100.html",
-    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-35c423f5abf35a4c",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-20T15:23:59.000Z",
-    "p": 2,
-    "st": "BE",
-    "city": "",
-    "t": "Demonstranten kleben sich vor Rheinmetall-Firmengelände in Berlin fest",
-    "s": "Mehrere Menschen haben vor dem Rheinmetall-Firmengelände in Berlin demonstriert. Bei der Kundgebung protestierten die Teilnehmer gegen Waffenlieferungen. Im Zuge der Aktion klebten sich Demonstranten vor dem Eingang fest.",
-    "m": "Vor dem Werksgelände von Rheinmetall in Berlin kam es zu einer Protestaktion gegen Rüstungslieferungen. Mehrere Personen beteiligten sich an der Kundgebung und äußerten ihren Unmut über Waffenexporte, insbesondere nach Israel. Als Mittel des Protests klebten sich Demonstranten vor dem Firmengelände fest, wodurch der Zugang blockiert wurde. Der genaue Verlauf und die Dauer der Blockade sowie mögliche Polizeieinsätze gehen aus den vorliegenden Berichten nicht hervor. Auch über die genaue Anzahl der beteiligten Personen oder eventuelle Festnahmen oder Räumungen gibt es bislang keine weiteren offiziellen Angaben in den Quellen. Die Aktion richtet sich explizit gegen die Geschäftspraktiken und Lieferungen des Rüstungskonzerns.",
-    "r": "Die Proteste beleben die aktuelle gesellschaftliche und politische Debatte um deutsche Rüstungsexporte und Waffenlieferungen in Krisenregionen. Zudem verdeutlichen sie die Aktionsformen von Aktivisten gegen Rüstungsunternehmen im urbanen Raum.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/demonstranten-kleben-sich-vor-rheinmetall-firmengelaende-in-berlin-fest-100.html",
-        "date": "2026-10-20T15:23:59.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Berlin",
-        "url": "https://www.tagesschau.de/inland/regional/berlin/rbb-berlin-menschen-kleben-sich-vor-rheinmetall-firmengelaende-fest-100.html",
-        "date": "2026-10-20T11:14:21.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/demonstranten-kleben-sich-vor-rheinmetall-firmengelaende-in-berlin-fest-100.html",
-    "agree": "Beide Quellen stimmen darin überein, dass sich Menschen vor dem Rheinmetall-Firmengelände in Berlin festgeklebt haben und es eine Demonstration gab.",
-    "diff": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "note": "Erwähnt zusätzlich, dass sich die Demonstration konkret gegen Waffenlieferungen nach Israel richtet."
-      }
-    ],
     "chg": "",
     "independent": 2
   },
@@ -314,16 +890,16 @@
     "id": "story-d592978d4ba5ee34",
     "c": "DE",
     "o": "DE",
-    "k": "panorama",
+    "k": "wirtschaft",
     "lang": "de",
     "d": "2026-10-20T14:00:04.000Z",
-    "p": 2,
+    "p": 3,
     "st": "",
     "city": "",
-    "t": "Die Deutsche Post will 2027 das Porto für Briefe erhöhen",
-    "s": "Die Deutsche Post will das Briefporto im kommenden Januar von 95 Cent auf 1,15 Euro anheben. Auch Postkarten, Großbriefe und andere Produkte sollen 2027 teurer werden - sofern die Bundesnetzagentur die Erhöhungen genehmigt.",
-    "m": "Die Deutsche Post will das Briefporto im kommenden Januar von 95 Cent auf 1,15 Euro anheben. Auch Postkarten, Großbriefe und andere Produkte sollen 2027 teurer werden - sofern die Bundesnetzagentur die Erhöhungen genehmigt. Die Deutsche Post will 2027 das Porto für Briefe erhöhen tagesschau.de <a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPYU9yOXExNk9fbVZEY2lmbEVDRnV3aVYtb1k4QUdfc0VXZWVyQ0ZtaVpGZ3h2QjBNLTFJOVFLd3otc1N0bmVsS1VacDRZTHVOTDNkdmk4UE5CdzlJZlRRdlZIcnFnNHlYMW1OZmxZYk5IQUdCUFVIcGpjUTc0aHFGYkxrMmcxcHJIekRLNWVPeVpKX2M2S0hkRldzZFVYVi10eUNvTDhZaTYtc2xhQy1MZXlxUFcwZW9OUlc0VkhCVlkycFo0dGRv",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "t": "Deutsche Post plant Erhöhung des Briefportos im Jahr 2027",
+    "s": "Die Deutsche Post hat angekündigt, das Briefporto im Januar 2027 von bisher 95 Cent auf 1,15 Euro zu erhöhen. Von der geplanten Preiserhöhung sind neben Standardbriefen auch Postkarten und Großbriefe betroffen. Die Umsetzung des Vorhabens ist jedoch an die offizielle Genehmigung durch die Bundesnetzagentur geknüpft.",
+    "m": "Die Deutsche Post plant für Januar 2027 eine spürbare Anhebung der Portogebühren für verschiedene Postprodukte. Konkret soll der Preis für einen Standardbrief von aktuell 95 Cent auf 1,15 Euro steigen. Neben dem klassischen Brief sind im Rahmen der geplanten Preisanpassungen auch Postkarten, Großbriefe sowie weitere Postdienstleistungen von Verteuerungen betroffen. Ob die Tarife tatsächlich wie vorgesehen steigen können, entscheidet letztlich die Bundesnetzagentur, deren behördliche Genehmigung zwingend erforderlich ist. Bisher handelt es sich um eine Ankündigung des Postunternehmens. Weitere Details zum genauen zeitlichen Ablauf des Genehmigungsverfahrens oder zu den exakten Preisen aller betroffenen Sonderprodukte nennen die vorliegenden Berichte nicht.",
+    "r": "Die geplante Portomarke betrifft Millionen Bürger und Unternehmen in Deutschland, die auf den Postverkehr angewiesen sind. Eine behördliche Genehmigung durch die Bundesnetzagentur steht für die Umsetzung noch aus.",
     "srcs": [
       {
         "name": "Tagesschau",
@@ -337,8 +913,13 @@
       }
     ],
     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/porto-standardbrief-100.html",
-    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
-    "diff": [],
+    "agree": "Die Deutsche Post will im Januar 2027 das Briefporto auf 1,15 Euro erhöhen, wobei die Bundesnetzagentur zustimmen muss.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Verweist lediglich auf den Artikel der Tagesschau und enthält keinen eigenständigen redaktionellen Text."
+      }
+    ],
     "chg": "",
     "independent": 2
   },
@@ -490,6 +1071,79 @@
     "independent": 2
   },
   {
+    "id": "story-772e29c1e9195078",
+    "c": "INT",
+    "o": "PT",
+    "k": "technik",
+    "lang": "de",
+    "d": "2026-10-20T13:03:56.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Technische Störung beeinträchtigt Google Cloud und Revolut in Europa",
+    "s": "Am Dienstag kam es in Europa zu einer technischen Störung, von der verschiedene Dienste der Google Cloud betroffen waren. Auch das digitale Kreditinstitut Revolut war von den Ausfällen beeinträchtigt. Genauere Details zum Ausmaß oder zur Ursache der Störung gehen aus den Berichten bisher nicht hervor.",
+    "m": "Die technischen Probleme traten an einem Dienstag auf und erstreckten sich über den europäischen Raum. Im Fokus der Störung standen diverse Dienste von Google Cloud sowie das Banking-Angebot von Revolut. Bisher ist unklar, wie lange die Störungen andauerten und wie viele Nutzer oder Unternehmen konkret geschädigt wurden. Es liegen zudem keine Informationen dazu vor, ob ein externer Angriff oder ein interner Systemfehler die Ursache war. Die Berichterstattung beschränkt sich auf die Feststellung, dass beide Dienste miteinander verbunden durch den Fehler gestört wurden. Offen bleibt weiterhin, wann mit einer lückenlosen Aufklärung durch die Unternehmen zu rechnen ist.",
+    "r": "Der Vorfall ist von Bedeutung, da plötzliche Ausfälle von Cloud-Diensten und digitalen Banken wie Google Cloud und Revolut zahlreiche Nutzer und Geschäftsprozesse in ganz Europa empfindlich stören können.",
+    "srcs": [
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNDMtd0FEWEIxQXBmaTNRNG5SN29HTFYxbW1sOXh5dENWTEJ4TW1NdVhsNm9yREFpaHMzYkxHUHduTlpYbTV5bGg2ZEtZVXNrMlREZW9NSEdpdlNkOFZiWU4wZDlkOEd2VDNHRU83TF9wbEpXVDBJYTYzdnNOSHJuV3gwZG1aUlU5U2pBcGRYMko5LUZmNDNOU19oQTNQZUFtWE9YTFE3MTNzUjdLYXRXaTYxX2lnMnZm?oc=5",
+        "date": "2026-10-20T13:03:56.000Z"
+      },
+      {
+        "name": "RTP Mundo",
+        "url": "https://www.rtp.pt/noticias/mundo/servicos-da-google-cloud-e-da-revolut-afetados-por-falha-tecnica-na-europa_n1772921",
+        "date": "2026-10-20T12:01:26.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNDMtd0FEWEIxQXBmaTNRNG5SN29HTFYxbW1sOXh5dENWTEJ4TW1NdVhsNm9yREFpaHMzYkxHUHduTlpYbTV5bGg2ZEtZVXNrMlREZW9NSEdpdlNkOFZiWU4wZDlkOEd2VDNHRU83TF9wbEpXVDBJYTYzdnNOSHJuV3gwZG1aUlU5U2pBcGRYMko5LUZmNDNOU19oQTNQZUFtWE9YTFE3MTNzUjdLYXRXaTYxX2lnMnZm?oc=5",
+    "agree": "Die Quellen stimmen überein, dass eine technische Störung in Europa am Dienstag Dienste von Google Cloud und das Bankinstitut Revolut beeinträchtigt hat.",
+    "diff": [
+      {
+        "name": "Google News Portugal",
+        "note": "Verweist auf einen Artikel der RTP bezüglich der betroffenen Dienste."
+      },
+      {
+        "name": "RTP Mundo",
+        "note": "Nennt den Wochentag Dienstag explizit im Zusammenhang mit dem Auftreten der technischen Störung."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-c465a30f5a52dab6",
+    "c": "INT",
+    "o": "UK",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-20T11:45:49.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Nordkorea veröffentlicht Fotos von Kim Jong Un nach Todesgerüchten",
+    "s": "Nordkoreanische Staatsmedien haben neue Fotos von Machthaber Kim Jong Un veröffentlicht. Die Bilder zeigen ihn gemeinsam mit seiner Tochter. Damit reagieren die Medien auf unbestätigte Gerüchte über seinen angeblichen Tod.",
+    "m": "In den vergangenen Tagen kursierten erneut unbestätigte Gerüchte über den Tod des nordkoreanischen Diktators Kim Jong Un. Die staatlichen Medien des Landes veröffentlichten daraufhin aktuelle Fotos, die Kim Jong Un an der Seite seiner Tochter zeigen. Solche Spekulationen über den Gesundheitszustand oder das Ableben des Machthabers treten in schöner Regelmäßigkeit auf. Hintergrund sind meist die extreme Geheimhaltung und mangelnde transparente Informationen aus dem abgeschotteten Land. Konkrete Details zu den Umständen der Aufnahme oder seinem Gesundheitszustand wurden von offizieller Seite jedoch nicht genannt. Die Berichterstattung beschränkt sich vor allem auf die Einordnung, warum diese Spekulationen international immer wieder aufkommen.",
+    "r": "Die Meldung ist relevant, da Spekulationen über den Zustand des nordkoreanischen Machthabers internationale Beachtung finden und Fragen zur Stabilität des Landes aufwerfen. Zudem wirft der wiederkehrende Charakter der Gerüchte ein Licht auf den Umgang staatlicher Medien mit solchen Berichten.",
+    "srcs": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-20T11:45:49.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FX1o5M1NQc3JVODZwQ2xUbUtoZk1lV1ZDclMyRTlCM2RzNFdfRHNmV3pNS3NLb2hoUGF3clluOURUcDByRnhfMHp6TkZaYVVyN1ZVUGlJOUlwT0k?oc=5",
+        "date": "2026-10-20T11:45:49.000Z"
+      }
+    ],
+    "url": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
+    "agree": "Beide Quellen stimmen überein, dass nordkoreanische Medien Fotos von Kim Jong Un veröffentlicht haben, um auf wiederkehrende Todesgerüchte zu reagieren.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-445b8405da6cfdbc",
     "c": "INT",
     "o": "INT",
@@ -600,6 +1254,47 @@
     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/deutschlandticket-316.html",
     "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
     "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-e40af5407a3d8cf9",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-20T10:50:05.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Selenskyj trifft US-Gesandten Witkoff in Oslo",
+    "s": "Der ukrainische Präsident Wolodymyr Selenskyj ist in Oslo mit dem US-Gesandten Witkoff zu Gesprächen zusammengekommen. Das Treffen findet vor dem Hintergrund zuletzt verschlechterter Beziehungen zwischen den USA und der Ukraine statt. Auslöser für die Spannungen ist insbesondere der Umgang des US-Präsidenten Trump mit Russland. Weitere offizielle Details zu den Inhalten oder Ergebnissen des Treffens wurden zunächst nicht bekannt.",
+    "m": "Das Treffen zwischen dem ukrainischen Präsidenten Wolodymyr Selenskyj und dem US-Gesandten Witkoff in Oslo markiert einen wichtigen diplomatischen Kontakt inmitten anhaltender geopolitischer Spannungen. Zuletzt waren die bilateralen Beziehungen zwischen Kiew und Washington durch den Umgang von US-Präsident Trump mit Russland stark belastet worden. Die Konsultationen sollen offenbar dazu dienen, den Dialog zwischen den Regierungen aufrechtzuerhalten und Standpunkte abzustimmen. Beobachter werten das Gespräch als Versuch, trotz unterschiedlicher Einschätzungen zur Russland-Politik im Gespräch zu bleiben. Bislang liegen keine tiefergehenden Berichte über konkrete Ergebnisse oder Vereinbarungen vor. Das Treffen reiht sich in eine Serie diplomatischer Bemühungen ein, um die ukrainische Position zu unterstützen und gleichzeitig die Beziehungen zu den Vereinigten Staaten zu stabilisieren.",
+    "r": "Das Treffen ist relevant, da die Beziehungen zwischen der Ukraine und den USA zuvor durch Trumps Russland-Kurs belastet wurden. Gespräche zwischen hochrangigen Vertretern beider Seiten geben Aufschluss über den aktuellen Zustand der diplomatischen und militärischen Koordination.",
+    "srcs": [
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/europa/ukraine-treffen-witkoff-100.html",
+        "date": "2026-10-20T10:50:05.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1bGRBZTVrX2E1c1QtV2lIUHpzNVV0VlN5aWV4TDlsSk1iVzk2X2xXUU5ESkstUXYzYTdpMHBwTDJaU2NlMTg1akV1N0czMl90VmtjX1YxWGlXamtFWmNhc1NEc3RIR0FhdWR4aFM0cXFiNlVyN09qcFl4amdVUQ?oc=5",
+        "date": "2026-10-20T10:50:00.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/ausland/europa/ukraine-treffen-witkoff-100.html",
+    "agree": "Die Quellen sind sich einig, dass der ukrainische Präsident Selenskyj den US-Gesandten Witkoff in Oslo zu Gesprächen getroffen hat und die Beziehungen zwischen den USA und der Ukraine zuvor durch Trumps Umgang mit Russland belastet waren.",
+    "diff": [
+      {
+        "name": "Tagesschau",
+        "note": "Berichtet als Primärquelle über das Treffen zwischen Selenskyj und dem US-Gesandten Witkoff in Oslo und erwähnt die vorausgegangenen Spannungen wegen Trumps Russland-Politik."
+      },
+      {
+        "name": "Google News DE",
+        "note": "Führt die Meldung lediglich als Verweis auf den Bericht der Tagesschau und enthält keine eigenständigen Zusatzinformationen."
+      }
+    ],
     "chg": "",
     "independent": 2
   },
@@ -15430,697 +16125,6 @@
       {
         "name": "DER SPIEGEL",
         "note": "Erwähnt zusätzlich das Spiel der Bayern in Stavanger, Niko Kovač' nicht aufgegangene Rotationen sowie die Bedeutung des restlichen Oktobers."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-d3cc3f694dfb46d0",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-14T21:39:00.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "„The Masked Singer“: Ronan Keating als Mikrofon-Mann enttarnt",
-    "s": "Weltstar Ronan Keating lässt die Maske fallen: Er ist „Mr. Mic.“ Enttarnt werden auch Isi Glück und ein Moderator mit Verbindung zu Monaco.",
-    "m": "Weltstar Ronan Keating lässt die Maske fallen: Er ist „Mr. Mic.“ Enttarnt werden auch Isi Glück und ein Moderator mit Verbindung zu Monaco. Fernsehen: Popstar Ronan Keating bei «Masked Singer» enttarnt",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
-    "srcs": [
-      {
-        "name": "stern",
-        "url": "https://www.stern.de/kultur/-the-masked-singer---ronan-keating-als-mikrofon-mann-enttarnt-38398918.html",
-        "date": "2026-10-14T21:39:00.000Z"
-      },
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/news/2026-10/14/popstar-ronan-keating-bei-masked-singer-enttarnt",
-        "date": "2026-10-14T21:31:04.000Z"
-      }
-    ],
-    "url": "https://www.stern.de/kultur/-the-masked-singer---ronan-keating-als-mikrofon-mann-enttarnt-38398918.html",
-    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-62ca451bfcfd3ca2",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-14T20:45:01.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Berlin: Sondierungsgespräche zwischen SPD, Grünen und Linken werden fortgesetzt",
-    "s": "Nach einer kurzzeitigen Unterbrechung der Sondierungsgespräche durch SPD und Grüne setzen die Parteien ihre Gespräche mit der Linkspartei in Berlin fort. Laut der linken Spitzenkandidatin Elif Eralp seien alle Missverständnisse ausgeräumt. Die Verhandlungen sollen am Donnerstag weitergehen. Eine Einigung gibt es bereits bezüglich einer Antisemitismus-Vereinbarung.",
-    "m": "Die am Dienstag von SPD und Grünen unterbrochenen Sondierungsgespräche mit der Linkspartei in Berlin werden offenbar am Donnerstag fortgesetzt. Nach Angaben der linken Spitzenkandidatin Elif Eralp konnten alle aufgetretenen Missverständnisse zwischen den Beteiligten ausgeräumt werden, wodurch eine Rückkehr an den Verhandlungstisch möglich wird. Ein zentraler Punkt der bisherigen Verständigung ist die Vereinbarung, dass ein gemeinsames Vorgehen und eine Erklärung gegen Antisemitismus direkt in einen etwaigen künftigen Koalitionsvertrag aufgenommen werden sollen. Damit zeigen sich die Parteien trotz der kurzzeitigen Verstimmung wieder kompromissbereit. Weitere Details zum genauen Verlauf der Gespräche oder zur zeitlichen Planung eines möglichen Koalitionsvertrags wurden zunächst nicht genannt.",
-    "r": "Die Fortsetzung der Gespräche ist relevant für die politische Zukunft Berlins und die mögliche Bildung einer Koalition aus SPD, Grünen und Linken. Die Einigung über eine Antisemitismus-Vereinbarung zeigt einen ersten inhaltlichen Konsens.",
-    "srcs": [
-      {
-        "name": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/inland/regional/berlin/fortsetzung-sondierungen-berlin-100.html",
-        "date": "2026-10-14T20:45:01.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/politik/linke-sondierungsgespraeche-in-berlin-werden-offenbar-fortgesetzt-a-1609c605-26e7-409d-8fd3-255249f0a981#ref=rss",
-        "date": "2026-10-14T19:28:00.000Z"
-      },
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcDBpa0NWUjBwbld4QWRoaHpTMEhSWC1ORXJfMHRKakNlU3pXZU9ZWnhERGwxX2ZhRW1qRHJtand1aGs3WW9HVzJCbjJiQzB4RXlrUzN3UUxjU0xSa3JLdFJnVGQzU2x6dTJJUTQ4Z0lBLWxnS1RyR3dJb0lGWnd0bnVSNVFPMmREQldOYkxHOE92T1ZDVjV2dnE5NzF1Ynl5X2JkZVZZemR3SWlhbzBNWm9lYlFBU2UxOXdjN1dGaEVEWkNaZmNxTTZRVnZWWUdXaC1qd1R3MENjdVU3NWc?oc=5",
-        "date": "2026-10-14T19:10:07.000Z"
-      },
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/politik/Sondierungsgespraeche-in-Berlin-werden-fortgesetzt-id31418895.html",
-        "date": "2026-10-14T19:05:39.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/regional/berlin/fortsetzung-sondierungen-berlin-100.html",
-    "agree": "Die Parteien SPD, Grüne und Linke setzen ihre zuvor unterbrochenen Sondierungsgespräche in Berlin fort.",
-    "diff": [
-      {
-        "name": "DER SPIEGEL",
-        "note": "nennt die linke Spitzenkandidatin Elif Eralp namentlich und gibt an, dass die Gespräche am Donnerstag fortgesetzt werden und Missverständnisse ausgeräumt seien."
-      },
-      {
-        "name": "Google News DE",
-        "note": "verweist auf einen Artikel der Süddeutschen Zeitung und nennt ebenfalls Eralp im Zusammenhang mit der Fortsetzung der Gespräche."
-      },
-      {
-        "name": "ntv",
-        "note": "erwähnt die Unterbrechung am Dienstag und präzisiert, dass die Antisemitismus-Erklärung in einen etwaigen Koalitionsvertrag aufgenommen werden soll."
-      }
-    ],
-    "chg": "",
-    "independent": 4
-  },
-  {
-    "id": "story-b1a4a1cd2f93d874",
-    "c": "INT",
-    "o": "INT",
-    "k": "wissenschaft",
-    "lang": "de",
-    "d": "2026-10-14T20:37:14.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Ältestes Schiffswrack der Welt vor der Küste der Türkei entdeckt",
-    "s": "Vor der türkischen Küste wurde das weltweit älteste Schiffswrack gefunden. Analysen von Tongefässen geben Aufschluss über die Herkunft der Fundstücke. Weitere Details zu dem historischen Fund wurden von Medien bekannt gegeben.",
-    "m": "Vor der Küste der Türkei ist das weltberühmte und älteste Schiffswrack der Welt entdeckt worden. Konkrete Untersuchungen von Tonanalysen konnten geborgene Vorratsgefässe zeitlich und geografisch bestimmten Werkstätten zuordnen. Diese antiken Werkstätten operierten in der Frühgeschichte über den gesamten Jordan Valley. Die Funde eröffnen neue Einblicke in die Handelswege und die maritime Geschichte der Region. Die genaue Datierung und die Bergungsarbeiten verdeutlichen die Bedeutung des archäologischen Fundes. Es wird erwartet, dass weitere Analysen zusätzliche Details zur genauen Beschaffenheit des Schiffes und seiner Ladung liefern. Offen bleibt bislang, wie gut das Wrack im Detail erhalten ist und welche weiteren Artefakte sich an Bord befanden.",
-    "r": "Die Entdeckung des ältesten Schiffswracks der Welt erweitert das wissenschaftliche Wissen über antike Handelsbeziehungen im östlichen Mittelmeerraum. Die archäologischen Funde erlauben präzisere Rückschlüsse auf frühgeschichtliche Produktionsstätten und Logistikketten.",
-    "srcs": [
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUmZXZDdwTXlGYjVwc01iN2RZc3d3TDYzS2pqMGRVYnduem5BTWRoRXRfVnRZTDRsU0xsRlZEcGlMbkQ1MDQ4RjNWc0FvVXFhX2xTbmJQZmp0V3czeTg4bWtvLVFLN1pBNWhOTkNmdHR2M0xGRXBiNjJJcjhUVGVvYmVHMk14dERaNFd0eW9aVWJzTDZudVVn0gGcAUFVX3lxTFBpMmpqR1hSVlpjZDd2VlYzNUhSZUpVaHZLTXhpZFRxSEd2ZFU5MXFYRWUwUXBjT0doTVM5MlZ1c1BWdmI3a2JMMjByOGFaNm5seTZPSzQxOUJ3MXJmUXA4MzE1U29FMmNoUUQ5dTQwZi01anljTlljYTZhdTg5OTJFaU0tVkVpdi1zT1dqMlFzTkhrUk9EMUxDbHNaUQ?oc=5",
-        "date": "2026-10-14T20:37:14.000Z"
-      },
-      {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/14/worlds-oldest-shipwreck-found-off-coast-of-turkiye?traffic_source=rss",
-        "date": "2026-10-14T20:33:20.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUmZXZDdwTXlGYjVwc01iN2RZc3d3TDYzS2pqMGRVYnduem5BTWRoRXRfVnRZTDRsU0xsRlZEcGlMbkQ1MDQ4RjNWc0FvVXFhX2xTbmJQZmp0V3czeTg4bWtvLVFLN1pBNWhOTkNmdHR2M0xGRXBiNjJJcjhUVGVvYmVHMk14dERaNFd0eW9aVWJzTDZudVVn0gGcAUFVX3lxTFBpMmpqR1hSVlpjZDd2VlYzNUhSZUpVaHZLTXhpZFRxSEd2ZFU5MXFYRWUwUXBjT0doTVM5MlZ1c1BWdmI3a2JMMjByOGFaNm5seTZPSzQxOUJ3MXJmUXA4MzE1U29FMmNoUUQ5dTQwZi01anljTlljYTZhdTg5OTJFaU0tVkVpdi1zT1dqMlFzTkhrUk9EMUxDbHNaUQ?oc=5",
-    "agree": "Beide Quellen stimmen darin überein, dass das älteste Schiffswrack der Welt vor der Küste der Türkei gefunden wurde.",
-    "diff": [
-      {
-        "name": "Al Jazeera",
-        "note": "Berichtet ergänzend, dass Tonanalysen geborgene Vorratsgefässe zu Werkstätten im Jordan Valley zurückverfolgen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-fd9fb37b63a8cac2",
-    "c": "DE",
-    "o": "DE",
-    "k": "sport",
-    "lang": "de",
-    "d": "2026-10-14T20:35:12.000Z",
-    "p": 3,
-    "st": "HE",
-    "city": "",
-    "t": "MT Melsungen kassiert deutliche Niederlage in der Handball-Champions-League gegen Nantes",
-    "s": "Die MT Melsungen hat in der EHF Champions League ein deutliches Auswärtsspiel bei HBC Nantes verloren. Die Partie verlief von Beginn an schwierig für die hessischen Gäste. Nach diesem klaren Resultat gerät das Team im Wettbewerb unter Druck. Eine weitere Niederlage könnte im kommenden Gruppenspiel das vorzeitige Aus bedeuten.",
-    "m": "Die MT Melsungen musste sich in der Champions League bei HBC Nantes geschlagen geben und gerät durch diese klare Auswärtsniederlage stark unter Druck. Bereits vom Beginn der Partie an liefen die Hessen den Franzosen hinterher und fanden kein Mittel gegen den Gegner. Details zum exakten Spielstand oder Torschützen nennen die Berichte nicht. In der aktuellen Gruppenphase der Champions League könnte nun eine weitere Niederlage im nächsten Spiel das Aus für Melsungen bedeuten. Weitere sportliche Details oder Hintergründe zum Verlauf der Gruppenphase gehen aus den vorliegenden Berichten nicht hervor.",
-    "r": "Die deutliche Niederlage der MT Melsungen in der Champions League gegen Nantes verschlechtert die Ausgangslage des Teams im Wettbewerb massiv. Nächste Niederlagen könnten nun das direkte Ausscheiden besiegeln, wodurch der sportliche Druck auf die Mannschaft stark wächst.",
-    "srcs": [
-      {
-        "name": "Tagesschau Regional Hessen",
-        "url": "https://www.tagesschau.de/inland/regional/hessen/hr-handball-champions-league-mt-melsungen-geraet-in-nantes-unter-die-raeder-102.html",
-        "date": "2026-10-14T20:35:12.000Z"
-      },
-      {
-        "name": "stern",
-        "url": "https://www.stern.de/gesellschaft/regional/hessen/champions-league--champions-league--melsungen-geht-in-nantes-unter-38398622.html",
-        "date": "2026-10-14T20:26:35.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/regional/hessen/hr-handball-champions-league-mt-melsungen-geraet-in-nantes-unter-die-raeder-102.html",
-    "agree": "Die Quellen stimmen überein, dass die MT Melsungen in der Champions League eine deutliche Niederlage gegen HBC Nantes erlitten hat.",
-    "diff": [
-      {
-        "name": "Tagesschau Regional Hessen",
-        "note": "Berichtet, dass die Hessen vom Fleck weg der Musik hinterherliefen."
-      },
-      {
-        "name": "stern",
-        "note": "Berichtet, dass Melsungen nun unter Druck steht und eine weitere Niederlage im nächsten Gruppenspiel das Aus bedeuten könnte."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-feb34010608439a9",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-14T20:01:02.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "GKV-Schätzerkreis: Zusatzbeitrag der Krankenversicherungen soll 2027 stabil bleiben",
-    "s": "Der GKV-Schätzerkreis hat über den Zusatzbeitrag für das Jahr 2027 beraten und empfohlen, diesen stabil zu halten. Gesundheitsminister Carsten Linnemann bewertet diese Entwicklung positiv. Die entsprechenden Berichte wurden von mehreren Medien übereinstimmend veröffentlicht.",
-    "m": "Der GKV-Schätzerkreis hat sich im Rahmen seiner Beratungen für einen unveränderten durchschnittlichen Zusatzbeitrag in der gesetzlichen Krankenversicherung ausgesprochen, der bei 2,9 Prozent liegen soll. Bundesgesundheitsminister Carsten Linnemann äußerte sich erfreut über diese Prognose und wertete die Entwicklung als gutes Zeichen. Dennoch wird in Berichten darauf hingewiesen, dass die finanzielle Lage der Krankenkassen trotz der Beitragsstabilität weiterhin angespannt ist. Das genaue Datum der Veröffentlichung der Schätzerkreis-Prognose und weitere Details zur genauen Kassenfinanzierung wurden in den Meldungen nicht näher spezifiziert.",
-    "r": "Die Stabilität des Zusatzbeitrags in der gesetzlichen Krankenversicherung betrifft Millionen Versicherte und gibt Aufschluss über die finanzielle Situation der Kassen. Die Einschätzungen des Gesundheitsministers und des Schätzerkreises sind zentral für die künftige Beitragsgestaltung.",
-    "srcs": [
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/inland/innenpolitik/gkv-zusatzbeitrag-bleibt-offenbar-stabil-100.html",
-        "date": "2026-10-14T20:01:02.000Z"
-      },
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/gesundheit/2026-10/zusatzbeitrag-krankenversicherung-cdu-carsten-linnemann-gkv-schaetzerkreis",
-        "date": "2026-10-14T18:27:15.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/wirtschaft/soziales/krankenversicherung-zusatzbeitrag-kann-2027-stabil-bleiben-a-20efc3bb-48e7-469d-8357-16d70bbb12fd#ref=rss",
-        "date": "2026-10-14T18:26:00.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/innenpolitik/gkv-zusatzbeitrag-bleibt-offenbar-stabil-100.html",
-    "agree": "Die Quellen sind sich einig, dass der Zusatzbeitrag der gesetzlichen Krankenversicherung im Jahr 2027 stabil bleiben kann und der Gesundheitsminister dies positiv bewertet.",
-    "diff": [
-      {
-        "name": "Tagesschau",
-        "note": "Berichtet, dass der GKV-Schätzerkreis über den Zusatzbeitrag beraten hat."
-      },
-      {
-        "name": "ZEIT ONLINE",
-        "note": "Nennt den konkreten empfohlenen Wert von 2,9 Prozent und den Namen des Gesundheitsministers Linnemann."
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "Ergänzt, dass der durchschnittliche Zusatzbeitrag nicht erhöht werden muss und die Finanzlage der Kassen dennoch angespannt ist."
-      }
-    ],
-    "chg": "",
-    "independent": 3
-  },
-  {
-    "id": "story-f68812f968bf6b40",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-14T20:00:10.000Z",
-    "p": 4,
-    "st": "HH",
-    "city": "",
-    "t": "Nord-Stream-Prozess in Hamburg gegen ukrainischen Staatsbürger gestartet",
-    "s": "Vor dem Oberlandesgericht Hamburg hat der Prozess im Zusammenhang mit den Sprengungen der Nord-Stream-Gasleitungen begonnen. Vor der Bundesanwaltschaft muss sich der 50-jährige Ukrainer Serhii Kusnetzow verantworten. Die Anklage wirft ihm unter anderem ein Kriegsverbrechen vor. Zum Prozessauftakt gab es ein riesiges Medieninteresse.",
-    "m": "Der Angeklagte Serhii Kusnetzow soll für die Zerstörung der Nord-Stream-Gasleitungen in der Ostsee verantwortlich sein. Die Bundesanwaltschaft führt das Verfahren wegen des Vorwurfs von Kriegsverbrechen und weiterer Delikte. Zum Auftakt des Verfahrens in Hamburg schwieg der 50-jährige Ukrainer zunächst zu den Vorwürfen. Das Verfahren zieht eine enorme mediale Aufmerksamkeit nach sich. Weitere Details zum genauen Tathergang oder zu potenziellen Hintermännern wurden zum Prozessstart nicht bekannt gegeben. Die Hauptverhandlung soll in den kommenden Wochen fortgesetzt werden, um die Vorwürfe umfassend aufzuklären.",
-    "r": "Der Prozess markiert einen wichtigen juristischen Meilenstein bei der juristischen Aufarbeitung der Sabotageakte an den kritischen Energieinfrastrukturen in der Ostsee. Er bietet eine öffentlichrechtliche Plattform zur Klärung möglicher individueller Verantwortlichkeiten.",
-    "srcs": [
-      {
-        "name": "NDR Hamburg",
-        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/nord-stream-prozess-in-hamburg-gestartet,hamj-15542.html",
-        "date": "2026-10-14T20:00:10.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Hamburg",
-        "url": "https://www.tagesschau.de/inland/regional/hamburg/nord-stream-prozess-in-hamburg-gestartet-angeklagter-schweigt,nord-stream-prozess-120.html",
-        "date": "2026-10-14T19:53:57.000Z"
-      }
-    ],
-    "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/nord-stream-prozess-in-hamburg-gestartet,hamj-15542.html",
-    "agree": "Die Quellen stimmen überein, dass in Hamburg der Prozess gegen den Ukrainer Serhii Kusnetzow wegen der Nord-Stream-Sprengungen und des Vorwurfs von Kriegsverbrechen begonnen hat und das Medieninteresse groß war.",
-    "diff": [
-      {
-        "name": "NDR Hamburg",
-        "note": "Erwähnt das riesige Medieninteresse zum Prozessauftakt."
-      },
-      {
-        "name": "Tagesschau Regional Hamburg",
-        "note": "Nennt das genaue Alter des Angeklagten (50 Jahre) und berichtet, dass dieser schwieg."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-60ae0ae9fe997350",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-14T19:29:54.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Zweifel an Lebenslauf von US-Sprecherin Katie Zacharia",
-    "s": "Kurz nach ihrem Amtsantritt sehen sich US-Medienberichten zufolge Zweifel am Lebenslauf von Trumps neuer Sprecherin Katie Zacharia bestätigt. Demnach wird kritisiert, dass sie im Gegensatz zu ihren Behauptungen keine Zulassung als Anwältin in den Vereinigten Staaten besitzen soll.",
-    "m": "Die neu angetretene Sprecherin von Donald Trump, Katie Zacharia, sieht sich mit Vorwürfen bezüglich ihres beruflichen Werdegangs konfrontiert. Aktuellen Berichten zufolge soll ihre behauptete Zulassung als Anwältin in den USA nicht der Realität entsprechen. Der Fall wirft Fragen über die Überprüfung von Personalien im Umfeld der US-Regierung auf. Bislang gibt es keine offiziellen Stellungnahmen oder Klarstellungen von Katie Zacharia oder dem Team von Donald Trump zu diesen Vorwürfen. Die Debatte schürt eine Diskussion über die Transparenz und Verlässlichkeit von offiziellen Angaben bei Neubesetzungen.",
-    "r": "Die Vorwürfe gegen eine ranghohe Sprecherin im Umfeld des US-Präsidenten betreffen die Glaubwürdigkeit und Transparenz von Regierungsangaben. Solche Personalfragen sind von öffentlichem Interesse, da sie die Integrität der beteiligten Akteure berühren.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWVZmVGJ1ZHVsV2M0MVo2Q1l2S3ROWHVSMThQVXN4MWZKQ3BfU3FtaklINFAtbWtPZmVTOUhmSFBxX0ktRVJ0VllsTUpDTmhCS3VYdmVVSzN2ME5kdF9GLWY1STdCU0w1TFFrM05NYzRXNEdIeTU2WE9tVm44VldBSWpFckd4NGdhQzcxaDhzSG5fbkVTakJlR3lqc2NyRllZeUFOVHRtV01EdFlFUlJWWXVDRzF4NmZxQnhrMnc4XzROQm9tNUhxTFIzX3NrMzdWUVRkcGp6dlJpUlZfWjY4bmcwUEdDZw?oc=5",
-        "date": "2026-10-14T19:29:54.000Z"
-      },
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/politik/article6acfc46585ec8093bcfbe639/usa-medienberichte-schueren-zweifel-an-lebenslauf-von-trumps-sprecherin-katie-zacharia.html",
-        "date": "2026-10-14T19:27:32.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWVZmVGJ1ZHVsV2M0MVo2Q1l2S3ROWHVSMThQVXN4MWZKQ3BfU3FtaklINFAtbWtPZmVTOUhmSFBxX0ktRVJ0VllsTUpDTmhCS3VYdmVVSzN2ME5kdF9GLWY1STdCU0w1TFFrM05NYzRXNEdIeTU2WE9tVm44VldBSWpFckd4NGdhQzcxaDhzSG5fbkVTakJlR3lqc2NyRllZeUFOVHRtV01EdFlFUlJWWXVDRzF4NmZxQnhrMnc4XzROQm9tNUhxTFIzX3NrMzdWUVRkcGp6dlJpUlZfWjY4bmcwUEdDZw?oc=5",
-    "agree": "Die Quellen stimmen überein, dass Medienberichte Zweifel an dem Lebenslauf der neuen Sprecherin Katie Zacharia schüren und es um ihre angebliche Anwaltszulassung in den USA geht.",
-    "diff": [
-      {
-        "name": "WELT",
-        "note": "Konkretisiert, dass sie gerade erst ihr Amt angetreten hat und in den USA keine Zulassung als Anwältin haben soll."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-e7c5e8db79f29162",
-    "c": "INT",
-    "o": "UK",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-14T19:19:52.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Israel blockiert Bau einer US-geführten Militärbasis im Gazastreifen",
-    "s": "Israel verweigert die Genehmigung für den Bau eines wichtigen Militärstützpunkts im Gazastreifen. Das Projekt unter der Leitung der von den USA geführten und 2025 von der UN autorisierten sogenannten Board of Peace soll Unterkünfte für 150 internationale Soldaten schaffen. Der erste vergebene Bauauftrag an ein US-Unternehmen liegt damit vorerst auf Eis.",
-    "m": "Im August 2025 vergab die internationale Organisation Board of Peace, die von den USA geleitet und von der UN autorisiert wurde, ihren ersten Bauauftrag für den Gazastreifen. Das texanische beziehungsweise aus Louisiana stammende Unternehmen Arkel International sollte einen Militärstützpunkt für 150 internationale Truppen errichten, der als Vorhut für eine internationale Mission dienen sollte. Israel weigert sich jedoch bislang, das Projekt umzusetzen und blockiert die Bauarbeiten an diesem strategisch wichtigen Stützpunkt. Die genauen Beweggründe für die israelische Blockadehaltung sowie der künftige Umgang mit dem US-geführten Projekt sind derzeit noch offen.",
-    "r": "Die Blockade eines von den USA und der UN unterstützten Militärprojekts im Gazastreifen durch Israel betrifft direkt die internationale Sicherheitspolitik und die Koordinierung von Hilfs- und Stabilisierungsmaßnahmen vor Ort.",
-    "srcs": [
-      {
-        "name": "Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/oct/14/israel-trump-peace-board-gaza-base",
-        "date": "2026-10-14T19:19:52.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUXhtUVV2cjYzWU5xbUtuVXpVbGJKZC1nbTFUX0JOQVVpZXFXUjZqanZLTU9wMHktTFdmaFc2NGhhZkZSdkp5dHRHZGFjM3lNTVpMd1ZqLVgta1paa0lMZXhrcEJrWEx2ZThWYlRFUkotWndzZVBVRFZIcGVpY0pOT1JzUDJpOElQc1E?oc=5",
-        "date": "2026-10-14T19:19:00.000Z"
-      }
-    ],
-    "url": "https://www.theguardian.com/us-news/2026/oct/14/israel-trump-peace-board-gaza-base",
-    "agree": "Die Quellen stimmen überein, dass Israel den Bau eines wichtigen, vom Board of Peace initiierten Militärstützpunkts im Gazastreifen blockiert.",
-    "diff": [
-      {
-        "name": "Google News World",
-        "note": "Verweist lediglich auf den Artikel des Guardians, ohne eigene inhaltliche Zusatzdetails zu liefern."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-58b3984bc684e1f2",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-14T19:19:33.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Krankenkassenbeiträge könnten 2027 laut Schätzerkreis und Minister stabil bleiben",
-    "s": "Gesundheitsminister Carsten Linnemann sieht den Zusatzbeitrag zur gesetzlichen Krankenkasse im Jahr 2027 als stabil an. Zu diesem Ergebnis kommt nach Beratungen auch der Schätzerkreis. Hintergrund sind Maßnahmen der schwarz-roten Koalition, um drohende Finanzlöcher zu stopfen.",
-    "m": "Der Schätzerkreis hat über die finanzielle Entwicklung der gesetzlichen Krankenversicherung beraten und dabei festgestellt, dass die Beiträge im Jahr 2027 stabil bleiben können. Um dies zu erreichen, hat die schwarz-rotes Koalition ein Milliarden-Sparpaket aufgelegt, das die erwarteten Haushaltslöcher stopfen soll. Trotz der positiven Aussichten für die Beitragsstabilität warnt Gesundheitsminister Carsten Linnemann jedoch, dass die strukturellen Probleme der Kassen weiter bestehen bleiben. Es ist unklar, ob das aktuelle Sparpaket langfristig ausreicht oder ob die Maßnahmen nur eine kurzfristige Entlastung darstellen. Die Versicherten können sich vorerst über diese gute Nachricht freuen, während Experten die Entwicklung weiter beobachten.",
-    "r": "Die Stabilität der Krankenkassenbeiträge im Jahr 2027 ist von zentraler Bedeutung für Millionen Versicherte und die Finanzpolitik der Bundesregierung. Die Wirksamkeit des beschlossenen Milliarden-Sparpakets bestimmt dabei maßgeblich die zukünftige Belastung der Beitragszahler.",
-    "srcs": [
-      {
-        "name": "Frankfurter Allgemeine",
-        "url": "https://www.faz.net/aktuell/wirtschaft/linnemann-zusatzbeitrag-zur-krankenkasse-bleibt-2027-stabil-201322938.html",
-        "date": "2026-10-14T19:19:33.000Z"
-      },
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/politik/schaetzerkreis-krankenkassenbeitraege-koennen-2027-stabil-bleiben-GRBNNNWZPJCWNER7BJWEV2CXFM.html",
-        "date": "2026-10-14T18:09:24.000Z"
-      }
-    ],
-    "url": "https://www.faz.net/aktuell/wirtschaft/linnemann-zusatzbeitrag-zur-krankenkasse-bleibt-2027-stabil-201322938.html",
-    "agree": "Beide Quellen stimmen überein, dass die Krankenkassenbeiträge im Jahr 2027 stabil bleiben können.",
-    "diff": [
-      {
-        "name": "Frankfurter Allgemeine",
-        "note": "Erwähnt die Warnung von Gesundheitsminister Carsten Linnemann vor anhaltenden strukturellen Problemen."
-      },
-      {
-        "name": "RND",
-        "note": "Berichtet über das von der schwarz-roten Koalition aufgelegte Milliarden-Sparpaket und die Beratungen des Schätzerkreises."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-51efe224cfd89b9d",
-    "c": "INT",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-14T19:17:32.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Russland feiert Diesel-Deal mit den USA und plant Weltmarkt-Belieferung",
-    "s": "Moskau treibt einen umstrittenen Diesel-Deal mit den USA voran. Während die Ukraine fassungslos reagiert, feiert Russland die Vereinbarung. Die Verträge sollen schon bald unterzeichnet werden und dem Kreml Milliardeneinnahmen einbringen.",
-    "m": "Der Kreml zeigt sich hochzufrieden mit den Fortschritten bei den Verhandlungen über ein Dieselgeschäft mit den Vereinigten Staaten unter US-Präsident Donald Trump. Nach Angaben aus Moskau geht die Umsetzung sehr schnell voran und es wird mit einer baldigen Vertragsunterzeichnung gerechnet. Das Abkommen soll Russland erhebliche Milliardeneinnahmen bescheren. Von ukrainischer Seite wird dieser Schritt mit Fassungslosigkeit beobachtet. Ziel des Kreml ist es offenbar, nach dem Abschluss des Deals auch den Weltmarkt zu beliefern. Weitere Details zu den genauen Liefermengen oder den beteiligten Unternehmen wurden in den Berichten zunächst nicht genannt.",
-    "r": "Das Abkommen zwischen den USA und Russland hat geopolitische Relevanz, da es die internationalen Beziehungen und die Haltung der Ukraine stark beeinflusst. Zudem verschafft es Russland neue finanzielle Einnahmen.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWGp1NmZxT3BQeDl0aG9KTEhsSWZOS3F2ZmcwMmJiMHNMaExuQ09DdDNhbHBOVHdEbERKbndHeGFuUVQ4blN3NUtOcGZxV2l4dElWZDRocjA0Qk5XUVN5RnVucnlIQThmLXZqZWVWLWZ0Zl9EZmdEb1I2bGVwZFZ3czI2YXo5dHJIOC1TVUdUb1pQZk5ncGYxaThpWHBSMGVJWHNRR3dpV0Jkd0M3V0tJZEJR?oc=5",
-        "date": "2026-10-14T19:17:32.000Z"
-      },
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/politik/Russland-feiert-Diesel-Deal-mit-den-USA-und-will-Weltmarkt-beliefern-id31418760.html",
-        "date": "2026-10-14T19:17:32.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWGp1NmZxT3BQeDl0aG9KTEhsSWZOS3F2ZmcwMmJiMHNMaExuQ09DdDNhbHBOVHdEbERKbndHeGFuUVQ4blN3NUtOcGZxV2l4dElWZDRocjA0Qk5XUVN5RnVucnlIQThmLXZqZWVWLWZ0Zl9EZmdEb1I2bGVwZFZ3czI2YXo5dHJIOC1TVUdUb1pQZk5ncGYxaThpWHBSMGVJWHNRR3dpV0Jkd0M3V0tJZEJR?oc=5",
-    "agree": "Die Quellen stimmen überein, dass Russland und die USA einen Diesel-Deal vereinbaren, der bald unterzeichnet werden soll, und dass dies in der Ukraine auf Fassungslosigkeit stößt.",
-    "diff": [
-      {
-        "name": "Google News DE",
-        "note": "Erwähnt zusätzlich, dass Russland plant, den Weltmarkt zu beliefern."
-      },
-      {
-        "name": "ntv",
-        "note": "Betont die fassungslose Reaktion der Ukraine und dass dem Kreml die Umsetzung nicht schnell genug gehen kann."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-3bdbb95aa5ecc0e3",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-14T19:03:00.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Häftling flieht bei Arztbesuch in Essen nach Überwältigung von Justizbeamten",
-    "s": "Bei einem Arztbesuch in Essen ist ein 34-jähriger Häftling mit Hilfe von zwei Unbekannten geflohen. Die Täter überwältigten dabei Justizvollzugsbeamte. Die Polizei hat einen Großeinsatz eingeleitet und fahndet nach den flüchtigen Männern.",
-    "m": "Der Vorfall ereignete sich in Essen während eines medizinischen Termins eines 34-jährigen Häftlings. Nach bisherigen Erkenntnissen verschafften sich zwei bislang unbekannte Männer Zugang zu der Situation und überwältigten die anwesenden JVA-Beamten, um dem Insassen die Flucht zu ermöglichen. Umgehend nach dem Ausbruch leitete die Polizei einen großangelegten Einsatz ein, um der Flüchtigenhabhaft zu werden. Die Ermittlungsbehörden gaben eine Warnung an die Bevölkerung heraus, dass die Männer möglicherweise bewaffnet sind. Ob es sich bei dem Arztbesuch um eine geplante Aktion handelte und wie die Täter von dem Termin erfahren hatten, ist derzeit noch Gegenstand der polizeilichen Ermittlungen. Es gibt noch keine Festnahmen im Zusammenhang mit der Flucht.",
-    "r": "Die Meldung ist von Bedeutung, da ein gewaltsamer Gefangenenbefreiungsversuch mit potenziell bewaffneten Tätern eine akute Bedrohung für die öffentliche Sicherheit darstellt und einen Großeinsatz der Polizei auslöst.",
-    "srcs": [
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/flucht-haeftling-essen-100.html",
-        "date": "2026-10-14T19:03:00.000Z"
-      },
-      {
-        "name": "Frankfurter Allgemeine",
-        "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/essen-maenner-verhelfen-haeftling-zur-flucht-201318133.html",
-        "date": "2026-10-14T14:39:00.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/flucht-haeftling-essen-100.html",
-    "agree": "Beide Quellen stimmen darin überein, dass in Essen ein Häftling während eines Arztbesuches mit Hilfe von Männern geflohen ist, Justizbeamte überwältigt wurden und die Polizei vor möglichen Waffen warnt.",
-    "diff": [
-      {
-        "name": "Tagesschau",
-        "note": "Berichtet explizit von einem Polizeigroßeinsatz und dass die Täter JVA-Beamte überwältigten."
-      },
-      {
-        "name": "Frankfurter Allgemeine",
-        "note": "Nennt das genaue Alter des geflohenen Häftlings von 34 Jahren."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-96904a1108a733a8",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-14T18:47:00.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Bundesregierung plant Social-Media-Verbot für Kinder unter 13 Jahren",
-    "s": "Die Bundesregierung hat Eckpunkte für einen verbesserten Schutz von Kindern und Jugendlichen im Internet beschlossen. Ein zentrales Element der Pläne ist ein Social-Media-Verbot für unter 13-Jährige. Die Maßnahme zielt darauf ab, junge Nutzer im Netz besser zu schützen.",
-    "m": "Die Bundesregierung hat offizielle Eckpunkte beschlossen, um Kinder und Jugendliche im Internet effektiver zu schützen. Ein wesentlicher Bestandteil dieser neuen Regeln ist die Einführung eines Zugangsverbots zu Social-Media-Plattformen für Kinder unter 13 Jahren. Neben dieser Altersgrenze sollen auch Suchtmechanismen auf den Plattformen reduziert und strengere Pflichten für die Betreiber eingeführt werden. Laut Regierungsplänen soll nun schnell gehandelt werden, da solche Regelungen als lange überfällig gelten. Dennoch bleiben wichtige Fragen zur Umsetzung, insbesondere hinsichtlich rechtlicher, technischer und datenschutzrechtlicher Aspekte, bislang unbeantwortet.",
-    "r": "Die geplanten Einschränkungen für Social-Media-Plattformen und der verstärkte Jugendschutz betreffen grundlegend die Nutzung digitaler Medien für Minderjährige in Deutschland. Die offenen Fragen zu Recht und Technik zeigen die Komplexität der Umsetzung.",
-    "srcs": [
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/politik/deutschland/kinderschutz-online-ki-social-media-verbot-regierung-100.html",
-        "date": "2026-10-14T18:47:00.000Z"
-      },
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/politik/bundesregierung-plant-social-media-verbot-fuer-kinder-unter-13-jahren-DDBX22N72VAJRITBEBA6WPC5LU.html",
-        "date": "2026-10-14T17:38:46.000Z"
-      }
-    ],
-    "url": "https://www.zdfheute.de/politik/deutschland/kinderschutz-online-ki-social-media-verbot-regierung-100.html",
-    "agree": "Die Quellen sind sich einig, dass die Bundesregierung Eckpunkte für ein Social-Media-Verbot ab 13 Jahren und einen besseren Schutz von Kindern im Netz beschlossen hat.",
-    "diff": [
-      {
-        "name": "RND",
-        "note": "Berichtet zusätzlich über weniger Suchtmechanismen, mehr Plattformpflichten, den Zeitdruck der Regierung zum schnellen Handeln sowie offene Fragen zu Recht, Technik und Datenschutz."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-084843d2967f3a6b",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-14T18:39:54.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Zusatzbeitrag für gesetzliche Krankenversicherung bleibt laut Linnemann 2027 stabil",
-    "s": "Der Zusatzbeitragssatz für die gesetzliche Krankenversicherung soll im Jahr 2027 stabil bleiben. Dies geht aus einer aktuellen Finanzprognose hervor, die Gesundheitsminister Carsten Linnemann mitgeteilt hat. Trotz dieser stabilen Aussichten bleibt die allgemeine Finanzlage der Krankenkassen weiterhin angespannt.",
-    "m": "Der Zusatzbeitrag zur gesetzlichen Krankenversicherung wird nach Einschätzung von Gesundheitsminister Carsten Linnemann im Jahr 2027 stabil bleiben. Grundlage für diese Annahme ist die offizielle GKV-Finanzprognose. Dennoch ist die finanzielle Situation der Kassen trotz vorangegangener gesetzlicher Entlastungsmaßnahmen weiterhin von Anspannung geprägt. Konkrete Details zu den Ursachen der angespannten Lage oder weiteren geplanten Schritten wurden in den Berichten nicht genannt. Auch der genaue bisherige Verlauf der Kassenfinanzen vor dem Jahr 2027 bleibt in den Meldungen unerwähnt.",
-    "r": "Die Entwicklung der Zusatzbeiträge in der gesetzlichen Krankenversicherung ist für Millionen Versicherte und die Stabilität des Gesundheitssystems von großer Bedeutung. Die Prognose für 2027 gibt Aufschluss über die finanzielle Belastung der Beitragszahler.",
-    "srcs": [
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/politik/article6acfc438fd6239b19ad41ae9/gesetzliche-krankenversicherung-zusatzbeitrag-bleibt-laut-linnemann-2027-stabil.html",
-        "date": "2026-10-14T18:39:54.000Z"
-      },
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/politik/deutschland/zusatzbeitrag-krankenkasse-stabil-linnemann-100.html",
-        "date": "2026-10-14T18:10:00.000Z"
-      }
-    ],
-    "url": "https://www.welt.de/politik/article6acfc438fd6239b19ad41ae9/gesetzliche-krankenversicherung-zusatzbeitrag-bleibt-laut-linnemann-2027-stabil.html",
-    "agree": "Die Quellen sind sich einig, dass der Zusatzbeitrag für die gesetzliche Krankenversicherung im Jahr 2027 laut Gesundheitsminister Linnemann stabil bleiben wird.",
-    "diff": [
-      {
-        "name": "WELT",
-        "note": "erwähnt ergänzend, dass die Finanzlage der Krankenkassen trotz einer gesetzlichen Entlastung angespannt bleibt"
-      },
-      {
-        "name": "ZDF heute",
-        "note": "berichtet ohne den Hinweis auf eine gesetzliche Entlastung"
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-10a15abd8e962304",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-14T18:32:53.000Z",
-    "p": 2,
-    "st": "SH",
-    "city": "",
-    "t": "Erneut illegale Kanister-Funde im Kreis Segeberg",
-    "s": "Im Kreis Segeberg wurden bei Heidmoor erneut zahlreiche illegale Kanister entdeckt. Einsatzkräfte sichern die Behälter vor Ort. Es wird derzeit geprüft, ob sich darin giftige Substanzen befinden. Ähnliche Funde gab es in der Region bereits in der Vergangenheit.",
-    "m": "Im Kreis Segeberg bei Heidmoor sind von Einsatzkräften erneut illegal entsorgte Behälter gefunden worden. Nach Angaben der Polizei handelt es sich um eine Menge von 100 bis 150 Kanistern. Die alarmierten Kräfte sichern die Behältnisse aktuell und untersuchen diese. Bisher ist noch unklar, ob die Kanister giftige Stoffe enthalten und welche konkreten Substanzen darin lagern. Es handelt sich in diesem Gebiet nicht um den ersten Vorfall dieser Art mit illegal entsorgten Kanistern. Die Ermittlungen zu den Verantwortlichen und der genauen Herkunft der Behälter dauern an.",
-    "r": "Illegale Müllentsorgung in großem Stil stellt eine potenzielle Gefahr für Mensch und Umwelt dar. Die Häufung solcher Funde im Kreis Segeberg erfordert behördliche Maßnahmen zur Gefahrenabwehr und Aufklärung.",
-    "srcs": [
-      {
-        "name": "Tagesschau Regional Schleswig-Holstein",
-        "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/kreis-segeberg-erneut-illegal-entsorgte-kanister-gefunden,kanister-104.html",
-        "date": "2026-10-14T18:32:53.000Z"
-      },
-      {
-        "name": "NDR Schleswig-Holstein",
-        "url": "https://www.ndr.de/fernsehen/sendungen/schleswig-holstein_magazin/kreis-segebergweitere-illegal-entsorgte-kanister-im-wald-entdeckt,shmag-14112.html",
-        "date": "2026-10-14T17:47:54.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/kreis-segeberg-erneut-illegal-entsorgte-kanister-gefunden,kanister-104.html",
-    "agree": "Die Quellen stimmen überein, dass im Kreis Segeberg bei Heidmoor erneut illegal entsorgte Kanister gefunden wurden und geprüft wird, ob sie Giftstoffe enthalten.",
-    "diff": [
-      {
-        "name": "NDR Schleswig-Holstein",
-        "note": "nennt die konkrete Anzahl von 100 bis 150 Kanistern."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-50777c35ce40058c",
-    "c": "INT",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-14T18:26:00.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Netflix baut rund 1000 Arbeitsplätze ab",
-    "s": "Der Streaming-Anbieter Netflix plant den Abbau von rund 1000 Arbeitsplätzen. Grund für diesen Schritt ist unter anderem das langsamere Wachstum des Unternehmens. Bislang wurden erste Details zu den Kündigungen bekannt.",
-    "m": "Netflix reagiert auf ein nachlassendes Wachstum und verringert seine Belegschaft um etwa 1000 Stellen. Das Unternehmen gilt als die klare Nummer eins im Bereich Videostreaming, sieht sich jedoch mit einem langsameren Zuwachs konfrontiert als ursprünglich erhofft. Zudem erwächst mit dem Zusammenschluss beziehungsweise dem Duo aus Paramount und Warner ein starker neuer Konkurrent auf dem Markt. Der Schritt soll die Position des Streaming-Dienstes im verschärften Wettbewerb stabilisieren. Weitere konkrete Details zum zeitlichen Ablauf oder den betroffenen Abteilungen wurden zunächst nicht genannt.",
-    "r": "Der Stellenabbau bei einem führenden Streaming-Anbieter verdeutlicht die veränderten Marktbedingungen und den zunehmenden Konkurrenzdruck in der Branche. Die Entwicklung ist wirtschaftlich von Bedeutung für den Mediensektor.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM1lyUUMxbTNUZG5vU2Q0YVlaeGNNanl2NzdtSlJuQVV6OWhEbEpPRTlUMGd5U1Q4ejRBNkMzdUlILW1wY0d6Y0QxMVJIMzJiT0UzRzZEYmNCeXJ6aFQ4TTlCVTFxY0cyZEQ2QThVZjkxX3BXTENsMUNxRjVQd1F6RVJ0NGRhNENibGZXa3YwOXNCemVSbjVHV2hONlJyY252QVlkVmF0MHJIaGFMbDNzckFhZVE4TzQ?oc=5",
-        "date": "2026-10-14T18:26:00.000Z"
-      },
-      {
-        "name": "Handelsblatt",
-        "url": "https://www.handelsblatt.com/unternehmen/it-medien/videostreaming-netflix-streicht-rund-1000-jobs/100262301.html",
-        "date": "2026-10-14T15:24:49.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM1lyUUMxbTNUZG5vU2Q0YVlaeGNNanl2NzdtSlJuQVV6OWhEbEpPRTlUMGd5U1Q4ejRBNkMzdUlILW1wY0d6Y0QxMVJIMzJiT0UzRzZEYmNCeXJ6aFQ4TTlCVTFxY0cyZEQ2QThVZjkxX3BXTENsMUNxRjVQd1F6RVJ0NGRhNENibGZXa3YwOXNCemVSbjVHV2hONlJyY252QVlkVmF0MHJIaGFMbDNzckFhZVE4TzQ?oc=5",
-    "agree": "Beide Quellen stimmen überein, dass Netflix rund 1000 Jobs streicht.",
-    "diff": [
-      {
-        "name": "Google News DE",
-        "note": "Bringt keine nennenswerten Zusatzinformationen und verweist auf den Spiegel."
-      },
-      {
-        "name": "Handelsblatt",
-        "note": "Nennt als Hintergründe das langsamere Wachstum von Netflix als Nummer eins sowie die Konkurrenz durch das Duo aus Paramount und Warner."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-4e2ae52ad01d9c93",
-    "c": "INT",
-    "o": "DE",
-    "k": "technik",
-    "lang": "de",
-    "d": "2026-10-14T18:18:17.000Z",
-    "p": 3,
-    "st": "NI",
-    "city": "",
-    "t": "Cyberangriff legt Baustelle des Fehmarnbelt-Tunnels lahm",
-    "s": "Das Baukonsortium des Fehmarnbelt-Tunnels ist Opfer eines Cyberangriffs geworden. Bei einem der größten Infrastrukturprojekte Europas ging durch den Hackerangriff fast nichts mehr. Das genaue Ausmaß des Angriffs auf die dänische Baustelle ist derzeit noch unklar.",
-    "m": "Das betroffene Baukonsortium, das für die Errichtung des Fehmarnbelt-Tunnels verantwortlich ist, wurde Ziel von Hackern. Der Angriff betrifft die dänische Baustelle dieses europäischen Großprojekts im Bereich der Infrastruktur. Durch die Attacke wurden die Arbeitsabläufe dort massiv beeinträchtigt, sodass fast nichts mehr ging. Bisher liegen kaum Details über die Urheberschaft oder die Art der verwendeten Schadsoftware vor. Auch ist unklar, ob Daten abgeflossen sind oder Lösegeldforderungen gestellt wurden. Die zuständigen Stellen arbeiten an der Aufklärung des Vorfalls. Weitere offene Punkte betreffen die Dauer der IT-Ausfälle und die Auswirkungen auf den Gesamtzeitplan des Tunnelbaus.",
-    "r": "Der Vorfall betrifft eines der größten Infrastrukturprojekte Europas, wodurch wichtige Bauarbeiten und IT-Systeme direkt beeinträchtigt wurden. Solche Cyberangriffe auf kritische Großprojekte werfen Fragen zur IT-Sicherheit auf.",
-    "srcs": [
-      {
-        "name": "Tagesschau Regional Niedersachsen",
-        "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/cyberangriff-auf-fehmarnbelt-tunnel-was-bisher-bekannt-ist,hackerangriff-150.html",
-        "date": "2026-10-14T18:18:17.000Z"
-      },
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/panorama/cyberangriff-auf-die-fehmarnbelt-tunnel-baustelle-was-bisher-ueber-den-hackerangriff-bekannt-ist-F3T4SZXUNZAIDGUMJR2HIMXTDA.html",
-        "date": "2026-10-14T14:25:22.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/regional/schleswigholstein/cyberangriff-auf-fehmarnbelt-tunnel-was-bisher-bekannt-ist,hackerangriff-150.html",
-    "agree": "Die Quellen sind sich einig, dass das am Fehmarnbelt-Tunnel beteiligte Baukonsortium Opfer eines Hackerangriffs geworden ist.",
-    "diff": [
-      {
-        "name": "Tagesschau Regional Niedersachsen",
-        "note": "berichtet, dass das Ausmaß des Angriffs noch unklar ist."
-      },
-      {
-        "name": "RND",
-        "note": "nennt das Projekt eines der größten Infrastrukturen Europas und gibt an, dass die dänische Baustelle durch den Angriff lahmgelegt wurde."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-750ab7f3eb3dce4a",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-14T18:10:03.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Dänemark verlängert Grenzkontrollen zu Deutschland um sechs Monate bis Mai 2027",
-    "s": "Dänemark hat seine Kontrollen an der Grenze zu Deutschland erneut verlängert. Die Maßnahmen werden nun bis Mai 2027 aufrechterhalten. Als Hauptgrund für diesen Schritt nannten die Behörden eine anhaltende und ernste Sicherheitslage.",
-    "m": "Die dänischen Behörden haben beschlossen, die Grenzkontrollen an der Grenze zu Deutschland für weitere sechs Monate auszudehnen. Damit gelten die Maßnahmen nach aktuellem Stand bis Mai 2027. Justizminister Nicolai Wammen begründete die Entscheidung mit einer ernsthaften Bedrohung für das Land. Diese anhaltende Bedrohung mache die Fortführung der Kontrollen aus Sicht der Regierung notwendig. Die Maßnahmen betreffen den grenzüberschreitenden Verkehr zwischen den beiden Nachbarländern. Weitere Details zu spezifischen Zwischenfällen oder konkreten Kontrollmechanismen wurden in den Berichten nicht genannt. Auch über mögliche Reaktionen der deutschen Seite oder der EU liegen bisher keine offiziellen Angaben vor.",
-    "r": "Die Verlängerung der Grenzkontrollen betrifft den Reise- und Wirtschaftsverkehr zwischen Deutschland und Dänemark unmittelbar. Sie zeigt, dass Kopenhagen die Sicherheitslage weiterhin als kritisch einschätzt und nationale Schutzmaßnahmen priorisiert.",
-    "srcs": [
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/politik/ausland/2026-10/grenzkontrollen-daenemark-deutschland-justizminister-sicherheit",
-        "date": "2026-10-14T18:10:03.000Z"
-      },
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/politik/article6acfaf89fd6239b19ad419f9/anhaltende-bedrohung-daenemark-verlaengert-kontrollen-an-deutscher-grenze.html",
-        "date": "2026-10-14T16:54:09.000Z"
-      }
-    ],
-    "url": "https://www.zeit.de/politik/ausland/2026-10/grenzkontrollen-daenemark-deutschland-justizminister-sicherheit",
-    "agree": "Beide Quellen sind sich einig, dass Dänemark die Kontrollen an der deutschen Grenze verlängert hat und dies mit einer ernsten Sicherheitslage beziehungsweise Bedrohung begründet.",
-    "diff": [
-      {
-        "name": "WELT",
-        "note": "Nennt das genaue Enddatum der Verlängerung (Mai 2027) und den Namen des Justizministers Nicolai Wammen."
-      },
-      {
-        "name": "ZEIT ONLINE",
-        "note": "Berichtet allgemein von einer Verlängerung um weitere sechs Monate, nennt jedoch kein konkretes Enddatum und keinen Namen des Ministers."
       }
     ],
     "chg": "",
