@@ -1,24 +1,127 @@
 [
   {
-    "id": "story-51",
-    "topic": "politik",
+    "id": "story-31",
+    "topic": "panorama",
     "country": "DE",
-    "stateHint": "BY",
-    "date": "2026-10-21T17:21:52.000Z",
+    "stateHint": "",
+    "date": "2026-10-21T20:27:58.000Z",
     "sources": [
       {
+        "source": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-10/21/aerzte-krebs-bei-papst-hat-nicht-gestreut",
+        "date": "2026-10-21T20:27:58.000Z",
+        "snippet": "",
+        "title": "Nach Lungen-OP: Ärzte: Krebs bei Papst hat nicht gestreut"
+      },
+      {
+        "source": "RND",
+        "url": "https://www.rnd.de/politik/papst-leo-krebs-hat-nicht-gestreut-3U4Y6QLGVRA55I6O6PQ3Z4WSL4.html",
+        "date": "2026-10-21T19:59:58.000Z",
+        "snippet": "In der vergangenen Woche wurde dem Papst ein bösartiger Tumor aus der Lunge entfernt, die Diagnose lautete Krebs. Jetzt haben Ärzte eine erfreuliche Nachricht.",
+        "title": "Papst Leo: Krebs hat nicht gestreut"
+      },
+      {
         "source": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/alice-schwarzer-stellt-magazin-emma-nach-50-jahren-ein-100.html",
-        "date": "2026-10-21T17:21:52.000Z",
-        "snippet": "Nach 50 Jahren wird das feministische Magazin \"Emma\" eingestellt. Die Herausgeberin Alice Schwarzer teilte in Köln mit, die Ausgabe vom 8. Dezember werde die letzte sein. Schwarzer hatte die Zeitschrift im Januar 1977 mit einem Kollektiv gegründet.",
-        "title": "Publizistik - Alice Schwarzer stellt Magazin \"Emma\" nach 50 Jahren ein"
+        "url": "https://www.deutschlandfunk.de/aerzte-krebs-bei-papst-leo-hat-nicht-gestreut-100.html",
+        "date": "2026-10-21T19:45:21.000Z",
+        "snippet": "Der Lungenkrebs bei Papst Leo XIV. hat offenbar nicht gestreut.",
+        "title": "Vatikan - Ärzte: Krebs bei Papst Leo hat nicht gestreut"
+      },
+      {
+        "source": "stern",
+        "url": "https://www.stern.de/news/--aerzte--krebs-bei-papst-hat-nicht-gestreut-38432926.html",
+        "date": "2026-10-21T19:23:14.000Z",
+        "snippet": "Der Lungenkrebs bei Papst Leo XIV. hat nach Angaben seiner Ärzte nicht gestreut. Untersuchungen des bei einer Operation entfernten Gewebes hätten ergeben, dass die Erkrankung lokal begrenzt gewesen sei, teilten die behandelnden Ärzte des 71 Jahre alten Oberhauptes der katholischen Kirche mit. Eine weitere Therapie sei nicht erforderlich.",
+        "title": "Ärzte: Krebs bei Papst hat nicht gestreut"
+      }
+    ],
+    "title": "Nach Lungen-OP: Ärzte: Krebs bei Papst hat nicht gestreut",
+    "summary": "Nach Lungen-OP: Ärzte: Krebs bei Papst hat nicht gestreut \nPapst Leo: Krebs hat nicht gestreut In der vergangenen Woche wurde dem Papst ein bösartiger Tumor aus der Lunge entfernt, die Diagnose lautete Krebs. Jetzt haben Ärzte eine erfreuliche Nachricht.\nVatikan - Ärzte: Krebs bei Papst Leo hat nicht gestreut Der Lungenkrebs bei Papst Leo XIV. hat offenbar nicht gestreut.\nÄrzte: Krebs bei Papst hat nicht gestreut Der Lungenkrebs bei Papst Leo XIV. hat nach Angaben seiner Ärzte nicht gestreut. Untersuchungen des bei einer Operation entfernten Gewebes hätten ergeben, dass die Erkrankung lokal begrenzt gewesen sei, teilten die behandelnden Ärzte des 71 Jahre alten Oberhauptes der katholischen Kirche mit. Eine weitere Therapie sei nicht erforderlich."
+  },
+  {
+    "id": "story-46",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "BY",
+    "date": "2026-10-21T20:13:00.000Z",
+    "sources": [
+      {
+        "source": "ZDF heute",
+        "url": "https://www.zdfheute.de/wirtschaft/unternehmen/meta-strafe-cambridge-analytika-usa-100.html",
+        "date": "2026-10-21T20:13:00.000Z",
+        "snippet": "Acht Jahre nach dem Cambridge-Analytica-Skandal ist der Facebook-Mutterkonzern Meta zu einem Milliarden-Bußgeld verurteilt worden. Hintergrund ist der Missbrauch von Nutzerdaten.",
+        "title": "Cambridge-Analytica-Skandal: Meta soll Milliarden zahlen"
+      },
+      {
+        "source": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-10/21/meta-soll-milliarden-wegen-cambridge-analytica-zahlen",
+        "date": "2026-10-21T19:48:26.000Z",
+        "snippet": "",
+        "title": "Alter Skandal, neues Urteil: Meta soll Milliarden wegen Cambridge Analytica zahlen"
+      },
+      {
+        "source": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/cambridge-analytica-skandal-gericht-verurteilt-meta-zu-25-milliarden-dollar-strafzahlung-100.html",
+        "date": "2026-10-21T19:45:21.000Z",
+        "snippet": "In den USA ist der Facebook-Mutterkonzern Meta zu einer Zahlung von 25 Milliarden Dollar verurteilt worden.",
+        "title": "Verbrauchertäuschung - \"Cambridge Analytica\"-Skandal: Gericht verurteilt Meta zu 25 Milliarden Dollar Strafzahlung"
+      },
+      {
+        "source": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/cambridge-analytica-skandal-meta-muss-milliarden-strafe-zahlen,VYhzHKb",
+        "date": "2026-10-21T19:14:17.000Z",
+        "snippet": "Der Datenschutz-Skandal um Cambridge Analytica erschütterte einst das Vertrauen in Facebook. Jahre später bekommt der Mutterkonzern nun die Quittung: Meta soll 25 Milliarden Dollar zahlen – will das aber wohl nicht akzeptieren.",
+        "title": "Cambridge-Analytica-Skandal: Meta muss Milliarden-Strafe zahlen"
+      }
+    ],
+    "title": "Cambridge-Analytica-Skandal: Meta soll Milliarden zahlen",
+    "summary": "Cambridge-Analytica-Skandal: Meta soll Milliarden zahlen Acht Jahre nach dem Cambridge-Analytica-Skandal ist der Facebook-Mutterkonzern Meta zu einem Milliarden-Bußgeld verurteilt worden. Hintergrund ist der Missbrauch von Nutzerdaten.\nAlter Skandal, neues Urteil: Meta soll Milliarden wegen Cambridge Analytica zahlen \nVerbrauchertäuschung - \"Cambridge Analytica\"-Skandal: Gericht verurteilt Meta zu 25 Milliarden Dollar Strafzahlung In den USA ist der Facebook-Mutterkonzern Meta zu einer Zahlung von 25 Milliarden Dollar verurteilt worden.\nCambridge-Analytica-Skandal: Meta muss Milliarden-Strafe zahlen Der Datenschutz-Skandal um Cambridge Analytica erschütterte einst das Vertrauen in Facebook. Jahre später bekommt der Mutterkonzern nun die Quittung: Meta soll 25 Milliarden Dollar zahlen – will das aber wohl nicht akzeptieren."
+  },
+  {
+    "id": "story-358",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-21T17:45:01.000Z",
+    "sources": [
+      {
+        "source": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/wirtschaft/technologie/it-sicherheit-php-luecke-100.html",
+        "date": "2026-10-21T17:45:01.000Z",
+        "snippet": "Eine gravierende Sicherheitslücke bedroht Millionen Webseiten. Betroffen ist die weitverbreitete Programmiersprache PHP. In Deutschland sind Internetseiten mehrerer Städte vorsich…",
+        "title": "Sicherheitslücke bedroht weltweit Webseiten"
       },
       {
         "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/kultur/emma-magazin-ende-100.html",
-        "date": "2026-10-21T08:40:09.000Z",
-        "snippet": "Nach 50 Jahren ist Schluss. Das feministische Magazin \"Emma\" wird eingestellt. Gründerin und Herausgeberin Alice Schwarzer betonte, die Gründe seien nicht ökonomischer Natur. \"Wir meinen, es reicht.\"",
-        "title": "Alice Schwarzer stellt Magazin \"Emma\" ein"
+        "url": "https://www.tagesschau.de/wirtschaft/technologie/it-sicherheit-php-luecke-100.html",
+        "date": "2026-10-21T17:32:26.000Z",
+        "snippet": "Eine gravierende Sicherheitslücke bedroht Millionen Webseiten. Betroffen ist die weitverbreitete Programmiersprache PHP. In Deutschland sind Internetseiten mehrerer Städte vorsichtshalber abgeschaltet.",
+        "title": "Programmiersprache PHP: Sicherheitslücke bedroht weltweit Webseiten"
+      },
+      {
+        "source": "RND",
+        "url": "https://www.rnd.de/panorama/php-sicherheitsluecke-bedroht-weltweit-millionen-webseiten-AWHNTHTT7ZARPKD4FEDZABJBYA.html",
+        "date": "2026-10-21T17:14:08.000Z",
+        "snippet": "Blogs, Onlineshops und Nachrichtenportale könnten ins Visier von Angreifern geraten. Die PHP-Lücke ermöglicht die Übernahme ganzer Server – wie groß ist die Gefahr für Nutzer?",
+        "title": "PHP-Sicherheitslücke bedroht weltweit Millionen Webseiten"
+      }
+    ],
+    "title": "Sicherheitslücke bedroht weltweit Webseiten",
+    "summary": "Sicherheitslücke bedroht weltweit Webseiten Eine gravierende Sicherheitslücke bedroht Millionen Webseiten. Betroffen ist die weitverbreitete Programmiersprache PHP. In Deutschland sind Internetseiten mehrerer Städte vorsich…\nProgrammiersprache PHP: Sicherheitslücke bedroht weltweit Webseiten Eine gravierende Sicherheitslücke bedroht Millionen Webseiten. Betroffen ist die weitverbreitete Programmiersprache PHP. In Deutschland sind Internetseiten mehrerer Städte vorsichtshalber abgeschaltet.\nPHP-Sicherheitslücke bedroht weltweit Millionen Webseiten Blogs, Onlineshops und Nachrichtenportale könnten ins Visier von Angreifern geraten. Die PHP-Lücke ermöglicht die Übernahme ganzer Server – wie groß ist die Gefahr für Nutzer?"
+  },
+  {
+    "id": "story-948",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "BY",
+    "date": "2026-10-21T11:09:00.000Z",
+    "sources": [
+      {
+        "source": "ZDF heute",
+        "url": "https://www.zdfheute.de/panorama/emma-frauen-zeitschrift-schluss-100.html",
+        "date": "2026-10-21T11:09:00.000Z",
+        "snippet": "Nach 50 Jahren ist Schluss: Alice Schwarzer stellt ihr feministisches Magazin \"Emma\" ein. Im Dezember erscheint die letzte Ausgabe. \"Wir meinen, es reicht\", erklärte Schwarzer.",
+        "title": "Alice Schwarzer stellt Frauenmagazin \"Emma\" ein"
       },
       {
         "source": "BR24 Bayern",
@@ -31,145 +134,124 @@
         "source": "Google News DE",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMlRnX1hnMlItT0czWkZCQ0M0TGVaTjBWVzJHczA5cjU0OEFTNGZONHRPbU9MVVVaWDRfUUpXTkJWVVJkUEZMZFZNR1RFS3Y2VHBpY2JYU2FuTUdnOVVkSmZacERJRnI5WnVGNEJ6c2t4Ymc3UkdHbFFpVHA3b0NsZFRqWFI0SHVFTThVYUlRNFBabzhyYm5rbmRkM0lrb0toLTU4SHN5WlZRWmhSTTdQX183SUM?oc=5",
         "date": "2026-10-21T06:25:00.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNMlRnX1hnMlItT0czWkZCQ0M0TGVaTjBWVzJHczA5cjU0OEFTNGZONHRPbU9MVVVaWDRfUUpXTkJWVVJkUEZMZFZNR1RFS3Y2VHBpY2JYU2FuTUdnOVVkSmZacERJRnI5WnVGNEJ6c2t4Ymc3UkdHbFFpVHA3b0NsZFRqWFI0SHVFTThVYUlRNFBabzhyYm5rbmRkM0lrb0toLTU4SHN5WlZRWmhSTTdQX183SUM?oc=5\" target=\"_blank\">Alice Schwarzer stellt Magazin „Emma“ ein</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FAZ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBEUHhYdGx6aFZaZUVJdXZEN0ZFYkZfZS1QczZyc3ZoVUw5cFVmcHpTR2FRcndFV1p5b2dGaEJUbzZjRHVQQ0xOSzBuSmdhRGR4cVAwNHZOaXoyZG9jQkVKeHVpY0Y5NFU1UFA0?oc=5\" target=\"_blank\">Alice Schwarzer stellt Magazin \"Emma\" ein</a>&nbsp;&nbsp;<fon",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNMlRnX1hnMlItT0czWkZCQ0M0TGVaTjBWVzJHczA5cjU0OEFTNGZONHRPbU9MVVVaWDRfUUpXTkJWVVJkUEZMZFZNR1RFS3Y2VHBpY2JYU2FuTUdnOVVkSmZacERJRnI5WnVGNEJ6c2t4Ymc3UkdHbFFpVHA3b0NsZFRqWFI0SHVFTThVYUlRNFBabzhyYm5rbmRkM0lrb0toLTU4SHN5WlZRWmhSTTdQX183SUM?oc=5\" target=\"_blank\">Alice Schwarzer stellt Magazin „Emma“ ein</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FAZ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM3hMU2pYLUFiNEI3eXRwcDZWeGU0NGtIcjVzSWRvNm1mTUFIR2lYWnM3WjZGZ2w5OHpZdmp0enI5ejNvSFpWWDl1QmxBWS1ScEYwQmpjMkRpd1RMQXlWSzhyck56SGxvM3o4Yjg2c3ZVMnF5T1NRNVdVVWtYUW9BQVlPTHp3ODFoS1dkVmpIWFk0cDVoNkx0M3I3Tk9EOG1Ob055ZzVMSV83",
         "title": "Alice Schwarzer stellt Magazin „Emma“ ein - FAZ"
       }
     ],
-    "title": "Publizistik - Alice Schwarzer stellt Magazin \"Emma\" nach 50 Jahren ein",
-    "summary": "Publizistik - Alice Schwarzer stellt Magazin \"Emma\" nach 50 Jahren ein Nach 50 Jahren wird das feministische Magazin \"Emma\" eingestellt. Die Herausgeberin Alice Schwarzer teilte in Köln mit, die Ausgabe vom 8. Dezember werde die letzte sein. Schwarzer hatte die Zeitschrift im Januar 1977 mit einem Kollektiv gegründet.\nAlice Schwarzer stellt Magazin \"Emma\" ein Nach 50 Jahren ist Schluss. Das feministische Magazin \"Emma\" wird eingestellt. Gründerin und Herausgeberin Alice Schwarzer betonte, die Gründe seien nicht ökonomischer Natur. \"Wir meinen, es reicht.\"\n\"Es reicht\": Alice Schwarzer stellt \"Emma\" nach 50 Jahren ein Fast 50 Jahre lang hat Alice Schwarzer mit \"Emma\" die feministische Debatte in Deutschland geprägt – und polarisiert. Jetzt zieht die 83-Jährige den Schlussstrich: Am 8. Dezember erscheint die letzte Ausgabe. Schwarzer sagt: \"Es reicht!\"\nAlice Schwarzer stellt Magazin „Emma“ ein - FAZ <ol><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNMlRnX1hnMlItT0czWkZCQ0M0TGVaTjBWVzJHczA5cjU0OEFTNGZONHRPbU9MVVVaWDRfUUpXTkJWVVJkUEZMZFZNR1RFS3Y2VHBpY2JYU2FuTUdnOVVkSmZacERJRnI5WnVGNEJ6c2t4Ymc3UkdHbFFpVHA3b0NsZFRqWFI0SHVFTThVYUlRNFBabzhyYm5rbmRkM0lrb0toLTU4SHN5WlZRWmhSTTdQX183SUM?oc=5\" target=\"_blank\">Alice Schwarzer stellt Magazin „Emma“ ein</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FAZ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBEUHhYdGx6aFZaZUVJdXZEN0ZFYkZfZS1QczZyc3ZoVUw5cFVmcHpTR2FRcndFV1p5b2dGaEJUbzZjRHVQQ0xOSzBuSmdhRGR4cVAwNHZOaXoyZG9jQkVKeHVpY0Y5NFU1UFA0?oc=5\" target=\"_blank\">Alice Schwarzer stellt Magazin \"Emma\" ein</a>&nbsp;&nbsp;<fon"
+    "title": "Alice Schwarzer stellt Frauenmagazin \"Emma\" ein",
+    "summary": "Alice Schwarzer stellt Frauenmagazin \"Emma\" ein Nach 50 Jahren ist Schluss: Alice Schwarzer stellt ihr feministisches Magazin \"Emma\" ein. Im Dezember erscheint die letzte Ausgabe. \"Wir meinen, es reicht\", erklärte Schwarzer.\n\"Es reicht\": Alice Schwarzer stellt \"Emma\" nach 50 Jahren ein Fast 50 Jahre lang hat Alice Schwarzer mit \"Emma\" die feministische Debatte in Deutschland geprägt – und polarisiert. Jetzt zieht die 83-Jährige den Schlussstrich: Am 8. Dezember erscheint die letzte Ausgabe. Schwarzer sagt: \"Es reicht!\"\nAlice Schwarzer stellt Magazin „Emma“ ein - FAZ <ol><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNMlRnX1hnMlItT0czWkZCQ0M0TGVaTjBWVzJHczA5cjU0OEFTNGZONHRPbU9MVVVaWDRfUUpXTkJWVVJkUEZMZFZNR1RFS3Y2VHBpY2JYU2FuTUdnOVVkSmZacERJRnI5WnVGNEJ6c2t4Ymc3UkdHbFFpVHA3b0NsZFRqWFI0SHVFTThVYUlRNFBabzhyYm5rbmRkM0lrb0toLTU4SHN5WlZRWmhSTTdQX183SUM?oc=5\" target=\"_blank\">Alice Schwarzer stellt Magazin „Emma“ ein</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FAZ</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM3hMU2pYLUFiNEI3eXRwcDZWeGU0NGtIcjVzSWRvNm1mTUFIR2lYWnM3WjZGZ2w5OHpZdmp0enI5ejNvSFpWWDl1QmxBWS1ScEYwQmpjMkRpd1RMQXlWSzhyck56SGxvM3o4Yjg2c3ZVMnF5T1NRNVdVVWtYUW9BQVlPTHp3ODFoS1dkVmpIWFk0cDVoNkx0M3I3Tk9EOG1Ob055ZzVMSV83"
   },
   {
-    "id": "story-85",
+    "id": "story-6",
     "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-21T17:14:08.000Z",
-    "sources": [
-      {
-        "source": "RND",
-        "url": "https://www.rnd.de/panorama/php-sicherheitsluecke-bedroht-weltweit-millionen-webseiten-AWHNTHTT7ZARPKD4FEDZABJBYA.html",
-        "date": "2026-10-21T17:14:08.000Z",
-        "snippet": "Blogs, Onlineshops und Nachrichtenportale könnten ins Visier von Angreifern geraten. Die PHP-Lücke ermöglicht die Übernahme ganzer Server – wie groß ist die Gefahr für Nutzer?",
-        "title": "PHP-Sicherheitslücke bedroht weltweit Millionen Webseiten"
-      },
-      {
-        "source": "stern",
-        "url": "https://www.stern.de/digital/php-webskriptsprache--gravierende-sicherheitsluecke-bedroht-millionen-webseiten-38430920.html",
-        "date": "2026-10-21T16:49:40.000Z",
-        "snippet": "Blogs, Onlineshops und Nachrichtenportale weltweit könnten ins Visier von Angreifern geraten. Die PHP-Lücke ermöglicht die Übernahme ganzer Server – wie groß ist die Gefahr für Nutzer?",
-        "title": "PHP-Webskriptsprache: Gravierende Sicherheitslücke bedroht Millionen Webseiten"
-      },
-      {
-        "source": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/wirtschaft/technologie/it-sicherheit-php-luecke-100.html",
-        "date": "2026-10-21T16:15:01.000Z",
-        "snippet": "Eine gravierende Sicherheitslücke bedroht Millionen Webseiten. Grund ist eine Sicherheitslücke in der weitverbreiteten Programmiersprache PHP. Die Internetseiten mehrerer Städte s…",
-        "title": "Sicherheitslücke bedroht weltweit Webseiten"
-      },
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/wirtschaft/technologie/it-sicherheit-php-luecke-100.html",
-        "date": "2026-10-21T15:59:08.000Z",
-        "snippet": "Eine gravierende Sicherheitslücke bedroht Millionen Webseiten. Betroffen ist die weitverbreitete Programmiersprache PHP. Die Internetseiten mehrerer Städte sind abgeschaltet.",
-        "title": "Programmiersprache PHP: Sicherheitslücke bedroht weltweit Webseiten"
-      }
-    ],
-    "title": "PHP-Sicherheitslücke bedroht weltweit Millionen Webseiten",
-    "summary": "PHP-Sicherheitslücke bedroht weltweit Millionen Webseiten Blogs, Onlineshops und Nachrichtenportale könnten ins Visier von Angreifern geraten. Die PHP-Lücke ermöglicht die Übernahme ganzer Server – wie groß ist die Gefahr für Nutzer?\nPHP-Webskriptsprache: Gravierende Sicherheitslücke bedroht Millionen Webseiten Blogs, Onlineshops und Nachrichtenportale weltweit könnten ins Visier von Angreifern geraten. Die PHP-Lücke ermöglicht die Übernahme ganzer Server – wie groß ist die Gefahr für Nutzer?\nSicherheitslücke bedroht weltweit Webseiten Eine gravierende Sicherheitslücke bedroht Millionen Webseiten. Grund ist eine Sicherheitslücke in der weitverbreiteten Programmiersprache PHP. Die Internetseiten mehrerer Städte s…\nProgrammiersprache PHP: Sicherheitslücke bedroht weltweit Webseiten Eine gravierende Sicherheitslücke bedroht Millionen Webseiten. Betroffen ist die weitverbreitete Programmiersprache PHP. Die Internetseiten mehrerer Städte sind abgeschaltet."
-  },
-  {
-    "id": "story-349",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "BY",
-    "date": "2026-10-21T15:22:29.000Z",
-    "sources": [
-      {
-        "source": "RND",
-        "url": "https://www.rnd.de/sport/trauerfall-in-familie-kimmich-fehlt-fc-bayern-gegen-arsenal-NPJNAKYB2VBMRCGDVRYVU5HHEM.html",
-        "date": "2026-10-21T15:22:29.000Z",
-        "snippet": "Joshua Kimmich fehlte im Abschlusstraining des FC Bayern vor dem Champions-League-Kracher gegen den FC Arsenal. Auch heute Abend wird der Mittelfeldspieler nicht dabei sein - aus traurigen Gründen.",
-        "title": "Trauerfall in Familie: Kimmich fehlt FC Bayern gegen Arsenal"
-      },
-      {
-        "source": "Süddeutsche Zeitung",
-        "url": "https://www.sueddeutsche.de/sport/champions-league-joshua-kimmich-trauerfall-fc-bayern-arsenal-li.3566904",
-        "date": "2026-10-21T10:50:44.000Z",
-        "snippet": "Wegen eines Trauerfalls kann der Mittelfeldspieler den Münchnern in der Champions League nicht helfen – er ist nicht der einzige Ausfall gegen die Londoner.",
-        "title": "FC Bayern: Joshua Kimmich fehlt gegen Arsenal"
-      },
-      {
-        "source": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/sport/fc-bayern-kimmich-fehlt-wegen-trauerfalls-im-champions-league-spiel-gegen-arsenal,VYfvhdf",
-        "date": "2026-10-21T10:03:06.000Z",
-        "snippet": "Der FC Bayern muss im wichtigen Champions-League-Heimspiel gegen den FC Arsenal auf Joshua Kimmich verzichten. Wie der Rekordmeister mitteilte, steht der Nationalspieler aufgrund eines \"Trauerfalls im engsten Familienkreis\" nicht zur Verfügung.",
-        "title": "Trauerfall in engster Familie: Kimmich fehlt gegen Arsenal"
-      }
-    ],
-    "title": "Trauerfall in Familie: Kimmich fehlt FC Bayern gegen Arsenal",
-    "summary": "Trauerfall in Familie: Kimmich fehlt FC Bayern gegen Arsenal Joshua Kimmich fehlte im Abschlusstraining des FC Bayern vor dem Champions-League-Kracher gegen den FC Arsenal. Auch heute Abend wird der Mittelfeldspieler nicht dabei sein - aus traurigen Gründen.\nFC Bayern: Joshua Kimmich fehlt gegen Arsenal Wegen eines Trauerfalls kann der Mittelfeldspieler den Münchnern in der Champions League nicht helfen – er ist nicht der einzige Ausfall gegen die Londoner.\nTrauerfall in engster Familie: Kimmich fehlt gegen Arsenal Der FC Bayern muss im wichtigen Champions-League-Heimspiel gegen den FC Arsenal auf Joshua Kimmich verzichten. Wie der Rekordmeister mitteilte, steht der Nationalspieler aufgrund eines \"Trauerfalls im engsten Familienkreis\" nicht zur Verfügung."
-  },
-  {
-    "id": "story-9",
-    "topic": "sport",
     "country": "PT",
     "stateHint": "",
-    "date": "2026-10-21T17:46:06.000Z",
+    "date": "2026-10-21T21:25:48.000Z",
     "sources": [
       {
         "source": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/desporto/sporting-cp-lask-linz-20h00_e1773304",
-        "date": "2026-10-21T17:46:06.000Z",
-        "snippet": "O Sporting procura manter-se vitorioso na fase de liga e ficar mais perto do apuramento na Liga dos Campeões de futebol, na receção aos austríacos do LASK Linz, que só têm derrotas, na terceira jornada.",
-        "title": "Sporting CP - LASK Linz (20h00)"
+        "url": "https://www.rtp.pt/noticias/mundo/participacao-violenta-em-manifestacoes-passou-a-ser-crime-em-italia_v1773353",
+        "date": "2026-10-21T21:25:48.000Z",
+        "snippet": "Os menores passam ficar também sujeitos a prisão preventiva. Reacção do governo italiano à mais recente onda de protestos nas ruas.",
+        "title": "Participação violenta em manifestações passou a ser crime em Itália"
       },
       {
-        "source": "RTP Desporto",
-        "url": "https://www.rtp.pt/noticias/sporting/sporting-recebe-lask-linz_d1773154",
-        "date": "2026-10-21T08:42:04.000Z",
-        "snippet": "Na receção aos austríacos do LASK Linz, que só têm derrotas, o Sporting vai hoje tentar manter o registo vitorioso na presente Liga dos Campeões e aproximar-se do apuramento direto para a fase seguinte.",
-        "title": "Sporting recebe LASK Linz"
+        "source": "RTP Mundo",
+        "url": "https://www.rtp.pt/noticias/mundo/participacao-violenta-em-manifestacao-passa-a-ser-crime-em-italia_v1773242",
+        "date": "2026-10-21T14:05:48.000Z",
+        "snippet": "O Governo italiano aprovou medidas de segurança mais duras. A participação violenta em manifestações passa a ser crime e a prisão preventiva pode agora ser aplicada a menores.",
+        "title": "Participação violenta em manifestação passa a ser crime em Itália"
       }
     ],
-    "title": "Sporting CP - LASK Linz (20h00)",
-    "summary": "Sporting CP - LASK Linz (20h00) O Sporting procura manter-se vitorioso na fase de liga e ficar mais perto do apuramento na Liga dos Campeões de futebol, na receção aos austríacos do LASK Linz, que só têm derrotas, na terceira jornada.\nSporting recebe LASK Linz Na receção aos austríacos do LASK Linz, que só têm derrotas, o Sporting vai hoje tentar manter o registo vitorioso na presente Liga dos Campeões e aproximar-se do apuramento direto para a fase seguinte."
+    "title": "Participação violenta em manifestações passou a ser crime em Itália",
+    "summary": "Participação violenta em manifestações passou a ser crime em Itália Os menores passam ficar também sujeitos a prisão preventiva. Reacção do governo italiano à mais recente onda de protestos nas ruas.\nParticipação violenta em manifestação passa a ser crime em Itália O Governo italiano aprovou medidas de segurança mais duras. A participação violenta em manifestações passa a ser crime e a prisão preventiva pode agora ser aplicada a menores."
   },
   {
-    "id": "story-24",
+    "id": "story-26",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
-    "date": "2026-10-21T17:21:52.000Z",
+    "date": "2026-10-21T20:34:00.000Z",
     "sources": [
       {
-        "source": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/russland-zu-verhandlungen-mit-der-ukraine-und-den-usa-bereit-100.html",
-        "date": "2026-10-21T17:21:52.000Z",
-        "snippet": "Der russische Präsident Putin hat einer Wiederaufnahme von trilateralen Gesprächen mit der Ukraine und den USA grundsätzlich zugestimmt. Die Verhandlungen könnten nach dem 10. November beginnen, sagte Putins außenpolitischer Berater Uschakow in Sankt Petersburg.",
-        "title": "Ukraine-Krieg - Russland zu Verhandlungen mit der Ukraine und den USA bereit"
+        "source": "stern",
+        "url": "https://www.stern.de/lifestyle/leute/aerzte-von-papst-leo-xiv---krebs-hat-nicht-gestreut-38432936.html",
+        "date": "2026-10-21T20:34:00.000Z",
+        "snippet": "Ob Papst Leo XIV. krebsfrei ist, war nach einer Lungenoperation zunächst unklar. Nun geben seine Ärzte ein Update. Eine weitere Therapie ist demnach nicht nötig.",
+        "title": "Ärzte geben Entwarnung: Krebs bei Papst Leo XIV. hat nicht gestreut"
       },
       {
-        "source": "Süddeutsche Zeitung",
-        "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-putin-kreml-usa-gespraeche-li.3563283",
-        "date": "2026-10-21T15:05:54.000Z",
-        "snippet": "Das habe Präsident Putin dem US-Gesandten Witkoff zugesagt, erklärt Kreml-Berater Uschakow. Die neuen Verhandlungen könnten demnach im November beginnen.",
-        "title": "Krieg in der Ukraine: Kreml erklärt sich zu Gesprächen mit USA und Ukraine bereit"
+        "source": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/gesellschaft/menschen/papst-leo-xiv-aerzte-geben-nach-lungenkrebs-op-entwarnung-201609884.html",
+        "date": "2026-10-21T20:09:16.000Z",
+        "snippet": "Nach der Tumoroperation von Papst Leo XIV. geben seine Ärzte Entwarnung. Weitere Therapien seien nicht nötig, die geplanten Reisen können wohl stattfinden.",
+        "title": "Ärzte geben Entwarnung: Lungenkrebs bei Papst Leo XIV. hat nicht gestreut"
       }
     ],
-    "title": "Ukraine-Krieg - Russland zu Verhandlungen mit der Ukraine und den USA bereit",
-    "summary": "Ukraine-Krieg - Russland zu Verhandlungen mit der Ukraine und den USA bereit Der russische Präsident Putin hat einer Wiederaufnahme von trilateralen Gesprächen mit der Ukraine und den USA grundsätzlich zugestimmt. Die Verhandlungen könnten nach dem 10. November beginnen, sagte Putins außenpolitischer Berater Uschakow in Sankt Petersburg.\nKrieg in der Ukraine: Kreml erklärt sich zu Gesprächen mit USA und Ukraine bereit Das habe Präsident Putin dem US-Gesandten Witkoff zugesagt, erklärt Kreml-Berater Uschakow. Die neuen Verhandlungen könnten demnach im November beginnen."
+    "title": "Ärzte geben Entwarnung: Krebs bei Papst Leo XIV. hat nicht gestreut",
+    "summary": "Ärzte geben Entwarnung: Krebs bei Papst Leo XIV. hat nicht gestreut Ob Papst Leo XIV. krebsfrei ist, war nach einer Lungenoperation zunächst unklar. Nun geben seine Ärzte ein Update. Eine weitere Therapie ist demnach nicht nötig.\nÄrzte geben Entwarnung: Lungenkrebs bei Papst Leo XIV. hat nicht gestreut Nach der Tumoroperation von Papst Leo XIV. geben seine Ärzte Entwarnung. Weitere Therapien seien nicht nötig, die geplanten Reisen können wohl stattfinden."
   },
   {
-    "id": "story-33",
+    "id": "story-68",
+    "topic": "technik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-21T19:57:00.000Z",
+    "sources": [
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcVBsaDhUd1ZySEIzVzBXSk16S2F3RFVGRktwMkhUNGU4MTgxR1JJNkczZUh5UzN6QWR3RU16TFRwOHVLZGxsZXFtdlpaRDJXN09wX29BMEFNUXFrZktvc2R6cVJmYVozaHhnYXBUNXJNS21PbVNObTFYNGlRdkNwY1FfN2ZlbmNIQ080NUlpX2dLZWwzT0ltUDIyQVM2VF9WVEdvUU9ZY2c0SFRfUVMtWWR5bXdVREZJYlJCQ3F6MUV0N2JuSE9WR1RDYk5jMWFmNU1IM28xQ0RWN3htM1dDNWdLcllaRWRxT2Uw?oc=5",
+        "date": "2026-10-21T19:57:00.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcVBsaDhUd1ZySEIzVzBXSk16S2F3RFVGRktwMkhUNGU4MTgxR1JJNkczZUh5UzN6QWR3RU16TFRwOHVLZGxsZXFtdlpaRDJXN09wX29BMEFNUXFrZktvc2R6cVJmYVozaHhnYXBUNXJNS21PbVNObTFYNGlRdkNwY1FfN2ZlbmNIQ080NUlpX2dLZWwzT0ltUDIyQVM2VF9WVEdvUU9ZY2c0SFRfUVMtWWR5bXdVREZJYlJCQ3F6MUV0N2JuSE9WR1RDYk5jMWFmNU1IM28xQ0RWN3htM1dDNWdLcllaRWRxT2Uw?oc=5\" target=\"_blank\">Thélyson Orélien: Verlag bestätigt KI-Vorwürfe gegen Autor – Zusammenarbeit eingestellt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOeGtDbElsZlBEOXlIb2p0c2FGQVpDbDA2ZGJNLS1pRERUcDJRWnRzOUxtT0ZpcU5wWkFOUFAzaEszMGJvNnhBOFVvemJQS",
+        "title": "Thélyson Orélien: Verlag bestätigt KI-Vorwürfe gegen Autor – Zusammenarbeit eingestellt - Spiegel"
+      },
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/kultur/thelyson-orelien-verlag-bestaetigt-ki-vorwuerfe-gegen-autor-zusammenarbeit-eingestellt-a-92c50624-48ca-4166-a9fa-7ccbad3dfe7a#ref=rss",
+        "date": "2026-10-21T19:57:00.000Z",
+        "snippet": "Schriftsteller Thélyson Orélien hatte stets bestritten, KI für sein Buch verwendet zu haben. Nun teilt sein Verlag mit: Der Autor setzte die Technologie im Schreibprozess ein. Die Zusammenarbeit soll beendet werden.",
+        "title": "Thélyson Orélien: Verlag bestätigt KI-Vorwürfe gegen Autor – Zusammenarbeit eingestellt"
+      }
+    ],
+    "title": "Thélyson Orélien: Verlag bestätigt KI-Vorwürfe gegen Autor – Zusammenarbeit eingestellt - Spiegel",
+    "summary": "Thélyson Orélien: Verlag bestätigt KI-Vorwürfe gegen Autor – Zusammenarbeit eingestellt - Spiegel <ol><li><a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcVBsaDhUd1ZySEIzVzBXSk16S2F3RFVGRktwMkhUNGU4MTgxR1JJNkczZUh5UzN6QWR3RU16TFRwOHVLZGxsZXFtdlpaRDJXN09wX29BMEFNUXFrZktvc2R6cVJmYVozaHhnYXBUNXJNS21PbVNObTFYNGlRdkNwY1FfN2ZlbmNIQ080NUlpX2dLZWwzT0ltUDIyQVM2VF9WVEdvUU9ZY2c0SFRfUVMtWWR5bXdVREZJYlJCQ3F6MUV0N2JuSE9WR1RDYk5jMWFmNU1IM28xQ0RWN3htM1dDNWdLcllaRWRxT2Uw?oc=5\" target=\"_blank\">Thélyson Orélien: Verlag bestätigt KI-Vorwürfe gegen Autor – Zusammenarbeit eingestellt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOeGtDbElsZlBEOXlIb2p0c2FGQVpDbDA2ZGJNLS1pRERUcDJRWnRzOUxtT0ZpcU5wWkFOUFAzaEszMGJvNnhBOFVvemJQS\nThélyson Orélien: Verlag bestätigt KI-Vorwürfe gegen Autor – Zusammenarbeit eingestellt Schriftsteller Thélyson Orélien hatte stets bestritten, KI für sein Buch verwendet zu haben. Nun teilt sein Verlag mit: Der Autor setzte die Technologie im Schreibprozess ein. Die Zusammenarbeit soll beendet werden."
+  },
+  {
+    "id": "story-72",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "BY",
+    "date": "2026-10-21T19:53:47.000Z",
+    "sources": [
+      {
+        "source": "ntv",
+        "url": "https://www.n-tv.de/panorama/Krebs-bei-Papst-hat-nicht-gestreut-id31444478.html",
+        "date": "2026-10-21T19:53:47.000Z",
+        "snippet": "Dem 71-jährigen Papst Leo XIV. wurde ein Teil des rechten Lungenlappens entfernt, weil dieser mit Krebs befallen war. Nun steht fest: Weitere Metastasen gibt es nicht.",
+        "title": "Keine weitere Therapie nötig: Krebs bei Papst hat nicht gestreut"
+      },
+      {
+        "source": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/vatikan-papst-leo-ist-krebsfrei-keine-weitere-therapie-noetig,VYiK0DS",
+        "date": "2026-10-21T19:38:54.000Z",
+        "snippet": "Vor rund einer Woche wurde dem Papst ein bösartiger Tumor aus der Lunge entfernt. Nun geben seine Ärzte Entwarnung: Der Krebs hat nicht gestreut. Leo XIV. braucht keine weitere Therapie.",
+        "title": "Papst Leo ist krebsfrei – keine weitere Therapie nötig"
+      }
+    ],
+    "title": "Keine weitere Therapie nötig: Krebs bei Papst hat nicht gestreut",
+    "summary": "Keine weitere Therapie nötig: Krebs bei Papst hat nicht gestreut Dem 71-jährigen Papst Leo XIV. wurde ein Teil des rechten Lungenlappens entfernt, weil dieser mit Krebs befallen war. Nun steht fest: Weitere Metastasen gibt es nicht.\nPapst Leo ist krebsfrei – keine weitere Therapie nötig Vor rund einer Woche wurde dem Papst ein bösartiger Tumor aus der Lunge entfernt. Nun geben seine Ärzte Entwarnung: Der Krebs hat nicht gestreut. Leo XIV. braucht keine weitere Therapie."
+  },
+  {
+    "id": "story-91",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
-    "date": "2026-10-21T17:21:52.000Z",
+    "date": "2026-10-21T19:45:21.000Z",
     "sources": [
       {
         "source": "Deutschlandfunk Nachrichten",
         "url": "https://www.deutschlandfunk.de/ermittler-durchsuchen-bueros-von-rechter-fraktion-im-europarlament-100.html",
-        "date": "2026-10-21T17:21:52.000Z",
+        "date": "2026-10-21T19:45:21.000Z",
         "snippet": "Im Europaparlament sind Büros der rechtsgerichteten \"Patrioten\"-Fraktion durchsucht worden.",
         "title": "Brüssel und Straßburg - Ermittler durchsuchen Büros von rechter Fraktion im Europarlament"
       },
@@ -185,41 +267,41 @@
     "summary": "Brüssel und Straßburg - Ermittler durchsuchen Büros von rechter Fraktion im Europarlament Im Europaparlament sind Büros der rechtsgerichteten \"Patrioten\"-Fraktion durchsucht worden.\nBrüssel und Straßburg: Ermittler durchsuchen Büros rechter Fraktion im EU-Parlament Die Europäische Staatsanwaltschaft hat Büros der Patrioten-Fraktion durchsucht. Es geht um möglichen Missbrauch von 4,3 Millionen Euro durch Mitglieder der aufgelösten ID-Fraktion. Dieser gehörte auch die AfD an."
   },
   {
-    "id": "story-39",
+    "id": "story-108",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
-    "date": "2026-10-21T17:21:52.000Z",
+    "date": "2026-10-21T19:45:21.000Z",
     "sources": [
       {
         "source": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/neuer-uno-bericht-erde-steuert-bis-2100-auf-bis-zu-2-8-grad-erwaermung-zu-wwf-appelliert-an-bundesre-100.html",
-        "date": "2026-10-21T17:21:52.000Z",
-        "snippet": "Die Vereinten Nationen warnen, dass die Erde bis zum Ende des Jahrhunderts auf eine Erwärmung von bis zu 2,8 Grad gegenüber der vorindustriellen Zeit zusteuern könnte. UNO-Generalsekretär Guterres sagte bei der Vorstellung des Jahresberichts des Umweltprogramms UNEP, die internationale Gemeinschaft sei gefährlich weit vom Erreichen ihrer Klimaziele entfernt.",
-        "title": "Klimawandel - Neuer UNO-Bericht: Erde steuert bis 2100 auf bis zu 2,8 Grad Erwärmung zu - WWF appelliert an Bundesregierung"
+        "url": "https://www.deutschlandfunk.de/alice-schwarzer-stellt-magazin-emma-nach-50-jahren-ein-100.html",
+        "date": "2026-10-21T19:45:21.000Z",
+        "snippet": "Nach 50 Jahren wird das feministische Magazin \"Emma\" eingestellt. Die Herausgeberin Alice Schwarzer teilte in Köln mit, die Ausgabe vom 8. Dezember werde die letzte sein. Schwarzer hatte die Zeitschrift im Januar 1977 mit einem Kollektiv gegründet.",
+        "title": "Publizistik - Alice Schwarzer stellt Magazin \"Emma\" nach 50 Jahren ein"
       },
       {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNajhKbHRmRFNLSnpKTHFOMUFiWldrc3VNbkJvYUFMQkhOTEdDdnVfNGR0blEwdUpYSmQ1OHV0TkMxLTV4VkxXNHhBdi02ZHk4QXhEZmdqUURiY0lNRWVjbl9EVEp1eGN0WnZtSmUwUlYtcnBwLVhhbHM5R0UwNU9CUkEtcU5FblBqR2ZLeUNpZ0htN0o0cjlNWWRpOXVadDRZSFVLVjVrOGh5VU5TMjJCZHJ6dkk5NFJBTHZrOVFPMVA5ZmhhTDJVNWozd0w0NGpYcFZock5HNA?oc=5",
-        "date": "2026-10-21T16:45:14.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNajhKbHRmRFNLSnpKTHFOMUFiWldrc3VNbkJvYUFMQkhOTEdDdnVfNGR0blEwdUpYSmQ1OHV0TkMxLTV4VkxXNHhBdi02ZHk4QXhEZmdqUURiY0lNRWVjbl9EVEp1eGN0WnZtSmUwUlYtcnBwLVhhbHM5R0UwNU9CUkEtcU5FblBqR2ZLeUNpZ0htN0o0cjlNWWRpOXVadDRZSFVLVjVrOGh5VU5TMjJCZHJ6dkk5NFJBTHZrOVFPMVA5ZmhhTDJVNWozd0w0NGpYcFZock5HNA?oc=5\" target=\"_blank\">Neuer UNO-Bericht: Erde steuert bis 2100 auf bis zu 2,8 Grad Erwärmung zu – WWF appelliert an Bundesregierung</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deutschlandfunk</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxNdXVqUmFDOVEwVGxPcnFGemRBQzRyVnFVN1M0QkdNVWpSRDJIT3JHQkQ2dFdjTHFkeGNtbWswZHBBVmJSaG5TSlB4Z",
-        "title": "Neuer UNO-Bericht: Erde steuert bis 2100 auf bis zu 2,8 Grad Erwärmung zu – WWF appelliert an Bundesregierung - Deutschlandfunk"
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/kultur/emma-magazin-ende-100.html",
+        "date": "2026-10-21T08:40:09.000Z",
+        "snippet": "Nach 50 Jahren ist Schluss. Das feministische Magazin \"Emma\" wird eingestellt. Gründerin und Herausgeberin Alice Schwarzer betonte, die Gründe seien nicht ökonomischer Natur. \"Wir meinen, es reicht.\"",
+        "title": "Alice Schwarzer stellt Magazin \"Emma\" ein"
       }
     ],
-    "title": "Klimawandel - Neuer UNO-Bericht: Erde steuert bis 2100 auf bis zu 2,8 Grad Erwärmung zu - WWF appelliert an Bundesregierung",
-    "summary": "Klimawandel - Neuer UNO-Bericht: Erde steuert bis 2100 auf bis zu 2,8 Grad Erwärmung zu - WWF appelliert an Bundesregierung Die Vereinten Nationen warnen, dass die Erde bis zum Ende des Jahrhunderts auf eine Erwärmung von bis zu 2,8 Grad gegenüber der vorindustriellen Zeit zusteuern könnte. UNO-Generalsekretär Guterres sagte bei der Vorstellung des Jahresberichts des Umweltprogramms UNEP, die internationale Gemeinschaft sei gefährlich weit vom Erreichen ihrer Klimaziele entfernt.\nNeuer UNO-Bericht: Erde steuert bis 2100 auf bis zu 2,8 Grad Erwärmung zu – WWF appelliert an Bundesregierung - Deutschlandfunk <ol><li><a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNajhKbHRmRFNLSnpKTHFOMUFiWldrc3VNbkJvYUFMQkhOTEdDdnVfNGR0blEwdUpYSmQ1OHV0TkMxLTV4VkxXNHhBdi02ZHk4QXhEZmdqUURiY0lNRWVjbl9EVEp1eGN0WnZtSmUwUlYtcnBwLVhhbHM5R0UwNU9CUkEtcU5FblBqR2ZLeUNpZ0htN0o0cjlNWWRpOXVadDRZSFVLVjVrOGh5VU5TMjJCZHJ6dkk5NFJBTHZrOVFPMVA5ZmhhTDJVNWozd0w0NGpYcFZock5HNA?oc=5\" target=\"_blank\">Neuer UNO-Bericht: Erde steuert bis 2100 auf bis zu 2,8 Grad Erwärmung zu – WWF appelliert an Bundesregierung</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deutschlandfunk</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxNdXVqUmFDOVEwVGxPcnFGemRBQzRyVnFVN1M0QkdNVWpSRDJIT3JHQkQ2dFdjTHFkeGNtbWswZHBBVmJSaG5TSlB4Z"
+    "title": "Publizistik - Alice Schwarzer stellt Magazin \"Emma\" nach 50 Jahren ein",
+    "summary": "Publizistik - Alice Schwarzer stellt Magazin \"Emma\" nach 50 Jahren ein Nach 50 Jahren wird das feministische Magazin \"Emma\" eingestellt. Die Herausgeberin Alice Schwarzer teilte in Köln mit, die Ausgabe vom 8. Dezember werde die letzte sein. Schwarzer hatte die Zeitschrift im Januar 1977 mit einem Kollektiv gegründet.\nAlice Schwarzer stellt Magazin \"Emma\" ein Nach 50 Jahren ist Schluss. Das feministische Magazin \"Emma\" wird eingestellt. Gründerin und Herausgeberin Alice Schwarzer betonte, die Gründe seien nicht ökonomischer Natur. \"Wir meinen, es reicht.\""
   },
   {
-    "id": "story-53",
+    "id": "story-110",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
-    "date": "2026-10-21T17:21:52.000Z",
+    "date": "2026-10-21T19:45:21.000Z",
     "sources": [
       {
         "source": "Deutschlandfunk Nachrichten",
         "url": "https://www.deutschlandfunk.de/lula-und-bolsonaro-fordern-ausschluss-des-jeweils-anderen-100.html",
-        "date": "2026-10-21T17:21:52.000Z",
+        "date": "2026-10-21T19:45:21.000Z",
         "snippet": "Kurz vor der Stichwahl um das Präsidentenamt in Brasilien fordern beide Kandidaten den Ausschluss des jeweils anderen.",
         "title": "Vor Stichwahl in Brasilien - Lula und Bolsonaro fordern Ausschluss des jeweils anderen"
       },
@@ -235,18 +317,143 @@
     "summary": "Vor Stichwahl in Brasilien - Lula und Bolsonaro fordern Ausschluss des jeweils anderen Kurz vor der Stichwahl um das Präsidentenamt in Brasilien fordern beide Kandidaten den Ausschluss des jeweils anderen.\nBrasilien: Lula und Bolsonaro wollen Ausschluss des jeweils anderen Kurz vor der Stichwahl in Brasilien verschärft sich der Wahlkampf zwischen Lula und Bolsonaro. Beide Präsidentschaftsbewerber gehen nun gerichtlich gegen den jeweils anderen vor, um eine Annullierung der Kandidatur zu erreichen."
   },
   {
-    "id": "story-72",
+    "id": "story-122",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-21T19:43:05.000Z",
+    "sources": [
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQ3c1Q2lhNzJUaGZ6X2hqWUItcUwxR0ZYMENUWGQ5cVFBOWstSEVPY2h2S3hyVnNKNFpYN1Mza2dHWHh3eS1DNVpfVzZOLXFZd3BDUzhJd1duSnV3VVRRZ0JZcFFVcWYySERsOTBSQmI3T29qRlBiOGdJQ2FZRVRpNkxZdEphanFNVGhaWGdPREpxNl9TbWZ0eEhIZ09DZVQyZ3N2Yk9PQTNsdk1PV01lMnpnLXZRSDdCeUNoYjl2UnhpMUlqTkdab3lrNHZmeUViMjNXakljS3MycXc?oc=5",
+        "date": "2026-10-21T19:43:05.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQ3c1Q2lhNzJUaGZ6X2hqWUItcUwxR0ZYMENUWGQ5cVFBOWstSEVPY2h2S3hyVnNKNFpYN1Mza2dHWHh3eS1DNVpfVzZOLXFZd3BDUzhJd1duSnV3VVRRZ0JZcFFVcWYySERsOTBSQmI3T29qRlBiOGdJQ2FZRVRpNkxZdEphanFNVGhaWGdPREpxNl9TbWZ0eEhIZ09DZVQyZ3N2Yk9PQTNsdk1PV01lMnpnLXZRSDdCeUNoYjl2UnhpMUlqTkdab3lrNHZmeUViMjNXakljS3MycXc?oc=5\" target=\"_blank\">Keine weitere Therapie nötig – Ärzte erklären Papst Leo für krebsfrei</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WELT</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOM2h3VV9nY0xKZl9oOGczRnhWSnBsakVQeWhkZFpqU0xhTERYOV9JSXhqRmFSRkRWdGZoeXVGMTZZQlFyV2VjLWIyWmwyakw5X2VvYkw1aUNSRGVXeHVqTlVUXzRDTXhLWjV0SWN",
+        "title": "Keine weitere Therapie nötig – Ärzte erklären Papst Leo für krebsfrei - WELT"
+      },
+      {
+        "source": "WELT",
+        "url": "https://www.welt.de/gesundheit/article6ad913cb2c40700de080118a/papst-keine-weitere-therapie-noetig-aerzte-erklaeren-leo-xiv-fuer-krebsfrei.html",
+        "date": "2026-10-21T19:41:31.000Z",
+        "snippet": "Der Lungenkrebs von Papst Leo XIV. hat sich nicht ausgebreitet. Das teilten seine Ärzte wenige Tage nach seiner OP mit. Es sei keine weitere Therapie erforderlich.",
+        "title": "Keine weitere Therapie nötig – Ärzte erklären Papst Leo für krebsfrei"
+      }
+    ],
+    "title": "Keine weitere Therapie nötig – Ärzte erklären Papst Leo für krebsfrei - WELT",
+    "summary": "Keine weitere Therapie nötig – Ärzte erklären Papst Leo für krebsfrei - WELT <ol><li><a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQ3c1Q2lhNzJUaGZ6X2hqWUItcUwxR0ZYMENUWGQ5cVFBOWstSEVPY2h2S3hyVnNKNFpYN1Mza2dHWHh3eS1DNVpfVzZOLXFZd3BDUzhJd1duSnV3VVRRZ0JZcFFVcWYySERsOTBSQmI3T29qRlBiOGdJQ2FZRVRpNkxZdEphanFNVGhaWGdPREpxNl9TbWZ0eEhIZ09DZVQyZ3N2Yk9PQTNsdk1PV01lMnpnLXZRSDdCeUNoYjl2UnhpMUlqTkdab3lrNHZmeUViMjNXakljS3MycXc?oc=5\" target=\"_blank\">Keine weitere Therapie nötig – Ärzte erklären Papst Leo für krebsfrei</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WELT</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOM2h3VV9nY0xKZl9oOGczRnhWSnBsakVQeWhkZFpqU0xhTERYOV9JSXhqRmFSRkRWdGZoeXVGMTZZQlFyV2VjLWIyWmwyakw5X2VvYkw1aUNSRGVXeHVqTlVUXzRDTXhLWjV0SWN\nKeine weitere Therapie nötig – Ärzte erklären Papst Leo für krebsfrei Der Lungenkrebs von Papst Leo XIV. hat sich nicht ausgebreitet. Das teilten seine Ärzte wenige Tage nach seiner OP mit. Es sei keine weitere Therapie erforderlich."
+  },
+  {
+    "id": "story-123",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-21T19:43:00.000Z",
+    "sources": [
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTVRZcXU3SWVVRDF2Y1BlMUxFRlVneDFYZkt0bm02TENMb01xREtObUFiSlc5S08tMWFydTN1bVZ0TE1rQlpZbTZBT1hSbGVzZmZTUzdqRXctc3dqWl9ORGdMWnlmTVFCZ19VdDdCQVB3VThHZ3VKV0twbkh1YzVDZ01uZTA4Ylc4VzhJblNMekZWUFVPaDFkeFQtX1VoTkdpTXoxSUFMVWJTb05XQ0UxSTNpOXhXeVkxclFTRjNiMmxrQmw2Z2NOS0d3NHJXZmM2TFg0dDVxZGI1TEFsVkNBdmpn?oc=5",
+        "date": "2026-10-21T19:43:00.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTVRZcXU3SWVVRDF2Y1BlMUxFRlVneDFYZkt0bm02TENMb01xREtObUFiSlc5S08tMWFydTN1bVZ0TE1rQlpZbTZBT1hSbGVzZmZTUzdqRXctc3dqWl9ORGdMWnlmTVFCZ19VdDdCQVB3VThHZ3VKV0twbkh1YzVDZ01uZTA4Ylc4VzhJblNMekZWUFVPaDFkeFQtX1VoTkdpTXoxSUFMVWJTb05XQ0UxSTNpOXhXeVkxclFTRjNiMmxrQmw2Z2NOS0d3NHJXZmM2TFg0dDVxZGI1TEFsVkNBdmpn?oc=5\" target=\"_blank\">Meta: Cambridge-Analytica-Skandal bringt 25-Milliarden-Dollar-Strafe ins Spiel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPZm5GcUdBMmZySFc0Y2RaUmtGdGI0Y2pVOG5KVVRpV1NOTlhuSEkyemlHQnpHYlNLZGtHLWJiclNLOWZPQVVGdllTaDYyMkdSczVlU2RzYUluOEFXMW",
+        "title": "Meta: Cambridge-Analytica-Skandal bringt 25-Milliarden-Dollar-Strafe ins Spiel - Spiegel"
+      },
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/netzwelt/meta-cambridge-analytica-skandal-bringt-25-milliarden-dollar-strafe-ins-spiel-a-92ceceda-93e2-4664-a346-b6fe20c7a1c0#ref=rss",
+        "date": "2026-10-21T19:43:00.000Z",
+        "snippet": "Der Skandal um Cambridge Analytica hat das Vertrauen in den Konzern erschüttert: Millionen Facebook-Konten waren 2018 davon betroffen. Nun droht dem Unternehmen Meta eine Strafe von 25 Milliarden Dollar.",
+        "title": "Meta: Cambridge-Analytica-Skandal bringt 25-Milliarden-Dollar-Strafe ins Spiel"
+      }
+    ],
+    "title": "Meta: Cambridge-Analytica-Skandal bringt 25-Milliarden-Dollar-Strafe ins Spiel - Spiegel",
+    "summary": "Meta: Cambridge-Analytica-Skandal bringt 25-Milliarden-Dollar-Strafe ins Spiel - Spiegel <ol><li><a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTVRZcXU3SWVVRDF2Y1BlMUxFRlVneDFYZkt0bm02TENMb01xREtObUFiSlc5S08tMWFydTN1bVZ0TE1rQlpZbTZBT1hSbGVzZmZTUzdqRXctc3dqWl9ORGdMWnlmTVFCZ19VdDdCQVB3VThHZ3VKV0twbkh1YzVDZ01uZTA4Ylc4VzhJblNMekZWUFVPaDFkeFQtX1VoTkdpTXoxSUFMVWJTb05XQ0UxSTNpOXhXeVkxclFTRjNiMmxrQmw2Z2NOS0d3NHJXZmM2TFg0dDVxZGI1TEFsVkNBdmpn?oc=5\" target=\"_blank\">Meta: Cambridge-Analytica-Skandal bringt 25-Milliarden-Dollar-Strafe ins Spiel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPZm5GcUdBMmZySFc0Y2RaUmtGdGI0Y2pVOG5KVVRpV1NOTlhuSEkyemlHQnpHYlNLZGtHLWJiclNLOWZPQVVGdllTaDYyMkdSczVlU2RzYUluOEFXMW\nMeta: Cambridge-Analytica-Skandal bringt 25-Milliarden-Dollar-Strafe ins Spiel Der Skandal um Cambridge Analytica hat das Vertrauen in den Konzern erschüttert: Millionen Facebook-Konten waren 2018 davon betroffen. Nun droht dem Unternehmen Meta eine Strafe von 25 Milliarden Dollar."
+  },
+  {
+    "id": "story-128",
+    "topic": "politik",
+    "country": "UK",
+    "stateHint": "",
+    "date": "2026-10-21T19:40:56.000Z",
+    "sources": [
+      {
+        "source": "Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest",
+        "date": "2026-10-21T19:40:56.000Z",
+        "snippet": "<p>Leaders criticised for spreading misleading information as France prepares for further protests this weekend</p><p></p><p>Emmanuel Macron has accused Donald Trump and other foreign leaders of making “stupid comments” about France’s street unrest for political gain, as the country prepared for more protests this weekend.</p><p>Speaking during a visit to Qatar, the French president did not name names but said “manipulation of information” after <a href=\"https://www.theguardian.com/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron\">Saturday’s riots</a> had led to “comments that are as unacceptable as they are stupid, from many people, including foreign leaders”.",
+        "title": "Macron accuses Trump and other foreign leaders of ‘stupid comments’ about France unrest"
+      },
+      {
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd3lQQ19SQU9wS1B0N3NWek1pbS1NWXdONmVVOVJsaHhrc0RXN3ZfZFZseTc2NUJQTjl2RnlaODk1eWlUWmFLM1RVVWNCWjE4Vi13cDF1X0xzQnlQRW1La3o1d2tya0I4NW9SVmdYaHAta2l1TWo5Z0xiN0dyV2pWQXgySjZqeW1fY0tCNkNzdEo2UkQ5djhMcDkzeU9QdlJ5UkQ4Y2pZcw?oc=5",
+        "date": "2026-10-21T14:44:00.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOd3lQQ19SQU9wS1B0N3NWek1pbS1NWXdONmVVOVJsaHhrc0RXN3ZfZFZseTc2NUJQTjl2RnlaODk1eWlUWmFLM1RVVWNCWjE4Vi13cDF1X0xzQnlQRW1La3o1d2tya0I4NW9SVmdYaHAta2l1TWo5Z0xiN0dyV2pWQXgySjZqeW1fY0tCNkNzdEo2UkQ5djhMcDkzeU9QdlJ5UkQ4Y2pZcw?oc=5\" target=\"_blank\">Macron accuses Trump and other foreign leaders of ‘stupid comments’ about France unrest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+        "title": "Macron accuses Trump and other foreign leaders of ‘stupid comments’ about France unrest - The Guardian"
+      }
+    ],
+    "title": "Macron accuses Trump and other foreign leaders of ‘stupid comments’ about France unrest",
+    "summary": "Macron accuses Trump and other foreign leaders of ‘stupid comments’ about France unrest <p>Leaders criticised for spreading misleading information as France prepares for further protests this weekend</p><p></p><p>Emmanuel Macron has accused Donald Trump and other foreign leaders of making “stupid comments” about France’s street unrest for political gain, as the country prepared for more protests this weekend.</p><p>Speaking during a visit to Qatar, the French president did not name names but said “manipulation of information” after <a href=\"https://www.theguardian.com/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron\">Saturday’s riots</a> had led to “comments that are as unacceptable as they are stupid, from many people, including foreign leaders”.\nMacron accuses Trump and other foreign leaders of ‘stupid comments’ about France unrest - The Guardian <a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOd3lQQ19SQU9wS1B0N3NWek1pbS1NWXdONmVVOVJsaHhrc0RXN3ZfZFZseTc2NUJQTjl2RnlaODk1eWlUWmFLM1RVVWNCWjE4Vi13cDF1X0xzQnlQRW1La3o1d2tya0I4NW9SVmdYaHAta2l1TWo5Z0xiN0dyV2pWQXgySjZqeW1fY0tCNkNzdEo2UkQ5djhMcDkzeU9QdlJ5UkQ4Y2pZcw?oc=5\" target=\"_blank\">Macron accuses Trump and other foreign leaders of ‘stupid comments’ about France unrest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>"
+  },
+  {
+    "id": "story-144",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "NI",
+    "date": "2026-10-21T19:35:58.000Z",
+    "sources": [
+      {
+        "source": "NDR Niedersachsen",
+        "url": "https://www.ndr.de/fernsehen/sendungen/hallo_niedersachsen/anklage-gegen-afd-landesvorsitzenden-ansgar-schledde,hallonds-11074.html",
+        "date": "2026-10-21T19:35:58.000Z",
+        "snippet": "Ansgar Schledde wird unter anderem vorgeworfen, Parteispenden veruntreut zu haben. Insgesamt geht es um 44.000 Euro.",
+        "title": "Anklage gegen Niedersachsens AfD-Landeschef erhoben"
+      },
+      {
+        "source": "Tagesschau Regional Niedersachsen",
+        "url": "https://www.tagesschau.de/inland/regional/niedersachsen/anklage-gegen-niedersachsens-afd-landeschef-schledde-erhoben,schledde-110.html",
+        "date": "2026-10-21T19:26:15.000Z",
+        "snippet": "Die Staatsanwaltschaft Hannover wirft dem AfD-Politiker Verstoß gegen das Parteiengesetz vor. Es geht um den Umgang mit Spenden.",
+        "title": "Anklage gegen Niedersachsens AfD-Landeschef Schledde erhoben"
+      }
+    ],
+    "title": "Anklage gegen Niedersachsens AfD-Landeschef erhoben",
+    "summary": "Anklage gegen Niedersachsens AfD-Landeschef erhoben Ansgar Schledde wird unter anderem vorgeworfen, Parteispenden veruntreut zu haben. Insgesamt geht es um 44.000 Euro.\nAnklage gegen Niedersachsens AfD-Landeschef Schledde erhoben Die Staatsanwaltschaft Hannover wirft dem AfD-Politiker Verstoß gegen das Parteiengesetz vor. Es geht um den Umgang mit Spenden."
+  },
+  {
+    "id": "story-156",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-21T19:30:01.000Z",
+    "sources": [
+      {
+        "source": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/ausland/europa/ukraine-usa-russland-102.html",
+        "date": "2026-10-21T19:30:01.000Z",
+        "snippet": "Russland hat sich bereit gezeigt, die Gespräche mit den USA und der Ukraine wieder aufzunehmen. Aber sind Fortschritte wahrscheinlich? Osteuropa-Experte Umland zeigt sich im tages…",
+        "title": "\"Keine großen Hoffnungen\""
+      },
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/europa/ukraine-usa-russland-102.html",
+        "date": "2026-10-21T18:54:59.000Z",
+        "snippet": "Russland hat sich bereit gezeigt, die Gespräche mit den USA und der Ukraine wieder aufzunehmen. Aber sind Fortschritte wahrscheinlich? Osteuropa-Experte Umland zeigt sich im tagesschau24-Interview skeptisch.",
+        "title": "Osteuropa-Experte über Ukraine-Gespräche: \"Keine großen Hoffnungen\""
+      }
+    ],
+    "title": "\"Keine großen Hoffnungen\"",
+    "summary": "\"Keine großen Hoffnungen\" Russland hat sich bereit gezeigt, die Gespräche mit den USA und der Ukraine wieder aufzunehmen. Aber sind Fortschritte wahrscheinlich? Osteuropa-Experte Umland zeigt sich im tages…\nOsteuropa-Experte über Ukraine-Gespräche: \"Keine großen Hoffnungen\" Russland hat sich bereit gezeigt, die Gespräche mit den USA und der Ukraine wieder aufzunehmen. Aber sind Fortschritte wahrscheinlich? Osteuropa-Experte Umland zeigt sich im tagesschau24-Interview skeptisch."
+  },
+  {
+    "id": "story-169",
     "topic": "sport",
     "country": "UK",
     "stateHint": "",
-    "date": "2026-10-21T17:18:47.000Z",
+    "date": "2026-10-21T19:20:14.000Z",
     "sources": [
       {
         "source": "Guardian Sport",
         "url": "https://www.theguardian.com/football/live/2026/oct/21/como-v-manchester-united-champions-league-live",
-        "date": "2026-10-21T17:18:47.000Z",
-        "snippet": "<p>⚽️ Champions League updates from 5.45pm BST<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/championsleague/table\">Champions League table</a> | <a href=\"mailto:simon.burnton@guardian.co.uk\">Mail Simon</a></p><p><strong>The players are on the pitch</strong> and very nearly ready to go.</p><p><strong>Poor mascot coming out to pick up the match ball</strong> looks like someone just dragged him out of a ditch.</p> <a href=\"https://www.theguardian.com/football/live/2026/oct/21/como-v-manchester-united-champions-league-live\">Continue reading...</a>",
-        "title": "Como v Manchester United: Champions League – live"
+        "date": "2026-10-21T19:20:14.000Z",
+        "snippet": "<p>A dismal Manchester United performance ended in an emphatic defeat to Cesc Fàbregas’s completely dominant Como side </p><p><strong>The players are on the pitch</strong> and very nearly ready to go.</p><p><strong>Poor mascot coming out to pick up the match ball</strong> looks like someone just dragged him out of a ditch.</p> <a href=\"https://www.theguardian.com/football/live/2026/oct/21/como-v-manchester-united-champions-league-live\">Continue reading...</a>",
+        "title": "Como 4-1 Manchester United: Champions League – as it happened"
       },
       {
         "source": "t-online Sport",
@@ -256,20 +463,120 @@
         "title": "Champions League: Como gegen Manchester United droht Absage"
       }
     ],
-    "title": "Como v Manchester United: Champions League – live",
-    "summary": "Como v Manchester United: Champions League – live <p>⚽️ Champions League updates from 5.45pm BST<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/championsleague/table\">Champions League table</a> | <a href=\"mailto:simon.burnton@guardian.co.uk\">Mail Simon</a></p><p><strong>The players are on the pitch</strong> and very nearly ready to go.</p><p><strong>Poor mascot coming out to pick up the match ball</strong> looks like someone just dragged him out of a ditch.</p> <a href=\"https://www.theguardian.com/football/live/2026/oct/21/como-v-manchester-united-champions-league-live\">Continue reading...</a>\nChampions League: Como gegen Manchester United droht Absage Land unter in der Lombardei: Am Mittwochabend trifft Como auf Manchester United. Doch heftige Regenfälle könnten die Partie gefährden."
+    "title": "Como 4-1 Manchester United: Champions League – as it happened",
+    "summary": "Como 4-1 Manchester United: Champions League – as it happened <p>A dismal Manchester United performance ended in an emphatic defeat to Cesc Fàbregas’s completely dominant Como side </p><p><strong>The players are on the pitch</strong> and very nearly ready to go.</p><p><strong>Poor mascot coming out to pick up the match ball</strong> looks like someone just dragged him out of a ditch.</p> <a href=\"https://www.theguardian.com/football/live/2026/oct/21/como-v-manchester-united-champions-league-live\">Continue reading...</a>\nChampions League: Como gegen Manchester United droht Absage Land unter in der Lombardei: Am Mittwochabend trifft Como auf Manchester United. Doch heftige Regenfälle könnten die Partie gefährden."
   },
   {
-    "id": "story-73",
+    "id": "story-198",
+    "topic": "politik",
+    "country": "INT",
+    "stateHint": "",
+    "date": "2026-10-21T19:01:05.000Z",
+    "sources": [
+      {
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/russia-willing-to-resume-peace-talks-with-ukraine-us-after-witkoff-visit?traffic_source=rss",
+        "date": "2026-10-21T19:01:05.000Z",
+        "snippet": "Russian President Vladimir Putin has signalled Moscow is willing in principle to resume talks with Ukraine and the US.",
+        "title": "Russia willing to resume peace talks with Ukraine, US after Witkoff visit"
+      },
+      {
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-21T17:42:34.000Z",
+        "snippet": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg.",
+        "title": "Russia says it is ready to resume talks with Ukraine and US to end war"
+      }
+    ],
+    "title": "Russia willing to resume peace talks with Ukraine, US after Witkoff visit",
+    "summary": "Russia willing to resume peace talks with Ukraine, US after Witkoff visit Russian President Vladimir Putin has signalled Moscow is willing in principle to resume talks with Ukraine and the US.\nRussia says it is ready to resume talks with Ukraine and US to end war The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg."
+  },
+  {
+    "id": "story-212",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "HH",
+    "date": "2026-10-21T18:57:23.000Z",
+    "sources": [
+      {
+        "source": "NDR Hamburg",
+        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/abschiebung-von-deutschland-nach-kirgisistan-nach-24-jahren,hamj-15774.html",
+        "date": "2026-10-21T18:57:23.000Z",
+        "snippet": "24 Jahre lang lebte Elena Brandt in Hamburg. Ihre Kinder und Enkel sind hier zu Hause. Trotzdem wurde die 55-Jährige im März nach Kirgistan abgeschoben. Ihre Familie kämpft um ihre Rückkehr und kritisiert das Vorgehen der Ausländerbehörde.",
+        "title": "Nach 24 Jahren in Deutschland: 55-Jährige abgeschoben"
+      },
+      {
+        "source": "Tagesschau Regional Hamburg",
+        "url": "https://www.tagesschau.de/inland/regional/hamburg/nach-24-jahren-in-hamburg-grossmutter-nach-kirgisistan-abgeschoben,abschiebung-360.html",
+        "date": "2026-10-21T14:26:20.000Z",
+        "snippet": "24 Jahre lang lebte Elena Brandt in Hamburg. Trotzdem wurde die 55-Jährige im März nach Kirgisistan abgeschoben. Ihre Familie kämpft um ihre Rückkehr.",
+        "title": "Nach 24 Jahren in Hamburg: Großmutter nach Kirgisistan abgeschoben"
+      }
+    ],
+    "title": "Nach 24 Jahren in Deutschland: 55-Jährige abgeschoben",
+    "summary": "Nach 24 Jahren in Deutschland: 55-Jährige abgeschoben 24 Jahre lang lebte Elena Brandt in Hamburg. Ihre Kinder und Enkel sind hier zu Hause. Trotzdem wurde die 55-Jährige im März nach Kirgistan abgeschoben. Ihre Familie kämpft um ihre Rückkehr und kritisiert das Vorgehen der Ausländerbehörde.\nNach 24 Jahren in Hamburg: Großmutter nach Kirgisistan abgeschoben 24 Jahre lang lebte Elena Brandt in Hamburg. Trotzdem wurde die 55-Jährige im März nach Kirgisistan abgeschoben. Ihre Familie kämpft um ihre Rückkehr."
+  },
+  {
+    "id": "story-232",
+    "topic": "politik",
+    "country": "PT",
+    "stateHint": "",
+    "date": "2026-10-21T18:48:02.000Z",
+    "sources": [
+      {
+        "source": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/16h-parlamento-aprovado-debate-de-urgencia-sobre-a-habitacao_a1_1773318",
+        "date": "2026-10-21T18:48:02.000Z",
+        "snippet": "",
+        "title": "16h Parlamento. Aprovado debate de urgência sobre a habitação"
+      },
+      {
+        "source": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOVJoc0FIbFpxRGtCdGd2Y2syc0RYOHJKWVAzQzZsemg0UV9wMFNCNU5jQUN3eVhGZE8tVjVlLUs3M2hyNTQ0VjlIT1hBeHBpRDJaTTlqNDFxQmJRTVR4QkFRZ0cyeDdweFB0MTNmeUpzYWhBajVKRndkaTBySDc5RmdOYmlxSTdKNlNMZmJ1V2VnZ1JsUVVGNS1VV3R4U3NWcUVnaWVHVndZOExRc3A3TNIBoAFBVV95cUxOaE9QbER2TUNtTElvdlV4YzFBZDVfZVlFNURfN3R6Tk5IbEtWVUMzaGJfM2VpVDU4Y2NDNlN0NTJ0RWw0U2FwU09HbzBydGR4YW9wR2Y2RmhiNjlUUjhPcHBlVjMtOW42blBnVTQ2LWpEeVlFUkgwSEpEQnpjM1U4ZElrZjZjUWN2Q2ktQzl0YUVZX2l5WUpqbkgtYXlCY29M?oc=5",
+        "date": "2026-10-21T14:45:00.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPOVJoc0FIbFpxRGtCdGd2Y2syc0RYOHJKWVAzQzZsemg0UV9wMFNCNU5jQUN3eVhGZE8tVjVlLUs3M2hyNTQ0VjlIT1hBeHBpRDJaTTlqNDFxQmJRTVR4QkFRZ0cyeDdweFB0MTNmeUpzYWhBajVKRndkaTBySDc5RmdOYmlxSTdKNlNMZmJ1V2VnZ1JsUVVGNS1VV3R4U3NWcUVnaWVHVndZOExRc3A3TNIBoAFBVV95cUxOaE9QbER2TUNtTElvdlV4YzFBZDVfZVlFNURfN3R6Tk5IbEtWVUMzaGJfM2VpVDU4Y2NDNlN0NTJ0RWw0U2FwU09HbzBydGR4YW9wR2Y2RmhiNjlUUjhPcHBlVjMtOW42blBnVTQ2LWpEeVlFUkgwSEpEQnpjM1U4ZElrZjZjUWN2Q2ktQzl0YUVZX2l5WUpqbkgtYXlCY29M?oc=5\" target=\"_blank\">Aprovado debate de urgência sobre a crise da habitação no Parlamento</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jornal de Notícias</font></li><li><a href=\"https://news.g",
+        "title": "Aprovado debate de urgência sobre a crise da habitação no Parlamento - Jornal de Notícias"
+      }
+    ],
+    "title": "16h Parlamento. Aprovado debate de urgência sobre a habitação",
+    "summary": "16h Parlamento. Aprovado debate de urgência sobre a habitação \nAprovado debate de urgência sobre a crise da habitação no Parlamento - Jornal de Notícias <ol><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPOVJoc0FIbFpxRGtCdGd2Y2syc0RYOHJKWVAzQzZsemg0UV9wMFNCNU5jQUN3eVhGZE8tVjVlLUs3M2hyNTQ0VjlIT1hBeHBpRDJaTTlqNDFxQmJRTVR4QkFRZ0cyeDdweFB0MTNmeUpzYWhBajVKRndkaTBySDc5RmdOYmlxSTdKNlNMZmJ1V2VnZ1JsUVVGNS1VV3R4U3NWcUVnaWVHVndZOExRc3A3TNIBoAFBVV95cUxOaE9QbER2TUNtTElvdlV4YzFBZDVfZVlFNURfN3R6Tk5IbEtWVUMzaGJfM2VpVDU4Y2NDNlN0NTJ0RWw0U2FwU09HbzBydGR4YW9wR2Y2RmhiNjlUUjhPcHBlVjMtOW42blBnVTQ2LWpEeVlFUkgwSEpEQnpjM1U4ZElrZjZjUWN2Q2ktQzl0YUVZX2l5WUpqbkgtYXlCY29M?oc=5\" target=\"_blank\">Aprovado debate de urgência sobre a crise da habitação no Parlamento</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jornal de Notícias</font></li><li><a href=\"https://news.g"
+  },
+  {
+    "id": "story-261",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-21T18:35:27.000Z",
+    "sources": [
+      {
+        "source": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/sport/championsleague-ticker",
+        "date": "2026-10-21T18:35:27.000Z",
+        "snippet": "Viel größer wird es nicht: In der Vorrunde der Champions League empfangen die Bayern den Vorjahresfinalisten, RB tritt in Spanien an. Alle Partien in unserem Liveticker",
+        "title": "Champions League: Jetzt live: Bayern gegen Arsenal, Real Madrid gegen Leipzig"
+      },
+      {
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/liveblog/2026/10/21/real-madrid-vs-rb-leipzig-live-champions-league?traffic_source=rss",
+        "date": "2026-10-21T16:01:56.000Z",
+        "snippet": "Follow updates, with team news, from our live text commentary stream coverage as Mbappe and Bellingham headline.",
+        "title": "Real Madrid vs RB Leipzig LIVE: Champions League"
+      }
+    ],
+    "title": "Champions League: Jetzt live: Bayern gegen Arsenal, Real Madrid gegen Leipzig",
+    "summary": "Champions League: Jetzt live: Bayern gegen Arsenal, Real Madrid gegen Leipzig Viel größer wird es nicht: In der Vorrunde der Champions League empfangen die Bayern den Vorjahresfinalisten, RB tritt in Spanien an. Alle Partien in unserem Liveticker\nReal Madrid vs RB Leipzig LIVE: Champions League Follow updates, with team news, from our live text commentary stream coverage as Mbappe and Bellingham headline."
+  },
+  {
+    "id": "story-310",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "RP",
-    "date": "2026-10-21T17:18:26.000Z",
+    "date": "2026-10-21T18:08:31.000Z",
     "sources": [
       {
         "source": "SWR Aktuell",
         "url": "https://www.swr.de/swraktuell/rheinland-pfalz/mainz/mainzer-oktoberfest-findet-doch-statt-100.html",
-        "date": "2026-10-21T17:18:26.000Z",
+        "date": "2026-10-21T18:08:31.000Z",
         "snippet": "So viel Ärger gab es in Mainz noch nie um ein Volksfest. Nach wochenlangem Streit sagt die Stadt jetzt: Das Fest findet statt.",
         "title": "Oktoberfest in Mainz ist genehmigt - Freitag geht's los"
       },
@@ -285,82 +592,107 @@
     "summary": "Oktoberfest in Mainz ist genehmigt - Freitag geht's los So viel Ärger gab es in Mainz noch nie um ein Volksfest. Nach wochenlangem Streit sagt die Stadt jetzt: Das Fest findet statt.\nMainzer Oktoberfest startet am Freitag So viel Ärger gab es in Mainz noch nie um ein Volksfest. Nach wochenlangem Streit sagt die Stadt jetzt: Das Fest findet statt."
   },
   {
-    "id": "story-86",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "HH",
-    "date": "2026-10-21T17:13:08.000Z",
-    "sources": [
-      {
-        "source": "NDR Hamburg",
-        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/abschiebung-von-deutschland-nach-kirgisistan-nach-24-jahren,hamj-15774.html",
-        "date": "2026-10-21T17:13:08.000Z",
-        "snippet": "24 Jahre lang lebte Elena Brandt in Hamburg. Ihre Kinder und Enkel sind hier zu Hause. Trotzdem wurde die 55-Jährige im März nach Kirgisistan abgeschoben. Ihre Familie kämpft um ihre Rückkehr und kritisiert das Vorgehen der Ausländerbehörde.",
-        "title": "Nach 24 Jahren in Deutschland: 55-Jährige abgeschoben"
-      },
-      {
-        "source": "Tagesschau Regional Hamburg",
-        "url": "https://www.tagesschau.de/inland/regional/hamburg/nach-24-jahren-in-hamburg-grossmutter-nach-kirgisistan-abgeschoben,abschiebung-360.html",
-        "date": "2026-10-21T14:26:20.000Z",
-        "snippet": "24 Jahre lang lebte Elena Brandt in Hamburg. Trotzdem wurde die 55-Jährige im März nach Kirgisistan abgeschoben. Ihre Familie kämpft um ihre Rückkehr.",
-        "title": "Nach 24 Jahren in Hamburg: Großmutter nach Kirgisistan abgeschoben"
-      }
-    ],
-    "title": "Nach 24 Jahren in Deutschland: 55-Jährige abgeschoben",
-    "summary": "Nach 24 Jahren in Deutschland: 55-Jährige abgeschoben 24 Jahre lang lebte Elena Brandt in Hamburg. Ihre Kinder und Enkel sind hier zu Hause. Trotzdem wurde die 55-Jährige im März nach Kirgisistan abgeschoben. Ihre Familie kämpft um ihre Rückkehr und kritisiert das Vorgehen der Ausländerbehörde.\nNach 24 Jahren in Hamburg: Großmutter nach Kirgisistan abgeschoben 24 Jahre lang lebte Elena Brandt in Hamburg. Trotzdem wurde die 55-Jährige im März nach Kirgisistan abgeschoben. Ihre Familie kämpft um ihre Rückkehr."
-  },
-  {
-    "id": "story-107",
+    "id": "story-333",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
-    "date": "2026-10-21T17:05:18.000Z",
+    "date": "2026-10-21T18:00:03.000Z",
     "sources": [
       {
-        "source": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/digital/2026-10/php-sicherheitsluecke-wordpress-bsi-webseiten",
-        "date": "2026-10-21T17:05:18.000Z",
-        "snippet": "Das Bundesamt für Sicherheit in der Informationstechnik warnt vor einer schwerwiegenden Sicherheitslücke. Das Risiko wird als außerordentlich hoch eingestuft.",
-        "title": "PHP-Sicherheitslücke: Sicherheitslücke bedroht weltweit Millionen Websites"
+        "source": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/ausland/europa/russland-ukraine-krieg-putin-gespraeche-100.html",
+        "date": "2026-10-21T18:00:03.000Z",
+        "snippet": "Nach einem Treffen mit dem US-Sondergesandten erklärt sich Russlands Präsident Putin offenbar zu neuen Verhandlungen mit den USA und der Ukraine bereit. Um ein Ende des Kriegs sol…",
+        "title": "Putin stimmt neuen Gesprächen mit Ukraine und USA zu"
+      },
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/europa/russland-ukraine-krieg-putin-gespraeche-100.html",
+        "date": "2026-10-21T17:50:10.000Z",
+        "snippet": "Nach einem Treffen mit dem US-Sondergesandten erklärt sich Russlands Präsident Putin offenbar zu neuen Gesprächen mit den USA und der Ukraine bereit. Um ein Ende des Kriegs soll es dabei demnach aber nicht gehen.",
+        "title": "Krieg gegen die Ukraine: Putin stimmt Wiederaufnahme von Gesprächen zu"
+      }
+    ],
+    "title": "Putin stimmt neuen Gesprächen mit Ukraine und USA zu",
+    "summary": "Putin stimmt neuen Gesprächen mit Ukraine und USA zu Nach einem Treffen mit dem US-Sondergesandten erklärt sich Russlands Präsident Putin offenbar zu neuen Verhandlungen mit den USA und der Ukraine bereit. Um ein Ende des Kriegs sol…\nKrieg gegen die Ukraine: Putin stimmt Wiederaufnahme von Gesprächen zu Nach einem Treffen mit dem US-Sondergesandten erklärt sich Russlands Präsident Putin offenbar zu neuen Gesprächen mit den USA und der Ukraine bereit. Um ein Ende des Kriegs soll es dabei demnach aber nicht gehen."
+  },
+  {
+    "id": "story-353",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-21T17:48:20.000Z",
+    "sources": [
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/europa/macron-rede-112.html",
+        "date": "2026-10-21T17:48:20.000Z",
+        "snippet": "Auch US-Präsident Trump hatte sich zu den Unruhen in Frankreich zu Wort gemeldet - der französische Präsident Macron hat nun offenbar genug davon. Bei einem Besuch in Katar machte er seinem Ärger Luft. Von Cai Rienäcker.",
+        "title": "Macron kritisiert Trump nach Äußerungen zu Unruhen in Frankreich"
       },
       {
         "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSm9rRktaQTdjdjFxcnlWeWgteUxudWNCaDBwOVJ2MU8yeWxzUEhQQWpJY0RsMS1TVW9Vc2d2TUt2aTJnUHE1OGVQVmJLbVN3LS1CT2ZoOXpqYUpYaWNSUkJJelQ3VHJZUmRfdTByWllQNnFodERiTVIxblVWbVpYd19jZmFCNE9FY2tuZldSNjVJd2trMmtZSWRfWGRFMGgyenNDZzNEcw?oc=5",
-        "date": "2026-10-21T14:11:10.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQSm9rRktaQTdjdjFxcnlWeWgteUxudWNCaDBwOVJ2MU8yeWxzUEhQQWpJY0RsMS1TVW9Vc2d2TUt2aTJnUHE1OGVQVmJLbVN3LS1CT2ZoOXpqYUpYaWNSUkJJelQ3VHJZUmRfdTByWllQNnFodERiTVIxblVWbVpYd19jZmFCNE9FY2tuZldSNjVJd2trMmtZSWRfWGRFMGgyenNDZzNEcw?oc=5\" target=\"_blank\">Kritische Sicherheitslücke bedroht Millionen Websites weltweit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEB.DE</font></li><li><a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5MVE9RcU9ZX1ZJWU9pSVRKVVVYVm82cHZwdzd6c2lZeVJXUVliOUpyUW5EVVF5ZzBwNm95TEQyTkhYSm12dG1hdEdVTmJrM0tZQVRlLVNsTDFHdnhCV1FGblR4Rnh0UGFoU1ZoWDNTVklacjA?oc=5\" target=\"_blank\">PHP-Bedrohung: Was über die Sicherheitslück",
-        "title": "Kritische Sicherheitslücke bedroht Millionen Websites weltweit - WEB.DE"
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84c2I5Y1BfcmliVFh2aTdjNUdtbWJibUpfaTlEb3dJNkpsbU1SdVB4eVJVWnZaOVcxb1pVa1RtNHk5X1dXblJnWGxSelUtUzFCSFF5aF8tV0pXaHl1clhaVnpydTFFbU9MWTNMRkJn?oc=5",
+        "date": "2026-10-21T17:48:00.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE84c2I5Y1BfcmliVFh2aTdjNUdtbWJibUpfaTlEb3dJNkpsbU1SdVB4eVJVWnZaOVcxb1pVa1RtNHk5X1dXblJnWGxSelUtUzFCSFF5aF8tV0pXaHl1clhaVnpydTFFbU9MWTNMRkJn?oc=5\" target=\"_blank\">Macron kritisiert Trump nach Äußerungen zu Unruhen in Frankreich</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQNnJDTjF2UlV1dkNzcGk4RWtPSW1DNjZMM0ZFOURvUnlZV1lXUDUxbFl6bng0VEtGRmxYSVplYk1PaVk0bHl4RHMwNnZ0NmRWYTVOUkpfM2JYNkY1MTF3TUZkLXhFallkMjdGWXZTenJCRVE3cEplb0lQMlVOc3pNN2djckpJeEJZOHAtTHZGTkFuLWJtckpmZzlYY2NPZVBNcTFvWGxwSlFGTVZ0Q2c?oc=5\" target=\"_blank\">In Marseille: Zogen ganze Famili",
+        "title": "Macron kritisiert Trump nach Äußerungen zu Unruhen in Frankreich - tagesschau.de"
       }
     ],
-    "title": "PHP-Sicherheitslücke: Sicherheitslücke bedroht weltweit Millionen Websites",
-    "summary": "PHP-Sicherheitslücke: Sicherheitslücke bedroht weltweit Millionen Websites Das Bundesamt für Sicherheit in der Informationstechnik warnt vor einer schwerwiegenden Sicherheitslücke. Das Risiko wird als außerordentlich hoch eingestuft.\nKritische Sicherheitslücke bedroht Millionen Websites weltweit - WEB.DE <ol><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQSm9rRktaQTdjdjFxcnlWeWgteUxudWNCaDBwOVJ2MU8yeWxzUEhQQWpJY0RsMS1TVW9Vc2d2TUt2aTJnUHE1OGVQVmJLbVN3LS1CT2ZoOXpqYUpYaWNSUkJJelQ3VHJZUmRfdTByWllQNnFodERiTVIxblVWbVpYd19jZmFCNE9FY2tuZldSNjVJd2trMmtZSWRfWGRFMGgyenNDZzNEcw?oc=5\" target=\"_blank\">Kritische Sicherheitslücke bedroht Millionen Websites weltweit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEB.DE</font></li><li><a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5MVE9RcU9ZX1ZJWU9pSVRKVVVYVm82cHZwdzd6c2lZeVJXUVliOUpyUW5EVVF5ZzBwNm95TEQyTkhYSm12dG1hdEdVTmJrM0tZQVRlLVNsTDFHdnhCV1FGblR4Rnh0UGFoU1ZoWDNTVklacjA?oc=5\" target=\"_blank\">PHP-Bedrohung: Was über die Sicherheitslück"
+    "title": "Macron kritisiert Trump nach Äußerungen zu Unruhen in Frankreich",
+    "summary": "Macron kritisiert Trump nach Äußerungen zu Unruhen in Frankreich Auch US-Präsident Trump hatte sich zu den Unruhen in Frankreich zu Wort gemeldet - der französische Präsident Macron hat nun offenbar genug davon. Bei einem Besuch in Katar machte er seinem Ärger Luft. Von Cai Rienäcker.\nMacron kritisiert Trump nach Äußerungen zu Unruhen in Frankreich - tagesschau.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE84c2I5Y1BfcmliVFh2aTdjNUdtbWJibUpfaTlEb3dJNkpsbU1SdVB4eVJVWnZaOVcxb1pVa1RtNHk5X1dXblJnWGxSelUtUzFCSFF5aF8tV0pXaHl1clhaVnpydTFFbU9MWTNMRkJn?oc=5\" target=\"_blank\">Macron kritisiert Trump nach Äußerungen zu Unruhen in Frankreich</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQNnJDTjF2UlV1dkNzcGk4RWtPSW1DNjZMM0ZFOURvUnlZV1lXUDUxbFl6bng0VEtGRmxYSVplYk1PaVk0bHl4RHMwNnZ0NmRWYTVOUkpfM2JYNkY1MTF3TUZkLXhFallkMjdGWXZTenJCRVE3cEplb0lQMlVOc3pNN2djckpJeEJZOHAtTHZGTkFuLWJtckpmZzlYY2NPZVBNcTFvWGxwSlFGTVZ0Q2c?oc=5\" target=\"_blank\">In Marseille: Zogen ganze Famili"
   },
   {
-    "id": "story-195",
-    "topic": "politik",
-    "country": "UK",
+    "id": "story-357",
+    "topic": "sport",
+    "country": "PT",
     "stateHint": "",
-    "date": "2026-10-21T16:38:06.000Z",
+    "date": "2026-10-21T17:46:06.000Z",
     "sources": [
       {
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-21T16:38:06.000Z",
-        "snippet": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg.",
-        "title": "Russia says it is ready to resume talks with Ukraine and US to end war"
+        "source": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/desporto/sporting-cp-lask-linz_e1773304",
+        "date": "2026-10-21T17:46:06.000Z",
+        "snippet": "O Sporting procura manter-se vitorioso na fase de liga e ficar mais perto do apuramento na Liga dos Campeões de futebol, na receção aos austríacos do LASK Linz, que só têm derrotas, na terceira jornada.",
+        "title": "Sporting CP - LASK Linz"
       },
       {
-        "source": "France24 English",
-        "url": "https://www.france24.com/en/kremlin-says-ready-to-resume-3-way-talks-with-us-and-ukraine-mid-november",
-        "date": "2026-10-21T15:51:32.000Z",
-        "snippet": "Moscow is ready to resume trilateral US-Ukraine-Russia talks next month, the Kremlin said Wednesday after President Vladimir Putin met with US envoy Steve Witkoff in Russia. FRANCE 24's correspondent Gulliver Cragg has more.",
-        "title": "Kremlin says 'ready' to resume 3-way talks with US and Ukraine mid-November"
+        "source": "RTP Desporto",
+        "url": "https://www.rtp.pt/noticias/sporting/sporting-recebe-lask-linz_d1773154",
+        "date": "2026-10-21T08:42:04.000Z",
+        "snippet": "Na receção aos austríacos do LASK Linz, que só têm derrotas, o Sporting vai hoje tentar manter o registo vitorioso na presente Liga dos Campeões e aproximar-se do apuramento direto para a fase seguinte.",
+        "title": "Sporting recebe LASK Linz"
       }
     ],
-    "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
-    "summary": "Russia says it is ready to resume talks with Ukraine and US to end war The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg.\nKremlin says 'ready' to resume 3-way talks with US and Ukraine mid-November Moscow is ready to resume trilateral US-Ukraine-Russia talks next month, the Kremlin said Wednesday after President Vladimir Putin met with US envoy Steve Witkoff in Russia. FRANCE 24's correspondent Gulliver Cragg has more."
+    "title": "Sporting CP - LASK Linz",
+    "summary": "Sporting CP - LASK Linz O Sporting procura manter-se vitorioso na fase de liga e ficar mais perto do apuramento na Liga dos Campeões de futebol, na receção aos austríacos do LASK Linz, que só têm derrotas, na terceira jornada.\nSporting recebe LASK Linz Na receção aos austríacos do LASK Linz, que só têm derrotas, o Sporting vai hoje tentar manter o registo vitorioso na presente Liga dos Campeões e aproximar-se do apuramento direto para a fase seguinte."
   },
   {
-    "id": "story-202",
+    "id": "story-401",
+    "topic": "panorama",
+    "country": "PT",
+    "stateHint": "",
+    "date": "2026-10-21T17:15:13.000Z",
+    "sources": [
+      {
+        "source": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/cultura/acao-policial-e-protesto-habitacao-centenas-de-pessoas-da-area-da-cultura-repudiam-violencia-em-carta-aberta_n1773289",
+        "date": "2026-10-21T17:15:13.000Z",
+        "snippet": "A carta aberta \"Cultura pelo Direito à Habitação\" lançada esta terça-feira contava pelas 16:00 de hoje com 891 assinaturas.",
+        "title": "Ação policial e protesto habitação. Centenas de pessoas da área da Cultura repudiam violência em carta aberta"
+      },
+      {
+        "source": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUWc0bGRHUHdQak03MlVCUUc0ZWRJc0hUTXc3d2dJY2tmMVJQdmtTMTdrQ2FXRS04dUlrUUd4SmxtQjA4eWZpTVlfVE81a3gzbWtaSFF3TExFc1REMVNsdEpkOXZaVnBPNmszT2lMdWRpZjI0Y1ZSQjh1dGVjRDBKSUpLMng0R0Z0Q1FuNFg5OHhvWVZuNnNodTMzbFZ0ZWk2QkZzY0hnQy1VYWZwNkZiYVRDX0M0aDRlQllLT0M3SzVweVJsc1FaQzVIeGtfbGNuMHUzX2lQYjRYNU82VnNKamtsOEY4bm1k?oc=5",
+        "date": "2026-10-21T16:19:25.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUWc0bGRHUHdQak03MlVCUUc0ZWRJc0hUTXc3d2dJY2tmMVJQdmtTMTdrQ2FXRS04dUlrUUd4SmxtQjA4eWZpTVlfVE81a3gzbWtaSFF3TExFc1REMVNsdEpkOXZaVnBPNmszT2lMdWRpZjI0Y1ZSQjh1dGVjRDBKSUpLMng0R0Z0Q1FuNFg5OHhvWVZuNnNodTMzbFZ0ZWk2QkZzY0hnQy1VYWZwNkZiYVRDX0M0aDRlQllLT0M3SzVweVJsc1FaQzVIeGtfbGNuMHUzX2lQYjRYNU82VnNKamtsOEY4bm1k?oc=5\" target=\"_blank\">Ação policial e protesto habitação. Centenas de pessoas da área da Cultura repudiam violência em carta aberta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaHBySzlVVHBiODh2cWZ2Z05Wcno0a29DaERpVFZCeVJiZjhhYlk1d2I1ZExMUGdfN3hySDQ0blp3aGp",
+        "title": "Ação policial e protesto habitação. Centenas de pessoas da área da Cultura repudiam violência em carta aberta - RTP"
+      }
+    ],
+    "title": "Ação policial e protesto habitação. Centenas de pessoas da área da Cultura repudiam violência em carta aberta",
+    "summary": "Ação policial e protesto habitação. Centenas de pessoas da área da Cultura repudiam violência em carta aberta A carta aberta \"Cultura pelo Direito à Habitação\" lançada esta terça-feira contava pelas 16:00 de hoje com 891 assinaturas.\nAção policial e protesto habitação. Centenas de pessoas da área da Cultura repudiam violência em carta aberta - RTP <ol><li><a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUWc0bGRHUHdQak03MlVCUUc0ZWRJc0hUTXc3d2dJY2tmMVJQdmtTMTdrQ2FXRS04dUlrUUd4SmxtQjA4eWZpTVlfVE81a3gzbWtaSFF3TExFc1REMVNsdEpkOXZaVnBPNmszT2lMdWRpZjI0Y1ZSQjh1dGVjRDBKSUpLMng0R0Z0Q1FuNFg5OHhvWVZuNnNodTMzbFZ0ZWk2QkZzY0hnQy1VYWZwNkZiYVRDX0M0aDRlQllLT0M3SzVweVJsc1FaQzVIeGtfbGNuMHUzX2lQYjRYNU82VnNKamtsOEY4bm1k?oc=5\" target=\"_blank\">Ação policial e protesto habitação. Centenas de pessoas da área da Cultura repudiam violência em carta aberta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaHBySzlVVHBiODh2cWZ2Z05Wcno0a29DaERpVFZCeVJiZjhhYlk1d2I1ZExMUGdfN3hySDQ0blp3aGp"
+  },
+  {
+    "id": "story-494",
     "topic": "politik",
     "country": "INT",
     "stateHint": "",
@@ -385,57 +717,32 @@
     "summary": "Macron’s surprise ‘solidarity’ visit to Saudi Arabia French President Emmanuel Macron made a surprise stop in Riyadh to meet Saudi Crown Prince during his ongoing Gulf tour.\nFrench President Macron lands in Saudi Arabia on surprise 'solidarity' visit ⁠French President Emmanuel ​Macron landed in Riyadh on Wednseday, ‌adding an ⁠unscheduled stop to his ‌ongoing tour of the Gulf ⁠region. The president's office said the visit aimed to demonstrate “France's solidarity” ​with Saudi Arabia in ‌the face of attacks launched by the ‌Houthis against its territory. Details by FRANCE 24 international affairs editor Douglas Herbert."
   },
   {
-    "id": "story-245",
-    "topic": "panorama",
+    "id": "story-535",
+    "topic": "wirtschaft",
     "country": "DE",
     "stateHint": "",
-    "date": "2026-10-21T16:14:34.000Z",
+    "date": "2026-10-21T16:07:44.000Z",
     "sources": [
       {
         "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQUnJyNWNzaEUwLWVXcjU1T2l3Y1RaR2p5MUFCd3IzQnZYVjdiQ1drV0Z3YWFwbnJZajNNUzdkdmRCclAxZFlIVlkzYThZNk9NaDl1Z0hsYzFuVUxEY1Y2QU9ReExnSXJPZzNlYzZ0bWl6ZGl2bnc4aW94dXlzVF8xOXZjNzdTSGdSaHhNbUxWSkFtUmtQQzVhdE5wQmZMMmNNd3BCdEY1MHE1UG1hZmxZTUY2ZXVhUlJ4V3dmUWFuOUJ1a1lVYXBiRFROOEVvWWxzRExlYkQxNDhEaHgtelhHSDg4ZDVHSkcwSkRWN0M0aXJxTDJWYWh2YzVvUlJ2dlpCM3ByOGx3Z0ZTOWZw?oc=5",
-        "date": "2026-10-21T16:14:34.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxQUnJyNWNzaEUwLWVXcjU1T2l3Y1RaR2p5MUFCd3IzQnZYVjdiQ1drV0Z3YWFwbnJZajNNUzdkdmRCclAxZFlIVlkzYThZNk9NaDl1Z0hsYzFuVUxEY1Y2QU9ReExnSXJPZzNlYzZ0bWl6ZGl2bnc4aW94dXlzVF8xOXZjNzdTSGdSaHhNbUxWSkFtUmtQQzVhdE5wQmZMMmNNd3BCdEY1MHE1UG1hZmxZTUY2ZXVhUlJ4V3dmUWFuOUJ1a1lVYXBiRFROOEVvWWxzRExlYkQxNDhEaHgtelhHSDg4ZDVHSkcwSkRWN0M0aXJxTDJWYWh2YzVvUlJ2dlpCM3ByOGx3Z0ZTOWZw?oc=5\" target=\"_blank\">AfD-Parteitag in Erfurt: Aktivist kehrt „Widersetzen“ den Rücken – und verurteilt Angriffe auf Journalisten</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WELT</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOczNUTzI4OFB3aVU0cHlzVXpPc2VQcmpG",
-        "title": "AfD-Parteitag in Erfurt: Aktivist kehrt „Widersetzen“ den Rücken – und verurteilt Angriffe auf Journalisten - WELT"
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcmRvMEtJR2pTRUh3SEZxcG1Va2UweVRCM09xMExxTlBjcENDTV9zbWhhcVJQbGxHNmd4TGpDaGM0TzNIWF9mZzNWaVJjZXZOVlpTTHNQQTFQQlc1NXdXc1FUQWNDSFQ2cnd3WGdSY19rMy00QVkxdjF2c0pIUWdvRnc4OU5NYV91M2dwUXRlVGRRMXRKZ3dUeHhOWGVvZw?oc=5",
+        "date": "2026-10-21T16:07:44.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQcmRvMEtJR2pTRUh3SEZxcG1Va2UweVRCM09xMExxTlBjcENDTV9zbWhhcVJQbGxHNmd4TGpDaGM0TzNIWF9mZzNWaVJjZXZOVlpTTHNQQTFQQlc1NXdXc1FUQWNDSFQ2cnd3WGdSY19rMy00QVkxdjF2c0pIUWdvRnc4OU5NYV91M2dwUXRlVGRRMXRKZ3dUeHhOWGVvZw?oc=5\" target=\"_blank\">Spenden, Höcke, Bankdaten: Hackerangriff legt sensibles Innenleben der AfD offen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbU4tdXNHbEY3Y1FqRUREM2s1aHR5dllRWWFFT1JfR1daZkoyZkY3YWY1N0J1U0NxLWFFUFNxbUZkV0tBaDhCa3N4Q19MY1hnZmJydDBXajU1cGJHWEswQkt3ZW94YVluN3g5dmlkVW5BbFQ0UGFYX0tBLTRVNzNRQ2gybkhFb3kxT1dDdlpoeGhSUlhzV3BQUTkzOVN3dk",
+        "title": "Spenden, Höcke, Bankdaten: Hackerangriff legt sensibles Innenleben der AfD offen - n-tv.de"
       },
       {
-        "source": "WELT",
-        "url": "https://www.welt.de/politik/deutschland/article6ad8c45b199dc15f1abdc081/afd-parteitag-in-erfurt-aktivist-kehrt-widersetzen-den-ruecken-und-verurteilt-angriffe-auf-journalisten.html",
-        "date": "2026-10-21T16:13:21.000Z",
-        "snippet": "Mit einer gescheiterten Blockade des AfD-Parteitags in Erfurt sorgte „Widersetzen“ für Aufsehen. Nun erklärt eines der bekanntesten Mitglieder seinen Rückzug aus dem linken Bündnis – und zeigt sich selbstkritisch im Umgang mit Gewalt gegen Pressevertreter.",
-        "title": "Aktivist kehrt „Widersetzen“ den Rücken – und verurteilt Angriffe auf Journalisten"
+        "source": "ntv",
+        "url": "https://www.n-tv.de/politik/Hackerangriff-legt-sensibles-Innenleben-der-AfD-offen-id31444011.html",
+        "date": "2026-10-21T16:07:44.000Z",
+        "snippet": "Hacker erbeuten Hunderte Gigabyte an Datenmaterial bei einem Angriff auf die AfD. Erste Recherchen in den E-Mails und Dokumenten bringen dabei sensible Daten zum Vorschein und geben einen Einblick in die Debatte über ein Parteiausschlussverfahren gegen Björn Höcke.",
+        "title": "Spenden, Höcke, Bankdaten: Hackerangriff legt sensibles Innenleben der AfD offen"
       }
     ],
-    "title": "AfD-Parteitag in Erfurt: Aktivist kehrt „Widersetzen“ den Rücken – und verurteilt Angriffe auf Journalisten - WELT",
-    "summary": "AfD-Parteitag in Erfurt: Aktivist kehrt „Widersetzen“ den Rücken – und verurteilt Angriffe auf Journalisten - WELT <ol><li><a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxQUnJyNWNzaEUwLWVXcjU1T2l3Y1RaR2p5MUFCd3IzQnZYVjdiQ1drV0Z3YWFwbnJZajNNUzdkdmRCclAxZFlIVlkzYThZNk9NaDl1Z0hsYzFuVUxEY1Y2QU9ReExnSXJPZzNlYzZ0bWl6ZGl2bnc4aW94dXlzVF8xOXZjNzdTSGdSaHhNbUxWSkFtUmtQQzVhdE5wQmZMMmNNd3BCdEY1MHE1UG1hZmxZTUY2ZXVhUlJ4V3dmUWFuOUJ1a1lVYXBiRFROOEVvWWxzRExlYkQxNDhEaHgtelhHSDg4ZDVHSkcwSkRWN0M0aXJxTDJWYWh2YzVvUlJ2dlpCM3ByOGx3Z0ZTOWZw?oc=5\" target=\"_blank\">AfD-Parteitag in Erfurt: Aktivist kehrt „Widersetzen“ den Rücken – und verurteilt Angriffe auf Journalisten</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WELT</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOczNUTzI4OFB3aVU0cHlzVXpPc2VQcmpG\nAktivist kehrt „Widersetzen“ den Rücken – und verurteilt Angriffe auf Journalisten Mit einer gescheiterten Blockade des AfD-Parteitags in Erfurt sorgte „Widersetzen“ für Aufsehen. Nun erklärt eines der bekanntesten Mitglieder seinen Rückzug aus dem linken Bündnis – und zeigt sich selbstkritisch im Umgang mit Gewalt gegen Pressevertreter."
+    "title": "Spenden, Höcke, Bankdaten: Hackerangriff legt sensibles Innenleben der AfD offen - n-tv.de",
+    "summary": "Spenden, Höcke, Bankdaten: Hackerangriff legt sensibles Innenleben der AfD offen - n-tv.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQcmRvMEtJR2pTRUh3SEZxcG1Va2UweVRCM09xMExxTlBjcENDTV9zbWhhcVJQbGxHNmd4TGpDaGM0TzNIWF9mZzNWaVJjZXZOVlpTTHNQQTFQQlc1NXdXc1FUQWNDSFQ2cnd3WGdSY19rMy00QVkxdjF2c0pIUWdvRnc4OU5NYV91M2dwUXRlVGRRMXRKZ3dUeHhOWGVvZw?oc=5\" target=\"_blank\">Spenden, Höcke, Bankdaten: Hackerangriff legt sensibles Innenleben der AfD offen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbU4tdXNHbEY3Y1FqRUREM2s1aHR5dllRWWFFT1JfR1daZkoyZkY3YWY1N0J1U0NxLWFFUFNxbUZkV0tBaDhCa3N4Q19MY1hnZmJydDBXajU1cGJHWEswQkt3ZW94YVluN3g5dmlkVW5BbFQ0UGFYX0tBLTRVNzNRQ2gybkhFb3kxT1dDdlpoeGhSUlhzV3BQUTkzOVN3dk\nSpenden, Höcke, Bankdaten: Hackerangriff legt sensibles Innenleben der AfD offen Hacker erbeuten Hunderte Gigabyte an Datenmaterial bei einem Angriff auf die AfD. Erste Recherchen in den E-Mails und Dokumenten bringen dabei sensible Daten zum Vorschein und geben einen Einblick in die Debatte über ein Parteiausschlussverfahren gegen Björn Höcke."
   },
   {
-    "id": "story-270",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-21T16:00:03.000Z",
-    "sources": [
-      {
-        "source": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/ausland/europa/russland-ukraine-krieg-putin-gespraeche-100.html",
-        "date": "2026-10-21T16:00:03.000Z",
-        "snippet": "Nach einem Treffen mit dem US-Sondergesandten erklärt sich Russlands Präsident Putin offenbar zu neuen Verhandlungen mit den USA und der Ukraine bereit. Um ein Ende des Kriegs sol…",
-        "title": "Putin stimmt neuen Gesprächen mit Ukraine und USA zu"
-      },
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/europa/russland-ukraine-krieg-putin-gespraeche-100.html",
-        "date": "2026-10-21T15:49:52.000Z",
-        "snippet": "Nach einem Treffen mit dem US-Sondergesandten erklärt sich Russlands Präsident Putin offenbar zu neuen Verhandlungen mit den USA und der Ukraine bereit. Um ein Ende des Kriegs soll es dabei demnach aber nicht gehen.",
-        "title": "Krieg gegen die Ukraine: Putin stimmt neuen Gesprächen zu"
-      }
-    ],
-    "title": "Putin stimmt neuen Gesprächen mit Ukraine und USA zu",
-    "summary": "Putin stimmt neuen Gesprächen mit Ukraine und USA zu Nach einem Treffen mit dem US-Sondergesandten erklärt sich Russlands Präsident Putin offenbar zu neuen Verhandlungen mit den USA und der Ukraine bereit. Um ein Ende des Kriegs sol…\nKrieg gegen die Ukraine: Putin stimmt neuen Gesprächen zu Nach einem Treffen mit dem US-Sondergesandten erklärt sich Russlands Präsident Putin offenbar zu neuen Verhandlungen mit den USA und der Ukraine bereit. Um ein Ende des Kriegs soll es dabei demnach aber nicht gehen."
-  },
-  {
-    "id": "story-275",
+    "id": "story-551",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "SL",
@@ -460,32 +767,32 @@
     "summary": "Kampfjet stürzt in Frankreich ab – mindestens ein Toter In Frankreich ist ein Kampfjet bei einer Übung abgestürzt. Der Trainingseinsatz endete für mindestens einen der Insassen tödlich.\nKampfjet stürzt bei Nancy ab – mindestens ein Toter Beim Absturz eines Kampfjets nahe Nancy ist am späten Dienstagabend mindestens ein Besatzungsmitglied ums Leben gekommen. Nach dem zweiten Insassen der Maschine wird noch gesucht. Die Ursache für den Absturz ist noch unklar."
   },
   {
-    "id": "story-307",
-    "topic": "politik",
+    "id": "story-620",
+    "topic": "panorama",
     "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-21T15:40:31.000Z",
+    "stateHint": "BY",
+    "date": "2026-10-21T15:22:29.000Z",
     "sources": [
       {
-        "source": "t-online Nachrichten",
-        "url": "https://www.t-online.de/nachrichten/ukraine/id_101487440/ukraine-krieg-news-russischer-kampfjet-stuerzt-ueber-kaliningrad-ab.html",
-        "date": "2026-10-21T15:40:31.000Z",
-        "snippet": "In der russischen Exklave Kaliningrad ist eine Su-30 abgestürzt. Der Kreml äußert sich zu Verhandlungen mit Kiew. Alle Nachrichten im Newsblog.",
-        "title": "Ukraine-Krieg News: Russischer Kampfjet stürzt über Kaliningrad ab"
+        "source": "RND",
+        "url": "https://www.rnd.de/sport/trauerfall-in-familie-kimmich-fehlt-fc-bayern-gegen-arsenal-NPJNAKYB2VBMRCGDVRYVU5HHEM.html",
+        "date": "2026-10-21T15:22:29.000Z",
+        "snippet": "Joshua Kimmich fehlte im Abschlusstraining des FC Bayern vor dem Champions-League-Kracher gegen den FC Arsenal. Auch heute Abend wird der Mittelfeldspieler nicht dabei sein - aus traurigen Gründen.",
+        "title": "Trauerfall in Familie: Kimmich fehlt FC Bayern gegen Arsenal"
       },
       {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOUhTVGVLOGVHcUk1UnZjMDBOa3pIeHlRR3RaazVsVk92OGRGRzRGc3F3RFhsd1VuMS1wZFdMQzkzQUZtSDRXcC1wYmVkSDE0R1dxSm5pNmhYVFFoVGJXM2lrbnRqUzRoLVhqSlBJUzhiRXRzZHhGbFd2NUstczhJdFpwMmtTb2lFTTVCQkVOTS05MkFIdzZaRjJmTmUtUTZ0UXdzbkYzUy05U1MyWm43aHBCVFJhV2c5YmkxU3FLeGgyYWV1SGsweg?oc=5",
-        "date": "2026-10-21T15:40:00.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOUhTVGVLOGVHcUk1UnZjMDBOa3pIeHlRR3RaazVsVk92OGRGRzRGc3F3RFhsd1VuMS1wZFdMQzkzQUZtSDRXcC1wYmVkSDE0R1dxSm5pNmhYVFFoVGJXM2lrbnRqUzRoLVhqSlBJUzhiRXRzZHhGbFd2NUstczhJdFpwMmtTb2lFTTVCQkVOTS05MkFIdzZaRjJmTmUtUTZ0UXdzbkYzUy05U1MyWm43aHBCVFJhV2c5YmkxU3FLeGgyYWV1SGsweg?oc=5\" target=\"_blank\">Ukraine-Krieg News: Russischer Kampfjet stürzt über Kaliningrad ab</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">T-Online</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRFNER2ktNW5Bbl9JTkxpc18wVFV2OTFNWXBzV2JwSGR0bktuSmt4ckhvLWJ4RmRMc0g3XzN0OHNmdjZ5QU52SmV4dkJDYkFsZEo5YnFQTFZsZEo5U2V2UTRtOFpWVWdRYzJlYy1DVzZ4SWZ4QVNrcWNWWmZqWWV",
-        "title": "Ukraine-Krieg News: Russischer Kampfjet stürzt über Kaliningrad ab - T-Online"
+        "source": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/sport/fc-bayern-kimmich-fehlt-wegen-trauerfalls-im-champions-league-spiel-gegen-arsenal,VYfvhdf",
+        "date": "2026-10-21T10:03:06.000Z",
+        "snippet": "Der FC Bayern muss im wichtigen Champions-League-Heimspiel gegen den FC Arsenal auf Joshua Kimmich verzichten. Wie der Rekordmeister mitteilte, steht der Nationalspieler aufgrund eines \"Trauerfalls im engsten Familienkreis\" nicht zur Verfügung.",
+        "title": "Trauerfall in engster Familie: Kimmich fehlt gegen Arsenal"
       }
     ],
-    "title": "Ukraine-Krieg News: Russischer Kampfjet stürzt über Kaliningrad ab",
-    "summary": "Ukraine-Krieg News: Russischer Kampfjet stürzt über Kaliningrad ab In der russischen Exklave Kaliningrad ist eine Su-30 abgestürzt. Der Kreml äußert sich zu Verhandlungen mit Kiew. Alle Nachrichten im Newsblog.\nUkraine-Krieg News: Russischer Kampfjet stürzt über Kaliningrad ab - T-Online <ol><li><a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOUhTVGVLOGVHcUk1UnZjMDBOa3pIeHlRR3RaazVsVk92OGRGRzRGc3F3RFhsd1VuMS1wZFdMQzkzQUZtSDRXcC1wYmVkSDE0R1dxSm5pNmhYVFFoVGJXM2lrbnRqUzRoLVhqSlBJUzhiRXRzZHhGbFd2NUstczhJdFpwMmtTb2lFTTVCQkVOTS05MkFIdzZaRjJmTmUtUTZ0UXdzbkYzUy05U1MyWm43aHBCVFJhV2c5YmkxU3FLeGgyYWV1SGsweg?oc=5\" target=\"_blank\">Ukraine-Krieg News: Russischer Kampfjet stürzt über Kaliningrad ab</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">T-Online</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRFNER2ktNW5Bbl9JTkxpc18wVFV2OTFNWXBzV2JwSGR0bktuSmt4ckhvLWJ4RmRMc0g3XzN0OHNmdjZ5QU52SmV4dkJDYkFsZEo5YnFQTFZsZEo5U2V2UTRtOFpWVWdRYzJlYy1DVzZ4SWZ4QVNrcWNWWmZqWWV"
+    "title": "Trauerfall in Familie: Kimmich fehlt FC Bayern gegen Arsenal",
+    "summary": "Trauerfall in Familie: Kimmich fehlt FC Bayern gegen Arsenal Joshua Kimmich fehlte im Abschlusstraining des FC Bayern vor dem Champions-League-Kracher gegen den FC Arsenal. Auch heute Abend wird der Mittelfeldspieler nicht dabei sein - aus traurigen Gründen.\nTrauerfall in engster Familie: Kimmich fehlt gegen Arsenal Der FC Bayern muss im wichtigen Champions-League-Heimspiel gegen den FC Arsenal auf Joshua Kimmich verzichten. Wie der Rekordmeister mitteilte, steht der Nationalspieler aufgrund eines \"Trauerfalls im engsten Familienkreis\" nicht zur Verfügung."
   },
   {
-    "id": "story-364",
+    "id": "story-631",
     "topic": "politik",
     "country": "DE",
     "stateHint": "BY",
@@ -510,7 +817,7 @@
     "summary": "Nahverkehr: \"Deutschlandticket light\" kommt vorerst nicht Ein attraktives Ticket für gelegentliche Bus- und Bahnfahrer - das hatten Hamburg und Nordrhein-Westfalen für die Verkehrsministerkonferenz zur Beratung vorgeschlagen. Doch nun ist \"Deutschlandticket light\" bereits wieder vom Tisch.\n\"Deutschlandticket light\" kommt vorerst nicht Es sollte ein Angebot für Gelegenheitsfahrer werden – das sogenannte \"Deutschlandticket light\". Doch aus der Idee wird vorerst nichts. Die Verkehrsminister nahmen das Thema nach BR-Informationen bei ihrer Konferenz im Allgäu von der Tagesordnung."
   },
   {
-    "id": "story-379",
+    "id": "story-644",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "",
@@ -535,64 +842,39 @@
     "summary": "Bis zu 250 Euro Strafe möglich: Bundeswehr-Fragebogen: Wer nicht antwortet, muss zahlen Die Bundeswehr sucht händeringend Nachwuchs. Seit Januar werden daher Fragebögen an junge Menschen ab 18 Jahren verschickt, um herauszufinden, wie groß das Interesse am Wehrdienst ist. Männer müssen antworten, sonst riskieren sie ein Bußgeld.\nWehrdienst: Wird der Bundeswehr-Fragebogen ignoriert, droht ein Bußgeld Seit Januar befragt die Bundeswehr junge Menschen zu ihrer Bereitschaft zum Wehrdienst. Männer müssen antworten – sonst müssen sie künftig zahlen."
   },
   {
-    "id": "story-434",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-21T14:45:02.000Z",
-    "sources": [
-      {
-        "source": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/ausland/asien/huthi-saudi-arabien-104.html",
-        "date": "2026-10-21T14:45:02.000Z",
-        "snippet": "Kronprinz Mohammed bin Salman will Saudi-Arabien öffnen, für Touristen und Investoren. Doch seine \"Vision 2030\" ist in Gefahr: Die Angriffe der Huthi zerstören das Image von Siche…",
-        "title": "Angriff auf bin Salmans Vision"
-      },
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/asien/huthi-saudi-arabien-104.html",
-        "date": "2026-10-21T14:35:26.000Z",
-        "snippet": "Kronprinz Mohammed bin Salman will Saudi-Arabien öffnen, für Touristen und Investoren. Doch seine \"Vision 2030\" ist in Gefahr: Die Angriffe der Huthi zerstören das Image von Sicherheit und Stabilität. Von Tim Kukral.",
-        "title": "Huthi-Attacken auf Saudi-Arabien: Angriff auf bin Salmans Vision"
-      }
-    ],
-    "title": "Angriff auf bin Salmans Vision",
-    "summary": "Angriff auf bin Salmans Vision Kronprinz Mohammed bin Salman will Saudi-Arabien öffnen, für Touristen und Investoren. Doch seine \"Vision 2030\" ist in Gefahr: Die Angriffe der Huthi zerstören das Image von Siche…\nHuthi-Attacken auf Saudi-Arabien: Angriff auf bin Salmans Vision Kronprinz Mohammed bin Salman will Saudi-Arabien öffnen, für Touristen und Investoren. Doch seine \"Vision 2030\" ist in Gefahr: Die Angriffe der Huthi zerstören das Image von Sicherheit und Stabilität. Von Tim Kukral."
-  },
-  {
-    "id": "story-465",
+    "id": "story-649",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
-    "date": "2026-10-21T14:33:04.000Z",
+    "date": "2026-10-21T15:05:54.000Z",
     "sources": [
       {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY0xpenV3MklJS25aclpJOV8wV2xETjUwVTVpRWl2SGtKV1BBM29KNTk0LVptNUp5cVltNi1EQjNOR1cyUDZka0x2eWw5WmJXSVZoaEdpT0JIU2Z4Y1BCb0VnN051N0szanMtVHBmS0NBSWJsTUVTbTNpdm4wOVBaVlJIMzRXalprR0VKQWRsOVlzQnpwcmFlWXZZVU52SndGbWttajVsZHNaY2s?oc=5",
-        "date": "2026-10-21T14:33:04.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY0xpenV3MklJS25aclpJOV8wV2xETjUwVTVpRWl2SGtKV1BBM29KNTk0LVptNUp5cVltNi1EQjNOR1cyUDZka0x2eWw5WmJXSVZoaEdpT0JIU2Z4Y1BCb0VnN051N0szanMtVHBmS0NBSWJsTUVTbTNpdm4wOVBaVlJIMzRXalprR0VKQWRsOVlzQnpwcmFlWXZZVU52SndGbWttajVsZHNaY2s?oc=5\" target=\"_blank\">\"Im Prinzip\" verhandlungsbereit: Russland fegt Vorschläge der USA für ein Kriegsende vom Tisch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYlhLY0hpR3hZZFNYenMzZC1aMXo5ZVFiTEpPaXpQV3p2ektoVDNzQUhYeHJYNTZXenJIVTFFSGNIaHI4TThKVkdnOW42QlE0YzNndG5wbHdLa1RKZkdlM3l2VENGQ3ItVXhoekJTR2xhYVNJTkQwdnJXbzRQQjZHbmhMNllGZEt",
-        "title": "\"Im Prinzip\" verhandlungsbereit: Russland fegt Vorschläge der USA für ein Kriegsende vom Tisch - n-tv.de"
+        "source": "Süddeutsche Zeitung",
+        "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-putin-kreml-usa-gespraeche-li.3563283",
+        "date": "2026-10-21T15:05:54.000Z",
+        "snippet": "Das habe Präsident Putin dem US-Gesandten Witkoff zugesagt, erklärt Kreml-Berater Uschakow. Die neuen Verhandlungen könnten demnach im November beginnen.",
+        "title": "Krieg in der Ukraine: Kreml erklärt sich zu Gesprächen mit USA und Ukraine bereit"
       },
       {
-        "source": "ntv",
-        "url": "https://www.n-tv.de/politik/Russland-fegt-Vorschlaege-der-USA-fuer-ein-Kriegsende-vom-Tisch-id31443407.html",
-        "date": "2026-10-21T14:33:04.000Z",
-        "snippet": "Alle Gespräche mit Russland über einen Waffenstillstand oder gar Frieden sind in den vergangenen Jahren an Moskaus Beharren auf Maximalforderungen gescheitert. Nun könnte es bald eine weitere Runde geben. Dass der Kreml zu Kompromissen bereit ist, ist aber nach wie vor nicht erkennbar.",
-        "title": "\"Im Prinzip\" verhandlungsbereit: Russland fegt Vorschläge der USA für ein Kriegsende vom Tisch"
+        "source": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/ausland/russland-gespraeche-usa-ukraine-krieg-100.html",
+        "date": "2026-10-21T15:01:00.000Z",
+        "snippet": "Nach einem Treffen mit dem US-Sondergesandten Witkoff zeigt sich der Kreml zu trilateralen Gesprächen über den Ukraine-Krieg bereit. Die Verhandlungen könnten im November beginnen.",
+        "title": "Kreml: Putin zu Gesprächen mit Ukraine und USA bereit"
       }
     ],
-    "title": "\"Im Prinzip\" verhandlungsbereit: Russland fegt Vorschläge der USA für ein Kriegsende vom Tisch - n-tv.de",
-    "summary": "\"Im Prinzip\" verhandlungsbereit: Russland fegt Vorschläge der USA für ein Kriegsende vom Tisch - n-tv.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY0xpenV3MklJS25aclpJOV8wV2xETjUwVTVpRWl2SGtKV1BBM29KNTk0LVptNUp5cVltNi1EQjNOR1cyUDZka0x2eWw5WmJXSVZoaEdpT0JIU2Z4Y1BCb0VnN051N0szanMtVHBmS0NBSWJsTUVTbTNpdm4wOVBaVlJIMzRXalprR0VKQWRsOVlzQnpwcmFlWXZZVU52SndGbWttajVsZHNaY2s?oc=5\" target=\"_blank\">\"Im Prinzip\" verhandlungsbereit: Russland fegt Vorschläge der USA für ein Kriegsende vom Tisch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYlhLY0hpR3hZZFNYenMzZC1aMXo5ZVFiTEpPaXpQV3p2ektoVDNzQUhYeHJYNTZXenJIVTFFSGNIaHI4TThKVkdnOW42QlE0YzNndG5wbHdLa1RKZkdlM3l2VENGQ3ItVXhoekJTR2xhYVNJTkQwdnJXbzRQQjZHbmhMNllGZEt\n\"Im Prinzip\" verhandlungsbereit: Russland fegt Vorschläge der USA für ein Kriegsende vom Tisch Alle Gespräche mit Russland über einen Waffenstillstand oder gar Frieden sind in den vergangenen Jahren an Moskaus Beharren auf Maximalforderungen gescheitert. Nun könnte es bald eine weitere Runde geben. Dass der Kreml zu Kompromissen bereit ist, ist aber nach wie vor nicht erkennbar."
+    "title": "Krieg in der Ukraine: Kreml erklärt sich zu Gesprächen mit USA und Ukraine bereit",
+    "summary": "Krieg in der Ukraine: Kreml erklärt sich zu Gesprächen mit USA und Ukraine bereit Das habe Präsident Putin dem US-Gesandten Witkoff zugesagt, erklärt Kreml-Berater Uschakow. Die neuen Verhandlungen könnten demnach im November beginnen.\nKreml: Putin zu Gesprächen mit Ukraine und USA bereit Nach einem Treffen mit dem US-Sondergesandten Witkoff zeigt sich der Kreml zu trilateralen Gesprächen über den Ukraine-Krieg bereit. Die Verhandlungen könnten im November beginnen."
   },
   {
-    "id": "story-474",
+    "id": "story-722",
     "topic": "politik",
     "country": "DE",
     "stateHint": "BW",
     "date": "2026-10-21T14:28:46.000Z",
     "sources": [
       {
-        "source": "SWR Aktuell",
+        "source": "SWR Aktuell Baden-Württemberg",
         "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/kernen-im-remstal-rommelshausen-polizeieinsatz-notruf-pistole-100.html",
         "date": "2026-10-21T14:28:46.000Z",
         "snippet": "In Kernen-Rommelshausen (Rems-Murr-Kreis) ist der Polizeieinsatz beendet. Die Polizei nahm einen Verdächtigen fest. Über Notruf war zuvor eine Person mit Pistole gemeldet worden.",
@@ -610,57 +892,7 @@
     "summary": "Notruf wegen bewaffnetem Mann an Bahnhof: Verdächtiger in Klinik festgenommen In Kernen-Rommelshausen (Rems-Murr-Kreis) ist der Polizeieinsatz beendet. Die Polizei nahm einen Verdächtigen fest. Über Notruf war zuvor eine Person mit Pistole gemeldet worden.\nEinsatz wegen bewaffnetem Mann an Bahnhof: Verdächtiger in Klinik festgenommen In Kernen-Rommelshausen (Rems-Murr-Kreis) ist der Polizeieinsatz beendet. Die Polizei nahm einen Verdächtigen fest. Über Notruf war zuvor eine Person mit Pistole gemeldet worden."
   },
   {
-    "id": "story-505",
-    "topic": "politik",
-    "country": "INT",
-    "stateHint": "",
-    "date": "2026-10-21T14:12:15.000Z",
-    "sources": [
-      {
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/21/us-congressional-candidate-brad-lander-freed-after-west-bank-detention?traffic_source=rss",
-        "date": "2026-10-21T14:12:15.000Z",
-        "snippet": "Lander says dozens remain in Israeli custody after being detained while helping Palestinian farmers harvest olives.",
-        "title": "US congressional candidate Brad Lander freed after West Bank detention"
-      },
-      {
-        "source": "NPR World",
-        "url": "https://www.npr.org/2026/10/21/nx-s1-6010460/brad-lander-detained-west-bank-israel-palestinians",
-        "date": "2026-10-21T13:28:04.000Z",
-        "snippet": "Democratic congressional candidate Brad Lander along with about 80 American and Israeli rabbis and activists were helping Palestinian olive harvesters when they were detained by Israeli forces.",
-        "title": "Israel detains dozens of Americans, including a congressional candidate, in West Bank"
-      }
-    ],
-    "title": "US congressional candidate Brad Lander freed after West Bank detention",
-    "summary": "US congressional candidate Brad Lander freed after West Bank detention Lander says dozens remain in Israeli custody after being detained while helping Palestinian farmers harvest olives.\nIsrael detains dozens of Americans, including a congressional candidate, in West Bank Democratic congressional candidate Brad Lander along with about 80 American and Israeli rabbis and activists were helping Palestinian olive harvesters when they were detained by Israeli forces."
-  },
-  {
-    "id": "story-558",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-21T13:45:01.000Z",
-    "sources": [
-      {
-        "source": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/russland-globus-handel-100.html",
-        "date": "2026-10-21T13:45:01.000Z",
-        "snippet": "Die Eigner der Handelsgruppe Globus sind unter dem Namen \"Hyperglobus\" weiter in Russland aktiv. Eine Plusminus-Recherche zeigt nun: Einer dieser Märkte unterstützt eine Organisat…",
-        "title": "Russlandgeschäft von Globus wirft weiter Fragen auf"
-      },
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/russland-globus-handel-100.html",
-        "date": "2026-10-21T13:31:14.000Z",
-        "snippet": "Die Eigner der Handelsgruppe Globus sind unter dem Namen \"Hyperglobus\" weiter in Russland aktiv. Eine Plusminus-Recherche zeigt nun: Einer dieser Märkte unterstützt eine Organisation, die Ausrüstung an die russische Armee liefert. Von M. Fuchs.",
-        "title": "Das abgespaltene Russlandgeschäft von Globus wirft neue Fragen auf"
-      }
-    ],
-    "title": "Russlandgeschäft von Globus wirft weiter Fragen auf",
-    "summary": "Russlandgeschäft von Globus wirft weiter Fragen auf Die Eigner der Handelsgruppe Globus sind unter dem Namen \"Hyperglobus\" weiter in Russland aktiv. Eine Plusminus-Recherche zeigt nun: Einer dieser Märkte unterstützt eine Organisat…\nDas abgespaltene Russlandgeschäft von Globus wirft neue Fragen auf Die Eigner der Handelsgruppe Globus sind unter dem Namen \"Hyperglobus\" weiter in Russland aktiv. Eine Plusminus-Recherche zeigt nun: Einer dieser Märkte unterstützt eine Organisation, die Ausrüstung an die russische Armee liefert. Von M. Fuchs."
-  },
-  {
-    "id": "story-642",
+    "id": "story-850",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "MV",
@@ -685,7 +917,7 @@
     "summary": "Jetzt bewerben: Regionalvolontariat in NDR Landesfunkhäusern Regionalvolontär*innen erhalten eine crossmediale Ausbildung in einem unserer vier Landesfunkhäuser.\nJetzt bewerben: Regionalvolontariat beim NDR in MV Regionalvolontärinnen und -volontäre erhalten eine crossmediale Ausbildung beim NDR in Mecklenburg-Vorpommern."
   },
   {
-    "id": "story-668",
+    "id": "story-866",
     "topic": "panorama",
     "country": "PT",
     "stateHint": "",
@@ -710,82 +942,7 @@
     "summary": "Taxa de juro no crédito à habitação sobe em setembro para valor mais alto num ano - RTP <ol><li><a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNYWFkc0NMRGxITEVOREliX25pWEdqU1NGSXdQYmNPV1M1Q0xxNTNPQWtzdGxkUWZNTTN5U2ctTHUwSDFQVHdXYUkzS1o2ZnJ5c3VsTk1oZmFHZDZOcEg3eGxrOFF6VGdqMEhWeXZxazlzNmpMa2p6UEFHbHFfYkFxV3lDX3hOS1F1UWZmQUNZdDJBQlFJcVIyeWZhM0dEWUtPZWc0Z3VLRWlJZTlpR3BCMlVic040LTEzc3c3Y2FYT0ZxTVpyTVE?oc=5\" target=\"_blank\">Taxa de juro no crédito à habitação sobe em setembro para valor mais alto num ano</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPaGNtUjNqbnk1MnR0NGQ1QkxIdjMxcnFfVXBOd3JnTWNpaDdUZXYyLV9LZ0xZN1BibWE0QjZHZ2wyQ0l0Qkt3NDF6dGdMT3JNd2ZWR1cybWtrOG1faEtHQWNwemR2ZFo4NXBWVjRFVURVNDlYM0k0RjlC\nTaxa de juro no crédito à habitação sobe em setembro para valor mais alto num ano A taxa de juro implícita para a totalidade dos contratos de crédito à habitação subiu em setembro pelo quarto mês consecutivo, para 3,194%, atingindo o valor mais alto num ano, divulgou hoje o Instituto Nacional de Estatística (INE)."
   },
   {
-    "id": "story-694",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-21T12:30:02.000Z",
-    "sources": [
-      {
-        "source": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/ausland/hubbard-freilassung-usa-russland-100.html",
-        "date": "2026-10-21T12:30:02.000Z",
-        "snippet": "Russland hat den US-Bürger Stephen Hubbard freigelassen. Er war 2024 wegen angeblichem \"Söldnertum\" für die Ukraine zu einer Haftstrafe verurteilt worden. Nahezu zeitgleich mit de…",
-        "title": "Russland lässt inhaftierten US-Bürger Hubbard frei"
-      },
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/hubbard-freilassung-usa-russland-100.html",
-        "date": "2026-10-21T12:14:14.000Z",
-        "snippet": "Russland hat den US-Bürger Stephen Hubbard freigelassen. Er war 2024 wegen angeblichem \"Söldnertum\" für die Ukraine zu einer Haftstrafe verurteilt worden. Nahezu zeitgleich mit dessen Freilassung wurde offenbar ein deutscher Staatsbürger festgenommen.",
-        "title": "Russland lässt inhaftierten US-Bürger Stephen Hubbard frei"
-      }
-    ],
-    "title": "Russland lässt inhaftierten US-Bürger Hubbard frei",
-    "summary": "Russland lässt inhaftierten US-Bürger Hubbard frei Russland hat den US-Bürger Stephen Hubbard freigelassen. Er war 2024 wegen angeblichem \"Söldnertum\" für die Ukraine zu einer Haftstrafe verurteilt worden. Nahezu zeitgleich mit de…\nRussland lässt inhaftierten US-Bürger Stephen Hubbard frei Russland hat den US-Bürger Stephen Hubbard freigelassen. Er war 2024 wegen angeblichem \"Söldnertum\" für die Ukraine zu einer Haftstrafe verurteilt worden. Nahezu zeitgleich mit dessen Freilassung wurde offenbar ein deutscher Staatsbürger festgenommen."
-  },
-  {
-    "id": "story-736",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-21T11:48:22.000Z",
-    "sources": [
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/inland/innenpolitik/versicherungen-naturkatastrophen-100.html",
-        "date": "2026-10-21T11:48:22.000Z",
-        "snippet": "Hochwasser, Starkregen, Erdbeben: Gegen Schäden nach solchen Naturkatastrophen sind Häuser nicht standardmäßig versichert. Das will die Bundesregierung nun ändern - und legt ein erstes Papier mit Eckpunkten vor.",
-        "title": "Häuser sollen besser gegen Naturgefahren versichert werden"
-      },
-      {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS2FXN2RCQl9OSXFsMlFmOE9xQkdLYXFkeXRtcVhxZWxOQ2RCalBDa1VwNjNoQ1JnX2RuUV95YmNiUTlVbnpUM0RFcWl2a1NQVGE2aTBKX2hFZkxXRjAzX0tiS3N1NGV5SktreW9nRHZqZ2FVcWZ3M3lRUHZaZUdoMmJLQmdxZXZpUm52MnppWGc?oc=5",
-        "date": "2026-10-21T11:48:00.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQS2FXN2RCQl9OSXFsMlFmOE9xQkdLYXFkeXRtcVhxZWxOQ2RCalBDa1VwNjNoQ1JnX2RuUV95YmNiUTlVbnpUM0RFcWl2a1NQVGE2aTBKX2hFZkxXRjAzX0tiS3N1NGV5SktreW9nRHZqZ2FVcWZ3M3lRUHZaZUdoMmJLQmdxZXZpUm52MnppWGc?oc=5\" target=\"_blank\">Häuser sollen besser gegen Naturgefahren versichert werden</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxNM0tVT09OSVJoUTBSaWdSdWlka0x0cHptdVl1SWs0NFJTMWRGUEdrMEFTOGJjZEZwY1lfeGY0NXdta0xoajdRbHVjWTNjWVRXbTlvNHpSLWNhUnBpNl9kMjNNY1ctTVE5Wk9fT1dmRVNTa0MtTXVOUmliMDVOVnpPb3RGbDBnc3pWR0MxcEJiZFBzSVVSby0xTFhhUFVrd2l5TlRlRS10aTUzOFpEVDkyWUFfS3NzdmN5Y",
-        "title": "Häuser sollen besser gegen Naturgefahren versichert werden - tagesschau.de"
-      }
-    ],
-    "title": "Häuser sollen besser gegen Naturgefahren versichert werden",
-    "summary": "Häuser sollen besser gegen Naturgefahren versichert werden Hochwasser, Starkregen, Erdbeben: Gegen Schäden nach solchen Naturkatastrophen sind Häuser nicht standardmäßig versichert. Das will die Bundesregierung nun ändern - und legt ein erstes Papier mit Eckpunkten vor.\nHäuser sollen besser gegen Naturgefahren versichert werden - tagesschau.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQS2FXN2RCQl9OSXFsMlFmOE9xQkdLYXFkeXRtcVhxZWxOQ2RCalBDa1VwNjNoQ1JnX2RuUV95YmNiUTlVbnpUM0RFcWl2a1NQVGE2aTBKX2hFZkxXRjAzX0tiS3N1NGV5SktreW9nRHZqZ2FVcWZ3M3lRUHZaZUdoMmJLQmdxZXZpUm52MnppWGc?oc=5\" target=\"_blank\">Häuser sollen besser gegen Naturgefahren versichert werden</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxNM0tVT09OSVJoUTBSaWdSdWlka0x0cHptdVl1SWs0NFJTMWRGUEdrMEFTOGJjZEZwY1lfeGY0NXdta0xoajdRbHVjWTNjWVRXbTlvNHpSLWNhUnBpNl9kMjNNY1ctTVE5Wk9fT1dmRVNTa0MtTXVOUmliMDVOVnpPb3RGbDBnc3pWR0MxcEJiZFBzSVVSby0xTFhhUFVrd2l5TlRlRS10aTUzOFpEVDkyWUFfS3NzdmN5Y"
-  },
-  {
-    "id": "story-809",
-    "topic": "panorama",
-    "country": "INT",
-    "stateHint": "",
-    "date": "2026-10-21T10:39:33.000Z",
-    "sources": [
-      {
-        "source": "Euronews",
-        "url": "https://www.euronews.com/video/2026/10/21/large-crowds-watch-as-rescuers-try-to-save-stranded-shark-in-south-korea",
-        "date": "2026-10-21T10:39:33.000Z",
-        "snippet": "Officials in Busan made a third attempt to guide a trapped shark out of a canal and back to sea. The animal has drawn over a million visitors.",
-        "title": "Large crowds watch as rescuers try to save stranded shark in South Korea"
-      },
-      {
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-21T08:19:32.000Z",
-        "snippet": "A third attempt has been made to guide the 9ft 10in (3m) shark back to the open sea.",
-        "title": "Huge crowds watch attempt to rescue shark stranded in South Korean canal"
-      }
-    ],
-    "title": "Large crowds watch as rescuers try to save stranded shark in South Korea",
-    "summary": "Large crowds watch as rescuers try to save stranded shark in South Korea Officials in Busan made a third attempt to guide a trapped shark out of a canal and back to sea. The animal has drawn over a million visitors.\nHuge crowds watch attempt to rescue shark stranded in South Korean canal A third attempt has been made to guide the 9ft 10in (3m) shark back to the open sea."
-  },
-  {
-    "id": "story-818",
+    "id": "story-976",
     "topic": "politik",
     "country": "DE",
     "stateHint": "BW",
@@ -808,30 +965,5 @@
     ],
     "title": "Mutter mit kleinen Kindern im Auto auf A6: Hammer fliegt durch Scheibe",
     "summary": "Mutter mit kleinen Kindern im Auto auf A6: Hammer fliegt durch Scheibe Auf der A6 ist ein Hammer in die Autoscheibe einer Frau geflogen. Sie war am Montagabend mit zwei Kindern in Richtung Mannheim unterwegs.\nFamilie mit Kleinkindern im Auto auf A6: Hammer fliegt durch Scheibe Auf der A6 ist ein Hammer in die Autoscheibe einer Frau geflogen. Sie war am Montagabend mit zwei Kindern in Richtung Mannheim unterwegs."
-  },
-  {
-    "id": "story-889",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-21T08:52:52.000Z",
-    "sources": [
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-120.html",
-        "date": "2026-10-21T08:52:52.000Z",
-        "snippet": "Die Gewalteskalation beim landesweiten Protesttag hat Frankreich schwer erschüttert. Wer waren die Randalierer und Plünderer? Für den Premierminister ist die Antwort klar, doch die Wirklichkeit ist komplexer. Von Carolin Dylla.",
-        "title": "Wer an den Ausschreitungen in Frankreich beteiligt war"
-      },
-      {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN3hfdXYxeTUzVlpwcWFsOEJReTZZX2JZVl80UVpVSEZzZ3BZX1NaZmEzMTg5dWhyQjRmdDRlSmROb1RZdXpJdlVHTjNpS3hTdjVRNWRSTUwzdmZUeVVYSm5NaXlBdTFkazZ1bEpKY3oxYXNMdFg2bHR0OENMSTlCblpn?oc=5",
-        "date": "2026-10-21T08:52:00.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNN3hfdXYxeTUzVlpwcWFsOEJReTZZX2JZVl80UVpVSEZzZ3BZX1NaZmEzMTg5dWhyQjRmdDRlSmROb1RZdXpJdlVHTjNpS3hTdjVRNWRSTUwzdmZUeVVYSm5NaXlBdTFkazZ1bEpKY3oxYXNMdFg2bHR0OENMSTlCblpn?oc=5\" target=\"_blank\">Wer an den Ausschreitungen in Frankreich beteiligt war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMioAJBVV95cUxOOGlYSkxDUE1hLW1ibGZ3R0tMazlJU3h2QVJpekJCZXZka19NNjZIWms3WXdFMmw0djhRWDVxblVnd2xRRlVIaXhZUHptNkdMdkIzN3Z6Ql9lR3NJRkpXZ1hDZ3Z4X3d1Skc3M1BKbWRlYjJyem1EWGR6TU5iTkMydnRmclQwakFvSmFXeUM3N0dycGtEZlFJb1ZaQ05IcC03bGFneDJTWTNXeVQ4YzJMN2V1WlRUbGdOTU5OV3hlanZRRE43LVE5Zkph",
-        "title": "Wer an den Ausschreitungen in Frankreich beteiligt war - tagesschau.de"
-      }
-    ],
-    "title": "Wer an den Ausschreitungen in Frankreich beteiligt war",
-    "summary": "Wer an den Ausschreitungen in Frankreich beteiligt war Die Gewalteskalation beim landesweiten Protesttag hat Frankreich schwer erschüttert. Wer waren die Randalierer und Plünderer? Für den Premierminister ist die Antwort klar, doch die Wirklichkeit ist komplexer. Von Carolin Dylla.\nWer an den Ausschreitungen in Frankreich beteiligt war - tagesschau.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNN3hfdXYxeTUzVlpwcWFsOEJReTZZX2JZVl80UVpVSEZzZ3BZX1NaZmEzMTg5dWhyQjRmdDRlSmROb1RZdXpJdlVHTjNpS3hTdjVRNWRSTUwzdmZUeVVYSm5NaXlBdTFkazZ1bEpKY3oxYXNMdFg2bHR0OENMSTlCblpn?oc=5\" target=\"_blank\">Wer an den Ausschreitungen in Frankreich beteiligt war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMioAJBVV95cUxOOGlYSkxDUE1hLW1ibGZ3R0tMazlJU3h2QVJpekJCZXZka19NNjZIWms3WXdFMmw0djhRWDVxblVnd2xRRlVIaXhZUHptNkdMdkIzN3Z6Ql9lR3NJRkpXZ1hDZ3Z4X3d1Skc3M1BKbWRlYjJyem1EWGR6TU5iTkMydnRmclQwakFvSmFXeUM3N0dycGtEZlFJb1ZaQ05IcC03bGFneDJTWTNXeVQ4YzJMN2V1WlRUbGdOTU5OV3hlanZRRE43LVE5Zkph"
   }
 ]
