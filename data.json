@@ -1,45 +1,1092 @@
 [
   {
+    "id": "story-ebf0611975c718a0",
+    "c": "INT",
+    "o": "PT",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-21T17:46:06.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Sporting CP empfängt LASK Linz in der Champions League",
+    "s": "Der portugiesische Verein Sporting CP trifft in der dritten Runde der UEFA Champions League auf den LASK Linz. Sporting geht mit dem Ziel in die Partie, seine Siegesserie fortzusetzen und dem Einzug in die nächste Runde näherzukommen. Die Gäste aus Österreich stehen hingegen nach bisherigen Niederlagen unter Zugzwang.",
+    "m": "Die Begegnung zwischen Sporting CP und dem LASK Linz findet um 20:00 Uhr statt. Für Sporting geht es darum, in der Ligaphase der Fußball-Champions-League ungeschlagen zu bleiben und sich eine günstige Ausgangslage für das direkte Weiterkommen zu sichern. Der LASK Linz verlor hingegen seine bisherigen Partien im laufenden Wettbewerb und hat dementsprechend erst null Punkte auf dem Konto. Sporting wird als Favorit in der Partie gehandelt, während die Gäste aus Österreich versuchen, die ersten Punkte im Turnier zu holen. Die Partie markiert einen wichtigen Meilenstein für die Tabellensituation beider Mannschaften in der laufenden europäischen Saison.",
+    "r": "Das Spiel ist relevant für den Tabellenverlauf und die Qualifikation in der laufenden Gruppen- beziehungsweise Ligaphase der UEFA Champions League. Es zeigt die sportliche Ausgangslage beider Teams nach den ersten Spieltagen.",
+    "srcs": [
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/desporto/sporting-cp-lask-linz-20h00_e1773304",
+        "date": "2026-10-21T17:46:06.000Z"
+      },
+      {
+        "name": "RTP Desporto",
+        "url": "https://www.rtp.pt/noticias/sporting/sporting-recebe-lask-linz_d1773154",
+        "date": "2026-10-21T08:42:04.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/desporto/sporting-cp-lask-linz-20h00_e1773304",
+    "agree": "Beide Quellen stimmen überein, dass Sporting CP den LASK Linz empfängt, Sporting seine Siegesserie fortsetzen möchte und die Österreicher bisher nur Niederlagen aufweisen.",
+    "diff": [
+      {
+        "name": "RTP Notícias",
+        "note": "Erwähnt zusätzlich exakt die Anstoßzeit um 20:00 Uhr sowie die konkrete Nennung der dritten Runde."
+      }
+    ],
+    "chg": "",
+    "independent": 1
+  },
+  {
     "id": "story-bcc415a322f36c1a",
     "c": "DE",
     "o": "DE",
     "k": "panorama",
     "lang": "de",
-    "d": "2026-10-21T06:08:15.000Z",
+    "d": "2026-10-21T17:21:52.000Z",
+    "p": 4,
+    "st": "BY",
+    "city": "",
+    "t": "Alice Schwarzer stellt feministisches Magazin „Emma“ nach 50 Jahren ein",
+    "s": "Das bekannte feministische Magazin „Emma“ wird nach rund 50 Jahren eingestellt. Die Gründerin und Herausgeberin Alice Schwarzer gab bekannt, dass die Ausgabe vom 8. Dezember die letzte sein wird. Laut Schwarzer sind die Gründe für die Einstellung nicht ökonomischer Natur, sondern mit den Worten „Wir meinen, es reicht“ begründet worden.",
+    "m": "Die Zeitschrift „Emma“ wurde im Januar 1977 von Alice Schwarzer gemeinsam mit einem Kollektiv gegründet und hat die feministische Debatte in Deutschland über fast fünf Jahrzehnte hinweg maßgeblich geprägt sowie polarisiert. Nun zieht die mittlerweile 83-jährige Herausgeberin in Köln den endgültigen Schlussstrich. Die letzte gedruckte oder veröffentlichte Ausgabe soll am 8. Dezember erscheinen. Konkrete wirtschaftliche Schwierigkeiten als Ursache wurden ausdrücklich ausgeschlossen. Weitere Details zur Zukunft des Archivs oder Nachfolgeprojekten wurden in den Berichten nicht genannt.",
+    "r": "Die Einstellung von „Emma“ markiert das Ende einer historischen Ära für die deutsche Medienlandschaft und die Frauenbewegung. Da das Magazin jahrzehntelang gesellschaftliche Debatten prägte, hat der Schritt eine hohe mediale und gesellschaftliche Relevanz.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/alice-schwarzer-stellt-magazin-emma-nach-50-jahren-ein-100.html",
+        "date": "2026-10-21T17:21:52.000Z"
+      },
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/kultur/emma-magazin-ende-100.html",
+        "date": "2026-10-21T08:40:09.000Z"
+      },
+      {
+        "name": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/kultur/es-reicht-alice-schwarzer-stellt-emma-nach-50-jahren-ein,VYf4pD4",
+        "date": "2026-10-21T07:11:19.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMlRnX1hnMlItT0czWkZCQ0M0TGVaTjBWVzJHczA5cjU0OEFTNGZONHRPbU9MVVVaWDRfUUpXTkJWVVJkUEZMZFZNR1RFS3Y2VHBpY2JYU2FuTUdnOVVkSmZacERJRnI5WnVGNEJ6c2t4Ymc3UkdHbFFpVHA3b0NsZFRqWFI0SHVFTThVYUlRNFBabzhyYm5rbmRkM0lrb0toLTU4SHN5WlZRWmhSTTdQX183SUM?oc=5",
+        "date": "2026-10-21T06:25:00.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/alice-schwarzer-stellt-magazin-emma-nach-50-jahren-ein-100.html",
+    "agree": "Alle Quellen stimmen darin überein, dass Alice Schwarzer das Magazin „Emma“ nach 50 Jahren einstellt und die letzte Ausgabe am 8. Dezember erscheint.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Erwähnt Köln als Ort der Mitteilung durch Schwarzer sowie die Gründung mit einem Kollektiv im Januar 1977."
+      },
+      {
+        "name": "Tagesschau",
+        "note": "Zitiert die Aussage, dass die Gründe nicht ökonomischer Natur seien."
+      },
+      {
+        "name": "BR24 Bayern",
+        "note": "Merkt an, dass Schwarzer 83 Jahre alt ist und das Magazin die feministische Debatte in Deutschland geprägt und polarisiert hat."
+      },
+      {
+        "name": "Google News DE",
+        "note": "Verweist auf einen Artikel der FAZ und enthält ansonsten nur sehr knappe Textfragmente."
+      }
+    ],
+    "chg": "",
+    "independent": 4
+  },
+  {
+    "id": "story-18dd078e86ea7e37",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-21T17:21:52.000Z",
     "p": 4,
     "st": "",
     "city": "",
-    "t": "Alice Schwarzer stellt feministisches Magazin Emma nach 50 Jahren ein",
-    "s": "Die deutsche Frauenrechtlerin Alice Schwarzer beendet nach einem halben Jahrhundert die Publikation ihrer feministischen Zeitschrift Emma. Die letzte Ausgabe soll am 8. Dezember erscheinen. Dies gab die 83-jährige Publizistin in Köln bekannt.",
-    "m": "Das traditionsreiche feministische Magazin Emma steht vor dem Aus. Nach einem Bestehen von 50 Jahren hat die Gründerin und Herausgeberin Alice Schwarzer das Ende der Zeitschrift verkündet. Die finale Ausgabe des Blattes soll am 8. Dezember veröffentlicht werden. Die Entscheidung wurde von Schwarzer im Rahmen einer Erklärung in Köln bekannt gegeben. Weitere Details zu den Gründen für die Einstellung oder zur Zukunft des publizistischen Umfelds wurden in den vorliegenden Berichten zunächst nicht genannt. Das Medium prägte über Jahrzehnte den feministischen Diskurs in Deutschland maßgeblich.",
-    "r": "Die Einstellung von Emma markiert das Ende einer Ära für die deutsche Medien- und Frauenrechtslandschaft. Das Magazin hat den gesellschaftlichen Diskurs über ein halbes Jahrhundert lang geprägt.",
+    "t": "Russland signalisiert Bereitschaft zu trilateralen Gesprächen mit Ukraine und USA",
+    "s": "Der russische Präsident Putin hat einer Wiederaufnahme von trilateralen Gesprächen mit der Ukraine und den USA grundsätzlich zugestimmt. Dies gab Putins außenpolitischer Berater Uschakow in Sankt Petersburg bekannt. Die Verhandlungen könnten nach übereinstimmenden Berichten im November beginnen.",
+    "m": "Die neuen Verhandlungen zwischen Russland, der Ukraine und den USA könnten nach Angaben des Kreml-Beraters Uschakow bereits nach dem 10. November starten. Zugesagt habe Präsident Putin dies dem US-Gesandten Witkoff. Weitere Details zum genauen Ablauf, den Verhandlungsorten oder konkreten Agenda-Punkten wurden zunächst nicht genannt. Die Ankündigung erfolgt vor dem Hintergrund des anhaltenden Krieges in der Ukraine. Ob die Gespräche tatsächlich zustandekommen und welche Bedingungen daran geknüpft sind, bleibt abzuwarten. Bislang gibt es noch keine offiziellen Reaktionen aus Kiew oder Washington zu diesem konkreten Termin.",
+    "r": "Die Ankündigung von Verhandlungen zwischen Russland, der Ukraine und den USA ist für den Verlauf des Krieges von hoher diplomatischer Bedeutung. Sie könnte erste Hinweise auf eine mögliche Wiederaufnahme des Dialogs zwischen den Konfliktparteien liefern.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/russland-zu-verhandlungen-mit-der-ukraine-und-den-usa-bereit-100.html",
+        "date": "2026-10-21T17:21:52.000Z"
+      },
+      {
+        "name": "Süddeutsche Zeitung",
+        "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-putin-kreml-usa-gespraeche-li.3563283",
+        "date": "2026-10-21T15:05:54.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/russland-zu-verhandlungen-mit-der-ukraine-und-den-usa-bereit-100.html",
+    "agree": "Beide Quellen stimmen darin überein, dass der russische Präsident Putin laut seinem Berater Uschakow prinzipiell zu Gesprächen mit der Ukraine und den USA bereit ist und diese im November beginnen könnten.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Erwähnt zusätzlich, dass die Ankündigung in Sankt Petersburg gemacht wurde und die Gespräche konkret nach dem 10. November beginnen könnten."
+      },
+      {
+        "name": "Süddeutsche Zeitung",
+        "note": "Nennt zusätzlich den US-Gesandten Witkoff als denjenigen, dem Putin die Zusage gegeben hat."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-bce64fbc22d13605",
+    "c": "INT",
+    "o": "DE",
+    "k": "umwelt",
+    "lang": "de",
+    "d": "2026-10-21T17:21:52.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Neuer UNO-Bericht warnt vor Erderwärmung um bis zu 2,8 Grad",
+    "s": "Ein neuer Bericht des UN-Umweltprogramms UNEP warnt vor einer drastischen Erderwärmung bis zum Jahr 2100. Demnach steuert die Erde auf bis zu 2,8 Grad Erwärmung gegenüber der vorindustriellen Zeit zu. UNO-Generalsekretär Guterres betonte, die internationale Gemeinschaft sei weit von ihren Klimazielen entfernt.",
+    "m": "Der Jahresbericht des UNEP zeigt auf, dass die bisherigen Anstrengungen im globalen Klimaschutz nicht ausreichen. UNO-Generalsekretär Guterres äußerte sich bei der Vorstellung des Berichts besorgt über die Entwicklung. Der WWF nahm die Veröffentlichung zum Anlass, einen dringenden Appell an die Bundesregierung zu richten. Konkrete Zahlen zu den Emissionen und den genauen wirtschaftlichen oder politischen Folgen wurden in den vorliegenden Meldungen nicht weiter ausgeführt. Offen bleibt, welche konkreten Nachschärfungen Deutschland und andere Staaten nun vornehmen werden.",
+    "r": "Die Veröffentlichung des UNEP-Jahresberichts zeigt die Lücke zwischen internationalen Klimazielen und der Realität auf. Dies ist für die globale Klimapolitik und Forderungen an nationale Regierungen wie die Bundesregierung direkt relevant.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/neuer-uno-bericht-erde-steuert-bis-2100-auf-bis-zu-2-8-grad-erwaermung-zu-wwf-appelliert-an-bundesre-100.html",
+        "date": "2026-10-21T17:21:52.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNajhKbHRmRFNLSnpKTHFOMUFiWldrc3VNbkJvYUFMQkhOTEdDdnVfNGR0blEwdUpYSmQ1OHV0TkMxLTV4VkxXNHhBdi02ZHk4QXhEZmdqUURiY0lNRWVjbl9EVEp1eGN0WnZtSmUwUlYtcnBwLVhhbHM5R0UwNU9CUkEtcU5FblBqR2ZLeUNpZ0htN0o0cjlNWWRpOXVadDRZSFVLVjVrOGh5VU5TMjJCZHJ6dkk5NFJBTHZrOVFPMVA5ZmhhTDJVNWozd0w0NGpYcFZock5HNA?oc=5",
+        "date": "2026-10-21T16:45:14.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/neuer-uno-bericht-erde-steuert-bis-2100-auf-bis-zu-2-8-grad-erwaermung-zu-wwf-appelliert-an-bundesre-100.html",
+    "agree": "Beide Quellen berichten übereinstimmend über den neuen UNO-Bericht zur Erderwärmung um bis zu 2,8 Grad bis 2100 und den WWF-Appell an die Bundesregierung.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Berichtet ausführlich über die Warnung von UNO-Generalsekretär Guterres und den UNEP-Jahresbericht."
+      },
+      {
+        "name": "Google News DE",
+        "note": "Verlinkt auf den Beitrag des Deutschlandfunks und greift die Überschrift auf."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-1c72a0808245d939",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-21T17:21:52.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Brasilien: Lula und Bolsonaro fordern Ausschluss des jeweils anderen",
+    "s": "Kurz vor der Stichwahl um das brasilianische Präsidentenamt verschärft sich der Wahlkampf massiv. Sowohl Amtsinhaber Bolsonaro als auch Herausforderer Lula da Silva fordern jeweils den Ausschluss des anderen Kandidaten. Die Konkurrenten gehen dazu auch juristisch gegeneinander vor.",
+    "m": "Im Vorfeld der entscheidenden Stichwahl um das Präsidentenamt in Brasilien haben sich die Fronten zwischen den verbliebenen Kandidaten weiter verhärtet. Sowohl der amtierende Präsident Jair Bolsonaro als auch sein Herausforderer Luiz Inácio Lula da Silva versuchen mit rechtlichen Schritten, die Kandidatur ihres jeweiligen Kontrahenten annullieren zu lassen. Die gegenseitigen Forderungen nach einem Ausschluss prägen die finalen Tage des Wahlkampfs. Es bleibt unklar, wie die zuständigen Gerichte auf diese Anträge kurz vor dem Gang an die Urnen reagieren werden. Beobachter werten das Vorgehen als Zeichen zunehmender Nervosität in beiden Lagern. Die juristischen Auseinandersetzungen überlagern zunehmend die inhaltlichen Themen der finalen Wahlkampfphase in dem südamerikanischen Land.",
+    "r": "Die juristischen Auseinandersetzungen und gegenseitigen Ausschlussforderungen der beiden wichtigsten Präsidentschaftskandidaten kurz vor der Stichwahl in Brasilien sind für den Ausgang des demokratischen Prozesses von hoher Bedeutung. Sie verdeutlichen die extreme Polarisierung des Landes.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/lula-und-bolsonaro-fordern-ausschluss-des-jeweils-anderen-100.html",
+        "date": "2026-10-21T17:21:52.000Z"
+      },
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/amerika/lula-bolsonaro-ausschluss-stichwahl-100.html",
+        "date": "2026-10-21T13:40:07.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/lula-und-bolsonaro-fordern-ausschluss-des-jeweils-anderen-100.html",
+    "agree": "Beide Quellen stimmen überein, dass Lula und Bolsonaro kurz vor der Stichwahl in Brasilien den Ausschluss des jeweils anderen fordern.",
+    "diff": [
+      {
+        "name": "Tagesschau",
+        "note": "Erwähnt konkret, dass beide Bewerber gerichtlich gegen den jeweils anderen vorgehen, um eine Annullierung der Kandidatur zu erreichen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-ae2daafc301ad345",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-21T17:21:52.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Ermittler durchsuchen Büros der Patrioten-Fraktion im EU-Parlament",
+    "s": "Im Europaparlament haben Durchsuchungen in Büros der rechtsgerichteten Patrioten-Fraktion stattgefunden. Die Europäische Staatsanwaltschaft führt die Maßnahmen durch. Im Fokus stehen Ermittlungen wegen eines möglichen Finanzmissbrauchs.",
+    "m": "Die Europäische Staatsanwaltschaft hat Büros der rechtspopulistischen Fraktion Patrioten für Europa im Europaparlament in Brüssel und Straßburg durchsuchen lassen. Hintergrund der Ermittlungen ist der Verdacht des möglichen Missbrauchs von 4,3 Millionen Euro. Die Vorwürfe richten sich gegen Mitglieder der mittlerweile aufgelösten ID-Fraktion, der zuvor unter anderem auch die deutsche AfD angehörte. Die Untersuchungen dauern an, während die betroffenen Büros durchsucht wurden, um Beweismittel sicherzustellen.",
+    "r": "Die Durchsuchungen im EU-Parlament betreffen den Vorwurf des Millionenmissbrauchs von EU-Geldern durch Mitglieder einer Vorgängerfraktion. Dies wirft Fragen zur Kontrolle und Verwendung von Parlamentsmitteln auf.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/ermittler-durchsuchen-bueros-von-rechter-fraktion-im-europarlament-100.html",
+        "date": "2026-10-21T17:21:52.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/bruessel-und-strassburg-ermittler-durchsuchen-bueros-rechter-fraktion-im-eu-parlament-a-8f50684f-8092-483d-9fd0-7ff67bdd599c#ref=rss",
+        "date": "2026-10-21T16:51:00.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/ermittler-durchsuchen-bueros-von-rechter-fraktion-im-europarlament-100.html",
+    "agree": "Die Quellen stimmen überein, dass Büros der rechten Fraktion Patrioten im Europaparlament von Ermittlern durchsucht wurden.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Berichtet allgemein von Durchsuchungen der Büros einer rechten Fraktion im Europarlament."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Nennt konkret die Europäische Staatsanwaltschaft als durchführende Behörde, die genaue Summe von 4,3 Millionen Euro sowie den Bezug zur aufgelösten ID-Fraktion und der AfD."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-3cfdca4ea2cab3f7",
+    "c": "INT",
+    "o": "UK",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-21T17:18:47.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Champions League: Como gegen Manchester United droht wegen starkem Regen Absage",
+    "s": "Das Champions-League-Spiel zwischen Como und Manchester United in der Lombardei am Mittwochabend steht auf der Kippe. Grund dafür sind heftige Regenfälle in der Region. Vor Spielbeginn machten sich die Verantwortlichen Sorgen um die Platzverhältnisse. Die Spieler standen kurz vor dem Anpfiff auf dem Platz.",
+    "m": "Am Mittwochabend sollte das Champions-League-Spiel zwischen Como und Manchester United stattfinden. Allerdings droht der Partie wegen heftiger Regenfälle und Land unter in der Lombardei eine Absage. Die Spieler befanden sich bereits auf dem Platz und standen kurz vor dem Beginn, als die Witterungsbedingungen für Sorge sorgten. Ein Maskottchen betrat das Spielfeld, um den Spielball zu holen. Ob die Partie wie geplant angepfiffen werden kann oder ob die Wassermassen in der Lombardei zu einer Spielabsage führen, ist aufgrund des Wetters unklar.",
+    "r": "Die mögliche Absage eines internationalen Champions-League-Spiels durch extreme Wetterbedingungen in der Lombardei hat direkte sportliche Auswirkungen auf den europäischen Vereinsfußball.",
+    "srcs": [
+      {
+        "name": "Guardian Sport",
+        "url": "https://www.theguardian.com/football/live/2026/oct/21/como-v-manchester-united-champions-league-live",
+        "date": "2026-10-21T17:18:47.000Z"
+      },
+      {
+        "name": "t-online Sport",
+        "url": "https://www.t-online.de/sport/fussball/champions-league/id_101490676/champions-league-como-gegen-manchester-united-droht-absage.html",
+        "date": "2026-10-21T09:00:19.000Z"
+      }
+    ],
+    "url": "https://www.theguardian.com/football/live/2026/oct/21/como-v-manchester-united-champions-league-live",
+    "agree": "Die Quellen berichten über das bevorstehende Champions-League-Spiel zwischen Como und Manchester United am Mittwochabend, das durch Wetterbedingungen in der Lombardei beeinflusst wird.",
+    "diff": [
+      {
+        "name": "Guardian Sport",
+        "note": "Erwähnt, dass die Spieler auf dem Platz standen, das Spiel um 17:45 Uhr BST beginnt und ein Maskottchen den Spielball holte."
+      },
+      {
+        "name": "t-online Sport",
+        "note": "Berichtet spezifisch von heftigen Regenfällen und drohender Absage aufgrund von Land unter in der Lombardei."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-56e762c0c8d01b79",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-21T17:18:26.000Z",
+    "p": 2,
+    "st": "RP",
+    "city": "",
+    "t": "Mainzer Oktoberfest ist offiziell genehmigt und startet am Freitag",
+    "s": "Nach wochenlangem Streit ist das Oktoberfest in Mainz nun endgültig genehmigt worden. Die Stadt hat grünes Licht für das Volksfest gegeben. Damit kann die Veranstaltung wie geplant am kommenden Freitag beginnen.",
+    "m": "Um das Volksfest in Mainz hatte es im Vorfeld so viel Ärger wie noch nie gegeben. Nach wochenlangen Diskussionen und Auseinandersetzungen liegt nun die offizielle Genehmigung der Stadt vor. Der Startschuss für das Oktoberfest fällt am Freitag. Details zu den genauen Gründen des Streits oder dem genauen Programm wurden in den Berichten nicht genannt. Offen bleibt zudem, wie die Besucher auf die Vorgeschichte reagieren werden.",
+    "r": "Die Genehmigung beendet einen wochenlangen Streit und ermöglicht die Durchführung eines großen Volksfestes in Mainz. Das Ereignis hat durch die vorausgegangene Kontroverse eine hohe regionale Aufmerksamkeit erlangt.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/mainz/mainzer-oktoberfest-findet-doch-statt-100.html",
+        "date": "2026-10-21T17:18:26.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Rheinland-Pfalz",
+        "url": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-oktoberfest-in-mainz-wird-zur-farce-hin-und-her-geht-weiter-100.html",
+        "date": "2026-10-21T16:29:00.000Z"
+      }
+    ],
+    "url": "https://www.swr.de/swraktuell/rheinland-pfalz/mainz/mainzer-oktoberfest-findet-doch-statt-100.html",
+    "agree": "Beide Quellen stimmen überein, dass es um das Mainzer Oktoberfest geht, das trotz wochenlangem und beispiellosem Ärger nach einer Zusage der Stadt am Freitag startet.",
+    "diff": [
+      {
+        "name": "SWR Aktuell",
+        "note": "Betitelt die Meldung mit dem Zusatz, dass das Oktoberfest genehmigt ist."
+      },
+      {
+        "name": "Tagesschau Regional Rheinland-Pfalz",
+        "note": "Verwendet einen etwas kürzeren Titel, der den Start am Freitag hervorhebt."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-4c733bd8d2444261",
+    "c": "INT",
+    "o": "DE",
+    "k": "technik",
+    "lang": "de",
+    "d": "2026-10-21T17:14:08.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Schwere PHP-Sicherheitslücke bedroht weltweit Millionen Webseiten",
+    "s": "In der weitverbreiteten Programmiersprache PHP wurde eine gravierende Sicherheitslücke entdeckt, die weltweit Millionen Webseiten gefährdet. Blogs, Onlineshops und Nachrichtenportale könnten ins Visier von Angreifern geraten. Die Schwachstelle ermöglicht unter Umständen die komplette Übernahme ganzer Server. Erste konkrete Auswirkungen zeigen sich bereits bei behördlichen Webauftritten.",
+    "m": "Die neu bekannt gewordene Sicherheitslücke in der Skriptsprache PHP hat internationale Relevanz und bedroht eine Vielzahl von Internetangeboten. Dazu gehören nach übereinstimmenden Medienberichten sowohl kleinere Blogs als auch kommerzielle Onlineshops und große Nachrichtenportale. Das Hauptrisiko für Betreiber und Nutzer besteht darin, dass Angreifer die Lücke ausnutzen können, um die Kontrolle über betroffene Server zu erlangen. Als konkrete Maßnahme und Reaktion auf die Bedrohungslage wurden bereits die Internetseiten mehrerer deutscher Städte vorsorglich abgeschaltet. Bislang liegen noch keine flächendeckenden Details zu konkreten Schadensfällen im großen Stil vor, jedoch stufen Experten die Situation als hochgradig kritisch ein. Die Behörden und IT-Sicherheitsverantwortlichen arbeiten an Analysen und entsprechenden Gegenmaßnahmen zur Schließung der Lücke.",
+    "r": "Die Sicherheitslücke in PHP betrifft weltweit Millionen Webseiten und Server, wodurch grundlegende digitale Infrastrukturen wie Onlineshops und Behördenseiten akut gefährdet sind. Solche Schwachstellen erfordern sofortige Reaktionen wie das Abschalten betroffener Dienste, um Angriffe abzuwehren.",
     "srcs": [
       {
         "name": "RND",
-        "url": "https://www.rnd.de/medien/aus-nach-50-jahren-alice-schwarzer-stellt-magazin-emma-ein-J4J2ZXRSEVFKZLJW7A4RU3BCDU.html",
-        "date": "2026-10-21T06:08:15.000Z"
+        "url": "https://www.rnd.de/panorama/php-sicherheitsluecke-bedroht-weltweit-millionen-webseiten-AWHNTHTT7ZARPKD4FEDZABJBYA.html",
+        "date": "2026-10-21T17:14:08.000Z"
       },
       {
-        "name": "Frankfurter Allgemeine",
-        "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/alice-schwarzer-stellt-magazin-emma-ein-accg-201607250.html",
-        "date": "2026-10-21T06:03:55.000Z"
+        "name": "stern",
+        "url": "https://www.stern.de/digital/php-webskriptsprache--gravierende-sicherheitsluecke-bedroht-millionen-webseiten-38430920.html",
+        "date": "2026-10-21T16:49:40.000Z"
+      },
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/wirtschaft/technologie/it-sicherheit-php-luecke-100.html",
+        "date": "2026-10-21T16:15:01.000Z"
+      }
+    ],
+    "url": "https://www.rnd.de/panorama/php-sicherheitsluecke-bedroht-weltweit-millionen-webseiten-AWHNTHTT7ZARPKD4FEDZABJBYA.html",
+    "agree": "Alle Quellen stimmen überein, dass eine gravierende Sicherheitslücke in der Programmiersprache PHP weltweit Millionen Webseiten bedroht und Angreifer im Worst-Case ganze Server übernehmen können.",
+    "diff": [
+      {
+        "name": "RND",
+        "note": "Erwähnt konkret Blogs, Onlineshops und Nachrichtenportale als potenzielle Ziele von Angreifern."
+      },
+      {
+        "name": "stern",
+        "note": "Beschreibt die PHP-Webskriptsprache als Ausgangspunkt der Bedrohung für Millionen Webseiten."
+      },
+      {
+        "name": "SWR Aktuell",
+        "note": "Berichtet als einzige Quelle, dass bereits die Internetseiten mehrerer Städte abgeschaltet wurden."
+      },
+      {
+        "name": "Tagesschau",
+        "note": "Nennt ebenfalls die Abschaltung der Internetseiten mehrerer Städte als konkrete Folge."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
+    "id": "story-1b88bcea85bfc553",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-21T17:13:08.000Z",
+    "p": 2,
+    "st": "HH",
+    "city": "",
+    "t": "Elena Brandt nach 24 Jahren in Hamburg nach Kirgisistan abgeschoben",
+    "s": "Die 55-jährige Elena Brandt ist im März nach 24 Jahren in Deutschland in ihre Heimat Kirgisistan abgeschoben worden. In Hamburg leben ihre Kinder und Enkel. Ihre Familie kämpft nun für ihre Rückkehr und kritisiert das Vorgehen der zuständigen Ausländerbehörde.",
+    "m": "Elena Brandt lebte 24 Jahre lang in Hamburg, wo nun auch ihre Kinder und Enkelkinder zu Hause sind. Im März wurde die 55-Jährige dennoch nach Kirgisistan abgeschoben. Die Familie setzt sich seither für ihre Rückkehr ein und erhebt schwere Vorwürfe gegen das Vorgehen der Hamburger Ausländerbehörde. Der Fall wirft Fragen zum Umgang mit langjährig integrierten Personen in Deutschland auf. Bisher ist unklar, ob rechtliche Schritte Aussicht auf Erfolg haben oder ob die Behörde zu einer Einzelfallprüfung bereit ist. Weitere Details zum genauen Ablauf der Abschiebung oder zum Status der Aufenthaltsdokumente vor der Maßnahme gehen aus den Berichten nicht hervor.",
+    "r": "Die Abschiebung einer seit Jahrzehnten in Deutschland lebenden Frau mit familiären Wurzeln in Hamburg beleuchtet die Praxis von Ausländerbehörden. Der Fall verdeutlicht den Konflikt zwischen langjähriger Verwurzelung vor Ort und vollzogenen Rückführungen.",
+    "srcs": [
+      {
+        "name": "NDR Hamburg",
+        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/abschiebung-von-deutschland-nach-kirgisistan-nach-24-jahren,hamj-15774.html",
+        "date": "2026-10-21T17:13:08.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Hamburg",
+        "url": "https://www.tagesschau.de/inland/regional/hamburg/nach-24-jahren-in-hamburg-grossmutter-nach-kirgisistan-abgeschoben,abschiebung-360.html",
+        "date": "2026-10-21T14:26:20.000Z"
+      }
+    ],
+    "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/abschiebung-von-deutschland-nach-kirgisistan-nach-24-jahren,hamj-15774.html",
+    "agree": "Beide Quellen stimmen überein, dass die 55-jährige Elena Brandt nach 24 Jahren in Hamburg im März nach Kirgisistan abgeschoben wurde und ihre Familie für ihre Rückkehr kämpft.",
+    "diff": [
+      {
+        "name": "NDR Hamburg",
+        "note": "Erwähnt zusätzlich, dass die Kinder und Enkel in Deutschland zu Hause sind und die Familie das Vorgehen der Ausländerbehörde kritisiert."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-ef85238a71b25a33",
+    "c": "INT",
+    "o": "DE",
+    "k": "technik",
+    "lang": "de",
+    "d": "2026-10-21T17:05:18.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Schwere PHP-Sicherheitslücke bedroht Millionen Websites weltweit",
+    "s": "Das Bundesamt für Sicherheit in der Informationstechnik warnt vor einer schwerwiegenden Sicherheitslücke in PHP. Das Risiko für betroffene Webseiten weltweit wird als außerordentlich hoch eingestuft. Millionen Internetseiten sind potenziell von der Bedrohung betroffen.",
+    "m": "Das Bundesamt für Sicherheit in der Informationstechnik hat eine offizielle Warnung herausgegeben und stuft das Risiko der neuen Sicherheitslücke in PHP als außerordentlich hoch ein. Weltweit sind Millionen von Websites von der Bedrohung betroffen und potenziell angreifbar. Bisher sind keine konkreten Zahlen zu erfolgreichen Angriffen oder betroffenen Unternehmen bekannt. Die Behörde rät Administratoren dringend zur Prüfung der Systeme und zur Installation verfügbarer Sicherheitsupdates. Weitere Details zum genauen technischen Hergang und den betroffenen PHP-Versionen werden von den beteiligten Stellen analysiert. Offen ist bislang, wie schnell die Betreiber betroffener Webseiten flächendeckend reagieren können.",
+    "r": "Die Sicherheitslücke betrifft weltweit Millionen von Websites und birgt ein außerordentlich hohes Risiko, das von IT-Sicherheitsbehörden wie dem BSI amtlich eingestuft wird. Ein zeitnahes Handeln von Administratoren ist zur Abwehr von Angriffen erforderlich.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/digital/2026-10/php-sicherheitsluecke-wordpress-bsi-webseiten",
+        "date": "2026-10-21T17:05:18.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSm9rRktaQTdjdjFxcnlWeWgteUxudWNCaDBwOVJ2MU8yeWxzUEhQQWpJY0RsMS1TVW9Vc2d2TUt2aTJnUHE1OGVQVmJLbVN3LS1CT2ZoOXpqYUpYaWNSUkJJelQ3VHJZUmRfdTByWllQNnFodERiTVIxblVWbVpYd19jZmFCNE9FY2tuZldSNjVJd2trMmtZSWRfWGRFMGgyenNDZzNEcw?oc=5",
+        "date": "2026-10-21T14:11:10.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/digital/2026-10/php-sicherheitsluecke-wordpress-bsi-webseiten",
+    "agree": "Beide Quellen stimmen überein, dass eine kritische Sicherheitslücke in PHP weltweit Millionen von Websites bedroht.",
+    "diff": [
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Berichtet, dass das Bundesamt für Sicherheit in der Informationstechnik (BSI) vor der Lücke warnt und das Risiko als außerordentlich hoch eingestuft hat."
+      },
+      {
+        "name": "Google News DE",
+        "note": "Verweist auf WEB.DE und erwähnt ebenfalls die weltweite Bedrohung für Millionen Websites sowie die PHP-Bedrohung."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-7db3cf0fe384b6b6",
+    "c": "INT",
+    "o": "UK",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-21T16:38:06.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Russland signalisiert Bereitschaft zu Dreier-Gesprächen mit USA und Ukraine",
+    "s": "Das Kreml-Präsidialamt hat erklärt, dass Russland zu Verhandlungen mit der Ukraine und den USA bereit ist. Die Ankündigung folgte auf ein Treffen des russischen Präsidenten Wladimir Putin mit dem US-Sondergesandten Steve Witkoff in St. Petersburg. Die Gespräche könnten möglicherweise Mitte November fortgesetzt werden.",
+    "m": "Nach Angaben des Kremls ist Moskau bereit, im kommenden Monat trilaterale Gespräche zwischen den USA, der Ukraine und Russland wieder aufzunehmen. Diese Ankündigung erfolgte am Mittwoch, nachdem der russische Präsident Wladimir Putin in Russland mit dem US-Sondergesandten Steve Witkoff zusammengekommen war. Das Treffen fand konkret in St. Petersburg statt. Ein zentraler Punkt ist die Aussicht auf eine Fortführung der Dreier-Verhandlungen Mitte November, um den Krieg zu beenen. Weitere Details zu den genauen Bedingungen oder konkreten Tagesordnungspunkten der geplanten Gespräche wurden von den Quellen zunächst nicht genannt.",
+    "r": "Die Ankündigung neuer diplomatischer Gespräche zwischen Russland, den USA und der Ukraine ist von internationaler Bedeutung für den Verlauf des Krieges. Ein mögliches Treffen im November könnte neue Dynamiken in die diplomatischen Bemühungen bringen.",
+    "srcs": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-21T16:38:06.000Z"
+      },
+      {
+        "name": "France24 English",
+        "url": "https://www.france24.com/en/kremlin-says-ready-to-resume-3-way-talks-with-us-and-ukraine-mid-november",
+        "date": "2026-10-21T15:51:32.000Z"
+      }
+    ],
+    "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+    "agree": "Die Quellen stimmen überein, dass Russland nach einem Treffen von Präsident Putin mit dem US-Sondergesandten Steve Witkoff in St. Petersburg seine Bereitschaft zur Wiederaufnahme von Gesprächen mit den USA und der Ukraine signalisiert hat.",
+    "diff": [
+      {
+        "name": "France24 English",
+        "note": "Erwähnt zusätzlich, dass die Erklärung am Mittwoch abgegeben wurde und die trilateralen Gespräche möglicherweise Mitte nächsten Monats (November) stattfinden sollen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-1b7b0a59854c73e0",
+    "c": "INT",
+    "o": "INT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-21T16:34:27.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Emmanuel Macron stattet Saudi-Arabien überraschenden Solidaritätsbesuch ab",
+    "s": "Der französische Staatspräsident Emmanuel Macron ist am Mittwoch unerwartet in Riad gelandet. Der Stopp ist Teil seiner laufenden Golf-Tour. Ziel der Reise ist es, Saudi-Arabien Unterstützung zu zeigen.",
+    "m": "Der französische Präsident Emmanuel Macron hat seine laufende Tour durch die Golfregion um einen nicht geplanten Zwischenstopp in Saudi-Arabien erweitert. Am Mittwoch landete er in Riad, um sich mit dem saudi-arabischen Kronprinzen zu treffen. Nach Angaben des Präsidentenpalastes dient die Visite dazu, die Solidarität Frankreichs mit Saudi-Arabien zu demonstrieren. Anlass für diesen Schritt sind Angriffe, die von den Houthi-Rebellen auf saudi-arabisches Territorium verübt wurden. Weitere Details zu dem unangekündigten Besuch wurden durch den internationalen Redakteur Douglas Herbert von FRANCE 24 in Aussicht gestellt.",
+    "r": "Der Besuch unterstreicht die diplomatischen Bemühungen Frankreichs in der Golfregion und die Reaktion auf Angriffe der Houthis. Das Treffen zwischen Macron und dem saudi-arabischen Kronprinzen zeigt die bilateralen Beziehungen in einer konfliktgeprägten Situation.",
+    "srcs": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/macrons-surprise-solidarity-visit-to-saudi-arabia?traffic_source=rss",
+        "date": "2026-10-21T16:34:27.000Z"
+      },
+      {
+        "name": "France24 English",
+        "url": "https://www.france24.com/en/french-president-macron-lands-in-saudi-arabia-on-surprise-solidarity-visit",
+        "date": "2026-10-21T15:54:08.000Z"
+      }
+    ],
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/macrons-surprise-solidarity-visit-to-saudi-arabia?traffic_source=rss",
+    "agree": "Die Quellen stimmen überein, dass der französische Präsident Emmanuel Macron Saudi-Arabien im Rahmen seiner Golf-Tour überraschend besucht hat.",
+    "diff": [
+      {
+        "name": "Al Jazeera",
+        "note": "Erwähnt die überraschende Visite und das Treffen mit dem saudi-arabischen Kronprinzen."
+      },
+      {
+        "name": "France24 English",
+        "note": "Nennt den genauen Wochentag (Mittwoch), die Landung in Riad sowie den Grund für die Solidarität angesichts der Houthi-Angriffe und verweist auf den Redakteur Douglas Herbert."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-420c6db7dc3b140e",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-21T16:14:34.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Aktivist verlässt Bündnis „Widersetzen“ nach AfD-Parteitag in Erfurt",
+    "s": "Nach einer gescheiterten Blockade des AfD-Parteitags in Erfurt hat eines der bekanntesten Mitglieder seinen Rückzug aus dem linken Bündnis „Widersetzen“ erklärt. Der Aktivist äußerte sich dabei selbstkritisch. Unter anderem verurteilte er Angriffe auf Journalisten, die im Kontext der Aktionen aufgetreten waren.",
+    "m": "Das linke Bündnis „Widersetzen“ hatte versucht, den AfD-Parteitag in Erfurt durch eine Blockade zu verhindern, was jedoch scheitert war. Im Nachgang dieser Ereignisse zieht nun einer der prominentesten Aktivisten Konsequenzen und wendet sich von dem Bündnis ab. In seiner Erklärung thematisiert er auch den Umgang mit Gewalt gegen Pressevertreter und übt diesbezüglich Selbstkritik. Angriffe auf Journalisten wurden von ihm ausdrücklich verurteilt. Bislang sind keine weiteren Details zu internen Streitigkeiten innerhalb des Bündnisses oder zu den genauen Umständen der Angriffe bekannt.",
+    "r": "Der Ausstieg eines prominenten Aktivisten aus dem linken Bündnis „Widersetzen“ beleuchtet die internen Konflikte und die Bewertung von Gewalt bei Protesten gegen den AfD-Parteitag. Die Reaktionen auf den Umgang mit Medienvertretern werfen ein Schlaglicht auf die Protestkultur.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQUnJyNWNzaEUwLWVXcjU1T2l3Y1RaR2p5MUFCd3IzQnZYVjdiQ1drV0Z3YWFwbnJZajNNUzdkdmRCclAxZFlIVlkzYThZNk9NaDl1Z0hsYzFuVUxEY1Y2QU9ReExnSXJPZzNlYzZ0bWl6ZGl2bnc4aW94dXlzVF8xOXZjNzdTSGdSaHhNbUxWSkFtUmtQQzVhdE5wQmZMMmNNd3BCdEY1MHE1UG1hZmxZTUY2ZXVhUlJ4V3dmUWFuOUJ1a1lVYXBiRFROOEVvWWxzRExlYkQxNDhEaHgtelhHSDg4ZDVHSkcwSkRWN0M0aXJxTDJWYWh2YzVvUlJ2dlpCM3ByOGx3Z0ZTOWZw?oc=5",
+        "date": "2026-10-21T16:14:34.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/deutschland/article6ad8c45b199dc15f1abdc081/afd-parteitag-in-erfurt-aktivist-kehrt-widersetzen-den-ruecken-und-verurteilt-angriffe-auf-journalisten.html",
+        "date": "2026-10-21T16:13:21.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQUnJyNWNzaEUwLWVXcjU1T2l3Y1RaR2p5MUFCd3IzQnZYVjdiQ1drV0Z3YWFwbnJZajNNUzdkdmRCclAxZFlIVlkzYThZNk9NaDl1Z0hsYzFuVUxEY1Y2QU9ReExnSXJPZzNlYzZ0bWl6ZGl2bnc4aW94dXlzVF8xOXZjNzdTSGdSaHhNbUxWSkFtUmtQQzVhdE5wQmZMMmNNd3BCdEY1MHE1UG1hZmxZTUY2ZXVhUlJ4V3dmUWFuOUJ1a1lVYXBiRFROOEVvWWxzRExlYkQxNDhEaHgtelhHSDg4ZDVHSkcwSkRWN0M0aXJxTDJWYWh2YzVvUlJ2dlpCM3ByOGx3Z0ZTOWZw?oc=5",
+    "agree": "Ein bekannter Aktivist hat das linke Bündnis „Widersetzen“ nach dem AfD-Parteitag in Erfurt verlassen.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-3d89e370a3be9ac9",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-21T15:57:41.000Z",
+    "p": 3,
+    "st": "SL",
+    "city": "",
+    "t": "Kampfjet stürzt bei Nancy in Frankreich ab: Mindestens ein Todesopfer",
+    "s": "Beim Absturz eines Kampfjets während eines Übungseinsatzes nahe der französischen Stadt Nancy ist mindestens ein Insasse ums Leben gekommen. Der Vorfall ereignete sich am späten Dienstagabend. Nach dem zweiten Besatzungsmitglied wird derzeit noch gesucht.",
+    "m": "Am späten Dienstagabend ist in Frankreich nahe Nancy ein Kampfjet bei einem Trainingseinsatz abgestürzt. Bei dem Unglück kam mindestens ein Besatzungsmitglied ums Leben. Nach dem zweiten Insassen der Maschine läuft aktuell eine Suchaktion. Die genaue Ursache für das Absturzgeschehen ist zum gegenwärtigen Zeitpunkt noch völlig unklar. Ob es sich um eine rein nationale Übung handelte oder weitere Einheiten beteiligt waren, geht aus den Berichten nicht hervor. Die Rettungskräfte sind vor Ort im Einsatz, um den verbleibenden Insassen zu finden und die Unfallstelle zu sichern.",
+    "r": "Der Absturz eines Militärjets mit Todesfolge und laufenden Rettungsmaßnahmen an einer französischen Standortregion ist von sicherheits- und regionalpolitischer Bedeutung. Zudem wirft der ungeklärte Unfallhergang Fragen zur Flugsicherheit bei Übungseinsätzen auf.",
+    "srcs": [
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/vermischtes/article6ad8dbae2c40700de0800e91/frankreich-kampfjet-stuerzt-ab-anwohner-berichten-von-heftiger-explosion-und-feuerball-mindestens-ein-toter.html",
+        "date": "2026-10-21T15:57:41.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Saarland",
+        "url": "https://www.tagesschau.de/inland/regional/saarland/sr-kampfjet-stuerzt-bei-nancy-ab--mindestens-ein-toter-102.html",
+        "date": "2026-10-21T11:09:00.000Z"
+      }
+    ],
+    "url": "https://www.welt.de/vermischtes/article6ad8dbae2c40700de0800e91/frankreich-kampfjet-stuerzt-ab-anwohner-berichten-von-heftiger-explosion-und-feuerball-mindestens-ein-toter.html",
+    "agree": "Die Quellen stimmen überein, dass ein Kampfjet in Frankreich bei einer Übung abgestürzt ist und es mindestens einen Toten gegeben hat.",
+    "diff": [
+      {
+        "name": "Tagesschau Regional Saarland",
+        "note": "nennt den genauen Absturzort nahe Nancy, den Zeitpunkt am späten Dienstagabend, die Suche nach dem zweiten Insassen sowie die noch unklare Unfallursache."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-b9a731c027904879",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-21T15:40:31.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Russischer Kampfjet stürzt in der Exklave Kaliningrad ab",
+    "s": "In der russischen Exklave Kaliningrad ist ein Kampfjet vom Typ Su-30 abgestürzt. Der Kreml hat sich zudem zu möglichen Verhandlungen mit Kiew geäußert. Weitere Details zu dem Absturz und den politischen Reaktionen wurden im Rahmen eines Newsblogs veröffentlicht.",
+    "m": "Ein Kampfjet des Typs Su-30 ist in der russischen Exklave Kaliningrad abgestürzt. Über die genaue Absturzursache sowie mögliche Opfer oder Schäden am Boden liegen bislang keine näheren Informationen vor. Parallel zu diesem Vorfall äußerte sich der Kreml zu Verhandlungen mit der Ukraine. Die Meldung ist Teil eines fortlaufenden Newsblogs zum Ukraine-Krieg, der aktuelle Entwicklungen und Nachrichten bündelt. Die genauen Umstände des Flugzeugabsturzes müssen im weiteren Verlauf durch offizielle Stellen geklärt werden.",
+    "r": "Der Absturz eines russischen Kampfjets in einer sensiblen Exklave sowie offizielle Aussagen des Kremls zu Verhandlungen sind militärisch und politisch bedeutsam. Die Ereignisse beleuchten die anhaltende militärische Präsenz und die diplomatischen Positionen im Kontext des Ukraine-Krieges.",
+    "srcs": [
+      {
+        "name": "t-online Nachrichten",
+        "url": "https://www.t-online.de/nachrichten/ukraine/id_101487440/ukraine-krieg-news-russischer-kampfjet-stuerzt-ueber-kaliningrad-ab.html",
+        "date": "2026-10-21T15:40:31.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOUhTVGVLOGVHcUk1UnZjMDBOa3pIeHlRR3RaazVsVk92OGRGRzRGc3F3RFhsd1VuMS1wZFdMQzkzQUZtSDRXcC1wYmVkSDE0R1dxSm5pNmhYVFFoVGJXM2lrbnRqUzRoLVhqSlBJUzhiRXRzZHhGbFd2NUstczhJdFpwMmtTb2lFTTVCQkVOTS05MkFIdzZaRjJmTmUtUTZ0UXdzbkYzUy05U1MyWm43aHBCVFJhV2c5YmkxU3FLeGgyYWV1SGsweg?oc=5",
+        "date": "2026-10-21T15:40:00.000Z"
+      }
+    ],
+    "url": "https://www.t-online.de/nachrichten/ukraine/id_101487440/ukraine-krieg-news-russischer-kampfjet-stuerzt-ueber-kaliningrad-ab.html",
+    "agree": "Die Quellen stimmen überein, dass ein russischer Kampfjet des Typs Su-30 in Kaliningrad abgestürzt ist und der Kreml sich zu Verhandlungen mit Kiew geäußert hat.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Verweist lediglich auf den Artikel von T-Online und nennt keine eigenständigen Zusatzinformationen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-2d77000eb34079b7",
+    "c": "DE",
+    "o": "DE",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-21T15:22:29.000Z",
+    "p": 3,
+    "st": "BY",
+    "city": "",
+    "t": "FC Bayern muss im Champions-League-Spiel gegen Arsenal auf Joshua Kimmich verzichten",
+    "s": "Der FC Bayern München muss im wichtigen Champions-League-Heimspiel gegen den FC Arsenal auf Joshua Kimmich verzichten. Grund für den Ausfall des Mittelfeldspielers ist ein Trauerfall in der Familie. Kimmich fehlte bereits beim abschließenden Training der Mannschaft.",
+    "m": "Joshua Kimmich steht dem FC Bayern München für das Champions-League-Duell gegen den FC Arsenal nicht zur Verfügung. Der Rekordmeister gab bekannt, dass der Nationalspieler wegen eines Trauerfalls im engsten Familienkreis ausfällt. Bereits im Abschlusstraining vor der Partie war Kimmich nicht anwesend. Neben Kimmich haben die Münchner weitere Ausfälle gegen die Londoner zu verzeichnen, wobei in den Meldungen keine Details zu den übrigen fehlenden Spielern genannt werden. Der Ausfall wiegt schwer für die Mannschaft im wichtigen europäischen Wettbewerb.",
+    "r": "Der Ausfall eines Stammspielers im entscheidenden Champions-League-Spiel schwächt die sportliche Aufstellung des FC Bayern München. Der Trauerfall im familiären Umfeld macht den Einsatz für den Nationalspieler unmöglich.",
+    "srcs": [
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/sport/trauerfall-in-familie-kimmich-fehlt-fc-bayern-gegen-arsenal-NPJNAKYB2VBMRCGDVRYVU5HHEM.html",
+        "date": "2026-10-21T15:22:29.000Z"
+      },
+      {
+        "name": "Süddeutsche Zeitung",
+        "url": "https://www.sueddeutsche.de/sport/champions-league-joshua-kimmich-trauerfall-fc-bayern-arsenal-li.3566904",
+        "date": "2026-10-21T10:50:44.000Z"
+      },
+      {
+        "name": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/sport/fc-bayern-kimmich-fehlt-wegen-trauerfalls-im-champions-league-spiel-gegen-arsenal,VYfvhdf",
+        "date": "2026-10-21T10:03:06.000Z"
+      }
+    ],
+    "url": "https://www.rnd.de/sport/trauerfall-in-familie-kimmich-fehlt-fc-bayern-gegen-arsenal-NPJNAKYB2VBMRCGDVRYVU5HHEM.html",
+    "agree": "Die Quellen sind sich einig, dass Joshua Kimmich dem FC Bayern München im Spiel gegen den FC Arsenal wegen eines Trauerfalls in der Familie fehlt.",
+    "diff": [
+      {
+        "name": "RND",
+        "note": "Erwähnt zusätzlich, dass Kimmich heute Abend nicht dabei sein wird."
+      },
+      {
+        "name": "Süddeutsche Zeitung",
+        "note": "Berichtet, dass Kimmich nicht der einzige Ausfall gegen die Londoner ist."
+      },
+      {
+        "name": "BR24 Bayern",
+        "note": "Zitiert die Mitteilung des Rekordmeisters bezüglich des Trauerfalls im 'engsten Familienkreis'."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
+    "id": "story-2c174d31b2203488",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-21T15:16:35.000Z",
+    "p": 3,
+    "st": "BY",
+    "city": "",
+    "t": "Pläne für ein \"Deutschlandticket light\" vorerst gestoppt",
+    "s": "Ein von Hamburg und Nordrhein-Westfalen vorgeschlagenes \"Deutschlandticket light\" für Gelegenheitsfahrer ist bei der Verkehrsministerkonferenz vorerst nicht weiter verfolgt worden. Das Vorhaben stand zur Beratung auf der Agenda, wurde jedoch wieder verworfen. Damit wird es vorerst kein solches vergünstigtes Angebot für gelegentliche Bus- und Bahnfahrer geben.",
+    "m": "Die Idee des \"Deutschlandticket light\" zielte darauf ab, ein attraktives Angebot speziell für gelegentliche Bus- und Bahnfahrer zu schaffen. Hamburg und Nordrhein-Westfalen hatten diesen Vorschlag eingebracht, um ihn bei der aktuellen Verkehrsministerkonferenz zur Diskussion zu stellen. Nach vorliegenden Informationen nahmen die Verkehrsminister das Thema jedoch bei ihrer Tagung im Allgäu von der Tagesordnung. Damit ist das Vorhaben vorerst vom Tisch, und es bleibt unklar, ob eine solche Ticketvariante zu einem späteren Zeitpunkt erneut geprüft wird. Konkrete Details zur genauen Ausgestaltung oder einem möglichen Preis wurden im Rahmen der Absage nicht weiter bekannt gegeben.",
+    "r": "Das Verwerfen des Vorschlags betrifft die Tarifstruktur und künftige Angebote im öffentlichen Nahverkehr in Deutschland. Die Entscheidung der Verkehrsministerkonferenz zeigt, dass es derzeit keinen Konsens oder keine Weiterverfolgung für spezielle Varianten wie das Gelegenheitsfahrerticket gibt.",
+    "srcs": [
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/inland/deutschlandticket-light-kommt-nicht-100.html",
+        "date": "2026-10-21T15:16:35.000Z"
+      },
+      {
+        "name": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/verkehrsminister-deutschlandticket-light-kommt-vorerst-nicht,VYgcWBn",
+        "date": "2026-10-21T14:24:52.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/deutschlandticket-light-kommt-nicht-100.html",
+    "agree": "Die Quellen stimmen überein, dass das vorgeschlagene \"Deutschlandticket light\" für Gelegenheitsfahrer, das von Hamburg und Nordrhein-Westfalen eingebracht wurde, bei der Verkehrsministerkonferenz vorerst nicht weiterverfolgt wird.",
+    "diff": [
+      {
+        "name": "BR24 Bayern",
+        "note": "Berichtet ergänzend, dass die Verkehrsministerkonferenz im Allgäu stattfand und das Thema nach internen Informationen von der Tagesordnung genommen wurde."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-029e68489ca911f1",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-21T15:08:58.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Bundeswehr verschickt Fragebögen zum Wehrdienst für junge Männer",
+    "s": "Seit Januar verschickt die Bundeswehr Fragebögen an junge Menschen ab 18 Jahren, um das Interesse am Wehrdienst zu ermitteln. Die Maßnahme ist eine Reaktion darauf, dass die Streitkräfte händeringend Nachwuchs suchen. Während die Teilnahme für junge Frauen freiwillig ist, sind junge Männer gesetzlich zur Antwort verpflichtet. Bei Verweigerung drohen Bußgelder.",
+    "m": "Die Bundeswehr hat im Januar eine neue Offensive zur Nachwuchsgewinnung gestartet und verschickt seither Fragebögen an alle jungen Menschen, die das 18. Lebensjahr vollendet haben. Ziel dieser Befragung ist es, das tatsächliche Interesse an einer freiwilligen Tätigkeit bei den Streitkräften auszuloten und potenzielle Rekruten zu identifizieren. Das Vorgehen unterscheidet sich dabei nach Geschlecht: Während die Teilnahme für Frauen auf freiwilliger Basis erfolgt, sind junge Männer zur Beantwortung des Fragebogens verpflichtet. Wer diesen Aufruf ignoriert und nicht antwortet, muss mit rechtlichen Konsequenzen in Form eines Bußgeldes rechnen. Nach Angaben der Berichterstattung sind hierbei Geldstrafen von bis zu 250 Euro möglich. Die Maßnahme verdeutlicht die anhaltenden Probleme der Bundeswehr bei der Personalgewinnung und dem Schließen von Personal- und Lücken im Nachwuchsbereich.",
+    "r": "Die Maßnahme betrifft die grundsätzliche Ausrichtung der deutschen Verteidigungspolitik und die Rekrutierung von Streitkräften. Die Durchsetzung der Antwortpflicht mit Bußgeldern stellt einen neuen behördlichen Schritt zur Bewältigung des Nachwuchsmangels dar.",
+    "srcs": [
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/politik/Bundeswehr-Fragebogen-Bei-Nichtantwort-droht-ein-Bussgeldverfahren-id31443266.html",
+        "date": "2026-10-21T15:08:58.000Z"
+      },
+      {
+        "name": "t-online Nachrichten",
+        "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101491580/wehrdienst-wird-der-bundeswehr-fragebogen-ignoriert-droht-ein-bussgeld.html",
+        "date": "2026-10-21T14:40:42.000Z"
+      }
+    ],
+    "url": "https://www.n-tv.de/politik/Bundeswehr-Fragebogen-Bei-Nichtantwort-droht-ein-Bussgeldverfahren-id31443266.html",
+    "agree": "Die Quellen sind sich einig, dass die Bundeswehr seit Januar Fragebögen an junge Menschen ab 18 Jahren zum Wehrdienst verschickt, dass Männer zur Beantwortung verpflichtet sind und dass bei Missachtung ein Bußgeld droht.",
+    "diff": [
+      {
+        "name": "ntv",
+        "note": "nennt die konkrete Höhe der möglichen Strafe von bis zu 250 Euro"
+      },
+      {
+        "name": "t-online Nachrichten",
+        "note": "gibt an, dass bei Ignorieren des Fragebogens ein Bußgeld droht, nennt jedoch keine konkrete Summe"
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-4342b05add75c9e3",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-21T14:33:04.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Russland zeigt sich bei US-Vorschlägen für Kriegsende unkompromissbereit",
+    "s": "Russland hat Vorschläge der USA für ein Kriegsende in der Ukraine abgelehnt, zeigt sich laut Medienberichten jedoch im Prinzip verhandlungsbereit. Bisherige Gespräche über einen Waffenstillstand scheiterten vor allem an den Maximalforderungen Moskaus.",
+    "m": "Alle bisherigen Gespräche mit Russland über einen Waffenstillstand oder Frieden in den vergangenen Jahren sind am Beharren Moskaus auf Maximalforderungen gescheitert. Trotz aktueller Berichte über eine angebliche Verhandlungsbereitschaft im Prinzip hat Russland die jüngsten Vorschläge der USA für ein Kriegsende vom Tisch gefegt. Es könnte bald eine weitere Runde von Gesprächen geben, jedoch ist eine Kompromissbereitschaft des Kremls nach wie vor nicht erkennbar.",
+    "r": "Die Meldung ist relevant, da sie den aktuellen Stand der diplomatischen Bemühungen und die Haltung Russlands zu US-Vorschlägen für ein Kriegsende beleuchtet.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY0xpenV3MklJS25aclpJOV8wV2xETjUwVTVpRWl2SGtKV1BBM29KNTk0LVptNUp5cVltNi1EQjNOR1cyUDZka0x2eWw5WmJXSVZoaEdpT0JIU2Z4Y1BCb0VnN051N0szanMtVHBmS0NBSWJsTUVTbTNpdm4wOVBaVlJIMzRXalprR0VKQWRsOVlzQnpwcmFlWXZZVU52SndGbWttajVsZHNaY2s?oc=5",
+        "date": "2026-10-21T14:33:04.000Z"
       },
       {
         "name": "ntv",
-        "url": "https://www.n-tv.de/panorama/Alice-Schwarzer-stellt-Magazin-Emma-ein-id31441054.html",
-        "date": "2026-10-21T06:02:46.000Z"
-      },
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/news/2026-10/21/alice-schwarzer-stellt-magazin-emma-ein",
-        "date": "2026-10-21T06:00:06.000Z"
+        "url": "https://www.n-tv.de/politik/Russland-fegt-Vorschlaege-der-USA-fuer-ein-Kriegsende-vom-Tisch-id31443407.html",
+        "date": "2026-10-21T14:33:04.000Z"
       }
     ],
-    "url": "https://www.rnd.de/medien/aus-nach-50-jahren-alice-schwarzer-stellt-magazin-emma-ein-J4J2ZXRSEVFKZLJW7A4RU3BCDU.html",
-    "agree": "Alle Quellen stimmen überein, dass Alice Schwarzer ihr Magazin Emma nach 50 Jahren einstellt und die letzte Ausgabe am 8. Dezember erscheint.",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY0xpenV3MklJS25aclpJOV8wV2xETjUwVTVpRWl2SGtKV1BBM29KNTk0LVptNUp5cVltNi1EQjNOR1cyUDZka0x2eWw5WmJXSVZoaEdpT0JIU2Z4Y1BCb0VnN051N0szanMtVHBmS0NBSWJsTUVTbTNpdm4wOVBaVlJIMzRXalprR0VKQWRsOVlzQnpwcmFlWXZZVU52SndGbWttajVsZHNaY2s?oc=5",
+    "agree": "Die Quellen stimmen überein, dass Russland grundsätzlich Verhandlungsbereitschaft signalisiert, aber gleichzeitig US-Vorschläge für ein Kriegsende ablehnt und keine Kompromissbereitschaft erkennen lässt.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Berichtet in der Überschrift, dass Russland Vorschläge der USA für ein Kriegsende vom Tisch fegt."
+      },
+      {
+        "name": "ntv",
+        "note": "Erwähnt zusätzlich, dass alle Gespräche in den vergangenen Jahren an Moskaus Maximalforderungen gescheitert sind und bald eine weitere Runde folgen könnte."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-a1f1b1603fc6c8d9",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-21T14:28:46.000Z",
+    "p": 2,
+    "st": "BW",
+    "city": "",
+    "t": "Polizeieinsatz an Bahnhof in Kernen-Rommelshausen beendet",
+    "s": "In Kernen-Rommelshausen im Rems-Murr-Kreis hat es einen größeren Polizeieinsatz gegeben. Auslöser war ein Notruf über einen bewaffneten Mann am Bahnhof. Die Polizei konnte einen verdächtigen Mann festnehmen.",
+    "m": "Der Polizeieinsatz in Kernen-Rommelshausen im Rems-Murr-Kreis wurde erfolgreich beendet. Zuvor war bei der Polizei über den Notruf die Meldung eingegangen, dass sich eine Person mit einer Pistole am Bahnhof aufhalte. Daraufhin rückte die Polizei zu dem Einsatz aus. Der gemeldete Verdächtige konnte im Zuge der Maßnahmen angetroffen und festgenommen werden. Nach seiner Festnahme wurde der Verdächtige in eine Klinik gebracht. Weitere Details zu seiner Identität, dem genauen Hergang oder eventuellen Verletzten wurden zunächst nicht bekannt gegeben.",
+    "r": "Der Vorfall verdeutlicht das schnelle Eingreifen der Polizei bei bewaffneten Bedrohungen an öffentlichen Orten. Solche Großeinsätze an Bahnhöfen beeinträchtigen kurzzeitig die öffentliche Sicherheit und erfordern präge Koordination.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/kernen-im-remstal-rommelshausen-polizeieinsatz-notruf-pistole-100.html",
+        "date": "2026-10-21T14:28:46.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Baden-Württemberg",
+        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-kernen-im-remstal-polizeieinsatz-am-bahnhof-person-mit-pistole-gesichtet-100.html",
+        "date": "2026-10-21T13:20:00.000Z"
+      }
+    ],
+    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/kernen-im-remstal-rommelshausen-polizeieinsatz-notruf-pistole-100.html",
+    "agree": "Beide Quellen berichten übereinstimmend über einen Polizeieinsatz in Kernen-Rommelshausen am Bahnhof nach einem Notruf wegen eines bewaffneten Mannes sowie über die Festnahme des Verdächtigen in einer Klinik.",
     "diff": [],
     "chg": "",
-    "independent": 4
+    "independent": 2
+  },
+  {
+    "id": "story-f15935106f6e4ca9",
+    "c": "INT",
+    "o": "INT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-21T14:12:15.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "US-Kongresskandidat Brad Lander nach Festnahme im Westjordanland freigelassen",
+    "s": "Der demokratische US-Kongresskandidat Brad Lander ist nach einer Festnahme durch israelische Streitkräfte im Westjordanland wieder frei. Lander und eine Gruppe von US-amerikanischen und israelischen Aktivisten hatten palästinensische Landwirte bei der Olivenernte unterstützt. Dutzende weitere Personen verbleiben nach Angaben von Lander in israelischem Gewahrsam.",
+    "m": "Der Vorfall ereignete sich im besetzten Westjordanland, wo palästinensische Bauern traditionell Hilfe bei der Ernte erhalten. Neben Brad Lander waren etwa 80 US-amerikanische und israelische Rabbiner sowie Aktivisten an der Aktion beteiligt. Die Gruppe wurde während ihrer Unterstützung für die palästinensischen Olivenbauern von israelischen Kräften festgesetzt. Während Lander inzwischen freigelassen wurde, befinden sich nach seinen Aussagen noch immer Dutzende Beteiligte in israelischem Gewahrsam. Die Hintergründe und der genaue rechtliche Status der verbleibenden Inhaftierten sind Gegenstand der Berichterstattung. Bislang gibt es keine offiziellen Stellungnahmen der israelischen Behörden zu den genauen Gründen der Festnahmen der US-Bürger und Aktivisten.",
+    "r": "Die Festnahme von US-Bürgern und einem Kongresskandidaten im Westjordanland durch israelische Streitkräfte berührt diplomatische und sicherheitspolitische Fragen. Der Vorfall ereignete sich im Kontext der ohnehin angespannten Situation bei der palästinensischen Olivenernte.",
+    "srcs": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/21/us-congressional-candidate-brad-lander-freed-after-west-bank-detention?traffic_source=rss",
+        "date": "2026-10-21T14:12:15.000Z"
+      },
+      {
+        "name": "NPR World",
+        "url": "https://www.npr.org/2026/10/21/nx-s1-6010460/brad-lander-detained-west-bank-israel-palestinians",
+        "date": "2026-10-21T13:28:04.000Z"
+      }
+    ],
+    "url": "https://www.aljazeera.com/news/2026/10/21/us-congressional-candidate-brad-lander-freed-after-west-bank-detention?traffic_source=rss",
+    "agree": "Die Quellen stimmen überein, dass der US-Kongresskandidat Brad Lander zusammen mit anderen Personen im Westjordanland von israelischen Kräften festgenommen wurde, während sie palästinensische Olivenbauern unterstützten.",
+    "diff": [
+      {
+        "name": "Al Jazeera",
+        "note": "Berichtet, dass Dutzende Menschen weiterhin in israelischem Gewahrsam sind, und erwähnt Lander als Sprecher für diese Information."
+      },
+      {
+        "name": "NPR World",
+        "note": "Nennt die genaue Zahl von etwa 80 US-amerikanischen und israelischen Rabbinern und Aktivisten, die an der Seite von Lander beteiligt waren."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-404a6b93de7d122a",
+    "c": "INT",
+    "o": "PT",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-21T12:49:23.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Portugal: Zinsen für Wohnungsbaudarlehen steigen im September auf Jahreshöchstwert",
+    "s": "Die Zinsen für Wohnungsbaudarlehen in Portugal sind im September weiter gestiegen. Laut dem Statistikinstitut INE kletterte der durchschnittliche Zinssatz für alle Verträge im vierten Monat in Folge nach oben. Damit wurde der höchste Stand seit einem Jahr erreicht.",
+    "m": "Das portugiesische Statistikinstitut INE hat bekannt gegeben, dass die implizite Zinssatz für die Gesamtheit der Wohnungsbaudarlehensverträge im September gestiegen ist. Der Wert erreichte 3,194 Prozent. Dieser Anstieg markiert den vierten Monat in Folge, in dem die Zinsen für Immobilienkredite zulegen, und führt zum höchsten Stand seit zwölf Monaten. Die Entwicklung belastet weiter die Haushalte mit variablen und bestehenden Finanzierungen. Weitere Details zum genauen Volumen der Neuvergabe oder regionalen Unterschieden wurden in den Berichten nicht genannt.",
+    "r": "Die Entwicklung der Baufinanzierungszinsen ist ein wichtiger Indikator für die finanzielle Belastung privater Haushalte und die geldpolitische Lage in Portugal. Da die Zinsen den höchsten Stand seit einem Jahr erreicht haben, sind spürbare Auswirkungen auf den Immobiliensektor und den Konsum zu erwarten.",
+    "srcs": [
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYWFkc0NMRGxITEVOREliX25pWEdqU1NGSXdQYmNPV1M1Q0xxNTNPQWtzdGxkUWZNTTN5U2ctTHUwSDFQVHdXYUkzS1o2ZnJ5c3VsTk1oZmFHZDZOcEg3eGxrOFF6VGdqMEhWeXZxazlzNmpMa2p6UEFHbHFfYkFxV3lDX3hOS1F1UWZmQUNZdDJBQlFJcVIyeWZhM0dEWUtPZWc0Z3VLRWlJZTlpR3BCMlVic040LTEzc3c3Y2FYT0ZxTVpyTVE?oc=5",
+        "date": "2026-10-21T12:49:23.000Z"
+      },
+      {
+        "name": "RTP Economia",
+        "url": "https://www.rtp.pt/noticias/economia/taxa-de-juro-no-credito-a-habitacao-sobe-em-setembro-para-valor-mais-alto-num-ano_n1773192",
+        "date": "2026-10-21T11:18:44.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYWFkc0NMRGxITEVOREliX25pWEdqU1NGSXdQYmNPV1M1Q0xxNTNPQWtzdGxkUWZNTTN5U2ctTHUwSDFQVHdXYUkzS1o2ZnJ5c3VsTk1oZmFHZDZOcEg3eGxrOFF6VGdqMEhWeXZxazlzNmpMa2p6UEFHbHFfYkFxV3lDX3hOS1F1UWZmQUNZdDJBQlFJcVIyeWZhM0dEWUtPZWc0Z3VLRWlJZTlpR3BCMlVic040LTEzc3c3Y2FYT0ZxTVpyTVE?oc=5",
+    "agree": "Beide Quellen stimmen überein, dass die Zinsen für Wohnungsbaudarlehen in Portugal im September auf den höchsten Wert seit einem Jahr gestiegen sind.",
+    "diff": [
+      {
+        "name": "RTP Economia",
+        "note": "nennt den genauen Zinssatz von 3,194 Prozent, die Angabe, dass der Wert im vierten Monat in Folge stieg, sowie das INE als Quelle"
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-aefdd22030caab99",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-21T11:48:22.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Bundesregierung plant bessere Absicherung von Häusern gegen Naturgefahren",
+    "s": "Gegen Schäden durch Naturkatastrophen wie Hochwasser, Starkregen oder Erdbeben sind Gebäude in Deutschland bislang nicht standardmäßig versichert. Die Bundesregierung möchte diesen Zustand ändern und hat dazu ein erstes Eckpunktepapier vorgelegt.",
+    "m": "Das Thema Elementarschadenversicherung rückt stärker in den Fokus der Politik. Bisher sind viele Wohngebäude in Deutschland nicht automatisch gegen Naturgefahren wie Überschwemmungen oder Erdbeben abgesichert, was nach Schadensereignissen oft zu großen finanziellen Problemen für Eigentümer führt. Die Bundesregierung hat nun ein erstes Papier mit konkreten Eckpunkten erarbeitet, um hier Abhilfe zu schaffen. Das Vorhaben soll den Schutz der Bürger verbessern und die Folgen extremer Wetterereignisse abfedern. Details zu einer möglichen Pflichtversicherung oder konkreten Vertragsmodellen gehen aus den vorliegenden Informationen zu den Eckpunkten jedoch noch nicht hervor. Das Papier markiert den Beginn eines neuen politischen Anlaufs zur Reform des Gebäudeschutzes gegen Naturgefahren.",
+    "r": "Die Reformvorhaben der Bundesregierung zur Absicherung von Wohngebäuden gegen Naturgefahren sind von gesamtgesellschaftlicher und wirtschaftlicher Relevanz für alle Hausbesitzer in Deutschland.",
+    "srcs": [
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/inland/innenpolitik/versicherungen-naturkatastrophen-100.html",
+        "date": "2026-10-21T11:48:22.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS2FXN2RCQl9OSXFsMlFmOE9xQkdLYXFkeXRtcVhxZWxOQ2RCalBDa1VwNjNoQ1JnX2RuUV95YmNiUTlVbnpUM0RFcWl2a1NQVGE2aTBKX2hFZkxXRjAzX0tiS3N1NGV5SktreW9nRHZqZ2FVcWZ3M3lRUHZaZUdoMmJLQmdxZXZpUm52MnppWGc?oc=5",
+        "date": "2026-10-21T11:48:00.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/innenpolitik/versicherungen-naturkatastrophen-100.html",
+    "agree": "Beide Quellen stimmen überein, dass die Bundesregierung ein Eckpunktepapier vorgelegt hat, um Häuser besser gegen Naturgefahren zu versichern.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Verweist lediglich per Hyperlink auf den entsprechenden Bericht der Tagesschau."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-fb54227165635bc8",
+    "c": "INT",
+    "o": "INT",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-21T10:39:33.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Rettungsversuch für gestrandeten Haifisch in südkoreanischem Kanal",
+    "s": "In Südkorea haben Schaulustige den dritten Rettungsversuch für einen in einem Kanal gestrandeten Haifisch verfolgt. Das Tier hat seit seiner Entdeckung ein großes Publikum angelockt. Behörden versuchen, den Fisch zurück ins offene Meer zu leiten.",
+    "m": "In der südkoreanischen Stadt Busan haben die Behörden einen dritten Versuch unternommen, einen gestrandeten Haifisch aus einem Kanal zurück in das offene Meer zu leiten. Der etwa drei Meter beziehungsweise drei Fuß und zehn Zoll lange Hai hat seit Beginn der Aktion schätzungsweise über eine Million Besucher und Schaulustige angezogen, die das Geschehen vor Ort beobachteten. Bislang blieb unklar, warum sich das Tier in den Kanal verirrt hat und ob der aktuelle Rettungsversuch erfolgreich war. Die Situation hat sich aufgrund der großen Menschenmassen zu einer öffentlichkeitswirksamen Begebenheit entwickelt. Weitere Details zum genauen Ablauf des Einsatzes und zum Zustand des Tieres wurden von den Behörden zunächst nicht bekannt gegeben.",
+    "r": "Die Meldung ist relevant, da der ungewöhnliche Rettungseinsatz eines Großmeeresbewohners in einem städtischen Kanal ein massives öffentliches Interesse mit über einer Million Schaulustigen hervorgerufen hat.",
+    "srcs": [
+      {
+        "name": "Euronews",
+        "url": "https://www.euronews.com/video/2026/10/21/large-crowds-watch-as-rescuers-try-to-save-stranded-shark-in-south-korea",
+        "date": "2026-10-21T10:39:33.000Z"
+      },
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-21T08:19:32.000Z"
+      }
+    ],
+    "url": "https://www.euronews.com/video/2026/10/21/large-crowds-watch-as-rescuers-try-to-save-stranded-shark-in-south-korea",
+    "agree": "Beide Quellen stimmen darin überein, dass in Südkorea ein dritter Versuch gestartet wurde, einen im Kanal gestrandeten Haifisch unter Beobachtung großer Menschenmassen ins offene Meer zu retten.",
+    "diff": [
+      {
+        "name": "Euronews",
+        "note": "Erwähnt die Stadt Busan als Ort des Geschehens sowie die Zahl von über einer Million Besuchern."
+      },
+      {
+        "name": "BBC World",
+        "note": "Nennt die genaue Länge des Haifischs von 9 Fuß 10 Zoll beziehungsweise 3 Metern."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-6465a311fa52daa8",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-21T10:31:24.000Z",
+    "p": 2,
+    "st": "BW",
+    "city": "",
+    "t": "Unbekannter wirft Hammer auf A6 durch Autoscheibe einer Familie",
+    "s": "Auf der Autobahn 6 ist am Montagabend ein Hammer durch die Frontscheibe eines Autos geflogen. Die Fahrerin war zu diesem Zeitpunkt mit ihren zwei Kleinkindern in Richtung Mannheim unterwegs. Bisher gibt es keine Berichte über Verletzte.",
+    "m": "Der Vorfall ereignete sich am Montagabend auf der A6. Eine Mutter war mit ihren kleinen Kindern im Auto in Richtung Mannheim unterwegs, als plötzlich ein Hammer durch die Autoscheibe flog. Weitere Details zum genauen Hergang, zum Täter, zu den Hintergründen oder zu möglichen Verletzungen nennen die vorliegenden Berichte nicht. Die Polizei ermittelt zu dem gefährlichen Vorfall auf der Autobahn.",
+    "r": "Gegenstände, die während der Fahrt durch Autoscheiben fliegen, stellen eine erhebliche Gefahr für den Straßenverkehr und die Insassen dar. Der Vorfall auf der A6 zeigt das Risiko solcher Einwirkungen und macht polizeiliche Ermittlungen erforderlich.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell Baden-Württemberg",
+        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/heilbronn/hammer-von-lkw-auf-a6-heilbronn-fliegt-durch-autoscheibe-von-familie-polizei-sucht-zeugen-100.html",
+        "date": "2026-10-21T10:31:24.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Baden-Württemberg",
+        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-familie-mit-kleinkindern-im-auto-auf-a6-hammer-fliegt-durch-scheibe-100.html",
+        "date": "2026-10-21T09:39:43.000Z"
+      }
+    ],
+    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/heilbronn/hammer-von-lkw-auf-a6-heilbronn-fliegt-durch-autoscheibe-von-familie-polizei-sucht-zeugen-100.html",
+    "agree": "Beide Quellen stimmen darin überein, dass am Montagabend auf der A6 ein Hammer in die Autoscheibe einer Frau geflogen ist, die mit zwei Kindern in Richtung Mannheim unterwegs war.",
+    "diff": [
+      {
+        "name": "SWR Aktuell Baden-Württemberg",
+        "note": "Beschreibt die betroffene Person als Mutter mit kleinen Kindern."
+      },
+      {
+        "name": "Tagesschau Regional Baden-Württemberg",
+        "note": "Bezeichnet die Insassen als Familie mit Kleinkindern."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-fe63a9486054d0f1",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-21T08:52:52.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Wer an den Ausschreitungen in Frankreich beteiligt war",
+    "s": "Die Gewalteskalation bei einem landesweiten Protesttag hat Frankreich schwer erschüttert. Im Fokus stehen dabei Fragen nach den Identitäten und Motiven der Randalierer und Plünderer. Für den Premierminister ist die Ursache klar, doch die Analyse zeigt ein komplexeres Bild. Die Berichterstattung beleuchtet die Hintergründe dieser schweren Ausschreitungen.",
+    "m": "Die gewalttätigen Auseinandersetzungen und Plünderungen im Rahmen des landesweiten Protesttages in Frankreich haben zu einer intensiven Debatte über die Verantwortlichen geführt. Premierminister und Regierung äußerten klare Einschätzungen zur Identität der Gewalttäter, während Experten und Journalisten vor Ort die Situation als deutlich vielschichtiger beschreiben. Bisher ist bekannt, dass die Unruhen das Land schwer erschüttert und weitreichende Sicherheitsfragen aufgeworfen haben. Die Hintergründe reichen von sozialen Spannungen bis hin zu gezielten Provokationen, deren genauer Hergang weiter untersucht wird. Die Reaktionen der politischen Akteure verdeutlichen die angespannte Lage im Land. Offene Fragen bleiben vor allem hinsichtlich der langfristigen Eindämmung solcher Gewaltwellen und der Verhinderung weiterer Eskalationen bei künftigen Demonstrationen.",
+    "r": "Die Ausschreitungen und die Frage nach den Verantwortlichen berühren grundlegende Fragen der inneren Sicherheit und des gesellschaftlichen Zusammenhalts in Frankreich. Die Ereignisse haben direkte Auswirkungen auf die politische Diskussion und die Strategien der Regierung im Umgang mit landesweiten Protesten.",
+    "srcs": [
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-120.html",
+        "date": "2026-10-21T08:52:52.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN3hfdXYxeTUzVlpwcWFsOEJReTZZX2JZVl80UVpVSEZzZ3BZX1NaZmEzMTg5dWhyQjRmdDRlSmROb1RZdXpJdlVHTjNpS3hTdjVRNWRSTUwzdmZUeVVYSm5NaXlBdTFkazZ1bEpKY3oxYXNMdFg2bHR0OENMSTlCblpn?oc=5",
+        "date": "2026-10-21T08:52:00.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-120.html",
+    "agree": "Beide Quellen berichten über die von der Tagesschau veröffentlichte Analyse zur Frage, wer an den Ausschreitungen in Frankreich beteiligt war.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Verweist direkt auf den Beitrag der Tagesschau und enthält den dazugehörigen HTML-Link zum Artikel."
+      }
+    ],
+    "chg": "",
+    "independent": 2
   },
   {
     "id": "story-f5230eab6b147712",
@@ -15056,1021 +16103,5 @@
     ],
     "chg": "",
     "independent": 3
-  },
-  {
-    "id": "story-0b0c2ba1953b5218",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-15T18:55:14.000Z",
-    "p": 3,
-    "st": "RP",
-    "city": "",
-    "t": "Schwerer Verkehrsunfall mit zwei Toten auf der A3 bei Diez",
-    "s": "Auf der Autobahn 3 in Fahrtrichtung Köln hat sich an der Anschlussstelle Diez ein schwerer Verkehrsunfall ereignet. Nach Angaben der Polizei kamen bei dem Unfall zwei Männer ums Leben. Nähere Details zum Hergang oder zu den beteiligten Fahrzeugen wurden zunächst nicht bekannt. Die Ermittlungen der Polizei dauern an.",
-    "m": "Der Unfall ereignete sich auf der A3 in Fahrtrichtung Köln an der Anschlussstelle Diez. Laut Polizei forderte das Unglück zwei Todesopfer, bei denen es sich um Männer handelte. Weitere Angaben zu beteiligten Autos, der genauen Unfallursache oder möglichen Verletzten wurden in den Berichten bisher nicht gemacht. Auch zur Dauer von Sperrungen oder Rettungsmaßnahmen liegen keine offiziellen Informationen vor. Die örtliche Polizei hat die Ermittlungen aufgenommen, um den genauen Ablauf des Geschehens zu klären.",
-    "r": "Der Unfall mit zwei Todesfällen auf einer wichtigen deutschen Autobahn hat unmittelbare Auswirkungen auf die Sicherheit und den Verkehr in der Region. Solche Vorfälle erfordern polizeiliche Ermittlungen zur Klärung der Unfallursache.",
-    "srcs": [
-      {
-        "name": "SWR Aktuell Rheinland-Pfalz",
-        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/koblenz/schwerer-verkehrsunfall-a3-diez-100.html",
-        "date": "2026-10-15T18:55:14.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Rheinland-Pfalz",
-        "url": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-schwerer-verkehrsunfall-auf-der-a3-bei-diez-100.html",
-        "date": "2026-10-15T18:51:00.000Z"
-      }
-    ],
-    "url": "https://www.swr.de/swraktuell/rheinland-pfalz/koblenz/schwerer-verkehrsunfall-a3-diez-100.html",
-    "agree": "Beide Quellen stimmen überein, dass es auf der A3 in Fahrtrichtung Köln an der Anschlussstelle Diez einen schweren Verkehrsunfall mit zwei Toten gab.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-2399040cbdae7db5",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-15T18:46:22.000Z",
-    "p": 2,
-    "st": "RP",
-    "city": "",
-    "t": "Nächtliche Räumung des Hotels in der Edelsteinbörse Idar-Oberstein",
-    "s": "Die Stadt Idar-Oberstein hat mitten in der Nacht die Hotelgäste aus der Edelsteinbörse vor die Tür gesetzt. Trotz bekannter Brandschutzmängel hatte das Hotel die Gäste zuvor einchecken lassen. Die Maßnahme erfolgte um Mitternacht.",
-    "m": "Die Stadtverwaltung von Idar-Oberstein griff zu drastischen Mitteln und ließ ein Hotel in der Edelsteinbörse um Mitternacht räumten. Die betroffenen Gäste mussten ihre Zimmer mitten in der Nacht unverzüglich verlassen. Hintergrund des Einsatzes sind schwerwiegende Brandschutzmängel im Gebäude, die den Behörden bereits bekannt waren. Dennoch hatte das Hotel den Betrieb aufrechterhalten und neue Gäste einchecken lassen, was die Stadt zum Einschreiten zwang. Bislang ist unklar, wie viele Personen genau betroffen sind und welche langfristigen Konsequenzen dem Hotelbetreiber drohen. Auch Informationen über die Organisation von Ersatzunterkünften für die evakuierten Gäste gehen aus den Berichten nicht hervor.",
-    "r": "Der nächtliche Polizeieinsatz beziehungsweise die behördliche Räumung verdeutlicht das Risiko von ignorierten Brandschutzauflagen im Hotelgewerbe. Die Vorfälle zeigen, dass Städte bei akuten Gefahren für Leib und Leben unmittelbar reagieren müssen.",
-    "srcs": [
-      {
-        "name": "SWR Aktuell Rheinland-Pfalz",
-        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/trier/edelsteinboerse-idar-oberstein-geraeumt-hotelgast-muss-mitten-in-der-nacht-raus-100.html",
-        "date": "2026-10-15T18:46:22.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Rheinland-Pfalz",
-        "url": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-raeumung-edelsteinboerse-hotelgast-muss-mitten-in-der-nacht-zimmer-verlassen-100.html",
-        "date": "2026-10-15T18:44:00.000Z"
-      }
-    ],
-    "url": "https://www.swr.de/swraktuell/rheinland-pfalz/trier/edelsteinboerse-idar-oberstein-geraeumt-hotelgast-muss-mitten-in-der-nacht-raus-100.html",
-    "agree": "Beide Quellen stimmen überein, dass die Stadt Idar-Oberstein die Hotelgäste in der Edelsteinbörse um Mitternacht vor die Tür setzen musste, weil das Hotel sie trotz bekannter Brandschutzmängel einchecken ließ.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-ccbf64e752881d5e",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-15T18:44:56.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "EZB erteilt Unicredit Genehmigung zur Übernahme der Commerzbank",
-    "s": "Die Europäische Zentralbank hat der italienischen Großbank Unicredit die Erlaubnis erteilt, ihre Beteiligung an der Commerzbank massiv auszubauen. Unicredit hat die entsprechende Genehmigung nach eigenen Angaben am Donnerstag erhalten. Die Commerzbank lehnte es zunächst ab, sich zu dem Schritt zu äußern.",
-    "m": "Die italienische Großbank Unicredit hat von der Europäischen Zentralbank grünes Licht für die Übernahme der Commerzbank erhalten. Nach eigenen Angaben hat die EZB erlaubt, die Beteiligung an dem Frankfurter Geldinstitut auf mehr als 30 Prozent und anschließend ohne Obergrenze zu erhöhen. Laut WELT wird der Ausbau des Anteils auf fast 50 Prozent ermöglicht, womit die italienische Bank die Kontrolle über den Dax-Konzern übernehmen kann. Die Commerzbank wollte sich auf Anfrage der Nachrichtenagentur AFP nicht zu den Vorgängen äußern. Die Entscheidung der EZB markiert einen entscheidenden Meilenstein für die grenzüberschreitende Bankenfusion in Europa. Offen bleibt, wie die genauen Schritte der Umsetzung und die Reaktionen des Managements sowie der Arbeitnehmervertreter der Commerzbank ausfallen werden.",
-    "r": "Die Genehmigung der EZB ist ein zentraler regulatorischer Schritt für die mögliche Übernahme eines großen deutschen Kreditinstituts durch eine ausländische Bank. Dies hat erhebliche Bedeutung für den deutschen Bankensektor und den Dax-Konzern Commerzbank.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/unicredit-erhaelt-gruenes-licht-der-ezb-fuer-uebernahme-der-commerzbank-100.html",
-        "date": "2026-10-15T18:44:56.000Z"
-      },
-      {
-        "name": "stern",
-        "url": "https://www.stern.de/news/unicredit-erhaelt-gruenes-licht-der-ezb-fuer-uebernahme-der-commerzbank-38404440.html",
-        "date": "2026-10-15T18:36:52.000Z"
-      },
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/wirtschaft/unternehmen/unicredit-commerzbank-ezb-100.html",
-        "date": "2026-10-15T18:29:55.000Z"
-      },
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/wirtschaft/article6ad11745a886e67335c3cf74/italienische-grossbank-ezb-gibt-unicredit-gruenes-licht-fuer-uebernahme-von-commerzbank.html",
-        "date": "2026-10-15T18:17:43.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/unicredit-erhaelt-gruenes-licht-der-ezb-fuer-uebernahme-der-commerzbank-100.html",
-    "agree": "Die Quellen stimmen überein, dass die italienische Großbank Unicredit die Genehmigung der EZB für eine Übernahme bzw. den Anteilsausbau an der Commerzbank erhalten hat.",
-    "diff": [
-      {
-        "name": "stern",
-        "note": "Die Commerzbank wollte sich auf Anfrage der Nachrichtenagentur AFP nicht äußern."
-      },
-      {
-        "name": "WELT",
-        "note": "Die EZB erlaubt den Ausbau des Anteils auf fast 50 Prozent, womit die Kontrolle über den Dax-Konzern übernommen werden kann."
-      },
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "note": "Kurze Meldung ohne weitere Details."
-      },
-      {
-        "name": "ZDF heute",
-        "note": "Kurze Meldung ohne weitere Details."
-      }
-    ],
-    "chg": "",
-    "independent": 4
-  },
-  {
-    "id": "story-6f1aabe8f12dd251",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-15T18:42:19.000Z",
-    "p": 2,
-    "st": "MV",
-    "city": "",
-    "t": "Zwei Sprachen, ein Team: Wie deutsche und polnische Polizisten auf Usedom zusammenarbeiten",
-    "s": "Auf der Insel Usedom arbeiten deutsche und polnische Polizisten eng zusammen. Um die gemeinsame Streifentätigkeit zu ermöglichen, haben die Beamten jeweils die Sprache des Nachbarlandes gelernt. Ein Beispiel dafür sind der deutsche Polizist Max Will und sein polnischer Kollege Grzegorz Krajewski.",
-    "m": "Die deutsch-polnische Polizeikooperation auf Usedom zeigt, wie grenzübergreifende Zusammenarbeit praktisch umgesetzt wird. Die Beamten Max Will und Grzegorz Krajewski absolvierten gegenseitig Sprachkurse, um Verständigungsprobleme im täglichen Dienst zu vermeiden. Dies erleichtert die gemeinsame Streife und den Umgang mit Bürgern und Vorfällen auf beiden Seiten der Grenze. Solche binomischen Teams stärken das Sicherheitsgefühl und die Effektivität der Strafverfolgung in der Grenzregion. Details über die genaue Häufigkeit der Streifengänge oder weitere beteiligte Beamte nennen die Berichte nicht.",
-    "r": "Das Projekt verdeutlicht die praktische Umsetzung der grenzübergreifenden polizeilichen Zusammenarbeit in der Grenzregion Usedom. Die Sprachkompetenz der Beamten bildet dabei die Grundlage für einen reibungslosen gemeinsamen Einsatz.",
-    "srcs": [
-      {
-        "name": "Tagesschau Regional Mecklenburg-Vorpommern",
-        "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/zwei-sprachen-ein-team-wie-deutsche-und-polnische-polizisten-auf-usedom-zusammenarbeiten,pomerania-102.html",
-        "date": "2026-10-15T18:42:19.000Z"
-      },
-      {
-        "name": "NDR Mecklenburg-Vorpommern",
-        "url": "https://www.ndr.de/fernsehen/sendungen/nordmagazin/zwei-sprachen-ein-team-polizisten-auf-usedom,nordmagazin-15060.html",
-        "date": "2026-10-15T18:30:31.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/zwei-sprachen-ein-team-wie-deutsche-und-polnische-polizisten-auf-usedom-zusammenarbeiten,pomerania-102.html",
-    "agree": "Beide Quellen stimmen überein, dass Max Will und Grzegorz Krajewski die Sprache des jeweils anderen gelernt haben, um gemeinsam auf Usedom auf Streife gehen zu können.",
-    "diff": [
-      {
-        "name": "Tagesschau Regional Mecklenburg-Vorpommern",
-        "note": "Nennt explizit die Nationalitäten der beiden Polizisten (der deutsche Polizist Max Will und sein polnischer Kollege)."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-8c8b8af112bcf348",
-    "c": "INT",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-15T18:37:00.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Tote nach heftigen Überschwemmungen in Istanbul",
-    "s": "Heftige Regenfälle haben in Istanbul zu schweren Überschwemmungen geführt. Dabei sind nach Behördenangaben mehrere Menschen ums Leben gekommen. Straßen stehen unter Wasser und zahlreiche Fahrzeuge stecken fest. Rettungskräfte und Behörden sind im Großeinsatz.",
-    "m": "In der türkischen Metropole Istanbul haben extreme Regenfälle schwere Überschwemmungen ausgelöst, die mindestens zwei Menschen das Leben kosteten. Die Wassermassen verwandelten Straßen in Flüsse, wodurch Fahrzeuge steckensaßen und der Verkehr stark behindert wurde. Die zuständigen Behörden und Rettungskräfte befinden sich im Großeinsatz, um den Betroffenen zu helfen und Schäden zu beseitigen. Meteorologen warnen unterdessen vor weiteren Unwettern. Auch in anderen Regionen der Türkei wird mit starkem Regen und möglichen Folgeschäden gerechnet.",
-    "r": "Die Meldung ist relevant wegen der eingetretenen Todesfälle und der massiven Verkehrsbehinderungen durch Überschwemmungen in einer Großstadt. Zudem drohen weitere Unwetter, die auch andere Regionen der Türkei betreffen könnten.",
-    "srcs": [
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/panorama/tuerkei-ueberschwemmungen-hochwasser-starkregen-tote-100.html",
-        "date": "2026-10-15T18:37:00.000Z"
-      },
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/asien/tuerkei-ueberschwemmungen-istanbul-100.html",
-        "date": "2026-10-15T15:25:32.000Z"
-      }
-    ],
-    "url": "https://www.zdfheute.de/panorama/tuerkei-ueberschwemmungen-hochwasser-starkregen-tote-100.html",
-    "agree": "Die Quellen stimmen überein, dass heftige Regenfälle in Istanbul zu Überschwemmungen und Todesfällen geführt haben.",
-    "diff": [
-      {
-        "name": "ZDF heute",
-        "note": "Nennt die konkrete Zahl von mindestens zwei Toten und erwähnt, dass auch in anderen Regionen der Türkei mit starkem Regen gerechnet wird."
-      },
-      {
-        "name": "Tagesschau",
-        "note": "Berichtet allgemein von mehreren Toten, beschreibt die Situation auf den Straßen mit steckengebliebenen Fahrzeugen und erwähnt, dass Behörden im Großeinsatz sind sowie neuer Starkregen droht."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-977055a609472c1f",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-15T18:33:40.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Alexander Duda verlässt \"Die Rosenheim-Cops\" nach rund zwei Jahrzehnten",
-    "s": "Nach rund zwei Jahrzehnten endet für Schauspieler Alexander Duda das Kapitel der Serie \"Die Rosenheim-Cops\". Der 71-Jährige verkörperte seit dem Jahr 2006 den Polizeidirektor Gert Achtziger. Berichten zufolge soll sein Serien-Ausstieg jedoch nicht freiwillig erfolgt sein.",
-    "m": "Der langjährige Darsteller Alexander Duda wird die ZDF-Serie \"Die Rosenheim-Cops\" verlassen und in den Ruhestand geschickt. Seit dem Jahr 2006 stand der 71-jährige Schauspieler für das Format vor der Kamera und prägte als Polizeidirektor Gert Achtziger maßgeblich das Geschehen. Nach rund zwanzig Jahren Dienstzeit in Rosenheim geht diese Ära nun zu Ende. Wie bekannt wurde, soll die Entscheidung für den Abschied von der Produktion nicht auf einem freiwilligen Entschluss des Schauspielers basieren. Konkrete Hintergründe zu den genauen Umständen oder dem genauen Zeitpunkt der letzten Ausstrahlung wurden zunächst nicht genannt. Auch Details zu einer möglichen Nachfolge für die Rolle des Polizeidirektors stehen noch aus.",
-    "r": "Die Personalie markiert das Ende einer langjährigen Besetzung in einer populären deutschen Fernsehserie. Der unfreiwillige Abschied eines Hauptdarstellers nach knapp zwanzig Jahren ist für Fans und Beobachter der Produktion von Bedeutung.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORXdCNDkxbEpRNFplaklvWW44RVV5N3R3cjlhSmpobVQ1d1NseGVzRlVLM25UZEZudkxvYURjdDRmcWNpQ29rQUZreFI1dkhZSmNPQmowUlNkRVBpaUFYbFRIQm9VaGJpcHdiT1VkMjZ1b3llSE1ORm8xNlFCRGZUd214a21TbGNaemoxNHBnUktTUEVOVUZKaU10T2FlblFySnc?oc=5",
-        "date": "2026-10-15T18:33:40.000Z"
-      },
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/leute/Rosenheim-Cops-Polizeidirektor-wird-in-Ruhestand-geschickt-id31423217.html",
-        "date": "2026-10-15T18:33:40.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORXdCNDkxbEpRNFplaklvWW44RVV5N3R3cjlhSmpobVQ1d1NseGVzRlVLM25UZEZudkxvYURjdDRmcWNpQ29rQUZreFI1dkhZSmNPQmowUlNkRVBpaUFYbFRIQm9VaGJpcHdiT1VkMjZ1b3llSE1ORm8xNlFCRGZUd214a21TbGNaemoxNHBnUktTUEVOVUZKaU10T2FlblFySnc?oc=5",
-    "agree": "Beide Quellen berichten, dass der \"Rosenheim-Cops\"-Polizeidirektor in den Ruhestand geschickt wird und es sich dabei um den Schauspieler Alexander Duda handelt.",
-    "diff": [
-      {
-        "name": "Google News DE",
-        "note": "Verweist lediglich auf den Artikel von n-tv.de mit einem Kurztitel."
-      },
-      {
-        "name": "ntv",
-        "note": "Nennt das Alter des Schauspielers (71 Jahre), das Einstiegsjahr 2006, den Rollennamen Gert Achtziger sowie die Angabe, dass der Ausstieg nicht freiwillig gewesen sein soll."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-e40dd59d7a3aac24",
-    "c": "DE",
-    "o": "DE",
-    "k": "wissenschaft",
-    "lang": "de",
-    "d": "2026-10-15T18:31:05.000Z",
-    "p": 2,
-    "st": "BW",
-    "city": "",
-    "t": "Erstmals lokal erworbene West-Nil-Infektionen beim Menschen in Baden-Württemberg nachgewiesen",
-    "s": "In Baden-Württemberg wurden erstmals zwei lokal erworbene West-Nil-Infektionen bei Menschen nachgewiesen. Die betroffenen Personen waren zuvor nicht im Ausland gewesen, was auf eine Ansteckung innerhalb des Bundeslandes hindeutet. Laut Angaben des Landes besteht derzeit jedoch kein erhöhtes Risiko für die Bevölkerung. Weitere Details zu den Patienten oder den genauen Orten der Infektion wurden zunächst nicht genannt.",
-    "m": "Das Gesundheitsministerium von Baden-Württemberg hat die ersten beiden Fälle von lokal übertragenen West-Nil-Infektionen beim Menschen in dem Bundesland gemeldet. Da die Betroffenen in der jüngeren Vergangenheit keine Auslandsreisen unternommen hatten, ist davon auszugehen, dass die Übertragung vor Ort stattgefunden hat. Das Virus wird in der Regel durch Stechmücken übertragen, wobei Vögel als Hauptwirte dienen und Menschen sogenannte Fehlwirte sind. Behörden betonen, dass trotz des Nachweises aktuell kein erhöhtes Infektionsrisiko für die Allgemeinheit besteht. Dennoch wird die Situation von den zuständigen Gesundheitsbehörden und dem Landesgesundheitsamt weiter beobachtet. Infektionen verlaufen oft symptomlos oder ähneln einer leichten Grippe, können in seltenen Fällen aber auch schwerer erkranken. Es bleiben Fragen offen, wie weit sich das Virus in der Mückenpopulation des Landes bereits ausgebreitet hat.",
-    "r": "Der Nachweis von erstmals im Land erworbenen West-Nil-Infektionen beim Menschen ist relevant für die Überwachung von durch Mücken übertragenen Krankheitserregern. Auch wenn kein erhöhtes Risiko besteht, zeigt der Fall eine geografische Ausweitung des Virusgeschehens auf den Menschen in der Region.",
-    "srcs": [
-      {
-        "name": "SWR Aktuell Baden-Württemberg",
-        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/erstmals-lokal-erworbene-west-nil-infektionen-bei-menschen-in-bw-nachgewiesen-100.html",
-        "date": "2026-10-15T18:31:05.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Baden-Württemberg",
-        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-zuvor-nicht-im-ausland-gewesen-erstmals-west-nil-infektionen-bei-menschen-nachgewiesen-100.html",
-        "date": "2026-10-15T07:11:26.000Z"
-      }
-    ],
-    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/erstmals-lokal-erworbene-west-nil-infektionen-bei-menschen-in-bw-nachgewiesen-100.html",
-    "agree": "Beide Quellen berichten übereinstimmend über die ersten zwei lokal erworbenen West-Nil-Infektionen bei Menschen in Baden-Württemberg und dass die Betroffenen zuvor nicht im Ausland waren.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-76aa7d1de89d04a4",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-15T18:28:51.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "EZB erlaubt UniCredit offenbar Aufstockung der Commerzbank-Anteile",
-    "s": "Die italienische Großbank UniCredit treibt ihre Pläne zur Übernahme der Commerzbank voran. Nach eigenen Angaben hat die Europäische Zentralbank grünes Licht für die Aufstockung der Anteile gegeben. Die UniCredit strebt damit an, die Kontrolle über das deutsche Geldhaus zu erlangen.",
-    "m": "Die italienische UniCredit steht bei ihrem Vorhaben, die Commerzbank zu übernehmen, vor einem wichtigen Meilenstein. Die Europäische Zentralbank hat den Angaben der Bank zufolge die aufsichtsrechtliche Genehmigung für die Erhöhung der Anteile erteilt. Bislang hält die UniCredit bereits bedeutende Beteiligungen, strebt jedoch die vollständige Kontrolle an. Gegen Jahresende plant das italienische Geldinstitut, den nächsten Schritt zur Machtübernahme zu gehen. Die Entwicklung wirft Fragen zur zukünftigen Struktur des deutschen Bankensektors auf und wird von Finanzmärkten intensiv beobachtet. Offen bleibt bislang, wie sich der Vorstand der Commerzbank und die deutsche Politik positionieren werden. Das Vorhaben könnte in den kommenden Wochen zu weiteren Verhandlungen und regulatorischen Prüfungen führen.",
-    "r": "Die Übernahmepläne der UniCredit betreffen eines der größten deutschen Geldhäuser und haben weitreichende Bedeutung für den europäischen Bankensektor. Eine erfolgreiche Transaktion würde die deutsche Bankenlandschaft nachhaltig verändern.",
-    "srcs": [
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/wirtschaft/2026-10/unicredit-commerzbank-uebernahme-ezb-genehmigung",
-        "date": "2026-10-15T18:28:51.000Z"
-      },
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORFN2Y0RCR2syZVh1djRlX0gwTWJTQktKTS1hOVNNeHBEY2JPTFhINVZNcXlaNzhQU1BlTEw2UlpLNFpxdlJVTFluc1hpQ2ZuRTRsWUEzc2lKOTJnbmVkMGxxWmVTR3RFcHdRTVJxSGV0VFpPdWo0eXh6cVZPMXo2Uno1WFNpcU8ydDVWbHYyS3pMSzlPRmU2cXVKZFBZb1BxYVJPWkdGN3hNdFl4WkNYbm9PQ0oyLUhoXzFmSXV1OGRYUWM3cTcxQWdWX09TdXk4UDhnUHRndzc1eGw4U1BwVExxY09SZw?oc=5",
-        "date": "2026-10-15T18:17:00.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/wirtschaft/unternehmen/ezb-erlaubt-unicredit-offenbar-uebernahme-von-commerzbank-anteilen-a-4fdb9120-ecc0-4431-ac6c-3d5340d5bb4a#ref=rss",
-        "date": "2026-10-15T18:17:00.000Z"
-      }
-    ],
-    "url": "https://www.zeit.de/wirtschaft/2026-10/unicredit-commerzbank-uebernahme-ezb-genehmigung",
-    "agree": "Die Quellen stimmen überein, dass die EZB der UniCredit offenbar die Übernahme beziehungsweise Aufstockung der Anteile an der Commerzbank erlaubt hat.",
-    "diff": [
-      {
-        "name": "DER SPIEGEL",
-        "note": "Konkretisiert, dass die UniCredit gegen Jahresende plant, die Kontrolle über die Commerzbank zu übernehmen."
-      }
-    ],
-    "chg": "",
-    "independent": 3
-  },
-  {
-    "id": "story-49b5fefcd7828745",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-15T18:28:51.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "EZB gibt grünes Licht für UniCredit-Einstieg bei der Commerzbank",
-    "s": "Die italienische Großbank UniCredit hat von den EU-Bankenaufsehern offenbar die Genehmigung erhalten, ihre Anteile an der Commerzbank aufzustocken. UniCredit treibt damit die Pläne für eine mögliche Übernahme voran. Gegen Jahresende strebt die Bank die vollständige Kontrolle an.",
-    "m": "Die italienische Großbank UniCredit steht bei ihren Bestrebungen zur Übernahme der Commerzbank vor einem entscheidenden Durchbruch. Laut Angaben der UniCredit haben die zuständigen EU-Bankenaufseher und die Europäische Zentralbank (EZB) die Genehmigung für die Aufstockung der Anteile erteilt. Bislang handelt es sich um eine offizielle Mitteilung der Bank bezüglich der regulatorischen Freigabe. Konkrete Details zur Höhe des erlaubten Anteils oder zu den genauen Bedingungen der EZB wurden in den Berichten zunächst nicht genannt. Die UniCredit plant nach eigenen Angaben, bereits gegen Jahresende die Kontrolle über das deutsche Kreditinstitut zu übernehmen. Das Vorhaben wird in der Finanzwelt und politisch genau beobachtet, da eine Fusion der beiden Großbanken weitreichende Folgen für den deutschen Bankenmarkt haben könnte. Noch sind zahlreiche Fragen bezüglich der Umsetzung und der Haltung des Commerzbank-Managements offen.",
-    "r": "Die Übernahme der zweitgrössten deutschen Privatbank durch ein ausländisches Großinstitut betrifft den gesamten Finanzmarkt und hat erhebliche wirtschaftliche sowie strukturelle Bedeutung für Deutschland. Regulatorische Freigaben sind ein zentraler Meilenstein für solche grenzüberschreitenden Bankenfusionen.",
-    "srcs": [
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/wirtschaft/2026-10/unicredit-commerzbank-uebernahme-ezb-genehmigung",
-        "date": "2026-10-15T18:28:51.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/wirtschaft/unternehmen/ezb-erlaubt-unicredit-offenbar-uebernahme-von-commerzbank-anteilen-a-4fdb9120-ecc0-4431-ac6c-3d5340d5bb4a#ref=rss",
-        "date": "2026-10-15T18:17:00.000Z"
-      }
-    ],
-    "url": "https://www.zeit.de/wirtschaft/2026-10/unicredit-commerzbank-uebernahme-ezb-genehmigung",
-    "agree": "Beide Quellen stimmen überein, dass die EZB beziehungsweise die EU-Bankenaufseher der UniCredit die Übernahme beziehungsweise die Aufstockung der Anteile an der Commerzbank genehmigt haben.",
-    "diff": [
-      {
-        "name": "ZEIT ONLINE",
-        "note": "Berichtet ganz allgemein von der erlaubten Übernahme der Commerzbank durch die italienische Großbank."
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "Konkretisiert, dass die Genehmigung die Aufstockung der Anteile betrifft und dass die UniCredit plant, gegen Jahresende die Kontrolle zu übernehmen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-b8db3df926ec4440",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-15T18:26:29.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "EZB genehmigt Commerzbank-Übernahme durch Unicredit",
-    "s": "Die europäische Bankenaufsicht hat grünes Licht für die Übernahme von Commerzbank-Anteilen durch die italienische Unicredit gegeben. Diese Genehmigung stellt einen zentralen Meilenstein in dem Übernahmeprozess dar. Der Abschluss des Vorhabens wird für das Jahresende angestrebt.",
-    "m": "Die Europäische Zentralbank hat der Unicredit offiziell die Genehmigung erteilt, Anteile an der Commerzbank zu übernehmen. Dies gilt als eine der wichtigsten Hürden für den gesamten Prozess. Die italienische Bank verfolgt das Ziel, bis zum Ende des laufenden Jahres etwa 50 Prozent der Stimmrechte an dem deutschen Geldinstitut zu erlangen. Bislang wurden keine weiteren Details zu Auflagen oder Bedingungen der Aufsichtsbehörde bekannt. Marktbeobachter werten diesen Schritt als Beschleunigung der von Unicredit vorangetriebenen Konsolidierung im europäischen Bankensektor. Die Reaktionen der beteiligten Institute und deutscher Behörden stehen noch aus.",
-    "r": "Die grenzüberschreitende Konsolidierung im europäischen Bankensektor ist von hoher finanzieller und wirtschaftlicher Bedeutung. Die Beteiligung der EZB als Regulierungsbehörde unterstreicht die Tragweite des Vorhabens.",
-    "srcs": [
-      {
-        "name": "Frankfurter Allgemeine",
-        "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ezb-genehmigt-unicredit-uebernahme-der-commerzbank-201431745.html",
-        "date": "2026-10-15T18:26:29.000Z"
-      },
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/news/2026-10/15/unicredit-ezb-genehmigt-uebernahme-von-commerzbank-anteilen",
-        "date": "2026-10-15T18:07:08.000Z"
-      }
-    ],
-    "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ezb-genehmigt-unicredit-uebernahme-der-commerzbank-201431745.html",
-    "agree": "Beide Quellen stimmen darin überein, dass die EZB die Übernahme beziehungsweise den Erwerb von Commerzbank-Anteilen durch die Unicredit genehmigt hat.",
-    "diff": [
-      {
-        "name": "Frankfurter Allgemeine",
-        "note": "Berichtet zusätzlich, dass die Genehmigung als zentraler Schritt gilt und Unicredit zum Jahresende rund 50 Prozent der Stimmrechte halten will."
-      },
-      {
-        "name": "ZEIT ONLINE",
-        "note": "Nennt das Detail, dass es sich um die Übernahme von Commerzbank-Anteilen handelt, führt aber keine weiteren spezifischen Pläne zum Zeitplan auf."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-1b2ee1ac85199815",
-    "c": "INT",
-    "o": "PT",
-    "k": "sport",
-    "lang": "de",
-    "d": "2026-10-15T18:17:45.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Sporting Braga verliert Auftaktspiel der Conference League in Kopenhagen mit 0:3",
-    "s": "Der Sporting Braga ist mit einer Niederlage in die Gruppenphase der UEFA Conference League gestartet. In seinem Auftaktspiel der neuen Ligaphase unterlag der portugiesische Verein auswärts beim FC Kopenhagen deutlich. Die Partie fand am Donnerstag statt und markierte den ersten Spieltag des europäischen Wettbewerbs.",
-    "m": "Der Sporting Braga musste zum Auftakt der Ligaphase der Conference League eine herbe 0:3-Niederlage in Dänemark hinnehmen. Das Spiel gegen den FC Kopenhagen wurde am Donnerstag ausgetragen und war für Braga die Premiere in dieser Phase des Wettbewerbs. Bereits vor der Begegnung berichteten Medien über die anstehende Auswärtspartie des portugiesischen Clubs. Die deutliche Niederlage erschwert den weiteren Verlauf für Braga in der noch jungen Gruppenphase. Weitere Details zum Spielverlauf oder zu Torschützen wurden in den Berichten nicht genannt.",
-    "r": "Die Niederlage ist sportlich relevant, da sie den Start von Sporting Braga in die internationale Gruppenphase der UEFA Conference League misslingen lässt. Das Ergebnis setzt den Club für die kommenden Partien unter Zugzwang.",
-    "srcs": [
-      {
-        "name": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/futebol-internacional/sporting-de-braga-humilhado-em-copenhaga_d1771931",
-        "date": "2026-10-15T18:17:45.000Z"
-      },
-      {
-        "name": "RTP Desporto",
-        "url": "https://www.rtp.pt/noticias/liga-europa-conferencia/sporting-de-braga-visita-copenhaga-para-a-liga-conferencia_d1771811",
-        "date": "2026-10-15T09:35:24.000Z"
-      }
-    ],
-    "url": "https://www.rtp.pt/noticias/futebol-internacional/sporting-de-braga-humilhado-em-copenhaga_d1771931",
-    "agree": "Beide Quellen berichten über die Partie von Sporting Braga gegen den FC Kopenhagen im Rahmen der UEFA Conference League.",
-    "diff": [
-      {
-        "name": "RTP Notícias",
-        "note": "Berichtet im Nachhinein über die 0:3-Niederlage von Braga in Kopenhagen."
-      },
-      {
-        "name": "RTP Desporto",
-        "note": "Kündigte die Begegnung vorab als bevorstehenden Besuch des Sporting Braga an."
-      }
-    ],
-    "chg": "",
-    "independent": 1
-  },
-  {
-    "id": "story-762dc6dfe81abf66",
-    "c": "INT",
-    "o": "PT",
-    "k": "sport",
-    "lang": "de",
-    "d": "2026-10-15T18:17:45.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Sporting Braga startet in die Ligaphase der Conference League",
-    "s": "Der portugiesische Verein Sporting Braga bestreitet sein Auftaktspiel in der Ligaphase der UEFA Conference League. Dafür reist die Mannschaft nach Dänemark, um gegen den FC Kopenhagen anzutreten. Die Begegnung markiert den Start für Braga in dieses europäische Turnier.",
-    "m": "Das Spiel gegen den FC Kopenhagen findet im Rahmen des ersten Spieltags der neuen Ligaphase statt. Es handelt sich um die allererste Teilnahme des Sporting Braga an dieser speziellen Phase des Wettbewerbs. Die Partie wird in Dänemark ausgetragen, wo die Gäste ihre Premiere in diesem Turnierformat absolvieren. Weitere Details zum Kader, Schiedsrichter oder dem genauen Spielverlauf gehen aus den Berichten nicht hervor.",
-    "r": "Das Spiel markiert den Auftakt des Sporting Braga in der Ligaphase der UEFA Conference League. Solche internationalen Begegnungen sind für die sportliche Entwicklung und den Tabellenstand der teilnehmenden Vereine von Bedeutung.",
-    "srcs": [
-      {
-        "name": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/futebol-internacional/copenhaga-sporting-de-braga_d1771931",
-        "date": "2026-10-15T18:17:45.000Z"
-      },
-      {
-        "name": "RTP Desporto",
-        "url": "https://www.rtp.pt/noticias/liga-europa-conferencia/sporting-de-braga-visita-copenhaga-para-a-liga-conferencia_d1771811",
-        "date": "2026-10-15T09:35:24.000Z"
-      }
-    ],
-    "url": "https://www.rtp.pt/noticias/futebol-internacional/copenhaga-sporting-de-braga_d1771931",
-    "agree": "Beide Quellen stimmen überein, dass Sporting Braga seine erste Teilnahme an der Ligaphase der Conference League mit einem Auswärtsspiel gegen Kopenhagen in der Auftaktrunde beginnt.",
-    "diff": [
-      {
-        "name": "RTP Notícias",
-        "note": "Berichtet ohne Nennung des genauen Wochentags über das Spiel."
-      },
-      {
-        "name": "RTP Desporto",
-        "note": "Erwähnt zusätzlich, dass das Spiel heute stattfindet."
-      }
-    ],
-    "chg": "",
-    "independent": 1
-  },
-  {
-    "id": "story-9115bd0a0f22c4b3",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-15T18:14:26.000Z",
-    "p": 3,
-    "st": "BY",
-    "city": "",
-    "t": "Bundestag beschließt Reform der Notfallversorgung",
-    "s": "Der Bundestag hat eine Reform der Notfallversorgung beschlossen. Ziel der gesetzlichen Neuregelung ist es, Notaufnahmen sowie Rettungsdienste zu entlasten und Kosten zu senken. Patienten sollen in Zukunft besser gesteuert werden. Dennoch bleiben Fragen bei der Umsetzung offen.",
-    "m": "Die Reform der Notfallversorgung soll zu strukturellen Änderungen im Gesundheitssystem führen. Durch eine bessere Steuerung der Patienten sollen überlastete Notaufnahmen und Rettungsdienste entlastet werden, was gleichzeitig zur Kostensenkung beitragen soll. Der Bundestag hat nun den entsprechenden Beschluss gefasst. Kritiker und Beobachter weisen jedoch darauf hin, dass wichtige Fragen ungeklärt bleiben. Insbesondere bezüglich der Bereiche Personal und Finanzierung bestehen weiterhin Bedenken. Zudem befürchten Kritiker den Verlust bestehender Strukturen im Zuge der Umorganisation. Weitere Details zur genauen Umsetzung und den Auswirkungen auf Patienten und medizinisches Personal werden in den kommenden Schritten erwartet.",
-    "r": "Die Neuregelung der Notfallversorgung betrifft wesentliche Bereiche des deutschen Gesundheitssystems und hat direkte Auswirkungen auf Patienten, Rettungsdienste sowie medizinisches Personal. Die Reform zielt auf eine Effizienzsteigerung und Kostenreduktion ab.",
-    "srcs": [
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/reform-der-notfallversorgung-beschlossen,VY6wq3d",
-        "date": "2026-10-15T18:14:26.000Z"
-      },
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/politik/deutschland/notfallmedizin-notaufnahme-krankenhaus-klinik-reform-bundestag-100.html",
-        "date": "2026-10-15T09:01:00.000Z"
-      }
-    ],
-    "url": "https://www.br.de/nachrichten/deutschland-welt/reform-der-notfallversorgung-beschlossen,VY6wq3d",
-    "agree": "Die Quellen stimmen überein, dass der Bundestag eine Reform der Notfallversorgung beschlossen hat.",
-    "diff": [
-      {
-        "name": "BR24 Bayern",
-        "note": "Berichtet, dass Kritiker um bestehende Strukturen fürchten."
-      },
-      {
-        "name": "ZDF heute",
-        "note": "Erwähnt, dass insbesondere bei Personal und Finanzierung Fragen offen bleiben."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-dfa670e74191095e",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-15T18:12:50.000Z",
-    "p": 2,
-    "st": "NI",
-    "city": "",
-    "t": "Doris Schröder-Köpf legt Landtagsmandat vorzeitig nieder",
-    "s": "Die niedersächsische SPD-Politikerin Doris Schröder-Köpf gibt überraschend ihr Mandat ab. Nach 13 Jahren im Landtag zieht sie sich knapp ein Jahr vor der anstehenden Landtagswahl aus der Politik zurück.",
-    "m": "Doris Schröder-Köpf war 13 Jahre lang als Politikerin aktiv und hat nun ihren Rückzug aus der Landespolitik angekündigt. Sie gibt ihr Mandat knapp ein Jahr vor der nächsten Landtagswahl in Niedersachsen ab. Während ihrer politischen Laufbahn engagierte sie sich insbesondere für die Belange von Kindern und Jugendlichen. Über die genauen Gründe für den Zeitpunkt ihres Ausscheidens ist in den Quellen nichts Näheres bekannt. Neben ihrer politischen Arbeit erlangte sie auch durch ihre früheren Partnerschaften mit Bundeskanzler a.D. Gerhard Schröder und dem niedersächsischen Innenminister Boris Pistorius Bekanntheit in der Öffentlichkeit.",
-    "r": "Der Rückzug einer langjährigen und prominenten Abgeordneten kurz vor einer anstehenden Landtagswahl ist für die Landespolitik von Bedeutung. Zudem verliert die niedersächsische SPD damit ein bekanntes politisches Gesicht.",
-    "srcs": [
-      {
-        "name": "Tagesschau Regional Niedersachsen",
-        "url": "https://www.tagesschau.de/inland/regional/niedersachsen/spd-verliert-bekanntes-gesicht-schroeder-koepf-hoert-auf,schroederkoepf-100.html",
-        "date": "2026-10-15T18:12:50.000Z"
-      },
-      {
-        "name": "t-online Nachrichten",
-        "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101483610/spd-verliert-bekanntes-gesicht-schroeder-koepf-legt-mandat-nieder.html",
-        "date": "2026-10-15T18:01:53.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/regional/niedersachsen/spd-verliert-bekanntes-gesicht-schroeder-koepf-hoert-auf,schroederkoepf-100.html",
-    "agree": "Beide Quellen stimmen darin überein, dass Doris Schröder-Köpf ihr Mandat niederlegt und sich aus der Politik zurückzieht.",
-    "diff": [
-      {
-        "name": "Tagesschau Regional Niedersachsen",
-        "note": "Erwähnt, dass der Rückzug knapp ein Jahr vor der Landtagswahl in Niedersachsen erfolgt."
-      },
-      {
-        "name": "t-online Nachrichten",
-        "note": "Hebt hervor, dass sie sich insbesondere für Kinder und Jugendliche engagierte und nennt ihre Ex-Partner Gerhard Schröder und Boris Pistorius als Grund für ihre Bekanntheit."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-be9c6a5520ab13ec",
-    "c": "DE",
-    "o": "DE",
-    "k": "sport",
-    "lang": "de",
-    "d": "2026-10-15T18:09:31.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "DFB verhängt Geldstrafe und Zuschauerausschluss gegen SV Waldhof Mannheim",
-    "s": "Nach Ausschreitungen in einem DFB-Pokalspiel zwischen dem SV Waldhof Mannheim und dem 1. FC Kaiserslautern hat das DFB-Sportgericht Sanktionen verhängt. Der Verein muss eine Geldstrafe zahlen und wird mit Teilteilausschlüssen von Zuschauern belegt. Die Entscheidung folgt auf die Eskalation der Vorkommnisse rund um die Begegnung.",
-    "m": "Das DFB-Sportgericht hat nach den schweren Zwischenfällen während der Pokalbegegnung zwischen dem SV Waldhof Mannheim und dem 1. FC Kaiserslautern drastische Konsequenzen gezogen. Der Drittligist SV Waldhof wurde zu einer Geldstrafe in Höhe von 100.000 Euro verurteilt. Zusätzlich muss der Club künftig Spiele mit einer reduzierten Zuschauerzahl austragen. Die Maßnahmen sind eine direkte Reaktion auf die Ausschreitungen und Fan-Eskalationen im Rahmen des traditionsreichen Duells. Der Verein muss die Auflagen in den kommenden Partien umsetzen. Offen bleibt, ob der Verein gegen das Urteil Einspruch erheben wird.",
-    "r": "Das Urteil des DFB-Sportgerichts zeigt die harte Linie des Verbands bei Zuschauerausschreitungen im Profifußball auf. Die Sanktionen treffen den Verein sowohl finanziell als auch organisatorisch bei Heimspielen.",
-    "srcs": [
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/sport/2026-10/sv-waldhof-mannheim-fc-kaiserslautern-ausschreitungen-dfb-sportgericht",
-        "date": "2026-10-15T18:09:31.000Z"
-      },
-      {
-        "name": "SWR Aktuell",
-        "url": "https://www.swr.de/sport/fussball/waldhof-mannheim-kaiserslautern-pokal-strafe-100.html",
-        "date": "2026-10-15T17:43:34.000Z"
-      }
-    ],
-    "url": "https://www.zeit.de/sport/2026-10/sv-waldhof-mannheim-fc-kaiserslautern-ausschreitungen-dfb-sportgericht",
-    "agree": "Die Quellen sind sich einig, dass das DFB-Sportgericht nach Eskalationen in einem Pokalspiel zwischen Waldhof Mannheim und Kaiserslautern eine Strafe gegen den SV Waldhof verhängt hat.",
-    "diff": [
-      {
-        "name": "ZEIT ONLINE",
-        "note": "nennt die genaue Geldstrafe von 100.000 Euro und die Auflage, Spiele mit weniger Zuschauern zu bestreiten"
-      },
-      {
-        "name": "SWR Aktuell",
-        "note": "nennt keine konkreten Strafen, berichtet aber allgemein von einer Strafe nach der Eskalation im Pokal"
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-658338b0fbb44109",
-    "c": "INT",
-    "o": "PT",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-15T17:56:36.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Wohnungsbau-Bewegung Porta a Porta plant portugalweite Proteste",
-    "s": "Das portugiesische Movimento Porta a Porta kündigt landesweite Demonstrationen für den 14. November in 30 Städten an. Ziel der Proteste sind Forderungen im Zusammenhang mit der Wohnungsnot und Lebenshaltungskosten. Zur Vorbereitung der Aktionen findet im kommenden Monat ein offenes Treffen statt.",
-    "m": "Das Movimento Porta a Porta hat angekündigt, am 14. November in 30 Städten Portugals auf die Straße zu gehen. Um diese Proteste vorzubereiten, ist am kommenden Sonntag ein offenes Treffen für die Bevölkerung auf dem Rossio-Platz angesetzt. Nach Einschätzung der Verantwortlichen der Bewegung werden voraussichtlich Tausende Menschen an den Demonstrationen im November teilnehmen. Die Initiative setzt sich für das Recht auf Wohnraum ein und kritisiert die aktuellen wirtschaftlichen Bedingungen und steigenden Kosten. Bislang wurden keine Details zu konkreten politischen Reaktionen oder Gegenmaßnahmen der Behörden bekannt gegeben. Auch die genauen Routen der Demonstrationen in den betroffenen 30 Städten stehen noch aus.",
-    "r": "Die landesweiten Proteste betreffen die soziale Stabilität und die Wohnungspolitik in Portugal. Die Beteiligung von voraussichtlich Tausenden Menschen verleiht den Forderungen der Bewegung gesellschaftliches Gewicht.",
-    "srcs": [
-      {
-        "name": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVFAySzk0VzRrb0VoLVZqQTV2X0ZZRGp1bV9SdEk5MktGNnJRR3FFWDBDdHIyYmdZRGpGbi1XcW9VbmxyWlFxSzBrWVlFeE9mWmw3NUlRb2pJcXBFZGxReUxueEVSSGpVR0tmejhhMGlyM25LaHRYWmVLb2RBaEUyeWptUkxhMWFnM1F3RUZ2dGxtaExlZDc5NXhJODN6SWVaSVk4VzVJRF9RNmFySmdMSUdVUmZaaWN4Tkxr?oc=5",
-        "date": "2026-10-15T17:56:36.000Z"
-      },
-      {
-        "name": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/pais/movimento-porta-a-porta-organiza-manifestacoes-a-14-de-novembro-em-30-cidades_n1771913",
-        "date": "2026-10-15T17:39:31.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVFAySzk0VzRrb0VoLVZqQTV2X0ZZRGp1bV9SdEk5MktGNnJRR3FFWDBDdHIyYmdZRGpGbi1XcW9VbmxyWlFxSzBrWVlFeE9mWmw3NUlRb2pJcXBFZGxReUxueEVSSGpVR0tmejhhMGlyM25LaHRYWmVLb2RBaEUyeWptUkxhMWFnM1F3RUZ2dGxtaExlZDc5NXhJODN6SWVaSVk4VzVJRF9RNmFySmdMSUdVUmZaaWN4Tkxr?oc=5",
-    "agree": "Beide Quellen stimmen überein, dass das Movimento Porta a Porta am 14. November in 30 Städten Demonstrationen organisiert.",
-    "diff": [
-      {
-        "name": "RTP Notícias",
-        "note": "Berichtet zusätzlich über ein für kommenden Sonntag am Rossio angesetztes offenes Vorbereitungstreffen mit der Bevölkerung und die Erwartung tausender Teilnehmer auf den Straßen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-eace7a4a74f903f3",
-    "c": "INT",
-    "o": "UK",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-15T17:47:22.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Trump sagt Livestream der Hinrichtung von Fort Hood-Attentäter ab",
-    "s": "US-Präsident Donald Trump hat den geplanten Livestream der Hinrichtung des Fort Hood-Attentäters Nidal Hasan per Erschießungskommando abgesagt. Er begründete dies damit, dass einige Menschen die Tötung lieber nicht sehen würden. Es wäre die erste militärische Hinrichtung in den USA seit über 60 Jahren.",
-    "m": "Die geplante Hinrichtung des Attentäters Nidal Hasan, der für den Amoklauf in Fort Hood verantwortlich ist, sorgt für mediales Interesse, da es sich um die erste militärische Hinrichtung seit über 60 Jahren handeln würde. Ursprünglich war ein Livestream des Ereignisses geplant, welcher nun jedoch von Donald Trump persönlich abgesagt wurde. Als Begründung äußerte der Präsident, dass einige Personen diesen Vorgang womöglich nicht mit ansehen möchten. Die genauen Umstände der Absage und die Reaktionen von beteiligten Akteuren innerhalb der US-Militärjustiz und Politik stehen im Fokus der Berichterstattung. Weitere Details zum Zeitpunkt der Vollstreckung oder zusätzlichen Sicherheitsmaßnahmen wurden in den vorliegenden Meldungen zunächst nicht genannt.",
-    "r": "Die Absage des Livestreams einer historischen militärischen Hinrichtung durch den US-Präsidenten betrifft eine bemerkenswerte Entscheidung in der US-Strafverfolgung und Militärgeschichte. Die Thematik berührt ethische Fragen zur öffentlichen Zurschaustellung von staatlichen Tötungen.",
-    "srcs": [
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-15T17:47:22.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5bXY3WjdLWnUtYVI0V2NNQmMtd2hZemx6MHM0RXpobVg4YlNqWm01aWluQVlSTTdxbHlTNW5tTE12YmlCVU9lZGYwWkh4ZXBKcjdUR3ZmcUk3bEE?oc=5",
-        "date": "2026-10-15T17:47:22.000Z"
-      }
-    ],
-    "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
-    "agree": "Die Quellen stimmen überein, dass Donald Trump den Livestream der Hinrichtung des Fort Hood-Attentäters Nidal Hasan abgesagt hat und dass es sich um die erste militärische Hinrichtung seit über 60 Jahren handelt.",
-    "diff": [
-      {
-        "name": "Google News World",
-        "note": "Verweist lediglich auf den BBC-Bericht und wiederholt die identische Schlagzeile ohne zusätzliche Informationen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-bf3583e42102fa5d",
-    "c": "DE",
-    "o": "DE",
-    "k": "sport",
-    "lang": "de",
-    "d": "2026-10-15T17:44:39.000Z",
-    "p": 2,
-    "st": "BW",
-    "city": "",
-    "t": "Zweifel an Berichten über Pyrotechnik-Schmuggel in Kondomen bei Fußballspiel",
-    "s": "Im Vorfeld des DFB-Pokalspiels zwischen Waldhof Mannheim und dem 1. FC Kaiserslautern kam die Vermutung auf, dass Fans Pyrotechnik auf ungewöhnliche Weise ins Stadion geschmuggelt haben könnten. Berichten zufolge soll Pyrotechnik in Kondomen rektal transportiert worden sein. Ein bekannter Fanforscher äußerte nun jedoch starke Zweifel an dieser Darstellung.",
-    "m": "Die Diskussion entzündete sich rund um das DFB-Pokalspiel der Vereine Waldhof Mannheim und 1. FC Kaiserslautern. Es kursierten Berichte und Spekulationen darüber, dass Anhänger Pyrotechnik in Kondomen versteckt und rektal in das Stadion eingebracht haben könnten. Diese Methode des Einschmuggelns sorgte für Aufsehen und mediales Interesse. Ein befragter Fanforscher meldete sich zu Wort und äußerte deutliche Zweifel an der Plausibilität dieses Vorgangs. Ob es tatsächlich entsprechende Vorfälle gab oder ob die Berichte auf Spekulationen beruhen, ist Gegenstand der Betrachtung. Weitere offizielle Untersuchungen oder Bestätigungen von Vereinssicherheitskräften oder der Polizei wurden in den Meldungen nicht näher ausgeführt. Der Vorfall wirft ein Schlaglicht auf die Methoden und Kontrollen bei Hochrisikospielen im deutschen Profifußball.",
-    "r": "Die Diskussion berührt Fragen der Sicherheit und der Kontrollmethoden bei Fußball-Risikospielen. Sie verdeutlicht, wie ungewöhnliche Schmuggelvorwürfe im Umfeld des Profifußballs medial verhandelt und von Experten eingeordnet werden.",
-    "srcs": [
-      {
-        "name": "SWR Aktuell",
-        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/ausschreitungen-waldhof-mannheim-gegen-kaiserslautern-fanforscher-zu-pyrotechnik-100.html",
-        "date": "2026-10-15T17:44:39.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Baden-Württemberg",
-        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-pyro-in-kondomen-ins-stadion-geschmuggelt-fanforscher-hat-starke-zweifel-100.html",
-        "date": "2026-10-15T15:20:34.000Z"
-      }
-    ],
-    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/ausschreitungen-waldhof-mannheim-gegen-kaiserslautern-fanforscher-zu-pyrotechnik-100.html",
-    "agree": "Beide Quellen stimmen überein, dass ein Fanforscher starke Zweifel daran hat, ob Fans beim DFB-Pokalspiel zwischen Waldhof Mannheim und dem 1. FC Kaiserslautern Pyrotechnik in Kondomen rektal ins Stadion geschmuggelt haben.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-46ed039fd8da7a26",
-    "c": "INT",
-    "o": "UK",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-15T17:31:37.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Selenskyj wirft Elon Musk vor, Starlink-Einschränkungen kosteten Leben",
-    "s": "Der ukrainische Präsident Wolodymyr Selenskyj hat sich kritisch zu Einschränkungen des Satellitensystems Starlink geäußert. Laut seinen Aussagen haben solche Maßnahmen im Krieg zwischen der Ukraine und Russland Menschenleben gekostet. Das Thema wird in einem Bericht der BBC beleuchtet.",
-    "m": "Im Zusammenhang mit dem anhaltenden Krieg zwischen der Ukraine und Russland steht das Satellitensystem Starlink im Fokus. Der ukrainische Präsident hat dem Tech-Milliardär Elon Musk direkt mitgeteilt, dass jegliche Einschränkungen des Systems das Leben von Menschen kosten. Starlink spielt eine zentrale Rolle für die Kommunikation und Koordination in der Ukraine. Nähere Details zum genauen Zeitpunkt oder der Art der Restriktionen gehen aus den vorliegenden Berichten nicht hervor. Es bleibt unklar, welche konkreten Gegenreaktionen oder Antworten Elon Musk auf diesen Vorwurf gegeben hat.",
-    "r": "Die Vorwürfe des ukrainischen Präsidenten gegen Elon Musk beleuchten die kritische Abhängigkeit kriegführender Parteien von ziviler Satelliteninfrastruktur. Die Diskussion verdeutlicht die geopolitische Macht privater Technologiekonzerne.",
-    "srcs": [
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-15T17:31:37.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YQl9VNnNEQW55YjFSS3ZEcmZfSEc0a0dHX29pZV9LdG92T2pVSnY2VUtmX2xBM19QNGZwMzFpdVlJZjNnS2haY0VYdDdBQW5YOV9pNUhSMmY?oc=5",
-        "date": "2026-10-15T17:31:37.000Z"
-      }
-    ],
-    "url": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
-    "agree": "",
-    "diff": [
-      {
-        "name": "BBC World",
-        "note": "Berichtet direkt über die Aussage des ukrainischen Präsidenten an Elon Musk, dass Starlink-Einschränkungen Leben gekostet haben."
-      },
-      {
-        "name": "Google News World",
-        "note": "Verweist lediglich auf den entsprechenden Video-Beitrag der BBC."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-183f26ca86085f73",
-    "c": "INT",
-    "o": "INT",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-15T17:12:36.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Venezuela: Maduro und seine Frau plädieren vor US-Gericht auf nicht schuldig",
-    "s": "Der venezolanische Machthaber Nicolás Maduro und seine Ehefrau sind in den USA vor einem Gericht in New York erschienen. Sie wurden mit Vorwürfen im Zusammenhang mit Folter konfrontiert. Beide wiesen die Anschuldigungen zurück und plädierten auf nicht schuldig.",
-    "m": "Vor einem Gericht in New York City haben der venezolanische Machthaber Nicolás Maduro und seine Ehefrau zu Beginn des Verfahrens erklärt, nicht schuldig zu sein. Die US-Behörden werfen ihnen vor, in eine Verschwörung zur Begehung von Folter verwickelt zu sein und Foltervorwürfe zu verantworten. Das Erscheinen vor dem Gericht in den Vereinigten Staaten stellt einen bedeutenden Moment in den juristischen Auseinandersetzungen zwischen den US-Behörden und der Führung Venezuelas dar. Weitere Details zum genauen zeitlichen Ablauf der Festnahme oder dem Fortgang des Prozesses gehen aus den aktuellen Berichten nicht hervor. Das Verfahren wirft Fragen zur internationalen Gerichtsbarkeit und den diplomatischen Beziehungen auf.",
-    "r": "Das Gerichtsverfahren gegen ein amtierendes Staatsoberhaupt und seine Ehefrau vor einem US-Gericht hat erhebliche völkerrechtliche und diplomatische Relevanz. Die juristischen Schritte könnten die Beziehungen zwischen den USA und Venezuela weiter belasten.",
-    "srcs": [
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPemFQTVlIby1xaV9YU2dfYTI2Y3FkRHZqWkZDXzh4MTJQaHZYSXdhY0RURWlCRUU1d3pGNmVHbjVXcjd6N1NyR241ek82Q3E2djdoR2FCbHpnRFVhTmFORkI5SVRNREt0eGY0N0R0dldGbllBYTdjMV81QWhIZ1ZtUlpyZzdtTEJqdzhDNEtpcWowZ016czlNVENmOGprZngxdzhYSk9qckdBekhCYnZpZg?oc=5",
-        "date": "2026-10-15T17:12:36.000Z"
-      },
-      {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/15/venezuelas-maduro-pleads-not-guilty-to-us-conspiracy-to-torture-charges?traffic_source=rss",
-        "date": "2026-10-15T16:04:58.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPemFQTVlIby1xaV9YU2dfYTI2Y3FkRHZqWkZDXzh4MTJQaHZYSXdhY0RURWlCRUU1d3pGNmVHbjVXcjd6N1NyR241ek82Q3E2djdoR2FCbHpnRFVhTmFORkI5SVRNREt0eGY0N0R0dldGbllBYTdjMV81QWhIZ1ZtUlpyZzdtTEJqdzhDNEtpcWowZ016czlNVENmOGprZngxdzhYSk9qckdBekhCYnZpZg?oc=5",
-    "agree": "Die Quellen stimmen überein, dass Nicolás Maduro und seine Ehefrau in den USA vor Gericht erschienen sind und dort auf die Foltervorwürfe mit einem Schuldlosigkeitsplädoyer reagiert haben.",
-    "diff": [
-      {
-        "name": "Google News World",
-        "note": "Berichtet allgemein über 'US Torture Charges' ohne den genauen Begriff der Verschwörung im Titel zu nennen."
-      },
-      {
-        "name": "Al Jazeera",
-        "note": "Erwähnt konkret die Anklage wegen einer 'conspiracy to torture' und gibt an, dass das Verfahren in New York City stattfindet."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-ec019b247236e29d",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-15T16:55:46.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Linke erfolgreich mit Eilantrag gegen Ministerin Reiche wegen Instagram-Video",
-    "s": "Die Partei Die Linke wirft Wirtschaftsministerin Katherina Reiche vor, das staatliche Neutralitätsgebot verletzt zu haben. Grund dafür ist ein strittiges Instagram-Video der Ministerin. Nun hat das Bundesverfassungsgericht im Eilverfahren über den Fall entschieden und der Linken Recht gegeben.",
-    "m": "Ein von Wirtschaftsministerin Katherina Reiche veröffentlichtes Instagram-Video hat zu einem rechtlichen Streit geführt, da die Partei Die Linke darin einen Verstoß gegen das amtliche Neutralitätsgebot sieht. In der Folge zog die Partei vor das Bundesverfassungsgericht, um im Eilverfahren gegen das Vorgehen der Ministerin vorzugehen. Das Gericht hat nun zugunsten der Antragsteller entschieden und den Eilantrag der Linken bewilligt. Details zu den genauen Inhalten des Videos sowie zur konkreten Begründung des Gerichts gehen aus den vorliegenden Berichten nicht hervor. Der Fall wirft Fragen zum Umgang von Regierungsmitgliedern mit sozialen Medien und der Einhaltung neutraler Amtsführung auf. Die rechtlichen und politischen Nachwirkungen der Entscheidung bleiben zunächst abzuwarten.",
-    "r": "Die gerichtliche Entscheidung im Eilverfahren gegen eine Bundesministerin wegen der Nutzung von Social Media betrifft grundlegende Fragen zur Amtsführung und zur Einhaltung des Neutralitätsgebots. Dies ist von allgemeinem politischen und rechtlichen Interesse für die Ausübung regierungsamtlicher Öffentlichkeitsarbeit.",
-    "srcs": [
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/politik/streit-um-instagram-video-linke-mit-eilantrag-gegen-ministerin-reiche-erfolgreich-ERY4UX25MJHY5KFOQVRLXMGMNQ.html",
-        "date": "2026-10-15T16:55:46.000Z"
-      },
-      {
-        "name": "t-online Nachrichten",
-        "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101483464/linke-mit-eilantrag-gegen-ministerin-katherina-reiche-erfolgreich.html",
-        "date": "2026-10-15T16:51:12.000Z"
-      }
-    ],
-    "url": "https://www.rnd.de/politik/streit-um-instagram-video-linke-mit-eilantrag-gegen-ministerin-reiche-erfolgreich-ERY4UX25MJHY5KFOQVRLXMGMNQ.html",
-    "agree": "Die Quellen stimmen überein, dass Die Linke mit einem Eilantrag gegen Wirtschaftsministerin Reiche wegen eines Instagram-Videos vor Gericht erfolgreich war.",
-    "diff": [
-      {
-        "name": "RND",
-        "note": "Nennt den Namen der Ministerin (Reiche), bezeichnet sie als Wirtschaftsministerin und erwähnt, dass es sich um das höchste deutsche Gericht handelt."
-      },
-      {
-        "name": "t-online Nachrichten",
-        "note": "Nennt den vollständigen Namen Katherina Reiche und erwähnt, dass das Video sie in Bedrängnis bringt."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-09c001b297f7780b",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-15T16:35:05.000Z",
-    "p": 3,
-    "st": "BY",
-    "city": "",
-    "t": "Bundesverfassungsgericht: Reiche muss Instagram-Video gegen Linke löschen",
-    "s": "Bundeswirtschaftsministerin Reiche muss ein Instagram-Video, in dem sie der Linken Antisemitismus vorwirft, vorerst entfernen. Dies entschied das Bundesverfassungsgericht in einem Eilverfahren nach einem rechtlichen Streit zwischen den Parteien. Die Linke hat damit einen vorläufigen Erfolg vor dem höchsten deutschen Gericht erzielt.",
-    "m": "Das Bundesverfassungsgericht hat in einem Eilverfahren entschieden, dass Bundeswirtschaftsministerin Reiche ein bestimmtes Instagram-Video vorerst löschen muss. In dem beanstandeten Beitrag hatte die Ministerin der Partei die Linke unter anderem Antisemitismus vorgeworfen. Die Linke war juristisch gegen das Video vorgegangen und konnte nun einen ersten Erfolg verbuchen. Die Anordnung gilt als vorläufige Maßnahme, während der Rechtsstreit weitergeht. Konkrete Details zu den weiteren juristischen Schritten oder der Dauer des Hauptsacheverfahrens wurden zunächst nicht bekannt. Die Entscheidung betrifft die Grenzen politischer Äußerungen im Netz und den Schutz vor Ehrverletzungen oder Tatsachenbehauptungen. Weitere Akteure oder genaue Zahlen wurden in den Berichten nicht genannt.",
-    "r": "Die Entscheidung des Bundesverfassungsgerichts setzt rechtliche Grenzen für politische Auseinandersetzungen auf Social-Media-Plattformen. Der Fall berührt die Meinungsfreiheit von Regierungsmitgliedern im Verhältnis zu Parteien.",
-    "srcs": [
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/inland/reiche-linke-instagram-100.html",
-        "date": "2026-10-15T16:35:05.000Z"
-      },
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/reiche-muss-video-mit-antisemitismusvorwurf-gegen-linke-loeschen,VY8CIHA",
-        "date": "2026-10-15T16:06:10.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/reiche-linke-instagram-100.html",
-    "agree": "Die Quellen stimmen überein, dass das Bundesverfassungsgericht im Eilverfahren entschieden hat, dass Bundeswirtschaftsministerin Reiche ein Instagram-Video mit Antisemitismusvorwürfen gegen die Linke vorläufig löschen muss.",
-    "diff": [
-      {
-        "name": "Tagesschau",
-        "note": "Es wird genannt, dass der Beitrag von den Autoren I. Sayram und J. Pentz verfasst wurde."
-      },
-      {
-        "name": "BR24 Bayern",
-        "note": "Es wird explizit erwähnt, dass die Linke in diesem Streit einen Erfolg erzielt hat."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-3a9cbbd0a4abc269",
-    "c": "INT",
-    "o": "DE",
-    "k": "sport",
-    "lang": "de",
-    "d": "2026-10-15T16:14:33.000Z",
-    "p": 3,
-    "st": "BY",
-    "city": "",
-    "t": "Horror-Verletzung am Fuß: Nächster Schock für Norwegens Ski-Star Kilde",
-    "s": "Kurz vor dem Saisonauftakt hat sich der norwegische Skirennfahrer Aleksander Aamodt Kilde im Training schwer verletzt. Er zog sich eine Verletzung an der Achillessehne zu. Für den ohnehin von Verletzungen geplagten Sportler bedeutet dies den nächsten herben Rückschlag. Der genaue Unfallhergang und die Dauer der Pause wurden in den ersten Berichten angerissen.",
-    "m": "Der norwegische Ski-Star Aleksander Aamodt Kilde hat sich eineinhalb Wochen vor dem Weltcup-Auftakt in Sölden bei einem Trainingssturz schwer verletzt. Dabei erlitt er einen Achillessehnenriss und muss nun die nächste lange Zwangspause hinnehmen. Der Unfall ereignete sich während eines Trainingslagers in Chile. Für den 34-jährigen Athleten ist dies ein weiterer schwerer Rückschlag in seiner Karriere, die in letzter Zeit bereits stark von gesundheitlichen Problemen und Verletzungen geprägt war. Wie lange der norwegische Skirennfahrer genau ausfallen wird, ist angesichts der Schwere der Verletzung an der Achillessehne zu diesem Zeitpunkt noch nicht gänzlich absehbar. Der Saisonbeginn in Sölden findet somit definitiv ohne ihn statt.",
-    "r": "Die schwere Verletzung eines prominenten Athleten wie Aleksander Aamodt Kilde kurz vor dem Weltcup-Auftakt hat erhebliche Auswirkungen auf den internationalen Skisport und das norwegische Team. Der Ausfall des Spitzenfahrers verändert die Ausgangslage für die bevorstehenden Rennen in Sölden maßgeblich.",
-    "srcs": [
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/sport/Naechster-Schock-fuer-Norwegens-Ski-Star-Kilde-id31422884.html",
-        "date": "2026-10-15T16:14:33.000Z"
-      },
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/sport/ski-alpin-schock-fuer-aleksander-aamodt-kilde-norweger-verletzt-sich-an-achillessehne,VY7sxwc",
-        "date": "2026-10-15T15:01:55.000Z"
-      }
-    ],
-    "url": "https://www.n-tv.de/sport/Naechster-Schock-fuer-Norwegens-Ski-Star-Kilde-id31422884.html",
-    "agree": "Die Quellen sind sich einig, dass sich der norwegische Ski-Star Aleksander Aamodt Kilde kurz vor dem Saisonauftakt in Sölden im Training eine schwere Verletzung an der Achillessehne zugezogen hat und vor einer Zwangspause steht.",
-    "diff": [
-      {
-        "name": "BR24 Bayern",
-        "note": "nennt das Alter von 34 Jahren, den konkreten Trainingsort Chile und präzisiert die Verletzung als Achillessehnenriss."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-bb46fe10257187a9",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-15T16:06:43.000Z",
-    "p": 2,
-    "st": "BW",
-    "city": "",
-    "t": "Trumpf setzt auf künstliche Intelligenz für Industrieroboter",
-    "s": "Der Laserspezialist Trumpf aus Ditzingen plant den Einsatz von künstlicher Intelligenz bei Robotern. Damit sollen Industrieroboter flexibler in der Anwendung werden. Diese Entwicklung soll Automatisierungsprozesse künftig auch für kleinere Serien und Unternehmen lohnenswert machen.",
-    "m": "Das Unternehmen Trumpf aus Ditzingen im Bereich Laserspezialist entwickelt neue Ansätze zur Flexibilisierung von Industrieroboter-Systemen durch künstliche Intelligenz. Bisher waren Roboter in der Industrie oft starr auf bestimmte Aufgaben programmiert und lohnten sich kaum für geringe Stückzahlen. Durch den Einsatz von KI sollen die Maschinen anpassungsfähiger agieren und somit schneller auf veränderte Produktionsbedingungen reagieren können. Dies eröffnet insbesondere kleineren Unternehmen und Betrieben mit kleineren Produktionsserien neue wirtschaftliche Möglichkeiten zur Automatisierung ihrer Abläufe. Ob und wann die entsprechenden Technologien marktreif sind oder welche konkreten KI-Systeme zum Einsatz kommen, geht aus den vorliegenden Berichten nicht hervor.",
-    "r": "Der technologische Fortschritt bei Industrierobotern durch künstliche Intelligenz hat Potenzial für die wirtschaftliche Produktion. Insbesondere kleinere Betriebe könnten von flexibleren Automatisierungslösungen profitieren.",
-    "srcs": [
-      {
-        "name": "SWR Aktuell Baden-Württemberg",
-        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/laserspezialist-trumpf-ditzingen-setzt-auf-ki-roboter-100.html",
-        "date": "2026-10-15T16:06:43.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Baden-Württemberg",
-        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-laserspezialist-trumpf-aus-ditzingen-setzt-bei-robotern-auf-ki-lohnt-sich-automatisierung-fuer-kleinbetriebe-100.html",
-        "date": "2026-10-15T16:06:42.000Z"
-      }
-    ],
-    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/laserspezialist-trumpf-ditzingen-setzt-auf-ki-roboter-100.html",
-    "agree": "Beide Quellen berichten übereinstimmend, dass der Laserspezialist Trumpf aus Ditzingen künstliche Intelligenz nutzt, um Industrieroboter flexibler zu machen und die Automatisierung für kleinere Serien sowie Unternehmen lohnender zu gestalten.",
-    "diff": [
-      {
-        "name": "Tagesschau Regional Baden-Württemberg",
-        "note": "Fügt im Titel die Frage hinzu, ob sich die Automatisierung für Kleinbetriebe lohnt."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-cd5288585365f1e1",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-15T15:57:03.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "US-Präsident Trump sagt Livestream zu geplanter Attentäter-Hinrichtung ab",
-    "s": "US-Präsident Donald Trump hat den zuvor angekündigten Livestream einer geplanten Hinrichtung eines verurteilten Attentäters abgesagt. Die ursprüngliche Ankündigung stammte von Verteidigungsminister Pete Hegseth. Der geplante öffentliche Stream der Exekution hatte weltweit für scharfe Empörung gesorgt.",
-    "m": "Die Pläne für eine weltweite Live-Übertragung der Hinrichtung eines verurteilten Attentäters in den USA sind vom Tisch. US-Präsident Trump zog die geplante Ausstrahlung zurück, nachdem die Ankündigung von Verteidigungsminister Hegseth auf heftige Kritik und Empörung gestoßen war. Weitere Details zum Zeitpunkt der Hinrichtung, zur Identität des Attentäters oder zu den genauen Hintergründen der Entscheidung gehen aus den vorliegenden Berichten nicht hervor. Auch die Reaktion des Verteidigungsministers auf die Absage ist bisher unklar.",
-    "r": "Die Entscheidung berührt ethische Fragen im Umgang mit staatlichen Hinrichtungen und wirft ein Schlaglicht auf die interne Kommunikation der US-Regierung unter Trump und Verteidigungsminister Hegseth. Das Vorhaben und dessen plötzliche Rücknahme dokumentieren den umstrittenen Umgang mit sensiblen Justizthemen auf höchster politischer Ebene.",
-    "srcs": [
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/amerika/trump-livestream-hinrichtung-100.html",
-        "date": "2026-10-15T15:57:03.000Z"
-      },
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMXVYT3pZTTBsSURFdXAxcUF0ZnVNaXpwQjRzQ0syS0FQWWVJM3djcXJrdWc3TnVxYXRtLThxck9QSWZ2WWFEWG1KVnB6Q2N5NVRrcWJpYXBmckRKRElTcG91bHRWVWtLckZ0WHlHSkQyZFVCOElPdzF1OEN6enBLeF80dEsxUQ?oc=5",
-        "date": "2026-10-15T15:57:00.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/ausland/amerika/trump-livestream-hinrichtung-100.html",
-    "agree": "Beide Quellen berichten übereinstimmend darüber, dass US-Präsident Trump den geplanten Livestream zur Hinrichtung eines Attentäters abgesagt hat und dass die vorherige Ankündigung von Verteidigungsminister Hegseth auf Empörung gestoßen war.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-f85567ff66621e46",
-    "c": "INT",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-15T15:39:00.000Z",
-    "p": 1,
-    "st": "",
-    "city": "",
-    "t": "Sylvester Stallone warnt vor Stunts: »Überlass das den Profis«",
-    "s": "Der Hollywood-Schauspieler Sylvester Stallone hat in einem Interview von eigenen Stunts abgeraten. Seine jahrzehntelange Karriere hat bei ihm körperliche Spuren hinterlassen. Er bereut es, zu selten Stuntmänner eingesetzt zu haben und leidet nun unter Schmerzen.",
-    "m": "Sylvester Stallone hat in seiner langen Karriere viele körperliche Risiken auf sich genommen und dabei oft auf Stuntmänner verzichtet. Im Rückblick bezeichnet er sich selbst als »Idiot« für dieses Verhalten. Inzwischen muss er sich im Alltag mit den anhaltenden Schmerzen arrangieren, die aus den Verletzungen und Belastungen resultieren. Mit seiner deutlichen Warnung »Tut es nicht. Überlass das den Profis« appelliert er an andere, gefährliche Actionszenen nicht selbst zu spielen. Weitere Details über konkrete Filmproduktionen oder medizinische Eingriffe wurden in den Berichten nicht genannt.",
-    "r": "Die Äußerungen eines prominenten Hollywood-Darstellers über gesundheitliche Langzeitsolgen von Action-Drehs verdeutlichen die physischen Belastungen im Filmgeschäft. Solche Aussagen geben Einblicke in den Wandel des Umgangs mit Sicherheit und Stuntarbeit in der Filmindustrie.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSVQ3Ulo3aFQ1VkZqYmF0bl8wZEVtdS04N0JsMFdnZ0c0MmtQbHdNZDd3R2c1cHlHRU12ODRVeVFlM2FNcDR3Q0VFTHZoXzF2SDVDdGxocHplLVpGaEY4czAyR1FFUlR2Mm1nWWloREJUUGFqNmthMXZiZ1g4bExrd1ZPU05sVFJ1V05YRXFyVmNSSFZvQV95dTYzQnFwbm1ESV8yQ1F4cXR0TjdpMjZGSlF6U3J2THB6SWxMYlBxRnlGUlJTRUJrTlp5dl9vWE5yXzliZk9adWFwbXlZOTBNdW9BYw?oc=5",
-        "date": "2026-10-15T15:39:00.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/kultur/kino/sylvester-stallone-raet-von-stunts-ab-tut-es-nicht-ueberlass-das-den-profis-a-5a43fea1-f3ba-41ed-a36a-b9e574701123#ref=rss",
-        "date": "2026-10-15T15:39:00.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSVQ3Ulo3aFQ1VkZqYmF0bl8wZEVtdS04N0JsMFdnZ0c0MmtQbHdNZDd3R2c1cHlHRU12ODRVeVFlM2FNcDR3Q0VFTHZoXzF2SDVDdGxocHplLVpGaEY4czAyR1FFUlR2Mm1nWWloREJUUGFqNmthMXZiZ1g4bExrd1ZPU05sVFJ1V05YRXFyVmNSSFZvQV95dTYzQnFwbm1ESV8yQ1F4cXR0TjdpMjZGSlF6U3J2THB6SWxMYlBxRnlGUlJTRUJrTlp5dl9vWE5yXzliZk9adWFwbXlZOTBNdW9BYw?oc=5",
-    "agree": "Beide Quellen stimmen darin überein, dass Sylvester Stallone von eigenen Stunts abrät und warnt, dies Profis zu überlassen.",
-    "diff": [
-      {
-        "name": "DER SPIEGEL",
-        "note": "Ergänzt, dass Stallones lange Karriere deutliche Spuren hinterlassen hat, er sich als »Idiot« bezeichnet, weil er zu selten auf Stuntmänner setzte, und er sich nun mit dem Schmerz abfinden muss."
-      }
-    ],
-    "chg": "",
-    "independent": 2
   }
 ]
