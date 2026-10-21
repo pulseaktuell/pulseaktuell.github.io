@@ -1,5 +1,470 @@
 [
   {
+    "id": "story-3f7d7074a14a09cd",
+    "c": "INT",
+    "o": "PT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-22T00:36:09.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Demonstranten in Lissabon beschließen Übernachtung auf dem Rossio-Platz",
+    "s": "In Lissabon haben Teilnehmer einer Versammlung am Mittwoch trotz Warnungen der Polizei beschlossen, auf dem Rossio-Platz zu übernachten. Eine entsprechende Initiative wurde in einer Abstimmung der dortigen Volksversammlung angenommen. Die genauen Hintergründe und Konsequenzen der Aktion sind Teil der laufenden Berichterstattung.",
+    "m": "Die Teilnehmer des Protestlagers im Zentrum von Lissabon hielten am Mittwoch eine Volksversammlung ab, bei der über das weitere Vorgehen beraten wurde. Dabei stimmte die Mehrheit für den Vorschlag, die Proteste auf dem Rossio-Platz durch eine Übernachtung fortzusetzen. Dies geschah ungeachtet expliziter Warnungen und Hinweise der zuständigen Sicherheitsbehörde PSP. Reporter begleiten die Entwicklungen vor Ort, während das Camp weiter besteht. Es gibt bislang keine Berichte über unmittelbare polizeiliche Interventionen im Zuge dieser Entscheidung. Weitere Details zum Ablauf der Versammlung und den Reaktionen der Behörden stehen noch aus.",
+    "r": "Die Entscheidung von Demonstranten, sich über Polizeiwarnungen hinwegzusetzen und im Zentrum von Lissabon zu übernachten, betrifft die öffentliche Sicherheit und Versammlungsfreiheit in der portugiesischen Hauptstadt.",
+    "srcs": [
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/pais/manifestantes-decidiram-pernoitar-no-rossio-esta-quarta-feira-apesar-dos-alertas-da-psp_e1773164",
+        "date": "2026-10-22T00:36:09.000Z"
+      },
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdUhIOER1Ung3R3ZQU3FmZjhxR0RhSWJzb2hNZ1ZEc05mdjhEdk1TNnkyM0Z4WjRFUXRPaEhXczBlclkxTzJ1aFVNcEY5MUVMdTFxV3NnWTQzM2x6YnVncjVPZFktb1llZ21HblJmdzQxQ3RqQWRodmp1Q2lIVXhqUGRqMllHYWxGcVhiMTR2YkNwVHhvNGMyeFV1NkZTYTlIalVwR1M3Z1Bud1JYVTlnN0ZHNEk0djllUmRDYnVUX2p6anlPaHlBUA?oc=5",
+        "date": "2026-10-21T21:19:53.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/pais/manifestantes-decidiram-pernoitar-no-rossio-esta-quarta-feira-apesar-dos-alertas-da-psp_e1773164",
+    "agree": "Beide Quellen stimmen darin überein, dass Demonstranten in Lissabon am Mittwoch trotz PSP-Warnungen die Übernachtung auf dem Rossio-Platz beschlossen haben.",
+    "diff": [
+      {
+        "name": "RTP Notícias",
+        "note": "Berichtet ausführlicher über den Beschluss der Volksversammlung des Acampamento in Lissabon, auf dem Rossio zu pernoitieren."
+      },
+      {
+        "name": "Google News Portugal",
+        "note": "Teilt lediglich die gleiche Schlagzeile und verweist per Link auf den Artikel von RTP."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-f8381165660f68dc",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-21T23:46:02.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Vatikan: Lungenkrebs bei Papst Leo XIV. hat nicht gestreut",
+    "s": "Nach der operativen Entfernung eines bösartigen Lungentumors bei Papst Leo XIV. in der vergangenen Woche gibt es erfreuliche medizinische Nachrichten. Nach Angaben des Vatikans und behandelnder Ärzte hat die Krebserkrankung offenbar nicht gestreut. Nähere Untersuchungen bestätigten, dass die Erkrankung lokal begrenzt war.",
+    "m": "In der vergangenen Woche wurde Papst Leo XIV. ein bösartiger Tumor operativ aus der Lunge entfernt, woraufhin die Diagnose Krebs gestellt wurde. Nun haben behandelnde Ärzte im Vatikan bekannt gegeben, dass der Lungenkrebs offenbar keine Metastasen gebildet hat und nicht gestreut ist. Weitere medizinische Untersuchungen ergaben, dass der Tumor lokal begrenzt war. Dies stellt eine wichtige und positive Wendung im Gesundheitszustand des Kirchenoberhaupts dar. Offene Punkte bleiben weiterhin, wie sich der Heilungsverlauf im Detail gestaltet und welche weiteren Behandlungen oder Reha-Maßnahmen folgen könnten.",
+    "r": "Die Gesundheit des Papstes ist von internationalem und gesellschaftlichem Interesse. Die neuen medizinischen Befunde über den Verlauf und die Eingrenzung der Krebserkrankung sind entscheidend für die Beurteilung seines gesundheitlichen Zustands und seiner künftigen Amtsgeschäfte.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/aerzte-krebs-bei-papst-leo-hat-nicht-gestreut-106.html",
+        "date": "2026-10-21T23:46:02.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/politik/papst-leo-krebs-hat-nicht-gestreut-3U4Y6QLGVRA55I6O6PQ3Z4WSL4.html",
+        "date": "2026-10-21T19:59:58.000Z"
+      },
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/panorama/papst-leo-krebs-erkrankung-100.html",
+        "date": "2026-10-21T19:36:00.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/aerzte-krebs-bei-papst-leo-hat-nicht-gestreut-106.html",
+    "agree": "Alle Quellen berichten übereinstimmend, dass der Lungenkrebs bei Papst Leo nach Angaben der Ärzte nicht gestreut hat.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Berichtet kurz und knapp, dass der Lungenkrebs bei Papst Leo XIV. offenbar nicht gestreut hat."
+      },
+      {
+        "name": "RND",
+        "note": "Erwähnt zusätzlich, dass dem Papst in der vergangenen Woche ein bösartiger Tumor aus der Lunge entfernt wurde und die Diagnose Krebs lautete."
+      },
+      {
+        "name": "ZDF heute",
+        "note": "Fügt hinzu, dass Untersuchungen ergeben haben, dass die Krebserkrankung lokal begrenzt gewesen sei."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
+    "id": "story-460e8cbfd839f506",
+    "c": "INT",
+    "o": "DE",
+    "k": "technik",
+    "lang": "de",
+    "d": "2026-10-21T23:46:02.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Cambridge-Analytica-Skandal: Gericht verurteilt Meta zu Milliardenstrafe",
+    "s": "Acht Jahre nach dem Cambridge-Analytica-Skandal wurde der Facebook-Mutterkonzern Meta zu einer astronomischen Geldstrafe verurteilt. Hintergrund des Urteils ist der massive Missbrauch von Nutzerdaten. Details zur genauen Zusammensetzung der Summe wurden zunächst nicht genannt.",
+    "m": "Im Zuge des langwierigen juristischen Aufarbeitungsprozesses des Cambridge-Analytica-Skandals hat ein US-Gericht den Facebook-Mutterkonzern Meta zu einer Zahlung von 25 Milliarden Dollar verurteilt. Der Skandal, der vor rund acht Jahren aufgedeckt wurde, drehte sich um den unrechtmäßigen Zugriff auf private Daten von Millionen Nutzerinnen und Nutzern zu politischen Zwecken. Meta sieht sich nun mit dieser historischen Milliardenstrafe konfrontiert. Das Urteil markiert einen neuen Tiefpunkt in der juristischen Auseinandersetzung des Tech-Giganten um Datenschutzverstöße. Es bleibt abzuwarten, ob Meta Berufung gegen die Entscheidung einlegen wird und welche langfristigen finanziellen sowie regulatorischen Folgen das Urteil nach sich zieht.",
+    "r": "Die Verurteilung eines der weltgrößten Technologiekonzerne zu einer Rekordstrafe im zweistelligen Milliardenbereich hat enorme finanzielle und rechtliche Bedeutung für die gesamte Digitalbranche. Das Urteil setzt ein klares Signal im Umgang mit Datenschutzverstößen und dem Missbrauch von Nutzerdaten.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/cambridge-analytica-skandal-gericht-verurteilt-meta-zu-25-milliarden-dollar-strafzahlung-102.html",
+        "date": "2026-10-21T23:46:02.000Z"
+      },
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/wirtschaft/unternehmen/meta-strafe-cambridge-analytika-usa-100.html",
+        "date": "2026-10-21T20:13:00.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/cambridge-analytica-skandal-gericht-verurteilt-meta-zu-25-milliarden-dollar-strafzahlung-102.html",
+    "agree": "Beide Quellen stimmen darin überein, dass der Facebook-Mutterkonzern Meta im Zuge des Cambridge-Analytica-Skandals zu einer Milliardenstrafe verurteilt wurde.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Nennt die konkrete Summe von 25 Milliarden Dollar und gibt an, dass das Urteil in den USA gefällt wurde."
+      },
+      {
+        "name": "ZDF heute",
+        "note": "Erwähnt, dass das Urteil acht Jahre nach dem Skandal erging und nennt den Missbrauch von Nutzerdaten als expliziten Hintergrund."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-b70b2612293c5fab",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-21T23:46:02.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Ermittler durchsuchen Büros der EU-Fraktion Patrioten",
+    "s": "Im Europäischen Parlament haben Durchsuchungen in den Büros der rechtsgerichteten Fraktion Patrioten stattgefunden. Die Aktion wurde von der Europäischen Staatsanwaltschaft durchgeführt. Im Fokus stehen mögliche finanzielle Unregelmäßigkeiten. Weitere offizielle Details wurden zunächst nicht bekannt gegeben.",
+    "m": "Die Europäische Staatsanwaltschaft hat Razzien in den Büros der EU-Fraktion Patrioten in Brüssel und Straßburg durchgeführt. Hintergrund sind Ermittlungen zu einem möglichen Missbrauch von EU-Mitteln in Höhe von 4,3 Millionen Euro. Die Vorwürfe richten sich gegen Mitglieder der inzwischen aufgelösten ID-Fraktion, zu deren früheren Mitgliedern auch die deutsche AfD gehörte. Die Untersuchungen dauern an und sollen Licht in den Verbleib der Gelder bringen. Die Betroffenen haben sich zu den Vorwürfen bisher nicht geäußert. Die Ermittlungsbehörden prüfen nun beschlagnahmte Unterlagen und digitale Spuren.",
+    "r": "Die Durchsuchungen im Europäischen Parlament und der Vorwurf des millionenschweren Missbrauchs von EU-Mitteln betreffen hochrangige politische Strukturen und Parteien wie die AfD. Dies wirft Fragen zur Kontrolle und Verwendung von Parlamentsgeldern auf.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/ermittler-durchsuchen-bueros-von-rechter-fraktion-im-europarlament-106.html",
+        "date": "2026-10-21T23:46:02.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/bruessel-und-strassburg-ermittler-durchsuchen-bueros-rechter-fraktion-im-eu-parlament-a-8f50684f-8092-483d-9fd0-7ff67bdd599c#ref=rss",
+        "date": "2026-10-21T16:51:00.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/ermittler-durchsuchen-bueros-von-rechter-fraktion-im-europarlament-106.html",
+    "agree": "Die Quellen stimmen darin überein, dass Büros der rechten Fraktion Patrioten im Europaparlament von Ermittlern durchsucht wurden.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Berichtet allgemein über die Durchsuchung der Büros der rechten Fraktion im Europarlament in Brüssel und Straßburg."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Nennt die Europäische Staatsanwaltschaft als durchführende Behörde und präzisiert den Verdacht des Missbrauchs von 4,3 Millionen Euro durch Mitglieder der aufgelösten ID-Fraktion, zu der auch die AfD gehörte."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-0fd0064d91e77ff4",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-21T23:46:02.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Zunehmende Zahl rechtsextremer Kampfsport-Netzwerke in Deutschland",
+    "s": "In Deutschland verzeichnet die Zahl rechtsextremer Kampfsport-Netzwerke einen Zuwachs. Die Gruppierungen rekrutieren junge Männer unter anderem gezielt in Fitnessgruppen. Das Konzept dieser Netzwerke weist Bezüge zu sogenannten Active Clubs aus den USA auf.",
+    "m": "Die Zahl rechtsextremer Kampfsport-Netzwerke in Deutschland steigt kontinuierlich an und wird von Experten als Professionalisierung der Gewaltkompetenz bewertet. Die Idee hinter diesen Gruppierungen entstammt ursprünglich den USA, wo sie unter dem Begriff Active Clubs bekannt sind. In Deutschland nutzen die Netzwerke Fitnessgruppen, um gezielt junge Männer für ihre Strukturen zu rekrutieren. Über diese Aktivitäten und die genaue geografische Verteilung oder Größe der einzelnen Gruppen liegen derzeit noch keine weiteren detaillierten Zahlen vor. Die Entwicklung bereitet Sicherheitsbehörden und Beobachtern zunehmend Sorge, da solche Strukturen oft als Vorfeldorganisationen für radikale politische Aktivitäten dienen.",
+    "r": "Die Ausbreitung rechtsextremer Kampfsport-Netzwerke ist gesellschaftlich und sicherheitspolitisch relevant, da sie als Instrument zur Radikalisierung und Rekrutierung junger Menschen im Bereich des Extremismus dienen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/immer-mehr-rechtsextreme-kampfsport-netzwerke-in-deutschland-100.html",
+        "date": "2026-10-21T23:46:02.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/vermischtes/article6ad938882c40700de080130e/active-clubs-professionalisierung-der-gewaltkompetenz-immer-mehr-rechtsextreme-kampfsport-netzwerke.html",
+        "date": "2026-10-21T22:28:49.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/immer-mehr-rechtsextreme-kampfsport-netzwerke-in-deutschland-100.html",
+    "agree": "Beide Quellen stimmen darin überein, dass die Zahl rechtsextremer Kampfsport-Netzwerke in Deutschland zunimmt.",
+    "diff": [
+      {
+        "name": "WELT",
+        "note": "Berichtet über die Professionalisierung der Gewaltkompetenz, nennt die US-amerikanischen 'Active Clubs' als Ideengeber und beschreibt die Rekrutierung junger Männer in Fitnessgruppen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-71b77552ef800ceb",
+    "c": "INT",
+    "o": "INT",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-21T23:20:58.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Ärzte: Papst Leo benötigt nach Lungenkrebs-Operation keine weitere Behandlung",
+    "s": "Papst Leo hat sich einer Operation unterzogen, bei der der Unterlappen seines rechten Lungenflügels entfernt wurde. Nach Angaben seiner Ärzte zeigen Tests nun, dass kein weiterer Behandlungsbedarf bezüglich der Krebserkrankung besteht. Das Oberhaupt der katholischen Kirche ist 71 Jahre alt.",
+    "m": "Der 71-jährige Papst Leo, Führer der katholischen Kirche, musste sich einem chirurgischen Eingriff unterziehen, bei dem der Unterlappen seines rechten Lungenflügels entfernt wurde. Nach den durchgeführten Tests gaben die Ärzte Entwarnung. Sie erklärten, dass der Pontifex keine weiteren Behandlungen im Zusammenhang mit der Lungenkrebserkrankung benötigt. Bislang wurden keine weiteren Details über den genauen Zeitpunkt des Eingriffs oder den aktuellen Genesungsverlauf in der Klinik bekannt gegeben. Die Meldung beschränkt sich auf die erfolgreiche Operation und den positiven medizinischen Befund der behandelnden Ärzte. Weitere Hintergründe zum Verlauf der Erkrankung oder offene Fragen bezüglich der Rückkehr in den Vatikan wurden in den aktuellen Berichten nicht genannt.",
+    "r": "Die Nachricht betrifft das gesundheitliche Befinden des Oberhauptes der katholischen Kirche, was weltweit von großer öffentlicher Relevanz ist. Medizinische Updates zu Papst Leo haben direkte Auswirkungen auf den Vatikan und die Millionen Gläubige weltweit.",
+    "srcs": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/21/pope-leo-needs-no-further-treatment-after-cancer-surgery-doctors-say?traffic_source=rss",
+        "date": "2026-10-21T23:20:58.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPUVM5bTFMZ0RfTEFrSlRNa2lyUDVDa1EtTEs2TTBrTUJaOUVhUEN3WEhpMmY5SlV1RmpMZjBCSlBKZHhjOXREN3pxN1pLMTlkWUl0REZCX0ZaRHp2SnNPRGs2dS01RmNWTUk5OXlOTXk4R1ZRc3pmVmUwaW5QOERCV05uQl9HS0ZBNjNRdXV3R2xOUXBoN2dTZEc4UkM1WHZRekFtZGtaNEJVRlc5Y2lyZld5WUViWFB6LVFjMFFvbUlKMC0yN1pfWi1SMGNBQjZwUXNTM29qV3g0SWpzaHpPcW1DOFdSd040NTYyRTRSR2JKdmdMUmdhSVQ4RVNFUkJY?oc=5",
+        "date": "2026-10-21T19:57:00.000Z"
+      }
+    ],
+    "url": "https://www.aljazeera.com/news/2026/10/21/pope-leo-needs-no-further-treatment-after-cancer-surgery-doctors-say?traffic_source=rss",
+    "agree": "Beide Quellen stimmen darin überein, dass Papst Leo nach einer Lungenkrebs-Operation laut Angaben seiner Ärzte keine weitere Behandlung benötigt.",
+    "diff": [
+      {
+        "name": "Al Jazeera",
+        "note": "Berichtet ergänzend, dass dem 71-jährigen Papst der Unterlappen seines rechten Lungenflügels entfernt wurde."
+      },
+      {
+        "name": "Google News World",
+        "note": "Verweist zusätzlich auf den Ursprung der Information bei The Journal Gazette und die dortigen Tests."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-7cd22383e2e55a3a",
+    "c": "INT",
+    "o": "UK",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-21T23:06:36.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Macron wirft ausländischen Führungspersönlichkeiten dumme Kommentare zu Unruhen vor",
+    "s": "Der französische Präsident Emmanuel Macron hat ausländische Führungspersönlichkeiten scharf kritisiert. Er warft ihnen vor, sich aus politischen Gründen mit irreführenden Informationen in die inneren Angelegenheiten und Unruhen in Frankreich einzumischen. Während eines Besuchs in Qatar äußerte er sich verärgert über entsprechende Äußerungen. Das Land bereitet sich währenddessen auf weitere Proteste am kommenden Wochenende vor.",
+    "m": "Emmanuel Macron hat während seines Besuchs in Qatar scharfe Kritik an ausländischen Führungspersönlichkeiten geäußert. Er warf ihnen vor, durch die Manipulation von Informationen nach den schweren Ausschreitungen vom vergangenen Samstag inakzeptable und dumme Kommentare für politische Zwecke abgegeben zu haben. Konkret nannte er in diesem Zusammenhang unter anderem US-Präsident Donald Trump. Die Äußerungen fielen in einer Phase, in der sich die französische Regierung intensiv auf eine neue Welle von Protesten und Demonstrationen am anstehenden Wochenende vorbereitet. Die Behörden befürchten weitere Ausschreitungen im Zuge der anhaltenden landesweiten Spannungen und der Protestbewegung der sogenannten Gelbwesten. Bislang ist unklar, wie stark die bevorstehenden Kundgebungen durch ausländische Reaktionen beeinflusst werden und welche konkreten Sicherheitsvorkehrungen die französischen Sicherheitskräfte für das Wochenende zusätzlich treffen werden.",
+    "r": "Die Aussagen des französischen Präsidenten beleuchten die diplomatischen Spannungen und den internationalen Informationskrieg infolge der innenpolitischen Krise. Zudem verdeutlichen sie die angespannte Sicherheitslage in Frankreich vor den angekündigten Wochenendprotesten.",
+    "srcs": [
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest",
+        "date": "2026-10-21T23:06:36.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd3lQQ19SQU9wS1B0N3NWek1pbS1NWXdONmVVOVJsaHhrc0RXN3ZfZFZseTc2NUJQTjl2RnlaODk1eWlUWmFLM1RVVWNCWjE4Vi13cDF1X0xzQnlQRW1La3o1d2tya0I4NW9SVmdYaHAta2l1TWo5Z0xiN0dyV2pWQXgySjZqeW1fY0tCNkNzdEo2UkQ5djhMcDkzeU9QdlJ5UkQ4Y2pZcw?oc=5",
+        "date": "2026-10-21T14:44:00.000Z"
+      }
+    ],
+    "url": "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest",
+    "agree": "Die Quellen stimmen überein, dass Emmanuel Macron ausländische Führungspersönlichkeiten wegen Kommentaren zu den Unruhen in Frankreich kritisiert hat.",
+    "diff": [
+      {
+        "name": "Guardian World",
+        "note": "Berichtet ausführlich über Macrons Vorwürfe während eines Besuchs in Qatar, die Erwähnung von Donald Trump sowie die Vorbereitungen auf Proteste am Wochenende."
+      },
+      {
+        "name": "Google News World",
+        "note": "Bietet lediglich eine kurze Verlinkung beziehungsweise Überschrift mit Verweis auf den Guardian-Artikel."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-0a3b2e01940c57b8",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-21T22:37:10.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "New Mexico erhebt Anklage gegen zwei Epstein-Vertraute",
+    "s": "Die Staatsanwaltschaft in New Mexico hat Anklage gegen zwei frühere Vertraute des verstorbenen Sexualstraftäters Jeffrey Epstein erhoben. Den Beschuldigten wird vorgeworfen, Menschenhandel ermöglicht zu haben. Mit dem rechtlichen Schritt soll zudem verhindert werden, dass sie von Epsteins Nachlass profitieren.",
+    "m": "Die Justizbehörden in US-Bundesstaat New Mexico gehen juristisch gegen zwei Wegbegleiter des verurteilten Sexualstraftäters Jeffrey Epstein vor. Konkret richtet sich die Anklage gegen seinen früheren Anwalt und seinen Buchhalter, denen vorgeworfen wird, den jahrelangen Missbrauchsring durch ihre Tätigkeiten und die Ermöglichung von Menschenhandel unterstützt zu haben. Epstein selbst hatte über viele Jahre hinweg zahlreiche junge Frauen und Minderjährige missbraucht. Die aktuelle Anklage zielt neben den strafrechtlichen Vorwürfen auch darauf ab, den Zugriff der beiden Beschuldigten auf den Nachlass des verstorbenen Millionärs zu unterbinden. Offen bleibt bislang, wie die Beschuldigten auf die Vorwürfe reagieren und wann ein Prozess beginnen könnte.",
+    "r": "Die Anklageerhebung gegen mutmassliche Helfer von Jeffrey Epstein ist ein wichtiger Schritt zur Aufarbeitung des Missbrauchsrings und betrifft vermögensrechtliche Fragen des Nachlasses. Die juristischen Schritte verdeutlichen, dass das Umfeld des verstorbenen US-Millionärs weiter strafrechtlich aufgearbeitet wird.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/politik/ausland/2026-10/jeffrey-epstein-new-mexico-raeul-torrez-missbrauch-menschenhandel",
+        "date": "2026-10-21T22:37:10.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/panorama/jeffrey-epstein-new-mexico-erhebt-anklage-gegen-zwei-vertraute-TS6PZUOO6NGAFIRF7WXALNUR7M.html",
+        "date": "2026-10-21T21:17:23.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/politik/ausland/2026-10/jeffrey-epstein-new-mexico-raeul-torrez-missbrauch-menschenhandel",
+    "agree": "Beide Quellen stimmen darin überein, dass New Mexico Anklage gegen zwei Vertraute von Jeffrey Epstein wegen ihrer mutmasslichen Rolle in dessen System erhoben hat.",
+    "diff": [
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Erwähnt konkret, dass es sich bei den Vertrauten um Epsteins früheren Anwalt und seinen Buchhalter handelt und dass die Staatsanwaltschaft verhindern will, dass sie vom Nachlass profitieren."
+      },
+      {
+        "name": "RND",
+        "note": "Erwähnt zusätzlich, dass Epstein über Jahre einen Missbrauchsring betrieben hat, dem zahlreiche junge Frauen und Minderjährige zum Opfer fielen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-9f9b912e01ace897",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-21T22:23:13.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Vincent Gross gewinnt das Finale von «Masked Singer»",
+    "s": "Der Sänger Vincent Gross hat die Musikshow «Masked Singer» gewonnen. Er trat im Finale als Stier beziehungsweise Fernando el Toro auf. Während der Show konnte Comedian Chris Tall mit seinen Tipps mehrfach richtig liegen.",
+    "m": "Im Finale der Fernsehsendung «Masked Singer» setzte sich der Sänger Vincent Gross gegen seine Konkurrenten durch. Er ging in der Kostümierung des Stiers Fernando el Toro an den Start und sicherte sich damit den Sieg der Show. Unterstützt wurde das Rateshow-Geschehen im Verlauf der Finalsendung durch den prominenten Rate-Gast beziehungsweise Juror Chris Tall. Dieser bewies ein gutes Gespür und lag mit seinen Tipps während des Finales gleich dreimal richtig. Weitere Details zu den unterlegenen Teilnehmern oder dem genauen Ablauf des Finalabends nennen die vorliegenden Berichte nicht.",
+    "r": "Die Nachricht ist für den Bereich der Unterhaltungsmedien und des Fernsehens relevant, da es sich um das Finale einer bekannten Musikshow handelt. Solche Finalentscheidungen und die Enthüllung der dahintersteckenden Prominenten ziehen regelmäßig ein breites Publikum an.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-10/21/als-stier-zum-sieg-vincent-gross-gewinnt-masked-singer",
+        "date": "2026-10-21T22:23:13.000Z"
+      },
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/kultur/staffelfinale-von--the-masked-singer---vincent-gross-singt-sich-zum-sieg-38433324.html",
+        "date": "2026-10-21T21:43:00.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/news/2026-10/21/als-stier-zum-sieg-vincent-gross-gewinnt-masked-singer",
+    "agree": "Beide Quellen stimmen überein, dass Vincent Gross als Stier («Fernando el Toro») die Show «Masked Singer» gewonnen hat.",
+    "diff": [
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Erwähnt im Titel den Stier als Siegerkostüm."
+      },
+      {
+        "name": "stern",
+        "note": "Erwähnt zusätzlich, dass Chris Tall im Finale dreimal richtig tippte."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-7eae1b16e09962af",
+    "c": "INT",
+    "o": "PT",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-21T21:45:52.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Sporting Lissabon verliert in der Champions League mit 2:3 gegen LASK Linz",
+    "s": "Der LASK Linz hat im Estádio de Alvalade gegen Sporting Lissabon mit 3:2 gewonnen. Für die portugiesischen Leões ist dies die erste Niederlage in der aktuellen Phase der Liga der Champions. Das Spiel fand im Rahmen des dritten Spieltags statt.",
+    "m": "Die österreichische Mannschaft LASK Linz trat im Estádio de Alvalade an und besiegte Sporting Lissabon mit 3:2. Diese Partie war Teil des dritten Spieltags der Ligaphase der UEFA Champions League. Durch dieses Ergebnis mussten die Leões ihre erste Niederlage im laufenden Wettbewerb hinnehmen. Details zum genauen Spielverlauf oder zu Torschützen nennen die Quellen nicht, jedoch markiert der Sieg einen wichtigen Erfolg für die Gäste aus Österreich in dieser Gruppen- beziehungsweise Ligaphase.",
+    "r": "Das Resultat hat unmittelbare Auswirkungen auf die Tabelle der Champions-League-Ligaphase, da Sporting Lissabon seine erste Niederlage im laufenden Wettbewerb hinnehmen musste. Der Auswärtssieg von LASK Linz stellt zudem einen bemerkenswerten Erfolg gegen die portugiesische Mannschaft dar.",
+    "srcs": [
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NVWZxLWVHSTdnNGNBM2ZlUFJ0RDJaaGFaQUJBSFBlS1ZZdFE1TkFiYWdPaVlYQ3JidExfM3piQnhkUGdKU0VpbUdpUE5sME11Z2JaNE8tLTFDWGRJenNnRk1qdldzY0wxeEtNTXBWc19YeUt0NWc?oc=5",
+        "date": "2026-10-21T21:45:52.000Z"
+      },
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/desporto/vitoria-por-3-2-lask-linz-o-carrasco-do-sporting_e1773304",
+        "date": "2026-10-21T17:46:06.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NVWZxLWVHSTdnNGNBM2ZlUFJ0RDJaaGFaQUJBSFBlS1ZZdFE1TkFiYWdPaVlYQ3JidExfM3piQnhkUGdKU0VpbUdpUE5sME11Z2JaNE8tLTFDWGRJenNnRk1qdldzY0wxeEtNTXBWc19YeUt0NWc?oc=5",
+    "agree": "Beide Quellen stimmen darin überein, dass LASK Linz Sporting Lissabon auswärts mit 3:2 besiegt hat.",
+    "diff": [
+      {
+        "name": "Google News Portugal",
+        "note": "Erwähnt kurz den Live-Ticker oder die Live-Berichterstattung zum Spiel."
+      },
+      {
+        "name": "RTP Notícias",
+        "note": "Nennt detailliert, dass das Spiel im Estádio de Alvalade stattfand, Teil der dritten Spieltag der Champions-League-Ligaphase war und für Sporting die erste Niederlage im Wettbewerb bedeutete."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-a7b4bc443983c5fd",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-21T21:32:36.000Z",
+    "p": 4,
+    "st": "BY",
+    "city": "",
+    "t": "Entwarnung nach Lungen-OP: Papst Leo XIV. ist krebsfrei",
+    "s": "Nach einer Krebsoperation am vergangenen Dienstag haben Ärzte Entwarnung gegeben. Dem 71-jährigen Papst Leo XIV. wurde zuvor ein bösartiger Tumor aus der Lunge entfernt. Nun steht fest, dass der Krebs nicht gestreut hat und keine weitere Therapie notwendig ist.",
+    "m": "Vor rund einer Woche wurde dem 71-jährigen Papst Leo XIV. ein bösartiger Tumor aus der Lunge entfernt, wobei ihm ein Teil des rechten Lungenlappens entnommen wurde. Am Mittwochabend teilten seine Ärzte mit, dass der Krebs nicht gestreut habe und es keine weiteren Metastasen gebe. Daher sei keine weitere medizinische Therapie mehr nötig. Die Entwarnung aus dem Vatikan hat laut Medienberichten auch direkte Auswirkungen auf anstehende Termine des Kirchenoberhaupts. Die genaue Art der zukünftigen Belastbarkeit des Papstes bleibt in den Berichten jedoch weiter im Detail offen.",
+    "r": "Die Gesundheit des Papstes ist ein international beachtetes Thema von hoher medialer Relevanz. Die erfolgreiche Krebsoperation und der Verzicht auf weitere Therapien bestimmen die aktuelle Berichterstattung des Vatikans.",
+    "srcs": [
+      {
+        "name": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/vatikan-papst-leo-ist-krebsfrei-keine-weitere-therapie-noetig,VYiK0DS",
+        "date": "2026-10-21T21:32:36.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/panorama/Krebs-bei-Papst-hat-nicht-gestreut-id31444478.html",
+        "date": "2026-10-21T19:53:47.000Z"
+      },
+      {
+        "name": "Rheinische Post",
+        "url": "https://rp-online.de/panorama/religion/vatikan-papst-ist-krebsfrei-und-braucht-keine-weitere-therapie_aid-156994199",
+        "date": "2026-10-21T19:34:00.000Z"
+      }
+    ],
+    "url": "https://www.br.de/nachrichten/deutschland-welt/vatikan-papst-leo-ist-krebsfrei-keine-weitere-therapie-noetig,VYiK0DS",
+    "agree": "Alle Quellen sind sich einig, dass dem Papst kürzlich ein bösartiger Tumor aus der Lunge entfernt wurde und er nun krebsfrei ist sowie keine weitere Therapie benötigt.",
+    "diff": [
+      {
+        "name": "BR24 Bayern",
+        "note": "Erwähnt, dass der Eingriff vor rund einer Woche stattfand."
+      },
+      {
+        "name": "ntv",
+        "note": "Nennt das Alter des Papstes mit 71 Jahren und präzisiert, dass ein Teil des rechten Lungenlappens entfernt wurde."
+      },
+      {
+        "name": "Rheinische Post",
+        "note": "Nennt den genauen Wochentag des Eingriffs (Dienstag), den Zeitpunkt der Entwarnung (Mittwochabend) und weist darauf hin, dass die Diagnose Auswirkungen auf weitere Termine hat."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
     "id": "story-f315f3ec6d228a55",
     "c": "INT",
     "o": "PT",
@@ -10,9 +475,9 @@
     "st": "",
     "city": "",
     "t": "Italien verschärft Sicherheitsgesetze nach Protesten",
-    "s": "Die italienische Regierung hat schärfere Sicherheitsmaßnahmen beschlossen. Auslöser ist eine jüngste Welle von Protesten auf den Straßen. Künftig ist die gewaltsame Teilnahme an Demonstrationen strafbar.",
-    "m": "Die italienische Regierung hat als Reaktion auf die jüngste Welle von Straßeprotesten deutlich härtere Sicherheitsmaßnahmen auf den Weg gebracht. Kernpunkt der neuen Regelungen ist, dass die gewaltsame Teilnahme an Demonstrationen nun explizit als Straftat eingestuft wird. Zudem sieht der Beschluss vor, dass unter bestimmten Voraussetzungen auch Minderjährige mit Untersuchungshaft belegt werden können. Diese gesetzlichen Verschärfungen zielen darauf ab, gewalttätige Ausschreitungen bei Kundgebungen konsequenter zu ahnden und abzuschrecken. Weitere Details zu den genauen parlamentarischen Schritten oder dem Inkrafttreten der Maßnahmen wurden in den Berichten nicht genannt.",
-    "r": "Die Gesetzesänderungen verändern den rechtlichen Rahmen für den Umgang mit Demonstrationen in Italien grundlegend und betreffen sowohl das Versammlungsrecht als auch das Jugendstrafrecht.",
+    "s": "Die italienische Regierung hat schärfere Sicherheitsmaßnahmen beschlossen, um gegen gewaltsame Proteste vorzugehen. Künftig gilt die Teilnahme an Ausschreitungen bei Demonstrationen als eigener Straftatbestand. Zudem wurde beschlossen, dass auch Minderjährige unter bestimmten Voraussetzungen in Untersuchungshaft genommen werden können.",
+    "m": "Als Reaktion auf eine Welle von Protesten hat das Kabinett in Italien härtere Gesetze verabschiedet. Die Beteiligung an gewaltsamen Demonstrationen ist nun offiziell als Straftat definiert. Darüber hinaus sieht die neue Gesetzgebung vor, dass die Untersuchungshaft künftig auch auf Minderjährige ausgeweitet werden kann. Diese Maßnahmen spiegeln die harte Haltung der Regierung angesichts der jüngsten Straßendemonstrationen wider. Die Reform zielt darauf ab, die öffentliche Sicherheit zu erhöhen und mutmaßlichen Randaliern strengere rechtliche Konsequenzen aufzuzeigen. Offen bleibt, wie die Umsetzung im Detail erfolgt und wie die Opposition auf diese Grundrechtsbeschränkungen reagieren wird.",
+    "r": "Die Gesetzesänderungen markieren eine drastische Verschärfung des italienischen Versammlungs- und Jugendstrafrechts. Sie zeigen, wie die Regierung auf zivilen Ungehorsam und Straßenproteste mit staat Härte reagiert.",
     "srcs": [
       {
         "name": "RTP Notícias",
@@ -26,19 +491,101 @@
       }
     ],
     "url": "https://www.rtp.pt/noticias/mundo/participacao-violenta-em-manifestacoes-passou-a-ser-crime-em-italia_v1773353",
-    "agree": "Die Quellen stimmen überein, dass die gewaltsame Teilnahme an Demonstrationen in Italien künftig als Verbrechen gilt und die Untersuchungshaft auf Minderjährige ausgeweitet werden kann.",
+    "agree": "Die italienische Regierung hat neue, härtere Sicherheitsmaßnahmen beschlossen, durch die gewaltsame Proteste kriminalisiert und die U-Haft für Minderjährige ermöglicht werden.",
     "diff": [
       {
         "name": "RTP Notícias",
-        "note": "Berichtet ergänzend, dass es sich um eine Reaktion der Regierung auf die neueste Welle von Protesten auf den Straßen handelt."
+        "note": "Berichtet ergänzend, dass die neuen Maßnahmen als direkte Reaktion der Regierung auf die jüngste Welle von Straßenprotesten zu verstehen sind."
       },
       {
         "name": "RTP Mundo",
-        "note": "Erwähnt präzisierend, dass die Regierung insgesamt härtere Sicherheitsmaßnahmen beschlossen hat."
+        "note": "Formuliert etwas allgemeiner, dass die Regierung generell härtere Sicherheitsmaßnahmen zur Bekämpfung gewaltsamer Demonstrationen auf den Weg gebracht hat."
       }
     ],
     "chg": "",
     "independent": 1
+  },
+  {
+    "id": "story-ffa5ddb26192a40b",
+    "c": "INT",
+    "o": "INT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-21T21:25:21.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Ehemaliger Staatsanwalt in Mexiko wegen US-Antidrogenoperation angeklagt",
+    "s": "In Mexiko ist ein ehemaliger Staatsanwalt wegen Landesverrats angeklagt worden. Hintergrund ist die Beteiligung von US-Agenten an einer Razzia in einem mutmaßlichen Drogenlabor im April. Der Vorwurf wirft Fragen zur Einhaltung der mexikanischen Gesetze auf.",
+    "m": "Der Fall betrifft den ehemaligen Staatsanwalt César Jáuregui Moreno, der beschuldigt wird, US-Agenten die Teilnahme an einer Razzia auf ein mutmaßliches Drogenlabor im Monat April erlaubt zu haben. Diese US-Beteiligung an der Operation hat in Mexiko eine Debatte darüber ausgelöst, ob dabei die nationalen Gesetze eingehalten wurden und ob die Souveränität des Landes gewahrt blieb. Die Ermittlungen gegen den Ex-Staatsanwalt konzentrieren sich auf den Vorwurf des Landesverrats im Zusammenhang mit diesem grenzüberschreitenden Einsatz. Bisher ist unklar, welche konkreten rechtlichen Konsequenzen dieser Vorfall für die bilateralen Beziehungen zwischen Mexiko und den USA haben wird. Auch die genauen Umstände der Einbindung der US-Kräfte und wer die Freigabe erteilt hat, sind Gegenstand der Untersuchung. Offen bleibt zudem, ob weitere Verantwortliche in den Behörden belangt werden.",
+    "r": "Die Anklage gegen einen hochrangigen Justizbeamten wegen der Kooperation mit ausländischen Agenten berührt Fragen der nationalen Souveränität und des Völkerrechts. Solche Vorfälle können die sicherheitspolitische Zusammenarbeit zwischen den beteiligten Staaten nachhaltig belasten.",
+    "srcs": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/21/mexico-charges-prosecutor-with-treason-over-us-involvement-in-drug-raid?traffic_source=rss",
+        "date": "2026-10-21T21:25:21.000Z"
+      },
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ckx2qpw4rjd7o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-21T20:19:51.000Z"
+      }
+    ],
+    "url": "https://www.aljazeera.com/news/2026/10/21/mexico-charges-prosecutor-with-treason-over-us-involvement-in-drug-raid?traffic_source=rss",
+    "agree": "Beide Quellen stimmen überein, dass ein ehemaliger Staatsanwalt in Mexiko wegen Landesverrats im Zusammenhang mit einer US-Drogenrazzia im April angeklagt wurde.",
+    "diff": [
+      {
+        "name": "Al Jazeera",
+        "note": "Berichtet allgemein über die Beteiligung von US-Agenten an der Operation und dass dies Fragen über die Einhaltung mexikanischer Gesetze aufwirft."
+      },
+      {
+        "name": "BBC World",
+        "note": "Nennt den Namen des beschuldigten Ex-Staatsanwalts César Jáuregui Moreno konkret."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-7f04077ee1337ec7",
+    "c": "INT",
+    "o": "DE",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-21T20:58:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "FC Bayern verpasst Sieg gegen Arsenal in der Champions League",
+    "s": "Der FC Bayern München hat in der Champions League einen Sieg gegen den FC Arsenal in der Schlussphase vergeben. Trotz einer guten Leistung und einer zwischenzeitlichen Führung reichte es am Ende nur zu einem Unentschieden gegen die Londoner. In der zweiten Hälfte hatten die Münchner das Spiel zunächst gedreht, zeigten sich dann aber unaufmerksam. Gleichzeitig war Real Madrid für RB Leipzig eine Nummer zu groß.",
+    "m": "Das Champions-League-Spiel zwischen dem FC Bayern München und dem FC Arsenal bot hochklassigen Fußball und verlief dramatisch. Arsenal ging zunächst in Führung, doch die Bayern zeigten eine starke Leistung und drehten die Partie in der zweiten Hälfte vorerst zu ihren Gunsten. In der Schlussphase gaben die Münchner den möglichen Sieg jedoch aus der Hand und mussten den Ausgleich hinnehmen. Hauptgrund für den Punktverlust war eine Unaufmerksamkeit in der Defensive in den letzten Minuten der Begegnung. Unabhängig davon musste RB Leipzig in einem Parallelspielerkennen, dass Real Madrid eine Nummer zu groß für sie ist.",
+    "r": "Das Ergebnis und der späte Punktverlust des FC Bayern in der Champions League sind von hoher sportlicher Bedeutung für den weiteren Verlauf des Turniers. Zudem zeigt das Abschneiden von RB Leipzig gegen Real Madrid die sportlichen Kräfteverhältnisse auf.",
+    "srcs": [
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/sport/fussball/champions-league--bayern-verpassen-sieg-gegen-arsenal-38433038.html",
+        "date": "2026-10-21T20:58:00.000Z"
+      },
+      {
+        "name": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/sport/fussball/champions-league/champions-league-fc-bayern-verspielt-sieg-gegen-arsenal-in-der-schlussphase-201305372.html",
+        "date": "2026-10-21T20:54:54.000Z"
+      }
+    ],
+    "url": "https://www.stern.de/sport/fussball/champions-league--bayern-verpassen-sieg-gegen-arsenal-38433038.html",
+    "agree": "Die Quellen sind sich einig, dass der FC Bayern gegen Arsenal einen möglichen Sieg in der Schlussphase verspielt hat und das Spiel zuvor drehen konnte.",
+    "diff": [
+      {
+        "name": "stern",
+        "note": "Erwähnt zusätzlich das Spiel von RB Leipzig gegen Real Madrid und dass die Londoner nach dem Rückstand der Bayern noch einmal zurückkamen."
+      },
+      {
+        "name": "Frankfurter Allgemeine",
+        "note": "Betont explizit das hochklassige Niveau der Partie und bewertet die Leistung der Bayern trotz des verpassten Sieges als gut."
+      }
+    ],
+    "chg": "",
+    "independent": 2
   },
   {
     "id": "story-f498aa046aafd3bd",
@@ -200,6 +747,38 @@
     "independent": 4
   },
   {
+    "id": "story-e2782a307c4f5389",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-21T20:08:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Papst Leo XIV. benötigt nach Lungen-Operation keine weitere Krebstherapie",
+    "s": "Papst Leo XIV. hat sich einer Lungenoperation unterzogen. Nach Angaben der behandelnden Ärzte hat sich der Tumor nicht im Körper ausgebreitet. Eine zusätzliche Krebstherapie ist demnach nicht erforderlich. Der Eingriff und die anschließende Diagnose bringen Entwarnung für das Kirchenoberhaupt.",
+    "m": "Nach einer erfolgreichen Lungen-Operation bei Papst Leo XIV. haben die Mediziner Entwarnung gegeben. Untersuchungen ergaben, dass der Tumor lokal begrenzt geblieben ist und sich nicht weiter ausgebreitet hat. Aus diesem Grund sehen die Ärzte von einer weiteren Krebstherapie ab. Der genaue Zeitpunkt des Eingriffs sowie nähere Details zum operativen Verlauf oder dem gegenwärtigen Aufenthaltsort des Papstes wurden in den vorliegenden Berichten nicht genannt. Auch über den voraussichtlichen Zeitpunkt seiner Entlassung oder die Wiederaufnahme öffentlicher Termine gibt es noch keine offiziellen Angaben.",
+    "r": "Die Gesundheit des Papstes ist von weltweitem öffentlichem und institutionellem Interesse. Die medizinische Entwarnung nach einer Krebserkrankung beeinflusst direkt die Handlungsfähigkeit und den Terminkalender des Kirchenoberhaupts.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxON2ZMaGluNGZqMHBTMW5IazRLRGdOTWNBY2dTY253MHVXeHlBUTktZ3NGV2tpcUpMSGxpZGdyeVVIanFDMnRSaTdzTlphTWduOHVzNmJrQ2dwemNHUmhiYWtYeTdWVzdsMnZLSWRNeWNidGFjQTBwY0I2LUVzWHBNTjBkMS1zakN5azlPS1RlNjRPTUJlb3FuM1VSWmRBbE5hQzFjUEdNbWFKemF4aHlpTm1jdGhxOHdiek9aVTJORnpUVDdWUjExUjhXNEZwaWZiZ2FKTkQxQlVHOGpvUGdNNnNLbzNLQQ?oc=5",
+        "date": "2026-10-21T20:08:00.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/panorama/leute/vatikan-papst-leo-xiv-benoetigt-nach-lungen-op-keine-weitere-krebstherapie-a-8202916e-3180-4975-b133-cd8c29464a73#ref=rss",
+        "date": "2026-10-21T20:08:00.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxON2ZMaGluNGZqMHBTMW5IazRLRGdOTWNBY2dTY253MHVXeHlBUTktZ3NGV2tpcUpMSGxpZGdyeVVIanFDMnRSaTdzTlphTWduOHVzNmJrQ2dwemNHUmhiYWtYeTdWVzdsMnZLSWRNeWNidGFjQTBwY0I2LUVzWHBNTjBkMS1zakN5azlPS1RlNjRPTUJlb3FuM1VSWmRBbE5hQzFjUEdNbWFKemF4aHlpTm1jdGhxOHdiek9aVTJORnpUVDdWUjExUjhXNEZwaWZiZ2FKTkQxQlVHOGpvUGdNNnNLbzNLQQ?oc=5",
+    "agree": "Die Quellen stimmen überein, dass Papst Leo XIV. eine Lungen-Operation hatte und keine weitere Krebstherapie benötigt, da sich der Tumor nicht ausgebreitet hat.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-5cc3d011c2f4a9a8",
     "c": "DE",
     "o": "DE",
@@ -241,6 +820,47 @@
     "independent": 2
   },
   {
+    "id": "story-83bb4c5b1d8c35e2",
+    "c": "INT",
+    "o": "UK",
+    "k": "technik",
+    "lang": "de",
+    "d": "2026-10-21T19:54:57.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Weltweite Website-Ausfälle nach kritischem PHP-Sicherheitsupdate",
+    "s": "Weltweit kommt es zu Website-Ausfällen, nachdem ein kritisches Sicherheitsupdate veröffentlicht wurde. Grund dafür sind Schwachstellen in der Programmiersprache PHP. Die Probleme gehören laut KI-Einschätzungen zu den bedeutendsten jemals entdeckten.",
+    "m": "Weltweit sind zahlreiche Websites infolge von Sicherheitslücken in der Programmiersprache PHP ausgefallen. Die betroffenen Schwachstellen gelten als die bisher bedeutendsten, die jemals durch Künstliche Intelligenz identifiziert wurden. Im Zuge dieser Entwicklung wurde ein kritisches Cybersicherheitsupdate herausgegeben. Genaue Details zu betroffenen Unternehmen oder konkreten Schadenssummen nennen die vorliegenden Berichte bisher nicht. Es bleibt zunächst unklar, wie lange die weltweiten Störungen andauern werden und welche konkreten Systeme massiv gefährdet sind. Die Situation erfordert ein schnelles Handeln der Betreiber betroffener Webpräsenzen, um die Integrität ihrer Daten zu schützen.",
+    "r": "Die weltweiten Ausfälle betreffen eine der am häufigsten genutzten Programmiersprachen des Internets. Das kritische Sicherheitsupdate hat globale Relevanz für Webseitenbetreiber und die allgemeine Cybersicherheit.",
+    "srcs": [
+      {
+        "name": "BBC Technology",
+        "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-21T19:54:57.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yYkJ1a0hkTXBMWUxzUGRNam81RzlXVTd0THJ2cWlvbVd4VmlNQ0ZzeHV0b21aR21mazJNTXAwSjRqN3VoNzgydHplRmRUamltaFJSUmZvcXBUZDg?oc=5",
+        "date": "2026-10-21T19:54:57.000Z"
+      }
+    ],
+    "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+    "agree": "Die Quellen stimmen darin überein, dass Websites weltweit aufgrund eines kritischen PHP-Sicherheitsupdates ausgefallen sind.",
+    "diff": [
+      {
+        "name": "BBC Technology",
+        "note": "Berichtet, dass die PHP-Schwachstellen als die von KI jemals am stärksten gefundenen beschrieben wurden."
+      },
+      {
+        "name": "Google News World",
+        "note": "Verweist lediglich auf den Artikel der BBC zu den weltweiten Website-Ausfällen und dem kritischen Update."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-ee22c0827015b93b",
     "c": "INT",
     "o": "DE",
@@ -276,6 +896,47 @@
       {
         "name": "BR24 Bayern",
         "note": "Gibt an, dass der Eingriff vor rund einer Woche stattfand und die Ärzte Entwarnung gaben."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-7963b3dae754ca63",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-21T19:46:55.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Verlag beendet Zusammenarbeit mit Star-Autor nach KI-Vorwürfen",
+    "s": "Nach Vorwürfen über den Einsatz von künstlicher Intelligenz hat ein Verlag die Zusammenarbeit mit dem Star-Autor Thélyson Orélien beendet. Der Verlag sieht die Vorwürfe nach eigenen Angaben als bestätigt an. Eine abschließende Klärung zum genauen Ausmaß des KI-Einsatzes steht jedoch noch aus.",
+    "m": "Der Verlag hat nach einer Prüfung Konsequenzen gezogen und sich von dem Autor Thélyson Orélien getrennt, nachdem zuvor Vorwürfe bezüglich der Verwendung von künstlicher Intelligenz laut wurden. Trotz der Beendigung der geschäftlichen Beziehungen bleibt eine endgültige und detaillierte Antwort auf die Frage, in welchem Umfang genau KI bei den Werken genutzt wurde, bislang aus. Der Fall wirft Fragen zum Umgang der Verlagsbranche mit künstlicher Intelligenz bei literarischen Werken auf. Weitere Details zu den betroffenen Publikationen oder Reaktionen des Autors selbst gehen aus den vorliegenden Berichten nicht hervor. Der aktuelle Stand beschränkt sich auf die offizielle Trennung und die Bestätigung der Vorwürfe durch den Verlag.",
+    "r": "Die Vorwürfe und die darauffolgende Trennung eines Verlags von einem Star-Autor wegen des Einsatzes von künstlicher Intelligenz beleuchten die aktuellen Herausforderungen und Richtlinien im Literaturbetrieb. Der Fall zeigt auf, wie Verlage auf entsprechende Enthüllungen reagieren.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNX09Sc25PLXVOXzNtYVlLVDVtSkwzTmhlRjJFdUZYVDdQRkF0bkJSLU1ETlRtVnhqSXJCWWpCdFJpWkFRdm1EWkJObnF5SEp6S1FERUh4TlU1dEVMbl9jWVl6cDFWN245Nmp6akc1QmRPamxULTRubjk5NU9MdzlsNjhMdV9wMnVjM1p0TTAyTVVaUGF0X2Q1aldvZXVFVGpOckEwY29veGlUVVpKZjZRNDd1WnVuYzJrekFrNWxROUllYWtVRmRmNDBEY2M1LXU2d3pRa29xLUVXaEM5REp5d0JKQjlQcWkwWXY2WA?oc=5",
+        "date": "2026-10-21T19:46:55.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/kultur/article6ad90bfb644b4a3b9e68b281/verlag-sieht-ki-vorwuerfe-gegen-star-autor-orelien-bestaetigt-und-beendet-die-zusammenarbeit.html",
+        "date": "2026-10-21T19:21:22.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNX09Sc25PLXVOXzNtYVlLVDVtSkwzTmhlRjJFdUZYVDdQRkF0bkJSLU1ETlRtVnhqSXJCWWpCdFJpWkFRdm1EWkJObnF5SEp6S1FERUh4TlU1dEVMbl9jWVl6cDFWN245Nmp6akc1QmRPamxULTRubjk5NU9MdzlsNjhMdV9wMnVjM1p0TTAyTVVaUGF0X2Q1aldvZXVFVGpOckEwY29veGlUVVpKZjZRNDd1WnVuYzJrekFrNWxROUllYWtVRmRmNDBEY2M1LXU2d3pRa29xLUVXaEM5REp5d0JKQjlQcWkwWXY2WA?oc=5",
+    "agree": "Die Quellen sind sich einig, dass ein Verlag die Zusammenarbeit mit dem Star-Autor nach KI-Vorwürfen beendet hat.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Bringt die Kurzmeldung mit Verweis auf die WELT-Berichterstattung."
+      },
+      {
+        "name": "WELT",
+        "note": "Nennt den Namen des Autors Thélyson Orélien und ergänzt, dass eine endgültige Antwort auf das Ausmaß des KI-Einsatzes ausbleibt."
       }
     ],
     "chg": "",
@@ -479,47 +1140,6 @@
     "independent": 2
   },
   {
-    "id": "story-7cd22383e2e55a3a",
-    "c": "INT",
-    "o": "UK",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-21T19:40:56.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Macron wirft ausländischen Politikern „dumme Kommentare“ zu Unruhen vor",
-    "s": "Der französische Präsident Emmanuel Macron hat ausländische Führungspersönlichkeiten scharf kritisiert. Anlass sind deren Äußerungen zu den jüngsten Straßsunruhen in Frankreich. Macron wirft ihnen vor, aus politischen Gründen Fehlinformationen zu verbreiten und Manipulationen zu betreiben.",
-    "m": "Während eines Besuchs in Katar äußerte sich der französische Präsident Emmanuel Macron zu den Reaktionen internationaler Politiker auf die schweren Ausschreitungen in Frankreich am vergangenen Samstag. Ohne Namen direkt zu nennen, bezog er sich dabei unter anderem auf US-Präsident Donald Trump. Macron bezeichnete die Kommentare als inakzeptabel und dumm. Die Kritik erfolgt in einer angespannten Phase, während sich das Land auf neue Proteste an diesem Wochenende vorbereitet. Die französische Regierung zeigt sich besorgt über die Verbreitung irreführender Informationen im Ausland. Offen bleibt, wie die betroffenen Staaten auf die diplomatische Rüge reagieren werden.",
-    "r": "Die Aussagen des französischen Präsidenten beleuchten internationale Spannungen und den Umgang mit Desinformation im Kontext innenpolitischer Krisen. Die scharfe Wortwahl verdeutlicht den diplomatischen Konflikt bezüglich der Darstellung der französischen Proteste im Ausland.",
-    "srcs": [
-      {
-        "name": "Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest",
-        "date": "2026-10-21T19:40:56.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd3lQQ19SQU9wS1B0N3NWek1pbS1NWXdONmVVOVJsaHhrc0RXN3ZfZFZseTc2NUJQTjl2RnlaODk1eWlUWmFLM1RVVWNCWjE4Vi13cDF1X0xzQnlQRW1La3o1d2tya0I4NW9SVmdYaHAta2l1TWo5Z0xiN0dyV2pWQXgySjZqeW1fY0tCNkNzdEo2UkQ5djhMcDkzeU9QdlJ5UkQ4Y2pZcw?oc=5",
-        "date": "2026-10-21T14:44:00.000Z"
-      }
-    ],
-    "url": "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest",
-    "agree": "Die Quellen stimmen überein, dass Emmanuel Macron ausländische Führungspersönlichkeiten für Kommentare zu den Unruhen kritisiert hat.",
-    "diff": [
-      {
-        "name": "Guardian World",
-        "note": "Berichtet detailliert über Macrons Äußerungen während seines Besuchs in Katar, die Kritik an Donald Trump sowie die Vorbereitung auf weitere Proteste am kommenden Wochenende."
-      },
-      {
-        "name": "Google News World",
-        "note": "Bietet lediglich eine kurze Verlinkung auf den Guardian-Artikel ohne zusätzliche Informationen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
     "id": "story-1bc5fcd985f28560",
     "c": "DE",
     "o": "DE",
@@ -567,13 +1187,13 @@
     "k": "sport",
     "lang": "de",
     "d": "2026-10-21T19:20:14.000Z",
-    "p": 2,
+    "p": 3,
     "st": "",
     "city": "",
-    "t": "Champions League: Como gegen Manchester United gefährdet durch Unwetter",
-    "s": "Dem Champions-League-Spiel zwischen Como und Manchester United in der Lombardei droht wegen heftiger Regenfälle eine Absage. Die Partie ist für Mittwochabend angesetzt. Wetterbedingungen könnten das Spielfeld unbespielbar machen.",
-    "m": "Am Mittwochabend soll das Champions-League-Spiel zwischen Como und Manchester United in der Lombardei stattfinden. Starker Regen und Unwetter in der Region sorgen jedoch für massive Bedenken hinsichtlich der Durchführung der Begegnung. Ob die Partie angepfiffen werden kann oder abgesagt werden muss, hängt vom weiteren Verlauf der Wetterlage ab. Die Mannschaft von Como wird von Cesc Fàbregas trainiert. Manchester United zeigte zuletzt in einem anderen Spiel eine schwache Leistung und eine deutliche Niederlage.",
-    "r": "Mögliche witterungsbedingte Spielabsagen im internationalen Fußball sind relevant für den Spielplan und die Sicherheit der Beteiligten. Die Partie betrifft zwei bekannte Vereine in der Champions League.",
+    "t": "Champions League: Como gegen Manchester United gefährdet",
+    "s": "In der Lombardei droht dem Champions-League-Spiel zwischen Como und Manchester United wegen heftiger Regenfälle möglicherweise eine Absage. Der Ort leidet unter starkem Hochwasser und extremen Wetterbedingungen. Die Partie ist für den kommenden Mittwochabend angesetzt.",
+    "m": "Das für Mittwochabend geplante Champions-League-Spiel zwischen Como und Manchester United in der Lombardei steht vor einer möglichen Absage. Grund dafür sind heftige Regenfälle und extreme Wetterbedingungen, die zu massiven Problemen vor Ort geführt haben. Gleichzeitig wird sportlich auf ein mögliches Aufeinandertreffen geblickt, bei dem Cesc Fàbregas als Verantwortlicher der dominanten Como-Mannschaft gilt. Manchester United zeigt im Vorfeld eine besorgniserregende Form. Ob die Platzverhältnisse und die Wetterlage eine Durchführung der Begegnung erlauben, ist derzeit noch unklar.",
+    "r": "Die Partie im internationalen Vereinsfußball droht aufgrund extremer Witterungsbedingungen in der Lombardei auszufallen. Dies betrifft die sportlichen Planungen beider Mannschaften in der laufenden Champions-League-Saison.",
     "srcs": [
       {
         "name": "Guardian Sport",
@@ -587,15 +1207,56 @@
       }
     ],
     "url": "https://www.theguardian.com/football/live/2026/oct/21/como-v-manchester-united-champions-league-live",
-    "agree": "Beide Quellen berichten über die bevorstehende Champions-League-Begegnung zwischen Como und Manchester United.",
+    "agree": "Die Quellen berichten über ein bevorstehendes beziehungsweise stattfindendes Champions-League-Spiel zwischen Como und Manchester United.",
     "diff": [
       {
         "name": "Guardian Sport",
-        "note": "Berichtet von einem Spielstand von Como gegen Manchester United mit dem Ergebnis 4-1 und erwähnt Cesc Fàbregas als Trainer von Como sowie eine schwache Leistung von United."
+        "note": "Berichtet von einem Spielstand von 4-1 für Como und einer dominanten Leistung des von Cesc Fàbregas trainierten Teams."
       },
       {
         "name": "t-online Sport",
-        "note": "Berichtet, dass der Partie heftige Regenfälle in der Lombardei drohen und eine Absage möglich ist."
+        "note": "Berichtet vorab von heftigen Regenfällen in der Lombardei und einer drohenden Absage der Partie."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-15747aca8b430373",
+    "c": "INT",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-21T19:14:17.000Z",
+    "p": 3,
+    "st": "BY",
+    "city": "",
+    "t": "Cambridge-Analytica-Skandal: Meta soll 25 Milliarden Dollar Strafe zahlen",
+    "s": "Der Datenschutz-Skandal um Cambridge Analytica hat langjährige Folgen für den Facebook-Mutterkonzern Meta. Mehr Jahre nach dem Vorfall droht dem Unternehmen nun eine astronomische Geldstrafe in den USA. Meta zeigt sich jedoch offenbar nicht bereit, diese Forderung kampflos zu akzeptieren.",
+    "m": "Der im US-Bundesstaat New Mexico verhandelte Fall knüpft an den massiven Datenschutz-Skandal um Cambridge Analytica an, der das Vertrauen in die Plattform Facebook einst schwer erschütterte. Nun wird der Mutterkonzern Meta mit einer Forderung in Höhe von 25 Milliarden Dollar konfrontiert. Ob diese Summe endgültig gezahlt werden muss und wie sich das Unternehmen rechtlich weiter verteidigen wird, ist Gegenstand der juristischen Auseinandersetzung. Die beträchtliche Höhe der Strafe unterstreicht die anhaltende Schärfe, mit der Verstöße gegen den Datenschutz in den USA behördlich und gerichtlich verfolgt werden. Meta hat signalisiert, dass die Entscheidung und die geforderte Summe nicht einfach hingenommen werden sollen. Weitere Details zum genauen zeitlichen Ablauf des Verfahrens und zu beteiligten Nebenklägern oder Richtern gehen aus den Berichten nicht hervor.",
+    "r": "Die Meldung ist relevant, da eine Geldstrafe in dieser Höhe von 25 Milliarden Dollar für einen der weltweit größten Tech-Konzerne erhebliche finanzielle und rechtliche Präzedenzwirkungen haben kann. Zudem betrifft sie den Schutz von Nutzerdaten in globalem Ausmaß.",
+    "srcs": [
+      {
+        "name": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/cambridge-analytica-skandal-meta-muss-milliarden-strafe-zahlen,VYhzHKb",
+        "date": "2026-10-21T19:14:17.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/politik/25-milliarden-dollar-strafe-fuer-meta-nach-datenschutz-skandal-KYAIM62OTFBKXDF2SLEOWYHLJI.html",
+        "date": "2026-10-21T18:20:32.000Z"
+      }
+    ],
+    "url": "https://www.br.de/nachrichten/deutschland-welt/cambridge-analytica-skandal-meta-muss-milliarden-strafe-zahlen,VYhzHKb",
+    "agree": "Die Quellen sind sich einig, dass Meta im Zusammenhang mit dem Cambridge-Analytica-Skandal im US-Bundesstaat New Mexico mit einer Strafe von 25 Milliarden Dollar konfrontiert wird.",
+    "diff": [
+      {
+        "name": "BR24 Bayern",
+        "note": "Erwähnt zusätzlich, dass Meta die geplante Milliarden-Strafe wohl nicht akzeptieren will."
+      },
+      {
+        "name": "RND",
+        "note": "Nennt explizit den US-Bundesstaat New Mexico als Schauplatz."
       }
     ],
     "chg": "",
@@ -611,10 +1272,10 @@
     "p": 3,
     "st": "HH",
     "city": "",
-    "t": "Nach 24 Jahren in Deutschland: Elena Brandt nach Kirgistan abgeschoben",
-    "s": "Die 55-jährige Elena Brandt hat 24 Jahre lang in Hamburg gelebt. Trotz ihrer dort verwurzelten Familie wurde sie im März nach Kirgistan abgeschoben. Ihre Angehörigen setzen sich nun für ihre Rückkehr ein.",
-    "m": "Elena Brandt lebte seit 24 Jahren in Hamburg, wo auch ihre Kinder und Enkel zu Hause sind. Im März dieses Jahres wurde die 55-Jährige dennoch nach Kirgistan abgeschoben. Die Familie kämpft seither aktiv um ihre Rückkehr nach Deutschland. In diesem Zusammenhang wird das Vorgehen der zuständigen Ausländerbehörde von den Angehörigen stark kritisiert. Bislang ist unklar, ob rechtliche oder administrative Schritte zur Rückholung eingeleitet werden können. Der Fall wirft Fragen zum Umgang mit langjährig integrierten Personen im Aufenthaltsrecht auf.",
-    "r": "Der Fall einer langjährig in Deutschland lebenden Frau wirft Fragen zur Härtefallregelung und Praxis von Abschiebung auf. Die Berichterstattung beleuchtet die familiären Bindungen und die Kritik am Vorgehen der Behörden.",
+    "t": "Hamburg: 55-jährige Elena Brandt nach 24 Jahren nach Kirgistan abgeschoben",
+    "s": "Nach 24 Jahren Aufenthalt in Hamburg wurde die 55-jährige Elena Brandt im März nach Kirgistan abgeschoben. Die in Deutschland verwurzelte Großmutter hat dort Kinder und Enkel. Ihre Familie setzt sich nun für ihre Rückkehr ein. Das Vorgehen der zuständigen Ausländerbehörde steht dabei in der Kritik.",
+    "m": "Elena Brandt lebte seit 24 Jahren in Deutschland und war in Hamburg heimisch geworden. Ihre gesamte Kernfamilie, darunter Kinder und Enkelkinder, lebt nach wie vor in Hamburg. Trotz dieser langjährigen familiären und sozialen Bindungen erfolgte im März die Abschiebung der 55-Jährigen nach Kirgistan. Die Familie hat die Abschiebung nicht hingenommen und kämpft seither aktiv für die Rückholung der Großmutter nach Deutschland. Im Rahmen dieses Protests wird insbesondere das konkrete Vorgehen der Hamburger Ausländerbehörde scharf kritisiert. Ob rechtliche Schritte Aussicht auf Erfolg haben oder wie die Behörde auf die Vorwürfe reagiert, geht aus den vorliegenden Berichten nicht hervor.",
+    "r": "Der Fall wirft Fragen zum Umgang mit langjährig integrierten Personen und zu härteren Abschiebungspraxis bei familiären Bindungen in Deutschland auf. Die Schilderungen beleuchten den Konflikt zwischen ausländerrechtlichen Vorgaben und familiärem Zusammenhalt.",
     "srcs": [
       {
         "name": "NDR Hamburg",
@@ -628,15 +1289,15 @@
       }
     ],
     "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/abschiebung-von-deutschland-nach-kirgisistan-nach-24-jahren,hamj-15774.html",
-    "agree": "Die Quellen stimmen überein, dass Elena Brandt 24 Jahre lang in Hamburg lebte, im März nach Kirgistan abgeschoben wurde und ihre Familie für ihre Rückkehr kämpft.",
+    "agree": "Die Quellen stimmen überein, dass Elena Brandt nach 24 Jahren in Hamburg im März nach Kirgistan abgeschoben wurde und ihre Familie für ihre Rückkehr kämpft.",
     "diff": [
       {
         "name": "NDR Hamburg",
-        "note": "Erwähnt zusätzlich, dass die Kinder und Enkel der 55-Jährigen in Hamburg zu Hause sind und die Familie das Vorgehen der Ausländerbehörde kritisiert."
+        "note": "Erwähnt zusätzlich die Kritik der Familie am konkreten Vorgehen der Ausländerbehörde."
       },
       {
         "name": "Tagesschau Regional Hamburg",
-        "note": "Enthält keine zusätzlichen Details im Vergleich zum NDR-Bericht."
+        "note": "Berichtet im Titel von einer Großmutter, nennt aber im Text keine Details zu Enkeln."
       }
     ],
     "chg": "",
@@ -735,9 +1396,9 @@
     "st": "RP",
     "city": "",
     "t": "Mainzer Oktoberfest nach wochenlangem Streit genehmigt",
-    "s": "Das Mainzer Oktoberfest ist trotz wochenlangen Streits offiziell von der Stadt genehmigt worden. Damit steht dem Start des Volksfestes am kommenden Freitag nichts mehr im Weg. Es gab im Vorfeld noch nie so viel Ärger um eine solche Veranstaltung in Mainz. Die genauen Hintergründe des Streits werden von den Quellen nicht weiter ausgeführt.",
-    "m": "Das umstrittene Mainzer Oktoberfest findet statt, nachdem die Stadt nach wochenlangem Streit nun die Genehmigung erteilt hat. Der Beginn der Veranstaltung ist für den kommenden Freitag angesetzt. Nach Angaben der Berichterstattung gab es in Mainz noch nie zuvor so viel Ärger im Vorfeld eines Volksfestes. Weitere Details zu den Streitpunkten, den beteiligten Akteuren, Auflagen oder dem genauen Programm gehen aus den vorliegenden kurzen Meldungen nicht hervor.",
-    "r": "Die behördliche Genehmigung beendet einen wochenlangen Streit um die Durchführung des Mainzer Oktoberfests. Das Ereignis markiert den Beginn eines Volksfestes, das im Vorfeld ungewöhnlich viele Konflikte ausgelöst hat.",
+    "s": "Das Mainzer Oktoberfest ist trotz wochenlangen Streits offiziell genehmigt worden und kann am kommenden Freitag planmäßig starten. Es gab im Vorfeld noch nie so viel Ärger um ein Volksfest in der Stadt wie in diesem Fall. Die zuständige Stadtverwaltung hat nun grünes Licht für die Veranstaltung gegeben.",
+    "m": "Das Mainzer Oktoberfest steht vor seinem Beginn am kommenden Freitag, nachdem die Stadt das Volksfest nun offiziell genehmigt hat. Im Vorfeld der Veranstaltung hatte es einen wochenlangen Streit gegeben, der so intensiv war wie bei keinem anderen Volksfest zuvor in Mainz. Obgleich die genauen Gründe für die Auseinandersetzungen aus den vorliegenden Berichten nicht detailliert hervorgehen, steht fest, dass die behördliche Freigabe erfolgt ist. Damit findet das Fest trotz der vorangegangenen Unstimmigkeiten statt.",
+    "r": "Die Genehmigung und der bevorstehende Start des Mainzer Oktoberfests beenden einen wochenlangen lokalen Streit um die Veranstaltung. Das Ereignis ist von regionalem Interesse für die Stadt Mainz und Rheinland-Pfalz.",
     "srcs": [
       {
         "name": "SWR Aktuell",
@@ -751,17 +1412,8 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/rheinland-pfalz/mainz/mainzer-oktoberfest-findet-doch-statt-100.html",
-    "agree": "Die Quellen stimmen darin überein, dass das Mainzer Oktoberfest trotz eines wochenlangen Streits genehmigt wurde und am Freitag startet.",
-    "diff": [
-      {
-        "name": "SWR Aktuell",
-        "note": "Erwähnt im Titel ergänzend, dass es sich um das Oktoberfest in Mainz handelt."
-      },
-      {
-        "name": "Tagesschau Regional Rheinland-Pfalz",
-        "note": "Betitelt das Ereignis als \"Mainzer Oktoberfest startet am Freitag\"."
-      }
-    ],
+    "agree": "Beide Quellen stimmen überein, dass das Mainzer Oktoberfest trotz eines wochenlangen und in diesem Ausmaß beispiellosen Streits von der Stadt genehmigt wurde und am Freitag startet.",
+    "diff": [],
     "chg": "",
     "independent": 2
   },
@@ -772,13 +1424,13 @@
     "k": "politik",
     "lang": "de",
     "d": "2026-10-21T17:48:20.000Z",
-    "p": 3,
+    "p": 2,
     "st": "",
     "city": "",
-    "t": "Macron kritisiert Trump wegen Äußerungen zu Frankreichs Unruhen",
-    "s": "Der französische Präsident Emmanuel Macron hat US-Präsident Donald Trump für dessen Einmischung und Äußerungen zu den Unruhen in Frankreich kritisiert. Bei einem Staatsbesuch in Katar äußerte er seinen Unmut über die Kommentare des US-Präsidenten. Das Verhältnis zwischen den Politikern wird durch diesen Vorfall erneut belastet.",
-    "m": "Der französische Präsident Emmanuel Macron hat sich während eines Besuchs in Katar öffentlich über Äußerungen des US-Präsidenten Donald Trump zu den Unruhen in Frankreich beschwert und diese scharf kritisiert. Trump hatte zuvor via Twitter oder in Ansprachen auf die gewaltsamen Krawalle und Proteste in französischen Städten Bezug genommen, was in Paris als unzulässige Einmischung in innere Angelegenheiten wahrgenommen wurde. Macron machte nun deutlich, dass er genug von derartigen Kommentaren aus Washington hat. Details zu den genauen Formulierungen Trumps oder den direkten diplomatischen Konsequenzen wurden in den Berichten zunächst nicht umfassend genannt. Die Unruhen in Frankreich selbst hatten zuvor international für Aufsehen gesorgt, wobei vor allem Ausschreitungen in Städten wie Marseille im Fokus standen. Weitere offene Punkte betreffen die Frage, wie die beiden Regierungen den diplomatischen Austausch nach diesem Vorfall fortführen wollen.",
-    "r": "Die öffentliche Kritik des französischen Präsidenten an den Äußerungen des US-Präsidenten beleuchtet die Spannungen im deutsch- oder französisch-amerikanischen beziehungsweise internationalen Verhältnis. Das Ereignis zeigt, wie innenpolitische Krisen eines Landes durch Tweets oder Kommentare aus dem Ausland diplomatisch aufgeladen werden können.",
+    "t": "Macron kritisiert US-Präsident Trump wegen Äußerungen zu Unruhen in Frankreich",
+    "s": "Der französische Präsident Emmanuel Macron hat US-Präsident Donald Trump für dessen Äußerungen zu den Unruhen in Frankreich kritisiert. Macron äußerte sich bei einem Besuch in Katar und machte seinem Ärger über die Einmischung Luft. Zuvor hatte sich Trump öffentlich zu den gewaltsamen Auseinandersetzungen in Frankreich geäußert. Die Berichterstattung basiert auf Meldungen der Tagesschau und Google News.",
+    "m": "Der französische Präsident Emmanuel Macron hat den US-Präsidenten Donald Trump für dessen Kommentare zu den anhaltenden Unruhen in Frankreich scharf kritisiert. Macron nutzte einen offiziellen Besuch im Golfstaat Katar, um seinem Ärger über die Einmischung des US-Präsidenten in die innerfranzösischen Angelegenheiten öffentlich Luft zu machen. Die Auseinandersetzung entzündete sich an Trumps Äußerungen über die gewaltsamen Proteste, die das Land zuletzt erschütterten. Weitere Details zu den konkreten Inhalten von Trumps Äußerungen oder den genauen Reaktionen in Katar nennen die vorliegenden Quellen nicht. Auch der genaue zeitliche Ablauf des Besuchs und mögliche diplomatische Nachwirkungen bleiben in den Berichten offen.",
+    "r": "Die Kritik des französischen Präsidenten an einem wichtigen Verbündeten wie den USA beleuchtet diplomatische Spannungen während innenpolitischer Krisen. Solche öffentlichen Auseinandersetzungen zwischen Staatschefs sind relevant für das internationale Verhältnis beider Länder.",
     "srcs": [
       {
         "name": "Tagesschau",
@@ -792,11 +1444,15 @@
       }
     ],
     "url": "https://www.tagesschau.de/ausland/europa/macron-rede-112.html",
-    "agree": "Die Quellen sind sich einig, dass der französische Präsident Macron den US-Präsidenten Trump wegen dessen Äußerungen zu den Unruhen in Frankreich kritisiert hat.",
+    "agree": "Beide Quellen stimmen überein, dass der französische Präsident Macron den US-Präsidenten Trump wegen dessen Äußerungen zu den Unruhen in Frankreich kritisiert hat.",
     "diff": [
       {
+        "name": "Tagesschau",
+        "note": "Berichtet detaillierter, dass Macron seinem Ärger bei einem Besuch in Katar Luft machte und nennt Cai Rienäcker als Autor."
+      },
+      {
         "name": "Google News DE",
-        "note": "Erwähnt zusätzlich den Ort Marseille im Zusammenhang mit den Unruhen."
+        "note": "Teilt lediglich den Verweis auf den Artikel der Tagesschau mit einem HTML-Link."
       }
     ],
     "chg": "",
@@ -890,10 +1546,10 @@
     "p": 4,
     "st": "",
     "city": "",
-    "t": "Gravierende PHP-Sicherheitslücke bedroht weltweit Millionen Webseiten",
-    "s": "Eine weltweit entdeckte Sicherheitslücke in der Programmiersprache PHP gefährdet Millionen von Webseiten. Die Schwachstelle birgt das Risiko von Serverübernahmen und betrifft unterschiedlichste Internetangebote. In Deutschland wurden als Vorsichtsmaßnahme bereits die Webseiten mehrerer Städte vom Netz genommen. Experten warnen vor gezielten Angriffen auf Blogs, Onlineshops und Nachrichtenportale.",
-    "m": "Die neu bekannt gewordene Sicherheitslücke in der weitverbreiteten Programmiersprache PHP hat internationale Reaktionen ausgelöst und bedroht weltweit Millionen von Webseiten. Durch die Schwachstelle könnten Angreifer im schlimmsten Fall die vollständige Kontrolle über betroffene Server erlangen. Dies stellt eine akute Gefahr für eine Vielzahl von Online-Präsenzen dar, darunter Blogs, kommerzielle Onlineshops sowie große Nachrichtenportale. Als konkrete Schutzmaßnahme haben Behörden und Verwaltungen in Deutschland bereits reagiert und die Internetseiten mehrerer Städte vorsichtshalber abgeschaltet. Das Ausmaß der Bedrohung und die genaue Zahl der bereits kompromittierten Systeme werden derzeit noch ermittelt. IT-Sicherheitsexperten und Betreiber stehen unter Zugzwang, entsprechende Patches einzuspielen, um drohende Angriffe abzuwenden. Die Situation bleibt dynamisch, während die technischen Details der Schwachstelle weiter analysiert werden.",
-    "r": "Die Sicherheitslücke in PHP betrifft weltweit Millionen Webseiten und birgt das Risiko von Serverübernahmen. In Deutschland wurden bereits erste konkrete Schutzmaßnahmen wie die Abschaltung von Stadt-Webseiten ergriffen, was die Relevanz für den Betrieb digitaler Infrastrukturen unterstreicht.",
+    "t": "Weltweite Sicherheitslücke in Programmiersprache PHP bedroht Millionen Webseiten",
+    "s": "Eine gravierende Sicherheitslücke in der weitverbreiteten Programmiersprache PHP bedroht weltweit Millionen Webseiten. Betroffen sind auch Internetseiten mehrerer deutscher Städte, die vorsichtshalber abgeschaltet wurden. Die Schwachstelle birgt das Risiko von Cyberangriffen und Serverübernahmen.",
+    "m": "Die neu entdeckte und gravierende Sicherheitslücke in PHP betrifft weltweit Millionen von Internetseiten, darunter Blogs, Onlineshops und Nachrichtenportale. In Deutschland haben Behörden reagiert und Internetseiten mehrerer Städte vorsichtshalber vom Netz genommen, um möglichen Angriffen zuvorzukommen. Experten warnen vor dem Risiko, dass die Schwachstelle Kriminellen die vollständige Übernahme ganzer Server ermöglichen könnte. Angreifer könnten gezielt versuchen, diese Lücke auszunutzen, weshalb Administratoren und Betreiber weltweit dringend zum Handeln aufgerufen sind. Bisher ist unklar, wie viele Angriffe bereits erfolgreich waren und welche Server konkret kompromittiert wurden. Die Lage wird von IT-Sicherheitsexperten weiterhin intensiv analysiert. Betroffene Institutionen arbeiten mit Hochdruck an Sicherheitsupdates und Überprüfungen.",
+    "r": "Die Schwachstelle in einer weitverbreiteten Programmiersprache betrifft Millionen Webseiten weltweit und erfordert sofortige Sicherheitsmaßnahmen. Die vorsorgliche Abschaltung deutscher Stadt-Webseiten zeigt akute Handlungsbedarf bei Behörden und Betreibern.",
     "srcs": [
       {
         "name": "SWR Aktuell",
@@ -907,21 +1563,53 @@
       }
     ],
     "url": "https://www.tagesschau.de/wirtschaft/technologie/it-sicherheit-php-luecke-100.html",
-    "agree": "Die Quellen stimmen überein, dass eine gravierende Sicherheitslücke in der Programmiersprache PHP weltweit Millionen von Webseiten bedroht.",
+    "agree": "Alle Quellen sind sich einig, dass eine gravierende Sicherheitslücke in der Programmiersprache PHP weltweit Millionen Webseiten bedroht und auch deutsche Städte betroffen sind.",
     "diff": [
       {
+        "name": "RND",
+        "note": "Die Quelle nennt konkret Blogs, Onlineshops und Nachrichtenportale als potenzielle Ziele und warnt vor der möglichen Übernahme ganzer Server."
+      },
+      {
         "name": "SWR Aktuell",
-        "note": "Erwähnt kurz, dass in Deutschland Internetseiten mehrerer Städte vorsorglich abgeschaltet wurden, bricht den Text jedoch ab."
+        "note": "Die Quelle erwähnt, dass Webseiten mehrerer Städte in Deutschland vorsorglich abgeschaltet wurden, bricht den Satz am Ende jedoch ab."
       },
       {
         "name": "Tagesschau",
-        "note": "Berichtet ebenfalls, dass in Deutschland Internetseiten mehrerer Städte vorsichtshalber abgeschaltet wurden."
-      },
-      {
-        "name": "RND",
-        "note": "Führt spezifisch aus, dass Blogs, Onlineshops und Nachrichtenportale ins Visier von Angreifern geraten könnten und die Lücke die Übernahme ganzer Server ermöglicht."
+        "note": "Die Quelle bestätigt vollständig, dass Webseiten mehrerer deutscher Städte vorsichtshalber abgeschaltet wurden."
       }
     ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-ab97ab4e35a0d2f7",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-21T17:31:29.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "AfD fordert radikalen Umbau der EU und Entmachtung Brüssels",
+    "s": "Die AfD hat einen Plan zur grundlegenden Umgestaltung der Europäischen Union vorgelegt. Dabei soll ein massiver Kompetenzentzug zugunsten der Nationalstaaten erfolgen. Zudem stellt die Partei die bisherige Direktwahl der Europaabgeordneten infrage.",
+    "m": "Der von Co-Chefin Alice Weidel geforderte Plan sieht vor, wesentliche Kompetenzen aus Brüssel zurück in die Nationalstaaten zu verlagern. Die Partei strebt damit einen fundamentalen Umbau der europäischen Strukturen an. Ein zentraler Punkt dabei ist die Infragestellung der Direktwahl des Europäischen Parlaments. Diese Vorschläge gehen über bisherige europakritische Positionen hinaus und zielen auf eine deutliche Schwächung der EU-Institutionen ab. Konkrete Details zur Umsetzung und Reaktionen anderer Parteien oder der EU-Kommission gehen aus den Berichten bisher nicht hervor. Die Debatte berührt grundlegende Fragen der europäischen Integration und der künftigen Ausrichtung der Gemeinschaft.",
+    "r": "Die Initiative der AfD betrifft die grundlegende Architektur und Kompetenzverteilung der Europäischen Union. Solche programmatischen Forderungen prägen die europapolitische Diskussion und den Diskurs über die Zukunft der europäischen Integration.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORnFLQ3F3R28yQjNpQkJjd2ZVQkdzTkNMeUtQekhicGhQZzFBOGtudGNiaVh4clNCSXpQa2R4M2MyaUJacERsOTlwa21MR1BpSDhEVGpXMzdvWTdxXzc3Y3RkSG96NWZxS3F0aFFZeVNYWmtZUkxqZl9uRWxqQXZRVS1YOWM3ZDY4YXFNcndzZDRxZ1puenNkdHBmeXhBWnVTYkszUTlUVVlSMS1PZUMwV1ZEb0doblZIcjZucVpwODFkY0RpamhaQjBlY2pUTTljZmJIYUFzVldadkNNbTQ0QjF3TXk?oc=5",
+        "date": "2026-10-21T17:31:29.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/article6ad8f242842f9bd88130b5e8/afd-weidel-fordert-machtentzug-fuer-bruessel-und-legt-radikalen-plan-fuer-neue-eu-vor.html",
+        "date": "2026-10-21T17:30:20.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORnFLQ3F3R28yQjNpQkJjd2ZVQkdzTkNMeUtQekhicGhQZzFBOGtudGNiaVh4clNCSXpQa2R4M2MyaUJacERsOTlwa21MR1BpSDhEVGpXMzdvWTdxXzc3Y3RkSG96NWZxS3F0aFFZeVNYWmtZUkxqZl9uRWxqQXZRVS1YOWM3ZDY4YXFNcndzZDRxZ1puenNkdHBmeXhBWnVTYkszUTlUVVlSMS1PZUMwV1ZEb0doblZIcjZucVpwODFkY0RpamhaQjBlY2pUTTljZmJIYUFzVldadkNNbTQ0QjF3TXk?oc=5",
+    "agree": "Die Quellen stimmen überein, dass die AfD einen radikalen Plan zur Umgestaltung der EU und einen Entzug von Machtbefugnissen für Brüssel fordert.",
+    "diff": [],
     "chg": "",
     "independent": 2
   },
@@ -1017,13 +1705,13 @@
     "p": 2,
     "st": "",
     "city": "",
-    "t": "Kulturschaffende in Portugal verurteilen Polizeigewalt bei Wohnungsbauprotest",
-    "s": "Hunderte Menschen aus dem Kulturbereich in Portugal haben in einer offenen Briefaktion ihre Empörung über Polizeigewalt ausgedrückt. Die Initiative steht im Zusammenhang mit Protesten für das Recht auf Wohnraum. Bis zum Dienstagnachmittag verzeichnete der Aufruf fast 900 Unterschriften.",
-    "m": "Die am Dienstag lancierte offene Briefaktion mit dem Titel „Cultura pelo Direito à Habitação“ verurteilt die Gewaltanwendung der Polizei bei jüngsten Wohnungsbauprotesten scharf. Bis zum Nachmittag gegen 16:00 Uhr hatten sich bereits 891 Unterzeichnende aus dem Kulturbereich angeschlossen. Die Initiative zeigt die Solidarität der Kulturszene mit den Demonstrierenden und fordert politische Reaktionen auf die Vorfälle. Das Vorgehen der Ordnungskräfte hat in der Öffentlichkeit eine breite Debatte über Verhältnismäßigkeit bei Demonstrationen ausgelöst. Bislang bleibt abzuwarten, wie die Regierung auf diesen offenen Brief reagieren wird. Weitere Details zu den genauen Orten der Polizeieinsätze oder Verletzten nennen die Berichte nicht.",
-    "r": "Der offene Brief verdeutlicht den wachsenden gesellschaftlichen und politischen Druck infolge polizeilicher Maßnahmen bei Wohnungsbauprotesten in Portugal. Die Beteiligung hunderter Kulturschaffender verleiht dem Protest zusätzliches Gewicht.",
+    "t": "Kulturausseiter verurteilen Polizeigewalt bei Wohnprotest in offenem Brief",
+    "s": "Hunderte Menschen aus dem Kulturbereich haben in einem offenen Brief Gewalt bei einer Polizeimaßnahme im Zusammenhang mit einem Wohnprotest verurteilt. Die Initiative namens Kultur pelo Direito à Habitação veröffentlichte diesen Aufruf am Dienstag. Bis zum Nachmittag hatte das Dokument bereits hunderte Unterschriften gesammelt.",
+    "m": "Die Initiative Kulturschaffender hat mit der Veröffentlichung eines offenen Briefes auf angebliche Polizeigewalt bei Protesten für das Recht auf Wohnraum reagiert. Das unter dem Titel Kultur pelo Direito à Habitação geführte Dokument verurteilt das Vorgehen scharf. Bis zum Dienstag um 16:00 Uhr hatten sich bereits 891 Unterzeichner aus dem Kulturbereich angeschlossen. Der offene Brief soll ein Zeichen gegen die Repression bei den Kundgebungen setzen. Weitere Details zum genauen Ort des Vorfalls oder Reaktionen der Behörden gehen aus den vorliegenden Berichten nicht hervor. Die Entwicklung der Unterschriftenzahl zeigt eine rasche Mobilisierung innerhalb der Kulturszene. Offen bleibt, welche konkreten Konsequenzen die Verfasser von den zuständigen Stellen fordern.",
+    "r": "Der offene Brief dokumentiert den Protest von Kulturschaffenden gegen polizeiliches Vorgehen bei Demonstrationen für Wohnraum. Die breite Unterstützung innerhalb der Szene verleiht der Kritik an staatlichen Maßnahmen Gewicht. Das Ereignis berührt gesellschafts- und innenpolitische Spannungen rund um das Thema Wohnen und Versammlungsfreiheit.",
     "srcs": [
       {
-        "name": "RTP Notícias",
+        "name": "RTP Economia",
         "url": "https://www.rtp.pt/noticias/cultura/acao-policial-e-protesto-habitacao-centenas-de-pessoas-da-area-da-cultura-repudiam-violencia-em-carta-aberta_n1773289",
         "date": "2026-10-21T17:15:13.000Z"
       },
@@ -1034,15 +1722,15 @@
       }
     ],
     "url": "https://www.rtp.pt/noticias/cultura/acao-policial-e-protesto-habitacao-centenas-de-pessoas-da-area-da-cultura-repudiam-violencia-em-carta-aberta_n1773289",
-    "agree": "Beide Quellen berichten über den offenen Brief von Hunderten Menschen aus dem Kulturbereich gegen Polizeigewalt bei Wohnungsbauprotesten.",
+    "agree": "Die Quellen stimmen überein, dass hunderte Personen aus dem Kulturbereich einen offenen Brief gegen Polizeigewalt im Zusammenhang mit einem Wohnprotest veröffentlicht haben.",
     "diff": [
       {
-        "name": "RTP Notícias",
-        "note": "Nennt den genauen Titel des offenen Briefes („Cultura pelo Direito à Habitação“) und die konkrete Anzahl von 891 Signaturen um 16:00 Uhr."
+        "name": "RTP Economia",
+        "note": "Nennt den genauen Titel des offenen Briefes als Kultur pelo Direito à Habitação und die konkrete Anzahl von 891 Unterschriften um 16:00 Uhr."
       },
       {
         "name": "Google News Portugal",
-        "note": "Verweist lediglich per Link auf den Artikel von RTP und bringt keine eigenständigen Zusatzinformationen."
+        "note": "Bietet lediglich eine kurze Verlinkung und Zusammenfassung des RTP-Artikels ohne zusätzliche Details."
       }
     ],
     "chg": "",
@@ -1291,10 +1979,10 @@
     "p": 3,
     "st": "SL",
     "city": "",
-    "t": "Kampfjet stürzt bei Nancy in Frankreich ab: Mindestens ein Todesopfer",
-    "s": "Bei einer Übung ist in Frankreich ein Kampfjet in der Nähe von Nancy abgestürzt. Der Vorfall ereignete sich am späten Dienstagabend. Mindestens ein Besatzungsmitglied kam bei dem Unglück ums Leben. Nach einer weiteren Person wird derzeit noch gesucht.",
-    "m": "Der Absturz des Kampfjets ereignete sich am späten Dienstagabend während eines Trainingseinsatzes nahe der französischen Stadt Nancy. Mindestens ein Insasse der Maschine überlebte den Absturz nicht. Einsatzkräfte sind vor Ort im Einsatz, um nach einem zweiten Insassen zu suchen, der nach dem Unglück vermisst wird. Die genaue Absturzursache ist zum aktuellen Zeitpunkt noch völlig unklar und Gegenstand von Ermittlungen. Ob es sich um einen technischen Defekt oder menschliches Versagen handelt, wurde noch nicht offiziell bekannt gegeben. Weitere Details zur genauen Identität der Besatzung oder zum genauen Typ des Flugzeugs wurden in den ersten Berichten zunächst nicht genannt.",
-    "r": "Der Absturz eines Militärjets mit Personenschäden und laufenden Rettungsmaßnahmen ist ein sicherheitsrelevantes Ereignis. Zudem ist die ungeklärte Absturzursache von Bedeutung für den militärischen Flugbetrieb.",
+    "t": "Kampfjet stürzt bei Nancy in Frankreich ab: Mindestens ein Toter",
+    "s": "Nahe der französischen Stadt Nancy ist am späten Dienstagabend ein Kampfjet während eines Übungseinsatzes abgestürzt. Bei dem Unglück kam mindestens ein Besatzungsmitglied ums Leben. Nach dem zweiten Insassen der Maschine wird derzeit noch gesucht. Die genaue Absturzursache ist bislang unklar.",
+    "m": "Der Unfall ereignete sich am späten Dienstagabend bei Nancy in Frankreich, als ein zweisitziger Kampfjet in einen routinemäßigen Trainingseinsatz verwickelt war. Die Militärmaschine stürzte aus noch ungeklärter Ursache ab. Rettungs- und Einsatzkräfte sind vor Ort, um die Unfallstelle zu sichern und nach dem vermissten zweiten Insassen zu suchen. Für mindestens einen Insassen kam jede Hilfe zu spät, er verstarb noch an der Unglücksstelle. Die Behörden haben die Ermittlungen zur Klärung des genauen Unfallhergangs aufgenommen. Ob technische Defekte oder menschliches Versagen zum Absturz führten, ist derzeit Gegenstand von Untersuchungen. Das betroffene Gebiet wurde weiträumig abgesperrt, um die Suche nach dem verbleibenden Besatzungsmitglied zu erleichtern.",
+    "r": "Der Absturz eines Militärjets mit Todesopfern und einem Vermissten betrifft die Sicherheit des Flugbetriebs und wirft Fragen zur Unfallursache auf. Solche Vorfälle erfordern behördliche Untersuchungen, um technische oder menschliche Fehler auszuschließen.",
     "srcs": [
       {
         "name": "WELT",
@@ -1308,15 +1996,15 @@
       }
     ],
     "url": "https://www.welt.de/vermischtes/article6ad8dbae2c40700de0800e91/frankreich-kampfjet-stuerzt-ab-anwohner-berichten-von-heftiger-explosion-und-feuerball-mindestens-ein-toter.html",
-    "agree": "Beide Quellen stimmen überein, dass ein Kampfjet in Frankreich abgestürzt ist und es mindestens einen Toten gegeben hat.",
+    "agree": "Beide Quellen stimmen darin überein, dass ein Kampfjet in Frankreich bei einer Übung abgestürzt ist und es mindestens einen Toten gegeben hat.",
     "diff": [
       {
         "name": "WELT",
-        "note": "Berichtet allgemein von einem Absturz in Frankreich im Rahmen einer Übung."
+        "note": "Berichtet allgemein über den Absturz in Frankreich."
       },
       {
         "name": "Tagesschau Regional Saarland",
-        "note": "Nennt den genauen Ort Nancy, den Zeitpunkt am späten Dienstagabend, die laufende Suche nach einem zweiten Insassen sowie die noch unklare Absturzursache."
+        "note": "Nennt Nancy als genauen Ort, den späten Dienstagabend als Zeitpunkt, erwähnt die Suche nach dem zweiten Insassen und dass die Ursache unklar ist."
       }
     ],
     "chg": "",
@@ -1371,8 +2059,8 @@
     "city": "",
     "t": "Joshua Kimmich fehlt FC Bayern gegen Arsenal wegen Trauerfall",
     "s": "Der FC Bayern München muss im Champions-League-Heimspiel gegen den FC Arsenal auf Joshua Kimmich verzichten. Der Mittelfeldspieler fehlte bereits beim Abschlusstraining der Mannschaft. Grund für den Ausfall ist ein Trauerfall in der Familie des Nationalspielers.",
-    "m": "Joshua Kimmich steht dem FC Bayern für die entscheidende Begegnung in der Champions League gegen den FC Arsenal nicht zur Verfügung. Wie der Verein mitteilte, fehlt der Mittelfeldspieler aufgrund eines Trauerfalls im engsten Familienkreis. Bereits beim offiziellen Abschlusstraining der Münchner vor dem Europapokal-Kracher hatte der Nationalspieler gefehlt. Der Ausfall von Kimmich wiegt sportlich schwer, da er als Leistungsträger im Team gilt. Wie der FC Bayern die Lücke im Mittelfeld genau kompensieren wird, ist vor Spielbeginn noch offener Teil der taktischen Überlegungen des Trainerteams.",
-    "r": "Der Ausfall eines Stammspielers wie Joshua Kimmich vor einem wichtigen K.-o.-Spiel in der Champions League hat direkte Auswirkungen auf die sportliche Leistungsfähigkeit und Aufstellung des FC Bayern München.",
+    "m": "Joshua Kimmich steht dem FC Bayern München für das wichtige Champions-League-Heimspiel gegen den FC Arsenal nicht zur Verfügung. Wie der deutsche Rekordmeister offiziell mitteilte, muss der Nationalspieler aufgrund eines Trauerfalls im engsten Familienkreis passen. Zunächst hatte Kimmich bereits beim entscheidenden Abschlusstraining der Mannschaft gefehlt. Die Nachricht über seinen Ausfall wurde kurz vor der Partie bekannt und stellt die sportliche Leitung vor personelle Umstellungen für die Begegnung gegen den englischen Spitzenclub. Ob Kimmich in den kommenden Tagen in den Kader zurückkehren wird, ist derzeit noch unklar.",
+    "r": "Der Ausfall eines Leistungsträgers wie Joshua Kimmich kurz vor einem entscheidenden Champions-League-Spiel schwächt die sportliche Option des FC Bayern München erheblich. Das Ereignis hat direkte Auswirkungen auf die Mannschaftsaufstellung und die taktischen Vorbereitungen des Vereins.",
     "srcs": [
       {
         "name": "RND",
@@ -1386,15 +2074,15 @@
       }
     ],
     "url": "https://www.rnd.de/sport/trauerfall-in-familie-kimmich-fehlt-fc-bayern-gegen-arsenal-NPJNAKYB2VBMRCGDVRYVU5HHEM.html",
-    "agree": "Beide Quellen stimmen überein, dass Joshua Kimmich dem FC Bayern München im Champions-League-Spiel gegen den FC Arsenal wegen eines Trauerfalls in der Familie fehlt.",
+    "agree": "Die Quellen sind sich einig, dass Joshua Kimmich dem FC Bayern München im Champions-League-Spiel gegen den FC Arsenal aufgrund eines Trauerfalls in der Familie fehlt.",
     "diff": [
       {
         "name": "RND",
-        "note": "Erwähnt zusätzlich, dass Kimmich bereits beim Abschlusstraining der Mannschaft gefehlt hat."
+        "note": "Erwähnt zusätzlich, dass Kimmich bereits beim Abschlusstraining gefehlt hat."
       },
       {
         "name": "BR24 Bayern",
-        "note": "Zitiert die offizielle Vereinsmitteilung, dass es sich um einen Trauerfall im 'engsten Familienkreis' handelt."
+        "note": "Zitiert die offizielle Mitteilung des Rekordmeisters bezüglich des 'Trauerfalls im engsten Familienkreis'."
       }
     ],
     "chg": "",
@@ -1451,6 +2139,43 @@
     "independent": 3
   },
   {
+    "id": "story-ff33541e61042da7",
+    "c": "INT",
+    "o": "DE",
+    "k": "technik",
+    "lang": "de",
+    "d": "2026-10-21T15:22:00.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Schwere Sicherheitslücke bedroht Millionen Webseiten weltweit",
+    "s": "Eine weltweit gravierende Sicherheitslücke bedroht Millionen von Webseiten. Das Bundesamt für Sicherheit in der Informationstechnik (BSI) hat aufgrund der Situation eine offizielle Warnung herausgegeben. Die Bedrohung betrifft eine Vielzahl von Internetpräsenzen.",
+    "m": "Das Bundesamt für Sicherheit in der Informationstechnik (BSI) hat eine offizielle Warnung wegen einer schwerwiegenden Sicherheitslücke herausgegeben, die Millionen Webseiten weltweit bedroht. Laut weiteren Berichten liegt diese kritische Schwachstelle konkret in der Programmiersprache PHP. Die Entdeckung dieser Lücke birgt erhebliche Risiken für die IT-Sicherheit von unzähligen Internetauftritten. Betreiber von Websites sind potenziell dem Risiko von Angriffen und unbefugtem Zugriff ausgesetzt. Das BSI und Sicherheitsexperten raten zu schnellen Schutzmaßnahmen. Bisher ist unklar, wie viele Systeme bereits kompromittiert wurden und welche spezifischen Versionen im Detail betroffen sind.",
+    "r": "Die Sicherheitslücke betrifft Millionen Webseiten weltweit und erfordert sofortige Aufmerksamkeit durch offizielle Warnungen des BSI sowie Berichterstattung, um Betreiber vor potenziellen Angriffen zu schützen.",
+    "srcs": [
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/sicherheitsluecke-php-webseiten-onlinedienste-cybersicherheit-bsi-100.html",
+        "date": "2026-10-21T15:22:00.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRWxwSmduRThoZjhBS1pWQ1VwMXYzMC1lMHd0RFVqcVNLYWVsMXk0bmttVkVVTDFYSHQyNHRpcExWRGtPN0ZPdzFSOUJHTlZ1am1Gc2FGMVF0N2N2RE5fcS1QakxPV3Q4ZnRINldWRGY0aHZ4UC0tTTNGa3ZPXzcweGlNVEJtQzJkWE9NdlRBUlozMVE1MmVISGpMamRwdldiSTZ5N3p1N21tMWRxOGZCbGFwVnV1RUdJSG1NcmVCNnJ4bERUQUdfWQ?oc=5",
+        "date": "2026-10-21T14:31:18.000Z"
+      }
+    ],
+    "url": "https://www.zdfheute.de/politik/sicherheitsluecke-php-webseiten-onlinedienste-cybersicherheit-bsi-100.html",
+    "agree": "Beide Quellen stimmen darin überein, dass eine gravierende Sicherheitslücke Millionen Webseiten weltweit bedroht und das BSI eine Warnung herausgegeben hat.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Ergänzt konkret, dass sich die gravierende Sicherheitslücke in der Programmiersprache PHP befindet."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-2c174d31b2203488",
     "c": "DE",
     "o": "DE",
@@ -1460,10 +2185,10 @@
     "p": 2,
     "st": "BY",
     "city": "",
-    "t": "Vorerst kein Deutschlandticket light",
-    "s": "Hamburg und Nordrhein-Westfalen hatten ein sogenanntes Deutschlandticket light für gelegentliche Bus- und Bahnfahrer vorgeschlagen. Das Konzept sollte bei der Verkehrsministerkonferenz beraten werden. Nun ist die Idee jedoch vom Tisch und wird vorerst nicht weiterverfolgt.",
-    "m": "Das geplante Deutschlandticket light sollte ein attraktives Angebot für Gelegenheitsfahrer im öffentlichen Nahverkehr darstellen. Die Bundesländer Hamburg und Nordrhein-Westfalen hatten die Einführung des neuen Tickets für die Verkehrsministerkonferenz zur Beratung vorgeschlagen. Aus der Idee wird nach aktuellen Informationen jedoch vorerst nichts. Die Verkehrsminister nahmen das entsprechende Thema bei ihrer Konferenz im Allgäu von der Tagesordnung. Weitere Details zu den Gründen für die Streichung von der Tagesordnung sind im Rahmen der Berichterstattung nicht bekannt gegeben worden.",
-    "r": "Die Absage des Vorschlags betrifft die zukünftige Tarifstruktur im öffentlichen Nahverkehr und tangiert damit die Mobilitätspolitik für Gelegenheitsfahrer in Deutschland. Die Verkehrsministerkonferenz hat das Thema offiziell von ihrer Agenda genommen.",
+    "t": "Nahverkehr: \"Deutschlandticket light\" kommt vorerst nicht",
+    "s": "Die Idee für ein sogenanntes Deutschlandticket light für Gelegenheitsfahrer ist vorerst vom Tisch. Hamburg und Nordrhein-Westfalen hatten das Angebot für die Verkehrsministerkonferenz vorgeschlagen. Die Minister nahmen das Thema jedoch von der Tagesordnung.",
+    "m": "Das von Hamburg und Nordrhein-Westfalen vorgeschlagene Ticket sollte ein attraktives Angebot für gelegentliche Bus- und Bahnfahrer darstellen. Die Initiative war zur Beratung für die Verkehrsministerkonferenz vorgesehen. Daraus wird nun jedoch vorerst nichts, da das Thema nach Informationen des BR bei der Konferenz im Allgäu von der Tagesordnung genommen wurde. Gründe für die Streichung von der Agenda wurden in den vorliegenden Berichten nicht genannt.",
+    "r": "Die Entscheidung ist relevant, da sie die Zukunft tariflicher Angebote im öffentlichen Nahverkehr in Deutschland betrifft. Gelegenheitsfahrer müssen vorerst ohne eine entsprechende Vergünstigung auskommen.",
     "srcs": [
       {
         "name": "Tagesschau",
@@ -1477,15 +2202,15 @@
       }
     ],
     "url": "https://www.tagesschau.de/inland/deutschlandticket-light-kommt-nicht-100.html",
-    "agree": "Die Quellen sind sich einig, dass das sogenannte Deutschlandticket light für Gelegenheitsfahrer vorerst nicht kommt und von der Verkehrsministerkonferenz abgesetzt wurde.",
+    "agree": "Die Quellen stimmen darin überein, dass das vorgeschlagene Deutschlandticket light für Gelegenheitsfahrer vorerst nicht kommt und von der Verkehrsministerkonferenz genommen wurde.",
     "diff": [
       {
         "name": "Tagesschau",
-        "note": "Erwähnt Hamburg und Nordrhein-Westfalen als die Bundesländer, die den Vorschlag eingebracht hatten."
+        "note": "Erwähnt Hamburg und Nordrhein-Westfalen als die Bundesländer, die das Ticket vorgeschlagen hatten."
       },
       {
         "name": "BR24 Bayern",
-        "note": "Führt ergänzend an, dass das Thema bei der Konferenz im Allgäu von den Verkehrsministern von der Tagesordnung genommen wurde."
+        "note": "Gibt an, dass das Thema nach BR-Informationen bei der Konferenz im Allgäu von der Tagesordnung genommen wurde."
       }
     ],
     "chg": "",
@@ -1501,10 +2226,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Bundeswehr-Fragebogen: Bußgeld bei Nichtbeantwortung für Männer",
-    "s": "Die Bundeswehr verschickt seit Januar Fragebögen an junge Menschen ab 18 Jahren, um das Interesse am Wehrdienst zu ermitteln. Während die Teilnahme für Frauen freiwillig ist, besteht für Männer eine Antwortpflicht. Wer diesen Fragebogen ignoriert, muss künftig mit einer Strafe rechnen.",
-    "m": "Um dem Nachwuchsmangel entgegenzuwirken, startete die Bundeswehr im Januar eine Befragung von jungen Erwachsenen ab 18 Jahren bezüglich ihrer Bereitschaft zum Wehrdienst. Der Fragebogen soll Aufschluss über das Interesse am Militärdienst geben. Die Teilnahme und Beantwortung ist für junge Frauen freiwillig. Im Gegensatz dazu sind junge Männer gesetzlich dazu verpflichtet, auf die Anfrage zu antworten. Bei Missachtung dieser Antwortpflicht droht den Betroffenen ein Bußgeld, das sich auf bis zu 250 Euro belaufen kann. Die Maßnahme ist Teil der Bemühungen, neue Soldatinnen und Soldaten zu gewinnen.",
-    "r": "Die Maßnahme betrifft alle jungen Männer ab 18 Jahren und ist wegen der drohenden Geldbußen bei Nichtbeantwortung relevant. Sie verdeutlicht die Anstrengungen der Bundeswehr, dem Mangel an Nachwuchs im militärischen Bereich entgegenzuwirken.",
+    "t": "Bundeswehr-Fragebogen zum Wehrdienst: Bußgeld bei Nichtbeantwortung",
+    "s": "Die Bundeswehr verschickt seit Januar Fragebögen an junge Menschen ab 18 Jahren, um das Interesse am Wehrdienst zu ermitteln. Während die Teilnahme für Frauen freiwillig ist, besteht für Männer eine Antwortpflicht. Wer den Bogen ignoriert, muss mit einer Geldstrafe rechnen.",
+    "m": "Die Maßnahme ist Teil der Bemühungen der Bundeswehr, händeringend neuen Nachwuchs zu gewinnen. Im Fokus stehen dabei junge Volljährige, deren Bereitschaft und Interesse an einer militärischen Laufbahn abgefragt werden soll. Da die Rückmeldungen für Männer verpflichtend sind, ist bei Ausbleiben der Antwort ein Bußgeld von bis zu 250 Euro vorgesehen. Die Initiative reagiert auf den anhaltenden Personalbedarf der Streitkräfte. Weitere Details zu den genauen Abläufen und der Durchsetzung der Bußgelder wurden in den Berichten nicht genannt.",
+    "r": "Die Meldung ist relevant, da sie eine neue Maßnahme der Bundeswehr zur Personalgewinnung betrifft, die mit Sanktionen für die Betroffenen verbunden ist.",
     "srcs": [
       {
         "name": "ntv",
@@ -1518,11 +2243,15 @@
       }
     ],
     "url": "https://www.n-tv.de/politik/Bundeswehr-Fragebogen-Bei-Nichtantwort-droht-ein-Bussgeldverfahren-id31443266.html",
-    "agree": "Beide Quellen stimmen darin überein, dass die Bundeswehr seit Januar Fragebögen an junge Menschen ab 18 Jahren zum Wehrdienst verschickt und Männer antworten müssen, da ihnen sonst ein Bußgeld droht.",
+    "agree": "Beide Quellen stimmen überein, dass die Bundeswehr seit Januar Fragebögen zum Wehrdienst an junge Menschen verschickt und für Männer eine Antwortpflicht mit Bußgeld droht.",
     "diff": [
       {
         "name": "ntv",
-        "note": "Erwähnt konkret, dass die Strafe bis zu 250 Euro betragen kann."
+        "note": "nennt die konkrete Höhe der möglichen Strafe von bis zu 250 Euro."
+      },
+      {
+        "name": "t-online Nachrichten",
+        "note": "erwähnt, dass bei Ignorieren des Fragebogens künftig gezahlt werden muss."
       }
     ],
     "chg": "",
@@ -1538,10 +2267,10 @@
     "p": 4,
     "st": "",
     "city": "",
-    "t": "Kreml zeigt sich zu Verhandlungen mit USA und Ukraine bereit",
-    "s": "Der Kreml hat sich nach Angaben eines Beraters zu trilateralen Gesprächen über den Ukraine-Krieg mit den USA und der Ukraine bereit erklärt. Diese Zusage soll Russlands Präsident Putin dem US-Sondergesandten Witkoff gegeben haben. Möglicher Beginn für die neuen Verhandlungen ist der November.",
-    "m": "Nach einem Treffen zwischen Russlands Präsident Wladimir Putin und dem US-Sondergesandten Steve Witkoff hat der Kreml seine Bereitschaft zu Gesprächen signalisiert. Kreml-Berater Juri Uschakow erklärte, dass Putin dem US-Gesandten die Zusage für trilaterale Verhandlungen gegeben habe. An den potenziellen Gesprächen sollen neben Russland auch die USA und die Ukraine beteiligt sein. Als Zeitpunkt für den Beginn dieser neuen Verhandlungsrunde wird der November in Aussicht gestellt. Konkrete Details zu den Inhalten, dem genauen Ort oder einer Agenda der Gespräche wurden zunächst nicht bekannt gegeben. Die Meldung basiert auf Angaben aus dem Kreml und dem Treffen mit dem US-Sondergesandten. Offen bleibt, wie die ukrainische und die US-amerikanische Seite auf diese Ankündigung im Detail reagieren werden.",
-    "r": "Die Ankündigung möglicher trilateraler Gespräche unter Beteiligung Russlands, der USA und der Ukraine betrifft den Verlauf des Ukraine-Krieges. Solche diplomatischen Initiativen sind von internationaler Bedeutung für die geopolitische Lage und die Suche nach einer Lösung des Konflikts.",
+    "t": "Kreml signalisiert Bereitschaft zu trilateralen Gesprächen mit Ukraine und USA",
+    "s": "Der Kreml hat sich nach Angaben eines Beraters zu trilateralen Verhandlungen mit der Ukraine und den USA bereit erklärt. Diese Gespräche könnten im November beginnen. Die Zusage soll Kreml-Berater Uschakow zufolge von Präsident Wladimir Putin persönlich gegenüber dem US-Gesandten Witkoff gemacht worden sein.",
+    "m": "Nach einem Treffen zwischen dem russischen Präsidenten Wladimir Putin und dem US-Sondergesandten Witkoff hat der Kreml seine Bereitschaft für Verhandlungen signalisiert. Kreml-Berater Juri Uschakow erklärte, dass Putin dem US-Gesandten die Zusage für trilaterale Gespräche unter Beteiligung Russlands, der Ukraine und der USA gegeben habe. Als möglicher Startzeitpunkt für die neuen diplomatischen Verhandlungen wird der kommende November genannt. Konkrete Details zu den Inhalten oder dem genauen Format der Gespräche wurden zunächst nicht bekannt. Die Entwicklung markiert einen potenziellen neuen Anlauf zur diplomatischen Bewältigung des Ukraine-Krieges. Offen bleibt weiterhin, wie die ukrainische Seite und westliche Verbündete auf diesen konkreten Terminvorschlag reagieren werden.",
+    "r": "Die Ankündigung möglicher diplomatischer Verhandlungen zwischen Russland, den Ukraine und den USA ist von geopolitischer Bedeutung für den Verlauf des Krieges. Ein konkreter Zeitrahmen für trilaterale Gespräche wurde mit dem kommenden November in Aussicht gestellt.",
     "srcs": [
       {
         "name": "Süddeutsche Zeitung",
@@ -1555,15 +2284,15 @@
       }
     ],
     "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-putin-kreml-usa-gespraeche-li.3563283",
-    "agree": "Beide Quellen stimmen überein, dass der Kreml nach einem Treffen mit dem US-Sondergesandten Witkoff zu Gesprächen mit den USA und der Ukraine bereit ist und diese im November beginnen könnten.",
+    "agree": "Beide Quellen stimmen darin überein, dass der Kreml nach einem Treffen mit dem US-Gesandten Witkoff grundsätzlich zu Gesprächen mit der Ukraine und den USA bereit ist und diese im November beginnen könnten.",
     "diff": [
       {
         "name": "Süddeutsche Zeitung",
-        "note": "Erwähnt namentlich den Kreml-Berater Uschakow als Informanten."
+        "note": "nennt Kreml-Berater Uschakow namentlich als Informanten über die Zusage von Präsident Putin an den US-Gesandten Witkoff"
       },
       {
         "name": "ZDF heute",
-        "note": "Bezeichnet die Gespräche explizit als trilaterale Gespräche."
+        "note": "bezeichnet das Treffen als solches und Witkoff als US-Sondergesandten, spricht von trilateralen Gesprächen über den Ukraine-Krieg"
       }
     ],
     "chg": "",
@@ -1621,9 +2350,9 @@
     "st": "BW",
     "city": "",
     "t": "Polizeieinsatz an Bahnhof in Kernen-Rommelshausen beendet",
-    "s": "In Kernen-Rommelshausen im Rems-Murr-Kreis hat ein größerer Polizeieinsatz stattgefunden. Auslöser war ein Notruf, in dem eine bewaffnete Person am Bahnhof gemeldet wurde. Die Situation konnte inzwischen geklärt werden und der Einsatz ist offiziell beendet. Der Verdächtige wurde von den Einsatzkräften festgenommen.",
-    "m": "Der Vorfall ereignete sich am Bahnhof in Kernen-Rommelshausen im Rems-Murr-Kreis, nachdem über den Notruf die Meldung über eine Person mit einer Pistole eingegangen war. Daraufhin wurde der Polizeieinsatz ausgelöst, um die Sicherheit vor Ort zu gewährleisten und den mutmaßlich bewaffneten Verdächtigen zu lokalisieren. Die Polizei konnte den Mann schließlich ausfindig machen und festnehmen. Im Anschluss an die Festnahme wurde der Verdächtige in eine Klinik gebracht. Mittlerweile ist der Polizeieinsatz vollständig beendet worden. Weitere Details zu den Hintergründen des Vorfalls oder zur Identität der Person wurden zunächst nicht bekannt gegeben.",
-    "r": "Der Vorfall betrifft einen größeren Polizeieinsatz wegen einer gemeldeten Schusswaffe an einem Bahnhof mit anschließender Festnahme. Solche Einsätze sind für die öffentliche Sicherheit und den regionalen Bahnverkehr von unmittelbarer Bedeutung.",
+    "s": "Ein größerer Polizeieinsatz am Bahnhof in Kernen-Rommelshausen ist erfolgreich beendet worden. Auslöser war ein Notruf, der eine Person mit einer Pistole meldete. Die Polizei konnte einen Tatverdächtigen lokalisieren und festnehmen.",
+    "m": "Nach einem Notruf wegen einer angeblich bewaffneten Person kam es zu einem Polizeieinsatz am Bahnhof in Kernen-Rommelshausen im Rems-Murr-Kreis. Die Einsatzkräfte rückten aus, um die Situation zu klären und die Sicherheit zu gewährleisten. Im Zuge der Maßnahmen konnte ein Verdächtiger angetroffen werden. Der Mann wurde festgenommen und in eine Klinik gebracht. Der Einsatz ist mittlerweile offiziell beendet, und es besteht keine akute Gefahr mehr an dem betroffenen Bahnhof.",
+    "r": "Der Vorfall betrifft die öffentliche Sicherheit und Ordnung im regionalen Bahnverkehr und erforderte ein schnelles Eingreifen der Polizei. Solche Großeinsätze verdeutlichen die Reaktionsfähigkeit der Behörden bei Notrufen über bewaffnete Personen.",
     "srcs": [
       {
         "name": "SWR Aktuell Baden-Württemberg",
@@ -1637,17 +2366,8 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/kernen-im-remstal-rommelshausen-polizeieinsatz-notruf-pistole-100.html",
-    "agree": "Beide Quellen stimmen darin überein, dass es nach einem Notruf wegen eines bewaffneten Mannes am Bahnhof in Kernen-Rommelshausen einen Polizeieinsatz gab und der Verdächtige in einer Klinik festgenommen wurde.",
-    "diff": [
-      {
-        "name": "SWR Aktuell Baden-Württemberg",
-        "note": "Berichtet identisch zum Regionalprogramm der Tagesschau über den Einsatz und die Festnahme."
-      },
-      {
-        "name": "Tagesschau Regional Baden-Württemberg",
-        "note": "Berichtet wortgleich zum SWR über den Vorfall am Bahnhof."
-      }
-    ],
+    "agree": "Beide Quellen stimmen überein, dass es einen Polizeieinsatz wegen eines bewaffneten Mannes am Bahnhof in Kernen-Rommelshausen gab und der Verdächtige in einer Klinik festgenommen wurde.",
+    "diff": [],
     "chg": "",
     "independent": 2
   },
@@ -1702,10 +2422,10 @@
     "p": 2,
     "st": "",
     "city": "",
-    "t": "Portugal: Zinsen für Wohnimmobilienkredite steigen im September",
-    "s": "Die impliziten Zinsen für Wohnungsbaukredite in Portugal sind im September weiter gestiegen. Laut dem Nationalen Institut für Statistik (INE) hat sich damit der Aufwärtstrend fortgesetzt. Es wurde der höchste Wert seit einem Jahr verzeichnet.",
-    "m": "Die Zinsen für die Gesamtheit aller Wohnungsbaukredite in Portugal sind im September den vierten Monat in Folge gestiegen und erreichten einen Wert von 3,194 Prozent. Dies gab das Instituto Nacional de Estatística (INE) in einer aktuellen Mitteilung bekannt. Damit markiert der September-Wert den höchsten Stand, der in diesem Bereich innerhalb eines Jahres gemessen wurde. Die Entwicklung betrifft alle laufenden Verträge zur Immobilienfinanzierung im Land. Das INE lieferte jedoch in der Kurzmitteilung keine detaillierten Gründe für die anhaltende Zinssteigerung.",
-    "r": "Die Entwicklung der Wohnungsbaukredite ist ein wichtiger Indikator für die finanzielle Belastung von Haushalten und die allgemeine Zinsentwicklung im portugiesischen Immobiliensektor.",
+    "t": "Portugal: Implizite Zinsen für Wohnungsbaudarlehen steigen im September auf Jahreshöchstwert",
+    "s": "Die Zinsen für Wohnungsbaudarlehen in Portugal sind im September weiter gestiegen. Nach Angaben des nationalen Statistikinstituts INE hat sich der Wert damit den vierten Monat in Folge erhöht. Dies geht aus aktuellen Veröffentlichungen hervor, die eine neue Höchstmarke innerhalb der letzten zwölf Monate markieren.",
+    "m": "Laut dem portugiesischen Statistikinstitut INE ist die implizite Zinsrate für die Gesamtheit der Wohnungsbaudarlehen im September im Vergleich zum Vormonat erneut gestiegen. Der Zinssatz kletterte auf 3,194 Prozent und verzeichnet damit den vierten monatlichen Anstieg in Folge. Dies ist der höchste Wert, der für diese Kennzahl im Jahresverlauf verzeichnet wurde. Die Entwicklung betrifft alle laufenden Verträge zur Immobilienfinanzierung im Land. Weitere Details zum zeitlichen Ablauf oder zu regionalen Unterschieden nennen die vorliegenden Berichte nicht. Offen bleibt, wie sich diese Zinsentwicklung in den kommenden Monaten auf den Gesamtmarkt auswirken wird.",
+    "r": "Die Zinsentwicklung bei Immobilienkrediten ist ein wichtiger Indikator für die finanzielle Belastung von Haushalten und die Konjunkturlage. Sie zeigt direkt die Auswirkungen des geldpolitischen Umfelds auf die privaten Finanzen in Portugal.",
     "srcs": [
       {
         "name": "Google News Portugal",
@@ -1719,11 +2439,11 @@
       }
     ],
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYWFkc0NMRGxITEVOREliX25pWEdqU1NGSXdQYmNPV1M1Q0xxNTNPQWtzdGxkUWZNTTN5U2ctTHUwSDFQVHdXYUkzS1o2ZnJ5c3VsTk1oZmFHZDZOcEg3eGxrOFF6VGdqMEhWeXZxazlzNmpMa2p6UEFHbHFfYkFxV3lDX3hOS1F1UWZmQUNZdDJBQlFJcVIyeWZhM0dEWUtPZWc0Z3VLRWlJZTlpR3BCMlVic040LTEzc3c3Y2FYT0ZxTVpyTVE?oc=5",
-    "agree": "",
+    "agree": "Beide Quellen stimmen darin überein, dass die Zinsen für Wohnungsbaudarlehen in Portugal im September den höchsten Wert seit einem Jahr erreicht haben.",
     "diff": [
       {
         "name": "RTP Economia",
-        "note": "Berichtet detailliert, dass der Wert bei 3,194% liegt, es sich um den vierten Anstieg in Folge handelt und die Daten vom INE stammen."
+        "note": "nennt konkret das INE als Quelle und beziffert den Anstieg auf 3,194 % bei vierter monatlicher Steigerung in Folge"
       }
     ],
     "chg": "",
@@ -1765,6 +2485,56 @@
     ],
     "chg": "",
     "independent": 2
+  },
+  {
+    "id": "story-de317c59400605e0",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-21T11:09:00.000Z",
+    "p": 4,
+    "st": "BY",
+    "city": "",
+    "t": "Alice Schwarzer stellt feministisches Magazin Emma nach 50 Jahren ein",
+    "s": "Nach fast 50 Jahren wird das feministische Magazin Emma von Gründerin Alice Schwarzer eingestellt. Die letzte Ausgabe soll im Dezember erscheinen. Schwarzer begründete die Entscheidung mit den Worten Wir meinen, es reicht. Das Magazin hat die feministische Debatte in Deutschland über Jahrzehnte geprägt und polarisiert.",
+    "m": "Das traditionsreiche feministische Magazin Emma wird nach fast 50 Jahren eingestellt, wie Gründerin und Herausgeberin Alice Schwarzer bekannt gab. Die letzte gedruckte oder erscheinende Ausgabe ist für Dezember beziehungsweise konkret für den 8. Dezember angekündigt. Schwarzer erklärte zu dem Schritt lapidar Wir meinen, es reicht. Die 83-jährige Initiatorin betonte zudem, dass wirtschaftliche beziehungsweise ökonomische Gründe nicht für das Ende des Blattes verantwortlich sind. Das Medium hat seit seiner Gründung die feministische Debatte in Deutschland maßgeblich geprägt und dabei oft auch für heftige Polarisierung gesorgt. Nun zieht die Chefin endgültig den Schlussstrich unter das Projekt. Ob es digitale Nachfolgeangebote geben wird oder wie die Abwicklung erfolgt, geht aus den Meldungen nicht hervor.",
+    "r": "Die Einstellung der Emma markiert das Ende einer Institution, die den Feminismus in Deutschland über Jahrzehnte stark beeinflusst hat. Die Entscheidung einer so prominenten Medienmacherin wirft ein Schlaglicht auf den Wandel der publizistischen Landschaft für Frauen- und Geschlechterthemen.",
+    "srcs": [
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/panorama/emma-frauen-zeitschrift-schluss-100.html",
+        "date": "2026-10-21T11:09:00.000Z"
+      },
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/kultur/emma-magazin-ende-100.html",
+        "date": "2026-10-21T08:40:09.000Z"
+      },
+      {
+        "name": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/kultur/es-reicht-alice-schwarzer-stellt-emma-nach-50-jahren-ein,VYf4pD4",
+        "date": "2026-10-21T07:11:19.000Z"
+      }
+    ],
+    "url": "https://www.zdfheute.de/panorama/emma-frauen-zeitschrift-schluss-100.html",
+    "agree": "Alle Quellen stimmen überein, dass Alice Schwarzer ihr feministisches Magazin Emma nach 50 Jahren einstellt und im Dezember die letzte Ausgabe erscheint.",
+    "diff": [
+      {
+        "name": "ZDF heute",
+        "note": "Nennt keinen konkreten Tag im Dezember für die letzte Ausgabe."
+      },
+      {
+        "name": "Tagesschau",
+        "note": "Betont zusätzlich, dass die Gründe für die Einstellung nicht ökonomischer Natur sind."
+      },
+      {
+        "name": "BR24 Bayern",
+        "note": "Nennt das genaue Datum der letzten Ausgabe (8. Dezember), das Alter von Alice Schwarzer (83 Jahre) und erwähnt, dass das Magazin die feministische Debatte in Deutschland geprägt und polarisiert hat."
+      }
+    ],
+    "chg": "",
+    "independent": 3
   },
   {
     "id": "story-a99eae1837a9d7a1",
@@ -1867,10 +2637,10 @@
     "p": 2,
     "st": "BW",
     "city": "",
-    "t": "Hammer fliegt auf der A6 durch Autoscheibe einer Mutter mit Kindern",
-    "s": "Auf der Autobahn 6 ist am Montagabend ein Hammer durch die Frontscheibe eines Autos geflogen. Die Fahrerin war mit zwei kleinen Kindern in Richtung Mannheim unterwegs. Verletzt wurde bei dem Vorfall nach den bisherigen Angaben niemand.",
-    "m": "Der Vorfall ereignete sich am Montagabend auf der Autobahn 6 in Fahrtrichtung Mannheim. Eine Frau war zu diesem Zeitpunkt mit ihren zwei kleinen Kindern im Auto unterwegs, als plötzlich ein Hammer durch die Autoscheibe flog. Weitere Details zum Hergang, zum genauen Ort des Geschehens, zur Identität möglicher Verursacher sowie zu Hintergründen oder Schäden gehen aus den vorliegenden Berichten nicht hervor. Es ist unklar, ob der Hammer von einer Brücke geworfen wurde, von einem anderen Fahrzeug verloren ging oder aus einer Baustelle stammte. Die Polizei hat die Ermittlungen zu dem gefährlichen Zwischenfall aufgenommen.",
-    "r": "Gegenstände, die während der Fahrt durch Autoscheiben fliegen, stellen eine erhebliche und lebensgefährliche Gefahr für die Insassen im Straßenverkehr dar. Der Vorfall auf der A6 verdeutlicht das Risiko plötzlicher Einwirkungen auf fahrende Fahrzeuge.",
+    "t": "Hammer fliegt auf A6 in Autoscheibe einer Mutter mit Kleinkindern",
+    "s": "Auf der Autobahn 6 ist ein Hammer durch die Scheibe eines Autos geflogen. Die Fahrerin war am Montagabend mit zwei kleinen Kindern in Richtung Mannheim unterwegs. Zu Verletzten oder den genauen Hintergründen des Vorfalls liegen noch keine Angaben vor.",
+    "m": "Der Vorfall ereignete sich am Montagabend auf der Autobahn 6 in Fahrtrichtung Mannheim. Eine Frau war zu diesem Zeitpunkt mit zwei Kleinkindern im Fahrzeug unterwegs, als ein Hammer plötzlich die Autoscheibe durchschlug. Die Berichte nennen bisher keine Details darüber, ob der Hammer von einer Brücke geworfen, von einem anderen Fahrzeug verloren oder absichtlich platziert wurde. Auch zum genauen Streckenabschnitt oder zu möglichen Verletzungen der Fahrzeuginsassen machen die vorliegenden Meldungen keine Angaben. Die Ermittlungen zu dem gefährlichen Zwischenfall dauern an.",
+    "r": "Gegenstände, die während der Fahrt in Windschutzscheiben oder Seitenscheiben fliegen, stellen ein massives Sicherheitsrisiko im Straßenverkehr dar. Der Vorfall auf einer vielbefahrenen Autobahn verdeutlicht die akute Gefahr für Leib und Leben von Fahrzeuginsassen, insbesondere wenn sich Kleinkinder im Fahrzeug befinden.",
     "srcs": [
       {
         "name": "SWR Aktuell Baden-Württemberg",
@@ -1884,17 +2654,8 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/heilbronn/hammer-von-lkw-auf-a6-heilbronn-fliegt-durch-autoscheibe-von-familie-polizei-sucht-zeugen-100.html",
-    "agree": "Beide Quellen stimmen überein, dass am Montagabend auf der A6 ein Hammer in die Autoscheibe einer Frau flog, die mit zwei Kindern in Richtung Mannheim unterwegs war.",
-    "diff": [
-      {
-        "name": "SWR Aktuell Baden-Württemberg",
-        "note": "Bezeichnet die Fahrerin als Mutter mit kleinen Kindern."
-      },
-      {
-        "name": "Tagesschau Regional Baden-Württemberg",
-        "note": "Bezeichnet die Insassen als Familie mit Kleinkindern."
-      }
-    ],
+    "agree": "Beide Quellen stimmen darin überein, dass am Montagabend auf der A6 in Richtung Mannheim ein Hammer in die Autoscheibe einer Frau geflogen ist, die mit zwei Kindern unterwegs war.",
+    "diff": [],
     "chg": "",
     "independent": 2
   },
@@ -1930,6 +2691,88 @@
       {
         "name": "Google News DE",
         "note": "Verweist direkt auf den Beitrag der Tagesschau und enthält den dazugehörigen HTML-Link zum Artikel."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-25e209cfbbd57076",
+    "c": "INT",
+    "o": "DE",
+    "k": "umwelt",
+    "lang": "de",
+    "d": "2026-10-21T08:44:10.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "UN-Bericht: Erde steuert auf 2,8 Grad Erwärmung zu",
+    "s": "Einem neuen Bericht der Vereinten Nationen zufolge steuert die Erde auf eine Erwärmung von 2,8 Grad zu. Das im Pariser Abkommen vereinbarte Ziel einer Begrenzung auf 1,5 Grad wird demnach sehr wahrscheinlich verfehlt werden. Die Vereinten Nationen betonen jedoch, dass es trotz des großen Zeitdrucks Fortschritte beim Klimaschutz gibt.",
+    "m": "Der UN-Bericht macht deutlich, dass die bisherigen Anstrengungen beim globalen Klimaschutz nicht ausreichen, um den Temperaturanstieg im angestrebten Rahmen zu halten. Die drohende Erwärmung von 2,8 Grad hätte verheerende ökologische und gesellschaftliche Folgen für den Planeten. Zwar verzeichnen die Vereinten Nationen gewisse Fortschritte und erste positive Entwicklungen in der Klimapolitik verschiedener Staaten, allerdings drängt die Zeit massiv für drastischere Maßnahmen. Experten und politische Entscheidungsträger stehen nun vor der Herausforderung, die Emissionen schneller und massiver zu senken, um die schlimmsten Auswirkungen noch abzuwenden. Offen bleibt, wie die Staatengemeinschaft ihre Klimaziele kurzfristig nachschärfen wird.",
+    "r": "Die Veröffentlichung des UN-Berichts ist von globaler Relevanz, da sie den aktuellen Stand der weltweiten Bemühungen zur Einhaltung der Klimaziele dokumentiert. Die Erkenntnisse dienen als wissenschaftliche und politische Grundlage für zukünftige Entscheidungen im internationalen Klimaschutz.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUlJaa2hJVkJVb2VYSzM4U1FvcUFOekpWbFhId1IxYUJnT3lkakctNzhCREI3RXJqOUFsRlU4dlN2NGRraGg2R3FlaHNUQ2ZfS21QTERYaGg5dXhjbmNMaEhRb2lkWkgwek1NM01rTmQ0NjdYYlN3YnlSMjRlMDNfM3N5b0s4X2hVNk9lTmV6UXlwSVcyU09EWGp4TW0?oc=5",
+        "date": "2026-10-21T08:44:10.000Z"
+      },
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/wissen/klima/erderwaermung-un-bericht-102.html",
+        "date": "2026-10-21T07:54:54.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUlJaa2hJVkJVb2VYSzM4U1FvcUFOekpWbFhId1IxYUJnT3lkakctNzhCREI3RXJqOUFsRlU4dlN2NGRraGg2R3FlaHNUQ2ZfS21QTERYaGg5dXhjbmNMaEhRb2lkWkgwek1NM01rTmQ0NjdYYlN3YnlSMjRlMDNfM3N5b0s4X2hVNk9lTmV6UXlwSVcyU09EWGp4TW0?oc=5",
+    "agree": "Die Quellen sind sich einig, dass die Erde laut einem UN-Bericht auf eine Erwärmung von 2,8 Grad zusteuert und das 1,5-Grad-Limit voraussichtlich verfehlt wird.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Verweist auf einen Artikel von DIE ZEIT zum UN-Bericht über die Erwärmung."
+      },
+      {
+        "name": "Tagesschau",
+        "note": "Erwähnt zusätzlich, dass die UN trotz des verfehlten Limits Fortschritte beim Klimaschutz betonen und die Zeit drängt."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-a8bee09036899929",
+    "c": "INT",
+    "o": "PT",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-21T08:12:17.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Bank-of-Portugal-Gouverneur fordert Ausbau der öffentlichen Wohnungsbauangebote",
+    "s": "Der Gouverneur der Banco de Portugal, Álvaro Santos Pereira, hat bei einem Besuch auf den Azoren erklärt, dass es noch großen Handlungsspielraum zur Steigerung des öffentlichen Wohnungsbaus gibt. Er betonte, dass angesichts der anhaltenden Wohnungsnot viel Arbeit geleistet werden muss, um die Krise zu bewältigen. Der Schwerpunkt soll dabei auf der Stärkung des Angebots an bezahlbarem Wohnraum liegen.",
+    "m": "Álvaro Santos Pereira äußerte sich auf den Azoren zur aktuellen Situation auf dem Immobilienmarkt und zur Bewältigung der dortigen Wohnungsmarktkrise. Laut dem Gouverneur der Banco de Portugal existiert reichlich Spielraum, um das Angebot an öffentlichem Wohnraum deutlich auszuweiten. Um der Krise wirksam zu begegnen, sei ein verstärkter Fokus auf die Bereitstellung von mehr staatlichen oder öffentlich geförderten Häusern unumgänglich. Er machte zudem deutlich, dass es auf diesem Gebiet noch viel zu tun gibt. Weitere konkrete finanzielle Kennzahlen oder Fristen wurden in den Berichten nicht genannt. Die Aussagen unterstreichen die Notwendigkeit politischer und wirtschaftlicher Maßnahmen zur Linderung des Mangels an bezahlbarem Wohnraum.",
+    "r": "Die Aussagen des Notenbankgouverneurs beleuchten die wirtschaftlichen und sozialen Herausforderungen der Wohnungsnot und zeigen potenzielle Lösungsansätze auf Ebene der öffentlichen Hand auf.",
+    "srcs": [
+      {
+        "name": "RTP Economia",
+        "url": "https://www.rtp.pt/noticias/economia/governador-do-banco-de-portugal-diz-que-ha-muita-margem-para-aumentar-a-habitacao-publica_n1773144",
+        "date": "2026-10-21T08:12:17.000Z"
+      },
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbkNqYmRlWG5xYmdrOHBTYkNDRmxPSGRROG52eG1FVTI1RXZMU01fam45Q1JQYkpFNjVqT0xqZkxSR3ExbG1CS0g5YzdENDJjQXV5TDNRYnNvb1RMRHhIV25aWGt0M1Y4azB6OEtZbmxuQ0s3a2VDU3JCdlg1VV9hMTlyemRVZXY3TGFBMVZEVDVWMm9QWFZRZ2hTMkVINXZvOUI0dFhVR2tnMFpVcmdmai1XOS1zVjd3Y3NKTU1ZbVlXSkJ0TmxIX3pHS0tHX202?oc=5",
+        "date": "2026-10-21T07:13:02.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/economia/governador-do-banco-de-portugal-diz-que-ha-muita-margem-para-aumentar-a-habitacao-publica_n1773144",
+    "agree": "Beide Quellen berichten übereinstimmend über die Aussagen des Gouverneurs der Banco de Portugal bezüglich der Steigerung des öffentlichen Wohnungsbaus.",
+    "diff": [
+      {
+        "name": "Google News Portugal",
+        "note": "Verweist lediglich auf den Artikel von RTP und liefert keine zusätzlichen inhaltlichen Informationen."
+      },
+      {
+        "name": "RTP Economia",
+        "note": "Liefert die inhaltlichen Details zu den Aussagen von Álvaro Santos Pereira auf den Azoren bezüglich der Wohnungsbaukrise."
       }
     ],
     "chg": "",
@@ -15293,855 +16136,6 @@
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNjIyNkNVVXRsazNWaUN3MDNvLWtLUEI0cmVNNFY3VXlzaFFEZDFGYzd3UXBHYldSMlhLOVdjVGpoYWRKQXBSdVZRQVp3Mk5MdzVPcGljamxYU01YUnFpelFWS0RKci1fb19hbEVVOGlBNXQ0MkJrRlZkaHBsS3YzOWNuNmp5UGNZdXo4eGZmcmxLSjBIRjQyREVpZXZGZw?oc=5",
     "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
     "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-d61e939f4829ea26",
-    "c": "INT",
-    "o": "DE",
-    "k": "technik",
-    "lang": "de",
-    "d": "2026-10-16T10:59:00.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Tesla zeigt neuen Roadster im Video mit Raketenantrieb",
-    "s": "Tesla hat nach fast zehn Jahren Wartezeit ein Video seines neuen Roadsters veröffentlicht. Der Sportwagen zeichnet sich durch eine extreme Beschleunigung aus. Laut Unternehmensangaben soll das Fahrzeug zudem fliegen können.",
-    "m": "Fast zehn Jahre nach den ersten Ankündigungen hat Tesla den neuen Roadster in einem Video präsentiert. Firmenchef Elon Musk betonte dabei die außergewöhnlichen Leistungsdaten des Sportwagens. Das Fahrzeug beschleunigt demnach extrem schnell, vergleichbar mit einer Rakete. Eine besondere technische Eigenschaft, die hervorgehoben wurde, ist die Fähigkeit des Autos zu fliegen. Konkrete Details zur Serienproduktion, zu genauen Preisen oder einem endgültigen Auslieferungsdatum wurden in der Veröffentlichung nicht genannt. Auch technische Spezifikationen wie die genaue Akkukapazität oder Reichweite bleiben vorerst offen.",
-    "r": "Die Präsentation des neuen Tesla Roadsters gibt Einblick in den aktuellen Entwicklungsstand des Sportwagens nach langer Wartezeit. Die Ankündigung verdeutlicht Teslas Fokus auf medienwirksame Innovationen im Fahrzeugbereich.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPb1V1eWJSSDRaYnhWdEhiQXR2Z1dXdnF0S00ySTNhYXR4VGlqRE9fM0dzQ0dsdU4zU2dicTFyUGszMng5dlFtYjlkZElVSTl4N25sOXNMTGMwbUFmcmZGdjNmQTBuUVp0NDBsM0twaFlKOGFzTEJWUktfdlhFQkJjUVZTT1hEOElEOVF5Uk12Zk9FUVRkVkNibUFkejFKb2hUdmdpcTZxblBJeEw5SUF1Yk1oY2NwY2pETlV0dEtscExhd2k2c1ZXb1dCREFnWEZ1VkhBNWd6TzV1eUU?oc=5",
-        "date": "2026-10-16T10:59:00.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/wirtschaft/elon-musk-teslas-neuer-roadster-im-video-sportwagen-mit-raketenantrieb-a-3ef7afa4-b536-4d08-892a-fa24e3369a4c#ref=rss",
-        "date": "2026-10-16T10:59:00.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPb1V1eWJSSDRaYnhWdEhiQXR2Z1dXdnF0S00ySTNhYXR4VGlqRE9fM0dzQ0dsdU4zU2dicTFyUGszMng5dlFtYjlkZElVSTl4N25sOXNMTGMwbUFmcmZGdjNmQTBuUVp0NDBsM0twaFlKOGFzTEJWUktfdlhFQkJjUVZTT1hEOElEOVF5Uk12Zk9FUVRkVkNibUFkejFKb2hUdmdpcTZxblBJeEw5SUF1Yk1oY2NwY2pETlV0dEtscExhd2k2c1ZXb1dCREFnWEZ1VkhBNWd6TzV1eUU?oc=5",
-    "agree": "Beide Quellen berichten übereinstimmend über das Video zum neuen Tesla Roadster und dessen Raketenantrieb.",
-    "diff": [
-      {
-        "name": "Google News DE",
-        "note": "Erwähnt im Titel den Namen Spiegel als Plattform."
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "Fügt hinzu, dass die Welt fast zehn Jahre auf das Fahrzeug warten musste und das Auto fliegen können soll."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-abf4f5a735c38c1e",
-    "c": "INT",
-    "o": "DE",
-    "k": "technik",
-    "lang": "de",
-    "d": "2026-10-16T10:27:26.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "US-Senatoren fordern Aufklärung über Starlink-Drosselung in der Ukraine",
-    "s": "Die vorübergehende Drosselung des militärisch genutzten Satelliteninternets Starlink in der Ukraine ruft im US-Senat parteiübergreifende Kritik hervor. US-Senatoren verlangen nun Klarheit von dem Unternehmen und Elon Musk zu den Hintergründen dieser Maßnahme. Die Störung des Dienstes sorgt international für Enttäuschung und wirft Fragen zur Zuverlässigkeit der Infrastruktur im Konfliktgebiet auf.",
-    "m": "Das Satelliteninternet-Netzwerk Starlink, betrieben von SpaceX, steht im Zentrum einer neuen politischen Debatte in den USA. Grund dafür ist eine vorübergehende Drosselung des militärisch genutzten Dienstes in der Ukraine, die bei den Betroffenen zu großer Enttäuschung geführt hat. US-Senatoren zeigen sich über den Vorfall besorgt und fordern offiziell Klarheit und Aufklärung von den Verantwortlichen. Der Fall verdeutlicht die enorme Abhängigkeit kritischer militärischer Kommunikationsstrukturen in der Ukraine von privaten kommerziellen Anbietern. Bislang ist unklar, welche konkreten technischen oder politischen Beweggründe zu der Drosselung führten und ob ähnliche Maßnahmen in Zukunft zu erwarten sind. Die parteiübergreifende Initiative im US-Senat unterstreicht die sicherheitspolitische Dimension und die Forderung nach mehr Transparenz von Elon Musks Unternehmen.",
-    "r": "Der Vorfall betrifft die sicherheitspolitisch hochrelevante Kommunikationsinfrastruktur im Ukraine-Krieg. Die parlamentarische Intervention in den USA zeigt, dass die Kontrolle privater Technologiekonzerne über militärische Abläufe zunehmend kontrolliert wird.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSWh4YldlbGVVbjVSbWJ0MGVBMXAyX3VDY2JHOXNwN2MyeEZGNTB6MUstOFpTSVJaTlB1RWtkX1pQNGstSEJhQWJJb0JOOGFKTjAzMXl0S19PVTlVZDdac056cHJNZjl2cXY1YlNGSldsbDA5WTZuSEhiTWt3U09lSWRQdHkzZTVpTlR6aVpDT1M4LTZZ?oc=5",
-        "date": "2026-10-16T10:27:26.000Z"
-      },
-      {
-        "name": "Süddeutsche Zeitung",
-        "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-usa-starlink-senatoren-aufklaerung-li.3563283",
-        "date": "2026-10-16T09:11:47.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSWh4YldlbGVVbjVSbWJ0MGVBMXAyX3VDY2JHOXNwN2MyeEZGNTB6MUstOFpTSVJaTlB1RWtkX1pQNGstSEJhQWJJb0JOOGFKTjAzMXl0S19PVTlVZDdac056cHJNZjl2cXY1YlNGSldsbDA5WTZuSEhiTWt3U09lSWRQdHkzZTVpTlR6aVpDT1M4LTZZ?oc=5",
-    "agree": "Beide Quellen berichten übereinstimmend, dass US-Senatoren Klarheit über die Drosselung von Starlink in der Ukraine verlangen und dies parteiübergreifende Kritik auslöst.",
-    "diff": [
-      {
-        "name": "Google News DE",
-        "note": "Erwähnt zusätzlich konkrete Enttäuschung über Elon Musk im Zusammenhang mit der Starlink-Störung in der Ukraine."
-      },
-      {
-        "name": "Süddeutsche Zeitung",
-        "note": "Ordnet die Drosselung als vorübergehend ein und nennt die parteiübergreifende Kritik im US-Senat explizit als Reaktion."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-77e08576e9d7fccf",
-    "c": "INT",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-16T10:20:43.000Z",
-    "p": 3,
-    "st": "BY",
-    "city": "",
-    "t": "Massive Störungen im italienischen Flugverkehr",
-    "s": "In Italien kommt es zu erheblichen Problemen im gesamten Flugverkehr. Betroffen sind sowohl Starts und Landungen als auch Überflüge. Grund für die Verzögerungen und Ausfälle ist eine technische Störung im Netz der italienischen Flugsicherung. Ein gezielter Hackerangriff oder eine Sabotagehandlung wird von den zuständigen Behörden derzeit ausgeschlossen.",
-    "m": "Die massiven Einschränkungen im italienischen Luftraum beeinträchtigen den nationalen sowie den internationalen Flugverkehr erheblich. Reisende müssen landesweit mit Verzögerungen und potenziellen Flugstreichungen rechnen. Die italienische Flugsicherung arbeitet mit Hochdruck an der Behebung der Probleme in ihrem Datenübertragungsnetz. Konkrete Details zur genauen Ursache des technischen Defekts wurden bislang nicht bekannt gegeben. Bisher gibt es keine Berichte über Verletzte oder gefährdete Maschinen in der Luft. Die Behörden betonen jedoch, dass die Sicherheit des Luftverkehrs durch alternative Maßnahmen so weit wie möglich aufrechterhalten wird. Offen ist derzeit, wie lange die Störungen noch andauern und wann der reguläre Flugbetrieb wieder vollständig aufgenommen werden kann.",
-    "r": "Die Störungen beeinträchtigen den Reise- und Wirtschaftsverkehr in Europa und betreffen potenziell tausende Passagiere. Die rasche Ausschließung von Sabotage ist sicherheitsrelevant für die Luftfahrt.",
-    "srcs": [
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/flugverkehr-ueber-italien-gestoert,VYCjYOL",
-        "date": "2026-10-16T10:20:43.000Z"
-      },
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/europa/flugverkehr-italien-100.html",
-        "date": "2026-10-16T09:55:19.000Z"
-      }
-    ],
-    "url": "https://www.br.de/nachrichten/deutschland-welt/flugverkehr-ueber-italien-gestoert,VYCjYOL",
-    "agree": "Beide Quellen stimmen überein, dass es zu Störungen im Flugverkehr über Italien gekommen ist, Starts, Landungen sowie Überflüge betroffen sind und Sabotage beziehungsweise Hackerangriffe ausgeschlossen wurden.",
-    "diff": [
-      {
-        "name": "BR24 Bayern",
-        "note": "Erwähnt spezifisch, dass die Störungen im Datenübertragungsnetz der Flugsicherung liegen."
-      },
-      {
-        "name": "Tagesschau",
-        "note": "Berichtet von massiven Problemen im ganzen Land und formuliert, dass Sabotage bislang ausgeschlossen wird."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-e4dc16577aeb6fee",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-16T09:50:00.000Z",
-    "p": 3,
-    "st": "NW",
-    "city": "",
-    "t": "Bundestag beschließt Einführung der Frühstartrente",
-    "s": "Der Bundestag hat die Einführung der Frühstartrente beschlossen. Ziel der Reform ist es, dass Kinder bereits in jungen Jahren Vermögen aufbauen können. Das Vorhaben soll als zusätzlicher Baustein zur langfristigen Alterssicherung dienen.",
-    "m": "Das beschlossene Modell sieht vor, dass der Staat monatlich zehn Euro für Kinder ab dem sechsten Lebensjahr zahlt. Dieses staatliche Startkapital soll am Kapitalmarkt angelegt werden, um langfristig Renditen zu erwirtschaften. Zusätzlich haben Eltern die Möglichkeit, den Betrag durch eigene Einzahlungen aufstocken. Ob sich das Modell im Einzelfall lohnt, wird in der Öffentlichkeit und von Experten diskutiert. Die Maßnahme soll den Vermögensaufbau für kommende Generationen erleichtern.",
-    "r": "Die Entscheidung des Bundestages ist für die Alterssicherung und die Finanzpolitik von Bedeutung. Sie betrifft den langfristigen Vermögensaufbau von Kindern und eröffnet neue Wege für die staatlich geförderte Kapitalanlage.",
-    "srcs": [
-      {
-        "name": "Tagesschau Regional Nordrhein-Westfalen",
-        "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-neue-altervorsorge-fuer-kinder-ab-sechs-jahren-fuer-die-rente-sparen-100.html",
-        "date": "2026-10-16T09:50:00.000Z"
-      },
-      {
-        "name": "Süddeutsche Zeitung",
-        "url": "https://www.sueddeutsche.de/politik/bundesregierung-news-bundestag-fruehstartrente-li.3529564",
-        "date": "2026-10-16T08:14:24.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-neue-altervorsorge-fuer-kinder-ab-sechs-jahren-fuer-die-rente-sparen-100.html",
-    "agree": "Die Quellen stimmen darin überein, dass der Bundestag die Frühstartrente beschlossen hat und diese dem Vermögensaufbau für Kinder sowie der Alterssicherung dienen soll.",
-    "diff": [
-      {
-        "name": "Tagesschau Regional Nordrhein-Westfalen",
-        "note": "Erwähnt zusätzlich die Möglichkeit für Eltern, den Betrag aufstocken zu können, und wirft die Frage auf, ob sich das Modell lohnt."
-      },
-      {
-        "name": "Süddeutsche Zeitung",
-        "note": "Nennt konkrete Details: Der Staat zahlt zehn Euro monatlich für Kinder ab sechs Jahren, und das Geld soll am Kapitalmarkt angelegt werden."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-55c1e982cbf6903b",
-    "c": "INT",
-    "o": "INT",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-16T09:27:58.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Schießerei an Grundschule in Oregon fordert vier Menschenleben",
-    "s": "Bei einem Amoklauf an einer Grundschule im US-Bundesstaat Oregon sind ein Lehrer und drei Kinder getötet worden. Der mutmaßliche jugendliche Täter kam ebenfalls ums Leben, nachdem ein bewaffneter Passant ihn verfolgt hatte. Die Polizei rückte am Donnerstagnachmittag zum Tatort in Bend aus.",
-    "m": "Am Donnerstag hat ein Jugendlicher das Feuer an der Silver Rail Elementary School im US-Bundesstaat Oregon eröffnet und dabei einen Lehrer sowie drei Kinder getötet. Zu den Opfern zählen drei Kinder im Alter von fünf, acht und elf Jahren, die noch am Tatort starben, wie der Polizeichef von Bend, Mike Krantz, mitteilte. Der Angreifer wurde nach Polizeiangaben getötet, nachdem ein bewaffneter Passant die Verfolgung in das Gebäude aufgenommen hatte. Die Stadt Bend im Nordwesten der USA hat etwa 100.000 Einwohner. An der betroffenen Grundschule besuchen laut Angaben eines Polizeisprechers zwischen 400 und 450 Kinder die Einrichtung, und es arbeiten dort mehr als 40 Mitarbeiter. Die genauen Hintergründe der Tat und weitere Details zum Ablauf sind Gegenstand der polizeilichen Ermittlungen.",
-    "r": "Das Ereignis verdeutlicht die anhaltende Problematik von Schusswaffengewalt an Bildungseinrichtungen in den USA. Der Vorfall zeigt zudem das Eingreifen von Zivilisten in solchen akuten Gefahrensituationen.",
-    "srcs": [
-      {
-        "name": "France24 English",
-        "url": "https://www.france24.com/en/video/20261016-shooter-kills-teacher-three-children-at-oregon-elementary-school",
-        "date": "2026-10-16T09:27:58.000Z"
-      },
-      {
-        "name": "Euronews",
-        "url": "https://www.euronews.com/2026/10/16/four-killed-in-oregon-elementary-school-shooting-including-three-children-aged-5-to-11",
-        "date": "2026-10-16T03:23:21.000Z"
-      }
-    ],
-    "url": "https://www.france24.com/en/video/20261016-shooter-kills-teacher-three-children-at-oregon-elementary-school",
-    "agree": "Die Quellen stimmen überein, dass bei einer Schießerei an der Silver Rail Elementary School in Oregon ein Lehrer und drei Kinder getötet wurden.",
-    "diff": [
-      {
-        "name": "France24 English",
-        "note": "Berichtet detailliert über die getöteten Kinder im Alter von 5, 8 und 11 Jahren, die Identität des Angreifers als Teenager sowie dessen Tod durch einen bewaffneten Passanten und nennt den Polizeichef Mike Krantz."
-      },
-      {
-        "name": "Euronews",
-        "note": "Liefert ergänzende statistische Angaben zur Schule, wonach zwischen 400 und 450 Kinder die Einrichtung besuchen und dort über 40 Mitarbeiter arbeiten."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-3bab5ff9a59c2640",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-16T09:07:00.000Z",
-    "p": 2,
-    "st": "NW",
-    "city": "",
-    "t": "Ferrari prallt in Düsseldorf gegen Brückenpfeiler",
-    "s": "In Düsseldorf ist in der Nacht ein gelber Ferrari gegen einen Brückenpfeiler gekracht. Bei dem Unfall wurden zwei Personen verletzt, darunter der 18-jährige Fahrer. Der entstandene Sachschaden geht in die Hunderttausende. Die Polizei hat die Ermittlungen und die Spurensicherung aufgenommen und prüft den Verdacht auf ein illegales Autorennen.",
-    "m": "Der Unfall ereignete sich in der Nacht an einem Pfeiler des Überfliegers an der Völklinger Straße in Düsseldorf. Ein gelber Ferrari prallte aus bislang ungeklärter Ursache gegen diesen Pfeiler. Bei dem Aufprall erlitten zwei Personen Verletzungen, zu denen auch der 18-jährige Fahrer des Sportwagens gehört. Der Sachschaden an dem Fahrzeug und möglicherweise der Infrastruktur beläuft sich auf einen Betrag im sechsstelligen Bereich, also in die Hunderttausende Euro. Die Polizei war vor Ort im Einsatz, um Spuren zu sichern und den Hergang zu rekonstruieren. Im Rahmen der laufenden Ermittlungen wird von den Beamten ausdrücklich geprüft, ob das Unfallgeschehen im Zusammenhang mit einem illegalen Autorennen steht. Weitere Details zum genauen Unfallhergang oder dem Zustand der Verletzten wurden zunächst nicht bekannt gegeben.",
-    "r": "Der schwere Unfall eines Sportwagens in Düsseldorf und die damit verbundenen polizeilichen Ermittlungen zu einem möglichen illegalen Autorennen sind von regionalem Interesse. Zudem verdeutlichen der hohe Sachschaden und verletzte Personen die potenziellen Gefahren im Straßenverkehr.",
-    "srcs": [
-      {
-        "name": "Tagesschau Regional Nordrhein-Westfalen",
-        "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-1000-ps-auto-gelber-e-ferrari-prallt-frontal-an-brueckenpfeiler-100.html",
-        "date": "2026-10-16T09:07:00.000Z"
-      },
-      {
-        "name": "Rheinische Post",
-        "url": "https://rp-online.de/nrw/staedte/duesseldorf/blaulicht/unfall-in-duesseldorf-ferrari-kracht-gegen-brueckenpfeiler-illegales-autorennen_aid-156674235",
-        "date": "2026-10-16T08:21:00.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-1000-ps-auto-gelber-e-ferrari-prallt-frontal-an-brueckenpfeiler-100.html",
-    "agree": "Beide Quellen berichten übereinstimmend über einen Ferrari, der in Düsseldorf gegen einen Brückenpfeiler gekracht ist, und dass die Polizei den Verdacht auf ein illegales Autorennen prüft.",
-    "diff": [
-      {
-        "name": "Tagesschau Regional Nordrhein-Westfalen",
-        "note": "Erwähnt die Spurensicherung der Polizei."
-      },
-      {
-        "name": "Rheinische Post",
-        "note": "Liefert Details zu den zwei Verletzten, dem 18-jährigen Fahrer, dem Unfallort an der Völklinger Straße und dem Sachschaden in die Hunderttausende."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-b889328326be4b3a",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-16T08:26:00.000Z",
-    "p": 3,
-    "st": "NW",
-    "city": "",
-    "t": "Bundestag beschließt Erhöhung der Tabaksteuer",
-    "s": "Der Deutsche Bundestag hat eine Anhebung der Tabaksteuer beschlossen. Durch die Maßnahme soll der Bund künftig noch höhere Einnahmen erzielen. Für Raucherinnen und Raucher bedeutet dies, dass sie sich auf steigende Preise einstellen müssen. Auch E-Zigaretten beziehungsweise Vaper sind von den Änderungen betroffen.",
-    "m": "Millionen Menschen konsumieren in Deutschland Tabakprodukte, was dem Staat bereits bislang erhebliche Milliardeneinnahmen beschert. Mit dem nun gefassten Beschluss des Bundestages wird die Steuer künftig weiter steigen. Konkrete Preisentwicklungen für die einzelnen Produkte sowie der genaue Zeitplan des Inkrafttretens wurden im Rahmen der Berichterstattung noch nicht im Detail beziffert. Die Maßnahme betrifft sowohl klassische Raucher als auch Konsumenten von Vapern. Ob die Steuererhöhung auch eine Lenkungswirkung zur Raucherentwöhnung entfalten soll, ist Teil der politischen Diskussion. Der Bund sichert sich durch den Schritt dauerhaft höhere Einnahmen aus dem Konsum von Tabakwaren.",
-    "r": "Die Erhöhung der Tabaksteuer betrifft Millionen Menschen in Deutschland direkt durch steigende Preise und generiert zusätzliche Einnahmen für den Bund.",
-    "srcs": [
-      {
-        "name": "Tagesschau Regional Nordrhein-Westfalen",
-        "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-rauchen-und-vapen-wird-teurer-was-bringt-die-tabaksteuererhoehung-102.html",
-        "date": "2026-10-16T08:26:00.000Z"
-      },
-      {
-        "name": "Tagesschau Inland",
-        "url": "https://www.tagesschau.de/inland/innenpolitik/rauchen-bundestag-tabaksteuer-100.html",
-        "date": "2026-10-16T07:55:57.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-rauchen-und-vapen-wird-teurer-was-bringt-die-tabaksteuererhoehung-102.html",
-    "agree": "Beide Quellen stimmen überein, dass der Bundestag eine Erhöhung der Tabaksteuer beschlossen hat und sich Raucher auf höhere Preise einstellen müssen.",
-    "diff": [
-      {
-        "name": "Tagesschau Regional Nordrhein-Westfalen",
-        "note": "Erwähnt explizit, dass die Neuerung auch Vaper betrifft."
-      },
-      {
-        "name": "Tagesschau Inland",
-        "note": "Merkt an, dass Millionen Menschen in Deutschland rauchen und die Tabaksteuer dem Bund bereits Milliardeneinnahmen beschert."
-      }
-    ],
-    "chg": "",
-    "independent": 1
-  },
-  {
-    "id": "story-a56680423b51f9fb",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-16T08:12:55.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "DAX startet nach positiven Impulsen im Technologiesektor mit Gewinnen",
-    "s": "Der deutsche Aktienmarkt ist mit Kursgewinnen in den Handel gestartet. Hintergrund ist eine spürbare Erholung im weltweiten Technologiesektor. Zudem äußerte sich US-Notenbankchef Kevin Warsh positiv über die wirtschaftlichen Potenziale von künstlicher Intelligenz.",
-    "m": "Zum Handelsstart verzeichnet der DAX positive Vorzeichen. Gestützt wird diese Entwicklung durch den globalen Technologiesektor, der aktuell eine Erholung erfährt. In diesem Zusammenhang verwies der designierte US-Notenbankchef Kevin Warsh auf die enorme Bedeutung von künstlicher Intelligenz für die Steigerung von Produktivität und Wirtschaftswachstum in verschiedenen Ländern. Konkrete Kursstände, Handelsvolumina oder weitere Akteure wurden in den vorliegenden Berichten nicht genannt. Auch offene Fragen oder Risiken für den weiteren Handelsverlauf sind den Quellen derzeit nicht zu entnehmen.",
-    "r": "Die Meldung ist relevant für die Entwicklung des deutschen Aktienmarktes und verdeutlicht den Einfluss internationaler Technologietrends sowie geldpolitischer Aussagen auf das Handelsgeschehen.",
-    "srcs": [
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nikkei-oelpreis-100.html",
-        "date": "2026-10-16T08:12:55.000Z"
-      },
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNmlOUmd0OHFpTE9hUVBtR0VYSlhWN0JRMjF5SW1ic3J1NC1OWnQydTdxM3NUSlNKUTlfNlh0a0FXX1RBeExtTF96SllvNHphQTY1YjRMdmpqQndtVU8zUElVZVFoenpSM3YxN3JuLXZfVFM3b3JPRjBfVnNOLW5DZm9fQnpaYTBsbm4wbmo1ZTUwVUZQWTIzMkhEN1lrcUFhRmo4?oc=5",
-        "date": "2026-10-16T08:12:00.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nikkei-oelpreis-100.html",
-    "agree": "Beide Quellen berichten übereinstimmend, dass der DAX mit Gewinnen gestartet ist und die Tagesschau als Urheber der Information nennen.",
-    "diff": [
-      {
-        "name": "Tagesschau",
-        "note": "Berichtet ausführlich über den Marktbericht, den Rückenwind durch den Technologiesektor und die Aussagen von US-Notenbankchef Kevin Warsh zu künstlicher Intelligenz."
-      },
-      {
-        "name": "Google News DE",
-        "note": "Enthält lediglich den Verweis beziehungsweise Link auf den entsprechenden Bericht der Tagesschau."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-8292fdb41ca5840d",
-    "c": "INT",
-    "o": "INT",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-16T03:23:21.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Vier Tote bei Amoklauf an Grundschule im US-Bundesstaat Oregon",
-    "s": "Bei einer Schießerei an einer Grundschule in Bend im US-Bundesstaat Oregon wurden vier Menschen getötet. Ein 16-jähriger Verdächtiger eröffnete das Feuer auf dem Gelände. Neben den Todesopfern erlitten ein weiteres Kind und ein Lehrer schwere Verletzungen. Der mutmaßliche Täter wurde tot aufgefunden.",
-    "m": "Die Bluttat ereignete sich an einer Grundschule in der Stadt Bend in Oregon. Ein 16-jähriger Verdächtiger feuerte wahllos auf Menschen und riss vier Personen in den Tod. Unter den Opfern befinden sich drei Kinder im Alter von fünf, acht und elf Jahren sowie eine Lehrkraft. Zwei weitere Personen, ein Kind und eine Lehrkraft, wurden bei dem Amoklauf kritisch verletzt und in Krankenhäuser eingeliefert. Der Schütze wurde kurz nach der Tat tot am Tatort aufgefunden, wobei die genauen Umstände seines Todes zunächst unklar blieben. Die Hintergründe der Tat und das Motiv des Jugendlichen sind Gegenstand laufender Ermittlungen der örtlichen Behörden.",
-    "r": "Schulmassaker mit mehreren Todesopfern werfen erneut Fragen zur Waffensicherheit und zur psychischen Verfassung von Jugendlichen in den USA auf. Die Tat verdeutlicht die anhaltende Bedrohung durch Waffengewalt an Bildungseinrichtungen.",
-    "srcs": [
-      {
-        "name": "Euronews",
-        "url": "https://www.euronews.com/2026/10/16/four-killed-in-oregon-elementary-school-shooting-including-three-children-aged-5-to-11",
-        "date": "2026-10-16T03:23:21.000Z"
-      },
-      {
-        "name": "France24 English",
-        "url": "https://www.france24.com/en/americas/20261015-two-hospitalised-after-shooting-at-oregon-elementary-school-gunman-dead",
-        "date": "2026-10-16T00:57:46.000Z"
-      }
-    ],
-    "url": "https://www.euronews.com/2026/10/16/four-killed-in-oregon-elementary-school-shooting-including-three-children-aged-5-to-11",
-    "agree": "Beide Quellen stimmen darin überein, dass bei einer Schießerei an einer Schule in Oregon vier Menschen, darunter drei Kinder, getötet wurden.",
-    "diff": [
-      {
-        "name": "Euronews",
-        "note": "Berichtet detailliert, dass es sich um eine Grundschule in Bend handelte, nennt das Alter der getöteten Kinder (5, 8 und 11 Jahre) sowie den getöteten Lehrer, beziffert den Verdächtigen auf 16 Jahre und erwähnt zwei Schwerverletzte (ein Kind und einen Lehrer) sowie den Tod des Ve"
-      },
-      {
-        "name": "France24 English",
-        "note": "Beschränkt sich auf die Kernaussage, dass vier Menschen inklusive drei Kindern bei einer Schulschießerei in Oregon starben."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-0d03889f9334f126",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-16T03:04:39.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "VW bereitet Rückruf von E-Autos wegen fehlerhafter Batteriezellen vor",
-    "s": "Wegen Qualitätsmängeln bei Batteriezellen plant der Autobauer Volkswagen einen Rückruf für bestimmte Elektroauto-Modelle. Im Extremfall besteht durch den Mangel die Gefahr eines Brandes. Betroffen sind nach Angaben von Medienberichten je nach Quelle einige Tausend bis hin zu Millionen Fahrzeugen. Der neue Mangel folgt kurz auf einen erst wenige Wochen zurückliegenden Rückruf wegen einer fehlerhaften Schraube.",
-    "m": "Volkswagen steht vor einem neuen Rückruf von Elektrofahrzeugen, nachdem Qualitätsmängel bei Batteriezellen festgestellt wurden. Im Extremfall droht den betroffenen E-Autos ein Brand. Das Unternehmen bereitet die entsprechenden Maßnahmen zur Beseitigung des Mangels derzeit vor. Dieser Vorfall ereignet sich nur wenige Wochen nach einem massiven Rückruf von Millionen Fahrzeugen, der durch eine fehlerhafte Schraube ausgelöst worden war. Die genaue Zahl der nun betroffenen Fahrzeuge wird in den Quellen unterschiedlich beziffert, wobei von einigen Tausend bis zu Millionen die Rede ist. Die Redaktion prüft die Hintergründe und den genauen zeitlichen Ablauf des neuen Rückrufs. Offen bleibt bislang, welche konkreten Modelle im Detail zurückgerufen werden müssen und wann die Aktion offiziell startet.",
-    "r": "Der erneute Rückruf bei Volkswagen kurz nach einer Großaktion wirft Fragen zur Qualitätssicherung bei E-Autos auf. Zudem ist die potenzielle Brandgefahr durch fehlerhafte Batteriezellen ein sicherheitsrelevantes Problem für Halter und Hersteller.",
-    "srcs": [
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/wirtschaft/2026-10/vw-rueckruf-batterie-elektroautos-id3-id4",
-        "date": "2026-10-16T03:04:39.000Z"
-      },
-      {
-        "name": "Rheinische Post",
-        "url": "https://rp-online.de/wirtschaft/unternehmen/brandgefahr-vw-bereitet-rueckruf-wegen-fehlerhafter-batteriezellen-vor_aid-156638219",
-        "date": "2026-10-15T17:24:00.000Z"
-      }
-    ],
-    "url": "https://www.zeit.de/wirtschaft/2026-10/vw-rueckruf-batterie-elektroautos-id3-id4",
-    "agree": "Volkswagen bereitet einen neuen Rückruf wegen Mängeln an E-Autos vor.",
-    "diff": [
-      {
-        "name": "ZEIT ONLINE",
-        "note": "nennt konkret fehlerhafte Batteriezellen und beziffert die betroffenen Fahrzeuge auf einige Tausend."
-      },
-      {
-        "name": "Rheinische Post",
-        "note": "verknüpft den Vorfall mit einem erst wenige Wochen zurückliegenden Rückruf von Millionen Fahrzeugen wegen einer fehlerhaften Schraube."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-cf4bbc86517cc53f",
-    "c": "INT",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-16T03:01:39.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Mexiko sperrt nach Amöben-Tod sechs Seen in Yucatán",
-    "s": "Nach dem Tod eines Wasserskilehrers durch eine Infektion mit einer sogenannten hirnfressenden Amöbe in Mexiko haben die Behörden in der Urlaubsregion Yucatán reagiert. Insgesamt wurden sechs Seen gesperrt, um eine weitere Ausbreitung zu verhindern. Der Vorfall hat in der Region große Besorgnis ausgelöst, da derartige Infektionen extrem selten sind.",
-    "m": "Ein Wasserskilehrer ist in Mexiko verstorben, nachdem er sich mit einer gefährlichen Amöbe infiziert hatte, die eine schwere Hirninfektion verursachte. Als Reaktion auf diesen tragischen Todesfall ordneten die Behörden in der Region Yucatán die Schließung des betroffenen Sees sowie von fünf weiteren Gewässern an. Ziel dieser Maßnahme ist es, die Bevölkerung und Touristen vor weiteren Infektionen zu schützen. Infektionen durch diesen Parasiten gelten medizinisch als äußerst selten, verlaufen jedoch in der überwiegenden Mehrheit der Fälle tödlich. Der Vorfall und die darauf folgenden Sperrungen werfen Fragen zur Sicherheit in stehenden Gewässern der betroffenen Urlaubsregion auf.",
-    "r": "Der Fall zeigt die gesundheitlichen Risiken durch seltene, aber hochgefährliche Parasiten in Gewässern auf. Die behördlichen Sperrungen von sechs Seen in einer Urlaubsregion sind eine direkte Maßnahme zum Schutz der Öffentlichkeit.",
-    "srcs": [
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/vermischtes/article6ad19174199dc15f1abd5aec/merida-nach-tod-durch-hirnfressende-amoebe-mexiko-sperrt-sechs-seen.html",
-        "date": "2026-10-16T03:01:39.000Z"
-      },
-      {
-        "name": "stern",
-        "url": "https://www.stern.de/panorama/gefaehrlicher-parasit--nach-tod-durch--hirnfressende-amoebe---mexiko-sperrt-seen-38405094.html",
-        "date": "2026-10-16T02:05:19.000Z"
-      }
-    ],
-    "url": "https://www.welt.de/vermischtes/article6ad19174199dc15f1abd5aec/merida-nach-tod-durch-hirnfressende-amoebe-mexiko-sperrt-sechs-seen.html",
-    "agree": "Beide Quellen berichten über die Sperrung von sechs Seen in Mexiko nach dem Tod eines Mannes durch eine hirnfressende Amöbe.",
-    "diff": [
-      {
-        "name": "WELT",
-        "note": "Erwähnt konkret, dass das Opfer ein Wasserskilehrer war."
-      },
-      {
-        "name": "stern",
-        "note": "Gibt an, dass die Sperrungen in der Urlaubsregion Yucatán erfolgten und dass die Infektionen extrem selten sind, aber fast immer tödlich verlaufen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-52bc3c4ecc8b45f7",
-    "c": "INT",
-    "o": "UK",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-16T03:01:38.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Vier Tote bei Amoklauf an Grundschule in Oregon",
-    "s": "Bei einem Amoklauf an einer Grundschule im US-Bundesstaat Oregon sind drei Kinder und eine Lehrkraft getötet worden. Der mutmaßliche Täter, ein 16-Jähriger, wurde von einem Anwohner erschossen. Die Polizei äußerte sich zu den Hintergründen des Vorfalls.",
-    "m": "Der bewaffnete Vorfall ereignete sich an einer Grundschule in Oregon. Der mutmaßliche Täter war erst 16 Jahre alt und drang in das Gebäude ein. Ein örtlicher Anwohner beziehungsweise Bystander folgte dem Jugendlichen in die Schule und erschoss ihn, wodurch möglicherweise noch schlimmeres verhindert wurde. Die Opferzahl beläuft sich auf insgesamt vier Tote, darunter drei Kinder und eine Lehrkraft. Der Polizeichef aus Bend in Oregon übernahm die Bekanntgabe der Details und bestätigte die Identität des Schützen sowie dessen Tod durch den Anwohner. Weitere Einzelheiten zum Motiv oder zum genauen Tathergang wurden zunächst nicht bekannt gegeben.",
-    "r": "Schulmassaker mit mehreren Todesopfern werfen erneut Sicherheitsfragen an US-Bildungseinrichtungen auf. Das Eingreifen von Zivilisten beziehungsweise Anwohnern bei solchen Taten unterstreicht die Rolle von bewaffneten Bürgern in Krisensituationen.",
-    "srcs": [
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-16T03:01:38.000Z"
-      },
-      {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting?traffic_source=rss",
-        "date": "2026-10-15T22:51:56.000Z"
-      }
-    ],
-    "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
-    "agree": "Beide Quellen stimmen überein, dass bei einer Schießerei an einer Grundschule in Oregon drei Kinder und eine Lehrkraft getötet wurden, der 16-jährige Täter von einem Anwohner bzw. Bystander erschossen wurde.",
-    "diff": [
-      {
-        "name": "BBC World",
-        "note": "Erwähnt, dass es sich um eine 'primary school' handelt und der Schütze von einem 'local community member' verfolgt und getötet wurde."
-      },
-      {
-        "name": "Al Jazeera",
-        "note": "Nennt den Polizeichef in Bend, Oregon, als Informanten und bezeichnet den Schützen-Stopper als 'bystander'."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-64875a64fab023dd",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-16T02:40:48.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Trump kritisiert ukrainische Angriffe auf russische Industrieanlagen",
-    "s": "US-Präsident Trump hat ukrainische Angriffe auf russische Industrieanlagen als eine Schande bezeichnet. Die Äußerung fällt in eine Phase anhaltender Angriffe mit russischen Drohnen und ukrainischen Gegenreaktionen. In Kiew ist infolge der Lage der Strom ausgefallen.",
-    "m": "Die Ukraine hat laut Berichten die Energie-Waffenruhe aufgehoben, nachdem das Land zuvor täglich von russischen Drohnen heimgesucht worden war. In diesem Zusammenhang kam es zu einem ukrainischen Angriff auf eine russische Raffinerie in Russland. US-Präsident Trump kritisierte diese ukrainischen Industrieangriffe scharf und nannte sie eine Schande. Unterdessen ist in der ukrainischen Hauptstadt Kiew der Strom ausgefallen. Die Entwicklungen verdeutlichen die anhäufende Eskalation im Ukraine-Krieg im Bereich der Energie- und Infrastrukturangriffe.",
-    "r": "Die Äußerungen des US-Präsidenten Trump zur ukrainischen Kriegsführung und der Stromausfall in Kiew sind von geopolitischer Bedeutung. Sie beleuchten die Haltung internationaler Akteure zum Verlauf und zur Eskalation des Ukraine-Krieges.",
-    "srcs": [
-      {
-        "name": "t-online Nachrichten",
-        "url": "https://www.t-online.de/nachrichten/ukraine/id_101477082/news-zum-ukraine-krieg-trump-nennt-ukrainische-angriffe-schande-.html",
-        "date": "2026-10-16T02:40:48.000Z"
-      },
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/politik/ausland/article6ad1855c199dc15f1abd5a8a/kriegswende-trump-nennt-ukrainische-angriffe-auf-russische-raffinerie-eine-schande.html",
-        "date": "2026-10-16T02:14:56.000Z"
-      }
-    ],
-    "url": "https://www.t-online.de/nachrichten/ukraine/id_101477082/news-zum-ukraine-krieg-trump-nennt-ukrainische-angriffe-schande-.html",
-    "agree": "Beide Quellen stimmen überein, dass US-Präsident Trump ukrainische Angriffe auf russische Industrieanlagen bzw. Raffinerien als Schande bezeichnet hat.",
-    "diff": [
-      {
-        "name": "t-online Nachrichten",
-        "note": "Erwähnt zusätzlich, dass in Kiew der Strom ausgefallen ist."
-      },
-      {
-        "name": "WELT",
-        "note": "Berichtet, dass die Ukraine die Energie-Waffenruhe aufgehoben hat, da sie zuvor täglich von russischen Drohnen heimgesucht wurde, und nennt konkret den Angriff auf eine russische Raffinerie."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-a1570deb3f607452",
-    "c": "INT",
-    "o": "UK",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-16T01:58:52.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Mehrere Waldbrände in Kalifornien wegen Hitze und starkem Wind ausgebrochen",
-    "s": "In Kalifornien haben am Donnerstag mehrere Waldbrände begonnen, angefacht durch hohe Temperaturen und starken Wind. Der größte Brand, das sogenannte Henderson-Feuer, brach auf dem Militärstützpunkt Camp Pendleton bei San Diego aus und erfasste über 1.000 Hektar. Behörden verhängten Evakuierungen und sperrten zeitweise einen Abschnitt der Interstate 5. Die Region stellt sich auf weitere extreme Wetterbedingungen und eine beschleunigte Ausbreitung der Feuer in den kommenden Tagen ein.",
-    "m": "Am Donnerstag sind im US-Bundesstaat Kalifornien infolge extremer Hitze und starker Winde mehrere Waldbrände ausgebrochen. Die Behörden haben für die betroffenen Gebiete Evakuierungen angeordnet. Das größte betroffene Feuer trägt den Namen Henderson-Feuer und ist auf dem Marine-Truppenübungsplatz Camp Pendleton nahe San Diego entstanden. Binnen kurzer Zeit hat dieses Feuer eine Fläche von über 1.000 Acres vernichtet. Als Sicherheitsmaßnahme wurde zudem ein Teilstück der wichtigen Autobahn Interstate 5 vorübergehend gesperrt. Meteorologen und Rettungskräfte warnen, dass die Wetterlage mit starkem Wind und schwerer Hitze in den nächsten Tagen anhält und eine rasche Ausbreitung der Flammen begünstigt. Weitere Details zu möglichen Verletzten, betroffenen zivilen Gebäuden oder der genauen Brandursache wurden in den vorliegenden Berichten noch nicht genannt.",
-    "r": "Die Waldbrände gefährden die öffentliche Sicherheit, Infrastruktur wie wichtige Autobahnen und erfordern Evakuierungen in Kalifornien. Angesichts ungünstiger Wettervorhersagen mit Hitze und Wind besteht die Gefahr einer weiteren Ausbreitung.",
-    "srcs": [
-      {
-        "name": "Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/oct/15/wildfire-california-high-temperatures-strong-winds",
-        "date": "2026-10-16T01:58:52.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ2RpN0RseGw1T1RYQnBBc0d6REd5VV9TS0JCdFctdV9qREtxMDJuclFRbG1lUVRXTTVJUk5uSl9JUW9uMmc4Tk9JNzltc3Bsem1Qc0Z3TzN5TlVxY0ZCU1U4dTRNOE91ZF9keW5fY2tnTjRuU2JMbHUtT0xzVzZIYXF1Qll0cUV1QU9HSGZhMHk1LVdjMUF0UnZWNUZvVTQ?oc=5",
-        "date": "2026-10-15T20:56:00.000Z"
-      }
-    ],
-    "url": "https://www.theguardian.com/us-news/2026/oct/15/wildfire-california-high-temperatures-strong-winds",
-    "agree": "Die Quellen stimmen überein, dass in Kalifornien mehrere Waldbrände unter dem Einfluss von Hitze und Wind ausgebrochen sind und Evakuierungen veranlasst wurden.",
-    "diff": [
-      {
-        "name": "Google News World",
-        "note": "Verweist lediglich auf den Artikel des Guardian und liefert keine eigenständigen Details."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-1d7b9ff8834ce641",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-16T01:57:54.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "EZB genehmigt Unicredit-Übernahmepläne für die Commerzbank",
-    "s": "Die italienische Großbank Unicredit hat von der Europäischen Zentralbank die offizielle Genehmigung für eine mögliche Übernahme der Commerzbank erhalten. Damit hat das Kreditinstitut eine wichtige Hürde in dem Prozess genommen. Die Bemühungen um den Zusammenschluss laufen nach Angaben von Medien bereits seit zwei Jahren. Nun müssen weitere Schritte und mögliche Widerstände geklärt werden.",
-    "m": "Die italienische Großbank Unicredit strebt seit zwei Jahren eine Übernahme der Commerzbank an und hat nun eine wesentliche regulatorische Hürde genommen. Die Europäische Zentralbank hat dem Vorhaben grünes Licht erteilt, wie aus Berichten hervorgeht. Bislang gab es langem Widerstand gegen die Annäherung der beiden Bankhäuser. Die aktuelle Entscheidung der EZB ist ein zentraler Meilenstein für das Vorhaben der Italiener. Ob die Übernahme letztlich erfolgreich sein wird, hängt von weiteren behördlichen Prüfungen, den Märkten und den beteiligten Akteuren ab. Konkrete Details zu den nächsten Schritten oder Angeboten wurden in den Meldungen zunächst nicht genannt. Die Entwicklung wird von Beobachtern genau verfolgt, da ein solcher Zusammenschluss den europäischen Bankensektor maßgeblich verändern könnte. Offen bleibt weiterhin, wie die Commerzbank und andere beteiligte Parteien auf die erteilte Genehmigung reagieren.",
-    "r": "Die Freigabe durch die EZB ist ein zentraler regulatorischer Schritt bei grenzüberschreitenden Bankübernahmen in Europa. Ein Zusammenschluss von Unicredit und Commerzbank hätte erhebliche Auswirkungen auf den Finanzmarkt.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/unicredit-erhaelt-gruenes-licht-der-ezb-fuer-uebernahme-der-commerzbank-106.html",
-        "date": "2026-10-16T01:57:54.000Z"
-      },
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/wirtschaft/ezb-uebernahme-commerzbank-100.html",
-        "date": "2026-10-15T19:53:38.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/unicredit-erhaelt-gruenes-licht-der-ezb-fuer-uebernahme-der-commerzbank-106.html",
-    "agree": "Beide Quellen stimmen überein, dass die italienische Großbank Unicredit von der EZB grünes Licht für eine Übernahme der Commerzbank erhalten hat.",
-    "diff": [
-      {
-        "name": "Tagesschau",
-        "note": "Erwähnt zusätzlich, dass sich die Unicredit bereits seit zwei Jahren um die Commerzbank bemüht und es zuvor langen Widerstand gab."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-0fe2fe6591d587dc",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-16T01:57:54.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Proteste gegen Regierung in Albanien weiten sich aus",
-    "s": "In Albanien haben sich die landesweiten Proteste gegen die Regierung und die Situation an den Hochschulen weiter ausgedehnt. Die Kundgebungen werden zunehmend von gewaltsamen Auseinandersetzungen begleitet. Dabei kommt es unter anderem zu Sachbeschädigungen und dem Einsatz von Tränengas durch die Polizei. Die genauen Hintergründe und weiteren Reaktionen der Behörden sind Gegenstand der aktuellen Entwicklung.",
-    "m": "Die Demonstrationen in Albanien, die sich ursprünglich gegen schlechte Zustände an den Hochschulen richteten, haben sich zu breiten Protesten gegen die Regierung ausgeweitet. Die Lage hat sich in den vergangenen Tagen verschärft und wird zunehmend gewaltsam. Medienberichten zufolge werfen Studierende Scheiben ein, während die Polizei mit Tränengas reagiert, um die Situation zu kontrollieren. Es ist von einer zunehmenden Dynamik und einer wachsenden Beteiligung auszugehen, während die Ausschreitungen anhalten. Die Proteste legen strukturelle Probleme im Bildungssektor sowie allgemeine politische Unzufriedenheit offen. Weitere Details zu Verletzten, Festnahmen oder offiziellen Stellungnahmen der Regierung liegen im Rahmen der Berichterstattung bislang nicht vor.",
-    "r": "Die Ausweitung der Proteste und die zunehmende Gewalt in Albanien sind ein bedeutendes innenpolitisches Ereignis, das die Stabilität des Landes betrifft. Die Eskalation zwischen Studierenden und Sicherheitskräften verdeutlicht die aktuelle gesellschaftliche Anspannung in der Region.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/proteste-gegen-regierung-in-albanien-weiten-sich-aus-102.html",
-        "date": "2026-10-16T01:57:54.000Z"
-      },
-      {
-        "name": "DW Deutsch",
-        "url": "https://www.dw.com/de/albanien-proteste-gegen-regierung-weiten-sich-aus/a-79671388?maca=de-rss-de-all-1119-xml-mrss",
-        "date": "2026-10-15T14:59:00.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/proteste-gegen-regierung-in-albanien-weiten-sich-aus-102.html",
-    "agree": "Beide Quellen stimmen darin überein, dass sich die Proteste gegen die Regierung in Albanien und gegen Zustände an den Hochschulen ausweiten.",
-    "diff": [
-      {
-        "name": "DW Deutsch",
-        "note": "Berichtet konkret über Gewalt und Details wie eingeworfene Scheiben durch Studierende und den Einsatz von Tränengas durch die Polizei."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-ef0b4870713c31c9",
-    "c": "INT",
-    "o": "UK",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-16T01:53:19.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Amoklauf an Grundschule in Oregon: Vier Tote und zwei Verletzte",
-    "s": "Bei einer Schießerei an einer Grundschule im US-Bundesstaat Oregon sind am Donnerstag vier Menschen getötet worden, darunter drei Kinder und eine Lehrkraft. Ein 16-jähriger Tatverdächtiger eröffnete das Feuer im Silver Rail Elementary School in Bend. Der Jugendliche wurde von einem anwesenden Bürger erschossen.",
-    "m": "Der Vorfall ereignete sich am Donnerstag an der Silver Rail Elementary School in Bend, Oregon. Ein 16-jähriger Schütze drang in die Grundschule ein und tötete drei Kinder im Alter von fünf, achten und elf Jahren sowie eine Lehrkraft. Zwei weitere Personen erlitten Verletzungen und befinden sich in kritischem beziehungsweise schwerem Zustand im Krankenhaus. Der mutmaßliche Täter wurde im Gebäude von einem Gemeindemitglied verfolgt und getötet. Behörden gaben die Details auf einer abendlichen Pressekonferenz bekannt. Weitere Hintergründe zum Motiv des Jugendlichen sind derzeit noch nicht bekannt.",
-    "r": "Schulschießereien in den USA mit tödlichem Ausgang verdeutlichen anhaltende Probleme mit Waffengewalt und die Rolle von Zivilpersonen bei der Beendigung akuter Gefahrenlagen. Die Ereignisse erfordern umfassende Aufklärung und lösen internationale Betroffenheit aus.",
-    "srcs": [
-      {
-        "name": "Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/oct/15/oregon-elementary-school-shooting",
-        "date": "2026-10-16T01:53:19.000Z"
-      },
-      {
-        "name": "France24 English",
-        "url": "https://www.france24.com/en/americas/20261015-two-hospitalised-after-shooting-at-oregon-elementary-school-gunman-dead",
-        "date": "2026-10-15T21:58:33.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONTNGNjRGRC1WTzA5OXI5TDZiRUtDcV9PakRXeEhiaVJuSDhrUHl4UWoweDVDRkx6TXEwWjVjSnlrUklNa0JXRWZjQ0dzN1pKeW9HNXZOS0trcXNQcUNkanRjelo3YjM4eDBTTU1Tel9OdHcyV2xkUlpYX2dNSllwX3RWY1Ruc2Rt?oc=5",
-        "date": "2026-10-15T21:41:00.000Z"
-      }
-    ],
-    "url": "https://www.theguardian.com/us-news/2026/oct/15/oregon-elementary-school-shooting",
-    "agree": "Alle Quellen stimmen überein, dass ein 16-jähriger Schütze an einer Grundschule in Bend, Oregon, drei Kinder und eine Lehrkraft getötet hat, bevor er von einem anwesenden Bürger erschossen wurde.",
-    "diff": [
-      {
-        "name": "Guardian World",
-        "note": "Berichtet, dass sich zwei Personen in kritischem Zustand im Krankenhaus befinden."
-      },
-      {
-        "name": "France24 English",
-        "note": "Erwähnt, dass insgesamt zwei weitere Personen verwundet wurden und der bewaffnete Bürger den Täter im Gebäude verfolgte."
-      },
-      {
-        "name": "Google News World",
-        "note": "Verweist lediglich auf den Bericht des Guardian und bietet keine eigenständigen Zusatzinformationen."
-      }
-    ],
-    "chg": "",
-    "independent": 3
-  },
-  {
-    "id": "story-de7d41dd404a3864",
-    "c": "INT",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-16T00:31:00.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Fünf Tote nach Gewalttat an Grundschule im US-Bundesstaat Oregon",
-    "s": "An einer Grundschule im US-Bundesstaat Oregon hat sich eine gewaltsame Attacke ereignet. Nach ersten Berichten gab es mehrere Todesopfer, darunter auch den mutmaßlichen Täter. Die genauen Hintergründe der Bluttat sind derzeit noch unklar.",
-    "m": "Im US-Bundesstaat Oregon kam es an einer Grundschule zu einer folgenschweren Gewalttat, bei der nach aktuellen Medienberichten fünf Menschen ums Leben kamen. Unter den Todesopfern befindet sich auch der Angreifer, bei dem es sichsten Angaben zufolge um einen Teenager handeln soll. Rettungskräfte und Polizei waren im Großeinsatz vor Ort, um das Schulgelände zu sichern und die Hintergründe der Attacke zu untersuchen. Bislang gibt es keine offiziellen Details zu den Motiven des mutmaßlichen jugendlichen Täters oder zum exakten Hergang des Verbrechens. Die Schulgemeinschaft und die Behörden stehen vor der Aufarbeitung dieses tragischen Vorfalls. Weitere offizielle Mitteilungen der Ermittlungsbehörden zum genauen Tathergang und zu den Identitäten der Opfer werden im Laufe der weiteren Untersuchungen erwartet.",
-    "r": "Die Meldung ist von großer gesellschaftlicher und sicherheitspolitischer Relevanz, da es sich um eine Gewalttat an einer Bildungseinrichtung mit mehreren Todesopfern handelt. Sie verdeutlicht erneut die Problematik von Waffengewalt an Schulen in den Vereinigten Staaten.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYXZsVzB1THVHSVgwdmpURndwMWJMVndvZlhoS1pWUUpJWnYtRVZEYjNXb1BxNzRFZzhUVk5QVTNTWjF1VW5sbHNabFZWeDVVT1ptWTJReHVqSzFVSnFmeVRCNkRxMVg4OXVnQzFqT2VKcTF5QlZieW5DdExGdjdoTzlDZHV4cmttMEZScFIwdGozZXdPR0tzZ2VhTGVuTV9aVjd6SHlGMDcwWUp6S1hzaFBQZG5nTGdOdmJQejRBV3RCUUIwcUVobUlST0lIcS00VXc?oc=5",
-        "date": "2026-10-16T00:31:00.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/panorama/oregon-fuenf-tote-nach-gewalttat-an-grundschule-im-westen-der-usa-a-7cbb1a35-5486-409b-b682-60c9508d7a00#ref=rss",
-        "date": "2026-10-16T00:31:00.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYXZsVzB1THVHSVgwdmpURndwMWJMVndvZlhoS1pWUUpJWnYtRVZEYjNXb1BxNzRFZzhUVk5QVTNTWjF1VW5sbHNabFZWeDVVT1ptWTJReHVqSzFVSnFmeVRCNkRxMVg4OXVnQzFqT2VKcTF5QlZieW5DdExGdjdoTzlDZHV4cmttMEZScFIwdGozZXdPR0tzZ2VhTGVuTV9aVjd6SHlGMDcwWUp6S1hzaFBQZG5nTGdOdmJQejRBV3RCUUIwcUVobUlST0lIcS00VXc?oc=5",
-    "agree": "Die Quellen stimmen überein, dass es an einer Grundschule in Oregon eine tödliche Gewalttat gab, bei der auch der mutmaßliche Täter tot ist.",
-    "diff": [
-      {
-        "name": "Google News DE",
-        "note": "Berichtet in der Überschrift von insgesamt fünf Toten."
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "Nennt im Fließtext mindestens vier Todesopfer und erwähnt, dass es sich beim Täter um einen Teenager handeln soll."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-477aeaf5d94d934c",
-    "c": "INT",
-    "o": "UK",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-16T00:27:21.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Houthi-Raketen schlagen im Präsidentenpalast in Aden ein",
-    "s": "Houthi-Rebellen haben den Präsidentenpalast im südjemenitischen Aden mit Raketen angegriffen. Nach Angaben der Regierung kamen dabei fünf Menschen ums Leben. Es handelt sich um den ersten Angriff auf den Al-Maashiq-Palast im aktuellen Konflikt.",
-    "m": "Der Raketenangriff ereignete sich am Donnerstag auf den Al-Maashiq-Palast in der südjemenitischen Hafenstadt Aden. Der Palast dient als Sitz der international anerkannten und von Saudi-Arabien unterstützten Regierung des Jemen. Die vom Iran unterstützten Houthi-Rebellen feuerten die Geschosse auf den Komplex ab, was nach Regierungsangaben fünf Todesopfer forderte. Die Koalition unter Führung Saudi-Arabiens listete derweil Dutzende Angriffe der Houthis auf saudische Infrastruktur in den vergangenen Wochen auf. Der Vorfall markiert den ersten direkten Einschlag am Präsidentenpalast in Aden im Rahmen der jüngsten Kämpfe zwischen den Konfliktparteien. Weitere Einzelheiten zu den Opfern oder den genauen Schäden wurden zunächst nicht bekannt gegeben.",
-    "r": "Der Angriff auf den Regierungssitz im Jemen verdeutlicht die Eskalation des Konflikts zwischen den Houthi-Rebellen und der saudisch geführten Koalition. Solche direkten Angriffe auf Schlüsselorte gefährden die Stabilität der international anerkannten Regierung zusätzlich.",
-    "srcs": [
-      {
-        "name": "Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/15/houthi-missiles-strike-aden-yemen",
-        "date": "2026-10-16T00:27:21.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbkFOY3lPYnZzY2JhR0RfeEUtQU1lZDVLU1N4a254d1Z6ZmlLM25LUm12Q2tudk1VOU9oR0xSaW92aUJEUlgyWWJ5NVQzVEJNb0dzU21MWWlXcU5JNkVKWlE5eVBteEItT3RXSHRvY2djQTFkOGNIUFVuVXRERUItcnMtSl9hdw?oc=5",
-        "date": "2026-10-15T20:00:00.000Z"
-      }
-    ],
-    "url": "https://www.theguardian.com/world/2026/oct/15/houthi-missiles-strike-aden-yemen",
-    "agree": "Die Quellen sind sich einig, dass Houthi-Raketen den Präsidentenpalast im jemenitischen Aden getroffen und dabei fünf Menschen getötet haben.",
-    "diff": [
-      {
-        "name": "Guardian World",
-        "note": "Berichtet detailliert über den Angriff auf den Al-Maashiq-Palast, die Opferzahl von fünf Toten, den Hintergrund des Konflikts sowie die Liste der saudisch geführten Koalition über Houthi-Angriffe auf saudische Infrastruktur."
-      },
-      {
-        "name": "Google News World",
-        "note": "Teilt lediglich die Überschrift und verweist auf den Artikel des Guardian."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-8a47f4a614708d1f",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-16T00:26:59.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Entlassene FBI-Agenten nach Ermittlungen gegen Trump klagen auf Wiedereinstellung",
-    "s": "Neun FBI-Agenten, die in der Vergangenheit gegen Donald Trump ermittelt hatten, wurden nach dessen Amtsantritt entlassen. Nun haben sie Klage eingereicht, um ihre Wiedereinstellung zu erwirken. Die US-Regierung geht davon aus, dass in naher Zukunft noch weitere derartige Klagen folgen werden.",
-    "m": "Die betroffenen neun Beamten werfen der Regierung vor, mit den Entlassungen persönliche Rache des Präsidenten zu befriedigen. Der Zeitpunkt der Entlassung fiel direkt mit der Amtseinführung von Donald Trump zusammen, nachdem die Agenten zuvor in Verfahren gegen ihn involviert waren. Die Kläger fordern nun vor Gericht ihre rechtmäßige Wiedereinstellung beim Bundeskriminalamt. Vertreter der Regierung rechnen angesichts der Personalentscheidungen mit weiteren rechtlichen Schritten und zusätzlichen Klagen anderer Betroffener. Bislang gibt es keine offiziellen Stellungnahmen der beteiligten Regierungsbehörden zu den konkreten Vorwürfen der Kläger.",
-    "r": "Die Klage von FBI-Agenten gegen ihre Entlassung nach Ermittlungen gegen den US-Präsidenten berührt Fragen der Rechtssicherheit und des politischen Einflusses auf Bundesbehörden. Der Fall könnte weitreichende Konsequenzen für den Umgang mit kritischen Beamten unter der Regierung Trump haben.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQS1UxSTIwOHhWakJRQUVUd2JBTHZjZWhsVlJRN2ViRUVidUE5ZDEwRHJ4TFBtd3g3ZURWMkt2RlQ4RFFvLXZsUjYyQmxySlhzVXVaTk5KZUVJdG9TQ0I2Y3VkUlJ5U1JmMHNnbzJ1MU1QZ21KaGZOY0dNOUVfak94dW9JY2ZET1JfXzZLb2wzSHRJUWdGN0FJUE9ySG52RS1kcy14LWJxSHhOdmxYM1lWSzc5dFU1NW9rQWktNmYxSVRzaXp6UXhpVlBJVHZSY0xsUGdYTGRJd1g4LXlSbG1OTUdfU2VzYUNsN0ZpVTA1T29YOXZaZWV1SnlVQU0?oc=5",
-        "date": "2026-10-16T00:26:59.000Z"
-      },
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/politik/ausland/article6ad16c9c199dc15f1abd5a38/usa-persoenliche-rache-des-praesidenten-zu-befriedigen-fbi-agenten-klagen-auf-wiedereinstellung.html",
-        "date": "2026-10-16T00:22:41.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQS1UxSTIwOHhWakJRQUVUd2JBTHZjZWhsVlJRN2ViRUVidUE5ZDEwRHJ4TFBtd3g3ZURWMkt2RlQ4RFFvLXZsUjYyQmxySlhzVXVaTk5KZUVJdG9TQ0I2Y3VkUlJ5U1JmMHNnbzJ1MU1QZ21KaGZOY0dNOUVfak94dW9JY2ZET1JfXzZLb2wzSHRJUWdGN0FJUE9ySG52RS1kcy14LWJxSHhOdmxYM1lWSzc5dFU1NW9rQWktNmYxSVRzaXp6UXhpVlBJVHZSY0xsUGdYTGRJd1g4LXlSbG1OTUdfU2VzYUNsN0ZpVTA1T29YOXZaZWV1SnlVQU0?oc=5",
-    "agree": "",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-e9d34d5177e434e8",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-16T00:14:07.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Porsche präsentiert Design des neuen Supersportwagens „Mission S“",
-    "s": "Der Sportwagenhersteller Porsche hat das Design eines neuen Supersportwagens namens „Mission S“ vorgestellt. Das Fahrzeug gibt einen Vorgeschmack auf die künftige Ausrichtung des Unternehmens. Porsche plant, in Zukunft weniger, dafür aber exklusivere und teurere Luxusautos zu verkaufen.",
-    "m": "Der Sportwagenhersteller Porsche hat das Design seines neuen Supersportwagens mit der Bezeichnung „Mission S“ öffentlich gemacht. Mit diesem Modell gibt das Unternehmen einen konkreten Vorgeschmack auf seine neue strategische Ausrichtung. Diese sieht vor, künftig in geringeren Stückzahlen zu produzieren, dafür aber auf den Verkauf teurerer Luxusautos zu setzen. Weitere Details zur Technik, zum genauen Erscheinungsdatum oder zum Preis wurden in den Berichten zunächst nicht genannt. Die Präsentation markiert einen wichtigen Schritt in der Neuausrichtung der Marken- und Produktstrategie des Sportwagenbauers.",
-    "r": "Die Präsentation des Supersportwagens gibt Einblick in die künftige Luxus- und Verkaufsstrategie von Porsche. Die Neuausrichtung des Herstellers auf exklusivere Modelle ist wirtschaftlich von Bedeutung.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeFJFTzZpbEhwQml0czhzU1hjRnhJZEtwRi03UzVVUWtsTFd3OEg2VnFhZlhfR0FVOS0xOFhWNWFlZ05VNE81RTlkVTdaNFZ1bEdPLXF4TjFOVE00aDVKNURrN3J4NlhYUlM0amNoOUJMX25FdjUxUVJ1TkdVdldMcXRQUWZuV21FTDhvMzJmWUxlX3VDZDI2dk03dUNWcVlRYndGdXBjWExXN0V5QlJpaDRadjVZckxzT2tVT3ZnVXVqeWY0?oc=5",
-        "date": "2026-10-16T00:14:07.000Z"
-      },
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/wirtschaft/porsche-praesentiert-design-des-neuen-supersportwagens-mission-s-AKCHVYPS6NFXRH7SCDLPYOXYAQ.html",
-        "date": "2026-10-16T00:14:07.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeFJFTzZpbEhwQml0czhzU1hjRnhJZEtwRi03UzVVUWtsTFd3OEg2VnFhZlhfR0FVOS0xOFhWNWFlZ05VNE81RTlkVTdaNFZ1bEdPLXF4TjFOVE00aDVKNURrN3J4NlhYUlM0amNoOUJMX25FdjUxUVJ1TkdVdldMcXRQUWZuV21FTDhvMzJmWUxlX3VDZDI2dk03dUNWcVlRYndGdXBjWExXN0V5QlJpaDRadjVZckxzT2tVT3ZnVXVqeWY0?oc=5",
-    "agree": "Die Quellen sind sich einig, dass Porsche das Design eines neuen Supersportwagens präsentiert hat und künftig weniger, aber teurere Luxusautos verkaufen möchte.",
-    "diff": [
-      {
-        "name": "Google News DE",
-        "note": "Erwähnt in der Kurzbeschreibung lediglich die Präsentation des Designs eines neuen Supersportwagens ohne Namensnennung."
-      },
-      {
-        "name": "RND",
-        "note": "Nennt den Namen des Supersportwagens konkret als „Mission S“."
-      }
-    ],
     "chg": "",
     "independent": 2
   }
