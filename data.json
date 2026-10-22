@@ -1,5 +1,802 @@
 [
   {
+    "id": "story-d859667e466e1fc7",
+    "c": "INT",
+    "o": "PT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-22T22:13:40.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Neue Proteste für Samstag in Lissabon und Porto angekündigt",
+    "s": "In Portugal wurden in einer Volksversammlung neue Protestmärsche für den kommenden Samstag beschlossen. Die Kundgebungen finden in den Städten Lissabon und Porto statt. Demonstranten haben sich auf konkrete Routen und Startzeiten geeinigt.",
+    "m": "Die Teilnehmer einer Volksversammlung haben neue Protestaktionen für den kommenden Samstag in den Städten Lissabon und Porto beschlossen. In Porto startet die Kundgebung um 16:00 Uhr an der Praça da Batalha. In Lissabon ist der Treffpunkt an der Rotunda do Marquês de Pombal, und der Protestzug wird voraussichtlich gegen 19:00 Uhr am Rossio eintreffen. Die genauen Abläufe wurden von den Manifestanten gemeinsam in der Versammlung verabschiedet. Weitere Details zu den Hintergründen oder konkreten Forderungen der Demonstranten nennen die vorliegenden Berichte nicht.",
+    "r": "Die Meldung ist relevant, da in zwei der größten portugiesischen Städte neue Demonstrationen bevorstehen, die möglicherweise den öffentlichen Verkehr und das Stadtleben beeinträchtigen können.",
+    "srcs": [
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/pais/manifestantes-aprovam-novos-protestos-para-sabado-em-lisboa-e-no-porto_e1773417",
+        "date": "2026-10-22T22:13:40.000Z"
+      },
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNk9FMENhemRobEZ3bnZOZ2NSMHZYUjA0T01hMnF5akt0blRNTEQyM0x0d29VSlpPYnU3TkpuYm5KMGxVanRiaHBkUGUzVzVkeGJ2UXVfT3d1MGdrR3ZpeFJxU1VOWEdmTHkzZ3Y2WDVKWFl6X2dpbFBvamtvakwyekltWDBwSExydXdUbEVIa0k1YVJsU0FJbGdyYTloNXV5anlJQTZoV2VOY284eGMxeTRn?oc=5",
+        "date": "2026-10-22T20:29:39.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/pais/manifestantes-aprovam-novos-protestos-para-sabado-em-lisboa-e-no-porto_e1773417",
+    "agree": "Beide Quellen stimmen überein, dass für kommenden Samstag neue Proteste in Lissabon und Porto von Demonstranten beschlossen wurden.",
+    "diff": [
+      {
+        "name": "Google News Portugal",
+        "note": "Verweist lediglich auf den Artikel von RTP und enthält HTML-Code im RSS-Feed-Snippet."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-686a98b9f65de100",
+    "c": "DE",
+    "o": "DE",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-22T21:42:03.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "SC Freiburg kassiert erste Niederlage in der Conference League gegen AS Monaco",
+    "s": "Der SC Freiburg hat am zweiten Spieltag der Conference League die erste Niederlage hinnehmen müssen. Gegen die AS Monaco unterlag der Bundesligist mit 0:3. Maßgeblich für die Niederlage war unter anderem der U21-Nationalspieler Paris Brunner, der sehenswert für Monaco traf.",
+    "m": "Am zweiten Spieltag der Conference League trat der SC Freiburg auswärts bei der AS Monaco an und verlor die Partie klar mit 0:3. Für den Bundesligisten ist dies die erste Niederlage im laufenden Wettbewerb. Ein Schlüsselmoment der Begegnung war der Auftritt des deutschen U21-Nationalspielers Paris Brunner, der die Freiburger Defensive mit einem sehenswerten Solo und Treffer schockte. Die Partie diente für Freiburg zudem als Generalprobe für ein anstehendes Spiel gegen den FC Bayern, welche nun missglückte. Weitere Details zum Spielverlauf oder genauen Torschützen neben Brunner nennen die Berichte nicht.",
+    "r": "Die Niederlage ist sportlich relevant, da es für den Bundesligisten SC Freiburg die erste Pleite im laufenden Wettbewerb der Conference League ist. Zudem fungierte das Spiel als Generalprobe für eine bevorstehende Partie gegen den FC Bayern München.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.swr.de/sport/fussball/monaco-freiburg-conference-league-spielbericht-100.html",
+        "date": "2026-10-22T21:42:03.000Z"
+      },
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/sport/fussball-conference-league-as-monaco-sc-freiburg-tore-ergebnis-100.html",
+        "date": "2026-10-22T21:03:00.000Z"
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-10/22/brunner-trifft-sehenswert-freiburg-verliert-in-monaco-klar",
+        "date": "2026-10-22T20:56:24.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/sport/fussball/Paris-Brunner-schockt-SC-Freiburg-mit-Solo-Geniestreich-id31448815.html",
+        "date": "2026-10-22T20:55:01.000Z"
+      }
+    ],
+    "url": "https://www.swr.de/sport/fussball/monaco-freiburg-conference-league-spielbericht-100.html",
+    "agree": "Die Quellen sind sich einig, dass der SC Freiburg sein Spiel am zweiten Spieltag der Conference League auswärts gegen die AS Monaco mit einer Niederlage beendet hat und Paris Brunner an den Toren beteiligt war.",
+    "diff": [
+      {
+        "name": "ZDF heute",
+        "note": "Erwähnt die Partie als Bayern-Generalprobe und konkretisiert Paris Brunner als U21-Nationalspieler."
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Beschreibt den Treffer von Brunner als sehenswert und spricht von einer klaren Niederlage."
+      },
+      {
+        "name": "ntv",
+        "note": "Nennt das genaue Spielergebnis von 0:3 und beschreibt Brunners Tor als Solo-Geniestreich."
+      }
+    ],
+    "chg": "",
+    "independent": 4
+  },
+  {
+    "id": "story-122df36a8c1a8ad3",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-22T21:40:35.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Schweres Erdbeben in Tibets Westen fordert mindestens 16 Menschenleben",
+    "s": "Im Westen Chinas hat sich ein schweres Erdbeben in der Autonomen Region Tibet ereignet. Nach ersten Berichten gibt es infolge des Erdbebens Tote und Verletzte. Rettungskräfte und Behörden stehen vor Ort im Einsatz, um das Ausmaß der Schäden zu ermitteln.",
+    "m": "Das Erdbeben erreichte nach übereinstimmenden Berichten eine Stärke von 7,0. Durch die Erdstöße wurden mindestens 16 Menschen getötet. Zudem wurden zahlreiche Personen verletzt, wobei eine Quelle konkret von 32 Verletzten spricht. Die Erschütterungen trafen eine dünner besiedelte Region im Westen Chinas, genauer gesagt die Autonome Region Tibet. Die Rettungs- und Hilfsmaßnahmen laufen an, während die genauen Schäden an Infrastruktur und Gebäuden noch erfasst werden müssen. Weitere Details zu Hintergründen und der genauen Tiefe des Bebens liegen derzeit noch nicht vor.",
+    "r": "Das Ereignis ist relevant, da ein schweres Erdbeben in einer bewohnten Region Chinas zu zahlreichen Opfern geführt hat und humanitäre Hilfsmaßnahmen sowie Rettungseinsätze auslöst.",
+    "srcs": [
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/panorama/erdbeben-in-tibet-mindestens-16-tote-und-dutzende-verletzte-HQA6W4U4JJD6VMEIVFELXNLTSE.html",
+        "date": "2026-10-22T21:40:35.000Z"
+      },
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/erdbeben-der-staerke-7-0-in-tibet-mindestens-16-tote-und-32-verletzte-102.html",
+        "date": "2026-10-22T21:35:04.000Z"
+      }
+    ],
+    "url": "https://www.rnd.de/panorama/erdbeben-in-tibet-mindestens-16-tote-und-dutzende-verletzte-HQA6W4U4JJD6VMEIVFELXNLTSE.html",
+    "agree": "Die Quellen sind sich einig, dass es in der autonomen Region Tibet in China ein Erdbeben mit mindestens 16 Todesopfern gegeben hat.",
+    "diff": [
+      {
+        "name": "RND",
+        "note": "Berichtet allgemein von Dutzenden Verletzten."
+      },
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Nennt die genaue Stärke des Erdbebens von 7,0 und beziffert die Zahl der Verletzten exakt auf 32."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-326bbc96ac5cc52f",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-22T21:35:04.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Internationaler Strafgerichtshof erhält den Sacharow-Preis des EU-Parlaments",
+    "s": "Der Internationale Strafgerichtshof in Den Haag ist mit dem diesjährigen Sacharow-Preis für geistige Freiheit ausgezeichnet worden. Die Bekanntgabe erfolgte durch die Präsidentin des Europäischen Parlaments, Roberta Metsola, in Straßburg. Mit dem Preis würdigt das Parlament die Bedeutung des Gerichts für die internationale Gerichtsbarkeit.",
+    "m": "Das Europäische Parlament hat beschlossen, den diesjährigen Sacharow-Preis für geistige Freiheit an den Internationalen Strafgerichtshof zu verleihẹn. Die offizielle Bekanntgabe dieser Entscheidung wurde von Parlamentspräsidentin Roberta Metsola in Straßburg vorgenommen. Durch die Verleihung stellt sich das Parlament hinter die Arbeit der Institution und betont deren zentrale Rolle bei der Verteidigung des Völkerrechts, der globalen Gerechtigkeit sowie der Durchsetzung von Menschenrechten. Die Tagesschau hebt zudem hervor, dass die Auszeichnung als politisches Signal und als Zeichen gegen die Sanktionen des US-Präsidenten Trump gewertet wird. Weitere Details zur offiziellen Übergabezeremonie oder zu den Mitnominierten wurden in den Berichten zunächst nicht genannt.",
+    "r": "Die Auszeichnung für den Internationalen Strafgerichtshof setzt ein starkes politisches Signal auf internationaler Ebene. Sie unterstreicht die institutionelle Bedeutung des Gerichts für den Schutz globaler Menschenrechte und des Völkerrechts.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/internationaler-strafgerichtshof-erhaelt-den-sacharow-preis-des-eu-parlaments-100.html",
+        "date": "2026-10-22T21:35:04.000Z"
+      },
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/europa/sacharow-preis-internationaler-strafgerichtshof-100.html",
+        "date": "2026-10-22T11:42:57.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/internationaler-strafgerichtshof-erhaelt-den-sacharow-preis-des-eu-parlaments-100.html",
+    "agree": "Beide Quellen stimmen überein, dass der Internationale Strafgerichtshof den diesjährigen Sacharow-Preis des Europäischen Parlaments erhält und dies von Präsidentin Metsola in Straßburg bekannt gegeben wurde.",
+    "diff": [
+      {
+        "name": "Tagesschau",
+        "note": "Erwähnt zusätzlich, dass die Auszeichnung ein Zeichen gegen die Sanktionen von US-Präsident Trump setzt."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-02c4e59e9cf39c27",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-22T21:35:04.000Z",
+    "p": 3,
+    "st": "BB",
+    "city": "",
+    "t": "Mutmaßlicher russischer Spion in Brandenburg festgenommen",
+    "s": "In Brandenburg ist ein mutmaßlicher Spion festgenommen worden. Dem ukrainischen Staatsbürger wird vom Generalbundesanwalt geheimdienstliche Agententätigkeit vorgeworfen. Er soll Informationen an Russland weitergegeben haben.",
+    "m": "Beamte des Bundeskriminalamts haben in Brandenburg einen ukrainischen Staatsbürger festgenommen, der für Russland spioniert haben soll. Die Bundesanwaltschaft in Karlsruhe hat die Ermittlungen übernommen und wirft dem Mann geheimdienstliche Agententätigkeit vor. Konkret soll er im Dienste Russlands militärisch relevante Informationen gesammelt und Rüstungsfirmen ausgespäht haben. Laut Berichten stammt der Tatverdächtige aus einem russisch besetzten Gebiet. Es ist bereits der erste vergleichbare Fall in diesem Jahr in der Region Berlin und Brandenburg. Die Ermittlungen zu den Hintergründen und dem genauen Umfang der Weitergabe von Informationen dauern an.",
+    "r": "Die Festnahme eines mutmaßlichen Spions verdeutlicht die anhaltenden Bedrohungen durch nachrichtendienstliche Aktivitäten in Deutschland. Der Fall zeigt zudem, dass auch ukrainische Staatsbürger von russischen Stellen für Spionagezwecke rekrutiert werden könnten.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/mutmasslicher-russland-spion-in-brandenburg-festgenommen-100.html",
+        "date": "2026-10-22T21:35:04.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Brandenburg",
+        "url": "https://www.tagesschau.de/inland/regional/brandenburg/rbb-mutmasslicher-russland-spion-in-brandenburg-festgenommen-100.html",
+        "date": "2026-10-22T12:16:52.000Z"
+      },
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/inland/spionage-ruestungindustrie-festnahme-100.html",
+        "date": "2026-10-22T11:32:31.000Z"
+      },
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/deutschland/russland-spion-brandenburg-festnahme-100.html",
+        "date": "2026-10-22T11:19:00.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/mutmasslicher-russland-spion-in-brandenburg-festgenommen-100.html",
+    "agree": "Die Quellen sind sich einig, dass in Brandenburg ein mutmaßlicher Spion festgenommen wurde, der für Russland tätig gewesen sein soll und die ukrainische Staatsbürgerschaft besitzt.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Nennt das Bundeskriminalamt als ausführende Behörde und die Bundesanwaltschaft in Karlsruhe als mitteilende Stelle."
+      },
+      {
+        "name": "Tagesschau Regional Brandenburg",
+        "note": "Erwähnt, dass es in diesem Jahr nicht der erste Spion war, der in Berlin und Brandenburg verhaftet wurde."
+      },
+      {
+        "name": "Tagesschau",
+        "note": "Gibt an, dass der Mann Rüstungsfirmen ausgespäht haben soll und aus einem russisch besetzten Gebiet stammt; nennt zudem die Autoren M. Götschenberg und H. Schmidt."
+      },
+      {
+        "name": "ZDF heute",
+        "note": "Berichtet allgemein von der Weitergabe militärisch relevanter Informationen."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
+    "id": "story-7640bedae877c763",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-22T21:35:04.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Bürgergeld-Reform spart bisher kein Geld",
+    "s": "Die im Juli eingeführte Reform der Grundsicherung entlastet den Bundeshaushalt entgegen früherer Versprechen offenbar bislang nicht. Drei Monate nach Inkrafttreten bewegen sich die Ausgaben auf dem Niveau des Vorjahres. Experten äußern sich zu den Gründen für das Ausbleiben der Einsparungen.",
+    "m": "Die Union hatte im Bundestagswahlkampf angekündigt, durch eine Reform des Bürgergelds Milliarden einsparen zu können. Nun zeigt sich drei Monate nach dem Start im Juli, dass diese Effekte ausgeblieben sind und die staatlichen Ausgaben exakt auf dem Niveau des Vorjahres verharren. Fachleute weisen darauf hin, dass rein verschärfte Sanktionen nicht ausreichen, um die Kosten signifikant zu senken, da strukturelle Faktoren und die Zahl der Leistungsberechtigten eine größere Rolle spielen. Offen bleibt, wie die Politik auf diese unerwartete Entwicklung reagieren wird und ob zusätzliche Maßnahmen zur Haushaltskonsolidierung im Bereich der Grundsicherung geplant sind.",
+    "r": "Die Erkenntnis, dass eine hochkarätig angekündigte Sozialreform kurz nach ihrem Start keine finanziellen Entlastungen bringt, ist für die Bundesfinanzen und die politische Glaubwürdigkeit von Bedeutung.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/buergergeld-reform-spart-offenbar-bisher-kein-geld-102.html",
+        "date": "2026-10-22T21:35:04.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/politik/Buergergeld-Reform-spart-offenbar-bisher-kein-Geld-id31448046.html",
+        "date": "2026-10-22T15:25:26.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/buergergeld-reform-spart-offenbar-bisher-kein-geld-102.html",
+    "agree": "Beide Quellen stimmen überein, dass die Bürgergeld-Reform bisher keine Einsparungen gebracht hat und die Ausgaben auf Vorjahresniveau liegen.",
+    "diff": [
+      {
+        "name": "ntv",
+        "note": "Erwähnt das Wahlversprechen der Union über Milliardeneinsparungen und dass Experten erklären, warum Sanktionen allein kaum etwas bewirken."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-20705527be472c9e",
+    "c": "INT",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-22T21:35:04.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Kanada gehen die strategischen Ahornsirup-Reserven aus",
+    "s": "Kanada hat mit schrumpfenden Vorräten an Ahornsirup zu kämpfen. Die strategischen Reserven des weltweit bekannten und beliebten Produkts neigen sich dem Ende zu.",
+    "m": "Kanada ist weltweit bekannt und beliebt für seinen Ahornsirup. Aktuellen Berichten zufolge gehen dem Land jedoch die strategischen Vorräte dieses Lebensmittels aus. Die genauen Ursachen für die Erschöpfung der Reserven sowie die konkreten Auswirkungen auf den Weltmarkt werden in den vorliegenden Berichten nicht näher beziffert. Es bleibt abzuwarten, wie sich diese Entwicklung auf die globale Verfügbarkeit und die Preise auswirkt. Offen ist zudem, welche Maßnahmen ergriffen werden, um den Engpass zu bewältigen.",
+    "r": "Die Erschöpfung der strategischen Ahornsirup-Reserven in Kanada betrifft ein weltweit bekanntes Exportprodukt. Die Entwicklung könnte globale Auswirkungen auf den Markt und die Verfügbarkeit haben.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/kanada-gehen-die-ahornsirup-reserven-aus-102.html",
+        "date": "2026-10-22T21:35:04.000Z"
+      },
+      {
+        "name": "t-online Wirtschaft",
+        "url": "https://www.t-online.de/finanzen/aktuelles/wirtschaft/id_101492110/kanada-gehen-bald-die-ahornsirup-reserven-aus.html",
+        "date": "2026-10-22T09:52:16.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/kanada-gehen-die-ahornsirup-reserven-aus-102.html",
+    "agree": "Beide Quellen stimmen darin überein, dass Kanada die Ahornsirup-Reserven ausgehen.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Berichtet spezifisch über die strategischen Vorräte an Ahornsirup."
+      },
+      {
+        "name": "t-online Wirtschaft",
+        "note": "Erwähnt zusätzlich, dass Ahornsirup aus Kanada weltweit bekannt und beliebt ist."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-b8b2657826851cc1",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-22T21:35:04.000Z",
+    "p": 2,
+    "st": "ST",
+    "city": "",
+    "t": "CDU beantragt Parteiausschluss von Stendaler Politiker nach AfD-Spende",
+    "s": "Der CDU-Kreisverband in Stendal in Sachsen-Anhalt hat den Parteiausschluss eines Mitglieds beantragt. Hintergrund ist eine Geldspende in Höhe von 10.000 Euro an die AfD. Das entsprechende Verfahren wurde nun von der Partei eingeleitet.",
+    "m": "Der CDU-Kreisverband in Sachsen-Anhalt hat offiziell den Ausschluss des Kommunalpolitiker Bernd Prange beantragt. Grund für diesen schritt ist eine finanzielle Zuwendung von insgesamt 10.000 Euro, die das CDU-Mitglied an die rechtspopulistische AfD getätigt hat. Solche parteiinternen Verfahren sind bei derartigen Verstößen gegen die Grundsätze der Christdemokraten vorgesehen. Bisher ist nicht bekannt, wie sich der betroffene Kommunalpolitiker zu den Vorwürfen oder dem eingeleiteten Ausschlussverfahren geäußert hat. Auch über den genauen Zeitpunkt einer endgültigen Entscheidung des Kreisverbandes gibt es noch keine offiziellen Angaben. Der Fall sorgt in der Region für politische Diskussionen bezüglich der Unvereinbarkeit von CDU-Mitgliedschaften und Unterstützungen für die AfD.",
+    "r": "Der Fall ist relevant, da er die parteiinterne Haltung und den Umgang der CDU mit Mitgliedern verdeutlicht, die finanzielle Unterstützung für politische Wettbewerber wie die AfD leisten. Solche Vorfälle berühren grundsätzliche Loyalitätsfragen in politischen Parteien.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/sachsen-anhalt-cdu-beantragt-ausschluss-von-kommunalpolitiker-prange-wegen-10-000-euro-spende-an-afd-100.html",
+        "date": "2026-10-22T21:35:04.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Sachsen-Anhalt",
+        "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/partei-spende-kreisverband,cdu-ausschluss-prange-100.html",
+        "date": "2026-10-22T16:48:25.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/sachsen-anhalt-cdu-beantragt-ausschluss-von-kommunalpolitiker-prange-wegen-10-000-euro-spende-an-afd-100.html",
+    "agree": "Beide Quellen stimmen überein, dass der CDU-Kreisverband in Stendal den Ausschluss eines Mitglieds wegen einer Spende an die AfD beantragt hat.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Nennt den Betroffenen im Text nur allgemein als Kommunalpolitiker."
+      },
+      {
+        "name": "Tagesschau Regional Sachsen-Anhalt",
+        "note": "Nennt den betroffenen Politiker namentlich als Bernd Prange."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-c09efb725ea982cb",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-22T20:36:58.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Selenskyj äußert sich zu Spannungen zwischen Kiew und Washington",
+    "s": "Das Verhältnis zwischen Washington und Kiew ist derzeit angespannt. Der ukrainische Präsident Wolodymyr Selenskyj hat sich öffentlich zu möglichen Spannungen mit dem US-Präsidenten Donald Trump geäußert. Dabei betonte er, dass es sich hierbei um nichts Persönliches handele. Zugleich richtete er eine Warnung an die Adresse der USA.",
+    "m": "Die Beziehungen zwischen der Ukraine und den Vereinigten Staaten stehen aktuell auf dem Prüfstand, da das Verhältnis so schlecht wie seit längerer Zeit nicht mehr eingeschätzt wird. Vor diesem Hintergrund hat der ukrainische Präsident Wolodymyr Selenskyj versucht, die Situation zu beruhigen und etwaigen Spekulationen entgegenzuwirken. Er versicherte, dass zwischen ihm und Donald Trump keine persönlichen Differenzen bestehen. Dennoch enthielt seine Äußerung auch eine deutliche Warnung an Washington. Die Ukraine verteidigt sich seit mittlerweile mehr als vier Jahren gegen den anhaltenden russischen Angriffskrieg. Bisherige internationale Bemühungen um einen Frieden blieben weitgehend erfolglos, wodurch die diplomatischen und militärischen Unterstützungen durch westliche Partner von zentraler Bedeutung bleiben.",
+    "r": "Die Aussagen des ukrainischen Präsidenten zu den US-Beziehungen beleuchten den diplomatischen Zustand der internationalen Unterstützung für die Ukraine. Angesichts des lang anhaltenden russischen Angriffskrieges ist das Verhältnis zu den USA für Kiew von existenziellem Wert.",
+    "srcs": [
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/article6ada720c7d7d59c2a19eecb9/ukraine-krieg-es-ist-nichts-persoenliches-zwischen-mir-und-trump-selenskyj-aeussert-sich-zu-spannungen-mit-usa.html",
+        "date": "2026-10-22T20:36:58.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/politik/ukraine-news-im-ticker-selenskyj-nichts-persoenliches-zwischen-trump-und-mir-HE2HCGE6JQFTFWLUN43NO5POI4.html",
+        "date": "2026-10-22T20:34:28.000Z"
+      }
+    ],
+    "url": "https://www.welt.de/politik/article6ada720c7d7d59c2a19eecb9/ukraine-krieg-es-ist-nichts-persoenliches-zwischen-mir-und-trump-selenskyj-aeussert-sich-zu-spannungen-mit-usa.html",
+    "agree": "Die Quellen stimmen überein, dass Wolodymyr Selenskyj erklärt hat, es gebe nichts Persönliches zwischen Trump und ihm.",
+    "diff": [
+      {
+        "name": "WELT",
+        "note": "Berichtet über Spannungen zwischen Washington und Kiew, eine Warnung Selenskyjs an Trump und das aktuell schlechte Verhältnis."
+      },
+      {
+        "name": "RND",
+        "note": "Erwähnt im Liveblog-Format, dass sich die Ukraine seit mehr als vier Jahren gegen den russischen Angriffskrieg verteidigt und Friedensbemühungen erfolglos blieben."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-b996a96a27a1d0d3",
+    "c": "INT",
+    "o": "DE",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-22T20:31:15.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Trump attackiert LeBron James wegen Verhalten bei US-Hymne",
+    "s": "NBA-Superstar LeBron James wurde bei einem Spiel der New York Knicks gegen die Philadelphia 76ers dabei gefilmt, wie er während der US-Nationalhymne Trockenübungen beziehungsweise Golfschwünge macht. Das Verhalten sorgt für heftige Kritik von US-Präsident Donald Trump.",
+    "m": "Videos von einem Basketballspiel zwischen den New York Knicks und den Philadelphia 76ers zeigen LeBron James, wie er während der Abspielen der Nationalhymne keine Ehrfurcht zeigt und stattdessen Trockenübungen beziehungsweise Golfschwünge ausführt. Diese Aktion stieß bei US-Präsident Donald Trump auf scharfe Ablehnung. Trump bezeichnete den Sportler öffentlich als totale Schande und forderte eine Entschuldigung für sein Verhalten. Konsequenzen über die verbale Kritik hinaus oder eine Reaktion von LeBron James selbst gehen aus den Berichten nicht hervor.",
+    "r": "Die Kontroverse verdeutlicht die anhaltende gesellschaftliche und politische Sensibilität rund um Respektsbekundungen gegenüber Symbolen der Vereinigten Staaten wie der Nationalhymne, insbesondere wenn prominente Persönlichkeiten des Sports involviert sind.",
+    "srcs": [
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/sport/trump-nennt-lebron-james-totale-schande-wegen-verhalten-bei-us-hymne-7FI2AGLLQRHSNGLYGORIWEA7A4.html",
+        "date": "2026-10-22T20:31:15.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/sport/basketball/article6ada5fb07d7d59c2a19eebb8/donald-trump-hymnen-aerger-us-praesident-nennt-lebron-james-totale-schande.html",
+        "date": "2026-10-22T19:32:50.000Z"
+      }
+    ],
+    "url": "https://www.rnd.de/sport/trump-nennt-lebron-james-totale-schande-wegen-verhalten-bei-us-hymne-7FI2AGLLQRHSNGLYGORIWEA7A4.html",
+    "agree": "Beide Quellen stimmen überein, dass LeBron James während der US-Nationalhymne Trockenübungen oder Golfschwünge gemacht hat und dafür von US-Präsident Donald Trump als totale Schande bezeichnet wurde.",
+    "diff": [
+      {
+        "name": "WELT",
+        "note": "Berichtet zusätzlich, dass Trump eine Entschuldigung von LeBron James fordert."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-d872f02b46458992",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-22T20:21:12.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Eminems Ex-Mitarbeiter wegen Diebstahls unveröffentlichter Musik überführt",
+    "s": "Mehrere unveröffentlichte Songs des Rappers Eminem tauchten im Internet auf und wurden millionenfach abgerufen. Nun konnte der Verantwortliche ausfindig gemacht werden. Es handelt sich um einen ehemaligen Mitarbeiter des Musikers.",
+    "m": "Die unveröffentlichten Musikstücke von Eminem gelangten im Jahr 2024 ins Internet und erreichten dort Millionen von Abrufen. Ermittler kamen dem Täter auf die Spur, indem sie den Käufern der illegal angebotenen Songs nachgingen. Der überführte Täter ist ein ehemaliger Mitarbeiter von Eminem. Durch den Verkauf der gestohlenen Musik soll er schätzungsweise 50.000 US-Dollar eingenommen haben. Nun muss sich der Ex-Mitarbeiter recht verantworten und ihm drohen mehrere Jahre Haft.",
+    "r": "Der Vorfall zeigt, wie digitale Sicherheitslücken bei Musikern zu Datenlecks und illegalem Handel führen können. Zudem verdeutlicht er die strafrechtlichen Konsequenzen von Urheberrechtsverletzungen und Diebstahl im Prominentenbereich.",
+    "srcs": [
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/promis/eminem-ex-mitarbeiter-klaute-unveroeffentlichte-musik-TSSDKWNTJRAVVPJJAZ3HBDOVNY.html",
+        "date": "2026-10-22T20:21:12.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/kultur/musik/eminems-ex-mitarbeiter-klaute-unveroeffentlichte-musik-a-5a89302e-ba95-4407-a028-bcd605df647b#ref=rss",
+        "date": "2026-10-22T20:14:00.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/leute/Ex-Mitarbeiter-von-Eminem-klaut-unveroeffentlichte-Musik-id31448792.html",
+        "date": "2026-10-22T19:41:56.000Z"
+      }
+    ],
+    "url": "https://www.rnd.de/promis/eminem-ex-mitarbeiter-klaute-unveroeffentlichte-musik-TSSDKWNTJRAVVPJJAZ3HBDOVNY.html",
+    "agree": "Alle Quellen sind sich einig, dass unveröffentlichte Songs von Eminem im Internet aufgetaucht und millionenfach abgerufen wurden sowie dass ein ehemaliger Mitarbeiter der Täter ist.",
+    "diff": [
+      {
+        "name": "DER SPIEGEL",
+        "note": "Berichtet, dass der ehemalige Mitarbeiter durch den Verkauf etwa 50.000 US-Dollar verdient haben soll."
+      },
+      {
+        "name": "ntv",
+        "note": "Erwähnt, dass die Songs im Jahr 2024 auftauchten und dem Täter mehrere Jahre Haft drohen."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
+    "id": "story-bcbc78a5228b011c",
+    "c": "INT",
+    "o": "UK",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-22T20:11:04.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Trump attackiert Ohios Gouverneur wegen Kritik an umstrittenem Wahlkampfspot",
+    "s": "Der republikanische Gouverneur von Ohio, Mike DeWine, hat den Kandidaten Vivek Ramaswamy aufgefordert, einen umstrittenen Wahlkampfspot gegen seine demokratische Rivalin Amy Acton zurückzuziehen. In dem Spot wird Actons entfremdete Mutter gezeigt, was DeWine als falsch und zutiefst verstörend bezeichnete. Donald Trump reagierte prompt mit scharfer Kritik an DeWine und warf ihm illoyales Verhalten vor. Trump forderte stattdessen, dass der Spot weiterhin ausgestrahlt werden müsse.",
+    "m": "Der Vorfall entzündete sich an einem Wahlkampfspot des republikanischen Kandidaten Vivek Ramaswamy, der sich gegen die Demokratin Amy Acton richtet. Darin tritt die entfremdete Mutter von Acton auf, was in der politischen Landschaft für heftige Debatten sorgte. Ohios republikanischer Gouverneur Mike DeWine kritisierte die Anzeige öffentlich als unangebracht und forderte Ramaswamy am Donnerstag unmissverständlich auf, sie offline zu nehmen. Nur wenige Stunden später schaltete sich der ehemalige US-Präsident Donald Trump in die Auseinandersetzung ein. Trump stellte sich demonstrativ hinter Ramaswamy und rief dazu auf, die Ausstrahlung des Spots fortzusetzen. Gleichzeitig warf er dem parteiinternen Kollegen DeWine mangelnde Loyalität vor. Bisher ist unklar, wie Ramaswamy auf den direkten Widerspruch zwischen dem Gouverneur und Trump reagieren wird und ob der Spot tatsächlich weiterläuft.",
+    "r": "Der offene Streit zwischen einem amtierenden republikanischen Gouverneur und Donald Trump beleuchtet interne Konflikte und Loyalitätsfragen innerhalb der Republikanischen Partei im Vorfeld von Wahlen. Die Intervention verdeutlicht Trumps anhaltenden Einfluss auf den Kurs von Kandidaten.",
+    "srcs": [
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/oct/22/ramaswamy-attack-ad-ohio-dewine",
+        "date": "2026-10-22T20:11:04.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRTRhOXB6V3NoaFVoc0QxUEl4eWZUQmFNSzlMV2NNeElFRkJ2bGZGc05LSGFFRnNGcVRXOG4tUzVFVHJYWFRNXzRlX3dYcHJnY3cxTDBxVTZXeEYzd280UmJ1aWswb2g2bGIwQ0dhWkNRb2RhajhNVnZFZ0RtREMwUTRlRDEzdw?oc=5",
+        "date": "2026-10-22T19:23:00.000Z"
+      }
+    ],
+    "url": "https://www.theguardian.com/us-news/2026/oct/22/ramaswamy-attack-ad-ohio-dewine",
+    "agree": "Die Quellen stimmen überein, dass Donald Trump den Gouverneur von Ohio, Mike DeWine, wegen dessen Kritik an einem Wahlkampfspot von Vivek Ramaswamy attackiert hat.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Verweist lediglich auf den Artikel des Guardian und liefert keine zusätzlichen Informationen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-94f64f270ac1369e",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-22T20:00:09.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Weltkriegsbombe in Sinzheim erfolgreich entschärft und A5 freigegeben",
+    "s": "In Sinzheim im Kreis Rastatt ist am Donnerstagabend eine amerikanische oder britische Fliegerbombe aus dem Zweiten Weltkrieg entschärft worden. Die Entschärfung machte eine Vollsperrung der wichtigen Autobahn A5 bei Baden-Baden erforderlich. Nach dem erfolgreichen Einsatz des Kampfmittelbeseitigungsdienstes wurden die Sperrungen der Verkehrswege mittlerweile wieder aufgehoben.",
+    "m": "Die Entdeckung der Weltkriegsbombe ging von einem Baggerfahrer aus, der bei Bauarbeiten in Sinzheim im Landkreis Rastatt auf den Sprengkörper gestoßen war. Daraufhin wurden umgehend Sicherheitsmaßnahmen eingeleitet, die am Donnerstagabend in die Entschärfung mündeten. Wegen der potenziellen Gefahr für den Straßenverkehr musste die nahegelegene Autobahn 5 im Abschnitt bei Baden-Baden zeitweise voll gesperrt werden, was zu Verkehrsbehinderungen führte. Nach Abschluss der gefährlichen Arbeiten gaben die Behörden Entwarnung und hoben die Sperrungen auf. Es kam zu keinen Berichterstattungen über nennenswerte Schäden oder Verletzte im Zuge der Bergung und Entschärfung. Offen blieb in den Berichten zunächst die genaue Art der Bombe sowie das Gewicht des Explosivkörpers.",
+    "r": "Bombenfunde und die damit verbundenen Sperrungen wichtiger Verkehrsadern wie der A5 haben direkte Auswirkungen auf den regionalen und überregionalen Reiseverkehr. Die erfolgreiche Entschärfung zeigt das fortbestehende Risiko von Blindgängern aus dem Zweiten Weltkrieg bei Bauarbeiten.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/weltkriegsbombe-in-sinzheim-gefunden-100.html",
+        "date": "2026-10-22T20:00:09.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/panorama/weltkriegsbombe-nahe-a5-entschaerft-sperrung-aufgehoben-a-aef4c5b2-1ad9-41a4-943f-37ddc47b44bb#ref=rss",
+        "date": "2026-10-22T19:46:00.000Z"
+      }
+    ],
+    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/weltkriegsbombe-in-sinzheim-gefunden-100.html",
+    "agree": "Die Quellen sind sich einig, dass in Sinzheim eine Weltkriegsbombe entschärft und die zeitweise vollgesperrte A5 bei Baden-Baden danach wieder freigegeben wurde.",
+    "diff": [
+      {
+        "name": "DER SPIEGEL",
+        "note": "Erwähnt zusätzlich, dass ein Baggerfahrer die Bombe entdeckt hat."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-c9b955d6578e2c6f",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-22T19:58:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "US-Schauspieler Tom Skerritt im Alter von 93 Jahren gestorben",
+    "s": "Der bekannte US-Schauspieler Tom Skerritt ist tot. Er starb im Alter von 93 Jahren. Einem breiten Publikum wurde er durch Rollen in Filmen und Serien wie „Top Gun“, „Alien“ und „Picket Fences“ bekannt.",
+    "m": "Der Hollywood-Schauspieler und Emmy-Preisträger Tom Skerritt ist im Alter von 93 Jahren verstorben. Zu seinen bekanntesten schauspielerischen Leistungen zählten Auftritte in weltweit erfolgreichen Produktionen wie „Top Gun“, „Alien“ und der Fernsehserie „Picket Fences“. Während die Mehrheit der Berichte seinen Tod im Alter von 93 Jahren ohne Angabe von Details vermeldete, berichtete eine Quelle, dass er eines natürlichen Todes starb. Weitere Details zu den Umständen seines Todes oder Trauerfeiern wurden in den vorliegenden Meldungen nicht genannt.",
+    "r": "Der Tod eines international bekannten Filmschauspielers von diesem Bekanntheitsgrad ist von allgemeinem kulturellen Interesse für die Öffentlichkeit und die Medienlandschaft.",
+    "srcs": [
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/lifestyle/leute/us-schauspieler-tom-skerritt-mit-93-jahren-gestorben-38438478.html",
+        "date": "2026-10-22T19:58:00.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/promis/top-gun-und-alien-schauspieler-tom-skerritt-ist-tot-PSTGCOM2JFHORO6PDO4RS5JDLE.html",
+        "date": "2026-10-22T19:47:48.000Z"
+      },
+      {
+        "name": "Rheinische Post",
+        "url": "https://rp-online.de/panorama/leute/tom-skerritt-top-gun-und-alien-schauspieler-ist-tot_aid-157062663",
+        "date": "2026-10-22T19:40:00.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/kultur/article6ada637f7d7d59c2a19eec10/bekannt-aus-top-gun-preisgekroenter-schauspieler-tom-skerritt-stirbt-mit-93-jahren.html",
+        "date": "2026-10-22T19:38:12.000Z"
+      }
+    ],
+    "url": "https://www.stern.de/lifestyle/leute/us-schauspieler-tom-skerritt-mit-93-jahren-gestorben-38438478.html",
+    "agree": "Alle Quellen stimmen überein, dass der US-Schauspieler Tom Skerritt im Alter von 93 Jahren gestorben ist und für Rollen in „Top Gun“ sowie „Picket Fences“ bekannt war.",
+    "diff": [
+      {
+        "name": "RND",
+        "note": "Erwähnt zusätzlich, dass Skerritt Emmy-Preisträger war."
+      },
+      {
+        "name": "Rheinische Post",
+        "note": "Erwähnt ebenfalls zusätzlich, dass Skerritt Emmy-Preisträger war."
+      },
+      {
+        "name": "WELT",
+        "note": "Berichtet im Gegensatz zu den anderen Quellen, dass er eines natürlichen Todes starb."
+      }
+    ],
+    "chg": "",
+    "independent": 4
+  },
+  {
+    "id": "story-0ea8c3a1909fba18",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-22T19:31:51.000Z",
+    "p": 2,
+    "st": "NI",
+    "city": "",
+    "t": "Eike Alswede aus Osnabrück ist Junglandwirt des Jahres",
+    "s": "Der 28-jährige Landwirt Eike Alswede aus dem Landkreis Osnabrück hat den Ceres Award als Junglandwirt des Jahres gewonnen. Ausgezeichnet wurde er für sein gesamtes landwirtschaftliches Konzept. Er hatte den elterlichen Betrieb vor drei Jahren übernommen und grundlegend umgestaltet.",
+    "m": "Der Ceres Award zeichnet in diesem Jahr Eike Alswede als Junglandwirt des Jahres aus. Der 28-Jährige stammt aus Gehrde im Landkreis Osnabrück und führt dort einen Hof mit Tieren und Feldern sowie einen eigenen Hofladen. Vor drei Jahren übernahm er die Landwirtschaft seiner Eltern und krempelte den Betrieb komplett um. Die Auszeichnung würdigt sein überzeugendes Gesamtkonzept in der Landwirtschaft. Weitere Details zum genauen Ablauf der Preisverleihung oder zu Mitkonkurrenten nennen die Quellen nicht.",
+    "r": "Die Auszeichnung einer Fachkraft mit einem renommierten Branchenpreis ist für die regionale Landwirtschaft und den landwirtschaftlichen Strukturwandel von Bedeutung.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Niedersachsen",
+        "url": "https://www.tagesschau.de/inland/regional/niedersachsen/eike-alswede-aus-gehrde-ist-junglandwirt-des-jahres,junglandwirt-100.html",
+        "date": "2026-10-22T19:31:51.000Z"
+      },
+      {
+        "name": "NDR Niedersachsen",
+        "url": "https://www.ndr.de/fernsehen/sendungen/hallo_niedersachsen/ceres-award-eike-alswed-ist-junglandwirt-des-jahres,hallonds-11092.html",
+        "date": "2026-10-22T19:31:31.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/niedersachsen/eike-alswede-aus-gehrde-ist-junglandwirt-des-jahres,junglandwirt-100.html",
+    "agree": "Die Quellen sind sich einig, dass der 28-jährige Landwirt Eike Alswede aus dem Landkreis Osnabrück den Ceres Award als Junglandwirt des Jahres erhalten hat.",
+    "diff": [
+      {
+        "name": "Tagesschau Regional Niedersachsen",
+        "note": "Erwähnt zusätzlich Tiere, Felder und den Hofladen sowie dass der Preis für das Gesamtkonzept verliehen wurde."
+      },
+      {
+        "name": "NDR Niedersachsen",
+        "note": "Nennt den genauen Ort Gehrde und berichtet, dass er den elterlichen Betrieb vor drei Jahren übernommen und komplett umgekrempelt hat."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-cc2a5ab9521d2300",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-22T18:58:24.000Z",
+    "p": 2,
+    "st": "MV",
+    "city": "",
+    "t": "Erneut Feuer in ehemaliger Getränkefabrik Wismaria in Wismar",
+    "s": "In der Nacht ist in der ehemaligen Getränkefabrik Wismaria in Wismar erneut ein Feuer ausgebrochen. Erst kürzlich war ein Großteil der Fabrik bei einem Brand zerstört worden. Die Feuerwehr musste wiederum anrücken, um den neuen Brand zu bekämpfen. Die Polizei hat die Ermittlungen aufgenommen.",
+    "m": "Die Brandruine der ehemaligen Getränkefabrik Wismaria in Wismar ist erneut Schauplatz eines Feuerwehreinsatzes geworden. In der Nacht entfachte in dem Gebäude abermals ein Brand. Erst vor Kurzem hatte ein verheerendes Großfeuer weite Teile der Fabrik vernichtet. Nun brannte es in der Nacht erneut, weshalb die Rettungskräfte ausrücken mussten. Die Hintergründe für den erneuten Ausbruch des Feuers in der Brandruine sind derzeit noch unklar. Die Polizei hat entsprechende Ermittlungen zur Ursache aufgenommen. Es bleibt abzuwarten, ob es sich um Brandstiftung oder ein Wiederaufflammen von Glutnestern handelt.",
+    "r": "Brände in leerstehenden Industriebrachen binden Einsatzkräfte und bergen Sicherheitsrisiken für die Nachbarschaft sowie die Feuerwehr. Wiederholte Brandereignisse an derselben Örtlichkeit erfordern verstärkte polizeiliche Ermittlungen zur Ursache.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Mecklenburg-Vorpommern",
+        "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/wismar-erneut-feuer-in-ehemaliger-getraenkefabrik-wismaria,wismaria-102.html",
+        "date": "2026-10-22T18:58:24.000Z"
+      },
+      {
+        "name": "NDR Mecklenburg-Vorpommern",
+        "url": "https://www.ndr.de/fernsehen/sendungen/nordmagazin/erneut-feuer-in-ehemaliger-wismarer-getraenkefabrik,nordmagazin-15268.html",
+        "date": "2026-10-22T18:57:56.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/wismar-erneut-feuer-in-ehemaliger-getraenkefabrik-wismaria,wismaria-102.html",
+    "agree": "Beide Quellen stimmen überein, dass es in der Nacht in der ehemaligen Wismarer Getränkefabrik Wismaria erneut zu einem Feuer gekommen ist und die Polizei ermittelt.",
+    "diff": [
+      {
+        "name": "Tagesschau Regional Mecklenburg-Vorpommern",
+        "note": "Erwähnt explizit, dass die Feuerwehr in der Nacht zur Brandruine ausrücken musste und die Polizei ermittelt."
+      },
+      {
+        "name": "NDR Mecklenburg-Vorpommern",
+        "note": "Erwähnt zusätzlich, dass bereits zuvor ein Großteil der Fabrik abgebrannt war."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-51099c2ecf3ee597",
+    "c": "DE",
+    "o": "DE",
+    "k": "umwelt",
+    "lang": "de",
+    "d": "2026-10-22T18:56:46.000Z",
+    "p": 2,
+    "st": "MV",
+    "city": "",
+    "t": "Bauernverband MV kritisiert verschärfte Regelungen für Rattengift",
+    "s": "Zur Bekämpfung von Ratten und Mäusen gelten ab sofort verschärfte Regelungen. Der Einsatz von chemischem Rattengift ist künftig für Privatleute illegal. Der Bauernverband Mecklenburg-Vorpommern hat diese neuen Vorgaben kritisiert.",
+    "m": "Die Bekämpfung von Schadnagern wie Ratten und Mäusen unterliegt neuen gesetzlichen Bestimmungen. Bislang wurden für diesen Zweck spezielle Mittel eingesetzt, deren Anwendung nun deutlich eingeschränkt wird. Künftig ist der Einsatz von chemischem Rattengift für Privatleute illegal. Der Bauernverband Mecklenburg-Vorpommern übt scharfe Kritik an diesen neuen Regelungen. Unklar bleibt in den Berichten, welche genauen Alternativen Privatleuten künftig zur Verfügung stehen oder welche Übergangsfristen gelten. Auch die genauen Beweggründe für die Verschärfung werden in den Quellen nicht detailliert genannt. Stefan Philipp verzichtet nach eigenen Angaben bereits seit jeher auf den Einsatz von Gift bei der Bekämpfung.",
+    "r": "Die Neuregelung schränkt die Möglichkeiten zur Schädlingsbekämpfung für Privatpersonen erheblich ein und ruft Kritik bei betroffenen Verbänden hervor. Dies hat direkte Auswirkungen auf den Umgang mit Ratten und Mäusen in Haushalten und Betrieben in der Region.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Mecklenburg-Vorpommern",
+        "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/zulassung-fuer-rattengift-erlischt-koeder-auslegen-bald-verboten,rattengift-106.html",
+        "date": "2026-10-22T18:56:46.000Z"
+      },
+      {
+        "name": "NDR Mecklenburg-Vorpommern",
+        "url": "https://www.ndr.de/fernsehen/sendungen/nordmagazin/neue-regelungen-fuer-rattengift,nordmagazin-15264.html",
+        "date": "2026-10-22T18:56:15.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/zulassung-fuer-rattengift-erlischt-koeder-auslegen-bald-verboten,rattengift-106.html",
+    "agree": "Die Quellen stimmen darin überein, dass es neue und verschärfte Regelungen für die Bekämpfung von Ratten und Mäusen gibt, insbesondere in Bezug auf chemisches Gift.",
+    "diff": [
+      {
+        "name": "Tagesschau Regional Mecklenburg-Vorpommern",
+        "note": "Berichtet speziell über die Kritik des Bauernverbands MV an den neuen Regelungen."
+      },
+      {
+        "name": "NDR Mecklenburg-Vorpommern",
+        "note": "Erwähnt, dass der Einsatz von chemischem Rattengift für Privatleute künftig illegal ist und führt Stefan Philipp an, der bereits immer auf Gift verzichtet."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-fb673f276550469e",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-22T18:55:10.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Patrice Aminati spricht im Podcast über ihren Alltag mit Krebserkrankung",
+    "s": "Patrice Aminati hat in einem Gespräch mit dem Psychologen Leon Windscheid Einblicke in ihr Leben mit einer unheilbaren Krebserkrankung gegeben. Die Episode des Formats \"Terra Xplore: Im Kopf von...\" beleuchtet die Belastungen durch Therapien und die Quellen ihrer Kraft. Der Beitrag thematisiert, wie sie die Herausforderungen im Alltag bewältigt.",
+    "m": "Im Rahmen einer Episode des Formats \"Terra Xplore: Im Kopf von...\" hat sich Patrice Aminati mit dem Psychologen Leon Windscheid unterhalten. Dabei sprach sie offen über ihren Alltag und den Umgang mit ihrer unheilbaren Krebserkrankung. Das Gespräch gewährt tiefe Einblicke in die Situation der Betroffenen und verdeutlicht, wie stark die medizinischen Therapien an ihren körperlichen und psychischen Kräften zehren. Gleichzeitig thematisiert die Folge, woraus sie in dieser schweren Zeit Mut schöpft und welche \"kleinen Dinge\" ihr im täglichen Leben Halt geben. Die Sendung beleuchtet somit sowohl die dunklen als auch die hoffnungsvollen Momente ihres Lebensweges.",
+    "r": "Die Berichterstattung gibt Einblicke in den Umgang einer prominenten Person mit einer schweren Erkrankung und thematisiert die psychischen sowie physischen Belastungen von Therapien. Solche persönlichen Einblicke in gesundheitliche Schicksale bieten der Öffentlichkeit Aufklärung über den Umgang mit unheilbaren Krankheiten.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTEpFbWdOOTNOMW5KendYODFEdzJPZ25qc1pjS0VkVjRpVk1rUVFfVXZhVmRYb3NfZ2QxeEFlbkJSU21rVEpNVUpITVBNZEgxUC02TFozOHpBSXZIcDNwUi1UcWRNUmJBYU1BNWxJRV9qSWw5YUhOUzc0RHpEUUdVMlAwc2ZjUVdVSklqSTBiVjBhd1pKQy1MZGhJSmxxYXYxbWE3dGdXMA?oc=5",
+        "date": "2026-10-22T18:55:10.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/leute/Patrice-Aminati-spricht-ueber-Alltag-mit-ihrer-Krebserkrankung-id31448713.html",
+        "date": "2026-10-22T18:55:10.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTEpFbWdOOTNOMW5KendYODFEdzJPZ25qc1pjS0VkVjRpVk1rUVFfVXZhVmRYb3NfZ2QxeEFlbkJSU21rVEpNVUpITVBNZEgxUC02TFozOHpBSXZIcDNwUi1UcWRNUmJBYU1BNWxJRV9qSWw5YUhOUzc0RHpEUUdVMlAwc2ZjUVdVSklqSTBiVjBhd1pKQy1MZGhJSmxxYXYxbWE3dGdXMA?oc=5",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-55650f8fcb527636",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-22T18:52:40.000Z",
+    "p": 2,
+    "st": "MV",
+    "city": "",
+    "t": "Anklam: Ordnungsamt plant Anschaffung von Schutzwesten wegen zunehmender Gewalt",
+    "s": "Das Ordnungsamt in Anklam plant die Anschaffung von Schutzwesten für seine Mitarbeiter im Außendienst. Hintergrund sind zunehmend brenzliche und gefährliche Situationen, in die die Ordnungskräfte geraten können. Solche Einsätze umfassen beispielsweise Parksünder oder die Kontrolle von Notunterkünften. Die Schutzausrüstung soll den Beschäftigten mehr Sicherheit bei ihrer täglichen Arbeit bieten.",
+    "m": "Die Mitarbeiter des Ordnungsamtes in Anklam sehen sich im Außendienst immer häufiger mit brenzlichen und gefährlichen Situationen konfrontiert. Um die Sicherheit der Einsatzkräfte zu erhöhen, ist nun die Anschaffung von Schutzwesten geplant. Zu den Aufgabenbereichen, die mit solchen Risiken verbunden sein können, gehören unter anderem das Kontrollieren von Parksündern sowie Überprüfungen von Notunterkünften. Bislang wurden keine Details zu den Kosten oder dem genauen Zeitpunkt der Beschaffung genannt. Auch bleibt offen, wie viele Westen angeschafft werden sollen und ob alle Mitarbeiter im Außendienst damit ausgestattet werden. Die Maßnahme verdeutlicht die steigenden Anforderungen und potenziellen Gefahren im kommunalen Ordnungsdienst.",
+    "r": "Die geplante Anschaffung von Schutzwesten verdeutlicht die steigenden Sicherheitsrisiken für kommunale Ordnungskräfte im Außendienst. Sie zeigt, dass Einsätze wie Verkehrskontrollen oder Unterkunftsüberprüfungen zunehmend mit Gewaltpotenzial verbunden sind.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Mecklenburg-Vorpommern",
+        "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/zunehmende-gewalt-ordnungsamt-anklam-will-schutzwesten-anschaffen,schutzwesten-110.html",
+        "date": "2026-10-22T18:52:40.000Z"
+      },
+      {
+        "name": "NDR Mecklenburg-Vorpommern",
+        "url": "https://www.ndr.de/fernsehen/sendungen/nordmagazin/sicherheit-ordnungsamt-anklam-will-schutzwesten-anschaffen,nordmagazin-15260.html",
+        "date": "2026-10-22T18:52:15.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/zunehmende-gewalt-ordnungsamt-anklam-will-schutzwesten-anschaffen,schutzwesten-110.html",
+    "agree": "Die Quellen sind sich einig, dass das Ordnungsamt in Anklam plant, Schutzwesten für den Außendienst anzuschaffen.",
+    "diff": [
+      {
+        "name": "Tagesschau Regional Mecklenburg-Vorpommern",
+        "note": "Erwähnt explizit die zunehmende Gewalt als Grund für die Anschaffung."
+      },
+      {
+        "name": "NDR Mecklenburg-Vorpommern",
+        "note": "Nennt konkrete Beispiele für gefährliche Situationen wie Parksünder oder die Kontrolle von Notunterkünften."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-3c014fc3a236367a",
     "c": "INT",
     "o": "DE",
@@ -37,102 +834,6 @@
     "independent": 2
   },
   {
-    "id": "story-02c4e59e9cf39c27",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-22T18:15:02.000Z",
-    "p": 3,
-    "st": "BB",
-    "city": "",
-    "t": "Mutmaßlicher Russland-Spion in Brandenburg festgenommen",
-    "s": "Beamte des Bundeskriminalamts haben in Brandenburg einen mutmaßlichen Spion festgenommen. Dem ukrainischen Staatsbürger wird vom Generalbundesanwalt geheimdienstliche Agententätigkeit vorgeworfen. Er soll Informationen für Russland beschafft haben.",
-    "m": "Die Festnahme des ukrainischen Staatsbürgers erfolgte in Brandenburg durch das Bundeskriminalamt im Auftrag der Bundesanwaltschaft in Karlsruhe. Dem Mann wird vorgeworfen, geheimdienstliche Agententätigkeit für Russland ausgeübt zu haben. Konkret soll er militärisch relevante Informationen gesammelt und Rüstungsfirmen ausgespäht haben, um diese an Russland weiterzugeben. Nach Angaben aus Medienberichten stammt der Beschuldigte zudem aus einem russisch besetzten Gebiet. Es ist nicht der erste Fall dieser Art in der Region Berlin und Brandenburg in diesem Jahr. Weitere Details zum genauen zeitlichen Ablauf, den Zielobjekten oder dem Vorgehen des Verdächtigen wurden zunächst nicht bekannt gegeben.",
-    "r": "Der Fall verdeutlicht die anhaltende Bedrohung durch Spionageaktivitäten fremder Mächte in Deutschland, insbesondere im Bereich der Rüstungsindustrie. Die Festnahme zeigt die Sensibilität der Sicherheitsbehörden gegenüber geheimdienstlichen Aktivitäten im Kontext des Konflikts mit Russland.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/mutmasslicher-russland-spion-in-brandenburg-festgenommen-100.html",
-        "date": "2026-10-22T18:15:02.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Brandenburg",
-        "url": "https://www.tagesschau.de/inland/regional/brandenburg/rbb-mutmasslicher-russland-spion-in-brandenburg-festgenommen-100.html",
-        "date": "2026-10-22T12:16:52.000Z"
-      },
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/inland/spionage-ruestungindustrie-festnahme-100.html",
-        "date": "2026-10-22T11:32:31.000Z"
-      },
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/politik/deutschland/russland-spion-brandenburg-festnahme-100.html",
-        "date": "2026-10-22T11:19:00.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/mutmasslicher-russland-spion-in-brandenburg-festgenommen-100.html",
-    "agree": "Alle Quellen sind sich einig, dass in Brandenburg ein mutmaßlicher Spion für Russland festgenommen wurde, bei dem es sich um einen ukrainischen Staatsbürger handelt.",
-    "diff": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "note": "Erwähnt explizit, dass die Festnahme durch das Bundeskriminalamt stattfand und die Mitteilung von der Bundesanwaltschaft in Karlsruhe stammt."
-      },
-      {
-        "name": "Tagesschau Regional Brandenburg",
-        "note": "Fügt hinzu, dass es sich um den Verhafteten um einen Ukrainer handelt und dass in diesem Jahr bereits weitere Spione in Berlin und Brandenburg verhaftet wurden."
-      },
-      {
-        "name": "Tagesschau",
-        "note": "Nennt als Details, dass der Mann Rüstungsfirmen ausgespäht haben soll und aus einem russisch besetzten Gebiet stammt."
-      },
-      {
-        "name": "ZDF heute",
-        "note": "Berichtet, dass der Festgenommene militärisch relevante Informationen an Russland weitergegeben haben soll."
-      }
-    ],
-    "chg": "",
-    "independent": 3
-  },
-  {
-    "id": "story-326bbc96ac5cc52f",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-22T18:15:02.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Internationaler Strafgerichtshof erhält den Sacharow-Preis des EU-Parlaments",
-    "s": "Der Internationale Strafgerichtshof in Den Haag wurde mit dem diesjährigen Sacharow-Preis für geistige Freiheit ausgezeichnet. Die Bekanntgabe erfolgte durch die Präsidentin des Europäischen Parlaments, Roberta Metsola, in Straßburg. Mit dem Preis würdigt das Parlament den Einsatz der Institution für das Völkerrecht und die Menschenrechte.",
-    "m": "Die Präsidentin des Europäischen Parlaments, Roberta Metsola, hat in Straßburg bekannt gegeben, dass der Internationale Strafgerichtshof den diesjährigen Sacharow-Preis für geistige Freiheit erhält. Das Europäische Parlament begründet die Ehrung mit der wichtigen Rolle des Gerichts bei der Verteidigung des Völkerrechts, der internationalen Gerechtigkeit und den Menschenrechten. Die Tagesschau hebt zudem hervor, dass die Auszeichnung auch als ein Zeichen gegen die Sanktionen von US-Präsident Trump verstanden wird. Der Sacharow-Preis gehört zu den bedeutendsten Menschenrechtspreisen der Europäischen Union und wird jährlich an Personen oder Organisationen verliehen, die sich besonders für die Verteidigung der Menschenrechte und Grundfreiheiten einsetzen. Konkrete Details zur feierlichen Übergabe oder zur Dotierung des Preises wurden in den vorliegenden Berichten nicht genannt.",
-    "r": "Die Auszeichnung für den Internationalen Strafgerichtshof ist politisch bedeutsam, da sie die internationale Gerichtsbarkeit stärkt und in einem Spannungsverhältnis zu den Sanktionen der US-Regierung steht. Sie verdeutlicht die Unterstützung der Europäischen Union für globale Institutionen der Rechtspflege.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/internationaler-strafgerichtshof-erhaelt-den-sacharow-preis-des-eu-parlaments-100.html",
-        "date": "2026-10-22T18:15:02.000Z"
-      },
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/europa/sacharow-preis-internationaler-strafgerichtshof-100.html",
-        "date": "2026-10-22T11:42:57.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/internationaler-strafgerichtshof-erhaelt-den-sacharow-preis-des-eu-parlaments-100.html",
-    "agree": "Beide Quellen stimmen darin überein, dass der Internationale Strafgerichtshof in diesem Jahr den Sacharow-Preis des EU-Parlaments erhält.",
-    "diff": [
-      {
-        "name": "Tagesschau",
-        "note": "Erwähnt zusätzlich, dass die Verleihung als ein Zeichen gegen die Sanktionen von US-Präsident Trump zu verstehen ist."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
     "id": "story-06d1d0f598e6a94c",
     "c": "DE",
     "o": "DE",
@@ -164,121 +865,6 @@
       {
         "name": "Deutschlandfunk Nachrichten",
         "note": "Erwähnt zusätzlich die Aussage von Bundesdigitalminister Wildberger, dass es keine Hinweise auf eine Kompromittierung von Bundessystemen gibt."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-7640bedae877c763",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-22T18:15:02.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Bürgergeld-Reform spart bisher kein Geld",
-    "s": "Die seit Juli geltende Grundsicherung entlastet den Bundeshaushalt entgegen den Ankündigungen offenbar bisher nicht. Drei Monate nach Inkrafttreten der Reform bewegen sich die Ausgaben exakt auf dem Niveau des Vorjahres. Damit ist ein zentrales Versprechen der Union vorerst verpufft.",
-    "m": "Die im Juli in Kraft getretene Reform der Grundsicherung zeigt nach Angaben von Medienberichten bislang nicht die erhofften finanziellen Entlastungen für den Bundeshaushalt. Im Wahlkampf hatte die Union noch milliardenschwere Einsparungen durch härtere Maßnahmen beim Bürgergeld versprochen. Ein aktueller Blick auf die Ausgaben nach drei Monaten Laufzeit offenbart jedoch, dass diese sich exakt auf dem Niveau des Vorjahres bewegen. Experten analysieren derzeit die Gründe für dieses Ausbleiben der Einsparungen und erklären unter anderem, warum strengere Sanktionen allein kaum finanzielle Effekte erzielen. Ob und wann die Reform greifen wird, bleibt vorerst offen.",
-    "r": "Die Meldung ist relevant, da sie das Ausbleiben von versprochenen Einsparungen bei einem zentralen sozialpolitischen Vorhaben belegt. Dies betrifft direkt die Haushaltsplanung und die Debatte um die Wirksamkeit von Bürgergeld-Sanktionen.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/buergergeld-reform-spart-offenbar-bisher-kein-geld-102.html",
-        "date": "2026-10-22T18:15:02.000Z"
-      },
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/politik/Buergergeld-Reform-spart-offenbar-bisher-kein-Geld-id31448046.html",
-        "date": "2026-10-22T15:25:26.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/buergergeld-reform-spart-offenbar-bisher-kein-geld-102.html",
-    "agree": "Beide Quellen stimmen darin überein, dass die Bürgergeld-Reform nach rund drei Monaten bisher keine Einsparungen bringt und die Ausgaben auf dem Vorjahresniveau verharren.",
-    "diff": [
-      {
-        "name": "ntv",
-        "note": "Erwähnt das Wahlversprechen der Union über Milliardeneinsparungen und führt an, dass Experten erklären, warum Sanktionen allein kaum etwas bewirken."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-20705527be472c9e",
-    "c": "INT",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-22T18:15:02.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Kanada droht ein Mangel an Ahornsirup-Reserven",
-    "s": "In Kanada neigen sich die strategischen Vorräte an Ahornsirup dem Ende zu. Der weltweit bekannte und beliebte Ahornsirup ist von dieser Verknappung betroffen. Bisher sind keine weiteren Details zu den genauen Ursachen oder den wirtschaftlichen Folgen bekannt.",
-    "m": "Die strategischen Vorräte an Ahornsirup in Kanada gehen aus. Das Land ist weltweit für seinen Ahornsirup bekannt und dieser ist international sehr beliebt. Aktuell steuert das Land auf ein Ende dieser wichtigen Reserven zu. Genauere Angaben zu den verbleibenden Mengen, betroffenen Regionen oder den Gründen für die rapide Entleerung der Lager wurden in den Berichten nicht genannt. Auch über mögliche Auswirkungen auf die globale Versorgung und die Preise liegen noch keine Informationen vor. Die Situation verdeutlicht die Endlichkeit dieser spezifischen landwirtschaftlichen Vorräte in der kanadischen Wirtschaft.",
-    "r": "Die Erschöpfung der strategischen Ahornsirup-Reserven in Kanada ist für den globalen Markt relevant, da das Land weltweit für dieses Produkt bekannt ist. Es sind jedoch noch viele Fragen zu den wirtschaftlichen Konsequenzen offen.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/kanada-gehen-die-ahornsirup-reserven-aus-102.html",
-        "date": "2026-10-22T18:15:02.000Z"
-      },
-      {
-        "name": "t-online Wirtschaft",
-        "url": "https://www.t-online.de/finanzen/aktuelles/wirtschaft/id_101492110/kanada-gehen-bald-die-ahornsirup-reserven-aus.html",
-        "date": "2026-10-22T09:52:16.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/kanada-gehen-die-ahornsirup-reserven-aus-102.html",
-    "agree": "Die Quellen sind sich einig, dass Kanada die strategischen Vorräte beziehungsweise Reserven an Ahornsirup ausgehen.",
-    "diff": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "note": "Erwähnt konkret die strategischen Vorräte."
-      },
-      {
-        "name": "t-online Wirtschaft",
-        "note": "Fügt hinzu, dass der Ahornsirup aus Kanada weltweit bekannt und beliebt ist."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-b8b2657826851cc1",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-22T18:15:02.000Z",
-    "p": 2,
-    "st": "ST",
-    "city": "",
-    "t": "CDU beantragt Parteiausschluss von Stendaler Politiker nach AfD-Spende",
-    "s": "Der CDU-Kreisverband in Stendal in Sachsen-Anhalt hat den Ausschluss eines Kommunalpolitikers beantragt. Hintergrund ist eine von diesem getätigte Spende an die AfD in Höhe von 10.000 Euro. Das Parteiausschlussverfahren gegen den betroffenen Politiker wurde offiziell eingeleitet.",
-    "m": "Der CDU-Kreisverband Stendal in Sachsen-Anhalt hat ein Parteiausschlussverfahren gegen das Mitglied Bernd Prange auf den Weg gebracht. Grund für diesen Schritt ist eine Geldspende in Höhe von insgesamt 10.000 Euro, die der Kommunalpolitiker an die AfD geleistet hatte. Die Weitergabe von Parteigeldern oder finanzielle Unterstützung an politische Mitbewerber, insbesondere an die AfD, ist mit den Grundsätzen der CDU unvereinbar und führt regelmäßig zu massiven internen Konsequenzen. Der Antrag auf Parteiausschluss markiert den Beginn des parteiinternen Verfahrens, dessen genauer zeitlicher Ablauf und weitere juristische oder organisatorische Schritte im Detail noch geklärt werden müssen. Offen ist derzeit auch, wie sich der betroffene Kommunalpolitiker selbst zu den Vorwürfen und dem eingeleiteten Ausschlussverfahren äußert.",
-    "r": "Der Fall betrifft die parteiinterne Disziplin und den Umgang von Volksparteien mit finanzieller Unterstützung für rechtspopulistische Parteien wie die AfD. Solche Vorfälle werfen Fragen zur politischen Haltung und Loyalität von Kommunalpolitikern innerhalb ihrer Partei auf.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/sachsen-anhalt-cdu-beantragt-ausschluss-von-kommunalpolitiker-prange-wegen-10-000-euro-spende-an-afd-100.html",
-        "date": "2026-10-22T18:15:02.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Sachsen-Anhalt",
-        "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/partei-spende-kreisverband,cdu-ausschluss-prange-100.html",
-        "date": "2026-10-22T16:48:25.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/sachsen-anhalt-cdu-beantragt-ausschluss-von-kommunalpolitiker-prange-wegen-10-000-euro-spende-an-afd-100.html",
-    "agree": "Beide Quellen sind sich einig, dass der CDU-Kreisverband Stendal in Sachsen-Anhalt den Parteiausschluss eines Kommunalpolitikers wegen einer 10.000-Euro-Spende an die AfD beantragt hat.",
-    "diff": [
-      {
-        "name": "Tagesschau Regional Sachsen-Anhalt",
-        "note": "Nennt den Namen des betroffenen Kommunalpolitikers (Bernd Prange) und präzisiert, dass es sich um ein eröffnetes Ausschlussverfahren handelt."
       }
     ],
     "chg": "",
@@ -391,19 +977,69 @@
     "independent": 2
   },
   {
+    "id": "story-f50f10556b3869ec",
+    "c": "INT",
+    "o": "INT",
+    "k": "wissenschaft",
+    "lang": "de",
+    "d": "2026-10-22T17:15:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Erster Fall von Shamonda-Virus beim Menschen in Frankreich nachgewiesen",
+    "s": "In Frankreich wurde erstmals eine Infektion des Menschen mit dem Shamonda-Virus nachgewiesen. Ein Patient, bei dem das Virus identifiziert wurde, verstarb im frühen Oktober. Nun laufen Untersuchungen, ob der Erreger zu seinem Tod beigetragen hat.",
+    "m": "Das Shamonda-Virus ist eine Art von Bunyavirus, das normalerweise Nutztiere wie Rinder, Schafe und Ziegen betrifft und durch Blicke infizierter Gnitzen übertragen wird. Bei Tieren kann die Infektion zu Durchfall, Appetitlosigkeit, sinkenden Milcherträgen sowie zu Fehlgeburten und angeborenen Missbildungen bei Kälbern führen. Behörden haben den Erreger nun erstmals bei einem Menschen in Frankreich festgestellt. Der betroffene Patient verstarb bereits Anfang Oktober. Ermittlungen und Untersuchungen sind im Gange, um zu klären, in welchem Maße das Virus ursächlich zum Tod des Mannes beigetragen hat.",
+    "r": "Der Nachweis des normalerweise nur Tiere betreffenden Shamonda-Virus beim Menschen und der Todesfall in Frankreich sind medizinisch relevant für die Erforschung neuer Zoonosen.",
+    "srcs": [
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbUxNRlJwSFRMSGZXSGNsUHp4U3NMOXpzNFAwcl9nZEEydVliZEQ0LVZvZjVmN2NIQ3hpc0FCQXJDMUppVEFUc0paNXRvVHpMUWxCX3YwZDg2Wmk3QmJ3ODRJQXFZMXlaOGJScGdkUDE2MldXX2dxblNoZTJOdl8wbU1BTUppNkZ3M3dGeFBRcmZIdUN2VEx0YXRIdVM?oc=5",
+        "date": "2026-10-22T17:15:00.000Z"
+      },
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/22/shamonda-virus-detected-in-human-first-time-france",
+        "date": "2026-10-22T15:07:01.000Z"
+      },
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-22T13:53:32.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbUxNRlJwSFRMSGZXSGNsUHp4U3NMOXpzNFAwcl9nZEEydVliZEQ0LVZvZjVmN2NIQ3hpc0FCQXJDMUppVEFUc0paNXRvVHpMUWxCX3YwZDg2Wmk3QmJ3ODRJQXFZMXlaOGJScGdkUDE2MldXX2dxblNoZTJOdl8wbU1BTUppNkZ3M3dGeFBRcmZIdUN2VEx0YXRIdVM?oc=5",
+    "agree": "Die Quellen stimmen überein, dass erstmals ein Mensch in Frankreich mit dem Shamonda-Virus infiziert wurde und der Patient verstorben ist.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Verweist lediglich auf den Artikel des Guardians."
+      },
+      {
+        "name": "Guardian World",
+        "note": "Nennt detaillierte Symptome bei Tieren wie Durchfall, Appetitlosigkeit, sinkenden Milchertrag, Fehlgeburten und Missbildungen sowie die Übertragung durch Gnitzen und beruft sich auf die österreichische Agentur für Gesundheit und Ernährungssicherheit."
+      },
+      {
+        "name": "BBC World",
+        "note": "Gibt an, dass der betroffene Patient Anfang Oktober verstarb."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
     "id": "story-747d09d5ea4a706c",
     "c": "DE",
     "o": "DE",
     "k": "panorama",
     "lang": "de",
     "d": "2026-10-22T16:54:13.000Z",
-    "p": 2,
+    "p": 3,
     "st": "ST",
     "city": "",
-    "t": "Rekordandrang bei einmaliger Wetten, dass..?-Ausgabe mit Kaulitz-Brüdern",
-    "s": "Für die einmalige Ausgabe der Show Wetten, dass..? mit den Kaulitz-Brüdern im ZDF gibt es einen massiven Ansturm. Es sind mehr als 250.000 Ticketwünsche eingegangen, was einen neuen Rekord darstellt. Interessierte können weiterhin an dem entsprechenden Losverfahren teilnehmen. Die Meldung beleuchtet den aktuellen Stand der Nachfrage und die modalen Fristen für die Verlosung.",
-    "m": "Für die geplante einmalige Rückkehr der traditionsreichen Fernsehshow Wetten, dass..? mit den Moderatoren Bill und Tom Kaulitz verzeichnet das ZDF ein historisches Interesse. Bislang sind über 250.000 Ticketwünsche bei dem Sender eingegangen, womit ein neuer Rekord aufgestellt wurde. Die Veranstaltung findet in Halle statt und zieht entsprechend ein massives öffentliches Echo nach sich. Noch läuft das offizielle Losverfahren für die begehrten Eintrittskarten, an dem Fans und Interessierte teilnehmen können. Der genaue Zeitpunkt, bis zu dem das Verfahren andauert, sowie der Termin für die eigentliche Auslosung der Gewinner sind Teil des aktuellen Prozesses. Offene Punkte betreffen die detaillierte Ausgestaltung der Show unter der Ägide der Kaulitz-Brüder sowie die finalen Sicherheits- und Organisationsvorkehrungen vor Ort in Halle.",
-    "r": "Die Meldung ist relevant, da die Show Wetten, dass..? zu den medienpolitisch und gesellschaftlich meistbeachteten Fernsehformaten in Deutschland gehört. Der beispiellose Ansturm von über 250.000 Ticketwünschen zeigt das anhaltende Zuschauerinteresse an der Marke und den prominenten neuen Moderatoren.",
+    "t": "Rekordandrang bei „Wetten, dass...?“-Comeback mit den Kaulitz-Brüdern",
+    "s": "Für die einmalige Sonderausgabe der Show „Wetten, dass..?“ mit den Moderatoren Bill und Tom Kaulitz verzeichnet das ZDF ein historisches Interesse. Es sind bereits mehr als 250.000 Ticketwünsche eingegangen. Damit wurde ein neuer Rekord für die Sendung aufgestellt. Interessierte können weiterhin am laufenden Losverfahren teilnehmen.",
+    "m": "Das ZDF zeigt sich überwältigt von der enormen Resonanz auf die geplante Spezialausgabe von „Wetten, dass..?“. Mit über 250.000 eingegangenen Ticketwünschen bricht die Sendung mit den prominenten Zwillingen Bill und Tom Kaulitz alle bisherigen Bestmarken. Die Show ist als einmaliges Event konzipiert und sorgt bereits im Vorfeld für massive mediale Aufmerksamkeit. Das offizielle Losverfahren für die begehrten Eintrittskarten läuft noch für kurze Zeit weiter. Im Anschluss an diese Frist werden die Gewinner der Tickets durch das ZDF ausgelost. Genaue Details zum genauen Sendezeitpunkt oder den geplanten Wettpaten wurden in dieser Phase noch nicht bekannt gegeben.",
+    "r": "Die Meldung zeigt das außergewöhnlich hohe öffentliche Interesse an der Neuauflage eines traditionsreichen deutschen Fernsehformats mit prominenten Gastmoderatoren. Solche Rekordzahlen bei Ticketanfragen sind für heutige Fernsehproduktionen in Deutschland extrem ungewöhnlich und spiegeln die Zugkraft der Kaulitz-Brüder wider.",
     "srcs": [
       {
         "name": "Tagesschau Regional Sachsen-Anhalt",
@@ -417,15 +1053,15 @@
       }
     ],
     "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/kaulitz-show-fernsehen,wetten-dass-178.html",
-    "agree": "Beide Quellen sind sich einig, dass für die einmalige Ausgabe von Wetten, dass..? mit den Kaulitz-Brüdern mehr als 250.000 Ticketwünsche eingegangen sind und dies einen Rekord darstellt.",
+    "agree": "Beide Quellen stimmen überein, dass für die einmalige Ausgabe von „Wetten, dass..?“ mit den Kaulitz-Brüdern ein neuer Rekord von über 250.000 Ticketwünschen beim ZDF eingegangen ist und ein Losverfahren läuft.",
     "diff": [
       {
         "name": "Tagesschau Regional Sachsen-Anhalt",
-        "note": "Erwähnt konkret den Austragungsort Halle und thematisiert, bis wann das Losverfahren läuft und wann die Gewinner ausgelost werden."
+        "note": "Erwähnt im Titel, dass die Sendung in Halle stattfindet, und kündigt an zu nennen, wann die Gewinner ausgelost werden."
       },
       {
         "name": "RND",
-        "note": "Führt aus, dass die Ticketanfragen direkt beim ZDF eingegangen sind."
+        "note": "Fokussiert sich auf das ZDF als empfangende Institution der Ticketanfragen."
       }
     ],
     "chg": "",
@@ -441,10 +1077,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Steuerschätzung 2027: Mehr Einnahmen, aber keine neuen Haushaltsspielräume",
-    "s": "Trotz aktueller Krisen kann der Bund laut einer neuen Steuerschätzung im kommenden Jahr mit höheren Einnahmen rechnen. Dennoch sieht Bundesfinanzminister Klingbeil keinen zusätzlichen Spielraum für den Haushalt. Die offiziellen Prognosen wurden im Rahmen der aktuellen Schätzung veröffentlicht.",
-    "m": "Die aktuellen Prognosen der Steuerschätzung für das Jahr 2027 zeigen, dass der Bund mit mehr Geld als zunächst erwartet planen kann. Verantwortlich dafür sind trotz anhaltender Krisen positive Entwicklungen bei den Steuereinnahmen. Bundesfinanzminister Klingbeil dämpfte jedoch schnell die Erwartungen an mögliche Mehrausgaben. Er betonte, dass trotz der Mehreinnahmen keine neuen Spielräume für den Bundeshaushalt entstehen. Die zusätzlichen Mittel sind offenbar durch bereits bestehende Verpflichtungen oder andere finanzielle Belastungen gebunden. Genaue Details zu den konkreten Summen und den Ursachen der Mehrausnahmen wurden in den Berichten nicht genannt.",
-    "r": "Die Steuerschätzung ist zentral für die Aufstellung des Bundeshaushalts und die finanzpolitische Planung der Regierung. Die Aussage des Finanzministers verdeutlicht, dass Mehreinnahmen nicht automatisch zu neuen Ausgabenmöglichkeiten führen.",
+    "t": "Steuerschätzung 2027: Höhere Einnahmen für den Bund, aber keine neuen Spielräume",
+    "s": "Trotz anhaltender Krisen kann der Bund im Jahr 2027 mit höheren Steuereinnahmen als zunächst erwartet rechnen. Dennoch warnt Bundesfinanzminister Klingbeil vor neuen finanziellen Spielräumen für den Haushalt. Die offiziellen Prognosen wurden im Rahmen der aktuellen Steuerschätzung bekannt gegeben.",
+    "m": "Die aktuellen Berechnungen der Steuerschätzung für das Jahr 2027 zeigen, dass dem Bund trotz der weltweiten Krisen und wirtschaftlichen Herausforderungen mehr finanzielle Mittel zur Verfügung stehen werden als in früheren Prognosen angenommen. Allerdings stellt Bundesfinanzminister Klingbeil klar, dass diese Mehreinnahmen nicht zu zusätzlichen Spielräumen im Bundeshaushalt führen werden. Grund dafür sind vermutlich bestehende finanzielle Verpflichtungen, steigende Ausgaben in anderen Bereichen oder Vorsichtsmaßnahmen angesichts der unsicheren konjunkturellen Lage. Weitere Details zu den genauen Summen oder den regionalen Verteilungseffekten wurden in den vorliegenden Berichten bisher nicht genannt. Offen bleibt zudem, ob die Länder und Gemeinden ähnlich von den Prognosen profitieren können.",
+    "r": "Die Steuerschätzung ist zentral für die Aufstellung des Bundeshaushalts und zeigt auf, welche finanziellen Mittel dem Staat künftig zur Verfügung stehen. Die Einschätzung des Finanzministers verdeutlicht, dass Mehreinnahmen nicht automatisch zu neuen Ausgabemöglichkeiten führen.",
     "srcs": [
       {
         "name": "Tagesschau",
@@ -458,13 +1094,8 @@
       }
     ],
     "url": "https://www.tagesschau.de/inland/innenpolitik/steuerschaetzung-bund-klingbeil-100.html",
-    "agree": "Beide Quellen stimmen darin überein, dass der Bund trotz höherer Steuereinnahmen im Jahr 2027 keine neuen Spielräume für den Haushalt haben wird.",
-    "diff": [
-      {
-        "name": "Google News DE",
-        "note": "Verweist lediglich per Link auf den Artikel der Tagesschau und enthält keine eigenen zusätzlichen inhaltlichen Informationen."
-      }
-    ],
+    "agree": "Beide Quellen berichten übereinstimmend über die Steuerschätzung 2027, dass der Bund zwar mehr Geld erwartet, aber keine neuen Spielräume entstehen.",
+    "diff": [],
     "chg": "",
     "independent": 2
   },
@@ -472,16 +1103,16 @@
     "id": "story-115edcc28f69a57b",
     "c": "DE",
     "o": "DE",
-    "k": "politik",
+    "k": "wirtschaft",
     "lang": "de",
     "d": "2026-10-22T15:51:46.000Z",
     "p": 3,
     "st": "BY",
     "city": "",
     "t": "Verkehrsminister: Weniger Züge und höhere Preise drohen",
-    "s": "Die Landesverkehrsminister und Bundesverkehrsminister Steffen Bilger haben bei einem Treffen keine Einigung über die Finanzierung der steigenden Kosten im regionalen Zugverkehr erzielt. Infolge des Streits drohen nun Einschränkungen im Nahverkehr für die Fahrgäste. Die Länder kritisieren, dass der Bund mehr finanzielle Mittel verweigert.",
-    "m": "Bei der aktuellen Verkehrsministerkonferenz konnte zwischen den Ländern und Bundesverkehrsminister Steffen Bilger kein Kompromiss zur Bewältigung der steigenden Kosten im regionalen Zugverkehr gefunden werden. Der Bund lehnt zusätzliche Finanzmittel für Bus und Bahn bislang ab, während die Landesverkehrsminister eindringlich vor den Konsequenzen warnen. Durch die blockierten Verhandlungen drohen den Fahrgästen künftig spürbare Leistungseinschränkungen wie Zug-Streichungen, ausgedünnte Fahrpläne sowie steigende Ticketpreise. Die Länder sehen nun die Gefahr, dass das Angebot im öffentlichen Personennahverkehr massiv zurückgefahren werden muss. Bislang ist unklar, wie der finanzielle Fehlbetrag in den kommenden Monaten ausgeglichen werden soll und ob es zu einem erneuten Verhandlungsanlauf kommt.",
-    "r": "Die ungelöste Finanzierungsfrage im regionalen Verkehr betrifft unmittelbar das Mobilitätsangebot und die Ticketpreise für Millionen Fahrgäste in Deutschland. Das Scheitern der Ministergespräche könnte kurzfristig zu konkreten Angebotskürzungen im Nahverkehr führen.",
+    "s": "Die Landesverkehrsminister konnten sich mit dem Bundesverkehrsminister Steffen Bilger bei der Verkehrsministerkonferenz nicht auf mehr Geld für den regionalen Zugverkehr einigen. Der Bund verweigert die geforderten zusätzlichen Mittel zur Bewältigung der steigenden Kosten. Die Länder warnen nun vor spürbaren Konsequenzen für den öffentlichen Nahverkehr.",
+    "m": "Bei der jüngsten Verkehrsministerkonferenz ist ein Streit über die Finanzierung des regionalen Zugverkehrs eskaliert. Eine Einigung der Landesverkehrsminister mit Bundesverkehrsminister Steffen Bilger von der CDU blieb aus, da der Bund zusätzliche finanzielle Mittel verweigert. Als direkte Folge drohen den Fahrgästen laut Angaben der Länder Zug-Streichungen, steigende Ticketpreise sowie stark ausgedünnte Fahrpläne im Bus- und Bahnverkehr. Die Ministerkonferenz zeigt damit erneut die tiefen Differenzen zwischen Bund und Ländern bei der Lastenverteilung im öffentlichen Personennahverkehr auf. Offen bleibt, wie die Länder die Kostensteigerungen ohne Bundesunterstützung auffangen wollen.",
+    "r": "Die fehlende Einigung zur Finanzierung des regionalen Nahverkehrs betrifft Millionen Pendler und Fahrgäste in Deutschland direkt. Sie wirft grundsätzliche Fragen zur Zukunft und Bezahlbarkeit des öffentlichen Verkehrsangebots auf.",
     "srcs": [
       {
         "name": "BR24 Bayern",
@@ -495,15 +1126,15 @@
       }
     ],
     "url": "https://www.br.de/nachrichten/bayern/verkehrsminister-weniger-zuege-und-hoehere-preise-drohen,VYm74fK",
-    "agree": "Die Quellen sind sich einig, dass es bei der Verkehrsministerkonferenz zu keiner Einigung über die Finanzierung kam und den Fahrgästen deshalb höhere Preise oder weniger Züge drohen.",
+    "agree": "Die Quellen sind sich einig, dass es bei der Verkehrsministerkonferenz keine Einigung zwischen Bund und Ländern über die Finanzierung des regionalen Nahverkehrs gab und dadurch höhere Preise oder weniger Züge drohen.",
     "diff": [
       {
         "name": "BR24 Bayern",
-        "note": "Nennt explizit Bundesverkehrsminister Steffen Bilger (CDU) als Gesprächspartner der Landesverkehrsminister."
+        "note": "Nennt den Bundesverkehrsminister namentlich als Steffen Bilger (CDU) und konkretisiert das Problem auf steigende Kosten für den regionalen Zugverkehr."
       },
       {
         "name": "Süddeutsche Zeitung",
-        "note": "Erwähnt allgemein den Bund als Verhandlungspartner und bezieht neben Zügen auch Busse in die Warnungen vor einer Angebotsausdünnung ein."
+        "note": "Führt ergänzend an, dass auch der Busverkehr betroffen ist und die Länder vor einer Angebotsausdünnung warnen."
       }
     ],
     "chg": "",
@@ -516,13 +1147,13 @@
     "k": "wissenschaft",
     "lang": "de",
     "d": "2026-10-22T15:32:01.000Z",
-    "p": 4,
+    "p": 3,
     "st": "",
     "city": "",
-    "t": "Kommunikation mit bewusstlosen Koma-Patienten nach kurzem Training gelungen",
-    "s": "Forschern ist es gelungen, mit bewusstlosen und hirnverletzten Patienten zu kommunizieren. Nach nur kurzem Training konnten die betroffenen Menschen gezielte Signale senden. Die beteiligten Wissenschaftler sehen darin ein enormes Potenzial für künftige medizinische Behandlungen.",
-    "m": "Die erfolgreiche Kommunikation mit bewusstlosen Koma-Patienten eröffnet neue Perspektiven in der Medizin. Nach einer kurzen Trainingsphase waren die hirnverletzten Personen in der Lage, gezielte Signale zu übermitteln. Genauere Details zum genauen Ablauf des Trainings oder zur Art der verwendeten Signale gehen aus den vorliegenden Berichten bisher nicht hervor. Auch über den genauen Kreis der beteiligten Forscher oder beteiligte Einrichtungen gibt es noch keine näheren Angaben. Dennoch bewerten Experten den Durchbruch als vielversprechend für die zukünftige Therapie von Patienten ohne Bewusstsein. Weitere Forschungen und klinische Erprobungen müssen nun zeigen, wie sich diese Ansätze weiterentwickeln und anwenden lassen.",
-    "r": "Der Durchbruch bei der Kommunikation mit Koma-Patienten ist relevant, da er neue Wege für künftige Behandlungen eröffnet. Solche Fortschritte könnten die medizinische Betreuung von hirnverletzten und bewusstlosen Menschen maßgeblich verändern.",
+    "t": "Bereits nach kurzem Training gelang es den Menschen im Koma, gezielte Signale",
+    "s": "Forschern ist ein wichtiger Durchbruch in der Kommunikation mit bewusstlosen, hirnverletzten Patienten gelungen. Nach nur kurzer Trainingszeit schafften es die Betroffenen, gezielte Signale zu senden. Wissenschaftler sehen in diesem Erfolg ein enormes Potenzial für künftige medizinische Behandlungen.",
+    "m": "Die erfolgreiche Kontaktaufnahme zu den im Koma liegenden Menschen eröffnet neue Perspektiven in der Neurologie. Den beteiligten Forschern zufolge konnte die Verbindung nach einem kurzen und gezielten Training der Patienten etabliert werden. Die Betroffenen waren in der Lage, trotz ihres bewusstlosen Zustands kontrollierte Signale zu übermitteln. Ob und wie sich diese Methode auf den Alltag und die langfristige Therapie aller Patienten auswirken wird, ist Gegenstand weiterer Untersuchungen. Experten werten den Ansatz dennoch als bedeutenden Schritt nach vorn.",
+    "r": "Die erfolgreiche Kommunikation mit bewusstlosen Patienten zeigt neue Wege in der neurologischen Behandlung auf. Der Durchbruch könnte die medizinische Betreuung von Koma-Patienten künftig grundlegend verändern.",
     "srcs": [
       {
         "name": "Google News DE",
@@ -536,11 +1167,15 @@
       }
     ],
     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTDhMZ29jZDFrLTNYRVlkSUVfeWpjRFVpcEtxbWQzVFpjWTQ2NlFGSGVwZ2xtbWZWSmE1WGVHd0RBV0NiOGF1b3pVZWQyQ0NqR2xNdmVKbFR0Tmp2Vmd4UHNzZE9IZXN0b2dEeWNUUnZBTEFMYy1yN3ktSWp0UUNVU3NmWnZ3MTdSWkNHbzN0TWd5UWxhT1BQSnJvbjhhLXZzdjhLREwtdGlZLVR4MF94aFljdWZFejVRMG5mYnFqUGVGRHpnVFF3bldVNWgwUHNTZngwamxpeHFlQzRVVHVWc2dEalBYTDFfU2k2N2NZaw?oc=5",
-    "agree": "Beide Quellen stimmen darin überein, dass es Forschern nach kurzem Training gelungen ist, mit Menschen im Koma zu kommunizieren und gezielte Signale zu senden.",
+    "agree": "Die Quellen stimmen überein, dass es Forschern nach kurzem Training gelungen ist, mit hirnverletzten Koma-Patienten zu kommunizieren und gezielte Signale zu empfangen.",
     "diff": [
       {
+        "name": "Google News DE",
+        "note": "Betont im Teaser, dass die Patienten bereits nach kurzem Training gezielte Signale senden konnten."
+      },
+      {
         "name": "WELT",
-        "note": "Ergänzt, dass es sich um hirnverletzte Patienten ohne Bewusstsein handelt und die Forscher darin ein enormes Potenzial für künftige Behandlungen sehen."
+        "note": "Erwähnt zusätzlich, dass Forscher in diesem Erfolg ein enormes Potenzial für künftige Behandlungen sehen."
       }
     ],
     "chg": "",
@@ -556,10 +1191,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Stromsteuer: Bundesländer fordern Senkung für alle ab 2026",
-    "s": "Angesichts hoher Energiepreise fordern die deutschen Bundesländer eine zeitnahe Senkung der Stromsteuer für alle Bürger und Unternehmen. Bisher hatte der Bund Privathaushalte und einzelne Branchen von Entlastungen ausgenommen. Nun verlangen Ministerpräsidenten eine schnellstmögliche Korrektur dieser Regelung ab dem 1. Januar 2026. Ob die Bundesregierung diesen Forderungen nachkommt, ist jedoch noch unklar und die Zweifel an der Umsetzung sind groß.",
-    "m": "Die Ministerpräsidenten der Länder drängen auf eine schnelle Entlastung bei den Energiepreisen und fordern die Bundesregierung auf, die Stromsteuer für sämtliche Verbraucher zu senken. Vor rund einem Jahr hatte der Bund bei entsprechenden Maßnahmen Privathaushalte und bestimmte Branchen von den Vergünstigungen ausgenommen, was nun zu neuerlicher Kritik und der Forderung nach Korrektur führt. Konkret steht ein Termin im Raum: Die Länder verlangen, dass die Änderung bereits zum 1. Januar 2026 umgesetzt wird. Trotz dieser klaren Forderung der Länderseite bleiben erhebliche Zweifel bestehen, ob die Bundesregierung die Pläne in dieser Form und in diesem zeitlichen Rahmen verwirklichen wird. Bisher gibt es keine Zusage der Bundesregierung für eine Ausweitung der Steuerentlastung auf alle Gruppen.",
-    "r": "Die Debatte um die Stromsteuer betrifft die finanzielle Belastung von Millionen Bürgern sowie Unternehmen in Deutschland und berührt damit zentrale Fragen der aktuellen Wirtschaftspolitik.",
+    "t": "Bundesländer fordern Senkung der Stromsteuer für alle ab 2026",
+    "s": "Angesichts hoher Energiepreise fordern die deutschen Bundesländer eine zeitnahe und umfassende Senkung der Stromsteuer. Eine Korrektur soll nach Willen der Ministerpräsidenten bereits ab dem 1. Januar 2026 erfolgen. Bisher waren Privathaushalte und bestimmte Branchen von den Entlastungen ausgenommen worden. Trotz der Forderung nach einer schnellstmöglichen Entlastung für alle Bürger und Unternehmen gibt es jedoch erhebliche Zweifel an der Umsetzung.",
+    "m": "Die Ministerpräsidenten der Bundesländer verlangen eine Korrektur der bisherigen Regelungen zur Stromsteuer, die vor einem Jahr Privathaushalte und einzelne Branchen von Entlastungen ausgenommen hatte. Wegen anhaltend hoher Energiepreise soll die Bundesregierung nun handeln und die Abgabe für alle Verbraucher gleichermaßen senken. Als konkreter Zeitpunkt für diese Maßnahme wird der 1. Januar 2026 genannt. Die Initiative zielt darauf ab, sowohl Unternehmen als auch die Bürger spürbar zu entlasten. Ob die Bundesregierung diesen Forderungen nachkommen wird, ist derzeit noch offen, zumal im politischen Raum große Zweifel an der Machbarkeit oder den finanziellen Folgen geäußert werden. Weitere Details zum genauen Entlastungsumfang oder zur Gegenfinanzierung wurden in den vorliegenden Berichten nicht genannt.",
+    "r": "Die Senkung der Stromsteuer betrifft die finanzielle Belastung von Millionen Bürgern und Unternehmen in Deutschland. Angesichts der anhaltend hohen Energiepreise ist die politische Debatte zwischen Bund und Ländern über Entlastungsmaßnahmen von hoher wirtschaftlicher und gesellschaftlicher Bedeutung.",
     "srcs": [
       {
         "name": "RND",
@@ -573,15 +1208,15 @@
       }
     ],
     "url": "https://www.rnd.de/politik/stromsteuer-laender-fordern-senkung-fuer-alle-ab-1-januar-2026-EDK5ZQ6EOBC7BANFOJF3ZACCSM.html",
-    "agree": "Beide Quellen stimmen darin überein, dass die Bundesländer angesichts hoher Energiepreise eine Senkung der Stromsteuer für alle fordern.",
+    "agree": "Beide Quellen stimmen überein, dass die Bundesländer angesichts hoher Energiepreise eine Senkung der Stromsteuer für alle Bürger und Unternehmen fordern.",
     "diff": [
       {
         "name": "RND",
-        "note": "Nennt das konkrete Datum 1. Januar 2026 für die geforderte Senkung, erwähnt die bisherige Ausnahme für Privathaushalte und Branchen sowie bestehende Zweifel."
+        "note": "nennt den konkreten Termin 1. Januar 2026 für die geforderte Senkung, weist auf die bisherige Ausnahme von Privathaushalten und einzelnen Branchen hin und erwähnt große Zweifel an der Umsetzung."
       },
       {
         "name": "ZDF heute",
-        "note": "Berichtet allgemein über die Forderung nach schnellen Entlastungen für alle Bürger und Unternehmen durch die Bundesregierung."
+        "note": "berichtet allgemein über die Forderung nach zeitnaher Entlastung durch die Bundesregierung ohne Nennung eines Jahresdatums."
       }
     ],
     "chg": "",
@@ -795,16 +1430,16 @@
     "k": "wirtschaft",
     "lang": "de",
     "d": "2026-10-22T13:26:40.000Z",
-    "p": 3,
+    "p": 2,
     "st": "BW",
     "city": "",
     "t": "Drogerie-Unternehmer Erwin Müller gibt Teil der Geschäftsführung ab",
-    "s": "Der 94-jährige Ulmer Drogerie-Unternehmer Erwin Müller hat erstmals einen zweiten Geschäftsführer in die Unternehmensführung geholt. Sascha Zahner rückt in die Führungsspitze der bekannten Müller-Drogeriemärkte auf. Damit stellt der Firmengründer die Weichen für die Zukunft seiner Handelskette neu.",
-    "m": "Der langjährige Alleinentscheider und Gründer der Müller-Drogeriemärkte, Erwin Müller, hat im Alter von 94 Jahren einen entscheidenden Schritt zur Neuaufstellung der Unternehmensführung unternommen. Bisher leitete er die Geschicke der Drogeriekette als alleiniger Chef, erhält nun aber mit Sascha Zahner einen Partner an seine Seite. Zahner steigt offiziell in die Führungsspitze auf und teilt sich fortan die Geschäftsführung mit dem Senior-Unternehmer. Details zu den genauen Aufgabenbereichen von Zahner oder Hintergründen des genauen Zeitpunktes nennen die vorliegenden Berichte nicht. Offen bleibt zudem, welche langfristigen Nachfolgeregelungen mit diesem Schritt verbunden sind.",
-    "r": "Die Personalie markiert einen historischen Wendepunkt für eine der großen deutschen Drogeriemarktketten, da der Firmengründer Erwin Müller im hohen Alter von 94 Jahren erstmals die Führungsebene für einen weiteren Geschäftsführer öffnet.",
+    "s": "Mit 94 Jahren hat der Ulmer Drogerie-Unternehmer Erwin Müller einen zweiten Geschäftsführer an seine Seite geholt. Sascha Zahner rückt in die Führungsspitze der Müller-Drogeriemärkte auf. Damit stellt der Firmengründer die Weichen für die Zukunft des Unternehmens neu. Beide Berichte stimmen überein, dass dieser Schritt eine Neuerung in der Führung darstellt.",
+    "m": "Der langjährige Alleingeschäftsführer und Ulmer Drogerie-Unternehmer Erwin Müller hat im Alter von 94 Jahren die Unternehmensführung erweitert. Neu in die Führungsspitze der Müller-Drogeriemärkte wurde Sascha Zahner berufen. Er fungiert künftig als zweiter Geschäftsführer neben Müller. Damit gibt der Gründer erstmals Teile der operativen Verantwortung ab. Die Bekanntgabe markiert einen wichtigen Schritt in der Nachfolgeregelung des Handelskonzerns. Weitere Details zur genauen Aufgabenteilung zwischen Müller und Zahner wurden in den vorliegenden Berichten nicht genannt.",
+    "r": "Die Erweiterung der Geschäftsführung bei einer großen Drogeriemarktkette durch einen 94-jährigen Gründer ist wirtschaftlich relevant für die Zukunft des Unternehmens. Sie gibt Einblicke in anstehende Nachfolgeregelungen eines bekannten deutschen Handelskonzerns.",
     "srcs": [
       {
-        "name": "SWR Aktuell",
+        "name": "SWR Aktuell Baden-Württemberg",
         "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/erwin-mueller-holt-neuen-geschaeftsfuehrer-100.html",
         "date": "2026-10-22T13:26:40.000Z"
       },
@@ -815,15 +1450,11 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/erwin-mueller-holt-neuen-geschaeftsfuehrer-100.html",
-    "agree": "Die Quellen sind sich einig, dass der 94-jährige Drogerie-Unternehmer Erwin Müller erstmals einen zweiten Geschäftsführer namens Sascha Zahner in die Führungsspitze der Müller-Drogeriemärkte geholt hat.",
+    "agree": "Beide Quellen stimmen überein, dass der 94-jährige Ulmer Drogerie-Unternehmer Erwin Müller mit Sascha Zahner erstmals einen zweiten Geschäftsführer in die Führungsspitze der Müller-Drogeriemärkte berufen hat.",
     "diff": [
       {
-        "name": "SWR Aktuell",
-        "note": "Berichtet, dass Müller 'einen zweiten' Geschäftsführer an seine Seite geholt hat, ohne explizit zu erwähnen, dass dies zum ersten Mal geschieht."
-      },
-      {
         "name": "Tagesschau Regional Baden-Württemberg",
-        "note": "Betont, dass Erwin Müller 'erstmals' einen zweiten Geschäftsführer an seine Seite stellt und damit die Weichen neu stellt."
+        "note": "Erwähnt explizit, dass es sich um das erste Mal handelt, dass Müller einen zweiten Geschäftsführer an seine Seite stellt."
       }
     ],
     "chg": "",
@@ -836,13 +1467,13 @@
     "k": "wirtschaft",
     "lang": "de",
     "d": "2026-10-22T13:12:13.000Z",
-    "p": 3,
+    "p": 2,
     "st": "BY",
     "city": "",
     "t": "Airbnb lockert Check-out-Regeln für Gäste ab November 2026",
-    "s": "Die Plattform Airbnb führt ab November 2026 neue Regeln für den Check-out ein. Gäste sollen künftig weniger Aufgaben wie Geschirrspülen oder Bettenabziehen vor der Abreise erledigen müssen. Die Änderungen bringen jedoch auch Kritik von Vermietern mit sich, die steigende Kosten befürchten.",
-    "m": "Ab dem 20. November 2026 treten neue Bestimmungen für den Check-out bei Airbnb in Kraft, die den Aufenthalt für Gäste erleichtern sollen. Bisher mussten Urlauber oft Hausarbeiten wie das Spülen von Geschirr oder das Abziehen der Betten vor dem Verlassen der Unterkunft erledigen. Diese Pflichten fallen künftig weg, wodurch Gäste entlastet werden. Bei den Vermietern stößt diese Neuerung allerdings auf Kritik und Sorge. Sie befürchten, dass durch den Wegfall dieser Gäste-Pflichten die Aufwandskosten für die Reinigung und Instandhaltung der Unterkünfte steigen. Es bleibt abzuwarten, wie sich diese Regeländerung auf die Preisgestaltung und die Buchungsabläufe auswirkt. Die Plattform selbst reagiert mit diesem Schritt auf wiederkehrende Beschwerden über zu strenge Auflagen am Ende des Aufenthalts.",
-    "r": "Die Regeländerung bei einer der weltweit größten Unterkünfte-Plattformen betrifft Millionen von Reisenden und Vermietern direkt. Sie zeigt, wie Plattformen auf Gäste-Kritik reagieren, wirft jedoch wirtschaftliche Fragen für Anbieter auf.",
+    "s": "Die Buchungsplattform Airbnb führt neue Regeln für den Check-out ein, die ab November 2026 gelten sollen. Künftig müssen Gäste weniger Aufgaben vor ihrer Abreise erledigen. Die Änderung betrifft unter anderem das Spülen von Geschirr.",
+    "m": "Ab dem 20. November 2026 gelten neue Regeln für Gäste auf der Plattform Airbnb. Zu den Aufgaben, die Gäste künftig nicht mehr vor ihrer Abreise erledigen müssen, gehören das Spülen von Geschirr sowie das Abziehen der Betten. Diese Anpassung soll den Check-out unkomplizierter gestalten. Bei Vermietern stößt die Neuerung jedoch auf Kritik. Sie befürchten durch die geänderten Vorgaben steigende Kosten, da möglicherweise mehr Aufwand für die Endreinigung entsteht. Genauere Details zum Umfang der neuen Richtlinien und deren Umsetzung stehen im Detail noch aus.",
+    "r": "Die Änderungen bei den Check-out-Regeln von Airbnb berühren die Interessen von Reisenden sowie Vermietern und könnten Auswirkungen auf Reinigungsaufwand und Kosten haben. Deshalb ist die Anpassung für den Markt relevant.",
     "srcs": [
       {
         "name": "RND",
@@ -856,15 +1487,15 @@
       }
     ],
     "url": "https://www.rnd.de/reise/neue-airbnb-regeln-was-gaeste-beim-check-out-nicht-mehr-tun-muessen-F4SSPX5W6JCLNMAGEXAXHSZD6I.html",
-    "agree": "Sowohl RND als auch BR24 berichten, dass Airbnb neue Regeln für den Check-out einführt, bei denen Gäste künftig bestimmte Aufgaben wie das Spülen von Geschirr nicht mehr erledigen müssen.",
+    "agree": "Beide Quellen stimmen überein, dass Airbnb neue Regeln für den Check-out einführt, bei denen Gäste künftig weniger Aufgaben erledigen müssen.",
     "diff": [
       {
         "name": "RND",
-        "note": "Nennt den Monat November 2026 als Zeitpunkt für die neuen Regeln."
+        "note": "nennt konkret den Starttermin im November 2026, erwähnt jedoch im Gegensatz zu BR24 keine Details zur Kritik von Vermietern oder dem Bettenabziehen."
       },
       {
         "name": "BR24 Bayern",
-        "note": "Erwähnt konkret das Datum 20. November, den Wegfall des Bettenabziehens sowie die Kritik und Kostenbefürchtungen der Vermieter."
+        "note": "nennt das genaue Datum 20. November, führt das konkrete Wegfallen des Bettenabziehens an und berichtet über die Kritik sowie Kostenbefürchtungen der Vermieter."
       }
     ],
     "chg": "",
@@ -877,13 +1508,13 @@
     "k": "technik",
     "lang": "de",
     "d": "2026-10-22T11:15:58.000Z",
-    "p": 3,
+    "p": 4,
     "st": "",
     "city": "",
-    "t": "PHP-Programmierfehler lösen weltweite Cybersecurity-Aktivitäten aus",
-    "s": "Künstliche Intelligenz hat lang verborgene Programmierfehler in PHP aufgedeckt. Dies führte zu einer seltenen und weltweiten Reaktion im Bereich der Cybersicherheit. Die Entdeckung hat eine globale Suche nach Lösungen und Absicherungen in Gang gesetzt.",
-    "m": "Die Programmiersprache PHP steht im Zentrum eines globalen Cybersicherheitsvorfalls, nachdem KI-gestützte Analysen lang unentdeckte Programmierfehler aufgedeckt haben. Dieser Fund löste eine internationale und ungewöhnlich intensive Sicherheitsreaktion aus, um betroffene Systeme zu schützen. Bislang ist bekannt, dass die entdeckten Schwachstellen weltweit in zahlreichen Anwendungen und Servern potenziell ausgenutzt werden könnten. IT-Sicherheitsexperten arbeiten mit Hochdruck daran, die Sicherheitslücken zu analysieren und entsprechende Patches bereitzustellen. Ob bereits konkrete Angriffe auf Basis dieser spezifischen Fehler stattgefunden haben, wird derzeit untersucht. Die genaue Natur der Schwachstellen und die beteiligten Akteure werden im Rahmen der Sicherheitsmaßnahmen analysiert.",
-    "r": "Die Entdeckung von Programmierfehlern in einer weit verbreiteten Programmiersprache betrifft die weltweite IT-Sicherheit. Dies erfordert koordinierte Schutzmaßnahmen und Patches auf globaler Ebene.",
+    "t": "PHP-Programmierfehler lösen globalen Sicherheitsalarm aus",
+    "s": "Künstliche Intelligenz hat lang verborgene Programmierfehler in PHP aufgedeckt. Dies führte zu einer weltweiten Reaktion im Bereich der Cybersicherheit. Bislang gibt es Berichte über einen globalen Sicherheitsalarm, jedoch keine detaillierten offiziellen Schadensmeldungen.",
+    "m": "Die Programmiersprache PHP steht im Fokus eines globalen Cybersicherheitsvorfalls. Auslöser war der Einsatz von Künstlicher Intelligenz, die zuvor unentdeckte und lang verborgene Programmierfehler in der Software aufspürte. Die Entdeckung dieser Sicherheitslücken löste eine seltene und breit angelegte internationale Sicherheitsreaktion aus, um drohende Angriffe und Systemkompromittierungen weltweit abzuwehren. Experten arbeiten an der Analyse und Behebung der Schwachstellen, während Unternehmen und Administratoren weltweit aufgefordert sind, ihre Systeme zu prüfen. Es ist noch unklar, wie viele Organisationen konkret betroffen sind und ob es bereits erfolgreiche Angriffe gab.",
+    "r": "Die Meldung ist von hoher Relevanz, da PHP als Programmiersprache eine massive Verbreitung im Internet besitzt und weltweite Sicherheitslücken kritische Infrastrukturen gefährden können. Ein solcher globaler Alarm erfordert koordinierte Schutzmaßnahmen auf internationaler Ebene.",
     "srcs": [
       {
         "name": "BBC World",
@@ -897,7 +1528,7 @@
       }
     ],
     "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-    "agree": "Beide Quellen stimmen darin überein, dass Programmierfehler in PHP durch künstliche Intelligenz aufgedeckt wurden und dies eine weltweite Cybersicherheitsreaktion auslöste.",
+    "agree": "Beide Quellen stimmen darin überein, dass durch KI verborgene Programmierfehler in PHP aufgedeckt wurden und dies einen globalen Cybersicherheitsalarm auslöste.",
     "diff": [
       {
         "name": "Google News World",
@@ -918,9 +1549,9 @@
     "st": "",
     "city": "",
     "t": "Tote und Verletzte bei Huthi-Angriff auf Flughafen in Saudi-Arabien",
-    "s": "Die jemenitische Huthi-Miliz hat den Flughafen der saudi-arabischen Stadt Dammam attackiert. Bei dem Angriff wurden nach Berichten zwei Menschen getötet und weitere Personen verletzt. Die vom Iran unterstützten Kämpfer nehmen immer wieder Ziele in Saudi-Arabien ins Visier.",
-    "m": "Die jemenitische Huthi-Miliz hat ihre Angriffe auf Ziele in Saudi-Arabien fortgesetzt und dabei den Flughafen der Stadt Dammam ins Visier genommen. Zuvor hatten die vom Iran unterstützten Kämpfer bereits ein Ölfeld attackiert. Nach dem Angriff auf den Flughafen werden nun zwei Todesopfer sowie Verletzte gemeldet. Die Huthi greifen nach übereinstimmenden Berichten immer wieder zivile Ziele in Saudi-Arabien an. Als Reaktion auf die Sicherheitslage kündigten die USA an, diplomatisches Personal abzuziehen. Weitere Details zu den genauen Umfängen des Angriffs oder den Verletzten wurden zunächst nicht bekannt.",
-    "r": "Der Angriff auf einen internationalen Flughafen durch eine bewaffnete Miliz verdeutlicht die anhaltende Bedrohung ziviler Infrastruktur in der Region. Die angekündigte Evakuierung von US-amerikanischem diplomatischem Personal unterstreicht die zunehmenden Sicherheitsrisiken.",
+    "s": "Die jemenitische Huthi-Miliz hat den Flughafen der saudi-arabischen Stadt Dammam attackiert. Bei dem Angriff wurden zwei Menschen getötet und es gibt Verletzte. Die vom Iran unterstützten Kämpfer greifen immer wieder Ziele in Saudi-Arabien an. Als Reaktion auf die Situation kündigten die USA an, diplomatisches Personal abzuziehen.",
+    "m": "Die jemenitische Huthi-Miliz setzt ihre Angriffe auf Ziele in Saudi-Arabien fort. Nach einer früheren Attacke auf ein Ölfeld geriet nun der Flughafen der Stadt Dammam ins Visier der vom Iran unterstützten Kämpfer. Bei dem Angriff auf den Flughafen wurden zwei Menschen getötet und weitere Personen verletzt. Die Miliz verübt regelmäßig Angriffe auf zivile Ziele in dem Nachbarland. Als Konsequenz aus den anhaltenden Spannungen und Sicherheitsrisiken haben die USA angekündigt, ihr diplomatisches Personal aus dem Bereich abzuziehen. Offen bleibt, wie die saudi-arabische Luftverteidigung auf die Attacke reagiert hat und welche diplomatischen oder militärischen Gegenmaßnahmen folgen werden.",
+    "r": "Der Angriff auf einen zivilen Flughafen in Saudi-Arabien und die darauffolgende Ankündigung der USA, diplomatisches Personal abzuziehen, verdeutlichen die Eskalation des Konflikts mit der Huthi-Miliz. Dies betrifft die regionale Sicherheit und internationale diplomatische Präsenz im Land direkt.",
     "srcs": [
       {
         "name": "DW Deutsch",
@@ -934,15 +1565,15 @@
       }
     ],
     "url": "https://www.dw.com/de/tote-bei-huthi-angriff-auf-flughafen-in-saudi-arabien/a-79730390?maca=de-rss-de-all-1119-xml-mrss",
-    "agree": "Beide Quellen berichten übereinstimmend über einen Angriff der Huthi-Miliz auf den Flughafen in Dammam in Saudi-Arabien, der Todesopfer forderte.",
+    "agree": "Beide Quellen stimmen darin überein, dass es bei einem Angriff der Huthi-Miliz auf den Flughafen in Dammam in Saudi-Arabien Todesopfer gab.",
     "diff": [
       {
         "name": "DW Deutsch",
-        "note": "Erwähnt als Hintergrund, dass die Huthi-Miliz zuvor auch ein Ölfeld in Saudi-Arabien angegriffen hat."
+        "note": "Berichtet über einen vorherigen Angriff der Huthi auf ein Ölfeld in Saudi-Arabien."
       },
       {
         "name": "Tagesschau",
-        "note": "Meldet konkret zwei Todesopfer und Verletzte sowie die Ankündigung der USA, diplomatisches Personal abzuziehen."
+        "note": "Meldet konkret Verletzte sowie zwei Todesopfer und erwähnt die Ankündigung der USA, diplomatisches Personal abzuziehen."
       }
     ],
     "chg": "",
@@ -959,9 +1590,9 @@
     "st": "RP",
     "city": "",
     "t": "Haus des Jugendrechts in Mainz setzt auf schnelle Konsequenzen",
-    "s": "In Mainz arbeiten Polizei, Staatsanwaltschaft und Jugendhilfe im sogenannten Haus des Jugendrechts eng zusammen. Ziel dieser Einrichtung ist es, bei straffällig gewordenen Jugendlichen schnelle Konsequenzen anstelle langwieriger Gerichtsverfahren einzuleiten.",
-    "m": "Das Haus des Jugendrechts in Mainz bringt verschiedene Institutionen wie Polizei, Staatsanwaltschaft und Jugendhilfe unter einem gemeinsamen Dach zusammen. Durch diese enge Kooperation sollen Wege verkürzt und jugendliche Straftäter zeitnah mit den Folgen ihres Handelns konfrontiert werden. Statt sofort den traditionellen Weg über ein formelles Gerichtsverfahren zu gehen, stehen alternative und zügige Reaktionen im Vordergrund. Dies soll präventiv wirken und erneuten Straftaten entgegenwirken, indem frühzeitig interveniert wird. Weitere Details zu konkreten Fallzahlen, dem genauen Gründungsdatum oder beteiligten Personen nennen die Berichte nicht.",
-    "r": "Die interdisziplinäre Zusammenarbeit von Behörden bei der Bekämpfung von Jugendkriminalität ist ein relevanter Ansatz in der Kriminalprävention. Das Mainzer Modell zeigt, wie durch gebündelte Kompetenzen Prozesse beschleunigt werden sollen.",
+    "s": "In Mainz arbeiten Polizei, Staatsanwaltschaft und Jugendhilfe im Haus des Jugendrechts eng zusammen. Ziel dieser Einrichtung ist es, bei straffällig gewordenen Jugendlichen schnelle Konsequenzen anstelle langwieriger Gerichtsverfahren herbeizuführen.",
+    "m": "Das Haus des Jugendrechts in Mainz bündelt die Kompetenzen von Polizei, Staatsanwaltschaft und Jugendhilfe unter einem gemeinsamen Dach. Durch die enge Kooperation dieser Institutionen sollen Straftaten von Jugendlichen schneller bearbeitet und sanktioniert werden. Im Fokus stehen dabei zeitnahe und spürbare Reaktionen auf kriminelles Verhalten, um erneuten Regelbrüchen vorzubeugen. Der Ansatz verzichtet in geeigneten Fällen bewusst auf traditionelle Gerichtsverfahren, um erzieherische Maßnahmen direkter wirken zu lassen. Konkrete Fallzahlen oder statistische Auswertungen zur Wirksamkeit nennen die beteiligten Berichte jedoch nicht. Offen bleibt zudem, wie viele Jugendliche das Angebot bereits durchlaufen haben.",
+    "r": "Die interdisziplinäre Zusammenarbeit im Jugendstrafrecht ist ein zentraler Ansatz zur Bekämpfung von Jugendkriminalität. Das Mainzer Modell zeigt, wie Behörden und Jugendhilfe kooperieren, um Prozesse zu beschleunigen.",
     "srcs": [
       {
         "name": "SWR Aktuell",
@@ -975,17 +1606,8 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/rheinland-pfalz/mainz/haus-des-jugendrechts-setzt-auf-hilfe-statt-strafe-102.html",
-    "agree": "Die Quellen stimmen überein, dass in Mainz Polizei, Staatsanwaltschaft und Jugendhilfe im Haus des Jugendrechts zusammenarbeiten, um jugendlichen Straftätern schnelle Konsequenzen statt Gerichtsverfahren aufzuzeigen.",
-    "diff": [
-      {
-        "name": "SWR Aktuell",
-        "note": "Betitelt den Beitrag mit Jugendkriminalität in Mainz: Haus des Jugendrechts setzt Grenzen."
-      },
-      {
-        "name": "Tagesschau Regional Rheinland-Pfalz",
-        "note": "Betitelt den Beitrag mit Jugendkriminalität in Mainz: Wie das Haus des Jugendrechts Grenzen setzt."
-      }
-    ],
+    "agree": "Beide Quellen stimmen überein, dass in Mainz Polizei, Staatsanwaltschaft und Jugendhilfe im Haus des Jugendrechts zusammenarbeiten, um bei straffälligen Jugendlichen schnelle Konsequenzen statt Gerichtsverfahren zu erzielen.",
+    "diff": [],
     "chg": "",
     "independent": 2
   },
@@ -1784,10 +2406,10 @@
     "p": 2,
     "st": "BW",
     "city": "",
-    "t": "Baden-Württembergs Sozialminister Hildenbrand warnt vor Rechtsruck und Druck auf Minderheiten",
-    "s": "Der baden-württembergische Sozialminister Oliver Hildenbrand (Grüne) hat seine Sorge vor einem gesellschaftlichen Rechtsruck geäußert. Er betonte, er wolle sich als Anwalt für Minderheiten und insbesondere die queere Community starkmachen. Dabei äußerte er sich auch kritisch über die AfD. Aktuell sieht er einen zunehmenden Druck auf diese gesellschaftlichen Gruppen.",
-    "m": "Sozialminister Oliver Hildenbrand hat in einer aktuellen Erklärung vor einem spürbaren Rechtsruck im Land gewarnt und dabei konkrete Sorgen um den gesellschaftlichen Zusammenhalt geäußert. Er kündigte an, sich besonders für die Rechte und den Schutz von Minderheiten einzusetzen und verstand sich explizit als Anwalt der queeren Community. Im Rahmen seiner Äußerungen fand der Grünen-Politiker auch deutliche Worte zur AfD, deren Haltung und Einfluss er kritisch sieht. Hintergrund sind wahrgenommene Tendenzen einer zunehmenden gesellschaftlichen und politischen Verrohung. Konkrete Vorfälle oder Zahlen wurden in den Berichten nicht genannt. Offen bleibt, welche konkreten politischen Maßnahmen oder Programme das Ministerium zur Stärkung der queeren Community umsetzen will.",
-    "r": "Die Aussagen eines Landesministers zu gesellschaftlichen Strömungen und Minderheitenrechten verdeutlichen die aktuellen politischen Debatten in Baden-Württemberg. Die Positionierung gegenüber der AfD und der Fokus auf die queere Community zeigen die inhaltlichen Schwerpunkte der Landespolitik auf.",
+    "t": "Baden-Württembergs Sozialminister Hildenbrand warnt vor Rechtsruck",
+    "s": "Der baden-württembergische Sozialminister Oliver Hildenbrand äußert Besorgnis über einen zunehmenden Druck auf Minderheiten. Er betont die Notwendigkeit, sich für diese Gruppen starktzumachen. Dabei positioniert er sich auch deutlich gegenüber der AfD.",
+    "m": "Sozialminister Oliver Hildenbrand hat in einer aktuellen Erklärung vor einem spürbaren Rechtsruck gewarnt. Der Grünen-Politiker sieht insbesondere Minderheiten in der Gesellschaft vermehrt unter Druck geraten. Vor diesem Hintergrund kündigte er an, als politischer Anwalt für die queere Community einstehen zu wollen. Zudem äußerte er sich sehr kritisch und mit klaren Worten zur AfD. Bislang wurden keine weiteren Details zu konkreten politischen Maßnahmen oder Programmen genannt. Die Aussagen unterstreichen die Sorge der Landesregierung vor gesellschaftlichen Polarisierungen. Es bleibt abzuwarten, welche praktischen Schritte aus dieser Ankündigung folgen werden.",
+    "r": "Die Aussagen des Landesministers spiegeln die aktuellen politischen Debatten zum Schutz von Minderheiten und dem Umgang mit rechtspopulistischen Parteien wider. Sie zeigen die Haltung der grün geführten Landesregierung in Baden-Württemberg auf.",
     "srcs": [
       {
         "name": "Tagesschau Regional Baden-Württemberg",
@@ -1801,7 +2423,7 @@
       }
     ],
     "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-sozialminister-bw-sorgt-sich-um-minderheiten-hildenbrand-will-anwalt-der-queeren-community-sein-100.html",
-    "agree": "Beide Quellen stimmen überein, dass der grün-alternativ geführte baden-württembergische Sozialminister Oliver Hildenbrand vor einem Rechtsruck warnt, sich als Anwalt der queeren Community versteht und klare Worte zur AfD findet.",
+    "agree": "Beide Quellen stimmen darin überein, dass Sozialminister Oliver Hildenbrand vor einem Rechtsruck und Druck auf Minderheiten warnt und sich als Anwalt der queeren Community versteht.",
     "diff": [],
     "chg": "",
     "independent": 2
@@ -15442,626 +16064,5 @@
     ],
     "chg": "",
     "independent": 2
-  },
-  {
-    "id": "story-07b7645199801de8",
-    "c": "INT",
-    "o": "DE",
-    "k": "technik",
-    "lang": "de",
-    "d": "2026-10-17T07:23:00.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "US-Verkehrsbehörde prüft fliegenden Tesla-Roadster",
-    "s": "Ein fliegender Tesla-Roadster hat die Aufmerksamkeit der US-Verkehrsbehörde auf sich gezogen. Es steht die Frage im Raum, ob die geplante Variante gegen Sicherheitsvorschriften und Verkehrsregeln verstößt. Elon Musk hatte zuvor angekündigt, dass das Fahrzeug in Produktion gehen soll.",
-    "m": "Die US-Verkehrsbehörde NHTSA oder eine entsprechende Aufsichtsbehörde wurde durch die Ankündigung eines fliegenden Tesla-Roadsters alarmiert. Unternehmenschef Elon Musk hat laut Berichten erklärt, dass der Roadster im Jahr 2028 in die Produktion gehen soll. Potenzielle Kunden haben bereits jetzt die Möglichkeit, das Fahrzeug über die offizielle Website von Tesla zu reservieren. Im Zentrum der Diskussion steht die sogenannte Rocket-Variante des Sportwagens, bei der geprüft wird, inwiefern sie mit geltenden Sicherheitsvorschriften und Verkehrsregeln vereinbar ist. Bisher ist unklar, wie die Regulierungsbehörden das Konzept bewerten und welche technischen Anpassungen für eine Zulassung erforderlich wären.",
-    "r": "Die behördliche Prüfung eines angekündigten Elektroautos mit Flug- oder Raketenfunktionen berührt grundlegende Fragen der Verkehrssicherheit und der Zulassung neuartiger Fahrzeugkonzepte.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVnBDc2c1VEdScnJ2NXBObXBuLXlyRTZsNmZJTnFfRFZXTmI4Z1ZORHp5M2JPVTRwRnZudlJCTUx1QVJwQm5sd09oZm5oWlJia2lELWNDUnMxcGZFSEhWdERGenduX3IxWE83aF91ZVpOd3RLY1d1akdBQXBBY1JHazBia0RuUm91Z0pNTmVEUl9CNklVM0YzVElhWldwZDdBd3ZmQ1d1SnlTV2ZHcmNwMA?oc=5",
-        "date": "2026-10-17T07:23:00.000Z"
-      },
-      {
-        "name": "Frankfurter Allgemeine",
-        "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/tesla-roadster-nhtsa-mahnt-elon-musk-zur-einhaltung-der-verkehrsregeln-accg-201591956.html",
-        "date": "2026-10-17T02:21:14.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVnBDc2c1VEdScnJ2NXBObXBuLXlyRTZsNmZJTnFfRFZXTmI4Z1ZORHp5M2JPVTRwRnZudlJCTUx1QVJwQm5sd09oZm5oWlJia2lELWNDUnMxcGZFSEhWdERGenduX3IxWE83aF91ZVpOd3RLY1d1akdBQXBBY1JHazBia0RuUm91Z0pNTmVEUl9CNklVM0YzVElhWldwZDdBd3ZmQ1d1SnlTV2ZHcmNwMA?oc=5",
-    "agree": "Die Quellen sind sich einig, dass ein fliegender Tesla-Roadster die US-Verkehrsbehörde auf den Plan gerufen hat.",
-    "diff": [
-      {
-        "name": "Google News DE",
-        "note": "Erwähnt die Berichterstattung von derStandard.de zu dem Vorfall."
-      },
-      {
-        "name": "Frankfurter Allgemeine",
-        "note": "Nennt Details von Elon Musk, wonach der Roadster 2028 in Produktion gehen soll, Kunden ihn bereits reservieren können und die 'Rocket'-Variante im Fokus steht."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-fd7c8a0e634bf3b7",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-17T06:30:12.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Arbeitsminister Schweitzer strebt Kompromiss bei Rente mit 63 an",
-    "s": "Bundesarbeitsminister Alexander Schweitzer setzt sich für einen Kompromiss in der Diskussion um die sogenannte Rente mit 63 ein. Hintergrund ist die Empfehlung einer Rentenkommission zur Abschaffung der abschlagsfreien Frührente nach 45 Beitragsjahren. Das Thema sorgt für politischen Diskurs innerhalb der schwarz-roten Koalition.",
-    "m": "Die Debatte um die Rente mit 63 steht im Fokus aktueller politischer Beratungen. Eine eingesetzte Rentenkommission empfiehlt die Abschaffung der abschlagsfreien Frührente nach 45 Beitragsjahren, was zu Diskussionen führt. Bundesarbeitsminister Alexander Schweitzer hat angekündigt, einen Kompromiss anstreben zu wollen. Er sieht bezüglich dieser umstrittenen Rentenform noch intensiven politischen Gesprächsbedarf innerhalb der schwarz-roten Koalition. Offen bleibt, wie eine konkrete Einigung zwischen den unterschiedlichen Positionen in der Regierung aussehen könnte. Die Entscheidung hat erhebliche Relevanz für die zukünftige Rentenpolitik in Deutschland.",
-    "r": "Die Diskussion berührt grundlegende Weichenstellungen der deutschen Rentenpolitik und betrifft Millionen Arbeitnehmer sowie die Stabilität der Koalition. Eine Reform der Frührente hat weitreichende finanzielle und gesellschaftliche Folgen.",
-    "srcs": [
-      {
-        "name": "t-online Nachrichten",
-        "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101485570/rente-mit-63-arbeitsminister-alexander-schweitzer-strebt-kompromiss-an.html",
-        "date": "2026-10-17T06:30:12.000Z"
-      },
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/inland/schweitzer-rente-kompromiss-100.html",
-        "date": "2026-10-17T01:50:50.000Z"
-      }
-    ],
-    "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101485570/rente-mit-63-arbeitsminister-alexander-schweitzer-strebt-kompromiss-an.html",
-    "agree": "Beide Quellen sind sich einig, dass Bundesarbeitsminister Alexander Schweitzer einen Kompromiss bei der Rente mit 63 anstrebt.",
-    "diff": [
-      {
-        "name": "t-online Nachrichten",
-        "note": "Erwähnt konkret die Empfehlung einer Rentenkommission zur Abschaffung der Frührente nach 45 Beitragsjahren."
-      },
-      {
-        "name": "Tagesschau",
-        "note": "Berichtet, dass Schweitzer Kompromissbereitschaft in der schwarz-roten Koalition fordert und verweist auf anstehende politische Debatten."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-6f4573ebf1720a52",
-    "c": "INT",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-17T06:02:26.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Supertanker fährt in Straße von Hormus auf Seemine",
-    "s": "In der strategisch wichtigen Straße von Hormus ist ein Supertanker auf eine Seemine gefahren. Nach Angaben der iranischen Revolutionsgarde kam es an Bord des Schiffes zu einer Explosion und einem Brand. Der Zwischenfall ereignet sich im Kontext des anhaltenden Konflikts in der Region.",
-    "m": "Der Vorfall betrifft einen Supertanker, der in der Straße von Hormus unterwegs war und dort auf eine Seemine fuhr. Über das genaue Ausmaß der Beschädigungen an dem Schiff sowie über mögliche Verletzte oder Todesopfer unter der Besatzung liegen bislang keine offiziellen Angaben vor. Die iranische Revolutionsgarde bestätigte den Vorfall, der durch eine Explosion und einen anschließenden Brand an Bord gekennzeichnet war. Die Straße von Hormus ist eine der weltweit wichtigsten Seeschifffahrtsstraßen für den globalen Öltransport, weshalb Zwischenfälle in diesem Gebiet internationale Besorgnis auslösen. Weitere Details zum Verbleib des Tankers und zur aktuellen Lage vor Ort sind derzeit noch nicht bekannt.",
-    "r": "Die Straße von Hormus ist eine zentrale Lebensader für den weltweiten Öltransport, weshalb Zwischenfälle mit Tankern gravierende Auswirkungen auf die globale Wirtschaft und Sicherheit haben können. Die Meldung dokumentiert eine konkrete Eskalation in diesem Seegebiet.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNHN5SzVMcXZMZkZzNXVZdGxocW9hWWtaenFzY0MtWjlLR3pzeXRwYWpxa283LTJuV1FXYkdUUFlSOHAtRGIyOE5xQ2JvbmNWZllMOTZibkFHdUFNdWVUY0Y0VEhaNkJqX0RYd2d0S0ZaVkpqSkJiWUJwUjl6MnpIZ1JxRVMydjhZaHBYMU90QldYYm1yU0ZjdXRXQ052Sk5rZ01aUExRanVpODE5a3hpOWZIQ1RRM0EwN0VGZEFQWWVpZzQwZDh1VkdHcUZnTTA?oc=5",
-        "date": "2026-10-17T06:02:26.000Z"
-      },
-      {
-        "name": "Süddeutsche Zeitung",
-        "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-news-iran-supertanker-strasse-von-hormus-seemine-li.3560260",
-        "date": "2026-10-17T05:34:57.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNHN5SzVMcXZMZkZzNXVZdGxocW9hWWtaenFzY0MtWjlLR3pzeXRwYWpxa283LTJuV1FXYkdUUFlSOHAtRGIyOE5xQ2JvbmNWZllMOTZibkFHdUFNdWVUY0Y0VEhaNkJqX0RYd2d0S0ZaVkpqSkJiWUJwUjl6MnpIZ1JxRVMydjhZaHBYMU90QldYYm1yU0ZjdXRXQ052Sk5rZ01aUExRanVpODE5a3hpOWZIQ1RRM0EwN0VGZEFQWWVpZzQwZDh1VkdHcUZnTTA?oc=5",
-    "agree": "Beide Quellen berichten übereinstimmend, dass ein Supertanker in der Straße von Hormus auf eine Seemine gefahren ist.",
-    "diff": [
-      {
-        "name": "Google News DE",
-        "note": "Meldet den Vorfall unter Berufung auf das Handelsblatt."
-      },
-      {
-        "name": "Süddeutsche Zeitung",
-        "note": "Ergänzt, dass die iranische Revolutionsgarde von einer Explosion und einem Brand an Bord des Schiffes berichtet."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-ae57ad013060d4b8",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-17T04:44:51.000Z",
-    "p": 4,
-    "st": "BY",
-    "city": "",
-    "t": "US-Präsident Donald Trump setzt geplante Russland-Sanktionen aus",
-    "s": "US-Präsident Donald Trump hat per Dekret geplante Strafmaßnahmen gegen Russland kurz vor deren Inkrafttreten vorerst außer Kraft gesetzt. Das im Kongress beschlossene Sanktionspaket sollte unter anderem den Kreml wegen des Ukraine-Kriegs stärker unter Druck setzen. Trump begründete den Schritt mit dem nationalen Interesse der Vereinigten Staaten.",
-    "m": "Das im US-Kongress beschlossene Gesetz sah vor, neue Strafmaßnahmen gegen Russland in wenigen Tagen in Kraft zu setzen. Durch das aktuelle Dekret von US-Präsident Donald Trump wurde dieses Sanktionspaket nun vorerst auf Eis gelegt. Offiziell wurde dieser Schritt damit begründet, dass er im nationalen Interesse der USA liege. Ziel des ursprünglichen Gesetzes war es insbesondere, den Kreml im Zusammenhang mit dem anhaltenden Ukraine-Krieg stärker unter Druck zu setzen. Es bleibt zunächst offen, ob und wann die Sanktionen zu einem späteren Zeitpunkt wieder aufgegriffen oder dauerhaft gestrichen werden.",
-    "r": "Die Entscheidung der US-Regierung, geplante Russland-Sanktionen kurz vor Inkrafttreten auszusetzen, ist von internationaler Bedeutung für die geopolitische Lage und den Verlauf des Ukraine-Kriegs. Sie zeigt den außenpolitischen Kurs der US-Führung unter Donald Trump in Bezug auf den Kreml.",
-    "srcs": [
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/trump-setzt-sanktionen-gegen-russland-aus,VY0QBSm",
-        "date": "2026-10-17T04:44:51.000Z"
-      },
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/politik/ausland/usa-zoelle-russland-oel-sanktionen-trump-ukraine-krieg-100.html",
-        "date": "2026-10-17T03:32:00.000Z"
-      }
-    ],
-    "url": "https://www.br.de/nachrichten/deutschland-welt/trump-setzt-sanktionen-gegen-russland-aus,VY0QBSm",
-    "agree": "Beide Quellen stimmen darin überein, dass US-Präsident Donald Trump geplante Sanktionen gegen Russland kurz vor dem Inkrafttreten ausgesetzt hat.",
-    "diff": [
-      {
-        "name": "BR24 Bayern",
-        "note": "Erwähnt zusätzlich, dass die Maßnahme per Dekret erfolgte und dies im nationalen Interesse der USA liege."
-      },
-      {
-        "name": "ZDF heute",
-        "note": "Erwähnt zusätzlich, dass das Gesetz den Kreml wegen des Ukraine-Kriegs stärker unter Druck setzen sollte."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-2043ac6abe74d5d3",
-    "c": "INT",
-    "o": "DE",
-    "k": "sport",
-    "lang": "de",
-    "d": "2026-10-17T04:30:48.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Deutsche Ü80-Fußball-Nationalmannschaft gewinnt Weltmeisterschaft",
-    "s": "Die deutsche Ü80-Fußball-Nationalmannschaft hat in Australien die Weltmeisterschaft gewonnen. Im Finale setzte sich das Team gegen die USA durch. Zuvor gab es unter anderem einen Erfolg gegen Japan.",
-    "m": "Das deutsche Ü80-Senioren-Nationalteam sicherte sich den Weltmeistertitel im Fußball in Australien. Im Endspiel trafen die deutschen Spieler auf die USA und konnten diese besiegen. Auf dem Weg ins Finale mussten die Senioren auch gegen Japan antreten und sich gegen diese Mannschaft durchsetzen, obwohl die japanischen Spieler laut Bericht einen gewissen Vorteil besaßen. Genauere Details zum Turnierverlauf, zum genauen Finalergebnis oder zu den beteiligten Spielern nennen die vorliegenden Berichte nicht.",
-    "r": "Der Sieg einer Senioren-Nationalmannschaft bei einer Weltmeisterschaft in dieser Altersklasse ist ein bemerkenswerter sportlicher Erfolg mit internationalem Charakter. Das Turnier fand in Australien statt und endete mit einem deutschen Finalerfolg gegen die USA.",
-    "srcs": [
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/sport/article6ad2f28e51e5094f7a56f55e/gegen-usa-deutsche-ue80-senioren-gewinnen-fussball-weltmeisterschaft.html",
-        "date": "2026-10-17T04:30:48.000Z"
-      },
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/news/2026-10/17/deutsche-ue80-senioren-gewinnen-fussball-weltmeisterschaft",
-        "date": "2026-10-17T03:55:05.000Z"
-      }
-    ],
-    "url": "https://www.welt.de/sport/article6ad2f28e51e5094f7a56f55e/gegen-usa-deutsche-ue80-senioren-gewinnen-fussball-weltmeisterschaft.html",
-    "agree": "Beide Quellen stimmen überein, dass die deutsche Ü80-Fußball-Nationalmannschaft die Weltmeisterschaft gewonnen hat.",
-    "diff": [
-      {
-        "name": "WELT",
-        "note": "Berichtet zusätzlich, dass das Turnier in Australien stattfand, das Finale gegen die USA gewonnen wurde und im Turnierverlauf auch Japan geschlagen wurde, das einen gewissen Vorteil hatte."
-      },
-      {
-        "name": "ZEIT ONLINE",
-        "note": "Enthält im Vergleich zur WELT keine zusätzlichen Details zum Turnierverlauf oder den Austragungsorten."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-e0ae1b267e99629f",
-    "c": "INT",
-    "o": "UK",
-    "k": "technik",
-    "lang": "de",
-    "d": "2026-10-17T04:00:20.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Cyber-Angriff manipuliert Supermarkt-Kühlungen in Frankreich",
-    "s": "Bei einem ungewöhnlichen Cyber-Angriff in Frankreich wurden die digitalen Thermostate zahlreicher Supermärkte manipuliert. Kurz vor Mitternacht am vergangenen Sonntag stiegen die Temperaturen in tausenden Kühl- und Gefrierschränken stark an. Dies führte zu erheblichen Mengen verdorbenen Lebensmitteln und einem großen Berg an Abfall. Die Hintergründe und die Identität der Täter sind bislang unklar.",
-    "m": "Der Vorfall betrifft Hunderte Supermärkte in ganz Frankreich, was das Land zu einem stark von Cyber-Angriffen betroffenen Ziel macht. Die Angreifer übernahmen aus der Ferne die Kontrolle über die digitalen Thermostate von Kühl- und Gefrieranlagen sowie Kühlregalen. Die Temperaturen wurden von extrem kalten minus 27 Grad Celsius auf über 50 Grad Celsius erhöht. Durch diese plötzliche Hitze begann die gelagerte Ware zu kochen und zu verderben, was zu einem riesigen Berg an Lebensmittelabfällen führte. Bisher ist völlig unklar, ob es sich bei dem Angriff um eine Demonstration jugendlicher Fähigkeiten oder um staatliche Sabotage handelte. Der genaue Schaden sowie mögliche Auswirkungen auf die Lieferketten werden noch untersucht.",
-    "r": "Der Vorfall zeigt die Verletzlichkeit digitaler Infrastrukturen im Einzelhandel gegenüber Sabotage und Cyber-Angriffen. Solche Attacken können zu massiven materiellen Schäden und Lebensmittelverschwendung führen. Die Motive und Urheber der Attacke sind Gegenstand von Spekulationen.",
-    "srcs": [
-      {
-        "name": "Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges",
-        "date": "2026-10-17T04:00:20.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNczRyZzMxYUQ2czlMMVZ4b1MwMVBHMUp6TUF0em9tZnh2Ukd0Q2lSckx1SW1Wd1JYLXpEQzRmMzlIS0VZSmZmY3lBOWJRbVMxemVxZFJsOVEyMjZOYW1LeTB2R1VMbEp5LU1XUmd6LUs5a1hwWkZXc0Q2d2VQUDZRSzdHQVNtc2NmaUd5cw?oc=5",
-        "date": "2026-10-17T04:00:00.000Z"
-      }
-    ],
-    "url": "https://www.theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges",
-    "agree": "Beide Quellen berichten über den Cyber-Angriff auf die Kühlsysteme von Supermärkten in Frankreich, der zu Lebensmittelabfällen führte.",
-    "diff": [
-      {
-        "name": "Guardian World",
-        "note": "Liefert detaillierte Informationen zum Tathergang, darunter die genaue Uhrzeit (kurz vor Mitternacht am vergangenen Sonntag), die Temperaturänderung von minus 27 auf über 50 Grad Celsius sowie die Frage nach den Hintergründen (Jugendliche oder Staatssabotage)."
-      },
-      {
-        "name": "Google News World",
-        "note": "Verweist lediglich auf den Artikel des Guardian ohne eigene Zusatzinformationen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-8a1efdd814298461",
-    "c": "INT",
-    "o": "UK",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-17T03:11:10.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Drei Männer wegen Mordes an Surfern in Mexiko zu Haftstrafen verurteilt",
-    "s": "Ein Gericht in Mexiko hat drei Männer zu jeweils 158 Jahren Haft verurteilt. Sie wurden des Mordes an zwei australischen Brüdern und einem US-amerikanischen Surfer schuldig gesprochen. Die Tat ereignete sich während eines Surfausflugs.",
-    "m": "Die australischen Brüder Jake und Callum Robinson sowie ihr US-amerikanischer Freund Carter Rhoad wurden auf einer gemeinsamen Surfreise in Mexiko getötet. Den ermittelten Erkenntnissen zufolge geschah die Tötung im Rahmen eines missglückten Raubüberfalls. Nun wurden drei Tatverdächtige zu außergewöhnlich langen Gefängnisstrafen von jeweils 158 Jahren verurteilt. Die genauen Umstände des Raubes sowie die Beweislage führten zu diesem Schuldspruch durch die mexikanischen Behörden. Der Fall hatte international für Aufsehen gesorgt und verdeutlicht die anhaltenden Probleme mit Gewaltkriminalität in bestimmten Regionen Mexikos.",
-    "r": "Die Verurteilung von drei Männern zu jeweils 158 Jahren Haft wegen Mordes an ausländischen Touristen ist ein drastisches Urteil im Bereich der internationalen Kriminalität. Der Vorfall beleuchtet zudem Sicherheitsrisiken für Touristen in Mexiko.",
-    "srcs": [
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-17T03:11:10.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Td2ZsbFdISWxWS2JJcWMxUjhBUVdqb1RzWXRIeUxubjhnMUhQTVpCcnMtd1YwU3ZoZjJ3UkYxTlhVUDEyMVg3Vmo2T2ZNNHVJOHZxMGpXUHNHRlE?oc=5",
-        "date": "2026-10-17T03:11:10.000Z"
-      }
-    ],
-    "url": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
-    "agree": "Die Quellen stimmen überein, dass drei Männer zu jeweils 158 Jahren Haft für den Mord an australischen und US-amerikanischen Surfern in Mexiko verurteilt wurden.",
-    "diff": [
-      {
-        "name": "BBC World",
-        "note": "Erwähnt die Namen der Opfer (Jake und Callum Robinson sowie Carter Rhoad) und nennt die Tatursache als gescheiterten Raubüberfall."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-6e9157bff0a62e06",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-17T03:07:59.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Trumps Pressesprecherin Zacharia gibt Amt nach kurzer Zeit wieder auf",
-    "s": "Die erst kürzlich angetretene neue Pressesprecherin von US-Präsident Donald Trump, Katie Zacharia, gibt ihr Amt bereits wieder auf. Berichten zufolge verlässt sie den Posten nach kurzer Zeit. Nähere offizielle Details zum genauen Zeitpunkt und den Umständen des Rücktritts wurden zunächst nicht flächendeckend genannt.",
-    "m": "Die gerade erst angetretene neue Pressesprecherin von US-Präsident Donald Trump, Katie Zacharia, legt ihr Amt wieder nieder. Laut übereinstimmenden Medienberichten zieht sie damit bereits kurz nach ihrem Amtsantritt die Konsequenzen. Der Rücktritt erfolgt demnach infolge von falschen Angaben, die sie in ihrem Lebenslauf gemacht hatte. Weitere Einzelheiten zu den internen Reaktionen im Weißen Haus oder zur Nachfolge der Pressesprecherin sind aus den vorliegenden Berichten bisher nicht bekannt. Der genaue zeitliche Ablauf der Demission wird in den Quellen ebenfalls nicht detailliert weiter ausgeführt.",
-    "r": "Personalwechsel auf Führungsebene im Weißen Haus sind für die politische Berichterstattung und die Administration von US-Präsident Trump von hoher Bedeutung. Der Vorfall wirft ein Schlaglicht auf die internen Personalprüfungen vor der Besetzung wichtiger Regierungsämter.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/trumps-pressesprecherin-zacharia-tritt-wieder-ab-110.html",
-        "date": "2026-10-17T03:07:59.000Z"
-      },
-      {
-        "name": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/ausland/amerika/zacharia-sprecherin-trump-100.html",
-        "date": "2026-10-16T19:45:01.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/trumps-pressesprecherin-zacharia-tritt-wieder-ab-110.html",
-    "agree": "Beide Quellen stimmen überein, dass die erst kürzlich angetretene neue Pressesprecherin von US-Präsident Trump, Katie Zacharia, ihr Amt bereits wieder aufgibt.",
-    "diff": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "note": "Berichtet lediglich allgemein über die Aufgabe des Amtes."
-      },
-      {
-        "name": "SWR Aktuell",
-        "note": "Ergänzt, dass der Rücktritt aufgrund falscher Angaben zum Lebenslauf erfolgt ist und nennt den vollständigen Vornamen Katie."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-b94fa1412778d8f8",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-17T02:59:00.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Donald Trump stoppt geplante US-Zölle gegen Russland",
-    "s": "Der US-Kongress hatte weitreichende Sanktionen und Zölle gegen Russland geplant, um das Land im Ukrainekrieg unter Druck zu setzen. US-Präsident Donald Trump hat dieses Vorhaben nun gestoppt. Als Grund für die Aussetzung nannte er das nationale Interesse der Vereinigten Staaten.",
-    "m": "Mit dem Vorhaben wollte der US-Kongress den Angreifer Russland im anhaltenden Ukrainekrieg massiv unter Druck setzen, um den Konflikt zu beeinflussen. Konkret waren weitreichende Sanktionen und Zölle vorgesehen, die nun jedoch nicht wie geplant umgesetzt werden. US-Präsident Donald Trump hat die Maßnahmen überraschend ausgesetzt. Zur Begründung verwies er auf das sogenannte nationale Interesse der USA. Welche konkreten wirtschaftlichen oder politischen Konsequenzen dieser Schritt für das Verhältnis zu Russland und den Verbündeten haben wird, ist derzeit noch offen. Auch Details zu einer möglichen Wiederaufnahme der Pläne in der Zukunft wurden zunächst nicht genannt.",
-    "r": "Die Entscheidung der US-Regierung beeinflusst den internationalen Umgang mit Russland im Ukrainekrieg. Sie zeigt den konkreten Einfluss des Präsidenten auf geplante Gesetzgebungsverfahren und Sanktionen des Kongresses.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZWktRkl3S29ncTFDYTh3LUhkSUh1blZvM3Y3ZldHWHpXNWgxNGxybUUzZXR6SFpQSGwtcGh3LXNhSnVJcjdsbXJGdUVZOW1oWE1pLW5JNHBZek5qV1M4dWRpZjd3WEJCRnM5OGEyYW96Ym45bnFpZFFrenphdE5Xamx4aHkwT1pTbzBNa001SnVYZTdqdUpFM2libXQzcGlVdzNCa3dRa0VpRl9fcWtydDlJc3BVQVJfOHlIcA?oc=5",
-        "date": "2026-10-17T02:59:00.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/ausland/donald-trump-stoppt-geplante-zoelle-gegen-russland-a-df6895bf-8a7f-4e7b-8233-6cde66878ea2#ref=rss",
-        "date": "2026-10-17T02:59:00.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZWktRkl3S29ncTFDYTh3LUhkSUh1blZvM3Y3ZldHWHpXNWgxNGxybUUzZXR6SFpQSGwtcGh3LXNhSnVJcjdsbXJGdUVZOW1oWE1pLW5JNHBZek5qV1M4dWRpZjd3WEJCRnM5OGEyYW96Ym45bnFpZFFrenphdE5Xamx4aHkwT1pTbzBNa001SnVYZTdqdUpFM2libXQzcGlVdzNCa3dRa0VpRl9fcWtydDlJc3BVQVJfOHlIcA?oc=5",
-    "agree": "Donald Trump hat geplante Zölle gegen Russland gestoppt und sich dabei auf das nationale Interesse der USA berufen.",
-    "diff": [
-      {
-        "name": "Google News DE",
-        "note": "Verweist in der Überschrift auf den SPIEGEL-Artikel als Quelle."
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "Liefert den vollständigen Kontext zu den geplanten Sanktionen des US-Kongresses und der Begründung durch das nationale Interesse."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-e40e32ab7a394b12",
-    "c": "INT",
-    "o": "UK",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-17T02:52:59.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Mexikanisches Gericht verurteilt drei Männer zu langen Haftstrafen nach Surfer-Mord",
-    "s": "Ein Richter in Mexiko hat drei Männer wegen des Mordes an zwei australischen Brüdern und deren US-amerikanischem Freund zu jeweils über 158 Jahren Haft verurteilt. Die Bluttat ereignete sich im Jahr 2024 während eines Surfausflugs im mexikanischen Bundesstaat Baja California. Die Täter wurden nun für ihre Verbrechen zur Rechenschaft gezogen.",
-    "m": "Die drei Opfer, die australischen Brüder Jake und Callum Robinson sowie ihr amerikanischer Freund Carter Rhoad, befanden sich im Jahr 2024 auf einer Surfreise in Baja California, als sie getötet wurden. Nun hat ein mexikanisches Gericht ein hartes Urteil gesprochen und die drei Angeklagten zu jeweils 158 Jahren und neun Monaten Gefängnis verurteilt. Die genauen Umstände des Verbrechens und die Beweisführung führten zu diesem Schuldspruch. Der Fall hatte international für Aufsehen gesorgt, insbesondere in Australien und den USA. Mit dem Urteil ist ein wichtiger Schritt zur Aufarbeitung des Verbrechens getan, während die genauen Motive der Täter im Rahmen des Prozesses beleuchtet wurden. Die Angeklagten müssen ihre langen Haftstrafen nun antreten.",
-    "r": "Die Verurteilung von drei Männern zu extrem langen Haftstrafen wegen Mordes an ausländischen Touristen in Mexiko ist ein international beachteter Kriminalfall. Das Urteil zeigt das Vorgehen der mexikanischen Justiz in Fällen von Gewaltverbrechen gegen Touristen.",
-    "srcs": [
-      {
-        "name": "Guardian World",
-        "url": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb",
-        "date": "2026-10-17T02:52:59.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVlJ5TTkzWWhTYXF5d2pvVGw5UGMtek5wS1FVdldlNnRsMFVLbm9lR0dPeXptcDBHSWZKckttcW9TOWlFeFlTaElMRk9JLThsSUlPRnZZQnhNcmxBTHNWLVRuYkhMcmtkd0IycFNFOWk5YXkyZk5KaGE3ZEpESE0xTUJJWVZFMDYzQ215YVhvQ05pOHgya01IaUtaY3BHZUVJT1Z5MmFLbm1qdnJlOUF3SmhubkRudllEcWRYZEZaajRNMHNjN1NMQWY5QmpvLUM3NFQ2bW9QUkY0OXdERlpTa0NjZ0pZbDV1a3JNbUtKNVA?oc=5",
-        "date": "2026-10-17T02:52:00.000Z"
-      }
-    ],
-    "url": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb",
-    "agree": "Beide Quellen stimmen überein, dass ein mexikanischer Richter drei Männer zu 158 Jahren Gefängnis für den Mord an zwei australischen Surfern und ihrem US-amerikanischen Freund verurteilt hat.",
-    "diff": [
-      {
-        "name": "Google News World",
-        "note": "Verweist lediglich auf den Artikel des Guardian und nennt die drei Opfer und den genauen Aufenthaltsort (Baja California) nicht explizit im eigenen Fließtext."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-0e35e8a990029110",
-    "c": "INT",
-    "o": "INT",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-17T02:07:00.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "OECD-Chef Mathias Cormann warnt vor populistischen Maßnahmen in Australien",
-    "s": "Mathias Cormann, der Chef der OECD und ehemalige australische Finanzminister, hat die etablierten Parteien in Australien vor populistischen Maßnahmen gewarnt. Anlass sind Sorgen der Wähler über die Lebenshaltungskosten. Konkret rät er davon ab, Migrationsobergrenzen einzuführen, um diese Probleme zu lösen.",
-    "m": "In einer aktuellen Warnung an Australiens politische Hauptparteien betont OECD-Generalsekretär Mathias Cormann, dass das Nachahmen populistischer Politiken weder die Lebenshaltungskosten senken noch die Produktivität steigern werde. Hintergrund sind Wählerfrustrationen und Forderungen nach restriktiveren Maßnahmen. Cormann argumentiert stattdessen mit Studienergebnissen, die belegen, dass Einwanderer die Beschäftigung ankurbeln. Als langjähriger australischer Finanzminister fordert er einen konstruktiveren politischen Kurs, der auf tatsächliche wirtschaftliche Lösungen setzt, anstatt auf scheinbare Allheilmittel wie strikte Obergrenzen für Migration zurückzugreifen.",
-    "r": "Die Äußerungen des OECD-Chefs und ehemaligen Finanzministers betreffen die wirtschafts- und migrationspolitische Ausrichtung Australiens angesichts globaler Inflations- und Lebenshaltungskostensorgen. Sie bieten Einblicke in internationale Empfehlungen zur Bewältigung wirtschaftlicher Probleme.",
-    "srcs": [
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQzUxakYwWFBNazRPOWdiZGx0RlpkQWpZYzhTQXA5YTZnUHNlWGUwM1YzeV9Nak5WWjJBOGlPXzg2MlBJTEJOSWpEcGJxbXQ1OWFDd0IxWkJ6R1N2VzQ3NkdMN3J3dVR1SkNKNk95VjZ6QkdjOEhSS1VlcGhXeWhVM28yV2NVMGdlT2F0LVFPUFdCVmxCenRpVHFfTTkyOENsVWstZzJGclVkcGRBQllud0VCU1hrTng0TUdtSjBENW1hNUswX2hHUWZQVHIzRzk0UE9iOVR4Z3NtRFVIYVktN1Z2SUlwOUpMR0E?oc=5",
-        "date": "2026-10-17T02:07:00.000Z"
-      },
-      {
-        "name": "Guardian World",
-        "url": "https://www.theguardian.com/australia-news/2026/oct/17/mimicking-populists-will-not-ease-cost-of-living-or-raise-productivity-mathias-cormann-warns-ntwnfb",
-        "date": "2026-10-17T01:49:17.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQzUxakYwWFBNazRPOWdiZGx0RlpkQWpZYzhTQXA5YTZnUHNlWGUwM1YzeV9Nak5WWjJBOGlPXzg2MlBJTEJOSWpEcGJxbXQ1OWFDd0IxWkJ6R1N2VzQ3NkdMN3J3dVR1SkNKNk95VjZ6QkdjOEhSS1VlcGhXeWhVM28yV2NVMGdlT2F0LVFPUFdCVmxCenRpVHFfTTkyOENsVWstZzJGclVkcGRBQllud0VCU1hrTng0TUdtSjBENW1hNUswX2hHUWZQVHIzRzk0UE9iOVR4Z3NtRFVIYVktN1Z2SUlwOUpMR0E?oc=5",
-    "agree": "Die Quellen stimmen überein, dass Mathias Cormann davor warnt, populistische Politiken wie Migrationsobergrenzen zu kopieren, da dies weder die Lebenshaltungskosten senkt noch die Produktivität fördert.",
-    "diff": [
-      {
-        "name": "Google News World",
-        "note": "Die Quelle verweist auf den Guardian-Artikel und nennt die Kernaussage, dass das Nachahmen von Populisten die Lebenshaltungskosten nicht lindere."
-      },
-      {
-        "name": "Guardian World",
-        "note": "Die Quelle liefert den ausführlichen Hintergrundbericht, nennt Cormanns Rolle als OECD-Chef und ehemaligen australischen Finanzminister sowie den Verweis auf Studien, die belegen, dass Migranten die Beschäftigung ankurbeln."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-85a104db1b967d62",
-    "c": "INT",
-    "o": "UK",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-17T01:19:04.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Schule in Oregon: Lehrerin und bewaffneter Vater stoppen Angreifer",
-    "s": "An einer Grundschule im US-Bundesstaat Oregon hat ein 16-jähriger Verdächtiger einen Angriff verübt. Eine Lehrerin kämpfte gegen den Angreifer, bevor ein bewaffneter Vater den Verdächtigen mehrfach anschoss. Laut Polizei hatte der Jugendliche die Schule früher selbst besucht und gezielt einen Förderunterrichtsklassenraum ins Visier genommen.",
-    "m": "Der Vorfall ereignete sich an einer Grundschule in Oregon, als ein 16-jähriger ehemaliger Schüler das Gelände betrat. Sein Ziel warsten Berichten zufolge ein Klassenraum für Sonderpädagogik. Die Situation eskalierte, als sich eine Lehrerin dem Angreifer entgegenstellte und physisch mit ihm kämpfte. In dieser kritischen Situation griff ein bewaffneter Vater ein und stoppte den Jugendlichen durch mehrere Schüsse. Der Verdächtige wurde daraufhin außer Gefecht gesetzt. Die Polizei hat die Ermittlungen zu den Hintergründen und dem genauen Tathergang aufgenommen. Weitere Details zum Zustand des Verdächtigen oder zu Verletzten unter den Schülern und Lehrkräften wurden in den vorliegenden Meldungen nicht genannt.",
-    "r": "Der Vorfall wirft ein Schlaglicht auf die Sicherheit an US-amerikanischen Bildungseinrichtungen und die Rolle von bewaffneten Bürgern bei der Abwehr von Gewalttaten. Die Tat verdeutlicht zudem das Risiko von Amokläufen oder gezielten Angriffen an Schulen durch ehemalige Schüler.",
-    "srcs": [
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-17T01:19:04.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01aVBXeU5MVGNET3RhTC1tbld1cjZRV05ZQzRSeWYtd3gwd0tLS1JraHpBNzZqUzJfM1RnQTM5a3RFWmpob3FySVFtQlBDMUFQUXlEN0RQZy1nYTQ?oc=5",
-        "date": "2026-10-17T01:19:04.000Z"
-      }
-    ],
-    "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-    "agree": "Die Quellen stimmen überein, dass eine Lehrerin gegen den Angreifer kämpfte und ein bewaffneter Vater den Verdächtigen mehrfach schoss.",
-    "diff": [
-      {
-        "name": "BBC World",
-        "note": "Berichtet ausführlich, dass der 16-jährige Verdächtige die Grundschule früher besucht hatte und einen Raum für Sonderpädagogik ins Visier nahm."
-      },
-      {
-        "name": "Google News World",
-        "note": "Enthält keine zusätzlichen Details, sondern verweist lediglich auf den Bericht der BBC."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-370442eba9333b52",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-17T00:13:51.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Angriff in Seniorenheim im Münsterland fordert Todesopfer",
-    "s": "Bei einem gewaltsamen Vorfall in einem Seniorenheim im Münsterland in Nordrhein-Westfalen ist eine Frau getötet worden. Zwei weitere Frauen erlitten schwere Verletzungen, wobei sich eine von ihnen in Lebensgefahr befindet. Die Polizei war mit einem Großaufgebot vor Ort im Einsatz.",
-    "m": "Der Vorfall ereignete sich in einem Pflegeheim im Münsterland, wie verschiedene Medien übereinstimmend unter Berufung auf die Polizei berichteten. Ein männlicher Täter griff dort drei Frauen an. Eine der betroffenen Frauen verstarb infolge der Attacke. Zwei weitere Bewohnerinnen oder Mitarbeiterinnen wurden schwer verletzt; für eine von ihnen besteht akute Lebensgefahr. Die Sicherheitskräfte rückten mit einem starken Aufgebot an Einsatzkräften zu dem Objekt aus. Nähere Details zu den Hintergründen der Tat, zur genauen Identität des Angreifers sowie zu möglichen Motiven wurden zunächst nicht bekannt gegeben. Die Ermittlungen der Kriminalpolizei zu dem Gewaltverbrechen dauern an.",
-    "r": "Gewalttaten in Pflegeeinrichtungen betreffen die öffentliche Sicherheit und erfordern ein sofortiges Eingreifen der Polizei zum Schutz von vulnerablen Personengruppen. Solche Vorfälle werfen zudem Fragen zur Sicherheit in Pflegeeinrichtungen auf.",
-    "srcs": [
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/news/2026-10/17/angriff-in-seniorenheim-eine-tote-und-zwei-schwerverletzte",
-        "date": "2026-10-17T00:13:51.000Z"
-      },
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/vermischtes/article6ad29dd951e5094f7a56f428/muensterland-angriff-in-seniorenheim-eine-tote-und-zwei-schwerverletzte.html",
-        "date": "2026-10-16T22:44:32.000Z"
-      },
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVEZSZGlaajZWT2tMdEFmLTVuU3ZfaTVWWURHYW0tclNIZ19WRmh6cE5zUDJDaVRjR0Fob2RHcXJVZzc0aEZmZ0ZjMVJDajBCNGNNSlQ2Ml9EOGNrYklnSzg0cGROaFJEYklZOUN4aEU0LWp5azI5dEM2bDR1eEVhdF8xazA1SDVDWk1ia0dDQWhsUDVIRGJ2UUs2NE5fSzlYc0NHZ25VNFJLc2YzVW5RV2p6WndzWFgzbWRlRkFPUjI3eWZDdjZ2TzB6Z1Jvb1VKcXY1ZkNkWC0wQQ?oc=5",
-        "date": "2026-10-16T21:46:12.000Z"
-      }
-    ],
-    "url": "https://www.zeit.de/news/2026-10/17/angriff-in-seniorenheim-eine-tote-und-zwei-schwerverletzte",
-    "agree": "Die Quellen stimmen überein, dass es in einem Seniorenheim im Münsterland einen Angriff gab, bei dem eine Frau getötet und zwei weitere Frauen schwer verletzt wurden.",
-    "diff": [
-      {
-        "name": "ZEIT ONLINE",
-        "note": "Meldet den Vorfall kurz als Angriff in einem Seniorenheim in NRW mit einer Toten und zwei Schwerverletzten."
-      },
-      {
-        "name": "WELT",
-        "note": "Berichtet detaillierter, dass die Polizei mit einem Großaufgebot im Münsterland anrückte und eine der schwerverletzten Frauen in Lebensgefahr schwebt."
-      },
-      {
-        "name": "Google News DE",
-        "note": "Verweist auf einen entsprechenden Artikel des Tagesspiegels zum selben Vorfall."
-      }
-    ],
-    "chg": "",
-    "independent": 3
-  },
-  {
-    "id": "story-20f68300bec1fab9",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-17T00:06:59.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Trumps Pressesprecherin Zacharia nach einer Woche entlassen",
-    "s": "Die erst vor einer Woche ernannte Pressesprecherin des Weißen Hauses, Katie Zacharia, hat ihren Posten bereits wieder verloren. US-Präsident Donald Trump begründete die rasche Entlassung mit einer unfairen Behandlung der 41-Jährigen durch die Medien. Berichten zufolge soll er jedoch auch selbst unzufrieden mit der Personalie gewesen sein.",
-    "m": "Die Personalie sorgte im Weißen Haus für ein kurzes Intermezzo, da Katie Zacharia den Posten als Pressesprecherin nach nur wenigen Tagen wieder räumen musste. Die 41-Jährige hatte die Zusage für den Job erst eine Woche zuvor erhalten. Präsident Donald Trump schob die Verantwortung für den schnellen Abgang vor allem den Medien zu und warf ihnen vor, Zacharia unfair behandelt zu haben. Gleichzeitig deuten Berichte darauf hin, dass der Präsident ohnehin nicht vollends von der Personalie überzeugt und unglücklich darüber war. Damit steht das Team der Kommunikationsabteilung des Weißen Hauses vor einer erneuten personellen Herausforderung. Offen bleibt, wer die Nachfolge antreten und wie sich dieser abrupte Wechsel auf die Kommunikationsstrategie der Regierung auswirken wird.",
-    "r": "Der abrupte Wechsel auf einem so prominenten Posten im Weißen Haus verdeutlicht die kurzfristige Personalpolitik und die angespannte Beziehung der Regierung zu den Medien.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbjZXNElmUzhsd09idnh6Y2hqTXpPVEF2c1hoY09odHJzUHl1TUFWWlVjWm4yMVQwZnpHSkItNzI1Q1ZsM0RhR2dHdEduYzlmSWh5dlgyNkpualNOcnp2LTg1QXRPVVcxSGJDU2lBcnpNRmgxOU5NMGMyTU1SQm9laU1xT1Zua2F0VHcwdEdZbi0tZFZiMEsyam5hNnVIcE4wUDRCSEdhWkJkcF8xeDU2MllIQWU?oc=5",
-        "date": "2026-10-17T00:06:59.000Z"
-      },
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/politik/Trumps-Sprecherin-Zacharia-muss-nach-hastigem-Start-schon-wieder-gehen-id31428285.html",
-        "date": "2026-10-17T00:06:59.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbjZXNElmUzhsd09idnh6Y2hqTXpPVEF2c1hoY09odHJzUHl1TUFWWlVjWm4yMVQwZnpHSkItNzI1Q1ZsM0RhR2dHdEduYzlmSWh5dlgyNkpualNOcnp2LTg1QXRPVVcxSGJDU2lBcnpNRmgxOU5NMGMyTU1SQm9laU1xT1Zua2F0VHcwdEdZbi0tZFZiMEsyam5hNnVIcE4wUDRCSEdhWkJkcF8xeDU2MllIQWU?oc=5",
-    "agree": "Katie Zacharia hat ihren Posten als Pressesprecherin des Weißen Hauses nach nur einer Woche bereits wieder verloren.",
-    "diff": [
-      {
-        "name": "ntv",
-        "note": "Berichtet, dass Trump den Medien die Schuld an der Entlassung gibt und selbst unglücklich über die Personalie war."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-c18c95ea5fbbec53",
-    "c": "INT",
-    "o": "INT",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-16T23:46:15.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Israelische Siedler greifen Palästinenser und US-Journalisten im Westjordanland an",
-    "s": "Bei Angriffen israelischer Siedler auf Palästinenser während der Olivenernte im besetzten Westjordanland sind mehrere Menschen verletzt worden. Unter den Opfern befindet sich auch ein US-amerikanischer Fotojournalist, der für die Washington Post arbeitet. Die Tat ereignete sich am Freitag und reiht sich in eine wachsende Zahl ähnlicher Zwischenfälle ein.",
-    "m": "Maskierte israelische Siedler attackierten am Freitag palästinensische Bauern, während diese ihre Oliven im besetzten Westjordanland ernteten. Bei den gewalttätigen Übergriffen wurden mehrere Personen verletzt. Zu den Betroffenen zählt auch ein US-Fotojournalist, der für die Washington Post tätig ist. Die Angriffe fanden im Rahmen eines merklichen Anstiegs ähnlicher Vorfälle in der Region statt. Genauere Angaben zur Gesamtzahl der Verletzten oder zu polizeilichen Ermittlungen nennen die Berichte bisher nicht. Offen bleibt zudem, ob es Festnahmen gab oder welche konkreten Maßnahmen die Sicherheitskräfte ergriffen haben.",
-    "r": "Die Vorfälle verdeutlichen die anhaltende und offenbar steigende Gewalt im besetzten Westjordanland während der Erntezeit. Zudem zeigt der Angriff auf einen US-Medienvertreter die internationale Dimension der lokalen Spannungen.",
-    "srcs": [
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRElhWVcxY0kya0paeTZHUmhLY1dueEtjdC1GNmRVYko1SHczcUIxQldybjJOSHlnWWJ3dEt4Rl9nY1FwTW1UWFc3aWV0T2puOTREWjBaQ2JDdG5oUThJdlhUcXI4WjE5ZWFQRGJsdVpFczVYZEJNZmVhOF8wRFBfMDV2NmZLZy1tN3JmdmoycmhUR2NpQ21EbWZITjZnX2czVGpXZXFtV2w0NDdEeVFzSmpfd3JBV0lvd210dFhaOTNaZXFQSy1TSnJic9IB0AFBVV95cUxOWmRTakpRWlFVa0oycXFzNnpSZlVjWVJwRUhHdW9ORjZfZEZIS0l6N0xfU2YtZDVET0F1WF94dXNWN3Z1R1pJb0dBajJvdFg0WXFvemctdWRWZ0JJYzFyQWVELTJzVTFLRHJHLW11VlNaMF9sbFdHTmpuQUdYb2Y0MDJfM0dZVU9mZGFaUmpHZ3BrYUVldkJSSTVSWjZkUjJaUkwtNkttT19UNGh5ZmlWcnRfVEhtSGQ4amFmRUFuUkdVdHh1c2pxLTZwY28yaEtw?oc=5",
-        "date": "2026-10-16T23:46:15.000Z"
-      },
-      {
-        "name": "NPR World",
-        "url": "https://www.npr.org/2026/10/16/nx-s1-6004904/israeli-settlers-beat-us-photojournalist-washington-post-west-bank",
-        "date": "2026-10-16T15:57:27.000Z"
-      },
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-16T14:31:04.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRElhWVcxY0kya0paeTZHUmhLY1dueEtjdC1GNmRVYko1SHczcUIxQldybjJOSHlnWWJ3dEt4Rl9nY1FwTW1UWFc3aWV0T2puOTREWjBaQ2JDdG5oUThJdlhUcXI4WjE5ZWFQRGJsdVpFczVYZEJNZmVhOF8wRFBfMDV2NmZLZy1tN3JmdmoycmhUR2NpQ21EbWZITjZnX2czVGpXZXFtV2w0NDdEeVFzSmpfd3JBV0lvd210dFhaOTNaZXFQSy1TSnJic9IB0AFBVV95cUxOWmRTakpRWlFVa0oycXFzNnpSZlVjWVJwRUhHdW9ORjZfZEZIS0l6N0xfU2YtZDVET0F1WF94dXNWN3Z1R1pJb0dBajJvdFg0WXFvemctdWRWZ0JJYzFyQWVELTJzVTFLRHJHLW11VlNaMF9sbFdHTmpuQUdYb2Y0MDJfM0dZVU9mZGFaUmpHZ3BrYUVldkJSSTVSWjZkUjJaUkwtNkttT19UNGh5ZmlWcnRfVEhtSGQ4amFmRUFuUkdVdHh1c2pxLTZwY28yaEtw?oc=5",
-    "agree": "Alle Quellen stimmen darin überein, dass israelische Siedler Palästinenser bei der Olivenernte im Westjordanland attackierten und dabei auch ein US-Journalist verletzt wurde.",
-    "diff": [
-      {
-        "name": "Google News World",
-        "note": "Erwähnt in der Kurzbeschreibung, dass der angegriffene US-Fotojournalist für PBS arbeitet (wobei der Haupttitel PBS nennt, während NPR ihn der Washington Post zuordnet)."
-      },
-      {
-        "name": "NPR World",
-        "note": "Präzisiert, dass die Angreifer maskiert waren, die Tat am Freitag stattfand und der Fotojournalist für The Washington Post arbeitet."
-      },
-      {
-        "name": "BBC World",
-        "note": "Fügt hinzu, dass der Vorfall vor dem Hintergrund eines markanten Anstiegs ähnlicher Zwischenfälle geschah."
-      }
-    ],
-    "chg": "",
-    "independent": 3
   }
 ]
