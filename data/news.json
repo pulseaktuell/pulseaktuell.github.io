@@ -1,193 +1,147 @@
 [
   {
-    "id": "story-62",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-22T01:55:31.000Z",
-    "sources": [
-      {
-        "source": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/aerzte-krebs-bei-papst-leo-hat-nicht-gestreut-106.html",
-        "date": "2026-10-22T01:55:31.000Z",
-        "snippet": "Der Lungenkrebs bei Papst Leo XIV. hat offenbar nicht gestreut.",
-        "title": "Vatikan - Ärzte: Krebs bei Papst Leo hat nicht gestreut"
-      },
-      {
-        "source": "RND",
-        "url": "https://www.rnd.de/politik/papst-leo-krebs-hat-nicht-gestreut-3U4Y6QLGVRA55I6O6PQ3Z4WSL4.html",
-        "date": "2026-10-21T19:59:58.000Z",
-        "snippet": "In der vergangenen Woche wurde dem Papst ein bösartiger Tumor aus der Lunge entfernt, die Diagnose lautete Krebs. Jetzt haben Ärzte eine erfreuliche Nachricht.",
-        "title": "Papst Leo: Krebs hat nicht gestreut"
-      },
-      {
-        "source": "ZDF heute",
-        "url": "https://www.zdfheute.de/panorama/papst-leo-krebs-erkrankung-100.html",
-        "date": "2026-10-21T19:36:00.000Z",
-        "snippet": "Der Lungenkrebs bei Papst Leo hat nach Angaben seiner Ärzte nicht gestreut. Untersuchungen hätten ergeben, dass die Erkrankung lokal begrenzt gewesen sei.",
-        "title": "Vatikan: Krebs bei Papst Leo hat nicht gestreut"
-      }
-    ],
-    "title": "Vatikan - Ärzte: Krebs bei Papst Leo hat nicht gestreut",
-    "summary": "Vatikan - Ärzte: Krebs bei Papst Leo hat nicht gestreut Der Lungenkrebs bei Papst Leo XIV. hat offenbar nicht gestreut.\nPapst Leo: Krebs hat nicht gestreut In der vergangenen Woche wurde dem Papst ein bösartiger Tumor aus der Lunge entfernt, die Diagnose lautete Krebs. Jetzt haben Ärzte eine erfreuliche Nachricht.\nVatikan: Krebs bei Papst Leo hat nicht gestreut Der Lungenkrebs bei Papst Leo hat nach Angaben seiner Ärzte nicht gestreut. Untersuchungen hätten ergeben, dass die Erkrankung lokal begrenzt gewesen sei."
-  },
-  {
-    "id": "story-249",
+    "id": "story-350",
     "topic": "politik",
     "country": "DE",
-    "stateHint": "BY",
-    "date": "2026-10-21T21:32:36.000Z",
-    "sources": [
-      {
-        "source": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/vatikan-papst-leo-ist-krebsfrei-keine-weitere-therapie-noetig,VYiK0DS",
-        "date": "2026-10-21T21:32:36.000Z",
-        "snippet": "Vor rund einer Woche wurde dem Papst ein bösartiger Tumor aus der Lunge entfernt. Nun geben seine Ärzte Entwarnung: Der Krebs hat nicht gestreut. Leo XIV. braucht keine weitere Therapie.",
-        "title": "Papst Leo ist krebsfrei – keine weitere Therapie nötig"
-      },
-      {
-        "source": "ntv",
-        "url": "https://www.n-tv.de/panorama/Krebs-bei-Papst-hat-nicht-gestreut-id31444478.html",
-        "date": "2026-10-21T19:53:47.000Z",
-        "snippet": "Dem 71-jährigen Papst Leo XIV. wurde ein Teil des rechten Lungenlappens entfernt, weil dieser mit Krebs befallen war. Nun steht fest: Weitere Metastasen gibt es nicht.",
-        "title": "Keine weitere Therapie nötig: Krebs bei Papst hat nicht gestreut"
-      },
-      {
-        "source": "Rheinische Post",
-        "url": "https://rp-online.de/panorama/religion/vatikan-papst-ist-krebsfrei-und-braucht-keine-weitere-therapie_aid-156994199",
-        "date": "2026-10-21T19:34:00.000Z",
-        "snippet": "Am vergangenen Dienstag wurde dem Papst ein bösartiger Tumor aus der Lunge entfernt, die Diagnose lautete Krebs. Am Mittwochabend nun die Entwarnung seitens seiner Ärzte, die auch Auswirkungen für weitere Termine hat.",
-        "title": "Entwarnung aus dem Vatikan: Papst ist krebsfrei und braucht keine weitere Therapie"
-      }
-    ],
-    "title": "Papst Leo ist krebsfrei – keine weitere Therapie nötig",
-    "summary": "Papst Leo ist krebsfrei – keine weitere Therapie nötig Vor rund einer Woche wurde dem Papst ein bösartiger Tumor aus der Lunge entfernt. Nun geben seine Ärzte Entwarnung: Der Krebs hat nicht gestreut. Leo XIV. braucht keine weitere Therapie.\nKeine weitere Therapie nötig: Krebs bei Papst hat nicht gestreut Dem 71-jährigen Papst Leo XIV. wurde ein Teil des rechten Lungenlappens entfernt, weil dieser mit Krebs befallen war. Nun steht fest: Weitere Metastasen gibt es nicht.\nEntwarnung aus dem Vatikan: Papst ist krebsfrei und braucht keine weitere Therapie Am vergangenen Dienstag wurde dem Papst ein bösartiger Tumor aus der Lunge entfernt, die Diagnose lautete Krebs. Am Mittwochabend nun die Entwarnung seitens seiner Ärzte, die auch Auswirkungen für weitere Termine hat."
-  },
-  {
-    "id": "story-555",
-    "topic": "panorama",
-    "country": "DE",
     "stateHint": "",
-    "date": "2026-10-21T17:45:01.000Z",
+    "date": "2026-10-22T05:15:03.000Z",
     "sources": [
       {
         "source": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/wirtschaft/technologie/it-sicherheit-php-luecke-100.html",
-        "date": "2026-10-21T17:45:01.000Z",
-        "snippet": "Eine gravierende Sicherheitslücke bedroht Millionen Webseiten. Betroffen ist die weitverbreitete Programmiersprache PHP. In Deutschland sind Internetseiten mehrerer Städte vorsich…",
-        "title": "Sicherheitslücke bedroht weltweit Webseiten"
+        "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-umfragen-100.html",
+        "date": "2026-10-22T05:15:03.000Z",
+        "snippet": "Angesichts der landesweit niedrigen Zustimmungswerte für Trump hoffen viele Demokraten in den USA auf einen deutlichen Sieg bei den Zwischenwahlen in zwei Wochen. Umfragen nähren …",
+        "title": "Wie verlässlich sind die Umfragen vor den Midterms?"
       },
       {
         "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/wirtschaft/technologie/it-sicherheit-php-luecke-100.html",
-        "date": "2026-10-21T17:32:26.000Z",
-        "snippet": "Eine gravierende Sicherheitslücke bedroht Millionen Webseiten. Betroffen ist die weitverbreitete Programmiersprache PHP. In Deutschland sind Internetseiten mehrerer Städte vorsichtshalber abgeschaltet.",
-        "title": "Programmiersprache PHP: Sicherheitslücke bedroht weltweit Webseiten"
+        "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-umfragen-100.html",
+        "date": "2026-10-22T05:03:31.000Z",
+        "snippet": "Angesichts der landesweit niedrigen Zustimmungswerte für Trump hoffen viele Demokraten in den USA auf einen deutlichen Sieg bei den Zwischenwahlen in zwei Wochen. Umfragen nähren ihre Zuversicht. Doch sind sie verlässlich? Von Jan Oppel.",
+        "title": "US-Zwischenwahlen: Wie verlässlich sind die Umfragen vor den Midterms?"
+      },
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Tdml0UlpUdWxOaFlHZE5TWHdLVUVxaHRUWFp2eHB2SWI5bVpIVkZsZzV0S3pmLVhUMkVZbmQxcFk4MFJLbXNzN1Q4QWRGN1VDUWRkNS1YZjdMLWtaUjZxMkNLTFJBY1AxY3dKNHpmR3hsak42OWVlSW5PZjg?oc=5",
+        "date": "2026-10-22T05:03:00.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9Tdml0UlpUdWxOaFlHZE5TWHdLVUVxaHRUWFp2eHB2SWI5bVpIVkZsZzV0S3pmLVhUMkVZbmQxcFk4MFJLbXNzN1Q4QWRGN1VDUWRkNS1YZjdMLWtaUjZxMkNLTFJBY1AxY3dKNHpmR3hsak42OWVlSW5PZjg?oc=5\" target=\"_blank\">US-Zwischenwahlen: Wie verlässlich sind die Umfragen vor den Midterms?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcHBsY211MGdVLWQySkZ2Q2dPS1UyajFOdDFYSExrb2xQbFhZaWRwWTlrSXZnZGtmWjVyeFlWcXl3el8wdTJJM3p1TzJFVXVvVndpYlhDTHVfbXo1ZHVNZG5MM1hySWxYNVVoZWxSa0lrOEJOUEpmbXF4ZEVEQ016Z2pkSUhQeWxj?oc=5\" target=\"_blank\">Trump am Scheideweg: Alle Daten zu den Midterms in den USA",
+        "title": "US-Zwischenwahlen: Wie verlässlich sind die Umfragen vor den Midterms? - tagesschau.de"
+      }
+    ],
+    "title": "Wie verlässlich sind die Umfragen vor den Midterms?",
+    "summary": "Wie verlässlich sind die Umfragen vor den Midterms? Angesichts der landesweit niedrigen Zustimmungswerte für Trump hoffen viele Demokraten in den USA auf einen deutlichen Sieg bei den Zwischenwahlen in zwei Wochen. Umfragen nähren …\nUS-Zwischenwahlen: Wie verlässlich sind die Umfragen vor den Midterms? Angesichts der landesweit niedrigen Zustimmungswerte für Trump hoffen viele Demokraten in den USA auf einen deutlichen Sieg bei den Zwischenwahlen in zwei Wochen. Umfragen nähren ihre Zuversicht. Doch sind sie verlässlich? Von Jan Oppel.\nUS-Zwischenwahlen: Wie verlässlich sind die Umfragen vor den Midterms? - tagesschau.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9Tdml0UlpUdWxOaFlHZE5TWHdLVUVxaHRUWFp2eHB2SWI5bVpIVkZsZzV0S3pmLVhUMkVZbmQxcFk4MFJLbXNzN1Q4QWRGN1VDUWRkNS1YZjdMLWtaUjZxMkNLTFJBY1AxY3dKNHpmR3hsak42OWVlSW5PZjg?oc=5\" target=\"_blank\">US-Zwischenwahlen: Wie verlässlich sind die Umfragen vor den Midterms?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcHBsY211MGdVLWQySkZ2Q2dPS1UyajFOdDFYSExrb2xQbFhZaWRwWTlrSXZnZGtmWjVyeFlWcXl3el8wdTJJM3p1TzJFVXVvVndpYlhDTHVfbXo1ZHVNZG5MM1hySWxYNVVoZWxSa0lrOEJOUEpmbXF4ZEVEQ016Z2pkSUhQeWxj?oc=5\" target=\"_blank\">Trump am Scheideweg: Alle Daten zu den Midterms in den USA"
+  },
+  {
+    "id": "story-11",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-22T08:07:01.000Z",
+    "sources": [
+      {
+        "source": "ntv",
+        "url": "https://www.n-tv.de/politik/CDU-Abgeordneter-Guido-Heuer-will-bei-Siegmund-Wahl-in-Sachsen-Anhalt-im-Saal-bleiben-id31445393.html",
+        "date": "2026-10-22T08:07:01.000Z",
+        "snippet": "In Sachsen-Anhalt steht im Dezember eine brisante Ministerpräsidentenwahl um AfD-Politiker Ulrich Siegmund an. Die CDU-Fraktion will geschlossen den Plenarsaal verlassen. Doch nun kündigt Guido Heuer das Gegenteil an. Ein möglicher dritter Wahlgang könnte alles entscheiden.",
+        "title": "Alleingang in Sachsen-Anhalt?: CDU-Abgeordneter will bei Siegmund-Wahl im Saal bleiben"
       },
       {
         "source": "RND",
-        "url": "https://www.rnd.de/panorama/php-sicherheitsluecke-bedroht-weltweit-millionen-webseiten-AWHNTHTT7ZARPKD4FEDZABJBYA.html",
-        "date": "2026-10-21T17:14:08.000Z",
-        "snippet": "Blogs, Onlineshops und Nachrichtenportale könnten ins Visier von Angreifern geraten. Die PHP-Lücke ermöglicht die Übernahme ganzer Server – wie groß ist die Gefahr für Nutzer?",
-        "title": "PHP-Sicherheitslücke bedroht weltweit Millionen Webseiten"
+        "url": "https://www.rnd.de/politik/ticker-nach-sachsen-anhalt-wahl-cdu-abgeordneter-will-bei-siegmund-wahl-im-saal-bleiben-FIYFNEZ6YVADLGXIQVNC3OGBBU.html",
+        "date": "2026-10-22T06:35:52.000Z",
+        "snippet": "Nach dem AfD-Wahlsieg in Sachsen-Anhalt haben die vom Verfassungsschutz als rechtsextrem eingestufte Partei sowie das BSW ihre punktuelle Zusammenarbeit begonnen. Verfolgen Sie alle Entwicklungen hier im Liveticker.",
+        "title": "Ticker nach Sachsen-Anhalt-Wahl: CDU-Abgeordneter will bei Siegmund-Wahl im Saal bleiben"
       }
     ],
-    "title": "Sicherheitslücke bedroht weltweit Webseiten",
-    "summary": "Sicherheitslücke bedroht weltweit Webseiten Eine gravierende Sicherheitslücke bedroht Millionen Webseiten. Betroffen ist die weitverbreitete Programmiersprache PHP. In Deutschland sind Internetseiten mehrerer Städte vorsich…\nProgrammiersprache PHP: Sicherheitslücke bedroht weltweit Webseiten Eine gravierende Sicherheitslücke bedroht Millionen Webseiten. Betroffen ist die weitverbreitete Programmiersprache PHP. In Deutschland sind Internetseiten mehrerer Städte vorsichtshalber abgeschaltet.\nPHP-Sicherheitslücke bedroht weltweit Millionen Webseiten Blogs, Onlineshops und Nachrichtenportale könnten ins Visier von Angreifern geraten. Die PHP-Lücke ermöglicht die Übernahme ganzer Server – wie groß ist die Gefahr für Nutzer?"
+    "title": "Alleingang in Sachsen-Anhalt?: CDU-Abgeordneter will bei Siegmund-Wahl im Saal bleiben",
+    "summary": "Alleingang in Sachsen-Anhalt?: CDU-Abgeordneter will bei Siegmund-Wahl im Saal bleiben In Sachsen-Anhalt steht im Dezember eine brisante Ministerpräsidentenwahl um AfD-Politiker Ulrich Siegmund an. Die CDU-Fraktion will geschlossen den Plenarsaal verlassen. Doch nun kündigt Guido Heuer das Gegenteil an. Ein möglicher dritter Wahlgang könnte alles entscheiden.\nTicker nach Sachsen-Anhalt-Wahl: CDU-Abgeordneter will bei Siegmund-Wahl im Saal bleiben Nach dem AfD-Wahlsieg in Sachsen-Anhalt haben die vom Verfassungsschutz als rechtsextrem eingestufte Partei sowie das BSW ihre punktuelle Zusammenarbeit begonnen. Verfolgen Sie alle Entwicklungen hier im Liveticker."
   },
   {
-    "id": "story-1011",
+    "id": "story-16",
     "topic": "politik",
     "country": "DE",
-    "stateHint": "BY",
-    "date": "2026-10-21T11:09:00.000Z",
+    "stateHint": "",
+    "date": "2026-10-22T08:04:31.000Z",
     "sources": [
       {
-        "source": "ZDF heute",
-        "url": "https://www.zdfheute.de/panorama/emma-frauen-zeitschrift-schluss-100.html",
-        "date": "2026-10-21T11:09:00.000Z",
-        "snippet": "Nach 50 Jahren ist Schluss: Alice Schwarzer stellt ihr feministisches Magazin \"Emma\" ein. Im Dezember erscheint die letzte Ausgabe. \"Wir meinen, es reicht\", erklärte Schwarzer.",
-        "title": "Alice Schwarzer stellt Frauenmagazin \"Emma\" ein"
+        "source": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-10/22/schnieder-und-wuest-rasche-senkung-der-stromsteuer-fuer-alle",
+        "date": "2026-10-22T08:04:31.000Z",
+        "snippet": "",
+        "title": "Ministerpräsidentenkonferenz: Schnieder und Wüst: Rasche Senkung der Stromsteuer für alle"
+      },
+      {
+        "source": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/wuest-fordert-rasche-senkung-der-stromsteuer-fuer-alle-100.html",
+        "date": "2026-10-22T07:41:04.000Z",
+        "snippet": "Vor der heutigen Ministerpräsidentenkonferenz fordert der nordrhein-westfälische Regierungschef Wüst eine rasche Senkung der Stromsteuer für private Haushalte und alle Unternehmen.",
+        "title": "Ministerpräsidentenkonferenz - Wüst fordert rasche Senkung der Stromsteuer für alle"
+      }
+    ],
+    "title": "Ministerpräsidentenkonferenz: Schnieder und Wüst: Rasche Senkung der Stromsteuer für alle",
+    "summary": "Ministerpräsidentenkonferenz: Schnieder und Wüst: Rasche Senkung der Stromsteuer für alle \nMinisterpräsidentenkonferenz - Wüst fordert rasche Senkung der Stromsteuer für alle Vor der heutigen Ministerpräsidentenkonferenz fordert der nordrhein-westfälische Regierungschef Wüst eine rasche Senkung der Stromsteuer für private Haushalte und alle Unternehmen."
+  },
+  {
+    "id": "story-27",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-22T08:00:05.000Z",
+    "sources": [
+      {
+        "source": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/ausland/asien/israel-wirtschaft-wahl-100.html",
+        "date": "2026-10-22T08:00:05.000Z",
+        "snippet": "Sicherheit steht in Israels Wahlkampf im Vordergrund. Doch drei Jahre Krieg haben die Wirtschaft schwer getroffen: Für viele Menschen geht es vor der Wahl am 27. Oktober auch um d…",
+        "title": "Was die Kriegskosten für Israels Wähler bedeuten"
       },
       {
         "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/kultur/emma-magazin-ende-100.html",
-        "date": "2026-10-21T08:40:09.000Z",
-        "snippet": "Nach 50 Jahren ist Schluss. Das feministische Magazin \"Emma\" wird eingestellt. Gründerin und Herausgeberin Alice Schwarzer betonte, die Gründe seien nicht ökonomischer Natur. \"Wir meinen, es reicht.\"",
-        "title": "Alice Schwarzer stellt Magazin \"Emma\" ein"
-      },
-      {
-        "source": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/kultur/es-reicht-alice-schwarzer-stellt-emma-nach-50-jahren-ein,VYf4pD4",
-        "date": "2026-10-21T07:11:19.000Z",
-        "snippet": "Fast 50 Jahre lang hat Alice Schwarzer mit \"Emma\" die feministische Debatte in Deutschland geprägt – und polarisiert. Jetzt zieht die 83-Jährige den Schlussstrich: Am 8. Dezember erscheint die letzte Ausgabe. Schwarzer sagt: \"Es reicht!\"",
-        "title": "\"Es reicht\": Alice Schwarzer stellt \"Emma\" nach 50 Jahren ein"
+        "url": "https://www.tagesschau.de/ausland/asien/israel-wirtschaft-wahl-100.html",
+        "date": "2026-10-22T07:56:08.000Z",
+        "snippet": "Sicherheit steht in Israels Wahlkampf im Vordergrund. Doch drei Jahre Krieg haben die Wirtschaft schwer getroffen: Für viele Menschen geht es vor der Wahl am 27. Oktober auch um die Frage, wie es wirtschaftlich weitergehen soll. Von B. Meier.",
+        "title": "Knesset-Wahl: Was die Kriegskosten für Israels Wähler bedeuten"
       }
     ],
-    "title": "Alice Schwarzer stellt Frauenmagazin \"Emma\" ein",
-    "summary": "Alice Schwarzer stellt Frauenmagazin \"Emma\" ein Nach 50 Jahren ist Schluss: Alice Schwarzer stellt ihr feministisches Magazin \"Emma\" ein. Im Dezember erscheint die letzte Ausgabe. \"Wir meinen, es reicht\", erklärte Schwarzer.\nAlice Schwarzer stellt Magazin \"Emma\" ein Nach 50 Jahren ist Schluss. Das feministische Magazin \"Emma\" wird eingestellt. Gründerin und Herausgeberin Alice Schwarzer betonte, die Gründe seien nicht ökonomischer Natur. \"Wir meinen, es reicht.\"\n\"Es reicht\": Alice Schwarzer stellt \"Emma\" nach 50 Jahren ein Fast 50 Jahre lang hat Alice Schwarzer mit \"Emma\" die feministische Debatte in Deutschland geprägt – und polarisiert. Jetzt zieht die 83-Jährige den Schlussstrich: Am 8. Dezember erscheint die letzte Ausgabe. Schwarzer sagt: \"Es reicht!\""
+    "title": "Was die Kriegskosten für Israels Wähler bedeuten",
+    "summary": "Was die Kriegskosten für Israels Wähler bedeuten Sicherheit steht in Israels Wahlkampf im Vordergrund. Doch drei Jahre Krieg haben die Wirtschaft schwer getroffen: Für viele Menschen geht es vor der Wahl am 27. Oktober auch um d…\nKnesset-Wahl: Was die Kriegskosten für Israels Wähler bedeuten Sicherheit steht in Israels Wahlkampf im Vordergrund. Doch drei Jahre Krieg haben die Wirtschaft schwer getroffen: Für viele Menschen geht es vor der Wahl am 27. Oktober auch um die Frage, wie es wirtschaftlich weitergehen soll. Von B. Meier."
   },
   {
-    "id": "story-28",
+    "id": "story-71",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
-    "date": "2026-10-22T02:08:13.000Z",
+    "date": "2026-10-22T07:41:59.000Z",
     "sources": [
       {
-        "source": "stern",
-        "url": "https://www.stern.de/news/arbeitskreis-steuerschaetzung-gibt-herbstprognose-bekannt-38433554.html",
-        "date": "2026-10-22T02:08:13.000Z",
-        "snippet": "Der Arbeitskreis Steuerschätzung gibt am Donnerstagnachmittag seine diesjährige Herbstprognose bekannt. Auf einer Pressekonferenz in Berlin will sich anschließend (15.00 Uhr) Bundesfinanzminister Lars Klingbeil (SPD) dazu äußern. Angesichts etwas verbesserter Wachstumsaussichten könnten die Einnahmeerwartungen leicht nach oben korrigiert werden.",
-        "title": "Arbeitskreis Steuerschätzung gibt Herbstprognose bekannt"
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT0RpcW56blNzVFpqbE5zY2RDSjdBbVlyczF0ZlJQd1ZsU0YyV3k3ejZRMHVDRUp2aF9femlfd0NjYXltZjEzSGFGeVo3cFpNWDZDTWxwVHlON052TVRpaG5rbzBsbExKd1Q3VklQZ2RyVkE2bXhlUXRpcnRUWllRdWZFTEFwSG5yZHhGNDBVN014SEVuVzBUYWpzWmNDZmM5dlkxUjNR?oc=5",
+        "date": "2026-10-22T07:41:59.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQT0RpcW56blNzVFpqbE5zY2RDSjdBbVlyczF0ZlJQd1ZsU0YyV3k3ejZRMHVDRUp2aF9femlfd0NjYXltZjEzSGFGeVo3cFpNWDZDTWxwVHlON052TVRpaG5rbzBsbExKd1Q3VklQZ2RyVkE2bXhlUXRpcnRUWllRdWZFTEFwSG5yZHhGNDBVN014SEVuVzBUYWpzWmNDZmM5dlkxUjNR?oc=5\" target=\"_blank\">Wenn AfD und Linke regieren: Söder will Berlin und Sachsen-Anhalt den Geldhahn abdrehen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxORTc2QmlhSkRZSnkwbU5DV25XUWR5RjU4cDQyeWhuS1BDTElqbDdPQ2picktaOHV6R0FuQS1reDFIZmVVZ2w5OFduM24xMHZmd2ZQNnhaYnRHcHYyWnl1MTlLbTNXb3dacy1DbF80ckR0OHhyelMzUkFKRlI3WGw3UUh2VDZ1dTVnOXlQa3JMSFJsQ",
+        "title": "Wenn AfD und Linke regieren: Söder will Berlin und Sachsen-Anhalt den Geldhahn abdrehen - n-tv.de"
       },
       {
-        "source": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/arbeitskreis-steuerschaetzung-gibt-herbstprognose-bekannt-mehr-einnahmen-erwartet-100.html",
-        "date": "2026-10-22T01:55:31.000Z",
-        "snippet": "Bundesfinanzminister Klingbeil stellt am Nachmittag die Ergebnisse der Steuerschätzung vor.",
-        "title": "Finanzen - Arbeitskreis Steuerschätzung gibt Herbstprognose bekannt - mehr Einnahmen erwartet"
+        "source": "ntv",
+        "url": "https://www.n-tv.de/politik/Soeder-will-Berlin-und-Sachsen-Anhalt-den-Geldhahn-abdrehen-id31444709.html",
+        "date": "2026-10-22T03:13:21.000Z",
+        "snippet": "Als die AfD die Wahl in Sachsen-Anhalt gewinnt, will Bayerns Ministerpräsident von einer \"Bestrafung\" über den Länderfinanzausgleich noch nichts wissen. Die Aussicht auf eine Linken-geführte Regierung in Berlin bringt einen Sinneswandel. Zusammen mit anderen Geberländern plant Söder eine Extremismusklausel.",
+        "title": "Wenn AfD und Linke regieren: Söder will Berlin und Sachsen-Anhalt den Geldhahn abdrehen"
       }
     ],
-    "title": "Arbeitskreis Steuerschätzung gibt Herbstprognose bekannt",
-    "summary": "Arbeitskreis Steuerschätzung gibt Herbstprognose bekannt Der Arbeitskreis Steuerschätzung gibt am Donnerstagnachmittag seine diesjährige Herbstprognose bekannt. Auf einer Pressekonferenz in Berlin will sich anschließend (15.00 Uhr) Bundesfinanzminister Lars Klingbeil (SPD) dazu äußern. Angesichts etwas verbesserter Wachstumsaussichten könnten die Einnahmeerwartungen leicht nach oben korrigiert werden.\nFinanzen - Arbeitskreis Steuerschätzung gibt Herbstprognose bekannt - mehr Einnahmen erwartet Bundesfinanzminister Klingbeil stellt am Nachmittag die Ergebnisse der Steuerschätzung vor."
+    "title": "Wenn AfD und Linke regieren: Söder will Berlin und Sachsen-Anhalt den Geldhahn abdrehen - n-tv.de",
+    "summary": "Wenn AfD und Linke regieren: Söder will Berlin und Sachsen-Anhalt den Geldhahn abdrehen - n-tv.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQT0RpcW56blNzVFpqbE5zY2RDSjdBbVlyczF0ZlJQd1ZsU0YyV3k3ejZRMHVDRUp2aF9femlfd0NjYXltZjEzSGFGeVo3cFpNWDZDTWxwVHlON052TVRpaG5rbzBsbExKd1Q3VklQZ2RyVkE2bXhlUXRpcnRUWllRdWZFTEFwSG5yZHhGNDBVN014SEVuVzBUYWpzWmNDZmM5dlkxUjNR?oc=5\" target=\"_blank\">Wenn AfD und Linke regieren: Söder will Berlin und Sachsen-Anhalt den Geldhahn abdrehen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxORTc2QmlhSkRZSnkwbU5DV25XUWR5RjU4cDQyeWhuS1BDTElqbDdPQ2picktaOHV6R0FuQS1reDFIZmVVZ2w5OFduM24xMHZmd2ZQNnhaYnRHcHYyWnl1MTlLbTNXb3dacy1DbF80ckR0OHhyelMzUkFKRlI3WGw3UUh2VDZ1dTVnOXlQa3JMSFJsQ\nWenn AfD und Linke regieren: Söder will Berlin und Sachsen-Anhalt den Geldhahn abdrehen Als die AfD die Wahl in Sachsen-Anhalt gewinnt, will Bayerns Ministerpräsident von einer \"Bestrafung\" über den Länderfinanzausgleich noch nichts wissen. Die Aussicht auf eine Linken-geführte Regierung in Berlin bringt einen Sinneswandel. Zusammen mit anderen Geberländern plant Söder eine Extremismusklausel."
   },
   {
-    "id": "story-35",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-22T02:04:06.000Z",
-    "sources": [
-      {
-        "source": "stern",
-        "url": "https://www.stern.de/news/nach-krawallen-in-frankreich--macron-beraet-mit-ministern-und-geheimdiensten-38433562.html",
-        "date": "2026-10-22T02:04:06.000Z",
-        "snippet": "Frankreichs Präsident Emmanuel Macron und Regierungschef Sébastien Lecornu kommen am Donnerstag wegen der gewalttätigen Proteste vom Wochenende mit Ministern und Geheimdienstvertretern in Paris zusammen. Dabei soll nach Angaben Macrons eine „detaillierte Bestandsaufnahme“ der Ereignisse erstellt werden. Es sei notwendig, Transparenz darüber zu schaffen, was geschehen sei, hatte der Präsident am Mittwoch gesagt.",
-        "title": "Nach Krawallen in Frankreich: Macron berät mit Ministern und Geheimdiensten"
-      },
-      {
-        "source": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/macron-beraet-mit-ministern-und-geheimdienstvertretern-100.html",
-        "date": "2026-10-22T01:55:31.000Z",
-        "snippet": "Wegen der gewalttätigen Proteste vom Wochenende kommen Frankreichs Präsident Macron und Regierungschef Lecornu heute mit Ministern und Geheimdienstvertretern in Paris zu Beratungen zusammen.",
-        "title": "Nach Krawallen in Frankreich - Macron berät mit Ministern und Geheimdienstvertretern"
-      }
-    ],
-    "title": "Nach Krawallen in Frankreich: Macron berät mit Ministern und Geheimdiensten",
-    "summary": "Nach Krawallen in Frankreich: Macron berät mit Ministern und Geheimdiensten Frankreichs Präsident Emmanuel Macron und Regierungschef Sébastien Lecornu kommen am Donnerstag wegen der gewalttätigen Proteste vom Wochenende mit Ministern und Geheimdienstvertretern in Paris zusammen. Dabei soll nach Angaben Macrons eine „detaillierte Bestandsaufnahme“ der Ereignisse erstellt werden. Es sei notwendig, Transparenz darüber zu schaffen, was geschehen sei, hatte der Präsident am Mittwoch gesagt.\nNach Krawallen in Frankreich - Macron berät mit Ministern und Geheimdienstvertretern Wegen der gewalttätigen Proteste vom Wochenende kommen Frankreichs Präsident Macron und Regierungschef Lecornu heute mit Ministern und Geheimdienstvertretern in Paris zu Beratungen zusammen."
-  },
-  {
-    "id": "story-59",
+    "id": "story-78",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "",
-    "date": "2026-10-22T01:55:31.000Z",
+    "date": "2026-10-22T07:41:04.000Z",
     "sources": [
       {
         "source": "Deutschlandfunk Nachrichten",
         "url": "https://www.deutschlandfunk.de/cambridge-analytica-skandal-gericht-verurteilt-meta-zu-25-milliarden-dollar-strafzahlung-102.html",
-        "date": "2026-10-22T01:55:31.000Z",
+        "date": "2026-10-22T07:41:04.000Z",
         "snippet": "In den USA ist der Facebook-Mutterkonzern Meta zu einer Zahlung von 25 Milliarden Dollar verurteilt worden.",
         "title": "Verbrauchertäuschung - \"Cambridge Analytica\"-Skandal: Gericht verurteilt Meta zu 25 Milliarden Dollar Strafzahlung"
       },
@@ -203,132 +157,507 @@
     "summary": "Verbrauchertäuschung - \"Cambridge Analytica\"-Skandal: Gericht verurteilt Meta zu 25 Milliarden Dollar Strafzahlung In den USA ist der Facebook-Mutterkonzern Meta zu einer Zahlung von 25 Milliarden Dollar verurteilt worden.\nCambridge-Analytica-Skandal: Meta soll Milliarden zahlen Acht Jahre nach dem Cambridge-Analytica-Skandal ist der Facebook-Mutterkonzern Meta zu einem Milliarden-Bußgeld verurteilt worden. Hintergrund ist der Missbrauch von Nutzerdaten."
   },
   {
-    "id": "story-61",
-    "topic": "sport",
+    "id": "story-83",
+    "topic": "wirtschaft",
     "country": "DE",
     "stateHint": "",
-    "date": "2026-10-22T01:55:31.000Z",
+    "date": "2026-10-22T07:41:04.000Z",
     "sources": [
       {
         "source": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/immer-mehr-rechtsextreme-kampfsport-netzwerke-in-deutschland-100.html",
-        "date": "2026-10-22T01:55:31.000Z",
-        "snippet": "Die Zahl rechtsextremer Kampfsport-Netzwerke in Deutschland steigt.",
-        "title": "Extremismus - Immer mehr rechtsextreme Kampfsport-Netzwerke in Deutschland"
+        "url": "https://www.deutschlandfunk.de/ifo-tankrabatt-wirkt-bei-benzin-bei-diesel-aber-nur-teilweise-100.html",
+        "date": "2026-10-22T07:41:04.000Z",
+        "snippet": "Der neue Tankrabatt kommt bei Benzin fast vollständig bei den Autofahrern an, bei ‌Diesel jedoch nur ⁠zum Teil. ⁠",
+        "title": "Wirtschaft - Ifo: Tankrabatt wirkt bei Benzin - bei Diesel aber nur teilweise"
+      },
+      {
+        "source": "Handelsblatt",
+        "url": "https://www.handelsblatt.com/politik/deutschland/ifo-studie-tankrabatt-wirkt-nur-bei-super-e5-vollstaendig-bei-diesel-teilweise/100264131.html",
+        "date": "2026-10-22T07:25:54.000Z",
+        "snippet": "Die Ölkonzerne geben den Tankrabatt beim Benzin offenbar fast vollständig weiter. Bei Diesel hingegen kommt die Steuersenkung nicht ganz bei den Verbrauchern an.",
+        "title": "Ifo-Studie: Tankrabatt wirkt nur bei Super E5 vollständig – bei Diesel teilweise"
+      }
+    ],
+    "title": "Wirtschaft - Ifo: Tankrabatt wirkt bei Benzin - bei Diesel aber nur teilweise",
+    "summary": "Wirtschaft - Ifo: Tankrabatt wirkt bei Benzin - bei Diesel aber nur teilweise Der neue Tankrabatt kommt bei Benzin fast vollständig bei den Autofahrern an, bei ‌Diesel jedoch nur ⁠zum Teil. ⁠\nIfo-Studie: Tankrabatt wirkt nur bei Super E5 vollständig – bei Diesel teilweise Die Ölkonzerne geben den Tankrabatt beim Benzin offenbar fast vollständig weiter. Bei Diesel hingegen kommt die Steuersenkung nicht ganz bei den Verbrauchern an."
+  },
+  {
+    "id": "story-126",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "RP",
+    "date": "2026-10-22T07:27:03.000Z",
+    "sources": [
+      {
+        "source": "SWR Aktuell",
+        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/mainz/haus-des-jugendrechts-setzt-auf-hilfe-statt-strafe-102.html",
+        "date": "2026-10-22T07:27:03.000Z",
+        "snippet": "In Mainz arbeiten Polizei, Staatsanwaltschaft und Jugendhilfe unter einem Dach. Ziel sind schnelle Konsequenzen statt Gerichtsverfahren, wenn Jugendliche straffällig geworden sind.",
+        "title": "Jugendkriminalität in Mainz: Haus des Jugendrechts setzt Grenzen"
+      },
+      {
+        "source": "Tagesschau Regional Rheinland-Pfalz",
+        "url": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-jugendkriminalitaet-in-mainz-wie-das-haus-des-jugendrechts-grenzen-setzt-100.html",
+        "date": "2026-10-22T05:01:47.000Z",
+        "snippet": "In Mainz arbeiten Polizei, Staatsanwaltschaft und Jugendhilfe unter einem Dach. Ziel sind schnelle Konsequenzen statt Gerichtsverfahren, wenn Jugendliche straffällig geworden sind.",
+        "title": "Jugendkriminalität in Mainz: Wie das Haus des Jugendrechts Grenzen setzt"
+      }
+    ],
+    "title": "Jugendkriminalität in Mainz: Haus des Jugendrechts setzt Grenzen",
+    "summary": "Jugendkriminalität in Mainz: Haus des Jugendrechts setzt Grenzen In Mainz arbeiten Polizei, Staatsanwaltschaft und Jugendhilfe unter einem Dach. Ziel sind schnelle Konsequenzen statt Gerichtsverfahren, wenn Jugendliche straffällig geworden sind.\nJugendkriminalität in Mainz: Wie das Haus des Jugendrechts Grenzen setzt In Mainz arbeiten Polizei, Staatsanwaltschaft und Jugendhilfe unter einem Dach. Ziel sind schnelle Konsequenzen statt Gerichtsverfahren, wenn Jugendliche straffällig geworden sind."
+  },
+  {
+    "id": "story-135",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-22T07:21:49.000Z",
+    "sources": [
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQYkR6Z2hWWVdXeW9yeVhoM3BMZlZpME11YUtlWVFyYmlwTEtrdE03X21KTEwyREdmSWtEQjdBZ01NcDNkRklzOTlUTDhKQjA2MkhsU1cyRUc1T285ZENfSW83VmRrTG1FRnlMWlJaMUVmMlhSaDNrRTNQb055NWRaRGkxTVBzLWRxeHhBQVRJLWsyZXU5WFg2SDJIbFBnMy1zZXRQaGxfZVNuRDVJX2JYXzNZa2xWUUNmVjhpQzlPa1ZYb0l5X2g4MlZrX0l1VHF1WjVCNDc1a1A1UGw0aUMtbWFyUDhILWNUbjdqSkhqTFNnTjM1dWc?oc=5",
+        "date": "2026-10-22T07:21:49.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQYkR6Z2hWWVdXeW9yeVhoM3BMZlZpME11YUtlWVFyYmlwTEtrdE03X21KTEwyREdmSWtEQjdBZ01NcDNkRklzOTlUTDhKQjA2MkhsU1cyRUc1T285ZENfSW83VmRrTG1FRnlMWlJaMUVmMlhSaDNrRTNQb055NWRaRGkxTVBzLWRxeHhBQVRJLWsyZXU5WFg2SDJIbFBnMy1zZXRQaGxfZVNuRDVJX2JYXzNZa2xWUUNmVjhpQzlPa1ZYb0l5X2g4MlZrX0l1VHF1WjVCNDc1a1A1UGw0aUMtbWFyUDhILWNUbjdqSkhqTFNnTjM1dWc?oc=5\" target=\"_blank\">Grundsicherung: Union versprach Milliarden – doch die Bürgergeld-Reform spart nichts ein</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WELT</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOU3UxTzVyMmdEVGZTakVmNkNKS1lQY0FReElmaE11RFVtUXJyZ1RrSVdlUmxTZnRyR2xaVU5GeXFaR3ox",
+        "title": "Grundsicherung: Union versprach Milliarden – doch die Bürgergeld-Reform spart nichts ein - WELT"
       },
       {
         "source": "WELT",
-        "url": "https://www.welt.de/vermischtes/article6ad938882c40700de080130e/active-clubs-professionalisierung-der-gewaltkompetenz-immer-mehr-rechtsextreme-kampfsport-netzwerke.html",
-        "date": "2026-10-21T22:28:49.000Z",
-        "snippet": "Die Idee der „Active Clubs“ stammt aus den USA. Doch auch in Deutschland gibt es immer mehr rechtsextreme Kampfsport-Gruppierungen. Rekrutiert werden junge Männer etwa in Fitnessgruppen.",
-        "title": "„Professionalisierung der Gewaltkompetenz“ – Immer mehr rechtsextreme Kampfsport-Netzwerke"
+        "url": "https://www.welt.de/politik/deutschland/article6ad9ac69d7092d3a5757ab3b/grundsicherung-union-versprach-milliarden-doch-die-buergergeld-reform-spart-nichts-ein.html",
+        "date": "2026-10-22T07:20:16.000Z",
+        "snippet": "Milliarden von Euro würde der Bund durch eine Reform des Bürgergelds sparen können – so hatte die Union die Einführung der neuen Grundsicherung beworben. Experten vom Ifo-Institut kritisieren: Das Versprechen wird nicht eingelöst.",
+        "title": "Union versprach Milliarden – doch die Bürgergeld-Reform spart nichts ein"
       }
     ],
-    "title": "Extremismus - Immer mehr rechtsextreme Kampfsport-Netzwerke in Deutschland",
-    "summary": "Extremismus - Immer mehr rechtsextreme Kampfsport-Netzwerke in Deutschland Die Zahl rechtsextremer Kampfsport-Netzwerke in Deutschland steigt.\n„Professionalisierung der Gewaltkompetenz“ – Immer mehr rechtsextreme Kampfsport-Netzwerke Die Idee der „Active Clubs“ stammt aus den USA. Doch auch in Deutschland gibt es immer mehr rechtsextreme Kampfsport-Gruppierungen. Rekrutiert werden junge Männer etwa in Fitnessgruppen."
+    "title": "Grundsicherung: Union versprach Milliarden – doch die Bürgergeld-Reform spart nichts ein - WELT",
+    "summary": "Grundsicherung: Union versprach Milliarden – doch die Bürgergeld-Reform spart nichts ein - WELT <ol><li><a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQYkR6Z2hWWVdXeW9yeVhoM3BMZlZpME11YUtlWVFyYmlwTEtrdE03X21KTEwyREdmSWtEQjdBZ01NcDNkRklzOTlUTDhKQjA2MkhsU1cyRUc1T285ZENfSW83VmRrTG1FRnlMWlJaMUVmMlhSaDNrRTNQb055NWRaRGkxTVBzLWRxeHhBQVRJLWsyZXU5WFg2SDJIbFBnMy1zZXRQaGxfZVNuRDVJX2JYXzNZa2xWUUNmVjhpQzlPa1ZYb0l5X2g4MlZrX0l1VHF1WjVCNDc1a1A1UGw0aUMtbWFyUDhILWNUbjdqSkhqTFNnTjM1dWc?oc=5\" target=\"_blank\">Grundsicherung: Union versprach Milliarden – doch die Bürgergeld-Reform spart nichts ein</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WELT</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOU3UxTzVyMmdEVGZTakVmNkNKS1lQY0FReElmaE11RFVtUXJyZ1RrSVdlUmxTZnRyR2xaVU5GeXFaR3ox\nUnion versprach Milliarden – doch die Bürgergeld-Reform spart nichts ein Milliarden von Euro würde der Bund durch eine Reform des Bürgergelds sparen können – so hatte die Union die Einführung der neuen Grundsicherung beworben. Experten vom Ifo-Institut kritisieren: Das Versprechen wird nicht eingelöst."
   },
   {
-    "id": "story-68",
-    "topic": "politik",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-22T01:55:31.000Z",
-    "sources": [
-      {
-        "source": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/ermittler-durchsuchen-bueros-von-rechter-fraktion-im-europarlament-106.html",
-        "date": "2026-10-22T01:55:31.000Z",
-        "snippet": "Im Europaparlament sind Büros der rechtsgerichteten \"Patrioten\"-Fraktion durchsucht worden.",
-        "title": "Brüssel und Straßburg - Ermittler durchsuchen Büros von rechter Fraktion im Europarlament"
-      },
-      {
-        "source": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/ausland/bruessel-und-strassburg-ermittler-durchsuchen-bueros-rechter-fraktion-im-eu-parlament-a-8f50684f-8092-483d-9fd0-7ff67bdd599c#ref=rss",
-        "date": "2026-10-21T16:51:00.000Z",
-        "snippet": "Die Europäische Staatsanwaltschaft hat Büros der Patrioten-Fraktion durchsucht. Es geht um möglichen Missbrauch von 4,3 Millionen Euro durch Mitglieder der aufgelösten ID-Fraktion. Dieser gehörte auch die AfD an.",
-        "title": "Brüssel und Straßburg: Ermittler durchsuchen Büros rechter Fraktion im EU-Parlament"
-      }
-    ],
-    "title": "Brüssel und Straßburg - Ermittler durchsuchen Büros von rechter Fraktion im Europarlament",
-    "summary": "Brüssel und Straßburg - Ermittler durchsuchen Büros von rechter Fraktion im Europarlament Im Europaparlament sind Büros der rechtsgerichteten \"Patrioten\"-Fraktion durchsucht worden.\nBrüssel und Straßburg: Ermittler durchsuchen Büros rechter Fraktion im EU-Parlament Die Europäische Staatsanwaltschaft hat Büros der Patrioten-Fraktion durchsucht. Es geht um möglichen Missbrauch von 4,3 Millionen Euro durch Mitglieder der aufgelösten ID-Fraktion. Dieser gehörte auch die AfD an."
-  },
-  {
-    "id": "story-112",
+    "id": "story-140",
     "topic": "panorama",
     "country": "PT",
     "stateHint": "",
-    "date": "2026-10-22T01:00:27.000Z",
+    "date": "2026-10-22T07:19:50.000Z",
     "sources": [
-      {
-        "source": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/pais/manifestantes-decidiram-pernoitar-no-rossio-apesar-dos-alertas-da-psp_e1773164",
-        "date": "2026-10-22T01:00:27.000Z",
-        "snippet": "A assembleia popular do acampamento em Lisboa votou favoravelmente uma proposta para voltar a pernoitar na praça do Rossio, mas sem tendas. Acompanhámos aqui todos os desenvolvimentos.",
-        "title": "Manifestantes decidiram pernoitar no Rossio apesar dos alertas da PSP"
-      },
       {
         "source": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdUhIOER1Ung3R3ZQU3FmZjhxR0RhSWJzb2hNZ1ZEc05mdjhEdk1TNnkyM0Z4WjRFUXRPaEhXczBlclkxTzJ1aFVNcEY5MUVMdTFxV3NnWTQzM2x6YnVncjVPZFktb1llZ21HblJmdzQxQ3RqQWRodmp1Q2lIVXhqUGRqMllHYWxGcVhiMTR2YkNwVHhvNGMyeFV1NkZTYTlIalVwR1M3Z1Bud1JYVTlnN0ZHNEk0djllUmRDYnVUX2p6anlPaHlBUA?oc=5",
-        "date": "2026-10-22T00:00:27.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdUhIOER1Ung3R3ZQU3FmZjhxR0RhSWJzb2hNZ1ZEc05mdjhEdk1TNnkyM0Z4WjRFUXRPaEhXczBlclkxTzJ1aFVNcEY5MUVMdTFxV3NnWTQzM2x6YnVncjVPZFktb1llZ21HblJmdzQxQ3RqQWRodmp1Q2lIVXhqUGRqMllHYWxGcVhiMTR2YkNwVHhvNGMyeFV1NkZTYTlIalVwR1M3Z1Bud1JYVTlnN0ZHNEk0djllUmRDYnVUX2p6anlPaHlBUA?oc=5\" target=\"_blank\">Manifestantes decidiram pernoitar no Rossio esta quarta-feira apesar dos alertas da PSP</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVUdHLVozZ1hGMjZGejdPZWNNRzZuVXlEM0d4V2JxcE44QkYybU1vNFpVUVVCMVQ0eEk1TWtGS1FzWmEtaHBRVXd5WUlmVE9GVXdxaDExd0dkTnpiZW00a2VmOHNscXJJQmRlVHFJUVg1ZGh",
-        "title": "Manifestantes decidiram pernoitar no Rossio esta quarta-feira apesar dos alertas da PSP - RTP"
-      }
-    ],
-    "title": "Manifestantes decidiram pernoitar no Rossio apesar dos alertas da PSP",
-    "summary": "Manifestantes decidiram pernoitar no Rossio apesar dos alertas da PSP A assembleia popular do acampamento em Lisboa votou favoravelmente uma proposta para voltar a pernoitar na praça do Rossio, mas sem tendas. Acompanhámos aqui todos os desenvolvimentos.\nManifestantes decidiram pernoitar no Rossio esta quarta-feira apesar dos alertas da PSP - RTP <ol><li><a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdUhIOER1Ung3R3ZQU3FmZjhxR0RhSWJzb2hNZ1ZEc05mdjhEdk1TNnkyM0Z4WjRFUXRPaEhXczBlclkxTzJ1aFVNcEY5MUVMdTFxV3NnWTQzM2x6YnVncjVPZFktb1llZ21HblJmdzQxQ3RqQWRodmp1Q2lIVXhqUGRqMllHYWxGcVhiMTR2YkNwVHhvNGMyeFV1NkZTYTlIalVwR1M3Z1Bud1JYVTlnN0ZHNEk0djllUmRDYnVUX2p6anlPaHlBUA?oc=5\" target=\"_blank\">Manifestantes decidiram pernoitar no Rossio esta quarta-feira apesar dos alertas da PSP</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVUdHLVozZ1hGMjZGejdPZWNNRzZuVXlEM0d4V2JxcE44QkYybU1vNFpVUVVCMVQ0eEk1TWtGS1FzWmEtaHBRVXd5WUlmVE9GVXdxaDExd0dkTnpiZW00a2VmOHNscXJJQmRlVHFJUVg1ZGh"
-  },
-  {
-    "id": "story-153",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-21T23:35:26.000Z",
-    "sources": [
-      {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPM1E4ZzcybFdkVWhqV1ZMSlVnUE9KdVZVUTBSbmxPMkttV0ZiQUVFaGdfc1BhMXdORDQwVE9HTkRRb0laSkRJalUya1ZtTFQ2ZFVvTFZ2YlBJZkpYVGtIc1IycUVjN2MzRE5PeGl6djJpRTRUTTJMWEVKUVJDX2pER3ViQWxmMlFtVkJzbmpQYUhqTmwtZjNvTTh0bUtyNlpMRWJyU1RTQXZYNXltbU9nTlBlZF9wQkZCSnA2d1lkME8wcVZzWDZ6ZXh6c3BLTklpUmxDaGJlREFmb2U4MTNHTUtob0d3c21E?oc=5",
-        "date": "2026-10-21T23:35:26.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPM1E4ZzcybFdkVWhqV1ZMSlVnUE9KdVZVUTBSbmxPMkttV0ZiQUVFaGdfc1BhMXdORDQwVE9HTkRRb0laSkRJalUya1ZtTFQ2ZFVvTFZ2YlBJZkpYVGtIc1IycUVjN2MzRE5PeGl6djJpRTRUTTJMWEVKUVJDX2pER3ViQWxmMlFtVkJzbmpQYUhqTmwtZjNvTTh0bUtyNlpMRWJyU1RTQXZYNXltbU9nTlBlZF9wQkZCSnA2d1lkME8wcVZzWDZ6ZXh6c3BLTklpUmxDaGJlREFmb2U4MTNHTUtob0d3c21E?oc=5\" target=\"_blank\">Blauer Panther: AfD-„Jäger“ als beliebteste Social-Media-Persönlichkeit ausgezeichnet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WELT</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOWUpneDMyZGhOS1ZWZGFaRXBaOXN3THg1YWZuOVI0X3A4T3FPOGZXZFJCbllNSGZIUk0tM3VlOXRyOFdsZEVjQk1fdi1QTnJncko4b0",
-        "title": "Blauer Panther: AfD-„Jäger“ als beliebteste Social-Media-Persönlichkeit ausgezeichnet - WELT"
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTTJhVjFsanVVd2ZiTnRma2M4dHcxVzZHUWxWZVltdUdXY2QyM003cjJZSk13UlZJc3AzQzRlVlpLMTJMRGNKalUtYlhabU5EWHNzLVNRallYaTJrTDdHMGEzMWhaeU52azB0MnVDa0twczRRZEZVWXl6Q0RqZmNoMVlUWlliQVppZVhGRjBQZktSQjBrS0w1ZlJtVXE4Z1JIVERVM041WF9ZaWdQR0lTalVrWDN0WDhUTTdvbmp2MVlVUkR0LVRaYWFOYlh4alhU0gHLAUFVX3lxTFAzNG1fSnpmN3ltRVg4TWY0MWdtWk41NzI2bHBlYlBQMlE1eE9fQUZBTWxPMnJ6ZmZsS0tUaWhadURvR3QtOVFYa2hrTzgwNDVDSWlfZEppMXFTMWEyejdPbHZsY2JBTjJDQXJkX2h3bXZmWlM5ekF2czZkVWg4OW5CYm15LUhMbDJsVmc2LUNyenJpR1NtUlpwXzNxbE0xOHg1R0ZBcF9INUItUng0ZkE0cUpqMEdxUWp5WkhPR1BXWVREZXVrWVZmVmxV?oc=5",
+        "date": "2026-10-22T07:19:50.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTTJhVjFsanVVd2ZiTnRma2M4dHcxVzZHUWxWZVltdUdXY2QyM003cjJZSk13UlZJc3AzQzRlVlpLMTJMRGNKalUtYlhabU5EWHNzLVNRallYaTJrTDdHMGEzMWhaeU52azB0MnVDa0twczRRZEZVWXl6Q0RqZmNoMVlUWlliQVppZVhGRjBQZktSQjBrS0w1ZlJtVXE4Z1JIVERVM041WF9ZaWdQR0lTalVrWDN0WDhUTTdvbmp2MVlVUkR0LVRaYWFOYlh4alhU0gHLAUFVX3lxTFAzNG1fSnpmN3ltRVg4TWY0MWdtWk41NzI2bHBlYlBQMlE1eE9fQUZBTWxPMnJ6ZmZsS0tUaWhadURvR3QtOVFYa2hrTzgwNDVDSWlfZEppMXFTMWEyejdPbHZsY2JBTjJDQXJkX2h3bXZmWlM5ekF2czZkVWg4OW5CYm15LUhMbDJsVmc2LUNyenJpR1NtUlpwXzNxbE0xOHg1R0ZBcF9INUItUng0ZkE0cUpqMEdxUWp5WkhPR1BXWVREZXVrWVZmVmxV?oc=5\" target=\"_blank\">Mais de 300 manifestantes decidiram dormir ao relento após desm",
+        "title": "Mais de 300 manifestantes decidiram dormir ao relento após desmontarem tendas no Rossio - Correio da Manhã"
       },
       {
-        "source": "WELT",
-        "url": "https://www.welt.de/vermischtes/article6ad9444f2c40700de080134b/blauer-panther-afd-jaeger-als-beliebteste-social-media-persoenlichkeit-ausgezeichnet.html",
-        "date": "2026-10-21T23:21:34.000Z",
-        "snippet": "Mit Argumenten versucht er, Rechte auf der Straße zu stellen: Der YouTuber Marcant erhält für seine „politische Aufklärungsarbeit“ jetzt den Medienpreis „Blauer Panther“ als „Beliebteste Social-Media-Persönlichkeit“.",
-        "title": "AfD-„Jäger“ als beliebteste Social-Media-Persönlichkeit ausgezeichnet"
+        "source": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/pais/manifestantes-em-lisboa-decidem-desmontar-tendas-no-rossio-e-dormir-ao-relento_n1773392",
+        "date": "2026-10-22T06:47:32.000Z",
+        "snippet": "",
+        "title": "Manifestantes em Lisboa decidem desmontar tendas no Rossio e dormir ao relento"
       }
     ],
-    "title": "Blauer Panther: AfD-„Jäger“ als beliebteste Social-Media-Persönlichkeit ausgezeichnet - WELT",
-    "summary": "Blauer Panther: AfD-„Jäger“ als beliebteste Social-Media-Persönlichkeit ausgezeichnet - WELT <ol><li><a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPM1E4ZzcybFdkVWhqV1ZMSlVnUE9KdVZVUTBSbmxPMkttV0ZiQUVFaGdfc1BhMXdORDQwVE9HTkRRb0laSkRJalUya1ZtTFQ2ZFVvTFZ2YlBJZkpYVGtIc1IycUVjN2MzRE5PeGl6djJpRTRUTTJMWEVKUVJDX2pER3ViQWxmMlFtVkJzbmpQYUhqTmwtZjNvTTh0bUtyNlpMRWJyU1RTQXZYNXltbU9nTlBlZF9wQkZCSnA2d1lkME8wcVZzWDZ6ZXh6c3BLTklpUmxDaGJlREFmb2U4MTNHTUtob0d3c21E?oc=5\" target=\"_blank\">Blauer Panther: AfD-„Jäger“ als beliebteste Social-Media-Persönlichkeit ausgezeichnet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WELT</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOWUpneDMyZGhOS1ZWZGFaRXBaOXN3THg1YWZuOVI0X3A4T3FPOGZXZFJCbllNSGZIUk0tM3VlOXRyOFdsZEVjQk1fdi1QTnJncko4b0\nAfD-„Jäger“ als beliebteste Social-Media-Persönlichkeit ausgezeichnet Mit Argumenten versucht er, Rechte auf der Straße zu stellen: Der YouTuber Marcant erhält für seine „politische Aufklärungsarbeit“ jetzt den Medienpreis „Blauer Panther“ als „Beliebteste Social-Media-Persönlichkeit“."
+    "title": "Mais de 300 manifestantes decidiram dormir ao relento após desmontarem tendas no Rossio - Correio da Manhã",
+    "summary": "Mais de 300 manifestantes decidiram dormir ao relento após desmontarem tendas no Rossio - Correio da Manhã <ol><li><a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTTJhVjFsanVVd2ZiTnRma2M4dHcxVzZHUWxWZVltdUdXY2QyM003cjJZSk13UlZJc3AzQzRlVlpLMTJMRGNKalUtYlhabU5EWHNzLVNRallYaTJrTDdHMGEzMWhaeU52azB0MnVDa0twczRRZEZVWXl6Q0RqZmNoMVlUWlliQVppZVhGRjBQZktSQjBrS0w1ZlJtVXE4Z1JIVERVM041WF9ZaWdQR0lTalVrWDN0WDhUTTdvbmp2MVlVUkR0LVRaYWFOYlh4alhU0gHLAUFVX3lxTFAzNG1fSnpmN3ltRVg4TWY0MWdtWk41NzI2bHBlYlBQMlE1eE9fQUZBTWxPMnJ6ZmZsS0tUaWhadURvR3QtOVFYa2hrTzgwNDVDSWlfZEppMXFTMWEyejdPbHZsY2JBTjJDQXJkX2h3bXZmWlM5ekF2czZkVWg4OW5CYm15LUhMbDJsVmc2LUNyenJpR1NtUlpwXzNxbE0xOHg1R0ZBcF9INUItUng0ZkE0cUpqMEdxUWp5WkhPR1BXWVREZXVrWVZmVmxV?oc=5\" target=\"_blank\">Mais de 300 manifestantes decidiram dormir ao relento após desm\nManifestantes em Lisboa decidem desmontar tendas no Rossio e dormir ao relento "
   },
   {
-    "id": "story-159",
+    "id": "story-161",
+    "topic": "panorama",
+    "country": "INT",
+    "stateHint": "",
+    "date": "2026-10-22T07:09:00.000Z",
+    "sources": [
+      {
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZVgyU3dEVm55RnZxSHRCV05XM0NWX05Dbll5Z1BzbkpnQ0hGWnFRMnlrcGM0UG5tSklPeDQwUUthZGJSLXdKY2w0RFhJVjIyU0FWWHNEODBKX2gwalRHRHFxZ0lOcGpiamtNTHZ3SmthS1p6dlh2TkM0OWdZVjBuUXE3SThnaWdGNFk2cEdvLU4ycUlqeWFzai1VTU5ncW1kSVRDMw?oc=5",
+        "date": "2026-10-22T07:09:00.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPZVgyU3dEVm55RnZxSHRCV05XM0NWX05Dbll5Z1BzbkpnQ0hGWnFRMnlrcGM0UG5tSklPeDQwUUthZGJSLXdKY2w0RFhJVjIyU0FWWHNEODBKX2gwalRHRHFxZ0lOcGpiamtNTHZ3SmthS1p6dlh2TkM0OWdZVjBuUXE3SThnaWdGNFk2cEdvLU4ycUlqeWFzai1VTU5ncW1kSVRDMw?oc=5\" target=\"_blank\">Beau Lamarre-Condon visits McDonald’s drive-thru in van allegedly used to dispose of bodies, in CCTV shown to jury</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+        "title": "Beau Lamarre-Condon visits McDonald’s drive-thru in van allegedly used to dispose of bodies, in CCTV shown to jury - The Guardian"
+      },
+      {
+        "source": "Guardian World",
+        "url": "https://www.theguardian.com/australia-news/2026/oct/22/beau-lamarre-condon-trial-mcdonalds-cctv-ntwnfb",
+        "date": "2026-10-22T07:07:54.000Z",
+        "snippet": "<p>CCTV footage shows the police officer buying fast food, attending hospital, and visiting three separate Bunnings stores in the days after the alleged murder</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Beau Lamarre-Condon ordered food from a McDonald’s drive-thru in a van allegedly used to dispose of two bodies, footage released by the court has shown.</p><p>Lamarre-Condon, 31, is accused of fatally shooting Sydney couple, Jesse Baird and Luk",
+        "title": "Beau Lamarre-Condon visits McDonald’s drive-thru in van allegedly used to dispose of bodies, in CCTV shown to jury"
+      }
+    ],
+    "title": "Beau Lamarre-Condon visits McDonald’s drive-thru in van allegedly used to dispose of bodies, in CCTV shown to jury - The Guardian",
+    "summary": "Beau Lamarre-Condon visits McDonald’s drive-thru in van allegedly used to dispose of bodies, in CCTV shown to jury - The Guardian <a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPZVgyU3dEVm55RnZxSHRCV05XM0NWX05Dbll5Z1BzbkpnQ0hGWnFRMnlrcGM0UG5tSklPeDQwUUthZGJSLXdKY2w0RFhJVjIyU0FWWHNEODBKX2gwalRHRHFxZ0lOcGpiamtNTHZ3SmthS1p6dlh2TkM0OWdZVjBuUXE3SThnaWdGNFk2cEdvLU4ycUlqeWFzai1VTU5ncW1kSVRDMw?oc=5\" target=\"_blank\">Beau Lamarre-Condon visits McDonald’s drive-thru in van allegedly used to dispose of bodies, in CCTV shown to jury</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>\nBeau Lamarre-Condon visits McDonald’s drive-thru in van allegedly used to dispose of bodies, in CCTV shown to jury <p>CCTV footage shows the police officer buying fast food, attending hospital, and visiting three separate Bunnings stores in the days after the alleged murder</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Beau Lamarre-Condon ordered food from a McDonald’s drive-thru in a van allegedly used to dispose of two bodies, footage released by the court has shown.</p><p>Lamarre-Condon, 31, is accused of fatally shooting Sydney couple, Jesse Baird and Luk"
+  },
+  {
+    "id": "story-175",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
-    "date": "2026-10-21T23:27:35.000Z",
+    "date": "2026-10-22T06:59:36.000Z",
     "sources": [
       {
         "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWWxMazkyM0U3V2RtZ1FtUXMzTmhaWVJsenBxQ1JiOWd2ODNTSGhSVzh2WHZILURZVmtsX1NSa0Y0dGxyOEhRcTlsN0hoQ2lub0xzVFdfbHo1a1JGT1l6VEoxN2RpY0d2aU5IRVY3QlptWm1hRHFSZWMyZnc1WmtVVGNQcVZlUTFwUDZLY29uNGJIV2I5N0s1bG80VEtpYTBLRm1TOC1n?oc=5",
-        "date": "2026-10-21T23:27:35.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPWWxMazkyM0U3V2RtZ1FtUXMzTmhaWVJsenBxQ1JiOWd2ODNTSGhSVzh2WHZILURZVmtsX1NSa0Y0dGxyOEhRcTlsN0hoQ2lub0xzVFdfbHo1a1JGT1l6VEoxN2RpY0d2aU5IRVY3QlptWm1hRHFSZWMyZnc1WmtVVGNQcVZlUTFwUDZLY29uNGJIV2I5N0s1bG80VEtpYTBLRm1TOC1n?oc=5\" target=\"_blank\">Proteste in Frankreich: Marine Le Pen legt in Umfrage zur Präsidentschaftswahl zu</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DIE ZEIT</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc2Jsdnh3NFp3TkstTmNnb3ZvdzRTZGVXWTN3b2k4NWNncmJBcjFUQURQX2dwakpYaTQwZG93WnllcDJSUUhOWHRwdVpiWDEwU1BpVDBvSU9PVVZqRlNDLTdvVTBQWHcwRk1INmFGLTE1emdJaHh6ckJRV1QwWU9LbDRKWnFTT0RRcFRkOUNOLU1ibHRVdk",
-        "title": "Proteste in Frankreich: Marine Le Pen legt in Umfrage zur Präsidentschaftswahl zu - DIE ZEIT"
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUFJHWUkzZTRqVHM5aEczSEpNcE5zb1JjTTU0ZGcwU191Ykt3RG5PSm9LT1VNVUZMRnRxTkYyLS0ycWdaSkE0dFktMmV5R3NFbWl5N2g4MThjeW50S0tic1YzSHRzR01QNkFSS2NURDZlbTlfWFg1Ynl3Y2Rtc2ktelFoWWR6TmNQdDlwYW44a0dhT3NnY1B4RG1Wb2ZCbklmQUhwUmdPTWxJdEpQd2M2T0lzR2d3UU9BU3JWVXVvc3Y?oc=5",
+        "date": "2026-10-22T06:59:36.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUFJHWUkzZTRqVHM5aEczSEpNcE5zb1JjTTU0ZGcwU191Ykt3RG5PSm9LT1VNVUZMRnRxTkYyLS0ycWdaSkE0dFktMmV5R3NFbWl5N2g4MThjeW50S0tic1YzSHRzR01QNkFSS2NURDZlbTlfWFg1Ynl3Y2Rtc2ktelFoWWR6TmNQdDlwYW44a0dhT3NnY1B4RG1Wb2ZCbklmQUhwUmdPTWxJdEpQd2M2T0lzR2d3UU9BU3JWVXVvc3Y?oc=5\" target=\"_blank\">Sachsen-Anhalt: CDU-Abgeordneter will bei Ministerpräsidentenwahl im Saal bleiben</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DIE ZEIT</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxORlpMT3RIbmVxMnNTNm9JWTZxQzdJWTRGVnpOWU1acFR5M1pib0VPbHlmQWRRelkwTzVLWmtQTmQ1Uzlfc1Jvak5ubnVwMklwc2hwdVl1M0RlTW1pdnY3aWE4a1ZiOGlaR2U5VWxQamRKQ3VNb2s3aXVCV1F",
+        "title": "Sachsen-Anhalt: CDU-Abgeordneter will bei Ministerpräsidentenwahl im Saal bleiben - DIE ZEIT"
       },
       {
         "source": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/politik/ausland/2026-10/marine-le-pen-praesidentschaftswahl-umfrage-frankreich-ifop",
-        "date": "2026-10-21T23:27:35.000Z",
-        "snippet": "Die französische Rechtspopulistin Le Pen gewinnt nach den Protesten an Zustimmung. Für die Ausschreitungen machte sie die Regierung von Emmanuel Macron verantwortlich.",
-        "title": "Proteste in Frankreich: Marine Le Pen legt in Umfrage zur Präsidentschaftswahl zu"
+        "url": "https://www.zeit.de/politik/deutschland/2026-10/guido-heuer-cdu-sachsen-anhalt-ulrich-siegmund-ministerpraesidentenwahl-gxe",
+        "date": "2026-10-22T06:59:36.000Z",
+        "snippet": "Der CDU-Politiker Guido Heuer stellt sich gegen seine Fraktion: Er will an der Wahl des AfD-Politikers Ulrich Siegmund teilnehmen. Wen er wählen will, lässt er offen.",
+        "title": "Sachsen-Anhalt: CDU-Abgeordneter will bei Ministerpräsidentenwahl im Saal bleiben"
       }
     ],
-    "title": "Proteste in Frankreich: Marine Le Pen legt in Umfrage zur Präsidentschaftswahl zu - DIE ZEIT",
-    "summary": "Proteste in Frankreich: Marine Le Pen legt in Umfrage zur Präsidentschaftswahl zu - DIE ZEIT <ol><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPWWxMazkyM0U3V2RtZ1FtUXMzTmhaWVJsenBxQ1JiOWd2ODNTSGhSVzh2WHZILURZVmtsX1NSa0Y0dGxyOEhRcTlsN0hoQ2lub0xzVFdfbHo1a1JGT1l6VEoxN2RpY0d2aU5IRVY3QlptWm1hRHFSZWMyZnc1WmtVVGNQcVZlUTFwUDZLY29uNGJIV2I5N0s1bG80VEtpYTBLRm1TOC1n?oc=5\" target=\"_blank\">Proteste in Frankreich: Marine Le Pen legt in Umfrage zur Präsidentschaftswahl zu</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DIE ZEIT</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc2Jsdnh3NFp3TkstTmNnb3ZvdzRTZGVXWTN3b2k4NWNncmJBcjFUQURQX2dwakpYaTQwZG93WnllcDJSUUhOWHRwdVpiWDEwU1BpVDBvSU9PVVZqRlNDLTdvVTBQWHcwRk1INmFGLTE1emdJaHh6ckJRV1QwWU9LbDRKWnFTT0RRcFRkOUNOLU1ibHRVdk\nProteste in Frankreich: Marine Le Pen legt in Umfrage zur Präsidentschaftswahl zu Die französische Rechtspopulistin Le Pen gewinnt nach den Protesten an Zustimmung. Für die Ausschreitungen machte sie die Regierung von Emmanuel Macron verantwortlich."
+    "title": "Sachsen-Anhalt: CDU-Abgeordneter will bei Ministerpräsidentenwahl im Saal bleiben - DIE ZEIT",
+    "summary": "Sachsen-Anhalt: CDU-Abgeordneter will bei Ministerpräsidentenwahl im Saal bleiben - DIE ZEIT <ol><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUFJHWUkzZTRqVHM5aEczSEpNcE5zb1JjTTU0ZGcwU191Ykt3RG5PSm9LT1VNVUZMRnRxTkYyLS0ycWdaSkE0dFktMmV5R3NFbWl5N2g4MThjeW50S0tic1YzSHRzR01QNkFSS2NURDZlbTlfWFg1Ynl3Y2Rtc2ktelFoWWR6TmNQdDlwYW44a0dhT3NnY1B4RG1Wb2ZCbklmQUhwUmdPTWxJdEpQd2M2T0lzR2d3UU9BU3JWVXVvc3Y?oc=5\" target=\"_blank\">Sachsen-Anhalt: CDU-Abgeordneter will bei Ministerpräsidentenwahl im Saal bleiben</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DIE ZEIT</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxORlpMT3RIbmVxMnNTNm9JWTZxQzdJWTRGVnpOWU1acFR5M1pib0VPbHlmQWRRelkwTzVLWmtQTmQ1Uzlfc1Jvak5ubnVwMklwc2hwdVl1M0RlTW1pdnY3aWE4a1ZiOGlaR2U5VWxQamRKQ3VNb2s3aXVCV1F\nSachsen-Anhalt: CDU-Abgeordneter will bei Ministerpräsidentenwahl im Saal bleiben Der CDU-Politiker Guido Heuer stellt sich gegen seine Fraktion: Er will an der Wahl des AfD-Politikers Ulrich Siegmund teilnehmen. Wen er wählen will, lässt er offen."
   },
   {
-    "id": "story-170",
+    "id": "story-191",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-22T06:54:06.000Z",
+    "sources": [
+      {
+        "source": "RND",
+        "url": "https://www.rnd.de/sport/champions-league-der-fc-bayern-wird-gegen-den-fc-arsenal-zum-harry-kane-team-W5ESDNEBDJDRVFKHYROPDR27NY.html",
+        "date": "2026-10-22T06:54:06.000Z",
+        "snippet": "Bayern-Stürmer Harry Kane interpretiert seine Rolle als Positionswechsler beim Remis gegen den englischen Meister so radikal wie nie, schießt Abstöße und spielt Traumpässe. Das liegt auch daran, dass wichtige Spieler fehlen. Auf Dauer kann Kane die Münchner aber nicht alleine tragen.",
+        "title": "Champions League: Der FC Bayern wird gegen den FC Arsenal zum Harry-Kane-Team"
+      },
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-in-der-champions-league-harry-kane-glaenzt-bei-remis-gegen-fc-arsenal-a-42ef91ab-056e-4fc8-87b1-d14f147d090d#ref=rss",
+        "date": "2026-10-21T21:43:00.000Z",
+        "snippet": "Mit einer Notoffensive trat der FC Bayern gegen den englischen Meister an. Trotzdem sah es dank Allzweckwaffe Harry Kane lange nach einem Sieg aus. Sorgen bereitet die Kadertiefe der Münchner.",
+        "title": "FC Bayern München in der Champions League: Harry Kane glänzt bei Remis gegen FC Arsenal"
+      }
+    ],
+    "title": "Champions League: Der FC Bayern wird gegen den FC Arsenal zum Harry-Kane-Team",
+    "summary": "Champions League: Der FC Bayern wird gegen den FC Arsenal zum Harry-Kane-Team Bayern-Stürmer Harry Kane interpretiert seine Rolle als Positionswechsler beim Remis gegen den englischen Meister so radikal wie nie, schießt Abstöße und spielt Traumpässe. Das liegt auch daran, dass wichtige Spieler fehlen. Auf Dauer kann Kane die Münchner aber nicht alleine tragen.\nFC Bayern München in der Champions League: Harry Kane glänzt bei Remis gegen FC Arsenal Mit einer Notoffensive trat der FC Bayern gegen den englischen Meister an. Trotzdem sah es dank Allzweckwaffe Harry Kane lange nach einem Sieg aus. Sorgen bereitet die Kadertiefe der Münchner."
+  },
+  {
+    "id": "story-237",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-22T06:35:00.000Z",
+    "sources": [
+      {
+        "source": "ntv",
+        "url": "https://www.n-tv.de/sport/fussball/Julian-Nagelsmann-zu-Manchester-United-Blamierter-Fussball-Gigant-droht-krachend-zu-zerbersten-id31444875.html",
+        "date": "2026-10-22T06:35:00.000Z",
+        "snippet": "Nach einer erschreckend schwachen Leistung verliert Manchester United deutlich bei Champions-League-Neuling Como. Der Druck auf Trainer Carrick wird damit immer größer.",
+        "title": "Carragher in Rage: \"Schande\" : Blamage, Zoff, Scham: Panisches Manchester United zerstört sich selbst"
+      },
+      {
+        "source": "RND",
+        "url": "https://www.rnd.de/sport/champions-league-como-schlaegt-manchester-united-4-1-druck-auf-trainer-carrick-waechst-VL4C7ETQR5HBZD7FP7MGXGNJKA.html",
+        "date": "2026-10-21T21:20:49.000Z",
+        "snippet": "Nach einer erschreckend schwachen Leistung verliert Manchester United deutlich bei Champions-League-Neuling AC Como. Der Druck auf Trainer Michael Carrick wird damit immer größer. Aston Villa um Leon Goretzka bleibt makellos.",
+        "title": "Champions League: Como schlägt Manchester United 4:1 – Druck auf Trainer Carrick wächst"
+      }
+    ],
+    "title": "Carragher in Rage: \"Schande\" : Blamage, Zoff, Scham: Panisches Manchester United zerstört sich selbst",
+    "summary": "Carragher in Rage: \"Schande\" : Blamage, Zoff, Scham: Panisches Manchester United zerstört sich selbst Nach einer erschreckend schwachen Leistung verliert Manchester United deutlich bei Champions-League-Neuling Como. Der Druck auf Trainer Carrick wird damit immer größer.\nChampions League: Como schlägt Manchester United 4:1 – Druck auf Trainer Carrick wächst Nach einer erschreckend schwachen Leistung verliert Manchester United deutlich bei Champions-League-Neuling AC Como. Der Druck auf Trainer Michael Carrick wird damit immer größer. Aston Villa um Leon Goretzka bleibt makellos."
+  },
+  {
+    "id": "story-249",
+    "topic": "technik",
+    "country": "UK",
+    "stateHint": "",
+    "date": "2026-10-22T06:24:59.000Z",
+    "sources": [
+      {
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-22T06:24:59.000Z",
+        "snippet": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+        "title": "What is PHP and why did it spark a global cyber-security scramble?"
+      },
+      {
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1V0VTbm4wQ3BmN1hGMnNiSFRrU3FMTlNGcEV4Nzl4RVgzRk9NNjZIWXVkaWdFVElIZVRQUGdjbWZ6Wk1CUHM5djJJMGxqZVFlVjJqQ2tjUWRoZTg?oc=5",
+        "date": "2026-10-22T06:24:59.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1V0VTbm4wQ3BmN1hGMnNiSFRrU3FMTlNGcEV4Nzl4RVgzRk9NNjZIWXVkaWdFVElIZVRQUGdjbWZ6Wk1CUHM5djJJMGxqZVFlVjJqQ2tjUWRoZTg?oc=5\" target=\"_blank\">PHP: What is it and why did it spark a global cyber security scramble?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+        "title": "PHP: What is it and why did it spark a global cyber security scramble? - BBC"
+      }
+    ],
+    "title": "What is PHP and why did it spark a global cyber-security scramble?",
+    "summary": "What is PHP and why did it spark a global cyber-security scramble? AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.\nPHP: What is it and why did it spark a global cyber security scramble? - BBC <a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1V0VTbm4wQ3BmN1hGMnNiSFRrU3FMTlNGcEV4Nzl4RVgzRk9NNjZIWXVkaWdFVElIZVRQUGdjbWZ6Wk1CUHM5djJJMGxqZVFlVjJqQ2tjUWRoZTg?oc=5\" target=\"_blank\">PHP: What is it and why did it spark a global cyber security scramble?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>"
+  },
+  {
+    "id": "story-269",
+    "topic": "sport",
+    "country": "INT",
+    "stateHint": "",
+    "date": "2026-10-22T06:13:33.000Z",
+    "sources": [
+      {
+        "source": "France24 English",
+        "url": "https://www.france24.com/en/tv-shows/sports/20261022-manchester-united-blown-out-of-the-water-by-como-in-champions-league-rout",
+        "date": "2026-10-22T06:13:33.000Z",
+        "snippet": "Michael Carrick's side saw their winless run extend to seven matches in all competitions as a Nico Paz double powered the Italian side to an emphatic 4-1 win on Wednesday night.",
+        "title": "Manchester United blown out of the water by Como in Champions League rout"
+      },
+      {
+        "source": "Guardian Sport",
+        "url": "https://www.theguardian.com/football/live/2026/oct/21/como-v-manchester-united-champions-league-live",
+        "date": "2026-10-21T19:20:14.000Z",
+        "snippet": "<p>A dismal Manchester United performance ended in an emphatic defeat to Cesc Fàbregas’s completely dominant Como side </p><p><strong>The players are on the pitch</strong> and very nearly ready to go.</p><p><strong>Poor mascot coming out to pick up the match ball</strong> looks like someone just dragged him out of a ditch.</p> <a href=\"https://www.theguardian.com/football/live/2026/oct/21/como-v-manchester-united-champions-league-live\">Continue reading...</a>",
+        "title": "Como 4-1 Manchester United: Champions League – as it happened"
+      }
+    ],
+    "title": "Manchester United blown out of the water by Como in Champions League rout",
+    "summary": "Manchester United blown out of the water by Como in Champions League rout Michael Carrick's side saw their winless run extend to seven matches in all competitions as a Nico Paz double powered the Italian side to an emphatic 4-1 win on Wednesday night.\nComo 4-1 Manchester United: Champions League – as it happened <p>A dismal Manchester United performance ended in an emphatic defeat to Cesc Fàbregas’s completely dominant Como side </p><p><strong>The players are on the pitch</strong> and very nearly ready to go.</p><p><strong>Poor mascot coming out to pick up the match ball</strong> looks like someone just dragged him out of a ditch.</p> <a href=\"https://www.theguardian.com/football/live/2026/oct/21/como-v-manchester-united-champions-league-live\">Continue reading...</a>"
+  },
+  {
+    "id": "story-299",
+    "topic": "panorama",
+    "country": "INT",
+    "stateHint": "",
+    "date": "2026-10-22T05:51:00.000Z",
+    "sources": [
+      {
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd0xvQ3NUbWdvZnhCWUZNQ1hzd2ExQ25QNzIwZUFUUENBM1FKelZ6d0FqZ3ZVdWc4WHFDRk1ld2E5OWhKLXNlS01ySFFBQnIyVU5HUTFMSWZWRDFrWFhVQWxTLUkzdUdKdm5VZlUwZy15XzkyMjlheWFwRjZOeTMySU04Zmc2bDhPRmt6V0xSbEFzOVNfSVJ6YV9MbThLOWhSazdmTkxhcEcxTHFqMDNxUXlQOGk3ZFhFY29JVk1qSzR5Rlp0LWY3dmh3UzBCelNWdGJ2Zw?oc=5",
+        "date": "2026-10-22T05:51:00.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd0xvQ3NUbWdvZnhCWUZNQ1hzd2ExQ25QNzIwZUFUUENBM1FKelZ6d0FqZ3ZVdWc4WHFDRk1ld2E5OWhKLXNlS01ySFFBQnIyVU5HUTFMSWZWRDFrWFhVQWxTLUkzdUdKdm5VZlUwZy15XzkyMjlheWFwRjZOeTMySU04Zmc2bDhPRmt6V0xSbEFzOVNfSVJ6YV9MbThLOWhSazdmTkxhcEcxTHFqMDNxUXlQOGk3ZFhFY29JVk1qSzR5Rlp0LWY3dmh3UzBCelNWdGJ2Zw?oc=5\" target=\"_blank\">Airbnb guests freed from chores involving ‘significant effort’ under new global rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+        "title": "Airbnb guests freed from chores involving ‘significant effort’ under new global rules - The Guardian"
+      },
+      {
+        "source": "Guardian World",
+        "url": "https://www.theguardian.com/australia-news/2026/oct/22/airbnb-guests-freed-from-chores-involving-significant-effort-under-new-global-rules",
+        "date": "2026-10-22T05:17:11.000Z",
+        "snippet": "<p>Accommodation platform acts after long-standing guest complaints over doing dishes, taking out rubbish and stripping beds</p><p>Airbnb hosts will no longer be able to ask guests to strip beds or wash dishes under the accommodation platform’s new rules.</p><p>The changes, which apply to Airbnb reservations covered by the platform’s global policy, <a href=\"https://www.theguardian.com/australia-news/2026/may/10/high-street-millers-point-sydney-airbnb\">including bookings in Australia</a>, will come into effect on 20 November and limit chores imposed on guests.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/22/airbnb-guests-freed-from-chores-involving-significant-effort-under",
+        "title": "Airbnb guests freed from chores involving ‘significant effort’ under new global rules"
+      }
+    ],
+    "title": "Airbnb guests freed from chores involving ‘significant effort’ under new global rules - The Guardian",
+    "summary": "Airbnb guests freed from chores involving ‘significant effort’ under new global rules - The Guardian <a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd0xvQ3NUbWdvZnhCWUZNQ1hzd2ExQ25QNzIwZUFUUENBM1FKelZ6d0FqZ3ZVdWc4WHFDRk1ld2E5OWhKLXNlS01ySFFBQnIyVU5HUTFMSWZWRDFrWFhVQWxTLUkzdUdKdm5VZlUwZy15XzkyMjlheWFwRjZOeTMySU04Zmc2bDhPRmt6V0xSbEFzOVNfSVJ6YV9MbThLOWhSazdmTkxhcEcxTHFqMDNxUXlQOGk3ZFhFY29JVk1qSzR5Rlp0LWY3dmh3UzBCelNWdGJ2Zw?oc=5\" target=\"_blank\">Airbnb guests freed from chores involving ‘significant effort’ under new global rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>\nAirbnb guests freed from chores involving ‘significant effort’ under new global rules <p>Accommodation platform acts after long-standing guest complaints over doing dishes, taking out rubbish and stripping beds</p><p>Airbnb hosts will no longer be able to ask guests to strip beds or wash dishes under the accommodation platform’s new rules.</p><p>The changes, which apply to Airbnb reservations covered by the platform’s global policy, <a href=\"https://www.theguardian.com/australia-news/2026/may/10/high-street-millers-point-sydney-airbnb\">including bookings in Australia</a>, will come into effect on 20 November and limit chores imposed on guests.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/22/airbnb-guests-freed-from-chores-involving-significant-effort-under"
+  },
+  {
+    "id": "story-310",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-22T05:44:00.000Z",
+    "sources": [
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/politik/rot-gruen-rot-in-berlin-markus-soeder-will-extremismusklausel-gegen-afd-und-linke-gefuehrte-laender-a-16fc6b4b-7db9-4e09-aa8f-054b6ba71aaa#ref=rss",
+        "date": "2026-10-22T05:44:00.000Z",
+        "snippet": "Die Union warnt vor einer möglichen Linkenregierung in Berlin. Nun droht Bayerns Ministerpräsident Markus Söder, der Hauptstadt und Sachsen-Anhalt via Länderfinanzausgleich Gelder zu streichen. Ein CDU-Ministerpräsident widerspricht.",
+        "title": "Rot-Grün-Rot in Berlin: Markus Söder will »Extremismusklausel« gegen AfD- und Linke-geführte Länder"
+      },
+      {
+        "source": "RND",
+        "url": "https://www.rnd.de/politik/soeder-mit-extremismusklausel-gegen-afd-und-linke-gefuehrte-laender-LFPQNUJD6NENDEBQ3ZRRBRDSJY.html",
+        "date": "2026-10-22T02:18:01.000Z",
+        "snippet": "Ministerpräsident Söder will verhindern, dass Bayern künftig Bundesländer finanziell unterstützt, die von der Linken oder der AfD regiert werden. Dazu plant er, eine Klausel im Länderfinanzausgleich zu verankern.",
+        "title": "Söder: Mit Extremismusklausel gegen AfD- und Linke-geführte Länder"
+      }
+    ],
+    "title": "Rot-Grün-Rot in Berlin: Markus Söder will »Extremismusklausel« gegen AfD- und Linke-geführte Länder",
+    "summary": "Rot-Grün-Rot in Berlin: Markus Söder will »Extremismusklausel« gegen AfD- und Linke-geführte Länder Die Union warnt vor einer möglichen Linkenregierung in Berlin. Nun droht Bayerns Ministerpräsident Markus Söder, der Hauptstadt und Sachsen-Anhalt via Länderfinanzausgleich Gelder zu streichen. Ein CDU-Ministerpräsident widerspricht.\nSöder: Mit Extremismusklausel gegen AfD- und Linke-geführte Länder Ministerpräsident Söder will verhindern, dass Bayern künftig Bundesländer finanziell unterstützt, die von der Linken oder der AfD regiert werden. Dazu plant er, eine Klausel im Länderfinanzausgleich zu verankern."
+  },
+  {
+    "id": "story-335",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-22T05:25:41.000Z",
+    "sources": [
+      {
+        "source": "Tagesschau",
+        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/meta-quartalszahlen-ki-investitionen-100.html",
+        "date": "2026-10-22T05:25:41.000Z",
+        "snippet": "Der Meta-Konzern will den Ausbau seiner KI-Infrastruktur vorantreiben. Zur Finanzierung soll es eine neue Aktie ohne Stimmrechte geben. Damit sichert sich Firmenchef Zuckerberg die Kontrolle. Von Antje Sieb.",
+        "title": "Meta investiert mindestens 135 Milliarden Dollar in KI"
+      },
+      {
+        "source": "RND",
+        "url": "https://www.rnd.de/wirtschaft/meta-investiert-mindestens-135-milliarden-dollar-um-ki-rueckstand-aufzuholen-UWZVQQ34V5FNJGLOJPY4BS2B44.html",
+        "date": "2026-10-22T00:07:05.000Z",
+        "snippet": "Facebook-Gründer Mark Zuckerberg lässt den Meta-Konzern gewaltige Summen in KI-Infrastruktur investieren. Das Geld dafür soll das boomende Werbegeschäft liefern.",
+        "title": "Meta investiert mindestens 135 Milliarden Dollar, um KI-Rückstand aufzuholen"
+      }
+    ],
+    "title": "Meta investiert mindestens 135 Milliarden Dollar in KI",
+    "summary": "Meta investiert mindestens 135 Milliarden Dollar in KI Der Meta-Konzern will den Ausbau seiner KI-Infrastruktur vorantreiben. Zur Finanzierung soll es eine neue Aktie ohne Stimmrechte geben. Damit sichert sich Firmenchef Zuckerberg die Kontrolle. Von Antje Sieb.\nMeta investiert mindestens 135 Milliarden Dollar, um KI-Rückstand aufzuholen Facebook-Gründer Mark Zuckerberg lässt den Meta-Konzern gewaltige Summen in KI-Infrastruktur investieren. Das Geld dafür soll das boomende Werbegeschäft liefern."
+  },
+  {
+    "id": "story-406",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-22T04:36:59.000Z",
+    "sources": [
+      {
+        "source": "RND",
+        "url": "https://www.rnd.de/politik/senatswahl-in-texas-bush-bruder-neil-stimmt-fuer-demokraten-talarico-ABBO7PVPYNA3RLZH6PB5GNGYOE.html",
+        "date": "2026-10-22T04:36:59.000Z",
+        "snippet": "Ein Bush stimmt für die Demokraten: Neil Bush bricht mit der Familientradition und unterstützt bei den Midterms in Texas den demokratischen Kandidaten James Talarico. Sein Vorwurf an Paxton und Trump: Sie hätten der Republikanischen Partei enormen Schaden zugefügt.",
+        "title": "Senatswahl in Texas: Bush-Bruder Neil stimmt für Demokraten Talarico"
+      },
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/midterms-in-den-usa-neil-bush-stimmt-in-texas-fuer-demokraten-james-talarico-a-2cde7394-9e83-46cc-843f-195ea676c6c7#ref=rss",
+        "date": "2026-10-21T23:17:00.000Z",
+        "snippet": "Sollte es den Demokraten bei den Kongresswahlen gelingen, Texas zu erobern, wäre das ein Triumph. Kandidat James Talarico hat jetzt eine prominente Stimme bekommen: die von Langzeitrepublikaner Neil Bush.",
+        "title": "Midterms in den USA: Neil Bush stimmt in Texas für Demokraten James Talarico"
+      }
+    ],
+    "title": "Senatswahl in Texas: Bush-Bruder Neil stimmt für Demokraten Talarico",
+    "summary": "Senatswahl in Texas: Bush-Bruder Neil stimmt für Demokraten Talarico Ein Bush stimmt für die Demokraten: Neil Bush bricht mit der Familientradition und unterstützt bei den Midterms in Texas den demokratischen Kandidaten James Talarico. Sein Vorwurf an Paxton und Trump: Sie hätten der Republikanischen Partei enormen Schaden zugefügt.\nMidterms in den USA: Neil Bush stimmt in Texas für Demokraten James Talarico Sollte es den Demokraten bei den Kongresswahlen gelingen, Texas zu erobern, wäre das ein Triumph. Kandidat James Talarico hat jetzt eine prominente Stimme bekommen: die von Langzeitrepublikaner Neil Bush."
+  },
+  {
+    "id": "story-438",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-22T04:03:00.000Z",
+    "sources": [
+      {
+        "source": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/ausland/frankreich-ausschreitungen-umfrage-praesidentschaft-le-pen-100.html",
+        "date": "2026-10-22T04:03:00.000Z",
+        "snippet": "Profitiert Frankreichs Rechte von den Ausschreitungen? Im Vergleich zu vorherigen Umfragen gewinnt Marine Le Pen leicht dazu. Doch ihr droht ein Wahlkampf mit Fußfessel.",
+        "title": "Le Pen legt in Umfrage zur Präsidentschaftswahl weiter zu"
+      },
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/le-pen-legt-in-umfrage-zur-praesidentschaftswahl-leicht-zu-a-2359874f-7de1-4cb9-8af7-714f72d62fc1#ref=rss",
+        "date": "2026-10-22T00:38:00.000Z",
+        "snippet": "Frankreich erlebt chaotische Tage – und die Rechtsnationale Marine Le Pen baut bei einer Umfrage zur Präsidentschaftswahl ihren Stimmanteil aus. Der Politikerin droht jedoch weiter Ärger vor Gericht.",
+        "title": "Le Pen legt in Umfrage zur Präsidentschaftswahl leicht zu"
+      }
+    ],
+    "title": "Le Pen legt in Umfrage zur Präsidentschaftswahl weiter zu",
+    "summary": "Le Pen legt in Umfrage zur Präsidentschaftswahl weiter zu Profitiert Frankreichs Rechte von den Ausschreitungen? Im Vergleich zu vorherigen Umfragen gewinnt Marine Le Pen leicht dazu. Doch ihr droht ein Wahlkampf mit Fußfessel.\nLe Pen legt in Umfrage zur Präsidentschaftswahl leicht zu Frankreich erlebt chaotische Tage – und die Rechtsnationale Marine Le Pen baut bei einer Umfrage zur Präsidentschaftswahl ihren Stimmanteil aus. Der Politikerin droht jedoch weiter Ärger vor Gericht."
+  },
+  {
+    "id": "story-449",
+    "topic": "panorama",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-22T03:55:53.000Z",
+    "sources": [
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTnNFTjFZN01zbWd5ZGtUUmgtRzQwLVRlendPQUVtV29jTlFmcC1RZmJvXzh2MGdlb1dHaFFPdkpHQm0xV2pUOWkwOXFEZ1hEeWVkWW85ZGs5Y29uc3N4dkFmOVk3NmZHYzU5TmpjUV9zS2NBOVRmdTdCekpvS3prN2tpSlNyQTJ6UnpuNWUyWEo5VGZEc0Y2UXp6NG14TG10Y1lJ?oc=5",
+        "date": "2026-10-22T03:55:53.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNTnNFTjFZN01zbWd5ZGtUUmgtRzQwLVRlendPQUVtV29jTlFmcC1RZmJvXzh2MGdlb1dHaFFPdkpHQm0xV2pUOWkwOXFEZ1hEeWVkWW85ZGs5Y29uc3N4dkFmOVk3NmZHYzU5TmpjUV9zS2NBOVRmdTdCekpvS3prN2tpSlNyQTJ6UnpuNWUyWEo5VGZEc0Y2UXp6NG14TG10Y1lJ?oc=5\" target=\"_blank\">Bayerischer Medienpreis: Preisträger beim \"Blauen Panther\" fordern Abgrenzung zur AfD</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPLVZUV1Q1WFEtLVJHaFZibTBMMmNzczdyMFlBWWRHbU5teS01NGpiUURfWmNLUWU1aWV0SHNjeDlBTUpFNDU4T1FTeW95TmFJWXdEcVFYc0QtcjhKZ05OX2p2V21RcjJuSFc4OUN2dHN6VVpPZXVTZEJzODhqX3B0cnRkVVlwdzN1WjItaWs3cW02SXo3b3B",
+        "title": "Bayerischer Medienpreis: Preisträger beim \"Blauen Panther\" fordern Abgrenzung zur AfD - n-tv.de"
+      },
+      {
+        "source": "ntv",
+        "url": "https://www.n-tv.de/leute/Preistraeger-beim-Blauen-Panther-fordern-Abgrenzung-zur-AfD-id31444799.html",
+        "date": "2026-10-22T03:55:53.000Z",
+        "snippet": "Der \"Bayerische Fernsehpreis\" heißt inzwischen \"Blauer Panther\", inzwischen werden nicht mehr nur TV-Formate ausgezeichnet. Einer der Preisträger ist der Streamer Marcant, der mit klarer Haltung mit Rechtsextremen diskutiert. Er und andere nutzen die Bühne für mehr als nur Danksagungen.",
+        "title": "Bayerischer Medienpreis : Preisträger beim \"Blauen Panther\" fordern Abgrenzung zur AfD"
+      }
+    ],
+    "title": "Bayerischer Medienpreis: Preisträger beim \"Blauen Panther\" fordern Abgrenzung zur AfD - n-tv.de",
+    "summary": "Bayerischer Medienpreis: Preisträger beim \"Blauen Panther\" fordern Abgrenzung zur AfD - n-tv.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNTnNFTjFZN01zbWd5ZGtUUmgtRzQwLVRlendPQUVtV29jTlFmcC1RZmJvXzh2MGdlb1dHaFFPdkpHQm0xV2pUOWkwOXFEZ1hEeWVkWW85ZGs5Y29uc3N4dkFmOVk3NmZHYzU5TmpjUV9zS2NBOVRmdTdCekpvS3prN2tpSlNyQTJ6UnpuNWUyWEo5VGZEc0Y2UXp6NG14TG10Y1lJ?oc=5\" target=\"_blank\">Bayerischer Medienpreis: Preisträger beim \"Blauen Panther\" fordern Abgrenzung zur AfD</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">n-tv.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPLVZUV1Q1WFEtLVJHaFZibTBMMmNzczdyMFlBWWRHbU5teS01NGpiUURfWmNLUWU1aWV0SHNjeDlBTUpFNDU4T1FTeW95TmFJWXdEcVFYc0QtcjhKZ05OX2p2V21RcjJuSFc4OUN2dHN6VVpPZXVTZEJzODhqX3B0cnRkVVlwdzN1WjItaWs3cW02SXo3b3B\nBayerischer Medienpreis : Preisträger beim \"Blauen Panther\" fordern Abgrenzung zur AfD Der \"Bayerische Fernsehpreis\" heißt inzwischen \"Blauer Panther\", inzwischen werden nicht mehr nur TV-Formate ausgezeichnet. Einer der Preisträger ist der Streamer Marcant, der mit klarer Haltung mit Rechtsextremen diskutiert. Er und andere nutzen die Bühne für mehr als nur Danksagungen."
+  },
+  {
+    "id": "story-457",
+    "topic": "politik",
+    "country": "INT",
+    "stateHint": "",
+    "date": "2026-10-22T03:30:51.000Z",
+    "sources": [
+      {
+        "source": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWXBsUXVYMUhBUVFfZ2VyV1o2X0lBbG82dms2TjJNeklJQUZDbi1DN3RFampaMVNBcE5penMyMkY2Q3drMVpIdTdVc0FWTEx5S05JSWxEazMtRVhTUU5yMEFxNWN1RkVxV1d0SlotNHlyZzhXSkkzSi1vaFl6M012d2pqclVrc0xpa0VkbWlqMkloaFF0Q0IzTmFteFZLRHp4Y3N3Qk4zQm5GMDlNMmNiU0czUWhaY0HSAbwBQVVfeXFMTkJnMmt4YlQzZEpsVGpmNmRwYllzdER4OU01NkxIRjVCdDZxMksyZExETUs2UXV4bXhGYmI4bER2WmZtTGVrM0w1TnNyUFN0Y2o4NWJMLXZEMkZ6aVh1MnptTlY2cTYyZnEyNjNsdkZWLXlRcDZuR1UtdHhVQU9uc3lsQzdlaVBpeVk1WDh0c1E4eEVoaXcyR0o4c0thN2xleWFlV1ZkQW8zWjN0aXFFVEpXRF95TEw0RVhpNEM?oc=5",
+        "date": "2026-10-22T03:30:51.000Z",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQWXBsUXVYMUhBUVFfZ2VyV1o2X0lBbG82dms2TjJNeklJQUZDbi1DN3RFampaMVNBcE5penMyMkY2Q3drMVpIdTdVc0FWTEx5S05JSWxEazMtRVhTUU5yMEFxNWN1RkVxV1d0SlotNHlyZzhXSkkzSi1vaFl6M012d2pqclVrc0xpa0VkbWlqMkloaFF0Q0IzTmFteFZLRHp4Y3N3Qk4zQm5GMDlNMmNiU0czUWhaY0HSAbwBQVVfeXFMTkJnMmt4YlQzZEpsVGpmNmRwYllzdER4OU01NkxIRjVCdDZxMksyZExETUs2UXV4bXhGYmI4bER2WmZtTGVrM0w1TnNyUFN0Y2o4NWJMLXZEMkZ6aVh1MnptTlY2cTYyZnEyNjNsdkZWLXlRcDZuR1UtdHhVQU9uc3lsQzdlaVBpeVk1WDh0c1E4eEVoaXcyR0o4c0thN2xleWFlV1ZkQW8zWjN0aXFFVEpXRF95TEw0RVhpNEM?oc=5\" target=\"_blank\">World leaders warn of security flaws found in PHP programming language</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font",
+        "title": "World leaders warn of security flaws found in PHP programming language - Al Jazeera"
+      },
+      {
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/22/world-leaders-warn-against-security-flaw-found-in-php-computer-programming?traffic_source=rss",
+        "date": "2026-10-22T00:10:27.000Z",
+        "snippet": "AI was used to pinpoint two vulnerabilities in the PHP language, used by about 70 percent of websites.",
+        "title": "World leaders warn of security flaws found in PHP programming language"
+      }
+    ],
+    "title": "World leaders warn of security flaws found in PHP programming language - Al Jazeera",
+    "summary": "World leaders warn of security flaws found in PHP programming language - Al Jazeera <a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQWXBsUXVYMUhBUVFfZ2VyV1o2X0lBbG82dms2TjJNeklJQUZDbi1DN3RFampaMVNBcE5penMyMkY2Q3drMVpIdTdVc0FWTEx5S05JSWxEazMtRVhTUU5yMEFxNWN1RkVxV1d0SlotNHlyZzhXSkkzSi1vaFl6M012d2pqclVrc0xpa0VkbWlqMkloaFF0Q0IzTmFteFZLRHp4Y3N3Qk4zQm5GMDlNMmNiU0czUWhaY0HSAbwBQVVfeXFMTkJnMmt4YlQzZEpsVGpmNmRwYllzdER4OU01NkxIRjVCdDZxMksyZExETUs2UXV4bXhGYmI4bER2WmZtTGVrM0w1TnNyUFN0Y2o4NWJMLXZEMkZ6aVh1MnptTlY2cTYyZnEyNjNsdkZWLXlRcDZuR1UtdHhVQU9uc3lsQzdlaVBpeVk1WDh0c1E4eEVoaXcyR0o4c0thN2xleWFlV1ZkQW8zWjN0aXFFVEpXRF95TEw0RVhpNEM?oc=5\" target=\"_blank\">World leaders warn of security flaws found in PHP programming language</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font\nWorld leaders warn of security flaws found in PHP programming language AI was used to pinpoint two vulnerabilities in the PHP language, used by about 70 percent of websites."
+  },
+  {
+    "id": "story-464",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "BW",
+    "date": "2026-10-22T03:21:40.000Z",
+    "sources": [
+      {
+        "source": "Tagesschau Regional Baden-Württemberg",
+        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-sozialminister-bw-sorgt-sich-um-minderheiten-hildenbrand-will-anwalt-der-queeren-community-sein-100.html",
+        "date": "2026-10-22T03:21:40.000Z",
+        "snippet": "Der baden-württembergische Sozialminister warnt vor einem Rechtsruck und mehr Druck auf Minderheiten. Auch zur AfD findet Oliver Hildenbrand (Grüne) klare Worte.",
+        "title": "Sozialminister BW sorgt sich um Minderheiten: Hildenbrand will \"Anwalt\" der queeren Community sein"
+      },
+      {
+        "source": "SWR Aktuell",
+        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/zur-sache-intensiv-bw-sozialminister-sorge-rechtsruck-minderheiten-100.html",
+        "date": "2026-10-22T03:21:40.000Z",
+        "snippet": "Der baden-württembergische Sozialminister warnt vor einem Rechtsruck und mehr Druck auf Minderheiten. Auch zur AfD findet Oliver Hildenbrand (Grüne) klare Worte.",
+        "title": "Grüner Sozialminister BW sorgt sich um Minderheiten: Hildenbrand will \"Anwalt\" der queeren Community sein"
+      }
+    ],
+    "title": "Sozialminister BW sorgt sich um Minderheiten: Hildenbrand will \"Anwalt\" der queeren Community sein",
+    "summary": "Sozialminister BW sorgt sich um Minderheiten: Hildenbrand will \"Anwalt\" der queeren Community sein Der baden-württembergische Sozialminister warnt vor einem Rechtsruck und mehr Druck auf Minderheiten. Auch zur AfD findet Oliver Hildenbrand (Grüne) klare Worte.\nGrüner Sozialminister BW sorgt sich um Minderheiten: Hildenbrand will \"Anwalt\" der queeren Community sein Der baden-württembergische Sozialminister warnt vor einem Rechtsruck und mehr Druck auf Minderheiten. Auch zur AfD findet Oliver Hildenbrand (Grüne) klare Worte."
+  },
+  {
+    "id": "story-533",
+    "topic": "politik",
+    "country": "UK",
+    "stateHint": "",
+    "date": "2026-10-22T01:07:34.000Z",
+    "sources": [
+      {
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-22T01:07:34.000Z",
+        "snippet": "The warning to US officials comes as at least three people die in the latest strikes at an airport and an oil field.",
+        "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate"
+      },
+      {
+        "source": "Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks",
+        "date": "2026-10-22T00:26:50.000Z",
+        "snippet": "<p>Reports emerge of similar withdrawals in UAE, Jordan, Qatar and Bahrain amid concerns about a return to conflict with Iran after US midterm elections</p><p>The US state department has ordered some diplomats and the families of US government employees to leave Saudi Arabia, as the gulf kingdom faces a barrage of near-daily attacks, with at least three people killed at an airport and oilfield on Wednesday evening.</p><p>Attacks on “civilian airports and other critical infrastructure” by the Iranian-supported Houthis in Yemen were highlighted as the reason for the drawdown. State department spokesperson Tommy Pigott said: “The safety and security of department personnel and their families re",
+        "title": "Some US diplomats told to leave Saudi Arabia amid Houthi attacks"
+      }
+    ],
+    "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
+    "summary": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate The warning to US officials comes as at least three people die in the latest strikes at an airport and an oil field.\nSome US diplomats told to leave Saudi Arabia amid Houthi attacks <p>Reports emerge of similar withdrawals in UAE, Jordan, Qatar and Bahrain amid concerns about a return to conflict with Iran after US midterm elections</p><p>The US state department has ordered some diplomats and the families of US government employees to leave Saudi Arabia, as the gulf kingdom faces a barrage of near-daily attacks, with at least three people killed at an airport and oilfield on Wednesday evening.</p><p>Attacks on “civilian airports and other critical infrastructure” by the Iranian-supported Houthis in Yemen were highlighted as the reason for the drawdown. State department spokesperson Tommy Pigott said: “The safety and security of department personnel and their families re"
+  },
+  {
+    "id": "story-554",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "",
+    "date": "2026-10-22T00:01:00.000Z",
+    "sources": [
+      {
+        "source": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTDdlZ1o5UUlOZllDdXRnam5SQnJzSG1kOVF2OVVPQVp0OWJkcWRUeGI1aFhrRWloUExSSlRTS2JwYWxFMzlFdmZERnpWcWhIQVhnaTBpRGhYT29XWXdDV1M5REpfMFlUM0pMNTNPcUlKaDg0VXNoNlA5RDlSbWdFNm82cGxIRkd5eEdUN3lPaGRvRkRTU0tzVlZNcmMzVVoyd3NiZjlveU5JclNpTlNhUUI2Umw2aDhLSWd4bUExV3U0N2JMRnBpWmdwcFg5dnpaZl9DNDlZTXVPWUU?oc=5",
+        "date": "2026-10-22T00:01:00.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTDdlZ1o5UUlOZllDdXRnam5SQnJzSG1kOVF2OVVPQVp0OWJkcWRUeGI1aFhrRWloUExSSlRTS2JwYWxFMzlFdmZERnpWcWhIQVhnaTBpRGhYT29XWXdDV1M5REpfMFlUM0pMNTNPcUlKaDg0VXNoNlA5RDlSbWdFNm82cGxIRkd5eEdUN3lPaGRvRkRTU0tzVlZNcmMzVVoyd3NiZjlveU5JclNpTlNhUUI2Umw2aDhLSWd4bUExV3U0N2JMRnBpWmdwcFg5dnpaZl9DNDlZTXVPWUU?oc=5\" target=\"_blank\">The Masked Singer« bei ProSieben: Vincent Gross gewinnt als Stier das Finale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNb3gwcHgzYm51ZGhMX0R2LS15aTVfbWtRVEg5VkhqUHZ0VTQtdVBEdzlBbVlSaC1FaFNSbk8zeU1aSVVGWHhRbzJDZWNlNmVzT3NFdjJSdExoaHVHejZIRGtqNmFMS",
+        "title": "The Masked Singer« bei ProSieben: Vincent Gross gewinnt als Stier das Finale - Spiegel"
+      },
+      {
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/kultur/the-masked-singer-bei-prosieben-vincent-gross-gewinnt-als-stier-das-finale-a-3bf6bf17-4b47-486e-a892-7e25e90b33f7#ref=rss",
+        "date": "2026-10-22T00:01:00.000Z",
+        "snippet": "Er war als Stier mit wallender Mähne und goldenen Hörnern aufgetreten – und hat jetzt bei »The Masked Singer« gesiegt: Schlagersänger Vincent Gross. Damit ist auch klar, wer hinter den anderen vier Finalmasken steckte.",
+        "title": "»The Masked Singer« bei ProSieben: Vincent Gross gewinnt als Stier das Finale"
+      }
+    ],
+    "title": "The Masked Singer« bei ProSieben: Vincent Gross gewinnt als Stier das Finale - Spiegel",
+    "summary": "The Masked Singer« bei ProSieben: Vincent Gross gewinnt als Stier das Finale - Spiegel <ol><li><a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTDdlZ1o5UUlOZllDdXRnam5SQnJzSG1kOVF2OVVPQVp0OWJkcWRUeGI1aFhrRWloUExSSlRTS2JwYWxFMzlFdmZERnpWcWhIQVhnaTBpRGhYT29XWXdDV1M5REpfMFlUM0pMNTNPcUlKaDg0VXNoNlA5RDlSbWdFNm82cGxIRkd5eEdUN3lPaGRvRkRTU0tzVlZNcmMzVVoyd3NiZjlveU5JclNpTlNhUUI2Umw2aDhLSWd4bUExV3U0N2JMRnBpWmdwcFg5dnpaZl9DNDlZTXVPWUU?oc=5\" target=\"_blank\">The Masked Singer« bei ProSieben: Vincent Gross gewinnt als Stier das Finale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNb3gwcHgzYm51ZGhMX0R2LS15aTVfbWtRVEg5VkhqUHZ0VTQtdVBEdzlBbVlSaC1FaFNSbk8zeU1aSVVGWHhRbzJDZWNlNmVzT3NFdjJSdExoaHVHejZIRGtqNmFMS\n»The Masked Singer« bei ProSieben: Vincent Gross gewinnt als Stier das Finale Er war als Stier mit wallender Mähne und goldenen Hörnern aufgetreten – und hat jetzt bei »The Masked Singer« gesiegt: Schlagersänger Vincent Gross. Damit ist auch klar, wer hinter den anderen vier Finalmasken steckte."
+  },
+  {
+    "id": "story-569",
     "topic": "politik",
     "country": "UK",
     "stateHint": "",
@@ -353,157 +682,57 @@
     "summary": "Macron accuses Trump and other foreign leaders of ‘stupid comments’ about France unrest <p>Leaders criticised for spreading misleading information as France prepares for further protests this weekend</p><p></p><p>Emmanuel Macron has accused Donald Trump and other foreign leaders of making “stupid comments” about France’s street unrest for political gain, as the country prepared for more protests this weekend.</p><p>Speaking during a visit to Qatar, the French president did not name names but said “manipulation of information” after <a href=\"https://www.theguardian.com/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron\">Saturday’s riots</a> had led to “comments that are as unacceptable as they are stupid, from many people, including foreign leaders”.\nMacron accuses Trump and other foreign leaders of ‘stupid comments’ about France unrest - The Guardian <a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOd3lQQ19SQU9wS1B0N3NWek1pbS1NWXdONmVVOVJsaHhrc0RXN3ZfZFZseTc2NUJQTjl2RnlaODk1eWlUWmFLM1RVVWNCWjE4Vi13cDF1X0xzQnlQRW1La3o1d2tya0I4NW9SVmdYaHAta2l1TWo5Z0xiN0dyV2pWQXgySjZqeW1fY0tCNkNzdEo2UkQ5djhMcDkzeU9QdlJ5UkQ4Y2pZcw?oc=5\" target=\"_blank\">Macron accuses Trump and other foreign leaders of ‘stupid comments’ about France unrest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>"
   },
   {
-    "id": "story-197",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-21T22:37:10.000Z",
-    "sources": [
-      {
-        "source": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/politik/ausland/2026-10/jeffrey-epstein-new-mexico-raeul-torrez-missbrauch-menschenhandel",
-        "date": "2026-10-21T22:37:10.000Z",
-        "snippet": "Jeffrey Epsteins früherer Anwalt und sein Buchhalter sollen Menschenhandel ermöglicht haben. Die Staatsanwaltschaft will verhindern, dass sie vom Nachlass profitieren.",
-        "title": "Jeffrey Epstein: New Mexico erhebt Anklage gegen Epstein-Vertraute"
-      },
-      {
-        "source": "RND",
-        "url": "https://www.rnd.de/panorama/jeffrey-epstein-new-mexico-erhebt-anklage-gegen-zwei-vertraute-TS6PZUOO6NGAFIRF7WXALNUR7M.html",
-        "date": "2026-10-21T21:17:23.000Z",
-        "snippet": "Jeffrey Epstein hat über Jahre einen Missbrauchsring betrieben, dem zahlreiche junge Frauen und Minderjährige zum Opfer fielen. Zwei seiner Wegbegleiter werden nun angeklagt.",
-        "title": "Jeffrey Epstein: New Mexico erhebt Anklage gegen zwei Vertraute"
-      }
-    ],
-    "title": "Jeffrey Epstein: New Mexico erhebt Anklage gegen Epstein-Vertraute",
-    "summary": "Jeffrey Epstein: New Mexico erhebt Anklage gegen Epstein-Vertraute Jeffrey Epsteins früherer Anwalt und sein Buchhalter sollen Menschenhandel ermöglicht haben. Die Staatsanwaltschaft will verhindern, dass sie vom Nachlass profitieren.\nJeffrey Epstein: New Mexico erhebt Anklage gegen zwei Vertraute Jeffrey Epstein hat über Jahre einen Missbrauchsring betrieben, dem zahlreiche junge Frauen und Minderjährige zum Opfer fielen. Zwei seiner Wegbegleiter werden nun angeklagt."
-  },
-  {
-    "id": "story-260",
-    "topic": "panorama",
-    "country": "PT",
-    "stateHint": "",
-    "date": "2026-10-21T21:25:48.000Z",
-    "sources": [
-      {
-        "source": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/mundo/participacao-violenta-em-manifestacoes-passou-a-ser-crime-em-italia_v1773353",
-        "date": "2026-10-21T21:25:48.000Z",
-        "snippet": "Os menores passam ficar também sujeitos a prisão preventiva. Reacção do governo italiano à mais recente onda de protestos nas ruas.",
-        "title": "Participação violenta em manifestações passou a ser crime em Itália"
-      },
-      {
-        "source": "RTP Mundo",
-        "url": "https://www.rtp.pt/noticias/mundo/participacao-violenta-em-manifestacao-passa-a-ser-crime-em-italia_v1773242",
-        "date": "2026-10-21T14:05:48.000Z",
-        "snippet": "O Governo italiano aprovou medidas de segurança mais duras. A participação violenta em manifestações passa a ser crime e a prisão preventiva pode agora ser aplicada a menores.",
-        "title": "Participação violenta em manifestação passa a ser crime em Itália"
-      }
-    ],
-    "title": "Participação violenta em manifestações passou a ser crime em Itália",
-    "summary": "Participação violenta em manifestações passou a ser crime em Itália Os menores passam ficar também sujeitos a prisão preventiva. Reacção do governo italiano à mais recente onda de protestos nas ruas.\nParticipação violenta em manifestação passa a ser crime em Itália O Governo italiano aprovou medidas de segurança mais duras. A participação violenta em manifestações passa a ser crime e a prisão preventiva pode agora ser aplicada a menores."
-  },
-  {
-    "id": "story-261",
-    "topic": "panorama",
-    "country": "INT",
-    "stateHint": "",
-    "date": "2026-10-21T21:25:21.000Z",
-    "sources": [
-      {
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/21/mexico-charges-prosecutor-with-treason-over-us-involvement-in-drug-raid?traffic_source=rss",
-        "date": "2026-10-21T21:25:21.000Z",
-        "snippet": "The participation of US agents in an April drug operation has raised questions about whether Mexico's laws were upheld.",
-        "title": "Mexico charges prosecutor with treason over US involvement in drug raid"
-      },
-      {
-        "source": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/ckx2qpw4rjd7o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-21T20:19:51.000Z",
-        "snippet": "César Jáuregui Moreno is accused of allowing US agents to join a raid on a suspected drugs lab in April.",
-        "title": "Ex-prosecutor charged with treason in Mexico over US drug raid"
-      }
-    ],
-    "title": "Mexico charges prosecutor with treason over US involvement in drug raid",
-    "summary": "Mexico charges prosecutor with treason over US involvement in drug raid The participation of US agents in an April drug operation has raised questions about whether Mexico's laws were upheld.\nEx-prosecutor charged with treason in Mexico over US drug raid César Jáuregui Moreno is accused of allowing US agents to join a raid on a suspected drugs lab in April."
-  },
-  {
-    "id": "story-276",
+    "id": "story-570",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
-    "date": "2026-10-21T21:15:01.000Z",
-    "sources": [
-      {
-        "source": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/ausland/europa/russland-ukraine-krieg-putin-gespraeche-100.html",
-        "date": "2026-10-21T21:15:01.000Z",
-        "snippet": "Nach einem Treffen mit dem US-Sondergesandten erklärt sich Russlands Präsident Putin offenbar zu neuen Gesprächen mit den USA und der Ukraine bereit. Um ein Ende des Kriegs soll e…",
-        "title": "Putin stimmt Wiederaufnahme von Gesprächen zu"
-      },
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/europa/russland-ukraine-krieg-putin-gespraeche-100.html",
-        "date": "2026-10-21T21:02:08.000Z",
-        "snippet": "Nach einem Treffen mit dem US-Sondergesandten erklärt sich Russlands Präsident Putin offenbar zu neuen Gesprächen mit den USA und der Ukraine bereit. Um ein Ende des Kriegs soll es dabei demnach aber nicht gehen.",
-        "title": "Krieg gegen die Ukraine: Putin stimmt Wiederaufnahme von Gesprächen zu"
-      }
-    ],
-    "title": "Putin stimmt Wiederaufnahme von Gesprächen zu",
-    "summary": "Putin stimmt Wiederaufnahme von Gesprächen zu Nach einem Treffen mit dem US-Sondergesandten erklärt sich Russlands Präsident Putin offenbar zu neuen Gesprächen mit den USA und der Ukraine bereit. Um ein Ende des Kriegs soll e…\nKrieg gegen die Ukraine: Putin stimmt Wiederaufnahme von Gesprächen zu Nach einem Treffen mit dem US-Sondergesandten erklärt sich Russlands Präsident Putin offenbar zu neuen Gesprächen mit den USA und der Ukraine bereit. Um ein Ende des Kriegs soll es dabei demnach aber nicht gehen."
-  },
-  {
-    "id": "story-371",
-    "topic": "technik",
-    "country": "UK",
-    "stateHint": "",
-    "date": "2026-10-21T19:54:57.000Z",
-    "sources": [
-      {
-        "source": "BBC Technology",
-        "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-21T19:54:57.000Z",
-        "snippet": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
-        "title": "Websites taken down worldwide as critical cyber-security update issued"
-      },
-      {
-        "source": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yYkJ1a0hkTXBMWUxzUGRNam81RzlXVTd0THJ2cWlvbVd4VmlNQ0ZzeHV0b21aR21mazJNTXAwSjRqN3VoNzgydHplRmRUamltaFJSUmZvcXBUZDg?oc=5",
-        "date": "2026-10-21T19:54:57.000Z",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yYkJ1a0hkTXBMWUxzUGRNam81RzlXVTd0THJ2cWlvbVd4VmlNQ0ZzeHV0b21aR21mazJNTXAwSjRqN3VoNzgydHplRmRUamltaFJSUmZvcXBUZDg?oc=5\" target=\"_blank\">Websites taken down worldwide as critical PHP cyber-security update issued</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-        "title": "Websites taken down worldwide as critical PHP cyber-security update issued - BBC"
-      }
-    ],
-    "title": "Websites taken down worldwide as critical cyber-security update issued",
-    "summary": "Websites taken down worldwide as critical cyber-security update issued The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.\nWebsites taken down worldwide as critical PHP cyber-security update issued - BBC <a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yYkJ1a0hkTXBMWUxzUGRNam81RzlXVTd0THJ2cWlvbVd4VmlNQ0ZzeHV0b21aR21mazJNTXAwSjRqN3VoNzgydHplRmRUamltaFJSUmZvcXBUZDg?oc=5\" target=\"_blank\">Websites taken down worldwide as critical PHP cyber-security update issued</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>"
-  },
-  {
-    "id": "story-377",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-21T19:43:05.000Z",
+    "date": "2026-10-21T23:06:00.000Z",
     "sources": [
       {
         "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQ3c1Q2lhNzJUaGZ6X2hqWUItcUwxR0ZYMENUWGQ5cVFBOWstSEVPY2h2S3hyVnNKNFpYN1Mza2dHWHh3eS1DNVpfVzZOLXFZd3BDUzhJd1duSnV3VVRRZ0JZcFFVcWYySERsOTBSQmI3T29qRlBiOGdJQ2FZRVRpNkxZdEphanFNVGhaWGdPREpxNl9TbWZ0eEhIZ09DZVQyZ3N2Yk9PQTNsdk1PV01lMnpnLXZRSDdCeUNoYjl2UnhpMUlqTkdab3lrNHZmeUViMjNXakljS3MycXc?oc=5",
-        "date": "2026-10-21T19:43:05.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQ3c1Q2lhNzJUaGZ6X2hqWUItcUwxR0ZYMENUWGQ5cVFBOWstSEVPY2h2S3hyVnNKNFpYN1Mza2dHWHh3eS1DNVpfVzZOLXFZd3BDUzhJd1duSnV3VVRRZ0JZcFFVcWYySERsOTBSQmI3T29qRlBiOGdJQ2FZRVRpNkxZdEphanFNVGhaWGdPREpxNl9TbWZ0eEhIZ09DZVQyZ3N2Yk9PQTNsdk1PV01lMnpnLXZRSDdCeUNoYjl2UnhpMUlqTkdab3lrNHZmeUViMjNXakljS3MycXc?oc=5\" target=\"_blank\">Keine weitere Therapie nötig – Ärzte erklären Papst Leo für krebsfrei</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WELT</font></li><li><a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1BUV9ISjdENkRJenRrUHE1eEJLcGd2a3BQa0hzejlMa0lNdHFYU0o1WjJoUDFJVmIzSmJzNk1BZnVSN0VSWENrTU5ZRXZ6bm1rTy10bDZXZzlfdnUzNFFMem9mdjhqZjFDLXN3UUJ",
-        "title": "Keine weitere Therapie nötig – Ärzte erklären Papst Leo für krebsfrei - WELT"
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQLXBaTmIyb0dGNmtTUnl3ekVxR2lmSEd4ZkhQWE0wYzMyVFdtZlFpYVA5SXpTbU1wWnNNekk3b0ZKTktqeU5hU3VVV19FTF9jUlo1SDZ5bG5tbVUweDlpX3lnSWFrTWJobDkxQW1ReUpMaXZEWTBBNE0zUUN5U2s5Y3l2d1g4UGhaQXBrc1lhWkRvNXlSOW5MZXFwR0xtYlJLMDNwVTlRVlpLX1VEVGM5Sno0MWZVdGh1bF9HZ0RVV1VKT2dFYW81RlFENHV0VVlXcm40WTNhTWo2S0cwcXo1Mk5CazM?oc=5",
+        "date": "2026-10-21T23:06:00.000Z",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQLXBaTmIyb0dGNmtTUnl3ekVxR2lmSEd4ZkhQWE0wYzMyVFdtZlFpYVA5SXpTbU1wWnNNekk3b0ZKTktqeU5hU3VVV19FTF9jUlo1SDZ5bG5tbVUweDlpX3lnSWFrTWJobDkxQW1ReUpMaXZEWTBBNE0zUUN5U2s5Y3l2d1g4UGhaQXBrc1lhWkRvNXlSOW5MZXFwR0xtYlJLMDNwVTlRVlpLX1VEVGM5Sno0MWZVdGh1bF9HZ0RVV1VKT2dFYW81RlFENHV0VVlXcm40WTNhTWo2S0cwcXo1Mk5CazM?oc=5\" target=\"_blank\">Wolodymyr Selenskyj möchte »so bald wie möglich« Gespräche mit USA und Russland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPd3hjVVp0YjBNR0JsMFdzQmhoOHRid3FfYW5ueE50LUR2WXMzNTl4d3BHam5oY3ZIcmxCOEJpRXkyOWFXY3VQS3pBc3RoWS1SM2NITlRQZ0Y3bm",
+        "title": "Wolodymyr Selenskyj möchte »so bald wie möglich« Gespräche mit USA und Russland - Spiegel"
       },
       {
-        "source": "WELT",
-        "url": "https://www.welt.de/gesundheit/article6ad913cb2c40700de080118a/papst-keine-weitere-therapie-noetig-aerzte-erklaeren-leo-xiv-fuer-krebsfrei.html",
-        "date": "2026-10-21T19:41:31.000Z",
-        "snippet": "Der Lungenkrebs von Papst Leo XIV. hat sich nicht ausgebreitet. Das teilten seine Ärzte wenige Tage nach seiner OP mit. Es sei keine weitere Therapie erforderlich.",
-        "title": "Keine weitere Therapie nötig – Ärzte erklären Papst Leo für krebsfrei"
+        "source": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/wolodymyr-selenskyj-moechte-so-bald-wie-moeglich-gespraeche-mit-usa-und-russland-a-32f2b741-827e-483b-b2f3-f98feb2d653e#ref=rss",
+        "date": "2026-10-21T23:06:00.000Z",
+        "snippet": "Russland hat einem Dreiertreffen mit den USA und der Ukraine zugestimmt. Der ukrainische Präsident Wolodymyr Selenskyj möchte schnellstmöglich mit den Gesprächen beginnen. Die russische Seite hat es offenbar weniger eilig.",
+        "title": "Wolodymyr Selenskyj möchte »so bald wie möglich« Gespräche mit USA und Russland"
       }
     ],
-    "title": "Keine weitere Therapie nötig – Ärzte erklären Papst Leo für krebsfrei - WELT",
-    "summary": "Keine weitere Therapie nötig – Ärzte erklären Papst Leo für krebsfrei - WELT <ol><li><a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQ3c1Q2lhNzJUaGZ6X2hqWUItcUwxR0ZYMENUWGQ5cVFBOWstSEVPY2h2S3hyVnNKNFpYN1Mza2dHWHh3eS1DNVpfVzZOLXFZd3BDUzhJd1duSnV3VVRRZ0JZcFFVcWYySERsOTBSQmI3T29qRlBiOGdJQ2FZRVRpNkxZdEphanFNVGhaWGdPREpxNl9TbWZ0eEhIZ09DZVQyZ3N2Yk9PQTNsdk1PV01lMnpnLXZRSDdCeUNoYjl2UnhpMUlqTkdab3lrNHZmeUViMjNXakljS3MycXc?oc=5\" target=\"_blank\">Keine weitere Therapie nötig – Ärzte erklären Papst Leo für krebsfrei</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WELT</font></li><li><a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1BUV9ISjdENkRJenRrUHE1eEJLcGd2a3BQa0hzejlMa0lNdHFYU0o1WjJoUDFJVmIzSmJzNk1BZnVSN0VSWENrTU5ZRXZ6bm1rTy10bDZXZzlfdnUzNFFMem9mdjhqZjFDLXN3UUJ\nKeine weitere Therapie nötig – Ärzte erklären Papst Leo für krebsfrei Der Lungenkrebs von Papst Leo XIV. hat sich nicht ausgebreitet. Das teilten seine Ärzte wenige Tage nach seiner OP mit. Es sei keine weitere Therapie erforderlich."
+    "title": "Wolodymyr Selenskyj möchte »so bald wie möglich« Gespräche mit USA und Russland - Spiegel",
+    "summary": "Wolodymyr Selenskyj möchte »so bald wie möglich« Gespräche mit USA und Russland - Spiegel <ol><li><a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQLXBaTmIyb0dGNmtTUnl3ekVxR2lmSEd4ZkhQWE0wYzMyVFdtZlFpYVA5SXpTbU1wWnNNekk3b0ZKTktqeU5hU3VVV19FTF9jUlo1SDZ5bG5tbVUweDlpX3lnSWFrTWJobDkxQW1ReUpMaXZEWTBBNE0zUUN5U2s5Y3l2d1g4UGhaQXBrc1lhWkRvNXlSOW5MZXFwR0xtYlJLMDNwVTlRVlpLX1VEVGM5Sno0MWZVdGh1bF9HZ0RVV1VKT2dFYW81RlFENHV0VVlXcm40WTNhTWo2S0cwcXo1Mk5CazM?oc=5\" target=\"_blank\">Wolodymyr Selenskyj möchte »so bald wie möglich« Gespräche mit USA und Russland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spiegel</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPd3hjVVp0YjBNR0JsMFdzQmhoOHRid3FfYW5ueE50LUR2WXMzNTl4d3BHam5oY3ZIcmxCOEJpRXkyOWFXY3VQS3pBc3RoWS1SM2NITlRQZ0Y3bm\nWolodymyr Selenskyj möchte »so bald wie möglich« Gespräche mit USA und Russland Russland hat einem Dreiertreffen mit den USA und der Ukraine zugestimmt. Der ukrainische Präsident Wolodymyr Selenskyj möchte schnellstmöglich mit den Gesprächen beginnen. Die russische Seite hat es offenbar weniger eilig."
   },
   {
-    "id": "story-397",
+    "id": "story-621",
+    "topic": "politik",
+    "country": "DE",
+    "stateHint": "BY",
+    "date": "2026-10-21T21:32:36.000Z",
+    "sources": [
+      {
+        "source": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/vatikan-papst-leo-ist-krebsfrei-keine-weitere-therapie-noetig,VYiK0DS",
+        "date": "2026-10-21T21:32:36.000Z",
+        "snippet": "Vor rund einer Woche wurde dem Papst ein bösartiger Tumor aus der Lunge entfernt. Jetzt geben seine Ärzte Entwarnung: Der Krebs habe nicht gestreut. Leo XIV. braucht demnach keine weitere Therapie.",
+        "title": "Papst Leo ist krebsfrei – keine weitere Therapie nötig"
+      },
+      {
+        "source": "ntv",
+        "url": "https://www.n-tv.de/panorama/Krebs-bei-Papst-hat-nicht-gestreut-id31444478.html",
+        "date": "2026-10-21T19:53:47.000Z",
+        "snippet": "Dem 71-jährigen Papst Leo XIV. wurde ein Teil des rechten Lungenlappens entfernt, weil dieser mit Krebs befallen war. Nun steht fest: Weitere Metastasen gibt es nicht.",
+        "title": "Keine weitere Therapie nötig: Krebs bei Papst hat nicht gestreut"
+      }
+    ],
+    "title": "Papst Leo ist krebsfrei – keine weitere Therapie nötig",
+    "summary": "Papst Leo ist krebsfrei – keine weitere Therapie nötig Vor rund einer Woche wurde dem Papst ein bösartiger Tumor aus der Lunge entfernt. Jetzt geben seine Ärzte Entwarnung: Der Krebs habe nicht gestreut. Leo XIV. braucht demnach keine weitere Therapie.\nKeine weitere Therapie nötig: Krebs bei Papst hat nicht gestreut Dem 71-jährigen Papst Leo XIV. wurde ein Teil des rechten Lungenlappens entfernt, weil dieser mit Krebs befallen war. Nun steht fest: Weitere Metastasen gibt es nicht."
+  },
+  {
+    "id": "story-729",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
@@ -528,57 +757,7 @@
     "summary": "\"Keine großen Hoffnungen\" Russland hat sich bereit gezeigt, die Gespräche mit den USA und der Ukraine wieder aufzunehmen. Aber sind Fortschritte wahrscheinlich? Osteuropa-Experte Umland zeigt sich im tages…\nOsteuropa-Experte über Ukraine-Gespräche: \"Keine großen Hoffnungen\" Russland hat sich bereit gezeigt, die Gespräche mit den USA und der Ukraine wieder aufzunehmen. Aber sind Fortschritte wahrscheinlich? Osteuropa-Experte Umland zeigt sich im tagesschau24-Interview skeptisch."
   },
   {
-    "id": "story-412",
-    "topic": "sport",
-    "country": "UK",
-    "stateHint": "",
-    "date": "2026-10-21T19:20:14.000Z",
-    "sources": [
-      {
-        "source": "Guardian Sport",
-        "url": "https://www.theguardian.com/football/live/2026/oct/21/como-v-manchester-united-champions-league-live",
-        "date": "2026-10-21T19:20:14.000Z",
-        "snippet": "<p>A dismal Manchester United performance ended in an emphatic defeat to Cesc Fàbregas’s completely dominant Como side </p><p><strong>The players are on the pitch</strong> and very nearly ready to go.</p><p><strong>Poor mascot coming out to pick up the match ball</strong> looks like someone just dragged him out of a ditch.</p> <a href=\"https://www.theguardian.com/football/live/2026/oct/21/como-v-manchester-united-champions-league-live\">Continue reading...</a>",
-        "title": "Como 4-1 Manchester United: Champions League – as it happened"
-      },
-      {
-        "source": "t-online Sport",
-        "url": "https://www.t-online.de/sport/fussball/champions-league/id_101490676/champions-league-como-gegen-manchester-united-droht-absage.html",
-        "date": "2026-10-21T09:00:19.000Z",
-        "snippet": "Land unter in der Lombardei: Am Mittwochabend trifft Como auf Manchester United. Doch heftige Regenfälle könnten die Partie gefährden.",
-        "title": "Champions League: Como gegen Manchester United droht Absage"
-      }
-    ],
-    "title": "Como 4-1 Manchester United: Champions League – as it happened",
-    "summary": "Como 4-1 Manchester United: Champions League – as it happened <p>A dismal Manchester United performance ended in an emphatic defeat to Cesc Fàbregas’s completely dominant Como side </p><p><strong>The players are on the pitch</strong> and very nearly ready to go.</p><p><strong>Poor mascot coming out to pick up the match ball</strong> looks like someone just dragged him out of a ditch.</p> <a href=\"https://www.theguardian.com/football/live/2026/oct/21/como-v-manchester-united-champions-league-live\">Continue reading...</a>\nChampions League: Como gegen Manchester United droht Absage Land unter in der Lombardei: Am Mittwochabend trifft Como auf Manchester United. Doch heftige Regenfälle könnten die Partie gefährden."
-  },
-  {
-    "id": "story-421",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "BY",
-    "date": "2026-10-21T19:14:17.000Z",
-    "sources": [
-      {
-        "source": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/cambridge-analytica-skandal-meta-muss-milliarden-strafe-zahlen,VYhzHKb",
-        "date": "2026-10-21T19:14:17.000Z",
-        "snippet": "Der Datenschutz-Skandal um Cambridge Analytica erschütterte einst das Vertrauen in Facebook. Jahre später bekommt der Mutterkonzern nun die Quittung: Meta soll 25 Milliarden Dollar zahlen – will das aber wohl nicht akzeptieren.",
-        "title": "Cambridge-Analytica-Skandal: Meta muss Milliarden-Strafe zahlen"
-      },
-      {
-        "source": "RND",
-        "url": "https://www.rnd.de/politik/25-milliarden-dollar-strafe-fuer-meta-nach-datenschutz-skandal-KYAIM62OTFBKXDF2SLEOWYHLJI.html",
-        "date": "2026-10-21T18:20:32.000Z",
-        "snippet": "Der Skandal um Cambridge Analytica erschütterte einst das Vertrauen in Facebook. Jahre später bekommt Meta nun die Quittung - im US-Bundesstaat New Mexico.",
-        "title": "25 Milliarden Dollar Strafe für Meta nach Datenschutz-Skandal"
-      }
-    ],
-    "title": "Cambridge-Analytica-Skandal: Meta muss Milliarden-Strafe zahlen",
-    "summary": "Cambridge-Analytica-Skandal: Meta muss Milliarden-Strafe zahlen Der Datenschutz-Skandal um Cambridge Analytica erschütterte einst das Vertrauen in Facebook. Jahre später bekommt der Mutterkonzern nun die Quittung: Meta soll 25 Milliarden Dollar zahlen – will das aber wohl nicht akzeptieren.\n25 Milliarden Dollar Strafe für Meta nach Datenschutz-Skandal Der Skandal um Cambridge Analytica erschütterte einst das Vertrauen in Facebook. Jahre später bekommt Meta nun die Quittung - im US-Bundesstaat New Mexico."
-  },
-  {
-    "id": "story-444",
+    "id": "story-762",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "HH",
@@ -603,32 +782,7 @@
     "summary": "Nach 24 Jahren in Deutschland: 55-Jährige abgeschoben 24 Jahre lang lebte Elena Brandt in Hamburg. Ihre Kinder und Enkel sind hier zu Hause. Trotzdem wurde die 55-Jährige im März nach Kirgistan abgeschoben. Ihre Familie kämpft um ihre Rückkehr und kritisiert das Vorgehen der Ausländerbehörde.\nNach 24 Jahren in Hamburg: Großmutter nach Kirgisistan abgeschoben 24 Jahre lang lebte Elena Brandt in Hamburg. Trotzdem wurde die 55-Jährige im März nach Kirgisistan abgeschoben. Ihre Familie kämpft um ihre Rückkehr."
   },
   {
-    "id": "story-514",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "RP",
-    "date": "2026-10-21T18:08:31.000Z",
-    "sources": [
-      {
-        "source": "SWR Aktuell",
-        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/mainz/mainzer-oktoberfest-findet-doch-statt-100.html",
-        "date": "2026-10-21T18:08:31.000Z",
-        "snippet": "So viel Ärger gab es in Mainz noch nie um ein Volksfest. Nach wochenlangem Streit sagt die Stadt jetzt: Das Fest findet statt.",
-        "title": "Oktoberfest in Mainz ist genehmigt - Freitag geht's los"
-      },
-      {
-        "source": "Tagesschau Regional Rheinland-Pfalz",
-        "url": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-oktoberfest-in-mainz-wird-zur-farce-hin-und-her-geht-weiter-100.html",
-        "date": "2026-10-21T16:29:00.000Z",
-        "snippet": "So viel Ärger gab es in Mainz noch nie um ein Volksfest. Nach wochenlangem Streit sagt die Stadt jetzt: Das Fest findet statt.",
-        "title": "Mainzer Oktoberfest startet am Freitag"
-      }
-    ],
-    "title": "Oktoberfest in Mainz ist genehmigt - Freitag geht's los",
-    "summary": "Oktoberfest in Mainz ist genehmigt - Freitag geht's los So viel Ärger gab es in Mainz noch nie um ein Volksfest. Nach wochenlangem Streit sagt die Stadt jetzt: Das Fest findet statt.\nMainzer Oktoberfest startet am Freitag So viel Ärger gab es in Mainz noch nie um ein Volksfest. Nach wochenlangem Streit sagt die Stadt jetzt: Das Fest findet statt."
-  },
-  {
-    "id": "story-550",
+    "id": "story-838",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
@@ -645,65 +799,15 @@
         "source": "Google News DE",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84c2I5Y1BfcmliVFh2aTdjNUdtbWJibUpfaTlEb3dJNkpsbU1SdVB4eVJVWnZaOVcxb1pVa1RtNHk5X1dXblJnWGxSelUtUzFCSFF5aF8tV0pXaHl1clhaVnpydTFFbU9MWTNMRkJn?oc=5",
         "date": "2026-10-21T17:48:00.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE84c2I5Y1BfcmliVFh2aTdjNUdtbWJibUpfaTlEb3dJNkpsbU1SdVB4eVJVWnZaOVcxb1pVa1RtNHk5X1dXblJnWGxSelUtUzFCSFF5aF8tV0pXaHl1clhaVnpydTFFbU9MWTNMRkJn?oc=5\" target=\"_blank\">Macron kritisiert Trump nach Äußerungen zu Unruhen in Frankreich</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQNDc1TjUxNktxaTZZVHRsazBKbE11MjkyZm1vY2U2TldVQlE2UjhWTFRPQjExaG5KNVpnenNBZTBnc2NJcjQxb2tqV1drOEZ5ZUtVS1pWMmlJZ1IzdGMwZ3gybC1KNnJYRzVQZ3BiZkVIS3B2TXZCQTltUDQ1aERGVlpyN3NKZ3VOTTM2LVRRMUdQQnZvRE5uaDlZQW1YTV9uT1gyd0tZanpvOG1JLVA3U09aYTZSVHM?oc=5\" target=\"_blank\">Nach Krawallen in Fr",
+        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE84c2I5Y1BfcmliVFh2aTdjNUdtbWJibUpfaTlEb3dJNkpsbU1SdVB4eVJVWnZaOVcxb1pVa1RtNHk5X1dXblJnWGxSelUtUzFCSFF5aF8tV0pXaHl1clhaVnpydTFFbU9MWTNMRkJn?oc=5\" target=\"_blank\">Macron kritisiert Trump nach Äußerungen zu Unruhen in Frankreich</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOT3k4d0hFUWZVOGd4cDliSDlrcm1KVl9SdVp0ZFRQWHEwT1puSDBYTVlmMjNmQXBOOGY3V2M4Rl9Db3Boc3AzdlpuTVFuOUt4QkVNV0dweGZDS3Z4V0JYX1RYZUZFeWtWcFRNUHNVRHJYWnQ0ZlBvNHJYUzBjb2V4WUY3Wnl5cUg5NDN0WUhsVQ?oc=5\" target=\"_blank\">Proteste in Frankreich: Von kleinen und großen Plünderern</a>&nbsp;&nbsp;",
         "title": "Macron kritisiert Trump nach Äußerungen zu Unruhen in Frankreich - tagesschau.de"
       }
     ],
     "title": "Macron kritisiert Trump nach Äußerungen zu Unruhen in Frankreich",
-    "summary": "Macron kritisiert Trump nach Äußerungen zu Unruhen in Frankreich Auch US-Präsident Trump hatte sich zu den Unruhen in Frankreich zu Wort gemeldet - der französische Präsident Macron hat nun offenbar genug davon. Bei einem Besuch in Katar machte er seinem Ärger Luft. Von Cai Rienäcker.\nMacron kritisiert Trump nach Äußerungen zu Unruhen in Frankreich - tagesschau.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE84c2I5Y1BfcmliVFh2aTdjNUdtbWJibUpfaTlEb3dJNkpsbU1SdVB4eVJVWnZaOVcxb1pVa1RtNHk5X1dXblJnWGxSelUtUzFCSFF5aF8tV0pXaHl1clhaVnpydTFFbU9MWTNMRkJn?oc=5\" target=\"_blank\">Macron kritisiert Trump nach Äußerungen zu Unruhen in Frankreich</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQNDc1TjUxNktxaTZZVHRsazBKbE11MjkyZm1vY2U2TldVQlE2UjhWTFRPQjExaG5KNVpnenNBZTBnc2NJcjQxb2tqV1drOEZ5ZUtVS1pWMmlJZ1IzdGMwZ3gybC1KNnJYRzVQZ3BiZkVIS3B2TXZCQTltUDQ1aERGVlpyN3NKZ3VOTTM2LVRRMUdQQnZvRE5uaDlZQW1YTV9uT1gyd0tZanpvOG1JLVA3U09aYTZSVHM?oc=5\" target=\"_blank\">Nach Krawallen in Fr"
+    "summary": "Macron kritisiert Trump nach Äußerungen zu Unruhen in Frankreich Auch US-Präsident Trump hatte sich zu den Unruhen in Frankreich zu Wort gemeldet - der französische Präsident Macron hat nun offenbar genug davon. Bei einem Besuch in Katar machte er seinem Ärger Luft. Von Cai Rienäcker.\nMacron kritisiert Trump nach Äußerungen zu Unruhen in Frankreich - tagesschau.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE84c2I5Y1BfcmliVFh2aTdjNUdtbWJibUpfaTlEb3dJNkpsbU1SdVB4eVJVWnZaOVcxb1pVa1RtNHk5X1dXblJnWGxSelUtUzFCSFF5aF8tV0pXaHl1clhaVnpydTFFbU9MWTNMRkJn?oc=5\" target=\"_blank\">Macron kritisiert Trump nach Äußerungen zu Unruhen in Frankreich</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOT3k4d0hFUWZVOGd4cDliSDlrcm1KVl9SdVp0ZFRQWHEwT1puSDBYTVlmMjNmQXBOOGY3V2M4Rl9Db3Boc3AzdlpuTVFuOUt4QkVNV0dweGZDS3Z4V0JYX1RYZUZFeWtWcFRNUHNVRHJYWnQ0ZlBvNHJYUzBjb2V4WUY3Wnl5cUg5NDN0WUhsVQ?oc=5\" target=\"_blank\">Proteste in Frankreich: Von kleinen und großen Plünderern</a>&nbsp;&nbsp;"
   },
   {
-    "id": "story-632",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "",
-    "date": "2026-10-21T16:57:53.000Z",
-    "sources": [
-      {
-        "source": "Tagesschau",
-        "url": "https://www.tagesschau.de/inland/aufruf-demos-sicherheitsbehoerden-100.html",
-        "date": "2026-10-21T16:57:53.000Z",
-        "snippet": "Während es bei den Protesten in Frankreich zu Ausschreitungen kommt, ruft auch in Deutschland eine Initiative für den 31. Oktober zu Demos auf. Polizei und Behörden beobachten die Lage und tauschen sich mit Frankreich und Italien aus.",
-        "title": "Polizei und Behörden beobachten Demo-Aufrufe für den 31. Oktober"
-      },
-      {
-        "source": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdjhHWVNsVWhUMno5Q2VGcmMxS3NNcDlXR1VuWkd5WTlYMV9jRGhNTDdtTlRaY0ZIVnNkeEo2V1FSMUIxZGdFTmEzZGxOSkdDdHhlZUx6R0ljbGE0YWlRVTNzdWxvclI5RTRZVm1jc3RpOWpOM1Vkb2V5TngzYnBZSg?oc=5",
-        "date": "2026-10-21T16:57:00.000Z",
-        "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPdjhHWVNsVWhUMno5Q2VGcmMxS3NNcDlXR1VuWkd5WTlYMV9jRGhNTDdtTlRaY0ZIVnNkeEo2V1FSMUIxZGdFTmEzZGxOSkdDdHhlZUx6R0ljbGE0YWlRVTNzdWxvclI5RTRZVm1jc3RpOWpOM1Vkb2V5TngzYnBZSg?oc=5\" target=\"_blank\">Polizei und Behörden beobachten Demo-Aufrufe für den 31. Oktober</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQU1hqdXhUM0hOVF8wM3VJd2NWLVRuOTRMc0JLa3dzUmNhTmczWWRybWYzLUd0aUdLeXQ3RU02Q20tdGpEdkxDYUJYS0F0T19lbGNFXzYyWl9JOE5Db3B6M1A5TGxScVQ5d254NVU2aGNsREUxaXN3SEZXT09GdUlDS1ZJcE1KVlk2ZW5TWEJSaEdyUHgtZ2w1OFREOUZoX3M1ODdDeVFISk5jdVVrRDBwcA?oc=5\" target=\"_blank\">Bil",
-        "title": "Polizei und Behörden beobachten Demo-Aufrufe für den 31. Oktober - tagesschau.de"
-      }
-    ],
-    "title": "Polizei und Behörden beobachten Demo-Aufrufe für den 31. Oktober",
-    "summary": "Polizei und Behörden beobachten Demo-Aufrufe für den 31. Oktober Während es bei den Protesten in Frankreich zu Ausschreitungen kommt, ruft auch in Deutschland eine Initiative für den 31. Oktober zu Demos auf. Polizei und Behörden beobachten die Lage und tauschen sich mit Frankreich und Italien aus.\nPolizei und Behörden beobachten Demo-Aufrufe für den 31. Oktober - tagesschau.de <ol><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPdjhHWVNsVWhUMno5Q2VGcmMxS3NNcDlXR1VuWkd5WTlYMV9jRGhNTDdtTlRaY0ZIVnNkeEo2V1FSMUIxZGdFTmEzZGxOSkdDdHhlZUx6R0ljbGE0YWlRVTNzdWxvclI5RTRZVm1jc3RpOWpOM1Vkb2V5TngzYnBZSg?oc=5\" target=\"_blank\">Polizei und Behörden beobachten Demo-Aufrufe für den 31. Oktober</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tagesschau.de</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQU1hqdXhUM0hOVF8wM3VJd2NWLVRuOTRMc0JLa3dzUmNhTmczWWRybWYzLUd0aUdLeXQ3RU02Q20tdGpEdkxDYUJYS0F0T19lbGNFXzYyWl9JOE5Db3B6M1A5TGxScVQ5d254NVU2aGNsREUxaXN3SEZXT09GdUlDS1ZJcE1KVlk2ZW5TWEJSaEdyUHgtZ2w1OFREOUZoX3M1ODdDeVFISk5jdVVrRDBwcA?oc=5\" target=\"_blank\">Bil"
-  },
-  {
-    "id": "story-780",
-    "topic": "panorama",
-    "country": "DE",
-    "stateHint": "BY",
-    "date": "2026-10-21T15:22:29.000Z",
-    "sources": [
-      {
-        "source": "RND",
-        "url": "https://www.rnd.de/sport/trauerfall-in-familie-kimmich-fehlt-fc-bayern-gegen-arsenal-NPJNAKYB2VBMRCGDVRYVU5HHEM.html",
-        "date": "2026-10-21T15:22:29.000Z",
-        "snippet": "Joshua Kimmich fehlte im Abschlusstraining des FC Bayern vor dem Champions-League-Kracher gegen den FC Arsenal. Auch heute Abend wird der Mittelfeldspieler nicht dabei sein - aus traurigen Gründen.",
-        "title": "Trauerfall in Familie: Kimmich fehlt FC Bayern gegen Arsenal"
-      },
-      {
-        "source": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/sport/fc-bayern-kimmich-fehlt-wegen-trauerfalls-im-champions-league-spiel-gegen-arsenal,VYfvhdf",
-        "date": "2026-10-21T10:03:06.000Z",
-        "snippet": "Der FC Bayern muss im wichtigen Champions-League-Heimspiel gegen den FC Arsenal auf Joshua Kimmich verzichten. Wie der Rekordmeister mitteilte, steht der Nationalspieler aufgrund eines \"Trauerfalls im engsten Familienkreis\" nicht zur Verfügung.",
-        "title": "Trauerfall in engster Familie: Kimmich fehlt gegen Arsenal"
-      }
-    ],
-    "title": "Trauerfall in Familie: Kimmich fehlt FC Bayern gegen Arsenal",
-    "summary": "Trauerfall in Familie: Kimmich fehlt FC Bayern gegen Arsenal Joshua Kimmich fehlte im Abschlusstraining des FC Bayern vor dem Champions-League-Kracher gegen den FC Arsenal. Auch heute Abend wird der Mittelfeldspieler nicht dabei sein - aus traurigen Gründen.\nTrauerfall in engster Familie: Kimmich fehlt gegen Arsenal Der FC Bayern muss im wichtigen Champions-League-Heimspiel gegen den FC Arsenal auf Joshua Kimmich verzichten. Wie der Rekordmeister mitteilte, steht der Nationalspieler aufgrund eines \"Trauerfalls im engsten Familienkreis\" nicht zur Verfügung."
-  },
-  {
-    "id": "story-788",
+    "id": "story-984",
     "topic": "politik",
     "country": "DE",
     "stateHint": "BY",
@@ -728,7 +832,7 @@
     "summary": "Nahverkehr: \"Deutschlandticket light\" kommt vorerst nicht Ein attraktives Ticket für gelegentliche Bus- und Bahnfahrer - das hatten Hamburg und Nordrhein-Westfalen für die Verkehrsministerkonferenz zur Beratung vorgeschlagen. Doch nun ist \"Deutschlandticket light\" bereits wieder vom Tisch.\n\"Deutschlandticket light\" kommt vorerst nicht Es sollte ein Angebot für Gelegenheitsfahrer werden – das sogenannte \"Deutschlandticket light\". Doch aus der Idee wird vorerst nichts. Die Verkehrsminister nahmen das Thema nach BR-Informationen bei ihrer Konferenz im Allgäu von der Tagesordnung."
   },
   {
-    "id": "story-803",
+    "id": "story-987",
     "topic": "politik",
     "country": "DE",
     "stateHint": "",
@@ -753,7 +857,7 @@
     "summary": "Krieg in der Ukraine: Kreml erklärt sich zu Gesprächen mit USA und Ukraine bereit Das habe Präsident Putin dem US-Gesandten Witkoff zugesagt, erklärt Kreml-Berater Uschakow. Die neuen Verhandlungen könnten demnach im November beginnen.\nKreml: Putin zu Gesprächen mit Ukraine und USA bereit Nach einem Treffen mit dem US-Sondergesandten Witkoff zeigt sich der Kreml zu trilateralen Gesprächen über den Ukraine-Krieg bereit. Die Verhandlungen könnten im November beginnen."
   },
   {
-    "id": "story-855",
+    "id": "story-1016",
     "topic": "politik",
     "country": "DE",
     "stateHint": "BW",
@@ -778,7 +882,7 @@
     "summary": "Notruf wegen bewaffnetem Mann an Bahnhof: Verdächtiger in Klinik festgenommen In Kernen-Rommelshausen (Rems-Murr-Kreis) ist der Polizeieinsatz beendet. Die Polizei nahm einen Verdächtigen fest. Über Notruf war zuvor eine Person mit Pistole gemeldet worden.\nEinsatz wegen bewaffnetem Mann an Bahnhof: Verdächtiger in Klinik festgenommen In Kernen-Rommelshausen (Rems-Murr-Kreis) ist der Polizeieinsatz beendet. Die Polizei nahm einen Verdächtigen fest. Über Notruf war zuvor eine Person mit Pistole gemeldet worden."
   },
   {
-    "id": "story-931",
+    "id": "story-1083",
     "topic": "panorama",
     "country": "DE",
     "stateHint": "MV",
@@ -803,7 +907,7 @@
     "summary": "Jetzt bewerben: Regionalvolontariat in NDR Landesfunkhäusern Regionalvolontär*innen erhalten eine crossmediale Ausbildung in einem unserer vier Landesfunkhäuser.\nJetzt bewerben: Regionalvolontariat beim NDR in MV Regionalvolontärinnen und -volontäre erhalten eine crossmediale Ausbildung beim NDR in Mecklenburg-Vorpommern."
   },
   {
-    "id": "story-943",
+    "id": "story-1091",
     "topic": "panorama",
     "country": "PT",
     "stateHint": "",
@@ -828,7 +932,7 @@
     "summary": "Taxa de juro no crédito à habitação sobe em setembro para valor mais alto num ano - RTP <ol><li><a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNYWFkc0NMRGxITEVOREliX25pWEdqU1NGSXdQYmNPV1M1Q0xxNTNPQWtzdGxkUWZNTTN5U2ctTHUwSDFQVHdXYUkzS1o2ZnJ5c3VsTk1oZmFHZDZOcEg3eGxrOFF6VGdqMEhWeXZxazlzNmpMa2p6UEFHbHFfYkFxV3lDX3hOS1F1UWZmQUNZdDJBQlFJcVIyeWZhM0dEWUtPZWc0Z3VLRWlJZTlpR3BCMlVic040LTEzc3c3Y2FYT0ZxTVpyTVE?oc=5\" target=\"_blank\">Taxa de juro no crédito à habitação sobe em setembro para valor mais alto num ano</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTP</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeG5xSWhMbW5ZbVFaN1FtOXNSVFB1LVJPbHBFa2VXSUJILVZLSlB0OUVaajY1MWkzckdEcE5MVmdQeFdfWmVYUzVqVWR1X2MzY3NodWtvQlNXbnAxaUtnLWY2T2MtQzU0YzluSU9aNWV6NGVGdW85dzc0\nTaxa de juro no crédito à habitação sobe em setembro para valor mais alto num ano A taxa de juro implícita para a totalidade dos contratos de crédito à habitação subiu em setembro pelo quarto mês consecutivo, para 3,194%, atingindo o valor mais alto num ano, divulgou hoje o Instituto Nacional de Estatística (INE)."
   },
   {
-    "id": "story-1042",
+    "id": "story-1169",
     "topic": "politik",
     "country": "DE",
     "stateHint": "BW",
