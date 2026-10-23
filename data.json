@@ -1,5 +1,389 @@
 [
   {
+    "id": "story-83954baa1da23213",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-23T21:57:17.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Israel startet Anti-Terror-Operation im Westjordanland",
+    "s": "Kurz vor der Wahl in Israel ist es im Westjordanland zu schwere Gewalt gekommen. Als Reaktion darauf hat Ministerpräsident Benjamin Netanjahu Sicherheitskräfte angewiesen, sich auf eine vollständige Abriegelung des gesamten Gebiets vorzubereiten. Die israelischen Behörden sprechen von einer Anti-Terror-Operation. Über den Verlauf und mögliche Opfer gibt es in den Berichten bisher keine weiteren Angaben.",
+    "m": "Die Entwicklungen ereignen sich kurz vor einer anstehenden Wahl in Israel. Ministerpräsident Benjamin Netanjahu reagierte auf die jüngste Eskalation der Gewalt im Westjordanland mit der Anweisung an die Sicherheitskräfte, Vorbereitungen für eine Abriegelung des gesamten palästinensischen Gebiets zu treffen. Die Operation wird von offizieller Seite als Anti-Terror-Operation bezeichnet. Weitere Details zu den genauen Auslösern der Gewalt, beteiligten Personengruppen oder konkreten Zahlen liegen in den vorliegenden Berichten derzeit nicht vor. Die Situation im Westjordanland bleibt damit hochgradig angespannt und wird von den Beobachtern in Livetickern und Sonderformaten verfolgt. Offene Punkte sind insbesondere das genaue Ausmaß der militärischen Maßnahmen und wie lange die Abriegelung anhalten soll.",
+    "r": "Die Operation und die drohende Abriegelung des Westjordanlands verschärfen die ohnehin angespannte Sicherheitslage kurz vor einer Wahl in Israel unmittelbar. Solche Maßnahmen haben weitreichende Folgen für die Bewegungsfreiheit der dortigen Bevölkerung und die regionale Stabilität.",
+    "srcs": [
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/politik/nahost-ticker-israel-startet-anti-terror-operation-im-westjordanland-SUZZT272ANCR5LXBULZCKG7OB4.html",
+        "date": "2026-10-23T21:57:17.000Z"
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-10/23/israel-startet-im-westjordanland-anti-terror-operation",
+        "date": "2026-10-23T21:42:16.000Z"
+      }
+    ],
+    "url": "https://www.rnd.de/politik/nahost-ticker-israel-startet-anti-terror-operation-im-westjordanland-SUZZT272ANCR5LXBULZCKG7OB4.html",
+    "agree": "Beide Quellen stimmen darin überein, dass Israel eine Anti-Terror-Operation im Westjordanland gestartet hat.",
+    "diff": [
+      {
+        "name": "RND",
+        "note": "Berichtet zusätzlich über Netanjahus Anweisung zur Vorbereitung der Abriegelung des gesamten Westjordanlands und erwähnt den Kontext der kurz bevorstehenden Wahl."
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Beschränkt sich rein auf die Überschrift zur gestarteten Anti-Terror-Operation ohne nennenswerte Zusatzdetails."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-ed50b3f87367ca41",
+    "c": "INT",
+    "o": "UK",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-23T21:44:50.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Emmanuel Macron verurteilt rassistischen Anschlag bei Paris",
+    "s": "Bei einer Schießerei aus einem Auto westlich von Paris wurde eine Person getötet und fünf weitere verletzt. Der französische Präsident Emmanuel Macron verurteilte die Tat als rassistischen Terroranschlag und besuchte den Tatort. Unter den Verletzten befindet sich auch ein zwölfjähriges Mädchen, das im Krankenhaus behandelt wird. Die Behörden ermitteln in dem Fall, während das Motiv und die Hintergründe im Fokus stehen.",
+    "m": "Ein bewaffneter Täter hat am Freitag in Trappes und Verrières-le-Buisson aus einem Auto heraus das Feuer auf Passanten eröffnet. Bei dem Attentat kam ein Mensch ums Leben, fünf weitere Personen wurden verletzt. Zu den Verletzten zählt ein zwölfjähriges Mädchen, das nach Medienangaben achtmal getroffen wurde und sich in medizinischer Behandlung befindet. Präsident Emmanuel Macron äußerte sich tief bestürzt, sprach von einem geplanten und rassistischen Terroranschlag und reiste noch am Freitagabend an den Tatort. Die Tatorte liegen westlich der französischen Hauptstadt. Der genaue Hintergrund des Täters und die Details zum Tathergang sind Gegenstand der laufenden Ermittlungen der französischen Sicherheitsbehörden.",
+    "r": "Der Anschlag und die Reaktion des französischen Präsidenten beleuchten gesellschaftliche Spannungen und Sicherheitsfragen in Frankreich. Die Tat zeigt akute Gefahren durch rassistisch motivierte Gewalt und erfordert politische sowie polizeiliche Gegenmaßnahmen auf höchster Ebene.",
+    "srcs": [
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/23/macron-condemns-racism-after-one-killed-in-terrorist-shooting-near-paris",
+        "date": "2026-10-23T21:44:50.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYjh4WTJRdkpUU2UxdjVxdVkxUlROYTNXdDJLNG93UE1lZi05emhyQ3FleldibHB1NkdORmE0N2RrbUV2cHpaaEFrNUxHY1BudmxFd1dZSS1TUlpOcWFsRVFrSWo5WjM0dk5MV2NtemxLWkl0MWh4SUxXNF95RjZKYWhUbHNaV1c2Z1I3NUtVeE9DdjZ0VTBzRmZKNDRuNWRBQVNON1o2dVNOZTNGc1dERkFHaVZxcGNSSEE?oc=5",
+        "date": "2026-10-23T19:23:00.000Z"
+      }
+    ],
+    "url": "https://www.theguardian.com/world/2026/oct/23/macron-condemns-racism-after-one-killed-in-terrorist-shooting-near-paris",
+    "agree": "Die Quellen sind sich einig, dass Emmanuel Macron einen tödlichen Anschlag nahe Paris als rassistischen Terrorakt verurteilt hat.",
+    "diff": [
+      {
+        "name": "Guardian World",
+        "note": "Berichtet detailliert über die Tatorte Trappes und Verrières, die genaue Opferzahl inklusive des zwölfjährigen Mädchens sowie den Besuch von Macron vor Ort."
+      },
+      {
+        "name": "Google News World",
+        "note": "Enthält nur eine Schlagzeile und verweist auf den Bericht des Guardian."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-262d5521b81a2c98",
+    "c": "INT",
+    "o": "INT",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-23T21:27:32.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Maskierte Täter töten sieben Menschen bei Anschlag auf Trauerfeier in Jordanien",
+    "s": "Bei einem bewaffneten Angriff auf eine Trauerfeier in einer Kirche in Jordanien wurden mindestens sieben Menschen getötet. Weitere 34 Personen erlitten bei der Tat in der Stadt Karak Verletzungen. Die Hintergründe des Angriffs und die Identität der Angreifer sind Gegenstand von Ermittlungen. Nach den Tätern wird derzeit mit Hochdruck gefahndet.",
+    "m": "Bei dem Anschlag auf eine Kirche in der südlichen Provinz Karak in Jordanien eröffneten zwei maskierte bewaffnete Männer das Feuer auf eine Trauerfeier. Dabei wurden mindestens sieben Menschen getötet und 34 weitere Personen verletzt. Die Behörden bestätigten die Opferzahlen und leiteten umgehend eine groß angelegte Fahndung nach den flüchtigen Schützen ein. Derzeit ist unklar, welches Motiv hinter dem gezielten Angriff auf die Trauergesellschaft steht. Sicherheitskräfte haben das Gebiet um den Tatort abgeriegelt, während die Verletzten in umliegende Krankenhäuser gebracht wurden. Die jordanische Regierung und lokale Behörden stehen vor der Herausforderung, die Identität und mögliche Verbindungen der Täter aufzuklären. Offene Fragen betreffen vor allem die Frage, ob es sich um einen terroristischen Hintergrund oder einen lokalen Konflikt handelt.",
+    "r": "Der gewaltsame Vorfall in einer Kirche mit zahlreichen Toten und Verletzten erschüttert das ansonsten vergleichsweise stabile Jordanien. Die Sicherheitslage und die Effizienz der eingeleiteten Fahndung nach den bewaffneten Tätern stehen im Fokus der öffentlichen Aufmerksamkeit.",
+    "srcs": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss",
+        "date": "2026-10-23T21:27:32.000Z"
+      },
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-23T19:46:30.000Z"
+      }
+    ],
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss",
+    "agree": "Beide Quellen stimmen überein, dass bei einem Angriff von maskierten Bewaffneten auf eine Kirche bei einer Trauerfeier in Karak, Jordanien, sieben Menschen getötet und 34 weitere verletzt wurden.",
+    "diff": [
+      {
+        "name": "Al Jazeera",
+        "note": "Berichtet, dass zwei maskierte Bewaffnete das Feuer auf eine Kirche in Karak eröffneten."
+      },
+      {
+        "name": "BBC World",
+        "note": "Erwähnt offiziell bestätigte Angaben und dass eine Fahndung (Manhunt) in der südlichen Provinz Karak im Gange ist."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-5634cf69c803b6d0",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-23T21:11:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Namensähnlichkeit bei Senatswahl: Trump ordnet Klage in Alaska an",
+    "s": "Im US-Bundesstaat Alaska konkurrieren zwei Republikaner um einen Senatsposten, wobei ihre Namen sich stark ähneln. US-Präsident Donald Trump hat nun angeordnet, dass wegen dieses Umstands geklagt werden soll. Kritiker und Beteiligte stellen sich die Frage, ob es sich um ein abgekartetes Spiel der Demokraten oder um reinen Zufall handelt.",
+    "m": "Der Streit entzündet sich an einer Senatswahl im nördlichsten US-Bundesstaat Alaska, bei der zwei republikanische Kandidaten mit sehr ähnlichen Namen antreten. Dieser Umstand sorgt für Verwirrung und Kontroversen darüber, ob Wähler gezielt getäuscht werden sollen. Nun hat sich US-Präsident Trump in die Auseinandersetzung eingeschaltet und befohlen, juristisch gegen die Situation vorzugehen. Bisher ist unklar, wie die genauen Erfolgsaussichten der Klage und die rechtlichen Grundlagen im Detail aussehen. Die Debatte wirft Fragen über mögliche Manipulationen und die Transparenz bei US-Wahlen auf. Die beteiligten Parteien und Beobachter beobachten die Entwicklung mit großer Aufmerksamkeit, während die Hintergründe weiter geprüft werden.",
+    "r": "Die Intervention von US-Präsident Trump in eine bundesstaatliche Senatswahl wegen ähnlicher Kandidatennamen verdeutlicht die hohe Sensibilität von Wahlprozessen in den USA. Der Vorfall berührt Fragen der parteiinternen Konkurrenz und möglicher Einflussnahmen.",
+    "srcs": [
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/politik/ausland/trump-befiehlt-klage-gegen-alaska---namen-bei-wahl-zu-aehnlich---38444106.html",
+        "date": "2026-10-23T21:11:00.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/politik/midterms-us-ministerium-klagt-wegen-wahl-in-alaska-kandidaten-namen-zu-aehnlich-LHHTX6XTKFHPDCZXTCOAHMIWOQ.html",
+        "date": "2026-10-23T18:56:37.000Z"
+      }
+    ],
+    "url": "https://www.stern.de/politik/ausland/trump-befiehlt-klage-gegen-alaska---namen-bei-wahl-zu-aehnlich---38444106.html",
+    "agree": "Die Quellen sind sich einig, dass es im US-Bundesstaat Alaska bei einer Senatswahl zu einer Konkurrenz zweier Republikaner mit sehr ähnlichen Namen kam und sich US-Präsident Trump beziehungsweise das Ministerium eingeschaltet hat.",
+    "diff": [
+      {
+        "name": "stern",
+        "note": "Berichtet, dass Trump direkt eine Klage gegen Alaska befohlen hat."
+      },
+      {
+        "name": "RND",
+        "note": "Berichtet, dass das US-Ministerium wegen der Wahl klagt und erwähnt den Präsidenten als denjenigen, der sich eingeschaltet hat."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-c52236015b154fb8",
+    "c": "DE",
+    "o": "DE",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-23T20:58:14.000Z",
+    "p": 4,
+    "st": "BY",
+    "city": "",
+    "t": "Bayern-Trainer Vincent Kompany nach Zusammenbruch im Training in Klinik gebracht",
+    "s": "Der Trainer des FC Bayern München, Vincent Kompany, ist nach einer Trainingseinheit zusammengebrochen und in ein Krankenhaus eingeliefert worden. Über den aktuellen Gesundheitszustand des 40-jährigen belgischen Trainers ist besorgte Aufmerksamkeit im Verein entstanden. Der FC Bayern hat den Vorfall und die Kliniklieferung inzwischen bestätigt.",
+    "m": "Der Vorfall ereignete sich am Freitag auf dem Trainingsgelände des FC Bayern München. Vincent Kompany brach dort nach Abschluss einer Trainingseinheit unerwartet zusammen, weshalb er umgehend in ein Münchner Krankenhaus gebracht werden musste. Der Verein bestätigte entsprechende Medienberichte über den Kollaps des Cheftrainers. Laut Vereinsangaben ist der Zustand des 40-Jährigen inzwischen stabil. Zusätzlichen Hintergrundinformationen zufolge hatte der Coach in der vergangenen Woche bereits mit einer Virusinfektion zu kämpfen, ob dies im direkten Zusammenhang mit dem Zusammenbruch steht, ist jedoch nicht offiziell bestätigt.",
+    "r": "Die Meldung ist von hoher Relevanz für den Profisport, da sie den Cheftrainer eines der international bekanntesten Fußballvereine betrifft und unmittelbare Auswirkungen auf den Trainings- und Spielbetrieb haben kann.",
+    "srcs": [
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/sport/vincent-kompany-bayern-coach-in-klinik-gebracht-TAT355LRH5AWLCAZL4XDOWMXQI.html",
+        "date": "2026-10-23T20:58:14.000Z"
+      },
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/bayern-trainer-vincent-kompany-in-klinik-gebracht-112.html",
+        "date": "2026-10-23T19:16:39.000Z"
+      },
+      {
+        "name": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/sport/sorgen-um-vincent-kompany-fcb-coach-mit-notarzt-in-klinik-gebracht,VYt2iQi",
+        "date": "2026-10-23T17:31:55.000Z"
+      },
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-kompany-notarzt-kollaps-klinik-100.html",
+        "date": "2026-10-23T16:45:00.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/sport/fussball/bayern-trainer-vincent-kompany-in-klinik-gebracht-a-976294fc-1507-41bb-9a2d-8ec33112c54a#ref=rss",
+        "date": "2026-10-23T15:55:00.000Z"
+      }
+    ],
+    "url": "https://www.rnd.de/sport/vincent-kompany-bayern-coach-in-klinik-gebracht-TAT355LRH5AWLCAZL4XDOWMXQI.html",
+    "agree": "Die Quellen stimmen überein, dass Bayern-Trainer Vincent Kompany nach einem Training zusammengebrochen und in eine Klinik gebracht wurde.",
+    "diff": [
+      {
+        "name": "RND",
+        "note": "erwähnt das Alter von 40 Jahren"
+      },
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "berichtet von einem Zusammenbruch auf dem Trainingsgelände"
+      },
+      {
+        "name": "BR24 Bayern",
+        "note": "nennt die Information, dass der Zustand von Kompany stabil ist"
+      },
+      {
+        "name": "ZDF heute",
+        "note": "bezeichnet den Vorfall als Kollaps"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "ergänzt die Information, dass Kompany vergangene Woche mit einer Virusinfektion zu kämpfen hatte"
+      }
+    ],
+    "chg": "",
+    "independent": 5
+  },
+  {
+    "id": "story-9bdc8c1005ebf5a9",
+    "c": "INT",
+    "o": "DE",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-23T20:41:47.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Skye Blakely wird Turn-Weltmeisterin im Mehrkampf",
+    "s": "Die US-Amerikanerin Skye Blakely hat die Weltmeisterschaft im Turn-Mehrkampf gewonnen. Die als Favoritin gehandelte Kaylia Nemour zeigte Patzer im Finale und verpasste damit eine historische Medaille. Die 19-Jährige hätte die erste WM-Medaille im Vierkampf für Afrika gewinnen können.",
+    "m": "Bei den Turn-Weltmeisterschaften hat sich die US-Amerikanerin Skye Blakely den Titel im Mehrkampf gesichert. Als Top-Favoritin ging die 19-jährige Kaylia Nemour in den Wettbewerb, leistete sich jedoch entscheidende Fehler und vergab dadurch die große Chance auf einen historischen Erfolg. Mit einem Sieg hätte Nemour die erste WM-Medaille im Vierkampf für den afrikanischen Kontinent geholt. Der Wettkampf war von dramatischen Momenten im Finale geprägt, bei denen die Favoritin dem Druck nicht standhalten konnte. Weitere Details zum genauen Verlauf der Übungen, den exakten Punktzahlen oder den Platzierungen der übrigen Teilnehmerinnen gehen aus den Berichten nicht hervor.",
+    "r": "Der Gewinn des Mehrkampf-Titels durch Skye Blakely bei der Turn-WM ist sportlich bedeutsam. Das Verpassen der ersten afrikanischen Vierkampf-Medaille durch den Patzer der Favoritin Kaylia Nemour stellt ein zentrales Drama des Turniers dar.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.swr.de/sport/mehr-sport/turn-wm-rotterdam-mehrkampf-finale-frauen-100.html",
+        "date": "2026-10-23T20:41:47.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/sport/Turn-Favoritin-verpasst-Medaillen-Coup-fuer-Afrika-id31453134.html",
+        "date": "2026-10-23T20:38:59.000Z"
+      }
+    ],
+    "url": "https://www.swr.de/sport/mehr-sport/turn-wm-rotterdam-mehrkampf-finale-frauen-100.html",
+    "agree": "Die Quellen sind sich einig, dass Skye Blakely die neue Mehrkampf-Weltmeisterin ist und die Favoritin Kaylia Nemour den historischen Medaillengewinn für Afrika durch einen Patzer verpasst hat.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-856626ac1b515f15",
+    "c": "INT",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-23T20:25:12.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "USA passen nach Druck aus Grenzstaaten einige Kanada-Zölle an",
+    "s": "Der Handelskonflikt zwischen den USA und Kanada belastet zunehmend grenznahe US-Bundesstaaten und den Wahlkampf bestimmter Kandidaten von Donald Trumps Partei. Aufgrund dieses politischen Drucks hat die US-Regierung nun reagiert und Anpassungen vorgenommen. Bei bestimmten Waren wurden Zollausnahmen beschlossen, um die Situation vor Ort zu entlasten.",
+    "m": "Die US-Regierung hat auf massiven Druck aus grenznahen Bundesstaaten reagiert und Anpassungen bei einigen Zöllen im Handelskonflikt mit Kanada vorgenommen. Der Konflikt und die damit verbundenen wirtschaftlichen Belastungen spüren vor allem die US-Staaten an der Grenze zu Kanada deutlich. Dies wirkt sich auch negativ auf den Wahlkampf von Kandidaten aus Trumps Partei in diesen Regionen aus, weshalb politischer Handlungsdruck entstand. Nun sollen für bestimmte Waren Ausnahmeregelungen gelten, um die lokalen Wirtschaftszweige und die Parteikollegen im Wahlkampf zu stützen. Details zu den genauen Warengruppen oder dem Umfang der Ausnahmen gehen aus den vorliegenden Berichten jedoch nicht hervor. Die Maßnahme zeigt, wie stark innenpolitischer Druck den handelspolitischen Kurs der US-Regierung beeinflussen kann.",
+    "r": "Die Anpassung von US-Zöllen auf kanadische Waren verdeutlicht den direkten Einfluss von regionalen Interessen und bevorstehenden Wahlen auf die Handelspolitik. Der Schritt soll wirtschaftliche Belastungen in US-Grenzstaaten mindern und den Wahlkampf gefährdeter Kandidaten unterstützen.",
+    "srcs": [
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/wirtschaft/usa-passen-nach-druck-aus-grenzstaaten-einige-kanada-zoelle-an-HER7ODUNWJES7OU5HDK6SLBS5U.html",
+        "date": "2026-10-23T20:25:12.000Z"
+      },
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/politik/ausland/usa-passen-einige-kanada-zoelle-an---was-dahintersteckt-38444264.html",
+        "date": "2026-10-23T20:01:00.000Z"
+      }
+    ],
+    "url": "https://www.rnd.de/wirtschaft/usa-passen-nach-druck-aus-grenzstaaten-einige-kanada-zoelle-an-HER7ODUNWJES7OU5HDK6SLBS5U.html",
+    "agree": "Beide Quellen stimmen darin überein, dass die USA aufgrund von Belastungen in grenznahen US-Bundesstaaten und im dortigen Wahlkampf einige Zölle gegenüber Kanada anpassen und Ausnahmen einführen.",
+    "diff": [
+      {
+        "name": "stern",
+        "note": "Erwähnt explizit im Titel, dass es um die Hintergründe des Handelsstreits geht, und führt ergänzend den Aspekt der Zollausnahmen bei bestimmten Waren auf."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-ef8ebb9b71b9c222",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-23T20:11:23.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Waffenruhe für Frontstadt Oleschky vereinbart",
+    "s": "Moskau und Kiew haben einer lokalen Waffenruhe für die Frontstadt Oleschky zugestimmt. Die Vereinbarung soll den Menschen vor Ort Linderung bringen. Die US-Mitteilung über die Feuerpause wird von beiden Konfliktparteien bestätigt.",
+    "m": "Die Kämpfe in der schwer umkämpften Frontstadt Oleschky sollen vorübergehend eingestellt werden. Nach Angaben aus den USA wurde die Waffenruhe vermittelt. Die ukrainische Seite betont, dass die Einigung das Resultat eines längeren Prozesses ist. An diesem Prozess sollen neben der US-amerikanischen First Lady Melania Trump auch der Vatikan beziehungsweise der Papst beteiligt gewesen sein. Der Kreml hat die Abmachung ebenfalls offiziell bestätigt. Die betroffene Zivilbevölkerung leidet stark unter den anhaltenden Kampfhandlungen an diesem Frontabschnitt. Es ist unklar, wie lange die Feuerpause anhalten soll und ob daraus weitere Verhandlungen resultieren.",
+    "r": "Die lokale Waffenruhe in einem umkämpften Frontgebiet der Ukraine ist ein seltener diplomatischer Fortschritt. Die Beteiligung ungewohnter Vermittler wie der US-First Lady und dem Papst verleiht dem Ereignis zusätzliche politische Bedeutung.",
+    "srcs": [
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/politik/ukraine-krieg-moskau-und-kiew-stimmen-waffenruhe-um-oleschky-zu-von-melania-trump-vermittelt-AT3UY767BVEBHBKQZQ4ZQ6KYDQ.html",
+        "date": "2026-10-23T20:11:23.000Z"
+      },
+      {
+        "name": "Süddeutsche Zeitung",
+        "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-feuerpause-oleschky-melania-trump-papst-leo-li.3563283",
+        "date": "2026-10-23T17:40:00.000Z"
+      }
+    ],
+    "url": "https://www.rnd.de/politik/ukraine-krieg-moskau-und-kiew-stimmen-waffenruhe-um-oleschky-zu-von-melania-trump-vermittelt-AT3UY767BVEBHBKQZQ4ZQ6KYDQ.html",
+    "agree": "Die Quellen stimmen überein, dass Moskau und Kiew einer Waffenruhe für Oleschky zugestimmt haben und die USA als Vermittler auftraten.",
+    "diff": [
+      {
+        "name": "Süddeutsche Zeitung",
+        "note": "Erwähnt zusätzlich den Papst als weiteren Beteiligten an dem langen Prozess der Vereinbarung."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-d7691f4a495e66f3",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-23T19:16:39.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Israel bereitet nach Angriff in Hebron Abriegelung des Westjordanlands vor",
+    "s": "Die israelische Regierung hat das Militär angewiesen, sich auf eine vollständige Abriegelung des Westjordanlands vorzubereiten. Zuvor hat es in Hebron einen Angriff gegeben, bei dem zwei Soldaten getötet wurden. Ministerpräsident Netanjahu hat in diesem Zusammenhang einen Großeinsatz angekündigt.",
+    "m": "Als Reaktion auf einen Angriff mit zwei getöteten israelischen Soldaten in dem besetzten Palästinensergebiet hat Ministerpräsident Netanjahu einen Großeinsatz angekündigt und das Militär zu drastischen Schritten aufgefordert. Das Büro des Regierungschefs teilte mit, dass die Sicherheitskräfte angewiesen wurden, die Stadt Hebron umgehend zu sperren. Darüber hinaus sollen konkrete Vorbereitungen für eine vollständige Schließung des gesamten Westjordanlands getroffen werden. Die Maßnahmen stellen eine deutliche Verschärfung der Sicherheitslage in der Region dar. Weitere Details zu den Hintergründen des Angriffs oder dem genauen zeitlichen Ablauf der Abriegelung wurden zunächst nicht bekannt gegeben.",
+    "r": "Die Vorbereitung einer vollständigen Abriegelung des Westjordanlands und die Ankündigung eines Großeinsatzes markieren eine erhebliche Eskalation des Konflikts nach dem Tod zweier Soldaten. Solche militärischen Maßnahmen haben direkte Auswirkungen auf die Bewegungsfreiheit der palästinensischen Bevölkerung in der betroffenen Region.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/israel-bereitet-vollstaendige-abriegelung-des-westjordanlands-vor-110.html",
+        "date": "2026-10-23T19:16:39.000Z"
+      },
+      {
+        "name": "Süddeutsche Zeitung",
+        "url": "https://www.sueddeutsche.de/politik/westjordanland-abriegelung-israel-netanjahu-angriff-grosseinsatz-li.3567934",
+        "date": "2026-10-23T15:30:00.000Z"
+      },
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-100.html",
+        "date": "2026-10-23T15:06:05.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/israel-bereitet-vollstaendige-abriegelung-des-westjordanlands-vor-110.html",
+    "agree": "Die Quellen sind sich einig, dass die israelische Regierung das Militär angewiesen hat, sich auf eine vollständige Abriegelung des Westjordanlands vorzubereiten.",
+    "diff": [
+      {
+        "name": "Süddeutsche Zeitung",
+        "note": "Erwähnt als einzige Quelle den von Netanjahu angekündigten Großeinsatz."
+      },
+      {
+        "name": "Tagesschau",
+        "note": "Nennt konkret den palästinensischen Angriff in Hebron und den Tod von zwei israelischen Soldaten als Auslöser."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
     "id": "story-683b48e3f60c315a",
     "c": "INT",
     "o": "UK",
@@ -176,16 +560,16 @@
     "id": "story-1109df388f3ea681",
     "c": "DE",
     "o": "DE",
-    "k": "politik",
+    "k": "panorama",
     "lang": "de",
     "d": "2026-10-23T18:46:48.000Z",
     "p": 2,
     "st": "MV",
     "city": "",
     "t": "Historische Schiffswracks belasten die Stadtkasse von Greifswald",
-    "s": "Die Instandhaltung und Bergung historischer Schiffe führt im Greifswalder Hafen zu finanziellen Problemen für die Stadt. Allein zwei Bergungen verursachten Kosten in Höhe von rund 350.000 Euro. Um künftig gegenzusteuern, ist eine Änderung der Hafennutzungsordnung geplant.",
-    "m": "Die Bewahrung historischer Schiffe stellt die Hansestadt Greifswald vor große Herausforderungen, die sich zunehmend negativ auf die Stadtkasse auswirken. Die finanziellen Belastungen resultieren unter anderem aus aufwendigen Bergungsarbeiten, von denen allein zwei Stück mit rund 350.000 Euro zu Buche schlugen. Die Situation macht deutlich, dass der Erhalt des maritimen Erbes mit erheblichen Kosten verbunden ist, die den städtischen Haushalt strapazieren. Als Reaktion auf diese Entwicklung plant die Stadtverwaltung nun eine Änderung der Hafennutzungsordnung, um die Rahmenbedingungen anzupassen. Weitere Details zu den künftigen Regelungen der Hafennutzungsordnung oder zu konkreten Zeitplänen wurden bisher nicht bekannt gegeben.",
-    "r": "Die Meldung ist relevant, da finanzielle Belastungen städtischer Haushalte durch maritime Altlasten und die geplante Änderung der Hafennutzungsordnung direkte Auswirkungen auf die kommunale Haushaltsführung und die lokale Politik haben.",
+    "s": "In Greifswald stellen historische Schiffswracks die Stadtkasse vor finanzielle Probleme. Die Instandhaltung und Bergung solcher Schiffe erweist sich als große Herausforderung. Um künftig gegenzusteuern, ist eine Änderung der Hafennutzungsordnung geplant.",
+    "m": "Die Erhaltung historischer Schiffe ist für Greifswald zu einem finanziellen Problem geworden, das die Stadtkasse stark belastet. Allein zwei Schiffsbergungen verursachten Kosten in Höhe von rund 350.000 Euro. Um derartigen Belastungen in Zukunft vorzubeugen und die Situation besser zu regeln, soll die Hafennutzungsordnung entsprechend geändert werden. Die Unterhaltung solcher Wracks gilt insgesamt als große Herausforderung. Weitere Details zum zeitlichen Ablauf oder zu konkreten Verantwortlichen gehen aus den Berichten nicht hervor.",
+    "r": "Die Meldung ist relevant, da kommunale Haushalte durch unerwartete Kosten für Schiffsbergungen direkt belastet werden und politische Gegenmaßnahmen wie eine neue Hafennutzungsordnung ergreifen müssen.",
     "srcs": [
       {
         "name": "NDR Mecklenburg-Vorpommern",
@@ -199,15 +583,15 @@
       }
     ],
     "url": "https://www.ndr.de/fernsehen/sendungen/nordmagazin/schiffswracks-im-greifswalder-hafen-belasten-stadtkasse,nordmagazin-15282.html",
-    "agree": "Beide Quellen stimmen darin überein, dass Schiffswracks im Greifswalder Hafen zu einer Belastung für die Stadtkasse geworden sind.",
+    "agree": "Beide Quellen stimmen überein, dass historische Schiffswracks die Stadtkasse von Greifswald finanziell belasten.",
     "diff": [
       {
         "name": "NDR Mecklenburg-Vorpommern",
-        "note": "Betont die generelle Herausforderung, historische Schiffe in Schuss zu halten, und nennt keine genauen Euro-Beträge für die Bergungen."
+        "note": "Betont die generelle Herausforderung, historische Schiffe in Schuss zu halten."
       },
       {
         "name": "Tagesschau Regional Mecklenburg-Vorpommern",
-        "note": "Beziffert die Kosten für allein zwei Bergungen auf rund 350.000 Euro und erwähnt die geplante Änderung der Hafennutzungsordnung."
+        "note": "Nennt konkrete Kosten von rund 350.000 Euro für allein zwei Bergungen und erwähnt die geplante Änderung der Hafennutzungsordnung."
       }
     ],
     "chg": "",
@@ -223,10 +607,10 @@
     "p": 3,
     "st": "BY",
     "city": "",
-    "t": "CSU-Parteitag: Söder warnt vor Radikalen und schlägt Aigner vor",
-    "s": "Auf dem CSU-Parteitag hat Parteichef Markus Söder die Christsozialen auf einen harten politischen Kurs eingeschworen. Er warnte eindringlich vor extremistischen Kräften und rief dazu auf, Bayern vor Radikalen zu schützen. Zudem sprach er sich erneut für Ilse Aigner als nächste Bundespräsidentin aus.",
-    "m": "Zum Auftakt des CSU-Parteitags in bewegter Zeit hielt Parteichef Markus Söder eine energische Rede, in der er den politischen Kampf gegen die AfD ausrief. Söder zeigte sich dabei auch selbstkritisch und äußerte Besorgnis um den Zustand der Volksparteien. Neben der Abgrenzung von der AfD warnte er explizit auch vor den Linken. Ein weiterer zentraler Punkt seiner Rede war sein Vorstoß für Ilse Aigner, für die er als Bundespräsidentin warb. Konkrete Beschlüsse oder Reaktionen anderer Parteien auf Söders Vorschläge wurden in den Berichten nicht genannt.",
-    "r": "Die Aussagen des CSU-Chef Markus Söder auf dem Parteitag geben Einblicke in die strategische Ausrichtung der Partei gegenüber politischen Rändern und potenziellen Personalfragen im Staat. Sie markieren den Auftakt des parteiinternen Treffens.",
+    "t": "CSU-Parteitag: Söder warnt vor Extremen und wirbt für Aigner",
+    "s": "Zum Auftakt des CSU-Parteitags hat Parteichef Markus Söder seine Partei zu einem entschlossenen politischen Kampf gegen Radikale aufgerufen. Dabei warnte er vor extremen Kräften von rechts und links sowie dem Bedeutungsverlust der Volksparteien. Zudem sprach er sich erneut für Ilse Aigner als Bundespräsidentin aus.",
+    "m": "In einer energischen Rede zum Auftakt des CSU-Parteitags in bewegter Zeit rief Markus Söder die Delegierten dazu auf, Bayern niemals den Radikalen zu überlassen. Er warnte konkret vor der AfD sowie vor den Linken und zeigte sich in seiner Ansprache selbstkritisch bezüglich der Lage der traditionellen Volksparteien. Ein zentraler Punkt seiner Rede war zudem die Werbung für Ilse Aigner als nächste Bundespräsidentin. Söder betonte die Notwendigkeit geschlossenen Handelns und stellte die inhaltliche Ausrichtung der Partei für die anstehenden politischen Herausforderungen in den Mittelpunkt. Weitere Details zur Organisation des Parteitags oder Reaktionen aus anderen Parteien wurden in den Berichten nicht genannt.",
+    "r": "Die Rede des CSU-Vorsitzenden Markus Söder setzt programmatische und personelle Akzente für die Partei. Die Debatte um das Amt des Bundespräsidenten und die Abgrenzung zu extremen politischen Kräften sind zentrale Themen der aktuellen Parteitagsarbeit.",
     "srcs": [
       {
         "name": "BR24 Bayern",
@@ -240,15 +624,15 @@
       }
     ],
     "url": "https://www.br.de/nachrichten/bayern/soeder-schwoert-csu-auf-kampf-gegen-afd-ein-und-wirbt-fuer-aigner,VYrWivT",
-    "agree": "Die Quellen sind sich einig, dass Markus Söder auf dem CSU-Parteitag für Ilse Aigner als Bundespräsidentin geworben und zum Kampf gegen radikale Kräfte aufgerufen hat.",
+    "agree": "Die Quellen stimmen überein, dass Markus Söder zum Auftakt des CSU-Parteitags für Ilse Aigner als Bundespräsidentin geworben und zum Kampf gegen radikale beziehungsweise extreme Kräfte aufgerufen hat.",
     "diff": [
       {
         "name": "BR24 Bayern",
-        "note": "Berichtet über eine selbstkritische Haltung Söders und die Formulierung, Bayern niemals den Radikalen zu lassen."
+        "note": "Berichtet ergänzend, dass Söder seine Partei in einer energischen Rede zum politischen Kampf in bewegter Zeit aufrief, mit dem Zitat \"Lassen wir Bayern niemals den Radikalen\" und dass er sich selbstkritisch zeigte."
       },
       {
         "name": "ZDF heute",
-        "note": "Erwähnt explizit die Warnung vor den Linken und beschreibt die Veranstaltung als den Auftakt des CSU-Parteitags."
+        "note": "Erwähnt zusätzlich, dass Söder explizit auch vor den Linken warnte und um die Volksparteien bangte."
       }
     ],
     "chg": "",
@@ -296,6 +680,47 @@
     "independent": 2
   },
   {
+    "id": "story-075b1992996c602b",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-23T18:09:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "US-Justizministerium klagt gegen doppelten Kandidaten bei Midterms in Alaska",
+    "s": "Das US-Justizministerium hat Klage eingereicht, um eine vermeintliche Stimm-Diebstahl-Taktik bei den Midterms in Alaska zu verhindern. Hintergrund ist die Kandidatur zweier Personen mit dem Namen Dan Sullivan. Die US-Regierung geht davon aus, dass der Kandidat Dan J. Sullivan nur angetreten ist, um dem anderen Kandidaten Dan S. Sullivan Stimmen abzunehmen.",
+    "m": "Bei den anstehenden Midterms in Alaska sorgt eine ungewöhnliche Konstellation für jur Schritte durch das US-Justizministerium. Konkret geht es um die Kandidatur von Dan J. Sullivan, bei der die US-Regierung den Verdacht hegt, dass diese ausschließlich dem Zweck dient, dem Kandidaten Dan S. Sullivan Stimmen zu stehlen. Um diesen mutmaßlichen Betrugsversuch zu unterbinden, hat das Justizministerium nun offizielle rechtliche Schritte eingeleitet. Weitere Details zum zeitlichen Ablauf der Klage oder den genauen Reaktionen der betroffenen Kandidaten gehen aus den vorliegenden Berichten derzeit noch nicht hervor. Die offenen Punkte betreffen vor allem die kommenden gerichtlichen Entscheidungen und die Frage, ob die Kandidatur tatsächlich untersagt oder modifiziert wird.",
+    "r": "Die Intervention des US-Justizministeriums wirft ein Schlaglicht auf wahlrechtliche Streitigkeiten und mögliche Manipulationstaktiken bei den US-Zwischenwahlen in Alaska. Das Verfahren hat unmittelbare Auswirkungen auf die Chancengleichheit der beteiligten Kandidaten.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUmRNcHJqRlBRUFhDS2xSMFV0eGZzeHpVb0RiYVluSmVzZHRNYzlOdEw1cUk2ME15M2k1dmE4UTcyU1VCZngxWF9aV1BCVlFNTTBtZ2E4TlEtdjdTbUc0RzZXY3VtWndRY3BTbEpNaUgzOUdjSnpHOHVmNTJqRDdhdjVMamNLWG1UcEhWTXFoT3o3SmJZZ1VNX2daeGJJWmJFaG90bUM1b2QzZ1pUY3JoZF9lUW5CYm9mTjRsSnJyWEJCNHp5cWtYc1pnT1F5Nlh2Nm56Z08yTTRpbXF0Qk0zY0xhZw?oc=5",
+        "date": "2026-10-23T18:09:00.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/midterms-in-alaska-us-justizministerium-reicht-klage-doppeltem-dan-sullivan-ein-a-f0104132-9929-4ce6-b9df-31183a16a3e1#ref=rss",
+        "date": "2026-10-23T18:09:00.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUmRNcHJqRlBRUFhDS2xSMFV0eGZzeHpVb0RiYVluSmVzZHRNYzlOdEw1cUk2ME15M2k1dmE4UTcyU1VCZngxWF9aV1BCVlFNTTBtZ2E4TlEtdjdTbUc0RzZXY3VtWndRY3BTbEpNaUgzOUdjSnpHOHVmNTJqRDdhdjVMamNLWG1UcEhWTXFoT3o3SmJZZ1VNX2daeGJJWmJFaG90bUM1b2QzZ1pUY3JoZF9lUW5CYm9mTjRsSnJyWEJCNHp5cWtYc1pnT1F5Nlh2Nm56Z08yTTRpbXF0Qk0zY0xhZw?oc=5",
+    "agree": "",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Führt die Meldung mit Verweis auf den Spiegel und denselben Titel."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Liefert den Originalartikel mit der Zusatzinformation, dass Dan J. Sullivan möglicherweise antritt, um Dan S. Sullivan die Stimmen zu stehlen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-96d035aa08e74c13",
     "c": "DE",
     "o": "DE",
@@ -306,9 +731,9 @@
     "st": "HH",
     "city": "",
     "t": "18-jähriger Hamburger soll Jugendliche in den USA in Suizid getrieben haben",
-    "s": "Ein 18-jähriger Hamburger ist in Haft genommen worden, weil er eine Jugendliche aus den USA über das Internet in den Suizid getrieben haben soll. Ermittlern zufolge wirkte er so auf die 14-Jährige ein, dass diese sich zunächst selbst verletzte und sich schließlich das Leben nahm. Die Vorwürfe legen nahe, dass der Beschuldigte Teil eines größeren Netzwerks sein könnte. Die Taten werden als schwerwiegende Straftaten eingestuft.",
-    "m": "Der 18-jährige Tatverdächtige wurde von der Polizei in Hamburg verhaftet und sitzt nun unter anderem unter Mordverdacht in Untersuchungshaft. Den Ermittlungen zufolge soll er über ein Online-Forum, ein Social-Media-Netzwerk sowie einen Messenger-Dienst Kontakt zu der psychisch labilen 14-jährigen US-Amerikanerin aufgenommen haben. Über diese Plattformen soll er sie systematisch dazu gedrängt und überredet haben, sich schwerste Selbstverletzungen zuzufügen und sich letztlich zu erhängen. Behörden prüfen in diesem Zusammenhang, ob der junge Mann Teil eines sadistischen Netzwerks ist. Das Erschreckende an dem Fall ist zudem, dass seine angeblichen Handlungen offenbar keinen Einzelfall darstellen. Weitere Details zu den Hintergründen des Netzwerks und möglichen Mittätern sind Gegenstand laufender Ermittlungen der Behörden.",
-    "r": "Der Fall wirft ein Schlaglicht auf die Gefahren von Online-Netzwerken und die gezielte Beeinflussung vulnerabler Personen über Ländergrenzen hinweg. Die Verhaftung des Tatverdächtigen in Hamburg verdeutlicht die internationale Dimension solcher Cyberkriminalität.",
+    "s": "Ein 18-jähriger Mann aus Hamburg wurde von der Polizei verhaftet, weil er eine Jugendliche in den USA über das Internet in den Suizid getrieben haben soll. Dem Beschuldigten wird vorgeworfen, die 14-Jährige massiv zu Selbstverletzungen gedrängt und schließlich in den Tod getrieben zu haben. Die Ermittler gehen dem Verdacht nach, dass es sich um Teil eines größeren Sadistennetzwerks handeln könnte.",
+    "m": "Der 18-jährige Tatverdächtige sitzt nun unter Mordverdacht in Untersuchungshaft. Laut den Berichten soll er über ein Online-Forum, ein Social-Media-Netzwerk beziehungsweise einen Messenger-Dienst Kontakt zu der psychisch labilen Jugendlichen in den USA aufgenommen haben. Er soll dort gezielt auf sie eingewirkt und sie zu schwersten Selbstverletzungen sowie schließlich zum Aufhängen und zur Selbsttötung überredet haben. Die deutschen Behörden nahmen den jungen Mann in Hamburg fest. Besonders erschreckend für die Ermittler ist der Umstand, dass seine angeblichen Taten offenbar kein Einzelfall sind, was den Verdacht auf ein dahinterstehendes Sadistennetzwerk nährt. Weitere Details zu Hintergründen und Komplizen sind Gegenstand der laufenden Ermittlungen.",
+    "r": "Der Fall wirft ein Schlaglicht auf grenzüberschreitende Cyberkriminalität und die Gefahren extremistischer oder sadistischer Online-Netzwerke, die gezielt psychisch labile Jugendliche manipulieren. Die Verhaftung des Verdächtigen in Deutschland zeigt die internationale Dimension solcher Online-Taten.",
     "srcs": [
       {
         "name": "ntv",
@@ -332,27 +757,64 @@
       }
     ],
     "url": "https://www.n-tv.de/panorama/18-Jaehriger-soll-Jugendliche-in-den-USA-in-Suizid-getrieben-haben-id31452843.html",
-    "agree": "Die Quellen stimmen überein, dass ein 18-jähriger Mann aus Hamburg verhaftet wurde, weil er eine Jugendliche in den USA über das Internet in den Suizid getrieben haben soll.",
+    "agree": "Die Quellen stimmen überein, dass ein 18-jähriger Hamburger verhaftet wurde, weil er eine Jugendliche in den USA über das Internet in den Suizid getrieben haben soll.",
     "diff": [
       {
         "name": "ntv",
-        "note": "Erwähnt, dass der Tatverdächtige Teil eines Sadistennetzwerks sein könnte und seine Taten kein Einzelfall sind."
+        "note": "Erwähnt als einzige Quelle den Verdacht, dass die Taten Teil eines Sadistennetzwerks sein könnten."
       },
       {
         "name": "Tagesschau Regional Hamburg",
-        "note": "Gibt an, dass das Opfer eine 14-jährige US-Amerikanerin war, die sich erhängte."
+        "note": "Nennt das Alter der US-Amerikanerin (14 Jahre) und die konkrete Art des Suizids (erhängte)."
       },
       {
         "name": "NDR Hamburg",
-        "note": "Berichtet, dass der Kontakt über einen Messenger-Dienst stattfand und die Jugendliche psychisch labil war."
+        "note": "Beschreibt das Opfer als psychisch labil und nennt einen Messenger-Dienst als Tatmittel."
       },
       {
         "name": "RND",
-        "note": "Nennt explizit den Mordverdacht als Haftgrund."
+        "note": "Erwähnt ausdrücklich, dass der Verdächtige unter Mordverdacht in Haft sitzt."
       }
     ],
     "chg": "",
     "independent": 4
+  },
+  {
+    "id": "story-1c912cba82a65503",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-23T17:26:28.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Waffenruhe für ukrainische Stadt Oleschky durch Melania Trump vermittelt",
+    "s": "In der von Russland besetzten ukrainischen Stadt Oleschky herrscht eine dramatische humanitäre Lage. Nun wurde eine lokale Waffenruhe zur Ermöglichung von Evakuierungen bekannt gegeben. Das Weiße Haus teilte mit, dass die Vermittlung durch die First Lady Melania Trump erfolgt sei. Weitere Details zum genauen Ablauf und Start der Evakuierungen wurden zunächst nicht genannt.",
+    "m": "Die humanitäre Situation in der russisch besetzten ukrainischen Stadt Oleschky hat sich dramatisch zugespitzt. Das Weiße Haus hat überraschend eine lokale Waffenruhe für die Region verkündet. Als maßgebliche Vermittlerin hinter dieser Vereinbarung trat First Lady Melania Trump auf. Durch die Feuerpause soll dringend notwendiger Raum für Evakuierungsmaßnahmen geschaffen werden. Ob und wie die lokale Bevölkerung die betroffene Region verlassen kann, ist Gegenstand der kommenden Stunden. Die Berichterstattung bringt zudem eine Verbindung zur Region Cherson ins Spiel. Offene Punkte bleiben die genaue Dauer der Waffenruhe und die Beteiligung lokaler ukrainischer sowie russischer Stellen an der Umsetzung.",
+    "r": "Die Vereinbarung einer lokalen Waffenruhe in einem besetzten Kriegsgebiet unter Vermittlung der US-First Lady ist von hoher diplomatischer und humanitärer Bedeutung. Sie betrifft direkt das Leben von Zivilisten in den Kampfgebieten und die diplomatischen Bemühungen der USA.",
+    "srcs": [
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/melania-trump-waffenruhe-oleschky-100.html",
+        "date": "2026-10-23T17:26:28.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLVdPYjY4elNucEppdFNwc291WE5PemM0OVFudHZvRG9IN2JIcjNnUVZodW1naWxxNkFLNElORGJ6SWhmRjZMY1REcXl5TUFaTGJNdkJXRGItOFdoVnAxVWxvM0hOMkszZjZwckVoeW11bl9TNEI5Rm1ua0xaeUt6THp3?oc=5",
+        "date": "2026-10-23T17:26:00.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/ausland/melania-trump-waffenruhe-oleschky-100.html",
+    "agree": "Beide Quellen stimmen überein, dass eine Waffenruhe für die besetzte ukrainische Stadt Oleschky durch die Vermittlung von Melania Trump erreicht wurde.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Erwähnt zusätzlich den Bezug zu Cherson und verweist auf tagesschau.de als ursprüngliche Quelle."
+      }
+    ],
+    "chg": "",
+    "independent": 2
   },
   {
     "id": "story-fb6f2866655851df",
@@ -364,10 +826,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Acht Staaten fordern Verzicht auf neue US- und Israel-Angriffe auf den Iran",
-    "s": "Ein neu formierter multinationaler Block aus acht europäischen und nahöstlichen Ländern hat die USA und Israel vor neuen Angriffen auf den Iran gewarnt. Beim Gipfeltreffen in Istanbul forderten die Außenminister eine diplomatische Lösung für die Krise im Nahen Osten. Sie warnten vor einer Ausweitung des Konflikts und steigenden Ölpreisen.",
-    "m": "Außenminister von acht europäischen und nahöstlichen Staaten sind in Istanbul zu einem Gipfel zusammengekommen, um über die Krise im Nahen Osten zu beraten. Dabei bildete sich ein neuer multinationaler Block gegen den Krieg, der eine diplomatische Lösung anstrebt. Die Minister appellierten eindringlich an die USA und Israel, auf erneute Angriffe gegen den Iran zu verzichten. Zur Begründung verwiesen sie auf die Gefahr einer weiteren Eskalation des Konflikts und drastisch steigende Ölpreise. Die Initiative stellt eine deutliche Reaktion auf die zunehmend offenen Pläne von US- und israelischer Seite dar, die Luftschläge wieder aufzunehmen. Hintergrund ist der anhaltende Stillstand bei den Verhandlungen über das iranische Atomprogramm.",
-    "r": "Die Warnung eines internationalen Staatenbündbundes vor neuen Militärschlägen und die drohenden wirtschaftlichen Folgen für den Ölmarkt sind von geopolitischer Relevanz.",
+    "t": "Internationale Konferenz warnt USA und Israel vor neuen Iran-Angriffen",
+    "s": "Außenminister aus acht europäischen und nahöstlichen Ländern fordern bei einem Gipfeltreffen in Istanbul die USA und Israel auf, von erneuten Angriffen auf den Iran abzusehen. Ein neuer Konfliktausbruch würde die Region weiter destabilisieren und die Ölpreise steigen lassen.",
+    "m": "Bei dem Gipfel in Istanbul hat sich ein multinationaler „Anti-Kriegs-Blok“ gebildet, um eine diplomatische Lösung für die Krise im Nahen Osten zu fordern. An dem Treffen nahmen Außenminister aus insgesamt acht europäischen und nahöstlichen Staaten teil. Die Initiative richtet sich gegen die zunehmend offenen Pläne der USA und Israels, den Iran erneut anzugreifen. Hintergrund ist der anhaltende Stillstand bei den Verhandlungen über das iranische Atomprogramm. Die Minister warnten ausdrücklich vor den Folgen einer Eskalation, insbesondere einer Ausweitung des Konflikts und drastisch steigenden Ölpreisen.",
+    "r": "Die Warnung eines neuen internationalen Staatenbündnisses vor militärischen Schritten gegen den Iran verdeutlicht die diplomatischen Spannungen im Nahen Osten. Konkrete wirtschaftliche und sicherheitspolitische Folgen wie steigende Ölpreise stehen dabei im Fokus.",
     "srcs": [
       {
         "name": "Google News World",
@@ -381,15 +843,15 @@
       }
     ],
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNjNEZzBoMS1CdTRMRGxWd3JXWDN5V2hmcWxmQ1hQNDkxanllSEQ2elo0NEZEWFRnMjRGV2JhNHpSeXJ1Q2tKRjlMamtEYThlLWpnSXFTYVVmSzNLVVUzWnFOWFdyYTRxc25jVjFTNE5JRTBITmRMUllIQm1WRWFpMUY5ZEtXTlVpdXhNNkZBNWFKZnBTYzFmY085Um1MU2dYWWs4?oc=5",
-    "agree": "Die Quellen stimmen überein, dass die USA und Israel vor neuen Angriffen auf den Iran gewarnt wurden.",
+    "agree": "Die Quellen sind sich einig, dass vor neuen Angriffen der USA und Israels auf den Iran gewarnt wird.",
     "diff": [
       {
-        "name": "Guardian World",
-        "note": "Berichtet detailliert über den Istanbuler Gipfel von acht europäischen und nahöstlichen Ländern, die Entstehung des 'anti-war bloc', die drohenden höheren Ölpreise und den Stillstand der Atomgespräche."
+        "name": "Google News World",
+        "note": "Verweist lediglich auf die Berichterstattung des Guardian."
       },
       {
-        "name": "Google News World",
-        "note": "Liefert lediglich eine Kurzmeldung und Überschrift zum gleichen Thema."
+        "name": "Guardian World",
+        "note": "Liefert Details zu dem Treffen in Istanbul, dem neuen Anti-Kriegs-Block und den drohenden Auswirkungen auf die Ölpreise."
       }
     ],
     "chg": "",
@@ -402,13 +864,13 @@
     "k": "sport",
     "lang": "de",
     "d": "2026-10-23T17:05:00.000Z",
-    "p": 4,
+    "p": 3,
     "st": "",
     "city": "",
-    "t": "Bayern-Trainer Vincent Kompany nach Zusammenbruch im Krankenhaus",
-    "s": "Nach einem Zusammenbruch auf dem Trainingsgelände wurde Bayern-Trainer Vincent Kompany mit dem Krankenwagen in eine Klinik gebracht. Wie lange der 40-Jährige ausfällt, ist derzeit noch völlig offen. Der Vorfall überschattet beim FC Bayern das aktuelle sportliche Geschehen und andere Termine wie den Ballon d'Or.",
-    "m": "Der Zusammenbruch von Vincent Kompany ereignete sich direkt auf dem Trainingsgelände des FC Bayern München und führte zu großer Sorge im Verein. Der Trainer musste umgehend mit einem Krankenwagen in ein Krankenhaus transportiert werden. Noch vor Kurzem hatte Kompany trotz einer bestehenden Virusinfektion in der Champions League an der Seitenlinie gestanden. Die genauen medizinischen Hintergründe des Zusammenbruchs und eine mögliche Ausfalldauer des 40-Jährigen sind zum aktuellen Zeitpunkt noch unklar. Der Vorfall dominiert nun die sportliche Berichterstattung des Klubs und stellt andere Ereignisse wie die Verleihung des Ballon d'Or sowie das bevorstehende Topspiel in Freiburg in den Hintergrund.",
-    "r": "Die gesundheitliche Situation des Cheftrainers eines Bundesligaspitzenreiters wie des FC Bayern München ist von hoher sportlicher Relevanz für den Verein und den weiteren Saisonverlauf. Der Vorfall wirft zudem Fragen zur Belastung und Genesung von Trainern auf, die geschwächt an der Seitenlinie stehen.",
+    "t": "FC-Bayern-Trainer Vincent Kompany nach Trainingseinbruch im Krankenhaus",
+    "s": "Trainer Vincent Kompany ist auf dem Trainingsgelände des FC Bayern zusammengebrochen und musste in ein Krankenhaus gebracht werden. Wie lange der 40-Jährige ausfallen wird, ist derzeit noch völlig offen. Der Vorfall überschattet beim deutschen Rekordmeister aktuell alle anderen sportlichen Themen.",
+    "m": "Der Zusammenbruch von Vincent Kompany ereignete sich direkt nach dem Training auf dem Vereinsgelände, woraufhin er mit einem Krankenwagen in eine Klinik transportiert werden musste. Noch vor Kurzem hatte der Trainer trotz einer bestehenden Virusinfektion in der Champions League an der Seitenlinie gestanden. Ob diese Infektion im Zusammenhang mit dem aktuellen Zusammenbruch steht, ist unklar. Der medizinische Zustand sowie die genaue Aufenthaltsdauer im Krankenhaus wurden zunächst nicht näher beziffert. Der Vorfall wirft sportliche Fragen für die kommenden Partien auf und überlagert andere Ereignisse wie die Verleihung des Ballon d'Or sowie das anstehende Topspiel in Freiburg.",
+    "r": "Der gesundheitliche Zustand eines prominenten Fußballtrainers und dessen potenzieller Ausfall haben direkte Auswirkungen auf den Spielbetrieb und die Organisation eines europäischen Spitzenvereins.",
     "srcs": [
       {
         "name": "Rheinische Post",
@@ -422,15 +884,15 @@
       }
     ],
     "url": "https://rp-online.de/sport/fussball/bayern-muenchen/grosse-sorgen-um-kompany-bayern-trainer-im-krankenhaus_aid-157125373",
-    "agree": "Die Quellen stimmen überein, dass Bayern-Trainer Vincent Kompany zusammengebrochen ist, ins Krankenhaus gebracht wurde und nun große Sorgen um ihn bestehen.",
+    "agree": "Die Quellen sind sich einig, dass Bayern-Trainer Vincent Kompany zusammengebrochen ist und ins Krankenhaus eingeliefert wurde.",
     "diff": [
       {
         "name": "Rheinische Post",
-        "note": "Erwähnt, dass der Zusammenbruch die Verleihung des Ballon d'Or und das Topspiel in Freiburg überschattet sowie dass Kompany 40 Jahre alt ist."
+        "note": "Erwähnt zusätzlich, dass Kompanys Ausfallzeit offen ist und der Vorfall die Ballon-d'Or-Verleihung sowie das Freiburg-Spiel überschattet."
       },
       {
         "name": "Frankfurter Allgemeine",
-        "note": "Berichtet, dass Kompany kurz zuvor trotz einer Virusinfektion in der Champions League an der Seitenlinie stand und per Krankenwagen abtransportiert wurde."
+        "note": "Berichtet ergänzend, dass Kompany kurz zuvor trotz einer Virusinfektion in der Champions League an der Seitenlinie stand."
       }
     ],
     "chg": "",
@@ -487,10 +949,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Altkanzler Gerhard Schröder taucht überraschend bei Forum in China auf",
-    "s": "Der frühere Bundeskanzler Gerhard Schröder hat überraschend an einem Forum in China teilgenommen. Sein Auftritt folgt auf einen mutmaßlichen Besuch beim russischen Präsidenten Wladimir Putin. Schröder setzt damit seine Reisen in autoritär regierte Staaten fort.",
-    "m": "Gerhard Schröder ist in China bei einem Forum aufgetreten, dessen Thema die globale Ordnungsgestaltung war. Nur wenige Wochen vor diesem Auftritt in China hatte der Altbundeskanzler sich in Moskau aufgehalten und Wladimir Putin besucht. Der erneute Besuch in einem autokratisch geführten Staat verdeutlicht Schröders anhaltende Verbindungen zu solchen Regimen. Weitere Details zu offiziellen Gesprächspartnern oder konkreten politischen Absprachen während des China-Aufenthalts wurden in den Berichten zunächst nicht genannt. Die Reise wirft im politischen Raum erneut Fragen zu den Aktivitäten des ehemaligen Regierungschefs auf.",
-    "r": "Die Aktivitäten des früheren Bundeskanzlers in autokratischen Staaten sind von anhaltendem öffentlichem und politischem Interesse. Seine engen Kontakte nach Russland und China werfen grundsätzliche Fragen zur Rolle ehemaliger deutscher Spitzenpolitiker auf.",
+    "t": "Altkanzler Gerhard Schröder nimmt an Forum in China teil",
+    "s": "Der ehemalige Bundeskanzler Gerhard Schröder ist in China aufgetreten. Sein Erscheinen bei einem Forum erfolgte wenige Wochen nach einem Besuch in Moskau. Schröder setzt damit seine Reisen in autoritär regierte Länder fort.",
+    "m": "Der frühere Bundeskanzler Gerhard Schröder hat sich überraschend bei einem Forum in China gezeigt, das sich mit globaler Ordnungsgestaltung befasst. Sein Auftritt folgt auf einen mutmaßlichen beziehungsweise tatsächlichen Besuch bei dem russischen Präsidenten Wladimir Putin an dessen Geburtstag. Mit dieser Reise setzt Schröder seine bekannten Besuche in Autokratien fort. Die genauen Inhalte seiner Gespräche vor Ort oder die Hintergründe der Einladung wurden in den Berichten nicht näher ausgeführt. Offen bleibt, welche konkreten diplomatischen oder wirtschaftlichen Rollen Schröder bei diesen Reisen einnimmt.",
+    "r": "Die Meldung ist relevant, da der ehemalige deutsche Regierungschef weiterhin international aktiv ist und durch Auftritte in Staaten wie Russland und China politische Aufmerksamkeit erregt. Solche Reisen werfen regelmässig Fragen zur Rolle ehemaliger Amtsträger auf.",
     "srcs": [
       {
         "name": "t-online Nachrichten",
@@ -504,15 +966,15 @@
       }
     ],
     "url": "https://www.t-online.de/nachrichten/deutschland/aussenpolitik/id_101495492/nach-putin-geburtstag-gerhard-schroeder-taucht-bei-xi-forum-in-china-auf.html",
-    "agree": "Beide Quellen stimmen darin überein, dass der frühere Bundeskanzler Gerhard Schröder überraschend bei einem Forum in China aufgetaucht ist und kurz zuvor in Moskau war.",
+    "agree": "Beide Quellen stimmen darin überein, dass der frühere Bundeskanzler Gerhard Schröder überraschend in China bei einem Forum aufgetreten ist und zuvor in Moskau war.",
     "diff": [
       {
         "name": "t-online Nachrichten",
-        "note": "Erwähnt konkret, dass Schröders Auftritt auf den Geburtstag von Wladimir Putin folgte."
+        "note": "Erwähnt konkret den Geburtstag von Putin im Zusammenhang mit dem vorherigen Besuch in Moskau."
       },
       {
         "name": "DER SPIEGEL",
-        "note": "Beschreibt das Forum als Veranstaltung zum Thema globale Ordnungsgestaltung und bewertet die Reise als Fortsetzung einer Tour durch Autokratien."
+        "note": "Beschreibt den Auftritt als überraschend und merkt an, dass Schröder damit seine Tour durch Autokratien fortsetzt; nennt das Thema des Forums (globale Ordnungsgestaltung)."
       }
     ],
     "chg": "",
@@ -525,13 +987,13 @@
     "k": "wirtschaft",
     "lang": "de",
     "d": "2026-10-23T16:58:37.000Z",
-    "p": 3,
+    "p": 2,
     "st": "",
     "city": "",
-    "t": "Immobilienpreise in Portugal steigen, Transaktionszahlen sinken",
-    "s": "Aktuelle Daten des portugiesischen Statistikinstituts INE zeigen eine Entwicklung auf dem Immobilienmarkt. Demnach steigen die Hauspreise in Portugal weiter an, während gleichzeitig weniger Immobilien verkauft werden. Besonders in Regionen wie Lissabon, Porto und an der Algarve bleibt Wohnen teuer.",
-    "m": "Das Instituto Nacional de Estatística (INE) hat Daten zum portugiesischen Immobilienmarkt vorgelegt, die einen anhaltenden Preisanstieg bei gleichzeitigem Rückgang der Verkaufszahlen belegen. In 10 von insgesamt 24 untersuchten Städten und Gemeinden wuchsen die Preise im Vergleich zum Vorquartal noch schneller als zuvor. Zu den teuersten Regionen des Landes gehören unverändert die Algarve, Lissabon, Setúbal, Porto und die Insel Madeira. Der Bericht verdeutlicht die angespannte Lage auf dem portugiesischen Wohnungsmarkt, wo steigende Kosten auf eine gedämpfte Nachfrage treffen.",
-    "r": "Die Entwicklung des Immobilienmarktes ist ein wichtiger Indikator für die wirtschaftliche Situation und die Lebenshaltungskosten der Bevölkerung in Portugal. Die Daten des nationalen Statistikinstituts geben Aufschluss über regionale Preisdiskrepanzen und das veränderte Kaufverhalten.",
+    "t": "Immobilienpreise in Portugal steigen, aber Transaktionszahlen sinken",
+    "s": "Neuesten Daten des INE zufolge steigen die Immobilienpreise in Portugal weiter an, während gleichzeitig weniger Häuser verkauft werden. In fast der Hälfte der analysierten 24 Kommunen hat sich das Preiswachstum im Vergleich zum Vorquartal beschleunigt. Besonders teuer bleiben gefragte Regionen wie Lissabon, Porto und die Algarve.",
+    "m": "Das portugiesische Statistikinstitut INE hat aktuelle Zahlen zum Immobilienmarkt veröffentlicht. Demnach zeigt sich in zehn von 24 untersuchten Kommunen ein beschleunigter Preisanstieg im Vergleich zum vorherigen Quartal. Zu den teuersten Regionen des Landes gehören unverändert die Algarve, Lissabon, Setúbal, Porto und Madeira. Parallel zu den steigenden Preisen verzeichnet der Markt jedoch einen Rückgang bei den verkauften Einheiten. Die Entwicklung verdeutlicht die anhaltende Anspannung auf dem portugiesischen Wohnungsmarkt, bei der hohe Preise auf eine verringerte Verkaufstätigkeit treffen. Analysten und Beobachter werten dies als Zeichen einer anhaltenden Erschwinglichkeitskrise für Käufer trotz regionaler Unterschiede. Weitere Details zur Gesamtzahl der Transaktionen oder den genauen prozentualen Anstiegen gehen aus den Berichten nicht hervor.",
+    "r": "Die Entwicklung des portugiesischen Immobilienmarktes betrifft die wirtschaftliche Situation und den Wohnungsmarkt im Land direkt. Steigende Preise bei gleichzeitig sinkenden Verkaufszahlen sind ein wichtiger Indikator für die Erschwinglichkeit von Wohnraum.",
     "srcs": [
       {
         "name": "Google News Portugal",
@@ -545,13 +1007,45 @@
       }
     ],
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX1NiVnFfOWZQc0FyWnpvY1NXR2NzTkdEeThmODNvZFE3Sko5Mk8xWmJMSWJhMUZRZE1QRWxybEpKMTlPZmNqSmwyRUxtR0xTMkpIakh0N0FRN2lVTmtha0dlZ01lUFEwUldwazl1SWF4T0pqd0N1Wm5MT0lXQ0lYNFJvWnRXczU0cjVUNVA3NGVsb1lsM0hacGRPald0UTMwRlE?oc=5",
-    "agree": "Die Quellen stimmen überein, dass in Portugal die Hauspreise steigen, während gleichzeitig weniger Immobilien verkauft werden.",
+    "agree": "Beide Quellen stimmen überein, dass Wohnimmobilien in Portugal teurer werden, während gleichzeitig weniger verkauft werden.",
     "diff": [
       {
         "name": "RTP Economia",
-        "note": "nennt konkrete Daten des INE, wonach in 10 von 24 analysierten Gemeinden die Preise schneller als im Vorquartal stiegen, und führt Algarve, Lissabon, Setúbal, Porto sowie Madeira als teuerste Regionen an."
+        "note": "nennt Daten des Instituto Nacional de Estatística (INE) und führt an, dass in 10 von 24 analysierten Kommunen die Preise schneller als im Vorquartal stiegen sowie Algarve, Lissabon, Setúbal, Porto und Madeira als teuerste Regionen."
       }
     ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-8a8ca60814bbdfb1",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-23T16:48:55.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Frankreich mobilisiert 70.000 Polizisten für Protest-Wochenende",
+    "s": "Aus Angst vor neuen Krawallen bringt Frankreich an diesem Wochenende ein massives Polizeiaufgebot auf den Weg. Insgesamt 70.000 Sicherheitskräfte sollen im Einsatz sein. Zudem bleiben bestehende Ausgangssperren in Kraft, um die öffentliche Sicherheit zu wahren.",
+    "m": "Angesichts drohender Ausschreitungen reagieren die Behörden in Frankreich mit harten Sicherheitsmaßnahmen für die kommenden Tage. Es ist ein Großeinsatz geplant, bei dem landesweit 70.000 Polizisten und Gendarmen patrouillieren sollen, um mögliche Eskalationen bei den angekündigten Demonstrationen zu verhindern. Neben der massiven Präsenz auf den Straßen greift der Staat weiterhin zu bereits etablierten Einschränkungen. So bleiben behördlich angeordnete Ausgangssperren uneingeschränkt in Kraft. Ziel dieser Maßnahmen ist es, Plünderungen, Sachbeschädigungen und gewalttätige Auseinandersetzungen einzudämmen, die in der Vergangenheit bei ähnlichen Protesten aufgetreten waren.",
+    "r": "Der Großeinsatz der Sicherheitskräfte ist von hoher sicherheitspolitischer Bedeutung für Frankreich, da er direkte Auswirkungen auf das öffentliche Leben, das Versammlungsrecht und die innere Stabilität des Landes hat.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZ3NWb3VQZTRkUFFacHlQM3F3cHVIaHdoeEM5ajhaZF9ONUJnR0Nsb0Z2NkdVRnk3Rjl3MG9nN2ljSTRZbWdMZmdHRFRnemhyRVo4NnZiT2FWclNLQzdoT1I0dnVhX1dyVTJyMnVETHhPSW44UnZLNGMyMHZzMXhBVEhhOFdvZi1qdEctRm5fVTh0cFlfUVNUZFhWYjdXWlFqOW0wWUthQVRnTmVFdExiQ3hXc19EUjViNU1iOVl3RUNyMjFZYkhTU3h3VlJHRXdXTXlubEhhX25ESFNYYkE?oc=5",
+        "date": "2026-10-23T16:48:55.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/ausland/article6adb889a9fbb7e8e310dda7f/frankreich-angst-vor-neuen-krawallen-staat-mobilisiert-70-000-polizisten.html",
+        "date": "2026-10-23T16:45:46.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZ3NWb3VQZTRkUFFacHlQM3F3cHVIaHdoeEM5ajhaZF9ONUJnR0Nsb0Z2NkdVRnk3Rjl3MG9nN2ljSTRZbWdMZmdHRFRnemhyRVo4NnZiT2FWclNLQzdoT1I0dnVhX1dyVTJyMnVETHhPSW44UnZLNGMyMHZzMXhBVEhhOFdvZi1qdEctRm5fVTh0cFlfUVNUZFhWYjdXWlFqOW0wWUthQVRnTmVFdExiQ3hXc19EUjViNU1iOVl3RUNyMjFZYkhTU3h3VlJHRXdXTXlubEhhX25ESFNYYkE?oc=5",
+    "agree": "Beide Quellen stimmen überein, dass Frankreich für das Protest-Wochenende 70.000 Polizisten mobilisiert und bestehende Ausgangssperren in Kraft bleiben.",
+    "diff": [],
     "chg": "",
     "independent": 2
   },
@@ -566,9 +1060,9 @@
     "st": "",
     "city": "",
     "t": "Wahlkampf in Spanien: Empörung über Deepfake-Video der Opposition",
-    "s": "Vor der anstehenden Parlamentswahl in Spanien hat ein Wahlwerbespot der konservativen Volkspartei für Empörung gesorgt. In dem Video wurden mithilfe von Künstlicher Intelligenz Gesichter von Personen aus dem Umfeld von Ministerpräsident Sánchez manipuliert. Die Kontroverse facht eine breitere Debatte über den Einsatz von Deepfakes im politischen Wettbewerb an. Das stark polarisierte Land bereitet sich auf die Abstimmung im nächsten Monat vor.",
-    "m": "Die konservative Volkspartei (PP) hat in dieser Woche ein umstrittenes Video über ihre Social-Media-Kanäle veröffentlicht. Darin wurden KI-generierte Abbildern von Personen verwendet, die mit der Sozialistischen Partei von Ministerpräsident Pedro Sánchez in Verbindung stehen. Die manipulierten Aufnahmen erwecken den Eindruck, diese Personen würden Fehlverhalten einräumen. Der Vorfall ereignet sich in einer Phase, in der Spanien auf die bevorstehenden Parlamentswahlen im nächsten Monat zusteuert. Die Veröffentlichung hat landesweit scharfe Reaktionen und eine intensive Diskussion über die Gefahren von Künstlicher Intelligenz in der Politik ausgelöst. Bislang ist unklar, welche rechtlichen oder politischen Konsequenzen der Vorfall für die beteiligten Parteien haben wird. Die genaue Tragweite für den Ausgang des Wahlkampfs bleibt abzuwarten.",
-    "r": "Der Fall verdeutlicht die wachsende Bedeutung und die potenziellen Gefahren von Künstlicher Intelligenz im politischen Wahlkampf. Er zeigt, wie manipulative Technologie in einer polarisierten Gesellschaft Spannungen verschärfen und Debatten über Regulierung auslösen kann.",
+    "s": "Vor der Parlamentswahl in Spanien hat ein politisches Video der konservativen Volkspartei für Empörung gesorgt. Darin wurden mithilfe von künstlicher Intelligenz Personen aus dem Umfeld der sozialistischen Partei von Ministerpräsident Pedro Sánchez manipuliert. Das Material zeigt sie vermeintlich bei Geständnissen und heizt die Debatte über den Einsatz von KI im Wahlkampf an.",
+    "m": "Das umstrittene Video wurde diese Woche über die Social-Media-Kanäle der konservativen Volkspartei (PP) veröffentlicht. Es nutzt künstliche Intelligenz, um das Aussehen von Personen zu verändern, die mit der sozialistischen Partei von Ministerpräsident Pedro Sánchez in Verbindung stehen. In dem Clip scheinen diese Personen Fehlverhalten zuzugeben. Die Veröffentlichung fällt in eine ohnehin stark polarisierte politische Phase des Landes. Spanien bereitet sich derzeit auf die für den nächsten Monat angesetzten Parlamentswahlen vor. Das Vorgehen hat eine breitere nationale Debatte über die Risiken und den Einfluss von Deepfakes in der Politik ausgelöst.",
+    "r": "Der Vorfall wirft grundsätzliche Fragen zum Umgang mit künstlicher Intelligenz in Wahlkämpfen auf. Er zeigt, wie digitale Manipulationen die politische Auseinandersetzung in polarisierten Gesellschaften zusätzlich anheizen können.",
     "srcs": [
       {
         "name": "Google News World",
@@ -582,15 +1076,89 @@
       }
     ],
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUThLaVcxR2Y0ODBjSU9LUWx3N0kzdm9sakVpVFNyNE85Vmg0MlBnQjgtalBTcmNkbktzZEludHRkdDBReFd0X0o2LTVVTjV0ZUpLakVkMURfbnZnT3BUNGRPWnpWWExqZUhFck1tOXdtSS1xeTE2TS1EcDlqdVpXMFNTbVBfdldscUlhMFRxcw?oc=5",
-    "agree": "Die Quellen stimmen überein, dass ein Deepfake-Video der Opposition in Spanien vor den Wahlen Empörung ausgelöst hat.",
+    "agree": "",
     "diff": [
       {
         "name": "Google News World",
-        "note": "Verweist lediglich auf die Berichterstattung des Guardians über das Deepfake-Video."
+        "note": "Berichtet kurz über die Empörung über ein Opposition-Deepfake-Video in Spanien im Vorfeld der Wahl."
       },
       {
         "name": "Guardian World",
-        "note": "Liefert Details, dass das Video von der konservativen Volkspartei (PP) stammt und KI-Likenesses von Personen aus dem Umfeld von Pedro Sánchez verwendet, die angeblich Fehlverhalten einräumen."
+        "note": "Liefert Details, dass das Video von der konservativen Volkspartei (PP) stammt und mittels KI veränderte Gesichter von Personen aus dem Umfeld von Ministerpräsident Pedro Sánchez zeigt, die angeblich Fehlverhalten gestehen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-17e3be1989d4c7a0",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-23T16:31:33.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Israel kündigt Abriegelung des Westjordanlands an",
+    "s": "Nach einem Angriff in Hebron im Westjordanland hat das israelische Militär den Tod von zwei Soldaten bestätigt. In Reaktion darauf wurden die Zufahrten zur Stadt gesperrt. Die israelische Armee plant zudem, das gesamte Westjordanland abzuriegeln.",
+    "m": "Der Vorfall ereignete sich in der Nähe von Hebron im Westjordanland und führte zum Tod von zwei israelischen Soldaten durch einen Angriff. Als unmittelbare Sicherheitsmaßnahme wurden die Zufahrtswege zu der betroffenen Stadt durch das Militär gesperrt. Darüber hinaus kündigte die Armeeführung an, in Kürze das gesamte Westjordanland abzuriegeln. Diese Maßnahmen sollen die Sicherheitslage nach dem Angriff kontrollieren und weitere Eskalationen verhindern. Konkrete Details zur genauen Dauer der vollständigen Abriegelung oder zu den Hintergründigkeit der Angreifer wurden in den vorliegenden Berichten noch nicht genannt.",
+    "r": "Die angekündigte umfassende Abriegelung des Westjordanlands und der Tod von zwei Soldaten stellen eine deutliche Verschärfung der Sicherheitslage in der Region dar. Solche militärischen Maßnahmen haben direkte Auswirkungen auf das tägliche Leben vor Ort und das politische Klima.",
+    "srcs": [
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/israel-westjordanland-abriegelung-100.html",
+        "date": "2026-10-23T16:31:33.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPa2h1S1N4bW9xcEE1VEVsbUdhY2h2d1U5RGNQZTktV3NUQnZfeUw2MFJtQXM1UGtNTXdyaUFIUDMyX2lmVXFmblRwTFJPZl85N242cW1OQk5MWlNEcEtFVVpaWGs0ZW9Yd0J2LTNsT1l4TXBFSDZWRkhtcENZeVhZWHln?oc=5",
+        "date": "2026-10-23T16:31:00.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/ausland/israel-westjordanland-abriegelung-100.html",
+    "agree": "Die Quellen stimmen überein, dass Israel nach einem Angriff in Hebron das Westjordanland abriegeln will und zwei Soldaten getötet wurden.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "verweist lediglich auf den Artikel der Tagesschau und fügt den Kurztitel hinzu"
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-884b4535167c3c8c",
+    "c": "INT",
+    "o": "UK",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-23T16:10:34.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Russland und Ukraine vereinbaren lokale Waffenruhe in Oleshky",
+    "s": "Das Weiße Haus hat mitgeteilt, dass Russland und die Ukraine einer Waffenruhe in der von Russland besetzten Stadt Oleshky zugestimmt haben. Die Maßnahme soll ab dem 27. Oktober gelten, um humanitäre Hilfslieferungen und die Evakuierung von Zivilisten zu ermöglichen. In der Region herrscht eine schwere humanitäre Krise mit akuten Versorgungsengpässen.",
+    "m": "Die Stadt Oleshky befindet sich unter russischer Besatzung und ist von einer tiefen humanitären Krise betroffen. Die Zivilbevölkerung leidet unter extremen Mängeln bei der Versorgung mit Lebensmitteln, Wasser und Elektrizität, wobei Berichten zufolge manche Menschen auf Wildkräuter angewiesen sind, um zu überleben. Um diese Notlage zu lindern, haben sich Russland und die Ukraine laut Angaben des Weißen Hauses auf einen lokalen Stopp aller militärischen Operationen geeinigt. Die Vereinbarung sieht vor, dass die Feuerpause ab dem 27. Oktober in Kraft tritt. Dies soll gezielt genutzt werden, um Hilfslieferungen in die Stadt zu bringen und organisierte Evakuierungen von Zivilisten vorzubereiten.",
+    "r": "Die Vereinbarung einer lokalen Feuerpause zwischen den Kriegsparteien in einem besetzten Gebiet ist von großer humanitärer Bedeutung für die betroffene Zivilbevölkerung. Sie ermöglicht erstmals dringend benötigte Hilfe und Evakuierungen in der betroffenen Region.",
+    "srcs": [
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network",
+        "date": "2026-10-23T16:10:34.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQXVPZDR3anhldVZhWlRwYThoWWhTZ2pSdUZHTkpMQmo4NlBDUEVBLWlGQ2JHdC1oQWFZT1E3aGdXcXoyNEdvaVFDRlVJQmtWRWJJUkZjR2Etc1dVZ0tybUhuSnJXc2x3QWtCeTlNQU5lV3ZTcUh1NFowYVRzdEVxWWZxQVc4cmZEUzB1ZmJzcTFvM1g5NlhZQXY2VUpMcnZKNFNnX0x6YzlKazl1cWZCQmUzcTFrUm8?oc=5",
+        "date": "2026-10-23T12:09:00.000Z"
+      }
+    ],
+    "url": "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network",
+    "agree": "Die Quellen stimmen überein, dass Russland und die Ukraine eine lokale Waffenruhe in Oleshky vereinbart haben, um auf eine humanitäre Krise zu reagieren.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Verweist lediglich auf den Bericht des Guardian über die Einigung zur Waffenruhe."
       }
     ],
     "chg": "",
@@ -606,10 +1174,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Warnstreiks bei privaten Banken im bundesweiten Tarifstreit",
-    "s": "Die Gewerkschaft Verdi hat bundesweit zu Warnstreiks im Bereich der privaten Banken aufgerufen. Grund für die Eskalation sind festgefahrene Tarifverhandlungen. Die Gewerkschaft fordert deutlich mehr Geld für die Beschäftigten. Zudem soll die Option geschaffen werden, Gehaltsbestandteile in bis zu 20 zusätzliche freie Tage umzuwandeln.",
-    "m": "Der Tarifkonflikt im privaten Bankgewerbe hat sich verschärft, nachdem Verdi zu bundesweiten Warnstreiks aufgerufen hat. Im Kern der Auseinandersetzung stehen die Forderungen der Gewerkschaft nach einer signifikanten Lohnerhöhung für die Angestellten. Ein weiterer zentraler Streitpunkt ist das Arbeitszeitmodell: Verdi verlangt die Möglichkeit, dass Beschäftigte Teile ihres Gehalts in bis zu 20 zusätzliche freie Tage pro Jahr umwandeln können. Die Arbeitgeberseite lehnt diese Forderungen bislang ab, was zu der aktuellen Blockade in den Verhandlungen geführt hat. Mit den Warnstreiks will die Gewerkschaft den Druck auf die Arbeitgeber vor den kommenden Verhandlungsrunden erhöhen. Konkrete Zahlen zu den Auswirkungen auf den Geschäftsbetrieb oder Daten für die nächsten Termine nennen die Berichte bisher nicht. Der Ausgang des Konflikts und die Reaktion der Arbeitgeber auf die Arbeitsniederlegungen bleiben abzuwarten.",
-    "r": "Die bundesweiten Warnstreiks im privaten Bankensektor betreffen zahlreiche Beschäftigte und können den Zahlungsverkehr sowie Kundenservices beeinträchtigen. Der Verlauf der Tarifrunde hat Signalwirkung für andere Branchen hinsichtlich flexibler Arbeitszeit- und Gehaltsmodelle.",
+    "t": "Verdi ruft bundesweit zu Warnstreiks bei privaten Banken auf",
+    "s": "In der Tarifrunde für das private Bankgewerbe kommt es zu einer Eskalation. Die Gewerkschaft Verdi hat bundesweit zu Warnstreiks aufgerufen. Hintergrund sind festgefahrene Verhandlungen über höhere Löhne und Arbeitszeitmodelle.",
+    "m": "Die Gewerkschaft fordert für die Beschäftigten im privaten Bankgewerbe deutlich mehr Geld sowie die Option, Gehaltsbestandteile in bis zu 20 zusätzliche freie Tage umzuwandeln. Die Arbeitgeberseite lehnt diese Forderungen bisher ab, wodurch sich der Tarifstreit nun weiter verschärft. Als Reaktion auf die blockierten Verhandlungen ruft Verdi die Angestellten zu bundesweiten Warnstreiks auf. Es wird mit Einschränkungen im Kundenservice und bei Bankdienstleistungen gerechnet. Weitere Details zum genauen zeitlichen Ablauf der Ausstandmaßnahmen oder zur Beteiligung wurden zunächst nicht bekannt. Die Tarifparteien stehen unter Zugzwang, um eine Ausweitung der Arbeitsniederlegungen zu verhindern.",
+    "r": "Arbeitskämpfe im Bankensektor können den Zahlungsverkehr und die Betreuung von Kunden spürbar beeinträchtigen. Zudem hat der Tarifkonflikt Signalwirkung für andere Branchen, die über Arbeitszeitverkürzungen und Lohnerhöhungen verhandeln.",
     "srcs": [
       {
         "name": "RND",
@@ -623,10 +1191,52 @@
       }
     ],
     "url": "https://www.rnd.de/wirtschaft/bundesweiter-streik-an-privaten-banken-SBVHDGJZ6RDLDGMYAR4H562FKM.html",
-    "agree": "Die Quellen sind sich einig, dass Verdi bundesweit zu Warnstreiks bei privaten Banken aufgerufen hat, weil die Arbeitgeber die Forderungen nach mehr Geld und bis zu 20 zusätzlichen freien Tagen für Gehaltsbestandteile ablehnen.",
-    "diff": [],
+    "agree": "Beide Quellen sind sich einig, dass Verdi bundesweit zu Warnstreiks im privaten Bankgewerbe aufruft, weil Arbeitgeber die Forderungen nach mehr Geld und zusätzlichen freien Tagen ablehnen.",
+    "diff": [
+      {
+        "name": "Handelsblatt",
+        "note": "Erwähnt im Titel explizit die 'stockende Tarifrunde'."
+      }
+    ],
     "chg": "",
     "independent": 2
+  },
+  {
+    "id": "story-a1005c9e3f372527",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-23T12:47:03.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Kinderpornographie-Vorwürfe gegen Meghans Vater Thomas Markle",
+    "s": "Gegen Thomas Markle, den Vater von Herzogin Meghan, erheben sich Vorwürfe im Zusammenhang mit Kinderpornographie. Herzogin Meghan hat sich zu diesen Anschuldigungen geäußert. Medienberichten zufolge sind entsprechende Meldungen international bekannt geworden.",
+    "m": "Die Vorwürfe gegen Thomas Markle wegen angeblicher Kinderpornographie wurden über verschiedene Medien wie die Frankfurter Allgemeine Zeitung und das portugiesische Portal Observador aufgegriffen. Bislang ist der genaue Hintergrund der Anschuldigungen aus den vorliegenden Berichten nur in Umrissen bekannt. Herzogin Meghan hat auf die Vorwürfe reagiert, wobei Details zu ihrer Stellungnahme aus den Kurzmeldungen nicht hervorgehen. Die Berichterstattung erstreckt sich sowohl auf den deutschen als auch auf den internationalen Raum. Weitere offizielle Ermittlungsergebnisse oder Reaktionen von Behörden wurden in den Quellen nicht genannt.",
+    "r": "Die Anschuldigungen gegen den Vater einer prominenten Persönlichkeit wie Herzogin Meghan von Sussex sind von öffentlichem und Medieninteresse. Die Vorwürfe berühren strafrechtlich relevante Themenbereiche.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRHN2MzlCSldzVDR2X05yd3dvLVNMTmVVS3c5UlRwMUp6cWc4THQ0em15Sm5MYnZOOVlUenBhSnJZMF9XcnFWcEszUjdNMWNvVndPSFBmNEhWaGFjR2NLMktNVHVnTTJOb1YxZWhjcmp5a3MtclI5a3pPMXNrM1U3X0dRUWZnZHFwejNvV3pSdWNOdENaOUdRczBCSE4yblVpbEpBdlhmSllfX2ZSc3RHaDZVUl9oY1BuZkFhSXU1S2hkWG1VSlRteXdvSmFIVHc?oc=5",
+        "date": "2026-10-23T12:47:03.000Z"
+      },
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOSEs2RVMtODA2MHhpVG9mX1ppOEFIR1hXc0RHclQtNG9jUlA5ZHN5NTV4czh6Z1VUMTVKVmJscmk2VWdtanhQcDFlZ1pHdlR5WWpEdEotSEkwNkw3TjV6LUlEZVJCMFVpWjFyU19tYU1kdkQwcEQzMU1OZmdOS2F6UnFIdWM1ZGhHUXplNlBkd0JZUjB0X0pNUXhwOFVmWllsQlRrRWFISlVtYW5ZSmVWOTM5Q3NkOUZBeUFOZWZQdXFBTF93bXl6dFJuWkNmRHpLNUJZVlgtN1h2QkVUT2t2UmFvVjN5X3RpT0d4RHFLZzQ4Q3Q2aDBuaUNURy1sQQ?oc=5",
+        "date": "2026-10-23T10:50:41.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRHN2MzlCSldzVDR2X05yd3dvLVNMTmVVS3c5UlRwMUp6cWc4THQ0em15Sm5MYnZOOVlUenBhSnJZMF9XcnFWcEszUjdNMWNvVndPSFBmNEhWaGFjR2NLMktNVHVnTTJOb1YxZWhjcmp5a3MtclI5a3pPMXNrM1U3X0dRUWZnZHFwejNvV3pSdWNOdENaOUdRczBCSE4yblVpbEpBdlhmSllfX2ZSc3RHaDZVUl9oY1BuZkFhSXU1S2hkWG1VSlRteXdvSmFIVHc?oc=5",
+    "agree": "Beide Quellen stimmen überein, dass es Vorwürfe der Kinderpornographie gegen Thomas Markle gibt und sich Meghan dazu geäußert hat.",
+    "diff": [
+      {
+        "name": "Google News Portugal",
+        "note": "Berichtet unter dem Titel 'Pai de Meghan Markle denunciado por pornografia infantil' im Medium Observador."
+      }
+    ],
+    "chg": "",
+    "independent": 1
   },
   {
     "id": "story-c82d82bb561afb02",
@@ -638,10 +1248,10 @@
     "p": 2,
     "st": "RP",
     "city": "",
-    "t": "Mainzer Oktoberfest: Ärger um Ticketrückgabe nach Unklarheiten",
-    "s": "Beim Mainzer Oktoberfest gibt es neuen Ärger um die Tickets. Viele Besucher haben wegen vorheriger Unklarheiten ihre Pläne geändert. Nun möchten sie ihre Eintrittskarten zurückgeben, was jedoch nicht möglich ist.",
-    "m": "Nach dem jüngsten Hin und Her um das Mainzer Oktoberfest herrscht bei vielen Ticketkäufern Frust. Wegen der unklaren Lage hatten sich zahlreiche Menschen dazu entschlossen, ihre Pläne zu ändern und die bereits gekauften Eintrittskarten zurückzugeben. Die Veranstalter beziehungsweise die zuständigen Stellen bieten eine solche Rückgabe jedoch nicht an. Damit stehen viele Ticketinhaber vor dem Problem, auf ihren Karten sitzen zu bleiben oder diese trotz Umplanung nicht mehr nutzen zu können. Ob es im Nachhinein noch Kulanzregelungen oder offizielle Reaktionen der Verantwortlichen geben wird, ist derzeit noch offen. Die Situation belastet das Image der Veranstaltung zusätzlich und sorgt für anhaltenden Unmut in der Region.",
-    "r": "Der Ticketärger betrifft zahlreiche Besucher des Mainzer Oktoberfestes, die ihre Karten aufgrund unklarer Umstände nicht zurückgeben können. Dies wirft Fragen zum Umgang mit den Kunden und zur Organisation der Veranstaltung auf.",
+    "t": "Neuer Ärger um Tickets für das Mainzer Oktoberfest",
+    "s": "Nach Diskussionen um das Mainzer Oktoberfest möchten viele verärgerte Besucher ihre Eintrittskarten zurückgeben. Dies ist jedoch nicht möglich. Die Unklarheiten im Vorfeld haben zu spontanen Umplanungen bei den Gästen geführt.",
+    "m": "Im Vorfeld des Mainzer Oktoberfests gab es bereits ein Hin und Her bezüglich der Veranstaltung. Aufgrund dieser Unklarheiten entschieden sich zahlreiche Gäste dazu, ihre Pläne zu ändern. Infolgedessen versuchen viele Ticketinhaber nun, ihre bereits gekauften Karten zurückzugeben. Dies wird den Betroffenen jedoch verwehrt. Konkrete Details zu den Veranstaltern oder den genauen Ticketbestimmungen gehen aus den Berichten nicht hervor. Die Situation sorgt bei den betroffenen Bürgern für Frust.",
+    "r": "Die Berichterstattung zeigt auf, dass organisatorische Unklarheiten bei Volksfesten zu konkreten Problemen beim Ticketkauf und bei Rückerstattungen führen können. Dies betrifft direkt die Verbraucher und deren Rechte bei Freizeitveranstaltungen.",
     "srcs": [
       {
         "name": "SWR Aktuell Rheinland-Pfalz",
@@ -655,7 +1265,7 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/rheinland-pfalz/mainz/aerger-um-tickets-fuer-das-oktoberfest-in-mainz-100.html",
-    "agree": "Beide Quellen stimmen überein, dass es nach dem Hin und Her um das Mainzer Oktoberfest Ärger gibt, weil viele Menschen wegen der Unklarheit umgeplant haben und ihre Tickets nun nicht zurückgeben können.",
+    "agree": "Beide Quellen stimmen überein, dass es Ärger um die Tickets des Mainzer Oktoberfests gibt, weil Kunden ihre Karten nach Unklarheiten nicht zurückgeben können.",
     "diff": [],
     "chg": "",
     "independent": 2
@@ -702,10 +1312,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "New York schafft Pferdekutschen im Central Park ab",
-    "s": "In New York wird die Ära der Pferdekutschen im Central Park beendet. Der Stadtrat hat beschlossen, die touristische Attraktion schrittweise abzuschaffen. Dieser Prozess soll bis zum 1. Juni 2028 vollständig umgesetzt sein.",
-    "m": "Die traditionellen Pferdekutschen im Central Park von New York prägten rund 150 Jahre lang das Stadtbild. Nach einem vorausgegangenen Unfall wurden die Rufe nach einem Verbot der Kutschen in der US-Metropole deutlich lauter. Nun hat der Stadtrat über die Zukunft der Attraktion entschieden und einem entsprechenden Gesetzesentwurf zugestimmt. Die schrittweise Abschaffung ist bis zum Stichtag 1. Juni 2028 terminiert. Damit reagiert die Politik auf Sicherheitsbedenken und langjährige Tierschutzdebatten rund um den Einsatz der Tiere im dichten Stadtverkehr.",
-    "r": "Die Abschaffung einer jahrzehntelangen touristischen Tradition in einer Weltmetropole markiert einen bedeutenden wendepunkt im Umgang mit Tieren im städtischen Raum. Die Entscheidung hat unmittelbare Auswirkungen auf die beteiligten Kutscher und den Tourismus in New York.",
+    "t": "New York verbietet Pferdekutschen im Central Park bis 2028",
+    "s": "Nach rund 150 Jahren sollen die Pferdekutschen im New Yorker Central Park aus dem Stadtbild verschwinden. Der Stadtrat hat eine schrittweise Abschaffung der traditionellen Attraktion beschlossen. Die Frist für das endgültige Aus ist auf den 1. Juni 2028 angesetzt.",
+    "m": "Die Entscheidung zur Abschaffung der Kutschen folgt auf einen zuvor ereigneten Unfall, der die Rufe nach einem Verbot in der US-Metropole verstärkt hatte. Der Gesetzesentwurf, dem der Stadtrat nun zustimmte, geht auf Bürgermeister Mamdani zurück. Die Umsetzung erfolgt schrittweise, sodass die historische Attraktion innerhalb der kommenden Jahre vollständig abgewickelt wird. Damit endet eine etwa 150-jährige Ära im Herzen von New York. Details zu Entschädigungen für Kutscher oder genauen Zwischenschritten bis 2028 wurden in den Berichten zunächst nicht genannt.",
+    "r": "Die Entscheidung beendet eine jahrzehntelange touristische Tradition in einer global bedeutenden US-Metropolregion. Sie zeigt exemplarisch, wie Sicherheitsbedenken nach Unfällen zu politischen Interventionen und Verboten führen können.",
     "srcs": [
       {
         "name": "ZDF heute",
@@ -724,19 +1334,19 @@
       }
     ],
     "url": "https://www.zdfheute.de/video/panorama-centralpark-kutschenverbot-100.html",
-    "agree": "Die Quellen stimmen überein, dass die Pferdekutschen im New Yorker Central Park schrittweise abgeschafft werden sollen und der Stadtrat darüber abgestimmt hat.",
+    "agree": "Die Quellen stimmen überein, dass die Pferdekutschen im New Yorker Central Park schrittweise bis zum Juni 2028 abgeschafft werden und der Stadtrat entsprechend abgestimmt hat.",
     "diff": [
       {
         "name": "ZDF heute",
-        "note": "nennt das genaue Enddatum zum 1. Juni 2028 und die Dauer von rund 150 Jahren Tradition."
+        "note": "nennt die Laufzeit der Ära mit rund 150 Jahren."
       },
       {
         "name": "Tagesschau",
-        "note": "nennt ebenfalls den 1. Juni 2028 als Frist und gibt an, dass der Entwurf von Bürgermeister Mamdani stammte."
+        "note": "nennt Bürgermeister Mamdani als Urheber des Gesetzesentwurfs und erwähnt den Autor M. Ganslmeier."
       },
       {
         "name": "t-online Panorama",
-        "note": "erwähnt zusätzlich einen vorausgangenen Unfall als Auslöser für lauter werdende Verbotsrufe."
+        "note": "erwähnt einen vorausgegangenen Unfall als Auslöser für laut gewordene Verbotsforderungen."
       }
     ],
     "chg": "",
@@ -793,10 +1403,10 @@
     "p": 4,
     "st": "",
     "city": "",
-    "t": "Schweres Erdbeben der Stärke 7 in Tibet fordert mindestens 16 Menschenleben",
-    "s": "Ein schweres Erdbeben der Stärke 7 hat die Region Tibet in China erschüttert. Dabei sind nach offiziellen Angaben mindestens 16 Menschen ums Leben gekommen und zahlreiche Gebäude zerstört worden. Rettungs- und Suchmannschaften sind im Einsatz, um Verschüttete zu bergen und die Schäden zu erfassen.",
-    "m": "Das Beben traf den Norden der Region, insbesondere die Stadt Nagqu, und ist das stärkste Erdbeben in Tibet seit fünf Jahren. Mindestens 54 Menschen wurden verletzt, während Hunderte von Häusern und Viehschuppen einstürzten. Nach dem Hauptbeben wurden mindestens sieben Nachbeben registriert. Die zuständigen Behörden und Rettungskräfte arbeiten unter Hochdruck an der Bewältigung der Katastrophe. Chinesische Medien und offizielle Stellen koordinieren die Hilfsmaßnahmen in dem betroffenen Gebiet. Genauere Angaben zum Gesamtausmaß der materiellen Schäden stehen vielerorts noch aus.",
-    "r": "Naturkatastrophen dieser Größenordnung verursachen schwere humanitäre und wirtschaftliche Krisen in betroffenen Regionen. Die Bewältigung erfordert sofortige Rettungseinsätze und den Schutz der überlebenden Bevölkerung vor den Folgen der Zerstörung.",
+    "t": "Starkes Erdbeben der Stärke 7 in Tibet fordert mindestens 16 Menschenleben",
+    "s": "Ein schweres Erdbeben der Stärke 7 hat die Region Tibet in China erschüttert. Dabei sind mindestens 16 Menschen ums Leben gekommen und zahlreiche Häuser zerstört worden. Rettungskräfte haben umgehend die Suche nach Überlebenden und Verletzten aufgenommen. Es ist das schwerste Beben in der Region seit fünf Jahren.",
+    "m": "Das Beben ereignete sich im Norden Tibets in der regionalen Stadt Nagqu und forderte neben den Todesopfern auch 54 Verletzte. Nach Angaben des Nagqu-Medienbüros und der Stadtverwaltung stürzten mindestens 339 Häuser sowie 20 Tierschuppen ein. Nach dem Hauptbeben wurden mindestens sieben beziehungsweise laut einer Quelle 339 zerstörte Häuser gemeldet; zudem verzeichneten die Behörden mindestens sieben Nachbeben. Chinas staatlicher Sender CCTV bestätigte, dass es sich um das stärkste Erdbeben in dieser Region innerhalb der letzten fünf Jahre handelt. Die Rettungs- und Bergungsarbeiten dauern vor Ort weiter an, während die Behörden die Schäden bewerten.",
+    "r": "Naturkatastrophen dieser Schwere mit Todesopfern und massiven Gebäudeschäden erfordern koordinierte Rettungseinsätze und berühren die Sicherheit der Zivilbevölkerung. Das Ereignis hat direkte humanitäre und infrastrukturelle Folgen in der betroffenen Region.",
     "srcs": [
       {
         "name": "Guardian World",
@@ -810,15 +1420,15 @@
       }
     ],
     "url": "https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet",
-    "agree": "Beide Quellen stimmen überein, dass ein Erdbeben der Stärke 7 Tibet getroffen hat, mindestens 16 Menschen getötet und Hunderte Häuser zerstört wurden, wobei es sich um das stärkste Beben der Region seit fünf Jahren handelt.",
+    "agree": "Beide Quellen berichten übereinstimmend von einem Erdbeben der Stärke 7 in Tibet mit mindestens 16 Toten und der Zerstörung hunderter Häuser, wobei chinesische Medien zitiert werden, dass es das schwerste Beben seit fünf Jahren war.",
     "diff": [
       {
         "name": "Guardian World",
-        "note": "Berichtet über mindestens 54 Verletzte, die betroffene Stadt Nagqu, eingestürzte Viehschuppen, mindestens sieben registrierte Nachbeben sowie Details zu den Such- und Rettungsmaßnahmen."
+        "note": "Berichtet detailliert über 54 Verletzte, die Zerstörung von 339 Häusern und 20 Tierschuppen in Nagqu, mindestens sieben Nachbeben sowie die andauernden Rettungsarbeiten unter Berufung auf das Nagqu-Medienbüro und CCTV."
       },
       {
         "name": "Euronews",
-        "note": "Enthält im Vergleich zu Guardian World keine weiteren spezifischen Details."
+        "note": "Liefert eine sehr kurze Zusammenfassung mit dem Fokus darauf, dass es das stärkste Erdbeben der Region seit fünf Jahren ist."
       }
     ],
     "chg": "",
@@ -15402,641 +16012,6 @@
     "url": "https://www.deutschlandfunk.de/niedersachsens-ministerpraesident-lies-spd-automobilindustrie-muss-geld-fuer-transformation-verdiene-102.html",
     "agree": "Die Quellen stimmen überein, dass Niedersachsens Ministerpräsident Olaf Lies (SPD) den deutsch-französischen Vorstoß zur Abschwächung des EU-Verbrennerverbots verteidigt hat.",
     "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-30cf39caaef84073",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-17T16:06:49.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Selenskyj kritisiert Aussetzung von US-Sanktionen gegen Russland",
-    "s": "Der ukrainische Präsident Selenskyj hat die Aussetzung von US-Sanktionen gegen Russland scharf kritisiert. Er warnt davor, dass eine Lockerung des Drucks und finanzielle Belohnungen für den Kremlchef Putin einen Ansporn zum Weitermachen darstellen. Die Maßnahme steht im Kontext jüngster politischer Entscheidungen in den USA.",
-    "m": "Präsident Wolodymyr Selenskyj hat sich kritisch zur Entscheidung der USA geäußert, bestimmte Sanktionen gegen Russland auszusetzen. Nach seiner Ansicht sendet eine solche Entlastung das falsche Signal an Moskau und ermutigt die russische Führung zu weiteren Angriffen. Die Süddeutsche Zeitung ergänzt in ihrer Berichterstattung, dass US-Präsident Trump zuvor bereits geplante Russland-Zölle kurz vor deren Inkrafttreten auf Eis gelegt hatte. Bislang gibt es keine offiziellen Berichte darüber, wie Washington auf Selenskyjs Kritik reagiert hat oder ob die Aussetzung der Maßnahmen temporär oder dauerhaft angelegt ist. Die internationalen diplomatischen Reaktionen auf diesen Kurswechsel in der US-Handels- und Sanktionspolitik bleiben vorerst abzuwarten. Beobachter werten den Schritt als möglichen Wendepunkt im westlichen Vorgehen gegenüber dem Konflikt in der Ukraine.",
-    "r": "Die Äußerungen des ukrainischen Präsidenten verdeutlichen die Sorge Kiews vor einem nachlassenden internationalen Druck auf Russland. Zudem werfen die Entscheidungen der US-Regierung Fragen zur künftigen westlichen Sanktions- und Zollpolitik auf.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/selenskyj-kritisiert-aussetzung-von-us-sanktionen-102.html",
-        "date": "2026-10-17T16:06:49.000Z"
-      },
-      {
-        "name": "Süddeutsche Zeitung",
-        "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-selenskij-usa-sanktionen-russland-li.3563283",
-        "date": "2026-10-17T11:40:00.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/selenskyj-kritisiert-aussetzung-von-us-sanktionen-102.html",
-    "agree": "Beide Quellen stimmen darin überein, dass der ukrainische Präsident Selenskyj die Aussetzung von US-Sanktionen gegen Russland kritisiert und warnt, dass dies Putin zu weiterem Vornamen anspornt.",
-    "diff": [
-      {
-        "name": "Süddeutsche Zeitung",
-        "note": "Ergänzt die Information, dass zuvor Trump Russland-Zölle kurz vor ihrem Inkrafttreten auf Eis gelegt hatte."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-30f618e6aec1615f",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-17T16:06:49.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Israelische Siedler attackieren Fahrzeuge von EU-Diplomaten im Westjordanland",
-    "s": "Im besetzten Westjordanland ist es zu einem Angriff israelischer Siedler auf Fahrzeuge europäischer Diplomaten gekommen. Dabei wurden Maskierte aktiv, die das Auto umstellten und Ausweise forderten. Laut Berichten schlugen die Angreifer zudem eine Scheibe ein. Der Vorfall ereignete sich im Zusammenhang mit diplomatischen Aktivitäten vor Ort.",
-    "m": "Der Vorfall ereignete sich im Westjordanland, wo maskierte Männer ein Fahrzeug europäischer Diplomaten umstellten. Die Angreifer forderten von den Insassen die Herausgabe von Ausweisen und schlugen im Verlauf des Übergriffs eine Scheibe des Autos ein. Es handelt sich laut Medienberichten bereits um den zweiten Vorfall dieser Art innerhalb weniger Tage. Die Identität der Diplomaten oder die genaue Region im Westjordanland wurden in den Meldungen zunächst nicht näher spezifiziert. Bisher gibt es keine offiziellen Angaben über Verletzte oder Reaktionen der betroffenen europäischen Staaten auf diesen neuen Übergriff.",
-    "r": "Der Vorfall betrifft den diplomatischen Schutz und wirft Fragen zur Sicherheit ausländischer Vertretungen im Westjordanland auf. Zudem verdeutlicht die Wiederholung innerhalb weniger Tage eine Verschärfung der Sicherheitslage vor Ort.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/israelische-siedler-attackieren-fahrzeug-von-eu-diplomaten-100.html",
-        "date": "2026-10-17T16:06:49.000Z"
-      },
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/politik/Israelische-Siedler-attackieren-EU-Diplomaten-im-Westjordanland-id31429695.html",
-        "date": "2026-10-17T15:36:27.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/israelische-siedler-attackieren-fahrzeug-von-eu-diplomaten-100.html",
-    "agree": "Die Quellen stimmen überein, dass israelische Siedler Fahrzeuge von EU-Diplomaten im Westjordanland attackiert haben.",
-    "diff": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "note": "Berichtet allgemein über den Angriff auf Fahrzeuge von EU-Diplomaten durch israelische Siedler."
-      },
-      {
-        "name": "ntv",
-        "note": "Ergänzt Details, dass maskierte Männer das Fahrzeug umstellten, Ausweise forderten, eine Scheibe einchlugen und dass es sich um den zweiten Vorfall dieser Art innerhalb weniger Tage handelt."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-55809cf1cbb7e548",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-17T16:06:49.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Unionsfraktionschef Frei fordert Änderungen bei der Zuckersteuer",
-    "s": "Unionsfraktionschef Frei fordert Änderungen an der kürzlich vom Bundeskabinett beschlossenen Zuckersteuer. Er verlangt insbesondere Anpassungen für die Getränkehersteller.",
-    "m": "Das Bundeskabinett hat sich erst vor wenigen Tagen auf einen entsprechenden Gesetzentwurf zur Zuckersteuer verständigt. Nun bringt sich Unionsfraktionschef Frei mit Forderungen nach Modifikationen ein. Konkret fordert er Übergangsfristen für die Getränkehersteller. Diese Zeitspanne soll den Unternehmen ermöglichen, ihre Rezepturen entsprechend anzupassen. Weitere Details zum genauen Ablauf des Gesetzgebungsverfahrens oder zur Reaktion der Koalitionspartner gehen aus den Berichten nicht hervor.",
-    "r": "Die Intervention des Unionsfraktionschefs betrifft den aktuellen Gesetzgebungsprozess zur Zuckersteuer unmittelbar nach der Kabinettseinigung. Sie wirft Fragen zum zeitlichen Fahrplan und zur Anpassungsfähigkeit der Industrie auf.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/unionsfraktionschef-frei-will-aenderungen-bei-zuckersteuer-100.html",
-        "date": "2026-10-17T16:06:49.000Z"
-      },
-      {
-        "name": "Süddeutsche Zeitung",
-        "url": "https://www.sueddeutsche.de/politik/bundesregierung-news-zuckersteuer-thorsten-frei-li.3529564",
-        "date": "2026-10-17T05:20:29.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/unionsfraktionschef-frei-will-aenderungen-bei-zuckersteuer-100.html",
-    "agree": "Die Quellen sind sich einig, dass Unionsfraktionschef Frei Änderungen bei der Zuckersteuer fordert.",
-    "diff": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "note": "Berichtet allgemein über die Forderung von Frei nach Änderungen bei der Zuckersteuer."
-      },
-      {
-        "name": "Süddeutsche Zeitung",
-        "note": "Erwähnt zusätzlich den vor wenigen Tagen gefassten Beschluss des Bundeskabinetts zum Gesetzentwurf und konkretisiert Freis Forderung auf Übergangsfristen zur Rezepturänderung für Getränkehersteller."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-9138bfce0f0fc677",
-    "c": "INT",
-    "o": "US",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-17T15:57:40.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Proteste und Zusammenstöße in ganz Frankreich wegen steigender Lebenshaltungskosten",
-    "s": "In ganz Frankreich sind Demonstranten und Studenten am Samstag zusammengekommen, um gegen die steigenden Lebenshaltungskosten zu protestieren. Im Zuge der Kundgebungen kam es zu Scharmützeln und Bränden. Die Proteste finden vor dem Hintergrund einer sich vertiefenden Haushaltskrise des Landes statt.",
-    "m": "Die Demonstranten schlossen sich mit Studenten zusammen, um auf die wirtschaftliche Notlage aufmerksam zu machen. Bislang ist bekannt, dass es bei den landesweiten Protesten zu Auseinandersetzungen und Bränden kam. Die zugrundeliegende fiskalische Krise in Frankreich verstärkt den Druck auf die Bevölkerung und treibt die Menschen auf die Straße. Weitere Details zu Verletzten, Festnahmen oder den genauen Orten der Ausschreitungen nennen die Berichte nicht. Die Lage bleibt angespannt, während die Regierung nach Lösungen für die Haushaltskrise sucht.",
-    "r": "Die landesweiten Proteste und Unruhen spiegeln die wachsende gesellschaftliche Unzufriedenheit über die Wirtschaftslage wider. Sie verdeutlichen die innenpolitischen Herausforderungen durch die französische Haushaltskrise.",
-    "srcs": [
-      {
-        "name": "NPR World",
-        "url": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france",
-        "date": "2026-10-17T15:57:40.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQakZaQjYzdlRBLUk2R1FOdVZvVExzZEtDWXRpOXYyZXpsNUYwX05idjRDamJtWDdRUk5qeFQyVDBlaV9iX010ZHVYRk5SNGNuMVNkTW9QVmVzLVBsZDZFdHZDUG5jLUNzWFJHQ1pUMnZKUWRJMGtHLThsUHFYWkw4SEg0YTVuUUV4M3JhTXJUa204UjBZam9oNksyTm1jaDV5RmRYNVFKM3hRZw?oc=5",
-        "date": "2026-10-17T09:18:00.000Z"
-      }
-    ],
-    "url": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france",
-    "agree": "Beide Quellen stimmen überein, dass Demonstranten und Studenten in Frankreich gegen steigende Lebenshaltungskosten protestiert haben und es dabei zu Scharmützeln und Bränden kam.",
-    "diff": [
-      {
-        "name": "Google News World",
-        "note": "Erwähnt zusätzlich den Namen Audacy im Titel."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-cc54e8c25263917b",
-    "c": "INT",
-    "o": "INT",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-17T15:47:52.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Papst Leo nach Lungenkrebs-Operation aus Krankenhaus entlassen",
-    "s": "Papst Leo hat das Gemelli-Krankenhaus in Rom am Samstag nach einer erfolgreichen Lungenkrebs-Operation verlassen. Bei dem Eingriff war der Unterlappen seiner rechten Lunge entfernt worden. Der Pontifex plant bereits anstehende öffentliche Auftritte und Reisen.",
-    "m": "Nach einem erfolgreichen operativen Eingriff wegen Lungenkrebs, bei dem der Unterlappen der rechten Lunge entfernt wurde, konnte Papst Leo das römische Gemelli-Krankenhaus am Samstag verlassen. Die Entlassung erfolgt wenige Tage nach der Operation. Der Heilige Vater wird bereits am Sonntag wieder auf dem Petersplatz erwartet, um das traditionelle Angelus-Gebet und den Segen zu sprechen. Zudem ist eine Reise nach Lateinamerika im November im Kalender vorgesehen. Weitere Details zum genauen postoperativen Zustand wurden von den Kliniken zunächst nicht genannt.",
-    "r": "Die Entlassung des Papstes nach einer schweren Lungenkrebs-Operation ist von hoher gesundheitlicher und institutioneller Relevanz. Sie zeigt die rasche Genesung des Pontifex und klärt seinen Zeitplan für kommende öffentliche Verpflichtungen und internationale Reisen.",
-    "srcs": [
-      {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/pope-leo-leaves-hospital-after-lung-cancer-surgery?traffic_source=rss",
-        "date": "2026-10-17T15:47:52.000Z"
-      },
-      {
-        "name": "NPR World",
-        "url": "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery",
-        "date": "2026-10-17T15:10:14.000Z"
-      },
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-17T13:51:36.000Z"
-      }
-    ],
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/pope-leo-leaves-hospital-after-lung-cancer-surgery?traffic_source=rss",
-    "agree": "Die Quellen stimmen überein, dass Papst Leo das Gemelli-Krankenhaus in Rom am Samstag nach einer Lungenkrebs-Operation verlassen hat.",
-    "diff": [
-      {
-        "name": "Al Jazeera",
-        "note": "Berichtet schlicht, dass Papst Leo nach einer Lungenkrebs-Operation das Krankenhaus verlassen hat, ohne spezifische Details zur Lungenlappen-Entfernung oder Folgeterminen."
-      },
-      {
-        "name": "NPR World",
-        "note": "Erwähnt konkret, dass der Unterlappen der rechten Lunge entfernt wurde und dass eine Reise nach Lateinamerika im November geplant ist."
-      },
-      {
-        "name": "BBC World",
-        "note": "Fügt hinzu, dass der Pontifex am Sonntag das traditionelle Angelus-Gebet und den Segen auf dem Petersplatz abhalten wird."
-      }
-    ],
-    "chg": "",
-    "independent": 3
-  },
-  {
-    "id": "story-02a434989c934d21",
-    "c": "INT",
-    "o": "INT",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-17T15:47:52.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Papst Leo nach erfolgreicher Lungenkrebsoperation aus Krankenhaus entlassen",
-    "s": "Papst Leo hat am Samstag das Gemelli-Krankenhaus in Rom nach einer Operation wegen Lungenkrebs verlassen. Der Eingriff, bei dem der untere Lappen der rechten Lunge entfernt wurde, verlief erfolgreich. Seine Entlassung erfolgte wenige Tage nach der Operation.",
-    "m": "Papst Leo XIV. wurde am Samstag aus dem Gemelli-Krankenhaus in Rom entlassen, nachdem bei ihm zuvor eine Operation zur Entfernung des unteren Lappens der rechten Lunge wegen Lungenkrebs durchgeführt worden war. Es ist geplant, dass der Pontifex am Sonntag das traditionelle Angelus-Gebet samt Segen auf dem Petersplatz abhalten wird. Darüber hinaus ist für den November eine Reise nach Lateinamerika im Terminkalender des Papstes vorgesehen. Die Operation lag zum Zeitpunkt seiner Entlassung wenige Tage zurück. Genauere Details zum postoperativen Zustand wurden von den vorliegenden Quellen nicht genannt.",
-    "r": "Die Entlassung des Papstes nach einer schweren Lungenkrebsoperation ist von hohem öffentlichem Interesse, da sie Aufschluss über seinen Gesundheitszustand und die Wiederaufnahme seiner offiziellen Termine gibt.",
-    "srcs": [
-      {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/pope-leo-leaves-hospital-after-lung-cancer-surgery?traffic_source=rss",
-        "date": "2026-10-17T15:47:52.000Z"
-      },
-      {
-        "name": "NPR World",
-        "url": "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery",
-        "date": "2026-10-17T15:10:14.000Z"
-      },
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-17T13:51:36.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNEllc3JQcGxaV00wb0JyUGVOeEtwMFpvdUU4OEdqMHFFcmdqQXlIYnZZOFY0dFNYZXhWdldOYTNEdjlOWU9BRlZqWHVhVEh3YUVrcUhNN2hhUGhFNUFRNTIzbzhxY2xwNmhCZ0Q4OHhsdHotbnYzekg5OFR1NzhVV3hBSWc5aXkwSEY1bEx3X0V5cllKeXl1SFNxSWZsdnFkd2xPQw?oc=5",
-        "date": "2026-10-17T10:30:44.000Z"
-      }
-    ],
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/pope-leo-leaves-hospital-after-lung-cancer-surgery?traffic_source=rss",
-    "agree": "Alle Quellen stimmen darin überein, dass Papst Leo nach einer Lungenkrebsoperation das Krankenhaus in Rom am Samstag verlassen hat.",
-    "diff": [
-      {
-        "name": "NPR World",
-        "note": "Erwähnt die Entfernung des unteren Lappens der rechten Lunge und die für November geplante Reise nach Lateinamerika."
-      },
-      {
-        "name": "BBC World",
-        "note": "Berichtet, dass der Pontifex am Sonntag das traditionelle Angelus-Gebet und den Segen auf dem Petersplatz geben wird."
-      },
-      {
-        "name": "Google News World",
-        "note": "Verweist auf die Berichterstattung von NBC News bezüglich der Krankenhausentlassung."
-      }
-    ],
-    "chg": "",
-    "independent": 4
-  },
-  {
-    "id": "story-8f1e71d41129086d",
-    "c": "INT",
-    "o": "UK",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-17T15:38:17.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Selenskyj kritisiert Trumps Stopp von Russland-Sanktionen als Belohnung für Putin",
-    "s": "Der ukrainische Präsident Wolodymyr Selenskyj hat die Entscheidung von US-Präsident Donald Trump, Sanktionen gegen Russland vorübergehend auszusetzen, scharf kritisiert. Er bezeichnete diesen Schritt als Belohnung für den russischen Machthaber Wladimir Putin. Nach Angaben Selenskyjs wird dies den russischen Führer ermutigen und den Krieg weiter anheizen. Zeitgleich hat Moskau ukrainische Kraftwerke angegriffen.",
-    "m": "Die aktuellen Angriffe auf ukrainische Energieanlagen spiegeln nach Einschätzung von Beobachtern ein systematisches Vorgehen Russlands wider, um ukrainische Städte unbewohnbar zu machen. Wolodymyr Selenskyj betonte in seiner Reaktion auf die US-Sanktionspolitik, dass das Aussetzen der Maßnahmen fatale Folgen für den Verlauf des Konflikts haben könnte. Während die westliche Debatte über den richtigen Kurs im Ukraine-Krieg andauert, setzt Moskau seine Angriffe auf die kritische Infrastruktur unvermindert fort. Konkrete Details zum zeitlichen Umfang der Sanktionspause oder zu Reaktionen weiterer internationaler Akteure gehen aus den vorliegenden Berichten nicht hervor. Die Situation verdeutlicht die anhaltenden Spannungen zwischen Kiew und Washington bezüglich möglicher diplomatischer oder wirtschaftlicher Zugeständnisse an Moskau. Offen bleibt, wie die US-Regierung auf die Vorwürfe aus der Ukraine reagieren wird.",
-    "r": "Die Entscheidung der USA zur Sanktionspause und die gleichzeitigen russischen Angriffe auf ukrainische Kraftwerke betreffen unmittelbar die geopolitische und militärische Lage im Ukraine-Krieg. Die Aussagen des ukrainischen Präsidenten verdeutlichen die diplomatischen Spannungen zwischen den Verbündeten.",
-    "srcs": [
-      {
-        "name": "Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/17/volodymyr-zelenskyy-donald-trump-lift-sanctions-russia-intensify-war-ukraine",
-        "date": "2026-10-17T15:38:17.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcVJVYkJ2aENjcjBpOGo4YUNUS01pOGowSWxpc0hzUXlUWUN0ZnFISmpiQXlXNXgwb1N5VzhsX19aN3RIRXptOVlBSktwZW1DR0N3eVhSUUt3QlRQQnFTSUhNcnpIcWIxVnNweHRFMFc5ZTUzZWktVGwwMTkzRGRTZGo2Qm0zY3o5aHFNTHJfY2lheGp0TXpOOWtlZm5WRGZZZ0JHTFktaHNBYjNrdkNZTVd4T1B4bXNkaVNNbkh5RQ?oc=5",
-        "date": "2026-10-17T13:28:00.000Z"
-      }
-    ],
-    "url": "https://www.theguardian.com/world/2026/oct/17/volodymyr-zelenskyy-donald-trump-lift-sanctions-russia-intensify-war-ukraine",
-    "agree": "Beide Quellen stimmen überein, dass der ukrainische Präsident Wolodymyr Selenskyj Donald Trumps Aussetzen der Russland-Sanktionen als Belohnung für Putin bezeichnet und vor einer Intensivierung des Krieges gewarnt hat.",
-    "diff": [
-      {
-        "name": "Guardian World",
-        "note": "Berichtet zusätzlich, dass Moskau die Kraftwerke des Landes angegriffen hat und dass diese Angriffe Teil eines Plans sind, ukrainische Städte unbewohnbar zu machen."
-      },
-      {
-        "name": "Google News World",
-        "note": "Enthält keine eigenen Zusatzinformationen, sondern verweist lediglich auf den Artikel des Guardian."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-7e7593d9e042ea60",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-17T15:29:15.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Merz verteidigt beim Deutschlandtag der Jungen Union seinen Reformkurs",
-    "s": "Beim Deutschlandtag der Jungen Union hat Kanzler Merz seinen Reformkurs verteidigt und sich an den Koalitionspartner SPD gewandt. Er betonte, den Erfolg der Koalition zu wollen, allerdings nicht um jeden Preis. Dabei pochte er besonders darauf, die Vorschläge zur Rente vollständig umzusetzen.",
-    "m": "Auf dem Deutschlandtag der Jungen Union äußerte sich Kanzler Merz unmissverständlich zu den anstehenden politischen Reformvorhaben der Koalition. In seiner Rede richtete er deutliche Worte an den Koalitionspartner SPD und machte klar, dass der angestrebte Erfolg der Koalition nicht um jeden Preis erkauft werden soll. Konkret forderte er im Bereich der Rentenpolitik, die vorgelegten Reformvorschläge in vollem Umfang und ohne Abstriche umzusetzen. Zudem drängte er darauf, den gesamten Reformprozess zügig und schnell zum Abschluss zu bringen. Über weitere konkrete Details oder Reaktionen der SPD ist in den vorliegenden Berichten bisher nichts bekannt.",
-    "r": "Die Aussagen des Kanzlers geben Aufschluss über das innerkoalitionäre Verhältnis bei zentralen Reformprojekten wie der Rente. Sie markieren eine positionsbestimmende Habe der CDU/CSU-Führung gegenüber dem Koalitionspartner SPD.",
-    "srcs": [
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/inland/innenpolitik/merz-junge-union-104.html",
-        "date": "2026-10-17T15:29:15.000Z"
-      },
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mcFhRU25lbXY0LUR4NFdrelBHVURvUnRsQlpOUWtsOHVYV1IxTUdySVZuel9ROGFGMDJzSjhGZXg1dmxXT3EyMUNpNFVWYVRBSGM0UVVfNHJkaGFnbmQyMEJ5N2QxUlpob3gtM2plTG50OUUzVDYtSlJ1NA?oc=5",
-        "date": "2026-10-17T15:29:00.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/innenpolitik/merz-junge-union-104.html",
-    "agree": "Beide Quellen berichten übereinstimmend, dass Merz beim Deutschlandtag der Jungen Union seinen Reformkurs verteidigt und die SPD gewarnt hat.",
-    "diff": [
-      {
-        "name": "Google News DE",
-        "note": "Ergänzt die Forderung, den Reformprozess schnell abzuschließen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-0fe326d491d45f6d",
-    "c": "INT",
-    "o": "DE",
-    "k": "sport",
-    "lang": "de",
-    "d": "2026-10-17T15:26:49.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Chelsea-Torwart Martínez nach schwerem Kopfzusammenstoß im Krankenhaus",
-    "s": "Beim Spiel von Chelsea gegen den FC Everton kam es zu einem schweren Unfall im Luftzweikampf. Torwart Emiliano Martínez verletzte sich dabei schwer am Kopf und wurde bewusstlos. Die Partie musste für etwa zehn Minuten unterbrochen werden, bevor er ins Krankenhaus gebracht wurde.",
-    "m": "Der Vorfall ereignete sich während des Premier-League-Spiels zwischen dem FC Chelsea und dem FC Everton. In einem Luftzweikampf prallte Torwart Emiliano Martínez unglücklich zusammen und zog sich dabei eine schwere Kopfverletzung zu. Nach dem Zusammenstoß blieb er bewusstlos liegen, was große Sorge bei Spielern und Betreuern auslöste. Das medizinische Personal eilte umgehend auf den Platz, um den Torwart zu versorgen. Wegen der intensiven Behandlung und der schrecklichen Szene war das Spiel für rund zehn Minuten unterbrochen. Schließlich wurde Martínez zur weiteren Untersuchung und Behandlung in ein Krankenhaus abtransportiert. Über den genauen aktuellen Gesundheitszustand des Torhüters liegen noch keine offiziellen Entwarnungen vor.",
-    "r": "Der Unfall verdeutlicht erneut die gesundheitlichen Risiken von Kopfverletzungen im Profifußball. Die lange Spielunterbrechung und der Transport ins Krankenhaus unterstreichen die Schwere des Vorfalls.",
-    "srcs": [
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/sport/fussball/article6ad38a011918705d12968cbc/fc-chelsea-bewusstlos-nach-zusammenprall-sorgen-um-torwart-emiliano-martinez.html",
-        "date": "2026-10-17T15:26:49.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/sport/fussball/fc-chelsea-torwart-martinez-nach-kopfzusammenstoss-im-krankenhaus-a-0316956a-9ce9-4bdd-8d82-f709563b3ad7#ref=rss",
-        "date": "2026-10-17T15:10:00.000Z"
-      }
-    ],
-    "url": "https://www.welt.de/sport/fussball/article6ad38a011918705d12968cbc/fc-chelsea-bewusstlos-nach-zusammenprall-sorgen-um-torwart-emiliano-martinez.html",
-    "agree": "Beide Quellen stimmen darin überein, dass Chelseas Torwart Emiliano Martínez bei einem Zusammenprall im Luftzweikampf eine schwere Kopfverletzung erlitt und das Spiel für etwa zehn Minuten unterbrochen werden musste.",
-    "diff": [
-      {
-        "name": "WELT",
-        "note": "Berichtet explizit, dass der Torwart nach dem Zusammenprall bewusstlos war."
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "Erwähnt konkret, dass Martínez nach dem Vorfall in ein Krankenhaus gebracht wurde."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-7f5d851ce16afca5",
-    "c": "INT",
-    "o": "US",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-17T15:10:14.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Papst Leo XIV. nach Lungenkrebs-Operation aus dem Krankenhaus entlassen",
-    "s": "Papst Leo XIV. hat das römische Gemelli-Krankenhaus wenige Tage nach einer Lungenkrebs-Operation verlassen. Bei dem Eingriff wurde ihm der Unterlappen der rechten Lunge entfernt. Für November ist bereits eine Reise nach Lateinamerika geplant.",
-    "m": "Der Pontifex wurde am Samstag aus dem Krankenhaus entlassen, nachdem zuvor der Unterlappen seiner rechten Lunge wegen einer Krebserkrankung chirurgisch entfernt worden war. Trotz des Eingriffs und der kurzen Erholungszeit steht der nächste große Termin bereits fest. So wird er am Sonntag auf dem Petersplatz das traditionelle Angelus-Gebet sprechen und seinen Segen erteilen. Zudem ist im Terminkalender des Papstes eine Reise nach Lateinamerika vorgesehen, die für November angesetzt ist. Es bleibt abzuwarten, wie sich die Genesung auf die anstrengenden Reisedetails auswirken wird.",
-    "r": "Die Meldung ist von internationaler Relevanz, da es sich um den Gesundheitszustand des katholischen Kirchenoberhaupts und dessen offizielle Termine handelt.",
-    "srcs": [
-      {
-        "name": "NPR World",
-        "url": "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery",
-        "date": "2026-10-17T15:10:14.000Z"
-      },
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-17T13:51:36.000Z"
-      }
-    ],
-    "url": "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery",
-    "agree": "Beide Quellen stimmen überein, dass Papst Leo XIV. wenige Tage nach einer Lungenkrebs-Operation aus dem Krankenhaus entlassen wurde.",
-    "diff": [
-      {
-        "name": "NPR World",
-        "note": "Berichtet, dass der Papst für November eine Reise nach Lateinamerika plant."
-      },
-      {
-        "name": "BBC World",
-        "note": "Berichtet, dass der Pontifex am Sonntag das traditionelle Angelus-Gebet und den Segen auf dem Petersplatz abhalten wird."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-ff7380066144f9bf",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-17T14:57:55.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "AfD-Politiker in NRW tragen Fechtkampf aus",
-    "s": "Im seit Monaten zerstrittenen nordrhein-westfälischen Landesverband der AfD haben sich zwei Parteimitglieder zu einer Mensur getroffen. Das Duell fand in Düsseldorf statt. Die beteiligten Politiker bezeichneten die Aktion als Privatsache aus einer Bierlaune heraus.",
-    "m": "Der Machtkampf im NRW-Landesverband der AfD hat eine ungewöhnliche Wendung genommen, da sich zwei Parteimitglieder zu einem Fechtkampf trafen. Dieser sogenannte Mensur-Kampf wurde in Düsseldorf ausgetragen. Nach Angaben eines Beteiligten handelte es sich dabei um eine reine Privatsache, die aus einer Bierlaune heraus entstanden sei. Genauere Details über den genauen Hergang, den Veranstaltungsort im Detail oder mögliche disziplinarische Konsequenzen innerhalb der Partei gehen aus den Berichten bisher nicht hervor. Auch die Identität der beiden beteiligten Politiker wird in den Quellen nicht genannt. Der Vorfall beleuchtet jedoch den anhaltenden internen Streit in dem Landesverband.",
-    "r": "Der Vorfall wirft ein Schlaglicht auf die internen Spannungen und den anhaltenden Machtkampf innerhalb des AfD-Landesverbands in Nordrhein-Westfalen. Ungewöhnliche Handlungen von Parteimitgliedern in diesem Kontext sind von allgemeinem journalistischen Interesse.",
-    "srcs": [
-      {
-        "name": "Frankfurter Allgemeine",
-        "url": "https://www.faz.net/aktuell/politik/inland/afd-politiker-liefern-sich-fechtkampf-in-duesseldorf-accg-201597023.html",
-        "date": "2026-10-17T14:57:55.000Z"
-      },
-      {
-        "name": "Rheinische Post",
-        "url": "https://rp-online.de/nrw/panorama/mensur-in-duesseldorf-afd-politiker-tragen-fechtkampf-aus_aid-156749991",
-        "date": "2026-10-17T14:26:21.000Z"
-      }
-    ],
-    "url": "https://www.faz.net/aktuell/politik/inland/afd-politiker-liefern-sich-fechtkampf-in-duesseldorf-accg-201597023.html",
-    "agree": "Beide Quellen stimmen darin überein, dass sich zwei AfD-Politiker in Nordrhein-Westfalen zu einer Mensur getroffen haben und dies als Privatsache aus einer Bierlaune bezeichneten.",
-    "diff": [
-      {
-        "name": "Frankfurter Allgemeine",
-        "note": "Erwähnt zusätzlich, dass im NRW-Landesverband der AfD seit Monaten ein Machtkampf tobt."
-      },
-      {
-        "name": "Rheinische Post",
-        "note": "Konkretisiert den Ort des Treffens auf Düsseldorf."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-d903e43247349d8b",
-    "c": "INT",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-17T14:29:50.000Z",
-    "p": 4,
-    "st": "BY",
-    "city": "",
-    "t": "Papst Leo XIV. nach Lungen-OP aus Krankenhaus entlassen",
-    "s": "Nach einer Krebsoperation an der Lunge hat Papst Leo XIV. das Krankenhaus verlassen und kehrt in den Vatikan zurück. Die Genesungsaussichten des Papstes werden als positiv bewertet. Schon am kommenden Sonntag will er wieder das Angelus-Gebet sprechen.",
-    "m": "Wenige Tage nach einem operativen Eingriff aufgrund einer Krebsdiagnose an der Lunge konnte Papst Leo XIV. das Krankenhaus wieder verlassen. Laut Angaben des Vatikans erfolgt die Rückkehr in den Vatikan zeitnah. Bereits für den morgigen beziehungsweise kommenden Sonntag ist geplant, dass das Oberhaupt der katholischen Kirche das traditionelle Angelus-Gebet vom Fenster seiner päpstlichen Wohnung aus spricht. Während der Vatikan positive Aussichten zur Genesung kommunizierte, blieben laut Berichten einige Details zum genauen gesundheitlichen Verlauf zunächst unklar. Der Eingriff selbst wurde zuvor erfolgreich durchgeführt.",
-    "r": "Die Entlassung des Papstes aus dem Krankenhaus nach einer Krebsoperation betrifft das weltweite katholische Oberhaupt und hat hohe religiöse sowie gesellschaftliche Relevanz.",
-    "srcs": [
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/europa/papst-krankenhaus-op-100.html",
-        "date": "2026-10-17T14:29:50.000Z"
-      },
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/panorama/prominente/papst-leo-rueckkehr-vatikan-krankenhaus-entlassung-100.html",
-        "date": "2026-10-17T11:18:00.000Z"
-      },
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/vatikan-papst-leo-xiv-kann-krankenhaus-verlassen,VYIbVPE",
-        "date": "2026-10-17T10:52:40.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/ausland/europa/papst-krankenhaus-op-100.html",
-    "agree": "Alle Quellen stimmen überein, dass Papst Leo XIV. nach einer Lungen- und Krebsoperation das Krankenhaus verlassen kann oder bereits verlassen hat.",
-    "diff": [
-      {
-        "name": "Tagesschau",
-        "note": "Berichtet, dass der Papst das Krankenhaus bereits verlassen hat und schon morgen das Angelus-Gebet sprechen will."
-      },
-      {
-        "name": "ZDF heute",
-        "note": "Erwähnt, dass die Genesungsaussichten positiv sind und einiges noch unklar bleibt."
-      },
-      {
-        "name": "BR24 Bayern",
-        "note": "Teilt mit, dass Leo XIV. noch heute in den Vatikan zurückkehren wird."
-      }
-    ],
-    "chg": "",
-    "independent": 3
-  },
-  {
-    "id": "story-948690800ab1e939",
-    "c": "INT",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-17T14:29:50.000Z",
-    "p": 3,
-    "st": "BY",
-    "city": "",
-    "t": "Papst Leo XIV. nach Lungen-Operation aus Krankenhaus entlassen",
-    "s": "Wenige Tage nach seiner Krebsoperation an der Lunge hat Papst Leo XIV. die Klinik verlassen. Er wird in den Vatikan zurückkehren. Bereits am kommenden Sonntag ist die traditionelle Haltung des Angelus-Gebets geplant.",
-    "m": "Der Eingriff zur Behandlung einer Krebserkrankung an der Lunge fand im Krankenhaus statt und verlief nach Angaben des Vatikans erfolgreich. Wenige Tage nach dieser Operation konnte der Papst die Klinik nun wieder verlassen. Nach seiner Rückkehr in den Vatikan steht am Sonntag direkt wieder die Verlesung des Angelus-Gebets auf dem Programm. Dies soll vom traditionellen Fenster der päpstlichen Wohnung aus erfolgen. Weitere Details zum genauen Gesundheitszustand oder dem voraussichtlichen Zeitpunkt der Wiederaufnahme seiner vollen Amtstätigkeit wurden zunächst nicht genannt.",
-    "r": "Die Entlassung des Papstes nach einer bedeutenden medizinischen Operation betrifft die Führung des Vatikans und ist von internationalem und medialem Interesse. Sie gibt Aufschluss über den Genesungsfortschritt des Kirchenoberhaupts nach einem Krebs-Eingriff.",
-    "srcs": [
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/europa/papst-krankenhaus-op-100.html",
-        "date": "2026-10-17T14:29:50.000Z"
-      },
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/vatikan-papst-leo-xiv-kann-krankenhaus-verlassen,VYIbVPE",
-        "date": "2026-10-17T10:52:40.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/ausland/europa/papst-krankenhaus-op-100.html",
-    "agree": "Die Quellen sind sich einig, dass Papst Leo XIV. nach einer Krebsoperation an der Lunge das Krankenhaus verlassen hat und am Sonntag das Angelus-Gebet sprechen wird.",
-    "diff": [
-      {
-        "name": "Tagesschau",
-        "note": "Berichtet, dass der Papst das Krankenhaus verlassen hat und erst morgen das Angelus-Gebet sprechen will."
-      },
-      {
-        "name": "BR24 Bayern",
-        "note": "Berichtet, dass der Papst bereits noch heute in den Vatikan zurückkehren und am Sonntag das Angelus-Gebet sprechen wird."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-ecbfd21f7288aba6",
-    "c": "INT",
-    "o": "US",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-17T14:25:10.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Selenskyj fordert Unterstützung für neue US-Sanktionen gegen Russland",
-    "s": "Der ukrainische Präsident Wolodymyr Selenskyj hat Unterstützung für neue US-Sanktionen gegen Russland gefordert. Dies geschah, nachdem US-Präsident Donald Trump die Maßnahmen vorerst auf Eis gelegt hatte. Selenskyj bezeichnete diesen Schritt als bedauerlich und warnte vor den Folgen.",
-    "m": "Wolodymyr Selenskyj äußerte sich enttäuscht über die Entscheidung von Donald Trump, neue US-Sanktionen gegen Russland zu pausieren. Laut Selenskyj würde dieses Vorgehen Russland ermutigen, seine Angriffe fortzusetzen. Trump begründete die Atempause vor dem Kongress damit, dass sie im nationalen Interesse liege, nannte jedoch keine weiteren Details. Die Medienberichte greifen die Reaktionen und Forderungen des ukrainischen Präsidenten auf, nachdem die Sanktionen kurz zuvor gestoppt worden waren. Weitere Einzelheiten zu den geplanten Sanktionen oder den Gründen für die Atempause wurden in den Meldungen nicht genannt. Die Situation verdeutlicht die unterschiedlichen außenpolitischen Prioritäten zwischen der Ukraine und den Vereinigten Staaten. Offen bleibt, wie lange die Pause anhalten wird und ob der Kongress Einfluss auf die Entscheidung nehmen kann.",
-    "r": "Die Diskussion um die US-Sanktionen betrifft direkt die internationale Unterstützung für die Ukraine im Krieg gegen Russland. Das Eingreifen der US-Regierung hat unmittelbaren Einfluss auf den diplomatischen und wirtschaftlichen Druck auf Moskau.",
-    "srcs": [
-      {
-        "name": "NPR World",
-        "url": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
-        "date": "2026-10-17T14:25:10.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Gc3hnSnpqd2lBNzJFT0l2alF1YjBEaVVyeHVBV2hweHdzX1pyZTc2Q1NDVUE2Y1dlcDF1OEZhdVlXTndrQ0R3VjBVMTJmQURsNWl3c0FSWHMxdlpDSVVmdGtyWF8zQWk0UFR2M0UwWV83VTc3RTV5Rmk1d0w?oc=5",
-        "date": "2026-10-17T12:27:41.000Z"
-      }
-    ],
-    "url": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
-    "agree": "Beide Quellen berichten, dass Selenskyj Unterstützung für neue US-Sanktionen fordert, nachdem Trump diese auf Eis gelegt hat.",
-    "diff": [
-      {
-        "name": "NPR World",
-        "note": "Berichtet, dass Selenskyj die Entscheidung als unglücklich bezeichnete und Trump dem Kongress mitteilte, die Pause liege im nationalen Interesse."
-      },
-      {
-        "name": "Google News World",
-        "note": "Verweist zusätzlich auf die CBC und erwähnt, dass der Stopp wenige Stunden zurückliegt."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-a9d8753e37ef0c87",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-17T13:55:01.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Ostsee-Sturmflut am Samstag erwartet: Bis zu 1,30 Meter über Normal",
-    "s": "An der deutschen Ostseeküste wird für den kommenden Samstagabend die erste Sturmflut der neuen Saison erwartet. Meteorologen prognostizieren Wasserstände in der Kieler Bucht von bis zu 1,30 Meter über dem Normalstand. In der Lübecker Bucht könnten die Werte sogar noch höher ausfallen. Die Stadt Flensburg hat bereits Vorsorgemaßnahmen getroffen und gibt Sandsäcke aus.",
-    "m": "Das Bundesamt für Seeschifffahrt und Hydrographie sowie Wetterdienste warnen vor dem Wetterereignis am Samstag, den 17. Oktober. Besonders betroffen ist der Bereich der Kieler Bucht, wo ein Anstieg des Wassers bis zu 1,30 Meter über dem normalen Pegel berechnet wird. Noch höhere Wasserstände werden für die Lübecker Bucht erwartet. Als Reaktion auf die drohende Gefahr hat die Stadt Flensburg begonnen, Sandsäcke an Bürger auszugeben und eindringlich vor den betroffenen Gefahrenbereichen an der Küste gewarnt. Die Behörden beobachten die Wetterlage kontinuierlich, um bei Bedarf weitere Schutzmaßnahmen einzuleiten. Es ist die erste Sturmflut dieser Art in der aktuellen Herbst- und Wintersaison.",
-    "r": "Die Meldung ist relevant für den Bevölkerungsschutz und die Küstenschifffahrt in Norddeutschland. Frühzeitige Warnungen und Sicherheitsvorkehrungen sind notwendig, um Sachschäden und Gefahren für Menschen an den betroffenen Küstenabschnitten zu minimieren.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNzVZcnduQ2hiM0hqdVEzUDk1VDdTemhiSUtwZjBLcHpzTEJqNnFvb09sbGY2VlJmOFNCTzhPNW01U0JXd1dsVkpKeHM3X0VFdk9lRlRsZ1J1aHJ3TW1aQ3hwOFpiTl9GRjNVVE5HWDFDTkdJMl9GWjgzTmRfU05WTlMyQklZUGc4RVVUcFBIUTBEZ2NHcmNVNDNJdzNtRFcyOU1iM2pfTDlXaUpNTm9rdGhFb2h0dTBBTlZJYll3SVQ1YjYybjdWUU1IWEE5VjM3?oc=5",
-        "date": "2026-10-17T13:55:01.000Z"
-      },
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/panorama/ostsee-sturmflut-am-samstag-17-oktober-erwartet-bis-1-30-meter-ueber-normal-PIWIJZFHQZF2FNA4CNRM7FGYFE.html",
-        "date": "2026-10-17T13:55:01.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNzVZcnduQ2hiM0hqdVEzUDk1VDdTemhiSUtwZjBLcHpzTEJqNnFvb09sbGY2VlJmOFNCTzhPNW01U0JXd1dsVkpKeHM3X0VFdk9lRlRsZ1J1aHJ3TW1aQ3hwOFpiTl9GRjNVVE5HWDFDTkdJMl9GWjgzTmRfU05WTlMyQklZUGc4RVVUcFBIUTBEZ2NHcmNVNDNJdzNtRFcyOU1iM2pfTDlXaUpNTm9rdGhFb2h0dTBBTlZJYll3SVQ1YjYybjdWUU1IWEE5VjM3?oc=5",
-    "agree": "Die Quellen sind sich einig, dass am Samstag eine Ostsee-Sturmflut mit Wasserständen von mindestens 1,30 Meter über Normal in der Kieler Bucht droht.",
-    "diff": [
-      {
-        "name": "Google News DE",
-        "note": "nennt zusätzlich das Datum Samstag, den 17. Oktober."
-      },
-      {
-        "name": "RND",
-        "note": "führt aus, dass es sich um die erste Sturmflut der Saison handelt, die Werte in der Lübecker Bucht noch höher erwartet werden und Flensburg Sandsäcke ausgibt."
-      }
-    ],
     "chg": "",
     "independent": 2
   }
