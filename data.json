@@ -1,23 +1,129 @@
 [
   {
+    "id": "story-3a7762e1a4401b58",
+    "c": "INT",
+    "o": "PT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-24T20:26:01.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Proteste für das Recht auf Wohnen in Portugal",
+    "s": "An diesem Wochenende finden in verschiedenen Städten in ganz Portugal Proteste für das Recht auf Wohnen statt. Demonstranten sind auf die Straße gegangen, um auf die Krise aufmerksam zu machen. Die Medien begleiten die Entwicklungen fortlaufend.",
+    "m": "Zahlreiche Bürgerinnen und Bürger beteiligen sich an den landesweiten Protesten an diesem Wochenende, um gegen die schwierige Situation auf dem Wohnungsmarkt und für bezahlbaren Wohnraum zu demonstrieren. Die Kundgebungen und Märsche verdeutlichen den anhaltenden sozialen Druck und die Unzufriedenheit vieler Menschen mit der aktuellen Wohnungsbaupolitik und den steigenden Kosten. Konkrete Teilnehmerzahlen oder offizielle Reaktionen von Regierungsseite werden in den vorliegenden Berichten bisher nicht genannt. Die Berichterstattung erfolgt als Live-Ticker, der die aktuellen Vorkommnisse in den verschiedenen Städten minutengenau verfolgt. Weitere Details zu den genauen Forderungen der Organisatoren oder konkreten Zwischenfällen stehen in den Kurzmeldungen noch aus.",
+    "r": "Die Proteste betreffen die soziale und wirtschaftliche Situation vieler Bürger in Portugal direkt. Wohnungsnot und steigende Lebenshaltungskosten sind zentrale Themen der öffentlichen Debatte.",
+    "srcs": [
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/economia/protestos-pela-habitacao-estao-na-rua-em-varias-cidades-do-pais_e1773996",
+        "date": "2026-10-24T20:26:01.000Z"
+      },
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcmdMeHNBXzkxb3lGOWg0a0JIdFNqcFpUdDc1Rzc1TXRQUnFDc0x5Y2JzbXZsS08xbF9BQ0xETFdqaGxFdDhMb0ZVWjdfck12TXhxbGFWNzFZRkhEbVFhU3V1QkFRTzdqYWxxc2k1SS1WQ1c4cWViX2tiVnFvMDBYamlOenp5SVJ3a1ByZWlndkFTd1hfN3E0enJxVjE0UkxwM3JMSnBqdXZtNzFsenc?oc=5",
+        "date": "2026-10-24T18:34:51.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/economia/protestos-pela-habitacao-estao-na-rua-em-varias-cidades-do-pais_e1773996",
+    "agree": "Die Quellen stimmen überein, dass an diesem Wochenende in mehreren Städten des Landes Proteste für das Recht auf Wohnen stattfinden.",
+    "diff": [
+      {
+        "name": "Google News Portugal",
+        "note": "Verweist auf RTP als ursprüngliche Quelle und enthält HTML-Links im Text."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-201e70b5be29090c",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-24T19:20:53.000Z",
+    "p": 2,
+    "st": "BY",
+    "city": "",
+    "t": "Tschechisches Parlament stimmt für Abschaffung von Rundfunkgebühren",
+    "s": "Das tschechische Abgeordnetenhaus hat in erster Lesung für die Abschaffung der Rundfunkgebühren gestimmt. Damit soll ein neues Finanzierungssystem für den öffentlich-rechtlichen Rundfunk eingeführt werden.",
+    "m": "Das tschechische Abgeordnetenhaus hat den Weg für eine Reform des öffentlich-rechtlichen Rundfunks freigemacht und in erster Lesung für die Abschaffung der bisherigen Rundfunkgebühren gestimmt. Geplant ist die Einführung eines gänzlich neuen Finanzierungssystems. Die Initiative geht von der rechtspopulistischen Regierung des Landes aus. Kritiker und Beobachter befürchten, dass der Rundfunk dadurch stärker politisch kontrolliert und an die kurze Leine genommen werden könnte. Bis zu einer endgültigen Umsetzung sind allerdings noch weitere parlamentarische Lesungen und Beratungen nötig. Die genaue Ausgestaltung des künftigen Modells ist derzeit noch Gegenstand von Debatten.",
+    "r": "Die Reform betrifft die Finanzierungsstruktur und Unabhängigkeit des öffentlich-rechtlichen Rundfunks in Tschechien. Die Entscheidung des Parlaments ist ein wichtiger erster Schritt in diesem Gesetzgebungsprozess.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/tschechiens-parlament-stimmt-in-erster-lesung-fuer-abschaffung-von-rundfunkgebuehren-102.html",
+        "date": "2026-10-24T19:20:53.000Z"
+      },
+      {
+        "name": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/tschechisches-parlament-will-rundfunkgebuehren-abschaffen,VYypGnD",
+        "date": "2026-10-24T15:50:35.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/tschechiens-parlament-stimmt-in-erster-lesung-fuer-abschaffung-von-rundfunkgebuehren-102.html",
+    "agree": "Beide Quellen berichten übereinstimmend, dass das tschechische Parlament in erster Lesung für die Abschaffung der Rundfunkgebühren gestimmt hat.",
+    "diff": [
+      {
+        "name": "BR24 Bayern",
+        "note": "Ergänzt, dass die Initiative von der rechtspopulistischen Regierung ausgeht und der öffentlich-rechtliche Rundfunk damit an die kurze Leine genommen werden soll."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-e0f606647ec17fdd",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-24T19:09:09.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Angriff auf israelische Firma: Mehrere Hundert Menschen bei «Free the Ulm 5»- Demo",
+    "s": "Angriff auf israelische Firma: Mehrere Hundert Menschen bei «Free the Ulm 5»- Demo",
+    "m": "Angriff auf israelische Firma: Mehrere Hundert Menschen bei «Free the Ulm 5»- Demo Mehrere Hundert Menschen haben in Stuttgart an einer Solidaritäts-Kundgebung für fünf inhaftierte Pro-Palästina-Aktivisten teilgenommen.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-10/24/mehrere-hundert-menschen-bei-free-the-ulm-5-demo",
+        "date": "2026-10-24T19:09:09.000Z"
+      },
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/demo-free-the-ulm-5-in-stuttgart-100.html",
+        "date": "2026-10-24T19:06:21.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/news/2026-10/24/mehrere-hundert-menschen-bei-free-the-ulm-5-demo",
+    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-fb11dbcf6526a276",
     "c": "INT",
     "o": "UK",
     "k": "politik",
     "lang": "de",
-    "d": "2026-10-24T16:48:16.000Z",
+    "d": "2026-10-24T18:52:46.000Z",
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Tausende demonstrieren in europäischen Städten und Paris",
-    "s": "In Paris und weiteren französischen Städten sowie in anderen europäischen Ländern haben Tausende Menschen an Demonstrationen teilgenommen. Dabei kam es in Frankreich zu Festnahmen. Auch in Ländern wie Italien, Spanien und Albanien fanden Proteste statt.",
-    "m": "Die europaweiten Proteste haben Tausende Menschen auf die Straßen geführt, darunter in Paris und anderen französischen Städten. Die französische Polizei nahm im Zuge der Demonstrationen 135 Personen fest. In Italien durchsuchten Einsatzkräfte Wohnungen in Mailand, während auch in Spanien und Albanien Kundgebungen stattfanden. Eine 40-jährige Wohltätigkeitsarbeiterin aus dem Norden von Paris äußerte große Wut und erklärte, sie sei anwesend, um die Forderungen von Schulkindern nach besseren Bedingungen zu unterstützen und Solidarität zu zeigen. Die genauen Hintergründe und die Auslöser für die koordinierten oder gleichzeitigen Proteste in den verschiedenen Ländern gehen aus den Berichten nicht detailliert hervor. Auch über mögliche Sachschäden oder den weiteren Verlauf gibt es bislang keine offiziellen Angaben.",
-    "r": "Die europaweiten Proteste und die Beteiligung Tausender Menschen in mehreren Ländern sind von gesellschaftlicher und politischer Relevanz. Konkrete Maßnahmen der Behörden wie Festnahmen und Razzien verdeutlichen die Dimension der Versammlungen.",
+    "t": "Hunderttausende demonstrieren in Frankreich und weiteren europäischen Ländern",
+    "s": "In mehreren europäischen Ländern ist es zu Massenprotesten und Demonstrationen gekommen. Allein in Frankreich gingen Hunderttausende Menschen auf die Straße. Die Proteste erfassten zudem Staaten wie Italien, Spanien und Albanien.",
+    "m": "Die Demonstrationen führten zu massiven Einschreitungen der Sicherheitskräfte. So verzeichnete die französische Polizei im Zuge der Proteste rund 1.000 Festnahmen. In Italien durchsuchten Einsatzkräfte Wohnungen in Mailand. Die Protestbewegungen in Frankreich greifen unter anderem Forderungen von Schülerinnen und Schülern nach besseren Bedingungen auf. Teilnehmende äußerten große Wut und betonten die Notwendigkeit von Solidarität. Neben Frankreich beteiligten sich Menschen auch in Spanien und Albanien an den Kundgebungen. Die Hintergründe und Gesamtauswirkungen der europaweiten Proteste sind Gegenstand weiterer Entwicklungen.",
+    "r": "Die europaweiten Massenproteste verdeutlichen eine breite Unzufriedenheit und führen zu spürbaren Reaktionen der Sicherheitskräfte in mehreren Ländern. Die Ereignisse sind von internationalem Interesse, da sie Demonstrationen in verschiedenen europäischen Staaten umfassen.",
     "srcs": [
       {
         "name": "Guardian World",
         "url": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
-        "date": "2026-10-24T16:48:16.000Z"
+        "date": "2026-10-24T18:52:46.000Z"
       },
       {
         "name": "Google News World",
@@ -26,15 +132,93 @@
       }
     ],
     "url": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
-    "agree": "Die Quellen stimmen darin überein, dass Tausende Menschen in Paris und weiteren französischen Städten sowie europaweit an Märschen und Protesten teilgenommen haben.",
+    "agree": "Beide Quellen stimmen überein, dass Hunderttausende Menschen in Frankreich marschiert sind und europaweite Proteste stattgefunden haben.",
     "diff": [
       {
         "name": "Guardian World",
-        "note": "Berichtet detailliert über 135 Festnahmen in Frankreich, Razzien in Mailand, Proteste in Spanien und Albanien sowie die Aussagen einer Teilnehmerin aus Paris."
+        "note": "Berichtet detailliert über 1.000 Festnahmen durch die französische Polizei, Hausdurchsuchungen in Mailand, Proteste in Spanien und Albanien sowie ein Zitat einer Teilnehmerin."
       },
       {
         "name": "Google News World",
-        "note": "Enthält lediglich den Verweis auf den Liveticker von The Guardian und liefert keine eigenständigen Details."
+        "note": "Enthält lediglich den Verweis auf den Liveticker von The Guardian ohne nennenswerte eigenständige Details."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-c03e33545e094aed",
+    "c": "INT",
+    "o": "INT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-24T18:13:00.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Zehntausende Lula-Anhänger demonstrieren vor Stichwahl in Brasilien",
+    "s": "Am Vorabend der brasilianischen Präsidenten-Stichwahl sind Zehntausende Anhänger des linken Amtsinhabers Luiz Inácio Lula da Silva zu einer Großkundgebung an einem Strand in Rio de Janeiro zusammengekommen. Knapp 159 Millionen Wahlberechtigte sind am Sonntag aufgerufen, in der Stichwahl ihre Stimme abzugeben. In den Umfragen liegen die Kontrahenten Kopf an Kopf.",
+    "m": "Die Kundgebung soll dem linken Präsidenten Luiz Inácio Lula da Silva im harten Wahlkampfendspurt einen entscheidenden Schub verleihen. Bei der bevorstehenden Stichwahl am Sonntag prallen der amtierende linke Präsident und sein rechtsextremer Herausforderer Flávio Bolsonaro aufeinander. Insgesamt sind fast 159 Millionen Brasilianer registriert, um an den Wahlen teilzunehmen. Die beiden Kandidaten gehen nach jüngsten Umfragedaten in den entscheidenden Wahlgang, nachdem Bolsonaro im ersten Wahlgang überraschend als Sieger hervorgegangen war. Die Anhänger versammelten sich auf einer der bekanntesten Strandpromenaden Rios, um ihre Unterstützung für Lula zu demonstrieren. Der Ausgang der Abstimmung gilt als richtungweisend für die politische Zukunft des südamerikanischen Landes.",
+    "r": "Die Stichwahl um das brasilianische Präsidentenamt entscheidet über den künftigen Kurs des größten südamerikanischen Landes. Mit knapp 159 Millionen betroffenen Wählern und einem extrem engen Rennen in den Umfragen hat der Urnengang globale Relevanz.",
+    "srcs": [
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZDZ3SG9ya2xzWXJoZldhcENKNF9rbHRoVUVOU2hLOTZrWk9UekJGdy1RZVhPME1Eckp3WkJiSnJzcXJtX2VZVjZJVDlUREtITGFPWi1Vbmo5dU1yV0hMblVacHFYaENqWHF4LXRVVHhFNVR3OFJjVzFCZF9FRF9NSkZ1eUJNdjR0UHBUZ3R4UEJLcG9JSnQ4aTVVRkR3NlJxTFQ1aFdKLUV1NllJcG1NTEJiUQ?oc=5",
+        "date": "2026-10-24T18:13:00.000Z"
+      },
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
+        "date": "2026-10-24T18:11:44.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZDZ3SG9ya2xzWXJoZldhcENKNF9rbHRoVUVOU2hLOTZrWk9UekJGdy1RZVhPME1Eckp3WkJiSnJzcXJtX2VZVjZJVDlUREtITGFPWi1Vbmo5dU1yV0hMblVacHFYaENqWHF4LXRVVHhFNVR3OFJjVzFCZF9FRF9NSkZ1eUJNdjR0UHBUZ3R4UEJLcG9JSnQ4aTVVRkR3NlJxTFQ1aFdKLUV1NllJcG1NTEJiUQ?oc=5",
+    "agree": "Die Quellen stimmen überein, dass Zehntausende Anhänger von Lula da Silva kurz vor der Stichwahl in Brasilien demonstriert haben.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Verweist lediglich auf die Berichterstattung des Guardians über die Kundgebung."
+      },
+      {
+        "name": "Guardian World",
+        "note": "Nennt konkrete Details wie die Zahl von fast 159 Millionen Wahlberechtigten, den Austragungsort an Rios berühmtem Strand sowie den Herausforderer Flávio Bolsonaro und dessen Erfolg im ersten Wahlgang."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-2ba2a900b595d0b9",
+    "c": "DE",
+    "o": "DE",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-24T17:37:50.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Turnerinn Helen Kevric gewinnt Silber am Stufenbarren bei WM-Premiere",
+    "s": "Turn-Europameisterin Helen Kevric hat bei ihrer ersten Weltmeisterschaft in Rotterdam die Silbermedaille am Stufenbarren gewonnen. Für die deutsche Athletin ist dies ein großer Erfolg auf internationaler Bühne. Sie musste sich in einem starken Teilnehmerfeld nur knapp geschlagen geben.",
+    "m": "Die deutsche Turn-Europameisterin Helen Kevric hat bei den Weltmeisterschaften in Rotterdam bei ihrer Premiere die Silbermedaille am Stufenbarren errungen. Die Übung der Athletin überzeugte das Kampfgericht und brachte ihr den zweiten Platz ein. Gleichzeitig ist diese Medaille der einzige Podestplatz für den Deutschen Turner-Bund bei dieser Weltmeisterschaft. Die Veranstaltung in Rotterdam bot ein hochkarätiges internationales Starterfeld. Für den weiteren Verlauf ihrer Karriere setzt dieses Resultat ein wichtiges Ausrufezeichen.",
+    "r": "Die Meldung ist relevant, da Helen Kevric als einzige deutsche Athletin eine Medaille für den Deutschen Turner-Bund bei dieser Weltmeisterschaft erringen konnte und dies ihre erste WM-Teilnahme war.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.swr.de/sport/mehr-sport/turnen-wm-kevric-stufenbarren-silber-rotterdam-100.html",
+        "date": "2026-10-24T17:37:50.000Z"
+      },
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/sport/helen-kevric-turnen-wm-silber-100.html",
+        "date": "2026-10-24T15:18:17.000Z"
+      }
+    ],
+    "url": "https://www.swr.de/sport/mehr-sport/turnen-wm-kevric-stufenbarren-silber-rotterdam-100.html",
+    "agree": "Beide Quellen stimmen überein, dass Helen Kevric bei der Weltmeisterschaft in Rotterdam die Silbermedaille am Stufenbarren gewonnen hat und Turn-Europameisterin ist.",
+    "diff": [
+      {
+        "name": "ZDF heute",
+        "note": "Erwähnt zusätzlich, dass es sich um Kevrics WM-Premiere handelt und dass dies die einzige Medaille für den Deutschen Turner-Bund bei dieser WM ist."
       }
     ],
     "chg": "",
@@ -82,47 +266,6 @@
     "independent": 2
   },
   {
-    "id": "story-201e70b5be29090c",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-24T16:32:06.000Z",
-    "p": 3,
-    "st": "BY",
-    "city": "",
-    "t": "Tschechisches Parlament stimmt für Reform des öffentlich-rechtlichen Rundfunks",
-    "s": "Das tschechische Abgeordnetenhaus hat in einer ersten Lesung für die Abschaffung der bisherigen Rundfunkgebühren gestimmt. Damit soll ein neues Finanzierungssystem für den öffentlich-rechtlichen Rundfunk eingeführt werden. Die Pläne der Regierung werden international und national aufmerksam verfolgt.",
-    "m": "Das tschechische Abgeordnetenhaus hat einen wichtigen Schritt zur Reform des öffentlich-rechtlichen Rundfunks vollzogen, indem es in erster Lesung für die Abschaffung der traditionellen Rundfunkgebühren stimmte. Geplant ist stattdessen die Einführung eines neuen Finanzierungssystems, dessen genaue Ausgestaltung weiter diskutiert wird. Die Initiative geht von der rechtspopulistischen Regierung des Landes aus. Kritiker befürchten, dass der öffentlich-rechtliche Rundfunk dadurch stärker politisch kontrolliert und an die kurze Leine genommen werden könnte. Bis zu einer endgültigen Umsetzung sind noch weitere parlamentarische Lesungen und Abstimmungen erforderlich.",
-    "r": "Die Reform betrifft die Medienlandschaft und die Unabhängigkeit des öffentlich-rechtlichen Rundfunks in Tschechien. Änderungen in der Finanzierung und politischen Kontrolle haben Signalwirkung für demokratische Institutionen.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/tschechiens-parlament-stimmt-in-erster-lesung-fuer-abschaffung-von-rundfunkgebuehren-102.html",
-        "date": "2026-10-24T16:32:06.000Z"
-      },
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/tschechisches-parlament-will-rundfunkgebuehren-abschaffen,VYypGnD",
-        "date": "2026-10-24T15:50:35.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/tschechiens-parlament-stimmt-in-erster-lesung-fuer-abschaffung-von-rundfunkgebuehren-102.html",
-    "agree": "Die Quellen stimmen überein, dass das tschechische Parlament in erster Lesung für die Abschaffung der Rundfunkgebühren gestimmt hat.",
-    "diff": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "note": "Berichtet sachlich über die erste Lesung zur Abschaffung der Rundfunkgebühren und das neue Finanzierungssystem."
-      },
-      {
-        "name": "BR24 Bayern",
-        "note": "Ergänzt, dass es sich um eine rechtspopulistische Regierung handelt, die den öffentlich-rechtlichen Rundfunk an die kurze Leine nehmen wolle."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
     "id": "story-6beefe5ef5d987e7",
     "c": "DE",
     "o": "UK",
@@ -132,10 +275,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Brand auf Hitlers ehemaligem Bergbahnhof Kehlsteinhaus in Bayern",
-    "s": "In Bayern ist ein Feuer am historischen Kehlsteinhaus ausgebrochen, das früher als Adolf Hitlers Bergrettung diente. Rund 200 Einsatzkräfte der Feuerwehr wurden zur Bekämpfung der Flammen eingesetzt. Die Polizei hat einen 33-jährigen deutschen Tatverdächtigen festgenommen.",
-    "m": "Der Brand ereignete sich am bekannten Kehlsteinhaus im Süden Deutschlands, das historisch als Hitlers früheres Bergrettungs- und Aussichtsgebäude bekannt ist. Zur Bewältigung des Feuers waren etwa 200 Feuerwehrleute im Einsatz, um den Flammen Herr zu werden. Kurz nach oder während des Vorfalls leiteten die Behörden Ermittlungen ein und konnten einen 33-jährigen Mann aus Deutschland als Verdächtigen festnehmen. Nähere Details zur Brandursache, zum genauen Ausmaß der Schäden am Gebäude sowie zu möglichen weiteren Verletzten wurden zunächst nicht bekannt gegeben. Die Polizei hat die Ermittlungen aufgenommen, um die Hintergründe des Feuers und das Motiv des Verdächtigen zu klären.",
-    "r": "Der Brand an einer historisch bedeutsamen Stätte in Deutschland zieht durch den Großeinsatz der Rettungskräfte und die Festnahme eines Verdächtigen behördliche Ermittlungen nach sich. Die Ereignisse beleuchten Sicherheitsfragen an exponierten Touristen- und Gedenkorten.",
+    "t": "Brand auf Hitlers ehemaligem Bergbahnhof Kehlsteinhaus in Bayern ausgebrochen",
+    "s": "In Bayern ist ein Feuer auf dem Kehlsteinhaus, Adolf Hitlers ehemaligem Bergretreat, ausgebrochen. Die Polizei in Süddeutschland hat einen 33-jährigen deutschen Tatverdächtigen vorläufig festgenommen. Rettungskräfte und Einsatzkräfte sind vor Ort, um die Lage unter Kontrolle zu bringen.",
+    "m": "Ein Brand hat das Kehlsteinhaus, das historische Bergretreat von Adolf Hitler in den bayerischen Bergen, schwer beschädigt. Gegen den Vorfall reagierten die lokalen Behörden umgehend mit einem Großaufgebot von rund 200 Einsatzkräften der Feuerwehr, die vor Ort gegen die Flammen kämpften. Die Polizei im süddeutschen Bundesland Bayern leitete sofort Ermittlungen ein und konnte kurz nach Ausbruch des Feuers einen 33-jährigen deutschen Staatsbürger als Tatverdächtigen festnehmen. Zu den Hintergründen der Brandstiftung oder dem genauen Ausmaß des Sachschadens an dem historischen Bauwerk liegen noch keine detaillierten offiziellen Angaben vor. Die Ermittlungen der Kriminalpolizei zur Brandursache dauern weiter an.",
+    "r": "Der Brand an einem historischen und touristisch bedeutsamen Ort wie Hitlers ehemaligem Retreat in Bayern zieht aufgrund der Dimension und des Großeinsatzes mediale Aufmerksamkeit nach sich. Die Festnahme eines Verdächtigen wirft Fragen zur Sicherheit solcher Denkmäler auf.",
     "srcs": [
       {
         "name": "BBC World",
@@ -149,15 +292,11 @@
       }
     ],
     "url": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&at_campaign=rss",
-    "agree": "Die Quellen stimmen überein, dass ein Feuer am historischen Kehlsteinhaus (Hitlers ehemaligem Rückzugsort in Süddeutschland) ausgebrochen ist und die Polizei einen 33-jährigen deutschen Tatverdächtigen festgenommen hat.",
+    "agree": "Die Quellen stimmen überein, dass auf Hitlers ehemaligem Bergretreat in Süddeutschland ein Feuer ausgebrochen ist und die Polizei einen 33-jährigen deutschen Tatverdächtigen festgenommen hat.",
     "diff": [
       {
-        "name": "BBC World",
-        "note": "Berichtet spezifisch, dass es sich um einen 33-jährigen deutschen Mann handelt und das Gebäude als 'mountaintop Eagle's Nest retreat' bezeichnet wird, nennt aber keine Zahl der Einsatzkräfte."
-      },
-      {
         "name": "Euronews",
-        "note": "Erwähnt konkret den Einsatz von rund 200 Feuerwehrleuten zur Bekämpfung des Brandes."
+        "note": "Euronews nennt zusätzlich, dass rund 200 Feuerwehrleute im Einsatz waren, um den Brand zu bekämpfen."
       }
     ],
     "chg": "",
@@ -215,9 +354,9 @@
     "st": "BW",
     "city": "",
     "t": "Mannheim: E-Scooter-Fahrer schießt auf Fußgänger",
-    "s": "In Mannheim hat ein E-Scooter-Fahrer in der Nacht zum Samstag zwei Fußgänger mit einer Schreckschusswaffe bedroht und auf sie geschossen. Ein 30-jähriger Mann wurde dabei leicht verletzt. Die Polizei sucht nach dem flüchtigen Täter und bittet um Zeugenhinweise. Der Vorfall ereignete sich im Bereich der Quadrate in der Innenstadt.",
-    "m": "Der Vorfall trug sich in der Nacht zum Samstag in den Mannheimer Quadraten zu. Ein bislang unbekannter Täter war auf einem E-Scooter unterwegs und geriet aus unbekannter Ursache in einen Streit mit zwei Fußgängern. Im Verlauf der Auseinandersetzung zog der E-Scooter-Fahrer eine Schreckschusswaffe und feuerte zwei Mal auf die Personen. Einer der beiden Fußgänger, ein 30-jähriger Mann, erlitt leichte Verletzungen durch den Schuss beziehungsweise den Nahbereichseffekt der Waffe. Die alarmierten Einsatzkräfte leiteten sofort Fahndungsmaßnahmen ein, die jedoch bislang ohne Erfolg blieben. Das Polizeipräsidium Mannheim hat die Ermittlungen aufgenommen und sucht nun gezielt nach Zeugen, die Hinweise zu dem flüchtigen Täter auf dem E-Scooter geben können. Bislang ist unklar, was dem Streit unmittelbar vorausgegangen ist und ob sich Täter und Opfer kannten.",
-    "r": "Der gewaltsame Vorfall mit einer Schreckschusswaffe im öffentlichen Raum und die anschließende Flucht des Täters verdeutlichen potenzielle Sicherheitsrisiken durch bewaffnete Konflikte im Straßenverkehr. Die Suche der Polizei nach Zeugen unterstreicht die Relevanz der Aufklärung von Gewaltkriminalität in innerstädtischen Bereichen.",
+    "s": "In Mannheim hat ein E-Scooter-Fahrer in der Nacht zum Samstag zwei Fußgänger mit einer Schreckschusswaffe bedroht. Dabei gab er zwei Schüsse ab. Ein Fußgänger wurde durch den Vorfall leicht verletzt. Die Hintergründe der Tat und die Identität des Täters sind Gegenstand der Ermittlungen.",
+    "m": "Der Vorfall ereignete sich in der Nacht zum Samstag in Mannheim. Ein bislang unbekannter E-Scooter-Fahrer geriet mit zwei Fußgängern in Konflikt und zog eine Schreckschusswaffe. Er bedrohte die beiden Personen und schoss zweimal in ihre Richtung. Einer der beiden Fußgänger erlitt dabei leichte Verletzungen. Die Polizei hat die Ermittlungen aufgenommen, um den genauen Tathergang und die Motivlage zu klären. Weitere Details zu dem Täter oder möglichen Festnahmen wurden zunächst nicht bekannt gegeben.",
+    "r": "Der Vorfall verdeutlicht Gefahren im nächtlichen Straßenverkehr durch den Einsatz von Waffen bei Konflikten zwischen Verkehrsteilnehmern. Körperverletzungen im öffentlichen Raum erfordern ein Einschreiten der Sicherheitsbehörden zur Aufklärung.",
     "srcs": [
       {
         "name": "SWR Aktuell Baden-Württemberg",
@@ -231,49 +370,8 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/mannheim-e-scooter-fahrer-schiesst-mit-schreckschusswaffe-auf-zwei-maenner-100.html",
-    "agree": "Beide Quellen sind sich einig, dass ein E-Scooter-Fahrer in der Nacht auf Samstag in Mannheim zwei Fußgänger mit einer Schreckschusswaffe bedroht und beschossen hat sowie dass ein Mann leicht verletzt wurde.",
+    "agree": "Beide Quellen stimmen darin überein, dass ein E-Scooter-Fahrer in der Nacht zum Samstag in Mannheim zwei Fußgänger mit einer Schreckschusswaffe bedroht, zwei Mal auf sie geschossen hat und dabei ein Mann leicht verletzt wurde.",
     "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-2ba2a900b595d0b9",
-    "c": "INT",
-    "o": "DE",
-    "k": "sport",
-    "lang": "de",
-    "d": "2026-10-24T15:49:16.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Helen Kevric gewinnt Silber am Stufenbarren bei Turn-WM",
-    "s": "Die Turn-Europameisterin Helen Kevric hat bei der Turn-WM in Rotterdam eine Medaille gewonnen. Bei ihrer Premiere auf Weltbühnebene sicherte sie sich den zweiten Platz am Stufenbarren. Es handelt sich dabei um die einzige Medaille für den Deutschen Turner-Bund bei dieser Weltmeisterschaft.",
-    "m": "Die deutsche Turnerin Helen Kevric hat bei den Weltmeisterschaften im niederländischen Rotterdam die Silbermedaille am Stufenbarren errungen. Für die amtierende Europameisterin war es die erste Teilnahme an einer Weltmeisterschaft. Im Wettkampf zeigte sie eine starke Leistung an ihrem Spezialgerät und musste sich lediglich der Konkurrenz geschlagen geben, wodurch sie den Vizeweltmeistertitel holte. Gleichzeitig war dieser Erfolg der einzige Medaillengewinn für die Delegation des Deutschen Turner-Bundes bei dieser internationalen Titelkämpfen. Weitere Details zum genauen Ablauf des Finales oder den übrigen Platzierungen der deutschen Teilnehmer wurden in den Berichten nicht genannt.",
-    "r": "Die Meldung ist sportlich relevant, da Helen Kevric als Europameisterin nun auch auf Weltebene erfolgreich war und die deutsche Turn-Nationalmannschaft die einzige Medaille der WM rettete.",
-    "srcs": [
-      {
-        "name": "SWR Aktuell",
-        "url": "https://www.swr.de/sport/mehr-sport/turnen-wm-kevric-stufenbarren-silber-rotterdam-100.html",
-        "date": "2026-10-24T15:49:16.000Z"
-      },
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/sport/helen-kevric-turnen-wm-silber-100.html",
-        "date": "2026-10-24T15:18:17.000Z"
-      }
-    ],
-    "url": "https://www.swr.de/sport/mehr-sport/turnen-wm-kevric-stufenbarren-silber-rotterdam-100.html",
-    "agree": "Beide Quellen stimmen darin überein, dass Helen Kevric bei der Turn-WM Silber am Stufenbarren gewonnen hat und Europameisterin ist.",
-    "diff": [
-      {
-        "name": "SWR Aktuell",
-        "note": "nennt den Austragungsort Rotterdam."
-      },
-      {
-        "name": "ZDF heute",
-        "note": "erwähnt, dass es Kevrics WM-Premiere war und die einzige Medaille für den Deutschen Turner-Bund blieb."
-      }
-    ],
     "chg": "",
     "independent": 2
   },
@@ -287,10 +385,10 @@
     "p": 4,
     "st": "",
     "city": "",
-    "t": "Präsidentschaftswahl in Brasilien: Umfragen zeigen Kopf-an-Kopf-Rennen",
-    "s": "Vor der Stichwahl um das brasilianische Präsidentenamt haben sich die Umfragewerte laut neuen Erhebungen stark angenähert. Das Rennen zwischen dem amtierenden Präsidenten Lula und seinem Herausforderer ist demnach kurz vor dem Urnengang völlig offen. Beobachter sprechen von einer extrem spannenden Schlussphase des Wahlkampfs.",
-    "m": "Aktuelle Umfragen des Instituts CNT/MDA belegen ein extrem enges Rennen vor der anstehenden Stichwahl in Brasilien. Demnach liegen der amtierende Präsident Lula da Silva und sein Kontrahent, der rechte Senator Flavio Bolsonaro, nahezu gleichauf. In den vergangenen Tagen hat sich der Abstand zwischen den beiden Kandidaten drastisch verringert. Die Wahlkommission und Meinungsforscher blicken mit Spannung auf die letzten Tage vor der Entscheidung. Wichtige Themen im Wahlkampf sind wirtschaftliche und gesellschaftliche Fragen. Das genaue Wahlergebnis bleibt angesichts dieser Ausgangslage völlig unvorhersehbar.",
-    "r": "Die Präsidentenwahl in Brasilien ist von globaler politischer und wirtschaftlicher Bedeutung, weshalb der Ausgang des engen Rennens international genau beobachtet wird.",
+    "t": "Präsident Lula und Bolsonaro vor Stichwahl in Brasilien Kopf an Kopf",
+    "s": "Vor der anstehenden Stichwahl in Brasilien liegen der amtierende Präsident Lula da Silva und sein rechtsextremer Kontrahent in den Umfragen dicht beieinander. Das Rennen zwischen den beiden Politikern hat sich in den letzten Tagen stark zugespitzt. Aktuelle Umfragen verdeutlichen die anhaltende politische Polarisierung im südamerikanischen Land vor dem entscheidenden Urnengang.",
+    "m": "Aktuellen Umfragen zufolge liefern sich der brasilianische Präsident Lula da Silva und ein Vertreter der Bolsonaro-Seite ein extrem knappes Rennen vor der bevorstehenden Stichwahl. Die Dynamik des Wahlkampfs hat sich in den letzten Tagen massiv verändert, wodurch der Vorsprung oder Abstand zwischen den beiden Kandidaten geschrumpft ist. Beteiligte Akteure sind neben den Hauptkandidaten auch politische Unterstützer, während die genauen Prozentzahlen je nach Institut leicht variieren können. Beobachter werten die aktuelle Phase als eine der spannendsten und polarisierendsten in der jüngeren politischen Geschichte Brasiliens. Die Hintergründe für das enge Rennen liegen in tiefen gesellschaftlichen Spaltungen und kontroversen politischen Programmen beider Seiten. Offene Punkte betreffen vor allem die Frage, welche unentschlossenen Wähler in den letzten Tagen mobilisiert werden können. Die Konsequenzen dieses Ausgangs werden weitreichende Auswirkungen auf die politische Zukunft und den Kurs des Landes haben.",
+    "r": "Die Präsidentschaftswahl in Brasilien ist von globaler Relevanz, da sie die politische Ausrichtung der größten Volkswirtschaft Südamerikas bestimmt. Ein Regierungswechsel oder eine Bestätigung hätte erhebliche Auswirkungen auf Umweltpolitik, Wirtschaft und internationale Beziehungen.",
     "srcs": [
       {
         "name": "Al Jazeera",
@@ -304,15 +402,56 @@
       }
     ],
     "url": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-about-even-ahead-of-election-run-off-poll?traffic_source=rss",
-    "agree": "Die Quellen stimmen überein, dass das Rennen vor der Stichwahl zwischen Lula und dem rechten Senator (Flavio Bolsonaro) in den Umfragen fast gleichauf liegt.",
+    "agree": "Die Quellen stimmen überein, dass Lula da Silva und die Bolsonaro-Seite in den Umfragen vor der Stichwahl in Brasilien fast gleichauf liegen und sich das Rennen zugespitzt hat.",
     "diff": [
       {
         "name": "Al Jazeera",
-        "note": "Berichtet über Lula und Bolsonaro als Hauptkontrahenten und erwähnt allgemein einen rechten Senator."
+        "note": "Berichtet über das enge Rennen zwischen Lula und Bolsonaro direkt und erwähnt, dass der rechte Senator beteiligt ist."
       },
       {
         "name": "Google News World",
-        "note": "Nennt explizit Flavio Bolsonaro im Zusammenhang mit der CNT/MDA-Umfrage und verweist auf U.S. News & World Report."
+        "note": "Verweist auf eine CNT/MDA-Umfrage und nennt Flavio Bolsonaro im Zusammenhang mit den neuesten Umfragewerten."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-299ae269b7ad9bd0",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-24T15:35:04.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "„Eine große Unbekannte“: Die Linke in Brasilien steht vor dem Abgrund -",
+    "s": "Brasiliens linkes politisches Lager und die Partei von Präsident Lula da Silva stehen vor großen Herausforderungen. Unabhängig vom Ausgang des knappen Präsidentschaftsrennens kämpft die Partei mit strukturellen Problemen und Existenzfragen. Ähnlich wie in Europa ringt die Bewegung um eine zukunftsfähige Vision.",
+    "m": "Die politische Zukunft der Linken in Brasilien ist stark gefährdet und Beobachter sprechen davon, dass sie vor dem Abgrund steht. Im Zentrum dieser Entwicklung steht die Partei von Amtsinhaber Lula da Silva, die unabhängig von einem Wahlsieg in dem knappen Präsidentschaftsrennen vor dem Zerfall steht. Die Krise beschränkt sich dabei nicht nur auf Südamerika, sondern Parallelen zeigen sich auch in Europa, wo das gesamte politische Lager darum kämpft, eine klare und tragfähige Vision für die Zukunft zu entwickeln. Konkrete Details zum zeitlichen Ablauf der Wahlen oder weitere beteiligte Akteure werden in den Berichten nicht genannt, jedoch steht die grundsätzliche programmatische und organisatorische Krise der Bewegung im Fokus.",
+    "r": "Die Berichterstattung beleuchtet den Zustand und die strukturelle Krise eines bedeutenden politischen Lagers in Brasilien sowie dessen Parallelen zu Europa. Dies ist relevant für die Einordnung der politischen Stabilität und Zukunftsaussichten unter Präsident Lula da Silva.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYy1FZHljNWpmeklTVzhnU3d4ZUVraWlrM3lDRE5VLUtNZE5fZDRZMEZEektBZWJDMDhrX1dDTFV2blN0ZW5YaFg5V0d3WGtHcWF1Rk91X1AwNjJCT1F3TWtQZEoxbmNZLWw4OGpCNnlOYWNBWEJwOHBTcHRJVWJ5ZUM2Mnc1ME5XSDl6ZERmbDFSX1FWQ1hiMWNxTXZ2cWI0YWdMYjlWX1NCUkZMV0tYekZ5bGJIWVZRQ1pUUndFam80RkFQVlhKWHRuWURGV2xPbk5NcDRlVQ?oc=5",
+        "date": "2026-10-24T15:35:04.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/ausland/article6adcc1e4ba080c37bf6d00e7/eine-grosse-unbekannte-die-linke-in-brasilien-steht-vor-dem-abgrund.html",
+        "date": "2026-10-24T15:31:16.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYy1FZHljNWpmeklTVzhnU3d4ZUVraWlrM3lDRE5VLUtNZE5fZDRZMEZEektBZWJDMDhrX1dDTFV2blN0ZW5YaFg5V0d3WGtHcWF1Rk91X1AwNjJCT1F3TWtQZEoxbmNZLWw4OGpCNnlOYWNBWEJwOHBTcHRJVWJ5ZUM2Mnc1ME5XSDl6ZERmbDFSX1FWQ1hiMWNxTXZ2cWI0YWdMYjlWX1NCUkZMV0tYekZ5bGJIWVZRQ1pUUndFam80RkFQVlhKWHRuWURGV2xPbk5NcDRlVQ?oc=5",
+    "agree": "Beide Quellen stimmen darin überein, dass die Linke in Brasilien vor einer existenziellen Krise steht und ihre Zukunft ungewiss ist.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Verweist lediglich über den Nachrichtentitel auf WELT als Quelle."
+      },
+      {
+        "name": "WELT",
+        "note": "Liefert den Volltext und nennt konkret Präsident Lula da Silva sowie den Bezug zur Situation in Europa."
       }
     ],
     "chg": "",
@@ -365,10 +504,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Festnahme nach Brand auf Hitlers ehemaligem Bergbahnhof in Bayern",
-    "s": "Ein verheerendes Feuer hat das historische Kehlsteinhaus in den bayerischen Alpen weitgehend zerstört. Rund 200 Einsatzkräfte waren im Einsatz, um den Brand am späten Freitagabend zu bekämpfen. Die deutsche Polizei hat einen 33-jährigen deutschen Staatsbürger als Tatverdächtigen festgenommen.",
-    "m": "Das als Eagle's Nest bekannte Kehlsteinhaus auf dem Obersalzberg in Süddeutschland wurde durch einen Brand schwer beschädigt und ist weitgehend zerstört. Rund 200 Feuerwehrleute wurden am Freitagabend mobilisiert, um das Feuer an dem abgelegenen, denkmalgeschützten Gebäude zu bekämpfen, das in der NS-Zeit als Treffpunkt diente. Im Zuge der Ermittlungen nahm die deutsche Polizei einen 33-jährigen deutschen Staatsbürger fest. Nähere Hintergründe zur Brandursache oder zum genauen Schadensausmaß wurden zunächst nicht bekannt gegeben. Das Gebäude befindet sich in einer alpinen Region und ist ein historisch bedeutsamer Ort.",
-    "r": "Der Brand an einem historischen und prominenten Bauwerk in Süddeutschland ist von erheblichem öffentlichem Interesse. Die Festnahme eines Tatverdächtigen verleiht dem Vorfall eine strafrechtliche Relevanz.",
+    "t": "Festnahme nach Brand auf Hitlers ehemaligem Bergbahnhof Kehlsteinhaus in Bayern",
+    "s": "Ein Feuer hat Hitlers ehemaliges Bergrefugium Kehlsteinhaus in Bayern stark beschädigt. Rund 200 Einsatzkräfte der Feuerwehr waren im nächtlichen Einsatz, um die Flammen zu bekämpfen. Die deutsche Polizei hat einen 33-jährigen deutschen Staatsbürger als Tatverdächtigen festgenommen. Das historische Gebäude auf dem Obersalzberg ist weitgehend zerstört.",
+    "m": "Am Freitagabend brach in dem als Adlerhorst bekannten Kehlsteinhaus in Süddeutschland ein verheerendes Feuer aus. Rund 200 Feuerwehrleute wurden mobilisiert, um den Brand auf dem Gipfel des Obersalzbergs zu bekämpfen. Bei dem Brandobjekt handelt es sich um ein geschütztes historisches Gebäude, das in der NS-Zeit als Treffpunkt diente. Die deutsche Polizei konnte rasch einen 33-jährigen deutschen Staatsbürger im Zusammenhang mit dem Feuer festnehmen. Das Gebäude wurde durch die Flammen weitgehend zerstört. Die Ermittlungen zu den genaueren Hintergründen der Brandursache und dem Motiv des Verdächtigen dauern an. Weitere Details zum genauen Schadensausmaß stehen derzeit noch aus.",
+    "r": "Der Brand auf einem bedeutenden historischen und touristischen Areal in Süddeutschland sowie der Großeinsatz von rund 200 Einsatzkräften machen den Vorfall relevant. Zudem ist die Festnahme eines Tatverdächtigen von kriminalpolizeilicher Bedeutung.",
     "srcs": [
       {
         "name": "Guardian World",
@@ -382,15 +521,15 @@
       }
     ],
     "url": "https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria",
-    "agree": "Beide Quellen stimmen darin überein, dass es auf Hitlers ehemaliges 'Eagle's Nest' in Bayern einen Brand gab und ein Verdächtiger festgenommen wurde.",
+    "agree": "Beide Quellen stimmen darin überein, dass es auf Hitlers ehemaligem Rückzugsort Kehlsteinhaus in Bayern zu einem Brand kam und die Polizei einen Verdächtigen festgenommen hat.",
     "diff": [
       {
         "name": "Guardian World",
-        "note": "Berichtet detailliert, dass es sich um einen 33-jährigen deutschen Staatsbürger handelt, rund 200 Feuerwehrleute im Einsatz waren und das Feuer am Freitagabend ausbrach."
+        "note": "Berichtet detailliert über den Einsatz von rund 200 Feuerwehrleuten, den Zeitpunkt am Freitagabend, die Zerstörung des geschützten Gebäudes sowie das Alter (33 Jahre) und die Staatsbürgerschaft des festgenommenen Deutschen."
       },
       {
         "name": "Google News World",
-        "note": "Enthält im Wesentlichen die Schlagzeile, dass ein Verdächtiger nach dem Brand verhaftet wurde, und verweist auf NBC News als ursprüngliche Quelle."
+        "note": "Erwähnt NBC News als ursprüngliche Berichterstattung und fasst den Vorfall sehr kurz zusammen."
       }
     ],
     "chg": "",
@@ -447,10 +586,10 @@
     "p": 4,
     "st": "",
     "city": "",
-    "t": "Attentat auf Trauergemeinde in Jordanien fordert mehrere Todesopfer",
-    "s": "Bei einem Schusswaffenangriff auf eine Trauerfeier in einer Kirche in Jordanien sind mehrere Menschen getötet und Dutzende verletzt worden. Die jordanischen Behörden stuften die Tat als terroristischen Akt von Extremisten ein. Der Anschlag richtete sich gegen die christliche Minderheit des Landes. Staatsfernsehen strahlte Aufnahmen der drei Angreifer aus.",
-    "m": "Am Freitag verübten drei bewaffnete Täter einen Anschlag auf eine griechisch-orthodoxe Kirche während einer Trauerfeier in der Stadt Karak in Jordanien. Das Staatsfernsehen zeigte Aufnahmen der Angreifer, die das Feuer eröffneten. Bei dem seltenen Angriff auf die christliche Minderheit des Landes wurden zahlreiche Menschen verletzt und getötet. Die offiziellen Stellen sprachen unmittelbar von einem terroristischen Hintergrund durch Extremisten. Die genauen Hintergründe sowie der exakte Ablauf der Tat werden von den zuständigen Behörden weiter untersucht.",
-    "r": "Der terroristische Anschlag auf eine christliche Minderheit in Jordanien verdeutlicht die Sicherheitsrisiken und die Bedrohung durch Extremismus im Land. Solche Angriffe auf religiöse Versammlungen sind in der Region selten.",
+    "t": "Attentat auf Beerdigung in Jordanien fordert mehrere Tote",
+    "s": "Bei einem seltenen Anschlag auf eine Kirche in Jordanien haben Bewaffnete während einer Trauerfeier das Feuer eröffnet. Die Attacke auf die christliche Minderheit ereignete sich am Freitag. Behörden stuften den Angriff als Terrorakt von Extremisten ein.",
+    "m": "Am Freitag ereignete sich in Jordanien ein seltener und gewaltsamer Anschlag auf die christliche Minderheit des Landes. Drei bewaffnete Angreifer näherten sich während einer Trauerfeier einer griechisch-orthodoxen Kirche und eröffneten das Feuer. Aufnahmen des staatlichen jordanischen Fernsehens dokumentierten die Tat. Die Behörden stuften den Vorfall offiziell als Terrorakt von Extremisten ein. Bei dem Angriff wurden Dutzende Menschen verletzt; die Zahl der Todesopfer wird je nach Quelle unterschiedlich beziffert.",
+    "r": "Der Terroranschlag auf eine christliche Minderheit in Jordanien ist von hoher sicherheitspolitischer Relevanz für das ansonsten als stabil geltende Land im Nahen Osten.",
     "srcs": [
       {
         "name": "Guardian World",
@@ -464,15 +603,15 @@
       }
     ],
     "url": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan",
-    "agree": "Beide Quellen stimmen überein, dass drei bewaffnete Täter in Jordanien während einer Trauerfeier in einer Kirche das Feuer eröffneten und etwa 40 Menschen verletzt wurden.",
+    "agree": "Die Quellen stimmen überein, dass drei bewaffnete Angreifer am Freitag das Feuer auf einer griechisch-orthodoxen Kirche in Jordanien während einer Beerdigung eröffneten und 40 Menschen verletzt wurden.",
     "diff": [
       {
         "name": "Guardian World",
-        "note": "Berichtet von neun Getöteten und spezifiziert, dass es sich um eine Kirche in Jordanien handelt, ohne die Stadt namentlich zu nennen."
+        "note": "Berichtet von neun Toten und dass der Angriff in der Stadt Karak stattfand, während NPR World von sieben Toten spricht."
       },
       {
         "name": "NPR World",
-        "note": "Berichtet von sieben Getöteten und nennt die Stadt Karak als Tatort."
+        "note": "Nennt die Stadt Karak als Tatort und gibt die Zahl der Toten mit sieben an."
       }
     ],
     "chg": "",
@@ -520,6 +659,47 @@
     "independent": 2
   },
   {
+    "id": "story-58493e94c67e472d",
+    "c": "INT",
+    "o": "DE",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-24T14:07:07.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Emma Aicher rast beim Ski-Weltcup in Sölden auf Platz drei",
+    "s": "Emma Aicher sorgt beim Riesenslalom-Weltcup-Auftakt in Sölden für eine Überraschung. Die deutsche Skifahrerin sichert sich den dritten Platz. Der Sieg beim Saisonstart geht an eine US-Amerikanerin.",
+    "m": "Beim Ski-Weltcup-Auftakt in Sölden hat Emma Aicher im Riesenslalom den dritten Platz belegt. Nach dem ersten Durchgang lag die deutsche Athletin noch auf dem neunten Rang, konnte sich im Finale jedoch stark verbessern und fuhr damit erstmals in ihrer Karriere im Riesenslalom auf das Weltcup-Podest. Den Sieg sicherte sich die US-Amerikanerin Paula Moltzan, für die es der erste Weltcup-Sieg ihrer Karriere ist. Nicht gewonnen hat hingegen die prominente Landsfrau Mikaela Shiffrin. Der erfolgreiche Saisonauftakt wirft in den Berichten bereits die Frage auf, ob Aicher in dieser Saison eine Rolle im Kampf um den Gesamtsieg spielen kann.",
+    "r": "Der erste Riesenslalom-Weltcup der Saison in Sölden zeigt frühe Formstände im alpinen Skisport. Das Podest von Emma Aicher und der erste Weltcup-Sieg von Paula Moltzan prägen den sportlichen Auftakt.",
+    "srcs": [
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/sport/emma-aicher-rast-in-soelden-auf-platz-drei-erstes-riesenslalom-podest-YOSLDJ5JCFC3VO4CARI4YUL4SE.html",
+        "date": "2026-10-24T14:07:07.000Z"
+      },
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/sport/wintersport/ski-alpin-riesenslalom-frauen-soelden-aicher-100.html",
+        "date": "2026-10-24T13:43:00.000Z"
+      }
+    ],
+    "url": "https://www.rnd.de/sport/emma-aicher-rast-in-soelden-auf-platz-drei-erstes-riesenslalom-podest-YOSLDJ5JCFC3VO4CARI4YUL4SE.html",
+    "agree": "Die Quellen sind sich einig, dass Emma Aicher beim Riesenslalom-Weltcup in Sölden den dritten Platz belegt hat.",
+    "diff": [
+      {
+        "name": "RND",
+        "note": "Erwähnt, dass es für Aicher das erste Riesenslalom-Podest ist und stellt die Frage nach dem Gesamtsieg."
+      },
+      {
+        "name": "ZDF heute",
+        "note": "Nennt Paula Moltzan als Siegerin und die Verbesserung von Platz neun zur Halbzeit."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-881181fc1626f845",
     "c": "INT",
     "o": "UK",
@@ -529,10 +709,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Kim Jong-un überquert neue Brücke nach China",
-    "s": "Der nordkoreanische Machthaber Kim Jong-un hat China besucht und dabei die neu eröffnete Brücke zwischen den beiden Staaten überquert. Er reiste am Samstag in die chinesische Grenzstadt Dandong. Dort traf er ein hochrangiges Mitglied der Kommunistischen Partei Chinas, um die Zusammenarbeit auszubauen.",
-    "m": "Die Reise führte Kim Jong-un über die neue Yalu-Fluss-Brücke nach Dandong in China. Die Informationen über das Treffen stammten übereinstimmend aus Angaben des südkoreanischen Vereinigungsministeriums sowie der chinesischen Nachrichtenagentur Xinhua. Der Besuch markiert die Einweihung der neuen Verbindung zwischen den beiden Nachbarländern. Ziel des Treffens mit einem ranghohen Vertreter der Kommunistischen Partei ist es nach offiziellen Angaben, die bilaterale Kooperation zu erweitern. Nähere Details zum genauen Verlauf der Gespräche oder der Dauer des Aufenthalts wurden zunächst nicht bekannt gegeben.",
-    "r": "Das Treffen zwischen der nordkoreanischen Führung und hochrangigen chinesischen Vertretern ist von geopolitischer Bedeutung für die Beziehungen beider Nachbarstaaten. Die Eröffnung der neuen Brücke schafft eine physische Verbindung, die den grenzüberschreitenden Austausch erleichtern soll.",
+    "t": "Kim Jong-un reist über neue Brücke nach China",
+    "s": "Der nordkoreanische Machthaber Kim Jong-un hat China besucht und dabei erstmals die neu eröffnete Brücke zwischen beiden Ländern überquert. Die Ankunft in der chinesischen Grenzstadt Dandong erfolgte am Samstag. Ziel der Reise ist unter anderem der Ausbau der Zusammenarbeit mit dem Nachbarland.",
+    "m": "Der nordkoreanische Machthaber Kim Jong-un reiste am Samstag in die chinesische Grenzstadt Dandong. Dabei nutzte er die neu eröffnete New Yalu River Bridge, um über die Grenze zu gelangen. Vor Ort traf er nach Angaben der Berichte ein hochrangiges Mitglied der Kommunistischen Partei Chinas. Das Ereignis wurde sowohl vom südkoreanischen Vereinigungsministerium als auch von der chinesischen Nachrichtenagentur Xinhua bestätigt. Durch die Nutzung der neuen Verbindung unterstreichen beide Staaten den Willen zur Vertiefung ihrer bilateralen Beziehungen. Über weitere Details der Gespräche oder die genaue Dauer des Aufenthalts wurden zunächst keine offiziellen Angaben gemacht.",
+    "r": "Das Treffen zwischen Kim Jong-un und einem hochrangigen chinesischen Parteimitglied markiert eine sichtbare Annäherung und den Beginn der Nutzung einer neuen Verkehrsverbindung. Dies könnte die wirtschaftliche und politische Kooperation zwischen Nordkorea und China nachhaltig stärken.",
     "srcs": [
       {
         "name": "Guardian World",
@@ -546,11 +726,11 @@
       }
     ],
     "url": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china",
-    "agree": "Die Quellen stimmen überein, dass Kim Jong-un über die neu eröffnete Brücke nach China gereist ist.",
+    "agree": "Die Quellen stimmen überein, dass Kim Jong-un die neu eröffnete Brücke nach China überquert hat.",
     "diff": [
       {
         "name": "Google News World",
-        "note": "Enthält im Gegensatz zum Guardian nur die Überschrift und verweist ansonsten auf diesen."
+        "note": "Verweist lediglich auf den Artikel des Guardian und bietet keinen eigenständigen Inhalt."
       }
     ],
     "chg": "",
@@ -711,6 +891,43 @@
       {
         "name": "DER SPIEGEL",
         "note": "Führt aus, dass der US-Präsident über diese Art von Beliebtheit vermutlich eher nicht erfreut sein wird."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-2c517864b26601dd",
+    "c": "INT",
+    "o": "INT",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-24T12:02:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "US-Behörden melden 178 neue Masernfälle im Rahmen anhaltender Ausbrüche",
+    "s": "US-Gesundheitsbehörden haben im Laufe der Woche 178 weitere Masernfälle gemeldet. Die hochansteckende, durch Impfungen vermeidbare Krankheit breitet sich über mindestens 43 Ausbrüche im ganzen Land aus. Die aktuellen Daten stammen von den Centers for Disease Control and Prevention.",
+    "m": "Die Centers for Disease Control and Prevention haben die neuen Infektionszahlen im Zuge anhaltender Masernausbrüche bekannt gegeben. Insgesamt wurden landesweit 4588 Fälle verzeichnet, was mehr als dem Doppelten des Gesamtwerts aus dem Jahr 2025 entspricht. Die Veröffentlichung der Daten erfolgt zu einer Zeit, in der Experten die Behörde wegen mangelnder Transparenz kritisieren. Gleichzeitig unternimmt Gesundheitsminister Robert F. Kennedy Jr. Schritte, um die Infrastruktur für Impfungen in den USA weiter umzubauen. Die Krankheit fordert trotz verfügbarer Schutzimpfungen weiterhin zahlreiche Erkrankte.",
+    "r": "Die Entwicklung verdeutlicht die aktuelle Dynamik von Infektionskrankheiten und die gesundheitspolitischen Herausforderungen in den USA. Die anhaltenden Ausbrüche und die Debatte um die Impfinfrastruktur sind von nationalem Interesse.",
+    "srcs": [
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BX2FfNHd6TlpjcmFhZXVRR00tcEhVTTgxZEtEVFRLWHItS0VCVVI4NjN3Sk5zd3ZLUlpqRWxsakZkd2RCTElxOGZKLWg5aTB3emw3X1ozV1JrTWdjN29nZkR3cnEyQ25oUkFhaGh3NjJacGxOUThuQWphcnltZkE?oc=5",
+        "date": "2026-10-24T12:02:00.000Z"
+      },
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/oct/24/measles-outbreak-reporting",
+        "date": "2026-10-24T12:00:33.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BX2FfNHd6TlpjcmFhZXVRR00tcEhVTTgxZEtEVFRLWHItS0VCVVI4NjN3Sk5zd3ZLUlpqRWxsakZkd2RCTElxOGZKLWg5aTB3emw3X1ozV1JrTWdjN29nZkR3cnEyQ25oUkFhaGh3NjJacGxOUThuQWphcnltZkE?oc=5",
+    "agree": "Die US-Gesundheitsbehörden haben in dieser Woche weitere 178 Masernfälle im Rahmen von anhaltenden Ausbrüchen gemeldet.",
+    "diff": [
+      {
+        "name": "Guardian World",
+        "note": "Berichtet ergänzend, dass die CDC insgesamt 4588 Fälle im Land verzeichnet hat und diese Zahl mehr als doppelt so hoch ist wie der Wert von 2025. Zudem wird die Kritik von Experten an der Transparenz der Behörde sowie das Handeln von Gesundheitsminister Robert F. Kennedy Jr. erwä"
       }
     ],
     "chg": "",
@@ -1009,10 +1226,10 @@
     "p": 1,
     "st": "BW",
     "city": "",
-    "t": "Anton Meinzer arbeitet als Schätzer für Schmuck und Wertgegenstände in Mannheim",
-    "s": "Anton Meinzer ist als Schätzer im Leihamt in Mannheim tätig. Zu seinen Aufgaben gehört es, alte Schmuckstücke und andere Wertsachen von Kunden auf ihren Wert zu prüfen. Für ihn selbst handelt es sich dabei um einen absoluten Traumjob.",
-    "m": "Im Leihamt in Mannheim arbeitet Anton Meinzer als Gutachter und Schätzer. Kunden suchen ihn auf, um ihre Besitztümer schätzen zu lassen. Dabei geht es um verschiedene Gegenstände wie alte Schmuckstücke, Gold, Silber und Münzen. Seine tägliche Arbeit besteht darin, den materiellen Wert dieser Stücke zu ermitteln. Er bezeichnet diese Tätigkeit persönlich als seinen schönsten Arbeitsplatz und absoluten Traumjob. Weitere Details zu seiner Person, seiner Ausbildung oder den genauen Abläufen im Leihamt gehen aus den Berichten nicht hervor. Auch Statistiken über die Anzahl der Kunden oder den Gesamtwert der geschätzten Gegenstände werden in den Quellen nicht genannt.",
-    "r": "Die Meldungen geben Einblick in den Arbeitsalltag eines Schätzers im Mannheimer Leihamt. Sie beleuchten die Art der dort bearbeiteten Gegenstände und die persönliche Einschätzung des Angestellten zu seiner beruflichen Tätigkeit.",
+    "t": "Anton Meinzer ist Schätzer im Leihamt in Mannheim",
+    "s": "Anton Meinzer arbeitet als Schätzer für alte Schmuckstücke im Leihamt in Mannheim. Zu ihm kommen Kundinnen und Kunden, die den Wert ihrer Gegenstände ermitteln lassen möchten. Für Meinzer handelt es sich dabei um einen Traumjob.",
+    "m": "Im Mannheimer Leihamt ist Anton Meinzer als Schätzer tätig. Seine tägliche Arbeit besteht darin, alte Schmuckstücke und Wertsachen zu bewerten, die von Kundschaft zur Schätzung eingereicht werden. Die Berichte beschreiben seine Tätigkeit im Leihamt als seinen absoluten Traumjob und betonen die Besonderheit dieses Arbeitsplatzes. Konkrete Zahlen, ein genauer zeitlicher Ablauf oder weitere Hintergründe werden in den Berichten nicht genannt. Auch mögliche Folgen oder offene Punkte bleiben unerwähnt.",
+    "r": "Die Meldung beleuchtet den Berufsalltag eines Schätzers in einem regionalen Leihamt. Sie gibt Einblicke in die Bewertung von Wertgegenständen im Kundenauftrag.",
     "srcs": [
       {
         "name": "SWR Aktuell Baden-Württemberg",
@@ -1026,11 +1243,15 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/anton-meinzer-ist-schaetzer-im-leihamt-100.html",
-    "agree": "Beide Quellen stimmen darin überein, dass Anton Meinzer als Schätzer im Leihamt in Mannheim arbeitet und dort alte Schmuckstücke bewertet, was für ihn einen Traumjob darstellt.",
+    "agree": "Beide Quellen stimmen überein, dass Anton Meinzer als Schätzer für alte Schmuckstücke im Leihamt in Mannheim arbeitet und dies als seinen Traumjob ansieht.",
     "diff": [
       {
+        "name": "SWR Aktuell Baden-Württemberg",
+        "note": "Betitelt den Beitrag mit 'Schönster Arbeitsplatz'."
+      },
+      {
         "name": "Tagesschau Regional Baden-Württemberg",
-        "note": "Erwähnt zusätzlich die Materialien Gold, Silber und Münzen als Beispiele für die zu schätzenden Gegenstände."
+        "note": "Betitelt den Beitrag mit 'Gold, Silber, Münzen'."
       }
     ],
     "chg": "",
@@ -1971,10 +2192,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Kalifornische Wähler entscheiden über voraussichtlich weltweite Milliardärssteuer",
-    "s": "In Kalifornien stimmen Wähler über eine möglicherweise weltweit einmalige Sonderabgabe für Milliardäre ab. Ziel der Initiative ist es, Einnahmen zur Finanzierung von Verbesserungen im Gesundheitssystem zu generieren. Die Maßnahme zielt direkt auf die finanzstärksten Personen des US-Bundesstaates ab. Das Ergebnis der Abstimmung wird mit großer Aufmerksamkeit verfolgt.",
-    "m": "Die Abstimmung in Kalifornien könnte weitreichende finanzielle Konsequenzen für die reichsten Einwohner des US-Bundesstaates haben. Im Zentrum steht die Frage, ob die betroffenen Personen einen zusätzlichen Milliardenbetrag abtreten sollen. Diese Mittel sollen zweckgebunden in den Ausbau und die Modernisierung der medizinischen Versorgung fließen. Befürworter sehen darin einen gerechten Beitrag zur Bewältigung gesellschaftlicher Lasten im Gesundheitssektor. Kritiker und Betroffene warnen hingegen vor möglichen negativen wirtschaftlichen Effekten und der Abwanderung von Vermögen. Details zur genauen Ausgestaltung und Umsetzung der Steuer sind Gegenstand intensiver öffentlicher Debatten. Bislang ist unklar, wie die Mehrheitsverhältnisse an den Wahlurnen ausfallen werden.",
-    "r": "Die Initiative markiert einen potenziell Präzedenzfall für die Besteuerung von Höchstvermögen zur Finanzierung öffentlicher Aufgaben. Ein Erfolg könnte ähnliche politische Vorhaben in anderen Regionen und Ländern inspirieren oder anstoßen.",
+    "t": "Kalifornische Wähler entscheiden über mögliche Milliardärssteuer",
+    "s": "In Kalifornien stehen Wähler vor einer wegweisenden Entscheidung über eine spezielle Steuer für Milliardäre. Dabei soll geprüft werden, ob die Superreichen des US-Bundesstaates zur Finanzierung von Verbesserungen im Gesundheitswesen herangezogen werden. Es handelt sich möglicherweise um eine weltweit einmalige Abgabe dieser Art. Die Abstimmung sorgt international für große Aufmerksamkeit.",
+    "m": "Die Abstimmung in Kalifornien könnte weitreichende Folgen für die Besteuerung von Vermögen in den USA haben. Im Mittelpunkt steht die Frage, ob die finanzstärksten Personen des Bundesstaates Milliardenbeträge abgeben sollen. Die eingenommenen Mittel sind zweckgebunden und sollen direkt in den Ausbau und die Modernisierung des dortigen Gesundheitssystems fließen. Befürworter sehen darin eine gerechte Maßnahme zur Schließung von Versorgungslücken, während Kritiker negative wirtschaftliche Auswirkungen befürchten. Bisher gibt es weltweit vergleichbare Steuern in dieser Form kaum, weshalb das Vorhaben als Pilotprojekt gilt. Der Ausgang der Abstimmung ist offen und wird von Ökonomen und Politikern genau beobachtet. Ob das Gesetz tatsächlich verabschiedet wird, hängt vom direkten Votum der kalifornischen Bevölkerung ab.",
+    "r": "Die Abstimmung ist von globaler Relevanz, da sie als weltweiter Vorstoß für eine direkte Besteuerung von Höchstvermögen zur Finanzierung öffentlicher Aufgaben gilt. Ein Erfolg könnte als Modell für andere Regionen und Länder dienen.",
     "srcs": [
       {
         "name": "BBC World",
@@ -1988,11 +2209,11 @@
       }
     ],
     "url": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
-    "agree": "Die Quellen stimmen überein, dass die Wähler in Kalifornien über eine mögliche Sondersteuer für Milliardäre zur Finanzierung des Gesundheitssystems entscheiden.",
+    "agree": "Beide Quellen stimmen überein, dass kalifornische Wähler über eine möglicherweise weltweit erste Steuer für Milliardäre zur Finanzierung des Gesundheitswesens abstimmen.",
     "diff": [
       {
         "name": "Google News World",
-        "note": "Verweist lediglich auf den Artikel der BBC, enthält jedoch keinen eigenen redaktionellen Inhalt."
+        "note": "Verweist lediglich auf den Artikel der BBC, enthält ansonsten keinen eigenen redaktionellen Inhalt."
       }
     ],
     "chg": "",
@@ -15766,266 +15987,5 @@
     ],
     "chg": "",
     "independent": 2
-  },
-  {
-    "id": "story-bcae364922994ff0",
-    "c": "INT",
-    "o": "PT",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-18T18:12:45.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Wohnungsnot-Proteste: Aktivisten halten Camps in Lissabon und Porto",
-    "s": "Nach den Demonstrationen für das Recht auf Wohnen und gegen die hohen Lebenshaltungskosten in Portugal haben Aktivisten ihre Protestlager in Lissabon und Porto über Nacht beibehalten. Die Kundgebungen fanden am Samstag statt. Aktuell informieren die Medien fortlaufend über die Entwicklung der Protestwelle in beiden Städten.",
-    "m": "Nach den landesweiten Protesten vom Samstag für besseren Zugang zu Wohnraum und gegen den Anstieg der Lebenshaltungskosten haben Demonstrierende ihre Zelte nicht abgebaut. In der Hauptstadt Lissabon verbrachten Aktivisten die Nacht auf dem Rossio-Platz. Gleichzeitig wurde auch in Porto auf der Praça D. João I campiert. Die Proteste richten sich gegen die schwierige Situation auf dem Wohnungsmarkt und die finanzielle Belastung der Bürger. Bislang wurden keine Zwischenfälle oder polizeilichen Räumungen gemeldet. Die Berichterstattung wird fortlaufend aktualisiert, um neue Entwicklungen der anhaltenden Protestwelle zu erfassen.",
-    "r": "Die anhaltenden Proteste und Lager verdeutlichen den anhaltenden sozialen Unmut über die Wohnungs- und Kostenkrise in Portugal. Sie zeigen die Entschlossenheit der Demonstrierenden, über den eigentlichen Protesttag hinaus Präsenz zu zeigen.",
-    "srcs": [
-      {
-        "name": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/pais/manifestantes-pelo-direito-a-habitacao-mantem-acampamentos-em-lisboa-e-porto_e1772433",
-        "date": "2026-10-18T18:12:45.000Z"
-      },
-      {
-        "name": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPczF0V1R4cFgya2RFby1zbHhJXzlOMEZlV2tUYUd0eXFNMER4REZJTG1fRHlVbUplOS02ajZpcHltV25PcUNqRGxlc0w1djVYVW5abmxXT3Q0VW9qcng2ZHJvNlZRMEZ6dEl0V3dpeHFIN3dnN2hlcUlObFplaU1UNUcxTlNRQ3g4VXVjME85OE5ObEtRcXpRQ1NVQ1FvbVZXUURDanpfRlFwNEpLZ3V5Snh2WUJOcTRidmc?oc=5",
-        "date": "2026-10-18T17:12:45.000Z"
-      }
-    ],
-    "url": "https://www.rtp.pt/noticias/pais/manifestantes-pelo-direito-a-habitacao-mantem-acampamentos-em-lisboa-e-porto_e1772433",
-    "agree": "Beide Quellen stimmen darin überein, dass Demonstrierende für das Recht auf Wohnen ihre Lager in Lissabon und Porto nach den Protesten beibehalten haben.",
-    "diff": [
-      {
-        "name": "Google News Portugal",
-        "note": "Die Quelle verweist lediglich per Link und Überschrift auf den Artikel von RTP und liefert keinen eigenständigen Text."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-c5b2d05a5b85a9e3",
-    "c": "DE",
-    "o": "DE",
-    "k": "sport",
-    "lang": "de",
-    "d": "2026-10-18T18:05:40.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Sportvorstand Markus Krösche verlässt Eintracht Frankfurt überraschend",
-    "s": "Der Sportvorstand des Fußballbundesligisten Eintracht Frankfurt, Markus Krösche, ist überraschend zurückgetreten und hat um seine Freistellung gebeten. Klubvorstand Axel Hellmann übernimmt den Posten vorerst zusätzlich. Die Zusammenarbeit wurde mit sofortiger Wirkung beendet.",
-    "m": "Markus Krösche hat Eintracht Frankfurt nach erfolgreichen Jahren verlassen. Um den 46-Jährigen war es zuletzt unruhig geworden, und es hatte bereits länger gemurrt. Dennoch kommt die Trennung von dem Sportvorstand nun einem Paukenschlag gleich. Während seiner Amtszeit verkaufte er Spieler für Rekordgewinne. Zudem trug er maßgeblich dazu bei, dass der Verein im Jahr 2022 die Europa League gewinnen konnte. Klubvorstand Axel Hellmann übernimmt die Aufgaben von Krösche vorerst zusätzlich, während die Suche nach einer langfristigen Nachfolge im Verein beginnt.",
-    "r": "Der Abgang eines prägenden Sportvorstands ist für einen Bundesligisten von großer sportlicher und struktureller Bedeutung. Die Trennung erfolgt zu einem Zeitpunkt, an dem es im Umfeld des Vereins bereits unruhig war.",
-    "srcs": [
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/sport/2026-10/markus-kroesche-eintracht-frankfurt-freistellung-axel-hellmann",
-        "date": "2026-10-18T18:05:40.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/sport/fussball/eintracht-frankfurt-trennung-von-sportchef-markus-kroesche-nach-erfolgsjahren-a-fc772741-2b68-47a7-8c07-df14df3bffca#ref=rss",
-        "date": "2026-10-18T17:10:00.000Z"
-      },
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/sport/fussball/bundesliga/article6ad4f7b615f4f374d6f86461/sportvorstand-markus-kroesche-verlaesst-eintracht-frankfurt-sofort.html",
-        "date": "2026-10-18T16:51:42.000Z"
-      }
-    ],
-    "url": "https://www.zeit.de/sport/2026-10/markus-kroesche-eintracht-frankfurt-freistellung-axel-hellmann",
-    "agree": "Die Quellen sind sich einig, dass Markus Krösche als Sportvorstand von Eintracht Frankfurt zurückgetreten ist und Axel Hellmann den Posten vorerst übernimmt.",
-    "diff": [
-      {
-        "name": "ZEIT ONLINE",
-        "note": "Berichtet, dass Krösche als Sportvorstand zurückgetreten ist."
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "Erwähnt die Rekordgewinne durch Spielerverkäufe, den Europa-League-Sieg 2022, Krosches Alter von 46 Jahren und dass es zuletzt unruhig um ihn war."
-      },
-      {
-        "name": "WELT",
-        "note": "Beschreibt den Rücktritt als überraschenden Paukenschlag, merkt an, dass es schon länger rumort hatte und die Zusammenarbeit mit sofortiger Wirkung beendet wurde."
-      }
-    ],
-    "chg": "",
-    "independent": 3
-  },
-  {
-    "id": "story-b7daa14129edd8f8",
-    "c": "INT",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-18T17:55:00.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Vier Tote und viele Verletzte bei Brand auf kanadischer Militärbasis",
-    "s": "Bei einem Großbrand auf dem Militärstützpunkt Wainwright in Kanada sind am Samstag mindestens vier Menschen ums Leben gekommen. Dutzende weitere Personen wurden bei dem Feuer verletzt, das sich rasend schnell ausbreitete. Premierminister Carney bezeichnete das Unglück als eine der schlimmsten Tragödien für die Streitkräfte in Friedenszeiten. Über die Hintergründe des Brandes ist bisher nichts bekannt.",
-    "m": "Das verheerende Feuer brach am Samstag auf dem kanadischen Militärstützpunkt Wainwright aus und führte zu einer schweren Bilanz mit vier Todesopfern und Dutzenden Verletzten. Premierminister Carney äußerte sich tief bestürzt und sprach von einer der schwersten Tragödien für die Armee in Friedenszeiten. Wie sich das Feuer so schnell ausbreiten konnte, ist derzeit noch völlig unklar. Auch offizielle Angaben zu den genauen Hintergründen und der Ursache des Großbrandes wurden von den Behörden bisher nicht mitgeteilt. Die Ermittlungen dauern an, während Rettungs- und Hilfskräfte im Einsatz sind, um die Situation vor Ort zu bewältigen und die Betroffenen zu versorgen.",
-    "r": "Das Ereignis ist von großer Relevanz, da es sich um eine der schwersten Friedenszeit-Tragödien für das kanadische Militär handelt und zahlreiche Menschen getötet sowie verletzt wurden.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQm9wUWZoR2xsM0pucUZPYnBQMXU0RDRlZmxqcVd2WWlZMk9hMWhnTWZYVXp2dzRudGNWSnpyNEFJeTVnVThsMjRGRXlKTUtvRG5tcUZwU3JjallWWkxxSW1zSm1abUM3cV96bGVxOS1BZ2ZBOWJKWHQ5SjF5VmsxaElScnp2UjAxSUp5YWh0aVFMOTQ?oc=5",
-        "date": "2026-10-18T17:55:00.000Z"
-      },
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/panorama/vier-tote-durch-feuer-auf-militaerbasis-in-kanada-ZRAL65BFE5CB3CVTW26BJHZOPQ.html",
-        "date": "2026-10-18T17:47:16.000Z"
-      },
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/panorama/kanada-feuer-brand-militaerbasis-wainwright-tote-100.html",
-        "date": "2026-10-18T17:42:00.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQm9wUWZoR2xsM0pucUZPYnBQMXU0RDRlZmxqcVd2WWlZMk9hMWhnTWZYVXp2dzRudGNWSnpyNEFJeTVnVThsMjRGRXlKTUtvRG5tcUZwU3JjallWWkxxSW1zSm1abUM3cV96bGVxOS1BZ2ZBOWJKWHQ5SjF5VmsxaElScnp2UjAxSUp5YWh0aVFMOTQ?oc=5",
-    "agree": "Alle Quellen stimmen überein, dass bei einem Feuer auf einer Militärbasis in Kanada vier Menschen starben und viele verletzt wurden.",
-    "diff": [
-      {
-        "name": "Google News DE",
-        "note": "Verlinkt auf einen Bericht von tagesschau.de mit der Überschrift über vier Tote und viele Verletzte."
-      },
-      {
-        "name": "RND",
-        "note": "Nennt den Namen des Stützpunkts (Wainwright) und zitiert Premierminister Carney, der von einer der schlimmsten Tragödien in Friedenszeiten sprach; erwähnt zudem, dass sich das Feuer am Samstag rasend schnell ausbreitete und Dutzende schwer verletzt wurden."
-      },
-      {
-        "name": "ZDF heute",
-        "note": "Berichtet, dass über mögliche Hintergründe bislang nichts bekannt ist."
-      }
-    ],
-    "chg": "",
-    "independent": 3
-  },
-  {
-    "id": "story-27b84e37b98f378e",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-18T17:54:35.000Z",
-    "p": 2,
-    "st": "BW",
-    "city": "",
-    "t": "Gebäudebrand in Reilingen sorgt für Großeinsatz und hohen Sachschaden",
-    "s": "In der Nacht auf Sonntag kam es in Reilingen zu einem Gebäudebrand. Das Feuer dehnte sich bis in das Dachgeschoss des betroffenen Hauses aus. Die Feuerwehr war im Einsatz, um den Brand zu bekämpfen. Es entstand hoher Sachschaden.",
-    "m": "Der Vorfall ereignete sich in der Nacht zum Sonntag in Reilingen. Das Feuer brach in einem Gebäude aus und breitete sich rasant bis in den Dachbereich aus. Aufgrund der Flammen musste die Feuerwehr mit einem Einsatz ausrücken. Die Löscharbeiten dauerten an, und das Dachgeschoss stand zeitweise komplett in Flammen. Genauere Angaben zur Brandursache liegen derzeit noch nicht vor. Auch über eventuelle Verletzte gibt es in den vorliegenden Berichten noch keine Informationen. Der entstandene Sachschaden wird als hoch eingeschätzt. Die Ermittlungen zur Klärung der Brandursache wurden eingeleitet.",
-    "r": "Der Gebäudebrand ist für die lokale Öffentlichkeit und die Sicherheit vor Ort relevant, da er einen massiven Feuerwehreinsatz und erheblichen materiellen Schaden verursacht hat.",
-    "srcs": [
-      {
-        "name": "SWR Aktuell Baden-Württemberg",
-        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/brand-gebaeude-dachgeschoss-100.html",
-        "date": "2026-10-18T17:54:35.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Baden-Württemberg",
-        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-feuerwehr-im-einsatz-wegen-gebaeudebrand-feuer-dehnt-sich-auf-dachgeschoss-aus-100.html",
-        "date": "2026-10-18T06:17:00.000Z"
-      }
-    ],
-    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/brand-gebaeude-dachgeschoss-100.html",
-    "agree": "Beide Quellen stimmen überein, dass es in der Nacht auf Sonntag in Reilingen zu einem Gebäudebrand mit hohem Sachschaden kam, bei dem sich die Flammen bis ins Dachgeschoss ausbreiteten.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-b9176d73272014ca",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-18T17:52:08.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Peter Altmaier äußert große Sorge um die Verfassung der CDU",
-    "s": "Der ehemalige CDU-Kanzleramtschef Peter Altmaier hat sich in einem Interview besorgt über den Zustand seiner Partei gezeigt. Auf die Frage, ob er je in so großer Sorge um die CDU war, antwortete er mit einem klaren Nein. Zudem warnte er vor einem weiteren Vertrauensverlust der politischen Mitte.",
-    "m": "Peter Altmaier sieht die CDU in einer schweren Krise und warnt eindringlich vor einem fortgesetzten Vertrauensverlust der politischen Mitte. Als einen zentralen Grund für die Probleme der Partei und den Mangel an Orientierung bemängelt der langjährige Bundesminister und frühere Kanzleramtschef, dass vielen heutigen führenden Politikern entscheidende Regierungserfahrung fehlt. Diese Einschätzung macht deutlich, wie stark erfahrene Parteimitglieder die aktuelle Entwicklung und personelle Aufstellung der Christdemokraten kritisch begleiten. Die Äußerungen werfen ein Schlaglicht auf die innerparteiliche Debatte um Kurs und Führungskompetenz in der Opposition. Weitere konkrete Details zum zeitlichen Ablauf oder zu Reaktionen anderer Parteimitglieder nennen die vorliegenden Berichte nicht. Offen bleibt zudem, welche konkreten Schritte die CDU zur Bewältigung dieser Krise einleiten will.",
-    "r": "Die Aussagen eines prominenten ehemaligen Regierungsmitglieds zur Krise der CDU bieten Einblicke in die innerparteiliche Selbstreflexion und die Bewertung fehlender Regierungserfahrung in der heutigen Führungsebene. Dies verdeutlicht die anhaltenden Debatten über die strategische Ausrichtung der Partei in der Opposition.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNLVl6SnpqRjU5cUxHM1BoYWlsajE0NnBlb1k2d2ZjR291ekxWZTlUa1FVazMzUUNCZktDeFRtdDlFRGgtcU5zZ2I2V2cwX09Sbmt3WC0wYjl5RGhXb2dzak5zTncyR1RtSmI1UDBEcVJ4djdBOFBTbEMwN2JwRU9oWFoxV0hrQjZrYmRoQzNhbDNtX2VXVElGZ3RlM2I0VDd1T1FxeVlJVXZNb25peE92bGdaVmJ6VEgwa3E0MG9tbVhTY3lCdHdVZkFyMzVZby11Tms2YVkzQUNnbmlkRUh6NjdYQnREOElxTnd1eVVrenZ2Nno3NDIxOUhUakhIZ2R6S0VEVkRzeHZ5cVctcnhrMTNwRnZGekY1MlFn?oc=5",
-        "date": "2026-10-18T17:52:08.000Z"
-      },
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/politik/deutschland/article6ad4f1593b48a94d0848944a/union-in-der-krise-waren-sie-je-in-so-grosser-sorge-um-ihre-cdu-wenn-ich-ehrlich-sein-soll-nein-antwortet-altmaier.html",
-        "date": "2026-10-18T17:49:54.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNLVl6SnpqRjU5cUxHM1BoYWlsajE0NnBlb1k2d2ZjR291ekxWZTlUa1FVazMzUUNCZktDeFRtdDlFRGgtcU5zZ2I2V2cwX09Sbmt3WC0wYjl5RGhXb2dzak5zTncyR1RtSmI1UDBEcVJ4djdBOFBTbEMwN2JwRU9oWFoxV0hrQjZrYmRoQzNhbDNtX2VXVElGZ3RlM2I0VDd1T1FxeVlJVXZNb25peE92bGdaVmJ6VEgwa3E0MG9tbVhTY3lCdHdVZkFyMzVZby11Tms2YVkzQUNnbmlkRUh6NjdYQnREOElxTnd1eVVrenZ2Nno3NDIxOUhUakhIZ2R6S0VEVkRzeHZ5cVctcnhrMTNwRnZGekY1MlFn?oc=5",
-    "agree": "Die Quellen stimmen überein, dass Peter Altmaier sich in großer Sorge um die CDU befindet und dies in einem Interview entsprechend geäußert hat.",
-    "diff": [
-      {
-        "name": "WELT",
-        "note": "Berichtet ergänzend, dass Altmaier vor einem Vertrauensverlust der politischen Mitte warnt und bei vielen führenden Politikern Regierungserfahrung vermisst."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-ec330806720471bf",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-18T17:47:16.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Vier Tote durch Feuer auf Militärbasis in Kanada",
-    "s": "Bei einem Feuer auf dem kanadischen Militärstützpunkt Wainwright sind vier Menschen ums Leben gekommen und Dutzende schwer verletzt worden. Premierminister Carney bezeichnete das Unglück als eine der schlimmsten Tragödien für die Armee in Friedenszeiten. Das Feuer breitete sich am Samstag auf dem Gelände aus. Die genauen Umstände des Brandes werden untersucht.",
-    "m": "Das Unglück ereignete sich auf der Militärbasis Wainwright in Kanada, wo am Samstag ein rasch um sich greifendes Feuer ausbrach. Mindestens vier Menschen starben, während Dutzende weitere schwer verletzt wurden. Premierminister Carney äußerte sich bestürzt und sprach von einer der schlimmsten Tragödien für die Streitkräfte in Friedenszeiten. Die Behörden schweigen bislang offiziellen Angaben zufolge zur genauen Ursache des Brandes. Laut Medienberichten wird jedoch geprüft, ob eine Gasleitung bei einer Übung beschädigt worden sein könnte. Ein Fernsehsender spekulierte zudem, dass die Zahl der Todesopfer möglicherweise höher liegen könnte als bisher offiziell bestätigt. Weitere Details zu den Verletzten und dem genauen Hergang des Zwischenfalls stehen noch aus.",
-    "r": "Das Ereignis ist von hoher Relevanz, da es sich um eine der schwersten Friedenszeiten-Tragödien für das kanadische Militär handelt. Regierungsvertreter wie Premierminister Carney haben sich offiziell zu dem Vorfall geäußert.",
-    "srcs": [
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/panorama/vier-tote-durch-feuer-auf-militaerbasis-in-kanada-ZRAL65BFE5CB3CVTW26BJHZOPQ.html",
-        "date": "2026-10-18T17:47:16.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/ausland/kanada-vier-menschen-bei-feuer-auf-militaerbasis-gestorben-a-b02dfcac-97d6-4551-9b3e-6583ad1a1126#ref=rss",
-        "date": "2026-10-18T17:44:00.000Z"
-      },
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSXA2VXRLX2poakxPWXp4X3JPWEltVnJGRFcyQnFFc2puaDNLcmNJUHJSaUdra2h6Wm1PYWRoa2JlUWctV3BiYVZHd0otYUZGM2d6WlFUSzZmdHFCSGNZYzFtRlNxa3VCd1FCZXZENWx5N2Z3WDZ2SEZuYWZteW13NUZxT1pBYk9yYnd3TFBTX1pNU0FvcFV0OVZmVS1NSWQ3Sy1MRXlUbHJfdk4xY1JEdC04ZE1oZ09wdVdZekR6RHBKWHBaN1RxMmhxRWZtRER5YnNmZTlxd3I?oc=5",
-        "date": "2026-10-18T17:08:00.000Z"
-      },
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/panorama/Mindestens-vier-Tote-durch-Feuer-auf-Militaerbasis-in-Kanada-id31431870.html",
-        "date": "2026-10-18T16:48:16.000Z"
-      }
-    ],
-    "url": "https://www.rnd.de/panorama/vier-tote-durch-feuer-auf-militaerbasis-in-kanada-ZRAL65BFE5CB3CVTW26BJHZOPQ.html",
-    "agree": "Alle Quellen stimmen darin überein, dass bei einem Feuer auf einer kanadischen Militärbasis vier Menschen gestorben und Dutzende schwer verletzt wurden, und dass Premierminister Carney von einer schweren Tragödie sprach.",
-    "diff": [
-      {
-        "name": "RND",
-        "note": "Erwähnt, dass sich das Feuer am Samstag rasend schnell ausbreitete."
-      },
-      {
-        "name": "Google News DE",
-        "note": "Verweist auf eine weitere Schlagzeile des Tagesspiegels und bezeichnet das Geschehen als ernsten Zwischenfall."
-      },
-      {
-        "name": "ntv",
-        "note": "Bringt eine mögliche Brandursache ins Spiel, wonach eine Gasleitung bei einer Übung beschädigt worden sein könnte, und erwähnt, dass die Zahl der Opfer laut einem TV-Sender höher liegen könnte, während die Behörden zur Ursache schweigen."
-      }
-    ],
-    "chg": "",
-    "independent": 4
   }
 ]
