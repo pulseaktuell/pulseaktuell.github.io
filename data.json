@@ -1,5 +1,753 @@
 [
   {
+    "id": "story-cd593b79536e42c0",
+    "c": "INT",
+    "o": "UK",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-25T20:08:28.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "El Clásico zwischen Barcelona und Real Madrid in La Liga",
+    "s": "Heute Abend findet das traditionsreiche La-Liga-Duell zwischen dem FC Barcelona und Real Madrid statt. Fans und Medien verfolgen das Spiel im Live-Ticker mit aktuellen Updates. Die Partie verspricht gewohnte Spannung und Unterhaltung im spanischen Fußball.",
+    "m": "Das mit Spannung erwartete Aufeinandertreffen zwischen dem FC Barcelona und Real Madrid im Rahmen der spanischen Liga La Liga zieht weltweite Aufmerksamkeit auf sich. Beide Medien bieten Live-Berichterstattungen und Live-Ticker an, um Fans mit Spielständen, Analysen und Kommentaren zu versorgen. Im Vorfeld wird humorvoll auf Trainerdetails eingegangen, während die Vorbereitungen im Stadion auf den Anpfiff laufen. Die Begegnung gilt als eines der absoluten Highlights im internationalen Fußballkalender. Konkrete Torschützen oder der Endstand sind in den vorliegenden Berichten noch nicht enthalten, da es sich um Live-Ticker-Ankündigungen handelt.",
+    "r": "Das Spiel El Clásico ist ein sportliches Großereignis von globalem Interesse in der spanischen Liga. Die Live-Berichterstattung informiert Fußballfans weltweit über das Geschehen auf und neben dem Platz.",
+    "srcs": [
+      {
+        "name": "Guardian Sport",
+        "url": "https://www.theguardian.com/football/live/2026/oct/25/barcelona-v-real-madrid-el-clasico-live",
+        "date": "2026-10-25T20:08:28.000Z"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/liveblog/2026/10/25/barcelona-vs-real-madrid-live-la-liga-el-clasico?traffic_source=rss",
+        "date": "2026-10-25T16:30:00.000Z"
+      }
+    ],
+    "url": "https://www.theguardian.com/football/live/2026/oct/25/barcelona-v-real-madrid-el-clasico-live",
+    "agree": "Beide Quellen berichten über den Live-Ticker zum bevorstehenden La-Liga-Spiel El Clásico zwischen Barcelona und Real Madrid.",
+    "diff": [
+      {
+        "name": "Guardian Sport",
+        "note": "Erwähnt interaktive E-Mails von Lesern und die Vorbereitung einer José Mourinho Bingo-Karte für das Spiel."
+      },
+      {
+        "name": "Al Jazeera",
+        "note": "Fokus auf die stadionnahe Berichterstattung mit Vorberichten und Live-Textkommentaren direkt aus dem Camp Nou."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-3209c9ecac3eb055",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-25T19:58:19.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Kreuzfahrtschiff stößt im Hafen von Bremerhaven mit Containerschiff zusammen",
+    "s": "Im Hafen von Bremerhaven ist ein Kreuzfahrtschiff mit einem Containerschiff zusammengestoßen. Die „Mein Schiff 3“ von Tui Cruises kehrte nach der Kollision an den Pier zurück. Nach Angaben der Reederei gab es bei dem Vorfall keine Verletzten. Zu den genauen Umständen des Unfalls sind bislang kaum Details bekannt.",
+    "m": "Der Unfall ereignete sich im Hafen von Bremerhaven, wo die „Mein Schiff 3“ und ein Containerschiff kollidierten. Nach dem Zusammenstoß kehrte das Kreuzfahrtschiff sicher an den Pier zurück. Tui Cruises bestätigte, dass keine Personen verletzt wurden. Über die Ursache der Kollision oder die Höhe möglicher Sachschäden liegen zum gegenwärtigen Zeitpunkt noch keine offiziellen Informationen vor. Auch der genaue Ablauf des Vorfalls muss von den zuständigen Stellen noch geklärt werden. Weitere Angaben zu dem beteiligten Containerschiff wurden bisher nicht veröffentlicht.",
+    "r": "Schiffsunfälle in Häfen mit großen Passagierschiffen sind sicherheitsrelevant und erfordern Untersuchungen zur Klärung der Ursache. Die Schadensbilanz und genaue Unfallursache sind für den Schiffsverkehr vor Ort von Bedeutung.",
+    "srcs": [
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/vermischtes/article6ade5ec1ba080c37bf6d143e/bremerhaven-kreuzfahrtschiff-stoesst-mit-containerschiff-zusammen.html",
+        "date": "2026-10-25T19:58:19.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/panorama/bremerhaven-kreuzfahrtschiff-stoesst-mit-containerschiff-zusammen-NG2QDMOAABA5DNN4DRBCPZRDII.html",
+        "date": "2026-10-25T19:49:34.000Z"
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-10/25/kreuzfahrtschiff-stoesst-mit-containerschiff-zusammen",
+        "date": "2026-10-25T19:01:53.000Z"
+      }
+    ],
+    "url": "https://www.welt.de/vermischtes/article6ade5ec1ba080c37bf6d143e/bremerhaven-kreuzfahrtschiff-stoesst-mit-containerschiff-zusammen.html",
+    "agree": "Alle Quellen stimmen darin überein, dass ein Kreuzfahrtschiff und ein Containerschiff in Bremerhaven zusammengestoßen sind.",
+    "diff": [
+      {
+        "name": "WELT",
+        "note": "nennt das betroffene Schiff („Mein Schiff 3“), die Reederei (Tui Cruises), die Rückkehr an den Pier und dass es keine Verletzten gab"
+      },
+      {
+        "name": "RND",
+        "note": "meldet den Zusammenstoß im Hafen von Bremerhaven, gibt jedoch an, dass kaum Details bekannt sind"
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "note": "berichtet ebenfalls kurz über den Unfall zwischen den beiden Schiffen ohne weitere Details"
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
+    "id": "story-302c7c23ae1b059a",
+    "c": "INT",
+    "o": "UK",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-25T19:56:56.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Exilierte Oppositionsführerin María Corina Machado nach Venezuela zurückgekehrt",
+    "s": "Die venezolanische Oppositionsführerin María Corina Machado hat nach fast einem Jahr im Exil ihre Rückkehr in ihr Heimatland bekannt gegeben. Sie verließ das Land zuvor, um den Friedensnobelpreis entgegenzunehmen. Ihre Heimkehr dürfte bei Interimspräsidentin Delcy Rodríguez auf wenig Gegenliebe stoßen.",
+    "m": "Die Rückkehr von María Corina Machado erfolgt nach Angaben der Quellen fast ein Jahr nach ihrer Abreise ins Ausland, wo sie den Friedensnobelpreis erhalten hatte. Sie verkündete ihre Ankunft am Sonntagmittag über den Kurznachrichtendienst X mit den Worten „Ich bin hier. Mit euch“. Al Jazeera ergänzt, dass diese Heimkehr auf landesweite Proteste folgt, bei denen freie Wahlen gefordert wurden. Die Rückkehr der prominenten Oppositionsfigur in das südamerikanische Land dürfte für politische Spannungen sorgen und die Machthaber, insbesondere Interimspräsidentin Delcy Rodríguez, herausfordern. Weitere Details zum genauen Ablauf ihrer Einreise oder zu geplanten politischen Schritten nennen die Berichte bisher nicht. Offen bleibt zudem, wie die Regierung auf das Erscheinen der Nobelpreisträgerin reagieren wird.",
+    "r": "Die Rückkehr der prominenten Oppositionsführerin in ein von politischen Spannungen und Protesten geprägtes Land ist ein bedeutendes Ereignis für die innenpolitische Lage in Venezuela. Die Reaktionen der Regierung unter Interimspräsidentin Delcy Rodríguez werden für die weitere Entwicklung der politischen Krise entscheidend sein.",
+    "srcs": [
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
+        "date": "2026-10-25T19:56:56.000Z"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss",
+        "date": "2026-10-25T18:55:39.000Z"
+      }
+    ],
+    "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
+    "agree": "Die Quellen stimmen überein, dass die venezolanische Oppositionsführerin und Nobelpreisträgerin María Corina Machado nach fast einem Jahr im Exil nach Venezuela zurückgekehrt ist.",
+    "diff": [
+      {
+        "name": "Guardian World",
+        "note": "Erwähnt Machus Ankündigung auf X mit den Worten „Ich bin hier. Mit euch“ am Sonntagmittag und dass die Rückkehr Interimspräsidentin Delcy Rodríguez voraussichtlich nicht erfreuen wird."
+      },
+      {
+        "name": "Al Jazeera",
+        "note": "Berichtet ergänzend, dass die Rückkehr im Anschluss an landesweite Proteste erfolgt, die freie Wahlen forderten."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-265255abb8652c12",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-25T19:54:20.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Kollision von Kreuzfahrtschiff und Containerschiff in Bremerhaven",
+    "s": "Beim Auslaufen aus dem Hafen in Bremerhaven ist das Kreuzfahrtschiff \"Mein Schiff 3\" mit einem Containerschiff zusammengestoßen. Nach Angaben der Polizei und des aktuellen Kenntnisstands gibt es bei dem Unfall keine Verletzten oder Personenschäden. Das Ausmaß des Schadens an den Schiffen ist Gegenstand der Berichterstattung.",
+    "m": "Der Vorfall ereignete sich beim Auslaufen des Kreuzfahrtschiffs \"Mein Schiff 3\" aus dem Hafen von Bremerhaven. Dabei kam es zu einer Kollision mit einem anderen Schiff, konkret einem Containerschiff. Laut Polizei und übereinstimmenden Berichten wurden keine Personen verletzt. Einem Medienbericht zufolge stehen jedoch einige Passagiere unter dem Eindruck des Geschehens unter Schock. An dem beteiligten Containerschiff ist durch den Zusammenstoß ein meterlanger Riss entstanden. Weitere Details zum genauen Hergang, zu den Wetterverhältnissen wie starken Sturmböen oder zur Höhe des Sachschadens wurden im Rahmen der ersten Meldungen nicht umfassend beziffert.",
+    "r": "Der Vorfall ist relevant, da die Kollision zweier großer Schiffe in einem Hafen erhebliche Sachschäden verursacht hat und Fragen zur Hafensicherheit aufwirft. Zudem waren Passagiere an Bord des Kreuzfahrtschiffes betroffen.",
+    "srcs": [
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/panorama/Mein-Schiff-3-stoesst-mit-Containerschiff-zusammen-id31456863.html",
+        "date": "2026-10-25T19:54:20.000Z"
+      },
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/panorama/kreuzfahrtschiff--mein-schiff-3--stoesst-mit-containerschiff-zusammen-38450266.html",
+        "date": "2026-10-25T19:23:00.000Z"
+      }
+    ],
+    "url": "https://www.n-tv.de/panorama/Mein-Schiff-3-stoesst-mit-Containerschiff-zusammen-id31456863.html",
+    "agree": "Beide Quellen stimmen darin überein, dass das Kreuzfahrtschiff „Mein Schiff 3“ in Bremerhaven mit einem Containerschiff kollidiert ist und es keine Personenschäden gibt.",
+    "diff": [
+      {
+        "name": "ntv",
+        "note": "Berichtet zusätzlich über starke Sturmböen als Kontext, unter Schock stehende Passagiere sowie einen meterlangen Riss am Containerschiff."
+      },
+      {
+        "name": "stern",
+        "note": "Bietet eine sehr knappe Zusammenfassung der Kollision ohne Details zu Schäden oder Passagierzustand."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-f8a8a4fa669fdd43",
+    "c": "DE",
+    "o": "DE",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-25T19:52:35.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "FC Bayern siegt nach Kompany-Schock in Freiburg",
+    "s": "Der FC Bayern München hat das erste Spiel nach dem Zusammenbruch seines Cheftrainers Vincent Kompany gewonnen. Die Münchner setzten sich am siebten Spieltag der Fußball-Bundesliga auswärts gegen den SC Freiburg durch. Durch den Erfolg verteidigt der Rekordmeister die Tabellenspitze.",
+    "m": "Im ersten Spiel nach dem gesundheitlichen Schock um Cheftrainer Vincent Kompany trat der FC Bayern München beim SC Freiburg an und gewann die Partie mit 3:1 nach einer 2:0-Halbführung. Trotz der ungewohnten Belastung und Sorge um den Coach blieben die Münchner erfolgreich und verteidigten damit auch nach dem siebten Spieltag den ersten Platz in der Fußball-Bundesliga. Für den SC Freiburg bedeutete das Ergebnis im heimischen Stadion gleichzeitig die dritte Pflichtspiel-Niederlage in Serie.",
+    "r": "Die Partie ist sportlich von Bedeutung, da sie den FC Bayern trotz außergewöhnlicher Umstände an der Tabellenspitze hält und für Freiburg eine anhaltende Negativserie in Pflichtspielen markiert.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/fc-bayern-siegt-in-freiburg-hoffenheim-stoppt-leverkusen-102.html",
+        "date": "2026-10-25T19:52:35.000Z"
+      },
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/sport/fussball/fc-bayern-siegt-beim-sc-freiburg-trotz-kompany-schock-38447484.html",
+        "date": "2026-10-25T18:45:00.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/fc-bayern-siegt-in-freiburg-hoffenheim-stoppt-leverkusen-102.html",
+    "agree": "Die Quellen stimmen überein, dass der FC Bayern München sein Spiel in Freiburg im ersten Spiel nach dem Schock um Trainer Vincent Kompany gewonnen hat.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "nennt den genauen Endstand von 3:1, den Halbzeitstand von 2:0 sowie die Tatsache, dass Bayer Leverkusen von Hoffenheim gestoppt wurde."
+      },
+      {
+        "name": "stern",
+        "note": "erwähnt ergänzend, dass es sich für den Sport-Club Freiburg um die dritte Pflichtspiel-Niederlage in Serie handelt."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-d8195eac462e2715",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-25T19:46:39.000Z",
+    "p": 2,
+    "st": "HH",
+    "city": "",
+    "t": "Mein Schiff 3 kollidiert in Bremerhaven mit Containerschiff",
+    "s": "In Bremerhaven ist das Kreuzfahrtschiff \"Mein Schiff 3\" mit einem Containerschiff zusammengestoßen. Bei dem Unfall gab es keine Verletzten. Das Kreuzfahrtschiff liegt inzwischen wieder an der Kaje. Wann die geplante Reise auf die Kanaren stattfinden kann, ist derzeit noch unklar.",
+    "m": "Das Kreuzfahrtschiff \"Mein Schiff 3\" ist in Bremerhaven bei einem Unfall mit einem Containerschiff zusammengestoßen. Nach der Kollision liegt das Kreuzfahrtschiff nun wieder an der Kaje. Glücklicherweise wurde bei dem Zusammenstoß niemand verletzt. An dem betroffenen Containerschiff soll durch den Aufprall ein zehn Meter langer Riss entstanden sein. Passagiere des Kreuzfahrtschiffes stehen nach dem Vorfall unter Schock. Zudem existiert ein im Netz kursierendes Video, das den genauen Unfallhergang zeigt. Bisher ist unklar, wann die geplante Reise auf die Kanaren nach dem Zwischenfall starten kann und wie hoch der entstandene Sachschaden ist.",
+    "r": "Der Zusammenstoß zweier großer Schiffe in einem Hafen betrifft die maritime Sicherheit und den Reiseverkehr. Da Passagiere an Bord waren und Sachschaden an beiden Schiffen entstand, ist der Vorfall von allgemeinem Interesse. Die genauen Umstände und die Dauer der Verzögerung für die Passagiere müssen geklärt werden.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Hamburg",
+        "url": "https://www.tagesschau.de/inland/regional/niedersachsen/mein-schiff-3-kollidiert-in-bremerhaven-mit-containerschiff,aktuelloldenburg-4710.html",
+        "date": "2026-10-25T19:46:39.000Z"
+      },
+      {
+        "name": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/mein-schiff-3-kreuzfahrtschiff-rammt-frachtschiff-von-msc-in-bremerhaven-201620352.html",
+        "date": "2026-10-25T19:24:50.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/niedersachsen/mein-schiff-3-kollidiert-in-bremerhaven-mit-containerschiff,aktuelloldenburg-4710.html",
+    "agree": "Beide Quellen berichten über die Kollision des Kreuzfahrtschiffes \"Mein Schiff 3\" mit einem Containerschiff in Bremerhaven und dass es keine Verletzten gab.",
+    "diff": [
+      {
+        "name": "Tagesschau Regional Hamburg",
+        "note": "Erwähnt, dass das Kreuzfahrtschiff wieder an der Kaje liegt und die geplante Reise auf die Kanaren unklar ist."
+      },
+      {
+        "name": "Frankfurter Allgemeine",
+        "note": "Berichtet über einen zehn Meter langen Riss am Containerschiff, unter Schock stehende Passagiere und ein im Netz kursierendes Unfallvideo."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-0e7e447390493dca",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-25T19:26:05.000Z",
+    "p": 2,
+    "st": "MV",
+    "city": "",
+    "t": "Gasversorgung in Rastow und Umgebung nach Wassernetz-Schaden unterbrochen",
+    "s": "In Rastow und Umgebung sind zahlreiche Haushalte weiterhin ohne Gasversorgung. Grund für den Ausfall ist ein Leck im Wassernetz, das eine Gasleitung beschädigt hat. Die Reparatur- und Instandsetzungsarbeiten laufen auf Hochtouren, gestalten sich jedoch komplex. Ein genauer Zeitpunkt für die vollständige Wiederinbetriebnahme aller Anschlüsse ist derzeit noch ungewiss.",
+    "m": "Der Ausfall der Gasversorgung betrifft hunderte Haushalte in der Gemeinde Rastow sowie in der umliegenden Region. Ursächlich für den Schaden war ein technisches Leck im örtlichen Wassernetz, welches infolgedessen die angrenzende Gasleitung in Mitleidenschaft gezogen hat. Techniker und Versorger sind im Großeinsatz, um die beschädigten Leitungsabschnitte zu untersuchen und zu reparieren. Nach aktuellen Einschätzungen der zuständigen Stellen wird es voraussichtlich mindestens bis Mittwoch dauern, bis alle betroffenen Hausanschlüsse wieder regulär funktionieren und sicher betrieben werden können. Bis dahin müssen sich die Anwohner auf anhaltende Einschränkungen einstellen. Offen ist bislang, wie hoch der genaue Sachschaden an den Leitungen ausfällt und ob es zu weiteren Folgeproblemen im betroffenen Netz kommt.",
+    "r": "Der anhaltende Ausfall der Gasversorgung betrifft hunderte Haushalte und erfordert umfangreiche Reparaturarbeiten an beschädigten Leitungen. Die Ereignisse verdeutlichen die Anfälligkeit kritischer Infrastruktur bei Netzüberschneidungen und führen zu spürbaren Einschränkungen für die betroffene Bevölkerung in Rastow und Umgebung.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Mecklenburg-Vorpommern",
+        "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/ende-ungewiss-haushalte-in-rastow-und-umgebung-weiter-ohne-gas,gas-220.html",
+        "date": "2026-10-25T19:26:05.000Z"
+      },
+      {
+        "name": "NDR Mecklenburg-Vorpommern",
+        "url": "https://www.ndr.de/fernsehen/sendungen/nordmagazin/hunderte-haushalte-in-rastow-und-umgebung-weiter-ohne-gas,nordmagazin-15340.html",
+        "date": "2026-10-25T19:25:32.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/ende-ungewiss-haushalte-in-rastow-und-umgebung-weiter-ohne-gas,gas-220.html",
+    "agree": "Beide Quellen stimmen darin überein, dass ein Leck im Wassernetz die Gasleitung in Rastow und Umgebung beschädigt hat und hunderte beziehungsweise mehrere Haushalte ohne Gas sind.",
+    "diff": [
+      {
+        "name": "Tagesschau Regional Mecklenburg-Vorpommern",
+        "note": "formuliert das Ende der Reparaturen als ungewiss bis Mittwoch."
+      },
+      {
+        "name": "NDR Mecklenburg-Vorpommern",
+        "note": "beziffert die betroffenen Haushalte mit 'Hunderte' und gibt an, dass die Reparatur mindestens bis Mittwoch dauern wird."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-6decc565f3dbbcdc",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-25T19:25:49.000Z",
+    "p": 2,
+    "st": "BW",
+    "city": "",
+    "t": "Tobias Huber gewinnt Oberbürgermeisterwahl in Ehingen",
+    "s": "Bei der Stichwahl in Ehingen hat sich Tobias Huber gegen Martin Krämer durchgesetzt. Der 33-Jährige wird damit neuer Oberbürgermeister der Stadt. Sowohl Huber als auch sein Mitbewerber gehören der CDU an, traten bei der Wahl jedoch als unabhängige Kandidaten an.",
+    "m": "Der 33-jährige Tobias Huber ist zum neuen Oberbürgermeister von Ehingen gewählt worden. Er konnte sich in der anstehenden Stichwahl gegen seinen Kontrahenten Martin Krämer durchsetzen. Interessanterweise sind beide Kandidaten Mitglieder der CDU, traten jedoch beide als unabhängige Bewerber bei der Oberbürgermeisterwahl an. Weitere Details zum genauen Stimmenverhältnis oder zur Wahlbeteiligung nennen die vorliegenden Berichte nicht. Auch über die künftigen politischen Schwerpunkte oder den genauen Zeitpunkt des Amtsantritts des neuen Oberbürgermeisters ist bisher nichts bekannt.",
+    "r": "Die Wahl entscheidet über die politische Führung der Stadt Ehingen im Landkreis Ulm. Die Besonderheit, dass zwei Kandidaten derselben Partei als Unabhängige gegeneinander antraten, prägt das lokale politische Geschehen.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/ob-wahl-ehingen-tobias-huber-gewinnt-100.html",
+        "date": "2026-10-25T19:25:49.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Baden-Württemberg",
+        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-wahl-in-ehingen-tobias-huber-ist-neuer-oberbuergermeister-100.html",
+        "date": "2026-10-25T17:48:52.000Z"
+      }
+    ],
+    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/ob-wahl-ehingen-tobias-huber-gewinnt-100.html",
+    "agree": "Beide Quellen stimmen überein, dass Tobias Huber mit 33 Jahren neuer Oberbürgermeister von Ehingen ist, dass er sich in der Stichwahl gegen Martin Krämer durchsetzte und dass beide der CDU angehören, aber als unabhängige Kandidaten antraten.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-d269a1cd4c5ed874",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-25T19:18:05.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Präsidentschaftswahl in Bulgarien: Amtsinhaberin Jotowa laut Prognosen in Führung",
+    "s": "Bei der Präsidentschaftswahl in Bulgarien liegt die amtierende Präsidentin Ilijana Jotowa nach ersten Prognosen knapp vorn. Für einen Sieg im ersten Wahlgang verfehlt sie jedoch die erforderliche absolute Mehrheit. Damit zeichnet sich eine Stichwahl ab. Wichtigster Herausforderer ist der prowestliche Kandidat Andrej Gjurow.",
+    "m": "Am Sonntagabend schlossen in Bulgarien die Wahllokale für die erste Runde der Präsidentschaftswahl. Laut drei nach Schließung der Wahllokale veröffentlichten Nachwahlbefragungen kommt die sozialistische Amtsinhaberin Ilijana Jotowa auf etwa 35 bis 36,5 Prozent der Stimmen. Die 62-Jährige ist seit Januar im Amt. Ihr wichtigster Konkurrent, der prowestliche Herausforderer Andrej Gjurow, erreichte demnach ein Ergebnis zwischen 32,2 und 32,5 Prozent. Da für einen direkten Sieg im ersten Wahlgang die absolute Mehrheit notwendig ist, wird voraussichtlich eine Stichwahl über die Besetzung des Präsidentenamtes entscheiden. Konkrete offene Punkte betreffen das endgültige amtliche Endergebnis sowie die genaue Konstellation für die anstehende Stichwahl.",
+    "r": "Die Wahl bestimmt das Staatsoberhaupt in einem EU-Land und hat somit Bedeutung für die politische Stabilität in der Region. Ein möglicher Machtwechsel oder die Bestätigung der Amtsinhaberin beeinflussen den prowestlichen Kurs des Landes.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/politik/ausland/2026-10/praesidentschaftswahl-bulgarien-ilijana-jotowa-andrej-gjurow-gxe",
+        "date": "2026-10-25T19:18:05.000Z"
+      },
+      {
+        "name": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/politik/ausland/bulgarien-wahl-amtsinhaberin-ilijana-jotowa-laut-prognosen-knapp-vorn-201620312.html",
+        "date": "2026-10-25T18:32:52.000Z"
+      },
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/news/praesidentschaftswahl-in-bulgarien--amtsinhaberin-jotowa-laut-prognose-knapp-vorn-38450218.html",
+        "date": "2026-10-25T18:27:02.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/politik/ausland/2026-10/praesidentschaftswahl-bulgarien-ilijana-jotowa-andrej-gjurow-gxe",
+    "agree": "Alle Quellen sind sich einig, dass die bulgarische Amtsinhaberin Ilijana Jotowa bei der Präsidentschaftswahl nach ersten Prognosen knapp vorn liegt, aber die absolute Mehrheit für einen Sieg im ersten Wahlgang verfehlt.",
+    "diff": [
+      {
+        "name": "ZEIT ONLINE",
+        "note": "nennt den genauen Prozentwert von 35 Prozent für Jotowa."
+      },
+      {
+        "name": "Frankfurter Allgemeine",
+        "note": "erwähnt explizit, dass der Herausforderer Andrej Gjurow prowestlich ausgerichtet ist."
+      },
+      {
+        "name": "stern",
+        "note": "liefert detailliertere Zahlen aus drei Nachwahlbefragungen vom Sonntagabend und nennt Jotowas Parteizugehörigkeit (sozialistisch) sowie ihr Alter (62 Jahre)."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
+    "id": "story-0126b7d49f11ce6d",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-25T19:16:17.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Venezolanische Oppositionspolitikerin María Corina Machado nach Exil zurückgekehrt",
+    "s": "Die venezolanische Oppositionspolitikerin und Nobelpreisträgerin María Corina Machado hat ihre Rückkehr in ihr Heimatland bekannt gegeben. Nach Angaben der Berichte hielt sie sich zuvor rund ein Jahr im Exil auf, das sie im Dezember verlassen hatte. Sie tauchte nun öffentlich in Venezuela auf.",
+    "m": "María Corina Machado ist nach längerer Abwesenheit überraschend nach Venezuela zurückgekehrt. Die Oppositionsführerin und Friedensnobelpreisträgerin verkündete ihre Ankunft mit den Worten »Ich bin hier. Bei euch«. Laut portugiesischen Medienberichten trat sie im Bundesstaat Lara am westlich von Caracas gelegenen Wallfahrtsort Barquisimeto wieder in der Öffentlichkeit auf. Dort zeigte sie sich an der Seite der Statue der Divina Pastora vor Tausenden von Gläubigen. Es ist das erste Mal seit ihrem Verlassen des Landes im Dezember, dass sie wieder in Venezuela aktiv ist.",
+    "r": "Die Rückkehr einer prominenten Oppositionsfigur hat potenziell erhebliche Auswirkungen auf die politische Lage in Venezuela. Das Auftreten vor einer Menschenmenge demonstriert die anhaltende Mobilisierungskraft der Opposition gegen die Regierung.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/politik/ausland/2026-10/maria-corina-machado-rueckkehr-venezuela-opposition-edmundo-gonzalez-urrutia-gxe",
+        "date": "2026-10-25T19:16:17.000Z"
+      },
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/lusa/maria-corina-machado-regressa-a-venezuela_n1774236",
+        "date": "2026-10-25T18:22:46.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/maria-corina-machado-oppositionspolitikerin-gibt-rueckkehr-nach-venezuela-bekannt-a-0645a250-a873-4c28-b833-748ab7f03b25#ref=rss",
+        "date": "2026-10-25T16:59:00.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/politik/ausland/2026-10/maria-corina-machado-rueckkehr-venezuela-opposition-edmundo-gonzalez-urrutia-gxe",
+    "agree": "Die Quellen stimmen überein, dass María Corina Machado nach Venezuela zurückgekehrt ist und dies mit dem Ausspruch bekundet hat, sie sei bei den Menschen im Land.",
+    "diff": [
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Erwähnt, dass sie nach einem Jahr im Exil zurückgekehrt ist."
+      },
+      {
+        "name": "RTP Notícias",
+        "note": "Nennt konkrete Details zum Ort des Wiederauftretens im Bundesstaat Lara in Barquisimeto vor tausenden Gläubigen neben der Divina Pastora."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Gibt an, dass sie das Land im Dezember verlassen hatte."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
+    "id": "story-005e50de9e692967",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-25T18:16:41.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Ehemalige NDR-Fernsehansagerin Hanni Vanhaiden mit 88 Jahren verstorben",
+    "s": "Die langjährige NDR-Fernsehansagerin Hanni Vanhaiden ist im Alter von 88 Jahren gestorben. Sie prägte als Ansagerin ab dem Jahr 1967 das Programm des Norddeutschen Rundfunks. Mit ihrem markanten Aussehen wurde sie vor allem in den siebziger und achtziger Jahren zu einer bekannten Fernsehi. Die in Hamburg geborene und gestorbene Persönlichkeit hinterlässt bleibende Erinnerungen.",
+    "m": "Hanni Vanhaiden trat ihre Tätigkeit als Fernsehansagerin beim Norddeutschen Rundfunk im Jahr 1967 an und übte diese langjährig aus. Sie entwickelte sich im Laufe ihrer Karriere zu einer Fernsehikone, was insbesondere auf die siebziger und achtziger Jahre zutrifft. Zu ihren äußerlichen Markenzeichen zählten eine große Brille sowie kurzes Haar. Die gebürtige Hamburgerin verstarb nun in ihrer Heimatstadt im hohen Alter von 88 Jahren. Weitere Details zu den genauen Umständen ihres Todes oder Hinterbliebenen wurden in den vorliegenden Berichten nicht genannt.",
+    "r": "Der Tod von Hanni Vanhaiden markiert das Ableben einer bekannten Medienpersönlichkeit, die über Jahrzehnte das deutsche Fernsehen im Norden prägte. Solche Meldungen dokumentieren das Ende einer Ära des klassischen Fernsehens mit prominenten Ansagerinnen.",
+    "srcs": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/hanni-vanhaiden-ehemalige-fernsehansagerin-im-alter-von-88-jahren-gestorben-201620299.html",
+        "date": "2026-10-25T18:16:41.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/vermischtes/article6addfe6cba080c37bf6d0e27/fernsehansagerin-im-ndr-hanni-vanhaiden-stirbt-im-alter-von-88-jahren.html",
+        "date": "2026-10-25T13:24:10.000Z"
+      }
+    ],
+    "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/hanni-vanhaiden-ehemalige-fernsehansagerin-im-alter-von-88-jahren-gestorben-201620299.html",
+    "agree": "Beide Quellen stimmen überein, dass die ehemalige NDR-Fernsehansagerin Hanni Vanhaiden im Alter von 88 Jahren in Hamburg gestorben ist und für ihre markante Brille bekannt war.",
+    "diff": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "note": "Erwähnt konkret das Jahr 1967 als Beginn ihrer Ansagertätigkeit beim NDR sowie ihre kurzen Haare als weiteres Markenzeichen."
+      },
+      {
+        "name": "WELT",
+        "note": "Bezeichnet sie zusätzlich als Fernsehikone der Siebziger- und Achtzigerjahre."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-e2cd2d687cfa54d1",
+    "c": "DE",
+    "o": "DE",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-25T18:08:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Bayern-Coach Kompany auf dem Weg der Besserung nach Zusammenbruch",
+    "s": "Nach dem Schock über den Zusammenbruch von Bayern-Chefcoach Vincent Kompany gibt es positive Nachrichten zu seinem Gesundheitszustand. Co-Trainer Aaron Danks äußerte sich zu den Entwicklungen und gab ein aktuelles Update ab. Die Bestürzung im Verein war nach dem Vorfall zunächst groß.",
+    "m": "Der Zusammenbruch von Bayern-Chefcoach Vincent Kompany hatte beim FC Bayern München für tiefen Schock gesorgt. Nun hat Co-Trainer Aaron Danks ein gesundheitliches Update gegeben, das Anlass zur Hoffnung gibt. Demnach sind die aktuellen Anzeichen rund um den Zustand des Trainers wirklich positiv. Kompany befindet sich offenbar auf dem Weg der Besserung. Weitere Details zum genauen Hergang des medizinischen Vorfalls oder zur Dauer seiner Abwesenheit wurden in den ersten Berichten zunächst nicht genannt. Der Verein und das Trainerteam stehen in dieser Situation eng zusammen. Die sportliche Leitung muss vorübergehend organisatorische Fragen klären.",
+    "r": "Die Meldung ist relevant, da sie den gesundheitlichen Zustand des Cheftrainers eines der prominentesten Fußballvereine Deutschlands betrifft und direkte Auswirkungen auf den Spielbetrieb hat.",
+    "srcs": [
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/sport/fussball/vincent-kompany--anzeichen-nach-zusammenbruch--wirklich-positiv--38447444.html",
+        "date": "2026-10-25T18:08:00.000Z"
+      },
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-fc-bayern-kompany-zusammenbruch-update-danks-100.html",
+        "date": "2026-10-25T17:38:00.000Z"
+      }
+    ],
+    "url": "https://www.stern.de/sport/fussball/vincent-kompany--anzeichen-nach-zusammenbruch--wirklich-positiv--38447444.html",
+    "agree": "Die Quellen sind sich einig, dass Bayern-Coach Vincent Kompany zusammengebrochen ist und Co-Trainer Aaron Danks nun ein wirklich positives Update zu seinem Zustand gegeben hat.",
+    "diff": [
+      {
+        "name": "stern",
+        "note": "Berichtet, dass der Schock beim FC Bayern München nach dem Zusammenbruch tief saß."
+      },
+      {
+        "name": "ZDF heute",
+        "note": "Berichtet, dass Bayern-Coach Vincent Kompany offenbar auf dem Weg der Besserung ist."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-b797823229a0fb8b",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-25T17:39:25.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Geisterfahrer-Jet rollt am Frankfurter Flughafen in falsche Richtung",
+    "s": "Ein Airbus A321 der Fluggesellschaft Pegasus Airlines ist am Frankfurter Flughafen in die falsche Richtung auf die Startbahn gerollt. Fluglotsen bemerkten den Fehler umgehend und griffen sofort ein. Der Start wurde bei geringem Tempo erfolgreich abgebrochen. Nun prüfen die zuständigen Behörden mögliche Konsequenzen.",
+    "m": "Der Zwischenfall ereignete sich am Frankfurter Flughafen, wo ein Airbus A321 der Airline Pegasus Airlines versehentlich in die falsche Richtung auf eine Piste rollte. Dank des aufmerksamen Eingreifens der Fluglotsen konnte Schlimmeres verhindert werden. Die Lotsen bemerkten den Richtungsfehler sofort und veranlassten einen Abbruch des Startvorgangs, während sich das Flugzeug noch in einem geringen Tempo befand. Bisher sind keine Verletzten oder Schäden bekannt. Die zuständigen Behörden haben die Ermittlungen aufgenommen und prüfen nun die genauen Hintergründe sowie mögliche Konsequenzen für die Beteiligten. Offen ist derzeit, wie es zu dem Navigations- oder Kommunikationsfehler kommen konnte.",
+    "r": "Der Vorfall zeigt potenzielle Sicherheitsrisiken im Flughafenbetrieb auf, bei denen ein schnelles Eingreifen von Fluglotsen Kollisionen oder schwerwiegende Unfälle verhindern kann. Die Untersuchung der Behörden soll zur Klärung der Ursachen beitragen.",
+    "srcs": [
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/panorama/Geisterfahrer-Jet-rollt-in-Frankfurt-in-falsche-Richtung-los-id31456691.html",
+        "date": "2026-10-25T17:39:25.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/panorama/geisterfahrer-auf-der-startbahn-airbus-rollt-in-frankfurt-in-falsche-richtung-HICYLFAXCJBELIOB3PT2BIKGHA.html",
+        "date": "2026-10-25T17:15:51.000Z"
+      }
+    ],
+    "url": "https://www.n-tv.de/panorama/Geisterfahrer-Jet-rollt-in-Frankfurt-in-falsche-Richtung-los-id31456691.html",
+    "agree": "Beide Quellen stimmen darin überein, dass ein Airbus A321 am Frankfurter Flughafen in die falsche Richtung auf die Startbahn rollte und Fluglotsen den Start durch sofortiges Eingreifen bei geringem Tempo abbrachen.",
+    "diff": [
+      {
+        "name": "ntv",
+        "note": "Nennt die Fluggesellschaft Pegasus Airlines und erwähnt, dass die Behörden nun mögliche Konsequenzen prüfen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-c708bb17593fc2ae",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-25T17:19:25.000Z",
+    "p": 3,
+    "st": "RP",
+    "city": "",
+    "t": "Gewalt und Eskalation an Schule in Ludwigshafen: Gibt es einen Ausweg?",
+    "s": "An der Karolina-Burger-Schule in Ludwigshafen kommt es zu massiven Problemen wie Erpressung, Gewalt und einer Reizgasattacke. Der Schulalltag ist stark eskaliert, was die Frage nach möglichen Lösungen aufwirft. Ein erfolgreiches Beispiel aus Berlin wird als möglicher Hoffnungsschlüssel betrachtet.",
+    "m": "An der Karolina-Burger-Schule in Ludwigshafen ist die Situation durch Vorfälle wie Erpressung, Gewalt und eine Reizgasattacke drastisch eskaliert. Der normale Schulalltag ist unter diesen Bedingungen kaum noch aufrechterhalten, weshalb intensiv nach Auswegen gesucht wird. Als ein möglicher Lösungsansatz oder eine Wende wird ein konkretes Praxisbeispiel aus Berlin genannt, das dort bereits Hoffnung gemacht hat. Die Berichte beleuchten die angespannte Lage und zeigen auf, dass strukturelle Veränderungen dringend notwendig sind. Beteiligte Akteure und Verantwortliche stehen vor großen Herausforderungen, um die Sicherheit und den Schulfriedenheit wiederherzustellen. Genaue Details über disziplinarische Maßnahmen oder politische Reaktionen lassen die kurzen Meldungen offen. Konkrete Zahlen zu den Opfern oder Tätern werden in diesem frühen Stand nicht genannt.",
+    "r": "Die Eskalation von Gewalt an Schulen ist ein drängendes gesellschaftliches Problem, das die Sicherheit von Schülerinnen und Schülern sowie Lehrkräften gefährdet. Lösungsansätze aus anderen Städten wie Berlin könnten als Modell für Kriseninterventionen dienen.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Rheinland-Pfalz",
+        "url": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-eskalation-an-karolina-burger-schule-so-koennte-eine-wende-gelingen-100.html",
+        "date": "2026-10-25T17:19:25.000Z"
+      },
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/ludwigshafen/eskalation-an-karolina-burger-schule-eine-wende-scheint-moeglich-100.html",
+        "date": "2026-10-25T17:19:25.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-eskalation-an-karolina-burger-schule-so-koennte-eine-wende-gelingen-100.html",
+    "agree": "Beide Quellen berichten über die Eskalation an der Karolina-Burger-Schule in Ludwigshafen mit Vorkommnissen wie Erpressung, Gewalt und einer Reizgasattacke sowie der Hoffnung durch ein Berliner Beispiel.",
+    "diff": [
+      {
+        "name": "Tagesschau Regional Rheinland-Pfalz",
+        "note": "Fokussiert im Titel auf die Rheinland-Pfalz-Regionalität."
+      },
+      {
+        "name": "SWR Aktuell",
+        "note": "Nennt im Titel explizit den Ortsnamen Ludwigshafen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-284d6d6db67a14d4",
+    "c": "INT",
+    "o": "INT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-25T17:10:11.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Venezuelas Oppositionsführerin María Corina Machado kehrt aus dem Exil zurück",
+    "s": "Die venezolanische Oppositionsführerin María Corina Machado hat am Sonntag ihre Rückkehr in die Heimat verkündet. Sie war zuvor fast zehn Monate im Exil gewesen, nachdem sie das Land Ende 2025 heimlich verlassen hatte, um den Friedensnobelpreis entgegenzunehmen. Ihre Rückkehr erfolgt in einer Phase, in der Zweifel an der demokratischen Zukunft des Landes und an der Rolle der USA wachsen.",
+    "m": "María Corina Machado gab ihre Ankunft am Sonntag über die sozialen Medien bekannt und schrieb dazu: Ich bin hier. Mit euch. Damit beendet sie ihr knapp einjähriges Exil, das sie im späten Jahr 2025 angetreten hatte, um heimlich aus Venezuela auszureisen und den Friedensnobelpreis in Empfang zu nehmen. Über die genauen Umstände ihrer Einreise oder mögliche Reaktionen der Regierung wurden in den aktuellen Berichten zunächst keine Details genannt. Die Rückkehr findet zu einem Zeitpunkt statt, an dem international verstärkt über die Rolle der USA und die demokratische Zukunft Venezuelas diskutiert wird. Weitere offizielle Stellungnahmen oder konkrete politische Schritte im Anschluss an ihre Ankunft stehen bislang noch aus.",
+    "r": "Die Rückkehr einer prominenten Oppositionsfigur ist ein wichtiges Signal für die politische Dynamik in Venezuela. Die Entwicklung berührt die internationale Diplomatie sowie die Fragen um Demokratie und den Einfluss der USA in der Region.",
+    "srcs": [
+      {
+        "name": "France24 English",
+        "url": "https://www.france24.com/en/americas/20261025-opposition-leader-machado-returns-to-venezuela-after-10-months-in-exile",
+        "date": "2026-10-25T17:10:11.000Z"
+      },
+      {
+        "name": "NPR World",
+        "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
+        "date": "2026-10-25T16:18:41.000Z"
+      }
+    ],
+    "url": "https://www.france24.com/en/americas/20261025-opposition-leader-machado-returns-to-venezuela-after-10-months-in-exile",
+    "agree": "Beide Quellen stimmen überein, dass die venezolanische Oppositionsführerin María Corina Machado nach monatelangem Exil in ihre Heimat zurückgekehrt ist.",
+    "diff": [
+      {
+        "name": "France24 English",
+        "note": "Berichtet, dass Machado fast ein Jahr im Exil war, Ende 2025 heimlich zur Entgegennahme des Friedensnobelpreises ausreiste und dass ihre Rückkehr vor dem Hintergrund wachsender Zweifel an der Demokratie und der US-Rolle stattfindet."
+      },
+      {
+        "name": "NPR World",
+        "note": "Zitiert Machados Social-Media-Botschaft \"Ich bin hier. Mit euch.\" wörtlich und fasst die Rückkehr kürzer zusammen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-f6b6d1c86881a871",
+    "c": "INT",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-25T16:48:44.000Z",
+    "p": 3,
+    "st": "BY",
+    "city": "",
+    "t": "Audi plant erstes US-Werk im Beisein von Donald Trump",
+    "s": "Der deutsche Autobauer Audi hat den Bau seines ersten eigenen Werks in den USA angekündigt. Die Bekanntgabe erfolgte im Rahmen einer Wahlkampfveranstaltung mit US-Präsident Donald Trump, auf der auch Audi-Chef Gernot Döllner anwesend war. Der Schritt erfolgt vor dem Hintergrund drohender US-Zölle und der aktuellen Krise beim Mutterkonzern VW. Aus der deutschen Politik, insbesondere von der SPD, gab es bereits erste Kritik an dem Vorhaben.",
+    "m": "US-Präsident Donald Trump hat auf einer Wahlkampfveranstaltung angekündigt, dass die VW-Tochter Audi ihr erstes Werk in den USA errichten wird. Bei der Präsentation stand Audi-Chef Döllner gemeinsam mit Trump auf der Bühne. Das Projekt markiert einen bedeutenden Schritt für den deutschen Premium-Autobauer auf dem US-Markt, der in der Vergangenheit häufig mit der Drohung hoher Zölle durch Trump konfrontiert wurde. Die Ankündigung fällt in eine ohnehin schwierige Phase für den VW-Konzern, der in Deutschland mit massiven Krisenerscheinungen zu kämpfen hat. Kritische Stimmen zu dem Vorhaben kamen unter anderem von der SPD in Deutschland. Ob konkrete Investitionssummen, Zeitpläne oder genaue Standorte für das geplante Werk genannt wurden, geht aus den vorliegenden Berichten nicht hervor. Die Reaktionen auf wirtschaftlicher und politischer Ebene bleiben abzuwarten.",
+    "r": "Die Ansiedlung eines Audi-Werks in den USA ist wirtschafts- und industriepolitisch von Bedeutung, da sie im Spannungsfeld zwischen drohenden US-Zöllen, der Krise beim Mutterkonzern Volkswagen und internationaler Standortverlagerung stattfindet.",
+    "srcs": [
+      {
+        "name": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/wirtschaft/auf-wahlkampftour-trump-kuendigt-erstes-audi-werk-in-den-usa-an,VZ2ObRn",
+        "date": "2026-10-25T16:48:44.000Z"
+      },
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/amerika/audi-usa-trump-100.html",
+        "date": "2026-10-25T15:04:51.000Z"
+      }
+    ],
+    "url": "https://www.br.de/nachrichten/wirtschaft/auf-wahlkampftour-trump-kuendigt-erstes-audi-werk-in-den-usa-an,VZ2ObRn",
+    "agree": "Beide Quellen stimmen darin überein, dass Audi den Bau seines ersten Werks in den USA angekündigt hat und diese Bekanntgabe auf einer Wahlkampfveranstaltung von Donald Trump stattfand.",
+    "diff": [
+      {
+        "name": "BR24 Bayern",
+        "note": "Erwähnt zusätzlich die Anwesenheit von Audi-Chef Döllner auf der Bühne und die Kritik von der SPD."
+      },
+      {
+        "name": "Tagesschau",
+        "note": "Erwähnt ergänzend die Drohungen Trumps mit hohen Zöllen gegenüber ausländischen Unternehmen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-2a188a41b42ff3f8",
+    "c": "INT",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-25T15:28:38.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Audi-Chef bei Trump-Kundgebung für neues Werk in der Kritik",
+    "s": "Bei der Ankündigung eines neuen Audi-Werks in Georgia durch Donald Trump stand Audi-Chef Gernot Döllner mit auf der Bühne. Dies sorgt für scharfe Kritik aus der deutschen Politik. Eine SPD-Abgeordnete bezeichnete den Auftritt als Schande. Über das eigentliche Projekt muss jedoch noch der VW-Aufsichtsrat entscheiden.",
+    "m": "Der Auftritt von Audi-Chef Gernot Döllner bei einer Kundgebung von Donald Trump in Georgia hat politische Reaktionen in Deutschland ausgelöst. Anlass war die Ankündigung eines neuen Audi-Werks in den USA, bei der Döllner gemeinsam mit Trump auf der Bühne stand und Applaus erhielt. Eine SPD-Politikerin äußerte sich empört über diesen Auftritt und sprach öffentlich von einer Schande. Ob das geplante Werk in Georgia tatsächlich gebaut wird, ist allerdings noch nicht endgültig entschieden. Das letzte Wort über das Investitionsprojekt liegt beim Aufsichtsrat des Mutterkonzerns Volkswagen. Weitere Details zu den Investitionssummen, genauen Zeitplänen oder Reaktionen seitens VW oder der Gewerkschaften wurden in den Berichten bisher nicht genannt.",
+    "r": "Der Auftritt eines deutschen Top-Unternehmenslenkers an der Seite eines US-Präsidenten bei einer politischen Kundgebung wirft Fragen zur unternehmerischen Neutralität auf. Zudem ist das Projekt wegen der Abhängigkeit von Entscheidungen des VW-Aufsichtsrats wirtschaftlich und politisch von Bedeutung.",
+    "srcs": [
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/deutschland/article6ade169151fb647ba7e7c8f6/audi-auftritt-bei-trump-loest-kritik-aus-4-2-milliarden-geplant.html",
+        "date": "2026-10-25T15:28:38.000Z"
+      },
+      {
+        "name": "t-online Nachrichten",
+        "url": "https://www.t-online.de/nachrichten/ausland/usa/id_101496946/audi-chef-auf-trump-buehne-spd-politikerin-spricht-von-einer-schande-.html",
+        "date": "2026-10-25T14:45:22.000Z"
+      }
+    ],
+    "url": "https://www.welt.de/politik/deutschland/article6ade169151fb647ba7e7c8f6/audi-auftritt-bei-trump-loest-kritik-aus-4-2-milliarden-geplant.html",
+    "agree": "Die Quellen sind sich einig, dass Audi-Chef Gernot Döllner bei einer Kundgebung von Donald Trump in Georgia für ein neues Werk auf der Bühne stand und dies bei einer SPD-Politikerin Empörung sowie den Vorwurf einer \"Schande\" auslöste.",
+    "diff": [
+      {
+        "name": "WELT",
+        "note": "Erwähnt zusätzlich, dass das letzte Wort über das Projekt beim VW-Aufsichtsrat liegt."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-33b5d765ad82aedc",
+    "c": "DE",
+    "o": "DE",
+    "k": "technik",
+    "lang": "de",
+    "d": "2026-10-25T14:36:35.000Z",
+    "p": 2,
+    "st": "BW",
+    "city": "",
+    "t": "Stromausfall rund um Freiburg nach Kurzschluss behoben",
+    "s": "In Freiburg und Umgebung kam es zu einem großflächigen Stromausfall, der mittlerweile wieder behoben ist. Zwischenzeitlich waren rund 10.000 Haushalte von der Unterbrechung betroffen. Ursache des Ausfalls war ein technisches Problem in einer zentralen Anlage.",
+    "m": "Ein Kurzschluss in einem Umspannwerk in Freiburg war der Auslöser für den großflächigen Stromausfall in der Region. Zeitweise mussten rund 10.000 Haushalte ohne Elektrizität auskommen. Die zuständigen Techniker konnten den Fehler lokalisieren und beheben, sodass die Stromversorgung nun wieder flächendeckend gewährleistet ist. Genauere Details zur Entstehung des Kurzschlusses im Umspannwerk wurden zunächst nicht genannt. Auch über die genaue Dauer des Ausfalls machten die Berichte keine Angaben. Personen- oder Sachschäden über den Stromausfall hinaus wurden ebenfalls nicht gemeldet. Die betroffenen Bereiche sind mittlerweile wieder ans Netz angeschlossen.",
+    "r": "Der Ausfall betraf rund 10.000 Haushalte und verdeutlicht die Anfälligkeit regionaler Infrastruktur bei technischen Defekten. Die rasche Behebung zeigt jedoch, dass die Notfallmechanismen der lokalen Versorger griffen.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell Baden-Württemberg",
+        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/freiburg/grossflaechiger-stromausfall-100.html",
+        "date": "2026-10-25T14:36:35.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Baden-Württemberg",
+        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-grossflaechiger-stromausfall-in-teilen-des-stadtgebiets-freiburg-und-in-einzelnen-regionen-des-dreisamtals-100.html",
+        "date": "2026-10-25T11:25:00.000Z"
+      }
+    ],
+    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/freiburg/grossflaechiger-stromausfall-100.html",
+    "agree": "Beide Quellen stimmen überein, dass ein Kurzschluss in einem Umspannwerk in Freiburg die Ursache für den Stromausfall war und rund 10.000 Haushalte betroffen sowie die Störung inzwischen behoben ist.",
+    "diff": [
+      {
+        "name": "SWR Aktuell Baden-Württemberg",
+        "note": "Berichtet über den Stromausfall mit dem Titel ohne den Zusatz großflächig."
+      },
+      {
+        "name": "Tagesschau Regional Baden-Württemberg",
+        "note": "Betitelt den Vorfall als großflächigen Stromausfall."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-740bf024ea3c899d",
     "c": "INT",
     "o": "DE",
@@ -132,6 +880,47 @@
     "independent": 2
   },
   {
+    "id": "story-2a775594b4402c2d",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-25T13:02:00.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Stichwahl in Brasilien: Kopf-an-Kopf-Rennen zwischen Lula und Bolsonaro",
+    "s": "Vor der Stichwahl in Brasilien liefern sich der amtierende Präsident Lula da Silva und Amtsinhaber Bolsonaro ein enges Kopf-an-Kopf-Rennen. Umfragen sagen einen äußerst knappen Ausgang voraus. Das Land ist im Vorfeld der Wahl tief gespalten. Die Entscheidung über den Wahlausgang könnte von den bisher Unentschlossenen abhängen.",
+    "m": "Die Stichwahl in Brasilien entwickelt sich zu einer historischen Zerreißprobe für das Land, bei der beide Präsidentschaftskandidaten gleichauf liegen. Beobachter sehen die politische Zukunft Brasiliens offen, da die Wählerschaft stark polarisiert ist. Im Umfeld des Lagers von Bolsonaro wird ein mögliches Comeback diskutiert, während gleichzeitig die Rolle der noch unentschlossenen Wähler als entscheidender Faktor für den Wahlausgang gilt. Die Dynamik des Wahlkampfs zeigt ein hochspannendes Duell zwischen den beiden prominentesten politischen Lagern des Landes. Konkrete Wähleranteile oder Umfragezahlen abseits des Gleichstands werden in den Berichten nicht genannt. Offen bleibt, welche konkreten Themen die Unentschlossenen in den letzten Tagen vor der Abstimmung noch bewegen werden.",
+    "r": "Die Präsidentschaftswahl in Brasilien ist von globalem und nationalem Interesse, da sie über die politische Ausrichtung des größten südamerikanischen Landes entscheidet. Das enge Rennen und die tiefe Spaltung der Gesellschaft verdeutlichen die polarisierte politische Landschaft Brasiliens.",
+    "srcs": [
+      {
+        "name": "DW Deutsch",
+        "url": "https://www.dw.com/de/stichwahl-in-brasilien-kopf-an-kopf-rennen-zwischen-lula-und-bolsonaro/a-79754404?maca=de-rss-de-all-1119-xml-mrss",
+        "date": "2026-10-25T13:02:00.000Z"
+      },
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/amerika/brasilien-stichwahl-bolsonaro-lula-100.html",
+        "date": "2026-10-25T04:07:12.000Z"
+      }
+    ],
+    "url": "https://www.dw.com/de/stichwahl-in-brasilien-kopf-an-kopf-rennen-zwischen-lula-und-bolsonaro/a-79754404?maca=de-rss-de-all-1119-xml-mrss",
+    "agree": "Beide Quellen sind sich einig, dass es vor der Stichwahl in Brasilien ein enges Kopf-an-Kopf-Rennen zwischen Lula und Bolsonaro gibt und das Land tief gespalten ist.",
+    "diff": [
+      {
+        "name": "DW Deutsch",
+        "note": "Erwähnt konkret, dass Flavio Bolsonaro, der Sohn des Ex-Präsidenten, als Favorit in die Stichwahl geht, und thematisiert ein mögliches Comeback."
+      },
+      {
+        "name": "Tagesschau",
+        "note": "Weist darauf hin, dass die Autorin Anne Herrberg berichtet und betont, dass besonders die Unentschlossenen zum entscheidenden Faktor werden könnten."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-9c76cbea0241b253",
     "c": "DE",
     "o": "DE",
@@ -214,47 +1003,6 @@
     "independent": 2
   },
   {
-    "id": "story-33b5d765ad82aedc",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-25T12:05:54.000Z",
-    "p": 2,
-    "st": "BW",
-    "city": "",
-    "t": "Stromausfall in Freiburg und Umgebung nach Kurzschluss behoben",
-    "s": "Ein großflächiger Stromausfall hat am Montag rund um Freiburg etwa 10.000 Haushalte zeitweise von der Stromversorgung abgeschnitten. Ursache für die Störung war ein technischer Defekt in Form eines Kurzschlusses. Inzwischen ist die Stromversorgung wieder vollständig hergestellt.",
-    "m": "Am Tag des Vorfalls kam es in Freiburg und der umliegenden Region zu einem plötzlichen und großflächigen Stromausfall. Insgesamt waren schätzungsweise 10.000 Haushalte von den Einschränkungen betroffen. Als Ursache wurde von den zuständigen Stellen ein Kurzschluss in einem lokalen Umspannwerk identifiziert. Nach eingeleiteten Reparatur- und Schaltmaßnahmen konnten die Techniker das Problem zügig beheben. Alle betroffenen Haushalte sind inzwischen wieder ans Netz angeschlossen. Weitere Details zu Folgeschäden oder der genauen Dauer des Ausfalls wurden in den Meldungen nicht genannt.",
-    "r": "Der Vorfall betraf eine größere Anzahl von Haushalten in einer regionalen Region und verdeutlicht die Anfälligkeit kritischer Infrastruktur für technische Defekte wie Kurzschlüsse. Solche Störungen erfordern schnelle Reaktionen der Energieversorger, um die Versorgungssicherheit wiederherzustellen.",
-    "srcs": [
-      {
-        "name": "SWR Aktuell",
-        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/freiburg/grossflaechiger-stromausfall-100.html",
-        "date": "2026-10-25T12:05:54.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Baden-Württemberg",
-        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-grossflaechiger-stromausfall-in-teilen-des-stadtgebiets-freiburg-und-in-einzelnen-regionen-des-dreisamtals-100.html",
-        "date": "2026-10-25T11:25:00.000Z"
-      }
-    ],
-    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/freiburg/grossflaechiger-stromausfall-100.html",
-    "agree": "Beide Quellen stimmen überein, dass ein Kurzschluss in einem Umspannwerk in Freiburg die Ursache für den Stromausfall von rund 10.000 Haushalten war und die Störung inzwischen behoben ist.",
-    "diff": [
-      {
-        "name": "SWR Aktuell",
-        "note": "Berichtet schlicht von einem 'Stromausfall rund um Freiburg'."
-      },
-      {
-        "name": "Tagesschau Regional Baden-Württemberg",
-        "note": "Bezeichnet den Vorfall präzisier als 'Großflächiger Stromausfall rund um Freiburg'."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
     "id": "story-022c16869c1b6f3f",
     "c": "INT",
     "o": "DE",
@@ -290,6 +1038,47 @@
       {
         "name": "BR24 Bayern",
         "note": "Nennt den genauen Standort Georgia, die geplante Milliardeninvestition sowie den Kontext der aktuellen Krise bei VW."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-852a072c1b1d7e95",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-25T11:02:18.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Feuer am Kehlsteinhaus in der Nacht erneut aufgeflammt",
+    "s": "Nach dem Großbrand am historischen Kehlsteinhaus in Berchtesgaden ist das Feuer in der Nacht erneut aufgeflammt. Die Feuerwehr musste abermals ausrücken, um den Brand zu bekämpfen. Das Gebäude im früheren Sperrgebiet Obersalzberg ist nach Polizeiangaben fast vollständig zerstört.",
+    "m": "Das Feuer an dem als Hitlers Teehaus bekannten Kehlsteinhaus war zunächst gelöscht worden, flammte in der Nacht jedoch wieder auf. Die Kriminalpolizei geht bei dem Vorfall von Brandstiftung aus. Der entstandene Sachschaden geht in die Millionen Euro. Trotz der massiven Zerstörungen gibt es bereits Pläne, das historische Bauwerk wieder aufzubauen. Die genauen Ermittlungen zur Brandursache und zu den Hintergründen dauern an. Das Gebäude liegt auf dem Obersalzberg, der früher ein wichtiges NS-Areal war.",
+    "r": "Der erneute Ausbruch des Feuers an einem geschichtsträchtigen und touristisch bedeutsamen Gebäude mit hohem Sachschaden ist von öffentlichem Interesse. Zudem wirft die mutmaßliche Brandstiftung Sicherheitsfragen auf.",
+    "srcs": [
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/panorama/hitlers-teehaus-feuer-am-kehlsteinhaus-wieder-aufgeflammt-AHIYSA6NAVB37NFRYWL44NGAFY.html",
+        "date": "2026-10-25T11:02:18.000Z"
+      },
+      {
+        "name": "DW Deutsch",
+        "url": "https://www.dw.com/de/großbrand-am-kehlsteinhaus-feuer-wieder-aufgeflammt/a-79754334?maca=de-rss-de-all-1119-xml-mrss",
+        "date": "2026-10-25T10:45:00.000Z"
+      }
+    ],
+    "url": "https://www.rnd.de/panorama/hitlers-teehaus-feuer-am-kehlsteinhaus-wieder-aufgeflammt-AHIYSA6NAVB37NFRYWL44NGAFY.html",
+    "agree": "Beide Quellen stimmen überein, dass es am Kehlsteinhaus zu einem Großbrand kam und das Feuer in der Nacht erneut aufgeflammt ist.",
+    "diff": [
+      {
+        "name": "RND",
+        "note": "Berichtet detailliert, dass die Polizei von Brandstiftung ausgeht, das Gebäude fast vollständig zerstört ist, der Schaden in die Millionen geht und ein Wiederaufbau geplant ist."
+      },
+      {
+        "name": "DW Deutsch",
+        "note": "Erwähnt zusätzlich, dass das Gebäude im früheren Nazi-Sperrgebiet Obersalzberg liegt."
       }
     ],
     "chg": "",
@@ -896,10 +1685,10 @@
     "p": 2,
     "st": "BW",
     "city": "",
-    "t": "Städte in Finanznot: Kann bürgerschaftliches Engagement Einsparungen ausgleichen?",
-    "s": "Städte und Gemeinden in Baden-Württemberg müssen aufgrund leerer Kassen sparen, was zu Einschnitten bei Freibädern, Kulturförderung und Schulen führt. Angesichts dieser Finanznot stellt sich die Frage, inwieweit freiwilliges Engagement von Bürgerinnen und Bürgern diesen Mangel ausgleichen kann. Mancherorts werden Menschen bereits selbst aktiv, um kommunale Angebote und Einrichtungen zu erhalten. Nun wird diskutiert, ob bürgerschaftlicher Einsatz eine nachhaltige Lösung für die Krise der Kommunal",
-    "m": "Die Haushaltslage vieler Städte und Gemeinden in Baden-Württemberg ist angespannt, weshalb drastische Sparmaßnahmen ergriffen werden müssen. Zu den spürbaren Folgen für die Bevölkerung gehören unter anderem geschlossene Freibäder, reduzierte Mittel für die Kulturförderung sowie marode Schulgebäude. Da die öffentlichen Haushalte die kommunale Daseinsvorsorge und freiwillige Leistungen kaum noch finanzieren können, rückt die Eigeninitiative der Zivilgesellschaft stärker in den Fokus. In einigen Kommunen greifen Bürger bereits selbst zur Tat, um Schließungen oder den Verfall von Infrastruktur abzuwenden. Es ist jedoch umstritten, ob dieses ehrenamtliche Engagement strukturelle Defizite und fehlende staatliche Finanzierung dauerhaft ersetzen kann oder ob es lediglich temporäre Linderung verschafft. Offen bleibt zudem, welche rechtlichen und organisatorischen Rahmenbedingungen nötig sind, um solche Initiativen langfristig zu unterstützen.",
-    "r": "Die finanzielle Notlage von Städten und Gemeinden betrifft direkt die Lebensqualität der Bürger durch konkrete Einschränkungen wie geschlossene Bäder oder marode Schulen. Die Frage nach den Grenzen und Möglichkeiten von Eigeninitiative ist für die künftige kommunale Handlungsfähigkeit von zentraler Bedeutung.",
+    "t": "Städte in Finanznot: Kann bürgerschaftliches Engagement Lücken füllen?",
+    "s": "Städte und Gemeinden stehen vor enormen finanziellen Herausforderungen, was zu Einschnitten wie geschlossenen Freibädern, reduzierter Kulturförderung und maroden Schulen führt. Diese Sparmaßnahmen sind für Bürger im Alltag direkt spürbar. Als Reaktion darauf werden in einigen Fällen Bürger selbst aktiv, um kommunale Angebote zu unterstützen. Die Frage steht im Raum, inwieweit dieses freiwillige Engagement als Lösungsansatz dienen kann.",
+    "m": "Die angespannte Haushaltslage vieler Kommunen zwingt zu drastischen Sparmaßnahmen in Bereichen wie Freizeit, Bildung und Kultur. Betroffen sind davon oft symbolträchtige Einrichtungen wie Freibäder oder die Unterstützung für kulturelle Projekte. Auch die Infrastruktur leidet unter dem Investitionsstau, was sich an maroden Schulen zeigt. In dieser Situation übernehmen engagierte Bürger zunehmend Aufgaben, um den Wegfall öffentlicher Angebote abzufedern. Es wird kontrovers diskutiert, ob ehrenamtlicher Einsatz dauerhaft staatliche Leistungen ersetzen kann. Dabei stellt sich auch die Frage nach der Belastungsgrenze des Ehrenamts und der gerechten Verteilung von Ressourcen. Bislang bleibt offen, wie flächendeckend und wirksam solche privaten Initiativen auf Dauer sind.",
+    "r": "Die finanzielle Krise der Kommunen und die daraus resultierenden Einschnitte betreffen die Daseinsvorsorge der Bürger direkt. Die Diskussion berührt grundlegende Fragen zur Zukunftsfähigkeit der kommunalen Infrastruktur und der Rolle des Ehrenamts.",
     "srcs": [
       {
         "name": "SWR Aktuell Baden-Württemberg",
@@ -913,7 +1702,7 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/wenn-staedte-sparen-muessen-sollen-buerger-mehr-aufgaben-uebernehmen-100.html",
-    "agree": "Beide Quellen stimmen darin überein, dass Städte und Gemeinden sparen müssen, was zu Folgen wie geschlossenen Freibädern, weniger Kulturförderung und maroden Schulen führt, und werfen die Frage auf, ob bürgerschaftliches Engagement dies ausgleichen kann.",
+    "agree": "Beide Quellen stimmen überein, dass Städte und Gemeinden wegen Sparzwängen Leistungen wie Freibäder, Kulturförderung und Schulsanierungen kürzen müssen und Bürger daraufhin teilweise selbst aktiv werden.",
     "diff": [],
     "chg": "",
     "independent": 2
@@ -15216,767 +16005,6 @@
         "note": "Berichtet allgemein, dass Deutschland und der Bund die Erklärung unterzeichnet haben, ohne die beteiligten Ministerien namentlich zu nennen."
       }
     ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-75569ae0eb61e359",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-19T19:29:00.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Nächtliche Ausgangssperren in Frankreich nach Protesten und Plünderungen",
-    "s": "Nach Protesten gegen hohe Lebenshaltungskosten kam es in mehreren französischen Städten am Wochenende zu Ausschreitungen und Plünderungen. Als Reaktion darauf verhängen die zuständigen Stellen nun nächtliche Ausgangssperren. Die Maßnahmen richten sich unter anderem gegen Minderjährige und gelten ab dem Abend.",
-    "m": "In mehreren französischen Städten gelten ab dem Abend nächtliche Ausgangssperren als Reaktion auf Ausschreitungen und Plünderungen. Diese Vorfälle ereigneten sich am Wochenende im Rahmen von Protesten gegen hohe Lebenshaltungskosten. Von den neuen Regelungen sind unter anderem Teile von Paris, Lille und Douai betroffen. Die Ausgangssperren gelten speziell für Minderjährige in diesen Regionen. Die Behörden reagieren damit auf die zunehmende Gewalt und die Plünderungen während der Kundgebungen. Weitere Details zu den genauen Uhrzeiten oder der Dauer der Maßnahmen wurden zunächst nicht genannt. Die Situation in den betroffenen Städten bleibt angespannt.",
-    "r": "Die Verhängung nächtlicher Ausgangssperren in mehreren französischen Städten zeigt die Eskalation von Protesten gegen hohe Lebenshaltungskosten. Dies wirft Fragen zur öffentlichen Sicherheit und zur Reaktion der Behörden auf Jugendkriminalität und Ausschreitungen auf.",
-    "srcs": [
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/ausland/frankreich-staedte-verhaengen-naechtliche-ausgangssperren-nach-pluenderungen-a-9793648b-83d2-4067-a54a-8d7469b117ce#ref=rss",
-        "date": "2026-10-19T19:29:00.000Z"
-      },
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/politik/ausland/2026-10/ausschreitungen-frankreich-ausgangssperre-lille-douai-gxe",
-        "date": "2026-10-19T18:12:08.000Z"
-      }
-    ],
-    "url": "https://www.spiegel.de/ausland/frankreich-staedte-verhaengen-naechtliche-ausgangssperren-nach-pluenderungen-a-9793648b-83d2-4067-a54a-8d7469b117ce#ref=rss",
-    "agree": "Die Quellen sind sich einig, dass in mehreren französischen Städten nach Protesten nächtliche Ausgangssperren verhängt wurden.",
-    "diff": [
-      {
-        "name": "DER SPIEGEL",
-        "note": "Berichtet, dass die Ausschreitungen und Plünderungen eine Reaktion auf Proteste gegen hohe Lebenshaltungskosten waren."
-      },
-      {
-        "name": "ZEIT ONLINE",
-        "note": "Nennt konkret, dass die Ausgangssperren für Minderjährige gelten und führt Paris, Lille sowie Douai als betroffene Städte auf."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-8fe5b3b511d2ca0c",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-19T19:26:39.000Z",
-    "p": 2,
-    "st": "NI",
-    "city": "",
-    "t": "Stader Mutter-Kind-Haus öffnet nach tödlichen Schüssen wieder",
-    "s": "Knapp vier Monate nach der Bluttat mit sechs Toten in einer Stader Einrichtung öffnet das Mutter-Kind-Haus wieder. Die Leitung des Heims hat die Tochter eines der Opfer übernommen. Die Wiedereröffnung markiert einen wichtigen Schritt zur Bewältigung der Tragödie für die beteiligten Personen und die Region.",
-    "m": "Das Stader Mutter-Kind-Haus nimmt nach fast viermonatiger Schließung seinen Betrieb wieder auf. Die Einrichtung war nach einer gewaltsamen Tragödie mit insgesamt sechs Toten am 29. Juni geschlossen worden. Als neue Geschäftsführerin der betroffenen Stethu GmbH tritt Kiara Lindner an. Eine bemerkenswerte Besonderheit ist, dass ihre Mutter Ilka Lindner zu den Opfern der Gewalttat gehörte. Mit diesem Schritt übernimmt eine Angehörige die Verantwortung für die Weiterführung des Hauses. Es ist bisher unklar, wie genau die Betreuung in der anlaufenden Phase strukturiert wird, aber die Wiedereröffnung gilt als zentraler Moment für die Gemeinschaft und die betroffenen Familien.",
-    "r": "Die Wiedereröffnung des Hauses nach einer schweren Gewalttat mit sechs Opfern betrifft die öffentliche Sicherheit, die soziale Infrastruktur sowie die Aufarbeitung eines Kriminalfalls in Niedersachsen.",
-    "srcs": [
-      {
-        "name": "NDR Niedersachsen",
-        "url": "https://www.ndr.de/fernsehen/sendungen/hallo_niedersachsen/nach-toedlichen-schuessen-stader-mutter-kind-haus-oeffnet-wieder,hallonds-11026.html",
-        "date": "2026-10-19T19:26:39.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Niedersachsen",
-        "url": "https://www.tagesschau.de/inland/regional/niedersachsen/nach-toedlichen-schuessen-mutter-kind-heim-in-stade-oeffnet-wieder,stade-390.html",
-        "date": "2026-10-19T19:26:09.000Z"
-      }
-    ],
-    "url": "https://www.ndr.de/fernsehen/sendungen/hallo_niedersachsen/nach-toedlichen-schuessen-stader-mutter-kind-haus-oeffnet-wieder,hallonds-11026.html",
-    "agree": "Beide Quellen stimmen überein, dass das Stader Mutter-Kind-Haus nach den tödlichen Schüssen mit sechs Toten nach knapp vier Monaten wieder öffnet und die Leitung von der Tochter eines Opfers übernommen wird.",
-    "diff": [
-      {
-        "name": "NDR Niedersachsen",
-        "note": "Erwähnt, dass die Einrichtung fast vier Monate geschlossen war."
-      },
-      {
-        "name": "Tagesschau Regional Niedersachsen",
-        "note": "Nennt den genauen Namen der neuen Geschäftsführerin (Kiara Lindner), den Namen ihrer getöteten Mutter (Ilka) sowie die Gesellschaft (Stethu GmbH) und das konkrete Datum der Tat (29. Juni)."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-7ad25529e4e52c90",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-19T19:25:12.000Z",
-    "p": 2,
-    "st": "NI",
-    "city": "",
-    "t": "Tochter eines Opfers übernimmt Leitung des Mutter-Kind-Hauses in Stade",
-    "s": "Das im Juni nach einer Bluttat mit sechs Toten geschlossene Mutter-Kind-Haus in Stade hat wieder geöffnet. Die neue Geschäftsführerin der Einrichtung ist Kiara Lindner. Sie ist die Tochter einer Frau, die bei dem Gewaltverbrechen im Sommer ums Leben kam.",
-    "m": "Nach der Bluttat vom Juni, bei der ein Täter sechs Menschen in dem Mutter-Kind-Haus in Stade erschoss, hat die Einrichtung den Betrieb wieder aufgenommen. Die Leitung des Hauses hat nun Kiara Lindner übernommen. Ihre Mutter war unter den Opfern des Angriffs. NDR Niedersachsen führte ein Gespräch mit der neuen Geschäftsführerin. Weitere Details zu den Hintergründen der Bluttat oder dem genauen Tathergang gehen aus den vorliegenden Berichten nicht hervor. Auch über die genauen Abläufe der Wiedereröffnung oder weitere personelle Besetzungen gibt es keine Angaben.",
-    "r": "Die Wiedereröffnung des nach einer Bluttat geschlossenen Mutter-Kind-Hauses unter neuer Leitung zeigt den Umgang mit den Folgen der Tat. Das Ereignis hat durch die familiäre Verbindung der neuen Geschäftsführerin zu einem Opfer eine besondere emotionale und gesellschaftliche Dimension.",
-    "srcs": [
-      {
-        "name": "Tagesschau Regional Niedersachsen",
-        "url": "https://www.tagesschau.de/inland/regional/niedersachsen/21-jaehrige-ist-neue-leiterin-von-mutter-kind-haus-in-stade,stade-394.html",
-        "date": "2026-10-19T19:25:12.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/panorama/stade-tochter-von-opfer-uebernimmt-mutter-kind-haus-a-4ad6b0f9-d6a3-487e-bc4a-53db3b2a1ac8#ref=rss",
-        "date": "2026-10-19T15:00:00.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/regional/niedersachsen/21-jaehrige-ist-neue-leiterin-von-mutter-kind-haus-in-stade,stade-394.html",
-    "agree": "Beide Quellen stimmen darin überein, dass die Tochter eines Opfers der Bluttat in Stade die Leitung des wiedereröffneten Mutter-Kind-Hauses übernimmt.",
-    "diff": [
-      {
-        "name": "Tagesschau Regional Niedersachsen",
-        "note": "Erwähnt zusätzlich, dass das Medium NDR Niedersachsen ein Gespräch mit der neuen Leiterin geführt hat."
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "Nennt den Namen der neuen Geschäftsführerin (Kiara Lindner) explizit."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-f7491117697e68ae",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-19T19:23:41.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Bundesregierung und Nvidia vereinbaren Kooperation für Künstliche Intelligenz",
-    "s": "Deutschland und der US-Chip-Gigant Nvidia haben eine Partnerschaft zur Entwicklung Künstlicher Intelligenz beschlossen. Die Vereinbarung wurde beim ersten \"Invest-in-Germany\"-Gipfel verkündet. Ziel ist es, die deutsche Wettbewerbsfähigkeit zu stärken.",
-    "m": "Die Bundesregierung und der US-Konzern Nvidia haben eine offizielle KI-Kooperation vereinbart, um Deutschland im Bereich der Zukunftstechnologien voranzubringen. Die Bekanntgabe erfolgte im Rahmen des ersten \"Invest-in-Germany\"-Gipfels. Konkreter Bestandteil der Initiative ist laut den beteiligten Akteuren eine Zusammenarbeit für Roboter sowie das Ziel, industrielle Künstliche Intelligenz systematisch in die breite Anwendung zu bringen. Langfristig soll damit die deutsche Wettbewerbsfähigkeit gesteigert und ein hochmodernes KI-Ökosystem in Europa aufgebaut werden. Offen bleiben bislang Details zur finanziellen Ausstattung oder konkreten Zeitplänen der Partnerschaft.",
-    "r": "Die Kooperation zwischen Deutschland und einem führenden Technologiekonzern ist von zentraler Bedeutung für die wirtschaftliche Zukunftsfähigkeit und die digitale Infrastruktur des Landes. Sie berührt direkt den industriellen Standort und europäische Technologieinitiativen.",
-    "srcs": [
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/inland/innenpolitik/bund-nvidia-zusammenarbeit-ki-100.html",
-        "date": "2026-10-19T19:23:41.000Z"
-      },
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/wirtschaft/article6ad65cd5598b12b947353b3a/investitionsgipfel-bundesregierung-vereinbart-mit-nvidia-kooperation-fuer-hochmodernes-ki-oekosystem-in-europa.html",
-        "date": "2026-10-19T18:38:57.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/innenpolitik/bund-nvidia-zusammenarbeit-ki-100.html",
-    "agree": "Die Quellen stimmen darin überein, dass die Bundesregierung und Nvidia eine offizielle KI-Kooperation vereinbart haben.",
-    "diff": [
-      {
-        "name": "Tagesschau",
-        "note": "Erwähnt, dass die Vereinbarung beim ersten \"Invest-in-Germany\"-Gipfel verkündet wurde."
-      },
-      {
-        "name": "WELT",
-        "note": "Nennt konkrete Details wie Roboter, die breite Anwendung industrieller KI und die Vision eines „hochmodernen KI‑Ökosystems in Europa“."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-9794e75d09a39ee4",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-19T19:19:23.000Z",
-    "p": 2,
-    "st": "HE",
-    "city": "",
-    "t": "Staatsanwaltschaft Gießen klagt AfD-Politiker wegen NS-Parole an",
-    "s": "Die Staatsanwaltschaft Gießen hat Anklage gegen den AfD-Politiker Kevin Dorow erhoben. Dem Kommunalpolitiker wird vorgeworfen, bei einer Parteiversammlung eine verbotene Parole der Hitlerjugend verwendet zu haben. Dorow weist die Anschuldigungen zurück. Ob das Gericht die Anklage zulässt und es zu einem Prozess kommt, ist derzeit noch unklar.",
-    "m": "Die Staatsanwaltschaft Gießen wirft dem AfD-Politiker Kevin Dorow die Verwendung von Kennzeichen verfassungswidriger Organisationen vor. Anlass für die Ermittlungen und die nun erfolgte Anklageerhebung ist ein Vorfall bei der Gründung der neuen AfD-Jugendorganisation. Dort soll Dorow eine Parole verwendet haben, die historisch der Hitlerjugend zugeordnet wird. Der Betroffene selbst streitet die Vorwürfe ab. Die juristische Aufarbeitung steht erst am Anfang, da das zuständige Gericht nun über die Eröffnung des Hauptverfahrens entscheiden muss. Das Verfahren berührt die anhaltende Diskussion um rechtsextremistische Tendenzen und die Verwendung verbotener Symbolik innerhalb des politischen Spektrums.",
-    "r": "Die Anklageerhebung gegen einen aktiven Politiker wegen der mutmaßlichen Verwendung einer NS-Parole ist von grundsätzlichem rechtlichen und politischen Interesse. Sie berührt Fragen zum Umgang mit verfassungsfeindlichen Symbolen in politischen Organisationen.",
-    "srcs": [
-      {
-        "name": "Tagesschau Regional Hessen",
-        "url": "https://www.tagesschau.de/inland/regional/hessen/hr-staatsanwaltschaft-giessen-klagt-afd-politiker-wegen-ns-parole-an-100.html",
-        "date": "2026-10-19T19:19:23.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/politik/deutschland/kevin-dorow-staatsanwaltschaft-klagt-afd-politiker-wegen-ns-parole-an-a-01739e4f-e274-4dec-a236-698d910e05a7#ref=rss",
-        "date": "2026-10-19T18:02:00.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/regional/hessen/hr-staatsanwaltschaft-giessen-klagt-afd-politiker-wegen-ns-parole-an-100.html",
-    "agree": "Beide Quellen stimmen überein, dass die Staatsanwaltschaft Gießen Anklage gegen den AfD-Politiker Kevin Dorow wegen der Verwendung einer NS-Parole erhoben hat.",
-    "diff": [
-      {
-        "name": "Tagesschau Regional Hessen",
-        "note": "Erwähnt konkret, dass die Parole bei der Gründung der neuen AfD-Jugendorganisation verwendet worden sein soll."
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "Merkt explizit an, dass noch offen ist, ob es tatsächlich zu einem Prozess kommt."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-93158c580d22f5e1",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-19T19:07:27.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Russischer Drohnenangriff in der Ukraine tötet sechs Menschen, darunter ein Baby",
-    "s": "Bei einem russischen Drohnenangriff auf einen Park im ukrainischen Gebiet Charkiw sind nach Medienberichten sechs Menschen getötet worden. Unter den Opfern befindet sich auch ein einjähriges Mädchen in einem Kinderwagen. Der ukrainische Präsident Wolodymyr Selenskyj hat die Tat scharf verurteilt und von einer reinen Gräueltat gesprochen. Er fordert zudem schärfere Sanktionen beziehungsweise Strafen gegen Russland.",
-    "m": "Der tödliche Vorfall ereignete sich im Gebiet Charkiw, wo ein unbemannter Flugkörper gezielt einen Park traf. Durch die Wucht und die Art des Angriffs kamen insgesamt sechs Personen ums Leben. Besonders tragisch ist der Tod eines erst einjährigen Mädchens, das zum Zeitpunkt des Schlags in einem Kinderwagen saß. Präsident Wolodymyr Selenskyj machte die russische Seite für diesen Angriff verantwortlich und äußerte sich bestürzt über das Vorgehen. Angesichts der anhaltenden Angriffe erneuerte er seine Forderung nach drastischeren internationalen Maßnahmen und schärferen Strafen gegen Russland. Ob weitere Personen verletzt wurden oder welche militärische Relevanz der betroffene Bereich hatte, geht aus den vorliegenden Berichten nicht hervor. Der Vorfall unterstreicht die anhaltende Bedrohung der Zivilbevölkerung durch den fortwährenden Konflikt.",
-    "r": "Der Vorfall verdeutlicht die anhaltende und tödliche Bedrohung der ukrainischen Zivilbevölkerung durch den Konflikt. Zudem zeigt er die politische Reaktion der Staatsführung, die nach solchen Angriffen verschärfte internationale Maßnahmen fordert.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSnFodk5mTHV6cXJpV1Y0SEQ4dFR0cFVXSjJFOUFFZTRwYUQzVDdOeEJ3TGkxUlctWDhXTlNSeWtkRWw0SGExYUhhWjI4MWx1Tzk0ZmliTzVYanM3Wm52ZmdtVlctaWxLbVl3SHVTNVdQSkhuSWdES0xYeTE3R0R3TExtSHMwSlpwWDZFLU53Ym9pSkthN24wVElZYUt1RnAxRXlEdlQwZVRMb2pVckRaR2t0dDJNeFZuZldWd0xOOWtuZER6QXVUNlBfOFFlc1J2SWVLSk9BN1pTZE40ZVhtdnlGcFVTcTVHNWdVenBtRm1PMHEzbG9DOGVB?oc=5",
-        "date": "2026-10-19T19:07:27.000Z"
-      },
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/politik/ausland/article6ad6636351e5094f7a572328/ukraine-krieg-baby-in-kinderwagen-von-drohne-getoetet-selenskyj-spricht-von-reiner-graeueltat.html",
-        "date": "2026-10-19T19:03:54.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSnFodk5mTHV6cXJpV1Y0SEQ4dFR0cFVXSjJFOUFFZTRwYUQzVDdOeEJ3TGkxUlctWDhXTlNSeWtkRWw0SGExYUhhWjI4MWx1Tzk0ZmliTzVYanM3Wm52ZmdtVlctaWxLbVl3SHVTNVdQSkhuSWdES0xYeTE3R0R3TExtSHMwSlpwWDZFLU53Ym9pSkthN24wVElZYUt1RnAxRXlEdlQwZVRMb2pVckRaR2t0dDJNeFZuZldWd0xOOWtuZER6QXVUNlBfOFFlc1J2SWVLSk9BN1pTZE40ZVhtdnlGcFVTcTVHNWdVenBtRm1PMHEzbG9DOGVB?oc=5",
-    "agree": "",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-812d8f101f1af6a9",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-19T18:19:08.000Z",
-    "p": 3,
-    "st": "BY",
-    "city": "",
-    "t": "Migrantenverbände fordern Schutzkonzept vor möglicher AfD-Regierung",
-    "s": "Migrantenverbände in Deutschland fordern angesichts einer möglichen Regierungsbeteiligung der AfD in Sachsen-Anhalt einen besseren Schutz von Minderheiten. Vor der anstehenden Ministerpräsidentenkonferenz haben sie dazu einen Brandbrief mit konkreten Forderungen verfasst. Bund und Länder sollen demnach aktiv werden, um den gesellschaftlichen Schutz zu gewährleisten.",
-    "m": "Die Initiative der Migrantenverbände erfolgt nur wenige Tage vor der Ministerpräsidentenkonferenz und reagiert auf die politische Entwicklung in Sachsen-Anhalt, wo eine AfD-geführte Regierung droht. In dem gemeinsamen Brief werden konkrete Maßnahmen zum Schutz von Minderheiten und von Menschen mit Migrationsgeschichte gefordert. Ein zentraler Punkt der Forderungen ist dabei die Lockerung der bestehenden Wohnsitzauflagen für Geflüchtete und Migranten. Die Verbände sehen die demokratischen Grundwerte und den gesellschaftlichen Zusammenhalt durch das mögliche Erstarken der AfD in Regierungsverantwortung akut gefährdet. Bisher ist unklar, wie Bund und Länder auf den Vorstoß der Verbände reagieren werden. Die Debatte verdeutlicht die wachsende Besorgnis zivilgesellschaftlicher Akteure über die politische Verschiebung in den ostdeutschen Ländern.",
-    "r": "Die Forderungen von Migrantenverbänden verdeutlichen die gesellschaftliche und politische Debatte über den Umgang mit der AfD in Regierungsverantwortung. Die Initiative setzt Bund und Länder kurz vor der Ministerpräsidentenkonferenz unter Handlungsdruck.",
-    "srcs": [
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/migrantenverbaende-fordern-schutz-vor-moeglicher-afd-regierung,VYWCZq1",
-        "date": "2026-10-19T18:19:08.000Z"
-      },
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/politik/deutschland/afd-regierung-sachsen-anhalt-migrantenverband-schutzmassnahme-100.html",
-        "date": "2026-10-19T18:15:00.000Z"
-      }
-    ],
-    "url": "https://www.br.de/nachrichten/deutschland-welt/migrantenverbaende-fordern-schutz-vor-moeglicher-afd-regierung,VYWCZq1",
-    "agree": "Die Quellen sind sich einig, dass Migrantenverbände angesichts einer möglichen AfD-Regierung in Sachsen-Anhalt einen Schutz für Minderheiten fordern.",
-    "diff": [
-      {
-        "name": "BR24 Bayern",
-        "note": "Berichtet über einen Brief mit konkreten Forderungen und den zeitlichen Bezug zur Ministerpräsidentenkonferenz."
-      },
-      {
-        "name": "ZDF heute",
-        "note": "Erwähnt zusätzlich die Forderung nach der Lockerung von Wohnsitzauflagen durch Bund und Länder."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-e6c704ef78f07d56",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-19T18:14:47.000Z",
-    "p": 2,
-    "st": "MV",
-    "city": "",
-    "t": "Eisengießerei Ueckermünde: Widerstand gegen drohende Schließung",
-    "s": "Trotz erneuter Gespräche steht die Eisengießerei in Ueckermünde vor der Schließung. Beschäftigte des Betriebes wehren sich gegen die Entscheidung und halten eine Mahnwache ab. Von dem Aus wären knapp 300 Mitarbeiter betroffen.",
-    "m": "Die Zukunft der Eisengießerei Ueckermünde ist ungewiss, da auch nach jüngsten Verhandlungen keine Rettung für den Standort in Sicht ist. Um ihrem Protest gegen die Pläne Ausdruck zu verleihen, haben Beschäftigte eine Mahnwache vor dem Werk eingerichtet. Sollte es tatsächlich zur Schließung kommen, stünde für fast 300 Arbeitnehmer der Verlust ihrer Arbeitsplätze im Raum. Bislang ist unklar, ob es trotz der festgefahrenen Situation noch eine realistische Chance auf den Erhalt des Standortes gibt. Der Fall sorgt in der Region Mecklenburg-Vorpommern für große Sorge um die Arbeitsplätze.",
-    "r": "Die drohende Schließung eines industriellen Standortes mit fast 300 betroffenen Arbeitsplätzen hat erhebliche wirtschaftliche und soziale Auswirkungen auf die Region. Der Fall verdeutlicht die aktuellen Herausforderungen für tradierte Produktionsbetriebe.",
-    "srcs": [
-      {
-        "name": "Tagesschau Regional Mecklenburg-Vorpommern",
-        "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/eisengiesserei-ueckermuende-widerstand-gegen-geplante-schliessung,ueckermuende-108.html",
-        "date": "2026-10-19T18:14:47.000Z"
-      },
-      {
-        "name": "NDR Mecklenburg-Vorpommern",
-        "url": "https://www.ndr.de/fernsehen/sendungen/nordmagazin/geplante-schliessung-mahnwache-vor-eisengiesserei-ueckermuende,nordmagazin-15168.html",
-        "date": "2026-10-19T18:06:22.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/eisengiesserei-ueckermuende-widerstand-gegen-geplante-schliessung,ueckermuende-108.html",
-    "agree": "Beide Quellen berichten über die geplante Schließung der Eisengießerei in Ueckermünde und die Mahnwache der Beschäftigten als Protestzeichen.",
-    "diff": [
-      {
-        "name": "Tagesschau Regional Mecklenburg-Vorpommern",
-        "note": "Erwähnt zusätzlich, dass es auch nach erneuten Gesprächen keine Rettung für den Standort gibt."
-      },
-      {
-        "name": "NDR Mecklenburg-Vorpommern",
-        "note": "Nennt konkret die Zahl von knapp 300 Mitarbeitern, die bei einer Schließung ihre Arbeit verlieren würden."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-d62d5bc6481a227f",
-    "c": "INT",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-19T17:19:02.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Europäischer Haftbefehl gegen zwei Deutsche nach Starlink-Anschlag in Bulgarien",
-    "s": "Nach einem mutmaßlichen Brandanschlag auf eine Satellitenanlage des US-Kommunikationssystems Starlink in Bulgarien hat das Land europäische Haftbefehle gegen zwei deutsche Staatsbürger erlassen. Die Verdächtigen sind laut den Berichten als Touristen in das Land eingereist. Die bulgarischen Behörden ermitteln nun gegen die jungen Männer, denen bei einer Verurteilung erhebliche Haftstrafen drohen.",
-    "m": "Die bulgarischen Justizbehörden haben nach einem mutmaßlichen Brandanschlag auf eine Anlage des Satellitendienstes Starlink offiziell Haftbefehl gegen zwei 19-jährige deutsche Staatsbürger erlassen. Die beiden Tatverdächtigen waren zuvor als Touristen in das osteuropäische Land eingereist und dort offenbar aktiv geworden. Im Falle einer Anklageerhebung und Verurteilung müssen die beiden jungen Männer mit spürbaren Freiheitsstrafen rechnen, die sich nach dem lokalen Recht auf drei bis zwölf Jahre belaufen könnten. Der Vorfall fügt sich in eine Reihe möglicher Sabotageakte ein, wie sie in ähnlicher Weise auch in Polen beobachtet wurden. Die Ermittlungen der lokalen Sicherheitsbehörden dauern an, um die genauen Hintergründe und mögliche Hintermänner oder Komplizen zu identifizieren. Offen ist bislang, wie genau der Anschlag ausgeführt wurde und ob es Verbindungen zu anderen Sabotageakten in Europa gibt.",
-    "r": "Der Fall ist von sicherheitspolitischer Relevanz, da mutmaßliche Sabotageakte gegen kritische Infrastruktur wie Satellitenkommunikation in mehreren europäischen Ländern untersucht werden. Zudem sind deutsche Staatsbürger direkt als Tatverdächtige in einem anderen EU-Land betroffen.",
-    "srcs": [
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/politik/ausland/video6ad64f555e327b030a8553bd/sabotage-bulgarien-erlaesst-haftbefehl-gegen-zwei-deutsche-wegen-starlink-anschlags.html",
-        "date": "2026-10-19T17:19:02.000Z"
-      },
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/politik/Haftbefehl-gegen-Deutsche-wegen-Starlink-Anschlags-in-Bulgarien-id31435529.html",
-        "date": "2026-10-19T17:04:39.000Z"
-      }
-    ],
-    "url": "https://www.welt.de/politik/ausland/video6ad64f555e327b030a8553bd/sabotage-bulgarien-erlaesst-haftbefehl-gegen-zwei-deutsche-wegen-starlink-anschlags.html",
-    "agree": "Die Quellen sind sich einig, dass nach einem Brandanschlag auf eine Starlink-Anlage in Bulgarien ein Haftbefehl gegen zwei Deutsche erlassen wurde.",
-    "diff": [
-      {
-        "name": "WELT",
-        "note": "Berichtet über den europäischen Haftbefehl nach einem mutmaßlichen Brandanschlag auf eine Starlink-Anlage in Bulgarien."
-      },
-      {
-        "name": "ntv",
-        "note": "Ergänzt, dass die Tatverdächtigen 19 Jahre alt und als Touristen eingereist sind sowie dass ihnen Haftstrafen von drei bis zwölf Jahren drohen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-880ba2f3163cdb4a",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-19T16:57:35.000Z",
-    "p": 2,
-    "st": "SN",
-    "city": "",
-    "t": "Zwei Tatverdächtige stellen sich nach Vorfall am Flughafen Leipzig/Halle",
-    "s": "Nach einer Beschädigung des Sicherheitszauns am Flughafen Leipzig/Halle haben sich zwei Männer der Polizei gestellt. Einer der Tatverdächtigen räumte ein, mit einem Auto in den Zaun gefahren zu sein. Die genauen Umstände des Vorfalls werden nun von den Behörden untersucht. Die Ermittlungen zu dem Zwischenfall dauern an.",
-    "m": "Im Zusammenhang mit dem beschädigten Zaun am Flughafen Leipzig/Halle haben sich zwei Männer bei der Polizei gemeldet, um den Vorfall aufzuklären. Einer der beiden beteiligten Männer ist 20 Jahre alt und gab an, die Kontrolle über sein Auto verloren zu haben und deshalb in den Zaun gefahren zu sein. Ob der zweite Mann ebenfalls im Fahrzeug saß oder wie er an dem Vorfall beteiligt war, ist Gegenstand der weiteren Ermittlungen. Der Zwischenfall führte zu polizeilichen Maßnahmen zur Aufklärung der Sicherheitslücke am Flughafen. Weitere Details zum genauen Zeitpunkt des Unfalls oder zur Schadenshöhe wurden zunächst nicht bekannt gegeben. Die Identität der beiden Männer wurde im Rahmen ihrer Selbststellung aufgenommen. Die Behörden prüfen nun die genauen Aussagen der Tatverdächtigen.",
-    "r": "Die Meldung ist relevant, da ein sicherheitsrelevanter Bereich an einem wichtigen Verkehrsflughafen durch einen Autounfall beschädigt wurde. Die Selbststellung der Tatverdächtigen ist ein wesentlicher Fortschritt für die polizeiliche Aufklärung des Vorfalls.",
-    "srcs": [
-      {
-        "name": "Tagesschau Regional Sachsen",
-        "url": "https://www.tagesschau.de/inland/regional/sachsen/polizei-loch-unfall-auto-,flughafen-zaun-verursacher-100.html",
-        "date": "2026-10-19T16:57:35.000Z"
-      },
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/panorama/flughafen-leipzig-vorfall-sicherheitszaun-100.html",
-        "date": "2026-10-19T14:24:00.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/regional/sachsen/polizei-loch-unfall-auto-,flughafen-zaun-verursacher-100.html",
-    "agree": "Beide Quellen stimmen überein, dass sich zwei Männer der Polizei gestellt haben, nachdem es am Flughafen Leipzig/Halle zu einer Beschädigung des Zauns durch ein Auto kam.",
-    "diff": [
-      {
-        "name": "Tagesschau Regional Sachsen",
-        "note": "Berichtet, dass sich im Fall des beschädigten Zauns zwei Männer der Polizei gestellt haben und einer erklärte, mit dem Auto in den Zaun gefahren zu sein."
-      },
-      {
-        "name": "ZDF heute",
-        "note": "Konkretisiert, dass sich ein 20-Jähriger gestellt hat, der ausgesagt hat, die Kontrolle über ein Auto verloren und dadurch den Zaun durchbrochen zu haben."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-46aa0ae3d89d735a",
-    "c": "INT",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-19T16:38:16.000Z",
-    "p": 2,
-    "st": "BY",
-    "city": "",
-    "t": "Deutsche Bergsteigerin stirbt bei Sturz in den italienischen Alpen",
-    "s": "In den Alpen nahe der Grenze zu Slowenien ist eine deutsche Bergsteigerin tödlich verunglückt. Die erfahrene Kletterin stürzte in einer Steilwand 50 Meter in die Tiefe und erlag ihren Verletzungen. Vermutet wird, dass sich ein Griff in der Wand gelöst hatte.",
-    "m": "Das Unglück ereignete sich in den italienischen Alpen in der Nähe der slowenischen Grenze, wo die erfahrene Kletterin als Bergsteigerin unterwegs war. Ersten Vermutungen zufolge löste sich während des Aufstiegs in der Steilwand ein Griff, woraufhin die Frau rund 50 Meter in die Tiefe stürzte. Den schweren Sturz überlebte sie nicht. Laut den vorliegenden Berichten handelt es sich bei dem Todesopfer um eine 32-jährige Frau aus Deutschland. Rettungskräfte und Behörden waren vor Ort im Einsatz, während die genauen Umstände des Kletterunfalls weiter untersucht werden.",
-    "r": "Der Vorfall verdeutlicht die ständigen Gefahren beim alpinen Klettersport in unwegsamen Steilwänden. Solche tragischen Unfälle führen oft zu behördlichen Überprüfungen der Sicherheitsbedingungen in betroffenen Grenzregionen.",
-    "srcs": [
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/panorama/italien-deutsche-bergsteigerin-stuerzt-50-meter-in-den-tod-S5XIV567MVDPRC5YVN4W7G4KXM.html",
-        "date": "2026-10-19T16:38:16.000Z"
-      },
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/deutsche-bergsteigerin-stuerzt-in-italien-in-den-tod,VYUMuWg",
-        "date": "2026-10-19T11:35:14.000Z"
-      }
-    ],
-    "url": "https://www.rnd.de/panorama/italien-deutsche-bergsteigerin-stuerzt-50-meter-in-den-tod-S5XIV567MVDPRC5YVN4W7G4KXM.html",
-    "agree": "Beide Quellen stimmen darin überein, dass eine erfahrene deutsche Bergsteigerin in den Alpen nahe der slowenischen Grenze tödlich verunglückt ist und vermutlich ein gelöster Griff in einer Steilwand die Ursache war.",
-    "diff": [
-      {
-        "name": "RND",
-        "note": "Erwähnt die konkrete Sturzhöhe von 50 Metern."
-      },
-      {
-        "name": "BR24 Bayern",
-        "note": "Nennt das Alter der verunglückten Frau mit 32 Jahren."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-dc4504da42727d63",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-19T15:43:35.000Z",
-    "p": 3,
-    "st": "BY",
-    "city": "",
-    "t": "Durchbruch im Cold Case Kerstin Langley: Vermisste getötet",
-    "s": "Im seit 2007 anhaltenden Vermisstenfall der Regensburgerin Kerstin Lee Langley gibt es einen großen Durchbruch. Die damals 39-Jährige wurde nach Erkenntnissen der Ermittler Opfer einer Gewalttat. Im Zusammenhang mit dem Verbrechen gibt es drei Verdächtige und ein vorliegendes Geständnis. Zudem wurden bei Neumarkt in der Oberpfalz Knochen gefunden, die sehr wahrscheinlich von der Vermissten stammen.",
-    "m": "Die seit dem Sommer 2007 vermisste Kerstin Lee Langley aus Regensburg ist laut Polizei und Staatsanwaltschaft einem Tötungsdelikt zum Opfer gefallen. Ermittler gaben nun bekannt, dass Knochenfunde bei Neumarkt in der Oberpfalz mit hoher Wahrscheinlichkeit der damals 39-Jährigen zuzuordnen sind. Im Fokus der Ermittlungen steht ein Trio aus drei Verdächtigen, von denen eine Person mittlerweile ein Geständnis abgelegt hat. Der Cold Case erfährt damit nach fast zwei Jahrzehnten eine deutliche Wendung. Weitere Details zu den Hintergründen des Verbrechens, dem Motiv oder den genauen Abläufen des Geständnisses wurden zunächst von den Behörden nicht im Detail genannt. Die kriminalpolizeilichen Ermittlungen zu den restlichen Tatbeteiligten dauern weiter an.",
-    "r": "Die Aufklärung eines fast zwanzig Jahre alten Vermisstenfalls durch einen Knochenfund und ein Geständnis stellt einen bedeutenden Ermittlungserfolg in einem Gewaltverbrechen dar. Der Fall beleuchtet die langwierige Aufklärungsarbeit bei sogenannten Cold Cases.",
-    "srcs": [
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/inland/regional/bayern/verbrechen-kerstin-langley-vermisste-opfer-gewalttat-100.html",
-        "date": "2026-10-19T15:43:35.000Z"
-      },
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/bayern/cold-case-kerstin-langley-vermisste-wurde-opfer-einer-gewalttat,VYCsD0Z",
-        "date": "2026-10-19T15:20:07.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/regional/bayern/verbrechen-kerstin-langley-vermisste-opfer-gewalttat-100.html",
-    "agree": "Die Quellen sind sich einig, dass die seit 2007 vermisste Kerstin Langley aus Regensburg Opfer einer Gewalttat wurde, drei Verdächtige im Spiel sind und ein Geständnis vorliegt.",
-    "diff": [
-      {
-        "name": "Tagesschau",
-        "note": "Erwähnt konkret, dass die Vermisste im Sommer 2007 verschwand und dass die damals 39-Jährige von einem Trio getötet worden soll."
-      },
-      {
-        "name": "BR24 Bayern",
-        "note": "Berichtet zusätzlich über den Fund von Knochen bei Neumarkt in der Oberpfalz, die sehr wahrscheinlich von der Vermissten stammen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-8f5df450116a8de9",
-    "c": "DE",
-    "o": "DE",
-    "k": "sport",
-    "lang": "de",
-    "d": "2026-10-19T14:39:00.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "TSV 1860 München: Euphorie trotz Niederlage im Bayern-Derby",
-    "s": "Nach dem Zwangsabstieg spielt 1860 München in der Regionalliga und musste dort eine emotionale Derbyniederlage gegen den FC Bayern II hinnehmen. Trotz dieses sportlichen Rückschlags herrscht im Verein eine spürbare Aufbruchstimmung. Die Gründe für die positive Grundstimmung trotz der Niederlage sind vielfältig.",
-    "m": "Nach dem erzwungenen Abstieg hat sich der TSV 1860 München in der Regionalliga eingefunden und eine emotionale Derbyniederlage gegen den FC Bayern II einstecken müssen. Dennoch ist im gesamten Verein eine ungewohnte Euphorie und Aufbruchstimmung zu spüren. Ein bemerkenswertes Detail dieser bescheidenen Phase ist, dass jeder Spieler im Kader mit lediglich zwei Trikots auskommen muss. Dies verdeutlicht die kargen Bedingungen, unter denen der Traditionsverein derzeit arbeitet. Trotz dieser enormen Einschränkungen und des sportlichen Dämpfers im Derby blickt der Club optimistisch nach vorne. Die Anhängerschaft und die Verantwortlichen tragen diesen neuen Weg gemeinsam. Offen bleibt, wie sich die sportliche und finanzielle Situation in den kommenden Wochen weiterentwickelt.",
-    "r": "Die Meldung zeigt beispielhaft, wie ein traditionsreicher Fußballverein nach einem schweren sportlichen und strukturellen Absturz versucht, über Zusammenhalt und Aufbruchstimmung neue Kraft zu schöpfen. Dies verdeutlicht die wirtschaftlichen und emotionalen Herausforderungen im deutschen Amateur- und Regionalligafußball.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNZzdLUUdHV0N2Z1dHSWdETWlNSDNPbHhJX1J4eldLQ3JuTDhWeXdSWXA4SHZRSzhxS2NKa3NXaXJ1RXR3VmVjb2E0TDJFdkdDN3lkX3R4b21PVnVKR1NMVlROR1U1bmQ3dHY0LXc0eFdpeHlkOFR3RHZRS1pLRXFWaml3NmlBdnhZM1gtUnc1Nkl2SXRBZzBITW9vYjhycFA4TU1kRV9PaU51S25SZEgzbm9sLVZSODRzVHZZQzg0TTc4TEJPQ2g4VFBwbTRlWFhhWUc3NGFISC1oeVA0ejMtTXRQV3dWR19wM0t4MDY5SUp4QXg4Wk9JazFPQkZmQUZQZFB4cQ?oc=5",
-        "date": "2026-10-19T14:39:00.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/sport/fussball/tsv-1860-muenchen-warum-der-club-trotz-der-niederlage-gegen-den-fc-bayern-ii-vor-euphorie-sprueht-a-f7ce8068-453f-4731-8d25-460cd9bcba2c#ref=rss",
-        "date": "2026-10-19T14:39:00.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNZzdLUUdHV0N2Z1dHSWdETWlNSDNPbHhJX1J4eldLQ3JuTDhWeXdSWXA4SHZRSzhxS2NKa3NXaXJ1RXR3VmVjb2E0TDJFdkdDN3lkX3R4b21PVnVKR1NMVlROR1U1bmQ3dHY0LXc0eFdpeHlkOFR3RHZRS1pLRXFWaml3NmlBdnhZM1gtUnc1Nkl2SXRBZzBITW9vYjhycFA4TU1kRV9PaU51S25SZEgzbm9sLVZSODRzVHZZQzg0TTc4TEJPQ2g4VFBwbTRlWFhhWUc3NGFISC1oeVA0ejMtTXRQV3dWR19wM0t4MDY5SUp4QXg4Wk9JazFPQkZmQUZQZFB4cQ?oc=5",
-    "agree": "Die Quellen sind sich einig, dass beim TSV 1860 München trotz einer Niederlage gegen den FC Bayern II Euphorie herrscht.",
-    "diff": [
-      {
-        "name": "Google News DE",
-        "note": "Erwähnt die Überschrift des Artikels über die Euphorie trotz der Niederlage gegen den FC Bayern II."
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "Liefert den Artikeltext mit der Information über den Zwangsabstieg, die Regionalliga, die emotionale Derbyniederlage und die Begebenheit, dass jeder Spieler mit zwei Trikots auskommen muss."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-91e5e67c0fd29fc5",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-19T14:30:00.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Auschwitz-Überlebender Hermann Höllenreiner im Alter von 92 Jahren gestorben",
-    "s": "Der Auschwitz-Überlebende Hermann \"Mano\" Höllenreiner ist im Alter von 92 Jahren gestorben. Als Kind überlebte er mehrere Konzentrationslager der Nationalsozialisten und floh mit elf Jahren von einem Todesmarsch. Jahrzehntelang schwieg er über seine Erlebnisse, bevor er zu einer wichtigen Stimme gegen das Vergessen wurde.",
-    "m": "Hermann Höllenreiner, bekannt als \"Mano\", hat das NS-Regime und mehrere Konzentrationslager überlebt. Im Alter von elf Jahren gelang ihm die Flucht von einem der berüchtigten Todesmärsche. Nach einer langen Zeit des Schweigens über seine traumatischen Kindheitserlebnisse trat er später öffentlich auf und setzte sich aktiv gegen das Vergessen ein. Nun ist er im Alter von 92 Jahren verstorben. Die Berichte würdigen seinen Lebensweg und seinen späteren Einsatz als Zeitzeuge.",
-    "r": "Der Tod des bekannten Zeitzeugen markiert den Verlust einer weiteren Stimme aus den Konzentrationslagern der NS-Zeit. Seine Biografie dokumentiert das Überleben der Verfolgung und die spätere Aufarbeitung als Überlebender.",
-    "srcs": [
-      {
-        "name": "DW Deutsch",
-        "url": "https://www.dw.com/de/auschwitz-überlebender-hermann-mano-höllenreiner-gestorben/a-79699831?maca=de-rss-de-all-1119-xml-mrss",
-        "date": "2026-10-19T14:30:00.000Z"
-      },
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/inland/auschwitz-ueberlebender-hoellenreiner-gestorben-100.html",
-        "date": "2026-10-19T13:04:07.000Z"
-      }
-    ],
-    "url": "https://www.dw.com/de/auschwitz-überlebender-hermann-mano-höllenreiner-gestorben/a-79699831?maca=de-rss-de-all-1119-xml-mrss",
-    "agree": "Beide Quellen stimmen überein, dass der Auschwitz-Überlebende Hermann Höllenreiner im Alter von 92 Jahren gestorben ist.",
-    "diff": [
-      {
-        "name": "DW Deutsch",
-        "note": "Erwähnt seinen Spitznamen \"Mano\" und dass er jahrzehntelang über seine Erlebnisse schwieg, bevor er eine wichtige Stimme gegen das Vergessen wurde."
-      },
-      {
-        "name": "Tagesschau",
-        "note": "Nennt sein genaues Sterbealter von 92 Jahren und berichtet, dass er im Alter von elf Jahren von einem Todesmarsch floh."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-30d81833aeef618a",
-    "c": "INT",
-    "o": "UK",
-    "k": "wissenschaft",
-    "lang": "de",
-    "d": "2026-10-19T14:11:08.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Ebola-Fälle in Kenia beleuchten US-Kürzungen im Gesundheitsbereich",
-    "s": "In Kenia ist erstmals ein Cluster von Ebola-Fällen des Stammes Bundibugyo aufgetreten, wobei mittlerweile acht Personen positiv getestet wurden. Der aktuelle Ausbruch in der Region hat bereits mehr als 4.300 Todesopfer und über 9.000 Erkrankte gefordert. Kritiker sehen darin Belege für eine geschwächte internationale Rolle der USA und verweisen auf drastische Kürzungen sowie den Rückzug aus der WHO unter Trump.",
-    "m": "Der erste Ebola-Ausbruch in Kenia umfasst nun acht bestätigte Fälle des Bundibugyo-Stammes, während der regionale Gesamtausbruch zu den schwersten der Geschichte gehört und über 4.300 Menschen das Leben gekostet sowie mehr als 9.000 Infektionen verursacht hat. In diesem Kontext steht der Bau eines umstrittenen US-Quarantänezentrums in Kenia in der Kritik, da dieser Schritt im Zuge weitreichender US-Haushaltskürzungen, des Rückzugs aus der Weltgesundheitsorganisation WHO und Einreiseverboten für bestimmte Staaten erfolgt ist. Beobachter und Kritiker argumentieren, dass diese Maßnahmen die weltweite Gesundheitsunterstützung massiv eingeschränkt haben. Dadurch seien die Kapazitäten zur Identifizierung und Eindämmung des gefährlichen Virus spürbar geschwächt worden. Die offenen Punkte betreffen die genaue Bewältigung des aktuellen Clusters vor Ort und die zukünftige internationale Zusammenarbeit bei Seuchen.",
-    "r": "Der Vorfall ist von Bedeutung, da er die gesundheitlichen und politischen Folgen internationaler Kürzungen und des US-Rückzugs aus globalen Gesundheitsstrukturen während einer schweren Epidemie aufzeigt.",
-    "srcs": [
-      {
-        "name": "Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/19/ebola-cases-kenya-us-quarantine",
-        "date": "2026-10-19T14:11:08.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPc3k1aU0xWUo2aUMzaUIwT1o4cEU1ZlpVMmpVU0ludTIyNmptX3FhMjctLVFjYzliWDBiOXh1QnRrc0xKNFFHbUlfNDVRNWlicGp2UmZFSUI3TE5kZWxwLWRSOXRsTEpyaVFKcFQ5d2JTSVk0SzliRXJ3ZGxCdDZtM3Z5MA?oc=5",
-        "date": "2026-10-19T12:00:00.000Z"
-      }
-    ],
-    "url": "https://www.theguardian.com/world/2026/oct/19/ebola-cases-kenya-us-quarantine",
-    "agree": "Die Quellen sind sich einig, dass Ebola-Fälle in Kenia im Zusammenhang mit US-Kürzungen und der Politik von Trump stehen.",
-    "diff": [
-      {
-        "name": "Guardian World",
-        "note": "Berichtet über acht Ebola-Fälle des Bundibugyo-Stammes in Kenia, über 4.300 Tote und 9.000 Kranke im regionalen Ausbruch sowie über den Bau des umstrittenen Quarantänezentrums und den WHO-Rückzug der USA."
-      },
-      {
-        "name": "Google News World",
-        "note": "Verweist lediglich per Überschrift und Link auf den Artikel des Guardian."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-6bd01b8af5e76233",
-    "c": "INT",
-    "o": "UK",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-19T14:09:54.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Australische Parlamentsabgeordnete nach mutmaßlichem Autoangriff kritisch verletzt",
-    "s": "Eine unabhängige australische Bundesabgeordnete ist am Montag von einem Auto erfasst und lebensgefährlich verletzt worden. Nach Angaben von Premierminister Anthony Albanese handelte es sich offenbar um einen gezielten Angriff. Der mutmaßliche Fahrer wurde von der Polizei festgenommen.",
-    "m": "Der Vorfall ereignete sich am Montag und betrifft eine unabhängige Politikerin auf Bundesebene in Australien. Premierminister Anthony Albanese stufte den Vorfall öffentlich als mutmaßliche gezielte Attacke und keinesfalls als Unfall ein. Die Abgeordnete erlitt kritische Verletzungen und wird derzeit im Krankenhaus behandelt. Der beteiligte Autofahrer wurde unmittelbar nach dem Vorfall von den Einsatzkräften festgenommen. Weitere Details zu den Hintergründen, dem Motiv oder der Identität von Täter und Opfer wurden zunächst nicht bekannt gegeben. Die Ermittlungen der Behörden dauern an, um den genauen Hergang und die Motivation hinter dem Vorfall zu klären.",
-    "r": "Der gewaltsame Vorfall gegen eine hochrangige politische Vertreterin betrifft die Sicherheit von Amtsträgern und wirft Fragen zur politischen Gewalt in Australien auf. Ein schneller Zugriff der Polizei führte zur Festnahme des Fahrers.",
-    "srcs": [
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-19T14:09:54.000Z"
-      },
-      {
-        "name": "NPR World",
-        "url": "https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured",
-        "date": "2026-10-19T11:38:43.000Z"
-      }
-    ],
-    "url": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
-    "agree": "Die Quellen stimmen überein, dass eine unabhängige australische Parlamentsabgeordnete von einem Auto angefahren und lebensgefährlich verletzt wurde, der Premierminister von einem mutmaßlichen gezielten Angriff sprach und der Fahrer festgenommen wurde.",
-    "diff": [
-      {
-        "name": "NPR World",
-        "note": "nennt den genauen Tag des Vorfalls (Montag)"
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-461a6551d82d1ce8",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-19T11:30:01.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Volkswagen plant offenbar weltweites Einfrieren der Gehälter",
-    "s": "Der Autobauer Volkswagen verschärft anscheinend seine Sparmaßnahmen. Medienberichten zufolge ist geplant, die Gehälter weltweit für mehrere Jahre einzufrieren. Der Konzern hat sich zu diesen Berichten bisher nicht offiziell geäußert. Die Pläne sind Teil eines drastischen Kurswechsels zur Senkung der Kosten.",
-    "m": "Volkswagen steht vor massiven Sparschritten und will übereinstimmenden Berichten zufolge die Gehälter für mehrere Jahre einfrieren. Diese Maßnahme soll weltweit umgesetzt werden, um die finanzielle Situation des Konzerns zu stabilisieren. Bisher gibt es vonseiten des Unternehmens keine offizielle Bestätigung oder Stellungnahme zu den Plänen. Der Schritt verdeutlicht den enormen Druck, unter dem der Autohersteller derzeit steht. Offen ist weiterhin, wie die Arbeitnehmervertretungen auf diese drastischen Einschnitte reagieren werden. Die Berichterstattung basiert auf Recherchen verschiedener Medien, die sich auf interne Informationen stützen.",
-    "r": "Die Pläne von Volkswagen zur weltweiten Gehaltssperre verdeutlichen die anhaltende Krise in der Automobilbranche und drohen zu massiven Konflikten mit der Belegschaft zu führen.",
-    "srcs": [
-      {
-        "name": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-1620.html",
-        "date": "2026-10-19T11:30:01.000Z"
-      },
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XV1g4UzNORWR3TEhTTmhnV2xWa3ZrdEtaMTcxN3FIVnN2OE10N1hXUS1EVlRrWTJqdDhienJHbEtDbUF2ZnBRcERYUi1KQ0xlRHR6WDdRTzR1S3llWFI2MG01LUdZYjE3RjJmQWN3?oc=5",
-        "date": "2026-10-19T11:27:00.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-1620.html",
-    "agree": "Die Quellen sind sich einig, dass Volkswagen offenbar plant, die Gehälter weltweit für mehrere Jahre einzufrieren.",
-    "diff": [
-      {
-        "name": "SWR Aktuell",
-        "note": "Berichtet, dass der Konzern sich zu den Sparmaßnahmen verschärfen will und sich verändern will."
-      },
-      {
-        "name": "Tagesschau",
-        "note": "Erwähnt konkret, dass der Konzern sich zu den Berichten nicht äußern will."
-      },
-      {
-        "name": "Google News DE",
-        "note": "Führt ergänzend an, dass VW das Einfrieren konkret für die Mitarbeiter plant."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-abafe4f935989d40",
-    "c": "INT",
-    "o": "PT",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-19T10:35:25.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Proteste für das Recht auf Wohnen in Porto dauern an",
-    "s": "In Portugal halten die Proteste für das Recht auf Wohnen an. In Porto protestieren Demonstranten bereits seit zehn Tagen und haben angekündigt, die Versammlungen bis zum Jahresende fortzusetzen. Auch in Lissabon laufen entsprechende Kundgebungen.",
-    "m": "Die Demonstrationen für das Recht auf Wohnen prägen derzeit das Geschehen in Portugal. Im Porto dauert der Protest bereits den zehnten Tag an, während in Lissabon die Kundgebungen in den dritten Tag gehen. Die Aktivisten in Porto haben angekündigt, ihre Versammlungen bis zum Ende des Jahres fortzuführen. In diesem Zusammenhang haben die Demonstranten im Porto den Politiker Pedro Duarte öffentlich dazu eingeladen, sich der dortigen Volksversammlung anzuschließen. Weitere konkrete Reaktionen von Pedro Duarte oder Details zu seiner Teilnahme sind bisher nicht bekannt.",
-    "r": "Die anhaltenden Proteste für das Recht auf Wohnen in großen portugiesischen Städten verdeutlichen die anhaltende gesellschaftliche Debatte um die Wohnungsfrage im Land. Die Ausweitung der Kundgebungen bis zum Jahresende zeigt eine langfristige Mobilisierung der Beteiligten.",
-    "srcs": [
-      {
-        "name": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/economia/manifestantes-no-porto-convidam-pedro-duarte-a-juntar-se-a-assembleia-popular_e1772593",
-        "date": "2026-10-19T10:35:25.000Z"
-      },
-      {
-        "name": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcnh1SVlHYzRsZDVPUndaVF9EbjlGOVNwUmJRRFREbFdYX0RRbHNEejhNWkVHX0pLaG15ZEZ3dGhUb2dYckQtS1QybkZGZ0JvN2dfZFAtei1hWXE5dDl3R2dyMVlRQUN3NTZ1WDVITk5zYzB3ZVNaRGJCTW9zS1R0bUNodmhtZlBHQ2VueEdZaWhUMDRjVFhlcjQ3ZDQ4cTUtckE5UklPSFB3azgwTnVnYTRiQ2c5d0VnN2VZSXhLQVQ?oc=5",
-        "date": "2026-10-19T09:35:25.000Z"
-      }
-    ],
-    "url": "https://www.rtp.pt/noticias/economia/manifestantes-no-porto-convidam-pedro-duarte-a-juntar-se-a-assembleia-popular_e1772593",
-    "agree": "Beide Quellen berichten über die Manifestanten in Porto, die Pedro Duarte zu einer Versammlung einladen.",
-    "diff": [
-      {
-        "name": "RTP Notícias",
-        "note": "Berichtet ausführlich über die Dauer der Proteste in Porto (zehnter Tag) und Lissabon (dritter Tag) sowie die Verlängerung der Kundgebungen bis zum Jahresende."
-      },
-      {
-        "name": "Google News Portugal",
-        "note": "Liefert lediglich einen Verweis auf den Artikel von RTP mit derselben Schlagzeile."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-f6611906685660bf",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-19T10:34:49.000Z",
-    "p": 2,
-    "st": "RP",
-    "city": "",
-    "t": "70-Jähriger zahlt Geldstrafe wegen Hetze gegen Bundespräsident Steinmeier",
-    "s": "Ein 70-jähriger Mann aus der Südwestpfalz muss wegen Internet-Hetze gegen Bundespräsident Frank-Walter Steinmeier eine Geldstrafe zahlen. Das Gericht verurteilte ihn zu einer Zahlung von 2.500 Euro. Die Äußerungen wurden über Soziale Medien verbreitet.",
-    "m": "Ein 70-jähriger Mann aus der Südwestpfalz hat in Sozialen Medien gegen Bundespräsident Frank-Walter Steinmeier gehetzt und wurde dafür von der Justiz zur Verantwortung gezogen. Aufgrund dieser Verfehlungen im Internet wurde gegen ihn eine Geldstrafe in Höhe von 2.500 Euro verhängt. Weitere Details zu den genauen Inhalten der Hetzbeiträge oder dem genauen Ablauf des Verfahrens gehen aus den vorliegenden Berichten nicht hervor.",
-    "r": "Der Fall zeigt, wie juristisch gegen verbotene Hetze und Beleidigungen gegen Spitzenpolitiker in Sozialen Medien vorgegangen wird. Die Verurteilung zu einer spürbaren Geldstrafe verdeutlicht die rechtlichen Konsequenzen für solche Online-Aktivitäten.",
-    "srcs": [
-      {
-        "name": "SWR Aktuell",
-        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/kaiserslautern/hass-und-hetze-gegen-bundespraesident-steinmeier-urteil-gesprochen-100.html",
-        "date": "2026-10-19T10:34:49.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Rheinland-Pfalz",
-        "url": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-mann-soll-bundespraesident-steinmeier-im-internet-verunglimpft-haben-100.html",
-        "date": "2026-10-19T09:39:00.000Z"
-      }
-    ],
-    "url": "https://www.swr.de/swraktuell/rheinland-pfalz/kaiserslautern/hass-und-hetze-gegen-bundespraesident-steinmeier-urteil-gesprochen-100.html",
-    "agree": "Die Quellen sind sich einig, dass ein 70-jähriger Mann aus der Südwestpfalz wegen Hetze gegen Bundespräsident Steinmeier in Sozialen Medien eine Geldstrafe von 2.500 Euro zahlen muss.",
-    "diff": [],
     "chg": "",
     "independent": 2
   }
