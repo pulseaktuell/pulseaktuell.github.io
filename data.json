@@ -1,23 +1,260 @@
 [
   {
+    "id": "story-114ce6ef8f7b9f56",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-25T22:36:15.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Serbien vor Machtwechsel nach Parlamentswahl: Vucic räumt Niederlage ein",
+    "s": "Bei der Parlamentswahl in Serbien zeichnet sich ein Machtwechsel ab. Der bisherige Präsident Aleksandar Vucic hat die Niederlage seiner Partei eingestanden. Die Liste der neuen Studentenbewegung liegt serbischen Medien zufolge vorne und hat die absolute Mehrheit erzielt.",
+    "m": "Serbien steht nach der Parlamentswahl vor einem historischen Machtwechsel, da der ehemalige Staatspräsident Aleksandar Vucic seine Niederlage eingeräumt hat. Vucic stand zuvor bereits seit Monaten wegen massiver Proteste im Land unter erheblichem politischen Druck. Gegen die bisherige Regierungspartei setzte sich die sogenannte Studentenliste durch, die von Spitzenkandidaten Ilija Srdanovic angeführt wird. Demnach erzielte das neue Bündnis mehr als 51 Prozent der Stimmen und errang damit die absolute Mehrheit. Die genauen Folgen dieser politischen Kehrtwende für Serbien sowie die künftige Regierungsbildung unter der neuen Bewegung bleiben nun abzuwarten.",
+    "r": "Der Machtwechsel in Serbien durch den Wahlsieg der Studentenliste und das Einräumen der Niederlage durch Vucic markiert eine wesentliche politische Veränderung in Südosteuropa. Die Ereignisse beenden eine monatelange Phase des politischen Drucks und von Protesten im Land.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/serbien-steht-vor-einem-machtwechsel-vucic-raeumt-niederlage-ein-100.html",
+        "date": "2026-10-25T22:36:15.000Z"
+      },
+      {
+        "name": "Süddeutsche Zeitung",
+        "url": "https://www.sueddeutsche.de/politik/parlamentswahl-serbien-aleksandar-vucic-studentenbewegung-2026-li.3568833",
+        "date": "2026-10-25T20:53:07.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/serbien-steht-vor-einem-machtwechsel-vucic-raeumt-niederlage-ein-100.html",
+    "agree": "Sowohl der Deutschlandfunk als auch die Süddeutsche Zeitung berichten übereinstimmend, dass Aleksandar Vucic seine Niederlage bei der Parlamentswahl eingestanden hat und die Studentenbewegung bzw. deren Liste vorne liegt.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Nennt den Spitzenkandidaten Ilija Srdanovic und das genaue Wahlergebnis von mehr als 51 Prozent der Stimmen (absolute Mehrheit)."
+      },
+      {
+        "name": "Süddeutsche Zeitung",
+        "note": "Erwähnt ergänzend, dass Vučić wegen anhaltender Proteste bereits seit Monaten unter Druck stand."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-5b548930c563f089",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-25T22:36:15.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Audi-Chef Döllner verkündet US-Werk bei Trump-Wahlkampfauftritt",
+    "s": "Der Vorstandschef der VW-Tochter Audi, Gernot Döllner, hat bei einer Wahlkampfveranstaltung von US-Präsident Donald Trump den Bau eines neuen Audi-Werks in den USA angekündigt. Medienberichten zufolge verstößt dieser Auftritt gegen die internen Richtlinien des Automobilkonzerns. Für die Aktion gibt es unter anderem Kritik vonseiten der SPD. Genauere Details über den genauen Zeitpunkt, den Standort oder das Investitionsvolumen des geplanten Werks wurden in diesem Zusammenhang bisher nicht genannt",
+    "m": "Der Auftritt von Audi-Vorstandschef Döllner auf einer Wahlkampfveranstaltung des US-Präsidenten sorgt für Diskussionen. Dort verkündete der Manager offiziell den Bau eines neuen Audi-Werks in den Vereinigten Staaten. Laut Medienberichten steht diese Präsenz im Widerspruch zu den geltenden Compliance- oder Unternehmensrichtlinien des Autokonzerns, die politische Neutralität wahren sollen. Die Aktion rief bereits politische Reaktionen hervor, wobei insbesondere die SPD scharfe Kritik äußerte. Bislang ist unklar, welche internen Konsequenzen der Verstoß für den Audi-Chef haben wird und wie das Investitionsprojekt konkret ausgestaltet ist. Offen bleibt auch, ob die Konzernmutter VW in die Entscheidung eingebunden war.",
+    "r": "Der Vorgang berührt wirtschafts- und unternehmenspolitische Fragen bezüglich der Neutralität von Spitzenmanagern bei politischen Veranstaltungen in den USA. Zudem verdeutlicht er das Spannungsfeld zwischen internationalen Investitionsentscheidungen deutscher Automobilkonzerne und politischer Einflussnahme.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/audi-laesst-trump-im-wahlkampf-bau-eines-us-werks-verkuenden-auftritt-von-audi-chef-verstoesst-gegen-100.html",
+        "date": "2026-10-25T22:36:15.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQd19QUklTdmg3enJOSHZ0N2NvVWFoVm9QT0w5X3BVNlh2Q0thekJlLUJKY3FxMDRhZm9NTk5Td01mcnU5aTJZWHY4TDcydTlpcjFMZnpUVkNGSTFrNE5EejBERUZrb1hVbWd0MUVwZ1ZtUUhTOVNSc1RHeVk1a0dpWEZvZEI0QmFINlFnWThXLXR5RU8tYmpQRlp6QnlXZjVMUkZ0czhlMUpXejVBbzlHc1MyNXN1OEZaNkc0SFlXSUZka3lGdlBkbzNmQ0hBYXdVTi1mWjdFaw?oc=5",
+        "date": "2026-10-25T20:38:20.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/audi-laesst-trump-im-wahlkampf-bau-eines-us-werks-verkuenden-auftritt-von-audi-chef-verstoesst-gegen-100.html",
+    "agree": "Beide Quellen berichten übereinstimmend über den Auftritt von Audi-Chef Döllner bei einer Wahlkampfveranstaltung von US-Präsident Trump, bei dem der Bau eines US-Werks verkündet wurde und der gegen Konzernrichtlinien verstößt.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Berichtet zusätzlich, dass Kritik an dem Auftritt von der SPD kommt."
+      },
+      {
+        "name": "Google News DE",
+        "note": "Enthält lediglich den Verweis auf den Deutschlandfunk als ursprüngliche Quelle."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-196bb1b7875cc80e",
+    "c": "DE",
+    "o": "DE",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-25T22:32:02.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Martin Schindler verliert Darts-EM-Finale gegen Ross Smith",
+    "s": "Martin Schindler hat das Finale der Darts-EM in Dortmund verloren. Gegen den neuen Titelträger Ross Smith musste sich der Deutsche geschlagen geben. Zwar spielte Schindler zuvor ein starkes Turnier, fand im Endspiel jedoch zu spät in die Partie.",
+    "m": "Martin Schindler hat bei der Darts-EM in Dortmund eine furiose Leistung gezeigt und das Endspiel erreicht, musste sich dort aber Ross Smith mit 8:11 geschlagen geben. Trotz eines starken Comebacks im Verlauf des Finals fand der deutsche Spieler zu spät in die Partie. Der Sieger Ross Smith war bereits in der Vergangenheit einmal Europameister geworden.",
+    "r": "Das Darts-Turnier in Dortmund fand große Beachtung, da ein deutscher Spieler das Finale erreichte. Der Ausgang des Endspiels krönte einen ehemaligen Europameister zum neuen Titelträger.",
+    "srcs": [
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/sport/darts-em-martin-schindler-verliert-finale-gegen-ross-smith-mit-8-11-IMWJCWXZMNC2XOWQ7F6UPG725E.html",
+        "date": "2026-10-25T22:32:02.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/sport/Martin-Schindler-verliert-historisches-Finale-der-Darts-EM-id31456976.html",
+        "date": "2026-10-25T21:59:17.000Z"
+      }
+    ],
+    "url": "https://www.rnd.de/sport/darts-em-martin-schindler-verliert-finale-gegen-ross-smith-mit-8-11-IMWJCWXZMNC2XOWQ7F6UPG725E.html",
+    "agree": "Beide Quellen sind sich einig, dass Martin Schindler ein starkes Turnier spielte, im Finale in Dortmund aber zu spät in die Partie fand und gegen Ross Smith verlor, der bereits einmal Europameister war.",
+    "diff": [
+      {
+        "name": "RND",
+        "note": "Berichtet über den genauen Endstand von 8:11 und bezeichnet das Finale als solches."
+      },
+      {
+        "name": "ntv",
+        "note": "Bezeichnet das Finale als \"historisch\" und erwähnt ein starkes Comeback von Schindler im Spielverlauf."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-9710064d09277ff4",
+    "c": "INT",
+    "o": "DE",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-25T22:31:53.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Formel 1 in den USA: Kimi Antonelli siegt in Austin",
+    "s": "Kimi Antonelli hat das Formel-1-Rennen in Austin gewonnen. Trotz seiner starken Leistung konnte er den Weltmeistertitel in diesem Rennen jedoch noch nicht vorzeitig perfekt machen. Auch ein möglicher Konter seines Teamkollegen verhinderte die vorzeitige Krönung. Am kommenden Sonntag wird der Titelgewinn nun allgemein erwartet.",
+    "m": "Beim Formel-1-Wochenende in Austin zeigte Kimi Antonelli eine dominante und weltmeisterliche Vorstellung, die im Rennsieg gipfelte. Dennoch reichte das Ergebnis noch nicht aus, um den Sack in der Weltmeisterschaft endgültig zuzumachen. Ein neunter Platz in Mexiko wird in den Berichten als der Meilenstein genannt, der ihm demnächst zum Titel reicht. Maßgeblich für das Verpassen der vorzeitigen Krönung im aktuellen Rennen war unter anderem sein Teamkollege, der dies zu verhindern wusste. Die Berichterstattung geht übereinstimmend davon aus, dass die Entscheidung im Titelkampf nun beim nächsten Rennen am kommenden Sonntag fallen wird. Konkrete Punktestände oder Abstände werden in den vorliegenden Texten nicht detailliert beziffert.",
+    "r": "Die Meldung ist relevant, da sie den aktuellen Stand des Formel-1-Titelkampfs und die sportlichen Ergebnisse des Rennens in Austin dokumentiert. Sie zeigt auf, wann und unter welchen Bedingungen Kimi Antonelli voraussichtlich Weltmeister wird.",
+    "srcs": [
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/sport/kimi-antonelli-siegt-in-austin-platz-neun-in-mexiko-reicht-zum-wm-titel-VBOVKUMUKVGCVELHY3OJVKRMIY.html",
+        "date": "2026-10-25T22:31:53.000Z"
+      },
+      {
+        "name": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/sport/formel-1/kimi-antonelli-siegt-bei-formel-1-in-austin-ist-aber-noch-nicht-weltmeister-201244824.html",
+        "date": "2026-10-25T21:48:28.000Z"
+      }
+    ],
+    "url": "https://www.rnd.de/sport/kimi-antonelli-siegt-in-austin-platz-neun-in-mexiko-reicht-zum-wm-titel-VBOVKUMUKVGCVELHY3OJVKRMIY.html",
+    "agree": "Die Quellen sind sich einig, dass Kimi Antonelli in Austin gewonnen hat, dabei aber noch nicht Weltmeister geworden ist und die Entscheidung nun am kommenden Sonntag fällt.",
+    "diff": [
+      {
+        "name": "RND",
+        "note": "Erwähnt konkret, dass ein neunter Platz in Mexiko für den WM-Titel reicht."
+      },
+      {
+        "name": "Frankfurter Allgemeine",
+        "note": "Betont im Titel explizit, dass Antonelli trotz des Sieges in den USA noch kein Weltmeister ist."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-e75f3e2b79684792",
+    "c": "DE",
+    "o": "DE",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-25T22:30:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Martin Schindler schreibt als erster Deutscher Darts-Geschichte",
+    "s": "Martin Schindler hat als erster Deutscher das Endspiel eines Major-Turniers bei der European Darts Championship erreicht. Im Finale traf er auf Ross Smith und zeigte nach einem Rückstand eine furios anmutende Aufholjagd.",
+    "m": "Mit seinem Finaleinzug bei der European Darts Championship hat Martin Schindler einen historischen Meilenstein für den deutschen Darts-Sport gesetzt. Es ist das erste Mal, dass ein deutscher Spieler in einem großen Finale eines Major-Turniers steht. Im Endspiel gegen Ross Smith geriet er zunächst deutlich mit 2:8 in Rückstand. Davon ließ sich Schindler jedoch nicht entmutigen und startete eine furios anmutende Aufholjagd. Weitere Details zum genauen Endstand oder dem Turnierverlauf nennen die vorliegenden Berichte nicht.",
+    "r": "Der Erfolg markiert einen historischen Meilenstein für den deutschen Darts-Sport, da zum ersten Mal ein deutscher Profi in einem großen Major-Finale stand. Die Partie war von einem deutlichen frühen Rückstand und einer darauffolgenden Aufholjagd geprägt.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUmRaMTUxcWpNRERpWFdLZHhMZS00aE4tbVlrQ1owRXA2czVUbUpWLWtRMWs4TjNtX2tGNjBlUEdMa0dYV1drZkFvUHJhMERiWGNrQ2dVT2gtd2pIREozdXllc2x4MGpKVDdXNHgzMWdnY2FOTnUwQzFycWdUMmoxdzI0ZVdzZUxpcjR1WUt5blMxQklHSW1LdURKSU5sdmJiZTlkMkFGcGdYTU9IcHNwLVpEbkdpRHh2SEkyUnI4blBOaEJxVXV2QldfalE2NlRRRUZwcF8tOGpjWmUzZWhBVVd3eHRjSHpCdXRKeFItUmloRzgzaGh4WQ?oc=5",
+        "date": "2026-10-25T22:30:00.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/sport/darts/article6ade40d1a6a5d701acbcf200/european-darts-championship-erster-deutscher-in-einem-major-finale-schindler-schreibt-geschichte.html",
+        "date": "2026-10-25T21:49:00.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUmRaMTUxcWpNRERpWFdLZHhMZS00aE4tbVlrQ1owRXA2czVUbUpWLWtRMWs4TjNtX2tGNjBlUEdMa0dYV1drZkFvUHJhMERiWGNrQ2dVT2gtd2pIREozdXllc2x4MGpKVDdXNHgzMWdnY2FOTnUwQzFycWdUMmoxdzI0ZVdzZUxpcjR1WUt5blMxQklHSW1LdURKSU5sdmJiZTlkMkFGcGdYTU9IcHNwLVpEbkdpRHh2SEkyUnI4blBOaEJxVXV2QldfalE2NlRRRUZwcF8tOGpjWmUzZWhBVVd3eHRjSHpCdXRKeFItUmloRzgzaGh4WQ?oc=5",
+    "agree": "Die Quellen sind sich einig, dass Martin Schindler als erster Deutscher das Endspiel eines Major-Turniers im Darts erreicht hat und dort gegen Ross Smith spielte.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-65cdddb6fbfaa40f",
+    "c": "INT",
+    "o": "UK",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-25T22:28:41.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Aleksandar Vučić räumt Niederlage bei serbischen Parlamentswahlen ein",
+    "s": "Bei den umstrittenen Parlamentswahlen in Serbien hat Präsident Aleksandar Vučić seine Niederlage eingestanden. In Belgrad kam es zu wilden Feulszenen. Die Wahlbeteiligung lag deutlich über dem Niveau des Vorjahres.",
+    "m": "Die jüngsten Prognosen von Ipsos/Cesid zeigen eine Wahlbeteiligung von 60,8 Prozent bis 17:00 Uhr Ortszeit, was einen Anstieg von mehr als 13 Prozentpunkten gegenüber 2023 und den höchsten Wert seit Jahren darstellt. Die oppositionelle Bewegung Student List wird voraussichtlich 138 Sitze im neuen Parlament erringen und übertrifft damit klar die absolute Mehrheit von 126 Sitzen. Die regierende Partei von Präsident Aleksandar Vučić kommt demnach lediglich auf 104 Mandate. Die Abstimmung war von den Quellen als heftig umstritten beschrieben worden. Vor den Wahllokalen und in den Straßen Belgrads feierten Anhänger der Opposition den Machtwechsel ausgelassen. Bis zur Schließung der Wahllokale verblieben zu diesem Zeitpunkt noch drei Stunden.",
+    "r": "Der Regierungswechsel und die klare parlamentarische Mehrheit für die Opposition in Serbien markieren eine politische Wende von internationalem Interesse. Die hohe Wahlbeteiligung unterstreicht die enorme Mobilisierung der Wählerschaft.",
+    "srcs": [
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
+        "date": "2026-10-25T22:28:41.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTUdHX1BqYnZkT1NTTlVzYzBPM0NDMlk4RUtSSUJ6RnhHMGJoVGlUazFpZzM5bnpTX000VGFBRmFLWVBqajFrdkEtT1BVODJab3o5TXRKbTFOLW5kMi1uVUlKdi1ZT3V1bGVSSlRDQ3V5cjJNaGZHMG1lRGdvVXBmVTJBN1F4R0ItRmdkaEVpSVdtbGh0RWFrNE9xT05aZUdWaEhHNTJDYll6NUJSUGxvNnptdEtlMGZSRGFkMnVoQ1FvenFyLU9temItWEhROUJKRUMyT0pmcUVwZw?oc=5",
+        "date": "2026-10-25T16:02:00.000Z"
+      }
+    ],
+    "url": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
+    "agree": "Beide Quellen berichten übereinstimmend über feiernde Menschen in Belgrad und darüber, dass Vučić die Niederlage eingestanden hat.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Verweist lediglich auf den Live-Ticker des Guardians mit der gleichen Schlagzeile."
+      },
+      {
+        "name": "Guardian World",
+        "note": "Liefert Details zu Sitzverteilungen, Wahlbeteiligungsprognosen und den Feierlichkeiten in Belgrad."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-cd593b79536e42c0",
     "c": "INT",
     "o": "UK",
     "k": "sport",
     "lang": "de",
-    "d": "2026-10-25T20:08:28.000Z",
+    "d": "2026-10-25T22:18:30.000Z",
     "p": 3,
     "st": "",
     "city": "",
-    "t": "El Clásico zwischen Barcelona und Real Madrid in La Liga",
-    "s": "Heute Abend findet das traditionsreiche La-Liga-Duell zwischen dem FC Barcelona und Real Madrid statt. Fans und Medien verfolgen das Spiel im Live-Ticker mit aktuellen Updates. Die Partie verspricht gewohnte Spannung und Unterhaltung im spanischen Fußball.",
-    "m": "Das mit Spannung erwartete Aufeinandertreffen zwischen dem FC Barcelona und Real Madrid im Rahmen der spanischen Liga La Liga zieht weltweite Aufmerksamkeit auf sich. Beide Medien bieten Live-Berichterstattungen und Live-Ticker an, um Fans mit Spielständen, Analysen und Kommentaren zu versorgen. Im Vorfeld wird humorvoll auf Trainerdetails eingegangen, während die Vorbereitungen im Stadion auf den Anpfiff laufen. Die Begegnung gilt als eines der absoluten Highlights im internationalen Fußballkalender. Konkrete Torschützen oder der Endstand sind in den vorliegenden Berichten noch nicht enthalten, da es sich um Live-Ticker-Ankündigungen handelt.",
-    "r": "Das Spiel El Clásico ist ein sportliches Großereignis von globalem Interesse in der spanischen Liga. Die Live-Berichterstattung informiert Fußballfans weltweit über das Geschehen auf und neben dem Platz.",
+    "t": "Real Madrid besiegt Barcelona im Clásico mit 2:1",
+    "s": "Im spanischen Clásico hat Real Madrid den FC Barcelona mit 2:1 besiegt. Durch diesen Auswärtssieg fügten die Madrilenen ihren Rivalen die erste Saisonniederlage in der Liga zu.",
+    "m": "Real Madrid hat den FC Barcelona in einer hart umkämpften Partie mit 2:1 geschlagen. Maßgeblicher Spieler für den Erfolg der Gäste war Kylian Mbappé, der beide Treffer für Real erzielte. Mit diesem Sieg beendete Real Madrid die bis dahin perfekte Siegesserie des Tabellenführers in der laufenden La-Liga-Saison. Die Partie fand im Rahmen des spanischen Oberhauses statt und wurde von den Medien im Live-Ticker-Format begleitet. Es ist der erste Liganeiderlage für Barcelona in dieser Spielzeit. José Mourinho wird in den Berichten im Zusammenhang mit dem Spiel erwähnt, wobei Details zu seiner Rolle offenbleiben.",
+    "r": "Das Spiel markiert einen Wendepunkt in der spanischen Liga, da Barcelonas ungeschlagene Serie beendet wurde. Zudem hat das Duell zwischen diesen Spitzenclubs direkte Auswirkungen auf die Tabellenspitze.",
     "srcs": [
       {
         "name": "Guardian Sport",
         "url": "https://www.theguardian.com/football/live/2026/oct/25/barcelona-v-real-madrid-el-clasico-live",
-        "date": "2026-10-25T20:08:28.000Z"
+        "date": "2026-10-25T22:18:30.000Z"
       },
       {
         "name": "Al Jazeera",
@@ -26,15 +263,494 @@
       }
     ],
     "url": "https://www.theguardian.com/football/live/2026/oct/25/barcelona-v-real-madrid-el-clasico-live",
-    "agree": "Beide Quellen berichten über den Live-Ticker zum bevorstehenden La-Liga-Spiel El Clásico zwischen Barcelona und Real Madrid.",
+    "agree": "Beide Quellen berichten über das Fußballspiel zwischen Barcelona und Real Madrid, das Real Madrid mit 2:1 gewonnen hat.",
     "diff": [
       {
         "name": "Guardian Sport",
-        "note": "Erwähnt interaktive E-Mails von Lesern und die Vorbereitung einer José Mourinho Bingo-Karte für das Spiel."
+        "note": "Erwähnt, dass Kylian Mbappé zweimal traf und José Mourinho in den Kontext des Spiels einbezogen wird."
       },
       {
         "name": "Al Jazeera",
-        "note": "Fokus auf die stadionnahe Berichterstattung mit Vorberichten und Live-Textkommentaren direkt aus dem Camp Nou."
+        "note": "Hebt hervor, dass Real Madrid die erste Mannschaft ist, die Barcelona in dieser La-Liga-Saison geschlagen hat."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-eb4d0628757a7f91",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-25T22:09:50.000Z",
+    "p": 4,
+    "st": "BY",
+    "city": "",
+    "t": "Serbien: Präsident Vučić gesteht Niederlage bei Parlamentswahl ein",
+    "s": "Bei der vorgezogenen Parlamentswahl in Serbien hat der langjährige Machthaber Aleksandar Vučić seine Niederlage eingeräumt. Die oppositionelle Studentenliste konnte die Wahl für sich entscheiden. Die Abstimmung wurde von vielen Wählern als Referendum über die bisherige Führung verstanden. Ein Regierungswechsel zeichnet sich ab.",
+    "m": "Aleksandar Vučić hat in einer Ansprache vor seinem Wahlkampfstab in Belgrad unter Berufung auf eine Projektion der Ergebnisse den Wahlsieg der oppositionellen Studentenliste und damit seine Niederlage eingestanden. Die regierende Serbische Fortschrittspartei unterlag bei der Abstimmung. Möglicherweise hat die oppositionelle Studentenbewegung sogar eine absolute Mehrheit errungen. Auf den Straßen der Hauptstadt Belgrad brach nach Bekanntwerden der Ergebnisse Jubel aus. Zudem erreichte die Wahlbeteiligung eine Rekordhöhe. In Serbien geht damit die Ära des teils autoritär regierenden Machthabers vorläufig zu Ende. Die Wähler hatten die Abstimmung zuvor größtenteils als Referendum über die bisherige Führung aufgefasst.",
+    "r": "Der Machtwechsel in Serbien markiert eine bedeutende politische Zäsur für das Land, da die Ära des langjährigen Machthabers Vučić endet. Die hohe Wahlbeteiligung und die Reaktionen auf den Straßen unterstreichen die Tragweite der Entscheidung für die Bevölkerung.",
+    "srcs": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/politik/ausland/wahl-in-serbien-vucic-gesteht-niederlage-ein-201619434.html",
+        "date": "2026-10-25T22:09:50.000Z"
+      },
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/ausland/serbien-vucic-niederlage-wahl-100.html",
+        "date": "2026-10-25T21:57:00.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/politik/wahl-in-serbien-aleksandar-vucic-gesteht-niederlage-ein-7AGHCOCWAFCUZK5JKHO5AEELDI.html",
+        "date": "2026-10-25T21:18:22.000Z"
+      },
+      {
+        "name": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/vuci-gesteht-niederlage-bei-parlamentswahl-in-serbien-ein,VZ4ck3g",
+        "date": "2026-10-25T21:06:52.000Z"
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-10/25/serbien-vucic-gesteht-niederlage-ein",
+        "date": "2026-10-25T20:55:08.000Z"
+      },
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/news/--serbien--vucic-gesteht-niederlage-ein-38450434.html",
+        "date": "2026-10-25T20:55:08.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/serbien-praesident-aleksandar-vucic-gesteht-niederlage-bei-parlamentswahl-ein-a-d46235a6-039e-4242-bf48-8e8313219f59#ref=rss",
+        "date": "2026-10-25T20:52:00.000Z"
+      }
+    ],
+    "url": "https://www.faz.net/aktuell/politik/ausland/wahl-in-serbien-vucic-gesteht-niederlage-ein-201619434.html",
+    "agree": "Alle vorliegenden Quellen stimmen darin überein, dass der langjährige serbische Machthaber Aleksandar Vučić seine Niederlage bei der Parlamentswahl eingestanden hat und die oppositionelle Studentenliste als Sieger hervorgegangen ist.",
+    "diff": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "note": "Erwähnt die Möglichkeit einer absoluten Mehrheit für die oppositionelle Studentenliste."
+      },
+      {
+        "name": "ZDF heute",
+        "note": "Berichtet ohne zusätzliche Details über das Eingeständnis."
+      },
+      {
+        "name": "RND",
+        "note": "Führt aus, dass die Wähler die Abstimmung als Referendum über Vučić auffassten und sich ein Regierungswechsel abzeichnet."
+      },
+      {
+        "name": "BR24 Bayern",
+        "note": "Bezeichnet Vučić als teils autoritär regierenden Machthaber, dessen Ära vorläufig zu Ende ist, und nennt die Serbische Fortschrittspartei als Unterlegene."
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Liefert keine inhaltlichen Details zum Text."
+      },
+      {
+        "name": "stern",
+        "note": "Erwähnt, dass Vučić die Niederlage in einer Ansprache vor seinem Wahlkampfstab in Belgrad unter Berufung auf eine Projektion einräumte."
+      }
+    ],
+    "chg": "",
+    "independent": 7
+  },
+  {
+    "id": "story-ed0c7114733b08ad",
+    "c": "INT",
+    "o": "UK",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-25T22:06:26.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Serbiens langjähriger Präsident Vučić räumt Wahlniederlage ein",
+    "s": "Nach jahrelangen Protesten hat Serbiens nationalistischer Staatschef Aleksandar Vučić seine Niederlage bei den Parlamentswahlen eingeräumt. Die studentisch angeführte Protestbewegung konnte sich überraschend durchsetzen. Vučić erklärte, es sei klar, dass seine Partei die Abstimmung verloren habe. Die Wahl galt im Vorfeld als entscheidendes Referendum über die politische Zukunft des Landes.",
+    "m": "Aleksandar Vučić regierte Serbien als populistisch-rechter Führer über einen Zeitraum von zwölf Jahren. Nun musste er eingestehen, dass die Opposition bei den Wahlen einen bedeutenden Sieg errungen hat. Die Wahl wurde durch eine fast zweijährige Protestwelle der Bevölkerung vorbereitet. Konkret wird prognostiziert, dass die oppositionelle Student List eine parlamentarische Mehrheit erringen wird. Die genaue künftige Regierungsbildung und die langfristigen politischen Konsequenzen für den Balkanstaat bleiben zunächst abzuwarten. Bislang gibt es keine offiziellen Angaben zu den exakten Sitzverteilungen oder prozentualen Ergebnissen der einzelnen Parteien.",
+    "r": "Der Machtwechsel in Serbien markiert nach zwölf Jahren einen historischen Wendepunkt in der osteuropäischen Politik. Die Einräumung der Niederlage durch einen langjährigen Machthaber infolge ziviler Proteste hat weitreichende Bedeutung für die Stabilität der Region.",
+    "srcs": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-25T22:06:26.000Z"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader?traffic_source=rss",
+        "date": "2026-10-25T19:19:54.000Z"
+      }
+    ],
+    "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+    "agree": "Die Quellen stimmen überein, dass Serbiens langjähriger Führer Aleksandar Vučić seine Niederlage bei den Wahlen gegen eine studentisch geführte Bewegung eingestanden hat.",
+    "diff": [
+      {
+        "name": "BBC World",
+        "note": "Berichtet, dass die Wahl als Referendum über die Zukunft des Landes bezeichnet wurde und Vučić die Partei seit 12 Jahren führte."
+      },
+      {
+        "name": "Al Jazeera",
+        "note": "Erwähnt konkret, dass die Oppositionsbewegung den Namen Student List trägt und voraussichtlich eine parlamentarische Mehrheit erhalten wird."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-c0f3269b5ec45f22",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-25T22:02:47.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Serbien: Vucic gesteht Niederlage bei Parlamentswahl ein",
+    "s": "Bei den Parlamentswahlen in Serbien hat die regierende SNS von Aleksandar Vucic eine Niederlage erlitten. Projektionen zufolge geht die Studentenliste als klare Siegerin aus der Abstimmung hervor. Vucic hat seine Niederlage bereits öffentlich eingestanden.",
+    "m": "Die politische Landschaft in Serbien steht vor einem bedeutenden Regierungswechsel. Aktuellen Projektionen zufolge hat die bisher regierende SNS unter der Führung von Aleksandar Vucic die Parlamentswahl verloren. Als klare Gewinnerin geht die Studentenliste hervor, die aus dem Stand die absolute Mehrheit der Sitze im Parlament erreichen konnte. Angesichts dieser Ergebnisse hat Vucic seine Niederlage offiziell eingeräumt. Bislang ist unklar, wie genau der bevorstehende Übergang der Regierungsgeschäfte ablaufen wird und welche konkreten politischen Schritte die neue Führung als Erstes plant. Die Wahlbeteiligung und die genaue Sitzverteilung im Detail wurden in den ersten Berichten noch nicht beziffert.",
+    "r": "Der Machtwechsel in Serbien durch den Wahlsieg der Studentenliste ist von hoher politischer Bedeutung für die Region. Das Einräumen der Niederlage durch den bisherigen Machthaber Vucic markiert einen historischen Wendepunkt in der serbischen Politik.",
+    "srcs": [
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/ausland/article6ade7b5eba080c37bf6d15c8/parlamentswahl-vucic-gesteht-niederlage-ein-studentenliste-gewinnt-wahl-in-serbien.html",
+        "date": "2026-10-25T22:02:47.000Z"
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-10/25/richtungswahl-entscheidet-ueber-die-zukunft-serbiens",
+        "date": "2026-10-25T21:13:22.000Z"
+      }
+    ],
+    "url": "https://www.welt.de/politik/ausland/article6ade7b5eba080c37bf6d15c8/parlamentswahl-vucic-gesteht-niederlage-ein-studentenliste-gewinnt-wahl-in-serbien.html",
+    "agree": "Beide Quellen stimmen darin überein, dass Vucic seine Niederlage eingestanden hat und die Studentenliste die Wahl in Serbien gewinnt.",
+    "diff": [
+      {
+        "name": "WELT",
+        "note": "Berichtet zusätzlich, dass Vucics SNS die Wahl laut Projektionen klar verliert und die Studentenliste die absolute Mehrheit im Parlament erreicht."
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Erwähnt den bevorstehenden Regierungswechsel im Titel, liefert im Text jedoch keine zusätzlichen Details zu den Projektionen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-449c3f6fdaab46d6",
+    "c": "INT",
+    "o": "INT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-25T21:39:13.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Marine Le Pen startet Präsidentschaftskampagne in Orléans",
+    "s": "Marine Le Pen hat offiziell ihre Kampagne für die französische Präsidentschaftswahl begonnen. Die Politikerin des Rassemblement National hielt dazu am Sonntag, den 25. Oktober, eine Kundgebung ab. Der Auftakt fand in der Stadt Orléans statt.",
+    "m": "Die rechtspopulistische Politikerin Marine Le Pen hat ihre Kandidatur beziehungsweise den Wahlkampf für die kommende französische Präsidentschaftswahl offiziell gestartet. Am Sonntag, dem 25. Oktober, versammelten sich Anhänger zu einer Kundgebung in Orléans, bei der Le Pen ihre Kampagne einläutete. Sie tritt als Kandidatin für ihre Partei Rassemblement National an. Weitere Details zum genauen Inhalt ihrer Auftaktrede oder zur konkreten Strategie wurden in den Berichten nicht genannt. Auch über Reaktionen politischer Mitbewerber gibt es in den aktuellen Meldungen noch keine Angaben.",
+    "r": "Der offizielle Start einer Präsidentschaftskampagne durch eine prominente politische Akteurin wie Marine Le Pen markiert einen wichtigen Schritt im anstehenden nationalen Wahlprozess Frankreichs. Solche Auftaktveranstaltungen geben erste Einblicke in die zeitliche Planung und strategische Ausrichtung der Kandidatur.",
+    "srcs": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/marine-le-pen-launches-french-presidential-campaign?traffic_source=rss",
+        "date": "2026-10-25T21:39:13.000Z"
+      },
+      {
+        "name": "France24 English",
+        "url": "https://www.france24.com/en/video/20261025-marine-le-pen-launches-presidential-campaign-in-orl%C3%A9ans",
+        "date": "2026-10-25T19:45:40.000Z"
+      }
+    ],
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/marine-le-pen-launches-french-presidential-campaign?traffic_source=rss",
+    "agree": "Beide Quellen stimmen darin überein, dass Marine Le Pen ihre Präsidentschaftskampagne gestartet hat.",
+    "diff": [
+      {
+        "name": "France24 English",
+        "note": "Nennt den genauen Ort Orléans, das Datum am Sonntag, den 25. Oktober, sowie die Partei RN (Rassemblement National) als Hintergrund."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-30d110c8aee66971",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-25T21:37:48.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Präsidentschaftswahl in Bulgarien: Entscheidung fällt in Stichwahl",
+    "s": "Bei der Präsidentschaftswahl in Bulgarien hat am Sonntag kein Kandidat die absolute Mehrheit erreicht. Nun kommt es zu einer Stichwahl zwischen den beiden bestplatzierten Kandidaten. Die Entscheidung über das Staatsoberhaupt fällt am kommenden Sonntag.",
+    "m": "Die bulgarischen Wählerinnen und Wähler müssen in einer Stichwahl über das neue Staatsoberhaupt entscheiden, da im ersten Wahlgang am Sonntag kein Bewerber die absolute Mehrheit erreichen konnte. Die Wahl entscheidet sich nun zwischen den beiden Kandidaten mit den meisten Stimmen. Laut den Berichten treten Ilijana Jotowa und Andrej Gjurow in der Stichwahl gegeneinander an. Der entscheidende zweite Wahlgang findet bereits am kommenden Sonntag statt. Weitere Details zum genauen Stimmverhältnis oder zu den politischen Hintergründen wurden in den vorliegenden Meldungen nicht genannt.",
+    "r": "Die Wahl eines Staatsoberhauptes in einem EU-Land ist von politischer Relevanz für die Stabilität und Vertretung des Staates. Das Ergebnis der anstehenden Stichwahl bestimmt die künftige Besetzung des Präsidentenamtes.",
+    "srcs": [
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/ausland/article6ade74dbba080c37bf6d1583/eu-land-bulgaren-muessen-in-stichwahl-ueber-staatsoberhaupt-entscheiden.html",
+        "date": "2026-10-25T21:37:48.000Z"
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/politik/ausland/2026-10/praesidentschaftswahl-bulgarien-ilijana-jotowa-andrej-gjurow-gxe",
+        "date": "2026-10-25T19:18:05.000Z"
+      }
+    ],
+    "url": "https://www.welt.de/politik/ausland/article6ade74dbba080c37bf6d1583/eu-land-bulgaren-muessen-in-stichwahl-ueber-staatsoberhaupt-entscheiden.html",
+    "agree": "Beide Quellen stimmen überein, dass kein Kandidat im ersten Wahlgang die absolute Mehrheit erreicht hat und es deshalb am kommenden Sonntag eine Stichwahl geben wird.",
+    "diff": [
+      {
+        "name": "WELT",
+        "note": "Nennt konkret die beiden Kandidaten Ilijana Jotowa und Andrej Gjurow, zwischen denen sich die Wahl entscheidet."
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Berichtet allgemein von den Bestplatzierten, ohne namentliche Nennung der Kandidaten."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-0b0fa5179538dcae",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-25T21:22:00.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Kreuzfahrtschiff »Mein Schiff 3« kollidiert mit Containerschiffen in Bremerhaven",
+    "s": "Bei stürmischem Wetter ist das Kreuzfahrtschiff »Mein Schiff 3« im Hafen von Bremerhaven mit zwei Containerschiffen zusammengestoßen. An dem Unfall, der sich beim Auslaufen des mit Reisenden besetzten Schiffes ereignete, sind nach Polizeiangaben insgesamt drei Schiffe beteiligt. Verletzt wurde nach ersten Erkenntnissen zunächst nichts Näheres bekannt, auch die genaue Schadenshöhe ist noch unklar.",
+    "m": "Das mit Reisenden an Bord befindliche Kreuzfahrtschiff »Mein Schiff 3« wollte den Hafen von Bremerhaven verlassen, als es zu dem Zusammenstoß mit zwei Containerschiffen kam. Die Havarie ereignete sich unter dem Einfluss stürmischer Wetterverhältnisse, die das Manövrieren erschwert haben dürften. Nach ersten Erkenntnissen der Polizei sind exakt drei Schiffe in den Unfall verwickelt. Bislang liegen noch keine detaillierten Informationen über die Schwere der Schäden an den beteiligten Schiffen oder über mögliche Verletzte unter den Passagieren und der Besatzung vor. Die zuständigen Behörden haben Ermittlungen zur genauen Unfallursache aufgenommen. Weitere Details zum Hergang und zu den beteiligten Reedereien oder Containerschiffen stehen noch aus.",
+    "r": "Der Unfall im Hafen von Bremerhaven betrifft die Sicherheit des Schiffsverkehrs bei extremen Wetterbedingungen. Die Beteiligung eines großen Passagierschiffes und zweier Containerschiffe macht den Vorfall für die maritime Logistik und den Tourismus bedeutsam.",
+    "srcs": [
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/mobilitaet/bremerhaven-kreuzfahrtschiff-kollidiert-mit-zwei-containerschiffen-im-hafen-a-6097aee0-a85e-4b7d-b385-7385e8fe9072#ref=rss",
+        "date": "2026-10-25T21:22:00.000Z"
+      },
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/panorama/-mein-schiff-3---kreuzfahrtschiff-kollidiert-mit-zwei-containerschiffen-38450266.html",
+        "date": "2026-10-25T21:02:00.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/panorama/bremerhaven-kreuzfahrtschiff-stoesst-mit-zwei-containerschiffen-zusammen-NG2QDMOAABA5DNN4DRBCPZRDII.html",
+        "date": "2026-10-25T20:42:47.000Z"
+      },
+      {
+        "name": "Rheinische Post",
+        "url": "https://rp-online.de/panorama/deutschland/bremerhaven-mein-schiff-3-kollidiert-mit-containerschiffen_aid-157207637",
+        "date": "2026-10-25T20:41:00.000Z"
+      }
+    ],
+    "url": "https://www.spiegel.de/mobilitaet/bremerhaven-kreuzfahrtschiff-kollidiert-mit-zwei-containerschiffen-im-hafen-a-6097aee0-a85e-4b7d-b385-7385e8fe9072#ref=rss",
+    "agree": "Alle Quellen sind sich einig, dass das Kreuzfahrtschiff »Mein Schiff 3« in Bremerhaven mit zwei Containerschiffen kollidiert ist und laut Polizei drei Schiffe an dem Unfall beteiligt sind.",
+    "diff": [
+      {
+        "name": "DER SPIEGEL",
+        "note": "Erwähnt konkret, dass das Schiff bei stürmischem Wetter auslaufen wollte."
+      },
+      {
+        "name": "stern",
+        "note": "Nennt die Passagiere an Bord und formuliert den Einstieg als Frage."
+      },
+      {
+        "name": "RND",
+        "note": "Bezeichnet das Kreuzfahrtschiff als »riesiges Schiff«."
+      },
+      {
+        "name": "Rheinische Post",
+        "note": "Betitelt den Unfallort als »Bremerhavener Hafen« und nutzt ebenfalls die Bezeichnung »riesiges Schiff«."
+      }
+    ],
+    "chg": "",
+    "independent": 4
+  },
+  {
+    "id": "story-8bd47d1915e304a0",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-25T20:59:24.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Präsident Vucic räumt Wahlniederlage in Serbien ein",
+    "s": "Bei der Parlamentswahl in Serbien hat die regierende Fortschrittspartei eine Niederlage erlitten. Präsident Aleksandar Vucic gestand das Wahlergebnis am Tag nach der Abstimmung ein. Die regierungskritische Studentenbewegung \"Studentska Lista\" konnte den Wahlerfolg für sich verbuchen. Eine Rekordbeteiligung der Wähler zeugte im Vorfeld von großer Unzufriedenheit im Land.",
+    "m": "Die Parlamentswahl in Serbien markiert eine politische Zäsur für das Land. Präsident Aleksandar Vucic erkannte den Sieg der oppositionellen Studentenbewegung \"Studentska Lista\" über seine Fortschrittspartei offiziell an. Beobachter werteten die außerordentlich hohe Wahlbeteiligung als klares Zeichen des Unmuts in der Bevölkerung gegen die bisherige Regierungspolitik. Die genauen Sitzverteilungen und die Zusammensetzung einer möglichen neuen Regierung stehen im Nachgang des Votums noch aus. Der Machtwechsel durch den Wahlsieg der Studentenbewegung könnte die politische Ausrichtung Serbiens maßgeblich verändern.",
+    "r": "Der Machtwechsel in Serbien durch den Sieg der Studentenbewegung über die Regierungspartei hat weitreichende innenpolitische Bedeutung. Die Anerkennung der Niederlage durch Präsident Vucic besiegelt die politische Zäsur nach der Rekordwahlbeteiligung.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMl9VS0xBcnpPbzVfZGVKdHVzaHdadW9zdVdiRm5YcnpGUnFNNEd6cTAyTW02bzNCM1hMT3dJSzkweE9vRmx3OHN5ZW1ra3VhVzB1UnRrOXRwQmhIM3JoOEpvRjhmUFR6dGtPbW1yWm1iNGQwd0NWS09TeW1DMThBUlc0N29iNWxRQjBWc0ZTOGp3VXQ5WEF4ZkNvX05rZw?oc=5",
+        "date": "2026-10-25T20:59:24.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/politik/Praesident-Vucic-raeumt-Wahlniederlage-in-Serbien-ein-id31456934.html",
+        "date": "2026-10-25T20:59:24.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMl9VS0xBcnpPbzVfZGVKdHVzaHdadW9zdVdiRm5YcnpGUnFNNEd6cTAyTW02bzNCM1hMT3dJSzkweE9vRmx3OHN5ZW1ra3VhVzB1UnRrOXRwQmhIM3JoOEpvRjhmUFR6dGtPbW1yWm1iNGQwd0NWS09TeW1DMThBUlc0N29iNWxRQjBWc0ZTOGp3VXQ5WEF4ZkNvX05rZw?oc=5",
+    "agree": "",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-33b5d765ad82aedc",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-25T20:48:30.000Z",
+    "p": 2,
+    "st": "BW",
+    "city": "",
+    "t": "Stromausfall in Freiburg und Umgebung nach Kurzschluss behoben",
+    "s": "Ein großflächiger Stromausfall hat am Montag die Region rund um Freiburg getroffen. Zwischenzeitlich waren rund 10.000 Haushalte ohne Strom. Mittlerweile ist die Stromversorgung wieder vollständig hergestellt.",
+    "m": "Auslöser für den Ausfall war ein technischer Defekt in Form eines Kurzschlusses in einem Umspannwerk direkt in Freiburg. Von dem plötzlichen Netzausfall waren zeitweise rund 10.000 Haushalte in der Region betroffen. Die zuständigen Stellen arbeiteten mit Hochdruck an der Behebung des Schadens. Inzwischen konnte der Fehler im Umspannwerk erfolgreich behoben werden. Alle betroffenen Haushalte sind wieder ans Netz angeschlossen. Die genaue Ursache für den Kurzschluss im Umspannwerk wird noch untersucht.",
+    "r": "Der Vorfall zeigt die Verletzlichkeit kritischer Infrastruktur auf regionaler Ebene. Solche Ausfälle beeinträchtigen das tägliche Leben tausender Bürger und erfordern schnelle Reaktionen der Versorger.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell Baden-Württemberg",
+        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/freiburg/grossflaechiger-stromausfall-100.html",
+        "date": "2026-10-25T20:48:30.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Baden-Württemberg",
+        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-grossflaechiger-stromausfall-in-teilen-des-stadtgebiets-freiburg-und-in-einzelnen-regionen-des-dreisamtals-100.html",
+        "date": "2026-10-25T11:25:00.000Z"
+      }
+    ],
+    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/freiburg/grossflaechiger-stromausfall-100.html",
+    "agree": "Beide Quellen stimmen überein, dass ein Kurzschluss in einem Umspannwerk in Freiburg der Grund für den Stromausfall war und rund 10.000 Haushalte betroffen sowie inzwischen wieder am Netz sind.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-6decc565f3dbbcdc",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-25T20:41:56.000Z",
+    "p": 2,
+    "st": "BW",
+    "city": "",
+    "t": "Tobias Huber gewinnt Oberbürgermeisterwahl in Ehingen",
+    "s": "Bei der Oberbürgermeisterstichwahl in Ehingen hat sich Tobias Huber durchgesetzt. Der 33-Jährige ist damit der neue Rathauschef der Stadt. Er gewann die Abstimmung gegen seinen Konkurrenten Martin Krämer.",
+    "m": "Tobias Huber wird der neue Oberbürgermeister von Ehingen. Bei der entscheidenden Stichwahl setzte sich der 33-Jährige gegen seinen Mitbewerber Martin Krämer durch. Bemerkenswert an der Konstellation ist, dass beide Kandidaten der CDU angehören, bei der Wahl jedoch als unabhängige Bewerber angetreten sind. Weitere Details zum Wahlergebnis, wie etwa genaue Stimmenanteile oder Wahlbeteiligungen, gehen aus den Berichten nicht hervor. Auch über die künftigen politischen Schwerpunkte des neuen Oberbürgermeisters ist bisher nichts bekannt.",
+    "r": "Die Wahl bestimmt die künftige kommunalpolitische Führung der Stadt Ehingen. Da beide Kandidaten aus derselben Partei stammen, ist das Ergebnis auch für die lokale Parteidynamik von Bedeutung.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/ob-wahl-ehingen-tobias-huber-gewinnt-100.html",
+        "date": "2026-10-25T20:41:56.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Baden-Württemberg",
+        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-wahl-in-ehingen-tobias-huber-ist-neuer-oberbuergermeister-100.html",
+        "date": "2026-10-25T20:21:00.000Z"
+      }
+    ],
+    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/ob-wahl-ehingen-tobias-huber-gewinnt-100.html",
+    "agree": "Beide Quellen stimmen überein, dass Tobias Huber die Stichwahl gegen Martin Krämer gewonnen hat, 33 Jahre alt ist, neuer Oberbürgermeister von Ehingen wird und beide zwar CDU-Mitglieder sind, aber als unabhängige Kandidaten antraten.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-416b4352df5c3aeb",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-25T20:29:28.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Präsidentschaftswahl in Bulgarien: Amtsinhaberin Jotowa in Prognosen vorn",
+    "s": "Bei der ersten Runde der Präsidentschaftswahl in Bulgarien zeichnet sich eine Stichwahl ab. Laut ersten Nachwahlbefragungen hat die amtierende sozialistische Präsidentin Ilijana Jotowa die meisten Stimmen erhalten. Sie blieb damit jedoch deutlich hinter den Erwartungen zurück.",
+    "m": "Die amtierende bulgarische Präsidentin Ilijana Jotowa kam bei der ersten Wahlrunde laut Nachwahlbefragungen am Sonntagabend auf 35 bis 36,5 Prozent der Stimmen. Die 62-Jährige ist seit Januar im Amt und wirbt für einen Dialog mit Russland. Aufgrund des Ergebnisses muss sie in einer Stichwahl gegen ihren prowestlichen Herausforderer Andrej Gjurow antreten. Das Abschneiden der Amtsinhaberin wurde von Beobachtern als schlechter als erwartet bewertet.",
+    "r": "Die Wahl bestimmt den Kurs des EU- und NATO-Landes Bulgarien, insbesondere im Hinblick auf das Verhältnis zu Russland und dem Westen. Das Ergebnis der ersten Runde zeigt eine politische Polarisierung und macht eine Stichwahl erforderlich.",
+    "srcs": [
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/news/praesidentschaftswahl-in-bulgarien--amtsinhaberin-jotowa-laut-prognose-nur-knapp-vorn-38450218.html",
+        "date": "2026-10-25T20:29:28.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc1FmS3dybTlOSko0UmlrWXVhMlg2UTYxelN2bE9rVlF1SkJ4RE9GZGRxSVJ2MERTVGxQR3gtMFlLd0lJVXFoX3BfV2Q2MkFoYi1fMDRTV25MSU9yLU90bXRfTkdnY1ZMNWVNb0VUb2c4UXlYSXRvQ1pmOWdrdkFRYVNJb0U2VmRtWExFU1p4Q1dGbUJJa3FPeE1aMWZVeWFTT2JJY0szMUhmUDBO?oc=5",
+        "date": "2026-10-25T19:18:05.000Z"
+      }
+    ],
+    "url": "https://www.stern.de/news/praesidentschaftswahl-in-bulgarien--amtsinhaberin-jotowa-laut-prognose-nur-knapp-vorn-38450218.html",
+    "agree": "Die Quellen sind sich einig, dass die amtierende Präsidentin Ilijana Jotowa bei der ersten Runde der Präsidentschaftswahl in Bulgarien laut Prognosen knapp beziehungsweise mit den meisten Stimmen vorn liegt und eine Stichwahl bevorsteht.",
+    "diff": [
+      {
+        "name": "stern",
+        "note": "Berichtet detailliert über die Prozentwerte der Prognose (35 bis 36,5 Prozent), das Alter und die Amtszeit der 62-jährigen Jotowa sowie ihren Herausforderer Andrej Gjurow."
+      },
+      {
+        "name": "Google News DE",
+        "note": "Verweist lediglich auf die Berichterstattung von DIE ZEIT und liefert keinen zusätzlichen Fließtextinhalt."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-bf0d25e4213a5c5d",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-25T20:24:51.000Z",
+    "p": 3,
+    "st": "BY",
+    "city": "",
+    "t": "Nahost-Ticker: In Gaza wird das Brot wieder knapp",
+    "s": "Die humanitäre Situation im Gazastreifen droht sich erneut zuzuspitzen. Das Welternährungsprogramm (WFP) sieht sich gezwungen, seine Lebensmittellieferungen massiv zu kürzen. Grund für diesen Schritt ist der Mangel an ausreichenden Finanzmitteln durch internationale Geldgeber. In der Folge wird auch das Brot im Küstengebiet knapp, da den Bäckereien das notwendige Mehl fehlt.",
+    "m": "Die drastische Kürzung der Lebensmittelhilfe durch das Welternährungsprogramm verschärft die Krise im Gazastreifen erheblich. Verantwortlich für diesen Engpass sind ausbleibende beziehungsweise unzureichende Finanzmittel von internationalen Geldgebern, die das WFP nicht in dem benötigten Maße unterstützen. Da den lokalen Bäckereien durch die ausbleibenden Lieferungen das Mehl ausgeht, ist mittlerweile auch die Brotversorgung akut gefährdet. Die Berichterstattung erfolgt im Rahmen von Nahost-Tickern, die über die sich zuspitzende Lage informieren, wobei offene Fragen zur künftigen Finanzierung und langfristigen Versorgung der Bevölkerung bestehen bleiben.",
+    "r": "Die Einschränkung der humanitären Hilfe in Krisengebieten wie dem Gazastreifen hat direkte Auswirkungen auf die Grundversorgung der Zivilbevölkerung. Der Mangel an Grundnahrungsmitteln wie Brot verdeutlicht die Abhängigkeit von internationalen Finanzmitteln für die Versorgungssicherheit.",
+    "srcs": [
+      {
+        "name": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/aktuelle-news-zum-usa-iran-krieg-vom-19-bis-25-10-2026-im-ueberblick,VYUFGqV",
+        "date": "2026-10-25T20:24:51.000Z"
+      },
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/ausland/gaza-ernaehrung-100.html",
+        "date": "2026-10-25T14:45:02.000Z"
+      }
+    ],
+    "url": "https://www.br.de/nachrichten/deutschland-welt/aktuelle-news-zum-usa-iran-krieg-vom-19-bis-25-10-2026-im-ueberblick,VYUFGqV",
+    "agree": "Beide Quellen sind sich einig, dass das Welternährungsprogramm seine Lebensmittelhilfe im Gazastreifen kürzen muss und dadurch Brot knapp wird, weil Mehl fehlt.",
+    "diff": [
+      {
+        "name": "BR24 Bayern",
+        "note": "Erwähnt explizit, dass News im Ticker laufen und Geldgeber nicht genug Mittel bereitstellen."
+      },
+      {
+        "name": "SWR Aktuell",
+        "note": "Spricht von massiven Kürzungen der Lebensmittellieferungen und verweist auf internationale Geldgeber."
       }
     ],
     "chg": "",
@@ -101,9 +817,9 @@
     "st": "",
     "city": "",
     "t": "Exilierte Oppositionsführerin María Corina Machado nach Venezuela zurückgekehrt",
-    "s": "Die venezolanische Oppositionsführerin María Corina Machado hat nach fast einem Jahr im Exil ihre Rückkehr in ihr Heimatland bekannt gegeben. Sie verließ das Land zuvor, um den Friedensnobelpreis entgegenzunehmen. Ihre Heimkehr dürfte bei Interimspräsidentin Delcy Rodríguez auf wenig Gegenliebe stoßen.",
-    "m": "Die Rückkehr von María Corina Machado erfolgt nach Angaben der Quellen fast ein Jahr nach ihrer Abreise ins Ausland, wo sie den Friedensnobelpreis erhalten hatte. Sie verkündete ihre Ankunft am Sonntagmittag über den Kurznachrichtendienst X mit den Worten „Ich bin hier. Mit euch“. Al Jazeera ergänzt, dass diese Heimkehr auf landesweite Proteste folgt, bei denen freie Wahlen gefordert wurden. Die Rückkehr der prominenten Oppositionsfigur in das südamerikanische Land dürfte für politische Spannungen sorgen und die Machthaber, insbesondere Interimspräsidentin Delcy Rodríguez, herausfordern. Weitere Details zum genauen Ablauf ihrer Einreise oder zu geplanten politischen Schritten nennen die Berichte bisher nicht. Offen bleibt zudem, wie die Regierung auf das Erscheinen der Nobelpreisträgerin reagieren wird.",
-    "r": "Die Rückkehr der prominenten Oppositionsführerin in ein von politischen Spannungen und Protesten geprägtes Land ist ein bedeutendes Ereignis für die innenpolitische Lage in Venezuela. Die Reaktionen der Regierung unter Interimspräsidentin Delcy Rodríguez werden für die weitere Entwicklung der politischen Krise entscheidend sein.",
+    "s": "Die venezolanische Oppositionsführerin María Corina Machado hat angekündigt, nach fast einem Jahr im Exil in ihr Heimatland zurückgekehrt zu sein. Ihre Rückkehr erfolgt nach nationalen Protesten, die freie Wahlen forderten. Die Nobelpreisträgerin verkündete ihre Ankunft am Sonntagmittag über die Plattform X.",
+    "m": "María Corina Machado hatte das Land vor knapp einem Jahr verlassen, um den Friedensnobelpreis entgegenzunehmen. Ihre Rückkehr dürfte die amtierende Interimspräsidentin Delcy Rodríguez voraussichtlich verärgern. Die erneute Präsenz der Oppositionsführerin fällt in eine Phase erhöhter politischer Spannungen, nachdem es zuvor landesweite Proteste mit Forderungen nach freien Wahlen gegeben hatte. Ob und wie die Behörden auf die Rückkehr reagieren werden, ist derzeit noch offen. Die genauen Umstände ihrer Einreise sowie ihre nächsten politischen Schritte wurden in den vorliegenden Berichten zunächst nicht näher erläutert.",
+    "r": "Die Rückkehr einer prominenten Oppositionsführerin aus dem Exil ist für die politische Stabilität und die Machtverhältnisse in Venezuela von erheblicher Bedeutung. Sie könnte die Spannungen mit der Interimsregierung weiter verschärfen und die Forderungen nach freien Wahlen neu entfachen.",
     "srcs": [
       {
         "name": "Guardian World",
@@ -117,15 +833,15 @@
       }
     ],
     "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
-    "agree": "Die Quellen stimmen überein, dass die venezolanische Oppositionsführerin und Nobelpreisträgerin María Corina Machado nach fast einem Jahr im Exil nach Venezuela zurückgekehrt ist.",
+    "agree": "Die Quellen stimmen darin überein, dass die oppositionelle Friedensnobelpreisträgerin María Corina Machado nach fast einem Jahr im Exil nach Venezuela zurückgekehrt ist.",
     "diff": [
       {
         "name": "Guardian World",
-        "note": "Erwähnt Machus Ankündigung auf X mit den Worten „Ich bin hier. Mit euch“ am Sonntagmittag und dass die Rückkehr Interimspräsidentin Delcy Rodríguez voraussichtlich nicht erfreuen wird."
+        "note": "Erwähnt die Ankündigung von Machado über X am Sonntagmittag und dass die Rückkehr der Interimspräsidentin Delcy Rodríguez voraussichtlich nicht gefallen wird."
       },
       {
         "name": "Al Jazeera",
-        "note": "Berichtet ergänzend, dass die Rückkehr im Anschluss an landesweite Proteste erfolgt, die freie Wahlen forderten."
+        "note": "Erwähnt zusätzlich, dass die Heimkehr auf nationale Proteste mit Forderungen nach freien Wahlen folgt."
       }
     ],
     "chg": "",
@@ -264,10 +980,10 @@
     "p": 2,
     "st": "MV",
     "city": "",
-    "t": "Gasversorgung in Rastow und Umgebung nach Wassernetz-Schaden unterbrochen",
-    "s": "In Rastow und Umgebung sind zahlreiche Haushalte weiterhin ohne Gasversorgung. Grund für den Ausfall ist ein Leck im Wassernetz, das eine Gasleitung beschädigt hat. Die Reparatur- und Instandsetzungsarbeiten laufen auf Hochtouren, gestalten sich jedoch komplex. Ein genauer Zeitpunkt für die vollständige Wiederinbetriebnahme aller Anschlüsse ist derzeit noch ungewiss.",
-    "m": "Der Ausfall der Gasversorgung betrifft hunderte Haushalte in der Gemeinde Rastow sowie in der umliegenden Region. Ursächlich für den Schaden war ein technisches Leck im örtlichen Wassernetz, welches infolgedessen die angrenzende Gasleitung in Mitleidenschaft gezogen hat. Techniker und Versorger sind im Großeinsatz, um die beschädigten Leitungsabschnitte zu untersuchen und zu reparieren. Nach aktuellen Einschätzungen der zuständigen Stellen wird es voraussichtlich mindestens bis Mittwoch dauern, bis alle betroffenen Hausanschlüsse wieder regulär funktionieren und sicher betrieben werden können. Bis dahin müssen sich die Anwohner auf anhaltende Einschränkungen einstellen. Offen ist bislang, wie hoch der genaue Sachschaden an den Leitungen ausfällt und ob es zu weiteren Folgeproblemen im betroffenen Netz kommt.",
-    "r": "Der anhaltende Ausfall der Gasversorgung betrifft hunderte Haushalte und erfordert umfangreiche Reparaturarbeiten an beschädigten Leitungen. Die Ereignisse verdeutlichen die Anfälligkeit kritischer Infrastruktur bei Netzüberschneidungen und führen zu spürbaren Einschränkungen für die betroffene Bevölkerung in Rastow und Umgebung.",
+    "t": "Gasversorgung in Rastow und Umgebung nach Wassernetz-Schaden weiter unterbrochen",
+    "s": "In Rastow und Umgebung sind hunderte Haushalte weiterhin ohne Gasversorgung. Grund für den Ausfall ist ein Leck im Wassernetz, das eine Gasleitung beschädigt hat. Die Reparaturarbeiten dauern an.",
+    "m": "Der Ausfall der Gasversorgung betrifft hunderte Haushalte in Rastow und der umliegenden Region. Ursächlich für den Schaden an der Gasleitung war ein vorausgegangenes Leck im lokalen Wassernetz. Derzeit laufen die Instandsetzungsmaßnahmen auf Hochtouren, um die beschädigte Infrastruktur zu reparieren. Nach aktuellen Prognosen wird es voraussichtlich bis Mittwoch dauern, bis alle betroffenen Hausanschlüsse wieder regulär funktionieren und die Versorgung vollständig wiederhergestellt ist. Bis dahin müssen die Anwohner ohne Gas auskommen. Offen ist bislang, wie hoch der genaue Sachschaden ist und wie es zu dem Leck im Wassernetz kommen konnte.",
+    "r": "Der anhaltende Ausfall der Energieversorgung für hunderte Haushalte ist von regionaler Bedeutung für die betroffenen Anwohner. Die Schadensbehebung erfordert einen mehrtägigen Großeinsatz bis voraussichtlich Mittwoch.",
     "srcs": [
       {
         "name": "Tagesschau Regional Mecklenburg-Vorpommern",
@@ -281,49 +997,17 @@
       }
     ],
     "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/ende-ungewiss-haushalte-in-rastow-und-umgebung-weiter-ohne-gas,gas-220.html",
-    "agree": "Beide Quellen stimmen darin überein, dass ein Leck im Wassernetz die Gasleitung in Rastow und Umgebung beschädigt hat und hunderte beziehungsweise mehrere Haushalte ohne Gas sind.",
+    "agree": "Die Quellen stimmen darin überein, dass hunderte Haushalte in Rastow und Umgebung wegen eines beschädigten Wassernetzes ohne Gas sind und die Reparatur voraussichtlich bis Mittwoch dauert.",
     "diff": [
       {
         "name": "Tagesschau Regional Mecklenburg-Vorpommern",
-        "note": "formuliert das Ende der Reparaturen als ungewiss bis Mittwoch."
+        "note": "Erwähnt die betroffenen Abnehmer explizit als 'Haushalte in Rastow und Umgebung' ohne genaue Zahlen."
       },
       {
         "name": "NDR Mecklenburg-Vorpommern",
-        "note": "beziffert die betroffenen Haushalte mit 'Hunderte' und gibt an, dass die Reparatur mindestens bis Mittwoch dauern wird."
+        "note": "Beziffert die betroffenen Abnehmer mit 'Hunderte Haushalte' und gibt an, dass die Reparatur 'mindestens' bis Mittwoch dauern wird."
       }
     ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-6decc565f3dbbcdc",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-25T19:25:49.000Z",
-    "p": 2,
-    "st": "BW",
-    "city": "",
-    "t": "Tobias Huber gewinnt Oberbürgermeisterwahl in Ehingen",
-    "s": "Bei der Stichwahl in Ehingen hat sich Tobias Huber gegen Martin Krämer durchgesetzt. Der 33-Jährige wird damit neuer Oberbürgermeister der Stadt. Sowohl Huber als auch sein Mitbewerber gehören der CDU an, traten bei der Wahl jedoch als unabhängige Kandidaten an.",
-    "m": "Der 33-jährige Tobias Huber ist zum neuen Oberbürgermeister von Ehingen gewählt worden. Er konnte sich in der anstehenden Stichwahl gegen seinen Kontrahenten Martin Krämer durchsetzen. Interessanterweise sind beide Kandidaten Mitglieder der CDU, traten jedoch beide als unabhängige Bewerber bei der Oberbürgermeisterwahl an. Weitere Details zum genauen Stimmenverhältnis oder zur Wahlbeteiligung nennen die vorliegenden Berichte nicht. Auch über die künftigen politischen Schwerpunkte oder den genauen Zeitpunkt des Amtsantritts des neuen Oberbürgermeisters ist bisher nichts bekannt.",
-    "r": "Die Wahl entscheidet über die politische Führung der Stadt Ehingen im Landkreis Ulm. Die Besonderheit, dass zwei Kandidaten derselben Partei als Unabhängige gegeneinander antraten, prägt das lokale politische Geschehen.",
-    "srcs": [
-      {
-        "name": "SWR Aktuell",
-        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/ob-wahl-ehingen-tobias-huber-gewinnt-100.html",
-        "date": "2026-10-25T19:25:49.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Baden-Württemberg",
-        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-wahl-in-ehingen-tobias-huber-ist-neuer-oberbuergermeister-100.html",
-        "date": "2026-10-25T17:48:52.000Z"
-      }
-    ],
-    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/ob-wahl-ehingen-tobias-huber-gewinnt-100.html",
-    "agree": "Beide Quellen stimmen überein, dass Tobias Huber mit 33 Jahren neuer Oberbürgermeister von Ehingen ist, dass er sich in der Stichwahl gegen Martin Krämer durchsetzte und dass beide der CDU angehören, aber als unabhängige Kandidaten antraten.",
-    "diff": [],
     "chg": "",
     "independent": 2
   },
@@ -428,6 +1112,92 @@
     "independent": 3
   },
   {
+    "id": "story-e6f8c29178cfbb28",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-25T19:00:03.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Stromsteuer-Debatte: Union und SPD weiter uneinig über Finanzierung",
+    "s": "In der Bundesregierung herrscht Einigkeit darüber, dass Unternehmen und Haushalte beim Strompreis entlastet werden sollen. Wie diese Entlastungen finanziert werden können, ist jedoch weiterhin unklar. Die Koalitionspartner Union und SPD stehen in dieser Frage weit auseinander.",
+    "m": "Die geplante Entlastung bei der Stromsteuer sorgt in der Großen Koalition für anhaltenden Dissens. Während grundsätzlich Einigkeit über das Ziel besteht, Unternehmen und Haushalte zu entlasten, gibt es erhebliche Differenzen bei der Gegenfinanzierung. Im Bericht aus Berlin machten sowohl CDU als auch SPD sehr unterschiedliche Vorschläge zur Bewältigung dieses Problems. Bislang konnte noch keine gemeinsame Linie gefunden werden, wie die finanziellen Mittel für die Entlastungen aufgebracht werden sollen. Die Debatte verdeutlicht die unterschiedlichen finanzpolitischen Prioritäten innerhalb der Regierung. Weitere Beratungen und Verhandlungen zwischen den beteiligten Akteuren sind in den kommenden Wochen zu erwarten. Die offenen Punkte betreffen vor allem die Verteilung der Belastungen und mögliche Alternativen im Haushalt.",
+    "r": "Die Debatte betrifft zentrale wirtschafts- und finanzpolitische Weichenstellungen der Bundesregierung zur Entlastung von Bürgern und Wirtschaft. Uneinigkeit in dieser Kernfrage berührt die Handlungsfähigkeit der Koalition in Haushaltsfragen.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/inland/bericht-aus-berlin-stromsteuer-100.html",
+        "date": "2026-10-25T19:00:03.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE55cHhDVUstWTJQRWJHRlRUX2RGeFNfN3o3RlJfR1pXdXlSTG5rU01BSUtVYVhRdjJQYmpYQXh0empIbnZNZy1qRG1aLWRjblVHckpSVzFtM0I3a1U2MU9GN1pDb0dLSEZXaFpqMFhkUnZnckpOSXl2Q0FOZ20?oc=5",
+        "date": "2026-10-25T17:49:00.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/bericht-aus-berlin-stromsteuer-100.html",
+    "agree": "Die Quellen sind sich einig, dass Union und SPD bei der Debatte um die Stromsteuer und deren Finanzierung weit auseinanderliegen, obwohl grundsätzliche Einigkeit über die Entlastung von Unternehmen und Haushalten besteht.",
+    "diff": [
+      {
+        "name": "SWR Aktuell",
+        "note": "Berichtet, dass die Frage der Finanzierung unklar ist."
+      },
+      {
+        "name": "Tagesschau",
+        "note": "Ergänzt, dass CDU und SPD im Bericht aus Berlin sehr unterschiedliche Vorschläge machten."
+      },
+      {
+        "name": "Google News DE",
+        "note": "Verweist lediglich auf den Artikel der Tagesschau."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-6104b9adff33c014",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-25T18:32:40.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "SPD-Abgeordnete fordert Friedrich Merz vor Ministerpräsidentenwahl in Sachsen-Anhalt zum Eingreifen auf",
+    "s": "Vor der Ministerpräsidentenwahl in Sachsen-Anhalt wächst der Druck auf die CDU. Die SPD-Abgeordnete Rasha Nasr hat Bundeskanzler Friedrich Merz zum Eingreifen aufgefordert. Grund für den Appell ist die Sorge vor einer möglichen Wahlhilfe für die AfD.",
+    "m": "Die politische Lage vor der Ministerpräsidentenwahl in Sachsen-Anhalt sorgt für Spannungen und erhöht den Druck auf die dortige CDU. In dieser Situation hat sich die SPD-Abgeordnete Rasha Nasr zu Wort gemeldet und den Bundeskanzler Friedrich Merz direkt zum Handeln aufgefordert. Konkret verlangt sie ein Eingreifen, um eine angebliche Wahlhilfe für die AfD zu verhindern. Weitere Details zum Ablauf der Wahl, Reaktionen der CDU oder genaue Mehrheitsverhältnisse in Sachsen-Anhalt gehen aus den vorliegenden Berichten bisher nicht hervor. Auch offene Fragen bezüglich möglicher Konsequenzen für die Bundeskoalition oder die konkrete Ausgestaltung des geforderten Eingreifens bleiben in den Quellen ungenannt.",
+    "r": "Die Forderung einer Bundes-SPD-Abgeordneten an den Bundeskanzler betrifft unmittelbare innerparteiliche und koalitionäre Machtdynamiken im Vorfeld einer Landeswahl. Sie ist relevant, da sie potenzielle Zusammenarbeitsverbote oder Annäherungen an die AfD auf Landesebene thematisiert.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPNmh2OUhpdWxnSzMyRDV3aXdDbmNnVlp6YTZRY05mVFl6b3FFTFhGVnE5dWVQNmMyT1NLWGhIUmdVQU1jdU9tSE5DMGZpV0J4R1FQb3lyUjd0UDR4MjR4T0JqT0JtSF8wYVJEYzVrWUNaY1VYaDNfTm83RFRvZlFGNTFCQmRpeEZwc3lGTEQtNUhSa2Q4WnpjaEVQanN5LUJoV3hDZWpnOXRfS2JNV05ueGVBV3NNNTNWTzJMejVtU2JLMkpyUXJJSEQ0NE83ZmpaTVFWWnNneDRHdHNjQUt1anVDa2Z6czB0YW5WSDVoQTlpTzZFNTNDc09wUzI2OC1EbWxDY3Z3NGNydmtiLWdnQ3hGd2Y?oc=5",
+        "date": "2026-10-25T18:32:40.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/deutschland/article6ade4864247c1fa2013069d0/ministerpraesidentenwahl-spd-abgeordnete-fordert-friedrich-merz-vor-wahl-in-sachsen-anhalt-zum-eingreifen-auf.html",
+        "date": "2026-10-25T18:31:07.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPNmh2OUhpdWxnSzMyRDV3aXdDbmNnVlp6YTZRY05mVFl6b3FFTFhGVnE5dWVQNmMyT1NLWGhIUmdVQU1jdU9tSE5DMGZpV0J4R1FQb3lyUjd0UDR4MjR4T0JqT0JtSF8wYVJEYzVrWUNaY1VYaDNfTm83RFRvZlFGNTFCQmRpeEZwc3lGTEQtNUhSa2Q4WnpjaEVQanN5LUJoV3hDZWpnOXRfS2JNV05ueGVBV3NNNTNWTzJMejVtU2JLMkpyUXJJSEQ0NE83ZmpaTVFWWnNneDRHdHNjQUt1anVDa2Z6czB0YW5WSDVoQTlpTzZFNTNDc09wUzI2OC1EbWxDY3Z3NGNydmtiLWdnQ3hGd2Y?oc=5",
+    "agree": "Die Quellen stimmen überein, dass eine SPD-Abgeordnete Friedrich Merz vor der Ministerpräsidentenwahl in Sachsen-Anhalt zum Eingreifen gegen Wahlhilfe für die AfD auffordert.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Die Quelle nennt im Titel zusätzlich den Namen der Abgeordneten (Rasha Nasr) nicht direkt, verlinkt jedoch auf den entsprechenden WELT-Artikel."
+      },
+      {
+        "name": "WELT",
+        "note": "Die Quelle nennt die SPD-Abgeordnete namentlich als Rasha Nasr und beschreibt den wachsenden Druck auf die CDU in Sachsen-Anhalt vor der Abstimmung."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-005e50de9e692967",
     "c": "DE",
     "o": "DE",
@@ -438,9 +1208,9 @@
     "st": "",
     "city": "",
     "t": "Ehemalige NDR-Fernsehansagerin Hanni Vanhaiden mit 88 Jahren verstorben",
-    "s": "Die langjährige NDR-Fernsehansagerin Hanni Vanhaiden ist im Alter von 88 Jahren gestorben. Sie prägte als Ansagerin ab dem Jahr 1967 das Programm des Norddeutschen Rundfunks. Mit ihrem markanten Aussehen wurde sie vor allem in den siebziger und achtziger Jahren zu einer bekannten Fernsehi. Die in Hamburg geborene und gestorbene Persönlichkeit hinterlässt bleibende Erinnerungen.",
-    "m": "Hanni Vanhaiden trat ihre Tätigkeit als Fernsehansagerin beim Norddeutschen Rundfunk im Jahr 1967 an und übte diese langjährig aus. Sie entwickelte sich im Laufe ihrer Karriere zu einer Fernsehikone, was insbesondere auf die siebziger und achtziger Jahre zutrifft. Zu ihren äußerlichen Markenzeichen zählten eine große Brille sowie kurzes Haar. Die gebürtige Hamburgerin verstarb nun in ihrer Heimatstadt im hohen Alter von 88 Jahren. Weitere Details zu den genauen Umständen ihres Todes oder Hinterbliebenen wurden in den vorliegenden Berichten nicht genannt.",
-    "r": "Der Tod von Hanni Vanhaiden markiert das Ableben einer bekannten Medienpersönlichkeit, die über Jahrzehnte das deutsche Fernsehen im Norden prägte. Solche Meldungen dokumentieren das Ende einer Ära des klassischen Fernsehens mit prominenten Ansagerinnen.",
+    "s": "Die langjährige NDR-Fernsehansagerin Hanni Vanhaiden ist im Alter von 88 Jahren in Hamburg gestorben. Sie prägte als Ansagerin ab 1967 das Programm des Norddeutschen Rundfunks. Mit ihrer kurzen Frisur und der auffälligen Brille wurde sie zu einer bekannten Ikone.",
+    "m": "Die gebürtige Hamburgerin Hanni Vanhaiden trat ihre Tätigkeit als Fernsehansagerin beim NDR im Jahr 1967 an. Sie begleitete die Fernsehzuschauer über viele Jahre hinweg und wurde vor allem in den Siebziger- und Achtzigerjahren zu einer bekannten Fernsehikone. Ihre äußerlichen Merkmale, insbesondere die große Brille und das kurze Haar, machten sie unverkennbar und wurden zu ihren Markenzeichnen. Nun ist Vanhaiden im Alter von 88 Jahren in ihrer Heimatstadt Hamburg gestorben.",
+    "r": "Der Tod der langjährigen NDR-Ansagerin markiert das Ende des Lebens einer bekannten Fernsehpersönlichkeit, die das Fernsehen der Siebziger- und Achtzigerjahre mitgeprägt hat.",
     "srcs": [
       {
         "name": "Frankfurter Allgemeine",
@@ -454,15 +1224,52 @@
       }
     ],
     "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/hanni-vanhaiden-ehemalige-fernsehansagerin-im-alter-von-88-jahren-gestorben-201620299.html",
-    "agree": "Beide Quellen stimmen überein, dass die ehemalige NDR-Fernsehansagerin Hanni Vanhaiden im Alter von 88 Jahren in Hamburg gestorben ist und für ihre markante Brille bekannt war.",
+    "agree": "Beide Quellen stimmen überein, dass die langjährige NDR-Ansagerin Hanni Vanhaiden im Alter von 88 Jahren in Hamburg gestorben ist und für ihre markante Brille bekannt war.",
     "diff": [
       {
         "name": "Frankfurter Allgemeine",
-        "note": "Erwähnt konkret das Jahr 1967 als Beginn ihrer Ansagertätigkeit beim NDR sowie ihre kurzen Haare als weiteres Markenzeichen."
+        "note": "Erwähnt zusätzlich, dass sie 1967 im NDR anfing und gebürtige Hamburgerin ist."
       },
       {
         "name": "WELT",
-        "note": "Bezeichnet sie zusätzlich als Fernsehikone der Siebziger- und Achtzigerjahre."
+        "note": "Bezeichnet sie als Fernsehikone der Siebziger- und Achtzigerjahre."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-3b9cbbf6a5abc24f",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-25T18:14:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Zehntausende demonstrieren in Prag gegen geplante Rundfunkreform",
+    "s": "In Tschechien sind Zehntausende Menschen auf die Straße gegangen, um gegen eine umstrittene Rundfunkreform zu protestieren. Der Gesetzentwurf sieht unter anderem vor, dass Gebühren wegfallen, Mittel gekürzt und Sender direkt aus dem Staatshaushalt finanziert werden sollen. Selbst der tschechische Präsident hat das Vorhaben als überstürzt kritisiert.",
+    "m": "Die Proteste in Prag richten sich gegen eine von der Regierung vorangetriebene Reform des öffentlich-rechtlichen Rundfunks. Kritiker befürchten durch die geplante Finanzierung aus dem Staatshaushalt und die Kürzung von Mitteln eine Gefährdung der Unabhängigkeit der Sender. Der tschechische Präsident schloss sich der Kritik an und bezeichnete das Gesetzesvorhaben als überstürzt. Bislang ist unklar, wie die Regierung auf den massiven Widerstand der Bevölkerung reagieren wird und ob der Entwurf im Parlament noch geändert werden könnte. Zehntausende Bürger versammelten sich in der Hauptstadt, um ihrem Unmut Luft zu machen. Das genaue Ausmaß der Kürzungen und der Zeitplan für das Gesetzgebungsverfahren sind zentrale Punkte der aktuellen Diskussion.",
+    "r": "Die massiven Proteste gegen die geplante Rundfunkreform berühren die Medienfreiheit und die staatliche Finanzierung des Rundfunks in Tschechien. Die Kritik des Präsidenten und der breite Bürgerprotest verleihen dem Gesetzgebungsprozess hohe politische Sprengkraft.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSUoxdWV6aTVFMXpwX1ExRGZhOVkwaGJvWXJWSGhrOFRWMldJNFRrOXBfSWYyNGNBSy1EZWdRWFQ0bU9hTXFpYlFoYmRMdXFlVmpLVXp5MFlwLTlWekRMdl85bzFqTXNOeDhZWWRkM0NyVXdINUgzY0RqWWdBV0pBczZ2b25ERkhLazJKZmM3YWdOOU1oMlBfQTV4bElZQ3JHVlhqNHpvWEV5UDFCU1dWcl9fTzdSR0hMSEVNdXRJcWJwU2pxMkhudnhRdmNxVW1nYmc?oc=5",
+        "date": "2026-10-25T18:14:00.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/tschechien-zehntausende-demonstrieren-gegen-rundfunkreform-in-prag-a-8ccdee78-833c-41ec-8409-83c873f50f16#ref=rss",
+        "date": "2026-10-25T18:14:00.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSUoxdWV6aTVFMXpwX1ExRGZhOVkwaGJvWXJWSGhrOFRWMldJNFRrOXBfSWYyNGNBSy1EZWdRWFQ0bU9hTXFpYlFoYmRMdXFlVmpLVXp5MFlwLTlWekRMdl85bzFqTXNOeDhZWWRkM0NyVXdINUgzY0RqWWdBV0pBczZ2b25ERkhLazJKZmM3YWdOOU1oMlBfQTV4bElZQ3JHVlhqNHpvWEV5UDFCU1dWcl9fTzdSR0hMSEVNdXRJcWJwU2pxMkhudnhRdmNxVW1nYmc?oc=5",
+    "agree": "Die Quellen stimmen überein, dass Zehntausende Menschen in Prag gegen eine geplante Rundfunkreform demonstriert haben.",
+    "diff": [
+      {
+        "name": "DER SPIEGEL",
+        "note": "Ergänzt Details zum Inhalt des Gesetzentwurfs wie den Wegfall von Gebühren, Mittelkürzungen sowie die Finanzierung aus dem Staatshaushalt und nennt die Kritik des tschechischen Präsidenten am überstürzten Vorgehen."
       }
     ],
     "chg": "",
@@ -519,10 +1326,10 @@
     "p": 2,
     "st": "",
     "city": "",
-    "t": "Geisterfahrer-Jet rollt am Frankfurter Flughafen in falsche Richtung",
-    "s": "Ein Airbus A321 der Fluggesellschaft Pegasus Airlines ist am Frankfurter Flughafen in die falsche Richtung auf die Startbahn gerollt. Fluglotsen bemerkten den Fehler umgehend und griffen sofort ein. Der Start wurde bei geringem Tempo erfolgreich abgebrochen. Nun prüfen die zuständigen Behörden mögliche Konsequenzen.",
-    "m": "Der Zwischenfall ereignete sich am Frankfurter Flughafen, wo ein Airbus A321 der Airline Pegasus Airlines versehentlich in die falsche Richtung auf eine Piste rollte. Dank des aufmerksamen Eingreifens der Fluglotsen konnte Schlimmeres verhindert werden. Die Lotsen bemerkten den Richtungsfehler sofort und veranlassten einen Abbruch des Startvorgangs, während sich das Flugzeug noch in einem geringen Tempo befand. Bisher sind keine Verletzten oder Schäden bekannt. Die zuständigen Behörden haben die Ermittlungen aufgenommen und prüfen nun die genauen Hintergründe sowie mögliche Konsequenzen für die Beteiligten. Offen ist derzeit, wie es zu dem Navigations- oder Kommunikationsfehler kommen konnte.",
-    "r": "Der Vorfall zeigt potenzielle Sicherheitsrisiken im Flughafenbetrieb auf, bei denen ein schnelles Eingreifen von Fluglotsen Kollisionen oder schwerwiegende Unfälle verhindern kann. Die Untersuchung der Behörden soll zur Klärung der Ursachen beitragen.",
+    "t": "Geisterfahrer-Jet rollt in Frankfurt in falsche Richtung los",
+    "s": "Ein Airbus A321 der Pegasus Airlines ist am Frankfurter Flughafen in die falsche Richtung auf eine Piste gerollt. Fluglotsen bemerkten den Fehler sofort und brachen den Start bei geringem Tempo ab. Verletzt wurde nach ersten Berichten niemand. Die zuständigen Behörden prüfen nun mögliche Konsequenzen des Vorfalls.",
+    "m": "Der Vorfall ereignete sich am Frankfurter Flughafen, als ein Airbus A321 der Fluggesellschaft Pegasus Airlines aus noch ungeklärter Ursache in die falsche Richtung auf die Startbahn rollte. Dank der schnellen Reaktion der Fluglotsen konnte Schlimmeres verhindert werden. Sie bemerkten den Fehler sofort und leiteten umgehend den Abbruch des Starts ein, der zu diesem Zeitpunkt erst mit geringem Tempo erfolgte. Passagiere und Crew kamen nach derzeitigem Stand mit dem Schrecken davon. Ob menschliches Versagen, technische Probleme oder Missverständnisse bei der Kommunikation vorlagen, ist Gegenstand von behördlichen Untersuchungen. Die genauen Umstände des Vorfalls werden nun umfassend geprüft, um künftige Gefährdungen des Flugverkehrs auszuschließen.",
+    "r": "Der Vorfall verdeutlicht potenzielle Gefahren im komplexen Bodenverkehr großer Verkehrsflughäfen. Die schnelle Intervention der Flugsicherung verhinderte eine unmittelbare Kollisionsgefahr. Die Untersuchung soll zur Erhöhung der Sicherheit im Start- und Landebetrieb beitragen.",
     "srcs": [
       {
         "name": "ntv",
@@ -536,11 +1343,52 @@
       }
     ],
     "url": "https://www.n-tv.de/panorama/Geisterfahrer-Jet-rollt-in-Frankfurt-in-falsche-Richtung-los-id31456691.html",
-    "agree": "Beide Quellen stimmen darin überein, dass ein Airbus A321 am Frankfurter Flughafen in die falsche Richtung auf die Startbahn rollte und Fluglotsen den Start durch sofortiges Eingreifen bei geringem Tempo abbrachen.",
+    "agree": "Beide Quellen berichten übereinstimmend, dass ein Airbus A321 am Frankfurter Flughafen in die falsche Richtung auf die Startbahn rollte und Fluglotsen den Vorfall sofort bemerkten.",
     "diff": [
       {
         "name": "ntv",
-        "note": "Nennt die Fluggesellschaft Pegasus Airlines und erwähnt, dass die Behörden nun mögliche Konsequenzen prüfen."
+        "note": "Erwähnt die Fluggesellschaft Pegasus Airlines, dass der Start bei geringem Tempo abgebrochen wurde und die Behörden mögliche Konsequenzen prüfen."
+      },
+      {
+        "name": "RND",
+        "note": "Nennt keine Details zur Airline oder zu behördlichen Konsequenzen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-b3a030202d974999",
+    "c": "DE",
+    "o": "DE",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-25T17:38:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Bayern-Coach Vincent Kompany nach Zusammenbruch auf dem Weg der Besserung",
+    "s": "Nach einem Zusammenbruch befindet sich Bayern-Trainer Vincent Kompany offenbar auf dem Weg der Besserung. Sein Co-Trainer Aaron Danks hat ein aktuelles Update zu seinem gesundheitlichen Zustand gegeben. Die Rückmeldungen zu seiner Verfassung werden als wirklich positiv beschrieben. Weitere Details zu den Hintergründen des Vorfalls wurden zunächst nicht genannt.",
+    "m": "Nach dem medizinischen Zwischenfall und dem Zusammenbruch von Bayern-Coach Vincent Kompany gibt es positive Nachrichten zu seiner Verfassung. Co-Trainer Aaron Danks äußerte sich zu dem aktuellen Stand und bezeichnete die Rückmeldungen als wirklich positiv, was auf eine baldige Besserung hindeutet. Zusätzlich äußerte sich Julian Schuster, der Trainer des SC Freiburg, und sprach sein Mitgefühl aus. Konkrete Details zur genauen Ursache oder dem Zeitpunkt des Zusammenbruchs gehen aus den vorliegenden Berichten nicht hervor. Auch über eine mögliche Rückkehr an die Seitenlinie oder den Trainingsplatz gibt es bisher keine offiziellen Angaben.",
+    "r": "Die Meldung ist relevant, da es sich um den gesundheitlichen Zustand des Cheftrainers eines Bundesliga-Spitzenclubs handelt. Solche Vorfälle haben unmittelbare Auswirkungen auf den Trainings- und Spielbetrieb der Mannschaft.",
+    "srcs": [
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-fc-bayern-kompany-zusammenbruch-update-danks-100.html",
+        "date": "2026-10-25T17:38:00.000Z"
+      },
+      {
+        "name": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/vincent-kompany-aaron-danks-ueber-zustand-von-fc-bayern-muenchen-trainer-201620213.html",
+        "date": "2026-10-25T17:20:54.000Z"
+      }
+    ],
+    "url": "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-fc-bayern-kompany-zusammenbruch-update-danks-100.html",
+    "agree": "Beide Quellen stimmen überein, dass Bayern-Coach Vincent Kompany nach einem Zusammenbruch auf dem Weg der Besserung ist und Co-Trainer Aaron Danks ein positives Update gegeben hat.",
+    "diff": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "note": "Erwähnt zusätzlich, dass Julian Schuster vom SC Freiburg sein Mitgefühl geäußert hat."
       }
     ],
     "chg": "",
@@ -556,10 +1404,10 @@
     "p": 3,
     "st": "RP",
     "city": "",
-    "t": "Gewalt und Eskalation an Schule in Ludwigshafen: Gibt es einen Ausweg?",
-    "s": "An der Karolina-Burger-Schule in Ludwigshafen kommt es zu massiven Problemen wie Erpressung, Gewalt und einer Reizgasattacke. Der Schulalltag ist stark eskaliert, was die Frage nach möglichen Lösungen aufwirft. Ein erfolgreiches Beispiel aus Berlin wird als möglicher Hoffnungsschlüssel betrachtet.",
-    "m": "An der Karolina-Burger-Schule in Ludwigshafen ist die Situation durch Vorfälle wie Erpressung, Gewalt und eine Reizgasattacke drastisch eskaliert. Der normale Schulalltag ist unter diesen Bedingungen kaum noch aufrechterhalten, weshalb intensiv nach Auswegen gesucht wird. Als ein möglicher Lösungsansatz oder eine Wende wird ein konkretes Praxisbeispiel aus Berlin genannt, das dort bereits Hoffnung gemacht hat. Die Berichte beleuchten die angespannte Lage und zeigen auf, dass strukturelle Veränderungen dringend notwendig sind. Beteiligte Akteure und Verantwortliche stehen vor großen Herausforderungen, um die Sicherheit und den Schulfriedenheit wiederherzustellen. Genaue Details über disziplinarische Maßnahmen oder politische Reaktionen lassen die kurzen Meldungen offen. Konkrete Zahlen zu den Opfern oder Tätern werden in diesem frühen Stand nicht genannt.",
-    "r": "Die Eskalation von Gewalt an Schulen ist ein drängendes gesellschaftliches Problem, das die Sicherheit von Schülerinnen und Schülern sowie Lehrkräften gefährdet. Lösungsansätze aus anderen Städten wie Berlin könnten als Modell für Kriseninterventionen dienen.",
+    "t": "Eskalation an der Karolina-Burger-Schule in Ludwigshafen",
+    "s": "An der Karolina-Burger-Schule in Ludwigshafen kommt es zu massiven Problemen im Schulalltag. Berichtet wird von Vorfällen wie Erpressung, Gewalt und einer Reizgasattacke. Nun wird nach Auswegen und Lösungen gesucht, wobei ein Beispiel aus Berlin als Hoffnungsträger dient.",
+    "m": "Die Ludwigshafener Karolina-Burger-Schule sieht sich schwerwiegenden Zwischenfällen ausgesetzt, die den Schulalltag stark belasten. Zu den Vorkommnissen zählen nach Medienangaben Erpressung, Gewaltanwendung sowie eine Reizgasattacke. Die Häufung und Schwere dieser Vorfälle werfen drängende Fragen zur Sicherheit und zum Schulklima auf. Verantwortliche und Beobachter suchen händeringend nach konstruktiven Lösungsansätzen und effektiven Gegenmaßnahmen. Als mögliches Vorbild für eine gelingende Wende wird dabei ein vergleichbares Beispiel aus Berlin herangezogen. Konkrete Details zur Umsetzung dieses Lösungsansatzes in Ludwigshafen sowie offizielle Reaktionen der Schulbehörden stehen noch aus.",
+    "r": "Die Meldung ist relevant, da an einer Schule schwere Gewaltvorfälle wie Erpressung und Reizgasattacken aufgetreten sind und nach dringenden Lösungen gesucht wird. Dies betrifft die Sicherheit an Bildungseinrichtungen und den Umgang mit Eskalationen im Schulalltag.",
     "srcs": [
       {
         "name": "Tagesschau Regional Rheinland-Pfalz",
@@ -573,19 +1421,65 @@
       }
     ],
     "url": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-eskalation-an-karolina-burger-schule-so-koennte-eine-wende-gelingen-100.html",
-    "agree": "Beide Quellen berichten über die Eskalation an der Karolina-Burger-Schule in Ludwigshafen mit Vorkommnissen wie Erpressung, Gewalt und einer Reizgasattacke sowie der Hoffnung durch ein Berliner Beispiel.",
+    "agree": "Beide Quellen stimmen überein, dass es an der Karolina-Burger-Schule in Ludwigshafen zu einer Eskalation mit Erpressung, Gewalt und einer Reizgasattacke gekommen ist und ein Berliner Beispiel Hoffnung auf eine Wende macht.",
     "diff": [
       {
-        "name": "Tagesschau Regional Rheinland-Pfalz",
-        "note": "Fokussiert im Titel auf die Rheinland-Pfalz-Regionalität."
-      },
-      {
         "name": "SWR Aktuell",
-        "note": "Nennt im Titel explizit den Ortsnamen Ludwigshafen."
+        "note": "Ergänzt den Ortsbezug 'in Ludwigshafen' direkt im Titel."
       }
     ],
     "chg": "",
     "independent": 2
+  },
+  {
+    "id": "story-6045ea80fe729339",
+    "c": "INT",
+    "o": "INT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-25T17:10:11.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Venezolanische Oppositionsführerin María Corina Machado kehrt aus dem Exil zurück",
+    "s": "Die venezolanische Oppositionsführerin María Corina Machado hat am Sonntag ihre Rückkehr in ihre Heimat bekanntgegeben. Sie war zuvor fast ein Jahr im Exil gewesen, nachdem sie Venezuela Ende 2025 heimlich verlassen hatte, um den Friedensnobelpreis entgegenzunehmen. Ihre Rückkehr erfolgt in einer Zeit wachsender Zweifel an der demokratischen Zukunft des Landes.",
+    "m": "María Corina Machado gab ihre Ankunft in Venezuela am Sonntag über die sozialen Medien mit den Worten „Ich bin hier. Mit euch“ bekannt. Damit beendet sie ihr fast zehnmonatiges Exil, in das sie Ende 2025 heimlich gegangen war, um den Friedensnobelpreis in Empfang zu nehmen. Die Rückkehr der prominenten Oppositionsführerin findet vor dem Hintergrund zunehmender Zweifel an der demokratischen Zukunft Venezuelas statt. Gleichzeitig wachsen Fragen und Unsicherheiten hinsichtlich der Rolle, die die Vereinigten Staaten in dieser Situation spielen. Nähere Details zum genauen Ablauf ihrer Einreise oder zu unmittelbaren politischen Reaktionen der Regierung wurden in den vorliegenden Berichten zunächst nicht genannt.",
+    "r": "Die Rückkehr einer zentralen Oppositionsfigur nach monatelanger Abwesenheit ist ein bedeutendes Ereignis für die politische Lage in Venezuela. Sie betrifft direkt die Dynamik der Opposition und die internationale Aufmerksamkeit für den demokratischen Zustand des Landes.",
+    "srcs": [
+      {
+        "name": "France24 English",
+        "url": "https://www.france24.com/en/americas/20261025-opposition-leader-machado-returns-to-venezuela-after-10-months-in-exile",
+        "date": "2026-10-25T17:10:11.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQejBSUDBLd0ZRc2FrUEhVUzNrSWJqZGdrUDBvbEoyRmdYbUJtVTAtaXpWZjZhenJXbjIwZW1mQmxobmNFQ2NvY1FaVzBnRWdubE1XUzAwY3EwLV80V2FxSzMxOXJKUjhWUzUtU3dBaUdSVjdQWG1mM0dHeWhBRU9LamZRQnU4NkF5Wk9VN3EtbTBiMU9XeXJ4Y1ZBOV9KM09RdnI1dWVNQmM0bmlqN2YwbWJXa0lYTzZERTVUQ2cxcm85N3ZWVGpKUg?oc=5",
+        "date": "2026-10-25T17:02:00.000Z"
+      },
+      {
+        "name": "NPR World",
+        "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
+        "date": "2026-10-25T16:18:41.000Z"
+      }
+    ],
+    "url": "https://www.france24.com/en/americas/20261025-opposition-leader-machado-returns-to-venezuela-after-10-months-in-exile",
+    "agree": "Die Quellen stimmen überein, dass die venezolanische Oppositionsführerin María Corina Machado nach monatelanger Abwesenheit im Exil in ihr Heimatland zurückgekehrt ist.",
+    "diff": [
+      {
+        "name": "France24 English",
+        "note": "nennt als Grund für das Exil die Entgegennahme des Friedensnobelpreises Ende 2025 und erwähnt wachsende Zweifel an der Rolle der USA."
+      },
+      {
+        "name": "Google News World",
+        "note": "greift den Aspekt auf, dass die Rückkehr mit einer Vertiefung der Zweifel an der Demokratie einhergeht."
+      },
+      {
+        "name": "NPR World",
+        "note": "zitiert Machados Nachricht in den sozialen Medien mit den Worten „Ich bin hier. Mit euch“."
+      }
+    ],
+    "chg": "",
+    "independent": 3
   },
   {
     "id": "story-284d6d6db67a14d4",
@@ -638,10 +1532,10 @@
     "p": 3,
     "st": "BY",
     "city": "",
-    "t": "Audi plant erstes US-Werk im Beisein von Donald Trump",
-    "s": "Der deutsche Autobauer Audi hat den Bau seines ersten eigenen Werks in den USA angekündigt. Die Bekanntgabe erfolgte im Rahmen einer Wahlkampfveranstaltung mit US-Präsident Donald Trump, auf der auch Audi-Chef Gernot Döllner anwesend war. Der Schritt erfolgt vor dem Hintergrund drohender US-Zölle und der aktuellen Krise beim Mutterkonzern VW. Aus der deutschen Politik, insbesondere von der SPD, gab es bereits erste Kritik an dem Vorhaben.",
-    "m": "US-Präsident Donald Trump hat auf einer Wahlkampfveranstaltung angekündigt, dass die VW-Tochter Audi ihr erstes Werk in den USA errichten wird. Bei der Präsentation stand Audi-Chef Döllner gemeinsam mit Trump auf der Bühne. Das Projekt markiert einen bedeutenden Schritt für den deutschen Premium-Autobauer auf dem US-Markt, der in der Vergangenheit häufig mit der Drohung hoher Zölle durch Trump konfrontiert wurde. Die Ankündigung fällt in eine ohnehin schwierige Phase für den VW-Konzern, der in Deutschland mit massiven Krisenerscheinungen zu kämpfen hat. Kritische Stimmen zu dem Vorhaben kamen unter anderem von der SPD in Deutschland. Ob konkrete Investitionssummen, Zeitpläne oder genaue Standorte für das geplante Werk genannt wurden, geht aus den vorliegenden Berichten nicht hervor. Die Reaktionen auf wirtschaftlicher und politischer Ebene bleiben abzuwarten.",
-    "r": "Die Ansiedlung eines Audi-Werks in den USA ist wirtschafts- und industriepolitisch von Bedeutung, da sie im Spannungsfeld zwischen drohenden US-Zöllen, der Krise beim Mutterkonzern Volkswagen und internationaler Standortverlagerung stattfindet.",
+    "t": "Audi plant erstes US-Werk im Rahmen von Trumps Wahlkampftour",
+    "s": "Audi hat den Bau seines ersten eigenen Werks in den USA angekündigt. Die Bekanntgabe erfolgte überraschend auf einer Wahlkampfveranstaltung mit US-Präsident Donald Trump. Auf der Bühne war auch Audi-Chef Gernot Döllner anwesend. Von der SPD gab es bereits Kritik an dem Vorhaben.",
+    "m": "Die Bekanntgabe des neuen US-Werks von Audi mitten in der Krise des Mutterkonzerns Volkswagen sorgt für Aufsehen. US-Präsident Trump nutzte die Ankündigung auf seiner Wahlkampfveranstaltung für eigene politische Zwecke im Wahlkampf. Gleichzeitig droht Trump ausländischen Unternehmen immer wieder mit hohen Zöllen, was die Standortdebatte beeinflusst. Audi-Chef Döllner stand während der Ankündigung gemeinsam mit dem US-Präsidenten auf der Bühne. Aus der deutschen Politik, konkret von der SPD, kam umgehend Kritik an den Expansionsplänen in die Vereinigten Staaten. Weitere Details zum Investitionsvolumen, dem genauen Standort des Werks oder dem Zeitplan wurden von den Quellen bisher nicht genannt. Offen ist zudem, wie sich das Projekt auf die künftige Ausrichtung des VW-Konzerns und die heimischen Arbeitsplätze auswirkt.",
+    "r": "Die Ankündigung eines Audi-Werks in den USA im Kontext von Trumps Wahlkampf und Zollandrohungen berührt handelspolitische und arbeitsmarktpolitische Fragen. Die Reaktionen der SPD zeigen zudem die politische Dimension für den Standort Deutschland auf.",
     "srcs": [
       {
         "name": "BR24 Bayern",
@@ -655,15 +1549,15 @@
       }
     ],
     "url": "https://www.br.de/nachrichten/wirtschaft/auf-wahlkampftour-trump-kuendigt-erstes-audi-werk-in-den-usa-an,VZ2ObRn",
-    "agree": "Beide Quellen stimmen darin überein, dass Audi den Bau seines ersten Werks in den USA angekündigt hat und diese Bekanntgabe auf einer Wahlkampfveranstaltung von Donald Trump stattfand.",
+    "agree": "Die Quellen sind sich einig, dass Audi den Bau seines ersten Werkes in den USA angekündigt hat und dies im Rahmen einer Wahlkampfveranstaltung von US-Präsident Trump geschah.",
     "diff": [
       {
         "name": "BR24 Bayern",
-        "note": "Erwähnt zusätzlich die Anwesenheit von Audi-Chef Döllner auf der Bühne und die Kritik von der SPD."
+        "note": "Erwähnt die Krise bei VW, die Anwesenheit von Audi-Chef Döllner auf der Bühne sowie Kritik von der SPD."
       },
       {
         "name": "Tagesschau",
-        "note": "Erwähnt ergänzend die Drohungen Trumps mit hohen Zöllen gegenüber ausländischen Unternehmen."
+        "note": "Erwähnt die fortlaufenden Drohungen von Trump gegenüber ausländischen Unternehmen mit hohen Zöllen."
       }
     ],
     "chg": "",
@@ -679,10 +1573,10 @@
     "p": 2,
     "st": "",
     "city": "",
-    "t": "Audi-Chef bei Trump-Kundgebung für neues Werk in der Kritik",
-    "s": "Bei der Ankündigung eines neuen Audi-Werks in Georgia durch Donald Trump stand Audi-Chef Gernot Döllner mit auf der Bühne. Dies sorgt für scharfe Kritik aus der deutschen Politik. Eine SPD-Abgeordnete bezeichnete den Auftritt als Schande. Über das eigentliche Projekt muss jedoch noch der VW-Aufsichtsrat entscheiden.",
-    "m": "Der Auftritt von Audi-Chef Gernot Döllner bei einer Kundgebung von Donald Trump in Georgia hat politische Reaktionen in Deutschland ausgelöst. Anlass war die Ankündigung eines neuen Audi-Werks in den USA, bei der Döllner gemeinsam mit Trump auf der Bühne stand und Applaus erhielt. Eine SPD-Politikerin äußerte sich empört über diesen Auftritt und sprach öffentlich von einer Schande. Ob das geplante Werk in Georgia tatsächlich gebaut wird, ist allerdings noch nicht endgültig entschieden. Das letzte Wort über das Investitionsprojekt liegt beim Aufsichtsrat des Mutterkonzerns Volkswagen. Weitere Details zu den Investitionssummen, genauen Zeitplänen oder Reaktionen seitens VW oder der Gewerkschaften wurden in den Berichten bisher nicht genannt.",
-    "r": "Der Auftritt eines deutschen Top-Unternehmenslenkers an der Seite eines US-Präsidenten bei einer politischen Kundgebung wirft Fragen zur unternehmerischen Neutralität auf. Zudem ist das Projekt wegen der Abhängigkeit von Entscheidungen des VW-Aufsichtsrats wirtschaftlich und politisch von Bedeutung.",
+    "t": "Audi-Chef bei Trump-Kundgebung: SPD-Politikerin kritisiert Auftritt scharf",
+    "s": "Bei der Ankündigung eines neuen Audi-Werks in Georgia stand Audi-Chef Gernot Döllner gemeinsam mit dem US-Präsidenten Donald Trump auf der Bühne. Dieser Auftritt sorgt in der deutschen Politik für heftige Reaktionen. Eine SPD-Abgeordnete bezeichnete die Präsenz als eine Schande. Ob das Projekt tatsächlich umgesetzt wird, entscheidet final der VW-Aufsichtsrat.",
+    "m": "Der Auftritt von Audi-Chef Gernot Döllner bei einer Kundgebung von Donald Trump in Georgia hat eine politische Debatte ausgelöst. Anlass war die dortige Ankündigung eines neuen Audi-Werks, bei der Döllner demonstrativ mit auf der Bühne stand und Applaus für den US-Präsidenten entgegennahm. Die Aktion stieß insbesondere bei der SPD auf scharfe Kritik; eine Abgeordnete der Partei äußerte ihr Unverständnis und sprach öffentlich von einer Schande. Bislang handelt es sich um eine Ankündigung des Projekts, dessen tatsächliche Realisierung jedoch noch nicht endgültig beschlossen ist. Das letzte Wort über den Bau und die damit verbundenen Investitionen hat der Aufsichtsrat des Mutterkonzerns VW. Weitere Details zu Investitionssummen, genauen Zeitplänen oder Reaktionen seitens des VW-Konzerns gehen aus den vorliegenden Berichten nicht hervor. Offen bleibt auch, wie das Unternehmen die Kritik aus der deutschen Politik bewertet.",
+    "r": "Der gemeinsame Auftritt eines deutschen Automobilmanagers mit dem US-Präsidenten im Rahmen einer Werkankündigung wirft Fragen zur unternehmerischen Nähe zur US-Politik auf. Da es sich um eine Tochtergesellschaft des Volkswagen-Konzerns handelt, ist das Thema auch für die deutsche Wirtschaft und Politik von Bedeutung.",
     "srcs": [
       {
         "name": "WELT",
@@ -696,52 +1590,56 @@
       }
     ],
     "url": "https://www.welt.de/politik/deutschland/article6ade169151fb647ba7e7c8f6/audi-auftritt-bei-trump-loest-kritik-aus-4-2-milliarden-geplant.html",
-    "agree": "Die Quellen sind sich einig, dass Audi-Chef Gernot Döllner bei einer Kundgebung von Donald Trump in Georgia für ein neues Werk auf der Bühne stand und dies bei einer SPD-Politikerin Empörung sowie den Vorwurf einer \"Schande\" auslöste.",
+    "agree": "Die Quellen stimmen überein, dass Audi-Chef Gernot Döllner bei einer Kundgebung in Georgia für ein neues Werk auf der Bühne stand, dass es Applaus für US-Präsident Trump gab und dass eine SPD-Politikerin den Auftritt als Schande kritisierte.",
     "diff": [
       {
         "name": "WELT",
         "note": "Erwähnt zusätzlich, dass das letzte Wort über das Projekt beim VW-Aufsichtsrat liegt."
+      },
+      {
+        "name": "t-online Nachrichten",
+        "note": "Fokus auf den Applaus für US-Präsident Trump auf der Bühne."
       }
     ],
     "chg": "",
     "independent": 2
   },
   {
-    "id": "story-33b5d765ad82aedc",
-    "c": "DE",
-    "o": "DE",
-    "k": "technik",
+    "id": "story-0163be409f54c7f9",
+    "c": "INT",
+    "o": "UK",
+    "k": "politik",
     "lang": "de",
-    "d": "2026-10-25T14:36:35.000Z",
-    "p": 2,
-    "st": "BW",
+    "d": "2026-10-25T14:41:17.000Z",
+    "p": 4,
+    "st": "",
     "city": "",
-    "t": "Stromausfall rund um Freiburg nach Kurzschluss behoben",
-    "s": "In Freiburg und Umgebung kam es zu einem großflächigen Stromausfall, der mittlerweile wieder behoben ist. Zwischenzeitlich waren rund 10.000 Haushalte von der Unterbrechung betroffen. Ursache des Ausfalls war ein technisches Problem in einer zentralen Anlage.",
-    "m": "Ein Kurzschluss in einem Umspannwerk in Freiburg war der Auslöser für den großflächigen Stromausfall in der Region. Zeitweise mussten rund 10.000 Haushalte ohne Elektrizität auskommen. Die zuständigen Techniker konnten den Fehler lokalisieren und beheben, sodass die Stromversorgung nun wieder flächendeckend gewährleistet ist. Genauere Details zur Entstehung des Kurzschlusses im Umspannwerk wurden zunächst nicht genannt. Auch über die genaue Dauer des Ausfalls machten die Berichte keine Angaben. Personen- oder Sachschäden über den Stromausfall hinaus wurden ebenfalls nicht gemeldet. Die betroffenen Bereiche sind mittlerweile wieder ans Netz angeschlossen.",
-    "r": "Der Ausfall betraf rund 10.000 Haushalte und verdeutlicht die Anfälligkeit regionaler Infrastruktur bei technischen Defekten. Die rasche Behebung zeigt jedoch, dass die Notfallmechanismen der lokalen Versorger griffen.",
+    "t": "Präsidentenwahl in Brasilien: Stichwahl zwischen Lula und Flávio Bolsonaro",
+    "s": "In Brasilien findet am Sonntag die Stichwahl der Präsidentschaftswahl statt. Dabei kommt es zu einem Duell zwischen dem linken Herausforderer Luiz Inácio Lula da Silva und dem rechtsextremen Senator Flávio Bolsonaro. Bolsonaro hatte den ersten Wahlgang überraschend für sich entschieden und ging als Favorit in die Endphase.",
+    "m": "Die brasilianischen Wähler sind am Sonntag zu einer unvorhersehbaren Stichwahl aufgerufen. Der frühere Präsident Luiz Inácio Lula da Silva versucht ein beispielloses Comeback gegen den rechtsextremen Senator Flávio Bolsonaro, den Sohn des verurteilten Ex-Präsidenten. Obwohl Bolsonaro in den Umfragen vor dem ersten Wahlgang meist hinten lag, sicherte er sich die erste Runde überraschend und galt vor drei Wochen als Favorit. Seitdem hat Lulas Kampagne jedoch an Boden gewonnen, sodass beide Kandidaten vor der Abstimmung praktisch gleichauf liegen. Der genaue Ausgang des Rennens gilt als völlig offen.",
+    "r": "Die Wahl bestimmt die künftige politische Führung des größten südamerikanischen Landes und hat somit globale Bedeutung für Wirtschaft und Politik.",
     "srcs": [
       {
-        "name": "SWR Aktuell Baden-Württemberg",
-        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/freiburg/grossflaechiger-stromausfall-100.html",
-        "date": "2026-10-25T14:36:35.000Z"
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
+        "date": "2026-10-25T14:41:17.000Z"
       },
       {
-        "name": "Tagesschau Regional Baden-Württemberg",
-        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-grossflaechiger-stromausfall-in-teilen-des-stadtgebiets-freiburg-und-in-einzelnen-regionen-des-dreisamtals-100.html",
-        "date": "2026-10-25T11:25:00.000Z"
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUWJPd1NZczVBOHZvTjQyQk9NS1FfYkxZSEt1NTVweTBHR3QwdktFU1paTFdJUG90NXY2NTBtYXE2RTM2U3N0MFBCaGFPUF80ZjhuZURnS0pNbk15NGtVTERNcF83UjFqY0liTlhGTXhYNWY4U28xM3lVX2xMNGhPeF9tRllBM3FuTFpjdUsyR3RQSVhUeHdZQU1nd0ZBb1A4QmVxbjk1dVY?oc=5",
+        "date": "2026-10-25T08:00:00.000Z"
       }
     ],
-    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/freiburg/grossflaechiger-stromausfall-100.html",
-    "agree": "Beide Quellen stimmen überein, dass ein Kurzschluss in einem Umspannwerk in Freiburg die Ursache für den Stromausfall war und rund 10.000 Haushalte betroffen sowie die Störung inzwischen behoben ist.",
+    "url": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
+    "agree": "Die Quellen berichten übereinstimmend über die Stichwahl der Präsidentschaftswahl in Brasilien zwischen Lula da Silva und Flávio Bolsonaro.",
     "diff": [
       {
-        "name": "SWR Aktuell Baden-Württemberg",
-        "note": "Berichtet über den Stromausfall mit dem Titel ohne den Zusatz großflächig."
+        "name": "Guardian World",
+        "note": "Berichtet im Detail über den überraschenden Sieg von Bolsonaro im ersten Wahlgang, Lulas Aufholen in den Umfragen und das knappe Rennen vor der Stichwahl."
       },
       {
-        "name": "Tagesschau Regional Baden-Württemberg",
-        "note": "Betitelt den Vorfall als großflächigen Stromausfall."
+        "name": "Google News World",
+        "note": "Bietet lediglich eine kurze Verknüpfung zur Berichterstattung des Guardians."
       }
     ],
     "chg": "",
@@ -880,6 +1778,43 @@
     "independent": 2
   },
   {
+    "id": "story-1c2ec45b8219bde2",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-25T13:14:05.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Bundesgesetz gegen Vergesellschaftungen: Linke kritisiert Vorstoß",
+    "s": "Bundesinnenminister Dobrindt plant Medienberichten zufolge ein Bundesgesetz, um Vergesellschaftungen zu verhindern. Die Linke im Bundestag kritisiert das Vorhaben scharf und bezeichnet es als verfassungswidrig. Das Gesetz soll sich gegen rot-grün-rote Bestrebungen richten.",
+    "m": "Innenminister Dobrindt plant offenbar ein Bundesgesetz, das einen Riegel gegen den von ihm sogenannten rot-grün-roten Vergesellschaftungs-Fetisch vorschieben soll. Das Vorhaben zielt darauf ab, entsprechende Enteignungs- oder Vergesellschaftungsinitiativen auf Landes- oder kommunaler Ebene zu unterbinden oder zu erschweren. Die Linke im Bundestag reagierte umgehend ablehnend auf diesen Vorstoß. Sie bezeichnet das geplante Gesetz als sinnlos und stuft es als juristisches Himmelfahrtskommando ein. Dabei verweisen Vertreter der Linkspartei explizit auf die deutsche Verfassung, die einer solchen Bundesregelung entgegenstehen könnte. Bisher ist das Vorhaben vor allem durch die Ankündigung des Innenministers und die scharfe Replik der Linkspartei bekannt. Konkrete Entwürfe oder parlamentarische Schritte wurden in den Berichten noch nicht detailliert dargelegt.",
+    "r": "Die Diskussion berührt grundlegende Fragen der Gesetzgebungskompetenz zwischen Bund und Ländern bei Enteignungen und Vergesellschaftungen. Ein solches Bundesgesetz könnte weitreichende Auswirkungen auf politische Initiativen zur Vergesellschaftung von Eigentum in den Bundesländern haben.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPXzhueFdXcTA2NGxLZVZSSUJPTHFtZEdtbzRpaDY0cWh3eU9lRTBydDZhOXNLUkhOVGJ5ejV6RnB4X3NWTHE4Z3hqVjlMQnVkMTk0b2JQUjJPVG0tZDRkMzctSWFtQUFFUDRMNF9tQWJIQ0FOdDZaNWxtdWFNNjFhS1dTNWk3UG55WGJJLWlwaElDcDVxQ051SUZRNUM0clo3SkJ2TFQ1UmtjU0Z0Z3liUVdkS0Z1UC02ekdlc3BBekpSMktfT3NHUU5yNXZtenYwTElOU3FqbmVuUUhBUF9QS3NNeGdHdUdlNmhVM1FQOHNlVW45VkphNGdnZTZQdw?oc=5",
+        "date": "2026-10-25T13:14:05.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/deutschland/article6addc6c1a6a5d701acbce845/berlin-bundesgesetz-gegen-vergesellschaftungen-linke-sieht-juristisches-himmelfahrtskommando.html",
+        "date": "2026-10-25T13:11:06.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPXzhueFdXcTA2NGxLZVZSSUJPTHFtZEdtbzRpaDY0cWh3eU9lRTBydDZhOXNLUkhOVGJ5ejV6RnB4X3NWTHE4Z3hqVjlMQnVkMTk0b2JQUjJPVG0tZDRkMzctSWFtQUFFUDRMNF9tQWJIQ0FOdDZaNWxtdWFNNjFhS1dTNWk3UG55WGJJLWlwaElDcDVxQ051SUZRNUM0clo3SkJ2TFQ1UmtjU0Z0Z3liUVdkS0Z1UC02ekdlc3BBekpSMktfT3NHUU5yNXZtenYwTElOU3FqbmVuUUhBUF9QS3NNeGdHdUdlNmhVM1FQOHNlVW45VkphNGdnZTZQdw?oc=5",
+    "agree": "Sowohl Google News als auch WELT berichten über das geplante Bundesgesetz von Innenminister Dobrindt gegen Vergesellschaftungen und die entsprechende Reaktion der Linken.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Erwähnt zusätzlich den von der Linken verwendeten Begriff des „juristischen Himmelfahrtskommandos“ im Titel."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-2a775594b4402c2d",
     "c": "INT",
     "o": "DE",
@@ -890,9 +1825,9 @@
     "st": "",
     "city": "",
     "t": "Stichwahl in Brasilien: Kopf-an-Kopf-Rennen zwischen Lula und Bolsonaro",
-    "s": "Vor der Stichwahl in Brasilien liefern sich der amtierende Präsident Lula da Silva und Amtsinhaber Bolsonaro ein enges Kopf-an-Kopf-Rennen. Umfragen sagen einen äußerst knappen Ausgang voraus. Das Land ist im Vorfeld der Wahl tief gespalten. Die Entscheidung über den Wahlausgang könnte von den bisher Unentschlossenen abhängen.",
-    "m": "Die Stichwahl in Brasilien entwickelt sich zu einer historischen Zerreißprobe für das Land, bei der beide Präsidentschaftskandidaten gleichauf liegen. Beobachter sehen die politische Zukunft Brasiliens offen, da die Wählerschaft stark polarisiert ist. Im Umfeld des Lagers von Bolsonaro wird ein mögliches Comeback diskutiert, während gleichzeitig die Rolle der noch unentschlossenen Wähler als entscheidender Faktor für den Wahlausgang gilt. Die Dynamik des Wahlkampfs zeigt ein hochspannendes Duell zwischen den beiden prominentesten politischen Lagern des Landes. Konkrete Wähleranteile oder Umfragezahlen abseits des Gleichstands werden in den Berichten nicht genannt. Offen bleibt, welche konkreten Themen die Unentschlossenen in den letzten Tagen vor der Abstimmung noch bewegen werden.",
-    "r": "Die Präsidentschaftswahl in Brasilien ist von globalem und nationalem Interesse, da sie über die politische Ausrichtung des größten südamerikanischen Landes entscheidet. Das enge Rennen und die tiefe Spaltung der Gesellschaft verdeutlichen die polarisierte politische Landschaft Brasiliens.",
+    "s": "Vor der Stichwahl in Brasilien liefern sich der amtierende Präsident Lula und sein Herausforderer ein extrem enges Kopf-an-Kopf-Rennen. Beide Präsidentschaftskandidaten liegen in den Umfragen und Prognosen nahezu gleichauf. Das lateinamerikanische Land blickt auf eine richtweisende und stark polarisierende Abstimmung.",
+    "m": "Die bevorstehende Stichwahl in Brasilien stellt das Land vor eine harte Zerreißprobe und zeigt eine tiefgehende gesellschaftliche Spaltung. Umfragen sagen einen extrem knappen Ausgang zwischen Amtsinhaber Lula und dem von der Rechten unterstützten Lager voraus. Für das Comeback-Szenario gilt unter anderem Flavio Bolsonaro, der Sohn des ehemaligen Präsidenten, als eine treibende Kraft. Beobachter betonen, dass in dieser finalen Phase vor allem die bislang unentschlossenen Wählerinnen und Wähler zum entscheidenden Zünglein an der Waage werden könnten. Der genaue Ausgang der Wahl ist völlig offen und wird international mit großer Spannung verfolgt.",
+    "r": "Die Präsidentschaftswahl in Brasilien ist von globalem Interesse, da sie das politische und gesellschaftliche Gefüge der größten südamerikanischen Volkswirtschaft maßgeblich prägt. Ein so knappes Rennen verdeutlicht die anhaltenden tiefen Konflikte und die Polarisierung innerhalb der brasilianischen Bevölkerung.",
     "srcs": [
       {
         "name": "DW Deutsch",
@@ -906,15 +1841,15 @@
       }
     ],
     "url": "https://www.dw.com/de/stichwahl-in-brasilien-kopf-an-kopf-rennen-zwischen-lula-und-bolsonaro/a-79754404?maca=de-rss-de-all-1119-xml-mrss",
-    "agree": "Beide Quellen sind sich einig, dass es vor der Stichwahl in Brasilien ein enges Kopf-an-Kopf-Rennen zwischen Lula und Bolsonaro gibt und das Land tief gespalten ist.",
+    "agree": "Die Quellen stimmen überein, dass es vor der Stichwahl in Brasilien ein extrem enges Kopf-an-Kopf-Rennen zwischen Lula und Bolsonaro gibt und das Land tief gespalten ist.",
     "diff": [
       {
         "name": "DW Deutsch",
-        "note": "Erwähnt konkret, dass Flavio Bolsonaro, der Sohn des Ex-Präsidenten, als Favorit in die Stichwahl geht, und thematisiert ein mögliches Comeback."
+        "note": "Erwähnt Flavio Bolsonaro, den Sohn des Ex-Präsidenten, der als Favorit in die Stichwahl gegen Amtsinhaber Lula geht."
       },
       {
         "name": "Tagesschau",
-        "note": "Weist darauf hin, dass die Autorin Anne Herrberg berichtet und betont, dass besonders die Unentschlossenen zum entscheidenden Faktor werden könnten."
+        "note": "Hebt hervor, dass besonders die Unentschlossenen zum entscheidenden Faktor werden könnten, und nennt Autorin Anne Herrberg."
       }
     ],
     "chg": "",
@@ -1053,10 +1988,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Feuer am Kehlsteinhaus in der Nacht erneut aufgeflammt",
-    "s": "Nach dem Großbrand am historischen Kehlsteinhaus in Berchtesgaden ist das Feuer in der Nacht erneut aufgeflammt. Die Feuerwehr musste abermals ausrücken, um den Brand zu bekämpfen. Das Gebäude im früheren Sperrgebiet Obersalzberg ist nach Polizeiangaben fast vollständig zerstört.",
-    "m": "Das Feuer an dem als Hitlers Teehaus bekannten Kehlsteinhaus war zunächst gelöscht worden, flammte in der Nacht jedoch wieder auf. Die Kriminalpolizei geht bei dem Vorfall von Brandstiftung aus. Der entstandene Sachschaden geht in die Millionen Euro. Trotz der massiven Zerstörungen gibt es bereits Pläne, das historische Bauwerk wieder aufzubauen. Die genauen Ermittlungen zur Brandursache und zu den Hintergründen dauern an. Das Gebäude liegt auf dem Obersalzberg, der früher ein wichtiges NS-Areal war.",
-    "r": "Der erneute Ausbruch des Feuers an einem geschichtsträchtigen und touristisch bedeutsamen Gebäude mit hohem Sachschaden ist von öffentlichem Interesse. Zudem wirft die mutmaßliche Brandstiftung Sicherheitsfragen auf.",
+    "t": "Erneuter Feuerwehreinsatz nach Großbrand am Kehlsteinhaus",
+    "s": "Nach dem verheerenden Großbrand am historischen Kehlsteinhaus im Obersalzberg ist das Feuer in der Nacht erneut aufgeflammt. Die Feuerwehr musste abermals ausrücken, um den Brand zu bekämpfen. Das Gebäude im früheren Nazi-Sperrgebiet wurde durch das Feuer fast vollständig zerstört.",
+    "m": "Das historische Kehlsteinhaus, oft auch als Hitlers Teehaus bezeichnet, ist in der Nacht nach einem bereits gelöschten Großbrand erneut in Flammen aufgegangen. Die Polizei geht bei dem Vorfall von Brandstiftung aus. Das Gebäude ist durch die Flammen fast vollständig zerstört worden, und der Sachschaden bewegt sich im Millionenbereich. Trotz der schweren Beschädigungen gibt es bereits Pläne für einen Wiederaufbau des bekannten Bauwerks am Obersalzberg. Die Ermittlungen zu den genauen Hintergründen und den Tätern dauern an, während die Rettungskräfte im nächtlichen Einsatz die letzten Glutnester bekämpfen mussten.",
+    "r": "Der Brand an einem historischen und touristisch bedeutsamen Bauwerk verursacht Schäden in Millionenhöhe und erfordert umfangreiche polizeiliche Ermittlungen wegen Brandstiftung.",
     "srcs": [
       {
         "name": "RND",
@@ -1070,15 +2005,15 @@
       }
     ],
     "url": "https://www.rnd.de/panorama/hitlers-teehaus-feuer-am-kehlsteinhaus-wieder-aufgeflammt-AHIYSA6NAVB37NFRYWL44NGAFY.html",
-    "agree": "Beide Quellen stimmen überein, dass es am Kehlsteinhaus zu einem Großbrand kam und das Feuer in der Nacht erneut aufgeflammt ist.",
+    "agree": "Die Quellen stimmen überein, dass es am Kehlsteinhaus zu einem erneuten Feuerwehreinsatz gekommen ist.",
     "diff": [
       {
         "name": "RND",
-        "note": "Berichtet detailliert, dass die Polizei von Brandstiftung ausgeht, das Gebäude fast vollständig zerstört ist, der Schaden in die Millionen geht und ein Wiederaufbau geplant ist."
+        "note": "Berichtet, dass die Polizei von Brandstiftung ausgeht, das Gebäude fast vollständig zerstört ist, ein Millionenschaden entstanden ist, ein Wiederaufbau geplant ist und das Feuer in der Nacht erneut aufflammte."
       },
       {
         "name": "DW Deutsch",
-        "note": "Erwähnt zusätzlich, dass das Gebäude im früheren Nazi-Sperrgebiet Obersalzberg liegt."
+        "note": "Erwähnt ergänzend, dass der Brand sich im früheren Nazi-Sperrgebiet Obersalzberg befand und das Feuer zunächst bereits gelöscht war, bevor die Feuerwehr in der Nacht erneut ausrücken musste."
       }
     ],
     "chg": "",
@@ -1685,10 +2620,10 @@
     "p": 2,
     "st": "BW",
     "city": "",
-    "t": "Städte in Finanznot: Kann bürgerschaftliches Engagement Lücken füllen?",
-    "s": "Städte und Gemeinden stehen vor enormen finanziellen Herausforderungen, was zu Einschnitten wie geschlossenen Freibädern, reduzierter Kulturförderung und maroden Schulen führt. Diese Sparmaßnahmen sind für Bürger im Alltag direkt spürbar. Als Reaktion darauf werden in einigen Fällen Bürger selbst aktiv, um kommunale Angebote zu unterstützen. Die Frage steht im Raum, inwieweit dieses freiwillige Engagement als Lösungsansatz dienen kann.",
-    "m": "Die angespannte Haushaltslage vieler Kommunen zwingt zu drastischen Sparmaßnahmen in Bereichen wie Freizeit, Bildung und Kultur. Betroffen sind davon oft symbolträchtige Einrichtungen wie Freibäder oder die Unterstützung für kulturelle Projekte. Auch die Infrastruktur leidet unter dem Investitionsstau, was sich an maroden Schulen zeigt. In dieser Situation übernehmen engagierte Bürger zunehmend Aufgaben, um den Wegfall öffentlicher Angebote abzufedern. Es wird kontrovers diskutiert, ob ehrenamtlicher Einsatz dauerhaft staatliche Leistungen ersetzen kann. Dabei stellt sich auch die Frage nach der Belastungsgrenze des Ehrenamts und der gerechten Verteilung von Ressourcen. Bislang bleibt offen, wie flächendeckend und wirksam solche privaten Initiativen auf Dauer sind.",
-    "r": "Die finanzielle Krise der Kommunen und die daraus resultierenden Einschnitte betreffen die Daseinsvorsorge der Bürger direkt. Die Diskussion berührt grundlegende Fragen zur Zukunftsfähigkeit der kommunalen Infrastruktur und der Rolle des Ehrenamts.",
+    "t": "Finanznot in Kommunen: Kann bürgerschaftliches Engagement Sparen ausgleichen?",
+    "s": "Städte und Gemeinden stehen vor enormen finanziellen Herausforderungen und müssen den Rotstift ansetzen. Die Folgen bekommen die Bürger direkt zu spüren, etwa durch geschlossene Freibäder, gekürzte Kulturförderung oder marode Schulen. Als Reaktion auf diese Entwicklung werden in einigen Fällen Bürger selbst aktiv, um Lücken zu füllen. Es stellt sich die grundlegende Frage, inwieweit dieses freiwillige Engagement den Sparkurs der Kommunen auffangen kann.",
+    "m": "Angesichts leerer Kassen geraten immer mehr Städte und Gemeinden in Baden-Württemberg und ganz Deutschland in Zugzwang. Die notwendigen Einsparungen treffen die kommunale Infrastruktur und das gesellschaftliche Leben massiv. Betroffen sind besonders Bereiche wie die Kulturförderung, der Erhalt von Freibädern sowie die Sanierung maroder Schulgebäude. Da öffentliche Mittel fehlen, übernehmen teilweise ehrenamtliche Initiativen und Bürgervereinigungen Aufgaben, die zuvor von der Kommune getragen wurden. Dies wirft Fragen nach der Belastbarkeitsgrenze des Ehrenamts und der staatlichen Daseinsvorsorge auf. Kritiker und Experten diskutieren, ob bürgerschaftlicher Einsatz lediglich eine Ergänzung sein kann oder ob er zur verdeckten Kompensation staatlicher Unterfinanzierung verkommt.",
+    "r": "Die Debatte berührt die finanzielle Handlungsfähigkeit von Kommunen und die Grenzen des Ehrenamts bei der Aufrechterhaltung der Daseinsvorsorge. Sie ist von gesellschaftlicher Relevanz, da Sparmaßnahmen direkt die Lebensqualität der Bürger beeinträchtigen.",
     "srcs": [
       {
         "name": "SWR Aktuell Baden-Württemberg",
@@ -1702,7 +2637,7 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/wenn-staedte-sparen-muessen-sollen-buerger-mehr-aufgaben-uebernehmen-100.html",
-    "agree": "Beide Quellen stimmen überein, dass Städte und Gemeinden wegen Sparzwängen Leistungen wie Freibäder, Kulturförderung und Schulsanierungen kürzen müssen und Bürger daraufhin teilweise selbst aktiv werden.",
+    "agree": "Beide Quellen stimmen darin überein, dass Städte und Gemeinden sparen müssen, was sich in geschlossenen Freibädern, weniger Kulturförderung und maroden Schulen äußert, und werfen die Frage auf, ob freiwilliges Engagement der Bürger dies ausgleichen kann.",
     "diff": [],
     "chg": "",
     "independent": 2
@@ -15094,915 +16029,6 @@
       {
         "name": "Google News World",
         "note": "Teilt lediglich die Information über die langjährige Freundschaft zwischen der Familie von Brendan Nugent und Helen Haines unter Berufung auf den Guardian."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-8c8d118c12ba6835",
-    "c": "INT",
-    "o": "UK",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-20T09:02:43.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Alberta stimmt gegen Unabhängigkeit und verbleibt in Kanada",
-    "s": "Wähler in der kanadischen Provinz Alberta haben bei einem Referendum mit deutlicher Mehrheit gegen Schritte zur Unabhängigkeit gestimmt. Das Ergebnis wertet Premierminister Mark Carney als Erfolg für die nationale Einheit. Unoffizielle Auswertungen zeigen eine klare Zustimmung für den Verbleib bei Kanada.",
-    "m": "Die Wähler in der ölreichen kanadischen Provinz Alberta haben einen Vorschlag zur Einleitung eines Unabhängigkeitsprozesses klar abgelehnt. Nach inoffiziellen Ergebnissen von Elections Alberta stimmten bei über 1,5 Millionen ausgezählten Stimmen rund 76 Prozent für den Verbleib in Kanada. Lediglich knapp 24 Prozent unterstützten Bestrebungen in Richtung Trennung. Das Votum stellt einen politischen Erfolg für Premierminister Mark Carney und die Befürworter der kanadischen Einheit dar. Die frühen Ergebnisse des Dienstags stützen Carneys Bemühungen um den Zusammenhalt des Landes nachhaltig. Offene Punkte sind die endgültigen, offiziellen Resultate nach Auszählung aller Stimmen.",
-    "r": "Das Referendum betrifft die nationale Integrität und politische Stabilität Kanadas sowie die Zukunft einer rohstoffreichen Provinz. Die Entscheidung hat unmittelbare Bedeutung für die Politik der Bundesregierung unter Premierminister Carney.",
-    "srcs": [
-      {
-        "name": "Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
-        "date": "2026-10-20T09:02:43.000Z"
-      },
-      {
-        "name": "NPR World",
-        "url": "https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada",
-        "date": "2026-10-20T06:02:40.000Z"
-      }
-    ],
-    "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
-    "agree": "Die Quellen sind sich einig, dass die Wähler in Alberta ein Referendum oder Bestrebungen zur Unabhängigkeit abgelehnt und für den Verbleib in Kanada gestimmt haben, was Premierminister Mark Carney zugutekommt.",
-    "diff": [
-      {
-        "name": "Guardian World",
-        "note": "nennt konkrete Zahlen aus den inoffiziellen Ergebnissen mit über 1,5 Millionen gezählten Stimmen, 76 Prozent für den Verbleib und knapp 24 Prozent für die Sezession."
-      },
-      {
-        "name": "NPR World",
-        "note": "erwähnt ergänzend, dass es sich um eine ölreiche Provinz handelt und das Ergebnis aus frühen Referendumsresultaten vom Dienstag stammt."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-612a60afff1d1916",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-20T06:58:00.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Hackerangriff auf E-Mail-Konten der AfD",
-    "s": "Unbekannte Täter haben E-Mails aus Konten der AfD veröffentlicht. Die Partei hat den Hackerangriff mittlerweile bestätigt. Die Echtheit der im Internet verbreiteten Daten ist jedoch noch unklar. Es kursieren Angaben über rund 420.000 betroffene interne E-Mails.",
-    "m": "Der Vorfall betrifft den Zugriff auf interne E-Mail-Konten der AfD durch bislang unbekannte Akteure. Die Täter brüsten sich damit, rund 420.000 interne Nachrichten erbeutet und im Internet veröffentlicht zu haben. Die Bundespartei hat den Angriff auf ihre Systeme offiziell eingeräumt, versucht die tatsächliche Bedeutung und Relevanz des Vorfalls jedoch öffentlich herunterzuspielen. Bisher lässt sich von unabhängiger Seite nicht verlässlich überprüfen, ob die online gestellten Dateien und E-Mails tatsächlich echt sind oder ob es sich um manipulierte oder unvollständige Datensätze handelt. Ob Ermittlungsbehörden eingeschaltet wurden oder welche Sicherheitslücken ausgenutzt wurden, ist gegenwärtig nicht bekannt.",
-    "r": "Der Vorfall ist von politischer Relevanz, da es sich um einen groß angelegten Cyberangriff auf eine im Bundestag vertretene Partei handelt. Die Veröffentlichung interner Korrespondenz berührt Fragen der IT-Sicherheit und des Datenschutzes im politischen Raum.",
-    "srcs": [
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/netzwelt/web/afd-bestaetigt-hackerangriff-auf-e-mail-konten-daten-im-internet-veroeffentlicht-a-d4b2543e-1dae-461a-a343-8c14b3b7d2ee#ref=rss",
-        "date": "2026-10-20T06:58:00.000Z"
-      },
-      {
-        "name": "Süddeutsche Zeitung",
-        "url": "https://www.sueddeutsche.de/politik/bundesregierung-news-afd-hackerangriff-mails-li.3529564",
-        "date": "2026-10-20T06:39:00.000Z"
-      }
-    ],
-    "url": "https://www.spiegel.de/netzwelt/web/afd-bestaetigt-hackerangriff-auf-e-mail-konten-daten-im-internet-veroeffentlicht-a-d4b2543e-1dae-461a-a343-8c14b3b7d2ee#ref=rss",
-    "agree": "Beide Quellen stimmen darin überein, dass es einen Hackerangriff auf E-Mail-Konten der AfD gab, der von der Partei bestätigt wurde, und dass die Daten im Internet veröffentlicht wurden.",
-    "diff": [
-      {
-        "name": "DER SPIEGEL",
-        "note": "Berichtet, dass die Partei die Bedeutung des Angriffs herunterspielt."
-      },
-      {
-        "name": "Süddeutsche Zeitung",
-        "note": "Nennt die konkrete Zahl von rund 420.000 veröffentlichten internen E-Mails und betont, dass die Echtheit der Dateien unklar ist."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-bd544970236330c9",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-20T06:55:08.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Krawalle in Italien: Regierung kündigt hartes Vorgehen an",
-    "s": "In mehreren italienischen Städten ist es bei Protesten gegen hohe Lebenshaltungskosten zu schweren Krawallen mit eingeschlagenen Scheiben und geplünderten Geschäften gekommen. Mehr als 270 Menschen wurden festgenommen. Die Regierung reagiert nun auf die Ausschreitungen und erwägt den Einsatz von Soldaten sowie Ausgangssperren.",
-    "m": "Nach zunächst friedlichen Demonstrationen gegen die steigenden Lebenshaltungskosten kam es in mehreren Städten Italiens zu massiven Gewaltausbrüchen. Dabei wurden Schaufenster eingeschlagen und Geschäfte geplündert. Die Sicherheitskräfte griffen ein und nahmen landesweit mehr als 270 Beteiligte fest. Als Reaktion auf die anhaltende Gewalt kündigte Ministerpräsidentin Giorgia Meloni ein hartes Vorgehen des Staates an. Die Regierung in Rom erwägt konkret, Soldaten zur Unterstützung in die betroffenen Gebiete zu schicken. Zudem wird über die Verhängung von Ausgangssperren nachgedacht, um die öffentliche Sicherheit wiederherzustellen. Die genauen Orte der Ausschreitungen und Details zu verletzten Personen oder Polizisten wurden in den Berichten zunächst nicht genannt.",
-    "r": "Die Ausschreitungen und die angekündigten harten Gegenmaßnahmen der Regierung verdeutlichen die innenpolitische Anspannung in Italien infolge der wirtschaftlichen Belastungen durch hohe Lebenshaltungskosten.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT1BQcVlJSEtnc05JcnFYSDJ4cXNucVRvS0tyczI1YWtEbjJVZGFrRmN5TXdfQ2luNElpOGJwOTBqcnRDaUdyaW5HanRnY0VKcDM4YnNMaW1NSGJMU3BmRjBNLUxpc0UxUjVESHYzeUZTeDdLekltMmdiTkJiWkxXUWVxV1pPWExlMUthbXRfUWlyOVBxcHdORGhLT0dlcEU?oc=5",
-        "date": "2026-10-20T06:55:08.000Z"
-      },
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/politik/Krawalle-in-Italien-Meloni-kuendigt-hartes-Vorgehen-an-id31436598.html",
-        "date": "2026-10-20T06:55:08.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT1BQcVlJSEtnc05JcnFYSDJ4cXNucVRvS0tyczI1YWtEbjJVZGFrRmN5TXdfQ2luNElpOGJwOTBqcnRDaUdyaW5HanRnY0VKcDM4YnNMaW1NSGJMU3BmRjBNLUxpc0UxUjVESHYzeUZTeDdLekltMmdiTkJiWkxXUWVxV1pPWExlMUthbXRfUWlyOVBxcHdORGhLT0dlcEU?oc=5",
-    "agree": "Die Quellen stimmen überein, dass es in Italien im Zuge von Protesten gegen hohe Lebenshaltungskosten zu Krawallen und zahlreichen Festnahmen gekommen ist und die Regierung hart reagieren will.",
-    "diff": [
-      {
-        "name": "ntv",
-        "note": "Berichtet konkret von eingeschlagenen Scheiben, geplünderten Geschäften, über 270 Festnahmen und dass Ausgangssperren erwogen werden."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-3b493c89a57e4530",
-    "c": "INT",
-    "o": "PT",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-20T06:41:28.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Einsturz einer illegalen Goldmine in Kolumbien fordert 14 Menschenleben",
-    "s": "Bei dem Einsturz einer illegalen Goldmine im Südwesten Kolumbiens sind mindestens 14 Menschen ums Leben gekommen. Das Unglück ereignete sich am Montag in einer abgelegenen Region des Departements Nariño. Neben den Todesopfern wurden auch Verletzte gemeldet. Die zuständigen Behörden bestätigten das Unglück und den Verlust von Menschenleben.",
-    "m": "Am Montag kam es im Departement Nariño im Südwesten Kolumbiens zum katastrophalen Einsturz einer Goldmine, die als Tagebau betrieben wurde und über keine offizielle Betriebserlaubnis verfügte. Nach offiziellen Angaben der regionalen Behörden verloren bei dem Unglück mindestens 14 Minenarbeiter ihr Leben. Darüber hinaus erlitten sieben weitere Personen Verletzungen und mussten versorgt werden. Das Unglück ereignete sich in einer schwer zugänglichen, abgelegenen Zone des Landes. Der Vorfall wirft erneut ein Schlaglicht auf die Sicherheitsrisiken und die Problematik des illegalen Bergbaus in der Region. Die Rettungs- und Bergungsarbeiten liefen an, während die genauen Hintergründe und Bedingungen des Vorfalls weiter untersucht werden.",
-    "r": "Das Grubenunglück verdeutlicht die tödlichen Gefahren des unregulierten und illegalen Bergbaus in Kolumbien. Es zeigt zudem die oft schwierigen Bedingungen bei Rettungseinsätzen in abgelegenen Regionen des Landes auf.",
-    "srcs": [
-      {
-        "name": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/mundo/derrocada-de-mina-de-ouro-faz-pelo-menos-14-mortos-no-sudoeste-da-colombia_n1772810",
-        "date": "2026-10-20T06:41:28.000Z"
-      },
-      {
-        "name": "RTP Mundo",
-        "url": "https://www.rtp.pt/noticias/mundo/derrocada-em-mina-de-ouro-ilegal-na-colombia-faz-14-mortos_n1772790",
-        "date": "2026-10-19T22:39:46.000Z"
-      }
-    ],
-    "url": "https://www.rtp.pt/noticias/mundo/derrocada-de-mina-de-ouro-faz-pelo-menos-14-mortos-no-sudoeste-da-colombia_n1772810",
-    "agree": "Die Quellen sind sich einig, dass bei einem Grubenunglück in Kolumbien mindestens 14 Menschen starben.",
-    "diff": [
-      {
-        "name": "RTP Notícias",
-        "note": "Berichtet, dass es sich um eine Goldmine im Tagebau handelte und nennt das Departement Nariño als genauen Ort."
-      },
-      {
-        "name": "RTP Mundo",
-        "note": "Gibt an, dass sich das Unglück an einem Montag ereignete und sieben Personen verletzt wurden."
-      }
-    ],
-    "chg": "",
-    "independent": 1
-  },
-  {
-    "id": "story-2c4b2980b27c5039",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-20T05:41:11.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Ukraine-Krieg aktuell: Selenskyj legt gegen USA nach",
-    "s": "Im Ukraine-Krieg sind neue Spannungen zwischen Kiew und Washington entstanden. Grund dafür sind nach Darstellung des ukrainischen Präsidenten Wolodymyr Selenskyj verzögerte Lieferungen von wichtigen Luftabwehrsystemen. Die diplomatischen Beziehungen belasten diese Diskussionen zusätzlich.",
-    "m": "Der ukrainische Präsident Wolodymyr Selenskyj hat den USA eine Verzögerung bei der Lieferung von Patriot-Raketen vorgeworfen und von einer Drosselung gesprochen. Dieser Vorwurf sorgt für wachsende Spannungen im bilateralen Verhältnis zwischen der Ukraine und den Vereinigten Staaten. Es kam zu einem verbalen Schlagabtausch bezüglich der militärischen Unterstützung. Weitere Details zum zeitlichen Ablauf und den genauen Auswirkungen dieser Lieferverzögerungen auf die ukrainische Luftverteidigung gehen aus dem aktuellen Newsblog hervor. Die Situation verdeutlicht die anhaltenden Herausforderungen bei der westlichen Rüstungsversorgung für die Ukraine.",
-    "r": "Die Aussagen des ukrainischen Präsidenten verdeutlichen anhaltende Differenzen zwischen der Ukraine und ihrem wichtigsten Verbündeten USA bezüglich des Tempos und Umfangs von Waffenlieferungen.",
-    "srcs": [
-      {
-        "name": "t-online Nachrichten",
-        "url": "https://www.t-online.de/nachrichten/ukraine/id_101487440/ukraine-krieg-aktuell-selenskyj-legt-gegen-usa-nach.html",
-        "date": "2026-10-20T05:41:11.000Z"
-      },
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY2hKYVAxcG1pT3BHUXdyeXcyRGZBWnZKWGJyejBkREJOUDhJNTQ5Vms4eE9FXzBwdjgtUFh2bHRSS0w3SnhtMDIwR2hIYlZEZDhUNWNjMTJmcDlQQ1c1LXJaSGxwVjFTajdDT2wwUFd0OUtPa21mVkNXdGY4d09STEg5Y3g1dXBfNFZ6alg1azRGVmdEemRPdkc4XzMtMTRYZldaVzF6UmVNa1RTTV9IZ1JtUQ?oc=5",
-        "date": "2026-10-20T05:41:00.000Z"
-      }
-    ],
-    "url": "https://www.t-online.de/nachrichten/ukraine/id_101487440/ukraine-krieg-aktuell-selenskyj-legt-gegen-usa-nach.html",
-    "agree": "Beide Quellen berichten über die Vorwürfe von Selenskyj gegenüber den USA im Zusammenhang mit dem Ukraine-Krieg.",
-    "diff": [
-      {
-        "name": "t-online Nachrichten",
-        "note": "Berichtet konkret über verzögerte Lieferungen von Patriot-Raketen, die Selenskyj als Drosselung bezeichnet hat."
-      },
-      {
-        "name": "Google News DE",
-        "note": "Erwähnt zusätzlich einen verbalen Schlagabtausch bezüglich des Themas."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-27e3d212b9d4abab",
-    "c": "DE",
-    "o": "DE",
-    "k": "sport",
-    "lang": "de",
-    "d": "2026-10-20T05:20:03.000Z",
-    "p": 2,
-    "st": "MV",
-    "city": "",
-    "t": "SV Warnemünde startet in zweite Volleyball-Bundesliga-Saison",
-    "s": "Der SV Warnemünde geht in seine zweite Spielzeit in der Volleyball-Bundesliga. Nach einem anstrengenden Premierenjahr ist das erklärte Ziel des Vereins abermals der Klassenerhalt. Die Mecklenburger wollen sich langfristig in der höchsten deutschen Spielklasse behaupten.",
-    "m": "Für den SV Warnemünde beginnt die neue Saison in der Volleyball-Bundesliga mit klaren sportlichen Vorzeichen. Nach dem herausfordernden ersten Jahr im deutschen Oberhaus blickt der Aufsteiger auf die anstehende Spielzeit voraus. Das Hauptaugenmerk liegt erneut darauf, die Klasse zu halten und sich im Laufe der Zeit dauerhaft im Spitzenbereich zu etablieren. Konkrete Kaderveränderungen, Spielerwechsel oder der genaue Spielplan werden in den Berichten nicht genannt. Der Verein setzt auf Kontinuität im sportlichen Ziel, um den Verbleib in der Liga zu sichern.",
-    "r": "Die Meldung ist von sportlichem Interesse für Volleyball-Fans und die Region Mecklenburg-Vorpommern, da ein lokaler Verein in der höchsten deutschen Spielklasse antritt. Der Klassenerhalt als sportliches Überlebenskriterium prägt die Ausrichtung des Clubs.",
-    "srcs": [
-      {
-        "name": "Tagesschau Regional Mecklenburg-Vorpommern",
-        "url": "https://www.ndr.de/sport/mehr_sport/gekommen-um-zu-bleiben-sv-warnemuende-startet-in-die-saison,warnemuende-120.html",
-        "date": "2026-10-20T05:20:03.000Z"
-      },
-      {
-        "name": "NDR Mecklenburg-Vorpommern",
-        "url": "https://www.ndr.de/fernsehen/sendungen/nordmagazin/volleyball-sv-warnemuende-startet-in-zweite-bundesliga-saison,nordmagazin-15178.html",
-        "date": "2026-10-19T18:06:41.000Z"
-      }
-    ],
-    "url": "https://www.ndr.de/sport/mehr_sport/gekommen-um-zu-bleiben-sv-warnemuende-startet-in-die-saison,warnemuende-120.html",
-    "agree": "Beide Quellen stimmen überein, dass der SV Warnemünde in seine zweite Saison in der Volleyball-Bundesliga startet und das Ziel der Klassenerhalt ist.",
-    "diff": [
-      {
-        "name": "Tagesschau Regional Mecklenburg-Vorpommern",
-        "note": "Beschreibt das erste Bundesliga-Jahr als 'herausfordernd' und erwähnt zusätzlich den Wunsch, sich dauerhaft im deutschen Oberhaus zu etablieren."
-      }
-    ],
-    "chg": "",
-    "independent": 1
-  },
-  {
-    "id": "story-3734e132a903988b",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-20T04:37:02.000Z",
-    "p": 3,
-    "st": "MV",
-    "city": "",
-    "t": "Erste Landtagssitzung in Mecklenburg-Vorpommern birgt Brisanz",
-    "s": "In Mecklenburg-Vorpommern kommt heute der neu gewählte Landtag zu seiner ersten Sitzung der neuen Legislaturperiode zusammen. Bereits im Vorfeld zeichnet sich politischer Streit ab. Im Mittelpunkt steht dabei die anstehende Wahl der Landtagsspitze.",
-    "m": "Die erste Landtagssitzung der neuen Legislaturperiode in Mecklenburg-Vorpommern birgt nach Berichten erheblichen politischen Sprengstoff. Ein zentraler Streitpunkt des heutigen Tages ist die Besetzung der Landtagsspitze. Die Abgeordneten müssen sich zwischen den Kandidaten Carlos Rodrigues von der AfD und Birgit Hesse von der SPD entscheiden. Weitere Details zum Ablauf der konstituierenden Sitzung oder zu den genauen Mehrheitsverhältnissen nennen die vorliegenden Berichte nicht.",
-    "r": "Die konstituierende Sitzung eines Landesparlaments ist für die politische Handlungsfähigkeit und die Ämterbesetzung von zentraler institutioneller Bedeutung. Die personelle Entscheidung an der Landtagsspitze setzt erste politische Signale für die kommende Legislaturperiode.",
-    "srcs": [
-      {
-        "name": "Tagesschau Regional Mecklenburg-Vorpommern",
-        "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/mv-erste-landtagssitzung-der-neuen-legislatur-birgt-brisanz,mvlandtag-100.html",
-        "date": "2026-10-20T04:37:02.000Z"
-      },
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOakNuSTk4TGRVT0ZwdUtGa1pUU3dvcHNHVFRKWGJlX1Y5MXBnSTluWC1wYUF1MzhiREREVmJza0RYUEhiOWFfaUpMTXF4aGZQMHBFNUtLZk55WFNoMGFEM1lweGN4YkQwSFJSNFhOMl83czhmenZjT3ZrdmZncS1hTkZ4UmJmYXl0cmhZYnB3dXRMMUMxeUt0UkVOUzJyZENYY2ZhWGNpemhXYkJnZEVGVU1QelplUklOMkFvZlB6TmFIU2ZhcHhRcWFNTEo?oc=5",
-        "date": "2026-10-20T04:37:00.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/mv-erste-landtagssitzung-der-neuen-legislatur-birgt-brisanz,mvlandtag-100.html",
-    "agree": "Beide Quellen stimmen überein, dass die erste Landtagssitzung in Mecklenburg-Vorpommern brisant ist und die Wahl der Landtagsspitze zwischen Carlos Rodrigues (AfD) und Birgit Hesse (SPD) ansteht.",
-    "diff": [
-      {
-        "name": "Google News DE",
-        "note": "Verweist in der Überschrift auf einen Beitrag des NDR und enthält einen Weblink zur Originalmeldung."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-9ec85af200ff234b",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-20T04:27:24.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Neue EU-Strategie: Warum die Arktis zum Sicherheitsrisiko wird",
-    "s": "Lange galt die Arktis als Region mit wenigen Spannungen. Doch die geopolitische Lage hat sich grundlegend geändert, und auch der Klimawandel betrifft den hohen Norden. Eine neue EU-Strategie soll dem Rechnung tragen. Von A.",
-    "m": "Lange galt die Arktis als Region mit wenigen Spannungen. Doch die geopolitische Lage hat sich grundlegend geändert, und auch der Klimawandel betrifft den hohen Norden. Eine neue EU-Strategie soll dem Rechnung tragen. Von A. Bartram. Neue EU-Strategie: Warum die Arktis zum Sicherheitsrisiko wird tagesschau.de Eisbrecher und Unterseekabel: EU",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
-    "srcs": [
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/europa/arktis-veraenderungen-eu-strategie-100.html",
-        "date": "2026-10-20T04:27:24.000Z"
-      },
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZlNJb2cySnV4RUJwR09BaDFveTV1ZmNrYWpZbnJvcDAzWmFrWXl2ME5fMHRPSTRqTWQ0NE1qMG45SW9LWm5CeWoxVzk4WmJ4dzNRelNwUFMwQl9FdTRaVjlid3FmMk5DSTFRb1Z0NDVJTE4zUXZ1VEtOMmV0Zm1hWE5Ia2dJRTBRTXNmdA?oc=5",
-        "date": "2026-10-20T04:27:00.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/ausland/europa/arktis-veraenderungen-eu-strategie-100.html",
-    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-c18998095fbee1b0",
-    "c": "INT",
-    "o": "INT",
-    "k": "wissenschaft",
-    "lang": "de",
-    "d": "2026-10-20T04:08:33.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Japan startet historische Mission zur Entnahme von Proben vom Marsmond Phobos",
-    "s": "Japan hat eine unbemannte Raumfahrtmission gestartet, um Gesteins- und Bodenproben von Phobos, einem der Monde des Mars, zur Erde zu bringen. Das ehrgeizige Vorhaben ist auf fünf Jahre angelegt und soll neue Erkenntnisse über das Entstehen der Monde und die Ursprünge des Lebens liefern. Die Raumsonde hat den Weg ins All angetreten, um Proben für die Forschung zu sammeln.",
-    "m": "Das im Rahmen der Mission gestartete Raumfahrzeug hat am Dienstag seine Reise angetreten und soll im Jahr 2031 mit Proben zur Erde zurückkehren. Das Projekt hat ein geschätztes Budget von 578 Millionen US-Dollar und konzentriert sich primär auf den Marsmond Phobos, wobei laut France24 auch der zweite Mond Deimos im Fokus steht. Ziel ist es, Staub, Boden- und Gesteinsproben zu sammeln und erstmals zur Erde zu bringen. Wissenschaftler erhoffen sich von den Analysen Antworten auf die Frage, wie sich die Monde gebildet haben und welche Rolle sie bei den Ursprüngen des Lebens spielen. Es handelt sich um eine unbemannte Mission, deren Gesamtdauer rund fünf Jahre beziehungsweise bis zur Rückkehr im Jahr 2031 veranschlagt wird.",
-    "r": "Die Mission ist von hoher wissenschaftlicher Relevanz, da erstmals Material von den Marsmonden zur Erde gebracht werden soll, was Aufschluss über die Entstehung des Sonnensystems und die Ursprünge des Lebens geben könnte. Zudem verdeutlicht das Millionenprojekt den technologischen Anspruch der beteiligten Raumfahrtakteure.",
-    "srcs": [
-      {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/japan-launches-historic-mission-to-bring-back-mars-moon-samples?traffic_source=rss",
-        "date": "2026-10-20T04:08:33.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSXQzX1cwWUJLUjNfX0lOX2tlSkoyaDlXaDNzcjdUNlF2eG90X3RMNjJhYlJkVkpGYmhWZWtlVnRoRFNvOFJkOEtxNWpiQTVPeFdETTNNZHlqQU43Y0dsU0pESDBmSUVsQ0VpdmtGOG4ydEhuMEp5czMzZDdjUWo4dDFnb3M0bjROUXhUZDFUdHZUbGxS?oc=5",
-        "date": "2026-10-20T03:54:00.000Z"
-      },
-      {
-        "name": "France24 English",
-        "url": "https://www.france24.com/en/technology/20261020-japan-launches-mission-to-explore-mars-moons-and-bring-back-samples",
-        "date": "2026-10-20T01:29:41.000Z"
-      }
-    ],
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/japan-launches-historic-mission-to-bring-back-mars-moon-samples?traffic_source=rss",
-    "agree": "Die Quellen stimmen überein, dass Japan eine historische Mission gestartet hat, um Proben von einem Marsmond zu sammeln.",
-    "diff": [
-      {
-        "name": "Al Jazeera",
-        "note": "nennt die Missionsdauer von fünf Jahren und fokussiert sich auf den Mond Phobos."
-      },
-      {
-        "name": "Google News World",
-        "note": "verweist auf The Guardian und bezeichnet die Mission als einmalige Chance."
-      },
-      {
-        "name": "France24 English",
-        "note": "nennt konkrete Details wie den Start am Dienstag, die Kosten von 578 Millionen US-Dollar, die Rückkehr im Jahr 2031 sowie die Erforschung beider Monde Phobos und Deimos."
-      }
-    ],
-    "chg": "",
-    "independent": 3
-  },
-  {
-    "id": "story-a9f48d4c37c3f4f5",
-    "c": "INT",
-    "o": "DE",
-    "k": "technik",
-    "lang": "de",
-    "d": "2026-10-20T03:13:00.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Japanische Raummission mit deutsch-französischem Rover gestartet",
-    "s": "Die japanische Raummission MMX ist zum Marsmond Phobos gestartet. Mit an Bord ist der deutsch-französische Rover Idefix. Die Ankunft am Marsmond ist für das Jahr 2029 geplant.",
-    "m": "Die japanische Weltraummission MMX hat den Weg zum Marsmond Phobos angetreten. Ein zentraler Bestandteil dieser Mission ist der Rover namens Idefix, der deutsch-französisch entwickelt wurde. Nach der geplanten Ankunft im Jahr 2029 soll der Rover den Mond erforschen. Zwei Jahre nach der Ankunft ist vorgesehen, dass Idefix Proben zur Erde schicken soll. SWR-Weltraumexperte Uwe Gradwohl erläutert die genauen Forschungsziele der Japaner und den Grund für die Mitnahme von Idefix. Die Mission soll wichtige Erkenntnisse über den Marsmond liefern.",
-    "r": "Die Mission markiert einen bedeutenden internationalen Schritt in der Erforschung des Marsmondes Phobos. Die Beteiligung des deutsch-französischen Rovers Idefix unterstreicht die internationale Zusammenarbeit bei diesem Projekt.",
-    "srcs": [
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/wissen/idefix-marsmond-japanische-raummission-100.html",
-        "date": "2026-10-20T03:13:00.000Z"
-      },
-      {
-        "name": "SWR Aktuell",
-        "url": "https://www.swr.de/swraktuell-radio/japan-raumfahrt-marsmond-idefix-phobos-100.html",
-        "date": "2026-10-19T15:22:23.000Z"
-      }
-    ],
-    "url": "https://www.zdfheute.de/wissen/idefix-marsmond-japanische-raummission-100.html",
-    "agree": "Die Quellen sind sich einig, dass die japanische Raummission MMX zum Marsmond Phobos gestartet ist und den Rover Idefix mitnimmt.",
-    "diff": [
-      {
-        "name": "ZDF heute",
-        "note": "Berichtet über die geplante Ankunft im Jahr 2029 sowie die geplante Rücksendung von Proben zur Erde zwei Jahre später."
-      },
-      {
-        "name": "SWR Aktuell",
-        "note": "Kündigt eine Erklärung des SWR-Weltraumexperten Uwe Gradwohl zu den Forschungszielen und den Gründen für die Mitnahme von Idefix an."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-ab3f153b35086c82",
-    "c": "INT",
-    "o": "UK",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-20T02:01:22.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Trump nutzt Proteste in Frankreich für US-Wahlkampf",
-    "s": "Angesichts der bevorstehenden Midterm-Wahlen versucht der frühere US-Präsident Donald Trump, die Proteste in Frankreich für seine politischen Zwecke in den USA zu instrumentalisieren. Bei einer Kundgebung in Kansas warnte er vor Migranten und Kommunisten. Die Demonstrationen in Europa dienen ihm dabei als angebliche Warnung für die amerikanische Bevölkerung.",
-    "m": "Donald Trump hat die anhaltenden Unruhen in Frankreich aufgegriffen, um sie bei einer Wahlkampfkundgebung in Kansas als warnendes Beispiel für die USA darzustellen. Die Republikaner stehen vor den anstehenden Midterm-Wahlen im November unter erheblichem politischen Druck. Trump nutzte die Gelegenheit, um Angriffe gegen Migranten und Kommunisten zu richten. Die Demonstrationen in Frankreich hatten ursprünglich als Schülerproteste gegen marode Schulen und steigende Kosten begonnen, wurden jedoch von Kritikern und Politikern unterschiedlich gedeutet. Trump versucht nun, diese europäische Krise gezielt in seine innenpolitische Rhetorik einzubauen, um eigene Wähler zu mobilisieren und politische Gegner zu schwächen.",
-    "r": "Die Berichterstattung beleuchtet, wie internationale Krisen von Politikern für den nationalen Wahlkampf instrumentalisiert werden. Dies zeigt den Einfluss europäischer Ereignisse auf die politische Debatte in den USA vor den Midterm-Wahlen.",
-    "srcs": [
-      {
-        "name": "Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/oct/19/trump-france-protests",
-        "date": "2026-10-20T02:01:22.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0bnZRYWwyOWhycjFRaDhGc1E0M0diUFZjeEdHQy1YbXQ5OGdlRUo3NXJfT21PUmdjQW1DRkl6UzVEbkhLSHlESnFQdEF1X0poMlNZcGZlaEZ1eXVnX29UN0xTcVdycjJwVTY1VEJNZnotb1J3ckNRZw?oc=5",
-        "date": "2026-10-19T22:48:00.000Z"
-      }
-    ],
-    "url": "https://www.theguardian.com/us-news/2026/oct/19/trump-france-protests",
-    "agree": "Beide Quellen berichten übereinstimmend über Trumps Angriffe auf Migranten und Kommunisten im Zusammenhang mit den Unruhen in Frankreich.",
-    "diff": [
-      {
-        "name": "Guardian World",
-        "note": "Liefert den vollständigen Kontext, dass die Proteste in Frankreich als Warnung für US-Wähler vor den Midterm-Wahlen dienen sollen und ursprünglich als Schülerproteste begannen."
-      },
-      {
-        "name": "Google News World",
-        "note": "Verweist lediglich auf den Artikel des Guardians ohne nennenswerte eigene Zusatzinformationen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-1b7c34e4854b4d5d",
-    "c": "INT",
-    "o": "UK",
-    "k": "umwelt",
-    "lang": "de",
-    "d": "2026-10-19T23:08:25.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Die weltweiten Auswirkungen des starken El Niño auf das Wetter",
-    "s": "Der derzeit stärkste gemessene El Niño intensiviert sich weiter. Meteorologen untersuchen die konkreten Auswirkungen dieses Phänomens auf die Wettermuster weltweit. Die globale Entwicklung betrifft verschiedene Regionen auf unterschiedliche Weise. Die genauen Folgen und Ausmaße stehen im Fokus aktueller Beobachtungen.",
-    "m": "Das Wetterphänomen El Niño zeigt sich in seiner bisher stärksten aufgezeichneten Form und gewinnt weiter an Intensität. Experten analysieren weltweit die direkten und indirekten Folgen für meteorologische Bedingungen. Die Veränderungen betreffen globale Klimamuster und führen zu regional unterschiedlichen Wetterextremen. Bisher ist bekannt, dass diese Phase weitreichende Konsequenzen für die Wetterverhältnisse auf der Erde hat. Weitere Analysen sollen zeigen, wie sich die Situation in den kommenden Monaten weiterentwickelt und welche Regionen besonders gefährdet sind.",
-    "r": "Das Wetterphänomen El Niño hat globale Auswirkungen auf das Klima und beeinflusst Wettermuster weltweit. Die Analyse dieser Effekte ist wichtig, um Extremwetterereignisse besser zu verstehen und vorherzusagen.",
-    "srcs": [
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-19T23:08:25.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fR2V6SktXcnFZUUtJWElUdHRKRFE1ME5rbFpQQ0tUVnZRek54eFhORmU1LThvZXFXdWJpVERLVXpoNzJEZFJSRWdGblJ5VEY5NkYxMnpld3Y2S0hTa3FV?oc=5",
-        "date": "2026-10-19T23:08:25.000Z"
-      }
-    ],
-    "url": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
-    "agree": "Beide Quellen stimmen darin überein, dass es fünf Wege gibt, wie El Niño das Wetter weltweit beeinflusst, basierend auf Berichten von Sarah Keith-Lucas.",
-    "diff": [
-      {
-        "name": "BBC World",
-        "note": "Erwähnt zusätzlich, dass Sarah Keith-Lucas die Evidenz und die Auswirkungen auf Wettermuster untersucht."
-      },
-      {
-        "name": "Google News World",
-        "note": "Enthält lediglich den Titel und den Hinweis auf die BBC als Quelle ohne zusätzliche Details."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-33f3c95aadc4b0e3",
-    "c": "INT",
-    "o": "PT",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-19T22:29:52.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Wohnungsbau-Proteste in Portugal fordern iberianische Streiks",
-    "s": "In Portugal halten die Proteste für das Recht auf Wohnraum an. Die Demonstrierenden fordern nun einen gemeinsamen iberianischen Streik für den 11. November. Die Aktionen finden unter anderem in Porto und Lissabon statt.",
-    "m": "Die Demonstrationen für das Recht auf Wohnraum prägen derzeit das Geschehen in Portugal. Die Protestierenden haben eine iberianische Streikaktion für den 11. November ins Gespräch gebracht. In Porto dauert der Protest bereits den zehnten Tag an und der Anmeldezeitraum für die Kundgebungen wurde dort bis zum Ende des Jahres verlängert. In Lissabon ist der Protest am dritten Tag angelangt. Die Berichterstattung zeigt eine anhaltende Mobilisierung in den großen portugiesischen Städten mit langfristigen Protestankündigungen.",
-    "r": "Die anhaltenden Wohnungsbau-Proteste in Portugal verdeutlichen die soziale Unzufriedenheit und die Vernetzung der Demonstrierenden über den 11. November hinaus. Dies zeigt die Dringlichkeit der Debatte um bezahlbaren Wohnraum in der Region.",
-    "srcs": [
-      {
-        "name": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/economia/manifestantes-pelo-direito-a-habitacao-querem-greve-iberica-a-11-de-novembro_e1772593",
-        "date": "2026-10-19T22:29:52.000Z"
-      },
-      {
-        "name": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU2gzbF91SU00ZGZEUE1OMG9RWmdvNGFqUEpUSzBhUXRiNklYZHJ1Z0lMOVo4TEgyYzE4QUc2Zk1RZThTcEZ2SFZQS01CMmJaaXFEcXMyc0FkQ2tlb25zWS16YzREV1ZzWm1kcTZZdW13RDB2a2RpNmdfNVktSGEtUGM1OWlIbXFuNUJoY1hBQ084Ullxb3ZEWFdRbjc4X2RtRVVhWGJDWUdjQkZXU2ozVXBiX1JqV1hpcWJtb2s4VQ?oc=5",
-        "date": "2026-10-19T20:31:33.000Z"
-      }
-    ],
-    "url": "https://www.rtp.pt/noticias/economia/manifestantes-pelo-direito-a-habitacao-querem-greve-iberica-a-11-de-novembro_e1772593",
-    "agree": "Beide Quellen stimmen überein, dass Demonstrierende für das Recht auf Wohnraum eine iberianische Streikaktion am 11. November fordern.",
-    "diff": [
-      {
-        "name": "RTP Notícias",
-        "note": "Berichtet detailliert über die Dauer der Proteste in Porto (zehn Tage, Verlängerung bis Jahresende) und Lissabon (dritter Tag)."
-      },
-      {
-        "name": "Google News Portugal",
-        "note": "Enthält lediglich eine kurze Überschrift und einen HTML-Link, die auf den Artikel von RTP verweisen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-e0c40e9c7ef37725",
-    "c": "INT",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-19T21:32:13.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Sektenführer in Kenia wegen Tötung von 191 Menschen schuldig gesprochen",
-    "s": "Ein kenianisches Gericht hat den Sektenführer Paul Mackenzie und weitere Angeklagte für den Tod von 191 Menschen verurteilt. Die Anhänger der Sekte sollten nach dem Willen des Anführers verhungern, um Jesus zu begegnen. Unter den Opfern befand sich ein Großteil an Kindern. Das Verfahren beleuchtet die dramatischen Hintergründe des Sektenkults.",
-    "m": "Das kenianische Gericht sprach den Sektenführer Paul Mackenzie und seine Mitangeklagten im Zusammenhang mit dem Tod von 191 Menschen schuldig. Die Ermittlungen und das Urteil offenbaren, dass Mackenzie seine Anhänger gezielt dazu brachte, den Hungertod zu sterben, um eine religiöse Vereinigung mit Jesus zu erlangen. Besonders erschütternd ist der Umstand, dass ein Großteil der weit über hundert Toten Kinder waren. Das genaue Ausmaß der Tat und die Rolle der verschiedenen Beteiligten wurden im Rahmen der juristischen Aufarbeitung geprüft. Das Urteil setzt ein Zeichen gegen extremen Sektenmissbrauch in der Region. Weitere Details zu eventuellen Mitläufern oder dem genauen Ablauf der Sektenaktivitäten im Vorfeld wurden im Zuge des Prozesses beleuchtet.",
-    "r": "Das Urteil gegen den Sektenführer in Kenia verdeutlicht das massive Gefahrenpotenzial religiöser Extremgruppen und führt zu einer juristischen Aufarbeitung eines Massensterbens mit zahlreichen Opfern, darunter viele Kinder.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/sektenfuehrer-in-kenia-der-toetung-von-191-menschen-schuldig-gesprochen-100.html",
-        "date": "2026-10-19T21:32:13.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/ausland/kenia-sektenfuehrer-wegen-toetung-von-191-menschen-schuldig-gesprochen-a-2e81361d-1caa-4d08-9d7e-7250bccbfd6e#ref=rss",
-        "date": "2026-10-19T19:40:00.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/sektenfuehrer-in-kenia-der-toetung-von-191-menschen-schuldig-gesprochen-100.html",
-    "agree": "Die Quellen sind sich einig, dass ein Gericht in Kenia den Sektenführer Paul Mackenzie und weitere Angeklagte der Tötung von 191 Menschen schuldig gesprochen hat.",
-    "diff": [
-      {
-        "name": "DER SPIEGEL",
-        "note": "Ergänzt das Motiv des Anführers, dass die Anhänger verhungern sollten, um Jesus zu begegnen, sowie die Information, dass ein Großteil der Opfer Kinder waren."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-7a115606e4262fbf",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-19T20:57:08.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Langjähriger Miele-Chef Peter Christian Zinkann mit 98 Jahren gestorben",
-    "s": "Der langjährige Miele-Chef Peter Christian Zinkann ist im Alter von 98 Jahren gestorben. Er prägte und leitete das Familienunternehmen für Haushaltsgeräte über vier Jahrzehnte hinweg. Das Unternehmen und die Öffentlichkeit trauern um den Unternehmer.",
-    "m": "Peter Christian Zinkann, der langjährige Chef des Haushaltsgeräte-Herstellers Miele, ist im Alter von 98 Jahren verstorben. Er leitete und prägte das in Gütersloh ansässige Familienunternehmen über vier Jahrzehnte lang. Während seiner Amtszeit führte er zahlreiche neue Geräte auf dem Markt ein und trug maßgeblich zur Entwicklung des Unternehmens bei. Weitere Details zur Trauerfeier oder den genauen Umständen seines Todes wurden in den Berichten nicht genannt. Die Nachfolge im Unternehmen wird in den aktuellen Meldungen ebenfalls nicht thematisiert.",
-    "r": "Der Tod einer langjährigen Führungspersönlichkeit eines großen deutschen Familienkonzerns ist von wirtschaftlicher und gesellschaftlicher Bedeutung. Die Nachricht markiert das Ende einer Ära für den Haushaltsgeräte-Hersteller Miele.",
-    "srcs": [
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/wirtschaft/article6ad6824b51e5094f7a57242f/langjaehriger-miele-chef-stirbt-im-alter-von-98-jahren.html",
-        "date": "2026-10-19T20:57:08.000Z"
-      },
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/wirtschaft/Langjaehriger-Miele-Chef-stirbt-im-Alter-von-98-Jahren-id31435965.html",
-        "date": "2026-10-19T19:59:59.000Z"
-      },
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/news/2026-10/19/langjaehriger-miele-chef-stirbt-im-alter-von-98-jahren",
-        "date": "2026-10-19T19:37:20.000Z"
-      }
-    ],
-    "url": "https://www.welt.de/wirtschaft/article6ad6824b51e5094f7a57242f/langjaehriger-miele-chef-stirbt-im-alter-von-98-jahren.html",
-    "agree": "Die Quellen sind sich einig, dass der langjährige Miele-Chef Peter Christian Zinkann im Alter von 98 Jahren gestorben ist und das Familienunternehmen über vier Jahrzehnte geprägt hat.",
-    "diff": [
-      {
-        "name": "WELT",
-        "note": "Erwähnt zusätzlich, dass er zahlreiche neue Geräte im Markt einführte."
-      },
-      {
-        "name": "ntv",
-        "note": "Nennt Gütersloh als Standort des Familienunternehmens und erwähnt, dass Miele trauert."
-      },
-      {
-        "name": "ZEIT ONLINE",
-        "note": "Liefert keine nennenswerten abweichenden oder zusätzlichen Informationen über den Titel hinaus."
-      }
-    ],
-    "chg": "",
-    "independent": 3
-  },
-  {
-    "id": "story-32c05794acf72e2d",
-    "c": "INT",
-    "o": "INT",
-    "k": "technik",
-    "lang": "de",
-    "d": "2026-10-19T20:49:39.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Ukrainische Armee meldet weltweit erste Drohnenevakuierung eines Soldaten",
-    "s": "Die ukrainische Armee hat nach eigenen Angaben erstmals einen verwundeten Soldaten mithilfe einer Drohne von der Front evakuiert. Es handelt sich laut Angaben um den weltweit ersten Einsatz dieser Art. Die Berichterstattung beruht auf Meldungen vom 13. Juni 2024. Weitere offizielle Details wurden zunächst nicht bekannt.",
-    "m": "Nach Angaben der ukrainischen Streitkräfte wurde erstmals in einem bewaffneten Konflikt weltweit ein verletzter Soldat erfolgreich mittels einer Drohne von der Frontlinie aus evakuiert. Die Aktion unterstreicht den zunehmenden Einsatz unbemannter Systeme in der modernen Kriegführung für logistische und medizinische Rettungsaufgaben. Bislang wurden Drohnen in Konflikten überwiegend für Aufklärung und Angriffe genutzt. Die Rettungsmission markiert einen technologischen und taktischen Meilenstein bei der Bergung von Verwundeten unter feindlichem Beschuss. Über den genauen Zeitpunkt, den Ort der Evakuierung sowie den Zustand des Soldaten liegen derzeit keine weiteren Angaben vor. Experten und Beobachter werten solche Entwicklungen als möglichen Hinweis auf die zukünftige Verringerung von Risiken für Sanitätspersonal.",
-    "r": "Die Meldung ist relevant, da sie einen potenziellen technologischen und taktischen Wendepunkt bei der Evakuierung Verwundeter in bewaffneten Konflikten darstellt. Der Einsatz von Drohnen für solche Rettungsmissionen könnte künftig das Risiko für medizinisches Personal an der Front verringern.",
-    "srcs": [
-      {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_ukrainian-soldier-rescued-in-drone-evacuation-191026?traffic_source=rss",
-        "date": "2026-10-19T20:49:39.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObDBQQTdRSW55VU9wYjREUGhkV0EwcW5RbFYzQXQwSXh6aWZGM0tFNkJHUEdpWjVZTE0yM3FwbkN3VHI1QllfMnVxcjNZQU5xSlZuUDgtOVduQ1lLbzJpTW96ZjliZVBHOUROTkl3VEdvbUpGRDJzUkdzV1I1RkI2TU04cVdLYlBTV0Z4bUpwV0pZeTBrd0N2RTNySE9JU1FrTWNfS3ltcGJGT1E3UUk5TjZoT1Vsa3FK?oc=5",
-        "date": "2026-10-19T13:21:02.000Z"
-      }
-    ],
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_ukrainian-soldier-rescued-in-drone-evacuation-191026?traffic_source=rss",
-    "agree": "Beide Quellen stimmen überein, dass die Ukraine die weltweit erste Evakuierung eines verwundeten Soldaten per Drohne durchgeführt hat.",
-    "diff": [
-      {
-        "name": "Al Jazeera",
-        "note": "Berichtet direkt über die Erklärung der ukrainischen Armee."
-      },
-      {
-        "name": "Google News World",
-        "note": "Verweist zusätzlich auf NBC News als Berichterstatter."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-e839030b760e7ab2",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-19T20:45:08.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Berliner Grüne stimmen für Koalitionsverhandlungen mit Linken und SPD",
-    "s": "Nach der SPD haben sich auch die Berliner Grünen für Koalitionsverhandlungen mit der Linken und der SPD ausgesprochen. Die Mehrheit des Landesausschusses votierte für diesen Schritt. Kritik aus dem Bund hinderte die Landesparteien nicht an der Entscheidung.",
-    "m": "Die Berliner Grünen stimmten am Abend auf einem kleinen Parteitag für die Aufnahme von Koalitionsverhandlungen mit der Linken und der SPD. Zuvor hatte sich bereits die SPD für dieses Bündnis entschieden. Trotz anhaltender Kritik aus dem Bund lassen sich die Berliner Parteien nicht von den Schritten hin zu einer Rot-Rot-Grünen Regierung abhalten. Es wurden Gespräche über die Regierungsbildung vereinbart. Weitere Details zum Ablauf der Verhandlungen wurden zunächst nicht bekannt. Die offenen Punkte der Koalitionsvereinbarung sollen in den kommenden Wochen verhandelt werden.",
-    "r": "Die Weichenstellung für eine mögliche Rot-Rot-Grüne Koalition in Berlin zeigt die politischen Mehrheitsverhältnisse in der Hauptstadt. Die Entscheidung ist auch mit Blick auf die Debatten auf Bundesebene von Bedeutung.",
-    "srcs": [
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/politik/deutschland/2026-10/berliner-gruene-stimmen-fuer-koalitionsverhandlungen-mit-linken-und-spd",
-        "date": "2026-10-19T20:45:08.000Z"
-      },
-      {
-        "name": "Frankfurter Allgemeine",
-        "url": "https://www.faz.net/aktuell/politik/wahl-in-berlin/berliner-gruene-stimmen-fuer-koalitionsverhandlungen-mit-spd-und-linke-201603305.html",
-        "date": "2026-10-19T20:06:23.000Z"
-      },
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/politik/deutschland/berlin-rot-rot-gruen-spd-gruene-linke-koalition-verhandlungen-100.html",
-        "date": "2026-10-19T19:30:00.000Z"
-      }
-    ],
-    "url": "https://www.zeit.de/politik/deutschland/2026-10/berliner-gruene-stimmen-fuer-koalitionsverhandlungen-mit-linken-und-spd",
-    "agree": "Die Quellen stimmen überein, dass sich die Berliner Grünen für Koalitionsverhandlungen mit der Linken und der SPD ausgesprochen haben.",
-    "diff": [
-      {
-        "name": "Frankfurter Allgemeine",
-        "note": "erwähnt zusätzlich, dass es auf dem kleinen Parteitag noch um weitere Themen ging"
-      },
-      {
-        "name": "ZDF heute",
-        "note": "berichtet zusätzlich, dass Kritik aus dem Bund die Parteien nicht von ihrer Entscheidung abgehalten hat"
-      }
-    ],
-    "chg": "",
-    "independent": 3
-  },
-  {
-    "id": "story-4ece7742d0f90efb",
-    "c": "INT",
-    "o": "DE",
-    "k": "sport",
-    "lang": "de",
-    "d": "2026-10-19T20:03:13.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "UEFA fordert von FIFA-Präsident Infantino Aufklärung zu WM-Investoren",
-    "s": "Die UEFA drängt FIFA-Chef Gianni Infantino mit einem Fragenkatalog und einem Ultimatum zur Aufklärung über gescheiterten WM-Investorenpläne. Bis zum 2. November fordert der europäische Dachverband Antworten auf insgesamt 42 Fragen. Der Vorstoß sorgt für einen Eklat im Zusammenhang mit den potenziellen Investoren. Die Hintergründe und Details der Forderung werden nun geprüft.",
-    "m": "Die UEFA hat offiziell einen umfangreichen Fragenkatalog mit 42 Fragen an FIFA-Chef Gianni Infantino übergeben und gleichzeitig ein Ultimatum gesetzt. Hintergrund sind die gescheiterten Pläne bezüglich potenzieller WM-Investoren, die für erhebliche Irritationen gesorgt haben. Der europäische Fußballverband verlangt nun vollständige Transparenz und Aufklärung über die Vorgänge. Als Frist für die Beantwortung des Katalogs wurde der 2. November festgelegt. Bisher ist unklar, wie Infantino beziehungsweise die FIFA auf diese scharfe Forderung reagieren werden. Der Konflikt wirft ein Schlaglicht auf das Verhältnis zwischen den beiden einflussreichen Sportverbänden. Offene Punkte betreffen vor allem die genaue Natur der geplanten Investitionen und wer die treibenden Kräfte im Hintergrund waren.",
-    "r": "Die Auseinandersetzung zwischen UEFA und FIFA betrifft die Governance und Finanzstrukturen im internationalen Spitzenfußball. Ein solches Ultimatum eines Kontinentalverbandes an den Weltverband verdeutlicht die anhaltenden Spannungen an der Verbandsspitze.",
-    "srcs": [
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/sport/eklat-um-wm-investoren-uefa-fragen-und-ein-ultimatum-fuer-infantino-SLPN3SSXWZC73NHUNIB2OQDGII.html",
-        "date": "2026-10-19T20:03:13.000Z"
-      },
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/sport/fussball-uefa-fragenkatalog-infantino-investoren-fifa-100.html",
-        "date": "2026-10-19T19:55:00.000Z"
-      }
-    ],
-    "url": "https://www.rnd.de/sport/eklat-um-wm-investoren-uefa-fragen-und-ein-ultimatum-fuer-infantino-SLPN3SSXWZC73NHUNIB2OQDGII.html",
-    "agree": "Die Quellen stimmen überein, dass die UEFA von FIFA-Chef Gianni Infantino mit einem Fragenkatalog und einem Ultimatum Aufklärung zu den WM-Investorenplänen fordert.",
-    "diff": [
-      {
-        "name": "RND",
-        "note": "Erwähnt konkret die Anzahl von 42 Fragen und spricht von einem Eklat."
-      },
-      {
-        "name": "ZDF heute",
-        "note": "Nennt das konkrete Datum des 2. November als Frist für die Antworten."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-027ecc259c49b59c",
-    "c": "INT",
-    "o": "DE",
-    "k": "wissenschaft",
-    "lang": "de",
-    "d": "2026-10-19T19:57:52.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Japanische Mars-Mission mit Rover Idefix gestartet",
-    "s": "Eine neue japanische Raummission hat begonnen, um den Marsmond Phobos zu erforschen. Das Projekt beinhaltet auch den Transport des Rovers Idefix. Die Mission soll wichtige Erkenntnisse über die Entstehung der Marsmonde liefern.",
-    "m": "Die japanische Raumfahrtagentur JAXA hat eine neue Mission zum Mars und seinen Monden auf den Weg gebracht. Zentraler Bestandteil ist der Rover Idefix, der auf dem Marsmond Phobos landen und diesen wissenschaftlich untersuchen soll. Ziel der Mission ist es, die Herkunft der beiden Marsmonde Phobos und Deimos zu klären. Wissenschaftler wollen herausfinden, ob es sich dabei um eingefangene Asteroiden oder um Trümmerteile nach einem Einschlag auf dem Mars handelt. Die Mission stellt einen bedeutenden Schritt in der interplanetaren Forschung dar und wird international mit Spannung beobachtet.",
-    "r": "Die Mission erweitert das wissenschaftliche Verständnis über die Entstehung der Marsmonde. Sie zeigt den Fortschritt der japanischen Raumfahrt bei der Erforschung des Sonnensystems.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQmlYOGFqNTVNUUhvSE5paHRiWE9OMFh2S0tuajRGbGs1M2gyUEtXUGVJRnllZlkxVGFSTUZadlgyRkdrcXU5a1V0aENnVDdUMjJYTWZ2UU1aYl9lcW1Ra2xBdHpaUGxwNm1salhzaEJ5dVRsZTl0c1U1WnU5ZkQ4R0NkMkNNMUVvMkZQaUdVemVBTVExVjVnSGNJdGpnanlpNU5PRk5TcE5nc1hqajM2ZVkxRGMyR0lyVGNjY2NLTjc?oc=5",
-        "date": "2026-10-19T19:57:52.000Z"
-      },
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/news/2026-10/19/idefix-fliegt-zu-marsmond-japanische-raummission-startet",
-        "date": "2026-10-19T19:56:43.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQmlYOGFqNTVNUUhvSE5paHRiWE9OMFh2S0tuajRGbGs1M2gyUEtXUGVJRnllZlkxVGFSTUZadlgyRkdrcXU5a1V0aENnVDdUMjJYTWZ2UU1aYl9lcW1Ra2xBdHpaUGxwNm1salhzaEJ5dVRsZTl0c1U1WnU5ZkQ4R0NkMkNNMUVvMkZQaUdVemVBTVExVjVnSGNJdGpnanlpNU5PRk5TcE5nc1hqajM2ZVkxRGMyR0lyVGNjY2NLTjc?oc=5",
-    "agree": "Die Quellen stimmen überein, dass eine japanische Mars-Mission mit dem Rover Idefix gestartet ist.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-2c570ce1b2607558",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-19T19:52:35.000Z",
-    "p": 3,
-    "st": "BE",
-    "city": "",
-    "t": "Grüne und SPD in Berlin für Koalitionsgespräche mit der Linken",
-    "s": "In Berlin haben sich SPD und Grüne für die Aufnahme von Koalitionsverhandlungen mit der Linkspartei ausgesprochen. Zwei Tage nach dem Abschluss der Sondierungen trafen beide Parteien am Abend ihre Entscheidung. Die Zustimmung der Linken steht allerdings noch aus und soll auf einem Parteitag Ende Oktober geklärt werden.",
-    "m": "Nach dem Abschluss der Sondierungsgespräche in Berlin bereiten sich SPD und Grüne auf den nächsten Schritt vor. Beide Parteien stimmten am Abend für die Aufnahme von Koalitionsverhandlungen mit der Linkspartei. Die Linke will über diesen Schritt auf einem Parteitag Ende Oktober entscheiden. Ob es zu einer Koalition kommt, hängt somit vom Votum der Partei ab. Damit rückt eine mögliche Dreierkoalition in der Hauptstadt näher, sofern auch die Linkspartei grünes Licht gibt. Weitere Details zum Ablauf der Gespräche wurden zunächst nicht bekannt.",
-    "r": "Die Entscheidung von SPD und Grünen ebnet den Weg für mögliche Koalitionsverhandlungen in Berlin und hat daher politische Relevanz für die Regierungsbildung in der Hauptstadt.",
-    "srcs": [
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/inland/berlin-wahl-spd-gruene-koalitionsverhandlungen-100.html",
-        "date": "2026-10-19T19:52:35.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Berlin",
-        "url": "https://www.tagesschau.de/inland/regional/berlin/rbb-spd-und-gruene-entscheiden-montag-ueber-aufnahme-von-koalitionsgespraechen-in-berlin-100.html",
-        "date": "2026-10-19T19:30:00.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/berlin-wahl-spd-gruene-koalitionsverhandlungen-100.html",
-    "agree": "Sowohl SPD als auch Grüne haben sich für die Aufnahme von Koalitionsverhandlungen in Berlin ausgesprochen.",
-    "diff": [
-      {
-        "name": "Tagesschau",
-        "note": "Erwähnt, dass die Abstimmung der Grünen und der SPD am Abend stattfand."
-      },
-      {
-        "name": "Tagesschau Regional Berlin",
-        "note": "Erwähnt, dass die Entscheidung zwei Tage nach dem Abschluss der Sondierungen fiel und die Linke Ende Oktober auf einem Parteitag entscheiden will."
-      }
-    ],
-    "chg": "",
-    "independent": 1
-  },
-  {
-    "id": "story-5c3006cec2077f77",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-19T19:52:35.000Z",
-    "p": 3,
-    "st": "BE",
-    "city": "",
-    "t": "SPD und Grüne in Berlin für rot-rot-grüne Koalitionsgespräche",
-    "s": "In Berlin rückt ein rot-rot-grünes Bündnis näher, nachdem sich SPD und Grüne für Koalitionsverhandlungen ausgesprochen haben. Beide Parteien stimmten am Abend mit großer Mehrheit beziehungsweise für die Annahme des Sondierungspapiers. Die Entscheidung der Linkspartei steht noch aus. Die Gespräche folgen auf den Abschluss der Sondierungen vor zwei Tagen.",
-    "m": "Zwei Tage nach dem Abschluss der Sondierungsgespräche in Berlin bereiten SPD, Grüne und die Linkspartei ein mögliches gemeinsames Bündnis vor. Der SPD-Landesvorstand und die Grünen stimmten am Abend für die Aufnahme von Koalitionsverhandlungen und nahmen das Sondierungspapier an. Bei SPD und Grünen erfolgte das Votum mit großer Mehrheit. Die Linkspartei hat über diesen Schritt noch nicht final entschieden, will jedoch Ende Oktober auf einem Parteitag darüber beraten. Sollten auch die Linken zustimmen, könnten offene Fragen der Regierungsbildung in offiziellen Koalitionsverhandlungen geklärt werden.",
-    "r": "Die Meldung ist relevant, da sie die Weichenstellung für eine mögliche Regierungsbildung in der Hauptstadt durch ein rot-rot-grünes Bündnis aufzeigt. Die Entscheidungen von SPD und Grünen sind ein wesentlicher Schritt für die künftige politische Konstellation in Berlin.",
-    "srcs": [
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/inland/berlin-wahl-spd-gruene-koalitionsverhandlungen-100.html",
-        "date": "2026-10-19T19:52:35.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/politik/deutschland/berlin-spd-stimmt-fuer-koalitionsgespraeche-mit-linke-und-gruenen-a-6a348e5e-b947-4117-93e2-aa98ac8b892a#ref=rss",
-        "date": "2026-10-19T19:39:00.000Z"
-      },
-      {
-        "name": "t-online Nachrichten",
-        "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101487066/berlin-gruene-fuer-koalitionsgespraeche-mit-linke-und-spd.html",
-        "date": "2026-10-19T19:36:02.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Berlin",
-        "url": "https://www.tagesschau.de/inland/regional/berlin/rbb-spd-und-gruene-entscheiden-montag-ueber-aufnahme-von-koalitionsgespraechen-in-berlin-100.html",
-        "date": "2026-10-19T19:30:00.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/berlin-wahl-spd-gruene-koalitionsverhandlungen-100.html",
-    "agree": "Alle Quellen stimmen überein, dass sich SPD und Grüne in Berlin für Koalitionsverhandlungen mit der Linkspartei ausgesprochen haben.",
-    "diff": [
-      {
-        "name": "Tagesschau",
-        "note": "Erwähnt, dass die Abstimmung bei der Linken noch aussteht."
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "Berichtet speziell, dass der SPD-Landesvorstand und die Grünen das Sondierungspapier angenommen haben."
-      },
-      {
-        "name": "t-online Nachrichten",
-        "note": "Hebt hervor, dass Grüne und SPD mit großer Mehrheit gestimmt haben."
-      },
-      {
-        "name": "Tagesschau Regional Berlin",
-        "note": "Nennt den zeitlichen Rahmen von zwei Tagen nach den Sondierungen und dass die Linke Ende Oktober auf einem Parteitag entscheiden will."
-      }
-    ],
-    "chg": "",
-    "independent": 3
-  },
-  {
-    "id": "story-9809d481063ead38",
-    "c": "DE",
-    "o": "DE",
-    "k": "technik",
-    "lang": "de",
-    "d": "2026-10-19T19:32:03.000Z",
-    "p": 3,
-    "st": "BY",
-    "city": "",
-    "t": "Bundesregierung vereinbart KI-Kooperation mit Chiphersteller Nvidia",
-    "s": "Die Bundesregierung plant eine engere Zusammenarbeit mit dem US-amerikanischen Chiphersteller Nvidia im Bereich der Künstlichen Intelligenz. Dazu wurde nun eine entsprechende Absichtserklärung unterzeichnet. Beteiligt sind auf deutscher Seite das Bundeswirtschafts- sowie das Forschungsministerium.",
-    "m": "Das Bundeswirtschaftsministerium und das Forschungsministerium haben eine offizielle Absichtserklärung mit dem US-Chiphersteller Nvidia geschlossen. Ziel dieser Vereinbarung ist es, die Entwicklung von Künstlicher Intelligenz in Deutschland gemeinsam voranzutreiben und zu stärken. Konkrete Details zum finanziellen Volumen, zu Laufzeiten oder spezifischen Projekten wurden im Rahmen der Unterzeichnung zunächst nicht genannt. Die Kooperation unterstreicht das Bestreben der Bundesregierung, im Bereich zukunftsweisender Technologien international Anschluss zu halten und auf starke Partner aus der Privatwirtschaft zu setzen. Nvidia gilt weltweit als einer der wichtigsten Akteure und Hardware-Lieferanten für KI-Anwendungen. Offen bleibt bislang, welche konkreten Fördermaßnahmen oder Standorte von der Partnerschaft profitieren werden.",
-    "r": "Die Partnerschaft mit einem weltweit führenden Technologieunternehmen ist für den Digital- und Wirtschaftsstandort Deutschland von Bedeutung. Sie soll die Entwicklung und den Ausbau von Künstlicher Intelligenz im Land unterstützen.",
-    "srcs": [
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/bund-will-mit-us-chiphersteller-nvidia-zusammenarbeiten,VYWYbpF",
-        "date": "2026-10-19T19:32:03.000Z"
-      },
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/politik/deutschland/2026-10/nvidia-bundesregierung-ki-kooperation-physical-ai-robotik-gxe",
-        "date": "2026-10-19T19:05:21.000Z"
-      }
-    ],
-    "url": "https://www.br.de/nachrichten/deutschland-welt/bund-will-mit-us-chiphersteller-nvidia-zusammenarbeiten,VYWYbpF",
-    "agree": "Die Quellen stimmen überein, dass Deutschland mit dem US-Unternehmen Nvidia eine Absichtserklärung zur Zusammenarbeit bei Künstlicher Intelligenz unterzeichnet hat.",
-    "diff": [
-      {
-        "name": "BR24 Bayern",
-        "note": "Erwähnt konkret, dass das Bundeswirtschafts- und das Forschungsministerium die Absichtserklärung unterzeichnet haben."
-      },
-      {
-        "name": "ZEIT ONLINE",
-        "note": "Berichtet allgemein, dass Deutschland und der Bund die Erklärung unterzeichnet haben, ohne die beteiligten Ministerien namentlich zu nennen."
       }
     ],
     "chg": "",
