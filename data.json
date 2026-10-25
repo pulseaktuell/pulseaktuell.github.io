@@ -1,5 +1,496 @@
 [
   {
+    "id": "story-77c538a0e9f24119",
+    "c": "INT",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-25T09:49:58.000Z",
+    "p": 4,
+    "st": "BY",
+    "city": "",
+    "t": "Audi kündigt erstes Werk in den USA an",
+    "s": "Der Autohersteller Audi hat angekündigt, sein erstes Werk in den Vereinigten Staaten zu errichten. Die Pläne wurden auf einer Wahlkampfveranstaltung von Donald Trump öffentlich gemacht. Im US-Bundesstaat Georgia soll durch das Projekt ein neues Produktionszentrum entstehen.",
+    "m": "Inmitten der aktuellen Krise beim Mutterkonzern VW expandiert die Tochtermarke Audi auf den US-Markt. US-Präsident Donald Trump verkündete auf einer Wahlkampfveranstaltung, dass der Autobauer in Georgia ein neues Werk errichten wird. Nach Angaben von WELT belaufen sich die geplanten Investitionen auf vier Milliarden Dollar, zudem sollen rund 4500 Arbeitsplätze geschaffen werden. BR24 Bayern ordnet das Vorhaben als Expansion inmitten der Krise bei VW ein und bestätigt, dass laut Audi Milliarden investiert werden. Die Google News DE-Meldung verweist lediglich auf den Bericht von BR24 im Rahmen der Wahlkampftour.",
+    "r": "Die Investition markiert einen bedeutenden Schritt für Audi auf dem US-Markt und findet vor dem Hintergrund der VW-Krise statt. Das Projekt hat durch die Verknüpfung mit einer Wahlkampfveranstaltung von Donald Trump eine politische Dimension.",
+    "srcs": [
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/ausland/video6addc9e1247c1fa2013060cc/auf-trump-veranstaltung-audi-kuendigt-erstes-werk-in-den-usa-an.html",
+        "date": "2026-10-25T09:49:58.000Z"
+      },
+      {
+        "name": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/wirtschaft/auf-wahlkampftour-trump-kuendigt-erstes-audi-werk-in-den-usa-an,VZ2ObRn",
+        "date": "2026-10-25T07:30:45.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc0tjTG9rYWdqeXozTk1UdGt1Q240SkVTMkZ0MkUtZDR0aGZ4ZlJCaGoxRmFUdkhPMlZCOWx4N3Y0MEFYMnh6ZXRNcGZrb2lGTWRtSEpXOXlVMmtFSTl1UHN2b0I3dERkZWcweURmZFVfOHhJODctQ1owRFUzcmVWWS1iYkpsLUtDM1BIM01wcHdtVnJLeUZ6Y1BYX0J3bElPdXhfRkpkazZlMkx2Rm1Tc3ln?oc=5",
+        "date": "2026-10-25T07:30:45.000Z"
+      }
+    ],
+    "url": "https://www.welt.de/politik/ausland/video6addc9e1247c1fa2013060cc/auf-trump-veranstaltung-audi-kuendigt-erstes-werk-in-den-usa-an.html",
+    "agree": "Die Quellen stimmen überein, dass Audi den Bau seines ersten Werks in den USA in Georgia im Rahmen einer Wahlkampfveranstaltung von Donald Trump angekündigt hat und dafür Milliarden investiert werden.",
+    "diff": [
+      {
+        "name": "WELT",
+        "note": "Nennt konkrete Zahlen mit rund 4500 Arbeitsplätzen und vier Milliarden Dollar Investition."
+      },
+      {
+        "name": "BR24 Bayern",
+        "note": "Betont, dass die Expansion inmitten der Krise bei VW stattfindet."
+      },
+      {
+        "name": "Google News DE",
+        "note": "Enthält nur einen Verweis und Link auf den Bericht von BR24."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
+    "id": "story-6b42587df57521c4",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-25T09:47:59.000Z",
+    "p": 3,
+    "st": "BY",
+    "city": "",
+    "t": "Feuer am Kehlsteinhaus in Berchtesgadener Alpen wieder aufgeflammt",
+    "s": "Nach dem Brand des Kehlsteinhauses in den Berchtesgadener Alpen in der Nacht zum Samstag haben sich die Löscharbeiten als schwierig erwiesen. In der Nacht zum Sonntag ist das Feuer erneut ausgebrochen. Die Feuerwehr musste abermals zum Obersalzberg ausrücken.",
+    "m": "Das Kehlsteinhaus am Obersalzberg, wo die Nationalsozialisten einst den Komplex für Adolf Hitler errichteten, war in der Nacht auf Samstag komplett ausgebrannt. Aufgrund der schwierigen Bedingungen gestalteten sich die Löscharbeiten langwierig. In der Nacht zum Sonntag flammte das Feuer unerwartet wieder auf und brannte nach Angaben der Feuerwehr zimmerhoch. Rettungskräfte mussten erneut ausrücken, um den Brand endgültig unter Kontrolle zu bringen. Weitere Details zur genauen Schadenshöhe und zur Brandursache sind derzeit noch nicht bekannt. Die offenen Punkte betreffen vor allem die künftige Bestandsaufnahme der historischen Bausubstanz.",
+    "r": "Das historische Kehlsteinhaus ist nach einem Großbrand erneut in Flammen aufgegangen, was Großeinsätze der Feuerwehr in aufeinanderfolgenden Nächten erforderlich macht. Das Ereignis betrifft ein prominentes historisches Bauwerk in Deutschland.",
+    "srcs": [
+      {
+        "name": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/bayern/nach-kehlsteinhaus-brand-feuer-voruebergehend-wieder-aufgeflammt,VZ3CEjX",
+        "date": "2026-10-25T09:47:59.000Z"
+      },
+      {
+        "name": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/feuer-im-kehlsteinhaus-ist-wieder-aufgeflammt-accg-201619074.html",
+        "date": "2026-10-25T09:32:19.000Z"
+      },
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/panorama/brand-bei-berchtesgaden--grossbrand-am-kehlsteinhaus--feuer-wieder-aufgeflammt-38448156.html",
+        "date": "2026-10-25T07:54:26.000Z"
+      },
+      {
+        "name": "Rheinische Post",
+        "url": "https://rp-online.de/panorama/grossbrand-am-kehlsteinhaus-feuer-wieder-aufgeflammt_aid-157181603",
+        "date": "2026-10-25T07:54:26.000Z"
+      }
+    ],
+    "url": "https://www.br.de/nachrichten/bayern/nach-kehlsteinhaus-brand-feuer-voruebergehend-wieder-aufgeflammt,VZ3CEjX",
+    "agree": "Alle Quellen sind sich einig, dass das Feuer am Kehlsteinhaus am Obersalzberg in der Nacht erneut zimmerhoch aufgeflammt ist und die Feuerwehr abermals ausrücken musste.",
+    "diff": [
+      {
+        "name": "BR24 Bayern",
+        "note": "Erwähnt zusätzlich, dass das Gebäude in der Nacht zum Samstag komplett ausgebrannt war und die ersten Löscharbeiten sehr schwierig waren."
+      }
+    ],
+    "chg": "",
+    "independent": 4
+  },
+  {
+    "id": "story-8e34f9d41003806d",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-25T09:39:51.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Stichwahl in Brasilien zwischen Lula und Bolsonaro",
+    "s": "In Brasilien entscheidet sich heute in einer Stichwahl, ob Amtsinhaber Lula da Silva Präsident bleibt oder sein Herausforderer Flávio Bolsonaro das Amt übernimmt. Die beiden Präsidentschaftskandidaten mobilisierten auf großen Kundgebungen noch einmal ihre Anhänger. Vor dem Urnengang liegen die Kontrahenten laut Berichten gleichauf in der Wählergunst.",
+    "m": "Das südamerikanische Land präsentiert sich vor der heutigen Stichwahl um das Präsidentenamt tief gespalten. Die beiden Kandidaten, Amtsinhaber Lula da Silva und sein rechter Herausforderer Flávio Bolsonaro, versuchten im Wahlkampfendspurt mit großen Kundgebungen, ihre Anhängerschaft zu mobilisieren. Umfragen zufolge liegen die Kontrahenten dicht beieinander, wodurch der Ausgang der Wahl völlig offen ist. In dieser entscheidenden Phase könnten vor allem die bislang unentschlossenen Wählerinnen und Wähler das Zuwölgen an der Urne und damit den Wahlausgang maßgeblich beeinflussen. Beide Lager haben in den vergangenen Wochen intensiv um diese Wählergruppen geworben. Die Sicherheitskräfte in dem riesigen Flächenstaat sind auf mögliche Spannungen am Wahlabend vorbereitet. Offen ist, wie schnell ein verlässliches amtliches Endergebnis vorliegen wird und wie die Anhänger des unterlegenen Kandidaten auf das Resultat reagieren werden.",
+    "r": "Die Präsidentschaftswahl in Brasilien ist von globaler politischer und wirtschaftlicher Bedeutung, da das Land als größte Volkswirtschaft Lateinamerikas maßgeblich Einfluss auf Umwelt-, Wirtschafts- und Außenpolitik nimmt. Das enge Rennen und die tiefe gesellschaftliche Spaltung bergen zudem das Risiko politischer und sozialer Konflikte nach Bekanntgabe des Ergebnisses.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/stichwahl-ueber-das-praesidentenamt-zwischen-lula-und-bolsonaro-104.html",
+        "date": "2026-10-25T09:39:51.000Z"
+      },
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/amerika/brasilien-stichwahl-bolsonaro-lula-100.html",
+        "date": "2026-10-25T04:07:12.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/stichwahl-ueber-das-praesidentenamt-zwischen-lula-und-bolsonaro-104.html",
+    "agree": "Die Quellen sind sich einig, dass es in Brasilien eine Stichwahl um das Präsidentenamt zwischen dem Amtsinhaber Lula da Silva und seinem Herausforderer Bolsonaro gibt und beide Kontrahenten dort eng beieinander liegen.",
+    "diff": [
+      {
+        "name": "Tagesschau",
+        "note": "Ergänzt, dass das Land tief gespalten ist, die Kandidaten in den Umfragen gleichauf liegen und unentschlossene Wähler den entscheidenden Faktor darstellen können."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-603f1712fe086eab",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-25T09:04:35.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Feuer am Kehlsteinhaus in Berchtesgaden nach Großbrand erneut ausgebrochen",
+    "s": "Am Kehlsteinhaus in Berchtesgaden ist das Feuer erneut ausgebrochen. Nach einem vorherigen Großbrand musste die Feuerwehr in der Nacht wegen verbliebener Glutnester ein weiteres Mal ausrücken. Das Anwesen liegt im ehemaligen NS-Sperrgebiet am Obersalzberg.",
+    "m": "Das Feuer an dem als Hitlers Teehaus bekannten Kehlsteinhaus ist in der Nacht aufgrund von Glutnestern wieder aufgeflammt. Die Feuerwehr war erneut im Einsatz, um den Brand im ehemaligen NS-Sperrgebiet am Obersalzberg in Berchtesgaden zu löschen. Im Zusammenhang mit den Bränden wurde ein psychischkranker, mutmaßlicher Brandstifter festgenommen. Die Ermittlungen zu den Hintergründen der Brandstiftung und der genauen Schadenshöhe dauern an. Weitere Details zum Zustand des historischen Gebäudes wurden zunächst nicht bekannt gegeben.",
+    "r": "Die wiederholten Brände an einem historisch bedeutsamen Ort wie dem Kehlsteinhaus und die Festnahme eines Tatverdächtigen sind von regionalem und öffentlichem Interesse. Der Vorfall erfordert behördliche Ermittlungen und einen erneuten Feuerwehreinsatz.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/kehlsteinhaus-brand-obersalzberg-berchtesgaden-gxe",
+        "date": "2026-10-25T09:04:35.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/vermischtes/article6addbcc8a6a5d701acbce797/berchtesgaden-feuer-an-hitlers-teehaus-wieder-aufgeflammt.html",
+        "date": "2026-10-25T08:58:43.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/kehlsteinhaus-brand-obersalzberg-berchtesgaden-gxe",
+    "agree": "Beide Quellen stimmen darin überein, dass das Feuer am Kehlsteinhaus in Berchtesgaden erneut ausgebrochen ist.",
+    "diff": [
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Berichtet über den erneuten Feuerwehreinsatz und die Lokalität im ehemaligen NS-Sperrgebiet am Obersalzberg, erwähnt jedoch keine Festnahme."
+      },
+      {
+        "name": "WELT",
+        "note": "Erwähnt zusätzlich, dass das Feuer in der Nacht wegen Glutnestern ausbrach und dass ein psychisch kranker mutmaßlicher Brandstifter festgenommen wurde."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-40b8afa5de8fd61c",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-25T09:00:11.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Israel kündigt Abriegelung des Westjordanlands am Wahltag an",
+    "s": "Vor der Parlamentswahl in Israel plant das Militär eine vollständige Abriegelung des Westjordanlands. Sämtliche Übergänge zu dem Palästinensergebiet sollen geschlossen werden. Die Maßnahme erfolgt im Rahmen eines verschärften Vorgehens der israelischen Armee.",
+    "m": "Die israelische Armee hat einen Lockdown für die besetzten Gebiete angekündigt, der zeitlich mit der bevorstehenden Parlamentswahl zusammenfällt. Demnach sollen alle Übergänge zum Westjordanland geschlossen werden, um die Sicherheitsvorkehrungen während der Wahl zu verschärfen. Im Zuge der anhaltenden Militäroffensive im besetzten Westjordanland kam es zudem in der Stadt Hebron zu massiven Vertreibungen. Dort mussten schätzungsweise 2000 Palästinenser ihre Häuser verlassen. Die Ereignisse verdeutlichen die angespannte Sicherheitslage und die weitreichenden Auswirkungen der Militäroperation auf die palästinensische Zivilbevölkerung in der Region.",
+    "r": "Die Schließung der Übergänge zu den besetzten Gebieten anlässlich einer Parlamentswahl betrifft direkt die regionale Sicherheit und die Bewegungsfreiheit der palästinensischen Bevölkerung. Die Vertreibungen in Hebron unterstreichen die Schwere der aktuellen Militäroffensive.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/ausland/asien/israel-westjordanland-lockdown-parlamentswahlen-100.html",
+        "date": "2026-10-25T09:00:11.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/israels-armee-will-westjordanland-am-wahltag-abriegeln-a-982c5392-a3dc-4deb-8adc-fa34ef23da5f#ref=rss",
+        "date": "2026-10-25T01:54:00.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/ausland/asien/israel-westjordanland-lockdown-parlamentswahlen-100.html",
+    "agree": "Beide Quellen stimmen darin überein, dass die israelische Armee einen Lockdown beziehungsweise eine Abriegelung für das Westjordanland angekündigt hat.",
+    "diff": [
+      {
+        "name": "DER SPIEGEL",
+        "note": "Berichtet zusätzlich von einer Militäroffensive und der Vertreibung von rund 2000 Palästinensern aus ihren Häusern in Hebron."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-3a7771f0a4400849",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-25T08:49:22.000Z",
+    "p": 2,
+    "st": "HE",
+    "city": "",
+    "t": "Tief Manja bringt Regen und Sturm nach Hessen",
+    "s": "Das Tiefdruckgebiet Manja sorgt am Sonntag in Hessen für kräftige Regenfälle und Sturmböen. Nach dem Durchzug des Sturmtiefs deuten sich jedoch Aussichten auf einen goldenen Oktober mit wärmeren Temperaturen an. Die Wetterlage stellt somit einen markanten Übergang dar.",
+    "m": "Am Sonntag zieht das Tiefdruckgebiet Manja über Hessen hinweg und führt zu unbeständigem Wetter. Es ist mit kräftigem Regen sowie starken Böen zu rechnen, die das tagesgeschehen prägen. Im Anschluss an diese Sturmlage steht ein Wetterwechsel bevor. Die Prognosen zeigen, dass es nach dem Abzug von Tief Manja deutlich wärmer wird. Meteorologische Anzeichen sprechen für eine Phase mit ruhigerem und mildem Herbstwetter, die als goldener Oktober bezeichnet wird. Konkrete Temperaturwerte oder detaillierte Windstärken werden in den Berichten nicht genannt. Auch eventuelle Schäden durch den Sturm sind zum aktuellen Zeitpunkt nicht bekannt.",
+    "r": "Die Meldung ist relevant, da ein Wetterumschwung mit Sturm und Regen weite Teile Hessens betrifft und unmittelbar danach eine Schönwetterperiode in Aussicht stellt.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Hessen",
+        "url": "https://www.tagesschau.de/inland/regional/hessen/hr-warnung-vor-sturmtief-manja-heftiger-wind-und-dauerregen-in-hessen-erwartet-100.html",
+        "date": "2026-10-25T08:49:22.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUTdqV29mUzV3S0ozalF6c3VLOElCa0lCeDk2aEFFeXhwbjNyOXNsaFkxQkFHUTNraFpmY0VySlpFUDRWZEJUWFFNWGhTdHVHLVRSYkJ6Yzl3SDRsNDgwTEFZOGwyeWRvM0haSlY4ZGFSQUd1ZDBpS3ZlNndqY2t6LTFpbV9zWXlONVZuOVpjUkVEdXRGLTM0SUFaQi1Ca3R4VkZxTzRkUmplbm04YzliV1FLbW11SVlmS3BTRVd3RzZudHMxSk4yaGpNWG5mQQ?oc=5",
+        "date": "2026-10-25T08:49:22.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/hessen/hr-warnung-vor-sturmtief-manja-heftiger-wind-und-dauerregen-in-hessen-erwartet-100.html",
+    "agree": "Beide Quellen stimmen darin überein, dass Tief Manja am Sonntag Regen und Sturm nach Hessen bringt und danach wärmeres Wetter folgt.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Verweist zusätzlich auf den Originalartikel der hessenschau.de."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-a0a9110d3e9e68b4",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-25T08:24:57.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "„Investitionsschutzgesetz“: Dobrindt will Berliner Vergesellschaftungspläne per Gesetz verhindern - WELT",
+    "s": "„Investitionsschutzgesetz“: Dobrindt will Berliner Vergesellschaftungspläne per Gesetz verhindern WELT <a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPamNCUFdMN0tvTFhXQUoyc1ppUGNkMGtBVWg1cHoydGtOUFhRbjdXTHY",
+    "m": "„Investitionsschutzgesetz“: Dobrindt will Berliner Vergesellschaftungspläne per Gesetz verhindern WELT <a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPamNCUFdMN0tvTFhXQUoyc1ppUGNkMGtBVWg1cHoydGtOUFhRbjdXTHY Alexander Dobrindt will eine Vergesellschaftung großer Wohnungskonzerne in Berlin erschweren. Ein neues Gesetz soll die Pläne eines möglichen Linksbündnisses ausbremsen und Entschädigungen regeln.",
+    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNVHJQRVh4MDg1aGNTdzI5akxkU0RjcWxnM1JGa2Y1SEZXbVhiRVc0WE9oTVd0ekdTRlFTYUFsSGp1SGlKQ0JzcExFQ3NWOHA5UWR0RlFCVmRwaGdfYlB3bjZBQ1EzYWJyeVUxTTlTWjE2aDZDYVFPMW5QR3FIdGRwVzRVX3ItZHZpbEdLNVJkTGUycWpPRDNoV0FrSTlUWF91cGgzWFM4VUNrcUFMMlFPcndEQzg1VzJWNHhXcjdzbmdETnRfTC1IaUR1SGJfU2JQWVdiRXN3UFZJQTdfVHZPdDZGelFwS3FtdTd3MTN1cFhSTlNCdV9CMThoQVRrMEVkYUE?oc=5",
+        "date": "2026-10-25T08:24:57.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/deutschland/article6addb40dba080c37bf6d08b6/investitionsschutzgesetz-dobrindt-will-berliner-vergesellschaftungsplaene-per-gesetz-verhindern.html",
+        "date": "2026-10-25T08:21:07.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNVHJQRVh4MDg1aGNTdzI5akxkU0RjcWxnM1JGa2Y1SEZXbVhiRVc0WE9oTVd0ekdTRlFTYUFsSGp1SGlKQ0JzcExFQ3NWOHA5UWR0RlFCVmRwaGdfYlB3bjZBQ1EzYWJyeVUxTTlTWjE2aDZDYVFPMW5QR3FIdGRwVzRVX3ItZHZpbEdLNVJkTGUycWpPRDNoV0FrSTlUWF91cGgzWFM4VUNrcUFMMlFPcndEQzg1VzJWNHhXcjdzbmdETnRfTC1IaUR1SGJfU2JQWVdiRXN3UFZJQTdfVHZPdDZGelFwS3FtdTd3MTN1cFhSTlNCdV9CMThoQVRrMEVkYUE?oc=5",
+    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-08e645f496d13c4d",
+    "c": "INT",
+    "o": "INT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-25T08:02:00.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Präsidentenwahl-Stichwahl in Brasilien zwischen Lula und Bolsonaro",
+    "s": "In Brasilien findet am Sonntag die Stichwahl der Präsidentschaftswahl statt. Dabei kommt es zu einem Duell zwischen dem linken Amtsinhaber Luiz Inácio Lula da Silva und dem rechtsextremen Herausforderer Flávio Bolsonaro. Die Abstimmung gilt als äußerst unvorhersehbar, da die beiden Kandidaten laut Umfragen nahezu gleichauf liegen.",
+    "m": "Die brasilianischen Wähler entscheiden in einer Stichwahl über das Amt des Präsidenten. In der ersten Runde konnte der rechtsextreme Senator und Sohn eines verurteilten Ex-Präsidenten, Flávio Bolsonaro, überraschend die meisten Stimmen auf sich vereinen und lag vor dem linken Amtsinhaber Luiz Inácio Lula da Silva. Durch diesen Erfolg galt Bolsonaro vor drei Wochen zunächst als Favorit, obwohl er zuvor in den meisten Umfragen zurückgelegen hatte. In den darauffolgenden Wochen konnte Lula im Wahlkampf jedoch an Boden gutmachen. Nun gehen beide Kontrahenten in ein extrem knappes und unvorhersehbares Rennen am Sonntag.",
+    "r": "Die Wahl bestimmt die politische Führung des größten südamerikanischen Landes und hat aufgrund der weltweiten Bedeutung Brasiliens erhebliche internationale Relevanz. Der Ausgang zwischen den stark polarisierten Kandidaten Lula und Bolsonaro hat weitreichende innen- und außenpolitische Konsequenzen.",
+    "srcs": [
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUWJPd1NZczVBOHZvTjQyQk9NS1FfYkxZSEt1NTVweTBHR3QwdktFU1paTFdJUG90NXY2NTBtYXE2RTM2U3N0MFBCaGFPUF80ZjhuZURnS0pNbk15NGtVTERNcF83UjFqY0liTlhGTXhYNWY4U28xM3lVX2xMNGhPeF9tRllBM3FuTFpjdUsyR3RQSVhUeHdZQU1nd0ZBb1A4QmVxbjk1dVY?oc=5",
+        "date": "2026-10-25T08:02:00.000Z"
+      },
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
+        "date": "2026-10-25T08:00:58.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUWJPd1NZczVBOHZvTjQyQk9NS1FfYkxZSEt1NTVweTBHR3QwdktFU1paTFdJUG90NXY2NTBtYXE2RTM2U3N0MFBCaGFPUF80ZjhuZURnS0pNbk15NGtVTERNcF83UjFqY0liTlhGTXhYNWY4U28xM3lVX2xMNGhPeF9tRllBM3FuTFpjdUsyR3RQSVhUeHdZQU1nd0ZBb1A4QmVxbjk1dVY?oc=5",
+    "agree": "Die Quellen stimmen überein, dass in Brasilien eine Stichwahl zur Präsidentschaft zwischen dem linken Kandidaten Lula und dem rechtsextremen Herausforderer stattfindet.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Berichtet kurz über die Stichwahl zwischen Lula und Bolsonaro mit Verweis auf The Guardian."
+      },
+      {
+        "name": "Guardian World",
+        "note": "Nennt detaillierte Hintergründe, dass Bolsonaro überraschend die erste Runde gegen den Amtsinhaber Lula gewann, obwohl er in den meisten Umfragen zurücklag, und dass die beiden Kandidaten nun nahezu gleichauf liegen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-564ca5d9c87bdc60",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-25T06:56:10.000Z",
+    "p": 4,
+    "st": "BY",
+    "city": "",
+    "t": "Elon Musk wirft der Ukraine militärische Nutzung von Starlink vor",
+    "s": "Tech-Milliardär Elon Musk hat der Ukraine vorgeworfen, das Satelliteninternet Starlink für Offensivangriffe und tödliche Drohneneinsätze zu missbrauchen. Gleichzeitig betonte er, dass die ukrainische Front ohne das System sofort zusammenbrechen würde. Die Vorwürfe folgen auf ein unklares Verwirrspiel um eine angebliche Drosselung des Dienstes.",
+    "m": "Elon Musk hat dem ukrainischen Militär vorgeworfen, Satellitenverbindungen von Starlink für aggressive Drohnenangriffe missbraucht zu haben. Zuvor hatte es ein Verwirrspiel darüber gegeben, wer das US-Satelliteninternet überhaupt gedrosselt hat, wobei sich Musk und die US-Regierung gegenseitig die Verantwortung zuschoben. Während der ukrainische Präsident Wolodymyr Selenskyj inzwischen erklärte, dass der Dienst wieder regulär laufe, wirft Musk Kiew nun den Verstoß bei der Nutzung vor. US-Präsident Trump widersprach der Darstellung des Tech-Milliardärs. Unklar bleibt weiterhin, welche genauen vertraglichen oder technischen Einschränkungen für den Einsatz von Starlink im Kriegsgebiet gelten und wie sich der Streit auf die künftige militärische Kommunikation der Ukraine auswirken wird.",
+    "r": "Die Kontroverse betrifft die kritische Kommunikationsinfrastruktur des ukrainischen Militärs und die Rolle privater Technologieanbieter im Krieg. Sie wirft Fragen zur Abhängigkeit von ausländischen Satellitensystemen und zu geopolitischen Spannungen auf.",
+    "srcs": [
+      {
+        "name": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/musk-wirft-ukraine-nutzung-von-starlink-fuer-offensivangriffe-vor,VZ2Vfvz",
+        "date": "2026-10-25T06:56:10.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUYkJuUkYyMmVLRGViVTFVTXNQbHZJRl9QMl9YOE5sM0JUTUJBMHpNeEJEZHF1eGR6VXBUcUNXWmZESW1QUFlpMTliWXQwQkl0b3lMS3FBeXdKZ3dQUWhyM0I4Nmkzd1Y0bVJUT0tRRDdhdHZNZlBMNFpwNEg?oc=5",
+        "date": "2026-10-25T06:45:00.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/politik/Musk-wirft-Ukraine-militaerische-Nutzung-von-Starlink-vor-id31455021.html",
+        "date": "2026-10-24T22:37:06.000Z"
+      }
+    ],
+    "url": "https://www.br.de/nachrichten/deutschland-welt/musk-wirft-ukraine-nutzung-von-starlink-fuer-offensivangriffe-vor,VZ2Vfvz",
+    "agree": "Die Quellen stimmen überein, dass Elon Musk der Ukraine den Missbrauch oder die militärische Nutzung von Starlink vorwirft.",
+    "diff": [
+      {
+        "name": "BR24 Bayern",
+        "note": "Berichtet, dass Musk warnt, ohne Starlink würde Kiews Front sofort zusammenbrechen, und dass US-Präsident Trump Musks Darstellung widerspricht."
+      },
+      {
+        "name": "Google News DE",
+        "note": "Verweist in der Überschrift auf tagesschau.de und nennt den Vorwurf einen Verstoß bei der Starlink-Nutzung."
+      },
+      {
+        "name": "ntv",
+        "note": "Erwähnt das vorherige Verwirrspiel um die Drosselung des Satelliteninternets, dass Musk und die US-Regierung aufeinander zeigen und dass Selenskyj angab, der Dienst laufe wieder."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
+    "id": "story-df94cf5c41a3b6e5",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-25T06:41:00.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Frankreich: Erneute Proteste und fast 1.000 Festnahmen",
+    "s": "Bei Protesten in Frankreich ist es trotz behördlicher Auflagen erneut zu gewalttätigen Auseinandersetzungen gekommen. Die Polizei setzte Tränengas und Wasserwerfer ein, um die Lage zu kontrollieren. Im Verlauf der Einsätze wurden fast 1.000 Menschen festgenommen. Die Sicherheitskräfte waren zuvor mit einem massiven Aufgebot in den Einsatz gestartet.",
+    "m": "Für den Protesttag hatte Frankreich 70.000 Sicherheitskräfte mobilisiert, die unter anderem mit Wasserwerfern und gepanzerten Fahrzeugen ausgerüstet wurden. Während es in Paris am Tag beziehungsweise zunächst ruhig blieb, eskalierten die Proteste am Abend deutlich. Die Polizei ging mit Tränengas und Wasserwerfern gegen die Demonstrierenden vor. Im Zuge dieser gewaltsamen Ausschreitungen kam es zu landesweit fast 1.000 Festnahmen. Weitere Details zum genauen Ausmaß der Sachschäden oder zu Verletzten nennen die Berichte bisher nicht.",
+    "r": "Die massiven Ausschreitungen und Festnahmen in Frankreich zeigen ein hohes Konfliktpotenzial und erfordern einen Großeinsatz von 70.000 Sicherheitskräften. Solche landesweiten Proteste sind von hoher gesellschaftlicher und politischer Relevanz für das Land.",
+    "srcs": [
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/ausland/frankreich-neue-proteste-demonstrationen-festnahmen-100.html",
+        "date": "2026-10-25T06:41:00.000Z"
+      },
+      {
+        "name": "t-online Nachrichten",
+        "url": "https://www.t-online.de/nachrichten/ausland/id_101496056/frankreich-proteste-eskalieren-am-abend-fast-1000-festnahmen.html",
+        "date": "2026-10-24T21:31:29.000Z"
+      }
+    ],
+    "url": "https://www.zdfheute.de/politik/ausland/frankreich-neue-proteste-demonstrationen-festnahmen-100.html",
+    "agree": "Die Quellen sind sich einig, dass es bei den Protesten in Frankreich zu fast 1.000 Festnahmen kam.",
+    "diff": [
+      {
+        "name": "ZDF heute",
+        "note": "Berichtet über den Einsatz von Tränengas und Wasserwerfern durch die Polizei und dass es trotz Auflagen zu Gewalt kam."
+      },
+      {
+        "name": "t-online Nachrichten",
+        "note": "Erwähnt den Einsatz von 70.000 Sicherheitskräften, gepanzerten Fahrzeugen und dass es in Paris zunächst ruhig blieb, bevor die Lage am Abend eskalierte."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-5b2a566ac51d2fd3",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-25T05:54:53.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Obama vergleicht Trump bei Wahlkampfauftritt mit Saddam Hussein",
+    "s": "Barack Obama hat bei Wahlkampfauftritten vor den Midterms scharfe Kritik am US-Präsidenten geübt. Er warf ihm Korruption und Inkompetenz vor und bezeichnete die anstehenden Kongresswahlen am 3. November als Notbremse. Donald Trump reagierte verärgert auf die Äußerungen.",
+    "m": "Im Rahmen der Wahlkampfauftritte kurz vor den Kongresswahlen am 3. November rechnete der ehemalige US-Präsident Barack Obama hart mit dem amtierenden Präsidenten Donald Trump ab. Obama nannte die Politik im Weißen Haus korrupt und inkompetent und forderte die Wähler auf, die Abstimmung als Notbremse zu nutzen, um den aus seiner Sicht herrschenden Wahnsinn einzudämmen. Berichten zufolge brachte Obama Trump mit einem Vergleich zu dem früheren irakischen Machthaber Saddam Hussein auf die Palme. Konkrete Hintergründe oder Reaktionen seitens des Weißen Hauses wurden in den Meldungen ansonsten nicht weiter ausgeführt.",
+    "r": "Die Äußerungen eines ehemaligen US-Präsidenten über seinen Nachfolger kurz vor wichtigen Wahlen haben direkte Relevanz für das politische Geschehen in den USA. Solche rhetorischen Auseinandersetzungen prägen die Mobilisierung der Wählerbasis vor den Midterms.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQmE4TFl6dXM4a2ZhdjhBTkJFZzM2M3pNMmFvX2d3ME9Oal9IT3ltRXlDakZHeHJQbll0LTc3ekxjVFBYQTU1dElJWVEtMFYwd2pJYW12MXo0UlFNc3RXSGQzLTR4Q0ZEZEZKbmFNaHdSYVA3azM2VWMyVFBVUDFjS0hBNVFsaHl4bXBSNzRsdVc5WHA1akhaNy1WSkFZVkUxc0xFcHducUo?oc=5",
+        "date": "2026-10-25T05:54:53.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/politik/Obama-bringt-Trump-mit-Saddam-Hussein-Vergleich-auf-die-Palme-id31455298.html",
+        "date": "2026-10-25T05:54:53.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQmE4TFl6dXM4a2ZhdjhBTkJFZzM2M3pNMmFvX2d3ME9Oal9IT3ltRXlDakZHeHJQbll0LTc3ekxjVFBYQTU1dElJWVEtMFYwd2pJYW12MXo0UlFNc3RXSGQzLTR4Q0ZEZEZKbmFNaHdSYVA3azM2VWMyVFBVUDFjS0hBNVFsaHl4bXBSNzRsdVc5WHA1akhaNy1WSkFZVkUxc0xFcHducUo?oc=5",
+    "agree": "Beide Quellen stimmen überein, dass Barack Obama bei Wahlkampfauftritten vor den Midterms scharfe Kritik an US-Präsident Trump geübt und die Wahlen als Notbremse bezeichnet hat.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Erwähnt in der Überschrift, dass Obama Trump mit Saddam Hussein verglichen hat und dieser darüber erbost ist."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-daa83b9e449f4227",
+    "c": "INT",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-25T05:04:07.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Audi investiert vier Milliarden Dollar in erstes US-Werk",
+    "s": "Der Automobilkonzern Audi plant den Bau eines eigenen Werks in den USA mit einem Investitionsvolumen von vier Milliarden Dollar. Bislang hat das Unternehmen alle Fahrzeuge in die USA importiert und dafür hohe Zölle entrichten müssen. Die Ankündigung erfolgt in Georgia während eines Wahlkampfauftritts von Donald Trump. Audi-Chef Gernot Döllner trat bei der Verkündung gemeinsam mit Trump auf.",
+    "m": "Bislang importierte Audi sämtliche Fahrzeuge in die USA, wodurch dem Konzern erhebliche Kosten durch hohe Zölle entstanden. Um diese Belastungen zu umgehen und vor Ort zu produzieren, errichtet Audi nun ein riesiges Werk in Georgia. Die Investition beläuft sich auf insgesamt vier Milliarden Dollar. Die Bekanntgabe dieser strategischen Entscheidung wurde ausgerechnet während eines aktuellen Wahlkampfauftritts von Donald Trump platziert. Der designierte oder betroffene US-Politiker durfte das Vorhaben gemeinsam mit Audi-CEO Gernot Döllner öffentlich verkünden. Bislang sind keine weiteren Details zu Produktionskapazitäten, geplanten Modellen oder dem genauen Zeitplan für die Fertigstellung des Werks bekannt.",
+    "r": "Die Investition markiert einen strategischen Wandel für Audi, da der Konzern durch die lokale Produktion in den USA künftig hohe Importzölle umgehen will. Die Verknüpfung der wirtschaftlichen Ankündigung mit einem politischen Wahlkampfauftritt von Donald Trump unterstreicht die enge Verzahnung von Handels- und US-Aussenpolitik.",
+    "srcs": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/audi-kuendigt-auf-trump-wahlkampfveranstaltung-sein-erstes-us-werk-an-accg-201618697.html",
+        "date": "2026-10-25T05:04:07.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/wirtschaft/audi-baut-fuer-vier-milliarden-dollar-eigenes-werk-in-den-usa-a-a6807fc7-f806-4c09-b692-90bfdd32e174#ref=rss",
+        "date": "2026-10-25T03:47:00.000Z"
+      }
+    ],
+    "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/audi-kuendigt-auf-trump-wahlkampfveranstaltung-sein-erstes-us-werk-an-accg-201618697.html",
+    "agree": "Beide Quellen stimmen überein, dass Audi ein vier Milliarden Dollar teures Werk in den USA baut, um bisherige Zollbelastungen durch den Import zu umgehen, und dass die Ankündigung zusammen mit Donald Trump erfolgt.",
+    "diff": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "note": "Erwähnt konkret den Bundesstaat Georgia als Standort des neuen Werks und nennt Audi-Chef Gernot Döllner namentlich."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Betont, dass Audi bisher alle Fahrzeuge in die USA importiert hat und der Konzern nun erstmals vor Ort produziert."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-e56878297b5f0190",
     "c": "DE",
     "o": "DE",
@@ -9,10 +500,10 @@
     "p": 2,
     "st": "BW",
     "city": "",
-    "t": "Finanznot in Städten: Kann bürgerschaftliches Engagement Einsparungen ausgleichen?",
-    "s": "Städte und Gemeinden stehen vor enormen finanziellen Herausforderungen, was zu spürbaren Kürzungen führt. Betroffen sind Bereiche wie Freibäder, die Kulturförderung und die Sanierung maroder Schulen. Angesichts dieser Sparzwänge greifen Bürger vermehrt zu Eigeninitiative. Es stellt sich die Frage, in welchem Maße dieses Engagement staatliche Aufgaben auffangen kann.",
-    "m": "Kommunen in Deutschland klagen über klamme Kassen und müssen drastische Einsparungen vornehmen. Die finanziellen Engpässe zeigen sich im Alltag der Menschen deutlich, etwa durch geschlossene Freibäder, eine reduzierte Kulturförderung oder Sanierungsstaus an Schulen. Als Reaktion darauf werden einige Bürger selbst aktiv, um Angebote zu erhalten oder Missstände zu lindern. Die Debatte dreht sich nun darum, ob und in welchem Rahmen dieses freiwillige Engagement einen verlässlichen Ersatz für kommunale Leistungen darstellen kann. Kritiker und Befürworter diskutieren über die Grenzen der Belastbarkeit von Ehrenamtlichen. Dabei bleibt offen, welche strukturellen Lösungen es für die Finanzkrise der Kommunen abseits privater Initiativen gibt.",
-    "r": "Die finanzielle Notlage von Kommunen zwingt zu Kürzungen in der Daseinsvorsorge, wodurch bürgerschaftliches Engagement als mögliche Kompensation in den Fokus rückt. Die Entwicklung betrifft direkt die Lebensqualität der Bürger und berührt grundlegende Fragen der Aufgabenverteilung zwischen Staat und Gesellschaft.",
+    "t": "Wenn Städte sparen müssen: Was kann freiwilliges Engagement von Bürgern ausgleichen?",
+    "s": "Angesichts leerer Kassen müssen Städte und Gemeinden massiv sparen, was direkt bei den Bürgern durch geschlossene Freibäder, gekürzte Kulturförderung oder marode Schulen spürbar wird. Als Reaktion darauf werden einige Bürger selbst aktiv, um kommunale Angebote zu erhalten. Nun stellt sich die Frage, ob dieses freiwillige Engagement tatsächlich als dauerhafte Lösung dienen kann.",
+    "m": "Die Haushaltslage vieler Städte und Gemeinden ist angespannt, weshalb drastische Sparmaßnahmen unumgänglich geworden sind. Diese Kürzungen betreffen zentrale Bereiche des öffentlichen Lebens und der Infrastruktur, darunter geschlossene Freibäder, reduzierte Mittel für die Kulturförderung sowie Sanierungsstaus an maroden Schulen. Die direkten Folgen bekommen die Bürger im Alltag deutlich zu spüren. In dieser Situation übernehmen in einigen Kommunen ehrenamtliche Helfer oder Bürgerinitiativen Aufgaben, um Angebote und Einrichtungen vor Ort zu retten. Offen bleibt jedoch, in welchem Maße dieser freiwillige Einsatz langfristig und flächendeckend die strukturellen Defizite öffentlicher Haushaltsführung ausgleichen kann und wo die Grenzen des Ehrenamts liegen.",
+    "r": "Die Debatte ist relevant, da finanzielle Engpässe von Kommunen zunehmend zu Einschränkungen der Daseinsvorsorge führen und bürgerschaftliches Engagement als mögliche Alternative diskutiert wird.",
     "srcs": [
       {
         "name": "SWR Aktuell",
@@ -26,15 +517,51 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/wenn-staedte-sparen-muessen-sollen-buerger-mehr-aufgaben-uebernehmen-100.html",
-    "agree": "Beide Quellen stimmen überein, dass Städte und Gemeinden aufgrund von Sparzwängen Leistungen kürzen müssen und Bürger als Reaktion darauf teils selbst aktiv werden.",
+    "agree": "Beide Quellen stimmen überein, dass Städte und Gemeinden aufgrund von Sparzwängen Leistungen wie Freibäder, Kulturförderung und Schulen kürzen müssen und Bürger teilweise selbst aktiv werden.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-87f598a319c2e11a",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-25T04:15:03.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Serbien wählt: Steht Präsident Vucic vor der Entmachtung?",
+    "s": "In Serbien findet heute eine wichtige Wahl statt, bei der der langjährige Staatschef Aleksandar Vucic anstrebt, Premier zu werden. Nach 14 Jahren an der Macht steht er jedoch unter erheblichem Druck. Eine starke Protestbewegung von Studenten könnte ihn womöglich entmachten.",
+    "m": "Die politische Zukunft von Serbiens autoritärem Präsidenten Aleksandar Vucic steht auf dem Spiel, da die Wähler heute an die Urnen gerufen sind. Vucic plant, nach dem Wahlausgang das Amt des Premierministers zu übernehmen. Seine langjährige Herrschaft von 14 Jahren wird mittlerweile jedoch von einer massiven Protestbewegung herausgefordert, die von Studenten getragen wird. Diese Bewegung hat das Potenzial, den politischen Status quo grundlegend zu erschüttern und den langjährigen Machthaber zu stürzen. Neben den politischen Spannungen stehen bei den Wahlen auch Themen wie Korruption im Raum, wobei Berichte auf potenziell schwerwiegende Missstände hinweisen. Die Beteiligten und Beobachter blicken gespannt auf den Wahlausgang und die Reaktion der regierungskritischen Bevölkerungsgruppen.",
+    "r": "Die Wahlen in Serbien könnten nach 14 Jahren zu einem Machtwechsel führen, was für die politische Stabilität der Region von großer Bedeutung ist. Die Beteiligung der studentischen Protestbewegung zeigt eine spürbare gesellschaftliche Veränderung und Unzufriedenheit mit der bisherigen Führung.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/ausland/europa/serbien-wahl-portraet-vucic-100.html",
+        "date": "2026-10-25T04:15:03.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNek1CU2JJVUtFVEFtVXlKcTQ3eUFZS1pQUXpXSTdWSXcwMHpIQ2huWG1vZ3NTd3hHMXVmdFNKXzVSUlRZenVoX3M1bFJWMTdrMzBsWUdqbzljRmZ3WUFpTXk2bFpFejhmeVdiR2c5ellKbHlRZUZTMVRtcUFocnp5S0kwNA?oc=5",
+        "date": "2026-10-25T03:10:00.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/ausland/europa/serbien-wahl-portraet-vucic-100.html",
+    "agree": "Alle Quellen stimmen darin überein, dass in Serbien Wahlen stattfinden und der langjährige Staatschef Aleksandar Vucic durch eine starke studentische Protestbewegung nach 14 Jahren an der Macht bedroht wird.",
     "diff": [
       {
         "name": "SWR Aktuell",
-        "note": "Die Quelle formuliert die Fragestellung bezüglich des bürgerschaftlichen Engagements mit dem Begriff ausgleichen."
+        "note": "Bezeichnet Vucic explizit als autoritären Präsidenten."
       },
       {
-        "name": "Tagesschau Regional Baden-Württemberg",
-        "note": "Die Quelle formuliert die Fragestellung bezüglich des bürgerschaftlichen Engagements mit dem Begriff ausrichten."
+        "name": "Tagesschau",
+        "note": "Erwähnt einen begleitenden Hintergrundbericht von Oliver Soos mit der Fragestellung, wer Vucic ist."
+      },
+      {
+        "name": "Google News DE",
+        "note": "Bringt das Thema Korruption im Zusammenhang mit den Wahlen in Serbien ins Spiel."
       }
     ],
     "chg": "",
@@ -196,6 +723,47 @@
     "independent": 2
   },
   {
+    "id": "story-b3ad547e2d9a2dc7",
+    "c": "INT",
+    "o": "PT",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-25T03:39:01.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Portugal: Demonstrationen für das Recht auf Wohnen in mehreren Städten",
+    "s": "In mehreren Städten Portugals fanden an einem Samstag Demonstrationen für das Recht auf Wohnen statt. Die Proteste brachten zahlreiche Menschen auf die Straße, um auf die Wohnungsnot aufmerksam zu machen. Begleitet wurden die Aktionen unter anderem von Polizeieinsätzen.",
+    "m": "Am Samstag gingen in Portugal zahlreiche Menschen im Rahmen von Protesten für das Recht auf Wohnen auf die Straße. Die Kundgebungen fanden in mehreren Städten des Landes statt. Bereits in den frühen Morgenstunden kam es zu Auseinandersetzungen und zwei Polizeieinsätzen gegen Besetzer von Plätzen in den Großstädten Lissabon und Porto. Die Demonstrationen spiegeln die anhaltenden Spannungen und die gesellschaftliche Unzufriedenheit bezüglich der Wohnsituation und der steigenden Immobilienpreise im Land wider. Weitere Details zu den Forderungen der Demonstrierenden oder den genauen Folgen der Polizeieinsätze wurden in den Berichten nicht genannt.",
+    "r": "Die Proteste zeigen eine anhaltende gesellschaftliche Unzufriedenheit mit der Wohnsituation in Portugal. Das Vorgehen der Polizei in den Großstädten verdeutlicht die Zuspitzung der Lage rund um besetzte Plätze.",
+    "srcs": [
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOC1wZVhPSHRTWTNXbldoQ0hkaGNxNHlncHBxWFJxenpCbXVUc1NHWWlOb1VmYXI3TEpxR01ETnBnb2lDdmpkMVlucmJsanBVblNVMHUyVWlwZmlQU3dwS3d4RkFNWDlBWkVweTVycnJ4Qk8yOWUwOV9wY0RsZnBZUVhIYXBkaUQxSVpYeWY0ZFFlUUk5ZE8wb01qQzhiREhMUkFZX3V4a0Mxc182eDNyX3I5OVExTHI0aG80VGN3?oc=5",
+        "date": "2026-10-25T03:39:01.000Z"
+      },
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/economia/protestos-pelo-direito-a-habitacao-desceram-a-rua-em-varias-cidades-do-pais_e1773996",
+        "date": "2026-10-25T03:16:50.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOC1wZVhPSHRTWTNXbldoQ0hkaGNxNHlncHBxWFJxenpCbXVUc1NHWWlOb1VmYXI3TEpxR01ETnBnb2lDdmpkMVlucmJsanBVblNVMHUyVWlwZmlQU3dwS3d4RkFNWDlBWkVweTVycnJ4Qk8yOWUwOV9wY0RsZnBZUVhIYXBkaUQxSVpYeWY0ZFFlUUk5ZE8wb01qQzhiREhMUkFZX3V4a0Mxc182eDNyX3I5OVExTHI0aG80VGN3?oc=5",
+    "agree": "Die Quellen stimmen überein, dass am Samstag in Portugal Proteste für das Recht auf Wohnen stattfanden.",
+    "diff": [
+      {
+        "name": "Google News Portugal",
+        "note": "Verweist auf einen Artikel der RTP bezüglich der landesweiten Proteste für das Recht auf Wohnen."
+      },
+      {
+        "name": "RTP Notícias",
+        "note": "Liefert die konkreten Details, dass die Proteste am Samstag stattfanden und es während der madrugada zu zwei Polizeieinsätzen gegen Besetzer in Lissabon und Porto kam."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-98eb8cf206dcf54b",
     "c": "INT",
     "o": "DE",
@@ -237,6 +805,43 @@
     "independent": 2
   },
   {
+    "id": "story-1074ffcd8e438674",
+    "c": "INT",
+    "o": "UK",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-25T02:27:15.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Obama kritisiert Trump im Vorfeld der US-Midterm-Wahlen",
+    "s": "Der ehemalige US-Präsident Barack Obama hat den amtierenden Präsidenten Donald Trump im Rahmen des Wahlkampfs für die Demokraten scharf kritisiert. Die Zwischenwahlen im Kongress wurden von ihm als entscheidende Gelegenheit bezeichnet, um Fehlentwicklungen der aktuellen Regierung entgegenzuwirken.",
+    "m": "Barack Obama hat sich im Vorfeld der bevorstehenden US-Zwischenwahlen (Midterms) aktiv in den Wahlkampf eingeschaltet und dabei deutliche Kritik an der Politik von Präsident Donald Trump geübt. In seinen Äußerungen bezeichnete er die anstehenden Wahlen als die beste und letzte Chance, um einen Teil der aus seiner Sicht unvernünftigen Politik der aktuellen Administration einzuschränken. Die Demokraten hoffen durch den prominenten Auftritt von Obama auf zusätzlichen Aufschwung in den umkämpften Wahlkreisen. Weitere Details zum genauen zeitlichen Ablauf des Auftritts oder konkreten Reaktionen der Gegenseite gehen aus den Berichten nicht hervor. Die offenen Fragen betreffen insbesondere die tatsächlichen Auswirkungen von Obamas Wahlkampfunterstützung auf das Wahlergebnis.",
+    "r": "Die Äußerungen eines ehemaligen US-Präsidenten im Vorfeld wichtiger Wahlen sind von allgemeiner politischer Bedeutung für das Machtgefüge in den USA. Sie verdeutlichen die polarisierte politische Landschaft und den Wahlkampfstil der beteiligten Parteien.",
+    "srcs": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-25T02:27:15.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oN3NlRVJ0TWk4bW5vVHRUblM0c3JUS3pyZzVSLUcyNTBSa0dpZTl1aXpXbVlPeU9qT2t0S3JIdm9Jb2JzSWxRZVRObm4teDJqSEU1ZVFLRENZbEk?oc=5",
+        "date": "2026-10-25T02:27:15.000Z"
+      }
+    ],
+    "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss",
+    "agree": "Beide Quellen stimmen darin überein, dass Barack Obama Donald Trump im Rahmen des Wahlkampfs für die Demokraten vor den Midterm-Elections attackiert hat.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Verweist explizit darauf, dass die Meldung von der BBC stammt."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-fa2ddb10641aa2a9",
     "c": "INT",
     "o": "DE",
@@ -246,10 +851,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Randalierende Jugendliche in Barcelona: Rund 100 Festnahmen nach Plünderungen",
-    "s": "Im Zentrum von Barcelona sind Hunderte Jugendliche einem Protestaufruf gefolgt und haben randaliert. Dabei kam es zu Plünderungen von Geschäften und dem Inbrandsetzen von Müllcontainern. Die katalanische Polizei griff ein und meldete im Zuge der Ausschreitungen rund 100 Festnahmen. Das Ausmaß der Sachbeschädigungen wird derzeit ermittelt.",
-    "m": "Nach einem Aufruf versammelten sich Hunderte junge Menschen im Zentrum der katalanischen Hauptstadt Barcelona. Die Situation eskalierte zu gewaltsamen Randale, bei denen Müllcontainer angezündet und Geschäfte gezielt geplündert wurden. Die lokale Polizei war mit starken Kräften im Einsatz, um die Kontrolle über die Straßen zurückzugewinnen. Im Verlauf der Einsätze wurden etwa 100 Personen festgenommen. Die Hintergründe des ursprünglichen Protestaufrufs sowie das genaue Ausmaß des materiellen Schadens und möglicher Verletzter sind Gegenstand polizeilicher Ermittlungen. Die Behörden prüfen nun die genauen Abläufe der Krawalle, um Verantwortliche für die Plünderungen zur Rechenschaft zu ziehen.",
-    "r": "Die Ausschreitungen und Plünderungen in einer europäischen Großstadt mit rund 100 Festnahmen stellen ein bedeutendes sicherheitspolitisches Ereignis dar. Die Eskalation von Jugendprotesten zu massiver Gewalt und Eigentumsdelikten verdeutlicht potenzielle urbane Konfliktpotenziale.",
+    "t": "Randalierende Jugendliche sorgen für Ausschreitungen und Festnahmen in Barcelona",
+    "s": "Im Zentrum von Barcelona ist es im Anschluss an einen Jugendprotest zu schweren Ausschreitungen gekommen. Randalierende Jugendliche zündeten Müllcontainer an und plünderten Geschäfte. Die katalanische Polizei reagierte mit einem Großeinsatz und nahm rund 100 Personen fest.",
+    "m": "Hunderte junge Menschen sind im Zentrum von Barcelona einem Protestaufruf gefolgt, der in gewaltsame Ausschreitungen umschlagen ist. Die Teilnehmer zündeten Müllcontainer an und richteten erhebliche Sachschäden an. Zudem kam es gezielt zu Plünderungen von Geschäften in der katalanischen Hauptstadt. Die Sicherheitskräfte mussten mit starken Kräften ausrücken, um die Lage unter Kontrolle zu bringen. Im Rahmen der Polizeieinsätze wurden rund 100 Personen festgenommen. Die genauen Hintergründe des ursprünglichen Protestaufrufs und das Ausmaß der Schäden sind Gegenstand weiterer Ermittlungen.",
+    "r": "Die Ausschreitungen und Plünderungen in einer europäischen Großstadt verdeutlichen das Gefahrenpotential gewaltbereiter Jugendansammlungen. Mit rund 100 Festnahmen und brennenden Müllcontainern ist die öffentliche Sicherheit massiv beeinträchtigt worden.",
     "srcs": [
       {
         "name": "Google News DE",
@@ -263,15 +868,15 @@
       }
     ],
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa3p1Q0pxUGdnOUpBWS02RTFlNm5oY2duZkh2azVmVlZGOUQzVENhaFU3b1g3eXBiUWxpd2VKWHZVOWs4ZUdWeGp4bzJwZTIzdllDRExfMTJWOTNWQVpMWENlN2VCcDBRa3ZLYUJBNU4yNFRHblEtX1JMbG1hVTFUdnBOb09mZ3ltX0tsa3dWVUNkLUdB?oc=5",
-    "agree": "Beide Quellen berichten übereinstimmend über Jugendrandale, Plünderungen und Gewalt in Barcelona sowie rund 100 Festnahmen.",
+    "agree": "Die Quellen stimmen überein, dass es in Barcelona zu Jugendrandalen mit Plünderungen, brennenden Müllcontainern und rund 100 Festnahmen kam.",
     "diff": [
       {
         "name": "Google News DE",
-        "note": "Erwähnt zusätzliche Schlagzeilen und Meinungen im Nachrichtendienst."
+        "note": "Erwähnt zusätzliche Schlagzeilen und Meinungen zum Thema in Google News."
       },
       {
         "name": "ntv",
-        "note": "Nennt konkret das Zentrum der Hauptstadt Kataloniens als Tatort und das Inbrandsetzen von Müllcontainern."
+        "note": "Nennt konkret das Zentrum der Hauptstadt Kataloniens als Schauplatz und beschreibt den Ausgangspunkt als Protestaufruf, dem Hunderte junge Menschen folgten."
       }
     ],
     "chg": "",
@@ -313,6 +918,47 @@
       {
         "name": "WELT",
         "note": "ordnet die Summe als eine der höchsten Entschädigungssummen im Zuge einer US-weiten Klagewelle wegen Missbrauchs durch Geistliche ein"
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-b8c46fe726f3165e",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-25T02:00:00.000Z",
+    "p": 2,
+    "st": "MV",
+    "city": "",
+    "t": "Sommerzeit in Deutschland beendet: Uhren um eine Stunde zurückgestellt",
+    "s": "In der Nacht zum 25. Oktober 2026 wurden die Uhren in Deutschland um eine Stunde zurückgestellt. Damit ist die Sommerzeit offiziell beendet. Durch die Umstellung wird es abends wieder früher dunkel. Viele Menschen stehen der Regelung jedoch kritisch gegenüber.",
+    "m": "Die Umstellung von der Sommer- auf die Normalzeit erfolgte in der Nacht zum 25. Oktober 2026, indem die Uhren um eine Stunde zurückgestellt wurden. Dies führt dazu, dass es in den Abendstunden nun wieder früher dunkel wird. Während die gewonnene Stunde Schlaf in der ersten Nacht von manchen als Vorteil wahrgenommen wird, zeigt sich ein Großteil der Bevölkerung unzufrieden mit der fortbestehenden Zeitumstellung. Weitere konkrete Hintergründe, politische Beschlüsse oder wirtschaftliche Folgen wurden in den Berichten nicht genannt.",
+    "r": "Die alljährliche Zeitumstellung betrifft den gesamten Alltag der Bevölkerung und führt regelmäßig zu Diskussionen über deren Sinnhaftigkeit. Das Ende der Sommerzeit markiert zudem die Rückkehr zur mitteleuropäischen Normalzeit.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Mecklenburg-Vorpommern",
+        "url": "https://www.ndr.de/ratgeber/zeitumstellung-2026-die-sommerzeit-ist-bald-vorbei,zeitumstellung164.html",
+        "date": "2026-10-25T02:00:00.000Z"
+      },
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-sommerzeit-138.html",
+        "date": "2026-10-25T01:11:58.000Z"
+      }
+    ],
+    "url": "https://www.ndr.de/ratgeber/zeitumstellung-2026-die-sommerzeit-ist-bald-vorbei,zeitumstellung164.html",
+    "agree": "Beide Quellen stimmen überein, dass in der Nacht zum 25. Oktober die Sommerzeit beendet und die Uhren um eine Stunde zurückgestellt wurden.",
+    "diff": [
+      {
+        "name": "Tagesschau Regional Mecklenburg-Vorpommern",
+        "note": "Erwähnt zusätzlich, dass es abends nun wieder früher dunkel wird."
+      },
+      {
+        "name": "Tagesschau",
+        "note": "Berichtet zusätzlich, dass die meisten Menschen mit der Zeitumstellung nicht zufrieden sind."
       }
     ],
     "chg": "",
@@ -488,10 +1134,10 @@
     "p": 4,
     "st": "",
     "city": "",
-    "t": "Über eine Million Lula-Anhänger demonstrieren vor Stichwahl in Brasilien",
-    "s": "Am Vorabend der brasilianischen Präsidentschaftsstichwahl haben nach Angaben über eine Million Unterstützer des linken Präsidenten Luiz Inácio Lula da Silva in Rio de Janeiro demonstriert. Die Kundgebung auf einem bekannten Strand soll dem Amtsinhaber vor dem entscheidenden Urnengang Schwung verleihen. In den Umfragen liegen Lula und sein rechtsextremer Herausforderer Flávio Bolsonaro Kopf an Kopf.",
-    "m": "Fast 159 Millionen Wahlberechtigte sind in Brasilien dazu aufgerufen, am Sonntag ihre Stimme in der Stichwahl abzugeben. Bei dem großen Protestmarsch auf Rios berühmtestem Strand versammelten sich nach Berichten mehr als eine Million Anhänger des amtierenden linken Präsidenten Luiz Inácio Lula da Silva. Das Lager hofft auf eine historische Aufholjagd gegen den rechtsextremen Kontrahenten Flávio Bolsonaro. Beide Kandidaten gehen nach einem überraschenden Ausgang der ersten Runde mit völlig ausgeglichenen Umfragewerten in das entscheidende Duell. Die Wahl gilt als richtungsweisend für die politische Zukunft des südamerikanischen Landes. Weitere Details zum Ablauf der Sicherheitsvorkehrungen oder genauen Prognosen wurden zunächst nicht genannt.",
-    "r": "Die Präsidentschaftswahl in Brasilien mit fast 159 Millionen Wahlberechtigten und einem engen Kopf-an-Kopf-Rennen zwischen Lula da Silva und Flávio Bolsonaro hat hohe internationale Bedeutung für die politische Ausrichtung des Landes.",
+    "t": "Über eine Million Lula-Unterstützer demonstrieren vor Stichwahl in Brasilien",
+    "s": "Vor der Stichwahl der brasilianischen Präsidentschaftswahl versammelten sich über eine Million Anhänger des linken Amtsinhabers Luiz Inácio Lula da Silva zu einer Großkundgebung an Rios berühmtem Strand. Knapp 159 Millionen Menschen sind am Sonntag aufgerufen, ihre Stimme in dem umkämpften Duell abzugeben. In den Umfragen liegen der amtierende Präsident und sein rechtsextremer Herausforderer Flávio Bolsonaro Kopf an Kopf.",
+    "m": "Die Großkundgebung auf Rios Strand soll als kräftiger Schub für die historische Aufholjagd von Lula da Silva im bevorstehenden Wahlfinale dienen. Die bevorstehende Stichwahl am Sonntag markiert den Höhepunkt einer stark polarisierten politischen Auseinandersetzung in Brasilien. Insgesamt sind fast 159 Millionen Wahlberechtigte registriert, um über die künftige Führung des südamerikanischen Landes zu entscheiden. Der Wahlkampf war zuvor durch einen überraschend starken ersten Wahlgang des rechtsextremen Herausforderers Flávio Bolsonaro geprägt worden. Beobachter bewerten das Rennen als völlig offen, da die beiden Kontrahenten in den letzten Umfragen gleichauf liegen. Die Behörden bereiten sich auf einen massiven Andrang an den Wahlurnen und mögliche Spannungen vor. Offen bleibt, wie sich die jüngsten Massenproteste und Kundgebungen kurzfristig auf die noch unentschlossenen Wähler auswirken werden.",
+    "r": "Die Präsidentschaftswahl in Brasilien ist von internationaler Tragweite, da sie das politische und wirtschaftliche Schicksal des größten südamerikanischen Landes bestimmt. Das enge Rennen zwischen den Kandidaten Lula da Silva und Flávio Bolsonaro polarisiert die Gesellschaft tief und mobilisiert Millionen Wähler.",
     "srcs": [
       {
         "name": "Guardian World",
@@ -505,11 +1151,11 @@
       }
     ],
     "url": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
-    "agree": "Die Quellen stimmen überein, dass über eine Million Unterstützer von Lula da Silva vor der Stichwahl in Brasilien demonstriert haben.",
+    "agree": "Die Quellen stimmen überein, dass über eine Million Unterstützer von Lula da Silva kurz vor der Stichwahl der brasilianischen Präsidentschaftswahl in Rio demonstriert haben.",
     "diff": [
       {
         "name": "Google News World",
-        "note": "Verweist lediglich auf den Artikel des Guardian und enthält keine eigenständigen Zusatzinformationen."
+        "note": "Verweist lediglich auf den Artikel des Guardian ohne zusätzliche eigene Informationen."
       }
     ],
     "chg": "",
@@ -547,6 +1193,47 @@
       {
         "name": "Google News Portugal",
         "note": "Verweist auf RTP als ursprüngliche Quelle und enthält HTML-Links im Text."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-5ab11b18c48662a1",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-24T20:12:00.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Hunderttausende Demonstranten und Ausschreitungen in Frankreich",
+    "s": "In Frankreich haben an einem Samstag Hunderttausende Menschen gegen nicht näher genannte Missstände demonstriert. Während die Kundgebungen anfangs vielerorts ruhig blieben, spitzte sich die Lage am Abend in Paris und weiteren Städten zunehmend zu. Es kam zu heftigen Zusammenstößen zwischen Polizei und Demonstranten. Die genauen Auslöser und Forderungen der Proteste werden in den Berichten nicht genannt.",
+    "m": "Am Samstag gingen in Frankreich Hunderttausende Bürger auf die Straße, um zu demonstrieren. Die zentrale Kundgebung in der Hauptstadt Paris verlief zunächst weitgehend friedlich und ruhig. Doch im Laufe des Abends kippte die Stimmung, und die Situation spitzte sich in Paris sowie in mehreren anderen französischen Städten zu. Dabei kam es zu gewaltsamen Zusammenstößen zwischen Einsatzkräften der Polizei und den Demonstrierenden. Die Lage eskalierte so stark, dass die Sicherheitskräfte massiv eingreifen mussten. In diesem Zusammenhang nahm die französische Polizei im Verlauf der Ausschreitungen rund 1000 Personen fest. Über Verletzte, genaue Sachschäden oder die konkreten politischen Hintergründe der Proteste machen die vorliegenden Berichte keine Angaben.",
+    "r": "Die massiven Ausschreitungen und die hohe Zahl von rund 1000 Festnahmen bei landesweiten Protesten in einem europäischen Nachbarland sind von hoher sicherheits- und innenpolitischer Relevanz. Solche Ereignisse können weitreichende Auswirkungen auf die öffentliche Sicherheit und den politischen Diskurs in Frankreich haben.",
+    "srcs": [
+      {
+        "name": "Süddeutsche Zeitung",
+        "url": "https://www.sueddeutsche.de/politik/frankreich-demonstrationen-paris-lyon-lille-li.3568339",
+        "date": "2026-10-24T20:12:00.000Z"
+      },
+      {
+        "name": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/politik/ausland/proteste-in-frankreich-ausschreitungen-und-1000-festnahmen-accg-201617989.html",
+        "date": "2026-10-24T19:55:41.000Z"
+      }
+    ],
+    "url": "https://www.sueddeutsche.de/politik/frankreich-demonstrationen-paris-lyon-lille-li.3568339",
+    "agree": "Beide Quellen stimmen darin überein, dass am Samstag in Frankreich Hunderttausende Demonstranten auf der Straße waren und es am Abend in mehreren Städten zu Zusammenstößen mit der Polizei kam.",
+    "diff": [
+      {
+        "name": "Süddeutsche Zeitung",
+        "note": "Berichtet konkret, dass die zentrale Kundgebung in Paris anfangs weitgehend friedlich blieb und dass die Polizei etwa 1000 Menschen festnahm."
+      },
+      {
+        "name": "Frankfurter Allgemeine",
+        "note": "Erwähnt allgemein, dass es zunächst recht ruhig anlief und sich die Lage am Abend zuspitzte, nennt jedoch keine konkreten Zahlen zu Festnahmen."
       }
     ],
     "chg": "",
@@ -604,9 +1291,9 @@
     "st": "",
     "city": "",
     "t": "Six Flags öffnet Goliath-Achterbahn nach tödlichem Unfall mit Sicherheitsgurten wieder",
-    "s": "Nach dem tödlichen Unfall eines Fahrgasts Anfang des Monats plant der Freizeitpark Six Flags die Wiedereröffnung seiner Achterbahn Goliath in Georgia. Zuvor war die Attraktion vorübergehend geschlossen worden. Nun werden zusätzliche Sicherheitsgurten an den Sitzen der Bahn installiert.",
-    "m": "Der Vorfall ereignete sich auf der Achterbahn Goliath, die Fahrgäste zunächst 165 Fuß und anschließend weitere 180 Fuß in die Tiefe stürzen lässt. Bei dem Todesopfer handelte es sich um den 42-jährigen Vater und Pädagogen Hassan Jihad Ibn Kariem, der während der Fahrt aus seinem Sitz geschleudert wurde. Auf dem Weg nach unten kollidierte er mit anderen Wagen der Bahn. Als Reaktion auf den Unfall hat der Betreiber Six Flags die Installation von Sicherheitsgurten angeordnet, um den Betrieb nach der temporären Schließung sicherer zu gestalten. Weitere Details zur genauen Unfallursache oder dem genauen Termin der Wiedereröffnung wurden in den Berichten nicht genannt. Der Fall wirft Fragen zur generellen Sicherheit von Großachterbahnen und den verwendeten Rückhaltesystemen auf.",
-    "r": "Der Vorfall verdeutlicht Sicherheitsrisiken bei extremen Fahrgeschäften und führt zu konkreten Nachrüstungen in einem großen Freizeitpark. Die Maßnahme betrifft die Betriebssicherheit von Vergnügungsparks in den USA.",
+    "s": "Nach dem tödlichen Unfall eines 42-jährigen Vaters und Erziehers Anfang des Monats wird die Achterbahn Goliath im Freizeitpark Six Flags in Georgia wiedereröffnet. Der Betrieb war nach dem Sturz aus der Attraktion vorübergehend eingestellt worden. Nun hat der Betreiber reagiert und zusätzliche Sicherheitsmaßnahmen angekündigt.",
+    "m": "Die Achterbahn Goliath von Six Flags in Georgia soll nach einem tödlichen Unfall wieder für Besucher geöffnet werden. Bei dem Vorfall Anfang des Monats stürzte der 42-jährige Hassan Jihad Ibn Kariem aus seinem Sitz und kam zu Tode. Die Bahn zeichnet sich durch einen steilen Absturz von 165 Fuß und einen weiteren Fall von 180 Fuß aus. Auf dem Weg nach unten prallte der Mann gegen andere Wagen der Attraktion. Als direkte Konsequenz des Unfalls wurde die Achterbahn vorübergehend geschlossen. Nun rüstet der Freizeitpark die Anlage mit zusätzlichen Sicherheitsgurten aus, um künftige Risiken zu minimieren. Die genauen Umstände des Unfalls wurden nach dem Vorfall untersucht, was zur aktuellen Nachrüstung führte.",
+    "r": "Der Vorfall und die darauf folgenden technischen Nachrüstungen sind von Bedeutung für die Sicherheit in Freizeitparks. Sie werfen Fragen zum Betrieb großer Fahrgeschäfte und deren Absicherung auf.",
     "srcs": [
       {
         "name": "Google News World",
@@ -620,15 +1307,15 @@
       }
     ],
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWE9HMHdQWkoxbzJIOEdIb0gzTFN1ckhyV1ZsdmVMQmhJMkVzbTN2NUxvU3ZpdnZ1U044dGI0dXc4bGs3T09hbHZtWU5YQXU3RzN1ZWkxWTctTGVkaFI3WVFrM3NuclFsZFM3d2xsR0o1Z3pEdHpfNmpKc3oweTI4THFMLXdnSEU3VmFBSk1oTUl4UlE?oc=5",
-    "agree": "Die Quellen stimmen überein, dass Six Flags die Achterbahn Goliath nach einem tödlichen Unfall mit Sicherheitsgurten wiedereröffnen will.",
+    "agree": "Die Quellen stimmen darin überein, dass die Goliath-Achterbahn nach einem tödlichen Unfall mit Sicherheitsgurten wiedereröffnet wird.",
     "diff": [
       {
         "name": "Google News World",
-        "note": "Berichtet ebenfalls über die Wiedereröffnung der Goliath-Achterbahn mit neuen Sicherheitsgurten nach einem Todesfall, liefert jedoch keinen Fließtext."
+        "note": "Die Quelle verweist auf The Guardian und nennt die Kernmeldung zur Wiedereröffnung mit Sicherheitsgurten nach einem Todesfall."
       },
       {
         "name": "Guardian World",
-        "note": "Liefert die Hintergründe zum Unfall, nennt das Opfer Hassan Jihad Ibn Kariem, beschreibt den Sturz aus 165 und 180 Fuß Höhe sowie die Kollision mit anderen Wagen."
+        "note": "Die Quelle liefert detaillierte Hintergründe, darunter den Namen des Opfers (Hassan Jihad Ibn Kariem, 42 Jahre alt), die genaue Beschreibung der Achterbahn mit Absturzhöhen sowie die Angabe, dass er beim Sturz mit anderen Wagen kollidierte."
       }
     ],
     "chg": "",
@@ -722,10 +1409,10 @@
     "p": 2,
     "st": "SH",
     "city": "",
-    "t": "Sebastian Fitzek begeistert Publikum bei ausverkaufter Lesung in Heide",
-    "s": "Der Bestsellerautor Sebastian Fitzek hat bei einer ausverkauften Lesung in Heide das Publikum begeistert. Dabei sprach er über seine Anfänge als Autor und schlaflose Nächte in Nachtzügen. Die Veranstaltung bot den Zuhörern spannende Einblicke in sein Schaffen.",
-    "m": "Bei der ausverkauften Veranstaltung in Heide stand unter anderem sein 25. Thriller mit dem Titel \"Der Nachtzug\" im Mittelpunkt. In dem Roman trifft ein Anwalt auf die mutmaßliche Mörderin seiner Frau, was eine rasante Schnitzeljagd auslöst. Fitzek berichtete dem Publikum zudem von persönlichen Erlebnissen und den Anfängen seiner schriftstellerischen Karriere. Auch seine eigenen Erfahrungen mit schlaflosen Nächten in Nachtzügen flossen in die Erzählungen ein und trugen zur besonderen Atmosphäre des Abends bei.",
-    "r": "Die Meldung ist relevant, da sie Einblicke in die Arbeit und den aktuellen Roman eines bekannten deutschen Bestsellerautors gibt. Sie dokumentiert ein kulturelles Ereignis mit hoher Publikumsnachfrage in der Region.",
+    "t": "Bestsellerautor Sebastian Fitzek begeistert ausverkauftes Publikum in Heide",
+    "s": "Der bekannte Buchautor Sebastian Fitzek hat bei einer ausverkauften Lesung in Heide das Publikum begeistert. Dabei sprach er über seine Anfänge sowie über schlaflose Nächte im Nachtzug. Die Veranstaltung bot den Besuchern persönliche Einblicke in sein Schaffen.",
+    "m": "Im Rahmen der Veranstaltung präsentierte Fitzek unter anderem Geschichten aus der Anfangszeit seiner Karriere. Zudem gab es thematische Bezüge zu seinem 25. Thriller mit dem Titel \"Der Nachtzug\". In diesem Werk steht ein Anwalt im Mittelpunkt, der im Zug auf die mutmaßliche Mörderin seiner Frau trifft und eine tödliche Schnitzeljagd erlebt. Die Lesung in Heide stieß auf großes öffentliches Interesse und war restlos ausverkauft. Die Besucher erhielten dabei spannende Hintergrundinformationen zum Entstehen seiner Romane und den persönlichen Erlebnissen, die ihn zu seinen Geschichten inspirieren. Offene Fragen zum weiteren Verlauf seiner Tournee wurden in den Berichten nicht genannt.",
+    "r": "Die Meldung ist für Kulturinteressierte und Fans von Bestsellerautoren von Bedeutung, da sie Einblicke in aktuelle Auftritte und Werke eines bekannten deutschen Thriller-Autors gibt.",
     "srcs": [
       {
         "name": "Tagesschau Regional Schleswig-Holstein",
@@ -739,11 +1426,11 @@
       }
     ],
     "url": "https://www.ndr.de/kultur/buch/vom-grauen-im-nachtzug-buchautor-fitzek-liest-in-heide,fitzek-122.html",
-    "agree": "Die Quellen stimmen überein, dass Sebastian Fitzek in Heide eine Lesung unter dem Titel \"Vom Grauen im Nachtzug\" gegeben hat.",
+    "agree": "Die Quellen stimmen darin überein, dass Sebastian Fitzek in Heide eine Lesung unter dem Titel \"Vom Grauen im Nachtzug\" abhielt.",
     "diff": [
       {
         "name": "Tagesschau Regional Schleswig-Holstein",
-        "note": "Berichtet, dass die Lesung ausverkauft war und Fitzek dort Geschichten über seine Anfänge und schlaflose Nächte im Nachtzug erzählte."
+        "note": "Berichtet, dass die Lesung ausverkauft war und Fitzek das Publikum mit Geschichten über seine Anfänge und schlaflose Nächte begeisterte."
       },
       {
         "name": "NDR Schleswig-Holstein",
@@ -996,10 +1683,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Brand auf Adolf Hitlers historischem Kehlsteinhaus in Bayern",
-    "s": "Auf dem historischen Kehlsteinhaus, Adolf Hitlers ehemaligem Bergresort in Süddeutschland, ist ein Brand ausgebrochen. Die Polizei hat einen tatverdächtigen 33-jährigen deutschen Mann festgenommen. Rund 200 Einsatzkräfte der Feuerwehr wurden zur Bekämpfung des Feuers mobilisiert.",
-    "m": "Das Feuer zerstörte Teile des bekannten Kehlsteinhauses in den bayerischen Alpen, das in der NS-Zeit als repräsentatives Gebäude diente. Der Brand rief einen Großeinsatz der Rettungskräfte hervor, um die Flammen in der exponierten Berglage unter Kontrolle zu bringen. Die Kriminalpolizei hat die Ermittlungen zur genauen Brandursache aufgenommen. Der Festgenommene wird derzeit von den Behörden vernommen, um eine mögliche Brandstiftung zu prüfen. Das Ausmaß des Sachschadens lässt sich zum aktuellen Zeitpunkt noch nicht beziffern. Die Sicherheitsvorkehrungen in der Umgebung wurden vorübergehend verschärft.",
-    "r": "Der Brand an einem geschichtsträchtigen Ort von touristischer und historischer Bedeutung wirft Fragen zur Sicherheit und zum Denkmalschutz auf. Der Vorfall in Süddeutschland führte zu einem Großeinsatz von Einsatzkräften und einer schnellen Festnahme.",
+    "t": "Feuer bricht an Hitlers ehemaligem Berghof Adlerhorst aus",
+    "s": "Auf dem Adlerhorst, Adolf Hitlers ehemaligem Berggipfel-Retreat in Süddeutschland, ist ein Feuer ausgebrochen. Rund 200 Feuerwehrleute wurden zur Bekämpfung der Flammen eingesetzt. Die Polizei in Bayern hat einen 33-jährigen deutschen Mann festgenommen.",
+    "m": "Das Feuer ereignete sich am historischen Adlerhorst, dem früheren Bergretretreat Adolf Hitlers im süddeutschen Bundesland Bayern. Zur Bekämpfung des Brandes waren etwa 200 Einsatzkräfte der Feuerwehr vor Ort. Die genaue Ursache des Feuers sowie das Ausmaß der Schäden an dem historischen Gebäude wurden zunächst nicht detailliert beziffert. Im Zusammenhang mit dem Vorfall nahm die Polizei einen 33-jährigen deutschen Tatverdächtigen fest. Die Ermittlungen zu den Hintergründen und dem genauen Hergang dauern an. Weitere offene Punkte betreffen den Zustand des Bauwerks und mögliche Motive des Verdächtigen.",
+    "r": "Der Vorfall betrifft ein historisch bedeutendes Bauwerk und erfordert polizeiliche Ermittlungen wegen des Verdachts der Brandstiftung. Der Großeinsatz der Feuerwehr unterstreicht die Dimension des Brandes an dem bekannten Ausflugsziel.",
     "srcs": [
       {
         "name": "BBC World",
@@ -1013,15 +1700,15 @@
       }
     ],
     "url": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&at_campaign=rss",
-    "agree": "Die Quellen stimmen überein, dass auf dem ehemaligen Berghof von Adolf Hitler in Süddeutschland ein Feuer ausgebrochen ist und die Polizei einen 33-jährigen deutschen Verdächtigen festgenommen hat.",
+    "agree": "Beide Quellen stimmen darin überein, dass auf dem Adlerhorst in Süddeutschland ein Feuer ausgebrochen ist und die Polizei einen 33-jährigen deutschen Mann festgenommen hat.",
     "diff": [
       {
-        "name": "Euronews",
-        "note": "nennt zusätzlich den Einsatz von rund 200 Feuerwehrleuten zur Brandbekämpfung"
+        "name": "BBC World",
+        "note": "Erwähnt konkret den Bundesstaat Bayern und nennt das Objekt ein mountaintop Eagle's Nest retreat."
       },
       {
-        "name": "BBC World",
-        "note": "gibt an, dass sich das Gebäude im süddeutschen Bundesland Bayern befindet"
+        "name": "Euronews",
+        "note": "Berichtet zusätzlich, dass rund 200 Feuerwehrleute zur Bekämpfung des Brandes eingesetzt wurden."
       }
     ],
     "chg": "",
@@ -1078,10 +1765,10 @@
     "p": 2,
     "st": "BW",
     "city": "",
-    "t": "Mannheim: E-Scooter-Fahrer schießt auf Fußgänger",
-    "s": "In Mannheim hat ein E-Scooter-Fahrer in der Nacht auf Samstag zwei Fußgänger mit einer Schreckschusswaffe bedroht und auf diese geschossen. Einer der beiden Fußgänger wurde bei dem Vorfall leicht verletzt. Die Polizei ermittelt zu den Hintergründen der Tat. Weitere Details zum genauen Tathergang und dem Motiv sind derzeit noch Gegenstand der polizeilichen Ermittlungen.",
-    "m": "Der Vorfall ereignete sich in der Nacht zum Samstag in Mannheim. Ein bislang nicht namentlich genannter E-Scooter-Fahrer geriet mit zwei Fußgängern in Konflikt. Im Verlauf der Auseinandersetzung zog der Fahrer eine Schreckschusswaffe. Er bedrohte die beiden Personen und gab insgesamt zwei Schüsse ab. Durch die Schüsse beziehungsweise die Einwirkung wurde einer der beiden Fußgänger leicht verletzt. Rettungskräfte und Polizei wurden alarmiert, um den Sachverhalt aufzunehmen und nach dem flüchtigen oder betroffenen Täter zu fahndigen. Die beteiligten Akteure sind der E-Scooter-Fahrer sowie die beiden angegriffenen Fußgänger. Ob es im Vorfeld des Schusswaffeneinsatzes zu einem verbalen Streit oder einer anderen Provokation kam, geht aus den aktuellen Berichten nicht hervor. Offen ist zudem, ob der Tatverdächtige bereits gefasst wurde oder sich noch auf der Flucht befindet.",
-    "r": "Der Vorfall ist von sicherheitspolitischer Relevanz, da der Einsatz einer Schreckschusswaffe im öffentlichen Raum gegen Fußgänger zu Verletzungen führt und die öffentliche Sicherheit beeinträchtigt. Solche Taten verdeutlichen potenzielle Konflikte im Straßenverkehr zwischen verschiedenen Fortbewegungsmitteln.",
+    "t": "E-Scooter-Fahrer schießt in Mannheim auf Fußgänger",
+    "s": "In Mannheim hat ein E-Scooter-Fahrer in der Nacht zum Samstag zwei Fußgänger mit einer Schreckschusswaffe bedroht. Dabei gab er zwei Schüsse ab. Einer der beiden Fußgänger wurde leicht verletzt. Die Polizei ermittelt zu dem Vorfall.",
+    "m": "Der Vorfall ereignete sich in der Nacht auf Samstag in Mannheim. Ein bislang namentlich nicht genannter E-Scooter-Fahrer geriet mit zwei Fußgängern in Streit oder eine Konfliktsituation. In deren Verlauf zog der Täter eine Schreckschusswaffe und bedrohte die beiden Personen. Er schoss zwei Mal in Richtung der Fußgänger. Durch die Aktion erlitt einer der beiden Männer eine leichte Verletzung. Ob es vor den Schüssen zu einer konkreten Auseinandersetzung oder einem Wortgefecht kam, ist Teil der polizeilichen Ermittlungen. Bislang gibt es keine Informationen über Festnahmen oder die Identität des Verdächtigen.",
+    "r": "Der Vorfall zeigt eine Eskalation von Gewalt im öffentlichen Raum durch den Einsatz von Schreckschusswaffen im Zusammenhang mit Verkehrsteilnehmern. Solche Taten gefährden die körperliche Unversehrtheit unbeteiligter Passanten und erfordern ein Einschreiten der Sicherheitsbehörden.",
     "srcs": [
       {
         "name": "SWR Aktuell Baden-Württemberg",
@@ -1095,7 +1782,7 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/mannheim-e-scooter-fahrer-schiesst-mit-schreckschusswaffe-auf-zwei-maenner-100.html",
-    "agree": "Beide Quellen stimmen darin überein, dass ein E-Scooter-Fahrer in der Nacht zum Samstag in Mannheim zwei Fußgänger mit einer Schreckschusswaffe bedroht und beschossen hat, wobei ein Mann leicht verletzt wurde.",
+    "agree": "Beide Quellen stimmen darin überein, dass ein E-Scooter-Fahrer in der Nacht zum Samstag in Mannheim zwei Fußgänger mit einer Schreckschusswaffe bedroht und auf sie geschossen hat, wobei ein Mann leicht verletzt wurde.",
     "diff": [],
     "chg": "",
     "independent": 2
@@ -1380,10 +2067,10 @@
     "p": 4,
     "st": "",
     "city": "",
-    "t": "Schwere Attacke auf Trauergemeinde in Jordanien fordert Tote",
-    "s": "Bei einem Überfall auf eine griechisch-orthodoxe Kirche in Jordanien haben bewaffnete Angreifer das Feuer auf eine Trauergemeinde eröffnet. Laut übereinstimmenden Medienberichten gab es Dutzende Verletzte sowie mehrere Todesopfer. Behörden stufen die Bluttat als terroristischen Akt von Extremisten ein.",
-    "m": "Der bewaffnete Angriff ereignete sich am Freitag während einer Trauerfeier in einer Kirche in Jordanien und galt der dortigen christlichen Minderheit. Aufnahmen des jordanischen Staatsfernsehens zeigten drei Angreifer, die sich dem Gotteshaus näherten und gezielt Schüsse abfeuerten. Nach Angaben der Berichte wurden mindestens 40 Menschen verletzt. Die Zahl der Todesopfer schwankt in den ersten Meldungen zwischen sieben und neun Getöteten. Einer der Berichte verortet die Tat konkret in der Stadt Karak. Die jordanischen Behörden bewerten den Vorfall offiziell als Terrorakt von Extremisten. Solche gewaltsamen Angriffe auf die christliche Minderheit gelten in dem Land als selten.",
-    "r": "Der Angriff auf eine religiöse Minderheit in einem ansonsten als stabil geltenden Land stellt ein Sicherheitsrisiko dar. Die Tat verdeutlicht die anhaltende Bedrohung durch extremistischen Terror in der Region.",
+    "t": "Bewaffneter Angriff auf Trauerfeier in Jordanien fordert Tote und Verletzte",
+    "s": "Bei einem Anschlag auf eine griechisch-orthodoxe Kirche in Jordanien haben Bewaffnete während einer Trauerfeier das Feuer eröffnet. Es gibt mehrere Todesopfer und rund 40 Verletzte. Sicherheitsbehörden stuften den Vorfall am Freitag als Terrorakt von Extremisten ein. Der Angriff auf die christliche Minderheit des Landes gilt als seltene Gewalttat.",
+    "m": "Am Freitag haben drei Angreifer nach Ausstrahlung von Staats-TV-Aufnahmen das Feuer auf eine griechisch-orthodoxe Kirche eröffnet. Die Bluttat ereignete sich während einer Beerdigung in der Stadt Karak. Infolge des Angriffs wurden zahlreiche Menschen verletzt und getötet, wobei die genaue Zahl der Todesopfer in den Berichten zwischen sieben und neun schwankt. Die jordanischen Behörden verurteilten die Tat als terroristischen Akt von Extremisten. Solche Angriffe auf die christliche Minderheit im ansonsten vergleichsweise stabilen Jordanien sind äußerst selten. Die Hintergründe sowie die genaue Identität und Motivation der drei Täter sind Gegenstand von Ermittlungen der Sicherheitskräfte.",
+    "r": "Der Anschlag verdeutlicht die Sicherheitsrisiken und die Verletzlichkeit religiöser Minderheiten in der ansonsten als stabil geltenden Region. Die Tat könnte innenpolitische Spannungen und Sicherheitsdebatten in Jordanien auslösen.",
     "srcs": [
       {
         "name": "Guardian World",
@@ -1397,15 +2084,15 @@
       }
     ],
     "url": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan",
-    "agree": "Beide Quellen stimmen überein, dass drei bewaffnete Angreifer während einer Beerdigung in einer Kirche in Jordanien das Feuer eröffneten und rund 40 Menschen verletzt wurden.",
+    "agree": "Beide Quellen stimmen darin überein, dass drei bewaffnete Angreifer am Freitag das Feuer auf eine griechisch-orthodoxe Kirche während einer Trauerfeier in Jordanien eröffneten und dabei rund 40 Menschen verletzt wurden.",
     "diff": [
       {
         "name": "Guardian World",
-        "note": "Berichtet von neun Getöteten und bezeichnet den Ort als griechisch-orthodoxe Kirche in Jordanien, ohne die Stadt zu nennen."
+        "note": "Nennt neun Todesopfer, bezeichnet die Stadt nicht namentlich und hebt hervor, dass es sich um einen seltenen Angriff auf die christliche Minderheit handelt."
       },
       {
         "name": "NPR World",
-        "note": "Nennung von sieben Toten und Verortung des Angriffs in der Stadt Karak."
+        "note": "Nennt sieben Todesopfer und lokalisiert den Tatort konkret in der Stadt Karak."
       }
     ],
     "chg": "",
@@ -15249,696 +15936,6 @@
       {
         "name": "Süddeutsche Zeitung",
         "note": "Berichtet, dass Selenskij mit dieser Aussage seine frühere Angabe ändert, er habe nach einer Unterbrechung wieder Informationen von Verbündeten erhalten."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-b62ed7bc2819ae05",
-    "c": "INT",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-19T10:08:48.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Barbara Palvin feiert sechs Wochen nach der Geburt Laufsteg-Comeback",
-    "s": "Das Model Barbara Palvin ist nur sechs Wochen nach der Geburt ihres ersten Kindes bei der Modenschau von Victoria's Secret auf den Laufsteg zurückgekehrt. Sie ist im September gemeinsam mit ihrem Ehemann, dem Schauspieler Dylan Sprouse, Eltern geworden. Ihren schnellen Auftritt bezeichnete sie selbst als keine große Sache.",
-    "m": "Das Model Barbara Palvin hat überraschend schnell nach der Geburt ihres Kindes im September ihr Comeback auf dem Laufsteg von Victoria's Secret gegeben. Die frischgebackene Mutter präsentierte Unterwäsche für die bekannte Marke nur rund sechs Wochen nach der Entbindung. Zusammen mit ihrem Ehemann, dem Schauspieler Dylan Sprouse, bildet sie das Elternpaar. Palvin selbst spielte die Bedeutung ihres schnellen Auftritts herunter und nannte ihn keine große Sache. Die diesbezügliche Modenschau hielt nach Medienberichten zudem noch eine weitere Überraschung bereit, wirft jedoch auch grundlegende Fragen auf. Die genauen Hintergründe dieser Fragen werden im Rahmen der Berichterstattung verschiedener Medien unterschiedlich bewertet und diskutiert. Weitere Details zu den gesundheitlichen Aspekten oder dem genauen Ablauf der Show wurden in den Texten nicht genannt.",
-    "r": "Das schnelle Comeback eines bekannten Models kurz nach der Geburt wirft Fragen auf und sorgt für mediale Aufmerksamkeit bei einem großen Modeereignis.",
-    "srcs": [
-      {
-        "name": "stern",
-        "url": "https://www.stern.de/lifestyle/leute/-victoria-s-secret--show--barbara-palvin--laufsteg-comeback-sechs-wochen-nach-geburt-38418698.html",
-        "date": "2026-10-19T10:08:48.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/panorama/leute/victorias-secret-barbara-palvin-sechs-wochen-nach-geburt-wieder-auf-dem-laufsteg-a-75b3d2af-d008-4e34-b49d-019c6bf38d6f#ref=rss",
-        "date": "2026-10-19T02:33:00.000Z"
-      }
-    ],
-    "url": "https://www.stern.de/lifestyle/leute/-victoria-s-secret--show--barbara-palvin--laufsteg-comeback-sechs-wochen-nach-geburt-38418698.html",
-    "agree": "Die Quellen sind sich einig, dass Barbara Palvin sechs Wochen nach der Geburt ihres Kindes ein Laufsteg-Comeback für Victoria's Secret absolviert hat.",
-    "diff": [
-      {
-        "name": "stern",
-        "note": "Erwähnt, dass die Show noch eine weitere Überraschung bereit hielt."
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "Nennt den Ehemann Dylan Sprouse namentlich und merkt an, dass der Auftritt eine grundsätzliche Frage aufwirft."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-3d9d3081a3aa4938",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-19T10:07:31.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Tanker mit russischem Rohöl treibt in der Ostsee vor Rügen",
-    "s": "Ein 190 Meter langer Tanker mit russischem Rohöl ist in der Nacht vor Rügen manövrierunfähig geworden. Das Schiff treibt auf der Ostsee und hat ein Antriebsproblem. Deutsche und dänische Behörden haben die Lage im Blick, während Notfallschlepper alarmiert wurden. Ob das Schiff Teil der sogenannten russischen Schattenflotte ist, bleibt zunächst unklar.",
-    "m": "In der Nacht gab der 190 Meter lange Tanker den Antrieb auf und treibt seither in der Ostsee vor der Insel Rügen. An Bord befindet sich russisches Rohöl. Die genaue Einordnung des Tankers, insbesondere ob er zur russischen Schattenflotte gezählt werden muss, ist Gegenstand von Unklarheiten. Sowohl deutsche als auch dänische Behörden sind alarmiert und beobachten die Situation genau. Zur Absicherung wurden Notfallschlepper in Marsch gesetzt. Zudem befinden sich russische Marineschiffe in der Nähe des treibenden Tankers. Die genauen Umstände des Antriebsausfalls und der Zeitpunkt einer möglichen Bergung oder des Abschleppens werden von den Rettungskräften koordiniert.",
-    "r": "Der Vorfall betrifft die maritime Sicherheit in der Ostsee und involviert deutsche sowie dänische Behörden angesichts eines manövrierunfähigen Öltankers. Die Präsenz russischen Rohöls und nahegelegener Marineschiffe verleiht dem Ereignis eine sicherheitspolitische Dimension.",
-    "srcs": [
-      {
-        "name": "t-online Panorama",
-        "url": "https://www.t-online.de/nachrichten/panorama/ungluecke/id_101487280/ruegen-tanker-mit-russischem-rohoel-treibt-in-der-ostsee.html",
-        "date": "2026-10-19T10:07:31.000Z"
-      },
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/politik/deutschland/article6ad5d559de9d7a845942b18d/schattenflotte-tanker-mit-russischem-rohoel-treibt-auf-der-ostsee-deutschland-alarmiert-notfallschlepper.html",
-        "date": "2026-10-19T09:04:27.000Z"
-      }
-    ],
-    "url": "https://www.t-online.de/nachrichten/panorama/ungluecke/id_101487280/ruegen-tanker-mit-russischem-rohoel-treibt-in-der-ostsee.html",
-    "agree": "Beide Quellen stimmen überein, dass ein Tanker mit russischem Rohöl in der Nacht vor Rügen manövrierunfähig geworden ist und auf der Ostsee treibt.",
-    "diff": [
-      {
-        "name": "t-online Panorama",
-        "note": "Erwähnt die Schiffslänge von 190 Metern und die Frage, ob der Tanker zur russischen Schattenflotte gehört."
-      },
-      {
-        "name": "WELT",
-        "note": "Berichtet, dass deutsche und dänische Behörden die Lage beobachten, Notfallschlepper alarmiert wurden und sich russische Marineschiffe in der Nähe befinden."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-b83739e52600405c",
-    "c": "INT",
-    "o": "INT",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-19T10:07:00.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Französischer Innenminister räumt Kontrollverlust der Polizei ein",
-    "s": "Nach gewaltsamen landesweiten Protesten in Frankreich hat Innenminister Laurent Nunez eingeräumt, dass die Polizei in einigen Städten die Kontrolle verloren hat. Er machte mangelnde Voraussicht für die Situation verantwortlich und bot Präsident Emmanuel Macron seinen Rücktritt an. Macron lehnte das Rücktrittsgesuch jedoch ab.",
-    "m": "Die Ausschreitungen ereigneten sich am Wochenende in mehreren Städten in ganz Frankreich und führten zu heftigen gewaltsamen Auseinandersetzungen. Angesichts der Ereignisse räumte Innenminister Laurent Nunez am Montag ein, dass es bei den polizeilichen Vorbereitungen an der nötigen Antizipation gefehlt habe. Er betonte, sich für die Geschehnisse verantwortlich zu fühlen, und reichte daraufhin seinen Rücktritt bei Präsident Emmanuel Macron ein. Präsident Macron lehnte den Rücktritt des Ministers ab und hielt an ihm fest. Offene Fragen bleiben hinsichtlich der konkreten Maßnahmen zur Wiederherstellung der Sicherheit und der politischen Konsequenzen für künftige Demonstrationen.",
-    "r": "Die Äußerungen des Innenministers und die Reaktion des Präsidenten beleuchten den Umgang der französischen Regierung mit schwerem zivilen Unmut und Polizeiversagen. Sie geben Einblick in die politische Stabilität und Verantwortung im Kabinett nach landesweiten Ausschreitungen.",
-    "srcs": [
-      {
-        "name": "France24 English",
-        "url": "https://www.france24.com/en/video/20261019-french-interior-minister-admits-police-lost-control-of-protests",
-        "date": "2026-10-19T10:07:00.000Z"
-      },
-      {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/19/frances-macron-declines-ministers-resignation-after-violent-protests?traffic_source=rss",
-        "date": "2026-10-19T08:25:27.000Z"
-      }
-    ],
-    "url": "https://www.france24.com/en/video/20261019-french-interior-minister-admits-police-lost-control-of-protests",
-    "agree": "Die Quellen stimmen überein, dass Innenminister Laurent Nunez zugegeben hat, dass die Polizei während der Proteste die Kontrolle verloren hat, und dass Präsident Macron seinen Rücktritt abgelehnt hat.",
-    "diff": [
-      {
-        "name": "France24 English",
-        "note": "Berichtet zusätzlich, dass die Proteste am Wochenende stattfanden, Nunez mangelnde Voraussicht in den Vorbereitungen einräumte und sich für alles verantwortlich fühlte."
-      },
-      {
-        "name": "Al Jazeera",
-        "note": "Hält die Details sehr knapp und bestätigt den Kontrollverlust sowie die Ablehnung des Rücktritts durch Macron."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-5432bbc2ca05c27b",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-19T09:55:51.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Alberta stimmt über mögliche Abspaltung von Kanada ab",
-    "s": "In der ölreichen kanadischen Provinz Alberta stimmen die Bewohner über eine mögliche Abspaltung von Kanada ab. Die dortige Unabhängigkeitsbewegung hat in den vergangenen Jahren an Stärke gewonnen. Einen prominenten Unterstützer hat das Lager jenseits der Grenze im US-Präsidenten Trump. Heute findet die entsprechende Abstimmung über ein mögliches Unabhängigkeitsreferendum statt.",
-    "m": "Seit einigen Jahren erstarkt in der ölreichen Provinz Alberta im Westen Kanadas eine Separatistenbewegung. Heute entscheiden die Bewohner der Region über eine mögliche Abspaltung von Kanada und ein entsprechendes Unabhängigkeitsreferendum. Die Bewegung erhält dabei auch Unterstützung von US-Präsident Trump, der jenseits der kanadischen Südgrenze sitzt. Bislang ist unklar, wie das Votum ausgehen wird und welche konkreten verfassungsrechtlichen oder politischen Schritte im Falle eines Ja-Ergebnisses folgen würden. Beobachter werten das Referendum als potenziellen Wendepunkt für den föderalen Staat Kanada. Offen ist auch, wie die kanadische Bundesregierung in Ottawa auf ein Votum für die Unabhängigkeit reagieren wird.",
-    "r": "Das Referendum berührt die territoriale Integrität Kanadas und betrifft einen potenziellen Umbau des nordamerikanischen Staatengefüges. Die Einmischung beziehungsweise Unterstützung durch einen US-Präsidenten verleiht dem regionalen Konflikt zudem eine internationale Dimension.",
-    "srcs": [
-      {
-        "name": "t-online Nachrichten",
-        "url": "https://www.t-online.de/nachrichten/ausland/internationale-politik/id_101487274/mit-trump-unterstuetzung-alberta-stimmt-ueber-abspaltung-von-kanada-ab.html",
-        "date": "2026-10-19T09:55:51.000Z"
-      },
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/amerika/kanada-alberta-volksabstimmung-100.html",
-        "date": "2026-10-19T04:55:25.000Z"
-      }
-    ],
-    "url": "https://www.t-online.de/nachrichten/ausland/internationale-politik/id_101487274/mit-trump-unterstuetzung-alberta-stimmt-ueber-abspaltung-von-kanada-ab.html",
-    "agree": "Beide Quellen stimmen überein, dass in der kanadischen Provinz Alberta über eine mögliche Abspaltung abgestimmt wird und dass die dortige Bewegung Unterstützung von US-Präsident Trump erfährt.",
-    "diff": [
-      {
-        "name": "Tagesschau",
-        "note": "Erwähnt zusätzlich, dass es sich um eine ölreiche Provinz im Westen Kanadas handelt, die Bewegung seit einigen Jahren erstarkt ist, die Abstimmung heute stattfindet und der Beitrag von Autor Martin Ganslmeier stammt."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-d9a89ada479fe363",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-19T09:55:51.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Kanadische Provinz Alberta stimmt über mögliche Abspaltung ab",
-    "s": "In der kanadischen Provinz Alberta findet eine Abstimmung über eine mögliche Abspaltung von Kanada statt. Die dortige Separatistenbewegung wird seit einigen Jahren stärker und erhält dabei auch Unterstützung von US-Präsident Trump. Über das mögliche Unabhängigkeitsreferendum entscheiden heute die Bewohner vor Ort.",
-    "m": "Die ölreiche Provinz Alberta im Westen Kanadas erlebt seit einigen Jahren das Erstarken einer Separatistenbewegung, die nun über eine mögliche Abspaltung abstimmt. Die Initiative für das Unabhängigkeitsreferendum findet dabei bemerkenswerte Unterstützung jenseits der Grenze durch US-Präsident Trump. Die genauen Modalitäten und die Frage, wie ein solcher Schritt rechtlich oder wirtschaftlich umgesetzt werden könnte, sind Teil der aktuellen Debatte. Beobachter verfolgen die Abstimmung mit Spannung, da sie weitreichende Folgen für das föderale System Kanadas haben könnte. Offen bleibt bislang, wie stark der Rückhalt in der Bevölkerung tatsächlich ist und welche Konsequenzen ein mögliches Votum für die Beziehungen zu den USA und dem restlichen Kanada haben wird.",
-    "r": "Die Abstimmung betrifft die territoriale Integrität Kanadas und berührt durch die US-Unterstützung auch außenpolitische Dimensionen. Das Erstarken der Separatistenbewegung in der ölreichen Region hat zudem wirtschaftliche Relevanz.",
-    "srcs": [
-      {
-        "name": "t-online Nachrichten",
-        "url": "https://www.t-online.de/nachrichten/ausland/internationale-politik/id_101487274/mit-trump-unterstuetzung-alberta-stimmt-ueber-abspaltung-von-kanada-ab.html",
-        "date": "2026-10-19T09:55:51.000Z"
-      },
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOUdnNlpYdzNjQ2RyY3BIQ0ppTDJWY0JVcjRxOUowTEd1MnRSX1pNSVAyMlZDZFhBYk16OVFYMU1yRl8zQ0Q5MjRBQ0Nwb0tqQjU4VUVzUm5CS1B5MGQtTE1NVHlZa25SdWgxbjR6NWJsbXpLeGNudHlWWGVFb2h3WldHNzdQV005?oc=5",
-        "date": "2026-10-19T05:09:54.000Z"
-      },
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/amerika/kanada-alberta-volksabstimmung-100.html",
-        "date": "2026-10-19T04:55:25.000Z"
-      }
-    ],
-    "url": "https://www.t-online.de/nachrichten/ausland/internationale-politik/id_101487274/mit-trump-unterstuetzung-alberta-stimmt-ueber-abspaltung-von-kanada-ab.html",
-    "agree": "Die Quellen stimmen überein, dass in der kanadischen Provinz Alberta über eine mögliche Abspaltung abgestimmt wird und US-Präsident Trump die Unabhängigkeitsbewegung unterstützt.",
-    "diff": [
-      {
-        "name": "t-online Nachrichten",
-        "note": "Erwähnt zusätzlich, dass die Unterstützer einen prominenten Rückhalt jenseits der kanadischen Südgrenze haben."
-      },
-      {
-        "name": "Tagesschau",
-        "note": "Nennt den Autor Martin Ganslmeier, bezeichnet Alberta als ölreiche Provinz im Westen Kanadas und präzisiert, dass es sich um ein Unabhängigkeitsreferendum handelt."
-      }
-    ],
-    "chg": "",
-    "independent": 3
-  },
-  {
-    "id": "story-8e8f8dd910b8f460",
-    "c": "INT",
-    "o": "INT",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-19T08:56:42.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Welternährungsprogramm kürzt Hilfen für Palästinenser im Gazastreifen",
-    "s": "Wegen akuter Finanzierungsknappheit muss das Welternährungsprogramm der Vereinten Nationen seine Lebensmittelhilfen im Gazastreifen massiv einschränken. Rund eine halbe Million Menschen sind von den Kürzungen direkt betroffen. Die Maßnahme verdeutlicht die anhaltende finanzielle Krise internationaler Hilfsorganisationen in der Region.",
-    "m": "Das Welternährungsprogramm (WFP) hat angekündigt, die Unterstützung für rund 500.000 Menschen im Gazastreifen zu kürzen. Grund für diesen Schritt sind gravierende Finanzierungsengpässe bei der UN-Agentur. Durch die Einschränkungen sinkt die Gesamtzahl der vom WFP im palästinensischen Gebiet unterstützten Personen von zuvor 1,6 Millionen auf nunmehr 1,1 Millionen Menschen. Dies entspricht einem Rückgang der Hilfsempfänger um etwa ein Drittel. Die genauen Folgen für die betroffenen Familien und die Dauer der Kürzungen hängen maßgeblich von neuen Finanzierungszusagen internationaler Geber ab. Bislang gibt es keine offiziellen Angaben darüber, wann die Unterstützung wieder auf das ursprüngliche Niveau aufgestockt werden kann.",
-    "r": "Die Einschränkung lebenswichtiger Nahrungsmittelhilfen für Hunderttausende Menschen in einem Krisengebiet hat direkte humanitäre Auswirkungen. Sie verdeutlicht die Abhängigkeit humanitärer Operationen von internationalen Spenden und Finanzströmen.",
-    "srcs": [
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRVBJZ0FaQjFyYlhSaUNPUDRqV1l5RjU2bXltdlBHYmpmNVZpMWF3d25EYXpneWpUQ0RPTVFFSUNXN3BCNDNrb2tGNDlVOUFGYTN2TzYtelgxaUNJLTYwS1FDbFNJMTB0dXVZOURaRDJZVkF1SC1EOE0zRWNuenFyVVkzZFQwSnlqX1pqUjJaOVJ1b1JGUWcxeXZnbXdVMnhFeVVPbEtNUDdaQVZGblZBVjMxZldhUQ?oc=5",
-        "date": "2026-10-19T08:56:42.000Z"
-      },
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-19T06:00:18.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRVBJZ0FaQjFyYlhSaUNPUDRqV1l5RjU2bXltdlBHYmpmNVZpMWF3d25EYXpneWpUQ0RPTVFFSUNXN3BCNDNrb2tGNDlVOUFGYTN2TzYtelgxaUNJLTYwS1FDbFNJMTB0dXVZOURaRDJZVkF1SC1EOE0zRWNuenFyVVkzZFQwSnlqX1pqUjJaOVJ1b1JGUWcxeXZnbXdVMnhFeVVPbEtNUDdaQVZGblZBVjMxZldhUQ?oc=5",
-    "agree": "Beide Quellen stimmen darin überein, dass das Welternährungsprogramm aufgrund von Finanzierungsknappheit seine Hilfen für Palästinenser im Gazastreifen kürzen muss.",
-    "diff": [
-      {
-        "name": "Google News World",
-        "note": "nennt die genaue Zahl der von den Kürzungen betroffenen Menschen (500.000)."
-      },
-      {
-        "name": "BBC World",
-        "note": "beziffert den Rückgang der Hilfsempfänger durch die UN-Agentur von 1,6 Millionen auf 1,1 Millionen Menschen, was einem Drittel entspricht."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-93b0fa480d8783f1",
-    "c": "INT",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-19T08:46:28.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Lindt & Sprüngli entlässt Konzernchef Lechner und Aachener Chef",
-    "s": "Der Schokoladenhersteller Lindt & Sprüngli hat sich von seinem Konzernchef Lechner getrennt. Gleichzeitig wurde auch der Standortleiter in Aachen entlassen. Grund für den personellen Schnitt ist eine Krise des Unternehmens.",
-    "m": "Ein heißer Sommer und drastisch gestiegene Kakaopreise haben den Schokoladenhersteller Lindt & Sprüngli in eine schwere Krise gestürzt. Als Reaktion auf diese wirtschaftlichen Probleme zieht das Unternehmen nun personelle Konsequenzen und vollzieht einen Wechsel im Vorstand. Betroffen von der Entlassung ist neben dem Konzernchef Lechner auch der Leiter des Standorts in Aachen. Der Schritt soll dem Unternehmen dabei helfen, die aktuelle Krise zu bewältigen und eine Wende herbeizuführen. Weitere Details zu den genauen Hintergründen der Trennung wurden zunächst nicht bekannt gegeben.",
-    "r": "Die Entlassung des Konzernchefs und des Aachener Standorteiters ist ein bemerkenswerter personeller Einschnitt bei einem namhaften Schokoladenhersteller. Die Maßnahme verdeutlicht die drastischen wirtschaftlichen Auswirkungen hoher Rohstoffpreise und klimatischer Belastungen auf die Süßwarenbranche.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM1M0Rk1KNm13SXFXME1pNEk0bzdaY1ZERnd4MTN4cTV4TG11VkxkVVJlRnRKcHp2bk5BVDdNSWVtY1ZITFhic3FXcW9SWHFNdXlJQ2pUQ014RFFkNEM0NV84NXN1RDRYMkJ4SGhCRzBGVzAwTUl3cnNfcnFDY0VJRU1BWFZ2SlF0LWN6cXVGMXBYcWhoQnotU2UzazAxRWlRVDJBY3o3OWtqdDktQ1AwcVI1SWgwLWpWcmU0VmFWdzU3TmtOb3JPQWFxQm1tOWl4WmlTMjA4cw?oc=5",
-        "date": "2026-10-19T08:46:28.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/wirtschaft/lindt-spruengli-entlaesst-konzernchef-lechner-a-7e490637-b245-4350-8674-6c9d9f7ea578#ref=rss",
-        "date": "2026-10-19T07:32:00.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM1M0Rk1KNm13SXFXME1pNEk0bzdaY1ZERnd4MTN4cTV4TG11VkxkVVJlRnRKcHp2bk5BVDdNSWVtY1ZITFhic3FXcW9SWHFNdXlJQ2pUQ014RFFkNEM0NV84NXN1RDRYMkJ4SGhCRzBGVzAwTUl3cnNfcnFDY0VJRU1BWFZ2SlF0LWN6cXVGMXBYcWhoQnotU2UzazAxRWlRVDJBY3o3OWtqdDktQ1AwcVI1SWgwLWpWcmU0VmFWdzU3TmtOb3JPQWFxQm1tOWl4WmlTMjA4cw?oc=5",
-    "agree": "Die Quellen stimmen überein, dass Lindt & Sprüngli den Konzernchef Lechner entlassen hat.",
-    "diff": [
-      {
-        "name": "Google News DE",
-        "note": "berichtet zusätzlich über die Entlassung des Chefs in Aachen."
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "nennt als Auslöser für die Krise einen heißen Sommer und hohe Kakaopreise."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-de79f516404e8caf",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-19T08:30:04.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Patrice Aminati spricht über Schmerzen und Angst durch Krebstherapie",
-    "s": "Die Moderatorin Patrice Aminati teilt auf Social Media offen Einblicke in ihren Kampf gegen den Krebs. In einer nächtlichen Nachricht berichtet sie von schweren gesundheitlichen Belastungen. Insbesondere starke Schmerzen und Angstzustände rauben ihr derzeit den Schlaf.",
-    "m": "Patrice Aminati lässt ihre Öffentlichkeit regelmäßig an den schweren Momenten ihrer laufenden Krebstherapie teilhaben. In einer aktuellen Wortmeldung meldete sich die Moderatorin nun spätabends beziehungsweise nachts direkt aus dem Bett bei ihren Fans. Dabei schilderte sie offen die herausfordernden Nebenwirkungen der medizinischen Behandlung, unter denen sie leidet. Vor allem quälende Schmerzen und Angstgefühle sorgen dafür, dass sie nachts keinen Schlaf findet. Weitere Details zum genauen medizinischen Verlauf oder den nächsten Schritten der Behandlung gehen aus den vorliegenden Berichten nicht hervor.",
-    "r": "Die Schilderungen von Patrice Aminati bieten Einblicke in die psychischen und physischen Belastungen schwerer Krebstherapien bei Personen des öffentlichen Lebens. Sie verdeutlichen die alltäglichen Herausforderungen für Betroffene abseits der medizinischen Kernbehandlung.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM3Utck9KRDNoUGQ5VWFndVBqZHZIUHFZXzRXWjhDR2NPR0Iwc2VhUHFQbEtQX2ExZjNMUlJGUE5oeDRRQ2Y1NUZRejZKV1NPMkViMF9zdDBRS1JhUDVmVGYtblp4ZE4xSm5yTlc5YTVmeVhDWlZsaFpwcGtIYW1FZ18yRFBtOWRzT25OWnNPWFBBRGlxX0dIbmpoQQ?oc=5",
-        "date": "2026-10-19T08:30:04.000Z"
-      },
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/leute/Schmerzen-und-Angst-rauben-Patrice-Aminati-den-Schlaf-id31433097.html",
-        "date": "2026-10-19T08:30:04.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM3Utck9KRDNoUGQ5VWFndVBqZHZIUHFZXzRXWjhDR2NPR0Iwc2VhUHFQbEtQX2ExZjNMUlJGUE5oeDRRQ2Y1NUZRejZKV1NPMkViMF9zdDBRS1JhUDVmVGYtblp4ZE4xSm5yTlc5YTVmeVhDWlZsaFpwcGtIYW1FZ18yRFBtOWRzT25OWnNPWFBBRGlxX0dIbmpoQQ?oc=5",
-    "agree": "Die Quellen stimmen überein, dass Patrice Aminati nachts aus dem Bett berichtet hat, wie Schmerzen und Angst im Rahmen ihrer Krebstherapie ihr den Schlaf rauben.",
-    "diff": [
-      {
-        "name": "ntv",
-        "note": "Erwähnt zusätzlich, dass Patrice Aminati ihre Fans regelmäßig an schweren Momenten teilhaben lässt und sich nun nachts aus dem Bett gemeldet hat."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-06d77b9298e0022b",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-19T07:53:00.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Selenskyj: USA liefern wieder Geheimdienstinformationen an die Ukraine",
-    "s": "Der ukrainische Präsident Selenskyj hat erklärt, dass die USA nach einer Unterbrechung wieder Geheimdienstinformationen liefern. Die US-Regierung bestreitet hingegen, dass es jemals einen Stopp gegeben habe. Zugleich äußerte Selenskyj tiefe Besorgnis über den jüngsten US-Kurs und es gibt Streit um Starlink.",
-    "m": "Die Ukraine hatte zuletzt über fehlende US-Geheimdienstinformationen zu russischen Angriffen geklagt. Laut Angaben von Präsident Wolodymyr Selenskyj werden diese wichtigen Daten aus Washington inzwischen jedoch wieder an die Ukraine übermittelt. Die US-Regierung weist diesen Vorwurf zurück und bestreitet, die Weitergabe gestoppt zu haben. Neben den Geheimdienstdaten gibt es zudem Unstimmigkeiten bezüglich des Satellitenkommunikationssystems Starlink. Angesichts dieser Entwicklungen und des jüngsten US-Kurses zeigte sich der ukrainische Präsident tief besorgt. Offen bleibt, wie sich die Zusammenarbeit in diesen Bereichen weiterentwickeln wird und welche konkreten Vereinbarungen getroffen wurden.",
-    "r": "Die Berichterstattung ist relevant, da sie die sicherheitspolitische Unterstützung der USA für die Ukraine und mögliche Spannungen zwischen den Verbündeten beleuchtet. Die Weitergabe von Geheimdienstinformationen ist ein zentraler Faktor für die ukrainische Verteidigung gegen russische Angriffe.",
-    "srcs": [
-      {
-        "name": "DW Deutsch",
-        "url": "https://www.dw.com/de/ukraine-krieg-usa-liefern-laut-selenskyj-wieder-geheimdienstinformationen/a-79695673?maca=de-rss-de-all-1119-xml-mrss",
-        "date": "2026-10-19T07:53:00.000Z"
-      },
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/europa/ukraine-geheimdienst-informationen-usa-100.html",
-        "date": "2026-10-18T22:23:09.000Z"
-      }
-    ],
-    "url": "https://www.dw.com/de/ukraine-krieg-usa-liefern-laut-selenskyj-wieder-geheimdienstinformationen/a-79695673?maca=de-rss-de-all-1119-xml-mrss",
-    "agree": "Die Quellen sind sich einig, dass der ukrainische Präsident Selenskyj erklärt hat, die USA würden wieder Geheimdienstinformationen liefern.",
-    "diff": [
-      {
-        "name": "DW Deutsch",
-        "note": "Berichtet zusätzlich, dass die US-Regierung bestreitet, die Weitergabe gestoppt zu haben, und dass es einen Streit bei Starlink gibt."
-      },
-      {
-        "name": "Tagesschau",
-        "note": "Erwähnt zusätzlich, dass die Ukraine zuletzt über fehlende US-Geheimdienstinformationen klagte und Selenskyj sich tief besorgt über den jüngsten US-Kurs zeigt."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-882447fc16133e45",
-    "c": "INT",
-    "o": "PT",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-19T06:49:58.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Präsidentschaftsdebatte zwischen Lula da Silva und Flávio Bolsonaro von Angriffen geprägt",
-    "s": "Zwischen dem brasilianischen Präsidenten Luiz Inácio Lula da Silva und dem Senator Flávio Bolsonaro hat eine Fernsehdebatte stattgefunden. Die Veranstaltung war von wenigen konkreten politischen Vorschlägen sowie zahlreichen gegenseitigen Angriffen und Korruptionsvorwürfen geprägt. Beide Seiten setzten dabei auf unterschiedliche thematische Schwerpunkte im Wahlkampf.",
-    "m": "Die Debatte bot wenig Raum für inhaltliche politische Vorschläge und konzentrierte sich stattdessen stark auf verbale Auseinandersetzungen. Senator Flávio Bolsonaro nutzte die Gelegenheit vor allem, um das Thema Sicherheit in den Vordergrund zu stellen. Präsident Luiz Inácio Lula da Silva konzentrierte sich im Gegenzug darauf, die Leistungen und den politischen Erfolg seiner bisherigen Amtszeit zu verteidigen. Begleitet wurden diese strategischen Ausrichtungen von anhaltenden persönlichen Angriffen und gegenseitigen Korruptionsvorwürfen zwischen den beiden Politikern. Konkrete Details zu den Veranstaltern oder den genauen Folgen für die Wählerschaft nennen die vorliegenden Berichte nicht.",
-    "r": "Das Aufeinandertreffen wichtiger politischer Akteure in Brasilien verdeutlicht die aktuellen Konfliktlinien im Land. Der Verlauf der Debatte mit dem Fokus auf Angriffe statt Sachthemen zeigt die harte Gangart im politischen Diskurs.",
-    "srcs": [
-      {
-        "name": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/mundo/debate-marcado-por-poucas-propostas-ataques-e-acusacoes-de-corrupcao_n1772573",
-        "date": "2026-10-19T06:49:58.000Z"
-      },
-      {
-        "name": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQdjdqNkoyMWw3a3hycVZrNHA2MUNrLTVuWDNlZ096MlhiSEQ1b1ppbEE4eTRBVGEwSElxTjBPYXNIVV9NdXVxTnFXUnRHVE1WX3I1NTY1YUJSbXJYc3VWR0w5ZGoxT1BYb0lkSjNwY29IV0JPQkNfRlFfOVZaaE9NcHlaemlTRVRfX0Q4b3NmaXhRai0wTmtNTU1kY0tVbUI1Y3R6dFhUS1FYZnRsMHpJWXhUdkhwZEh0WVQyMDdYX2JEaWYwMFRzSl9QZ0JfZjBQYUI0N0J4VmRmemppVlEzbXFfZmpVVGdBMWNmSGZQSXNxa2pMSUtMeS00TUxfTXFmOVd6dXBsUUw0NVRickJtV0diVQ?oc=5",
-        "date": "2026-10-19T05:40:12.000Z"
-      }
-    ],
-    "url": "https://www.rtp.pt/noticias/mundo/debate-marcado-por-poucas-propostas-ataques-e-acusacoes-de-corrupcao_n1772573",
-    "agree": "Die Quellen sind sich einig, dass die Debatte zwischen Luiz Inácio Lula da Silva und Flávio Bolsonaro durch wenige Vorschläge, Angriffe und Korruptionsvorwürfe geprägt war.",
-    "diff": [
-      {
-        "name": "RTP Notícias",
-        "note": "Berichtet, dass sich Flávio Bolsonaro auf das Thema Sicherheit und Lula da Silva auf die Verteidigung seines Legados konzentriert haben."
-      },
-      {
-        "name": "Google News Portugal",
-        "note": "Nennt SIC Notícias als beteiligtes Medium und liefert ansonsten keine inhaltlichen Details."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-bfcdb7e521face5c",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-19T06:27:00.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Harald Schmidt hat seinen Jaguar verschenkt und nutzt Bus und Bahn",
-    "s": "Der Entertainer Harald Schmidt hat sich von seinem Auto getrennt und verschenkt. Er besitzt nach eigenen Angaben kein Kraftfahrzeug mehr. Stattdessen steigt er auf öffentliche Verkehrsmittel wie Bus und Bahn um.",
-    "m": "Harald Schmidt hat seinen Jaguar verschenkt und damit offenbar komplett mit dem Konzept eines eigenen Personenkraftwagens abgeschlossen. Unter dem Motto Ich brauch kein Auto mehr, ich hab kein Auto mehr verzichtet der Entertainer künftig auf ein eigenes Fahrzeug. Der bisherige Jaguar hat einen neuen Eigentümer gefunden, wobei dieser das Gefährt voraussichtlich nicht nur mit Freude entgegennehmen dürfte. Konkrete Details zu den Beweggründen oder dem genauen Zeitpunkt der Übergabe nennen die vorliegenden Berichte nicht. Künftig setzt Schmidt auf den Umstieg auf Bus und Bahn. Weitere Hintergründe zur Marke oder zum Modell des verschenkten Jaguars werden in den Quellen nicht genannt.",
-    "r": "Die Meldung dokumentiert den prominenten Verzicht auf ein eigenes Automobil zugunsten des öffentlichen Nahverkehrs. Solche Entscheidungen bekannter Persönlichkeiten spiegeln gesellschaftliche Mobilitätstrends wider.",
-    "srcs": [
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/panorama/leute/harald-schmidt-hat-seinen-jaguar-verschenkt-a-bafcc31c-c8ef-4c01-9279-41a036731286#ref=rss",
-        "date": "2026-10-19T06:27:00.000Z"
-      },
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ1M3NlU3M0RvUnZQWVYtSlVMTkNxV0M1bDI2SDNRd1NEWHJVU0NzVjhZTkpVandaS2w3OUM3eHhVT2h3d0E4c0tVX1RvSnNOSW05dFR4MDZOSjNQall6QjVlRWd3M011YmxWUnlHNzJnUFNPbTR4RndXa3JIYkhScFJTWVM4TEFRaFhsN2dMOTJiMWR1WmplUFVWTVM1ZGtMWnN6dkE3RHNmWTRLTGo3RkJPcDZ3WHV0TUUySXVxWDFfWWQ1bnc?oc=5",
-        "date": "2026-10-19T04:15:10.000Z"
-      }
-    ],
-    "url": "https://www.spiegel.de/panorama/leute/harald-schmidt-hat-seinen-jaguar-verschenkt-a-bafcc31c-c8ef-4c01-9279-41a036731286#ref=rss",
-    "agree": "Beide Quellen berichten übereinstimmend, dass Harald Schmidt seinen Jaguar verschenkt hat und künftig auf Bus und Bahn umsteigt.",
-    "diff": [
-      {
-        "name": "DER SPIEGEL",
-        "note": "Zitiert Schmidt mit den Worten Ich brauch kein Auto mehr, ich hab kein Auto mehr und erwähnt, dass der Jaguar dem neuen Eigentümer vermutlich nicht nur Freude bereitet."
-      },
-      {
-        "name": "Google News DE",
-        "note": "Verweist im Titel und in den Snippets auf den Tagesspiegel und nennt den konkreten Umstieg auf Bus und Bahn."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-601e46d8fe293f61",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-19T06:24:16.000Z",
-    "p": 4,
-    "st": "BY",
-    "city": "",
-    "t": "Erneute Unruhen in Frankreich: Macron kündigt Runden Tisch an",
-    "s": "Nach schweren Krawallen in Frankreich ist es zu erneuten Ausschreitungen in Paris gekommen. Präsident Emmanuel Macron hat die Gewalt verurteilt und für diese Woche einen Runden Tisch mit verschiedenen gesellschaftlichen Gruppen angekündigt. Das Auswärtige Amt hat unterdessen eine Sicherheitswarnung für Frankreich-Reisende herausgegeben.",
-    "m": "Die Lage in Frankreich bleibt angespannt, nachdem es nach schweren Krawallen nun auch in Paris wieder zu Ausschreitungen gekommen ist. Staatspräsident Emmanuel Macron reagierte auf die Eskalation mit scharfer Verurteilung der Gewalt und initiierte einen Krisendialog. Zu diesem Runden Tisch wurden Vertreter aus Schulen, Lehrerschaft, Gewerkschaften und der Wirtschaft für diese Woche geladen. Konkrete Details zu den Auslösern der aktuellen Krawalle oder dem genauen Ablauf der neuen Zusammenstöße in Paris nennen die Berichte nicht. Als Reaktion auf die anhaltenden Unruhen hat das deutsche Auswärtige Amt eine Vorsorgewarnung für Reisende in das Nachbarland ausgesprochen. Offen bleibt bislang, welche konkreten politischen oder sozialen Maßnahmen aus dem angekündigten Krisendialog hervorgehen werden.",
-    "r": "Die Krawalle in Frankreich und die politische Reaktion des Präsidenten sind von internationaler Relevanz und betreffen auch deutsche Reisende durch Sicherheitshinweise direkt.",
-    "srcs": [
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/schwere-unruhen-in-frankreich-macron-kuendigt-runden-tisch-an,VYT97Id",
-        "date": "2026-10-19T06:24:16.000Z"
-      },
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/politik/ausland/frankreich-ausschreitungen-proteste-macron-100.html",
-        "date": "2026-10-18T21:39:00.000Z"
-      }
-    ],
-    "url": "https://www.br.de/nachrichten/deutschland-welt/schwere-unruhen-in-frankreich-macron-kuendigt-runden-tisch-an,VYT97Id",
-    "agree": "Die Quellen sind sich einig, dass es in Frankreich Krawalle gab und Präsident Macron einen Runden Tisch angekündigt hat.",
-    "diff": [
-      {
-        "name": "BR24 Bayern",
-        "note": "Berichtet, dass das Auswärtige Amt Frankreich-Reisenden zur Vorsicht rät, und erwähnt Gespräche mit Schülern, Lehrern, Gewerkschaften und Wirtschaftsvertretern."
-      },
-      {
-        "name": "ZDF heute",
-        "note": "Berichtet, dass es am Tag nach den schweren Krawallen in Paris wieder zu Ausschreitungen kam und dass Macron die Gewalt verurteilte."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-4672f1ebd8458852",
-    "c": "INT",
-    "o": "UK",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-19T06:00:18.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Welternährungsprogramm kürzt Gaza-Hilfen wegen Finanznot",
-    "s": "Das Welternährungsprogramm (WFP) sieht sich gezwungen, seine Hilfslieferungen für den Gazastreifen drastisch zu kürzen. Grund für diesen Schritt sind akute Finanzengpässe der UN-Agentur. Von den Kürzungen ist ein großer Teil der bisher unterstützten Bevölkerung in dem palästinensischen Gebiet betroffen.",
-    "m": "Wegen schwerer Finanzierungsprobleme muss das Welternährungsprogramm (WFP) die humanitäre Hilfe für den Gazastreifen spürbar zurückfahren. Konkret sinkt die Zahl der Menschen, die von der UN-Agentur in dem palästinensischen Gebiet versorgt werden können, um etwa ein Drittel. Statt bisher 1,6 Millionen Menschen werden künftig nur noch 1,1 Millionen Menschen Hilfen erhalten. Die Kürzungen verdeutlichen die angespannte finanzielle Lage internationaler Hilfsorganisationen und die anhaltende humanitäre Krise vor Ort. Bislang sind keine Details über alternative Finanzierungsquellen oder kurzfristige Zusagen von Geberländern bekannt.",
-    "r": "Die Einschränkung humanitärer Hilfen für 1,6 Millionen auf 1,1 Millionen Menschen im Gazastreifen durch akute Finanznot verdeutlicht die Verschärfung der Krise. Solche Kürzungen haben direkte Auswirkungen auf die Grundversorgung der betroffenen Bevölkerung in dem Gebiet.",
-    "srcs": [
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-19T06:00:18.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9seUx2Zm44anRwdkxWd3pBQ0ZjcjV0WnlRTXhpaUNxeFNXNVBHWklTMEhJYVAwVnRiTzJhUGYxQWJBdDNvTlMxWWJDVWJOWTlqVXBTbWdDNnlldFU?oc=5",
-        "date": "2026-10-19T06:00:18.000Z"
-      }
-    ],
-    "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
-    "agree": "Die Quellen stimmen überein, dass das Welternährungsprogramm aufgrund von Finanzierungsschwierigkeiten gezwungen ist, seine Hilfsprogramme im Gazastreifen zu reduzieren.",
-    "diff": [
-      {
-        "name": "Google News World",
-        "note": "Verweist lediglich auf den Artikel der BBC und nennt dieselben Kernfakten zur Kürzung der Gaza-Hilfen."
-      },
-      {
-        "name": "BBC World",
-        "note": "Liefert die konkreten Zahlen, dass die Unterstützung von 1,6 auf 1,1 Millionen Menschen sinkt."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-f84ae5fb667d9c42",
-    "c": "INT",
-    "o": "PT",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-19T05:50:31.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Trump wirft Selenskyj vor, den Krieg nicht beenden zu wollen",
-    "s": "Der US-Präsident Donald Trump hat dem ukrainischen Präsidenten Volodymyr Selenskyj vorgeworfen, keinen Frieden mit Russland anstreben zu wollen. Die Äußerung fällt in eine Phase erhöhter diplomatischer Spannungen zwischen Washington und Kiew. Konkrete Hintergründe oder Details zu diesen Vorwürfen wurden in den vorliegenden Berichten nicht weiter ausgeführt.",
-    "m": "Der US-Präsident Donald Trump hat den ukrainischen Präsidenten Volodymyr Selenskyj öffentlich beschuldigt, die Beendigung des Krieges gegen Russland zu blockieren. Diese Vorwürfe äußert der US-Präsident vor dem Hintergrund jüngst gestiegener Spannungen im bilateralen Verhältnis zwischen Washington und Kiew. Weitere Details über die genauen Motive dieser Äußerungen oder konkrete Reaktionen aus der Ukraine gehen aus den Meldungen nicht hervor. Auch über mögliche Auswirkungen auf künftige US-Hilfen oder diplomatische Initiativen wird in den Berichten nichts Näheres mitgeteilt. Die Berichterstattung beschränkt sich im Wesentlichen auf die Feststellung der Anschuldigung von Trump gegenüber seinem ukrainischen Amtskollegen.",
-    "r": "Die Vorwürfe des US-Präsidenten gegen den ukrainischen Amtskollegen beleuchten die aktuellen diplomatischen Spannungen zwischen Washington und Kiew. Solche Äußerungen können direkten Einfluss auf die künftige internationale Unterstützung der Ukraine haben.",
-    "srcs": [
-      {
-        "name": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/guerra-na-ucrania/trump-acusa-zelensky-de-nao-querer-acabar-com-a-guerra_n1772561",
-        "date": "2026-10-19T05:50:31.000Z"
-      },
-      {
-        "name": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQVJtaHRNZVRLcE1PWjdJS3FxdzRwVmlzV3puZEpYcC1MQjVJcjJDNWN1T2dPTTdxV0lEdWc5LTR1OFIzYVItLUN1d3o3dFJ0R1RTRXB0amFQdjNXVGVjQURPLTVwand6elNWR1pjWXRONXZDNVFxVkNreDhZd3BTRGNMNjlQQTd6QnFiY0gzT2RpeUtBd1BQVmN30gGOAUFVX3lxTE8tNE1kRGV4bGZDU2traGhMZnZxNDdCbENLZzhiektRYTBvOWdCWTNBZDRVMFBWazRHUE5Yc2RyMnZQc2lDcGtsSEJaVS1LWWRERExPUUlFWFBKSkhGQ2J6Z1dKTHlhNThsX0JRY1h0aVpJYmhCY1c1RXNwd0VjaFFjcUg4eU9peXdLRHd6cHc?oc=5",
-        "date": "2026-10-19T00:06:00.000Z"
-      }
-    ],
-    "url": "https://www.rtp.pt/noticias/guerra-na-ucrania/trump-acusa-zelensky-de-nao-querer-acabar-com-a-guerra_n1772561",
-    "agree": "Beide Quellen berichten übereinstimmend, dass US-Präsident Donald Trump den ukrainischen Präsidenten Volodymyr Selenskyj beschuldigt hat, den Krieg nicht beenden zu wollen.",
-    "diff": [
-      {
-        "name": "RTP Notícias",
-        "note": "Berichtet direkt, dass Trump Zelensky beschuldigt hat, die Beendigung des Krieges nicht zu wollen, und erwähnt den Kontext steigender Spannungen zwischen Washington und Kiev."
-      },
-      {
-        "name": "Google News Portugal",
-        "note": "Verweist lediglich per Titel und Link auf den Artikel des Jornal de Notícias, der die gleiche Anschuldigung aufgreift."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-8f00b2341137cb8d",
-    "c": "INT",
-    "o": "INT",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-19T05:10:37.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "US-Präsident Donald Trump unterstützt Netanyahu im israelischen Wahlkampf",
-    "s": "US-Präsident Donald Trump hat sich öffentlich für den israelischen Ministerpräsidenten Benjamin Netanyahu im bevorstehenden Wahlkampf ausgesprochen. Die Unterstützung erfolgte kurz vor den Wahlen in Israel. Trump gilt als enger Verbündeter Netanyahus.",
-    "m": "US-Präsident Donald Trump hat seine offizielle Unterstützung für den israelischen Premierminister Benjamin Netanyahu im Vorfeld der israelischen Parlamentswahlen erklärt. Dieser Schritt unterstreicht die enge politische Verbindung zwischen den beiden Staatslenkern, die in der Vergangenheit bereits bei mehreren bedeutenden außenpolitischen Entscheidungen eng zusammengearbeitet haben. Beobachter bewerten die Wahlempfehlung als Versuch, Netanyahus politische Position im hart umkämpften Wahlkampf in Israel zu stärken. Die Reaktionen auf die Intervention des US-Präsidenten in den israelischen Wahlprozess fallen international unterschiedlich aus. Genauere Details zur offiziellen Bekanntgabe oder zu Reaktionen weiterer beteiligten Parteien und Akteure gehen aus den vorliegenden Meldungen nicht hervor.",
-    "r": "Die Unterstützung eines ausländischen Regierungschefs durch den US-Präsidenten im Vorfeld nationaler Wahlen ist ein bedeutendes diplomatisches Ereignis. Es kann direkten Einfluss auf die politische Stimmung und den Wahlausgang in Israel haben.",
-    "srcs": [
-      {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/us-president-donald-trump-endorses-netanyahu-for-israeli-election?traffic_source=rss",
-        "date": "2026-10-19T05:10:37.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SaHdLZERuUDhzYTkxTC1kdnppcnl5WlJsaU9ZbG1hZEZENHZCbERIVy15SzkydngyQzdNSVU4TW5CdVIzUzZNb1ByRUtFakVTVzd6RHhtb0ROUUZ4MmR1eElOcw?oc=5",
-        "date": "2026-10-19T02:22:29.000Z"
-      }
-    ],
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/us-president-donald-trump-endorses-netanyahu-for-israeli-election?traffic_source=rss",
-    "agree": "Beide Quellen stimmen darin überein, dass US-Präsident Donald Trump den israelischen Ministerpräsidenten Netanyahu für die bevorstehenden Wahlen unterstützt hat.",
-    "diff": [
-      {
-        "name": "Al Jazeera",
-        "note": "Berichtet kurz über die Unterstützung von Trump für Netanyahu bei der israelischen Wahl."
-      },
-      {
-        "name": "Google News World",
-        "note": "Verweist zusätzlich auf die Berichterstattung von NHK WORLD-JAPAN News im Zusammenhang mit der Wahlempfehlung."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-c1326e525f0517eb",
-    "c": "INT",
-    "o": "PT",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-19T00:38:00.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Schwere Unwetter fordern Todesopfer in Katalonien und sorgen für Zerstörungen in Spanien",
-    "s": "Eine heftige Mittelmeer-Tempestade hat in mehreren Regionen Spaniens schwere Schäden und Überschwemmungen verursacht. Nach Angaben der Behörden kam in Katalonien in der Nähe von Barcelona eine Person ums Leben. Auch die Region Valencia sowie die Inseln Ibiza und Maiorca sind von den Unwettern betroffen.",
-    "m": "Das Sturmtief wütete zunächst am Samstag in der Nähe von Barcelona in Katalonien, wo eine Person tödlich verunglückte. Am heutigen Tag breitete sich die mediterrane Tempestade weiter aus und führte zu massiven Invundationen sowie Zerstörungen in Valencia, Ibiza und Maiorca. Lokale Behörden bestätigten die Ereignisse und arbeiten an der Bewältigung der Schäden. Die genaue Schadensbilanz und das Ausmaß der Verwüstungen auf den Balearen und dem spanischen Festland werden noch ermittelt. Es handelt sich um ein meteorologisches Ereignis von erheblicher Intensität im westlichen Mittelmeerraum.",
-    "r": "Das Unwetter verdeutlicht die Gefahren extremer Wetterlagen im Mittelmeerraum, die zu Todesfällen und großflächigen Infrastrukturschäden führen können. Die Überwachung solcher Sturmtiefe ist für den Katastrophenschutz in Spanien von zentraler Bedeutung.",
-    "srcs": [
-      {
-        "name": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNHFJVkRBVnFzUkN1RkpFNUNZZ0lhSlphLTZNTXNSMjE4YjFrWTkxRU4tMTFWS3BVQ2h6NmppdjFfT1dsOUh3VzVVV2RxUnI2aENGNmcwVzdLeTJQMzMwMm9WM1pLaElrZVJmNksxRlNiZ2FtNWJMdXlZVXlSVTZOemZ0NkF2b3pYNXhDaW84akloeEJjb2tKcHJ4SGtuUFhNUUg4SUR5RC02d1ExMHdIT0xJeWZJbjNuZXFN0gGvAUFVX3lxTE5WTHVKOHl0M3VZRzVyX2xVUnRTUm84Z2JORDNDSHZYYnl6bDMwM3VlclE5TXFyeG1QMGtTd0VTbU40WGRiRmhFdngzOFhtdE9iTEhTWld4czNpZ2dsRTduaHo2Y0E3LTZuVzY5aHJuN1JYNFVnX3BialZOcmlOVFpXX2k0MVdZdEhRX1BORE1CNEhWQVhtMnkzeFpFMS1HdV9tYllXamtTcnZFazVINzg?oc=5",
-        "date": "2026-10-19T00:38:00.000Z"
-      },
-      {
-        "name": "RTP Mundo",
-        "url": "https://www.rtp.pt/noticias/mundo/tempestade-causa-um-morto-na-catalunha-e-destruicao-em-valencia-ibiza-e-maiorca_n1772526",
-        "date": "2026-10-18T22:34:05.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNHFJVkRBVnFzUkN1RkpFNUNZZ0lhSlphLTZNTXNSMjE4YjFrWTkxRU4tMTFWS3BVQ2h6NmppdjFfT1dsOUh3VzVVV2RxUnI2aENGNmcwVzdLeTJQMzMwMm9WM1pLaElrZVJmNksxRlNiZ2FtNWJMdXlZVXlSVTZOemZ0NkF2b3pYNXhDaW84akloeEJjb2tKcHJ4SGtuUFhNUUg4SUR5RC02d1ExMHdIT0xJeWZJbjNuZXFN0gGvAUFVX3lxTE5WTHVKOHl0M3VZRzVyX2xVUnRTUm84Z2JORDNDSHZYYnl6bDMwM3VlclE5TXFyeG1QMGtTd0VTbU40WGRiRmhFdngzOFhtdE9iTEhTWld4czNpZ2dsRTduaHo2Y0E3LTZuVzY5aHJuN1JYNFVnX3BialZOcmlOVFpXX2k0MVdZdEhRX1BORE1CNEhWQVhtMnkzeFpFMS1HdV9tYllXamtTcnZFazVINzg?oc=5",
-    "agree": "Beide Quellen stimmen überein, dass eine Sturmfront in Katalonien ein Todesopfer gefordert hat und Zerstörungen in Valencia, Ibiza sowie Maiorca verursacht wurden.",
-    "diff": [
-      {
-        "name": "Google News Portugal",
-        "note": "Berichtet über den Vorfall in Form einer Schlagzeile, die den Titel des Jornal de Notícias zitiert."
-      },
-      {
-        "name": "RTP Mundo",
-        "note": "Liefert die zusätzliche Information, dass es sich um eine mediterrane Sturmtemperature handelt, die am Samstag zum Todesfall führte und heute zu Überschwemmungen in den Balearen beitrug."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-3586e8b6abb1910f",
-    "c": "INT",
-    "o": "DE",
-    "k": "sport",
-    "lang": "de",
-    "d": "2026-10-19T00:07:22.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Real Madrid siegt gegen Sevilla vor Leipzig-Spiel in Champions League",
-    "s": "Real Madrid hat seine Generalprobe vor dem anstehenden Heimspiel gegen RB Leipzig in der spanischen Liga erfolgreich bestritten. Gegen den FC Sevilla gelang den Madrilenen ein Sieg. Maßgeblich am Erfolg beteiligt waren unter anderem Kylian Mbappé sowie ein ehemaliger Spieler von RB Leipzig.",
-    "m": "Die Generalprobe für das bevorstehende Heimspiel gegen RB Leipzig in der Champions League ist für Real Madrid gelungen. Beim Ligaspiel gegen den FC Sevilla fuhr die Mannschaft einen Sieg ein. Zu den auffälligen Akteuren auf dem Platz zählten Kylian Mbappé, der mit einem frechen Treffer glänzte, sowie ein ehemaliger Profi von RB Leipzig. Weitere Details zum genauen Spielverlauf, Torschützen oder dem Endstand nennen die vorliegenden Berichte nicht. Auch über mögliche Verletzungen oder taktische Aufstellungen wird in den kurzen Meldungen keine Auskunft gegeben.",
-    "r": "Die Meldung ist sportlich relevant, da Real Madrid als kommender Gegner von RB Leipzig im Fokus steht und seine Form unter Beweis gestellt hat.",
-    "srcs": [
-      {
-        "name": "Frankfurter Allgemeine",
-        "url": "https://www.faz.net/aktuell/sport/fussball/mbappe-trifft-per-panenka-real-madrid-siegt-gegen-sevilla-accg-201599367.html",
-        "date": "2026-10-19T00:07:22.000Z"
-      },
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/news/2026-10/18/mbapp-trifft-frech-real-madrid-siegt-gegen-sevilla",
-        "date": "2026-10-18T21:03:05.000Z"
-      }
-    ],
-    "url": "https://www.faz.net/aktuell/sport/fussball/mbappe-trifft-per-panenka-real-madrid-siegt-gegen-sevilla-accg-201599367.html",
-    "agree": "Beide Quellen stimmen überein, dass Real Madrid gegen Sevilla gewonnen hat und Kylian Mbappé dabei mit einem frechen Tor traf.",
-    "diff": [
-      {
-        "name": "Frankfurter Allgemeine",
-        "note": "Erwähnt zusätzlich, dass die Partie als Generalprobe für das Heimspiel gegen RB Leipzig galt und ein Ex-Leipziger glänzte."
       }
     ],
     "chg": "",
