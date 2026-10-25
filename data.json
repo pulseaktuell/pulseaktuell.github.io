@@ -1,5 +1,87 @@
 [
   {
+    "id": "story-16e6d21488d1abad",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-24T22:02:25.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Musk wirft Ukraine Nutzung von Starlink für Offensivangriffe vor",
+    "s": "Der SpaceX-Gründer Elon Musk wirft dem ukrainischen Militär vor, das Satelliteninternet Starlink für Offensivangriffe zu nutzen. Bislang wurde das System vor allem für Verteidigungszwecke in dem anhaltenden Konflikt eingesetzt. Nähere Details zu den Vorwürfen oder den genauen Umständen sind noch nicht umfassend bekannt. Die Situation wirft neue Fragen über den Einsatz der Technologie im Kriegsgeschehen auf.",
+    "m": "Im Rahmen des Krieges in der Ukraine steht das Satellitenkommunikationssystem Starlink im Fokus neuer Diskussionen. SpaceX-Gründer Elon Musk hat schwere Vorwürfe gegen das ukrainische Militär erhoben und behauptet, Starlink sei für militärische Offensivangriffe verwendet worden. Bislang galt die Nutzung des Systems durch die Ukraine offiziell und primär der Absicherung von Verteidigungszwecken sowie der Aufrechterhaltung der Kommunikationsinfrastruktur. Zeitgleich gibt es Berichte über einen ukrainischen Angriff auf eine wichtige Chemiefabrik, wobei der direkte Zusammenhang zwischen diesem Vorfall und Musks Aussagen in den Quellen nicht im Detail erläutert wird. Offen bleibt, welche konkreten Konsequenzen diese Vorwürfe für den weiteren Betrieb und die Bereitstellung von Starlink-Terminals in der Ukraine haben werden.",
+    "r": "Die Vorwürfe von Elon Musk betreffen die militärische Nutzung privater Technologie in einem kriegerischen Konflikt. Solche Entwicklungen sind von internationaler Relevanz, da sie die Unterstützung der Ukraine durch private Akteure beeinflussen können.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/politik/ausland/2026-10/elon-musk-starlink-ukraine-spacex",
+        "date": "2026-10-24T22:02:25.000Z"
+      },
+      {
+        "name": "t-online Nachrichten",
+        "url": "https://www.t-online.de/nachrichten/ukraine/id_101487440/ukraine-krieg-elon-musk-ukraine-nutzte-starlink-fuer-offensivangriffe.html",
+        "date": "2026-10-24T21:24:52.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/politik/ausland/2026-10/elon-musk-starlink-ukraine-spacex",
+    "agree": "Die Quellen sind sich einig, dass Elon Musk der Ukraine vorwirft, Starlink für Offensivangriffe genutzt zu haben.",
+    "diff": [
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Erwähnt explizit, dass Starlink bisher für Verteidigungszwecke gedient hat und Musk der Gründer von SpaceX ist."
+      },
+      {
+        "name": "t-online Nachrichten",
+        "note": "Berichtet zusätzlich über einen ukrainischen Angriff auf eine wichtige Chemiefabrik und führt die Meldung in einem Newsblog."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-ad61229833565b21",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-24T21:31:29.000Z",
+    "p": 3,
+    "st": "BY",
+    "city": "",
+    "t": "Frankreich: Erneute Proteste führen zu fast 1.000 Festnahmen",
+    "s": "Frankreich wurde von einer neuen Welle von Protesten erschüttert, die bis zum Abend rund 1.000 Festnahmen nach sich zogen. Die Behörden hatten zuvor ein massives Aufgebot von 70.000 Sicherheitskräften sowie gepanzerte Fahrzeuge und Wasserwerfer mobilisiert. Die Demonstrationen verliefen nach Angaben insgesamt etwas ruhiger als frühere Ausschreitungen, blieben jedoch konfliktbehaftet.",
+    "m": "Für die angekündigten Proteste rüstete sich der französische Staat mit einem Großeinsatz von 70.000 Sicherheitskräften, Wasserwerfern und gepanzerten Fahrzeugen. In Paris blieb die Lage zu Beginn des Tages zunächst ruhig, bevor die Situation am Abend eskalierte. Im Verlauf der Auseinandersetzungen kam es zu Gewalt gegen Polizisten, woraufhin auch Tränengas eingesetzt wurde. Am Ende des Tages zählten die Behörden landesweit fast 1.000 Festnahmen. Trotz der massiven Polizeipräsenz und der Konfrontationen kündigten die als \"Gelbwesten\" bezeichneten Akteure bereits weitere Aktionen an. Der genaue Hintergrund der erneuten Protestwelle wird im Detail in den Quellen nicht weiter ausgeführt, jedoch zeigen die Ereignisse eine anhaltende gesellschaftliche Anspannung in Frankreich.",
+    "r": "Die anhaltenden Massenproteste und die fast 1.000 Festnahmen in Frankreich verdeutlichen die fortbestehende innenpolitische und gesellschaftliche Krise. Der Großeinsatz von 70.000 Sicherheitskräften zeigt die Dimension der staatlichen Reaktionen auf die Protestwellen.",
+    "srcs": [
+      {
+        "name": "t-online Nachrichten",
+        "url": "https://www.t-online.de/nachrichten/ausland/id_101496056/frankreich-proteste-eskalieren-am-abend-fast-1000-festnahmen.html",
+        "date": "2026-10-24T21:31:29.000Z"
+      },
+      {
+        "name": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/proteste-in-frankreich-demonstrationsverbote-und-135-festnahmen,VYyQdL8",
+        "date": "2026-10-24T20:14:43.000Z"
+      }
+    ],
+    "url": "https://www.t-online.de/nachrichten/ausland/id_101496056/frankreich-proteste-eskalieren-am-abend-fast-1000-festnahmen.html",
+    "agree": "Beide Quellen stimmen überein, dass die Proteste in Frankreich stattgefunden haben und dabei fast 1.000 Festnahmen registriert wurden.",
+    "diff": [
+      {
+        "name": "t-online Nachrichten",
+        "note": "Berichtet spezifisch, dass es in Paris zunächst ruhig blieb und die Situation erst am Abend eskalierte, sowie über den Einsatz gepanzerter Fahrzeuge."
+      },
+      {
+        "name": "BR24 Bayern",
+        "note": "Erwähnt den Einsatz von Tränengas, dass die Proteste insgesamt ruhiger als zuletzt verliefen und dass die \"Gelbwesten\" bereits weitere Aktionen angekündigt haben."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-3a7762e1a4401b58",
     "c": "INT",
     "o": "PT",
@@ -31,6 +113,47 @@
       {
         "name": "Google News Portugal",
         "note": "Verweist auf RTP als ursprüngliche Quelle und enthält HTML-Links im Text."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-96cd51f108fa2848",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-24T19:29:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Erneut schwere Ausschreitungen bei landesweiten Protesten in Frankreich",
+    "s": "Hunderttausende Menschen haben in Frankreich gegen ungenannte Missstände demonstriert. Trotz des Einsatzes von Zehntausenden Polizisten eskalierte die Situation in Paris und anderen Städten am Abend. Die Einsatzkräfte gingen mit Tränengas, Wasserwerfern und Schlagstöcken gegen die Demonstranten vor.",
+    "m": "Die Behörden verzeichneten landesweit mehr als 400.000 Teilnehmer, allein in Paris sollen 110.000 Menschen auf die Straße gegangen sein. Innenminister Gérald Darmanin versuchte das Geschehen mit einem Aufgebot von bis zu 70.000 Sicherheitskräften zu kontrollieren, was jedoch weitgehend misslang. Während der Tag zunächst friedlich verlaufen war, kippte die Stimmung mit Einbruch der Dunkelheit spürbar. Neben der Hauptstadt kam es unter anderem in Lyon zu heftigen Zusammenstößen zwischen gewalttätigen Gruppen und der Polizei. Die Sicherheitskräfte reagierten darauf in mehreren Regionen frühzeitig mit dem massiven Einsatz von Tränengas und Wasserwerfern. Über Verletzte oder genaue Schadensbilanzen machten die vorliegenden Berichte keine Angaben.",
+    "r": "Die massiven gewalttätigen Ausschreitungen trotz eines massiven Polizeiaufgebots zeigen die anhaltende und ungelöste gesellschaftliche Spannung in Frankreich. Die Ereignisse verdeutlichen die Schwierigkeiten der Regierung, die Proteste unter Kontrolle zu halten.",
+    "srcs": [
+      {
+        "name": "Rheinische Post",
+        "url": "https://rp-online.de/politik/ausland/frankreich-innenministerium-zaehlt-410000-bei-protesten-polizei-mit-traenengas_aid-157171043",
+        "date": "2026-10-24T19:29:00.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/frankreich-hunderttausende-demonstrieren-polizei-setzt-traenengas-ein-a-3570c8f2-a8e5-4574-8b56-c2bd4c85e08a#ref=rss",
+        "date": "2026-10-24T17:17:00.000Z"
+      }
+    ],
+    "url": "https://rp-online.de/politik/ausland/frankreich-innenministerium-zaehlt-410000-bei-protesten-polizei-mit-traenengas_aid-157171043",
+    "agree": "Die Quellen stimmen überein, dass es in Frankreich zu landesweiten Demonstrationen von Hunderttausenden Menschen kam, bei denen die Lage am Abend eskalierte und die Polizei Tränengas sowie Wasserwerfer einsetzte.",
+    "diff": [
+      {
+        "name": "Rheinische Post",
+        "note": "Nennt konkrete Teilnehmerzahlen mit 110.000 in Paris und über 400.000 landesweit und erwähnt den Einsatz von Schlagstöcken."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Erwähnt die Zahl von bis zu 70.000 eingesetzten Polizisten, den französischen Innenminister und die Eskalation in Lyon."
       }
     ],
     "chg": "",
@@ -275,10 +398,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Brand auf Hitlers ehemaligem Bergbahnhof Kehlsteinhaus in Bayern ausgebrochen",
-    "s": "In Bayern ist ein Feuer auf dem Kehlsteinhaus, Adolf Hitlers ehemaligem Bergretreat, ausgebrochen. Die Polizei in Süddeutschland hat einen 33-jährigen deutschen Tatverdächtigen vorläufig festgenommen. Rettungskräfte und Einsatzkräfte sind vor Ort, um die Lage unter Kontrolle zu bringen.",
-    "m": "Ein Brand hat das Kehlsteinhaus, das historische Bergretreat von Adolf Hitler in den bayerischen Bergen, schwer beschädigt. Gegen den Vorfall reagierten die lokalen Behörden umgehend mit einem Großaufgebot von rund 200 Einsatzkräften der Feuerwehr, die vor Ort gegen die Flammen kämpften. Die Polizei im süddeutschen Bundesland Bayern leitete sofort Ermittlungen ein und konnte kurz nach Ausbruch des Feuers einen 33-jährigen deutschen Staatsbürger als Tatverdächtigen festnehmen. Zu den Hintergründen der Brandstiftung oder dem genauen Ausmaß des Sachschadens an dem historischen Bauwerk liegen noch keine detaillierten offiziellen Angaben vor. Die Ermittlungen der Kriminalpolizei zur Brandursache dauern weiter an.",
-    "r": "Der Brand an einem historischen und touristisch bedeutsamen Ort wie Hitlers ehemaligem Retreat in Bayern zieht aufgrund der Dimension und des Großeinsatzes mediale Aufmerksamkeit nach sich. Die Festnahme eines Verdächtigen wirft Fragen zur Sicherheit solcher Denkmäler auf.",
+    "t": "Feuer auf Hitlers ehemaligem Bergbahnhof Kehlsteinhaus in Bayern",
+    "s": "Auf dem Kehlsteinhaus, Adolf Hitlers ehemaligem Bergretreat im Süden von Deutschland, ist ein Feuer ausgebrochen. Rund zweihundert Einsatzkräfte der Feuerwehr wurden zur Bekämpfung des Brandes entsandt. Die Polizei in Bayern hat einen Tatverdächtigen festgenommen.",
+    "m": "Das Feuer brach auf dem historischen Kehlsteinhaus aus, das als Hitlers ehemaliges Bergretreat in den bayerischen Bergen bekannt ist. Um den Brand unter Kontrolle zu bringen, waren etwa 200 Feuerwehrleute im Einsatz. Die genaue Schadenshöhe ist derzeit noch nicht beziffert. Im Zuge der Ermittlungen hat die bayerische Polizei einen 33-jährigen deutschen Mann festgenommen. Ob es sich hierbei um den alleinigen Brandstifter handelt und was das genaue Motiv ist, wird derzeit noch von den Behörden untersucht. Die Löscharbeiten gestalteten sich aufgrund der exponierten Lage auf dem Berg als herausfordernd.",
+    "r": "Brände an historischen und touristisch bedeutsamen Orten erfordern Großeinsätze der Rettungskräfte und bergen das Risiko unwiederbringlicher kultureller Schäden. Der Vorfall auf dem bekannten Areal führt zu polizeilichen Ermittlungen und Festnahmen.",
     "srcs": [
       {
         "name": "BBC World",
@@ -292,11 +415,15 @@
       }
     ],
     "url": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&at_campaign=rss",
-    "agree": "Die Quellen stimmen überein, dass auf Hitlers ehemaligem Bergretreat in Süddeutschland ein Feuer ausgebrochen ist und die Polizei einen 33-jährigen deutschen Tatverdächtigen festgenommen hat.",
+    "agree": "Die Quellen stimmen überein, dass auf Hitlers ehemaligem Bergretreat Kehlsteinhaus in Bayern ein Feuer ausgebrochen ist und die Polizei einen Verdächtigen festgenommen hat.",
     "diff": [
       {
+        "name": "BBC World",
+        "note": "Berichtet spezifisch, dass es sich bei dem Festgenommenen um einen 33-jährigen deutschen Mann handelt."
+      },
+      {
         "name": "Euronews",
-        "note": "Euronews nennt zusätzlich, dass rund 200 Feuerwehrleute im Einsatz waren, um den Brand zu bekämpfen."
+        "note": "Erwähnt, dass etwa 200 Feuerwehrleute zur Brandbekämpfung eingesetzt wurden."
       }
     ],
     "chg": "",
@@ -354,9 +481,9 @@
     "st": "BW",
     "city": "",
     "t": "Mannheim: E-Scooter-Fahrer schießt auf Fußgänger",
-    "s": "In Mannheim hat ein E-Scooter-Fahrer in der Nacht zum Samstag zwei Fußgänger mit einer Schreckschusswaffe bedroht. Dabei gab er zwei Schüsse ab. Ein Fußgänger wurde durch den Vorfall leicht verletzt. Die Hintergründe der Tat und die Identität des Täters sind Gegenstand der Ermittlungen.",
-    "m": "Der Vorfall ereignete sich in der Nacht zum Samstag in Mannheim. Ein bislang unbekannter E-Scooter-Fahrer geriet mit zwei Fußgängern in Konflikt und zog eine Schreckschusswaffe. Er bedrohte die beiden Personen und schoss zweimal in ihre Richtung. Einer der beiden Fußgänger erlitt dabei leichte Verletzungen. Die Polizei hat die Ermittlungen aufgenommen, um den genauen Tathergang und die Motivlage zu klären. Weitere Details zu dem Täter oder möglichen Festnahmen wurden zunächst nicht bekannt gegeben.",
-    "r": "Der Vorfall verdeutlicht Gefahren im nächtlichen Straßenverkehr durch den Einsatz von Waffen bei Konflikten zwischen Verkehrsteilnehmern. Körperverletzungen im öffentlichen Raum erfordern ein Einschreiten der Sicherheitsbehörden zur Aufklärung.",
+    "s": "In Mannheim hat ein E-Scooter-Fahrer in der Nacht auf Samstag zwei Fußgänger bedroht und mit einer Schreckschusswaffe auf sie geschossen. Dabei wurde einer der Fußgänger leicht verletzt.",
+    "m": "Der Vorfall ereignete sich in der Nacht zum Samstag in Mannheim. Ein bislang nicht namentlich genannter E-Scooter-Fahrer geriet mit zwei Fußgängern in Konflikt. Im Verlauf der Auseinandersetzung bedrohte er die Personen und feuerte zwei Mal mit einer Schreckschusswaffe auf sie ab. Einer der beiden Fußgänger erlitt durch den Vorfall leichte Verletzungen. Die genauen Hintergründe sowie das Motiv für die Attacke sind derzeit noch unklar und Gegenstand weiterer Ermittlungen.",
+    "r": "Der Vorfall verdeutlicht Gefahren im nächtlichen Stadtraum durch aggressive Verkehrsteilnehmer und den Einsatz waffenähnlicher Gegenstände. Zudem zeigt er das Risiko von Eskalationen im Konflikt zwischen E-Scooter-Nutzern und Fußgängern.",
     "srcs": [
       {
         "name": "SWR Aktuell Baden-Württemberg",
@@ -370,7 +497,7 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/mannheim-e-scooter-fahrer-schiesst-mit-schreckschusswaffe-auf-zwei-maenner-100.html",
-    "agree": "Beide Quellen stimmen darin überein, dass ein E-Scooter-Fahrer in der Nacht zum Samstag in Mannheim zwei Fußgänger mit einer Schreckschusswaffe bedroht, zwei Mal auf sie geschossen hat und dabei ein Mann leicht verletzt wurde.",
+    "agree": "Beide Quellen stimmen darin überein, dass ein E-Scooter-Fahrer in der Nacht auf Samstag in Mannheim zwei Fußgänger bedroht, mit einer Schreckschusswaffe zwei Mal auf sie geschossen hat und dabei ein Mann leicht verletzt wurde.",
     "diff": [],
     "chg": "",
     "independent": 2
@@ -580,16 +707,16 @@
     "id": "story-4664a791d853de28",
     "c": "INT",
     "o": "UK",
-    "k": "panorama",
+    "k": "politik",
     "lang": "de",
     "d": "2026-10-24T14:24:15.000Z",
     "p": 4,
     "st": "",
     "city": "",
-    "t": "Attentat auf Beerdigung in Jordanien fordert mehrere Tote",
-    "s": "Bei einem seltenen Anschlag auf eine Kirche in Jordanien haben Bewaffnete während einer Trauerfeier das Feuer eröffnet. Die Attacke auf die christliche Minderheit ereignete sich am Freitag. Behörden stuften den Angriff als Terrorakt von Extremisten ein.",
-    "m": "Am Freitag ereignete sich in Jordanien ein seltener und gewaltsamer Anschlag auf die christliche Minderheit des Landes. Drei bewaffnete Angreifer näherten sich während einer Trauerfeier einer griechisch-orthodoxen Kirche und eröffneten das Feuer. Aufnahmen des staatlichen jordanischen Fernsehens dokumentierten die Tat. Die Behörden stuften den Vorfall offiziell als Terrorakt von Extremisten ein. Bei dem Angriff wurden Dutzende Menschen verletzt; die Zahl der Todesopfer wird je nach Quelle unterschiedlich beziffert.",
-    "r": "Der Terroranschlag auf eine christliche Minderheit in Jordanien ist von hoher sicherheitspolitischer Relevanz für das ansonsten als stabil geltende Land im Nahen Osten.",
+    "t": "Attentat auf Trauergemeinde in Jordanien mit Toten und Verletzten",
+    "s": "Bei einem seltenen Anschlag auf eine Kirche in Jordanien haben bewaffnete Angreifer während einer Trauerfeier das Feuer eröffnet. Behörden stufen die Tat am Freitag als terroristischen Akt von Extremisten ein. Auf staatlichen Fernsehaufnahmen war zu sehen, wie sich drei Angreifer dem Gebäude näherten. Die genaue Zahl der Opfer wird in ersten Berichten unterschiedlich beziffert.",
+    "m": "Der Vorfall ereignete sich am Freitag an einer griechisch-orthodoxen Kirche in Jordanien, als dort eine Beerdigung stattfand. Drei Angreifer näherten sich dem Gotteshaus und schossen auf die Anwesenden, was Behörden als terroristischen Akt von Extremisten einstuften. Es handelt sich um einen in Jordanien seltenen Anschlag auf die dortige christliche Minderheit. Die Zahl der Verletzten wird übereinstimmend mit 40 angegeben. Bei den Todesopfern gibt es in den ersten Meldungen jedoch Diskrepanzen zwischen sieben und neun Getöteten. Zudem wurde der genaue Ort des Geschehens in einer der Meldungen präzisiert.",
+    "r": "Der Anschlag auf eine christliche Minderheit in Jordanien ist ein sicherheitspolitisches Ereignis mit internationaler Beachtung. Die Einstufung als terroristischer Akt durch die Behörden verdeutlicht die Bedrohung durch Extremismus in der Region.",
     "srcs": [
       {
         "name": "Guardian World",
@@ -603,15 +730,15 @@
       }
     ],
     "url": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan",
-    "agree": "Die Quellen stimmen überein, dass drei bewaffnete Angreifer am Freitag das Feuer auf einer griechisch-orthodoxen Kirche in Jordanien während einer Beerdigung eröffneten und 40 Menschen verletzt wurden.",
+    "agree": "Die Quellen stimmen überein, dass drei bewaffnete Angreifer am Freitag das Feuer auf eine griechisch-orthodoxe Kirche in Jordanien während einer Trauerfeier eröffneten und dabei rund 40 Menschen verletzt wurden.",
     "diff": [
       {
         "name": "Guardian World",
-        "note": "Berichtet von neun Toten und dass der Angriff in der Stadt Karak stattfand, während NPR World von sieben Toten spricht."
+        "note": "Berichtet von neun Toten und bezeichnet den Anschlag als seltenen Angriff auf die christliche Minderheit Jordaniens."
       },
       {
         "name": "NPR World",
-        "note": "Nennt die Stadt Karak als Tatort und gibt die Zahl der Toten mit sieben an."
+        "note": "Beziffert die Zahl der Todesopfer auf sieben und nennt die Stadt Karak als Handlungsort."
       }
     ],
     "chg": "",
@@ -653,6 +780,47 @@
       {
         "name": "Tagesschau",
         "note": "Nennt die konkrete Zahl von 70.000 eingesetzten Ordnungskräften und mehr als 100 Festnahmen bis zum frühen Nachmittag sowie den Bezug zur Vorwoche."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-f3c3689c6df41125",
+    "c": "INT",
+    "o": "DE",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-24T14:07:07.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Ski-Juwel Emma Aicher rast beim Weltcup-Auftakt in Sölden auf Platz drei",
+    "s": "Beim Weltcup-Auftakt in Sölden hat Emma Aicher den dritten Platz im Riesenslalom erreicht. Damit gelingt ihr das erste Riesenslalom-Podest ihrer Karriere. Der Sieg beim Saisoneinstieg ging an eine Athletin aus den USA, allerdings nicht an die Top-Favoritin Mikaela Shiffrin.",
+    "m": "Die deutsche Skirennfahrerin Emma Aicher ist beim traditionellen Weltcup-Auftakt auf dem Rettenbachgletscher in Sölden sensationell auf das Podest gefahren. Mit dem dritten Platz im Riesenslalom sicherte sie sich ihre erste Podiumsplatzierung in dieser Disziplin und setzte zum Saisonbeginn ein starkes sportliches Ausrufezeichen. Angesichts dieser starken Frühform wird in den Medien bereits spekuliert, ob sie im weiteren Verlauf der Saison eine Rolle im Kampf um den Gesamtweltcup spielen kann. Den Tagessieg sicherte sich eine US-Amerikanerin, während die prominente Landsfrau Mikaela Shiffrin das oberste Podest verpasste. Nähere Details zum Rennverlauf, den genauen Laufzeiten oder den Platzierungen weiterer Konkurrentinnen nennen die Berichte nicht.",
+    "r": "Der erste Weltcup-Riesenslalom der Saison in Sölden liefert wichtige erste Aufschlüsse über die Form der Athletinnen. Die starke Platzierung von Emma Aicher auf dem Podest zeigt das deutsche Potenzial zum Saisonstart.",
+    "srcs": [
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/sport/emma-aicher-rast-in-soelden-auf-platz-drei-erstes-riesenslalom-podest-YOSLDJ5JCFC3VO4CARI4YUL4SE.html",
+        "date": "2026-10-24T14:07:07.000Z"
+      },
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/sport/saisonstart-in-soelden--jagd-eroeffnet--ski-juwel-aicher-rast-direkt-auf-das-podest-38446088.html",
+        "date": "2026-10-24T13:53:23.000Z"
+      }
+    ],
+    "url": "https://www.rnd.de/sport/emma-aicher-rast-in-soelden-auf-platz-drei-erstes-riesenslalom-podest-YOSLDJ5JCFC3VO4CARI4YUL4SE.html",
+    "agree": "Beide Quellen stimmen überein, dass Emma Aicher beim Weltcup-Auftakt in Sölden im Riesenslalom den dritten Platz belegt hat, eine US-Amerikanerin (nicht Shiffrin) gewonnen hat und Aicher damit ein Ausrufezeichen setzt.",
+    "diff": [
+      {
+        "name": "RND",
+        "note": "Enthält die zusätzliche Frage, ob Emma Aicher tatsächlich um den Gesamtsieg fährt."
+      },
+      {
+        "name": "stern",
+        "note": "Bezeichnet Emma Aicher als Ski-Juwel und betitelt den Start als 'Jagd eröffnet'."
       }
     ],
     "chg": "",
@@ -1227,9 +1395,9 @@
     "st": "BW",
     "city": "",
     "t": "Anton Meinzer ist Schätzer im Leihamt in Mannheim",
-    "s": "Anton Meinzer arbeitet als Schätzer für alte Schmuckstücke im Leihamt in Mannheim. Zu ihm kommen Kundinnen und Kunden, die den Wert ihrer Gegenstände ermitteln lassen möchten. Für Meinzer handelt es sich dabei um einen Traumjob.",
-    "m": "Im Mannheimer Leihamt ist Anton Meinzer als Schätzer tätig. Seine tägliche Arbeit besteht darin, alte Schmuckstücke und Wertsachen zu bewerten, die von Kundschaft zur Schätzung eingereicht werden. Die Berichte beschreiben seine Tätigkeit im Leihamt als seinen absoluten Traumjob und betonen die Besonderheit dieses Arbeitsplatzes. Konkrete Zahlen, ein genauer zeitlicher Ablauf oder weitere Hintergründe werden in den Berichten nicht genannt. Auch mögliche Folgen oder offene Punkte bleiben unerwähnt.",
-    "r": "Die Meldung beleuchtet den Berufsalltag eines Schätzers in einem regionalen Leihamt. Sie gibt Einblicke in die Bewertung von Wertgegenständen im Kundenauftrag.",
+    "s": "Anton Meinzer arbeitet als Schätzer für alte Schmuckstücke im Leihamt in Mannheim. Zu ihm kommen Kundinnen und Kunden, die den Wert ihrer Wertsachen bestimmen lassen möchten. Für ihn handelt es sich dabei um seinen absoluten Traumjob.",
+    "m": "Anton Meinzer geht seiner Tätigkeit als Schätzer im Mannheimer Leihamt nach. In dieser Funktion bewertet er mitgebrachte alte Schmuckstücke von Kundschaft, die den genauen Wert der Gegenstände erfahren will. Die Berichte beschreiben seine berufliche Tätigkeit als einen absoluten Traumjob für ihn. Weitere Details zu Abläufen, genauen Kundenzahlen oder spezifischen Objekten werden in den vorliegenden Berichten nicht genannt. Der genaue Hintergrund und weitere beteiligte Personen bleiben unerwähnt.",
+    "r": "Die Meldung beleuchtet den Berufsalltag eines Schätzers im Leihamt Mannheim und gibt Einblicke in diesen speziellen Arbeitsbereich. Sie zeigt beispielhaft die Tätigkeit auf, die Menschen bei der Bewertung von Schmuckstücken in Anspruch nehmen.",
     "srcs": [
       {
         "name": "SWR Aktuell Baden-Württemberg",
@@ -1243,15 +1411,15 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/anton-meinzer-ist-schaetzer-im-leihamt-100.html",
-    "agree": "Beide Quellen stimmen überein, dass Anton Meinzer als Schätzer für alte Schmuckstücke im Leihamt in Mannheim arbeitet und dies als seinen Traumjob ansieht.",
+    "agree": "Beide Quellen stimmen darin überein, dass Anton Meinzer als Schätzer für alte Schmuckstücke im Leihamt in Mannheim arbeitet und dies als seinen Traumjob ansieht.",
     "diff": [
       {
         "name": "SWR Aktuell Baden-Württemberg",
-        "note": "Betitelt den Beitrag mit 'Schönster Arbeitsplatz'."
+        "note": "Die Quelle betitelt den Beitrag mit 'Schönster Arbeitsplatz': Anton Meinzer schätzt alte Schmuckstücke."
       },
       {
         "name": "Tagesschau Regional Baden-Württemberg",
-        "note": "Betitelt den Beitrag mit 'Gold, Silber, Münzen'."
+        "note": "Die Quelle nennt im Titel zusätzlich die Materialien Gold, Silber, Münzen."
       }
     ],
     "chg": "",
@@ -15823,166 +15991,6 @@
       {
         "name": "Google News DE",
         "note": "Verweist lediglich knapp auf die Schlagzeile und die Live-Übertragung im Netz."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-5e019a62c036e3db",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-18T18:28:23.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Hubertus Heil erwägt mögliche Kandidatur für den SPD-Vorsitz im Januar",
-    "s": "Der frühere Bundesarbeitsminister Hubertus Heil zieht eine Kandidatur für den SPD-Vorsitz in Betracht. Auf einem Sonderparteitag im Januar soll eine neue Parteispitze gewählt werden. Heil schließt einen entsprechenden Antritt für das Amt nicht aus.",
-    "m": "Im Rennen um die neue SPD-Spitze bringt sich der frühere Bundesarbeitsminister Hubertus Heil ins Gespräch. Auf einem für Januar geänderten Sonderparteitag will die Partei einen neuen Vorsitz wählen. Heil ließ durch verlauten, dass er eine Kandidatur derzeit nicht ausschließen kann. Der Politiker knüpft seine mögliche Entscheidung maßgeblich an die inhaltliche Ausrichtung der Sozialdemokraten in den kommenden Wochen. Bislang ist unklar, welche weiteren Personen ihren Hut in den Ring werfen werden.",
-    "r": "Die mögliche Kandidatur eines prominenten Ex-Ministers ist ein wichtiger Personalaspekt für die bevorstehende Neuaufstellung der SPD im Januar.",
-    "srcs": [
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/politik/Ex-Minister-Hubertus-Heil-erwaegt-Kandidatur-fuer-SPD-Vorsitz-id31431907.html",
-        "date": "2026-10-18T18:28:23.000Z"
-      },
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/politik/article6ad4fbf6bbcd3ed7e3024cb6/vor-dem-sonderparteitag-kann-es-nicht-ausschliessen-hubertus-heil-deutet-kandidatur-fuer-spd-vorsitz-im-januar-an.html",
-        "date": "2026-10-18T17:10:36.000Z"
-      }
-    ],
-    "url": "https://www.n-tv.de/politik/Ex-Minister-Hubertus-Heil-erwaegt-Kandidatur-fuer-SPD-Vorsitz-id31431907.html",
-    "agree": "Die Quellen sind sich einig, dass der ehemalige Bundesarbeitsminister Hubertus Heil eine Kandidatur für den SPD-Vorsitz im Januar nicht ausschließt.",
-    "diff": [
-      {
-        "name": "ntv",
-        "note": "Erwähnt zusätzlich, dass Heil aus Niedersachsen stammt und seine Entscheidung von der inhaltlichen Aufstellung der SPD in den kommenden Wochen abhängig macht."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-c35d39f15d6a4048",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-18T18:20:56.000Z",
-    "p": 4,
-    "st": "BY",
-    "city": "",
-    "t": "USA liefern Ukraine wieder Geheimdienstinformationen zur Raketenabwehr",
-    "s": "Die Vereinigten Staaten versorgen die Ukraine nach einer vorherigen Unterbrechung wieder mit Geheimdienstinformationen. Dies gab der ukrainische Präsident Wolodymyr Selenskyj bekannt. Die Daten dienen der gezielten Abwehr russischer Raketenangriffe auf ukrainisches Gebiet.",
-    "m": "Der ukrainische Präsident Wolodymyr Selenskyj hat bestätigt, dass die USA den Informationsfluss wieder aufgenommen haben. Konkret erhalten die ukrainischen Streitkräfte nun wieder Geheimdienstdaten, die für die Abwehr russischer Raketenangriffe entscheidend sind. Selenskyj äußerte sich in diesem Zusammenhang dankbar für die Unterstützung. Gleichzeitig betonte er jedoch auch eine gewisse Besorgnis hinsichtlich des generellen US-Kurses gegenüber Moskau. Nähere Details zu den Hintergründen der vorangegangenen Unterbrechung oder dem genauen Zeitpunkt der Wiederaufnahme nennen die Berichte nicht. Auch offene Fragen zur künftigen strategischen Ausrichtung der US-Hilfen bleiben vorerst bestehen.",
-    "r": "Die Wiederaufnahme der US-Geheimdiensthilfen ist zentral für die militärische Verteidigungsfähigkeit der Ukraine gegen russische Angriffe. Gleichzeitig verdeutlichen Selenskyjs Sorgen über den US-Kurs potenzielle diplomatische Spannungen oder Kurswechsel.",
-    "srcs": [
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/ukraine-ticker-republikaner-kritisieren-trumps-russland-kurs,VYN6RXO",
-        "date": "2026-10-18T18:20:56.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/ausland/ukraine-usa-liefern-der-ukraine-laut-selenskyj-wieder-daten-zur-abwehr-von-raketenangriffen-a-d5de6de1-daba-4c30-99d9-2e21ffd87859#ref=rss",
-        "date": "2026-10-18T14:53:00.000Z"
-      }
-    ],
-    "url": "https://www.br.de/nachrichten/deutschland-welt/ukraine-ticker-republikaner-kritisieren-trumps-russland-kurs,VYN6RXO",
-    "agree": "Beide Quellen stimmen überein, dass die USA nach einer Unterbrechung wieder Geheimdienstinformationen zur Raketenabwehr an die Ukraine liefern und Selenskyj sich besorgt über den US-Kurs äußerte.",
-    "diff": [
-      {
-        "name": "BR24 Bayern",
-        "note": "Erwähnt zusätzlich, dass Selenskyj sich dankbar für die Lieferung gezeigt hat."
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "Berichtet prägnanter, ohne die explizite Dankbarkeitsäußerung Selenskyjs zu nennen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-682c30dcf61b4965",
-    "c": "INT",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-18T18:13:53.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Ecuador: Priester stirbt durch herabfallendes Kreuz bei Live-Messe",
-    "s": "In Ecuador ist ein katholischer Priester während einer Messe durch ein herabfallendes Holzkreuz tödlich verletzt worden. Das Unglück ereignete sich in einer Kirche und wurde per Live-Stream im Internet übertragen.",
-    "m": "Das tödliche Unglück ereignete sich mitten in einer religiösen Messe in Ecuador. Ein schweres Holzkreuz löste sich und traf den Priester so unglücklich, dass er starb. Besondere Aufmerksamkeit erlangt der Vorfall dadurch, dass der Gottesdienst zum Zeitpunkt des Unfalls live übertragen wurde und die Szenen folglich vor laufenden Kameras stattfanden. Weitere Details zum genauen Hergang, dem Zustand des Kreuzes oder Reaktionen der Gemeinde wurden in den Berichten bisher nicht genannt.",
-    "r": "Der Vorfall zeigt ein tragisches und ungewöhnliches Unglück während einer öffentlichen Kirchenveranstaltung. Die Live-Übertragung sorgt für eine breite visuelle Dokumentation des Ereignisses.",
-    "srcs": [
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/news/2026-10/18/ecuador-priester-bei-messe-von-kreuz-erschlagen",
-        "date": "2026-10-18T18:13:53.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/ausland/ecuador-katholischer-priester-bei-messe-von-kreuz-erschlagen-a-20df0e2b-d9b8-4f95-be3c-e8644185347b#ref=rss",
-        "date": "2026-10-18T17:25:00.000Z"
-      }
-    ],
-    "url": "https://www.zeit.de/news/2026-10/18/ecuador-priester-bei-messe-von-kreuz-erschlagen",
-    "agree": "Die Quellen stimmen überein, dass ein Priester in Ecuador während einer Messe von einem herabfallenden Kreuz erschlagen wurde.",
-    "diff": [
-      {
-        "name": "ZEIT ONLINE",
-        "note": "Berichtet in der Überschrift, dass der Priester während einer Messe erschlagen wurde, liefert im Kurztitel jedoch keinen Fließtext."
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "Ergänzt, dass es sich um einen katholischen Priester handelte und das Unglück vor laufender Kamera bei einer Live-Übertragung geschah."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-30333e08ae0447b1",
-    "c": "INT",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-18T18:13:46.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Erneut schwere Ausschreitungen und Plünderungen in Paris",
-    "s": "Nach den gewaltsamen Exzessen des Vortages ist es in Paris erneut zu Krawallen gekommen. Am Platz der Republik wurden Geschäfte geplündert. Die Polizei ging mit Tränengas gegen die Ausschreitungen vor.",
-    "m": "Nach den gewaltsamen Exzessen des Vortages kommt es in der französischen Hauptstadt Paris erneut zu schweren Krawallen. Im Bereich des Platzes der Republik kam es zu Plünderungen von Geschäften, woraufhin die Einsatzkräfte der Polizei mit Tränengas reagierten. Die Situation im Land bleibt angespannt und die Behörden versuchen, die Kontrolle wiederherzustellen. Parallel dazu wurden auch aus anderen Landesteilen Vorfälle gemeldet. So verlor im ostfranzösischen Mulhouse eine Jugendliche infolge der gewaltsamen Auseinandersetzungen ein Auge. Die genauen Hintergründe und die Identität der Täter sind Gegenstand weiterer Ermittlungen. Die anhaltende Gewalt sorgt in ganz Frankreich für große Besorgnis und wirft Fragen zum Schutz der öffentlichen Sicherheit auf.",
-    "r": "Die erneuten Krawalle in Paris und Mulhouse unterstreichen die anhaltende Eskalation der Gewalt in Frankreich. Schwere Sachschäden wie Plünderungen und schwere Verletzungen wie der Verlust eines Auges verdeutlichen die Dimension der Ausschreitungen.",
-    "srcs": [
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/news/2026-10/18/frankreichs-protesttag-endet-in-gewalt-und-pluenderungen",
-        "date": "2026-10-18T18:13:46.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/ausland/frankreich-neue-ausschreitungen-in-paris-polizei-setzt-traenengas-ein-a-1aa579b7-f840-4e26-8dab-70ceb24addc7#ref=rss",
-        "date": "2026-10-18T16:43:00.000Z"
-      }
-    ],
-    "url": "https://www.zeit.de/news/2026-10/18/frankreichs-protesttag-endet-in-gewalt-und-pluenderungen",
-    "agree": "Beide Quellen stimmen darin überein, dass es nach den Krawallen des Vortages in Paris zu erneuter Gewalt kam und die Polizei Tränengas einsetzte.",
-    "diff": [
-      {
-        "name": "ZEIT ONLINE",
-        "note": "Berichtet im Titel von den erneuten Krawallen in Paris und dem Einsatz von Tränengas."
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "Ergänzt Details zu den Plünderungen von Geschäften am Platz der Republik und nennt den Vorfall im ostfranzösischen Mulhouse, bei dem eine Jugendliche ein Auge verlor."
       }
     ],
     "chg": "",
