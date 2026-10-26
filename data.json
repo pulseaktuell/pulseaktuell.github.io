@@ -1,5 +1,387 @@
 [
   {
+    "id": "story-61106402ff271dbb",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-26T00:45:01.000Z",
+    "p": 5,
+    "st": "",
+    "city": "",
+    "t": "Lula da Silva gewinnt Präsidentschaftswahl in Brasilien",
+    "s": "Der linksgerichtete Amtsinhaber Luiz Inácio Lula da Silva hat die Präsidentschaftswahl in Brasilien für sich entschieden. Er setzte sich in der Stichwahl gegen seinen Herausforderer Flávio Bolsonaro durch. Das offizielle Wahlergebnis wurde nach Auszählung fast aller Stimmen vom Obersten Wahlgericht bestätigt.",
+    "m": "Der 80-jährige amtierende Staatschef Luiz Inácio Lula da Silva hat die Präsidentschaftswahl in Brasilien gewonnen. Nach Angaben des Obersten Wahlgerichts liegt er nach der Auszählung fast aller Stimmen mit 51,75 Prozent zu 48,25 Prozent uneinholbar an der Spitze. Er setzte sich in der Stichwahl gegen den rechtsgerichteten Kandidaten Flávio Bolsonaro durch, bei dem es sich um den Sohn des ehemaligen Präsidenten Jair Bolsonaro handelt. Die Wahl markiert einen bedeutenden politischen Moment in dem südamerikanischen Land. Details zum genauen zeitlichen Ablauf der Auszählung wurden in den Berichten nicht genannt. Weitere Reaktionen oder internationale Folgen sind derzeit noch offen.",
+    "r": "Der Machtwechsel oder die Bestätigung an der Staatsspitze in Brasiliens größtem Land hat internationale und regionale Strahlkraft. Die genauen prozentualen Stimmverhältnisse spiegeln eine stark polarisierte politische Landschaft wider.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html",
+        "date": "2026-10-26T00:45:01.000Z"
+      },
+      {
+        "name": "Süddeutsche Zeitung",
+        "url": "https://www.sueddeutsche.de/politik/wahl-brasilien-ergebnis-lula-sieg-li.3568108",
+        "date": "2026-10-26T00:31:46.000Z"
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/politik/ausland/2026-10/stichwahl-brasilien-lula-flavio-bolsonaro-cristiano-zanin-wahl-verlaengerung",
+        "date": "2026-10-25T23:02:28.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html",
+    "agree": "Alle Quellen stimmen überein, dass der 80-jährige Luiz Inácio Lula da Silva die Präsidentschaftswahl in Brasilien gewonnen hat und dass Flávio Bolsonaro sein Gegenkandidat war.",
+    "diff": [
+      {
+        "name": "SWR Aktuell",
+        "note": "nennt das Alter von 80 Jahren und die politische Ausrichtung (linksgerichtet für Lula, rechtsgerichtet für Bolsonaro), ohne Prozentzahlen zu nennen."
+      },
+      {
+        "name": "Süddeutsche Zeitung",
+        "note": "nennt die genauen Auszählungsergebnisse von 51,75 zu 48,25 Prozent und beruft sich auf das Oberste Wahlgericht."
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "note": "erwähnt ergänzend, dass Flávio Bolsonaro der Sohn des Ex-Präsidenten Jair Bolsonaro ist."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
+    "id": "story-aa9dc4bf34aabd06",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-26T00:37:10.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Amtsinhaber Lula gewinnt Präsidentschaftsstichwahl in Brasilien",
+    "s": "Der Sieger der Stichwahl um das Präsidentenamt in Brasilien steht nach einem knappen Kopf-an-Kopf-Rennen fest. Amtsinhaber Lula da Silva konnte die Mehrheit der Stimmen erringen und sich damit eine weitere Amtszeit sichern. Er setzte sich gegen seinen Herausforderer aus der Bolsonaro-Familie durch.",
+    "m": "Die Stichwahl in Brasilien war von einem extrem knappen Rennen geprägt. Amtsinhaber Lula da Silva trat dabei gegen einen Herausforderer aus dem Lager der Bolsonaros an. Vor der Wahl hatten Umfragen bereits eine Zerreißprobe für das gespaltene Land vorhergesagt. Nun steht fest, dass Lula das Rennen für sich entschieden hat und als Sieger aus der Stichwahl hervorgeht. Damit bleibt er an der Spitze des südamerikanischen Staates und sichert sich eine neue Amtszeit. Genauere Stimmenanteile oder offizielle Endergebnisse werden in den Berichten nicht genannt. Auch die Reaktionen aus der Bevölkerung oder dem Ausland sind nicht Teil dieser ersten Meldungen.",
+    "r": "Der Machtwechsel oder die Bestätigung an der Staatsspitze in Lateinamerikas größtem Land hat erhebliche politische Bedeutung. Das knappe Ergebnis zeigt eine tiefe gesellschaftliche Spaltung, die das regieren und die politische Stabilität künftig beeinflussen dürfte.",
+    "srcs": [
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/politik/Amtsinhaber-Lula-besiegt-Bolsonaro-in-Stichwahl-id31457044.html",
+        "date": "2026-10-26T00:37:10.000Z"
+      },
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/ausland/brasilien-stichwahl-bolsonaro-lula-100.html",
+        "date": "2026-10-26T00:37:00.000Z"
+      },
+      {
+        "name": "DW Deutsch",
+        "url": "https://www.dw.com/de/stichwahl-in-brasilien-kopf-an-kopf-rennen-zwischen-lula-und-bolsonaro/a-79754404?maca=de-rss-de-all-1119-xml-mrss",
+        "date": "2026-10-25T13:02:00.000Z"
+      }
+    ],
+    "url": "https://www.n-tv.de/politik/Amtsinhaber-Lula-besiegt-Bolsonaro-in-Stichwahl-id31457044.html",
+    "agree": "Die Quellen stimmen überein, dass es sich um eine Stichwahl in Brasilien zwischen Amtsinhaber Lula und einem Vertreter der Bolsonaro-Seite handelte, die als Kopf-an-Kopf-Rennen ausgetragen wurde.",
+    "diff": [
+      {
+        "name": "ntv",
+        "note": "Berichtet, dass Lula die Stichwahl gewonnen hat."
+      },
+      {
+        "name": "ZDF heute",
+        "note": "Nennt den Herausforderer namentlich als Flávio Bolsonaro und erwähnt, dass Lula sich eine weitere Amtszeit sichert."
+      },
+      {
+        "name": "DW Deutsch",
+        "note": "Schreibt vorab von Flavio Bolsonaro als Sohn des Ex-Präsidenten und Favoriten sowie von Umfragen, die eine Zerreißprobe für das Land vorhersagten."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
+    "id": "story-4b16146dd5216dd4",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-26T00:26:12.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Serbien vor Machtwechsel nach Parlamentswahl",
+    "s": "Bei der Parlamentswahl in Serbien zeichnet sich ein Machtwechsel ab. Der ehemalige Staatspräsident Vucic hat die Niederlage seiner Partei eingestanden. Die Liste der neuen Studentenbewegung liegt serbischen Medien zufolge vorne.",
+    "m": "Nach monatelangem Druck durch Proteste muss der ehemalige Staatspräsident Aleksandar Vučić eine Wahlniederlage einräumen. Die sogenannte Studentenliste hat serbischen Medien zufolge bei der Parlamentswahl die absolute Mehrheit mit mehr als 51 Prozent der Stimmen erzielt. Spitzenkandidat dieses neuen Bündnisses ist Ilija Srdanovic. Ob die Übergabe der Regierungsgeschäfte reibungslos verlaufen wird, bleibt abzuwarten. Es ist unklar, wie sich die politische Landschaft im Land nun neu ordnet.",
+    "r": "Der Machtwechsel in Serbien markiert eine bedeutende politische Veränderung nach monatelangen Protesten gegen die bisherige Führung unter Vučić. Die absolute Mehrheit der neuen Studentenbewegung beendet die langjährige politische Dominanz der bisherigen Machthaber.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/serbien-steht-vor-einem-machtwechsel-vucic-raeumt-niederlage-ein-102.html",
+        "date": "2026-10-26T00:26:12.000Z"
+      },
+      {
+        "name": "Süddeutsche Zeitung",
+        "url": "https://www.sueddeutsche.de/politik/parlamentswahl-serbien-aleksandar-vucic-studentenbewegung-2026-li.3568833",
+        "date": "2026-10-25T20:53:07.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/serbien-steht-vor-einem-machtwechsel-vucic-raeumt-niederlage-ein-102.html",
+    "agree": "Die Quellen sind sich einig, dass Präsident beziehungsweise der ehemalige Staatspräsident Vučić seine Niederlage bei der Parlamentswahl eingeräumt hat und eine neue Studentenliste vorne liegt.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Berichtet konkret, dass es sich um eine absolute Mehrheit von mehr als 51 Prozent handelt und nennt Ilija Srdanovic als Spitzenkandidat."
+      },
+      {
+        "name": "Süddeutsche Zeitung",
+        "note": "Erwähnt zusätzlich den monatelangen Druck auf Vučić durch vorausgegangene Proteste."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-9c76cbea0241b253",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-26T00:26:12.000Z",
+    "p": 2,
+    "st": "HH",
+    "city": "",
+    "t": "Ehemalige NDR-Fernsehansagerin Hanni Vanhaiden mit 88 Jahren gestorben",
+    "s": "Die frühere NDR-Fernsehansagerin Hanni Vanhaiden ist im Alter von 88 Jahren gestorben. Ab 1967 kündigte sie im Norddeutschen Rundfunk Sendungen an und wurde einem großen Publikum bekannt. Ihre große Brille und das kurze Haar wurden zu ihren Markenzeichen.",
+    "m": "Die gebürtige Hamburgerin starb am 11. Oktober in ihrer Heimatstadt. Sie prägte das Programm des Norddeutschen Rundfunks ab dem Jahr 1967 als Fernsehansagerin. Mit ihrem äußeren Erscheinungsbild, insbesondere durch eine markante große Brille und kurzes Haar, wurde sie bei den Fernsehzuschauern schnell unverkennbar. Die Nachricht über ihren Tod wurde von verschiedenen Medien und dem Sender bestätigt. Weitere Details zu den Umständen ihres Todes wurden zunächst nicht bekannt gegeben.",
+    "r": "Der Tod von Hanni Vanhaiden markiert das Abschiednehmen von einer prägenden Persönlichkeit des regionalen Rundfunkfernsehens der Bundesrepublik.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/fernsehansagerin-hanni-vanhaiden-mit-88-jahren-gestorben-100.html",
+        "date": "2026-10-26T00:26:12.000Z"
+      },
+      {
+        "name": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/hanni-vanhaiden-ehemalige-fernsehansagerin-im-alter-von-88-jahren-gestorben-201620299.html",
+        "date": "2026-10-25T18:16:41.000Z"
+      },
+      {
+        "name": "NDR Hamburg",
+        "url": "https://www.ndr.de/nachrichten/hamburg/fernsehansagerin-hanni-vanhaiden-ist-tot,kurzehh-4710.html",
+        "date": "2026-10-25T12:49:35.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/fernsehansagerin-hanni-vanhaiden-mit-88-jahren-gestorben-100.html",
+    "agree": "Die Quellen stimmen überein, dass die ehemalige NDR-Fernsehansagerin Hanni Vanhaiden im Alter von 88 Jahren gestorben ist.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Berichtet lediglich knapp über den Tod der früheren NDR-Fernsehansagerin ohne weitere biografische Details."
+      },
+      {
+        "name": "Frankfurter Allgemeine",
+        "note": "Erwähnt die große Brille und das kurze Haar als Markenzeichen sowie ihren Geburtsort Hamburg."
+      },
+      {
+        "name": "NDR Hamburg",
+        "note": "Nennt den genauen Todestag (11. Oktober) und den Sterbeort Hamburg."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
+    "id": "story-b9c803af27ff7a16",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-26T00:21:04.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Präsident Lula gewinnt Stichwahl in Brasilien nach vorläufigen Zahlen",
+    "s": "Brasiliens amtierender Präsident Luiz Inácio Lula da Silva hat nach Angaben des Obersten Wahlgerichts die Stichwahl gewonnen. Er setzte sich demnach gegen seinen rechten Herausforderer durch und sicherte sich eine weitere Amtszeit. Nach Auszählung fast aller Stimmen lag er uneinholbar vorn.",
+    "m": "Das Oberste Wahlgericht in Brasilien hat das Ergebnis der Stichwahl bekanntgegeben, wonach der 80-jährige Präsident Luiz Inácio Lula da Silva nach vorläufigen Zahlen gewonnen hat. Er konnte sich in der Stichwahl gegen seinen rechten Herausforderer Flávio Bolsonaro durchsetzen. Nach Auszählung fast aller Stimmen lag Lula mit 51,75 Prozent zu 48,25 Prozent uneinholbar an der Spitze. Mit diesem Resultat ist ihm eine weitere Amtszeit als Präsident sicher.",
+    "r": "Die Wahlentscheidung in Brasilien bestimmt die politische Zukunft des südamerikanischen Landes für die kommenden Jahre. Die offizielle Bekanntgabe des Obersten Wahlgerichts besiegelt den Ausgang der Stichwahl zwischen den beiden Kontrahenten.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-10/26/wahlgericht-praesident-lula-gewinnt-stichwahl-in-brasilien",
+        "date": "2026-10-26T00:21:04.000Z"
+      },
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/news/--wahlgericht--praesident-lula-gewinnt-stichwahl-in-brasilien-38450724.html",
+        "date": "2026-10-26T00:21:04.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/news/2026-10/26/wahlgericht-praesident-lula-gewinnt-stichwahl-in-brasilien",
+    "agree": "Präsident Lula hat laut Angaben des Wahlgerichts die Stichwahl in Brasilien gewonnen.",
+    "diff": [
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Nennt lediglich den Titel zum Wahlsieg ohne Details zu Prozenten oder Herausforderern."
+      },
+      {
+        "name": "stern",
+        "note": "Liefert die konkreten Prozentzahlen (51,75 zu 48,25 Prozent), das Alter von Lula und den Namen des Herausforderers Flávio Bolsonaro."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-90d9c2500eeebbe9",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-25T23:44:28.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Ukraine greift laut Berichten russische Raketenfabrik an",
+    "s": "Medienberichten zufolge hat die Ukraine eine Fabrik für Raketen im Westen Russlands angegriffen. Dabei sollen britische Storm-Shadow-Marschflugkörper eingesetzt worden sein und umfangreiche Zerstörungen verursacht haben. Der Angriff erfolgt vor dem Hintergrund des seit mehr als vier Jahren anhaltenden russischen Angriffskrieges. Bisher gibt es keine offiziellen Bestätigungen über Details oder das Ausmaß des Schadens.",
+    "m": "Nach übereinstimmenden Medienberichten hat die Ukraine eine Raketenfabrik im Westen Russlands mit Marschflugkörpern attackiert. Laut dem Internetportal „Exilenova“, auf das sich die Süddeutsche Zeitung beruft, kamen dabei britische „Storm-Shadow“-Marschflugkörper zum Einsatz. Bei dem Angriff soll es zu „umfangreichen Zerstörungen“ der Fabrik gekommen sein. Die Hintergründe des Angriffs stehen im Zusammenhang mit dem andauernden militärischen Konflikt zwischen den beiden Ländern, der seit über vier Jahren andauert. Friedensbemühungen zur Beilegung des Krieges verliefen bislang erfolglos. Parallel zu den militärischen Auseinandersetzungen gibt es Berichte über geplante internationale Wettkämpfe in Moskau, die dort erstmals seit Kriegsbeginn stattfinden sollen. Weitere Details zu den Folgen des Angriffs und mögliche Reaktionen der russischen Seite sind derzeit noch offen.",
+    "r": "Die Meldung ist relevant, da ein konkreter Angriff mit westlichen Waffensystemen auf russisches Fabrikgebiet gemeldet wird und der Kriegsverlauf dadurch beeinflusst werden könnte.",
+    "srcs": [
+      {
+        "name": "t-online Nachrichten",
+        "url": "https://www.t-online.de/nachrichten/ukraine/id_101487440/ukraine-news-ukraine-greift-russische-raketenfabrik-an.html",
+        "date": "2026-10-25T23:44:28.000Z"
+      },
+      {
+        "name": "Süddeutsche Zeitung",
+        "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-russland-raketenfabrik-iskander-li.3563283",
+        "date": "2026-10-25T19:07:11.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/politik/ukraine-news-im-ticker-kiew-greift-russische-raketenfabrik-an-HE2HCGE6JQFTFWLUN43NO5POI4.html",
+        "date": "2026-10-25T18:53:38.000Z"
+      }
+    ],
+    "url": "https://www.t-online.de/nachrichten/ukraine/id_101487440/ukraine-news-ukraine-greift-russische-raketenfabrik-an.html",
+    "agree": "Die Quellen stimmen überein, dass die Ukraine eine russische Raketenfabrik angegriffen hat.",
+    "diff": [
+      {
+        "name": "Süddeutsche Zeitung",
+        "note": "Berichtet konkret unter Berufung auf das Internetportal „Exilenova“, dass eine Fabrik im Westen Russlands von „Storm-Shadow“-Marschflugkörpern getroffen wurde und es „umfangreiche Zerstörungen“ geben soll."
+      },
+      {
+        "name": "t-online Nachrichten",
+        "note": "Erwähnt zusätzlich, dass in Moskau erstmals seit Beginn des Ukraine-Krieges internationale Wettkämpfe stattfinden sollen."
+      },
+      {
+        "name": "RND",
+        "note": "Führt aus, dass sich die Ukraine seit mehr als vier Jahren verteidigt und Friedensbemühungen bisher erfolglos blieben."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
+    "id": "story-68deb729f6e9ce90",
+    "c": "INT",
+    "o": "INT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-25T23:23:25.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Venezuelas Oppositionsführerin María Corina Machado nach zehn Monaten im Exil zurück",
+    "s": "Die venezolanische Oppositionsführerin María Corina Machado ist nach rund zehn Monaten im Exil in ihre Heimat zurückgekehrt. Sie war das Land Ende 2025 heimlich verlassen, um in Oslo den Friedensnobelpreis entgegenzunehmen. Ihre Rückkehr erfolgt in einer Phase wachsender Zweifel an der demokratischen Zukunft des Landes. Die Aktivität der Politikerin fand zuletzt überwiegend aus den USA und Panama statt.",
+    "m": "María Corina Machado hat am Sonntag ihre Rückkehr nach Venezuela öffentlich bekannt gegeben. Die Oppositionsführerin und Friedensnobelpreisträgerin war Ende 2025 heimlich aus Venezuela ausgereist, um die Auszeichnung in Oslo in Empfang zu nehmen. In der Zwischenzeit koordinierte sie ihre politischen Aktivitäten maßgeblich aus dem Ausland, insbesondere aus den Vereinigten Staaten und Panama. Ihre erneute Ankunft im Heimatland dokumentierte sie unter anderem in den sozialen Medien mit der Botschaft, sie sei wieder da und bei den Menschen. Die Rückkehr fällt in eine Zeit, in der international zunehmend über die Rolle der USA und die Perspektiven der venezolanischen Demokratie diskutiert wird. Konkrete Details über ihre weiteren politischen Schritte oder Reaktionen der Regierung in Caracas gehen aus den Berichten nicht hervor.",
+    "r": "Die Rückkehr einer prominenten Oppositionsführerin nach längerer Abwesenheit und im Kontext internationaler Debatten hat potenziell Gewicht für die politische Lage in Venezuela. Sie betrifft die innenpolitische Entwicklung des Landes und die Rolle von Exilakteuren.",
+    "srcs": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/venezuelas-opposition-leader-machado-returns-after-months-in-exile?traffic_source=rss",
+        "date": "2026-10-25T23:23:25.000Z"
+      },
+      {
+        "name": "France24 English",
+        "url": "https://www.france24.com/en/americas/20261025-opposition-leader-machado-returns-to-venezuela-after-10-months-in-exile",
+        "date": "2026-10-25T17:10:11.000Z"
+      },
+      {
+        "name": "Euronews",
+        "url": "https://www.euronews.com/2026/10/25/maria-corina-machado-back-in-venezuela-after-nearly-10-months-in-exile",
+        "date": "2026-10-25T16:54:12.000Z"
+      },
+      {
+        "name": "NPR World",
+        "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
+        "date": "2026-10-25T16:18:41.000Z"
+      }
+    ],
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/venezuelas-opposition-leader-machado-returns-after-months-in-exile?traffic_source=rss",
+    "agree": "Alle Quellen stimmen darin überein, dass die venezolanische Oppositionsführerin María Corina Machado nach rund zehn Monaten im Exil in ihr Heimatland zurückgekehrt ist.",
+    "diff": [
+      {
+        "name": "Al Jazeera",
+        "note": "Erwähnt Machado explizit als Friedensnobelpreisträgerin."
+      },
+      {
+        "name": "France24 English",
+        "note": "Berichtet, dass Machado ihre Rückkehr am Sonntag selbst ankündigte, und erwähnt wachsende Zweifel an der demokratischen Zukunft sowie der Rolle der US-Politik."
+      },
+      {
+        "name": "Euronews",
+        "note": "Führt aus, dass Machado zuletzt im Dezember 2025 im Land war und ihre politische Arbeit seither überwiegend aus den USA und Panama steuerte."
+      },
+      {
+        "name": "NPR World",
+        "note": "Zitiert Machados Social-Media-Botschaft mit den Worten \"I am here. With you.\"."
+      }
+    ],
+    "chg": "",
+    "independent": 4
+  },
+  {
+    "id": "story-ed0c7114733b08ad",
+    "c": "INT",
+    "o": "UK",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-25T22:54:57.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Serbiens langjähriger Machthaber Vucic räumt Wahlniederlage gegen Studentenbewegung ein",
+    "s": "Der serbische Präsident Aleksandar Vucic hat nach fast zwei Jahrzehnten an der Macht eine Niederlage bei den Parlamentswahlen eingeräumt. Die oppositionelle Studentenliste steht nach Angaben von Vucic vor dem Gewinn einer parlamentarischen Mehrheit. Die Wahl galt als entscheidendes Votum über die Zukunft des Landes nach monatelangen Protesten.",
+    "m": "Nach Angaben des langjährigen serbischen Staatschefs Aleksandar Vucic hat seine Partei die Abstimmung verloren. Die Wahlen fanden vor dem Hintergrund von fast zwei Jahren anhaltenden studentisch geführten Protesten statt und wurden als richtungsweisend für die Zukunft des Landes angesehen. Vucic, der das Land seit zwölf Jahren regiert, erklärte, es sei klar, dass seine Formation bei dem Urnengewinn unterlegen ist. Die oppositionelle Bewegung namens Student List wird nun voraussichtlich eine Mehrheit im Parlament erringen. Konkrete Zahlen oder offizielle Endergebnisse wurden in den Berichten zunächst nicht genannt. Die Entwicklung markiert einen historischen Wendepunkt in der serbischen Politik nach einer langen Phase rechtspopulistischer Führung.",
+    "r": "Der Machtwechsel in Serbien durch den Wahlsieg einer studentisch geführten Bewegung beendet eine zwölfjährige Regierungsphase und hat fundamentale Bedeutung für die politische Zukunft des Landes.",
+    "srcs": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-25T22:54:57.000Z"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader?traffic_source=rss",
+        "date": "2026-10-25T19:19:54.000Z"
+      }
+    ],
+    "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+    "agree": "Die Quellen stimmen darin überein, dass der langjährige serbische Machthaber Aleksandar Vucic seine Wahlniederlage gegen eine studentisch geführte Bewegung eingestanden hat.",
+    "diff": [
+      {
+        "name": "BBC World",
+        "note": "Erwähnt explizit Vucic als rechtspopulistischen Führer und dass die Wahl als Referendum über die Zukunft des Landes billed wurde."
+      },
+      {
+        "name": "Al Jazeera",
+        "note": "Nennt den Namen der Opposition als Student List und verweist auf die fast zweijährige Dauer der vorausgegangenen Proteste."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-114ce6ef8f7b9f56",
     "c": "INT",
     "o": "DE",
@@ -92,9 +474,9 @@
     "st": "",
     "city": "",
     "t": "Martin Schindler verliert Darts-EM-Finale gegen Ross Smith",
-    "s": "Martin Schindler hat das Finale der Darts-EM in Dortmund verloren. Gegen den neuen Titelträger Ross Smith musste sich der Deutsche geschlagen geben. Zwar spielte Schindler zuvor ein starkes Turnier, fand im Endspiel jedoch zu spät in die Partie.",
-    "m": "Martin Schindler hat bei der Darts-EM in Dortmund eine furiose Leistung gezeigt und das Endspiel erreicht, musste sich dort aber Ross Smith mit 8:11 geschlagen geben. Trotz eines starken Comebacks im Verlauf des Finals fand der deutsche Spieler zu spät in die Partie. Der Sieger Ross Smith war bereits in der Vergangenheit einmal Europameister geworden.",
-    "r": "Das Darts-Turnier in Dortmund fand große Beachtung, da ein deutscher Spieler das Finale erreichte. Der Ausgang des Endspiels krönte einen ehemaligen Europameister zum neuen Titelträger.",
+    "s": "Martin Schindler hat das Finale der Darts-Europameisterschaft in Dortmund verloren. Er musste sich dem neuen Titelträger Ross Smith mit 8:11 geschlagen geben. Zuvor hatte der deutsche Profi ein starkes Turnier gespielt.",
+    "m": "Martin Schindler zeigte bei der Darts-EM in Dortmund eine furiose Leistung und zog in das historische Finale ein. Im Endspiel gegen Ross Smith geriet er jedoch in Rückstand und fand trotz eines starken Comebacks zu spät in die Partie. Schließlich ging das Finale mit 8:11 verloren. Der Sieger Ross Smith war bereits in der Vergangenheit einmal Europameister geworden. Das Turnier bot den Zuschauern in Dortmund spannende Darts-Momente. Es bleibt ein großer Erfolg für den deutschen Darts-Sport trotz der Finalniederlage.",
+    "r": "Das Darts-EM-Finale in Dortmund markiert ein wichtiges Sportereignis, bei dem Martin Schindler den Titel knapp verpasste. Der Erfolg des deutschen Spielers unterstreicht die sportliche Entwicklung in dieser Disziplin.",
     "srcs": [
       {
         "name": "RND",
@@ -108,15 +490,11 @@
       }
     ],
     "url": "https://www.rnd.de/sport/darts-em-martin-schindler-verliert-finale-gegen-ross-smith-mit-8-11-IMWJCWXZMNC2XOWQ7F6UPG725E.html",
-    "agree": "Beide Quellen sind sich einig, dass Martin Schindler ein starkes Turnier spielte, im Finale in Dortmund aber zu spät in die Partie fand und gegen Ross Smith verlor, der bereits einmal Europameister war.",
+    "agree": "Die Quellen stimmen überein, dass Martin Schindler das Darts-EM-Finale in Dortmund gegen Ross Smith mit 8:11 verloren hat und davor ein starkes Turnier spielte.",
     "diff": [
       {
-        "name": "RND",
-        "note": "Berichtet über den genauen Endstand von 8:11 und bezeichnet das Finale als solches."
-      },
-      {
         "name": "ntv",
-        "note": "Bezeichnet das Finale als \"historisch\" und erwähnt ein starkes Comeback von Schindler im Spielverlauf."
+        "note": "hebt den Charakter des Finales als historisch hervor und erwähnt ein starkes Comeback von Schindler im Spielverlauf"
       }
     ],
     "chg": "",
@@ -132,10 +510,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Formel 1 in den USA: Kimi Antonelli siegt in Austin",
-    "s": "Kimi Antonelli hat das Formel-1-Rennen in Austin gewonnen. Trotz seiner starken Leistung konnte er den Weltmeistertitel in diesem Rennen jedoch noch nicht vorzeitig perfekt machen. Auch ein möglicher Konter seines Teamkollegen verhinderte die vorzeitige Krönung. Am kommenden Sonntag wird der Titelgewinn nun allgemein erwartet.",
-    "m": "Beim Formel-1-Wochenende in Austin zeigte Kimi Antonelli eine dominante und weltmeisterliche Vorstellung, die im Rennsieg gipfelte. Dennoch reichte das Ergebnis noch nicht aus, um den Sack in der Weltmeisterschaft endgültig zuzumachen. Ein neunter Platz in Mexiko wird in den Berichten als der Meilenstein genannt, der ihm demnächst zum Titel reicht. Maßgeblich für das Verpassen der vorzeitigen Krönung im aktuellen Rennen war unter anderem sein Teamkollege, der dies zu verhindern wusste. Die Berichterstattung geht übereinstimmend davon aus, dass die Entscheidung im Titelkampf nun beim nächsten Rennen am kommenden Sonntag fallen wird. Konkrete Punktestände oder Abstände werden in den vorliegenden Texten nicht detailliert beziffert.",
-    "r": "Die Meldung ist relevant, da sie den aktuellen Stand des Formel-1-Titelkampfs und die sportlichen Ergebnisse des Rennens in Austin dokumentiert. Sie zeigt auf, wann und unter welchen Bedingungen Kimi Antonelli voraussichtlich Weltmeister wird.",
+    "t": "Kimi Antonelli siegt in Austin, verpasst aber vorerst WM-Titel",
+    "s": "Kimi Antonelli hat das Formel-1-Rennen in Austin gewonnen. Trotz dieser starken Leistung konnte er den Sack im Meisterschaftskampf noch nicht endgültig zu machen. Der Titelgewinn wurde durch das Abschneiden seines Teamkollegen vorerst verhindert. Die Entscheidung in der Weltmeisterschaft wird nun voraussichtlich am kommenden Sonntag fallen.",
+    "m": "Der italienische Rennfahrer Kimi Antonelli hat das Rennen in Austin für sich entschieden und zeigte dabei eine überzeugende sportliche Leistung. Dennoch reichte dieses Resultat noch nicht aus, um den vorzeitigen Gewinn des WM-Titels zu besiegeln. Ein entscheidender Faktor dabei war das Abschneiden seines teaminternen Konkurrenten beziehungsweise Teamkollegen, der die direkte Krönung in Austin verhinderte. Mit diesem Sieg im Rücken geht Antonelli als klarer Favorit in die kommenden Aufgaben. Fachleute und Beobachter gehen davon aus, dass der Titelgewinn nun beim nächsten Grand Prix am kommenden Sonntag in Mexiko perfekt gemacht wird. Dort reicht ihm bereits der neunte Platz, um sich die Weltmeisterschaft zu sichern. Der Rennstall blickt entsprechend optimistisch auf das anstehende Event.",
+    "r": "Der Sieg von Kimi Antonelli in Austin ist ein sportlicher Meilenstein, der ihn kurz vor den Gewinn des WM-Titels bringt. Das Abschneiden seines Teamkollegen verschiebt die endgültige Entscheidung lediglich auf das kommende Rennen in Mexiko.",
     "srcs": [
       {
         "name": "RND",
@@ -149,15 +527,15 @@
       }
     ],
     "url": "https://www.rnd.de/sport/kimi-antonelli-siegt-in-austin-platz-neun-in-mexiko-reicht-zum-wm-titel-VBOVKUMUKVGCVELHY3OJVKRMIY.html",
-    "agree": "Die Quellen sind sich einig, dass Kimi Antonelli in Austin gewonnen hat, dabei aber noch nicht Weltmeister geworden ist und die Entscheidung nun am kommenden Sonntag fällt.",
+    "agree": "Die Quellen sind sich einig, dass Kimi Antonelli in Austin gewonnen hat, aber durch das Ergebnis seines Teamkollegen noch nicht Weltmeister geworden ist und die Krönung nun am kommenden Sonntag in Mexiko ansteht.",
     "diff": [
       {
         "name": "RND",
-        "note": "Erwähnt konkret, dass ein neunter Platz in Mexiko für den WM-Titel reicht."
+        "note": "Erwähnt konkret, dass ihm in Mexiko ein neunter Platz zum WM-Titel reicht."
       },
       {
         "name": "Frankfurter Allgemeine",
-        "note": "Betont im Titel explizit, dass Antonelli trotz des Sieges in den USA noch kein Weltmeister ist."
+        "note": "Berichtet über das Rennen in den USA, nennt aber keine konkrete Platzierung, die in Mexiko für den Titel ausreicht."
       }
     ],
     "chg": "",
@@ -278,6 +656,79 @@
     "independent": 2
   },
   {
+    "id": "story-630ebd8afd39c433",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-25T22:09:50.000Z",
+    "p": 5,
+    "st": "BY",
+    "city": "",
+    "t": "Aleksandar Vučić gesteht Niederlage bei serbischer Parlamentswahl ein",
+    "s": "Bei der vorgezogenen Parlamentswahl in Serbien hat der langjährige Machthaber Aleksandar Vučić seine Niederlage eingestanden. Die oppositionelle Studentenliste konnte die Abstimmung für sich entscheiden und hat möglicherweise sogar die absolute Mehrheit erreicht. Die Wahl wurde von vielen Wählern als Referendum über die bisherige politische Führung verstanden.",
+    "m": "Die vorgezogene Parlamentswahl in Serbien führte zu einem historischen Machtwechsel, da der langjährige und teils autoritär regierende Präsident Aleksandar Vučić seine Niederlage einräumen musste. Die oppositionelle Gruppierung, welche als Studentenliste beziehungsweise Studentenbewegung antrat, gewann die Wahl und verwies die Serbische Fortschrittspartei von Vučić auf die Plätze. Die Abstimmung erlebte eine Rekordwahlbeteiligung, die den höchsten Wert seit mehr als 30 Jahren erreichte. Nach Bekanntwerden der Wahlergebnisse brach auf den Straßen der Hauptstadt Belgrad spontaner Jubel aus. Es zeichnet sich damit ein politischer Regierungswechsel und das vorläufige Ende der Ära Vučić ab, wobei die genaue Sitzverteilung und die Bildung einer neuen Regierung die kommenden Schritte bestimmen werden.",
+    "r": "Der Machtwechsel in Serbien durch den Wahlsieg der Opposition hat weitreichende innenpolitische Konsequenzen für die künftige Ausrichtung des Landes. Die Rekordwahlbeteiligung unterstreicht das hohe mobilisierungspotenzial und das Verlangen der Bevölkerung nach politischem Wandel.",
+    "srcs": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/politik/ausland/wahl-in-serbien-vucic-gesteht-niederlage-ein-201619434.html",
+        "date": "2026-10-25T22:09:50.000Z"
+      },
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/ausland/serbien-vucic-niederlage-wahl-100.html",
+        "date": "2026-10-25T21:57:00.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/politik/wahl-in-serbien-aleksandar-vucic-gesteht-niederlage-ein-7AGHCOCWAFCUZK5JKHO5AEELDI.html",
+        "date": "2026-10-25T21:18:22.000Z"
+      },
+      {
+        "name": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/vuci-gesteht-niederlage-bei-parlamentswahl-in-serbien-ein,VZ4ck3g",
+        "date": "2026-10-25T21:06:52.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/serbien-praesident-aleksandar-vucic-gesteht-niederlage-bei-parlamentswahl-ein-a-d46235a6-039e-4242-bf48-8e8313219f59#ref=rss",
+        "date": "2026-10-25T20:52:00.000Z"
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/politik/ausland/2026-10/parlamentswahl-in-serbien-aleksandar-vu-i-gesteht-niederlage-ein",
+        "date": "2026-10-25T20:40:54.000Z"
+      }
+    ],
+    "url": "https://www.faz.net/aktuell/politik/ausland/wahl-in-serbien-vucic-gesteht-niederlage-ein-201619434.html",
+    "agree": "Alle Quellen stimmen überein, dass der langjährige serbische Machthaber Aleksandar Vučić seine Niederlage bei der Parlamentswahl eingestanden hat und die oppositionelle Studentenliste als Sieger hervorgegangen ist.",
+    "diff": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "note": "erwähnt, dass die oppositionelle Studentenliste möglicherweise die absolute Mehrheit gewonnen hat."
+      },
+      {
+        "name": "RND",
+        "note": "merkt an, dass die Wähler die Abstimmung als Referendum über die Führung von Vučić auffassten und sich ein Regierungswechsel abzeichnet."
+      },
+      {
+        "name": "BR24 Bayern",
+        "note": "beschreibt die Ära von Vučić als teils autoritär und nennt die Partei des Machthabers als Serbische Fortschrittspartei."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "berichtet über Jubel auf den Straßen der Hauptstadt Belgrad und eine Rekordwahlbeteiligung."
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "note": "ergänzt, dass die Wahlbeteiligung den höchsten Wert seit mehr als 30 Jahren erreichte."
+      }
+    ],
+    "chg": "",
+    "independent": 6
+  },
+  {
     "id": "story-eb4d0628757a7f91",
     "c": "INT",
     "o": "DE",
@@ -360,47 +811,6 @@
     "independent": 7
   },
   {
-    "id": "story-ed0c7114733b08ad",
-    "c": "INT",
-    "o": "UK",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-25T22:06:26.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Serbiens langjähriger Präsident Vučić räumt Wahlniederlage ein",
-    "s": "Nach jahrelangen Protesten hat Serbiens nationalistischer Staatschef Aleksandar Vučić seine Niederlage bei den Parlamentswahlen eingeräumt. Die studentisch angeführte Protestbewegung konnte sich überraschend durchsetzen. Vučić erklärte, es sei klar, dass seine Partei die Abstimmung verloren habe. Die Wahl galt im Vorfeld als entscheidendes Referendum über die politische Zukunft des Landes.",
-    "m": "Aleksandar Vučić regierte Serbien als populistisch-rechter Führer über einen Zeitraum von zwölf Jahren. Nun musste er eingestehen, dass die Opposition bei den Wahlen einen bedeutenden Sieg errungen hat. Die Wahl wurde durch eine fast zweijährige Protestwelle der Bevölkerung vorbereitet. Konkret wird prognostiziert, dass die oppositionelle Student List eine parlamentarische Mehrheit erringen wird. Die genaue künftige Regierungsbildung und die langfristigen politischen Konsequenzen für den Balkanstaat bleiben zunächst abzuwarten. Bislang gibt es keine offiziellen Angaben zu den exakten Sitzverteilungen oder prozentualen Ergebnissen der einzelnen Parteien.",
-    "r": "Der Machtwechsel in Serbien markiert nach zwölf Jahren einen historischen Wendepunkt in der osteuropäischen Politik. Die Einräumung der Niederlage durch einen langjährigen Machthaber infolge ziviler Proteste hat weitreichende Bedeutung für die Stabilität der Region.",
-    "srcs": [
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-25T22:06:26.000Z"
-      },
-      {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader?traffic_source=rss",
-        "date": "2026-10-25T19:19:54.000Z"
-      }
-    ],
-    "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-    "agree": "Die Quellen stimmen überein, dass Serbiens langjähriger Führer Aleksandar Vučić seine Niederlage bei den Wahlen gegen eine studentisch geführte Bewegung eingestanden hat.",
-    "diff": [
-      {
-        "name": "BBC World",
-        "note": "Berichtet, dass die Wahl als Referendum über die Zukunft des Landes bezeichnet wurde und Vučić die Partei seit 12 Jahren führte."
-      },
-      {
-        "name": "Al Jazeera",
-        "note": "Erwähnt konkret, dass die Oppositionsbewegung den Namen Student List trägt und voraussichtlich eine parlamentarische Mehrheit erhalten wird."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
     "id": "story-c0f3269b5ec45f22",
     "c": "INT",
     "o": "DE",
@@ -452,9 +862,9 @@
     "st": "",
     "city": "",
     "t": "Marine Le Pen startet Präsidentschaftskampagne in Orléans",
-    "s": "Marine Le Pen hat offiziell ihre Kampagne für die französische Präsidentschaftswahl begonnen. Die Politikerin des Rassemblement National hielt dazu am Sonntag, den 25. Oktober, eine Kundgebung ab. Der Auftakt fand in der Stadt Orléans statt.",
-    "m": "Die rechtspopulistische Politikerin Marine Le Pen hat ihre Kandidatur beziehungsweise den Wahlkampf für die kommende französische Präsidentschaftswahl offiziell gestartet. Am Sonntag, dem 25. Oktober, versammelten sich Anhänger zu einer Kundgebung in Orléans, bei der Le Pen ihre Kampagne einläutete. Sie tritt als Kandidatin für ihre Partei Rassemblement National an. Weitere Details zum genauen Inhalt ihrer Auftaktrede oder zur konkreten Strategie wurden in den Berichten nicht genannt. Auch über Reaktionen politischer Mitbewerber gibt es in den aktuellen Meldungen noch keine Angaben.",
-    "r": "Der offizielle Start einer Präsidentschaftskampagne durch eine prominente politische Akteurin wie Marine Le Pen markiert einen wichtigen Schritt im anstehenden nationalen Wahlprozess Frankreichs. Solche Auftaktveranstaltungen geben erste Einblicke in die zeitliche Planung und strategische Ausrichtung der Kandidatur.",
+    "s": "Marine Le Pen hat ihre Kandidatur für die französische Präsidentschaftswahl offiziell bekannt gegeben. Den Auftakt ihrer Kampagne bildete eine Kundgebung am Sonntag, den 25. Oktober. Die Veranstaltung fand in der Stadt Orléans statt.",
+    "m": "Die Parteivorsitzende des Rassemblement National (RN), Marine Le Pen, hat am Sonntag, den 25. Oktober, ihre offizielle Kampagne für die kommende französische Präsidentschaftswahl gestartet. Der offizielle Auftakt erfolgte im Rahmen einer Kundgebung in Orléans. Die Veranstaltung markiert den Beginn der aktiven Phase ihrer Wahlkampfaktivitäten. Weitere Details zur genauen Ausrichtung des Programms oder den Reaktionen anderer politischer Akteure gehen aus den Berichten nicht hervor. Auch über konkrete Programmpunkte der Auftaktveranstaltung wird in den vorliegenden Meldungen keine nähere Auskunft gegeben.",
+    "r": "Der offizielle Start der Präsidentschaftskampagne von Marine Le Pen ist ein relevanter Schritt für die politische Landschaft in Frankreich und den bevorstehenden Wahlkampf.",
     "srcs": [
       {
         "name": "Al Jazeera",
@@ -468,11 +878,11 @@
       }
     ],
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/marine-le-pen-launches-french-presidential-campaign?traffic_source=rss",
-    "agree": "Beide Quellen stimmen darin überein, dass Marine Le Pen ihre Präsidentschaftskampagne gestartet hat.",
+    "agree": "Beide Quellen stimmen überein, dass Marine Le Pen ihre Kampagne für die französische Präsidentschaftswahl gestartet hat.",
     "diff": [
       {
         "name": "France24 English",
-        "note": "Nennt den genauen Ort Orléans, das Datum am Sonntag, den 25. Oktober, sowie die Partei RN (Rassemblement National) als Hintergrund."
+        "note": "nennt den genauen Tag (Sonntag, 25. Oktober), die Parteizugehörigkeit (RN) und den konkreten Ort des Auftakts (Orléans)."
       }
     ],
     "chg": "",
@@ -518,6 +928,56 @@
     ],
     "chg": "",
     "independent": 2
+  },
+  {
+    "id": "story-672e6bfaf9191243",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-25T21:22:00.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Kreuzfahrtschiff kollidiert bei stürmischem Wetter in Bremerhaven mit Containerschiffen",
+    "s": "Im Hafen von Bremerhaven ist das Kreuzfahrtschiff „Mein Schiff 3“ bei dem Versuch auszulaufen mit zwei Containerschiffen zusammengestoßen. Nach ersten Erkenntnissen der Polizei waren insgesamt drei Schiffe an dem Unfall beteiligt. Der Vorfall ereignete sich bei stürmischen Wetterbedingungen. Verletzt wurde nach bisherigem Stand der Berichte zunächst nichts Konkretes gemeldet.",
+    "m": "Das Kreuzfahrtschiff „Mein Schiff 3“ befand sich im Begriff, den Hafen von Bremerhaven zu verlassen, als es zu der Kollision kam. Die genauen Umstände des Unfalls sind Gegenstand polizeilicher Ermittlungen. Nach ersten Erkenntnissen der Polizei waren an dem Unfall insgesamt drei Schiffe beteiligt, darunter das Kreuzfahrtschiff und zwei Containerschiffe. Der Unfall ereignete sich unter dem Einfluss von stürmischem Wetter. Weitere Details zu möglichen Personenschäden, Sachschäden oder der Höhe des entstandenen Schadens liegen im Rahmen der vorliegenden Berichte noch nicht vor. Die beteiligten Akteure umfassen neben dem Kreuzfahrtriesen auch die Betreiber oder Einheiten der Containerschiffe sowie die zuständigen Hafenbehörden und die Polizei.",
+    "r": "Der Unfall betrifft die Schifffahrt und Hafenlogistik an einem wichtigen deutschen Standort und verdeutlicht die Risiken von Manövern bei widrigen Witterungsbedingungen wie stürmischem Wetter.",
+    "srcs": [
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/mobilitaet/bremerhaven-kreuzfahrtschiff-kollidiert-mit-zwei-containerschiffen-im-hafen-a-6097aee0-a85e-4b7d-b385-7385e8fe9072#ref=rss",
+        "date": "2026-10-25T21:22:00.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/panorama/bremerhaven-kreuzfahrtschiff-stoesst-mit-zwei-containerschiffen-zusammen-NG2QDMOAABA5DNN4DRBCPZRDII.html",
+        "date": "2026-10-25T20:42:47.000Z"
+      },
+      {
+        "name": "Rheinische Post",
+        "url": "https://rp-online.de/panorama/deutschland/bremerhaven-mein-schiff-3-kollidiert-mit-containerschiffen_aid-157207637",
+        "date": "2026-10-25T20:41:00.000Z"
+      }
+    ],
+    "url": "https://www.spiegel.de/mobilitaet/bremerhaven-kreuzfahrtschiff-kollidiert-mit-zwei-containerschiffen-im-hafen-a-6097aee0-a85e-4b7d-b385-7385e8fe9072#ref=rss",
+    "agree": "Alle Quellen stimmen darin überein, dass das Kreuzfahrtschiff „Mein Schiff 3“ bei dem Versuch, den Hafen von Bremerhaven zu verlassen, mit zwei Containerschiffen kollidiert ist und nach ersten Erkenntnissen der Polizei drei Schiffe an dem Unfall beteiligt ware",
+    "diff": [
+      {
+        "name": "DER SPIEGEL",
+        "note": "Nennt den Namen des Kreuzfahrtschiffes direkt im Titel („Mein Schiff 3“) und erwähnt explizit, dass das Schiff bei stürmischem Wetter auslaufen wollte."
+      },
+      {
+        "name": "RND",
+        "note": "Beschreibt das Kreuzfahrtschiff allgemein als „riesiges Schiff mit Reisenden“ und verwendet den Begriff „stößt... zusammen“."
+      },
+      {
+        "name": "Rheinische Post",
+        "note": "Verwendet im Titel den Namen des Schiffes „Mein Schiff 3“ in Anführungszeichen und beschreibt den Unfall als Zusammenstoß eines riesigen Schiffes mit Reisenden, das den Hafen verlassen wollte."
+      }
+    ],
+    "chg": "",
+    "independent": 3
   },
   {
     "id": "story-0b0fa5179538dcae",
@@ -579,6 +1039,47 @@
     "independent": 4
   },
   {
+    "id": "story-3350b151ad67c8e8",
+    "c": "DE",
+    "o": "DE",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-25T21:10:42.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Hannover 96 verurteilt Ausschreitungen beim Niedersachsen-Derby",
+    "s": "Beim Zweitliga-Derby zwischen Eintracht Braunschweig und Hannover 96 ist es kurz vor dem Spielende zu Ausschreitungen durch Hannover-Fans gekommen. Das als Hochrisikospiel eingestufte Niedersachsen-Derby verlief lange Zeit ruhig. Nach den Vorfällen hat der Verein Hannover 96 reagiert und die Vorkommnisse scharf verurteilt. Die genauen Folgen und Hintergründe der Fankrawalle werden aufgearbeitet.",
+    "m": "Das 185. Niedersachsen-Derby zwischen Eintracht Braunschweig und Hannover 96 war im Vorfeld als Hochrisikospiel eingestuft worden, wodurch Schlimmes befürchtet wurde. Lange Zeit blieb die Situation rund um die Begegnung überraschend ruhig. Kurz vor dem Spielende kam es dann jedoch zu einer Eskalation, als 96-Fans für Ausschreitungen sorgten. Der Verein Hannover 96 reagierte umgehend auf die Fankrawalle und verurteilte die Vorkommnisse als inakzeptable Eskalation. Weitere Details zu möglichen Verletzten, Sachschäden oder konkreten Sanktionen gegen die beteiligten Anhänger nennen die vorliegenden Berichte bisher nicht.",
+    "r": "Die Ausschreitungen bei einem klassichen Hochrisikospiel wie dem Niedersachsen-Derby werfen erneut Fragen zur Sicherheit im Profifußball auf. Die offizielle Verurteilung durch den betroffenen Verein zeigt die Brisanz der Vorfälle für den Club und die Liga.",
+    "srcs": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/eintracht-braunschweig-gegen-hannover-96-reaktion-auf-pyro-randale-201620214.html",
+        "date": "2026-10-25T21:10:42.000Z"
+      },
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/gesellschaft/regional/niedersachsen-bremen/2--fussball-bundesliga--hannover-reagiert-auf-fankrawalle---inakzeptable-eskalation--38449044.html",
+        "date": "2026-10-25T21:03:45.000Z"
+      }
+    ],
+    "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/eintracht-braunschweig-gegen-hannover-96-reaktion-auf-pyro-randale-201620214.html",
+    "agree": "Beide Quellen sind sich einig, dass es beim Niedersachsen-Derby zwischen Braunschweig und Hannover kurz vor Spielende zu Ausschreitungen von 96-Fans kam und der Club daraufhin mit der Aussage einer inakzeptablen Eskalation reagierte.",
+    "diff": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "note": "Betont, dass es sich um das 185. Derby handelte und bereits vor der Partie wegen des Status als Hochrisikospiel Schlimmes befürchtet wurde."
+      },
+      {
+        "name": "stern",
+        "note": "Fokussiert sich stärker auf die Reaktion des Clubs auf die Fankrawalle."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-8bd47d1915e304a0",
     "c": "INT",
     "o": "DE",
@@ -620,10 +1121,10 @@
     "p": 2,
     "st": "BW",
     "city": "",
-    "t": "Stromausfall in Freiburg und Umgebung nach Kurzschluss behoben",
-    "s": "Ein großflächiger Stromausfall hat am Montag die Region rund um Freiburg getroffen. Zwischenzeitlich waren rund 10.000 Haushalte ohne Strom. Mittlerweile ist die Stromversorgung wieder vollständig hergestellt.",
-    "m": "Auslöser für den Ausfall war ein technischer Defekt in Form eines Kurzschlusses in einem Umspannwerk direkt in Freiburg. Von dem plötzlichen Netzausfall waren zeitweise rund 10.000 Haushalte in der Region betroffen. Die zuständigen Stellen arbeiteten mit Hochdruck an der Behebung des Schadens. Inzwischen konnte der Fehler im Umspannwerk erfolgreich behoben werden. Alle betroffenen Haushalte sind wieder ans Netz angeschlossen. Die genaue Ursache für den Kurzschluss im Umspannwerk wird noch untersucht.",
-    "r": "Der Vorfall zeigt die Verletzlichkeit kritischer Infrastruktur auf regionaler Ebene. Solche Ausfälle beeinträchtigen das tägliche Leben tausender Bürger und erfordern schnelle Reaktionen der Versorger.",
+    "t": "Stromausfall in Freiburg nach Umspannwerk-Kurzschluss behoben",
+    "s": "Ein großflächiger Stromausfall im Raum Freiburg ist nach einem technischen Defekt wieder behoben worden. Ursache für die Störung war ein Kurzschluss in einem lokalen Umspannwerk. Zeitweise waren etwa 10.000 Haushalte von der Stromversorgung abgeschnitten.",
+    "m": "Am Dienstag kam es in Freiburg und Umgebung zu einem größeren Stromausfall, von dem rund 10.000 Haushalte betroffen waren. Auslöser war ein Kurzschluss in einem Umspannwerk der Region. Mittlerweile ist die Stromversorgung für alle betroffenen Haushalte wieder vollständig hergestellt worden. Es liegen derzeit keine Berichte über Verletzte oder nennenswerte Folgeschäden durch den Ausfall vor. Die zuständigen Stellen haben den Betrieb nach der Störung erfolgreich wieder aufgenommen.",
+    "r": "Der Vorfall zeigt die Verletzlichkeit kritischer Infrastruktur und betraf kurzzeitig eine erhebliche Anzahl von Haushalten in einer regionalen Großstadt.",
     "srcs": [
       {
         "name": "SWR Aktuell Baden-Württemberg",
@@ -637,7 +1138,7 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/freiburg/grossflaechiger-stromausfall-100.html",
-    "agree": "Beide Quellen stimmen überein, dass ein Kurzschluss in einem Umspannwerk in Freiburg der Grund für den Stromausfall war und rund 10.000 Haushalte betroffen sowie inzwischen wieder am Netz sind.",
+    "agree": "Beide Quellen stimmen darin überein, dass ein Kurzschluss in einem Umspannwerk in Freiburg zu einem Stromausfall für rund 10.000 Haushalte führte und dieser inzwischen behoben ist.",
     "diff": [],
     "chg": "",
     "independent": 2
@@ -653,9 +1154,9 @@
     "st": "BW",
     "city": "",
     "t": "Tobias Huber gewinnt Oberbürgermeisterwahl in Ehingen",
-    "s": "Bei der Oberbürgermeisterstichwahl in Ehingen hat sich Tobias Huber durchgesetzt. Der 33-Jährige ist damit der neue Rathauschef der Stadt. Er gewann die Abstimmung gegen seinen Konkurrenten Martin Krämer.",
-    "m": "Tobias Huber wird der neue Oberbürgermeister von Ehingen. Bei der entscheidenden Stichwahl setzte sich der 33-Jährige gegen seinen Mitbewerber Martin Krämer durch. Bemerkenswert an der Konstellation ist, dass beide Kandidaten der CDU angehören, bei der Wahl jedoch als unabhängige Bewerber angetreten sind. Weitere Details zum Wahlergebnis, wie etwa genaue Stimmenanteile oder Wahlbeteiligungen, gehen aus den Berichten nicht hervor. Auch über die künftigen politischen Schwerpunkte des neuen Oberbürgermeisters ist bisher nichts bekannt.",
-    "r": "Die Wahl bestimmt die künftige kommunalpolitische Führung der Stadt Ehingen. Da beide Kandidaten aus derselben Partei stammen, ist das Ergebnis auch für die lokale Parteidynamik von Bedeutung.",
+    "s": "Bei der Oberbürgermeisterstichwahl in Ehingen hat sich Tobias Huber durchgesetzt. Der 33-Jährige ist damit der neue Rathauschef der Stadt. Er gewann die Abstimmung gegen seinen Mitbewerber Martin Krämer.",
+    "m": "Der 33-jährige Tobias Huber ist zum neuen Oberbürgermeister von Ehingen gewählt worden. Bei der entscheidenden Stichwahl konnte er sich gegen Martin Krämer durchsetzen. Bemerkenswert an der Konstellation ist, dass beide Kandidaten Mitglieder der CDU sind, jedoch als unabhängige Bewerber an der Wahl angetreten waren. Weitere Details zum genauen Wahlergebnis, den erreichten Stimmenanteilen oder der Wahlbeteiligung nennen die vorliegenden Berichte nicht. Auch über die künftigen politischen Schwerpunkte des neuen Oberbürgermeisters ist bisher nichts bekannt.",
+    "r": "Die Wahl bestimmt die künftige kommunalpolitische Führung der Stadt Ehingen. Da beide Kandidaten aus der CDU stammen, aber unabhängig antraten, ist das Ergebnis auch für die lokale Parteidynamik von Bedeutung.",
     "srcs": [
       {
         "name": "SWR Aktuell",
@@ -669,7 +1170,7 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/ob-wahl-ehingen-tobias-huber-gewinnt-100.html",
-    "agree": "Beide Quellen stimmen überein, dass Tobias Huber die Stichwahl gegen Martin Krämer gewonnen hat, 33 Jahre alt ist, neuer Oberbürgermeister von Ehingen wird und beide zwar CDU-Mitglieder sind, aber als unabhängige Kandidaten antraten.",
+    "agree": "Beide Quellen stimmen überein, dass Tobias Huber die Stichwahl um das Amt des Oberbürgermeisters in Ehingen gegen Martin Krämer gewonnen hat, beide 33 Jahre alt sind und als unabhängige Kandidaten trotz ihrer CDU-Zugehörigkeit antraten.",
     "diff": [],
     "chg": "",
     "independent": 2
@@ -816,10 +1317,10 @@
     "p": 4,
     "st": "",
     "city": "",
-    "t": "Exilierte Oppositionsführerin María Corina Machado nach Venezuela zurückgekehrt",
-    "s": "Die venezolanische Oppositionsführerin María Corina Machado hat angekündigt, nach fast einem Jahr im Exil in ihr Heimatland zurückgekehrt zu sein. Ihre Rückkehr erfolgt nach nationalen Protesten, die freie Wahlen forderten. Die Nobelpreisträgerin verkündete ihre Ankunft am Sonntagmittag über die Plattform X.",
-    "m": "María Corina Machado hatte das Land vor knapp einem Jahr verlassen, um den Friedensnobelpreis entgegenzunehmen. Ihre Rückkehr dürfte die amtierende Interimspräsidentin Delcy Rodríguez voraussichtlich verärgern. Die erneute Präsenz der Oppositionsführerin fällt in eine Phase erhöhter politischer Spannungen, nachdem es zuvor landesweite Proteste mit Forderungen nach freien Wahlen gegeben hatte. Ob und wie die Behörden auf die Rückkehr reagieren werden, ist derzeit noch offen. Die genauen Umstände ihrer Einreise sowie ihre nächsten politischen Schritte wurden in den vorliegenden Berichten zunächst nicht näher erläutert.",
-    "r": "Die Rückkehr einer prominenten Oppositionsführerin aus dem Exil ist für die politische Stabilität und die Machtverhältnisse in Venezuela von erheblicher Bedeutung. Sie könnte die Spannungen mit der Interimsregierung weiter verschärfen und die Forderungen nach freien Wahlen neu entfachen.",
+    "t": "Oppositionsführerin María Corina Machado kehrt nach Venezuela zurück",
+    "s": "Die venezolanische Oppositionsführerin und Friedensnobelpreisträgerin María Corina Machado ist nach fast einem Jahr im Exil in ihr Heimatland zurückgekehrt. Sie verkündete ihre Rückkehr am Sonntagmittag auf der Plattform X mit den Worten Ich bin hier. Mit euch. Ihre Ankunft erfolgt nach landesweiten Protesten, die freie Wahlen einforderten.",
+    "m": "María Corina Machado hatte das südamerikanische Land vor knapp einem Jahr verlassen, um den Friedensnobelpreis entgegenzunehmen. Ihre Rückkehr dürfte die Interimspräsidentin Delcy Rodríguez voraussichtlich verärgern. Die heimliche oder überraschende Rückkehr der prominenten Oppositionellen folgt unmittelbar auf landesweite Proteste in Venezuela, bei denen von der Bevölkerung freie Wahlen gefordert wurden. Nähere Details über ihre genauen Aufenthaltsorte im Land oder geplante politische Schritte wurden in den ersten Meldungen noch nicht genannt. Auch offizielle Reaktionen der Regierung stehen weitgehend aus, allerdings ist der politische Druck auf die Führung durch diese Entwicklung spürbar erhöht. Die Situation bleibt angespannt, da die Opposition und die Regierung weiterhin in einem harten Machtkampf stehen.",
+    "r": "Die Rückkehr einer prominenten Oppositionsführerin nach fast einem Jahr Exil ist für die politische Dynamik in Venezuela von Bedeutung. Sie trifft auf eine ohnehin angespannte Lage mit landesweiten Protesten für freie Wahlen und könnte den Druck auf die Interimspräsidentin Delcy Rodríguez erhöhen.",
     "srcs": [
       {
         "name": "Guardian World",
@@ -833,15 +1334,15 @@
       }
     ],
     "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
-    "agree": "Die Quellen stimmen darin überein, dass die oppositionelle Friedensnobelpreisträgerin María Corina Machado nach fast einem Jahr im Exil nach Venezuela zurückgekehrt ist.",
+    "agree": "Beide Quellen stimmen darüber überein, dass die venezolanische Oppositionsführerin und Friedensnobelpreisträgerin María Corina Machado nach fast einem Jahr im Exil nach Venezuela zurückgekehrt ist.",
     "diff": [
       {
         "name": "Guardian World",
-        "note": "Erwähnt die Ankündigung von Machado über X am Sonntagmittag und dass die Rückkehr der Interimspräsidentin Delcy Rodríguez voraussichtlich nicht gefallen wird."
+        "note": "Erwähnt, dass Machado ihre Rückkehr am Sonntagmittag auf X mit den Worten Ich bin hier. Mit euch. verkündete und dass ihre Rückkehr die Interimspräsidentin Delcy Rodríguez voraussichtlich verärgern wird."
       },
       {
         "name": "Al Jazeera",
-        "note": "Erwähnt zusätzlich, dass die Heimkehr auf nationale Proteste mit Forderungen nach freien Wahlen folgt."
+        "note": "Ergänzt, dass die Rückkehr der Nobelpreisträgerin auf landesweite Proteste folgt, die freie Wahlen forderten."
       }
     ],
     "chg": "",
@@ -980,10 +1481,10 @@
     "p": 2,
     "st": "MV",
     "city": "",
-    "t": "Gasversorgung in Rastow und Umgebung nach Wassernetz-Schaden weiter unterbrochen",
-    "s": "In Rastow und Umgebung sind hunderte Haushalte weiterhin ohne Gasversorgung. Grund für den Ausfall ist ein Leck im Wassernetz, das eine Gasleitung beschädigt hat. Die Reparaturarbeiten dauern an.",
-    "m": "Der Ausfall der Gasversorgung betrifft hunderte Haushalte in Rastow und der umliegenden Region. Ursächlich für den Schaden an der Gasleitung war ein vorausgegangenes Leck im lokalen Wassernetz. Derzeit laufen die Instandsetzungsmaßnahmen auf Hochtouren, um die beschädigte Infrastruktur zu reparieren. Nach aktuellen Prognosen wird es voraussichtlich bis Mittwoch dauern, bis alle betroffenen Hausanschlüsse wieder regulär funktionieren und die Versorgung vollständig wiederhergestellt ist. Bis dahin müssen die Anwohner ohne Gas auskommen. Offen ist bislang, wie hoch der genaue Sachschaden ist und wie es zu dem Leck im Wassernetz kommen konnte.",
-    "r": "Der anhaltende Ausfall der Energieversorgung für hunderte Haushalte ist von regionaler Bedeutung für die betroffenen Anwohner. Die Schadensbehebung erfordert einen mehrtägigen Großeinsatz bis voraussichtlich Mittwoch.",
+    "t": "Gasausfall in Rastow und Umgebung dauert an",
+    "s": "In Rastow und der umliegenden Region sind hunderte Haushalte von der Gasversorgung abgeschnitten. Auslöser für den Ausfall war ein Leck im Wassernetz, welches die angrenzende Gasleitung beschädigt hat. Die zuständigen Stellen arbeiten an der Behebung des Schadens, der Zustand der betroffenen Haushalte ist vorerst ungesichert.",
+    "m": "Ein gravierender Wassernetzschaden hat in Rastow sowie der näheren Umgebung zu einem Ausfall der Gasversorgung für zahlreiche Haushalte geführt. Durch das Leck im Wassernetz wurde die dortige Gasleitung in Mitleidenschaft gezogen, wodurch die Versorgung komplett unterbrochen wurde. Derzeit laufen intensive Reparaturarbeiten, um die beschädigte Infrastruktur wieder in Stand zu setzen. Die Dauer der Instandsetzung erweist sich als komplex, da die Hausanschlüsse schrittweise überprüft und repariert werden müssen. Betroffene Anwohner müssen sich auf Einschränkungen einstellen, da eine sofortige Wiederinbetriebnahme nicht möglich ist. Nach aktuellen Einschätzungen der regionalen Berichterstattung wird der Zustand voraussichtlich bis einschließlich Mittwoch anhalten, bis alle betroffenen Haushalte wieder regulär mit Gas versorgt werden können. Weitere Details zu den genauen Ursachen des Wassernetzschadens und dem genauen Umfang der betroffenen Infrastruktur stehen im Detail noch aus.",
+    "r": "Der anhaltende Ausfall der Gasversorgung in Rastow und Umgebung beeinträchtigt hunderte Haushalte erheblich. Die Reparaturarbeiten dauern voraussichtlich bis Mittwoch an und verdeutlichen die Anfälligkeit der lokalen Infrastruktur bei Wasserschäden.",
     "srcs": [
       {
         "name": "Tagesschau Regional Mecklenburg-Vorpommern",
@@ -997,15 +1498,15 @@
       }
     ],
     "url": "https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/ende-ungewiss-haushalte-in-rastow-und-umgebung-weiter-ohne-gas,gas-220.html",
-    "agree": "Die Quellen stimmen darin überein, dass hunderte Haushalte in Rastow und Umgebung wegen eines beschädigten Wassernetzes ohne Gas sind und die Reparatur voraussichtlich bis Mittwoch dauert.",
+    "agree": "Die Quellen sind sich einig, dass ein Leck im Wassernetz die Gasleitung beschädigt hat und die Reparatur voraussichtlich bis Mittwoch dauert.",
     "diff": [
       {
         "name": "Tagesschau Regional Mecklenburg-Vorpommern",
-        "note": "Erwähnt die betroffenen Abnehmer explizit als 'Haushalte in Rastow und Umgebung' ohne genaue Zahlen."
+        "note": "Erwähnt konkret, dass es sich um 'Haushalte in Rastow und Umgebung' handelt, ohne die genaue Zahl zu nennen, und beschreibt das Ende als ungewiss."
       },
       {
         "name": "NDR Mecklenburg-Vorpommern",
-        "note": "Beziffert die betroffenen Abnehmer mit 'Hunderte Haushalte' und gibt an, dass die Reparatur 'mindestens' bis Mittwoch dauern wird."
+        "note": "Beziffert die betroffenen Abnehmer präziser mit 'Hunderte Haushalte' und gibt an, dass die Reparatur 'mindestens bis Mittwoch' dauern wird."
       }
     ],
     "chg": "",
@@ -1326,10 +1827,10 @@
     "p": 2,
     "st": "",
     "city": "",
-    "t": "Geisterfahrer-Jet rollt in Frankfurt in falsche Richtung los",
-    "s": "Ein Airbus A321 der Pegasus Airlines ist am Frankfurter Flughafen in die falsche Richtung auf eine Piste gerollt. Fluglotsen bemerkten den Fehler sofort und brachen den Start bei geringem Tempo ab. Verletzt wurde nach ersten Berichten niemand. Die zuständigen Behörden prüfen nun mögliche Konsequenzen des Vorfalls.",
-    "m": "Der Vorfall ereignete sich am Frankfurter Flughafen, als ein Airbus A321 der Fluggesellschaft Pegasus Airlines aus noch ungeklärter Ursache in die falsche Richtung auf die Startbahn rollte. Dank der schnellen Reaktion der Fluglotsen konnte Schlimmeres verhindert werden. Sie bemerkten den Fehler sofort und leiteten umgehend den Abbruch des Starts ein, der zu diesem Zeitpunkt erst mit geringem Tempo erfolgte. Passagiere und Crew kamen nach derzeitigem Stand mit dem Schrecken davon. Ob menschliches Versagen, technische Probleme oder Missverständnisse bei der Kommunikation vorlagen, ist Gegenstand von behördlichen Untersuchungen. Die genauen Umstände des Vorfalls werden nun umfassend geprüft, um künftige Gefährdungen des Flugverkehrs auszuschließen.",
-    "r": "Der Vorfall verdeutlicht potenzielle Gefahren im komplexen Bodenverkehr großer Verkehrsflughäfen. Die schnelle Intervention der Flugsicherung verhinderte eine unmittelbare Kollisionsgefahr. Die Untersuchung soll zur Erhöhung der Sicherheit im Start- und Landebetrieb beitragen.",
+    "t": "Geisterfahrer-Jet rollt am Frankfurter Flughafen in falsche Richtung",
+    "s": "Ein Airbus A321 der Pegasus Airlines ist am Frankfurter Flughafen in die falsche Richtung auf eine Startbahn gerollt. Aufmerksame Fluglotsen haben den Fehler sofort bemerkt und den Start bei geringem Tempo abgebrochen. Die zuständigen Behörden haben die Prüfung möglicher Konsequenzen aufgenommen.",
+    "m": "Der Vorfall ereignete sich am Frankfurter Flughafen, wo ein Passagierflugzeug vom Typ Airbus A321 der Fluggesellschaft Pegasus Airlines versehentlich in die entgegengesetzte und falsche Richtung auf die Startbahn gerollt ist. Dank des schnellen Eingreifens der Fluglotsen konnte die Situation rasch unter Kontrolle gebracht werden, da diese den Fehler umgehend erkannten und den Startvorgang bei sehr geringem Tempo rechtzeitig abbrachen. Bislang ist unklar, wie es zu diesem gefährlichen Navigationsfehler kommen konnte und warum das Flugzeug die falsche Ausrichtung wählte. Die Luftfahrtbehörden und zuständigen Stellen haben den Vorfall aufgenommen und prüfen nun die genauen Hintergründe sowie mögliche Konsequenzen für die Beteiligten. Weitere Details zu verletzten Personen oder konkreten Verzögerungen im weiteren Flugbetrieb wurden in den vorliegenden Berichten zunächst nicht genannt.",
+    "r": "Solche Beinahe-Zwischenfälle auf stark frequentierten Flughäfen verdeutlichen die kritische Rolle der Flugsicherung bei der Verhinderung von Startkollisionen. Die Untersuchung der Behörden soll klären, ob es sich um menschliches Versagen oder technische Probleme handelte.",
     "srcs": [
       {
         "name": "ntv",
@@ -1343,15 +1844,11 @@
       }
     ],
     "url": "https://www.n-tv.de/panorama/Geisterfahrer-Jet-rollt-in-Frankfurt-in-falsche-Richtung-los-id31456691.html",
-    "agree": "Beide Quellen berichten übereinstimmend, dass ein Airbus A321 am Frankfurter Flughafen in die falsche Richtung auf die Startbahn rollte und Fluglotsen den Vorfall sofort bemerkten.",
+    "agree": "Die Quellen stimmen darin überein, dass ein Airbus A321 am Frankfurter Flughafen in die falsche Richtung auf die Startbahn rollte und Fluglotsen den Start sofort abbrachen.",
     "diff": [
       {
         "name": "ntv",
-        "note": "Erwähnt die Fluggesellschaft Pegasus Airlines, dass der Start bei geringem Tempo abgebrochen wurde und die Behörden mögliche Konsequenzen prüfen."
-      },
-      {
-        "name": "RND",
-        "note": "Nennt keine Details zur Airline oder zu behördlichen Konsequenzen."
+        "note": "nennt die Fluggesellschaft Pegasus Airlines und dass die Behörden mögliche Konsequenzen prüfen."
       }
     ],
     "chg": "",
@@ -1367,10 +1864,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Bayern-Coach Vincent Kompany nach Zusammenbruch auf dem Weg der Besserung",
-    "s": "Nach einem Zusammenbruch befindet sich Bayern-Trainer Vincent Kompany offenbar auf dem Weg der Besserung. Sein Co-Trainer Aaron Danks hat ein aktuelles Update zu seinem gesundheitlichen Zustand gegeben. Die Rückmeldungen zu seiner Verfassung werden als wirklich positiv beschrieben. Weitere Details zu den Hintergründen des Vorfalls wurden zunächst nicht genannt.",
-    "m": "Nach dem medizinischen Zwischenfall und dem Zusammenbruch von Bayern-Coach Vincent Kompany gibt es positive Nachrichten zu seiner Verfassung. Co-Trainer Aaron Danks äußerte sich zu dem aktuellen Stand und bezeichnete die Rückmeldungen als wirklich positiv, was auf eine baldige Besserung hindeutet. Zusätzlich äußerte sich Julian Schuster, der Trainer des SC Freiburg, und sprach sein Mitgefühl aus. Konkrete Details zur genauen Ursache oder dem Zeitpunkt des Zusammenbruchs gehen aus den vorliegenden Berichten nicht hervor. Auch über eine mögliche Rückkehr an die Seitenlinie oder den Trainingsplatz gibt es bisher keine offiziellen Angaben.",
-    "r": "Die Meldung ist relevant, da es sich um den gesundheitlichen Zustand des Cheftrainers eines Bundesliga-Spitzenclubs handelt. Solche Vorfälle haben unmittelbare Auswirkungen auf den Trainings- und Spielbetrieb der Mannschaft.",
+    "t": "Bayern-Trainer Vincent Kompany nach Zusammenbruch auf dem Weg der Besserung",
+    "s": "Nach einem Zusammenbruch befindet sich Bayern-Trainer Vincent Kompany offenbar auf dem Weg der Besserung. Sein Co-Trainer Aaron Danks hat ein aktuelles Update zu seinem gesundheitlichen Zustand gegeben. Nähere Details zum Vorfall wurden zunächst nicht bekannt. Die Nachrichten über den Trainer lösen auch in der Fußball-Bundesliga Anteilnahme aus.",
+    "m": "Nach dem plötzlichen Zusammenbruch von Bayern-Coach Vincent Kompany gibt es positive Nachrichten zu seinem gesundheitlichen Zustand. Co-Trainer Aaron Danks berichtete, dass die Rückmeldungen im Moment wirklich positiv seien. Über die genaue Ursache oder den Zeitpunkt des Zusammenbruchs machten die Berichte zunächst keine detaillierten Angaben. Auch die Reaktion aus dem Umfeld der Bundesliga ließ nicht lange auf sich warten. So äußerte unter anderem SC-Freiburg-Trainer Julian Schuster sein Mitgefühl. Wie lange Kompany pausieren muss oder wann er an die Seitenlinie zurückkehrt, ist derzeit noch offene Information.",
+    "r": "Die gesundheitliche Verfassung des Trainers eines Bundesligisten ist für den Profisport von großer Bedeutung. Das Ereignis betrifft direkt das Trainerteam und den sportlichen Betrieb des FC Bayern München sowie die Anteilnahme in der Liga.",
     "srcs": [
       {
         "name": "ZDF heute",
@@ -1384,11 +1881,11 @@
       }
     ],
     "url": "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-fc-bayern-kompany-zusammenbruch-update-danks-100.html",
-    "agree": "Beide Quellen stimmen überein, dass Bayern-Coach Vincent Kompany nach einem Zusammenbruch auf dem Weg der Besserung ist und Co-Trainer Aaron Danks ein positives Update gegeben hat.",
+    "agree": "Die Quellen sind sich einig, dass Bayern-Coach Vincent Kompany nach einem Zusammenbruch auf dem Weg der Besserung ist und Co-Trainer Aaron Danks ein positives Update gegeben hat.",
     "diff": [
       {
         "name": "Frankfurter Allgemeine",
-        "note": "Erwähnt zusätzlich, dass Julian Schuster vom SC Freiburg sein Mitgefühl geäußert hat."
+        "note": "Erwähnt zusätzlich das Mitgefühl von Julian Schuster vom SC Freiburg."
       }
     ],
     "chg": "",
@@ -1404,10 +1901,10 @@
     "p": 3,
     "st": "RP",
     "city": "",
-    "t": "Eskalation an der Karolina-Burger-Schule in Ludwigshafen",
-    "s": "An der Karolina-Burger-Schule in Ludwigshafen kommt es zu massiven Problemen im Schulalltag. Berichtet wird von Vorfällen wie Erpressung, Gewalt und einer Reizgasattacke. Nun wird nach Auswegen und Lösungen gesucht, wobei ein Beispiel aus Berlin als Hoffnungsträger dient.",
-    "m": "Die Ludwigshafener Karolina-Burger-Schule sieht sich schwerwiegenden Zwischenfällen ausgesetzt, die den Schulalltag stark belasten. Zu den Vorkommnissen zählen nach Medienangaben Erpressung, Gewaltanwendung sowie eine Reizgasattacke. Die Häufung und Schwere dieser Vorfälle werfen drängende Fragen zur Sicherheit und zum Schulklima auf. Verantwortliche und Beobachter suchen händeringend nach konstruktiven Lösungsansätzen und effektiven Gegenmaßnahmen. Als mögliches Vorbild für eine gelingende Wende wird dabei ein vergleichbares Beispiel aus Berlin herangezogen. Konkrete Details zur Umsetzung dieses Lösungsansatzes in Ludwigshafen sowie offizielle Reaktionen der Schulbehörden stehen noch aus.",
-    "r": "Die Meldung ist relevant, da an einer Schule schwere Gewaltvorfälle wie Erpressung und Reizgasattacken aufgetreten sind und nach dringenden Lösungen gesucht wird. Dies betrifft die Sicherheit an Bildungseinrichtungen und den Umgang mit Eskalationen im Schulalltag.",
+    "t": "Eskalation an Ludwigshafener Schule: Wege aus der Gewaltkrise",
+    "s": "An der Karolina-Burger-Schule in Ludwigshafen herrscht ein eskalierter Alltag mit Erpressung, Gewalt und einer Reizgasattacke. Angesichts dieser massiven Probleme stellt sich die Frage nach Auswegen aus der Krise. Ein erfolgreiches Beispiel aus Berlin zeigt möglicherweise, wie eine Wende gelingen kann.",
+    "m": "Die Situation an der Karolina-Burger-Schule in Ludwigshafen ist durch schwere Vorfälle wie Erpressung, körperliche Gewalt und eine Reizgasattacke gekennzeichnet. Diese Vorkommnisse verdeutlichen eine drastische Eskalation des schulischen Alltags und belasten das Lernumfeld sowie die Sicherheit vor Ort stark. Verantwortliche und Beobachter suchen händeringend nach Lösungen, um die Zustände zu kontrollieren und den Schulbetrieb zu stabilisieren. Als möglicher Lösungsansatz wird ein vergleichbares Projekt aus Berlin herangezogen, das dort bereits erfolgreich zur Entspannung beigetragen hat. Bislang ist jedoch offen, inwieweit sich diese Berliner Erfahrungen konkret auf die Ludwigshafener Schule übertragen lassen. Die betroffenen Akteure stehen vor der Herausforderung, zeitnah effektive Maßnahmen gegen die Gewaltwelle umzusetzen.",
+    "r": "Die Meldung ist relevant, da an einer Schule schwere Vorfälle wie Gewalt, Erpressung und Reizgaseinsätze aufgetreten sind, die den Schulbetrieb gefährden. Die Suche nach Lösungsansätzen zur Krisenbewältigung betrifft die Sicherheit und das Bildungswesen direkt.",
     "srcs": [
       {
         "name": "Tagesschau Regional Rheinland-Pfalz",
@@ -1421,11 +1918,11 @@
       }
     ],
     "url": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-eskalation-an-karolina-burger-schule-so-koennte-eine-wende-gelingen-100.html",
-    "agree": "Beide Quellen stimmen überein, dass es an der Karolina-Burger-Schule in Ludwigshafen zu einer Eskalation mit Erpressung, Gewalt und einer Reizgasattacke gekommen ist und ein Berliner Beispiel Hoffnung auf eine Wende macht.",
+    "agree": "Beide Quellen stimmen darin überein, dass es an der Karolina-Burger-Schule in Ludwigshafen zu einer Eskalation mit Erpressung, Gewalt und einer Reizgasattacke gekommen ist und ein Berliner Beispiel Hoffnung auf eine Wende macht.",
     "diff": [
       {
         "name": "SWR Aktuell",
-        "note": "Ergänzt den Ortsbezug 'in Ludwigshafen' direkt im Titel."
+        "note": "Ergänzt im Titel die Ortsangabe 'in Ludwigshafen'."
       }
     ],
     "chg": "",
@@ -1532,10 +2029,10 @@
     "p": 3,
     "st": "BY",
     "city": "",
-    "t": "Audi plant erstes US-Werk im Rahmen von Trumps Wahlkampftour",
-    "s": "Audi hat den Bau seines ersten eigenen Werks in den USA angekündigt. Die Bekanntgabe erfolgte überraschend auf einer Wahlkampfveranstaltung mit US-Präsident Donald Trump. Auf der Bühne war auch Audi-Chef Gernot Döllner anwesend. Von der SPD gab es bereits Kritik an dem Vorhaben.",
-    "m": "Die Bekanntgabe des neuen US-Werks von Audi mitten in der Krise des Mutterkonzerns Volkswagen sorgt für Aufsehen. US-Präsident Trump nutzte die Ankündigung auf seiner Wahlkampfveranstaltung für eigene politische Zwecke im Wahlkampf. Gleichzeitig droht Trump ausländischen Unternehmen immer wieder mit hohen Zöllen, was die Standortdebatte beeinflusst. Audi-Chef Döllner stand während der Ankündigung gemeinsam mit dem US-Präsidenten auf der Bühne. Aus der deutschen Politik, konkret von der SPD, kam umgehend Kritik an den Expansionsplänen in die Vereinigten Staaten. Weitere Details zum Investitionsvolumen, dem genauen Standort des Werks oder dem Zeitplan wurden von den Quellen bisher nicht genannt. Offen ist zudem, wie sich das Projekt auf die künftige Ausrichtung des VW-Konzerns und die heimischen Arbeitsplätze auswirkt.",
-    "r": "Die Ankündigung eines Audi-Werks in den USA im Kontext von Trumps Wahlkampf und Zollandrohungen berührt handelspolitische und arbeitsmarktpolitische Fragen. Die Reaktionen der SPD zeigen zudem die politische Dimension für den Standort Deutschland auf.",
+    "t": "Audi plant erstes Werk in den USA",
+    "s": "Audi hat den Bau seines ersten Werkes in den USA angekündigt. US-Präsident Trump präsentierte das Vorhaben während einer Wahlkampfveranstaltung. Die Entscheidung erfolgt inmitten der aktuellen Krise des Mutterkonzerns VW.",
+    "m": "Im Rahmen einer US-Wahlkampfveranstaltung hat der Autobauer Audi angekündigt, ein neues Werk in den Vereinigten Staaten zu errichten. Bei der Präsentation stand US-Präsident Trump gemeinsam mit Audi-Chef Döllner auf der Bühne. Die Ankündigung fällt in eine Zeit, in der Audi beziehungsweise der VW-Konzern mit wirtschaftlichen Krisen konfrontiert sind. Zudem ist das Vorhaben vor dem Hintergrund von Trumps wiederholten Androhungen hoher Zölle für ausländische Unternehmen zu sehen, die er im Wahlkampf thematisiert. Von Seiten der SPD gab es bereits erste Kritik an dem Schritt. Offen bleiben bislang Details zum genauen Investitionsvolumen, dem Standort und dem Zeitplan für die Realisierung des Werkes.",
+    "r": "Die Investition eines deutschen Autobauers in den USA im Kontext drohender US-Zölle und der Krise bei VW ist wirtschaftlich und politisch von Bedeutung. Die Einbindung in eine US-Wahlkampfveranstaltung verknüpft unternehmerische Expansion direkt mit amerikanischer Handelspolitik.",
     "srcs": [
       {
         "name": "BR24 Bayern",
@@ -1549,15 +2046,15 @@
       }
     ],
     "url": "https://www.br.de/nachrichten/wirtschaft/auf-wahlkampftour-trump-kuendigt-erstes-audi-werk-in-den-usa-an,VZ2ObRn",
-    "agree": "Die Quellen sind sich einig, dass Audi den Bau seines ersten Werkes in den USA angekündigt hat und dies im Rahmen einer Wahlkampfveranstaltung von US-Präsident Trump geschah.",
+    "agree": "Beide Quellen stimmen überein, dass Audi den Bau seines ersten Werkes in den USA angekündigt hat und diese Ankündigung im Rahmen einer Wahlkampfveranstaltung von US-Präsident Trump stattfand.",
     "diff": [
       {
         "name": "BR24 Bayern",
-        "note": "Erwähnt die Krise bei VW, die Anwesenheit von Audi-Chef Döllner auf der Bühne sowie Kritik von der SPD."
+        "note": "Erwähnt zusätzlich Audi-Chef Döllner auf der Bühne, die Krise bei VW als Hintergrund sowie Kritik von der SPD."
       },
       {
         "name": "Tagesschau",
-        "note": "Erwähnt die fortlaufenden Drohungen von Trump gegenüber ausländischen Unternehmen mit hohen Zöllen."
+        "note": "Erwähnt ergänzend, dass Trump ausländischen Unternehmen immer wieder mit hohen Zöllen droht."
       }
     ],
     "chg": "",
@@ -1573,10 +2070,10 @@
     "p": 2,
     "st": "",
     "city": "",
-    "t": "Audi-Chef bei Trump-Kundgebung: SPD-Politikerin kritisiert Auftritt scharf",
-    "s": "Bei der Ankündigung eines neuen Audi-Werks in Georgia stand Audi-Chef Gernot Döllner gemeinsam mit dem US-Präsidenten Donald Trump auf der Bühne. Dieser Auftritt sorgt in der deutschen Politik für heftige Reaktionen. Eine SPD-Abgeordnete bezeichnete die Präsenz als eine Schande. Ob das Projekt tatsächlich umgesetzt wird, entscheidet final der VW-Aufsichtsrat.",
-    "m": "Der Auftritt von Audi-Chef Gernot Döllner bei einer Kundgebung von Donald Trump in Georgia hat eine politische Debatte ausgelöst. Anlass war die dortige Ankündigung eines neuen Audi-Werks, bei der Döllner demonstrativ mit auf der Bühne stand und Applaus für den US-Präsidenten entgegennahm. Die Aktion stieß insbesondere bei der SPD auf scharfe Kritik; eine Abgeordnete der Partei äußerte ihr Unverständnis und sprach öffentlich von einer Schande. Bislang handelt es sich um eine Ankündigung des Projekts, dessen tatsächliche Realisierung jedoch noch nicht endgültig beschlossen ist. Das letzte Wort über den Bau und die damit verbundenen Investitionen hat der Aufsichtsrat des Mutterkonzerns VW. Weitere Details zu Investitionssummen, genauen Zeitplänen oder Reaktionen seitens des VW-Konzerns gehen aus den vorliegenden Berichten nicht hervor. Offen bleibt auch, wie das Unternehmen die Kritik aus der deutschen Politik bewertet.",
-    "r": "Der gemeinsame Auftritt eines deutschen Automobilmanagers mit dem US-Präsidenten im Rahmen einer Werkankündigung wirft Fragen zur unternehmerischen Nähe zur US-Politik auf. Da es sich um eine Tochtergesellschaft des Volkswagen-Konzerns handelt, ist das Thema auch für die deutsche Wirtschaft und Politik von Bedeutung.",
+    "t": "Audi-Chef bei Trump-Kundgebung löst Kritik bei SPD aus",
+    "s": "Audi-Chef Gernot Döllner trat bei einer Kundgebung von US-Präsident Donald Trump in Georgia auf, bei der ein neues Audi-Werk angekündigt wurde. Diese Aktion stieß bei einer SPD-Politikerin auf scharfe Kritik. Das letzte Wort über das geplante Werk in den USA hat jedoch der VW-Aufsichtsrat.",
+    "m": "Bei einer Kundgebung in Georgia hat US-Präsident Donald Trump die Errichtung eines neuen Audi-Werkes angekündigt. Bei diesem Auftritt stand Audi-Chef Gernot Döllner gemeinsam mit Trump auf der Bühne. Die politische Reaktion in Deutschland ließ nicht lange auf sich warten, insbesondere von Seiten der SPD. Eine SPD-Abgeordnete bezeichnete den Auftritt und die damit verbundene Präsenz als Schande. Ob das Vorhaben letztlich realisiert wird, ist noch nicht endgültig entschieden. Über das Projekt muss der VW-Aufsichtsrat als zuständiges Gremium abschließend beraten und entscheiden.",
+    "r": "Der Vorfall verbindet die deutsche Automobilindustrie direkt mit der US-amerikanischen Politik und sorgt für innenpolitische Spannungen in Deutschland. Zudem verdeutlicht er die Abhängigkeit wichtiger unternehmerischer Entscheidungen von übergeordneten Gremien wie dem VW-Aufsichtsrat.",
     "srcs": [
       {
         "name": "WELT",
@@ -1590,15 +2087,15 @@
       }
     ],
     "url": "https://www.welt.de/politik/deutschland/article6ade169151fb647ba7e7c8f6/audi-auftritt-bei-trump-loest-kritik-aus-4-2-milliarden-geplant.html",
-    "agree": "Die Quellen stimmen überein, dass Audi-Chef Gernot Döllner bei einer Kundgebung in Georgia für ein neues Werk auf der Bühne stand, dass es Applaus für US-Präsident Trump gab und dass eine SPD-Politikerin den Auftritt als Schande kritisierte.",
+    "agree": "Beide Quellen berichten darüber, dass der Audi-Chef bei einer Trump-Kundgebung auf der Bühne stand, ein neues Werk in Georgia angekündigt wurde und eine SPD-Politikerin dies als Schande bezeichnete.",
     "diff": [
       {
         "name": "WELT",
-        "note": "Erwähnt zusätzlich, dass das letzte Wort über das Projekt beim VW-Aufsichtsrat liegt."
+        "note": "Erwähnt konkret den Namen des Audi-Chefs Gernot Döllner und dass der VW-Aufsichtsrat das letzte Wort über das Projekt hat."
       },
       {
         "name": "t-online Nachrichten",
-        "note": "Fokus auf den Applaus für US-Präsident Trump auf der Bühne."
+        "note": "Fokussiert sich auf die Kernpunkte ohne Nennung des Namens des Audi-Chefs."
       }
     ],
     "chg": "",
@@ -1856,47 +2353,6 @@
     "independent": 2
   },
   {
-    "id": "story-9c76cbea0241b253",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-25T12:50:00.000Z",
-    "p": 2,
-    "st": "HH",
-    "city": "",
-    "t": "Frühere NDR-Fernsehansagerin Hanni Vanhaiden mit 88 Jahren gestorben",
-    "s": "Die ehemalige NDR-Fernsehansagerin Hanni Vanhaiden ist tot. Sie wurde 88 Jahre alt und erlangte in den vergangenen Jahrzehnten bundesweite Bekanntheit in einem Beruf, der heute nicht mehr existiert. Ihr plötzliches oder näheres Ableben wird in ersten Meldungen betrauert.",
-    "m": "Hanni Vanhaiden starb am 11. Oktober in Hamburg im Alter von 88 Jahren. Sie prägte ab dem Jahr 1967 das Fernsehprogramm und wurde einem großen Publikum als Ansagerin beim NDR Fernsehen bekannt. Sie übte damit einen Beruf aus, der im Zuge der Programmreformen und der Modernisierung der Medienlandschaft aus dem Fernsehen verschwunden ist. Sie gehörte zu den bekannten Gesichtern des norddeutschen Rundfunks in den späten Jahrzehnten des vorigen Jahrhunderts. Die genauen Umstände des Todes sowie Details zu einer Trauerfeier wurden in den ersten Berichten nicht genannt.",
-    "r": "Der Tod von Hanni Vanhaiden markiert den Verlust einer bekannten Persönlichkeit der deutschen Fernsehgeschichte. Als langjährige Ansagerin prägte sie eine Medienära, die im heutigen Fernsehen nicht mehr existiert.",
-    "srcs": [
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/kultur/tv/hanni-vanhaiden-ist-tot-ndr-fernsehansagerin-mit-88-jahren-gestorben-a-cd261d76-67b5-4cec-98fa-ee216a0e448b#ref=rss",
-        "date": "2026-10-25T12:50:00.000Z"
-      },
-      {
-        "name": "NDR Hamburg",
-        "url": "https://www.ndr.de/nachrichten/hamburg/fernsehansagerin-hanni-vanhaiden-ist-tot,kurzehh-4710.html",
-        "date": "2026-10-25T12:49:35.000Z"
-      }
-    ],
-    "url": "https://www.spiegel.de/kultur/tv/hanni-vanhaiden-ist-tot-ndr-fernsehansagerin-mit-88-jahren-gestorben-a-cd261d76-67b5-4cec-98fa-ee216a0e448b#ref=rss",
-    "agree": "Beide Quellen stimmen darin überein, dass die ehemalige Fernsehansagerin Hanni Vanhaiden im Alter von 88 Jahren gestorben ist.",
-    "diff": [
-      {
-        "name": "DER SPIEGEL",
-        "note": "Erwähnt, dass sie landesweit bekannt wurde mit einem Beruf, den es heute nicht mehr gibt."
-      },
-      {
-        "name": "NDR Hamburg",
-        "note": "Nennt das genaue Sterbedatum (11. Oktober), den Sterbeort Hamburg und das Jahr ihres Bekanntwerdens beim NDR Fernsehen (ab 1967)."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
     "id": "story-545a6a9dca6d1324",
     "c": "INT",
     "o": "DE",
@@ -1988,10 +2444,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Erneuter Feuerwehreinsatz nach Großbrand am Kehlsteinhaus",
-    "s": "Nach dem verheerenden Großbrand am historischen Kehlsteinhaus im Obersalzberg ist das Feuer in der Nacht erneut aufgeflammt. Die Feuerwehr musste abermals ausrücken, um den Brand zu bekämpfen. Das Gebäude im früheren Nazi-Sperrgebiet wurde durch das Feuer fast vollständig zerstört.",
-    "m": "Das historische Kehlsteinhaus, oft auch als Hitlers Teehaus bezeichnet, ist in der Nacht nach einem bereits gelöschten Großbrand erneut in Flammen aufgegangen. Die Polizei geht bei dem Vorfall von Brandstiftung aus. Das Gebäude ist durch die Flammen fast vollständig zerstört worden, und der Sachschaden bewegt sich im Millionenbereich. Trotz der schweren Beschädigungen gibt es bereits Pläne für einen Wiederaufbau des bekannten Bauwerks am Obersalzberg. Die Ermittlungen zu den genauen Hintergründen und den Tätern dauern an, während die Rettungskräfte im nächtlichen Einsatz die letzten Glutnester bekämpfen mussten.",
-    "r": "Der Brand an einem historischen und touristisch bedeutsamen Bauwerk verursacht Schäden in Millionenhöhe und erfordert umfangreiche polizeiliche Ermittlungen wegen Brandstiftung.",
+    "t": "Erneut Feuer am zerstörten Kehlsteinhaus ausgebrochen",
+    "s": "Nach einem Großbrand am historischen Kehlsteinhaus in Berchtesgaden ist das Feuer in der Nacht erneut aufgeflammt. Die Feuerwehr musste abermals ausrücken, nachdem der vorherige Brand bereits gelöscht schien. Das Gebäude war zuvor fast vollständig zerstört worden und es entstand ein Schaden in Millionenhöhe.",
+    "m": "Das historische Kehlsteinhaus im früheren Nazi-Sperrgebiet Obersalzberg am Obersalzberg wurde von einem Großbrand heimgesucht und ist fast vollständig zerstört. Nach den Löscharbeiten flammte das Feuer in der Nacht erneut auf, was einen erneuten Einsatz der Feuerwehr erforderlich machte. Die Polizei geht von Brandstiftung als Ursache aus. Der Sachschaden wird auf mehrere Millionen Euro beziffert. Trotz der massiven Zerstörungen gibt es bereits Pläne, das historische Bauwerk wieder aufzubauen. Die genauen Hintergründe und Ermittlungen zu den Tätern dauern an.",
+    "r": "Der Brand an einem prominenten historischen Bauwerk von überregionaler Bedeutung führt zu massiven Sachschäden in Millionenhöhe und erfordert langwierige Ermittlungen zur Brandstiftung. Die Pläne zum Wiederaufbau unterstreichen die historische Relevanz des Ortes.",
     "srcs": [
       {
         "name": "RND",
@@ -2005,15 +2461,15 @@
       }
     ],
     "url": "https://www.rnd.de/panorama/hitlers-teehaus-feuer-am-kehlsteinhaus-wieder-aufgeflammt-AHIYSA6NAVB37NFRYWL44NGAFY.html",
-    "agree": "Die Quellen stimmen überein, dass es am Kehlsteinhaus zu einem erneuten Feuerwehreinsatz gekommen ist.",
+    "agree": "Die Quellen sind sich einig, dass es am Kehlsteinhaus zu einem Brand kam, der nach einer vermeintlichen Löschung in der Nacht erneut aufflammte.",
     "diff": [
       {
         "name": "RND",
-        "note": "Berichtet, dass die Polizei von Brandstiftung ausgeht, das Gebäude fast vollständig zerstört ist, ein Millionenschaden entstanden ist, ein Wiederaufbau geplant ist und das Feuer in der Nacht erneut aufflammte."
+        "note": "Berichtet über die mutmaßliche Brandstiftung, die fast vollständige Zerstörung, den Millionenschaden sowie die Pläne zum Wiederaufbau."
       },
       {
         "name": "DW Deutsch",
-        "note": "Erwähnt ergänzend, dass der Brand sich im früheren Nazi-Sperrgebiet Obersalzberg befand und das Feuer zunächst bereits gelöscht war, bevor die Feuerwehr in der Nacht erneut ausrücken musste."
+        "note": "Erwähnt zusätzlich das frühere Nazi-Sperrgebiet Obersalzberg."
       }
     ],
     "chg": "",
@@ -2620,10 +3076,10 @@
     "p": 2,
     "st": "BW",
     "city": "",
-    "t": "Finanznot in Kommunen: Kann bürgerschaftliches Engagement Sparen ausgleichen?",
-    "s": "Städte und Gemeinden stehen vor enormen finanziellen Herausforderungen und müssen den Rotstift ansetzen. Die Folgen bekommen die Bürger direkt zu spüren, etwa durch geschlossene Freibäder, gekürzte Kulturförderung oder marode Schulen. Als Reaktion auf diese Entwicklung werden in einigen Fällen Bürger selbst aktiv, um Lücken zu füllen. Es stellt sich die grundlegende Frage, inwieweit dieses freiwillige Engagement den Sparkurs der Kommunen auffangen kann.",
-    "m": "Angesichts leerer Kassen geraten immer mehr Städte und Gemeinden in Baden-Württemberg und ganz Deutschland in Zugzwang. Die notwendigen Einsparungen treffen die kommunale Infrastruktur und das gesellschaftliche Leben massiv. Betroffen sind besonders Bereiche wie die Kulturförderung, der Erhalt von Freibädern sowie die Sanierung maroder Schulgebäude. Da öffentliche Mittel fehlen, übernehmen teilweise ehrenamtliche Initiativen und Bürgervereinigungen Aufgaben, die zuvor von der Kommune getragen wurden. Dies wirft Fragen nach der Belastbarkeitsgrenze des Ehrenamts und der staatlichen Daseinsvorsorge auf. Kritiker und Experten diskutieren, ob bürgerschaftlicher Einsatz lediglich eine Ergänzung sein kann oder ob er zur verdeckten Kompensation staatlicher Unterfinanzierung verkommt.",
-    "r": "Die Debatte berührt die finanzielle Handlungsfähigkeit von Kommunen und die Grenzen des Ehrenamts bei der Aufrechterhaltung der Daseinsvorsorge. Sie ist von gesellschaftlicher Relevanz, da Sparmaßnahmen direkt die Lebensqualität der Bürger beeinträchtigen.",
+    "t": "Städte in Finanznot: Was kann bürgerschaftliches Engagement leisten?",
+    "s": "Städte und Gemeinden stehen vor großen finanziellen Herausforderungen, was zu Sparmaßnahmen wie geschlossenen Freibädern, geringerer Kulturförderung und maroden Schulen führt. Diese Einschnitte sind für die Bürger direkt spürbar. Als Reaktion darauf werden in manchen Fällen Bürgerinnen und Bürger selbst aktiv, um Lücken in der kommunalen Versorgung oder im Angebot zu schließen.",
+    "m": "Die finanzielle Situation vieler Kommunen ist angespannt, was zu konkreten Einsparungen in Bereichen wie Bädern, Kultur und Infrastruktur führt. Wenn öffentliche Kassen leer sind, stellt sich die Frage, welche Rolle freiwilliges Engagement von Bürgern spielen kann. Bürgerinitiative und ehrenamtlicher Einsatz werden in diesem Zusammenhang als mögliche Wege diskutiert, um bestimmte gesellschaftliche oder kommunale Angebote aufrechtzuerhalten. Es bleibt jedoch umstritten, in welchem Maße staatliche Aufgaben durch freiwillige Arbeit ausgeglichen werden können. Offen ist, ob bürgerschaftliches Engagement dauerhaft als Ersatz für kommunale Finanzierung dienen kann oder ob es lediglich temporäre Linderung verschafft.",
+    "r": "Die Meldung beleuchtet die finanziellen Probleme von Städten und Gemeinden sowie die daraus resultierenden Konsequenzen für die Infrastruktur. Sie zeigt auf, dass Bürger teilweise selbst aktiv werden, wenn öffentliche Angebote gestrichen oder reduziert werden.",
     "srcs": [
       {
         "name": "SWR Aktuell Baden-Württemberg",
@@ -2637,8 +3093,17 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/wenn-staedte-sparen-muessen-sollen-buerger-mehr-aufgaben-uebernehmen-100.html",
-    "agree": "Beide Quellen stimmen darin überein, dass Städte und Gemeinden sparen müssen, was sich in geschlossenen Freibädern, weniger Kulturförderung und maroden Schulen äußert, und werfen die Frage auf, ob freiwilliges Engagement der Bürger dies ausgleichen kann.",
-    "diff": [],
+    "agree": "Beide Quellen stimmen darin überein, dass Städte und Gemeinden aufgrund von Sparzwängen Leistungen wie Freibäder und Kulturförderung kürzen oder Schulen marode sind, und dass manche Bürger deshalb selbst aktiv werden.",
+    "diff": [
+      {
+        "name": "SWR Aktuell Baden-Württemberg",
+        "note": "Formuliert die Fragestellung im Titel mit dem Begriff ausgleichen."
+      },
+      {
+        "name": "Tagesschau Regional Baden-Württemberg",
+        "note": "Formuliert die Fragestellung im Titel mit dem Begriff ausrichten."
+      }
+    ],
     "chg": "",
     "independent": 2
   },
@@ -15679,358 +16144,6 @@
     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/deutschlandticket-316.html",
     "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
     "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-e40af5407a3d8cf9",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-20T10:50:05.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Selenskyj trifft US-Gesandten Witkoff in Oslo",
-    "s": "Der ukrainische Präsident Wolodymyr Selenskyj ist in Oslo mit dem US-Gesandten Witkoff zu Gesprächen zusammengekommen. Das Treffen findet vor dem Hintergrund zuletzt verschlechterter Beziehungen zwischen den USA und der Ukraine statt. Auslöser für die Spannungen ist insbesondere der Umgang des US-Präsidenten Trump mit Russland. Weitere offizielle Details zu den Inhalten oder Ergebnissen des Treffens wurden zunächst nicht bekannt.",
-    "m": "Das Treffen zwischen dem ukrainischen Präsidenten Wolodymyr Selenskyj und dem US-Gesandten Witkoff in Oslo markiert einen wichtigen diplomatischen Kontakt inmitten anhaltender geopolitischer Spannungen. Zuletzt waren die bilateralen Beziehungen zwischen Kiew und Washington durch den Umgang von US-Präsident Trump mit Russland stark belastet worden. Die Konsultationen sollen offenbar dazu dienen, den Dialog zwischen den Regierungen aufrechtzuerhalten und Standpunkte abzustimmen. Beobachter werten das Gespräch als Versuch, trotz unterschiedlicher Einschätzungen zur Russland-Politik im Gespräch zu bleiben. Bislang liegen keine tiefergehenden Berichte über konkrete Ergebnisse oder Vereinbarungen vor. Das Treffen reiht sich in eine Serie diplomatischer Bemühungen ein, um die ukrainische Position zu unterstützen und gleichzeitig die Beziehungen zu den Vereinigten Staaten zu stabilisieren.",
-    "r": "Das Treffen ist relevant, da die Beziehungen zwischen der Ukraine und den USA zuvor durch Trumps Russland-Kurs belastet wurden. Gespräche zwischen hochrangigen Vertretern beider Seiten geben Aufschluss über den aktuellen Zustand der diplomatischen und militärischen Koordination.",
-    "srcs": [
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/europa/ukraine-treffen-witkoff-100.html",
-        "date": "2026-10-20T10:50:05.000Z"
-      },
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1bGRBZTVrX2E1c1QtV2lIUHpzNVV0VlN5aWV4TDlsSk1iVzk2X2xXUU5ESkstUXYzYTdpMHBwTDJaU2NlMTg1akV1N0czMl90VmtjX1YxWGlXamtFWmNhc1NEc3RIR0FhdWR4aFM0cXFiNlVyN09qcFl4amdVUQ?oc=5",
-        "date": "2026-10-20T10:50:00.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/ausland/europa/ukraine-treffen-witkoff-100.html",
-    "agree": "Die Quellen sind sich einig, dass der ukrainische Präsident Selenskyj den US-Gesandten Witkoff in Oslo zu Gesprächen getroffen hat und die Beziehungen zwischen den USA und der Ukraine zuvor durch Trumps Umgang mit Russland belastet waren.",
-    "diff": [
-      {
-        "name": "Tagesschau",
-        "note": "Berichtet als Primärquelle über das Treffen zwischen Selenskyj und dem US-Gesandten Witkoff in Oslo und erwähnt die vorausgegangenen Spannungen wegen Trumps Russland-Politik."
-      },
-      {
-        "name": "Google News DE",
-        "note": "Führt die Meldung lediglich als Verweis auf den Bericht der Tagesschau und enthält keine eigenständigen Zusatzinformationen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-893f6c3e17081587",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-20T10:37:46.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Amazon plant Rekordinvestitionen von 16 Milliarden Euro in Deutschland",
-    "s": "Der Internetriese Amazon plant massive Investitionen in Deutschland. Allein im kommenden Jahr oder bis 2027 sollen 16 Milliarden Euro in das hiesige Geschäft fließen. Durch diese Finanzspritze ist die Schaffung Tausender neuer Arbeitsplätze vorgesehen.",
-    "m": "Die geplanten Investitionen von Amazon belaufen sich auf 16 Milliarden Euro für das Deutschland-Geschäft. Neben dem Ausbau der Logistik und dem Einsatz von Künstlicher Intelligenz sind auch Projekte im Bereich Raketen beziehungsweise die Beteiligung Europas am Aufbau eines Konkurrenten zu SpaceX-Starlink im Gespräch. Konkrete Zahlen und Hintergründe wurden im Rahmen von Medienberichten bekannt, die sich auf Pläne des Konzerns berufen. Durch die Kapitätserweiterungen sollen in Deutschland Tausende neue Jobs entstehen. Offen bleibt bislang, wie genau die Mittel auf die einzelnen Sparten verteilt werden und welche Regionen konkret profitieren.",
-    "r": "Die Investitionsschritte eines globalen Technologiekonzerns dieser Größenordnung haben erhebliche Auswirkungen auf den Arbeitsmarkt und die Wirtschaftskraft in Deutschland. Solche Summen verändern wettbewerbliche Strukturen in den Bereichen Logistik, KI und Satellitentechnologie nachhaltig.",
-    "srcs": [
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/wirtschaft/Amazon-will-16-Milliarden-Euro-in-Deutschland-investieren-id31437761.html",
-        "date": "2026-10-20T10:37:46.000Z"
-      },
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNGg0V21LYzlkS1lwX09LRzJnYng5YTZGSmZjb1FIRGtuUFhGY1VPZi1vcjJ4UWpidFhuVHVTSG9ERmVnSExuYjV1Y1U5VlFXVldTMWpQZ0loa2JWTDV4dGpyZ3p4NHUtZ21XWnp3RTI0b1FTU0p5YXo3TUs1S3U2VnBHT0FnZVRmMzF5bjNlMWs0cmJHZmpuREZiS0FNU3BQTDctWXZNeUZnMHQ4UVlrbGZpQTBJWU4yVTdZX0tfbDg5Z19kNjU0RFVRTW5hZw?oc=5",
-        "date": "2026-10-20T09:15:11.000Z"
-      }
-    ],
-    "url": "https://www.n-tv.de/wirtschaft/Amazon-will-16-Milliarden-Euro-in-Deutschland-investieren-id31437761.html",
-    "agree": "Die Quellen stimmen überein, dass Amazon 16 Milliarden Euro in Deutschland investieren will.",
-    "diff": [
-      {
-        "name": "ntv",
-        "note": "Berichtet detaillierter über die inhaltlichen Schwerpunkte wie Logistik, KI und Raketen sowie Pläne, Europa in den Aufbau eines Starlink-Konkurrenten einzubeziehen."
-      },
-      {
-        "name": "Google News DE",
-        "note": "Verweist auf die FAZ als Ursprung und nennt konkret das Jahr 2027 für die Investition."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-9cde07a302e97e1a",
-    "c": "DE",
-    "o": "DE",
-    "k": "technik",
-    "lang": "de",
-    "d": "2026-10-20T10:26:58.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Gericht untersagt Veröffentlichung von Grundstücksbildern auf Google Maps",
-    "s": "Das Landgericht Frankfurt hat entschieden, dass Luftbildaufnahmen von Grundstücken in Deutschland nicht gegen den Willen der Eigentümer auf Google Maps und Google Earth veröffentlicht werden dürfen. Geklagt hatte ein Mann aus Frankfurt. Damit haben Eigentümer von Privathäusern ein entsprechendes Widerspruchsrecht.",
-    "m": "Im konkreten Fall hatte ein Mann aus Frankfurt erfolgreich gegen die Darstellung seines Grundstücks geklagt. Das Landgericht Frankfurt gab ihm recht und stellte fest, dass die Veröffentlichung von Luftbildern ohne Zustimmung des Eigentümers unzulässig ist. Bislang war umstritten, inwieweit Online-Kartendienste solche Detailaufnahmen ohne explizite Einwilligung bereitstellen dürfen. Das Urteil stärkt die Rechte von Grundstückseigentümern in Bezug auf ihre Privatsphäre im digitalen Raum. Ob Google gegen die Entscheidung vorgehen wird oder welche Konsequenzen dies europaweit hat, ist derzeit noch offen. Auch die Frage, wie flächendeckend betroffene Bürger nun der Darstellung widersprechen können, bleibt abzuwarten.",
-    "r": "Das Urteil hat grundsätzliche Bedeutung für die Darstellung von Privatgrundstücken auf Online-Kartendiensten und stärkt die Datenschutzrechte von Eigentümern.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/gericht-untersagt-bilder-von-grundstueck-bei-google-maps-100.html",
-        "date": "2026-10-20T10:26:58.000Z"
-      },
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/digital/2026-10/google-maps-earth-widerspruchsrecht-landgericht-frankfurt",
-        "date": "2026-10-20T09:43:58.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/gericht-untersagt-bilder-von-grundstueck-bei-google-maps-100.html",
-    "agree": "Beide Quellen stimmen darin überein, dass das Landgericht Frankfurt entschieden hat, dass Bilder von Grundstücken gegen den Willen der Eigentümer nicht bei Google Maps und Google Earth veröffentlicht werden dürfen.",
-    "diff": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "note": "Erwähnt allgemein, dass Luftbildaufnahmen von Grundstücken in Deutschland nicht gegen den Willen des Eigentümers veröffentlicht werden dürfen."
-      },
-      {
-        "name": "ZEIT ONLINE",
-        "note": "Nennt konkret das Landgericht Frankfurt als zuständiges Gericht und merkt an, dass ein Mann aus Frankfurt geklagt hatte."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-c1f72ee45fc0575d",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-20T10:19:46.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Grippeimpfung schützt laut Gesundheitsministerin Drese nicht nur vor Grippe",
-    "s": "Aus Anlass der beginnenden Impfsaison hat Mecklenburg-Vorpommerns Gesundheitsministerin Stefanie Drese zur Grippeimpfung aufgerufen. Dabei betonte sie, dass die Schutzimpfung nicht nur vor dem eigentlichen Virus schützt. Die SPD-Politikerin unterstrich die Bedeutung der Maßnahme für die Vorsorge.",
-    "m": "Die norddeutsche Gesundheitsministerin Stefanie Drese hat zu Beginn der neuen Impfsaison nachdrücklich für die Grippeimpfung geworben. In ihrer Erklärung machte sie deutlich, dass die Impfung über den reinen Schutz vor Influenza-Viren hinausweitere positive Effekte haben kann. Konkrete Details zu diesen zusätzlichen Schutzwirkungen wurden in den Berichten nicht genannt. Die Impfkampagne zielt darauf ab, die Bevölkerung rechtzeitig vor den winterlichen Infektionswellen zu immunisieren und schwere Krankheitsverläufe zu verhindern. Experten und Politiker betonen traditionell zu dieser Jahreszeit die Wichtigkeit der Immunisierung, insbesondere für Risikogruppen.",
-    "r": "Der Aufruf zur Grippeimpfung durch die Landesgesundheitsministerin ist für die gesundheitliche Vorsorge der Bevölkerung zu Beginn der Infektionssaison von Bedeutung.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTFZxX19WNjhSV1VDSlhIM0E4c1hOTmhHRVRxdHYzcnJFQmVlRVlmRmVPUkRjTkdoNVo0UENiVXl5ZE5sWHhBam1RT0hkTUM2Rzd4MTVBUXhDZzVLS1RDRk11WDNia09lWC1TcXJUUTlOR0xqbzFCZnBxYmNkSXFFSXBoMEE0VkpYQkVCNjJjeGlPejNyUjM5bWcwU1llVFdobmlsNXJ6Qm1CR3N1TnN3ZnhJemJYOFVETDdZZ2doS2tmeGRwS29OZGdhdmpzSDFZTm9jMWlvRGVIWWJYUHdz?oc=5",
-        "date": "2026-10-20T10:19:46.000Z"
-      },
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/news/2026-10/20/drese-grippeimpfung-kann-nicht-nur-vor-grippe-schuetzen",
-        "date": "2026-10-20T10:19:46.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTFZxX19WNjhSV1VDSlhIM0E4c1hOTmhHRVRxdHYzcnJFQmVlRVlmRmVPUkRjTkdoNVo0UENiVXl5ZE5sWHhBam1RT0hkTUM2Rzd4MTVBUXhDZzVLS1RDRk11WDNia09lWC1TcXJUUTlOR0xqbzFCZnBxYmNkSXFFSXBoMEE0VkpYQkVCNjJjeGlPejNyUjM5bWcwU1llVFdobmlsNXJ6Qm1CR3N1TnN3ZnhJemJYOFVETDdZZ2doS2tmeGRwS29OZGdhdmpzSDFZTm9jMWlvRGVIWWJYUHdz?oc=5",
-    "agree": "Die Quellen stimmen überein, dass Gesundheitsministerin Drese betont hat, dass die Grippeimpfung nicht nur vor Grippe schützen kann.",
-    "diff": [
-      {
-        "name": "Google News DE",
-        "note": "Verweist auf den STERN als ursächlichen Plattformbericht."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-9b2cc0b2051bb90b",
-    "c": "INT",
-    "o": "DE",
-    "k": "wissenschaft",
-    "lang": "de",
-    "d": "2026-10-20T10:01:21.000Z",
-    "p": 3,
-    "st": "NI",
-    "city": "",
-    "t": "Japanische Raumsonde mit Rover Idefix zum Mars-Mond gestartet",
-    "s": "Eine japanische Raumsonde ist mit dem deutsch-französischen Rover Idefix an Bord in Richtung des Mars-Systems aufgebrochen. Erstmals in der Raumfahrtgeschichte soll eine Mission Gesteinsproben von dem Mars-Mond Phobos einsammeln und zur Erde zurückbringen. Die Ankunft und das Aufsetzen des Rovers auf dem Mond sind für das Jahr 2029 geplant. Im Jahr 2031 sollen die gesammelten Proben schließlich zur Erde zurückgebracht werden.",
-    "m": "Die unbemannte japanische Mission hat zum Ziel, den Mars-Mond Phobos zu erforschen und erstmals Proben von dessen Oberfläche zur Erde zu transportieren. Der an Bord befindliche Rover Idefix wurde gemeinsam von Deutschland und Frankreich entwickelt und gebaut. Nach dem erfolgreichen Start befindet sich die Sonde nun auf dem Weg in das Mars-System. Sollte die Mission wie geplant verlaufen, wird Idefix im Jahr 2029 auf dem Himmelskörper landen. Die Wissenschaftler erhoffen sich von den Gesteinsproben, die 2031 auf der Erde eintreffen sollen, tiefere Einblicke in die Entstehung des Sonnensystems und der Mars-Monde. Bislang ist der Zeitplan eng getaktet, und die beteiligten Raumfahrtagenturen müssen die kommenden Jahre für die Systemprüfungen nutzen.",
-    "r": "Die Mission markiert einen potenziell historischen Meilenstein in der Weltraumforschung, da erstmals Proben von einem Mars-Mond zur Erde gebracht werden sollen. Die internationale Kooperation zwischen Japan, Deutschland und Frankreich verdeutlicht zudem die Bedeutung globaler Zusammenarbeit in der Raumfahrt.",
-    "srcs": [
-      {
-        "name": "Tagesschau Regional Niedersachsen",
-        "url": "https://www.tagesschau.de/inland/regional/niedersachsen/raumfahrtmission-mit-bremer-technik-idefix-zum-marsmond-gestartet,idefix-100.html",
-        "date": "2026-10-20T10:01:21.000Z"
-      },
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/wissen/Japanische-Sonde-zum-Mars-System-gestartet-id31436269.html",
-        "date": "2026-10-20T02:33:11.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/regional/niedersachsen/raumfahrtmission-mit-bremer-technik-idefix-zum-marsmond-gestartet,idefix-100.html",
-    "agree": "Die Quellen sind sich einig, dass eine japanische Sonde mit dem Rover Idefix an Bord zum Mars-System gestartet ist und Proben zur Erde bringen soll.",
-    "diff": [
-      {
-        "name": "Tagesschau Regional Niedersachsen",
-        "note": "nennt konkrete Jahreszahlen für die geplante Landung auf dem Mond (2029) und die Rückkehr der Proben zur Erde (2031)."
-      },
-      {
-        "name": "ntv",
-        "note": "hebt hervor, dass die Mission Weltraumgeschichte schreiben könnte und beschreibt Idefix als deutsch-französischen Rover."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-449f74d4daa80d6d",
-    "c": "INT",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-20T09:46:36.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Betrunkener Mann stiehlt Flamingo aus Hotelgehege in Las Vegas",
-    "s": "Ein betrunkener Mann hat in Las Vegas nach dem Konsum von reichlich Alkohol einen Flamingo aus einem Hotelgehege gestohlen und auf sein Hotelzimmer mitgenommen. Das Tier wurde bei der Aktion verletzt. Dem Täter droht nun eine ernste Haftstrafe und er muss mit rechtlichen Konsequenzen rechnen.",
-    "m": "Der Vorfall ereignete sich in Las Vegas, nachdem der Mann nach eigenen Angaben fast 40 Gläser Bier konsumiert hatte. In diesem Zustand stieg er in das Gehege eines Hotels ein, um den Flamingo an sich zu nehmen. Er transportierte das Tier anschliessend auf sein eigenes Hotelzimmer. Dabei erlitt der Vogel Verletzungen. Die zuständigen Behörden und das Hotel leiteten Massnahmen ein, weshalb dem Mann nun eine deutliche Haftstrafe und rechtliche Schritte drohen. Bislang ist unvollständig bekannt, wie genau das Tier im Nachgang medizinisch versorgt wurde und ob weitere Personen an dem Vorfall beteiligt waren.",
-    "r": "Der Fall zeigt die Konsequenzen von starkem Alkoholkonsum verbunden mit Tierquälerei und Hausfriedensbruch. Solche Vorfälle beleuchten die Sicherheit von Tieren in touristischen Anlagen in Las Vegas.",
-    "srcs": [
-      {
-        "name": "t-online Panorama",
-        "url": "https://www.t-online.de/nachrichten/panorama/buntes-kurioses/id_101488756/las-vegas-mann-stiehlt-flamingo-nach-40-bier-haft-droht.html",
-        "date": "2026-10-20T09:46:36.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/panorama/justiz/las-vegas-mann-stiehlt-flamingo-aus-hotelgehege-haft-droht-a-6edd2147-622e-48d7-a2e5-6cf03be67258#ref=rss",
-        "date": "2026-10-20T08:57:00.000Z"
-      }
-    ],
-    "url": "https://www.t-online.de/nachrichten/panorama/buntes-kurioses/id_101488756/las-vegas-mann-stiehlt-flamingo-nach-40-bier-haft-droht.html",
-    "agree": "Beide Quellen berichten, dass ein betrunkener Mann in Las Vegas einen Flamingo aus einem Hotelgehege gestohlen hat und ihm nun eine Haftstrafe droht.",
-    "diff": [
-      {
-        "name": "t-online Panorama",
-        "note": "nennt die genaue Menge von fast 40 Gläsern Bier vor der Tat"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "erwähnt ergänzend, dass der Flamingo bei der Aktion verletzt wurde und mit auf das Zimmer genommen wurde"
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-1548c9548b7fb0ed",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-20T09:41:06.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "„Ich will Ihr Geld“, sagt Klingbeil – Merz lobt „beschleunigtes Wachstum“ - WELT",
-    "s": "„Ich will Ihr Geld“, sagt Klingbeil – Merz lobt „beschleunigtes Wachstum“ WELT <a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZkd4bmFPUms3NzlqR0JFYW5LMW9OMHc2OVNPazZNaFJLRXM4U25FbVM2WlJZaHhQS04yWDVxMXF3Rm5YLUhuVDJWeWJ3SzJKUWxkemdBc25Ec2FBWDVDVnV4LUkxZVJ",
-    "m": "„Ich will Ihr Geld“, sagt Klingbeil – Merz lobt „beschleunigtes Wachstum“ WELT <a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZkd4bmFPUms3NzlqR0JFYW5LMW9OMHc2OVNPazZNaFJLRXM4U25FbVM2WlJZaHhQS04yWDVxMXF3Rm5YLUhuVDJWeWJ3SzJKUWxkemdBc25Ec2FBWDVDVnV4LUkxZVJ Deutschland soll wieder attraktiver für Investoren werden. Unternehmen sagen Hunderte Milliarden Euro zu, während Kanzler Merz auf Wachstum, weniger Bürokratie und mehr Tempo bei Reformen setzt.",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeDhWNEEyTVhvSGlaeURxZXVpYVd3RzFRNzZJbUVfUlZmM2xMLVhjTi0yR0JCRFBBQWRWdGlETUpoUTh2Q0NfOEREZEdtemFhajVaWVRmcDgtSWFNMlR4SGxxekd3VTRjQi1UMVlFbk5WemFoSmY3NXBwS3JEdTJuOTF5Um1UY3RwVnM1RU4tWV84QmFCWGwtNmxwSmxjbHRGM2gxWk1SVGUzNGM3ZVU1Z3VJUnRaeTk2Vkl0cFVuX1RZUFVDWnVUUGpqVEFBUDU0QUh4cnpLUTZsWWtIa1E?oc=5",
-        "date": "2026-10-20T09:41:06.000Z"
-      },
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/wirtschaft/article6ad72a25199dc15f1abda3af/investoren-ich-will-ihr-geld-sagt-klingbeil-merz-lobt-beschleunigtes-wachstum.html",
-        "date": "2026-10-20T09:25:36.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeDhWNEEyTVhvSGlaeURxZXVpYVd3RzFRNzZJbUVfUlZmM2xMLVhjTi0yR0JCRFBBQWRWdGlETUpoUTh2Q0NfOEREZEdtemFhajVaWVRmcDgtSWFNMlR4SGxxekd3VTRjQi1UMVlFbk5WemFoSmY3NXBwS3JEdTJuOTF5Um1UY3RwVnM1RU4tWV84QmFCWGwtNmxwSmxjbHRGM2gxWk1SVGUzNGM3ZVU1Z3VJUnRaeTk2Vkl0cFVuX1RZUFVDWnVUUGpqVEFBUDU0QUh4cnpLUTZsWWtIa1E?oc=5",
-    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-8d99d6ae13aeaf17",
-    "c": "DE",
-    "o": "DE",
-    "k": "sport",
-    "lang": "de",
-    "d": "2026-10-20T09:37:38.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Kerem Demirbay blickt verbittert auf DFB-Zeit zurück",
-    "s": "Der ehemalige DFB-Spieler Kerem Demirbay hat in einem Interview geäußert, dass er nicht mehr für die deutsche Nationalmannschaft spielen würde. Nach seinen zwei Länderspielen sei er wegen eines Tattoos nicht mehr berücksichtigt worden. Zudem erhebt der Profi Vorwürfe des Rassismus.",
-    "m": "Kerem Demirbay zieht eine scharfe Bilanz seiner Vergangenheit beim Deutschen Fußball-Bund. Laut seinen Aussagen spielte ein Tattoo eine entscheidende Rolle dafür, dass er nach lediglich zwei Einsätzen keine Berücksichtigung mehr fand. Der Ex-Bundesligaprofi zeigt sich verbittert über die damaligen Umstände und äußerte in diesem Zusammenhang auch Rassismusvorwürfe. Die Berichterstattung beleuchtet die langjährigen Nachwirkungen dieser Entscheidung für den Spieler. Offen bleibt, wie der DFB auf diese Anschuldigungen reagieren wird. Weitere Details zu den genauen Hintergründen des Vorfalls wurden im Rahmen der Aussagen nicht genannt.",
-    "r": "Die Aussagen eines ehemaligen Nationalspielers über mangelnde Berücksichtigung und Rassismusvorwürfe beim DFB werfen Fragen zur damaligen Betreuung und Nominierung auf. Das Thema berührt die interne Kultur des Verbandes.",
-    "srcs": [
-      {
-        "name": "t-online Sport",
-        "url": "https://www.t-online.de/sport/fussball/nationalmannschaft-deutschland/id_101488246/ex-dfb-star-kerem-demirbay-wuerde-nie-wieder-fuer-deutschland-spielen-.html",
-        "date": "2026-10-20T09:37:38.000Z"
-      },
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/sport/ex-dfb-spieler-kerem-demirbay-verbittert-wuerde-nie-wieder-fuer-deutschland-spielen-U4WTKCLBYZGQZF4HUGMWSEYEYA.html",
-        "date": "2026-10-20T07:35:52.000Z"
-      }
-    ],
-    "url": "https://www.t-online.de/sport/fussball/nationalmannschaft-deutschland/id_101488246/ex-dfb-star-kerem-demirbay-wuerde-nie-wieder-fuer-deutschland-spielen-.html",
-    "agree": "Beide Quellen berichten übereinstimmend, dass der ehemalige DFB-Spieler Kerem Demirbay verbittert auf seine Zeit in der Nationalmannschaft zurückblickt, nicht mehr für Deutschland spielen würde und ein Tattoo eine Rolle für seine Nicht-Nominierung spielte.",
-    "diff": [
-      {
-        "name": "RND",
-        "note": "Erwähnt zusätzlich konkrete Rassismusvorwürfe des ehemaligen Bundesligaprofis."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-f228fd0b6c1f84b2",
-    "c": "INT",
-    "o": "UK",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-20T09:18:58.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Brendan Nugent nach angeblichem Angriff auf Parlamentsmitglied Helen Haines festgenommen",
-    "s": "Ein 43-jähriger Mann aus Tarrawingee wurde von der australischen Polizei nach einem Vorfall mit der Parlamentsabgeordneten Helen Haines in Wangaratta festgenommen. Brendan Nugent sieht sich nun drei Anklagen im Zusammenhang mit dem mutmaßlichen Angriff ausgesetzt. Die genauen Umstände des Vorfalls werden derzeit von den Behörden untersucht.",
-    "m": "Nach dem Vorfall in Wangaratta nahm die Polizei in Victoria den 43-jährigen Brendan Nugent am Montagnachmittag fest. Er muss sich nun vor den Behörden wegen drei Anklagen verantworten, die aus dem angeblichen Angriff auf die australische Parlamentsabgeordnete Helen Haines resultieren. Interessanterweise erklärte die Familie des Beschuldigten, dass Haines seit über 20 Jahren mit ihnen befreundet sei. Weitere Details zu dem Tathergang oder dem genauen Motiv wurden von den bisher vorliegenden Quellen nicht genannt. Auch der Zustand von Helen Haines und der zeitliche Ablauf bis zur Festnahme bleiben in den Berichten weitgehend offen. Die Ermittlungen der Victoria Police dauern an.",
-    "r": "Der Vorfall ist von politischer Relevanz, da eine gewählte Parlamentsabgeordnete das Ziel eines Angriffs wurde und ein Verdächtiger festgenommen und angeklagt ist. Zudem wirft die familiäre Verbindung zwischen dem Beschuldigten und dem Opfer persönliche Fragen auf.",
-    "srcs": [
-      {
-        "name": "Guardian World",
-        "url": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-alleged-attacker-brendan-nugent-charged-ntwnfb",
-        "date": "2026-10-20T09:18:58.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR2QzSUJqVVN0NnpOWlk4TjN1bTVYSzN1b1RsRU53aE1sdm9fdXBHckZmYTJoX1VIb1pxRlRrWXVGTzcwbVBsSVlFRS1fRXliVFNheWFDRVVEWks3c2laUTNoRHc5Wkd2M3Z4dXZYUVhqN1RLcnk1VWRteU8wcjRKck9KWTJRcmdmUzZDaVBNVDZidGN6MmlVZm1weWd5bENQbU5RYk44TVRKamt5U21SUw?oc=5",
-        "date": "2026-10-20T01:12:00.000Z"
-      }
-    ],
-    "url": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-alleged-attacker-brendan-nugent-charged-ntwnfb",
-    "agree": "Die Quellen stimmen überein, dass Brendan Nugent wegen eines Angriffs auf Helen Haines festgenommen wurde und seine Familie eine langjährige Freundschaft mit ihr pflegt.",
-    "diff": [
-      {
-        "name": "Guardian World",
-        "note": "Berichtet über die drei Anklagen gegen den 43-jährigen Brendan Nugent nach der Festnahme durch die Polizei in Victoria am Montagnachmittag in Wangaratta."
-      },
-      {
-        "name": "Google News World",
-        "note": "Teilt lediglich die Information über die langjährige Freundschaft zwischen der Familie von Brendan Nugent und Helen Haines unter Berufung auf den Guardian."
-      }
-    ],
     "chg": "",
     "independent": 2
   }
