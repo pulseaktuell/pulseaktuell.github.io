@@ -1,5 +1,841 @@
 [
   {
+    "id": "story-dc726802424511bb",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-27T22:34:42.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "US-Beamter: Visum für Flávio Bolsonaro nach verlorener Wahl",
+    "s": "Nach der Präsidentenwahl in Brasilien gibt es Berichte über die Ausreise des unterlegenen Kandidaten Jair Bolsonaro trotz eines Abgabeverbots für Pässe. Ein US-Beamter bestätigte nun die Ausstellung eines Visums für Flávio Bolsonaro. Details zum genauen Aufenthaltsort oder Zeitpunkt der Ausreise blieben zunächst unklar.",
+    "m": "Im Zusammenhang mit der Präsidentenwahl in Brasilien hat ein US-Beamter erklärt, dass ein Visum für Flávio Bolsonaro ausgestellt wird. Zuvor hatte der unterlegene Präsidentschaftskandidat Jair Bolsonaro eine amtliche Frist zur Abgabe seiner Pässe verstreichen lassen. Daraufhin berichteten Medien über eine mögliche Ausreise trotz eines bestehenden Verbots. Die Situation wirft Fragen zum Umgang mit den Ausreisesperren und den diplomatischen Schritten der Beteiligten auf. Bislang gibt es keine offiziellen Bestätigungen über den genauen Zeitpunkt oder das Reiseziel der Familie Bolsonaro. Die Behörden prüfen die weiteren rechtlichen Schritte im Inland.",
+    "r": "Die Berichte über die Visumsausstellung und das Ignorieren der Passabgabe sind relevant für die politischen Nachwirkungen der brasilianischen Präsidentschaftswahl und mögliche internationale Fluchtbewegungen.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-10/27/us-beamter-stellen-visum-fuer-fl-vio-bolsonaro-aus",
+        "date": "2026-10-27T22:34:42.000Z"
+      },
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/politik/ausland/fl%C3%A1vio-bolsonaro-bekommt-laut-us-beamten-visum-fuer-die-usa-38461212.html",
+        "date": "2026-10-27T22:27:00.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/news/2026-10/27/us-beamter-stellen-visum-fuer-fl-vio-bolsonaro-aus",
+    "agree": "Beide Quellen berichten über die Ausstellung eines Visums durch einen US-Beamten im Zusammenhang mit Flávio Bolsonaro und der Brasilien-Wahl.",
+    "diff": [
+      {
+        "name": "stern",
+        "note": "Berichtet zusätzlich, dass Bolsonaro eine Frist zur Abgabe seiner Pässe verstreichen ließ und Medien über eine Ausreise trotz Verbots berichteten."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-6394b357fda3caee",
+    "c": "INT",
+    "o": "INT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-27T22:31:27.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Kein klarer Sieger bei Parlamentswahl in Israel laut Nachwahlbefragungen",
+    "s": "Nach ersten Nachwahlbefragungen zeichnet sich bei der Parlamentswahl in Israel kein klarer Sieger ab. Die Abstimmung ist die erste seit den Hamas-Angriffen vom 7. Oktober 2023. Die Wahlbeteiligung erreichte nach Angaben der Zentralen Wahlkommission über 77 Prozent.",
+    "m": "Die israelischen Wähler waren zu einer richtungsweisenden Abstimmung aufgerufen, die im Schatten des anhaltenden Nahostkonflikts stattfand. Die Beteiligung lag bei ungewöhnlich hohen Werten von über 77 Prozent, wie die Zentrale Wahlkommission mitteilte. Konkrete Mandatsverteilungen oder detaillierte Ergebnisse der Parteien wurden in den ersten Berichten noch nicht genannt. Es bleibt abzuwarten, wie sich die Koalitionsbildung in den kommenden Tagen und Wochen gestalten wird. Die politische Zukunft des Landes hängt stark von den endgültigen Resultaten ab. Beobachter werten die hohe Wahlbeteiligung als Zeichen großer Mobilisierung in der Bevölkerung.",
+    "r": "Die Wahl in Israel ist von hoher internationaler und regionaler Bedeutung für die politische Stabilität im Nahen Osten. Der Ausgang bestimmt maßgeblich den künftigen Kurs der israelischen Regierung nach den Terrorangriffen vom 7. Oktober 2023.",
+    "srcs": [
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOalF1RklhMUg2UVhrUGZrbEZXb3lXYjJwbDcyWjZEc21JeDJTMk5MMHhtZkt1X2xDWFFCOWJfb0w0ZTFvSkppcU1laHdoSjhfTkZ4VFpBWmpXSnBwU3JaZGNfcjZwX2p4VFJ5Q05QLV9lMmhQT2JxRjJzVkRldUZFSldMYTBpN0w4b0ZTN0pmaTFld3FCWU5BMURIdk4zclYxSGxfSFlybjhEVkFiTWxLZFVLSVNyNHpYZjk3cWJYaVVib3dD?oc=5",
+        "date": "2026-10-27T22:31:27.000Z"
+      },
+      {
+        "name": "Euronews",
+        "url": "https://www.euronews.com/2026/10/27/exit-polls-suggest-no-clear-victor-in-israeli-election",
+        "date": "2026-10-27T20:10:40.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOalF1RklhMUg2UVhrUGZrbEZXb3lXYjJwbDcyWjZEc21JeDJTMk5MMHhtZkt1X2xDWFFCOWJfb0w0ZTFvSkppcU1laHdoSjhfTkZ4VFpBWmpXSnBwU3JaZGNfcjZwX2p4VFJ5Q05QLV9lMmhQT2JxRjJzVkRldUZFSldMYTBpN0w4b0ZTN0pmaTFld3FCWU5BMURIdk4zclYxSGxfSFlybjhEVkFiTWxLZFVLSVNyNHpYZjk3cWJYaVVib3dD?oc=5",
+    "agree": "Beide Quellen stimmen überein, dass Nachwahlbefragungen keinen klaren Gewinner bei der israelischen Wahl zeigen.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Berichtet allgemein über die Nachwahlbefragungen und verweist auf NBC News als ursprüngliche Quelle."
+      },
+      {
+        "name": "Euronews",
+        "note": "Erwähnt zusätzlich die Wahlbeteiligung von über 77 Prozent sowie den Umstand, dass es die erste Wahl seit den Hamas-Angriffen vom 7. Oktober 2023 ist."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-233765fcbd001c45",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-27T22:16:16.000Z",
+    "p": 4,
+    "st": "BY",
+    "city": "",
+    "t": "Wahl in Israel - Wer ist der Netanjahu-Herausforderer Eisenkot?",
+    "s": "In Israel hat die Parlamentswahl stattgefunden, wobei sich nach ersten Prognosen kein klarer Sieger abzeichnet. Weder der amtierende Ministerpräsident Benjamin Netanjahu noch sein wichtigster Herausforderer Gadi Eisenkot können demnach mit einer eigenen Mehrheit in der Knesset rechnen. Die politische Zukunft des Landes ist somit vorerst offen.",
+    "m": "Die Parlamentswahl in Israel hat ein politisches Patt zwischen den beiden Hauptkontrahenten Benjamin Netanjahu und Gadi Eisenkot hervorgebracht. Gadi Eisenkot, der ehemalige israelische Armeechef und Gründer der Partei Yashar, positioniert sich im Wahlkampf als Vertreter der politischen Mitte und gilt als stärkster Herausforderer des langjährigen Regierungschefs. Nach den vorliegenden Prognosen verfehlt jedoch sowohl Netanjahu als auch Eisenkot eine stabile Mehrheit der Mandate in der Knesset. Damit stellt sich die Frage nach möglichen Koalitionsbildungen oder einer Blockade der Regierungsbildung. Die genaue Mandatsverteilung und das endgültige amtliche Endergebnis bleiben abzuwarten.",
+    "r": "Die unklare Mehrheitsverhältnis nach der Parlamentswahl in Israel verdeutlicht die anhaltende politische Blockade und erfordert voraussichtlich komplexe Koalitionsverhandlungen. Die Ergebnisse bestimmen maßgeblich die künftige politische Ausrichtung des Landes.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/wer-ist-der-netanjahu-herausforderer-eisenkot-100.html",
+        "date": "2026-10-27T22:16:16.000Z"
+      },
+      {
+        "name": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/wahl-in-israel-patt-zwischen-netanjahu-und-eisenkot,VZGSeZB",
+        "date": "2026-10-27T21:11:45.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/wer-ist-der-netanjahu-herausforderer-eisenkot-100.html",
+    "agree": "Sowohl Netanjahu als auch Eisenkot treten als zentrale Figuren beziehungsweise Herausforderer bei der israelischen Parlamentswahl auf.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Berichtet über das Profil von Gadi Eisenkot als ehemaligem Armeechef, Parteigründer von Yashar und Kandidaten der politischen Mitte."
+      },
+      {
+        "name": "BR24 Bayern",
+        "note": "Berichtet über das Ergebnis der Parlamentswahl und das prognostizierte Patt ohne klare Mehrheit für Netanjahu oder Eisenkot in der Knesset."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-3e6a3bc4a05d427d",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-27T22:16:16.000Z",
+    "p": 3,
+    "st": "BY",
+    "city": "",
+    "t": "Studie: Vollzeitarbeit zum Mindestlohn bringt mehr als Grundsicherung",
+    "s": "Eine neue Studie zeigt, dass eine Vollzeitarbeit zum Mindestlohn ein deutlich höheres Einkommen als den Bezug von Grundsicherung einbringt. Das finanzielle Polster variiert jedoch je nach Region und Wohnort. Die Untersuchung beleuchtet den genauen Abstand zwischen den Einkommensarten.",
+    "m": "Der gesetzliche Mindestlohn bietet bei einer Vollzeitbeschäftigung laut aktuellen Untersuchungsergebnissen einen spürbaren finanziellen Vorteil gegenüber der staatlichen Grundsicherung. Konkreten Daten zufolge erzielt eine alleinstehende Person bei einer Vollzeittätigkeit zum Mindestlohn im monatlichen Durchschnitt 623 Euro mehr als Personen, die auf Grundsicherung angewiesen sind. Dennoch zeigen sich bei diesem Abstand erhebliche regionale Unterschiede. Insbesondere in Städten und Regionen mit einem hohen Mietpreisniveau schrumpft die Differenz zwischen den beiden Einkommensformen deutlich zusammen. Die Studie liefert damit neue Einblicke in die Wirksamkeit des Mindestlohns als Schutz vor Armut im Vergleich zu Sozialleistungen.",
+    "r": "Der Vergleich zwischen Mindestlohn und Grundsicherung ist ein zentraler Indikator für die Wirksamkeit lohnpolitischer Maßnahmen und den Schutz vor Alters- oder Erwerbsarmut. Regionale Mietunterschiede beeinflussen diesen Effekt maßgeblich.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/arbeiten-zum-mindestlohn-bringt-deutlich-mehr-als-grundsicherung-100.html",
+        "date": "2026-10-27T22:16:16.000Z"
+      },
+      {
+        "name": "Rheinische Post",
+        "url": "https://rp-online.de/wirtschaft/arbeit-zum-mindestlohn-bringt-mehr-als-grundsicherung_aid-157314223",
+        "date": "2026-10-27T16:57:51.000Z"
+      },
+      {
+        "name": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/studie-zeigt-abstand-zwischen-mindestlohn-und-grundsicherung,VZF7yqd",
+        "date": "2026-10-27T13:35:36.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/arbeiten-zum-mindestlohn-bringt-deutlich-mehr-als-grundsicherung-100.html",
+    "agree": "Die Quellen sind sich einig, dass eine Vollzeitarbeit zum Mindestlohn laut einer Studie ein deutlich höheres Einkommen als die Grundsicherung bringt.",
+    "diff": [
+      {
+        "name": "Rheinische Post",
+        "note": "Erwähnt regionale Unterschiede in NRW und dass der Abstand in Städten mit hohen Mieten schrumpft."
+      },
+      {
+        "name": "BR24 Bayern",
+        "note": "Nennt den genauen durchschnittlichen Mehrbetrag von 623 Euro im Monat für eine alleinstehende Person in Vollzeit."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
+    "id": "story-849589b21aa2f00b",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-27T22:16:16.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Prognosen nach Parlamentswahl in Israel zeigen keinen klaren Sieger",
+    "s": "Bei der Parlamentswahl in Israel zeichnet sich nach ersten Prognosen kein klarer Sieger ab. Weder das Lager von Regierungschef Netanjahu noch das seines wichtigsten Herausforderers Eisenkot kann demnach mit einer Mehrheit in der Knesset rechnen. Das israelische Parlament umfasst insgesamt 120 Sitze.",
+    "m": "Die ersten Prognosen zur Parlamentswahl in Israel deuten auf ein unentschieden beziehungsweise eine festgefahrene politische Situation hin. Weder der amtierende Ministerpräsident Netanjahu noch sein Hauptherausforderer Eisenkot haben laut den Erhebungen eine sichere Mehrheit hinter sich versammeln können. Das Parlament in Israel, die Knesset, besteht aus 120 Sitzen, weshalb für eine Regierungsbildung eine entsprechende Anzahl an Mandaten oder eine Koalition notwendig ist. Ob und wie eine stabile Regierung gebildet werden kann, ist angesichts der frühen Prognosen derzeit noch völlig offen. Weitere Auszählungen und offizielle Resultate müssen in den kommenden Stunden und Tagen Klarheit über die genaue Sitzverteilung bringen. Die politischen Lager stehen sich unklar gegenüber, was weitere Verhandlungen oder mögliche Koalitionsgespräche sehr kompliziert machen könnte. Bislang liegen nur die ersten Hochrechnungen beziehungsweise Prognosen vor, die endgültigen Ergebnisse stehen noch aus.",
+    "r": "Die Wahlentscheidung in Israel hat direkte Auswirkungen auf die politische Stabilität und Regierungsbildung im Nahen Osten. Da kein Lager eine sofortige Mehrheit erreicht, sind langwierige Koalitionsverhandlungen oder politische Blockaden zu erwarten.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/laut-prognosen-kein-klarer-sieger-bei-wahl-in-israel-100.html",
+        "date": "2026-10-27T22:16:16.000Z"
+      },
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/ausland/wahl-israel-netanjahu-eisenkot-liveblog-100.html",
+        "date": "2026-10-27T21:02:00.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/laut-prognosen-kein-klarer-sieger-bei-wahl-in-israel-100.html",
+    "agree": "Beide Quellen stimmen darin überein, dass es bei der Wahl in Israel laut den ersten Prognosen keinen klaren Sieger zwischen den Lagern von Netanjahu und Eisenkot gibt.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Erwähnt zusätzlich, dass die Knesset 120 Sitze zählt."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-7e798e5ee04ef7e7",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-27T22:16:16.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Auto fährt in Neustadt am Rübenberge gezielt in Menschengruppe",
+    "s": "In Neustadt am Rübenberge in Niedersachsen ist ein Auto am späten Montagabend gezielt in eine Menschengruppe gefahren. Die Hintergründe der Tat werden derzeit von der Polizei ermittelt. Laut ersten Erkenntnissen geht die Polizei nicht von einem terroristischen Anschlag aus. Täter und Opfer kannten sich demnach offenbar.",
+    "m": "Der Vorfall ereignete sich am späten Montagabend in Neustadt am Rübenberge in der Region Hannover. Ein Auto fuhr dort gezielt in eine Gruppe von Menschen. Die Polizei hat die Ermittlungen zu den Hintergründen aufgenommen. Nach dem aktuellen Stand der Ermittlungen wird von keinem terroristischen Anschlag ausgegangen. Zudem gibt es Hinweise darauf, dass sich der Täter und die Opfer kannten. Weitere Details zum genauen Hergang, zur Anzahl der Verletzten oder zur Identität der Beteiligten wurden in den bisherigen Berichten nicht genannt.",
+    "r": "Die Meldung ist relevant, da eine gezielte Autofahrt in eine Menschengruppe ein schwerwiegendes Ereignis darstellt und polizeiliche Ermittlungen zu den Hintergründen sowie Opfern ausgelöst hat.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/niedersachsen-auto-faehrt-gezielt-in-menschengruppe-polizei-geht-nicht-von-anschlag-aus-100.html",
+        "date": "2026-10-27T22:16:16.000Z"
+      },
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/panorama/kriminalitaet/auto-niedersachsen-neustadt-am-ruebenberge-menschengruppe-verletzte-100.html",
+        "date": "2026-10-27T12:41:00.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/niedersachsen-auto-faehrt-gezielt-in-menschengruppe-polizei-geht-nicht-von-anschlag-aus-100.html",
+    "agree": "Die Quellen sind sich einig, dass ein Auto in Neustadt am Rübenberge in eine Menschengruppe gefahren ist.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Berichtet, dass die Polizei nicht von einem Anschlag ausgeht."
+      },
+      {
+        "name": "ZDF heute",
+        "note": "Gibt den Zeitpunkt (späten Montagabend) an und erwähnt, dass Täter und Opfer sich offenbar kannten."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-d4a6c3a14a91ba18",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-27T22:16:16.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Ägyptisches Gericht ordnet Schließung von Nachrichtenseite Mada Masr an",
+    "s": "Ein Gericht in Ägypten hat die Schließung der unabhängigen Nachrichtenseite Mada Masr angeordnet. Das Medium, das zu den letzten unabhängigen journalistischen Stimmen des Landes gehörte, ist von der Maßnahme direkt betroffen. Menschenrechtsorganisationen äußern große Besorgnis über diese Entwicklung. Die Situation verdeutlicht den zunehmenden Druck auf freie Medien in der Region.",
+    "m": "Die ägyptische Justiz hat per Gerichtsbeschluss die Schließung der bekannten unabhängigen Nachrichtenseite Mada Masr verfügt. Im Zuge dieser Maßnahmen befindet sich die Chefredakteurin des Mediums, Lina Attalah, in Gewahrsam. Beobachter und Menschenrechtsorganisationen bewerten den richterlichen Beschluss als besorgniserregenden Präzedenzfall. Es wird befürchtet, dass dieser Schritt den Weg für weitere restriktive Maßnahmen gegen verbleibende freie und kritische Medien in Ägypten ebnen könnte. Bislang gibt es keine offiziellen Angaben darüber, ob die Schließung dauerhaft sein wird oder welche konkreten juristischen Schritte die Redaktion unternehmen kann. Der Vorfall unterstreicht die schwierigen Bedingungen für den unabhängigen Journalismus unter der aktuellen politischen Führung.",
+    "r": "Die Schließung einer der letzten unabhängigen Medienplattformen in Ägypten und die Inhaftierung der Chefredakteurin sind von hoher relevanz für die Pressefreiheit im Land. Der Vorfall könnte als Präzedenzfall für das Vorgehen gegen andere freie Medien dienen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/nachrichtenseite-mada-masr-muss-schliessen-104.html",
+        "date": "2026-10-27T22:16:16.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/aegypten-unabhaengige-nachrichtenseite-mada-masr-muss-nach-gerichtsbeschluss-schliessen-a-c486b5ba-739f-487f-ac4f-ee44a232d9b2#ref=rss",
+        "date": "2026-10-27T15:58:00.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/nachrichtenseite-mada-masr-muss-schliessen-104.html",
+    "agree": "Beide Quellen stimmen überein, dass ein ägyptisches Gericht die Schließung der unabhängigen Nachrichtenseite Mada Masr angeordnet hat.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Berichtet lediglich knapp über die gerichtliche Schließungsanordnung."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Ergänzt, dass das Gericht in Kairo tagte, Chefredakteurin Lina Attalah in Gewahrsam ist und Menschenrechtsorganisationen einen Präzedenzfall für weitere Maßnahmen gegen freie Medien fürchten."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-55ceacb6cbf9d50f",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-27T22:16:16.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Schriftstellerin Juli Zeh gibt Amt als Verfassungsrichterin auf",
+    "s": "Die bekannte Autorin und Juristin Juli Zeh zieht sich nach Medienberichten als Verfassungsrichterin in Brandenburg zurück. Laut übereinstimmenden Berichten hat sie um ihren Rücktritt gebeten. Grund für die Entscheidung ist offenbar der Zeitaufwand für ihre literarische Arbeit.",
+    "m": "Die Schriftstellerin Juli Zeh hat nach übereinstimmenden Medienberichten um ihren Rücktritt als Brandenburger Verfassungsrichterin gebeten. Die Juristin, die mit gesellschaftskritischen Büchern große Erfolge feiert, will sich künftig offenbar ganz der Literatur widmen. Erst kürzlich hat die Erfolgsautorin einen neuen Roman veröffentlicht, wodurch ihr womöglich nicht mehr genügend Zeit für das richterliche Ehrenamt bleibt. Offizielle Bestätigungen oder Details zum genauen Ablauf des Ausscheidens stehen in den vorliegenden Berichten noch aus. Der Schritt bedeutet das Ende ihres Engagements an dem obersten Landesgericht.",
+    "r": "Der Rücktritt einer prominenten Persönlichkeit wie Juli Zeh von einem Verfassungsrichteramt ist von gesellschaftlichem und rechtlichem Interesse. Die Entscheidung wirft ein Schlaglicht auf die Vereinbarkeit von zeitintensiven literarischen Projekten und politischen beziehungsweise juristischen Ehrenämtern.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/schriftstellerin-juli-zeh-hoert-als-verfassungsrichterin-auf-102.html",
+        "date": "2026-10-27T22:16:16.000Z"
+      },
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/lifestyle/leute/schriftstellerin-juli-zeh-hoert-offenbar-als-verfassungsrichterin-auf-38460620.html",
+        "date": "2026-10-27T21:40:00.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/kultur/literatur/juli-zeh-schriftstellerin-hoert-offenbar-als-verfassungsrichterin-auf-a-25226669-4514-4274-8612-ae76e44d62b1#ref=rss",
+        "date": "2026-10-27T19:18:00.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/schriftstellerin-juli-zeh-hoert-als-verfassungsrichterin-auf-102.html",
+    "agree": "Die Quellen sind sich einig, dass die Schriftstellerin Juli Zeh ihr Amt als Verfassungsrichterin in Brandenburg aufgibt.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Meldet den Rücktritt als faktischen Schritt, ohne explizit zu erwähnen, dass es sich um einen bisherigen Medienbericht handelt oder dass sie darum gebeten hat."
+      },
+      {
+        "name": "stern",
+        "note": "Erwähnt, dass Juli Zeh sich künftig ganz der Literatur widmen und dies auf Kosten ihres Postens am Gericht gehen will."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Berichtet, dass sie konkret um einen entsprechenden Rücktritt gebeten habe, und bringt dies mit ihrem erst kürzlich veröffentlichten neuen Roman in Verbindung."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
+    "id": "story-7ba32b0ee59452b7",
+    "c": "DE",
+    "o": "DE",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-27T21:58:20.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "BVB besiegt Werder Bremen im DFB-Pokal nach spätem Sabitzer-Tor",
+    "s": "Im DFB-Pokal kam es zu einer spannenden Partie zwischen Borussia Dortmund und Werder Bremen. Niclas Füllkrug brachte Werder mit zwei Toren nach einem Rückstand ins Spiel zurück. Am Ende setzte sich der BVB jedoch durch ein spätes Freistoßtor durch.",
+    "m": "Das DFB-Pokalspiel zwischen Borussia Dortmund und Werder Bremen bot eine dramatische Wendung. Die Hausherren aus Dortmund legten zunächst einen Doppelschlag vor und schienen das Spiel zu kontrollieren. Werders Stürmer Niclas Füllkrug drehte die Partie daraufhin im Alleingang und konterte den BVB-Vorsprung mit starken Offensivaktionen. Die Begegnung schien auf eine Verlängerung oder Entscheidung im Elfmeterschießen hinauszulaufen. In der Nachspielzeit schlug Dortmund jedoch noch einmal zu. Marcel Sabitzer erzielte den entscheidenden Treffer per direktem Freistoß und sicherte den Dortmundern damit den späten Sieg und das Weiterkommen.",
+    "r": "Das Pokalspiel zeigt, wie eng umkämpft Entscheidungsspiele im DFB-Pokal sein können. Späte Treffer wie der Freistoß von Marcel Sabitzer entscheiden oft über den Turnierverlauf.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTnBUdjRkdWlhdlFWcmF4eHc0cGwzQkRsYmpMbEs3b0Z4YjR5T0c0aHNFMVJBcW5VMF9xbERWendVbFhsMFJqVVMzU0ZQX0xXb0ZoT1VYQ1RLUEdPdE5Da25kRktzbFJZcHR0T1p1Z3FxQURkSUNfMVd5VjE1RVVfZVJkeU5wYnpaNnViOWRhVHBhLWpMcXFJdXduVTFBOXpBeEhQamdKcl9sa29UdXU4RVhSbE1zM2JTX0piWHBfdm11NkROMVRNNDYwTmNxTTl2MEtRNWNzUkJvTEZBQVhrdXFzY0RRMEwyaFdXUjdwaTVORjN5?oc=5",
+        "date": "2026-10-27T21:58:20.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/sport/fussball/article6ae0fdb1f74d161423be0abd/dfb-pokal-werders-fuellkrug-dreht-spiel-in-dortmund-im-alleingang-doch-dann-kommt-sabitzer.html",
+        "date": "2026-10-27T19:44:36.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTnBUdjRkdWlhdlFWcmF4eHc0cGwzQkRsYmpMbEs3b0Z4YjR5T0c0aHNFMVJBcW5VMF9xbERWendVbFhsMFJqVVMzU0ZQX0xXb0ZoT1VYQ1RLUEdPdE5Da25kRktzbFJZcHR0T1p1Z3FxQURkSUNfMVd5VjE1RVVfZVJkeU5wYnpaNnViOWRhVHBhLWpMcXFJdXduVTFBOXpBeEhQamdKcl9sa29UdXU4RVhSbE1zM2JTX0piWHBfdm11NkROMVRNNDYwTmNxTTl2MEtRNWNzUkJvTEZBQVhrdXFzY0RRMEwyaFdXUjdwaTVORjN5?oc=5",
+    "agree": "Die Quellen sind sich einig, dass Niclas Füllkrug das Spiel für Werder Bremen drehte und Marcel Sabitzer in der Nachspielzeit per Freistoß für Dortmund traf.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-f49f9caf6aa8e516",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-27T21:56:50.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "USA wollen Flávio Bolsonaro und seiner Familie Visa erteilen",
+    "s": "Die US-Regierung ist zur Aufnahme des unterlegenen brasilianischen Politikers Flávio Bolsonaro und seiner Familie bereit. Nach Angaben aus Regierungskreisen vom Dienstag wird das US-Außenministerium ihnen Visa ausstellen und die Einreise gestatten. Zuvor hatten Medien wie CNN und die New York Times berichtet, dass Bolsonaro auf dem Weg in die USA sei.",
+    "m": "Das US-Außenministerium hat am Dienstag in Washington erklärt, dass es Flávio Bolsonaro und seiner Familie Visa ausstellen und die Einreise in die Vereinigten Staaten gestatten wird. Zuvor hatten verschiedene Medien, darunter der Sender CNN und die New York Times, übereinstimmend berichtet, dass der unterlegene brasilianische Politiker auf dem Weg in die USA sei. Laut ZEIT ONLINE ist Bolsonaro nach seiner Wahlniederlage wohl trotz eines bestehenden Verbots aus Brasilien ausgereist. Die US-Regierung zeigt sich nun bereit, den Politiker und seine Angehörigen aufzunehmen.",
+    "r": "Die Visumsentscheidung der USA für den brasilianischen Politiker Flávio Bolsonaro ist international relevant, da sie diplomatische Fragen und die Aufnahme eines Politikers nach einer Wahlniederlage betrifft.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/politik/ausland/2026-10/usa-wollen-fl-vio-bolsonaro-und-seiner-familie-visa-erteilen",
+        "date": "2026-10-27T21:56:50.000Z"
+      },
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/news/regierungskreise--usa-wollen-fl%C3%A1vio-bolsonaro-und-seiner-familie-visa-geben-38461216.html",
+        "date": "2026-10-27T21:30:25.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/politik/ausland/2026-10/usa-wollen-fl-vio-bolsonaro-und-seiner-familie-visa-erteilen",
+    "agree": "Beide Quellen stimmen überein, dass die USA Flávio Bolsonaro und seiner Familie Visa erteilen wollen.",
+    "diff": [
+      {
+        "name": "ZEIT ONLINE",
+        "note": "erwähnt zusätzlich eine Wahlniederlage und dass Bolsonaro wohl trotz eines Verbots aus Brasilien ausgereist ist"
+      },
+      {
+        "name": "stern",
+        "note": "nennt konkrete Regierungskreise und die Erklärung eines US-Außenministeriumsvertreters vom Dienstag in Washington sowie Medienberichte von CNN und New York Times"
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-1ef8510780cf28be",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-27T21:51:00.000Z",
+    "p": 2,
+    "st": "BE",
+    "city": "",
+    "t": "Weltpremiere auf der Berlinale: Unveröffentlichtes Bowie-Konzertmaterial",
+    "s": "Die Berlinale hat eine besondere Weltpremiere angekündigt. Gezeigt werden soll ein immersives Konzerterlebnis mit bislang unveröffentlichtem Material der verstorbenen Popikone David Bowie. Das Projekt bringt seltene Aufnahmen des Künstlers auf die große Leinwand. Weitere Details zu den genauen Inhalten des Konzerts wurden zunächst nicht genannt.",
+    "m": "Im Rahmen der kommenden Berlinale wird es eine Weltpremiere geben, die sich dem musikalischen Erbe von David Bowie widmet. Gezeigt wird ein sogenanntes immersives Konzerterlebnis, welches bislang unveröffentlichtes Konzertmaterial der Popikone beinhaltet. Die verstorbene Musiklegende bleibt damit auch Jahre nach ihrem Tod präsent und zieht weiterhin großes mediales Interesse auf sich. Das genaue Datum der Vorführung sowie die technischen Hintergründe des immersiven Formats wurden in den ersten Berichten noch nicht näher erläutert. Das Festival setzt mit dieser Ankündigung einen prominenten Akzent im Bereich der Sonderformate und Musikfilme. Fans und Branchenbeobachter blicken der Vorführung mit Spannung entgegen. Offen bleibt vorerst auch, ob es nach der Berlinale-Premiere weitere Auswertungen oder weltweite Aufführungen dieses Konzertmaterials geben wird.",
+    "r": "Die Ankündigung von unveröffentlichtem Konzertmaterial einer Musiklegende auf einem renommierten Filmfestival ist von kultureller und für die Veranstaltung von mediellem Interesse. Sie zeigt, dass der Nachlass von David Bowie weiterhin künstlerisch verwertet und präsentiert wird.",
+    "srcs": [
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/kultur/musik/david-bowie--berlinale-zeigt-unveroeffentlichtes-konzertmaterial-38459268.html",
+        "date": "2026-10-27T21:51:00.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Berlin",
+        "url": "https://www.tagesschau.de/inland/regional/berlin/rbb-berlinale-zeigt-unveroeffentlichtes-konzertmaterial-von-bowie-100.html",
+        "date": "2026-10-27T16:56:47.000Z"
+      }
+    ],
+    "url": "https://www.stern.de/kultur/musik/david-bowie--berlinale-zeigt-unveroeffentlichtes-konzertmaterial-38459268.html",
+    "agree": "Beide Quellen stimmen überein, dass die Berlinale unveröffentlichtes Konzertmaterial von David Bowie als Weltpremiere zeigen wird.",
+    "diff": [
+      {
+        "name": "stern",
+        "note": "Beschreibt die Ankündigung als 'immersives Konzerterlebnis'."
+      },
+      {
+        "name": "Tagesschau Regional Berlin",
+        "note": "Nennt lediglich knapp die Schlagzeile zur Berlinale und dem unveröffentlichten Bowie-Material ohne weitere Details."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-ce5e2f2050695699",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-27T21:43:10.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Wahlverlierer Flávio Bolsonaro flieht in die USA",
+    "s": "Nach seiner Wahlniederlage bei den Präsidentschaften in Brasilien hat der ultrarechte Politiker Flávio Bolsonaro eine gerichtliche Frist verstreichen lassen. Daraufhin wurden seine Pässe annulliert. Nun ist er auf dem Weg in die USA.",
+    "m": "Gegen den unterlegenen Kandidaten der Liberalen Partei wird in Brasilien wegen Geldwäsche und Steuerhinterziehung ermittelt. Nach dem Verstreichen der Frist des Obersten Gerichtshofs und der Annullierung seiner Pässe verließ Bolsonaro das Land. Berichten zufolge plant US-Präsident Trump, ihm ein Visum auszustellen und möglicherweise sogar politisches Asyl zu gewähren. Der genaue Zeitpunkt seiner Ankunft und die offiziellen Reaktionen der brasilianischen Behörden auf die Flucht sind Bestandteil der laufenden Entwicklungen. Die Situation wirft Fragen zum Umgang mit politisch exponierten Personen auf, die sich juristischen Verfahren im Heimatland entziehen wollen. Die internationalen diplomatischen Beziehungen zwischen Brasilien und den USA könnten durch diesen Schritt belastet werden.",
+    "r": "Die Flucht eines prominenten brasilianischen Politikers mit laufenden Ermittlungen in die USA berührt Fragen der internationalen Rechtshilfe und der diplomatischen Beziehungen. Die mögliche Gewährung von Asyl durch die USA könnte zu Spannungen zwischen beiden Staaten führen.",
+    "srcs": [
+      {
+        "name": "Süddeutsche Zeitung",
+        "url": "https://www.sueddeutsche.de/politik/wahlverlierer-flavio-bolsonaro-brasilien-korruptionsvorwuerfe-li.3569705",
+        "date": "2026-10-27T21:43:10.000Z"
+      },
+      {
+        "name": "t-online Nachrichten",
+        "url": "https://www.t-online.de/nachrichten/ausland/internationale-politik/id_101500412/brasilien-flavio-bolsonaro-flieht-nach-wahlniederlage-in-die-usa.html",
+        "date": "2026-10-27T18:09:15.000Z"
+      }
+    ],
+    "url": "https://www.sueddeutsche.de/politik/wahlverlierer-flavio-bolsonaro-brasilien-korruptionsvorwuerfe-li.3569705",
+    "agree": "Die Quellen sind sich einig, dass Flávio Bolsonaro nach seiner Wahlniederlage in Brasilien in die USA geflohen ist.",
+    "diff": [
+      {
+        "name": "Süddeutsche Zeitung",
+        "note": "Berichtet konkret über die Ermittlungen wegen Geldwäsche und Steuerhinterziehung sowie über die Pläne von US-Präsident Trump, ein Visum auszustellen und politisches Asyl zu gewähren."
+      },
+      {
+        "name": "t-online Nachrichten",
+        "note": "Erwähnt das Verstreichen einer Frist des Obersten Gerichtshofs und die Annullierung von Bolsonaros Pässen als Reaktion darauf."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-3db97a03a38e03ba",
+    "c": "INT",
+    "o": "UK",
+    "k": "wissenschaft",
+    "lang": "de",
+    "d": "2026-10-27T21:40:13.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Seltenes Nanotyrannus-Skelett für 47,3 Millionen Dollar in New York versteigert",
+    "s": "Ein seltenes Skelett eines Nanotyrannus namens „Jodi“ ist bei einer Auktion von Sotheby's in New York für 47,3 Millionen US-Dollar versteigert worden. Das Fossil des kleineren T-Rex-Verwandten wurde nach einem zwölfwöchigen oder zwölfwminütigen Bietergefecht an einen Telefonbieter verkauft. Die Versteigerung sorgt in der wissenschaftlichen Gemeinschaft erneut für eine Debatte über den Verbleib von Dinosaurierfossilien in Privathänden.",
+    "m": "Das gefundene Skelett mit dem Namen „Jodi“ stammt von einer Person, die die Überreste im Jahr 2019 entdeckt hatte. Bei der Auktion bei Sotheby's am Dienstag lieferten sich sechs Bieter online und über Telefon eine zwölfmütige Schlacht um das Fossil. Mit dem Endpreis von 47,3 Millionen US-Dollar gehört das Exemplar zu den teuersten Fossilien weltweit und ist laut Sotheby's das „zweitwertvollste jemals bei einer Auktion verkaufte Dinosaurierskelett“. Die hohe Summe und der Verkauf an einen privaten Bieter fachen in der Wissenschaft erneut die Diskussion darüber an, ob solche bedeutenden Funde in Privatsammlungen geraten oder öffentlich zugänglich sein sollten.",
+    "r": "Die Versteigerung eines bedeutenden Fossils zu einem extrem hohen Preis berührt die wissenschaftliche Debatte über den Zugang zu wissenschaftlich wertvollen Dinosaurierfossilien in der Öffentlichkeit. Sie zeigt zudem den enormen Marktwert solcher Funde auf.",
+    "srcs": [
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/oct/27/nanotyrannus-dinosaur-fossil-sothebys-auction",
+        "date": "2026-10-27T21:40:13.000Z"
+      },
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-27T17:10:15.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TUENXTjRCa1I2MXRmUWxHbGw1WDItX3gwcXd4WWNaeVdNLWd0MElERGNYemNLVVc3YmxpUVJDemhXYnlpNHF4aHdWT0s4aUNwZDR2MTN2UGlfR1U?oc=5",
+        "date": "2026-10-27T17:10:15.000Z"
+      }
+    ],
+    "url": "https://www.theguardian.com/us-news/2026/oct/27/nanotyrannus-dinosaur-fossil-sothebys-auction",
+    "agree": "Alle Quellen stimmen darin überein, dass ein seltenes Nanotyrannus-Skelett für 47,3 Millionen Dollar in New York versteigert wurde.",
+    "diff": [
+      {
+        "name": "Guardian World",
+        "note": "Berichtet detailliert über den Namen des Skeletts („Jodi“), die Entdeckung im Jahr 2019, das zwölfmütige Bietergefecht mit sechs Teilnehmern und die Einordnung als zweitwertvollster jemals versteigerter Dinosaurier."
+      },
+      {
+        "name": "BBC World",
+        "note": "Erwähnt als einzige Quelle die durch den Verkauf neu entfachte Debatte in der wissenschaftlichen Gemeinschaft über private Hände versus öffentliche Sichtbarkeit."
+      },
+      {
+        "name": "Google News World",
+        "note": "Enthält keine zusätzlichen eigenständigen Informationen und verweist lediglich auf den BBC-Bericht."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
+    "id": "story-7fb639dde1814064",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-27T21:36:48.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Wahlprognose in Israel zeigt keine klare Mehrheit",
+    "s": "Nach ersten Prognosen zur Parlamentswahl in Israel zeichnet sich ein extrem enges Rennen ab. Weder das Lager von Ministerpräsident Benjamin Netanjahu noch seine politischen Gegner erreichen eine absolute Mehrheit. Ein leichter Vorsprung wird jedoch für Netanjahu verzeichnet.",
+    "m": "Die aktuellen Prognosen zur Parlamentswahl in Israel deuten auf ein unentschiedenes Ergebnis hin, bei dem keine der beteiligten Seiten die erforderliche absolute Mehrheit erringen kann. Im Zentrum des Geschehens steht Ministerpräsident Benjamin Netanjahu, dessen Lager laut den ersten Erhebungen einen leichten Vorsprung aufweist. Die politische Zukunft des Landes bleibt damit vorerst ungewiss, da Koalitionsverhandlungen schwierig werden dürften. Offen ist, welche Bündnisse nach dem endgültigen Auszählen der Stimmen geschmiedet werden können, um eine regierungsfähige Mehrheit in der Knesset zu bilden. Die genaue Sitzverteilung wird erst nach Vorliegen offizieller Resultate feststehen. Beobachter blicken gespannt auf die kommenden Stunden und Tage, in denen sich die Regierungsbildung als kompliziert erweisen könnte.",
+    "r": "Die Parlamentswahl in Israel ist von hoher internationaler und regionaler Relevanz, da das Wahlergebnis die politische Ausrichtung des Landes und den Nahostkonflikt maßgeblich beeinflusst.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQ3U3YWNOa2xlS2tQeDNmZ0VmWTV2VC1qeXM0cFZrRjRDNk9mMWdrZmJ5R3VZSTkxYXFpRlF0eUw4aUtDMk1STEQxTE5qaWhPUFpJWGRJTUZwX2FURkQzTF9QUTRCcFJBellJRzlPZHNRWXZjblN4QUxyTldHYlNtbUNrajI4NzlLb3ZwWWhSaUczTVZjYmgxZFNDV2ZiR3duS3ZEeVpDcHRCanFhQW82b3pUaWFLcHNmbTRhVVFiVjR4dmlKX202UmE0X2lmRTQ3MGhCODNlRnFCVkF0T3Z5SlV1dTJsempQOVNfcFJTMmxubjY2QTUwTkNRYXI0UQ?oc=5",
+        "date": "2026-10-27T21:36:48.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/ausland/article6ae10006f74d161423be0ad4/wahlprognose-keine-klare-mehrheit-bei-parlamentswahl-in-israel-leichter-vorsprung-fuer-netanjahu.html",
+        "date": "2026-10-27T20:04:53.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQ3U3YWNOa2xlS2tQeDNmZ0VmWTV2VC1qeXM0cFZrRjRDNk9mMWdrZmJ5R3VZSTkxYXFpRlF0eUw4aUtDMk1STEQxTE5qaWhPUFpJWGRJTUZwX2FURkQzTF9QUTRCcFJBellJRzlPZHNRWXZjblN4QUxyTldHYlNtbUNrajI4NzlLb3ZwWWhSaUczTVZjYmgxZFNDV2ZiR3duS3ZEeVpDcHRCanFhQW82b3pUaWFLcHNmbTRhVVFiVjR4dmlKX202UmE0X2lmRTQ3MGhCODNlRnFCVkF0T3Z5SlV1dTJsempQOVNfcFJTMmxubjY2QTUwTkNRYXI0UQ?oc=5",
+    "agree": "Beide Quellen stimmen überein, dass es laut erster Prognose keine klare Mehrheit gibt und Netanjahu einen leichten Vorsprung hat.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-fa4596c56472ef7c",
+    "c": "INT",
+    "o": "INT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-27T21:31:40.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "FlÃ¡vio Bolsonaro verlässt nach Wahlniederlage offenbar Brasilien in Richtung USA",
+    "s": "Berichten zufolge hat FlÃ¡vio Bolsonaro Brasilien nach einer Wahlniederlage verlassen und sich in die USA begeben. Die Reise findet vor dem Hintergrund jüngster politischer Veränderungen in Brasilien statt. Weitere offizielle Details zu den Umständen der Ausreise stehen noch aus.",
+    "m": "Der Sohn des früheren Präsidenten Jair Bolsonaro, FlÃ¡vio Bolsonaro, hat das Land nach Medienberichten in Richtung USA verlassen. Die Ausreise erfolgt im Nachgang einer erlittenen Wahlniederlage. Die genauen Umstände des Aufbruchs sind Gegenstand von Medienberichten. Eine Polizeiquelle erklärte gegenüber der Nachrichtenagentur AFP, dass die Reisepässe von Bolsonaro annulliert worden seien und es keinen offiziellen Eintrag über seine Ausreise gebe. Die Situation wirft Fragen über den Status der Beteiligten im Zusammenhang mit juristischen oder behördlichen Maßnahmen auf. Beobachter analysieren die politischen Konsequenzen dieses Schritts für die Familie Bolsonaro und das politische Gefüge Brasiliens. Offizielle Stellen in Brasilien und den USA haben sich bisher nur in geringem Maße zu den Vorgängen geäußert. Die weiteren Entwicklungen bezüglich seines Aufenthaltsorts und möglicher rechtlicher Konsequenzen bleiben abzuwarten.",
+    "r": "Die Ausreise prominenter politischer Figuren nach einer Wahlniederlage ist für die politische Stabilität und die Aufarbeitung laufender Verfahren in Brasilien von Bedeutung. Sie berührt Fragen der Rechtsstaatlichkeit und des Umgangs mit ehemaligen Entscheidungsträgern.",
+    "srcs": [
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbVlya2tfVjRPTU0wMC1zOEtGTkY1Q3dtVWI0U0dVbHlQUWJybVNNaFBLOTN5cVpUVVJXS2ZPMVB3cUZ6ZXNZTXVzTWp0WWFJbF9HcGlYUVZERFFkV015dDJ2OFdHeWU3UllwTmM2d0JDdlUzbi1XMTdxMTVWQnlsWDl0amxYZEtaQUYzbTdWVkdzczZXV2xiaQ?oc=5",
+        "date": "2026-10-27T21:31:40.000Z"
+      },
+      {
+        "name": "Euronews",
+        "url": "https://www.euronews.com/2026/10/27/brazilian-police-probe-claims-flavio-bolsonaro-fled-to-argentina-after-election-defeat",
+        "date": "2026-10-27T16:03:31.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbVlya2tfVjRPTU0wMC1zOEtGTkY1Q3dtVWI0U0dVbHlQUWJybVNNaFBLOTN5cVpUVVJXS2ZPMVB3cUZ6ZXNZTXVzTWp0WWFJbF9HcGlYUVZERFFkV015dDJ2OFdHeWU3UllwTmM2d0JDdlUzbi1XMTdxMTVWQnlsWDl0amxYZEtaQUYzbTdWVkdzczZXV2xiaQ?oc=5",
+    "agree": "Die Quellen stimmen überein, dass FlÃ¡vio Bolsonaro nach einer Wahlniederlage Brasilien in Richtung USA verlassen hat beziehungsweise dies berichtet wird.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Berichtet über die Ausreise basierend auf der New York Times ohne weitere Details zur Passsituation."
+      },
+      {
+        "name": "Euronews",
+        "note": "Führt an, dass eine Polizeiquelle gegenüber AFP erklärt habe, Bolsonaros Pässe seien annulliert worden und es gebe keinen formalen Ausreisennachweis."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-35e0f9ffabd78046",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-27T21:21:00.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Gericht erklärt Sicherstellungen bei Zeit teils für rechtswidrig",
+    "s": "Das Landgericht Hamburg hat die Sicherstellung von Interview-Material der Zeit im Fall Christina Block teilweise für rechtswidrig erklärt. Der Vorgang hatte zuvor für erhebliche Kritik gesorgt. Nun gibt das Gericht dem Verlag in Teilen recht.",
+    "m": "Im juristischen Streit um den Fall Christina Block hat das Landgericht Hamburg eine Entscheidung zur Sicherstellung von Interview-Material getroffen. Betroffen sind Aufzeichnungen der Wochenzeitung Zeit, die ein Gespräch mit einer Tochter von Christina Block geführt hatte. Die vorherige Beschlagnahme des Materials war auf scharfe Kritik gestoßen, da der Schutz der Pressefreiheit berührt ist. Nun hat das Gericht entschieden, dass das behördliche beziehungsweise gerichtliche Vorgehen teilweise rechtswidrig war. Damit erhält der Verlag in diesen Punkten Recht. Weitere Details zu den konkreten Konsequenzen oder dem genauen Inhalt der Aufzeichnungen gehen aus den Berichten nicht hervor.",
+    "r": "Die Entscheidung eines Landgerichts zur Sicherstellung von Medienmaterial berührt grundlegende Fragen des Presserechts und des Quellenschutzes. Der Fall erlangt dadurch über den konkreten Einzelfall hinaus rechtliche Relevanz.",
+    "srcs": [
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/panorama/block-prozess--sicherstellungen-bei--zeit--teils-rechtswidrig-38460806.html",
+        "date": "2026-10-27T21:21:00.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/panorama/fall-christina-block-sicherstellungen-bei-zeit-teils-rechtswidrig-Z2WJWKRFQRCTNFCGTHK4DK5H6A.html",
+        "date": "2026-10-27T20:21:58.000Z"
+      }
+    ],
+    "url": "https://www.stern.de/panorama/block-prozess--sicherstellungen-bei--zeit--teils-rechtswidrig-38460806.html",
+    "agree": "Das Landgericht Hamburg hat entschieden, dass die Sicherstellung von Interview-Material der Zeit mit einer Tochter von Christina Block teilweise rechtswidrig ist.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-79de6732e7e91e8b",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-27T21:19:00.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Waffenruhe in der Ukraine laut Melania Trump ausgeweitet",
+    "s": "Die ersten Stunden einer Waffenruhe im Süden der Ukraine verlaufen offenbar friedlich. Nach Angaben der US-First Lady Melania Trump gilt die Feuerpause nun auch innerhalb der Region Cherson. Diese Entwicklung weckt in der Ukraine Hoffnungen auf mögliche Fortschritte im Friedensprozess. Konkrete Details zu Reichweite und Dauer der Maßnahmen werden beobachtet.",
+    "m": "Die ersten Stunden der vereinbarten Waffenruhe im Süden der Ukraine verlaufen nach aktuellen Berichten weitgehend friedlich. Laut Aussagen der US-First Lady Melania Trump wurde die Waffenruhe über die Stadt Oleschky hinaus ausgedehnt und gilt nun auch innerhalb der gesamten Region Cherson. Diese unerwartete Ankündigung sorgt in der Ukraine für verhaltene Hoffnung auf weitergehende Fortschritte im anhaltenden Friedensprozess. Die genauen Bedingungen, die Einhaltung vor Ort und die Reaktionen weiterer internationaler Akteure bleiben vorerst abzuwarten. Beobachter analysieren, ob dies ein erster Schritt zu einer dauerhaften Entspannung sein kann.",
+    "r": "Die Ausweitung der Waffenruhe durch US-Vermittlung ist von geopolitischer Bedeutung für den Verlauf des Ukraine-Kriegs. Sie könnte Einfluss auf den weiteren Friedensprozess und die Stabilität in der Region Cherson haben.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbWRzZnFiMFVFV056QmY1VEdOaDhGZ3NhdldXRmlFSUN4SXVFaEluUjdpR0trRVI0S0RnT3hicE9XOEo5dmdMLVlOTV9DMS1McXUwWU9xVHJjdWVGek5kbUt3cFU5dF9mRkxQWWUzS18xQ1lCWUhLdV9pSVVWUVpzRlU3LVNkdDZXRXNTSTUwNkVjRmJxV1pBUEZhNUUtbkpvdnMwNjlCblM0SmZhb2lyVVNtalQ2Z2dUX3NSWmpiaGZMT1Z6QjV0Zk1ubW1fNEZ1azNlVUhETEo?oc=5",
+        "date": "2026-10-27T21:19:00.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/ukraine-waffenruhe-laut-melania-trump-ueber-oleschky-hinaus-ausgeweitet-a-c1483e83-6ddc-435f-9578-f2c7e0349f9f#ref=rss",
+        "date": "2026-10-27T21:19:00.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbWRzZnFiMFVFV056QmY1VEdOaDhGZ3NhdldXRmlFSUN4SXVFaEluUjdpR0trRVI0S0RnT3hicE9XOEo5dmdMLVlOTV9DMS1McXUwWU9xVHJjdWVGek5kbUt3cFU5dF9mRkxQWWUzS18xQ1lCWUhLdV9pSVVWUVpzRlU3LVNkdDZXRXNTSTUwNkVjRmJxV1pBUEZhNUUtbkpvdnMwNjlCblM0SmZhb2lyVVNtalQ2Z2dUX3NSWmpiaGZMT1Z6QjV0Zk1ubW1fNEZ1azNlVUhETEo?oc=5",
+    "agree": "Die Quellen stimmen darin überein, dass eine Waffenruhe im Süden der Ukraine laut Melania Trump über Oleschky hinaus auf die Region Cherson ausgeweitet wurde.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Verweist lediglich auf den Artikel von Spiegel mit dem Titel der Hilfsaktion für eine Frontstadt."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-37d0f89aa9e78123",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-27T21:14:59.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Parlamentswahl in Israel: Unklare Mehrheiten nach Prognosen",
+    "s": "Bei der Parlamentswahl in Israel deuten Prognosen auf ein enges Rennen hin. Sowohl das Lager von Ministerpräsident Netanjahu als auch die Opposition verfehlen demnach eine absolute Mehrheit. Die Regierungsbildung verspricht schwierig zu werden.",
+    "m": "Ersten Prognosen zufolge ist die Likud-Partei von Ministerpräsident Benjamin Netanjahu stärkste Kraft geworden, während das Lager des Oppositionspolitikers Gadi Eisenkot ebenfalls starke Ergebnisse erzielt hat. Die absolute Mehrheit für eine Regierungsbildung verfehlen jedoch voraussichtlich beide Seiten. Die politische Zukunft Israels bleibt damit vorerst ungewiss, da Koalitionsverhandlungen notwendig werden. Es ist unklar, welche Bündnisse geschmiedet werden können, um eine stabile Regierung zu bilden. Die genaue Mandatsverteilung muss durch die endgültigen Auszählungsergebnisse bestätigt werden.",
+    "r": "Die Parlamentswahl in Israel ist relevant, da die Prognosen auf ein unklares Wahlergebnis und schwierige Koalitionsverhandlungen hindeuten. Dies hat direkte Auswirkungen auf die politische Stabilität des Landes und die künftige Führung unter Ministerpräsident Netanjahu oder der Opposition.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/politik/ausland/2026-10/israel-parlament-wahl-prognose-benjamin-netanjahu-gadi-gadi-eisenkot",
+        "date": "2026-10-27T21:14:59.000Z"
+      },
+      {
+        "name": "Rheinische Post",
+        "url": "https://rp-online.de/politik/ausland/israel-netanjahus-likud-partei-laut-prognose-knapp-vorn_aid-157348327",
+        "date": "2026-10-27T20:22:00.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/politik/ausland/2026-10/israel-parlament-wahl-prognose-benjamin-netanjahu-gadi-gadi-eisenkot",
+    "agree": "Die Quellen stimmen überein, dass eine Parlamentswahl in Israel stattgefunden hat und Prognosen zufolge keine klare absolute Mehrheit für die beteiligten Hauptlager erkennbar ist.",
+    "diff": [
+      {
+        "name": "ZEIT ONLINE",
+        "note": "nennt das Lager des Oppositionspolitikers Gadi Eisenkot in den Prognosen knapp vor dem Netanjahu-Lager, erwähnt aber auch, dass Netanjahus Likud-Partei stärkste Kraft werden könnte"
+      },
+      {
+        "name": "Rheinische Post",
+        "note": "gibt an, dass Netanjahus Likud-Partei laut Prognose stärkste Kraft geworden ist, während Eisenkots Mitte-Partei Jaschar auf Platz zwei landete"
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-3e974d56a0a034ef",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-27T20:24:51.000Z",
+    "p": 3,
+    "st": "NI",
+    "city": "",
+    "t": "Auto fährt in Neustadt am Rübenberge in Menschengruppe",
+    "s": "Am späten Montagabend ist in Neustadt am Rübenberge ein Auto in eine Menschengruppe gefahren. Dabei wurden mindestens fünf Menschen verletzt. Die Polizei gab an, dass auf das Fahrzeug geschossen wurde. Eine Amokfahrt wird von den Ermittlern ausgeschlossen.",
+    "m": "Der Vorfall ereignete sich am späten Montagabend in Neustadt am Rübenberge, als ein Auto zweimal in eine Menschengruppe fuhr. Mindestens fünf Personen wurden bei dem Vorfall verletzt. Die Polizei musste während des Einsatzes auf das beteiligten Fahrzeug schießen. Nach ersten Erkenntnissen der Ermittler kannten sich Täter und Opfer. Die Polizei vermutet, dass beide Parteien zu polizeibekannten Clan- oder Großfamilien gehören. Eine politisch oder psychologisch motivierte Amokfahrt wird von den Behörden derzeit ausgeschlossen. Die Hintergründe und der genaue Hergang sind Gegenstand laufender polizeilicher Ermittlungen.",
+    "r": "Die Meldung ist relevant, da es sich um eine schwere Gewalttat mit mehreren Verletzten und möglichem Clan-Hintergrund handelt, bei der die Polizei von der Schusswaffe Gebrauch machen musste.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Niedersachsen",
+        "url": "https://www.tagesschau.de/inland/regional/niedersachsen/auto-in-menschenmenge-gesteuert-polizei-nimmt-drei-verdaechtige-fest,neustadt-158.html",
+        "date": "2026-10-27T20:24:51.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/panorama/neustadt-am-ruebenberge-auto-faehrt-in-menschengruppe-polizei-schiesst-auf-wagen-T77ELPWWMZABFGMURSX3NY4S3I.html",
+        "date": "2026-10-27T13:56:37.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/niedersachsen/auto-in-menschenmenge-gesteuert-polizei-nimmt-drei-verdaechtige-fest,neustadt-158.html",
+    "agree": "Die Quellen sind sich einig, dass ein Auto in Neustadt am Rübenberge in eine Menschengruppe gefahren ist und Beteiligte Großfamilien bzw. Clans angehören sollen.",
+    "diff": [
+      {
+        "name": "Tagesschau Regional Niedersachsen",
+        "note": "Berichtet, dass das Auto zweimal in mehrere Personen gefahren sei."
+      },
+      {
+        "name": "RND",
+        "note": "Nennt die Mindestanzahl von fünf Verletzten, erwähnt den Schusswaffeneinsatz der Polizei auf den Wagen und dass eine Amokfahrt ausgeschlossen wird."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-159b93388bacea81",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-27T19:52:20.000Z",
+    "p": 3,
+    "st": "NI",
+    "city": "",
+    "t": "Prozessbeginn am Landgericht Braunschweig wegen jahrelanger Folter in Salzgitter",
+    "s": "Am Landgericht Braunschweig hat am Dienstag ein Prozess gegen vier Angeklagte begonnen. Ihnen wird vorgeworfen, eine junge Frau aus Salzgitter über Jahre hinweg schwer misshandelt zu haben. Die Staatsanwaltschaft legt den Beschuldigten zahlreiche Taten zur Last.",
+    "m": "Vor dem Landgericht Braunschweig stehen seit Dienstag vier Angeklagte vor Gericht, weil sie eine Frau aus Salzgitter über viereinhalb Jahre hinweg gequält, erniedrigt und gefoltert haben sollen. Die Staatsanwaltschaft wirft ihnen in der Anklage insgesamt 33 Einzelfälle von schwerer Misshandlung vor. Die genauen Hintergründe und Abläufe der mutmasslichen Taten sollen im Rahmen des nun gestarteten Verfahrens aufgeklärt werden. Es handelt sich um ein gravierendes Verfahren im Bereich schwerer Gewaltkriminalität. Weitere Details zum Motiv oder zum genauen Tathergang wurden zum Prozessauftakt zunächst nicht umfassend öffentlich bekannt.",
+    "r": "Der Prozessbeginn ist von hoher gesellschaftlicher und rechtlicher Relevanz, da den vier Angeklagten schwere Verbrechen und systematische Folter über mehrere Jahre hinweg vorgeworfen werden. Die juristische Aufarbeitung solcher Gewaltverbrechen steht im öffentlichen Interesse.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Niedersachsen",
+        "url": "https://www.tagesschau.de/inland/regional/niedersachsen/putzhilfe-in-salzgitter-ueber-jahre-gefoltert-prozess-beginnt,salzgitter-180.html",
+        "date": "2026-10-27T19:52:20.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/panorama/jahre-der-gewalt-in-salzgitter-jetzt-beginnt-der-prozess-gegen-vier-angeklagte-3D7DBV5MYJCDLBJOSBE7ADPZ2I.html",
+        "date": "2026-10-27T16:50:02.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/niedersachsen/putzhilfe-in-salzgitter-ueber-jahre-gefoltert-prozess-beginnt,salzgitter-180.html",
+    "agree": "Die Quellen sind sich einig, dass am Landgericht Braunschweig ein Prozess gegen vier Angeklagte begonnen hat, denen die jahrelange Misshandlung einer Frau aus Salzgitter vorgeworfen wird.",
+    "diff": [
+      {
+        "name": "Tagesschau Regional Niedersachsen",
+        "note": "Beschreibt die Geschädigte als Putzhilfe."
+      },
+      {
+        "name": "RND",
+        "note": "Nennt die genaue Dauer der Taten mit viereinhalb Jahren und beziffert die Einzelfälle in der Anklage auf 33."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-e14ab9977f7dc02e",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-27T19:31:07.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Berlin: Linke vertagt Entscheidung über umstrittene Abgeordnete Vanessa Emde",
+    "s": "Die Berliner Linke hat eine Entscheidung über den Umgang mit der umstrittenen Abgeordneten Vanessa Emde vertagt. Ein direktes Gespräch brachte keine Annäherung in dem internen Streit. Kurz vor dem anstehenden Parteitag bleibt diese zentrale Personalfrage damit völlig ungelöst und belastet die laufenden Koalitionspläne.",
+    "m": "Hintergrund des Streits sind die Positionen von Vanessa Emde zum Thema Israel, die innerhalb der Partei stark umstritten sind. Die Berliner Linke ringt intensiv um eine gemeinsame Linie und führte deshalb ein persönliches Gespräch mit der Abgeordneten. Dieses blieb jedoch ohne Ergebnis und führte zu keinerlei Annäherung der unterschiedlichen Standpunkte. Die offenen Differenzen fallen in eine sensible Phase, in der die Partei über Koalitionspläne verhandelt. Kurz vor dem Parteitag drängt die Zeit, eine Lösung zu finden, da die ungeklärte Personalie die Stabilität des Bündnisses gefährdet. Offen ist derzeit, wie die Partei auf dem Parteitag mit der Situation umgehen wird und welche Konsequenzen Emdes Haltung für ihre politische Zukunft hat.",
+    "r": "Die Personalie berührt zentrale Fragen der parteiinternen Ausrichtung und gefährdet die Berliner Koalitionspläne kurz vor dem Parteitag.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLU5WMjZoUGNqUXpwcUd5NXZHRFM3UGpqUDgwcU1FUFBfNFpIOEozdktlSTFEX3BBcXl2aXdtdWFxcXdqZTRFendGUGtYR0FadUxnbXZVSHdhTkx5ZjlPcXdvdlRzTzIzQWQ5c2lZWlNBYTd5TV8wRnVJYTZ5VkItOG9UQkE3VHZESmRyZHV5eWVSQmFrQTduSXRPQ3kxZUE?oc=5",
+        "date": "2026-10-27T19:31:07.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/politik/Berliner-Linke-vertagt-Entscheidung-ueber-Vanessa-Emde-id31465046.html",
+        "date": "2026-10-27T19:31:07.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLU5WMjZoUGNqUXpwcUd5NXZHRFM3UGpqUDgwcU1FUFBfNFpIOEozdktlSTFEX3BBcXl2aXdtdWFxcXdqZTRFendGUGtYR0FadUxnbXZVSHdhTkx5ZjlPcXdvdlRzTzIzQWQ5c2lZWlNBYTd5TV8wRnVJYTZ5VkItOG9UQkE3VHZESmRyZHV5eWVSQmFrQTduSXRPQ3kxZUE?oc=5",
+    "agree": "Beide Quellen stimmen überein, dass die Berliner Linke die Entscheidung über Vanessa Emde vertagt hat und ein Gespräch keine Annäherung brachte.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-a54af1053b7d88bc",
     "c": "DE",
     "o": "DE",
@@ -123,6 +959,47 @@
     "independent": 2
   },
   {
+    "id": "story-e0a96e9a7e9e1723",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-27T18:43:06.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Beate Zschäpe bleibt trotz Distanzierung in Haft",
+    "s": "Das Oberlandesgericht München hat entschieden, dass die NSU-Terroristin Beate Zschäpe weiter in Haft bleiben muss. Trotz einer festgestellten Distanzierung vom nationalsozialistischen Gedankengut wird von einer Bewährung abgesehen. Damit ist die Frage nach ihrer weiteren Haftdauer geklärt.",
+    "m": "Das Oberlandesgericht München hat eine Entscheidung zur weiteren Haft von Beate Zschäpe getroffen. Obwohl das Gericht festgestellt hat, dass sich die NSU-Terroristin von nationalsozialistischem Gedankengut distanziert hat, wurde eine Aussetzung der Strafe zur Bewährung abgelehnt. Im Rahmen der Entscheidung wurde festgelegt, wie lange Zschäpe voraussichtlich noch in Haft bleiben muss. Die Begründung stützt sich unter anderem auf eine außergewöhnlich hohe Tatschuld. Weitere Details zum genauen zeitlichen Ablauf der Haft oder konkreten Jahren wurden in den vorliegenden Auszügen nicht genannt. Der Fall beleuchtet erneut den Umgang mit den verurteilten Mitgliedern des Nationalsozialistischen Untergrunds (NSU).",
+    "r": "Die Entscheidung des Oberlandesgerichts München ist von gesellschaftlicher und rechtlicher Relevanz, da sie den Umgang mit einer der bekanntesten verurteilten Terroristinnen Deutschlands und die Frage der Reststrafaussetzung betrifft.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQVDlRcWNwQTRXMzFNaXR0dTFFVWV0RXgydi1sQTNmZHBDZ3BaU0EySWxyWFZWRk5XN0k2QWN0LVU0blV1bUtvSmVFT2VONWQzTU9PNlRrN2R6Zk9nbnR4dktHS1IwR1ZaUVJoN0dsX0NrSWdvNHhQS0tqaXVOM01aQVJPMFh2UTNPNzFEbkhLelVfTllOcVNFLXh3RGFWYTMzbGR4OHNXMHFxcVJFdXN2aF81UnNDNTZlamdxTXZpMmtEZlUxcERhakM2SWR6b0hicUZQaU9zMUxyVlM1ZWlYM1ljRVBORnhucWpzdGdna1M4YkxyUExicUJjYzZiZVItRkE?oc=5",
+        "date": "2026-10-27T18:43:06.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/deutschland/article6ae0ebe9f74d161423be0940/rechtsterroristin-aussergewoehnlich-hohe-tatschuld-so-lange-soll-beate-zschaepe-in-haft-bleiben.html",
+        "date": "2026-10-27T18:41:30.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQVDlRcWNwQTRXMzFNaXR0dTFFVWV0RXgydi1sQTNmZHBDZ3BaU0EySWxyWFZWRk5XN0k2QWN0LVU0blV1bUtvSmVFT2VONWQzTU9PNlRrN2R6Zk9nbnR4dktHS1IwR1ZaUVJoN0dsX0NrSWdvNHhQS0tqaXVOM01aQVJPMFh2UTNPNzFEbkhLelVfTllOcVNFLXh3RGFWYTMzbGR4OHNXMHFxcVJFdXN2aF81UnNDNTZlamdxTXZpMmtEZlUxcERhakM2SWR6b0hicUZQaU9zMUxyVlM1ZWlYM1ljRVBORnhucWpzdGdna1M4YkxyUExicUJjYzZiZVItRkE?oc=5",
+    "agree": "Die Quellen sind sich einig, dass Beate Zschäpe weiterhin in Haft bleiben muss und eine Bewährung trotz ihrer Distanzierung vom nationalsozialistischen Gedankengut abgelehnt wurde.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Verweist auf den WELT-Artikel und erwähnt vorab die Feststellung einer außergewöhnlich hohen Tatschuld."
+      },
+      {
+        "name": "WELT",
+        "note": "Berichtet detaillierter, dass das Oberlandesgericht München die Entscheidung getroffen und die Distanzierung von nationalsozialistischem Gedankengut festgestellt hat."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-a8527ae43665035d",
     "c": "INT",
     "o": "DE",
@@ -164,88 +1041,6 @@
     "independent": 2
   },
   {
-    "id": "story-7e798e5ee04ef7e7",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-27T18:40:12.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Auto fährt in Neustadt am Rübenberge gezielt in Menschengruppe",
-    "s": "In Neustadt am Rübenberge in Niedersachsen ist ein Auto gezielt in eine Menschengruppe gefahren. Der Vorfall ereignete sich am späten Montagabend. Die Polizei hat die Ermittlungen zu den Hintergründen aufgenommen. Bisher gibt es keine Hinweise auf einen terroristischen Anschlag.",
-    "m": "Am späten Montagabend kam es in Neustadt am Rübenberge bei Hannover zu einem Vorfall, bei dem ein Auto gezielt in eine Gruppe von Menschen gesteuert wurde. Die Polizei und Ermittlungsbehörden haben die Arbeit aufgenommen, um die genauen Hintergründe der Tat zu klären. Nach ersten Erkenntnissen der Behörden wird derzeit nicht von einem Anschlag ausgegangen. Stattdessen deuten die Ermittlungen darauf hin, dass sich Täter und Opfer offenbar kannten. Nähere Angaben zu den beteiligten Personen, dem genauen Hergang sowie möglichen Verletzten wurden in den bisherigen Berichten nicht gemacht.",
-    "r": "Die gezielte Fahrt eines Autos in eine Menschengruppe ist ein schwerwiegender Vorfall mit polizeilicher Relevanz. Die Klärung des Motivs und der Beziehung zwischen Täter und Opfern steht im Zentrum der Ermittlungen.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/niedersachsen-auto-faehrt-gezielt-in-menschengruppe-polizei-geht-nicht-von-anschlag-aus-100.html",
-        "date": "2026-10-27T18:40:12.000Z"
-      },
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/panorama/kriminalitaet/auto-niedersachsen-neustadt-am-ruebenberge-menschengruppe-verletzte-100.html",
-        "date": "2026-10-27T12:41:00.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/niedersachsen-auto-faehrt-gezielt-in-menschengruppe-polizei-geht-nicht-von-anschlag-aus-100.html",
-    "agree": "Die Quellen stimmen darin überein, dass in Neustadt am Rübenberge ein Auto gezielt in eine Menschengruppe gefahren ist.",
-    "diff": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "note": "Berichtet explizit, dass die Polizei nicht von einem Anschlag ausgeht."
-      },
-      {
-        "name": "ZDF heute",
-        "note": "Erwähnt den genauen Zeitpunkt am späten Montagabend und dass sich Täter und Opfer offenbar kannten."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-d4a6c3a14a91ba18",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-27T18:40:12.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Ägyptisches Gericht ordnet Schließung unabhängiger Nachrichtenseite Mada Masr an",
-    "s": "Ein ägyptisches Gericht hat die Schließung der unabhängigen Nachrichtenseite Mada Masr angeordnet. Nach dem Beschluss ist die Chefredakteurin Lina Attalah in Gewahrsam genommen worden. Menschenrechtsorganisationen befürchten, dass diese Maßnahme einen gefährlichen Präzedenzfall für die verbleibenden freien Medien im Land darstellen könnte.",
-    "m": "Ein Gericht in Kairo hat die Schließung der bekannten unabhängigen Nachrichtenseite Mada Masr verfügt. Im Zuge dieser gerichtlichen Anordnung befindet sich die Chefredakteurin der Publikation, Lina Attalah, in Gewahrsam. Die Maßnahme schränkt die journalistische Arbeit der Plattform massiv ein und sorgt international sowie bei lokalen Akteuren für große Besorgnis. Verschiedene Menschenrechtsorganisationen warnen eindringlich davor, dass das Vorgehen gegen Mada Masr als Präzedenzfall für weitere restriktive Schritte gegen unabhängige und freie Medien in Ägypten dienen könnte. Über die genauen juristischen Vorwürfe, die zu dem Gerichtsbeschluss geführt haben, sowie über den künftigen rechtlichen Status der Redaktionsmitglieder liegen derzeit keine weiteren Details vor.",
-    "r": "Die Schließung einer bedeutenden unabhängigen Nachrichtenseite und die Inhaftierung der Chefredakteurin stellen einen massiven Eingriff in die Pressefreiheit in Ägypten dar. Das Verfahren weckt zudem Befürchtungen hinsichtlich systematischer Einschränkungen weiterer freier Medien im Land.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/nachrichtenseite-mada-masr-muss-schliessen-104.html",
-        "date": "2026-10-27T18:40:12.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/ausland/aegypten-unabhaengige-nachrichtenseite-mada-masr-muss-nach-gerichtsbeschluss-schliessen-a-c486b5ba-739f-487f-ac4f-ee44a232d9b2#ref=rss",
-        "date": "2026-10-27T15:58:00.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/nachrichtenseite-mada-masr-muss-schliessen-104.html",
-    "agree": "Die Quellen stimmen überein, dass ein ägyptisches Gericht die Schließung der unabhängigen Nachrichtenseite Mada Masr angeordnet hat.",
-    "diff": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "note": "Die Quelle nennt lediglich die Schließung der Nachrichtenseite durch ein ägyptisches Gericht ohne weitere Details."
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "Die Quelle nennt zusätzlich Kairo als den Ort des Gerichts, berichtet über die Inhaftierung von Chefredakteurin Lina Attalah und erwähnt die Sorge von Menschenrechtsorganisationen vor einem Präzedenzfall für freie Medien."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
     "id": "story-432c2c3ddd1b5584",
     "c": "DE",
     "o": "DE",
@@ -277,47 +1072,6 @@
       {
         "name": "BR24 Bayern",
         "note": "nennt die konkrete durchschnittliche Differenz von 623 Euro mehr im Monat für eine alleinstehende Person in Vollzeit zum Mindestlohn."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-55ceacb6cbf9d50f",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-27T18:40:12.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Schriftstellerin Juli Zeh gibt Amt als Verfassungsrichterin auf",
-    "s": "Die Schriftstellerin und Juristin Juli Zeh beendet Medienberichten zufolge ihre Tätigkeit als Verfassungsrichterin in Brandenburg. Sie möchte sich künftig ganz ihrer literarischen Arbeit widmen. Offizielle Details zu den genauen Hintergründen und dem Zeitpunkt ihres Ausscheidens stehen noch aus.",
-    "m": "Die renommierte Schriftstellerin Juli Zeh wird ihr Ehrenamt als Verfassungsrichterin in Brandenburg offenbar niederlegen. Bekannt wurde diese Entscheidung durch Medienberichte, die sich auf ihren Entschluss berufen, sich künftig ausschließlich auf ihre schriftstellerische Karriere zu konzentrieren. Juli Zeh, die neben ihrer Autorenschaft auch ausgebildete Juristin ist, hatte das Amt am Landesverfassungsgericht inne und machte sich zuvor oft mit gesellschaftskritischen Werken einen Namen. Der Schritt bedeutet das Ende ihrer richterlichen Laufbahn zugunsten ihrer literarischen Projekte. Weitere offizielle Reaktionen oder ein genauer Termin für den Rücktritt sind bisher nicht bekannt.",
-    "r": "Der Rücktritt einer bekannten Persönlichkeit aus einem hochrangigen juristischen Ehrenamt betrifft die Landespolitik und die Justiz in Brandenburg. Die Personalie wirft ein Schlaglicht auf die Vereinbarkeit von literarischem Schaffen und politischen beziehungsweise richterlichen Ämtern.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/schriftstellerin-juli-zeh-hoert-als-verfassungsrichterin-auf-102.html",
-        "date": "2026-10-27T18:40:12.000Z"
-      },
-      {
-        "name": "stern",
-        "url": "https://www.stern.de/lifestyle/leute/schriftstellerin-juli-zeh-hoert-offenbar-als-verfassungsrichterin-auf-38460620.html",
-        "date": "2026-10-27T17:52:00.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/schriftstellerin-juli-zeh-hoert-als-verfassungsrichterin-auf-102.html",
-    "agree": "Die Quellen sind sich einig, dass die Schriftstellerin Juli Zeh ihr Amt als Verfassungsrichterin aufgibt.",
-    "diff": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "note": "Meldet den Rücktritt als Verfassungsrichterin in Brandenburg kurz und prägnant als Ehrenamt."
-      },
-      {
-        "name": "stern",
-        "note": "Ergänzt, dass Juli Zeh sich mit gesellschaftskritischen Büchern einen Namen gemacht hat und sich künftig ganz der Literatur widmen möchte."
       }
     ],
     "chg": "",
@@ -456,10 +1210,10 @@
     "p": 2,
     "st": "NW",
     "city": "",
-    "t": "Dauerkranke Lehrerin nach fast 17 Jahren wegen Betrugs angeklagt",
-    "s": "Eine Lehrerin aus Nordrhein-Westfalen hat laut Staatsanwaltschaft seit 2009 nicht mehr unterrichtet, aber weiterhin Gehalt bezogen. Nun wurde Anklage wegen Betrugs und Urkundenfälschung erhoben. Die Behörden ermitteln in diesem langjährigen Fall von unrechtmäßigen Bezügen.",
-    "m": "Die Staatsanwaltschaft Duisburg hat Anklage gegen eine Lehrerin erhoben, die seit fast 17 Jahren keinen Unterricht mehr erteilt haben soll. Trotz ihrer anhaltenden Abwesenheit seit dem Jahr 2009 liefen die Gehaltszahlungen weiter. Die Ermittlungen führten nun zum Vorwurf des Betrugs sowie der Urkundenfälschung. Nach aktuellen Erkenntnissen soll die Beschuldigte eine Summe von rund 248.000 Euro zu Unrecht erhalten haben. Der Fall wirft Fragen zur Kontrolle und zum Umgang mit langfristig erkrankten Beamten im Schuldienst auf. Weitere Details zum genauen Ablauf der Betrugsvorwürfe und gefälschten Dokumenten wurden von den Behörden zunächst nicht im Detail bekannt gegeben.",
-    "r": "Der Fall beleuchtet potenzielle Kontrolllücken bei der Gehaltsfortzahlung im öffentlichen Dienst bei langjähriger Abwesenheit. Die Anklageerhebung markiert einen juristischen Meilenstein in dem seit 2009 schwelenden Sachverhalt.",
+    "t": "Dauerkranke Lehrerin in NRW nach jahrelanger Gehaltsfortzahlung angeklagt",
+    "s": "Die Staatsanwaltschaft Duisburg hat Anklage gegen eine Lehrerin wegen Betrugs und Urkundenfälschung erhoben. Die Beschuldigte hat jahrelang nicht unterrichtet und dennoch weiterhin Bezüge erhalten. Der Fall sorgt wegen der enorm langen Dauer für Aufsehen. Die Ermittlungsbehörden sehen den Tatbestand des Betrugs als erfüllt an.",
+    "m": "Die Ermittlungen der Staatsanwaltschaft Duisburg gegen eine Lehrerin aus Nordrhein-Westfalen haben zu einer Anklage wegen Betrugs und Urkundenfälschung geführt. Nach den Erkenntnissen der Behörden soll die Beschuldigte seit dem Jahr 2009 nicht mehr im Schuldienst unterrichtet haben. Trotz dieser langen Abwesenheit vom Arbeitsplatz liefen ihre Gehaltszahlungen über die Jahre ununterbrochen weiter. Im Zuge der Vorwürfe steht eine Summe von rund 248.000 Euro im Raum, die sie zu Unrecht bezogen haben soll. Die Dauer des Falls wirft Fragen nach den Kontrollmechanismen in der Schulverwaltung auf. Ob und wie gefälschte Urkunden im Detail eingesetzt wurden, ist Gegenstand des anstehenden Verfahrens.",
+    "r": "Der Fall offenbart gravierende Kontrolllücken in der staatlichen Schulverwaltung über einen sehr langen Zeitraum hinweg. Zudem verdeutlicht er die finanziellen Schäden, die durch unrechtmäßige Gehaltsfortzahlungen bei jahrelanger Abwesenheit entstehen können.",
     "srcs": [
       {
         "name": "Frankfurter Allgemeine",
@@ -473,15 +1227,15 @@
       }
     ],
     "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/dauerkranke-lehrerin-in-duisburg-wegen-betrugs-angeklagt-201626687.html",
-    "agree": "Beide Quellen stimmen überein, dass eine Lehrerin seit 2009 nicht mehr unterrichtet hat, weiterhin Gehalt bezog und nun von der Staatsanwaltschaft Duisburg wegen Betrugs und Urkundenfälschung angeklagt wurde.",
+    "agree": "Beide Quellen stimmen überein, dass eine Lehrerin in NRW seit dem Jahr 2009 nicht mehr unterrichtet hat, weiterhin Gehalt bezog und nun von der Staatsanwaltschaft Duisburg wegen Betrugs und Urkundenfälschung angeklagt wurde.",
     "diff": [
       {
         "name": "Frankfurter Allgemeine",
-        "note": "nennt die betroffene Lehrerin aus Wesel und präzisiert die Dauer auf fast 17 Jahre."
+        "note": "nennt Wesel als Wohn- oder Herkunftsort der Lehrerin und gibt eine Gesamtdauer der Erkrankung von fast 17 Jahren an."
       },
       {
         "name": "Tagesschau Regional Nordrhein-Westfalen",
-        "note": "nennt Duisburg als Wohnort der Lehrerin und beziffert die mutmaßlich zu Unrecht erhaltene Summe auf rund 248.000 Euro."
+        "note": "nennt Duisburg als Wohn- oder Einsatzort der Lehrerin und beziffert die mutmaßlich zu Unrecht erhaltene Summe konkret auf rund 248.000 Euro."
       }
     ],
     "chg": "",
@@ -698,13 +1452,13 @@
     "p": 2,
     "st": "",
     "city": "",
-    "t": "CP warnt vor Zugausfällen und Störungen durch Streik",
-    "s": "Die portugiesische Eisenbahngesellschaft CP hat für die kommenden Tage vor erheblichen Beeinträchtigungen im Bahnverkehr gewarnt. Grund dafür ist ein angekündigter Streik von Zugbegleitern und Mitarbeitern an den Fahrkartenschaltern. Die Störungen sollen nach Angaben des Unternehmens voraussichtlich ab Donnerstag auftreten.",
-    "m": "Der Streik betrifft das Personal der CP - Comboios de Portugal, insbesondere Revisoren und Beschäftigte in den Fahrkartenschaltern. Von den Arbeitsniederlegungen sind Beeinträchtigungen im nationalen Schienenverkehr zu erwarten. Reisende müssen sich zwischen Donnerstag und Samstag auf erhebliche Einschränkungen und unregelmäßige Verbindungen einstellen. Die genauen Auswirkungen auf den Fahrplan und mögliche Notdienste wurden in den vorliegenden Meldungen nicht näher beziffert. Das Unternehmen rät Pendlern und Reisenden, sich rechtzeitig über Verbindungen zu informieren.",
-    "r": "Der Streik beeinträchtigt den öffentlichen Personennah- und Fernverkehr in Portugal und betrifft zahlreiche Reisende. Zugausfälle und Verspätungen erfordern Anpassungen bei der Reiseplanung der betroffenen Fahrgäste.",
+    "t": "CP warnt vor massiven Zugausfällen und Störungen durch Streik",
+    "s": "Das portugiesische Bahnunternehmen CP hat wegen eines angekündigten Streiks vor erheblichen Einschränkungen im Zugverkehr gewarnt. Die Arbeitsniederlegungen betreffen sowohl das Fahrpersonal als auch Mitarbeiter in den Ticketverkäufen. Betroffen ist der Zeitraum von Donnerstag bis Samstag. Fahrgäste müssen sich demnach auf Zugausfälle und deutliche Verspätungen einstellen.",
+    "m": "Die CP - Comboios de Portugal hat eine offizielle Warnung herausgegeben, dass es ab kommenden Donnerstag zu spürbaren Perturbationen in der Zugzirkulation kommen wird. Grund für die Störungen ist ein geplanter Streik, der von Gewerkschaften für das Personal im Revisionsdienst sowie in den Fahrkartenverkaufsstellen ausgerufen wurde. Die Maßnahmen dauern nach aktuellen Angaben bis einschließlich Samstag an. Weitere Details zum genauen Fahrplan und betroffenen Linien wurden in den vorliegenden Berichten nicht genannt. Pendler und Reisende sind angehalten, sich vor Fahrtantritt über den Status ihrer Verbindungen zu informieren. Die Auswirkungen auf den nationalen Bahnverkehr hängen stark von der Beteiligung der Beschäftigten ab. Es bleibt unklar, ob in den kommenden Tagen noch Verhandlungen zur Abwendung des Streiks stattfinden werden.",
+    "r": "Die angekündigten Streiks bei der portugiesischen Bahn CP beeinträchtigen den Personenverkehr landesweit über mehrere Tage. Dies führt zu erheblichen Planungsunsicherheiten für Pendler und Reisende im betroffenen Zeitraum von Donnerstag bis Samstag.",
     "srcs": [
       {
-        "name": "RTP Notícias",
+        "name": "RTP Economia",
         "url": "https://www.rtp.pt/noticias/economia/cp-alerta-para-perturbacoes-na-circulacao-a-partir-de-quinta-feira-devido-a-greve_n1774702",
         "date": "2026-10-27T13:37:35.000Z"
       },
@@ -715,15 +1469,15 @@
       }
     ],
     "url": "https://www.rtp.pt/noticias/economia/cp-alerta-para-perturbacoes-na-circulacao-a-partir-de-quinta-feira-devido-a-greve_n1774702",
-    "agree": "Die Quellen sind sich einig, dass die CP vor Störungen im Zugverkehr ab Donnerstag wegen eines Streiks warnt.",
+    "agree": "Beide Quellen stimmen überein, dass die CP vor Zugstörungen ab Donnerstag wegen eines Streiks der Revisoren und Ticketverkäufer warnt.",
     "diff": [
       {
-        "name": "RTP Notícias",
-        "note": "nennt konkret, dass der Streik von Donnerstag bis Samstag dauert und von Revisoren sowie Schaltermitarbeitern getragen wird"
+        "name": "Google News Portugal",
+        "note": "Verweist zusätzlich auf den Correio da Manhã als Ursprungsquelle der Meldung."
       },
       {
-        "name": "Google News Portugal",
-        "note": "verweist zusätzlich auf den Ursprung der Meldung beim Correio da Manhã"
+        "name": "RTP Economia",
+        "note": "Nennt den genauen Zeitraum des Streiks von Donnerstag bis Samstag."
       }
     ],
     "chg": "",
@@ -777,9 +1531,9 @@
     "st": "SN",
     "city": "",
     "t": "NSU-Terroristin Beate Zschäpe bleibt mindestens bis 2035 in Haft",
-    "s": "Das Oberlandesgericht München hat eine vorzeitige Entlassung der verurteilten Rechtsterroristin Beate Zschäpe abgelehnt. Sie muss damit mindestens 24 Jahre Haft verbüßen. Eine mögliche früheste Entlassung steht frühestens im Jahr 2035 an.",
-    "m": "Das OLG München hat den Antrag auf eine vorzeitige Haftentlassung von Beate Zschäpe offiziell abgelehnt. Die wegen der NSU-Mordserie zu lebenslanger Haft verurteilte Terroristin muss demnach mindestens 24 Jahre im Gefängnis verbringen. Damit ist vor dem Jahr 2035 keine Entlassung auf Bewährung möglich. Das Verfahren betrifft die Aufarbeitung der Taten des Nationalsozialistischen Untergrunds. Weitere Details zu den genauen Gründen der Ablehnung wurden zunächst nicht bekannt. Offen ist, wie sich die Entscheidung auf eventuelle künftige Haftprüfungen auswirkt.",
-    "r": "Die Entscheidung des OLG München markiert einen wichtigen Schritt in der juristischen Aufarbeitung des NSU-Komplexes und bestimmt die Mindestdauer der Inhaftierung einer der Haupttäterinnen.",
+    "s": "Das Oberlandesgericht München hat eine vorzeitige Haftentlassung von Beate Zschäpe abgelehnt. Die wegen der NSU-Mordserie verurteilte Rechtsterroristin muss demnach weiterhin im Gefängnis bleiben. Eine Entlassung kommt frühestens im Jahr 2035 in Betracht, da sie bis dahin mindestens 24 Jahre verbüßen muss.",
+    "m": "Das OLG München traf die Entscheidung über die Bewährung und lehnte eine vorzeitige Entlassung der Rechtsterroristin ab. Beate Zschäpe verbüßt eine lebenslange Freiheitsstrafe für ihre Beteiligung an den Morden des Nationalsozialistischen Untergrunds. Laut gerichtlicher Festlegung muss sie mindestens 24 Jahre der Strafe absitzen, womit der früheste Zeitpunkt für eine Entlassung im Jahr 2035 liegt. Vor Gericht hatte sie zuvor gestanden, von den rechtsextremen Morden gewusst zu haben. Die Beteiligten und das Gericht bestätigten diese Mindesthaftzeit, wodurch sie vorerst in Haft bleibt. Weitere Details zu den genauen Bedingungen der Haft oder rechtlichen Schritten wurden von den Quellen nicht genannt.",
+    "r": "Die Entscheidung über die Haftdauer einer der prominentesten rechtsextremen Terroristinnen Deutschlands hat hohe rechtliche und gesellschaftliche Relevanz. Sie verdeutlicht die Konsequenzen einer lebenslangen Freiheitsstrafe mit besonderer Schwere der Schuld.",
     "srcs": [
       {
         "name": "DW Deutsch",
@@ -798,7 +1552,7 @@
       }
     ],
     "url": "https://www.dw.com/de/nsu-terroristin-zschäpe-bleibt-bis-mindestens-2035-in-haft/a-79776152?maca=de-rss-de-all-1119-xml-mrss",
-    "agree": "Die Quellen sind sich einig, dass Beate Zschäpe mindestens bis 2035 in Haft bleibt und das OLG München dies so entschieden hat.",
+    "agree": "Die Quellen sind sich einig, dass die NSU-Terroristin Beate Zschäpe mindestens bis 2035 in Haft bleiben muss und das OLG München eine vorzeitige Entlassung abgelehnt hat.",
     "diff": [
       {
         "name": "ZDF heute",
@@ -818,10 +1572,10 @@
     "p": 2,
     "st": "",
     "city": "",
-    "t": "Kylian Mbappé entschuldigt sich für Äußerung über Mao Zedong",
-    "s": "Der französische Fußballspieler Kylian Mbappé hat sich für eine umstrittene Äußerung über den ehemaligen chinesischen Führer Mao Zedong entschuldigt. Er bezeichnete seine Wortwahl nach heftigen Gegenreaktionen in China als unbedacht. Die Aussagen fielen im Rahmen eines Interviews über Internet-Memes.",
-    "m": "Kylian Mbappé stand wegen einer Bemerkung über den früheren chinesischen Revolutionsführer in der Kritik, den er in einem Interview zu Memes als Diktator bezeichnet hatte. Nach massiven Reaktionen und Gegenreaktionen in China lenkte der Spieler nun ein und entschuldigte sich öffentlich für das seiner Ansicht nach unbedachte Wort. Das genaue Medium und der Zeitpunkt des ursprünglichen Interviews werden in den Berichten nicht näher spezifiziert. Auch über konkrete diplomatische oder sportliche Konsequenzen für den Stürmer ist bislang nichts bekannt. Die Vorfälle verdeutlichen jedoch die Sensibilität von Aussagen über historische Persönlichkeiten in bestimmten internationalen Märkten.",
-    "r": "Die Entschuldigung eines international bekannten Sportlers für politische Äußerungen zeigt die Relevanz von Außendarstellung und kultureller Sensibilität im globalen Profisport. Solche Vorfälle können weitreichende Reaktionen in wichtigen Zielmärkten wie China auslösen.",
+    "t": "Kylian Mbappé entschuldigt sich für umstrittene Mao-Äußerung",
+    "s": "Der französische Fußballspieler Kylian Mbappé hat sich für eine umstrittene Äußerung über den ehemaligen chinesischen Führer Mao Zedong entschuldigt. Vorausgehend hatte es in China heftigen Gegenwind und einen entsprechenden Backlash gegeben. Mbappé hatte den historischen Politiker in einem Interview über Internet-Memes als Diktator bezeichnet.",
+    "m": "Der französische Star-Stürmer Kylian Mbappé steht nach einer Äußerung über den früheren chinesischen Machthaber Mao Zedong in der Kritik und hat sich inzwischen dafür entschuldigt. Auslöser war ein Interview, in dem es thematisch um sogenannte Memes ging. Darin hatte Mbappé Mao als Diktator bezeichnet, was in China zu heftigen Reaktionen und starkem Gegenwind führte. Die BBC berichtete über den Vorfall und die darauf folgende Entschuldigung des Spielers für seine als unbedacht eingestufte Bemerkung. Weitere Details zum genauen Ablauf des Interviews oder offiziellen Reaktionen chinesischer Stellen nennen die vorliegenden Berichte nicht.",
+    "r": "Die Äußerungen prominenter Sportler über historische Persönlichkeiten können internationale diplomatische und gesellschaftliche Reaktionen hervorrufen. Im Fall von Kylian Mbappé führte die Wortwahl zu spürbarem Gegenwind in China und machte eine öffentliche Entschuldigung erforderlich.",
     "srcs": [
       {
         "name": "BBC World",
@@ -835,11 +1589,11 @@
       }
     ],
     "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
-    "agree": "Beide Quellen stimmen überein, dass sich Kylian Mbappé wegen einer unbedachten Äußerung über Mao Zedong nach Gegenreaktionen in China entschuldigt hat.",
+    "agree": "Beide Quellen stimmen überein, dass sich Kylian Mbappé für eine unbedachte Mao-Äußerung nach einem Backlash in China entschuldigt hat.",
     "diff": [
       {
         "name": "Google News World",
-        "note": "Verweist lediglich auf den Artikel der BBC mit exakt derselben Überschrift."
+        "note": "Verweist lediglich auf den Artikel der BBC mit identischer Schlagzeile."
       }
     ],
     "chg": "",
@@ -1088,56 +1842,6 @@
     "independent": 2
   },
   {
-    "id": "story-3e974d56a0a034ef",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-27T13:01:41.000Z",
-    "p": 4,
-    "st": "NI",
-    "city": "",
-    "t": "Auto fährt in Menschengruppe in Neustadt am Rübenberge",
-    "s": "In Neustadt am Rübenberge ist am späten Montagabend ein Auto in eine Menschengruppe gefahren und hat mindestens vier bis fünf Personen verletzt. Die Polizei gab Schüsse auf das flüchtende Fahrzeug ab. Eine Amokfahrt wird von den Behörden ausgeschlossen.",
-    "m": "Der Vorfall ereignete sich am späten Montagabend in Neustadt am Rübenberge, als ein Auto gezielt in eine Menschengruppe fuhr. Dabei wurden vier bis fünf Personen verletzt. Im Zuge des Einsatzes gaben Polizeibeamte Schüsse auf das Fluchtfahrzeug ab. Dem Fahrer gelang die Flucht zu Fuß. Die Ermittler trafen kurz darauf mehrere Männer am Wohnort des Halters des Tatautos an. Nach Einschätzung der Polizei gibt es einen direkten Zusammenhang zur Clankriminalität. Die Ermittler gehen davon aus, dass sich Täter und Opfer kannten und aus polizeibekannten Clanfamilien stammen. Eine Amoktat schließen die Behörden nach aktuellem Stand aus.",
-    "r": "Der Vorfall ist von sicherheitspolitischer Relevanz, da er im Kontext der organisierten Clankriminalität steht. Die Tat wirft Fragen zur Sicherheit und zu gewalttätigen Konflikten zwischen rivalisierenden Gruppen auf.",
-    "srcs": [
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/panorama/neustadt-am-ruebenberge-auto-faehrt-in-menschengruppe-polizei-schiesst-auf-wagen-T77ELPWWMZABFGMURSX3NY4S3I.html",
-        "date": "2026-10-27T13:01:41.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Niedersachsen",
-        "url": "https://www.tagesschau.de/inland/regional/niedersachsen/auto-steuert-in-menschenmenge-polizei-nimmt-drei-verdaechtige-fest,neustadt-158.html",
-        "date": "2026-10-27T11:23:49.000Z"
-      },
-      {
-        "name": "NDR Niedersachsen",
-        "url": "https://www.ndr.de/nachrichten/niedersachsen/hannover_weser-leinegebiet/neustadt-am-ruebenberge-auto-faehrt-in-menschengruppe,neustadt-182.html",
-        "date": "2026-10-27T06:42:22.000Z"
-      }
-    ],
-    "url": "https://www.rnd.de/panorama/neustadt-am-ruebenberge-auto-faehrt-in-menschengruppe-polizei-schiesst-auf-wagen-T77ELPWWMZABFGMURSX3NY4S3I.html",
-    "agree": "Alle Quellen stimmen überein, dass ein Auto in Neustadt am Rübenberge in eine Menschengruppe gefahren ist, dabei mehrere Menschen verletzt wurden und ein Bezug zur Clankriminalität vermutet wird.",
-    "diff": [
-      {
-        "name": "RND",
-        "note": "Berichtet, dass die Polizei auf den Wagen geschossen hat und Täter sowie Opfer vermutlich aus polizeibekannten Clanfamilien stammen und sich kannten."
-      },
-      {
-        "name": "Tagesschau Regional Niedersachsen",
-        "note": "Erwähnt, dass Beamte die Männer am Wohnort des Halters des Tat-Autos angetroffen haben."
-      },
-      {
-        "name": "NDR Niedersachsen",
-        "note": "Präzisiert, dass vier bis fünf Menschen verletzt wurden und der Fahrer zu Fuß flüchten konnte."
-      }
-    ],
-    "chg": "",
-    "independent": 3
-  },
-  {
     "id": "story-7623ee06e81497bf",
     "c": "INT",
     "o": "PT",
@@ -1226,9 +1930,9 @@
     "st": "BW",
     "city": "",
     "t": "Ermittlungen nach tödlichem Lkw-Unfall in Schramberg eingestellt",
-    "s": "In Schramberg wurden eine Mutter und ihr Sohn von einem Lastwagen erfasst und tödlich verletzt. Nun hat die Staatsanwaltschaft die Ermittlungsverfahren eingestellt. Ein Sachverständigengutachten ergab, dass dem Lastwagenfahrer kein Vorwurf gemacht werden kann.",
-    "m": "Der tragische Unfall in Schramberg, bei dem eine Mutter und ihr Sohn ums Leben kamen, hat zu rechtlichen Konsequenzen geführt. Die zuständige Staatsanwaltschaft leitete nach dem Unglück Ermittlungen ein, um den genauen Hergang und mögliche Verantwortlichkeiten zu klären. Zur Aufklärung wurde ein detailliertes Verkehrsunfall- und technisches Gutachten in Auftrag gegeben. Die Auswertung dieses Gutachtens ergab nun, dass dem Lastwagenfahrer kein strafrechtlich relevanter Fehler nachweisbar ist. Folglich wurden die Ermittlungsverfahren im Zusammenhang mit dem Unfall offiziell eingestellt. Weitere rechtliche Schritte sind nach aktuellem Stand nicht vorgesehen, während der Fall abgeschlossen ist.",
-    "r": "Die Einstellung des Verfahrens beendet die strafrechtliche Aufarbeitung eines tödlichen Verkehrsunfalls. Die gerichtliche Klärung der Schuldfrage ist für die beteiligten Parteien und die Öffentlichkeit von Bedeutung.",
+    "s": "Nach einem schweren Unfall in Schramberg, bei dem eine Mutter und ihr Sohn von einem Lkw erfasst und getötet wurden, hat die Staatsanwaltschaft die Ermittlungen eingestellt. Ein unabhängiges Gutachten ergab, dass dem Lastwagenfahrer kein rechtlicher oder fahrlässiger Fehler nachweisbar ist. Das Verfahren gegen den Fahrer wurde folglich beendet.",
+    "m": "Der tragische Unfall ereignete sich in Schramberg, als eine Mutter und ihr Sohn im Verkehrsraum von einem Lastkraftwagen erfasst und tödlich verletzt wurden. Um die genaue Ursache und den Hergang zu klären, gab die zuständige Staatsanwaltschaft ein umfassendes technisches und verkehrsanalytisches Gutachten in Auftrag. Die Auswertung dieses Gutachtens ergab nun, dass der Lkw-Fahrer weder die Verkehrsregeln verletzte noch in anderer Weise schuldhaft gehandelt hat. Aufgrund dieser Feststellungen sah die Staatsanwaltschaft keine Grundlage für eine Anklageerhebung, weshalb das Ermittlungsverfahren offiziell eingestellt wurde. Damit sind strafrechtliche Konsequenzen für den Fahrer vorerst ausgeschlossen, während der Fall bei den Hinterbliebenen tiefe Trauer hinterlässt. Offen bleiben im Rahmen der Berichterstattung weitergehende Details zur genauen Örtlichkeit im Stadtgebiet von Schramberg oder zu den genauen Umständen des Zusammenstoßes.",
+    "r": "Die Einstellung des Ermittlungsverfahrens beendet die strafrechtliche Aufarbeitung dieses tödlichen Verkehrsunfalls mit zwei Opfern. Der Fall verdeutlicht die rechtlichen Konsequenzen nach Verkehrsunfällen mit Lkw und den Stellenwert von amtlichen Unfallgutachten.",
     "srcs": [
       {
         "name": "SWR Aktuell Baden-Württemberg",
@@ -1242,7 +1946,7 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/freiburg/ermittlungen-gegen-lastwagenfahrer-nach-toedlichem-unfall-in-schramberg-eingestellt-100.html",
-    "agree": "Die Quellen stimmen überein, dass in Schramberg eine Mutter und ihr Sohn von einem Lkw erfasst und getötet wurden sowie dass die Ermittlungen nach einem Gutachten eingestellt wurden.",
+    "agree": "Beide Quellen stimmen darin überein, dass in Schramberg eine Mutter und ihr Sohn bei einem Lkw-Unfall getötet wurden und die Staatsanwaltschaft das Ermittlungsverfahren nach einem Gutachten ohne Nachweis von Fahrfehler eingestellt hat.",
     "diff": [],
     "chg": "",
     "independent": 2
@@ -1445,6 +2149,47 @@
     "independent": 2
   },
   {
+    "id": "story-fdad22e4639a5b5d",
+    "c": "INT",
+    "o": "UK",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-27T10:17:36.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Bedeutung der israelischen Wahlen für Gaza und die Welt",
+    "s": "In Israel finden Wahlen statt, deren Ausgang weitreichende Folgen für den Gazastreifen und die internationale Gemeinschaft haben könnte. Korrespondenten berichten direkt aus Jerusalem über die Stimmabgabe. Die politischen Entscheidungen werden genau beobachtet, um künftige Entwicklungen in der Region einzuschätzen.",
+    "m": "Die aktuellen Wahlen in Israel stehen im Fokus der internationalen Berichterstattung. Aus Jerusalem wird über den Verlauf der Stimmabgabe und die geöffneten Wahllokale berichtet. Beobachter und Diplomaten analysieren, welche Auswirkungen das Wahlergebnis auf den anhaltenden Konflikt mit dem Gazastreifen haben wird. Zudem steht die Frage im Raum, wie sich eine neue Regierungsbildung auf die diplomatischen Beziehungen zur restlichen Welt auswirkt. Konkrete Ergebnisse liegen zum gegenwärtigen Zeitpunkt noch nicht vor, da die Stimmabgabe läuft. Die Berichterstattung konzentriert sich auf die Einschätzung diplomatischer Korrespondenten vor Ort.",
+    "r": "Die Wahlen in Israel sind von internationaler Relevanz, da sie direkten Einfluss auf die Politik bezüglich des Gazastreifens und auf globale diplomatische Beziehungen haben.",
+    "srcs": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-27T10:17:36.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NZFJwOEozQUZUejVNNkRjSVJtbi14UEktRUF6bk1UUHFfZTV3NkxiZnlUZTJ0MTVNc1kzNUs1SDN6VEx0OG51LVFfMHl4YXZ0NFJTMjFwcVM?oc=5",
+        "date": "2026-10-27T10:17:36.000Z"
+      }
+    ],
+    "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
+    "agree": "Beide Quellen stimmen überein, dass es sich um Berichterstattung der BBC über die israelischen Wahlen und deren Bedeutung für Gaza und die Welt handelt.",
+    "diff": [
+      {
+        "name": "BBC World",
+        "note": "Enthält die Information, dass der diplomatische Korrespondent James Landale direkt aus Jerusalem von der Stimmabgabe berichtet."
+      },
+      {
+        "name": "Google News World",
+        "note": "Verweist lediglich auf den Artikel der BBC ohne zusätzliche Detailinformationen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-b2fe412c2cc93895",
     "c": "INT",
     "o": "DE",
@@ -1526,16 +2271,16 @@
     "id": "story-afb5e13a31829883",
     "c": "INT",
     "o": "INT",
-    "k": "umwelt",
+    "k": "panorama",
     "lang": "de",
     "d": "2026-10-27T07:48:00.000Z",
     "p": 2,
     "st": "",
     "city": "",
     "t": "Schmelzende Gletscher in den Dolomiten geben Weltkriegsmunition frei",
-    "s": "In den italienischen Dolomiten sind diesen Sommer infolge stark schmelzender Gletscher zahlreiche Sprengkörper aus dem Ersten Weltkrieg zum Vorschein gekommen. Wanderer hatten die historischen Funde gemeldet. Die italienische Armee hat daraufhin rund 250 Explosivkörper geborgen und entschärft.",
-    "m": "Die Entdeckung umfasst etwa 250 unexplodierte Bomben, darunter italienische Artilleriegranaten und französische Mörserbomben, die seit mehr als 100 Jahren im Eis eingeschlossen waren. Nach Hinweisen von Wanderern rückte die Julia-Alpinbrigade der italienischen Armee aus, um das gefährliche Material zu bergen und fachgerecht zu entschärfen. Der Vorfall verdeutlicht die sichtbaren Auswirkungen des Klimawandels und der Gletscherschmelze in den Alpen, durch die immer wieder historische Funde und potenziell gefährliche Altlasten freigelegt werden. Offiziellen Angaben zufolge verlief der Einsatz erfolgreich, dennoch bleibt die Region durch den fort schreitenden Gletscherrückgang im Fokus.",
-    "r": "Der Fund und die Entschärfung von historischer Kriegsmunition in den Alpen zeigen die physischen Folgen des Klimawandels und der Gletscherschmelze. Solche Entdeckungen bergen Sicherheitsrisiken für Wanderer und erfordern Großeinsätze des Militärs.",
+    "s": "In den italienischen Dolomiten sind diesen Sommer durch das Abschmelzen von Gletschern zahlreiche Sprengkörper aus dem Ersten Weltkrieg zum Vorschein gekommen. Wanderer hatten die Munition entdeckt, woraufhin die italienische Armee aktiv wurde. Insgesamt wurden rund 250 Explosivkörper geborgen und entschärft, die dort über ein Jahrhundert lang im Eis eingeschlossen waren.",
+    "m": "Die Entdeckung umfasst etwa 250 Sprengkörper, darunter italienische Artilleriegranaten und französische Mörserbomben, die über 100 Jahre lang im Gletschereis konserviert wurden. Aufmerksame Wanderer machten den Fund und alarmierten die Behörden, nachdem der rapide Gletscherrückgang in den Dolomiten die Munition freigelegt hatte. Die Bergung und fachgerechte Entschärfung der gefährlichen Altlasten wurde von der Julia-Alpenbrigade der italienischen Armee durchgeführt. Solche historischen Funde verdeutlichen zunehmend die Folgen des Klimawandels für alpine Regionen, in denen das schmelzende Eis immer öfter Gefahren aus vergangenen Konflikten freigibt. Der Vorfall unterstreicht die anhaltenden Risiken durch unexplodierte Munition in den europäischen Hochgebirgen. Die Armee hat die Fundstücke inzwischen erfolgreich gesichert, um Gefahren für Wanderer und den Bergtourismus abzuwenden.",
+    "r": "Das Auftauchen von historischer Kriegsmunition in schmelzenden Gletschern verdeutlicht konkrete Begleiterscheinungen des Gletscherrückgangs in den Alpen. Die erfolgreiche Bergung durch das Militär zeigt, wie Behörden auf solche neuentstandenen Gefahren in touristischen Wandergebieten reagieren müssen.",
     "srcs": [
       {
         "name": "Google News World",
@@ -1549,11 +2294,11 @@
       }
     ],
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbWE0R3RJN2NTY0JaOEZ4dEpfY3hBTkMtbXRCN2UyUEZHaG1MZVQxNWFiNHh0UEtqb0RLS2pseTdfTEhKajVVZzJlSVlUdmE3S0ZFSE8wcFBzbzBVSGZDMmUtYWVDeU9LTm9jdXRLTXhFYkZkNHU4YWZrZXpkUDI1U3BJcDZzWHBYSjFaVjU2RGdZTE9mQUFlbzA5cktDaGt3ZGpSMVZqNA?oc=5",
-    "agree": "",
+    "agree": "Beide Quellen stimmen darin überein, dass schmelzende Gletscher in den Dolomiten Munition aus dem Ersten Weltkrieg freigelegt haben, die von der italienischen Armee geborgen wurde.",
     "diff": [
       {
         "name": "Guardian World",
-        "note": "Berichtet im Detail, dass die italienische Armee 250 Sprengkörper nach Hinweisen von Wanderern entfernte und entschärfte, darunter italienische Artilleriegranaten und französische Mörserbomben, die über 100 Jahre im Eis lagen."
+        "note": "Nennt konkrete Details wie 250 entfernte und entschärfte Explosivkörper, darunter italienische Artilleriegranaten und französische Mörserbomben, die Entdeckung durch Wanderer sowie den Einsatz der Julia-Alpenbrigade."
       }
     ],
     "chg": "",
@@ -1707,9 +2452,9 @@
     "st": "BW",
     "city": "",
     "t": "Bundesraumfahrtministerin Bär besucht Raumfahrtstandort Baden-Württemberg",
-    "s": "Bundesraumfahrtministerin Bär besucht das Raumfahrtunternehmen TESAT in Backnang sowie die Universität Stuttgart. Der Besuch unterstreicht die wachsende Bedeutung Baden-Württembergs als zentraler Raumfahrtstandort in Deutschland. Ziel der Reise ist es, sich vor Ort ein Bild von den aktuellen Entwicklungen und Projekten zu machen.",
-    "m": "Im Rahmen ihrer Reise nach Baden-Württemberg informiert sich Bundesraumfahrtministerin Bär über die Leistungsfähigkeit der regionalen Raumfahrtindustrie und Forschung. Erste Stationen sind das auf Satellitenkommunikation spezialisierte Unternehmen TESAT in Backnang sowie die Universität Stuttgart, die maßgeblich an Raumfahrtprojekten und der Ausbildung von Fachkräften beteiligt ist. Das Bundesland hat sich in den vergangenen Jahren zu einem bedeutenden Zentrum für Raumfahrttechnologien entwickelt. Der Austausch soll auch politische und wirtschaftliche Rahmenbedingungen für die Branche stärken.",
-    "r": "Der Besuch einer Bundesministerin in regionalen Raumfahrtbetrieben verdeutlicht die politische und wirtschaftliche Relevanz des Standorts Baden-Württemberg für die nationale Luft- und Raumfahrtstrategie.",
+    "s": "Bundesraumfahrtministerin Bär reist nach Baden-Württemberg, um das Raumfahrtunternehmen TESAT in Backnang sowie die Universität Stuttgart zu besuchen. Der Grund für die Visite ist die wachsende Bedeutung des Bundeslandes als zentraler Raumfahrtstandort. Das Land positioniert sich damit zunehmend als Vorreiter in der deutschen Raumfahrtbranche.",
+    "m": "Im Rahmen ihres Arbeitsbesuchs in Baden-Württemberg informiert sich Bundesraumfahrtministerin Bär über aktuelle Projekte und technologische Entwicklungen vor Ort. Die Stationen ihrer Reise umfassen das spezialisierte Raumfahrtunternehmen TESAT in Backnang sowie die Universität Stuttgart, die beide maßgeblich zur Stärke der Region in diesem Sektor beitragen. Der Besuch unterstreicht die strategische Relevanz des Standorts für die nationale Raumfahrtpolitik und soll den Austausch zwischen Politik und Forschung beziehungsweise Industrie vertiefen. Offen bleibt bislang, welche konkreten Förderzusagen oder zukünftigen Kooperationen im Detail besprochen wurden.",
+    "r": "Der Besuch einer Bundesministerin bei Schlüsselakteuren der Raumfahrt unterstreicht die politische und wirtschaftliche Relevanz des Standorts Baden-Württemberg. Solche Visiten geben Aufschluss über die nationale Gewichtung regionaler Forschungs- und Industriezentren.",
     "srcs": [
       {
         "name": "Tagesschau Regional Baden-Württemberg",
@@ -1723,15 +2468,15 @@
       }
     ],
     "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-neuer-vorreiter-so-geht-baden-wuerttemberg-bei-raumfahrt-voran-100.html",
-    "agree": "Die Quellen sind sich einig, dass Bundesraumfahrtministerin Bär das Unternehmen TESAT in Backnang und die Universität Stuttgart besucht, weil Baden-Württemberg als Raumfahrtstandort an Bedeutung gewonnen hat.",
+    "agree": "Die Quellen stimmen überein, dass Bundesraumfahrtministerin Bär das Raumfahrtunternehmen TESAT in Backnang und die Universität Stuttgart besucht, da Baden-Württemberg als Raumfahrtstandort an Bedeutung gewonnen hat.",
     "diff": [
       {
         "name": "Tagesschau Regional Baden-Württemberg",
-        "note": "Betitelt den Beitrag als 'Neuer Vorreiter: So geht Baden-Württemberg bei Raumfahrt voran'."
+        "note": "Bezeichnet das Bundesland im Titel als 'Neuer Vorreiter: So geht Baden-Württemberg bei Raumfahrt voran'."
       },
       {
         "name": "SWR Aktuell Baden-Württemberg",
-        "note": "Betitelt den Beitrag leicht abgewandelt als 'Neuer Vorreiter: Baden-Württemberg geht bei Raumfahrt voran'."
+        "note": "Wählt für den Titel die Formulierung 'Neuer Vorreiter: Baden-Württemberg geht bei Raumfahrt voran'."
       }
     ],
     "chg": "",
@@ -15605,795 +16350,6 @@
         "note": "Bietet lediglich eine kurze Überschrift und einen HTML-Snippet-Link ohne zusätzlichen Text."
       }
     ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-3f7d7074a14a09cd",
-    "c": "INT",
-    "o": "PT",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-22T00:36:09.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Demonstranten in Lissabon beschließen Übernachtung auf dem Rossio-Platz",
-    "s": "In Lissabon haben Teilnehmer einer Versammlung am Mittwoch trotz Warnungen der Polizei beschlossen, auf dem Rossio-Platz zu übernachten. Eine entsprechende Initiative wurde in einer Abstimmung der dortigen Volksversammlung angenommen. Die genauen Hintergründe und Konsequenzen der Aktion sind Teil der laufenden Berichterstattung.",
-    "m": "Die Teilnehmer des Protestlagers im Zentrum von Lissabon hielten am Mittwoch eine Volksversammlung ab, bei der über das weitere Vorgehen beraten wurde. Dabei stimmte die Mehrheit für den Vorschlag, die Proteste auf dem Rossio-Platz durch eine Übernachtung fortzusetzen. Dies geschah ungeachtet expliziter Warnungen und Hinweise der zuständigen Sicherheitsbehörde PSP. Reporter begleiten die Entwicklungen vor Ort, während das Camp weiter besteht. Es gibt bislang keine Berichte über unmittelbare polizeiliche Interventionen im Zuge dieser Entscheidung. Weitere Details zum Ablauf der Versammlung und den Reaktionen der Behörden stehen noch aus.",
-    "r": "Die Entscheidung von Demonstranten, sich über Polizeiwarnungen hinwegzusetzen und im Zentrum von Lissabon zu übernachten, betrifft die öffentliche Sicherheit und Versammlungsfreiheit in der portugiesischen Hauptstadt.",
-    "srcs": [
-      {
-        "name": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/pais/manifestantes-decidiram-pernoitar-no-rossio-esta-quarta-feira-apesar-dos-alertas-da-psp_e1773164",
-        "date": "2026-10-22T00:36:09.000Z"
-      },
-      {
-        "name": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdUhIOER1Ung3R3ZQU3FmZjhxR0RhSWJzb2hNZ1ZEc05mdjhEdk1TNnkyM0Z4WjRFUXRPaEhXczBlclkxTzJ1aFVNcEY5MUVMdTFxV3NnWTQzM2x6YnVncjVPZFktb1llZ21HblJmdzQxQ3RqQWRodmp1Q2lIVXhqUGRqMllHYWxGcVhiMTR2YkNwVHhvNGMyeFV1NkZTYTlIalVwR1M3Z1Bud1JYVTlnN0ZHNEk0djllUmRDYnVUX2p6anlPaHlBUA?oc=5",
-        "date": "2026-10-21T21:19:53.000Z"
-      }
-    ],
-    "url": "https://www.rtp.pt/noticias/pais/manifestantes-decidiram-pernoitar-no-rossio-esta-quarta-feira-apesar-dos-alertas-da-psp_e1773164",
-    "agree": "Beide Quellen stimmen darin überein, dass Demonstranten in Lissabon am Mittwoch trotz PSP-Warnungen die Übernachtung auf dem Rossio-Platz beschlossen haben.",
-    "diff": [
-      {
-        "name": "RTP Notícias",
-        "note": "Berichtet ausführlicher über den Beschluss der Volksversammlung des Acampamento in Lissabon, auf dem Rossio zu pernoitieren."
-      },
-      {
-        "name": "Google News Portugal",
-        "note": "Teilt lediglich die gleiche Schlagzeile und verweist per Link auf den Artikel von RTP."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-53884180cdbf3839",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-22T00:01:00.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "The Masked Singer« bei ProSieben: Vincent Gross gewinnt als Stier das Finale - Spiegel",
-    "s": "The Masked Singer« bei ProSieben: Vincent Gross gewinnt als Stier das Finale Spiegel <a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNb3gwcHgzYm51ZGhMX0R2LS15aTVfbWtRVEg5VkhqUHZ0VTQtdVBEdzlBbVlSaC1FaFNSbk8zeU1aSVVGWHhRbzJDZWNlNmVzT3NFdjJSdExoaHVHejZIRGtqNmFMS",
-    "m": "The Masked Singer« bei ProSieben: Vincent Gross gewinnt als Stier das Finale Spiegel <a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNb3gwcHgzYm51ZGhMX0R2LS15aTVfbWtRVEg5VkhqUHZ0VTQtdVBEdzlBbVlSaC1FaFNSbk8zeU1aSVVGWHhRbzJDZWNlNmVzT3NFdjJSdExoaHVHejZIRGtqNmFMS Er war als Stier mit wallender Mähne und goldenen Hörnern aufgetreten – und hat jetzt bei »The Masked Singer« gesiegt: Schlagersänger Vincent Gross. Damit ist auch klar, wer hinter den anderen vier Finalmasken steckte.",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTDdlZ1o5UUlOZllDdXRnam5SQnJzSG1kOVF2OVVPQVp0OWJkcWRUeGI1aFhrRWloUExSSlRTS2JwYWxFMzlFdmZERnpWcWhIQVhnaTBpRGhYT29XWXdDV1M5REpfMFlUM0pMNTNPcUlKaDg0VXNoNlA5RDlSbWdFNm82cGxIRkd5eEdUN3lPaGRvRkRTU0tzVlZNcmMzVVoyd3NiZjlveU5JclNpTlNhUUI2Umw2aDhLSWd4bUExV3U0N2JMRnBpWmdwcFg5dnpaZl9DNDlZTXVPWUU?oc=5",
-        "date": "2026-10-22T00:01:00.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/kultur/the-masked-singer-bei-prosieben-vincent-gross-gewinnt-als-stier-das-finale-a-3bf6bf17-4b47-486e-a892-7e25e90b33f7#ref=rss",
-        "date": "2026-10-22T00:01:00.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTDdlZ1o5UUlOZllDdXRnam5SQnJzSG1kOVF2OVVPQVp0OWJkcWRUeGI1aFhrRWloUExSSlRTS2JwYWxFMzlFdmZERnpWcWhIQVhnaTBpRGhYT29XWXdDV1M5REpfMFlUM0pMNTNPcUlKaDg0VXNoNlA5RDlSbWdFNm82cGxIRkd5eEdUN3lPaGRvRkRTU0tzVlZNcmMzVVoyd3NiZjlveU5JclNpTlNhUUI2Umw2aDhLSWd4bUExV3U0N2JMRnBpWmdwcFg5dnpaZl9DNDlZTXVPWUU?oc=5",
-    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-e70dc687793abf3e",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-21T23:35:26.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "YouTuber Marcant erhält den Medienpreis Blauer Panther",
-    "s": "Der YouTuber Marcant ist mit dem Medienpreis Blauer Panther in der Kategorie der beliebtesten Social-Media-Persönlichkeit ausgezeichnet worden. Er ist für seine politische Aufklärungsarbeit bekannt, bei der er mit Argumenten versucht, Rechte auf der Straße zu stellen. Die Verleihung würdigt seinen Einsatz im Bereich Social Media.",
-    "m": "Der Content Creator Marcant wurde für seine Arbeit auf Social Media ausgezeichnet und erhält den renommierten Medienpreis Blauer Panther als beliebteste Social-Media-Persönlichkeit. Bekannt geworden ist er vor allem durch Videos, in denen er versucht, Rechte und Anhänger der AfD auf der Straße argumentativ zu stellen. Diese Form der politischen Aufklärungsarbeit und Auseinandersetzung brachte ihm nun die öffentliche Anerkennung in Form des Preises ein. Der Blaue Panther zeichnet herausragende Leistungen im Bereich Fernsehen, Streaming und Social Media aus. Nähere Details zur Verleihung oder Reaktionen von beteiligten Akteuren gehen aus den vorliegenden Berichten nicht hervor.",
-    "r": "Die Auszeichnung einer bekannten Persönlichkeit im Bereich der politischen Auseinandersetzung auf der Straße mit einem etablierten Medienpreis ist von gesellschaftlichem und medienpolitischem Interesse.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPM1E4ZzcybFdkVWhqV1ZMSlVnUE9KdVZVUTBSbmxPMkttV0ZiQUVFaGdfc1BhMXdORDQwVE9HTkRRb0laSkRJalUya1ZtTFQ2ZFVvTFZ2YlBJZkpYVGtIc1IycUVjN2MzRE5PeGl6djJpRTRUTTJMWEVKUVJDX2pER3ViQWxmMlFtVkJzbmpQYUhqTmwtZjNvTTh0bUtyNlpMRWJyU1RTQXZYNXltbU9nTlBlZF9wQkZCSnA2d1lkME8wcVZzWDZ6ZXh6c3BLTklpUmxDaGJlREFmb2U4MTNHTUtob0d3c21E?oc=5",
-        "date": "2026-10-21T23:35:26.000Z"
-      },
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/vermischtes/article6ad9444f2c40700de080134b/blauer-panther-afd-jaeger-als-beliebteste-social-media-persoenlichkeit-ausgezeichnet.html",
-        "date": "2026-10-21T23:21:34.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPM1E4ZzcybFdkVWhqV1ZMSlVnUE9KdVZVUTBSbmxPMkttV0ZiQUVFaGdfc1BhMXdORDQwVE9HTkRRb0laSkRJalUya1ZtTFQ2ZFVvTFZ2YlBJZkpYVGtIc1IycUVjN2MzRE5PeGl6djJpRTRUTTJMWEVKUVJDX2pER3ViQWxmMlFtVkJzbmpQYUhqTmwtZjNvTTh0bUtyNlpMRWJyU1RTQXZYNXltbU9nTlBlZF9wQkZCSnA2d1lkME8wcVZzWDZ6ZXh6c3BLTklpUmxDaGJlREFmb2U4MTNHTUtob0d3c21E?oc=5",
-    "agree": "",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-471a9f94d92de62d",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-21T23:27:35.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Marine Le Pen gewinnt nach Protesten in Frankreich an Zustimmung",
-    "s": "Die französische Rechtspopulistin Marine Le Pen kann nach den Protesten im Land in einer Umfrage zur kommenden Präsidentschaftswahl zulegen. Für die vorausgegangenen Ausschreitungen macht sie die Regierung des französischen Präsidenten Emmanuel Macron verantwortlich. Bislang sind keine weiteren Details zu den Umfragewerten oder den genauen Hintergründen der Proteste bekannt.",
-    "m": "In Frankreich verzeichnet die Rechtspopulistin Marine Le Pen nach aktuellen Umfragen einen Zuwachs an Zustimmung für die Präsidentschaftswahl. Dieser politische Trend folgt auf Proteste und damit verbundene Ausschreitungen im Land. Marine Le Pen positioniert sich in dieser Situation klar und macht die Regierung von Präsident Emmanuel Macron direkt für die Eskalation und die gewaltsamen Vorfälle verantwortlich. Konkrete Zahlen zur Höhe des Stimmenzuwachses, Details zu den Ursprüngen der Demonstrationen oder Reaktionen der Regierungsseite gehen aus den vorliegenden Berichten nicht hervor. Die genauen politischen und gesellschaftlichen Folgen dieser Entwicklung bleiben abzuwarten.",
-    "r": "Der Anstieg der Umfragewerte von Marine Le Pen nach Protesten in Frankreich ist ein bedeutsames Signal für die politische Landschaft des Landes. Die gegenseitige Schuldzuweisung im Zuge von Ausschreitungen zwischen Opposition und Regierung betrifft die Stabilität der Präsidentschaft von Emmanuel Macron.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWWxMazkyM0U3V2RtZ1FtUXMzTmhaWVJsenBxQ1JiOWd2ODNTSGhSVzh2WHZILURZVmtsX1NSa0Y0dGxyOEhRcTlsN0hoQ2lub0xzVFdfbHo1a1JGT1l6VEoxN2RpY0d2aU5IRVY3QlptWm1hRHFSZWMyZnc1WmtVVGNQcVZlUTFwUDZLY29uNGJIV2I5N0s1bG80VEtpYTBLRm1TOC1n?oc=5",
-        "date": "2026-10-21T23:27:35.000Z"
-      },
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/politik/ausland/2026-10/marine-le-pen-praesidentschaftswahl-umfrage-frankreich-ifop",
-        "date": "2026-10-21T23:27:35.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWWxMazkyM0U3V2RtZ1FtUXMzTmhaWVJsenBxQ1JiOWd2ODNTSGhSVzh2WHZILURZVmtsX1NSa0Y0dGxyOEhRcTlsN0hoQ2lub0xzVFdfbHo1a1JGT1l6VEoxN2RpY0d2aU5IRVY3QlptWm1hRHFSZWMyZnc1WmtVVGNQcVZlUTFwUDZLY29uNGJIV2I5N0s1bG80VEtpYTBLRm1TOC1n?oc=5",
-    "agree": "Die Quellen stimmen überein, dass Marine Le Pen in Frankreich nach Protesten in Umfragen zur Präsidentschaftswahl zulegt und die Regierung für Ausschreitungen verantwortlich macht.",
-    "diff": [
-      {
-        "name": "Google News DE",
-        "note": "Verweist auf einen Artikel von DIE ZEIT über den Zuwachs von Marine Le Pen in Umfragen zur Präsidentschaftswahl im Kontext von Protesten in Frankreich."
-      },
-      {
-        "name": "ZEIT ONLINE",
-        "note": "Berichtet, dass die französische Rechtspopulistin nach Protesten an Zustimmung gewinnt und die Regierung von Emmanuel Macron für Ausschreitungen verantwortlich macht."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-71b77552ef800ceb",
-    "c": "INT",
-    "o": "INT",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-21T23:20:58.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Ärzte: Papst Leo benötigt nach Lungenkrebs-Operation keine weitere Behandlung",
-    "s": "Papst Leo hat sich einer Operation unterzogen, bei der der Unterlappen seines rechten Lungenflügels entfernt wurde. Nach Angaben seiner Ärzte zeigen Tests nun, dass kein weiterer Behandlungsbedarf bezüglich der Krebserkrankung besteht. Das Oberhaupt der katholischen Kirche ist 71 Jahre alt.",
-    "m": "Der 71-jährige Papst Leo, Führer der katholischen Kirche, musste sich einem chirurgischen Eingriff unterziehen, bei dem der Unterlappen seines rechten Lungenflügels entfernt wurde. Nach den durchgeführten Tests gaben die Ärzte Entwarnung. Sie erklärten, dass der Pontifex keine weiteren Behandlungen im Zusammenhang mit der Lungenkrebserkrankung benötigt. Bislang wurden keine weiteren Details über den genauen Zeitpunkt des Eingriffs oder den aktuellen Genesungsverlauf in der Klinik bekannt gegeben. Die Meldung beschränkt sich auf die erfolgreiche Operation und den positiven medizinischen Befund der behandelnden Ärzte. Weitere Hintergründe zum Verlauf der Erkrankung oder offene Fragen bezüglich der Rückkehr in den Vatikan wurden in den aktuellen Berichten nicht genannt.",
-    "r": "Die Nachricht betrifft das gesundheitliche Befinden des Oberhauptes der katholischen Kirche, was weltweit von großer öffentlicher Relevanz ist. Medizinische Updates zu Papst Leo haben direkte Auswirkungen auf den Vatikan und die Millionen Gläubige weltweit.",
-    "srcs": [
-      {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/21/pope-leo-needs-no-further-treatment-after-cancer-surgery-doctors-say?traffic_source=rss",
-        "date": "2026-10-21T23:20:58.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPUVM5bTFMZ0RfTEFrSlRNa2lyUDVDa1EtTEs2TTBrTUJaOUVhUEN3WEhpMmY5SlV1RmpMZjBCSlBKZHhjOXREN3pxN1pLMTlkWUl0REZCX0ZaRHp2SnNPRGs2dS01RmNWTUk5OXlOTXk4R1ZRc3pmVmUwaW5QOERCV05uQl9HS0ZBNjNRdXV3R2xOUXBoN2dTZEc4UkM1WHZRekFtZGtaNEJVRlc5Y2lyZld5WUViWFB6LVFjMFFvbUlKMC0yN1pfWi1SMGNBQjZwUXNTM29qV3g0SWpzaHpPcW1DOFdSd040NTYyRTRSR2JKdmdMUmdhSVQ4RVNFUkJY?oc=5",
-        "date": "2026-10-21T19:57:00.000Z"
-      }
-    ],
-    "url": "https://www.aljazeera.com/news/2026/10/21/pope-leo-needs-no-further-treatment-after-cancer-surgery-doctors-say?traffic_source=rss",
-    "agree": "Beide Quellen stimmen darin überein, dass Papst Leo nach einer Lungenkrebs-Operation laut Angaben seiner Ärzte keine weitere Behandlung benötigt.",
-    "diff": [
-      {
-        "name": "Al Jazeera",
-        "note": "Berichtet ergänzend, dass dem 71-jährigen Papst der Unterlappen seines rechten Lungenflügels entfernt wurde."
-      },
-      {
-        "name": "Google News World",
-        "note": "Verweist zusätzlich auf den Ursprung der Information bei The Journal Gazette und die dortigen Tests."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-7cd22383e2e55a3a",
-    "c": "INT",
-    "o": "UK",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-21T23:06:36.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Macron wirft ausländischen Politikern „dumme Kommentare“ zu Frankreich-Protesten vor",
-    "s": "Frankreich bereitet sich auf weitere Proteste am Wochenende vor. Im Vorfeld hat der französische Präsident Emmanuel Macron scharfe Kritik an ausländischen Führungspersönlichkeiten geübt. Er warf ihnen vor, im Zusammenhang mit den jüngsten Ausschreitungen in Frankreich absichtlich Fehlinformationen zu verbreiten.",
-    "m": "Während eines Besuchs in Katar äußerte sich der französische Präsident Emmanuel Macron zu den Reaktionen aus dem Ausland auf die Krawalle vom vergangenen Samstag in Frankreich. Er sprach von Manipulation von Informationen, die zu inakzeptablen und dummen Kommentaren geführt hätten. Obwohl er keine konkreten Namen nannte, zielte die Kritik unter anderem auf US-Präsident Donald Trump und andere ausländische Politiker ab. Macron warf ihnen vor, die unruhige Situation in Frankreich aus eigennützigen politischen Motiven zu instrumentalisieren. Das Land rüstet sich nun für eine neue Welle von Demonstrationen und potenziellen Ausschreitungen an dem bevorstehenden Wochenende.",
-    "r": "Die Äußerungen des französischen Präsidenten beleuchten die internationale Dimension und die politische Instrumentalisierung der innenpolitischen Unruhen in Frankreich. Sie zeigen die diplomatischen Spannungen im Vorbereitung auf neue Proteste auf.",
-    "srcs": [
-      {
-        "name": "Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest",
-        "date": "2026-10-21T23:06:36.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd3lQQ19SQU9wS1B0N3NWek1pbS1NWXdONmVVOVJsaHhrc0RXN3ZfZFZseTc2NUJQTjl2RnlaODk1eWlUWmFLM1RVVWNCWjE4Vi13cDF1X0xzQnlQRW1La3o1d2tya0I4NW9SVmdYaHAta2l1TWo5Z0xiN0dyV2pWQXgySjZqeW1fY0tCNkNzdEo2UkQ5djhMcDkzeU9QdlJ5UkQ4Y2pZcw?oc=5",
-        "date": "2026-10-21T14:44:00.000Z"
-      }
-    ],
-    "url": "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest",
-    "agree": "Die Quellen stimmen überein, dass Emmanuel Macron ausländischen Politikern und Führungspersönlichkeiten dumme und inakzeptable Kommentare im Zusammenhang mit den Unruhen in Frankreich vorgeworfen hat.",
-    "diff": [
-      {
-        "name": "Guardian World",
-        "note": "Berichtet ausführlich über Macrons Äußerungen während seines Besuchs in Katar, die Kritik an Trump und die Vorbereitungen auf die Proteste am Wochenende."
-      },
-      {
-        "name": "Google News World",
-        "note": "Bietet lediglich eine Kurzmeldung und verweist auf den Artikel des Guardian."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-163482f58803fb4c",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-21T23:06:00.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Selenskyj strebt schnelle Gespräche mit den USA und Russland an",
-    "s": "Der ukrainische Präsident Wolodymyr Selenskyj hat den Wunsch geäußert, so bald wie möglich Gespräche mit den USA und Russland zu führen. Russland hat einem entsprechenden Dreiertreffen mit den USA und der Ukraine grundsätzlich zugestimmt. Während die ukrainische Seite auf ein schnelles Vorankommen drängt, zeigt sich die russische Seite weniger eilig.",
-    "m": "Wolodymyr Selenskyj treibt diplomatische Bemühungen voran und möchte möglichst schnell Verhandlungen aufnehmen. Russland hat signalisiert, dass es einem Dreiertreffen zustimmt, an dem die USA, Russland und die Ukraine beteiligt sein sollen. Die zeitliche Dringlichkeit wird von den beteiligten Parteien jedoch unterschiedlich wahrgenommen. Während Kiew auf einen raschen Beginn drängt, lässt sich Moskau nach Angaben der Berichte mehr Zeit. Die genaue Agenda und der Zeitpunkt des Treffens stehen noch nicht fest. Die diplomatischen Entwicklungen könnten neuen Schwung in die Bemühungen zur Beendigung des Konflikts bringen.",
-    "r": "Die Initiative für ein Dreiertreffen zwischen der Ukraine, den USA und Russland berührt zentrale Fragen der internationalen Sicherheit und Diplomatie. Unterschiedliche Zeitpläne der Konfliktparteien verdeutlichen die schwierigen Rahmenbedingungen für mögliche Verhandlungen.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQLXBaTmIyb0dGNmtTUnl3ekVxR2lmSEd4ZkhQWE0wYzMyVFdtZlFpYVA5SXpTbU1wWnNNekk3b0ZKTktqeU5hU3VVV19FTF9jUlo1SDZ5bG5tbVUweDlpX3lnSWFrTWJobDkxQW1ReUpMaXZEWTBBNE0zUUN5U2s5Y3l2d1g4UGhaQXBrc1lhWkRvNXlSOW5MZXFwR0xtYlJLMDNwVTlRVlpLX1VEVGM5Sno0MWZVdGh1bF9HZ0RVV1VKT2dFYW81RlFENHV0VVlXcm40WTNhTWo2S0cwcXo1Mk5CazM?oc=5",
-        "date": "2026-10-21T23:06:00.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/ausland/wolodymyr-selenskyj-moechte-so-bald-wie-moeglich-gespraeche-mit-usa-und-russland-a-32f2b741-827e-483b-b2f3-f98feb2d653e#ref=rss",
-        "date": "2026-10-21T23:06:00.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQLXBaTmIyb0dGNmtTUnl3ekVxR2lmSEd4ZkhQWE0wYzMyVFdtZlFpYVA5SXpTbU1wWnNNekk3b0ZKTktqeU5hU3VVV19FTF9jUlo1SDZ5bG5tbVUweDlpX3lnSWFrTWJobDkxQW1ReUpMaXZEWTBBNE0zUUN5U2s5Y3l2d1g4UGhaQXBrc1lhWkRvNXlSOW5MZXFwR0xtYlJLMDNwVTlRVlpLX1VEVGM5Sno0MWZVdGh1bF9HZ0RVV1VKT2dFYW81RlFENHV0VVlXcm40WTNhTWo2S0cwcXo1Mk5CazM?oc=5",
-    "agree": "Die Quellen stimmen überein, dass Wolodymyr Selenskyj so bald wie möglich Gespräche mit den USA und Russland führen möchte und Russland einem Dreiertreffen zugestimmt hat.",
-    "diff": [
-      {
-        "name": "Google News DE",
-        "note": "Erwähnt im Titel den Wunsch nach baldigen Gesprächen unter Berufung auf den Spiegel."
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "Berichtet zusätzlich, dass Russland einem Dreiertreffen mit den USA und der Ukraine zugestimmt hat und es offenbar weniger eilig hat."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-0a3b2e01940c57b8",
-    "c": "INT",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-21T22:37:10.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "New Mexico klagt zwei Vertraute von Jeffrey Epstein an",
-    "s": "Die US-Staatsanwaltschaft in New Mexico hat Anklage gegen zwei frühere Vertraute von Jeffrey Epstein erhoben. Den Beschuldigten wird vorgeworfen, Menschenhandel ermöglicht zu haben. Mit dem rechtlichen Schritt soll zudem verhindert werden, dass sie von Epsteins Nachlass profitieren.",
-    "m": "Die Staatsanwaltschaft in New Mexico geht strafrechtlich gegen zwei langjährige Wegbegleiter des verstorbenen Sexualstraftäters Jeffrey Epstein vor. Konkret handelt es sich um seinen früheren Anwalt sowie seinen Buchhalter. Ihnen wird vorgeworfen, in Epsteins System des jahrelangen Missbrauchs von zahlreichen jungen Frauen und Minderjährigen eine Rolle gespielt und Menschenhandel ermöglicht zu haben. Neben der strafrechtlichen Verfolgung zielt die Anklage darauf ab, finanziell zu unterbinden, dass die beiden Personen Zugriff auf den Nachlass erhalten oder davon profitieren. Damit weitet die Justiz die Aufarbeitung des Skakandals um Epsteins Missbrauchsring auf sein engstes professionelles Umfeld aus.",
-    "r": "Die Anklageerhebung gegen Epsteins frühere Vertraute ist relevant, da sie zeigt, wie die juristische Aufarbeitung des Missbrauchsrings und der Strukturen um Jeffrey Epstein auch nach dessen Tod auf die Verantwortlichen in seinem Umfeld ausgedehnt wird.",
-    "srcs": [
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/politik/ausland/2026-10/jeffrey-epstein-new-mexico-raeul-torrez-missbrauch-menschenhandel",
-        "date": "2026-10-21T22:37:10.000Z"
-      },
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/panorama/jeffrey-epstein-new-mexico-erhebt-anklage-gegen-zwei-vertraute-TS6PZUOO6NGAFIRF7WXALNUR7M.html",
-        "date": "2026-10-21T21:17:23.000Z"
-      }
-    ],
-    "url": "https://www.zeit.de/politik/ausland/2026-10/jeffrey-epstein-new-mexico-raeul-torrez-missbrauch-menschenhandel",
-    "agree": "Beide Quellen stimmen darin überein, dass die Justiz in New Mexico Anklage gegen zwei frühere Vertraute von Jeffrey Epstein wegen Vorwürfen im Zusammenhang mit seinem Missbrauchsring erhoben hat.",
-    "diff": [
-      {
-        "name": "ZEIT ONLINE",
-        "note": "Konkretes Detail, dass es sich bei den beiden Beschuldigten um einen früheren Anwalt und den Buchhalter handelt und dass verhindert werden soll, dass sie vom Nachlass profitieren."
-      },
-      {
-        "name": "RND",
-        "note": "Erwähnt explizit, dass Epstein über Jahre einen Missbrauchsring betrieb, dem zahlreiche junge Frauen und Minderjährige zum Opfer fielen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-9f9b912e01ace897",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-21T22:23:13.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Vincent Gross gewinnt das Finale von «Masked Singer»",
-    "s": "Der Sänger Vincent Gross hat die Musikshow «Masked Singer» gewonnen. Er trat im Finale als Stier beziehungsweise Fernando el Toro auf. Während der Show konnte Comedian Chris Tall mit seinen Tipps mehrfach richtig liegen.",
-    "m": "Im Finale der Fernsehsendung «Masked Singer» setzte sich der Sänger Vincent Gross gegen seine Konkurrenten durch. Er ging in der Kostümierung des Stiers Fernando el Toro an den Start und sicherte sich damit den Sieg der Show. Unterstützt wurde das Rateshow-Geschehen im Verlauf der Finalsendung durch den prominenten Rate-Gast beziehungsweise Juror Chris Tall. Dieser bewies ein gutes Gespür und lag mit seinen Tipps während des Finales gleich dreimal richtig. Weitere Details zu den unterlegenen Teilnehmern oder dem genauen Ablauf des Finalabends nennen die vorliegenden Berichte nicht.",
-    "r": "Die Nachricht ist für den Bereich der Unterhaltungsmedien und des Fernsehens relevant, da es sich um das Finale einer bekannten Musikshow handelt. Solche Finalentscheidungen und die Enthüllung der dahintersteckenden Prominenten ziehen regelmäßig ein breites Publikum an.",
-    "srcs": [
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/news/2026-10/21/als-stier-zum-sieg-vincent-gross-gewinnt-masked-singer",
-        "date": "2026-10-21T22:23:13.000Z"
-      },
-      {
-        "name": "stern",
-        "url": "https://www.stern.de/kultur/staffelfinale-von--the-masked-singer---vincent-gross-singt-sich-zum-sieg-38433324.html",
-        "date": "2026-10-21T21:43:00.000Z"
-      }
-    ],
-    "url": "https://www.zeit.de/news/2026-10/21/als-stier-zum-sieg-vincent-gross-gewinnt-masked-singer",
-    "agree": "Beide Quellen stimmen überein, dass Vincent Gross als Stier («Fernando el Toro») die Show «Masked Singer» gewonnen hat.",
-    "diff": [
-      {
-        "name": "ZEIT ONLINE",
-        "note": "Erwähnt im Titel den Stier als Siegerkostüm."
-      },
-      {
-        "name": "stern",
-        "note": "Erwähnt zusätzlich, dass Chris Tall im Finale dreimal richtig tippte."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-7eae1b16e09962af",
-    "c": "INT",
-    "o": "PT",
-    "k": "sport",
-    "lang": "de",
-    "d": "2026-10-21T21:45:52.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Sporting Lissabon verliert in der Champions League mit 2:3 gegen LASK Linz",
-    "s": "Der LASK Linz hat im Estádio de Alvalade gegen Sporting Lissabon mit 3:2 gewonnen. Für die portugiesischen Leões ist dies die erste Niederlage in der aktuellen Phase der Liga der Champions. Das Spiel fand im Rahmen des dritten Spieltags statt.",
-    "m": "Die österreichische Mannschaft LASK Linz trat im Estádio de Alvalade an und besiegte Sporting Lissabon mit 3:2. Diese Partie war Teil des dritten Spieltags der Ligaphase der UEFA Champions League. Durch dieses Ergebnis mussten die Leões ihre erste Niederlage im laufenden Wettbewerb hinnehmen. Details zum genauen Spielverlauf oder zu Torschützen nennen die Quellen nicht, jedoch markiert der Sieg einen wichtigen Erfolg für die Gäste aus Österreich in dieser Gruppen- beziehungsweise Ligaphase.",
-    "r": "Das Resultat hat unmittelbare Auswirkungen auf die Tabelle der Champions-League-Ligaphase, da Sporting Lissabon seine erste Niederlage im laufenden Wettbewerb hinnehmen musste. Der Auswärtssieg von LASK Linz stellt zudem einen bemerkenswerten Erfolg gegen die portugiesische Mannschaft dar.",
-    "srcs": [
-      {
-        "name": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NVWZxLWVHSTdnNGNBM2ZlUFJ0RDJaaGFaQUJBSFBlS1ZZdFE1TkFiYWdPaVlYQ3JidExfM3piQnhkUGdKU0VpbUdpUE5sME11Z2JaNE8tLTFDWGRJenNnRk1qdldzY0wxeEtNTXBWc19YeUt0NWc?oc=5",
-        "date": "2026-10-21T21:45:52.000Z"
-      },
-      {
-        "name": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/desporto/vitoria-por-3-2-lask-linz-o-carrasco-do-sporting_e1773304",
-        "date": "2026-10-21T17:46:06.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NVWZxLWVHSTdnNGNBM2ZlUFJ0RDJaaGFaQUJBSFBlS1ZZdFE1TkFiYWdPaVlYQ3JidExfM3piQnhkUGdKU0VpbUdpUE5sME11Z2JaNE8tLTFDWGRJenNnRk1qdldzY0wxeEtNTXBWc19YeUt0NWc?oc=5",
-    "agree": "Beide Quellen stimmen darin überein, dass LASK Linz Sporting Lissabon auswärts mit 3:2 besiegt hat.",
-    "diff": [
-      {
-        "name": "Google News Portugal",
-        "note": "Erwähnt kurz den Live-Ticker oder die Live-Berichterstattung zum Spiel."
-      },
-      {
-        "name": "RTP Notícias",
-        "note": "Nennt detailliert, dass das Spiel im Estádio de Alvalade stattfand, Teil der dritten Spieltag der Champions-League-Ligaphase war und für Sporting die erste Niederlage im Wettbewerb bedeutete."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-63d4c43cfde3bd85",
-    "c": "INT",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-21T21:32:36.000Z",
-    "p": 4,
-    "st": "BY",
-    "city": "",
-    "t": "Papst Leo XIV. nach Lungen-OP krebsfrei",
-    "s": "Etwa eine Woche nach einer Operation am rechten Lungenlappen wegen eines bösartigen Tumors haben Ärzte Entwarnung gegeben. Der Krebs beim 71-jährigen Papst hat nicht gestreut. Nach Angaben der Mediziner ist er damit krebsfrei und benötigt keine weitere Therapie.",
-    "m": "Vor rund einer Woche wurde dem 71-jährigen Papst Leo XIV. ein Teil des rechten Lungenlappens entfernt, nachdem bei ihm ein bösartiger Tumor festgestellt worden war. Nun haben die behandelnden Ärzte offizielle Entwarnung gegeben. Untersuchungen ergaben, dass der Krebs nicht gestreut hat und es keine weiteren Metastasen im Körper gibt. Aufgrund dieses positiven Befundes ist laut den Medizinern keine weitere medizinische oder medikamentöse Therapie für den Pontifex notwendig. Der genaue zeitliche Ablauf der Genesung und die voraussichtliche Dauer des Krankenhausaufenthalts wurden in den Berichten nicht näher genannt.",
-    "r": "Die Meldung ist von Bedeutung, da es sich um den gesundheitlichen Zustand des Oberhaupts der katholischen Kirche handelt. Der erfolgreiche Verlauf des medizinischen Eingriffs und das Ausbleiben von Metastasen bestimmen die künftige Handlungsfähigkeit des Papstes.",
-    "srcs": [
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/vatikan-papst-leo-ist-krebsfrei-keine-weitere-therapie-noetig,VYiK0DS",
-        "date": "2026-10-21T21:32:36.000Z"
-      },
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/panorama/Krebs-bei-Papst-hat-nicht-gestreut-id31444478.html",
-        "date": "2026-10-21T19:53:47.000Z"
-      }
-    ],
-    "url": "https://www.br.de/nachrichten/deutschland-welt/vatikan-papst-leo-ist-krebsfrei-keine-weitere-therapie-noetig,VYiK0DS",
-    "agree": "Die Quellen sind sich einig, dass der Papst nach der Operation keinen Krebs mehr hat und keine weitere Therapie benötigt.",
-    "diff": [
-      {
-        "name": "BR24 Bayern",
-        "note": "Erwähnt allgemein, dass dem Papst ein Tumor aus der Lunge entfernt wurde."
-      },
-      {
-        "name": "ntv",
-        "note": "Nennt das Alter des Papstes von 71 Jahren und präzisiert, dass ein Teil des rechten Lungenlappens entfernt wurde sowie keine weiteren Metastasen existieren."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-a7b4bc443983c5fd",
-    "c": "INT",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-21T21:32:36.000Z",
-    "p": 4,
-    "st": "BY",
-    "city": "",
-    "t": "Entwarnung nach Lungen-Operation: Papst Leo ist krebsfrei",
-    "s": "Nach der operativen Entfernung eines bösartigen Lungentumors beim 71-jährigen Papst Leo XIV. haben Ärzte Entwarnung gegeben. Der Krebs hat nicht gestreut und es wurden keine weiteren Metastasen gefunden. Daher ist laut den behandelnden Medizinern keine weitere Therapie nötig.",
-    "m": "Dem 71-jährigen Papst Leo XIV. wurde vor rund einer Woche beziehungsweise am vergangenen Dienstag ein Teil des rechten Lungenlappens beziehungsweise ein bösartiger Tumor aus der Lunge operativ entfernt. Am Mittwochabend folgte die Entwarnung aus dem Vatikan durch seine Ärzte: Der Krebs hat nicht gestreut, es gibt keine weiteren Metastasen und der Papst gilt somit als krebsfrei. Aufgrund dieses positiven Befundes ist keine weitere medizinische Therapie erforderlich. Die Diagnose und der erfolgreiche Eingriff haben zudem Auswirkungen auf weitere Termine des Kirchenoberhaupts. Weitere Details zum genauen zeitlichen Genesungsverlauf oder spezifischen Nachsorgeuntersuchungen wurden von den Quellen nicht genannt.",
-    "r": "Die Meldung ist von Bedeutung, da es sich um den Gesundheitszustand des Papstes und die damit verbundenen Auswirkungen auf seine Amtsgeschäfte und Termine handelt. Die Entwarnung nach einer Krebserkrankung bei einem 71-jährigen Kirchenoberhaupt ist von weltweitem öffentlichem Interesse.",
-    "srcs": [
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/vatikan-papst-leo-ist-krebsfrei-keine-weitere-therapie-noetig,VYiK0DS",
-        "date": "2026-10-21T21:32:36.000Z"
-      },
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/panorama/Krebs-bei-Papst-hat-nicht-gestreut-id31444478.html",
-        "date": "2026-10-21T19:53:47.000Z"
-      },
-      {
-        "name": "Rheinische Post",
-        "url": "https://rp-online.de/panorama/religion/vatikan-papst-ist-krebsfrei-und-braucht-keine-weitere-therapie_aid-156994199",
-        "date": "2026-10-21T19:34:00.000Z"
-      }
-    ],
-    "url": "https://www.br.de/nachrichten/deutschland-welt/vatikan-papst-leo-ist-krebsfrei-keine-weitere-therapie-noetig,VYiK0DS",
-    "agree": "Die Quellen stimmen darin überein, dass dem Papst kürzlich ein bösartiger Lungentumor entfernt wurde, er nun krebsfrei ist und keine weitere Therapie benötigt.",
-    "diff": [
-      {
-        "name": "BR24 Bayern",
-        "note": "Erwähnt, dass der Eingriff vor rund einer Woche stattfand."
-      },
-      {
-        "name": "ntv",
-        "note": "Nennt das Alter des Papstes (71 Jahre) und spezifiziert, dass ein Teil des rechten Lungenlappens entfernt wurde."
-      },
-      {
-        "name": "Rheinische Post",
-        "note": "Gibt an, dass die Operation am vergangenen Dienstag stattfand, die Entwarnung am Mittwochabend erfolgte und der Befund Auswirkungen auf weitere Termine hat."
-      }
-    ],
-    "chg": "",
-    "independent": 3
-  },
-  {
-    "id": "story-f315f3ec6d228a55",
-    "c": "INT",
-    "o": "PT",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-21T21:25:48.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Italien verschärft Sicherheitsgesetze nach gewaltsamen Protesten",
-    "s": "Die italienische Regierung hat schärfere Sicherheitsmaßnahmen beschlossen. Auslöser ist eine jüngste Welle von Protesten auf den Straßen. Künftig wird die gewaltsame Teilnahme an Demonstrationen als eigenständige Straftat gewertet. Zudem können Gerichte nun auch bei Minderjährigen Untersuchungshaft anordnen.",
-    "m": "Das italienische Kabinett hat im Zuge der jüngsten Protestwelle härtere Sicherheitsgesetze auf den Weg gebracht. Ein zentraler Bestandteil der neuen Regelungen ist die Einstufung der gewaltsamen Teilnahme an Demonstrationen als Straftat. Bislang war dies in dieser Form offenbar nicht rechtlich verankert oder wurde verschärft. Darüber hinaus sieht das neue Paket vor, dass die Untersuchungshaft künftig auch auf Minderjährige ausgedehnt werden kann. Diese Maßnahmen stellen eine direkte Reaktion der Exekutive auf die anhaltenden Unruhen und Protestmärsche dar. Die Regierung reagiert damit mit drastischen Schritten auf die Eskalation bei Kundgebungen. Es bleibt abzuwarten, wie sich diese gesetzlichen Verschärfungen auf die Durchführung künftiger Versammlungen auswirken werden. Details zu konkreten Haftbedingungen oder Ausnahmen für Jugendliche wurden in den vorliegenden Berichten nicht genannt.",
-    "r": "Die Verschärfung des Sicherheitsrechts in einem EU-Land betrifft fundamentale Bürgerrechte wie das Versammlungsrecht und den Jugendschutz. Solche gesetzlichen Änderungen haben direkte Auswirkungen auf die innere Sicherheit und den Umgang mit sozialem Protest in Italien.",
-    "srcs": [
-      {
-        "name": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/mundo/participacao-violenta-em-manifestacoes-passou-a-ser-crime-em-italia_v1773353",
-        "date": "2026-10-21T21:25:48.000Z"
-      },
-      {
-        "name": "RTP Mundo",
-        "url": "https://www.rtp.pt/noticias/mundo/participacao-violenta-em-manifestacao-passa-a-ser-crime-em-italia_v1773242",
-        "date": "2026-10-21T14:05:48.000Z"
-      }
-    ],
-    "url": "https://www.rtp.pt/noticias/mundo/participacao-violenta-em-manifestacoes-passou-a-ser-crime-em-italia_v1773353",
-    "agree": "Die Quellen stimmen überein, dass die italienische Regierung schärfere Sicherheitsmaßnahmen beschlossen hat, wonach die gewaltsame Teilnahme an Demonstrationen strafbar wird und Untersuchungshaft nun auch für Minderjährige möglich ist.",
-    "diff": [
-      {
-        "name": "RTP Notícias",
-        "note": "Erwähnt zusätzlich, dass es sich um eine Reaktion der Regierung auf die jüngste Welle von Protesten auf den Straßen handelt."
-      }
-    ],
-    "chg": "",
-    "independent": 1
-  },
-  {
-    "id": "story-ffa5ddb26192a40b",
-    "c": "INT",
-    "o": "INT",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-21T21:25:21.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Ehemaliger Staatsanwalt in Mexiko wegen US-Antidrogenoperation angeklagt",
-    "s": "In Mexiko ist ein ehemaliger Staatsanwalt wegen des Vorwurfs des Hochverrats angeklagt worden. Hintergrund ist ein Drogenrazzia im April, bei der auch US-Agenten beteiligt waren. Der Fall wirft Fragen über die Einhaltung mexikanischer Gesetze auf.",
-    "m": "Der ehemalige Staatsanwalt César Jáuregui Moreno wird beschuldigt, die Beteiligung von US-Agenten an einer Razzia in einem mutmaßlichen Drogenlabor im April erlaubt zu haben. Die Operation fand an einem ungenannten Ort statt und führte zu rechtlichen Fragen bezüglich der Souveränität und der Einhaltung der mexikanischen Gesetze durch ausländische Kräfte. Bislang ist unklar, in welchem genauen rechtlichen Rahmen die US-Agenten agierten und wer die Operation im Detail autorisierte. Die Anklage wegen Hochverrats unterstreicht die Sensibilität der Zusammenarbeit zwischen Mexiko und den Vereinigten Staaten bei der Drogenbekämpfung. Weitere Ermittlungen sollen klären, inwiefern mexikanische Vorschriften verletzt wurden.",
-    "r": "Die Anklage eines Staatsanwalts wegen internationaler Zusammenarbeit bei einer Drogenrazzia berührt die Souveränitätsfragen und die bilateralen Beziehungen zwischen Mexiko und den USA. Der Vorwurf des Hochverrats verdeutlicht die innenpolitische Sprengkraft solcher Einsätze.",
-    "srcs": [
-      {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/21/mexico-charges-prosecutor-with-treason-over-us-involvement-in-drug-raid?traffic_source=rss",
-        "date": "2026-10-21T21:25:21.000Z"
-      },
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/ckx2qpw4rjd7o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-21T20:19:51.000Z"
-      }
-    ],
-    "url": "https://www.aljazeera.com/news/2026/10/21/mexico-charges-prosecutor-with-treason-over-us-involvement-in-drug-raid?traffic_source=rss",
-    "agree": "Die Quellen stimmen darin überein, dass in Mexiko ein ehemaliger Staatsanwalt wegen einer Drogenrazzia mit US-Beteiligung im April des Hochverrats angeklagt wurde.",
-    "diff": [
-      {
-        "name": "BBC World",
-        "note": "Nennt den Namen des beschuldigten Ex-Staatsanwalts César Jáuregui Moreno und präzisiert, dass sich die Razzia gegen ein mutmaßliches Drogenlabor richtete."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-7f04077ee1337ec7",
-    "c": "INT",
-    "o": "DE",
-    "k": "sport",
-    "lang": "de",
-    "d": "2026-10-21T20:58:00.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "FC Bayern verpasst Sieg gegen Arsenal in der Champions League",
-    "s": "Der FC Bayern München hat in der Champions League einen Sieg gegen den FC Arsenal in der Schlussphase vergeben. Trotz einer guten Leistung und einer zwischenzeitlichen Führung reichte es am Ende nur zu einem Unentschieden gegen die Londoner. In der zweiten Hälfte hatten die Münchner das Spiel zunächst gedreht, zeigten sich dann aber unaufmerksam. Gleichzeitig war Real Madrid für RB Leipzig eine Nummer zu groß.",
-    "m": "Das Champions-League-Spiel zwischen dem FC Bayern München und dem FC Arsenal bot hochklassigen Fußball und verlief dramatisch. Arsenal ging zunächst in Führung, doch die Bayern zeigten eine starke Leistung und drehten die Partie in der zweiten Hälfte vorerst zu ihren Gunsten. In der Schlussphase gaben die Münchner den möglichen Sieg jedoch aus der Hand und mussten den Ausgleich hinnehmen. Hauptgrund für den Punktverlust war eine Unaufmerksamkeit in der Defensive in den letzten Minuten der Begegnung. Unabhängig davon musste RB Leipzig in einem Parallelspielerkennen, dass Real Madrid eine Nummer zu groß für sie ist.",
-    "r": "Das Ergebnis und der späte Punktverlust des FC Bayern in der Champions League sind von hoher sportlicher Bedeutung für den weiteren Verlauf des Turniers. Zudem zeigt das Abschneiden von RB Leipzig gegen Real Madrid die sportlichen Kräfteverhältnisse auf.",
-    "srcs": [
-      {
-        "name": "stern",
-        "url": "https://www.stern.de/sport/fussball/champions-league--bayern-verpassen-sieg-gegen-arsenal-38433038.html",
-        "date": "2026-10-21T20:58:00.000Z"
-      },
-      {
-        "name": "Frankfurter Allgemeine",
-        "url": "https://www.faz.net/aktuell/sport/fussball/champions-league/champions-league-fc-bayern-verspielt-sieg-gegen-arsenal-in-der-schlussphase-201305372.html",
-        "date": "2026-10-21T20:54:54.000Z"
-      }
-    ],
-    "url": "https://www.stern.de/sport/fussball/champions-league--bayern-verpassen-sieg-gegen-arsenal-38433038.html",
-    "agree": "Die Quellen sind sich einig, dass der FC Bayern gegen Arsenal einen möglichen Sieg in der Schlussphase verspielt hat und das Spiel zuvor drehen konnte.",
-    "diff": [
-      {
-        "name": "stern",
-        "note": "Erwähnt zusätzlich das Spiel von RB Leipzig gegen Real Madrid und dass die Londoner nach dem Rückstand der Bayern noch einmal zurückkamen."
-      },
-      {
-        "name": "Frankfurter Allgemeine",
-        "note": "Betont explizit das hochklassige Niveau der Partie und bewertet die Leistung der Bayern trotz des verpassten Sieges als gut."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-f498aa046aafd3bd",
-    "c": "INT",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-21T20:34:00.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Ärzte geben Entwarnung: Lungenkrebs bei Papst Leo XIV. hat nicht gestreut",
-    "s": "Nach einer Lungenoperation bei Papst Leo XIV. herrschte zunächst Unklarheit über seinen Gesundheitszustand. Nun haben die Ärzte ein medizinisches Update gegeben und Entwarnung signalisiert. Eine weitere Behandlung ist demnach nicht erforderlich.",
-    "m": "Nach dem Eingriff am Lungentumor von Papst Leo XIV. haben die behandelnden Ärzte offiziell Entwarnung gegeben. Zunächst war unklar geblieben, ob der Papst vollständig krebsfrei ist oder weitere Behandlungen notwendig werden. Nun steht fest, dass der Krebs nicht gestreut hat und daher keine weiteren Therapien erforderlich sind. Die Frankfurter Allgemeine ergänzt, dass aufgrund dieses positiven Verlaufs auch die geplanten Reisen des Papstes voraussichtlich wie geplant stattfinden können.",
-    "r": "Die Meldung ist von Bedeutung, da es sich um den Gesundheitszustand des Kirchenoberhaupts handelt und nun feststeht, dass keine weiterführenden Krebstherapien nötig sind.",
-    "srcs": [
-      {
-        "name": "stern",
-        "url": "https://www.stern.de/lifestyle/leute/aerzte-von-papst-leo-xiv---krebs-hat-nicht-gestreut-38432936.html",
-        "date": "2026-10-21T20:34:00.000Z"
-      },
-      {
-        "name": "Frankfurter Allgemeine",
-        "url": "https://www.faz.net/aktuell/gesellschaft/menschen/papst-leo-xiv-aerzte-geben-nach-lungenkrebs-op-entwarnung-201609884.html",
-        "date": "2026-10-21T20:09:16.000Z"
-      }
-    ],
-    "url": "https://www.stern.de/lifestyle/leute/aerzte-von-papst-leo-xiv---krebs-hat-nicht-gestreut-38432936.html",
-    "agree": "Beide Quellen stimmen darin überein, dass die Ärzte nach der Lungenoperation von Papst Leo XIV. Entwarnung gegeben haben, der Krebs nicht gestreut hat und keine weiteren Therapien nötig sind.",
-    "diff": [
-      {
-        "name": "stern",
-        "note": "Erwähnt explizit, dass nach der Lungenoperation zunächst unklar war, ob der Papst krebsfrei ist."
-      },
-      {
-        "name": "Frankfurter Allgemeine",
-        "note": "Erwähnt zusätzlich, dass die geplante Reisen des Papstes wohl stattfinden können."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-b5c9688c2bfe1135",
-    "c": "INT",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-21T20:27:58.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Ärzte: Krebs bei Papst Leo XIV. hat nicht gestreut",
-    "s": "Nach einer Lungenoperation bei Papst Leo XIV. in der vergangenen Woche haben behandelnde Ärzte eine erfreuliche Diagnose mitgeteilt. Demnach hat der bösartige Tumor nicht gestreut und die Erkrankung war lokal begrenzt. Eine weitere Therapie ist für das 71-jährige Oberhaupt der katholischen Kirche nicht erforderlich.",
-    "m": "Bei dem 71-jährigen Papst Leo XIV. wurde in der vergangenen Woche in einer Operation ein bösartiger Tumor aus der Lunge entfernt. Nun teilten die behandelnden Ärzte mit, dass der Lungenkrebs offenbar nicht gestreut hat. Untersuchungen des entnommenen Gewebes ergaben, dass die Krebserkrankung lokal begrenzt war. Aufgrund dieser Befunde ist laut den Angaben der Mediziner keine weitere Therapie erforderlich. Der Vatikan und verschiedene Medien verbreiteten die Nachricht über den positiven Verlauf und den aktuellen Gesundheitszustand des Kirchenoberhaupts. Die Öffentlichkeit wurde somit über das Ausbleiben von Metastasen und die vermeintliche Entwarnung informiert.",
-    "r": "Die Meldung ist von gesellschaftlichem und internationalem Interesse, da sie den Gesundheitszustand des Oberhauptes der katholischen Kirche betrifft. Medizinische Updates zu Amtsträgern dieser Ebene haben weltweite Relevanz für Gläubige und die Öffentlichkeit.",
-    "srcs": [
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/news/2026-10/21/aerzte-krebs-bei-papst-hat-nicht-gestreut",
-        "date": "2026-10-21T20:27:58.000Z"
-      },
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/politik/papst-leo-krebs-hat-nicht-gestreut-3U4Y6QLGVRA55I6O6PQ3Z4WSL4.html",
-        "date": "2026-10-21T19:59:58.000Z"
-      },
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/aerzte-krebs-bei-papst-leo-hat-nicht-gestreut-100.html",
-        "date": "2026-10-21T19:45:21.000Z"
-      },
-      {
-        "name": "stern",
-        "url": "https://www.stern.de/news/--aerzte--krebs-bei-papst-hat-nicht-gestreut-38432926.html",
-        "date": "2026-10-21T19:23:14.000Z"
-      }
-    ],
-    "url": "https://www.zeit.de/news/2026-10/21/aerzte-krebs-bei-papst-hat-nicht-gestreut",
-    "agree": "Die Quellen sind sich einig, dass der Krebs bei Papst Leo nicht gestreut hat.",
-    "diff": [
-      {
-        "name": "ZEIT ONLINE",
-        "note": "Nennt im Titel und Text, dass der Krebs nicht gestreut hat und der Papst operiert wurde."
-      },
-      {
-        "name": "RND",
-        "note": "Erwähnt, dass dem Papst in der vergangenen Woche ein bösartiger Tumor aus der Lunge entfernt wurde und die Diagnose Krebs lautete."
-      },
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "note": "Benennt den Papst namentlich als Papst Leo XIV."
-      },
-      {
-        "name": "stern",
-        "note": "Fügt hinzu, dass der Papst 71 Jahre alt ist, die Erkrankung lokal begrenzt war und keine weitere Therapie erforderlich ist."
-      }
-    ],
-    "chg": "",
-    "independent": 4
-  },
-  {
-    "id": "story-315b7f1caf6c06a5",
-    "c": "INT",
-    "o": "DE",
-    "k": "technik",
-    "lang": "de",
-    "d": "2026-10-21T20:13:00.000Z",
-    "p": 4,
-    "st": "BY",
-    "city": "",
-    "t": "Cambridge-Analytica-Skandal: Meta zu Milliarden-Strafzahlung verurteilt",
-    "s": "Acht Jahre nach dem Cambridge-Analytica-Skandal ist der Facebook-Mutterkonzern Meta von einem Gericht zu einer Milliarden-Strafe verurteilt worden. Grund für das Urteil ist der damalige Missbrauch von Nutzerdaten. Die betroffene Summe beläuft sich auf 25 Milliarden Dollar.",
-    "m": "Der langjährige Datenschutz-Skandal um Cambridge Analytica hat für den Facebook-Mutterkonzern Meta nun ein juristisches Nachspiel vor einem Gericht in den USA. Nach jahrelanger juristischer Aufarbeitung wurde Meta zur Zahlung von 25 Milliarden Dollar verurteilt. Der Skandal hatte einst das Vertrauen in die Plattform massiv erschüttert, da Millionen Nutzerdaten unrechtmäßig abgegriffen und für politische Zwecke genutzt wurden. Meta zeigt sich mit der Entscheidung jedoch nicht einverstanden und will das Urteil offenbar nicht akzeptieren. Damit bleiben Fragen zur endgültigen Umsetzung der Strafe und den nächsten juristischen Schritten zunächst offen.",
-    "r": "Das Urteil markiert einen neuen, massiven finanziellen und juristischen Höhepunkt in der Aufarbeitung eines der größten Datenskandale der Tech-Branche. Die Entscheidung betrifft einen der weltweit größten Internetkonzerne und dessen Umgang mit Nutzerdaten.",
-    "srcs": [
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/wirtschaft/unternehmen/meta-strafe-cambridge-analytika-usa-100.html",
-        "date": "2026-10-21T20:13:00.000Z"
-      },
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/news/2026-10/21/meta-soll-milliarden-wegen-cambridge-analytica-zahlen",
-        "date": "2026-10-21T19:48:26.000Z"
-      },
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/cambridge-analytica-skandal-gericht-verurteilt-meta-zu-25-milliarden-dollar-strafzahlung-100.html",
-        "date": "2026-10-21T19:45:21.000Z"
-      },
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/cambridge-analytica-skandal-meta-muss-milliarden-strafe-zahlen,VYhzHKb",
-        "date": "2026-10-21T19:14:17.000Z"
-      }
-    ],
-    "url": "https://www.zdfheute.de/wirtschaft/unternehmen/meta-strafe-cambridge-analytika-usa-100.html",
-    "agree": "Alle Quellen sind sich einig, dass der Facebook-Mutterkonzern Meta im Zuge des Cambridge-Analytica-Skandals zu einer Milliarden-Strafe verurteilt wurde.",
-    "diff": [
-      {
-        "name": "ZDF heute",
-        "note": "Berichtet allgemein von einer Milliarden-Strafe, nennt aber keine exakte Gesamtsumme."
-      },
-      {
-        "name": "ZEIT ONLINE",
-        "note": "Bietet keine zusätzlichen Details und beschränkt sich auf die Schlagzeile."
-      },
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "note": "Nennt die genaue Summe von 25 Milliarden Dollar Strafe und den Gerichtsort USA."
-      },
-      {
-        "name": "BR24 Bayern",
-        "note": "Ergänzt die Information, dass Meta die Strafe wohl nicht akzeptieren will."
-      }
-    ],
-    "chg": "",
-    "independent": 4
-  },
-  {
-    "id": "story-e2782a307c4f5389",
-    "c": "INT",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-21T20:08:00.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Papst Leo XIV. benötigt nach Lungen-Operation keine weitere Krebstherapie",
-    "s": "Papst Leo XIV. hat sich einer Lungenoperation unterzogen. Nach Angaben der behandelnden Ärzte hat sich der Tumor nicht im Körper ausgebreitet. Eine zusätzliche Krebstherapie ist demnach nicht erforderlich. Der Eingriff und die anschließende Diagnose bringen Entwarnung für das Kirchenoberhaupt.",
-    "m": "Nach einer erfolgreichen Lungen-Operation bei Papst Leo XIV. haben die Mediziner Entwarnung gegeben. Untersuchungen ergaben, dass der Tumor lokal begrenzt geblieben ist und sich nicht weiter ausgebreitet hat. Aus diesem Grund sehen die Ärzte von einer weiteren Krebstherapie ab. Der genaue Zeitpunkt des Eingriffs sowie nähere Details zum operativen Verlauf oder dem gegenwärtigen Aufenthaltsort des Papstes wurden in den vorliegenden Berichten nicht genannt. Auch über den voraussichtlichen Zeitpunkt seiner Entlassung oder die Wiederaufnahme öffentlicher Termine gibt es noch keine offiziellen Angaben.",
-    "r": "Die Gesundheit des Papstes ist von weltweitem öffentlichem und institutionellem Interesse. Die medizinische Entwarnung nach einer Krebserkrankung beeinflusst direkt die Handlungsfähigkeit und den Terminkalender des Kirchenoberhaupts.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxON2ZMaGluNGZqMHBTMW5IazRLRGdOTWNBY2dTY253MHVXeHlBUTktZ3NGV2tpcUpMSGxpZGdyeVVIanFDMnRSaTdzTlphTWduOHVzNmJrQ2dwemNHUmhiYWtYeTdWVzdsMnZLSWRNeWNidGFjQTBwY0I2LUVzWHBNTjBkMS1zakN5azlPS1RlNjRPTUJlb3FuM1VSWmRBbE5hQzFjUEdNbWFKemF4aHlpTm1jdGhxOHdiek9aVTJORnpUVDdWUjExUjhXNEZwaWZiZ2FKTkQxQlVHOGpvUGdNNnNLbzNLQQ?oc=5",
-        "date": "2026-10-21T20:08:00.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/panorama/leute/vatikan-papst-leo-xiv-benoetigt-nach-lungen-op-keine-weitere-krebstherapie-a-8202916e-3180-4975-b133-cd8c29464a73#ref=rss",
-        "date": "2026-10-21T20:08:00.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxON2ZMaGluNGZqMHBTMW5IazRLRGdOTWNBY2dTY253MHVXeHlBUTktZ3NGV2tpcUpMSGxpZGdyeVVIanFDMnRSaTdzTlphTWduOHVzNmJrQ2dwemNHUmhiYWtYeTdWVzdsMnZLSWRNeWNidGFjQTBwY0I2LUVzWHBNTjBkMS1zakN5azlPS1RlNjRPTUJlb3FuM1VSWmRBbE5hQzFjUEdNbWFKemF4aHlpTm1jdGhxOHdiek9aVTJORnpUVDdWUjExUjhXNEZwaWZiZ2FKTkQxQlVHOGpvUGdNNnNLbzNLQQ?oc=5",
-    "agree": "Die Quellen stimmen überein, dass Papst Leo XIV. eine Lungen-Operation hatte und keine weitere Krebstherapie benötigt, da sich der Tumor nicht ausgebreitet hat.",
-    "diff": [],
     "chg": "",
     "independent": 2
   }
