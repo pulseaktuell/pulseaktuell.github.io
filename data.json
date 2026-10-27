@@ -1,5 +1,814 @@
 [
   {
+    "id": "story-a54af1053b7d88bc",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-27T18:48:36.000Z",
+    "p": 3,
+    "st": "NI",
+    "city": "",
+    "t": "Auto fährt in Neustadt in Menschengruppe: Mehrere Verletzte",
+    "s": "In Neustadt am Rübenberge ist ein Auto in eine Menschengruppe gefahren und hat mindestens fünf Personen verletzt. Die Polizei nahm drei Verdächtige fest. Nach ersten Erkenntnissen besteht für keinen der Verletzten Lebensgefahr.",
+    "m": "Der Vorfall ereignete sich in Neustadt am Rübenberge, wo ein Auto zweimal in mehrere Personen fuhr. Bei der Tat beziehungsweise den beteiligten Personen soll es sich laut Polizeiangaben um Angehörige von Großfamilien im Rahmen von Bandenkriminalität handeln. Durch die Attacken wurden mindestens fünf Menschen verletzt. Die Einsatzkräfte waren vor Ort im Einsatz und nahmen im Zuge der Ermittlungen drei Tatverdächtige fest. Genaue Hintergründe zum Motiv und dem genauen Tathergang sowie der Zustand der Tatverdächtigen und weitere Details zu den beteiligten Familien sind Gegenstand der laufenden polizeilichen Ermittlungen.",
+    "r": "Die Meldung ist relevant, da es sich um eine gewaltsame Auseinandersetzung im Kontext organisierter Bandenkriminalität mit mehreren Verletzten und Festnahmen handelt. Derartige Vorfälle mit Fahrzeugen als Tatmittel bergen erhebliche Gefahren für die öffentliche Sicherheit.",
+    "srcs": [
+      {
+        "name": "NDR Niedersachsen",
+        "url": "https://www.ndr.de/fernsehen/sendungen/hallo_niedersachsen/bandenkriminalitaet-in-neustadt-auto-faehrt-in-menschengruppe,hallonds-11218.html",
+        "date": "2026-10-27T18:48:36.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Niedersachsen",
+        "url": "https://www.tagesschau.de/inland/regional/niedersachsen/auto-in-menschenmenge-gesteuert-polizei-nimmt-drei-verdaechtige-fest,neustadt-158.html",
+        "date": "2026-10-27T17:40:27.000Z"
+      }
+    ],
+    "url": "https://www.ndr.de/fernsehen/sendungen/hallo_niedersachsen/bandenkriminalitaet-in-neustadt-auto-faehrt-in-menschengruppe,hallonds-11218.html",
+    "agree": "Die Quellen stimmen darin überein, dass ein Auto in Neustadt in eine Menschengruppe gefahren ist und es Verletzte sowie Festnahmen gab.",
+    "diff": [
+      {
+        "name": "NDR Niedersachsen",
+        "note": "Berichtet spezifisch von Bandenkriminalität, nennt die genaue Zahl von mindestens fünf Verletzten, gibt an, dass keine Lebensgefahr besteht, und beziffert die Zahl der festgenommenen Verdächtigen auf drei."
+      },
+      {
+        "name": "Tagesschau Regional Niedersachsen",
+        "note": "Ergänzt den genauen Ort Neustadt am Rübenberge im Titel, erwähnt, dass das Auto zweimal in mehrere Personen fuhr, und berichtet, dass die Beteiligten laut Polizei Großfamilien angehören."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-7c8fd8cae2b8a173",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-27T18:46:42.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Brasilianischer Politiker Fl&aacute;vio Bolsonaro verf&uuml;gt angeblich trotz Ausreiseverbots &uuml;ber das Land",
+    "s": "Der brasilianische Pr&auml;sidentschaftskandidat Fl&aacute;vio Bolsonaro hat Medienberichten zufolge das Land verlassen. Obwohl ein gerichtliches Ausreiseverbot gegen ihn vorliegt, soll er sich auf dem Weg in die USA befinden. Hintergrund sind laufende Ermittlungen gegen ihn in Brasilien.",
+    "m": "Medienberichten zufolge befindet sich der unterlegene Pr&auml;sidentschaftskandidat Fl&aacute;vio Bolsonaro in einem Flugzeug auf dem Weg in die USA. Dies geschieht trotz eines bestehenden Ausreiseverbots, das im Rahmen von laufenden Ermittlungen gegen ihn verh&auml;ngt wurde. Weitere Details zum genauen Zeitpunkt des Abflugs oder zur Reaktion der brasilianischen Beh&ouml;rden sind aus den vorliegenden Berichten noch nicht bekannt.",
+    "r": "Die Berichterstattung betrifft mögliche VerstöÙe gegen gerichtliche Auflagen durch einen bekannten brasilianischen Politiker und hat damit rechtliche und politische Relevanz.",
+    "srcs": [
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/amerika/bolsonaro-brasilien-usa-100.html",
+        "date": "2026-10-27T18:46:42.000Z"
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/politik/ausland/2026-10/flavio-bolsonaro-ausreise-usa-pass-geldwaesche",
+        "date": "2026-10-27T18:29:24.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/ausland/amerika/bolsonaro-brasilien-usa-100.html",
+    "agree": "Beide Quellen stimmen darin überein, dass der Pr&auml;sidentschaftskandidat Fl&aacute;vio Bolsonaro Brasilien trotz eines Ausreiseverbots verlassen hat und Medienberichten zufolge auf dem Weg in die USA ist.",
+    "diff": [
+      {
+        "name": "Tagesschau",
+        "note": "Erwähnt konkret, dass das Ausreiseverbot auf einer Gerichtsentscheidung beruht."
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Fügt hinzu, dass das Ausreiseverbot aufgrund laufender Ermittlungen gilt."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-b0171f482e2066f1",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-27T18:44:56.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Berliner Linke vertagt Entscheidung über umstrittene Abgeordnete Vanessa Emde",
+    "s": "Die Berliner Linke hat in einer Fraktionssitzung weiterhin keine Entscheidung über die umstrittene Abgeordnete Vanessa Emde getroffen. Die Politikerin steht wegen ihrer Israel-Kritik in der Kritik. Bislang konnte sich die Fraktionsspitze nicht zu einem Ausschlussantrag durchringen.",
+    "m": "Die Diskussion um die Linkenabgeordnete Vanessa Emde stellt die rot-grün-roten Verhandlungen in Berlin vor Herausforderungen und belastet diese spürbar. Trotz einer erneuten Fraktionssitzung gibt es weiterhin keine Lösung im Umgang mit der Abgeordneten, deren Israel-Kritik für heftige Debatten sorgt. Die Fraktionsspitze ringt um eine Positionierung und zögert bislang, einen Ausschlussantrag zu stellen. Die offenen Fragen rund um den Fall Emde bleiben damit vorerst ungelöst. Es ist unklar, wann eine finale Entscheidung getroffen wird und welche personellen oder politischen Konsequenzen drohen.",
+    "r": "Der innerparteiliche Streit um eine umstrittene Mandatsträgerin beeinflusst potenziell die laufenden Koalitionsverhandlungen in Berlin. Die Situation verdeutlicht die Schwierigkeiten von Parteien im Umgang mit kontroversen Positionen ihrer Mitglieder bei Koalitionsgesprächen.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/politik/deutschland/2026-10/vanessa-emde-linke-berlin-abgeordnete-israel-kritik",
+        "date": "2026-10-27T18:44:56.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/politik/deutschland/vanessa-emde-berliner-linke-vertagt-entscheidung-ueber-umstrittene-abgeordnete-weiter-a-a4b3b910-4fd3-468c-a5c8-c4953ae131a1#ref=rss",
+        "date": "2026-10-27T18:04:00.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/politik/deutschland/2026-10/vanessa-emde-linke-berlin-abgeordnete-israel-kritik",
+    "agree": "Die Berliner Linke hat sich in einer Fraktionssitzung noch immer nicht auf eine Entscheidung im Fall der umstrittenen Abgeordneten Vanessa Emde geeinigt.",
+    "diff": [
+      {
+        "name": "ZEIT ONLINE",
+        "note": "erwähnt, dass die Linke um den Umgang mit der Abgeordneten ringt"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "berichtet, dass Vanessa Emde zu einer Belastung für die rot-grün-roten Verhandlungen in Berlin geworden ist"
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-a8527ae43665035d",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-27T18:40:12.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Brasilien: Unterlegener Präsidentschaftskandidat Flávio Bolsonaro offenbar in die USA geflüchtet",
+    "s": "Der unterlegene brasilianische Präsidentschaftskandidat Flávio Bolsonaro hat sich Medienberichten zufolge in die USA abgesetzt. Zuvor war er von einem Richter des Obersten Gerichts zur Abgabe seiner Pässe aufgefordert worden. Diese Frist ließ er offenbar verstreichen. Die genauen Umstände seiner Ausreise sind Gegenstand weiterer Berichte.",
+    "m": "Der unterlegene brasilianische Präsidentschaftskandidat Flávio Bolsonaro soll Medienberichten zufolge das Land verlassen haben und in die USA geflüchtet sein. Noch am Tag zuvor hatte Bolsonaro erklärt, dass ihm ein Richter des Obersten Gerichts die Ausreise untersagt und ihn zur sofortigen Abgabe seiner Reisepässe aufgefordert hatte. Diese behördliche Frist zur Passabgabe ließ er offenbar verstreichen, bevor er das Land verließ. Weitere Details zu seinem genauen Aufenthaltsort in den USA oder Reaktionen der brasilianischen Justizbehörden auf die Flucht gehen aus den vorliegenden Berichten bisher nicht hervor.",
+    "r": "Die Flucht eines prominenten Politikers vor drohenden juristischen Schritten berührt die politische Stabilität und Rechtsstaatlichkeit in Brasilien. Der Vorfall verdeutlicht anhaltende Spannungen nach den Wahlen und wirft Fragen zur Durchsetzbarkeit gerichtlicher Anordnungen auf.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/unterlegener-praesidentschaftskandidat-fl-vio-bolsonaro-offenbar-in-die-usa-gefluechtet-104.html",
+        "date": "2026-10-27T18:40:12.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/wahl-in-brasilien-flavio-bolsonaro-nach-verlorener-wahl-offenbar-in-die-usa-gefluechtet-a-8fec7f65-6a01-47fc-8e82-df558cedb7fd#ref=rss",
+        "date": "2026-10-27T18:17:00.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/unterlegener-praesidentschaftskandidat-fl-vio-bolsonaro-offenbar-in-die-usa-gefluechtet-104.html",
+    "agree": "Beide Quellen stimmen darin überein, dass der unterlegene brasilianische Präsidentschaftskandidat Flávio Bolsonaro offenbar in die USA geflüchtet ist.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Erwähnt zusätzlich, dass Bolsonaro noch am Vortag erklärt hatte, ein Richter des Obersten Gerichts habe ihm die Ausreise verboten und zur Passabgabe aufgefordert."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Berichtet konkret, dass Bolsonaro eine offizielle Frist zur Abgabe seiner Reisepässe hat verstreichen lassen, bevor er das Land verließ."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-7e798e5ee04ef7e7",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-27T18:40:12.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Auto fährt in Neustadt am Rübenberge gezielt in Menschengruppe",
+    "s": "In Neustadt am Rübenberge in Niedersachsen ist ein Auto gezielt in eine Menschengruppe gefahren. Der Vorfall ereignete sich am späten Montagabend. Die Polizei hat die Ermittlungen zu den Hintergründen aufgenommen. Bisher gibt es keine Hinweise auf einen terroristischen Anschlag.",
+    "m": "Am späten Montagabend kam es in Neustadt am Rübenberge bei Hannover zu einem Vorfall, bei dem ein Auto gezielt in eine Gruppe von Menschen gesteuert wurde. Die Polizei und Ermittlungsbehörden haben die Arbeit aufgenommen, um die genauen Hintergründe der Tat zu klären. Nach ersten Erkenntnissen der Behörden wird derzeit nicht von einem Anschlag ausgegangen. Stattdessen deuten die Ermittlungen darauf hin, dass sich Täter und Opfer offenbar kannten. Nähere Angaben zu den beteiligten Personen, dem genauen Hergang sowie möglichen Verletzten wurden in den bisherigen Berichten nicht gemacht.",
+    "r": "Die gezielte Fahrt eines Autos in eine Menschengruppe ist ein schwerwiegender Vorfall mit polizeilicher Relevanz. Die Klärung des Motivs und der Beziehung zwischen Täter und Opfern steht im Zentrum der Ermittlungen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/niedersachsen-auto-faehrt-gezielt-in-menschengruppe-polizei-geht-nicht-von-anschlag-aus-100.html",
+        "date": "2026-10-27T18:40:12.000Z"
+      },
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/panorama/kriminalitaet/auto-niedersachsen-neustadt-am-ruebenberge-menschengruppe-verletzte-100.html",
+        "date": "2026-10-27T12:41:00.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/niedersachsen-auto-faehrt-gezielt-in-menschengruppe-polizei-geht-nicht-von-anschlag-aus-100.html",
+    "agree": "Die Quellen stimmen darin überein, dass in Neustadt am Rübenberge ein Auto gezielt in eine Menschengruppe gefahren ist.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Berichtet explizit, dass die Polizei nicht von einem Anschlag ausgeht."
+      },
+      {
+        "name": "ZDF heute",
+        "note": "Erwähnt den genauen Zeitpunkt am späten Montagabend und dass sich Täter und Opfer offenbar kannten."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-d4a6c3a14a91ba18",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-27T18:40:12.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Ägyptisches Gericht ordnet Schließung unabhängiger Nachrichtenseite Mada Masr an",
+    "s": "Ein ägyptisches Gericht hat die Schließung der unabhängigen Nachrichtenseite Mada Masr angeordnet. Nach dem Beschluss ist die Chefredakteurin Lina Attalah in Gewahrsam genommen worden. Menschenrechtsorganisationen befürchten, dass diese Maßnahme einen gefährlichen Präzedenzfall für die verbleibenden freien Medien im Land darstellen könnte.",
+    "m": "Ein Gericht in Kairo hat die Schließung der bekannten unabhängigen Nachrichtenseite Mada Masr verfügt. Im Zuge dieser gerichtlichen Anordnung befindet sich die Chefredakteurin der Publikation, Lina Attalah, in Gewahrsam. Die Maßnahme schränkt die journalistische Arbeit der Plattform massiv ein und sorgt international sowie bei lokalen Akteuren für große Besorgnis. Verschiedene Menschenrechtsorganisationen warnen eindringlich davor, dass das Vorgehen gegen Mada Masr als Präzedenzfall für weitere restriktive Schritte gegen unabhängige und freie Medien in Ägypten dienen könnte. Über die genauen juristischen Vorwürfe, die zu dem Gerichtsbeschluss geführt haben, sowie über den künftigen rechtlichen Status der Redaktionsmitglieder liegen derzeit keine weiteren Details vor.",
+    "r": "Die Schließung einer bedeutenden unabhängigen Nachrichtenseite und die Inhaftierung der Chefredakteurin stellen einen massiven Eingriff in die Pressefreiheit in Ägypten dar. Das Verfahren weckt zudem Befürchtungen hinsichtlich systematischer Einschränkungen weiterer freier Medien im Land.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/nachrichtenseite-mada-masr-muss-schliessen-104.html",
+        "date": "2026-10-27T18:40:12.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/aegypten-unabhaengige-nachrichtenseite-mada-masr-muss-nach-gerichtsbeschluss-schliessen-a-c486b5ba-739f-487f-ac4f-ee44a232d9b2#ref=rss",
+        "date": "2026-10-27T15:58:00.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/nachrichtenseite-mada-masr-muss-schliessen-104.html",
+    "agree": "Die Quellen stimmen überein, dass ein ägyptisches Gericht die Schließung der unabhängigen Nachrichtenseite Mada Masr angeordnet hat.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Die Quelle nennt lediglich die Schließung der Nachrichtenseite durch ein ägyptisches Gericht ohne weitere Details."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Die Quelle nennt zusätzlich Kairo als den Ort des Gerichts, berichtet über die Inhaftierung von Chefredakteurin Lina Attalah und erwähnt die Sorge von Menschenrechtsorganisationen vor einem Präzedenzfall für freie Medien."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-432c2c3ddd1b5584",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-27T18:40:12.000Z",
+    "p": 2,
+    "st": "BY",
+    "city": "",
+    "t": "Studie: Vollzeitarbeit zum Mindestlohn bringt deutlich mehr als Grundsicherung",
+    "s": "Laut einer neuen Studie haben Beschäftigte in Vollzeit zum Mindestlohn ein spürbar höheres Einkommen als Empfänger von Grundsicherung. Die Untersuchung verdeutlicht den finanziellen Abstand zwischen regulärer Arbeit und staatlicher Mindestabsicherung. Die Erkenntnisse liefern neue Daten für die sozialpolitische Debatte.",
+    "m": "Eine aktuelle Studie untersucht den Einkommensunterschied zwischen Vollzeitarbeit zum gesetzlichen Mindestlohn und dem Bezug von Grundsicherung. Die Auswertung zeigt, dass Vollzeitarbeitende im Vergleich zu Grundsicherungsempfängern ein deutlich höheres monatliches Einkommen zur Verfügung haben. Konkret erzielt eine alleinstehende Person bei einer Vollzeittätigkeit zum Mindestlohn im Durchschnitt ein monatliches Plus von 623 Euro im Vergleich zur Grundsicherung. Die Untersuchung beleuchtet damit das reale Lohnabstandsgebot in Deutschland. Die Ergebnisse könnten in die anhaltenden Diskussionen über die Höhe des Mindestlohns und Sozialleistungen einfließen. Weitere Details zur Methodik oder dem beauftragten Institut nennen die vorliegenden Berichte nicht.",
+    "r": "Die Untersuchung liefert konkrete Zahlen zum oft diskutierten Lohnabstand zwischen Erwerbstätigkeit und staatlichen Transferleistungen in Deutschland. Damit ist sie für die sozial- und arbeitsmarktpolitische Debatte von Bedeutung.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/arbeiten-zum-mindestlohn-bringt-deutlich-mehr-als-grundsicherung-100.html",
+        "date": "2026-10-27T18:40:12.000Z"
+      },
+      {
+        "name": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/studie-zeigt-abstand-zwischen-mindestlohn-und-grundsicherung,VZF7yqd",
+        "date": "2026-10-27T13:35:36.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/arbeiten-zum-mindestlohn-bringt-deutlich-mehr-als-grundsicherung-100.html",
+    "agree": "Die Quellen sind sich einig, dass eine Vollzeitarbeit zum Mindestlohn laut einer Studie ein höheres Einkommen als die Grundsicherung bringt.",
+    "diff": [
+      {
+        "name": "BR24 Bayern",
+        "note": "nennt die konkrete durchschnittliche Differenz von 623 Euro mehr im Monat für eine alleinstehende Person in Vollzeit zum Mindestlohn."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-55ceacb6cbf9d50f",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-27T18:40:12.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Schriftstellerin Juli Zeh gibt Amt als Verfassungsrichterin auf",
+    "s": "Die Schriftstellerin und Juristin Juli Zeh beendet Medienberichten zufolge ihre Tätigkeit als Verfassungsrichterin in Brandenburg. Sie möchte sich künftig ganz ihrer literarischen Arbeit widmen. Offizielle Details zu den genauen Hintergründen und dem Zeitpunkt ihres Ausscheidens stehen noch aus.",
+    "m": "Die renommierte Schriftstellerin Juli Zeh wird ihr Ehrenamt als Verfassungsrichterin in Brandenburg offenbar niederlegen. Bekannt wurde diese Entscheidung durch Medienberichte, die sich auf ihren Entschluss berufen, sich künftig ausschließlich auf ihre schriftstellerische Karriere zu konzentrieren. Juli Zeh, die neben ihrer Autorenschaft auch ausgebildete Juristin ist, hatte das Amt am Landesverfassungsgericht inne und machte sich zuvor oft mit gesellschaftskritischen Werken einen Namen. Der Schritt bedeutet das Ende ihrer richterlichen Laufbahn zugunsten ihrer literarischen Projekte. Weitere offizielle Reaktionen oder ein genauer Termin für den Rücktritt sind bisher nicht bekannt.",
+    "r": "Der Rücktritt einer bekannten Persönlichkeit aus einem hochrangigen juristischen Ehrenamt betrifft die Landespolitik und die Justiz in Brandenburg. Die Personalie wirft ein Schlaglicht auf die Vereinbarkeit von literarischem Schaffen und politischen beziehungsweise richterlichen Ämtern.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/schriftstellerin-juli-zeh-hoert-als-verfassungsrichterin-auf-102.html",
+        "date": "2026-10-27T18:40:12.000Z"
+      },
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/lifestyle/leute/schriftstellerin-juli-zeh-hoert-offenbar-als-verfassungsrichterin-auf-38460620.html",
+        "date": "2026-10-27T17:52:00.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/schriftstellerin-juli-zeh-hoert-als-verfassungsrichterin-auf-102.html",
+    "agree": "Die Quellen sind sich einig, dass die Schriftstellerin Juli Zeh ihr Amt als Verfassungsrichterin aufgibt.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Meldet den Rücktritt als Verfassungsrichterin in Brandenburg kurz und prägnant als Ehrenamt."
+      },
+      {
+        "name": "stern",
+        "note": "Ergänzt, dass Juli Zeh sich mit gesellschaftskritischen Büchern einen Namen gemacht hat und sich künftig ganz der Literatur widmen möchte."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-54d54cc0cae23579",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-27T18:33:41.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Schweizer Ex-Model wirft Donald Trump Vergewaltigung in den 90er-Jahren vor",
+    "s": "Aus Berichten über die sogenannten Epstein-Akten geht ein schwerer Vorwurf gegen den US-Präsidenten hervor. Ein Schweizer Ex-Model beschuldigt Donald Trump, sie Anfang der 1990er-Jahre vergewaltigt zu haben. Die mutmaßliche Tat soll sich in einer Suite des New Yorker Plaza Hotels ereignet haben. Bereits in der Vergangenheit hatte die Frau Vorwürfe wegen sexueller Belästigung gegen Trump erhoben.",
+    "m": "Der aktuelle Vorwurf gegen den US-Präsidenten Donald Trump basiert auf einem Bericht über die sogenannten Epstein-Akten. Demnach wirft das Schweizer Ex-Model Beatrice Keul dem Politiker vor, sie Anfang der 1990er-Jahre in einer Suite des New Yorker Plaza Hotels vergewaltigt zu haben. Die Betroffene hatte bereits früher öffentlich erklärt, von Trump sexuell belästigt worden zu sein, geht nun jedoch in den Akten weiter. Die neuen Enthüllungen werfen Fragen zu Trumps Verhalten in der Vergangenheit auf, während offene Punkte bezüglich der Beweislage und eventueller rechtlicher Schritte bestehen. Die beteiligten Akteure sind neben Trump und dem Ex-Model auch die Dokumente aus dem Umfeld von Jeffrey Epstein.",
+    "r": "Die Anschuldigungen einer Vergewaltigung gegen eine international hochrangige politische Person wie den US-Präsidenten sind von erheblicher öffentlicher und gesellschaftlicher Relevanz. Zudem beleuchten die neuen Details aus den Epstein-Akten vergangene Ereignisse im Umfeld des verurteilten Sexualstraftäters Jeffrey Epstein.",
+    "srcs": [
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/politik/Schweizer-Ex-Model-wirft-Trump-Vergewaltigung-vor-id31464844.html",
+        "date": "2026-10-27T18:33:41.000Z"
+      },
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/politik/ausland/donald-trump--schweizer-model-wirft-ihm-vergewaltigung-vor-38459886.html",
+        "date": "2026-10-27T17:53:00.000Z"
+      }
+    ],
+    "url": "https://www.n-tv.de/politik/Schweizer-Ex-Model-wirft-Trump-Vergewaltigung-vor-id31464844.html",
+    "agree": "Beide Quellen stimmen darin überein, dass ein Schweizer Ex-Model Donald Trump beschuldigt, sie in den 1990er-Jahren vergewaltigt zu haben.",
+    "diff": [
+      {
+        "name": "ntv",
+        "note": "Nennt den Namen des Ex-Modells Beatrice Keul und erwähnt, dass sie Trump bereits früher der sexuellen Belästigung bezichtigt hatte."
+      },
+      {
+        "name": "stern",
+        "note": "Präzisiert den Tatort und gibt an, dass sich der Vorfall in einer Suite des New Yorker Plaza Hotels ereignet haben soll."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-f01a8dff6e2df446",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-27T18:13:20.000Z",
+    "p": 4,
+    "st": "BY",
+    "city": "",
+    "t": "Parlamentswahl in Israel: Hohe Wahlbeteiligung zeichnet sich ab",
+    "s": "In Israel hat die Wahl für ein neues Parlament begonnen, wobei eine besonders hohe Wahlbeteiligung verzeichnet wird. Mehr als 7,3 Millionen Bürger sind zur Stimmabgabe aufgerufen. Für den amtierenden Ministerpräsidenten Benjamin Netanjahu und seine Likud-Partei wird ein sehr enges Rennen erwartet.",
+    "m": "Die Parlamentswahl in Israel sorgt für einen großen Andrang an den Urnen. Nach aktuellen Berichten zeichnet sich die höchste Wahlbeteiligung seit mindestens 1973 ab, wobei bis zu einem bestimmten Zeitpunkt fast 66 Prozent der Wahlberechtigten ihre Stimme abgegeben haben. Insgesamt sind über 7,3 Millionen Menschen in dem Land zur Wahl aufgerufen. Im Zentrum der Aufmerksamkeit steht der amtierende Ministerpräsident Benjamin Netanjahu mit seiner Likud-Partei, für den Prognosen zufolge ein äußerst knappes Resultat erwartet wird. Die genauen Wahlergebnisse und weiteren Entwicklungen werden in fortlaufenden Tickersystemen und Liveblogs dokumentiert. Bislang gibt es noch keine Angaben zu ersten offiziellen Auszählungsergebnissen oder Prognosen nach Schließung der Wahllokale.",
+    "r": "Die Parlamentswahlen in Israel sind von hoher internationaler und regionaler Bedeutung, da sie die politische Zukunft der Führung um Ministerpräsident Netanjahu bestimmen. Eine historisch hohe Wahlbeteiligung verdeutlicht zudem das starke Interesse der Bevölkerung an der politischen Ausrichtung des Landes.",
+    "srcs": [
+      {
+        "name": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/usa-israel-iran-krieg-im-news-ticker-vom-26-oktober-bis-01-november,VZ8xCO8",
+        "date": "2026-10-27T18:13:20.000Z"
+      },
+      {
+        "name": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-bei-israel-wahl-2026-zeichnet-sich-hohe-wahlbeteiligung-ab-faz-200583539.html",
+        "date": "2026-10-27T17:23:04.000Z"
+      }
+    ],
+    "url": "https://www.br.de/nachrichten/deutschland-welt/usa-israel-iran-krieg-im-news-ticker-vom-26-oktober-bis-01-november,VZ8xCO8",
+    "agree": "Die Quellen sind sich einig, dass in Israel ein neues Parlament gewählt wird und eine hohe Wahlbeteiligung herrscht.",
+    "diff": [
+      {
+        "name": "BR24 Bayern",
+        "note": "Erwähnt konkret, dass für den amtierenden Ministerpräsidenten Benjamin Netanjahu und dessen Likud-Partei ein enges Rennen erwartet wird."
+      },
+      {
+        "name": "Frankfurter Allgemeine",
+        "note": "Nennt konkrete Zahlen wie fast 66 Prozent Wahlbeteiligung, dass es sich um die höchste Beteiligung seit mindestens 1973 handelt und mehr als 7,3 Millionen Bürger zur Wahl aufgerufen sind."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-a3adb9fc3d9ac045",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-27T16:50:02.000Z",
+    "p": 3,
+    "st": "NI",
+    "city": "",
+    "t": "Jahre der Gewalt in Salzgitter – jetzt beginnt der Prozess gegen vier",
+    "s": "Am Landgericht Braunschweig hat ein Prozess gegen vier Angeklagte begonnen. Sie sollen eine Frau aus Salzgitter über viereinhalb Jahre hinweg misshandelt, erniedrigt und gefoltert haben. Die Staatsanwaltschaft legt den Beschuldigten insgesamt 33 Einzelfälle zur Last.",
+    "m": "Der Prozess um jahrelange schwere Misshandlungen an einer Frau in Salzgitter hat am Dienstag vor dem Landgericht Braunschweig begonnen. Auf der Anklagebank sitzen vier Personen, denen vorgeworfen wird, das Opfer über viereinhalb Jahre hinweg gequält, erniedrigt und gefoltert zu haben. Nach Angaben der Staatsanwaltschaft umfasst die Anklageschrift 33 konkrete Einzelfälle. Das mutmaßliche Opfer war laut Berichten als Putzhilfe tätig. Weitere Details zu den Hintergründen der Taten oder zu den Aussagen der Angeklagten zum Prozessauftakt wurden zunächst nicht bekannt. Die Verhandlung soll Licht in das Ausmaß der jahrelangen Gewalttaten bringen.",
+    "r": "Der Prozess beleuchtet einen extremen Fall jahrelanger Gewalt und Folter mit Dutzenden Einzelfällen. Die Aufarbeitung vor Gericht ist von hoher gesellschaftlicher und rechtlicher Bedeutung.",
+    "srcs": [
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/panorama/jahre-der-gewalt-in-salzgitter-jetzt-beginnt-der-prozess-gegen-vier-angeklagte-3D7DBV5MYJCDLBJOSBE7ADPZ2I.html",
+        "date": "2026-10-27T16:50:02.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Niedersachsen",
+        "url": "https://www.tagesschau.de/inland/regional/niedersachsen/putzhilfe-in-salzgitter-ueber-jahre-gefoltert-prozess-beginnt,salzgitter-180.html",
+        "date": "2026-10-27T15:30:54.000Z"
+      }
+    ],
+    "url": "https://www.rnd.de/panorama/jahre-der-gewalt-in-salzgitter-jetzt-beginnt-der-prozess-gegen-vier-angeklagte-3D7DBV5MYJCDLBJOSBE7ADPZ2I.html",
+    "agree": "Vier Angeklagte stehen wegen jahrelanger Misshandlungen einer Frau aus Salzgitter vor dem Landgericht Braunschweig.",
+    "diff": [
+      {
+        "name": "RND",
+        "note": "nennt die genaue Dauer von viereinhalb Jahren, die Anzahl von 33 Einzelfällen und das Tatmuster der Folter"
+      },
+      {
+        "name": "Tagesschau Regional Niedersachsen",
+        "note": "nennt den genauen Starttag am Dienstag und bezeichnet das Opfer als Putzhilfe"
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-945f6bd70a68126e",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-27T16:41:34.000Z",
+    "p": 2,
+    "st": "NW",
+    "city": "",
+    "t": "Dauerkranke Lehrerin nach fast 17 Jahren wegen Betrugs angeklagt",
+    "s": "Eine Lehrerin aus Nordrhein-Westfalen hat laut Staatsanwaltschaft seit 2009 nicht mehr unterrichtet, aber weiterhin Gehalt bezogen. Nun wurde Anklage wegen Betrugs und Urkundenfälschung erhoben. Die Behörden ermitteln in diesem langjährigen Fall von unrechtmäßigen Bezügen.",
+    "m": "Die Staatsanwaltschaft Duisburg hat Anklage gegen eine Lehrerin erhoben, die seit fast 17 Jahren keinen Unterricht mehr erteilt haben soll. Trotz ihrer anhaltenden Abwesenheit seit dem Jahr 2009 liefen die Gehaltszahlungen weiter. Die Ermittlungen führten nun zum Vorwurf des Betrugs sowie der Urkundenfälschung. Nach aktuellen Erkenntnissen soll die Beschuldigte eine Summe von rund 248.000 Euro zu Unrecht erhalten haben. Der Fall wirft Fragen zur Kontrolle und zum Umgang mit langfristig erkrankten Beamten im Schuldienst auf. Weitere Details zum genauen Ablauf der Betrugsvorwürfe und gefälschten Dokumenten wurden von den Behörden zunächst nicht im Detail bekannt gegeben.",
+    "r": "Der Fall beleuchtet potenzielle Kontrolllücken bei der Gehaltsfortzahlung im öffentlichen Dienst bei langjähriger Abwesenheit. Die Anklageerhebung markiert einen juristischen Meilenstein in dem seit 2009 schwelenden Sachverhalt.",
+    "srcs": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/dauerkranke-lehrerin-in-duisburg-wegen-betrugs-angeklagt-201626687.html",
+        "date": "2026-10-27T16:41:34.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Nordrhein-Westfalen",
+        "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/anklage-lehrerin-100.html",
+        "date": "2026-10-27T11:39:00.000Z"
+      }
+    ],
+    "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/dauerkranke-lehrerin-in-duisburg-wegen-betrugs-angeklagt-201626687.html",
+    "agree": "Beide Quellen stimmen überein, dass eine Lehrerin seit 2009 nicht mehr unterrichtet hat, weiterhin Gehalt bezog und nun von der Staatsanwaltschaft Duisburg wegen Betrugs und Urkundenfälschung angeklagt wurde.",
+    "diff": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "note": "nennt die betroffene Lehrerin aus Wesel und präzisiert die Dauer auf fast 17 Jahre."
+      },
+      {
+        "name": "Tagesschau Regional Nordrhein-Westfalen",
+        "note": "nennt Duisburg als Wohnort der Lehrerin und beziffert die mutmaßlich zu Unrecht erhaltene Summe auf rund 248.000 Euro."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-1573c4258b44bd9c",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-27T16:07:00.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Ehemalige ARD-Buffet-Moderatorin Jacqueline Stuhler gestorben",
+    "s": "Die frühere Fernsehmoderatorin Jacqueline Stuhler ist verstorben. Sie wurde besonders durch Sendungen wie »Live aus dem Alabama« und als Teil des Gründungsteams vom »ARD-Buffet« bekannt. Stuhler starb nach einer langjährigen und schweren Krankheit.",
+    "m": "Jacqueline Stuhler ist tot. Sie prägte als Moderatorin über Jahre hinweg das deutsche Fernsehen und war vor allem für ihre Arbeit in Jugendformaten wie »Live aus dem Alabama« bekannt. Später gehörte sie zum festen Gründungsteam des beliebten Format »ARD-Buffet«. Nun erlag sie im Alter den Folgen einer langen und schweren Krankheit. Weitere Details zu ihrem genauen Todestag oder ihrem Alter wurden in den vorliegenden Berichten nicht genannt.",
+    "r": "Der Tod der bekannten Fernsehmoderatorin Jacqueline Stuhler markiert den Verlust einer prägenden Persönlichkeit der deutschen Fernsehgeschichte. Sie hinterlässt ein bleibendes Andenken in Form ihrer früheren Moderationsarbeiten beim öffentlich-rechtlichen Rundfunk.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTzJKbHhvaGRsSjVoa2pJc2FLQUU4d2ZuYU4tRnFJTDlScjFGbTQtTzVHQzVKdjQzN0pMT3BuamVaU1otbHJoelRyYWtSOVRzU2RkY1pMQktsa0FiWW9hdGF0ZkNNRE5WVTBmazFPTFBVMHJEV2hpRXBGZ1VmQW1WaWVKWEJ2NzF0OTVQLXFBUDItSDJLTVVIZFhIM0pvRk1fY0oxWHp4SjM4a0ZpWnJPZUd6bmFrcWhmV1ZISmphYlF5MFZ6RFpZdWxqSEVkUQ?oc=5",
+        "date": "2026-10-27T16:07:00.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/kultur/tv/jacqueline-stuhler-ehemalige-ard-buffet-moderatorin-gestorben-a-ff55d0c1-ce5c-4b30-8152-1673905e8115#ref=rss",
+        "date": "2026-10-27T16:07:00.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTzJKbHhvaGRsSjVoa2pJc2FLQUU4d2ZuYU4tRnFJTDlScjFGbTQtTzVHQzVKdjQzN0pMT3BuamVaU1otbHJoelRyYWtSOVRzU2RkY1pMQktsa0FiWW9hdGF0ZkNNRE5WVTBmazFPTFBVMHJEV2hpRXBGZ1VmQW1WaWVKWEJ2NzF0OTVQLXFBUDItSDJLTVVIZFhIM0pvRk1fY0oxWHp4SjM4a0ZpWnJPZUd6bmFrcWhmV1ZISmphYlF5MFZ6RFpZdWxqSEVkUQ?oc=5",
+    "agree": "Beide Quellen stimmen überein, dass die ehemalige Moderatorin Jacqueline Stuhler nach langer, schwerer Krankheit gestorben ist und für das »ARD-Buffet« sowie »Live aus dem Alabama« tätig war.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Verlinkt auf den Spiegel-Artikel mit einer verkürzten Überschrift und einer RSS-Snippet-Zeile."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Nennt zusätzlich, dass sie Jugendsendungen wie »Live aus dem Alabama« moderierte und zum Gründungsteam des »ARD-Buffet« gehörte."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-361ffc3aa8288583",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-27T14:07:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Audi-Chef Döllner nach Trump-Auftritt in Kritik",
+    "s": "Nach einem gemeinsamen Auftritt mit dem US-Präsidenten steht Audi-Chef Gernot Döllner intern massiv in der Kritik. Im Intranet von Volkswagen kochten die Diskussionen so hoch, dass der Konzern einschreiten musste. Der Vorfall wirft ein Schlaglicht auf die Sensibilität politischer Auftritte von Spitzenmanagern.",
+    "m": "Der Vorfall betrifft den Audi-Vorstandsvorsitzenden Gernot Döllner und dessen gemeinsamen Auftritt mit US-Präsident Donald Trump. Diese Zusammenkunft hat im Volkswagen-Konzern intern für erheblichen Unmut gesorgt. Die Diskussionen im VW-Intranet eskalierten derart stark, dass sich die Verantwortlichen zu einem Eingreifen gezwungen sahen. Details zu den genauen Inhalten der Kritik oder den konkreten Maßnahmen des Eingreifens wurden aus den Texten nicht bekannt. Der Fall zeigt, wie sensibel politische Kontakte von Automobilmanagern auf internationaler Ebene wahrgenommen werden. Weitere offene Punkte betreffen die Frage, ob der Auftritt offizielle Konsequenzen für Döllner haben wird.",
+    "r": "Der Fall ist relevant, da er interne Spannungen und die Brisanz politischer Kontakte von Top-Managern im Volkswagen-Konzern aufzeigt. Solche Vorkommnisse können die Unternehmenskultur und die Außendarstellung beeinflussen.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQM0dHaXJ0MnlUbE1OLUZhTGhQd2JteVgyTjk5QkwxQjRySXRUWGl1ZlBiX3cyeXl3aEdGdWVyUkJuY0ZSTXk5ajkwQlU0TmRBOTJtbGlNYlR6QndSUjR2azMtUHg3RW01ckVDZUZlUC1nNk5xX2Jrd1JfUmhGb2R1Z3VJZGxsYTRKVlpHWVkyNTBOTWs5ZF9pSGU3UkVpaUJvUzFvTnF4QmUtbW9yY0NmZlFSQmRKRzJWenp1dWpFbDV3cHU0OHhYdEp6R2ZBMkZSYjl1YU9ZOGhUVkZXOW5kWDlIV3E4NmRHejBqd1MtbmNHQQ?oc=5",
+        "date": "2026-10-27T14:07:00.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/wirtschaft/unternehmen/audi-kritik-an-gernot-doellner-nach-trump-auftritt-eskaliert-im-vw-intranet-a-922db2dd-7446-43cb-b800-dd6d0e929d15#ref=rss",
+        "date": "2026-10-27T14:07:00.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQM0dHaXJ0MnlUbE1OLUZhTGhQd2JteVgyTjk5QkwxQjRySXRUWGl1ZlBiX3cyeXl3aEdGdWVyUkJuY0ZSTXk5ajkwQlU0TmRBOTJtbGlNYlR6QndSUjR2azMtUHg3RW01ckVDZUZlUC1nNk5xX2Jrd1JfUmhGb2R1Z3VJZGxsYTRKVlpHWVkyNTBOTWs5ZF9pSGU3UkVpaUJvUzFvTnF4QmUtbW9yY0NmZlFSQmRKRzJWenp1dWpFbDV3cHU0OHhYdEp6R2ZBMkZSYjl1YU9ZOGhUVkZXOW5kWDlIV3E4NmRHejBqd1MtbmNHQQ?oc=5",
+    "agree": "Die Quellen stimmen überein, dass Audi-Chef Gernot Döllner nach einem Auftritt mit US-Präsident Trump im VW-Intranet heft in die Kritik geraten ist und VW eingreifen musste.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Verweist lediglich auf den Artikel des Spiegels und nennt die Schlagzeile."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Liefert die ausführliche Meldung zum eskalierten internen Streit im VW-Intranet und dem Eingreifen des Konzerns."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-14e3b30d8ad4cab4",
+    "c": "INT",
+    "o": "PT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-27T14:03:47.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Venezuela: Machado bietet Gespräche an, Rodríguez kritisiert Rückkehr",
+    "s": "Die venezolanische Oppositionsführerin María Corina Machado ist nach ihrer Rückkehr in das Land zu Verhandlungen mit der Interimspräsidentin Delcy Rodríguez bereit. Rodríguez warf Machado daraufhin vor, ihre Rückkehr als Inszenierung genutzt zu haben. Der politische Schlagabtausch verdeutlicht die anhaltenden Spannungen an der Spitze des südamerikanischen Landes.",
+    "m": "Nach ihrer Rückkehr nach Venezuela hat sich María Corina Machado gesprächsbereit gezeigt und Verhandlungen mit der Interimspräsidentin Delcy Rodríguez angeboten. Rodríguez reagierte scharf auf diesen Schritt und beschuldigte Machado, ihr Heimatkommando und ihre Rückkehr in eine öffentliche Inszenierung verwandelt zu haben. Das Aufeinandertreffen dieser politischen Akteure markiert eine neue Phase in den inner venezolanischen Machtkämpfen. Bislang ist unklar, ob formelle Gespräche zwischen den beiden Seiten zustande kommen und welche konkreten Bedingungen für einen Dialog gelten könnten. Die Äußerungen unterstreichen das tief sitzende Misstrauen und die Konfrontationshaltung innerhalb der venezolanischen Führungsebene. Beobachter werten die Entwicklung als Indikator für den anhaltenden politischen Druck und die labile Lage im Land.",
+    "r": "Die Äußerungen der beiden prominenten venezolanischen Politikerinnen verdeutlichen die angespannte politische Lage und die Schwierigkeiten bei der Annäherung der Konfliktparteien im Land. Der Verlauf dieser Auseinandersetzung hat unmittelbare Auswirkungen auf die Stabilität und den politischen Kurs Venezuelas.",
+    "srcs": [
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/mundo/corina-disponivel-para-negociar-com-delcy-presidente-acusa-a-de-espetaculo_v1774717",
+        "date": "2026-10-27T14:03:47.000Z"
+      },
+      {
+        "name": "RTP Mundo",
+        "url": "https://www.rtp.pt/noticias/mundo/delcy-rodriguez-acusa-corina-machado-de-fazer-espetaculo_v1774639",
+        "date": "2026-10-27T08:57:47.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/mundo/corina-disponivel-para-negociar-com-delcy-presidente-acusa-a-de-espetaculo_v1774717",
+    "agree": "Die Quellen sind sich einig, dass María Corina Machado nach Venezuela zurückgekehrt ist und dass es zu einer verbalen Auseinandersetzung zwischen ihr und der Interimspräsidentin Delcy Rodríguez kam.",
+    "diff": [
+      {
+        "name": "RTP Notícias",
+        "note": "Berichtet zusätzlich, dass María Corina Machado zu Verhandlungen mit Delcy Rodríguez bereit ist."
+      },
+      {
+        "name": "RTP Mundo",
+        "note": "Fokussiert sich auf die Anschuldigung von Delcy Rodríguez, Machado veranstalte ein 'Spektakel'."
+      }
+    ],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-66ec4d55f8db34ec",
+    "c": "INT",
+    "o": "PT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-27T13:57:48.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Bolsonaro-Partei erkennt Wahlsieg von Lula an",
+    "s": "Die Partei des brasilianischen Politikers hat die Ergebnisse der Präsidentschaftswahl anerkannt. Damit wird der Sieg von Luiz Inácio Lula da Silva akzeptiert. Der unterlegene Amtsinhaber hat seine Niederlage jedoch formell noch nicht eingeräumt.",
+    "m": "Nach den jüngsten Präsidentschaftswahlen in Brasilien hat das Lager des konservativen Kandidaten eine überraschende Wende vollzogen. Die Partei von Flávio Bolsonaro erkannte am Montag den Wahlsieg des linken Politikers Luiz Inácio Lula da Silva an. Bemerkenswert ist dabei, dass der eigentliche Kandidat und Amtsinhaber sich bisher nicht offiziell zu seiner Niederlage geäußert hat. Dieser Schritt der Partei könnte jedoch als Indikator für eine Entspannung der politischen Lage gewertet werden. Weitere offizielle Reaktionen und die genauen Konsequenzen für die Regierungsübergabe bleiben abzuwarten. Die Quellen nennen keine Details zu konkreten Stimmenanteilen oder weiteren politischen Reaktionen.",
+    "r": "Die Anerkennung des Wahlergebnisses durch die Partei ist ein wichtiger Schritt zur Klärung der politischen Situation nach der Wahl in Brasilien. Sie zeigt eine erste offizielle Akzeptanz des Wahlausgangs aus dem konservativen Lager, obwohl der Amtsinhaber schweigt.",
+    "srcs": [
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/mundo/partido-de-bolsonaro-reconhece-vitoria-de-lula_v1774715",
+        "date": "2026-10-27T13:57:48.000Z"
+      },
+      {
+        "name": "RTP Mundo",
+        "url": "https://www.rtp.pt/noticias/brasil-2026/partido-de-flavio-bolsonaro-reconhece-vitoria-de-lula-da-silva_n1774596",
+        "date": "2026-10-27T06:48:27.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/mundo/partido-de-bolsonaro-reconhece-vitoria-de-lula_v1774715",
+    "agree": "Beide Quellen stimmen darin überein, dass die Partei von Flávio Bolsonaro den Wahlsieg von Lula da Silva anerkannt hat.",
+    "diff": [
+      {
+        "name": "RTP Mundo",
+        "note": "Erwähnt zusätzlich, dass es sich um eine überraschende reeleição (Wahl/Rückkehr) handelt, dass die Parteiname als die des konservativen Kandidaten bezeichnet wird und dass der Vorgang am Montag stattfand, während Bolsonaro selbst die Niederlage nicht formal anerkannt hat."
+      }
+    ],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-642b8a57fa1cf3ee",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-27T13:56:37.000Z",
+    "p": 3,
+    "st": "NI",
+    "city": "",
+    "t": "Auto fährt in Neustadt am Rübenberge in Menschengruppe: Mehrere Verletzte",
+    "s": "In Neustadt am Rübenberge ist am späten Montagabend ein Auto in eine Menschengruppe gefahren und hat mehrere Personen verletzt. Die Polizei gab Schüsse auf das flüchtende Fahrzeug ab. Es wird vermutet, dass sich Täter und Opfer kannten. Eine Amokfahrt schließt die Polizei aus.",
+    "m": "Nach Angaben von Polizei und Medien wurden bei dem Vorfall am späten Montagabend in Neustadt am Rübenberge vier bis fünf Menschen verletzt. Die Einsatzkräfte schossen auf das Auto, dessen Fahrer im Anschluss zu Fuß flüchten konnte. Die Kriminalpolizei hat die Ermittlungen aufgenommen und geht derzeit davon aus, dass Täter und Opfer aus polizeibekannten Clanfamilien stammen und sich kannten. Eine politisch motivierte Amokfahrt wird von den Behörden ausgeschlossen. Bislang gibt es keine offiziellen Angaben über die Schwere der Verletzungen der Opfer oder die genaue Identität des flüchtigen Fahrers. Die Fahndung nach dem verdächtigen Fahrzeugführer läuft auf Hochtouren.",
+    "r": "Der Vorfall wirft ein Schlaglicht auf gewalttätige Auseinandersetzungen im familiären oder clan-internen Milieu. Der Einsatz von Schusswaffen durch die Polizei und die Flucht des Fahrers unterstreichen die Gefährlichkeit der Situation.",
+    "srcs": [
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/panorama/neustadt-am-ruebenberge-auto-faehrt-in-menschengruppe-polizei-schiesst-auf-wagen-T77ELPWWMZABFGMURSX3NY4S3I.html",
+        "date": "2026-10-27T13:56:37.000Z"
+      },
+      {
+        "name": "NDR Niedersachsen",
+        "url": "https://www.ndr.de/nachrichten/niedersachsen/hannover_weser-leinegebiet/neustadt-am-ruebenberge-auto-faehrt-in-menschengruppe,neustadt-182.html",
+        "date": "2026-10-27T06:42:22.000Z"
+      }
+    ],
+    "url": "https://www.rnd.de/panorama/neustadt-am-ruebenberge-auto-faehrt-in-menschengruppe-polizei-schiesst-auf-wagen-T77ELPWWMZABFGMURSX3NY4S3I.html",
+    "agree": "Beide Quellen stimmen darin überein, dass ein Auto in Neustadt am Rübenberge in eine Menschengruppe gefahren ist, dabei vier bis fünf Personen verletzt wurden und die Polizei auf das Fahrzeug geschossen hat.",
+    "diff": [
+      {
+        "name": "RND",
+        "note": "Berichtet zusätzlich, dass die Ermittler vermuten, Täter und Opfer stammen aus polizeibekannten Clanfamilien und kannten sich, und dass eine Amokfahrt ausgeschlossen wird."
+      },
+      {
+        "name": "NDR Niedersachsen",
+        "note": "Erwähnt zusätzlich, dass der Fahrer des Wagens zu Fuß flüchten konnte."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-7668599be85f2022",
+    "c": "INT",
+    "o": "PT",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-27T13:37:35.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "CP warnt vor Zugausfällen und Störungen durch Streik",
+    "s": "Die portugiesische Eisenbahngesellschaft CP hat für die kommenden Tage vor erheblichen Beeinträchtigungen im Bahnverkehr gewarnt. Grund dafür ist ein angekündigter Streik von Zugbegleitern und Mitarbeitern an den Fahrkartenschaltern. Die Störungen sollen nach Angaben des Unternehmens voraussichtlich ab Donnerstag auftreten.",
+    "m": "Der Streik betrifft das Personal der CP - Comboios de Portugal, insbesondere Revisoren und Beschäftigte in den Fahrkartenschaltern. Von den Arbeitsniederlegungen sind Beeinträchtigungen im nationalen Schienenverkehr zu erwarten. Reisende müssen sich zwischen Donnerstag und Samstag auf erhebliche Einschränkungen und unregelmäßige Verbindungen einstellen. Die genauen Auswirkungen auf den Fahrplan und mögliche Notdienste wurden in den vorliegenden Meldungen nicht näher beziffert. Das Unternehmen rät Pendlern und Reisenden, sich rechtzeitig über Verbindungen zu informieren.",
+    "r": "Der Streik beeinträchtigt den öffentlichen Personennah- und Fernverkehr in Portugal und betrifft zahlreiche Reisende. Zugausfälle und Verspätungen erfordern Anpassungen bei der Reiseplanung der betroffenen Fahrgäste.",
+    "srcs": [
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/economia/cp-alerta-para-perturbacoes-na-circulacao-a-partir-de-quinta-feira-devido-a-greve_n1774702",
+        "date": "2026-10-27T13:37:35.000Z"
+      },
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZmNmOUU3YXFhRjVQNUlzeVhlZzdNWkpET3FHSF95a0NuaGRUYmV0WjBKUV9SU21iV0FXeDNINXFvemM4Q2VyWlIwYUNfZVg4eEk4UVZobk4xeDBET21yUTZybW9YTzdCYXI3MThNYXhqRHgwQWJqUWpBSUs5RkVycmYtaWRCcWJhWFQ5WTE4TDMwNlNqZ1FrRmNEblE2UHJMc2xoQXJRUUh4OV9ydGlCTml6U05XdWUwM1VKemFWYTHSAbsBQVVfeXFMT1d3c0I1M21hdGdxTG5VMmVUbWNqY0JTUnM2aFdmZWg3ZlBCdjlfM0ZBZC1DcW16STZrb3liazRsR1pnSmg2QXE0VVJwWVVObXFHdngtdE5SX1FIQTA0dGhuMWhLb2gyZWt1U1diVGZ1MTAtb21pb1htU2pkdzUtNnFtaHdjQkxONnF6RGxoZGJXbXBGRnUyRlA5RFNJQnVhRWRMZjlaMVp0RXREYlBRaFAtYlBLX1FZdERzdw?oc=5",
+        "date": "2026-10-27T12:45:00.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/economia/cp-alerta-para-perturbacoes-na-circulacao-a-partir-de-quinta-feira-devido-a-greve_n1774702",
+    "agree": "Die Quellen sind sich einig, dass die CP vor Störungen im Zugverkehr ab Donnerstag wegen eines Streiks warnt.",
+    "diff": [
+      {
+        "name": "RTP Notícias",
+        "note": "nennt konkret, dass der Streik von Donnerstag bis Samstag dauert und von Revisoren sowie Schaltermitarbeitern getragen wird"
+      },
+      {
+        "name": "Google News Portugal",
+        "note": "verweist zusätzlich auf den Ursprung der Meldung beim Correio da Manhã"
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-fef503e260c27a5b",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-27T13:32:22.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Finnlands Präsident Stubb und Norwegens Ministerpräsident Störe telefonieren mit Putin",
+    "s": "Der finnische Präsident Alexander Stubb und der norwegische Ministerpräsident Jonas Gahr Störe haben ein Telefonat mit dem Kremlchef Wladimir Putin geführt. Diese diplomatische Initiative war im Vorfeld nicht mit europäischen Partnern abgesprochen. Im Anschluss an das Gespräch mit Putin informierten die beiden Politiker den ukrainischen Präsidenten Wolodymyr Selenskyj in einem weiteren Telefonat über die Unterredung.",
+    "m": "Das Telefonat zwischen den nordischen Regierungschefs und dem russischen Präsidenten Wladimir Putin sorgt für diplomatische Aufmerksamkeit, da der Schritt ohne vorherige Abstimmung mit den europäischen Verbündeten unternommen wurde. Beteiligt an der Initiative waren der finnische Präsident Alexander Stubb und der norwegische Ministerpräsident Jonas Gahr Störe. Direkt nach dem Gespräch mit dem Kremlchef suchten die beiden Politiker das Gespräch mit dem ukrainischen Präsidenten Wolodymyr Selenskyj, um diesen zu informieren. Weitere Details über den konkreten Inhalt des Gesprächs zwischen Putin, Stubb und Störe sind aus den vorliegenden Berichten nicht bekannt. Auch über die genauen Reaktionen der europäischen Partner oder des ukrainischen Präsidenten liegen im Moment noch keine weiteren Informationen vor. Die offenen Punkte betreffen vor allem die langfristigen diplomatischen Auswirkungen dieses nicht abgesprochenen Alleingangs für die europäische geschlossene Haltung gegenüber Russland.",
+    "r": "Das Ereignis ist von politischer Relevanz, da hochrangige europäische Regierungsvertreter direkten Kontakt mit dem russischen Präsidenten aufgenommen haben, ohne sich zuvor mit ihren europäischen Partnern abzustimmen. Solche Alleingänge können Einfluss auf die geschlossene europäische Außenpolitik im Kontext des Ukraine-Krieges haben.",
+    "srcs": [
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/europa/putin-telefonat-stubb-stoere-100.html",
+        "date": "2026-10-27T13:32:22.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa2JISllhaW1VU3J2UGRpSGstNjIyX2dmYV9TU0Q0cXRhdFBrVFprcGNwYmI1MnRVZkhWSDN6aVY1NTNBSmZnbWo0d0YxaVR6THFLbENqd2p3djRoc3pMaVhZSFAzMzUwZ2ZjVTVQTVM0WTdRbXdPWjdySWtDdnlWQ24yUkw?oc=5",
+        "date": "2026-10-27T13:32:00.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/ausland/europa/putin-telefonat-stubb-stoere-100.html",
+    "agree": "Die Quellen stimmen überein, dass Finnlands Präsident Stubb und Norwegens Ministerpräsident Störe mit Putin telefoniert haben, diese Initiative nicht mit europäischen Partnern abgestimmt war und sie anschließend mit dem ukrainischen Präsidenten Selenskyj sprac",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Verweist lediglich auf den Artikel der Tagesschau und enthält den entsprechenden HTML-Link sowie Snippets."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-f0278bb76e10f20e",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-27T13:31:00.000Z",
+    "p": 3,
+    "st": "SN",
+    "city": "",
+    "t": "NSU-Terroristin Beate Zschäpe bleibt mindestens bis 2035 in Haft",
+    "s": "Das Oberlandesgericht München hat eine vorzeitige Entlassung der verurteilten Rechtsterroristin Beate Zschäpe abgelehnt. Sie muss damit mindestens 24 Jahre Haft verbüßen. Eine mögliche früheste Entlassung steht frühestens im Jahr 2035 an.",
+    "m": "Das OLG München hat den Antrag auf eine vorzeitige Haftentlassung von Beate Zschäpe offiziell abgelehnt. Die wegen der NSU-Mordserie zu lebenslanger Haft verurteilte Terroristin muss demnach mindestens 24 Jahre im Gefängnis verbringen. Damit ist vor dem Jahr 2035 keine Entlassung auf Bewährung möglich. Das Verfahren betrifft die Aufarbeitung der Taten des Nationalsozialistischen Untergrunds. Weitere Details zu den genauen Gründen der Ablehnung wurden zunächst nicht bekannt. Offen ist, wie sich die Entscheidung auf eventuelle künftige Haftprüfungen auswirkt.",
+    "r": "Die Entscheidung des OLG München markiert einen wichtigen Schritt in der juristischen Aufarbeitung des NSU-Komplexes und bestimmt die Mindestdauer der Inhaftierung einer der Haupttäterinnen.",
+    "srcs": [
+      {
+        "name": "DW Deutsch",
+        "url": "https://www.dw.com/de/nsu-terroristin-zschäpe-bleibt-bis-mindestens-2035-in-haft/a-79776152?maca=de-rss-de-all-1119-xml-mrss",
+        "date": "2026-10-27T13:31:00.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Sachsen",
+        "url": "https://www.tagesschau.de/inland/regional/sachsen/strafe-,zschaepe-gefaengnis-102.html",
+        "date": "2026-10-27T12:29:00.000Z"
+      },
+      {
+        "name": "ZDF heute",
+        "url": "https://www.zdfheute.de/politik/deutschland/nsu-mittaeterin-beate-zschaepe-gefaengnis-100.html",
+        "date": "2026-10-27T11:47:00.000Z"
+      }
+    ],
+    "url": "https://www.dw.com/de/nsu-terroristin-zschäpe-bleibt-bis-mindestens-2035-in-haft/a-79776152?maca=de-rss-de-all-1119-xml-mrss",
+    "agree": "Die Quellen sind sich einig, dass Beate Zschäpe mindestens bis 2035 in Haft bleibt und das OLG München dies so entschieden hat.",
+    "diff": [
+      {
+        "name": "ZDF heute",
+        "note": "berichtet zusätzlich, dass sie vor Gericht erstmals ihr Mitwissen bei den rechtsextremen Morden gestand."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
     "id": "story-24189a1aba2fe3a3",
     "c": "INT",
     "o": "UK",
@@ -9,10 +818,10 @@
     "p": 2,
     "st": "",
     "city": "",
-    "t": "Kylian Mbappé entschuldigt sich für umstrittene Mao-Äußerung",
-    "s": "Der französische Fußballstar Kylian Mbappé hat sich für eine umstrittene Äußerung über den ehemaligen chinesischen Führer Mao Zedong entschuldigt. Er bezeichnete seine Wortwahl als unbedacht, nachdem es in China zu heftigen Reaktionen gekommen war. Der Vorfall ereignete sich während eines Interviews, in dem es um Internet-Memes ging.",
-    "m": "Kylian Mbappé hat nach starkem Gegenwind in China eine öffentliche Entschuldigung für eine unbedachte Bemerkung über den früheren chinesischen Machthaber Mao Zedong ausgesprochen. Auslöser war ein Interview, in dem der französische Stürmer auf das Thema Internet-Memes angesprochen wurde und Mao in diesem Zusammenhang als Diktator bezeichnete. Diese Einordnung stieß in China auf massive Kritik, woraufhin der Spieler nun zurückruderte und die Äußerung als Fehltritt einräumte. Ob der Vorfall langfristige kommerzielle Konsequenzen für den Sportler in Asien haben wird, bleibt vorerst offen.",
-    "r": "Die Entschuldigung eines international bekannten Sportlers für politische Äußerungen betrifft die öffentliche Wahrnehmung und mögliche diplomatische beziehungsweise wirtschaftliche Verstrickungen im Sport. Der Vorfall verdeutlicht die Sensibilität von Aussagen über historische Persönlichkeiten in bestimmten Märkten.",
+    "t": "Kylian Mbappé entschuldigt sich für Äußerung über Mao Zedong",
+    "s": "Der französische Fußballspieler Kylian Mbappé hat sich für eine umstrittene Äußerung über den ehemaligen chinesischen Führer Mao Zedong entschuldigt. Er bezeichnete seine Wortwahl nach heftigen Gegenreaktionen in China als unbedacht. Die Aussagen fielen im Rahmen eines Interviews über Internet-Memes.",
+    "m": "Kylian Mbappé stand wegen einer Bemerkung über den früheren chinesischen Revolutionsführer in der Kritik, den er in einem Interview zu Memes als Diktator bezeichnet hatte. Nach massiven Reaktionen und Gegenreaktionen in China lenkte der Spieler nun ein und entschuldigte sich öffentlich für das seiner Ansicht nach unbedachte Wort. Das genaue Medium und der Zeitpunkt des ursprünglichen Interviews werden in den Berichten nicht näher spezifiziert. Auch über konkrete diplomatische oder sportliche Konsequenzen für den Stürmer ist bislang nichts bekannt. Die Vorfälle verdeutlichen jedoch die Sensibilität von Aussagen über historische Persönlichkeiten in bestimmten internationalen Märkten.",
+    "r": "Die Entschuldigung eines international bekannten Sportlers für politische Äußerungen zeigt die Relevanz von Außendarstellung und kultureller Sensibilität im globalen Profisport. Solche Vorfälle können weitreichende Reaktionen in wichtigen Zielmärkten wie China auslösen.",
     "srcs": [
       {
         "name": "BBC World",
@@ -22,15 +831,15 @@
       {
         "name": "Google News World",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jOGpuWDdCR1ZBYjFnSzVCS1U3ZXhiRmhEU3lfRlB3Z1FKZUNWaUY1MnRfU0FiSHI1R0ppNFRRdXgtNWVLWlozZ21KSkp5ZEFxNHp2empRcXdlaXc?oc=5",
-        "date": "2026-10-27T12:02:20.000Z"
+        "date": "2026-10-27T13:25:54.000Z"
       }
     ],
     "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
-    "agree": "Beide Quellen stimmen darin überein, dass sich Kylian Mbappé für eine unbedachte Bemerkung über Mao Zedong nach heftigem Gegenwind aus China entschuldigt hat.",
+    "agree": "Beide Quellen stimmen überein, dass sich Kylian Mbappé wegen einer unbedachten Äußerung über Mao Zedong nach Gegenreaktionen in China entschuldigt hat.",
     "diff": [
       {
         "name": "Google News World",
-        "note": "Verweist lediglich auf den BBC-Bericht und liefert keine eigenständigen Zusatzinformationen."
+        "note": "Verweist lediglich auf den Artikel der BBC mit exakt derselben Überschrift."
       }
     ],
     "chg": "",
@@ -113,47 +922,6 @@
       {
         "name": "DER SPIEGEL",
         "note": "Erwähnt das Volumen von rund 27.000 Kubikmetern hoch radioaktiven Mülls und dass das Endlager eine Million Jahre halten soll."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-7e798e5ee04ef7e7",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-27T13:16:31.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Auto fährt in Neustadt am Rübenberge gezielt in Menschengruppe",
-    "s": "Im niedersächsischen Neustadt am Rübenberge ist ein Auto gezielt in eine Gruppe von Menschen gefahren. Die Tat ereignete sich am späten Montagabend. Die Polizei hat die Ermittlungen zu den Hintergründen aufgenommen. Ein terroristischer Anschlag wird nach aktuellem Stand der Polizei ausgeschlossen.",
-    "m": "Am späten Montagabend kam es in Neustadt am Rübenberge in Niedersachsen zu einem Vorfall, bei dem ein Auto gezielt in eine Menschengruppe gefahren wurde. Die Polizei und Ermittlungsbehörden haben die Arbeit aufgenommen, um die genauen Hintergründe des Geschehens zu klären. Nach ersten Erkenntnissen der Behörden gibt es keine Hinweise auf einen politischen oder terroristischen Anschlag. Stattdessen deuten die Ermittlungen darauf hin, dass sich Täter und Opfer offenbar kannten. Nähere Angaben zu den beteiligten Personen, dem genauen Hergang, möglichen Verletzten oder dem Verbleib des Autofahrers wurden in den bisherigen Berichten noch nicht gemacht. Die Ermittlungen dauern an.",
-    "r": "Die Meldung ist von gesellschaftlicher und sicherheitspolizeilicher Relevanz, da ein Auto gezielt in eine Menschengruppe gesteuert wurde und die Aufklärung von Motiven sowie Täter-Opfer-Beziehungen im Fokus steht.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/niedersachsen-auto-faehrt-gezielt-in-menschengruppe-polizei-geht-nicht-von-anschlag-aus-100.html",
-        "date": "2026-10-27T13:16:31.000Z"
-      },
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/panorama/kriminalitaet/auto-niedersachsen-neustadt-am-ruebenberge-menschengruppe-verletzte-100.html",
-        "date": "2026-10-27T12:41:00.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/niedersachsen-auto-faehrt-gezielt-in-menschengruppe-polizei-geht-nicht-von-anschlag-aus-100.html",
-    "agree": "Die Quellen stimmen überein, dass ein Auto in Neustadt am Rübenberge gezielt in eine Menschengruppe gefahren ist.",
-    "diff": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "note": "Berichtet, dass die Polizei nicht von einem Anschlag ausgeht."
-      },
-      {
-        "name": "ZDF heute",
-        "note": "Nennt den späten Montagabend als Tatzeitpunkt und berichtet, dass Täter und Opfer sich offenbar kannten."
       }
     ],
     "chg": "",
@@ -244,13 +1012,13 @@
     "k": "sport",
     "lang": "de",
     "d": "2026-10-27T13:12:52.000Z",
-    "p": 2,
+    "p": 3,
     "st": "",
     "city": "",
     "t": "Marcel Wontorra wird Geschäftsführer der neuen Frauen-Bundesliga",
-    "s": "Die Frauen-Bundesliga hat ihre zentrale Führungsposition für den Aufbau der neuen Spielbetriebs GmbH besetzt. Erster Geschäftsführer wird Marcel Wontorra, der aus einer bekannten Sportmedien-Familie stammt und der Bruder von Moderatorin Laura Wontorra ist. Mit dieser Personalie macht er einen großen Schritt in das Profi-Fußballgeschäft. Die neue Gesellschaft soll den Betrieb der Spielklasse vorantreiben.",
-    "m": "Die Frauen-Bundesliga treibt die Professionalisierung voran und hat Marcel Wontorra als ersten Geschäftsführer für die neu gegründete Spielbetriebs GmbH verpflichtet. Der Name Wontorra gilt als einer der klangvollsten in der deutschen Sportmedienlandschaft. Marcel Wontorra ist der jüngste Spross der Familie und übernimmt damit eine zentrale Führungsposition im deutschen Frauenfußball. Über weitere Hintergründe der Vertragsgestaltung oder den genauen Zeitpunkt des Amtsantritts nennen die Quellen keine Details. Auch die konkreten nächsten Schritte der neuen Spielbetriebs GmbH gehen aus den Berichten nicht hervor. Die Personalie verknüpft einen bekannten Mediennamen direkt mit der organisatorischen Leitung des Spielbetriebs.",
-    "r": "Die Personalie ist relevant für die organisatorische Zukunft und Professionalisierung der Frauen-Bundesliga. Durch die Neugründung der Spielbetriebs GmbH wird die Struktur des Spielbetriebs grundlegend reformiert.",
+    "s": "Die Frauen-Bundesliga besetzt ihre zentrale Führungsposition für den Aufbau der neuen Spielbetriebs GmbH. Marcel Wontorra, der jüngste Spross der bekannten Sportmedienfamilie und Bruder von Laura Wontorra, übernimmt den Posten als erster Geschäftsführer. Damit wagt er den Einstieg in das große Fußballgeschäft.",
+    "m": "Die neu gegründete Frauen-Bundesliga hat ihre zentrale Führungsposition besetzt und die Weichen für den Aufbau der neuen Spielbetriebs GmbH gestellt. Zum ersten Geschäftsführer wurde Marcel Wontorra ernannt, der der jüngste Spross der bekannten Sportmedienfamilie ist und der Bruder von Moderatorin Laura Wontorra. Mit dieser Personalie macht sich ein weiteres Mitglied der Familie Wontorra auf in das große Fußballgeschäft. Die neue Spielbetriebs GmbH soll den Spielbetrieb der Frauen-Bundesliga organisieren und professionalisieren. Weitere Details zur genauen Ausgestaltung oder zum Zeitpunkt des Amtsantritts wurden in den vorliegenden Berichten nicht genannt. Offen bleibt zudem, welche konkreten ersten Schritte der neue Geschäftsführer zur Weiterentwicklung der Liga einleiten wird.",
+    "r": "Die Besetzung der Geschäftsführung der neuen Spielbetriebs GmbH ist ein wichtiger Schritt für die organisatorische und kommerzielle Weiterentwicklung der Frauen-Bundesliga. Die Personalie zieht durch die prominente Sportmedienfamilie der Wontorras zusätzliche Aufmerksamkeit auf sich.",
     "srcs": [
       {
         "name": "t-online Sport",
@@ -264,15 +1032,15 @@
       }
     ],
     "url": "https://www.t-online.de/sport/fussball/frauenfussball/id_101499854/laura-wontorra-bruder-erhaelt-hochkaraetigen-job-in-frauen-bundesliga.html",
-    "agree": "Die Quellen sind sich einig, dass Marcel Wontorra der erste Geschäftsführer der neuen Frauen-Bundesliga beziehungsweise deren Spielbetriebs GmbH wird und aus der bekannten Wontorra-Familie stammt.",
+    "agree": "Die Quellen sind sich einig, dass ein Wontorra als neuer Geschäftsführer die zentrale Führungsposition der neu gegründeten Frauen-Bundesliga übernimmt.",
     "diff": [
       {
         "name": "t-online Sport",
-        "note": "Erwähnt konkret, dass es sich um den Aufbau der neuen Spielbetriebs GmbH handelt und stellt den Bezug zu Schwester Laura Wontorra in den Vordergrund."
+        "note": "Erwähnt im Titel, dass es sich um den Bruder von Laura Wontorra handelt."
       },
       {
         "name": "ntv",
-        "note": "Bezeichnet Marcel Wontorra als den jüngsten Spross der Familie und hebt hervor, dass der Name Wontorra zu den klangvollsten in der Welt der Sportmedien gehört."
+        "note": "Nennt den Vornamen Marcel und bezeichnet ihn als den jüngsten Spross der Sportmedienfamilie."
       }
     ],
     "chg": "",
@@ -448,47 +1216,6 @@
     "independent": 2
   },
   {
-    "id": "story-f0278bb76e10f20e",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-27T12:29:00.000Z",
-    "p": 3,
-    "st": "SN",
-    "city": "",
-    "t": "NSU-Terroristin Beate Zschäpe bleibt mindestens bis 2035 in Haft",
-    "s": "Die verurteilte Rechtsterroristin Beate Zschäpe sitzt seit rund 15 Jahren im Gefängnis und hat deshalb ihre vorzeitige Haftentlassung beantragt. Das Oberlandesgericht München hat diesen Antrag abgelehnt. Damit muss sie voraussichtlich bis mindestens 2035 in Haft bleiben.",
-    "m": "Die verurteilte Rechtsterroristin Beate Zschäpe hat nach Verbüßung des Mindestmaßes ihrer lebenslangen Haftstrafe von rund 15 Jahren ihre vorzeitige Entlassung beantragt. Das Oberlandesgericht München hat diesen Antrag jedoch abgelehnt und entschieden, dass Zschäpe mindestens bis zum Jahr 2035 in Haft bleiben soll. Über eine mögliche vorzeitige Entlassung wird demnach frühestens im Jahr 2035 erneut entschieden.",
-    "r": "Die Entscheidung berührt Fragen der Sicherheit und des Umgangs mit verurteilten Rechtsterroristen nach Ablauf der Mindestverbüßungszeit. Sie zeigt die rechtlichen Grenzen und Fristen einer lebenslangen Freiheitsstrafe in Deutschland auf.",
-    "srcs": [
-      {
-        "name": "Tagesschau Regional Sachsen",
-        "url": "https://www.tagesschau.de/inland/regional/sachsen/strafe-,zschaepe-gefaengnis-102.html",
-        "date": "2026-10-27T12:29:00.000Z"
-      },
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/inland/zschaepe-gericht-gegen-vorzeitige-haftentlassung-100.html",
-        "date": "2026-10-27T11:10:07.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/regional/sachsen/strafe-,zschaepe-gefaengnis-102.html",
-    "agree": "Die Quellen stimmen überein, dass Beate Zschäpe mindestens bis 2035 in Haft bleiben soll und ihr Antrag auf vorzeitige Entlassung abgelehnt wurde.",
-    "diff": [
-      {
-        "name": "Tagesschau Regional Sachsen",
-        "note": "nennt das Oberlandesgericht München als zuständige Instanz für die Entscheidung ab 2035"
-      },
-      {
-        "name": "Tagesschau",
-        "note": "führt aus, dass Zschäpe bereits seit rund 15 Jahren im Gefängnis sitzt und dies das Mindestmaß bei einer lebenslangen Haftstrafe ist"
-      }
-    ],
-    "chg": "",
-    "independent": 1
-  },
-  {
     "id": "story-7ffdb82de1cac194",
     "c": "DE",
     "o": "DE",
@@ -499,12 +1226,12 @@
     "st": "BW",
     "city": "",
     "t": "Ermittlungen nach tödlichem Lkw-Unfall in Schramberg eingestellt",
-    "s": "Nach einem tragischen Verkehrsunfall in Schramberg, bei dem eine Mutter und ihr Sohn von einem Lastwagen erfasst und getötet wurden, hat die Staatsanwaltschaft die Ermittlungen eingestellt. Ein unabhängiges Gutachten hat ergeben, dass dem Lkw-Fahrer kein rechtlich relevanter Fehler nachweisbar ist. Das Verfahren gegen den Fahrer wurde somit beendet.",
-    "m": "Der schwere Unfall ereignete sich in Schramberg, als ein Lkw eine Mutter und ihren Sohn erfasste, was zu deren Tod führte. In der Folge leitete die Staatsanwaltschaft ein Ermittlungsverfahren gegen den Lastwagenfahrer ein, um die genauen Unfallursachen und ein mögliches Verschulden zu klären. Zur Aufklärung des Geschehens wurde ein detailliertes unfallanalytisches Gutachten in Auftrag gegeben. Dieses Gutachten kam nun zu dem Ergebnis, dass der Fahrer den Unfall nicht hätte vermeiden können und ihm kein Vorwurf zu machen ist. Gestützt auf diese Feststellungen entschied die Staatsanwaltschaft, das Verfahren offiziell einzustellen. Damit sind strafrechtliche Konsequenzen für den Fahrer vom Tisch.",
-    "r": "Die Einstellung des Ermittlungsverfahrens nach einem tödlichen Unfall mit Fußgängern ist juristisch relevant für die Klärung von Schuldfragen im Straßenverkehr. Das Gutachten schafft Klarheit über die Einstandspflicht des Lkw-Fahrers.",
+    "s": "In Schramberg wurden eine Mutter und ihr Sohn von einem Lastwagen erfasst und tödlich verletzt. Nun hat die Staatsanwaltschaft die Ermittlungsverfahren eingestellt. Ein Sachverständigengutachten ergab, dass dem Lastwagenfahrer kein Vorwurf gemacht werden kann.",
+    "m": "Der tragische Unfall in Schramberg, bei dem eine Mutter und ihr Sohn ums Leben kamen, hat zu rechtlichen Konsequenzen geführt. Die zuständige Staatsanwaltschaft leitete nach dem Unglück Ermittlungen ein, um den genauen Hergang und mögliche Verantwortlichkeiten zu klären. Zur Aufklärung wurde ein detailliertes Verkehrsunfall- und technisches Gutachten in Auftrag gegeben. Die Auswertung dieses Gutachtens ergab nun, dass dem Lastwagenfahrer kein strafrechtlich relevanter Fehler nachweisbar ist. Folglich wurden die Ermittlungsverfahren im Zusammenhang mit dem Unfall offiziell eingestellt. Weitere rechtliche Schritte sind nach aktuellem Stand nicht vorgesehen, während der Fall abgeschlossen ist.",
+    "r": "Die Einstellung des Verfahrens beendet die strafrechtliche Aufarbeitung eines tödlichen Verkehrsunfalls. Die gerichtliche Klärung der Schuldfrage ist für die beteiligten Parteien und die Öffentlichkeit von Bedeutung.",
     "srcs": [
       {
-        "name": "SWR Aktuell",
+        "name": "SWR Aktuell Baden-Württemberg",
         "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/freiburg/ermittlungen-gegen-lastwagenfahrer-nach-toedlichem-unfall-in-schramberg-eingestellt-100.html",
         "date": "2026-10-27T12:17:18.000Z"
       },
@@ -515,7 +1242,7 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/freiburg/ermittlungen-gegen-lastwagenfahrer-nach-toedlichem-unfall-in-schramberg-eingestellt-100.html",
-    "agree": "Beide Quellen stimmen darin überein, dass die Staatsanwaltschaft die Ermittlungen nach dem tödlichen Unfall in Schramberg eingestellt hat und dem Lastwagenfahrer laut Gutachten kein Fehler nachweisbar ist.",
+    "agree": "Die Quellen stimmen überein, dass in Schramberg eine Mutter und ihr Sohn von einem Lkw erfasst und getötet wurden sowie dass die Ermittlungen nach einem Gutachten eingestellt wurden.",
     "diff": [],
     "chg": "",
     "independent": 2
@@ -806,9 +1533,9 @@
     "st": "",
     "city": "",
     "t": "Schmelzende Gletscher in den Dolomiten geben Weltkriegsmunition frei",
-    "s": "In den italienischen Dolomiten sind durch das Abschmelzen von Gletschern im Sommer zahlreiche nicht explodierte Bomben und Granaten aus dem Ersten Weltkrieg zum Vorschein gekommen. Wanderer hatten die historischen Sprengkörper entdeckt und gemeldet. Die Funde waren über ein Jahrhundert lang im Eis eingeschlossen.",
-    "m": "Die italienische Armee hat insgesamt 250 Explosivkörper geborgen und entschärft, die seit mehr als 100 Jahren im Gletschereis der Dolomiten steckten. Zu den Funden zählten italienische Artilleriegranaten sowie französische Mörserbomben. Der Einsatz wurde von der alpinen Julia-Brigade des italienischen Heeres durchgeführt, nachdem Wanderer auf die gefährlichen Relikte aufmerksam geworden waren. Der Vorfall verdeutlicht die sichtbaren Folgen des rasanten Gletscherrückgangs in der Region. Weitere Details zu potenziellen Fundorten in der Umgebung wurden zunächst nicht genannt.",
-    "r": "Der Fund historischer Munition in schmelzenden Gletschern verdeutlicht die unerwarteten physischen Gefahren, die durch den Klimawandel in alpinen Regionen freigesetzt werden. Gleichzeitig zeigt er den anhaltenden Aufwand der Behörden zur Sicherung solcher historischen Hinterlassenschaften.",
+    "s": "In den italienischen Dolomiten sind diesen Sommer infolge stark schmelzender Gletscher zahlreiche Sprengkörper aus dem Ersten Weltkrieg zum Vorschein gekommen. Wanderer hatten die historischen Funde gemeldet. Die italienische Armee hat daraufhin rund 250 Explosivkörper geborgen und entschärft.",
+    "m": "Die Entdeckung umfasst etwa 250 unexplodierte Bomben, darunter italienische Artilleriegranaten und französische Mörserbomben, die seit mehr als 100 Jahren im Eis eingeschlossen waren. Nach Hinweisen von Wanderern rückte die Julia-Alpinbrigade der italienischen Armee aus, um das gefährliche Material zu bergen und fachgerecht zu entschärfen. Der Vorfall verdeutlicht die sichtbaren Auswirkungen des Klimawandels und der Gletscherschmelze in den Alpen, durch die immer wieder historische Funde und potenziell gefährliche Altlasten freigelegt werden. Offiziellen Angaben zufolge verlief der Einsatz erfolgreich, dennoch bleibt die Region durch den fort schreitenden Gletscherrückgang im Fokus.",
+    "r": "Der Fund und die Entschärfung von historischer Kriegsmunition in den Alpen zeigen die physischen Folgen des Klimawandels und der Gletscherschmelze. Solche Entdeckungen bergen Sicherheitsrisiken für Wanderer und erfordern Großeinsätze des Militärs.",
     "srcs": [
       {
         "name": "Google News World",
@@ -822,11 +1549,11 @@
       }
     ],
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbWE0R3RJN2NTY0JaOEZ4dEpfY3hBTkMtbXRCN2UyUEZHaG1MZVQxNWFiNHh0UEtqb0RLS2pseTdfTEhKajVVZzJlSVlUdmE3S0ZFSE8wcFBzbzBVSGZDMmUtYWVDeU9LTm9jdXRLTXhFYkZkNHU4YWZrZXpkUDI1U3BJcDZzWHBYSjFaVjU2RGdZTE9mQUFlbzA5cktDaGt3ZGpSMVZqNA?oc=5",
-    "agree": "Die Quellen stimmen überein, dass schmelzende Gletscher in den Dolomiten Munition aus dem Ersten Weltkrieg freigelegt haben.",
+    "agree": "",
     "diff": [
       {
         "name": "Guardian World",
-        "note": "Berichtet konkret, dass die italienische Armee 250 Explosivkörper (darunter italienische Artilleriegranaten und französische Mörserbomben) durch die alpine Julia-Brigade geborgen und entschärft hat und dass Wanderer die Entdeckung machten."
+        "note": "Berichtet im Detail, dass die italienische Armee 250 Sprengkörper nach Hinweisen von Wanderern entfernte und entschärfte, darunter italienische Artilleriegranaten und französische Mörserbomben, die über 100 Jahre im Eis lagen."
       }
     ],
     "chg": "",
@@ -842,10 +1569,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Ausreiseverbot für Flávio Bolsonaro nach Präsidentenwahl in Brasilien",
-    "s": "Nach der verlorenen Präsidentenwahl in Brasilien ist gegen den unterlegenen Kandidaten Flávio Bolsonaro ein Ausreiseverbot verhängt worden. Er muss seine Pässe abgeben. Grund für die Maßnahmen sind laufende Ermittlungen gegen ihn wegen mutmaßlicher Geldwäsche.",
-    "m": "Die juristischen Probleme für den unterlegenen brasilianischen Präsidentschaftskandidaten Flávio Bolsonaro haben sich verschärft. Nur einen Tag nach seiner Wahlniederlage wurde ein offizielles Ausreiseverbot gegen ihn erlassen. Im Rahmen dieser Anordnung muss Bolsonaro seine Pässe abgeben. Hintergrund der polizeilichen und justiziellen Schritte sind Ermittlungen wegen des Verdachts auf Geldwäsche. Den vorliegenden Berichten zufolge steht diese mutmaßliche Geldwäsche in einem direkten Zusammenhang mit Sportwetten. Die Ermittlungen und die beschlossenen Beschränkungen der Reisefreiheit unterstreichen den politischen und rechtlichen Druck auf den Politiker nach dem Ausgang der Wahl.",
-    "r": "Die Meldung ist relevant, da sie die rechtlichen Konsequenzen und Ermittlungen gegen einen prominenten brasilianischen Politiker unmittelbar nach einer richtungsweisenden Präsidentschaftswahl dokumentiert.",
+    "t": "Ausreiseverbot für Flávio Bolsonaro nach verlorener Wahl in Brasilien",
+    "s": "Kurz nach der Präsidentenwahl in Brasilien ist gegen den unterlegenen Kandidaten Flávio Bolsonaro ein Ausreiseverbot verhängt worden. Zudem muss er seine Pässe abgeben. Hintergrund der Maßnahmen sind laufende Ermittlungen gegen ihn.",
+    "m": "Die Justiz hat nach der verlorenen brasilianischen Präsidentenwahl ein Ausreiseverbot gegen den Kandidaten Flávio Bolsonaro erlassen. Im Rahmen dieser Anordnung muss er seine Pässe abgeben. Grund für die juristischen Schritte sind Ermittlungen wegen mutmaßlicher Geldwäsche. Nach Angaben der Berichterstattung steht dieser Verdacht im Zusammenhang mit Sportwetten. Die Entwicklungen folgen unmittelbar auf den Ausgang der Wahl und treffen den Politiker direkt im Anschluss an seine Niederlage. Weitere Details zum genauen Ablauf der Ermittlungen oder konkreten Summen wurden in den vorliegenden Meldungen zunächst nicht genannt.",
+    "r": "Die juristischen Schritte gegen einen prominenten brasilianischen Politiker unmittelbar nach einer Wahl sind von politischem und gesellschaftlichem Interesse. Die Vorwürfe der Geldwäsche im Zusammenhang mit Sportwetten betreffen die Integrität des politischen Personas.",
     "srcs": [
       {
         "name": "ZDF heute",
@@ -859,15 +1586,15 @@
       }
     ],
     "url": "https://www.zdfheute.de/politik/ausland/brasilien-wahl-bolsonaro-ermittlungen-geldwaesche-ausreiseverbot-100.html",
-    "agree": "Beide Quellen stimmen überein, dass gegen Flávio Bolsonaro nach der verlorenen Präsidentschaftswahl in Brasilien ein Ausreiseverbot verhängt wurde, er seine Pässe abgeben muss und Ermittlungen wegen mutmaßlicher Geldwäsche laufen.",
+    "agree": "Die Quellen sind sich einig, dass gegen den unterlegenen Präsidentschaftskandidaten Flávio Bolsonaro nach der Wahl in Brasilien ein Ausreiseverbot verhängt wurde, er seine Pässe abgeben muss und Ermittlungen wegen Geldwäsche laufen.",
     "diff": [
       {
         "name": "ZDF heute",
-        "note": "Ergänzt den konkreten Kontext, dass die mutmaßliche Geldwäsche im Zusammenhang mit Sportwetten steht."
+        "note": "Erwähnt zusätzlich, dass die Ermittlungen wegen Geldwäsche im Zusammenhang mit Sportwetten stehen."
       },
       {
         "name": "Tagesschau",
-        "note": "Betont die zeitliche Abfolge als weitere schlechte Nachrichten für den unterlegenen Kandidaten direkt nach der Präsidentenwahl."
+        "note": "Ordnet das Ereignis explizit als schlechte Nachricht nach der Präsidentenwahl ein, nennt jedoch den spezifischen Bezug zu Sportwetten nicht."
       }
     ],
     "chg": "",
@@ -883,10 +1610,10 @@
     "p": 1,
     "st": "NI",
     "city": "",
-    "t": "18-Jaehriger organisiert eigenes Techno-Event in Lohne",
-    "s": "Der 18-jaehrige Versicherungs-Azubi Sebastian Bocklage hat in Lohne bei Vechta ein eigenes Techno-Event veranstaltet. Dafuer hat er sein Erspartes investiert und rund 250 Karten verkauft. Die Veranstaltung fand laendlich statt und zog etliche Besucher an.",
-    "m": "Sebastian Bocklage, ein Auszubildender im Versicherungswesen, hat seinen Traum verwirklicht und eine eigene Techno-Party auf dem Land auf die Beine gestellt. Fuer das Event in Lohne im Landkreis Vechta kratzte er seine Ersparnisse zusammen, um die Kosten zu tragen. Insgesamt wurden rund 250 Karten fuer die Veranstaltung verkauft. Neben der Rolle des Organisators trat der junge Mann auch als DJ auf. Das Projekt zeigt, wie junge Menschen Eigeninitiative ergreifen, um in laendlichen Regionen kulturelle oder musikalische Angebote zu schaffen. Offen bleibt bislang, wie die Behoerden oder Anwohner auf das Event reagierten und ob weitere Veranstaltungen in dieser Form geplant sind.",
-    "r": "Die Meldung zeigt beispielhaft das kulturelle Engagement Jugendlicher im laendlichen Raum. Sie verdeutlicht, wie private Eigeninitiative und Ersparnisse genutzt werden, um eigene musikalische Events zu realisieren.",
+    "t": "18-Jaehriger veranstaltet eigenes Techno-Event in Lohne",
+    "s": "Der 18-jaehrige Versicherungs-Azubi Sebastian Bocklage hat in Lohne bei Vechta ein eigenes Techno-Event organisiert. Er hat dafür sein Erspartes investiert und ist neben der Rolle des Veranstalters auch als DJ taetig. Für die Veranstaltung wurden rund 250 Karten verkauft.",
+    "m": "Das privat auf dem Land organisierte Techno-Event wurde von dem 18-jaehrigen Versicherungs-Azubi Sebastian Bocklage auf die Beine gestellt. Um die Feier zu ermoeglichen, hat Bocklage sein Erspartes zusammengekratzt und das Geld in das Projekt investiert. In Lohne im Landkreis Vechta fanden rund 250 Karten für das Event Abnehmer. Neben der Organisation und Finanzierung betätigte sich Bocklage bei dem Event auch als DJ. Weitere Details zum genauen Veranstaltungsort, zur Behoerdengenehmigung oder zur Resonanz der Besucher gehen aus den vorliegenden Berichten nicht hervor. Offen bleibt auch, ob weitere Veranstaltungen dieser Art geplant sind.",
+    "r": "Die Meldung ist regional für den niedersächsischen Raum von Interesse, da ein Jugendlicher eigeninitiativ ein groesseres Event auf dem Land auf die Beine gestellt hat. Solche lokalen Veranstaltungen geben Einblick in das Engagement und die Freizeitkultur junger Erwachsener in laendlichen Regionen.",
     "srcs": [
       {
         "name": "Tagesschau Regional Niedersachsen",
@@ -900,15 +1627,15 @@
       }
     ],
     "url": "https://www.tagesschau.de/inland/regional/niedersachsen/traum-von-eigenem-techno-event-azubi-investiert-9000-euro,technoparty-100.html",
-    "agree": "Beide Quellen stimmen darin ueberein, dass der 18-jaehrige Versicherungs-Azubi Sebastian Bocklage in Lohne ein Techno-Event veranstaltet hat und dafür sein Erspartes nutzte.",
+    "agree": "Die Quellen sind sich einig, dass der 18-jährige Versicherungs-Azubi Sebastian Bocklage in Lohne ein eigenes Techno-Event veranstaltet und dafür sein Erspartes investiert hat.",
     "diff": [
       {
         "name": "Tagesschau Regional Niedersachsen",
-        "note": "Erwaehnt zusaetzlich, dass rund 250 Karten fuer das Event verkauft wurden."
+        "note": "Erwaehnt zusaetzlich, dass rund 250 Karten für das Event verkauft wurden."
       },
       {
         "name": "NDR Niedersachsen",
-        "note": "Berichtet zusaetzlich, dass Sebastian Bocklage bei der Veranstaltung auch als DJ auftrat."
+        "note": "Berichtet zusaetzlich, dass Sebastian Bocklage bei dem Event nicht nur Veranstalter, sondern auch als DJ taetig ist."
       }
     ],
     "chg": "",
@@ -980,9 +1707,9 @@
     "st": "BW",
     "city": "",
     "t": "Bundesraumfahrtministerin Bär besucht Raumfahrtstandort Baden-Württemberg",
-    "s": "Bundesraumfahrtministerin Bär reist nach Baden-Württemberg, um sich vor Ort über den dortigen Raumfahrtsektor zu informieren. Auf ihrer Agenda stehen unter anderem Termine bei dem Raumfahrtunternehmen TESAT in Backnang sowie an der Universität Stuttgart. Der Besuch unterstreicht die wachsende Bedeutung des Bundeslandes als zentraler Raumfahrtstandort in Deutschland. Konkrete politische Beschlüsse oder finanzielle Zusagen wurden in den Berichten bisher nicht genannt.",
-    "m": "Die Bundesraumfahrtministerin hat im Rahmen ihrer Informationsreise das Raumfahrtunternehmen TESAT im baden-württembergischen Backnang sowie die Universität Stuttgart besucht. Ziel der Reise ist es, Einblicke in die regionalen Kapazitäten und technologischen Entwicklungen zu erhalten, da Baden-Württemberg innerhalb der deutschen Raumfahrtlandschaft eine immer wichtigere Rolle einnimmt. TESAT gilt dabei als bedeutender Akteur in der Entwicklung von Satellitenkommunikation und Raumfahrtkomponenten. An der Universität Stuttgart stehen der Austausch mit Forschern sowie der akademische Beitrag zur Nachwuchsförderung und Innovation im Fokus. Die Auswahl der Stationen zeigt, dass sowohl industrielle Stärke als auch wissenschaftliche Exzellenz im Südwesten stark vertreten sind. Offen bleibt bislang, welche konkreten politischen oder wirtschaftlichen Fördermaßnahmen aus dem Besuch resultieren und ob weitere Standorte im Bundesland besichtigt werden.",
-    "r": "Der Besuch einer Bundesministerin bei Schlüsselakteuren der Raumfahrt unterstreicht die strategische Relevanz regionaler Standorte für die nationale Raumfahrtpolitik. Solche Termine verdeutlichen, wie Industrie und Forschung im Südwesten vernetzt sind und welche wirtschaftlicheskraft dahintersteht.",
+    "s": "Bundesraumfahrtministerin Bär besucht das Raumfahrtunternehmen TESAT in Backnang sowie die Universität Stuttgart. Der Besuch unterstreicht die wachsende Bedeutung Baden-Württembergs als zentraler Raumfahrtstandort in Deutschland. Ziel der Reise ist es, sich vor Ort ein Bild von den aktuellen Entwicklungen und Projekten zu machen.",
+    "m": "Im Rahmen ihrer Reise nach Baden-Württemberg informiert sich Bundesraumfahrtministerin Bär über die Leistungsfähigkeit der regionalen Raumfahrtindustrie und Forschung. Erste Stationen sind das auf Satellitenkommunikation spezialisierte Unternehmen TESAT in Backnang sowie die Universität Stuttgart, die maßgeblich an Raumfahrtprojekten und der Ausbildung von Fachkräften beteiligt ist. Das Bundesland hat sich in den vergangenen Jahren zu einem bedeutenden Zentrum für Raumfahrttechnologien entwickelt. Der Austausch soll auch politische und wirtschaftliche Rahmenbedingungen für die Branche stärken.",
+    "r": "Der Besuch einer Bundesministerin in regionalen Raumfahrtbetrieben verdeutlicht die politische und wirtschaftliche Relevanz des Standorts Baden-Württemberg für die nationale Luft- und Raumfahrtstrategie.",
     "srcs": [
       {
         "name": "Tagesschau Regional Baden-Württemberg",
@@ -996,15 +1723,15 @@
       }
     ],
     "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-neuer-vorreiter-so-geht-baden-wuerttemberg-bei-raumfahrt-voran-100.html",
-    "agree": "Beide Quellen stimmen überein, dass Bundesraumfahrtministerin Bär das Raumfahrtunternehmen TESAT in Backnang und die Universität Stuttgart besucht hat, um die Bedeutung Baden-Württembergs als Raumfahrtstandort zu würdigen.",
+    "agree": "Die Quellen sind sich einig, dass Bundesraumfahrtministerin Bär das Unternehmen TESAT in Backnang und die Universität Stuttgart besucht, weil Baden-Württemberg als Raumfahrtstandort an Bedeutung gewonnen hat.",
     "diff": [
       {
         "name": "Tagesschau Regional Baden-Württemberg",
-        "note": "Betitelt den Beitrag mit dem Zusatz 'So geht Baden-Württemberg bei Raumfahrt voran'."
+        "note": "Betitelt den Beitrag als 'Neuer Vorreiter: So geht Baden-Württemberg bei Raumfahrt voran'."
       },
       {
         "name": "SWR Aktuell Baden-Württemberg",
-        "note": "Verwendet eine leicht verkürzte Version des Titels ohne den Zusatz 'So geht Baden-Württemberg bei Raumfahrt voran'."
+        "note": "Betitelt den Beitrag leicht abgewandelt als 'Neuer Vorreiter: Baden-Württemberg geht bei Raumfahrt voran'."
       }
     ],
     "chg": "",
@@ -15669,713 +16396,5 @@
     "diff": [],
     "chg": "",
     "independent": 2
-  },
-  {
-    "id": "story-5cc3d011c2f4a9a8",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-21T19:57:00.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Verlag bestätigt KI-Vorwürfe gegen Autor Thélyson Orélien",
-    "s": "Der Schriftsteller Thélyson Orélien hat den Einsatz von künstlicher Intelligenz für sein Buch zunächst vehement bestritten. Nun hat sein Verlag nach einer Untersuchung offiziell bestätigt, dass KI im Schreibprozess verwendet wurde. Die Konsequenz aus diesen Enthüllungen ist die sofortige Beendigung der Zusammenarbeit.",
-    "m": "Der Fall um den Autor Thélyson Orélien hat durch die offizielle Erklärung seines Verlags eine neue Wendung genommen. Zuvor hatte der Schriftsteller die wiederholten Vorwürfe, künstliche Intelligenz für sein literarisches Werk genutzt zu haben, stets zurückgewiesen. Nach eigenen Überprüfungen sah sich der Verlag jedoch gezwungen, die Anschuldigungen als begründet anzusehen. Als direkte Reaktion auf diesen Vertrauensbruch wurde die Beendigung der weiteren Zusammenarbeit beschlossen. Es bleibt vorerst offen, welche konkreten vertraglichen oder rechtlichen Nachwirkungen dieser Vorfall für den Autor haben wird. Details über den genauen Umfang des KI-Einsatzes im Text wurden vom Verlag zunächst nicht detailliert offengelegt. Der Vorfall wirft brisante Fragen zum Umgang mit modernen Technologien und Urheberrechten im Literaturbetrieb auf.",
-    "r": "Der Fall verdeutlicht die zunehmenden Kontroversen und Qualitätsstandards beim Einsatz von KI-Technologien im Literaturbetrieb. Die Bestätigung durch den Verlag unterstreicht die Relevanz von Authentizität bei literarischen Werken.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcVBsaDhUd1ZySEIzVzBXSk16S2F3RFVGRktwMkhUNGU4MTgxR1JJNkczZUh5UzN6QWR3RU16TFRwOHVLZGxsZXFtdlpaRDJXN09wX29BMEFNUXFrZktvc2R6cVJmYVozaHhnYXBUNXJNS21PbVNObTFYNGlRdkNwY1FfN2ZlbmNIQ080NUlpX2dLZWwzT0ltUDIyQVM2VF9WVEdvUU9ZY2c0SFRfUVMtWWR5bXdVREZJYlJCQ3F6MUV0N2JuSE9WR1RDYk5jMWFmNU1IM28xQ0RWN3htM1dDNWdLcllaRWRxT2Uw?oc=5",
-        "date": "2026-10-21T19:57:00.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/kultur/thelyson-orelien-verlag-bestaetigt-ki-vorwuerfe-gegen-autor-zusammenarbeit-eingestellt-a-92c50624-48ca-4166-a9fa-7ccbad3dfe7a#ref=rss",
-        "date": "2026-10-21T19:57:00.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcVBsaDhUd1ZySEIzVzBXSk16S2F3RFVGRktwMkhUNGU4MTgxR1JJNkczZUh5UzN6QWR3RU16TFRwOHVLZGxsZXFtdlpaRDJXN09wX29BMEFNUXFrZktvc2R6cVJmYVozaHhnYXBUNXJNS21PbVNObTFYNGlRdkNwY1FfN2ZlbmNIQ080NUlpX2dLZWwzT0ltUDIyQVM2VF9WVEdvUU9ZY2c0SFRfUVMtWWR5bXdVREZJYlJCQ3F6MUV0N2JuSE9WR1RDYk5jMWFmNU1IM28xQ0RWN3htM1dDNWdLcllaRWRxT2Uw?oc=5",
-    "agree": "Die Quellen stimmen überein, dass der Verlag die Vorwürfe des KI-Einsatzes gegen den Autor Thélyson Orélien bestätigt und die Zusammenarbeit eingestellt hat.",
-    "diff": [
-      {
-        "name": "Google News DE",
-        "note": "Berichtet über den Spiegel-Artikel als Quelle und erwähnt den Namen Thélyson Orélien im Teaser."
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "Liefert den Haupttext, der die Details der Verlagsmitteilung und das vorherige Bestreiten des Autors schildert."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-83bb4c5b1d8c35e2",
-    "c": "INT",
-    "o": "UK",
-    "k": "technik",
-    "lang": "de",
-    "d": "2026-10-21T19:54:57.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Weltweite Website-Ausfälle nach kritischem PHP-Sicherheitsupdate",
-    "s": "Weltweit kam es zu Ausfällen von Websites, nachdem ein kritisches Sicherheitsupdate für die Programmiersprache PHP veröffentlicht wurde. Die Schwachstellen wurden mithilfe von Künstlicher Intelligenz als die bisher bedeutendsten eingestuft.",
-    "m": "Das Problem betrifft die weit verbreitete Programmiersprache PHP, deren Schwachstellen von einer KI als die signifikantesten jemals entdeckten eingestuft wurden. Aufgrund der kritischen Lage wurden Updates und notwendige Massnahmen eingeleitet, die zu weltweiten Website-Ausfällen führten. Die Störungen unterstreichen die Verwundbarkeit grosser Teile der digitalen Infrastruktur. Es wird intensiv an der Behebung der Sicherheitslücken gearbeitet. Weitere Details zu betroffenen Unternehmen oder Diensten wurden in den Berichten zunächst nicht genannt. Die Situation verdeutlicht die zunehmende Rolle von Künstlicher Intelligenz bei der Identifizierung von Software-Schwachstellen.",
-    "r": "Die weltweiten Website-Ausfälle und die Entdeckung schwerwiegender PHP-Schwachstellen durch KI verdeutlichen die Verletzlichkeit globaler IT-Infrastrukturen und erfordern dringende Sicherheitsmassnahmen.",
-    "srcs": [
-      {
-        "name": "BBC Technology",
-        "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-21T19:54:57.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yYkJ1a0hkTXBMWUxzUGRNam81RzlXVTd0THJ2cWlvbVd4VmlNQ0ZzeHV0b21aR21mazJNTXAwSjRqN3VoNzgydHplRmRUamltaFJSUmZvcXBUZDg?oc=5",
-        "date": "2026-10-21T19:54:57.000Z"
-      }
-    ],
-    "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
-    "agree": "Beide Quellen berichten übereinstimmend von weltweiten Website-Ausfällen aufgrund eines kritischen PHP-Sicherheitsupdates sowie von durch KI entdeckten signifikanten Schwachstellen.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-ee22c0827015b93b",
-    "c": "INT",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-21T19:53:47.000Z",
-    "p": 4,
-    "st": "BY",
-    "city": "",
-    "t": "Papst Leo XIV. nach Lungen-OP krebsfrei und ohne weitere Therapie",
-    "s": "Papst Leo XIV. musste vor rund einer Woche ein bösartiger Tumor aus dem rechten Lungenlappen entfernt werden. Nun haben behandelnde Ärzte Entwarnung gegeben. Der 71-Jährige benötigt nach dem Eingriff keine weitere medizinische Behandlung.",
-    "m": "Dem 71-jährigen Papst Leo XIV. wurde vor etwa einer Woche ein Teil des rechten Lungenlappens operativ entfernt, nachdem dort ein bösartiger Tumor festgestellt worden war. Nun liegt das definitive Ergebnis vor und die Ärzte gaben offizielle Entwarnung. Demnach hat der Krebs nicht gestreut und es wurden keine weiteren Metastasen im Körper gefunden. Aufgrund dieses positiven Befundes ist für den Pontifex keine weitere Krebstherapie erforderlich. Die Operation selbst fand in einem Krankenhaus statt, wobei Details zu den beteiligten Medizinern und dem genauen Genesungsverlauf in den Quellen nicht weiter ausgeführt werden. Die erfolgreiche Operation beendet vorerst die Sorgen um den Gesundheitszustand des Kirchenoberhaupts.",
-    "r": "Die Nachricht ist relevant, da es sich um den Gesundheitszustand des katholischen Kirchenoberhaupts handelt und eine Krebserkrankung bei einem Amtsträger dieses Rangs weltweite Beachtung findet. Zudem gibt die Entwarnung Aufschluss über den erfolgreichen Verlauf des medizinischen Eingriffs.",
-    "srcs": [
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/panorama/Krebs-bei-Papst-hat-nicht-gestreut-id31444478.html",
-        "date": "2026-10-21T19:53:47.000Z"
-      },
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/vatikan-papst-leo-ist-krebsfrei-keine-weitere-therapie-noetig,VYiK0DS",
-        "date": "2026-10-21T19:38:54.000Z"
-      }
-    ],
-    "url": "https://www.n-tv.de/panorama/Krebs-bei-Papst-hat-nicht-gestreut-id31444478.html",
-    "agree": "Die Quellen sind sich einig, dass dem 71-jährigen Papst Leo XIV. ein bösartiger Tumor aus dem rechten Lungenlappen entfernt wurde, der Krebs nicht gestreut hat und keine weitere Therapie nötig ist.",
-    "diff": [
-      {
-        "name": "ntv",
-        "note": "Erwähnt konkret, dass dem Papst ein Teil des rechten Lungenlappens entfernt wurde."
-      },
-      {
-        "name": "BR24 Bayern",
-        "note": "Gibt an, dass der Eingriff vor rund einer Woche stattfand und die Ärzte Entwarnung gaben."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-7963b3dae754ca63",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-21T19:46:55.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Verlag beendet Zusammenarbeit mit Star-Autor nach KI-Vorwürfen",
-    "s": "Nach Vorwürfen über den Einsatz von künstlicher Intelligenz hat ein Verlag die Zusammenarbeit mit dem Star-Autor Thélyson Orélien beendet. Der Verlag sieht die Vorwürfe nach eigenen Angaben als bestätigt an. Eine abschließende Klärung zum genauen Ausmaß des KI-Einsatzes steht jedoch noch aus.",
-    "m": "Der Verlag hat nach einer Prüfung Konsequenzen gezogen und sich von dem Autor Thélyson Orélien getrennt, nachdem zuvor Vorwürfe bezüglich der Verwendung von künstlicher Intelligenz laut wurden. Trotz der Beendigung der geschäftlichen Beziehungen bleibt eine endgültige und detaillierte Antwort auf die Frage, in welchem Umfang genau KI bei den Werken genutzt wurde, bislang aus. Der Fall wirft Fragen zum Umgang der Verlagsbranche mit künstlicher Intelligenz bei literarischen Werken auf. Weitere Details zu den betroffenen Publikationen oder Reaktionen des Autors selbst gehen aus den vorliegenden Berichten nicht hervor. Der aktuelle Stand beschränkt sich auf die offizielle Trennung und die Bestätigung der Vorwürfe durch den Verlag.",
-    "r": "Die Vorwürfe und die darauffolgende Trennung eines Verlags von einem Star-Autor wegen des Einsatzes von künstlicher Intelligenz beleuchten die aktuellen Herausforderungen und Richtlinien im Literaturbetrieb. Der Fall zeigt auf, wie Verlage auf entsprechende Enthüllungen reagieren.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNX09Sc25PLXVOXzNtYVlLVDVtSkwzTmhlRjJFdUZYVDdQRkF0bkJSLU1ETlRtVnhqSXJCWWpCdFJpWkFRdm1EWkJObnF5SEp6S1FERUh4TlU1dEVMbl9jWVl6cDFWN245Nmp6akc1QmRPamxULTRubjk5NU9MdzlsNjhMdV9wMnVjM1p0TTAyTVVaUGF0X2Q1aldvZXVFVGpOckEwY29veGlUVVpKZjZRNDd1WnVuYzJrekFrNWxROUllYWtVRmRmNDBEY2M1LXU2d3pRa29xLUVXaEM5REp5d0JKQjlQcWkwWXY2WA?oc=5",
-        "date": "2026-10-21T19:46:55.000Z"
-      },
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/kultur/article6ad90bfb644b4a3b9e68b281/verlag-sieht-ki-vorwuerfe-gegen-star-autor-orelien-bestaetigt-und-beendet-die-zusammenarbeit.html",
-        "date": "2026-10-21T19:21:22.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNX09Sc25PLXVOXzNtYVlLVDVtSkwzTmhlRjJFdUZYVDdQRkF0bkJSLU1ETlRtVnhqSXJCWWpCdFJpWkFRdm1EWkJObnF5SEp6S1FERUh4TlU1dEVMbl9jWVl6cDFWN245Nmp6akc1QmRPamxULTRubjk5NU9MdzlsNjhMdV9wMnVjM1p0TTAyTVVaUGF0X2Q1aldvZXVFVGpOckEwY29veGlUVVpKZjZRNDd1WnVuYzJrekFrNWxROUllYWtVRmRmNDBEY2M1LXU2d3pRa29xLUVXaEM5REp5d0JKQjlQcWkwWXY2WA?oc=5",
-    "agree": "Die Quellen sind sich einig, dass ein Verlag die Zusammenarbeit mit dem Star-Autor nach KI-Vorwürfen beendet hat.",
-    "diff": [
-      {
-        "name": "Google News DE",
-        "note": "Bringt die Kurzmeldung mit Verweis auf die WELT-Berichterstattung."
-      },
-      {
-        "name": "WELT",
-        "note": "Nennt den Namen des Autors Thélyson Orélien und ergänzt, dass eine endgültige Antwort auf das Ausmaß des KI-Einsatzes ausbleibt."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-bcc415a322f36c1a",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-21T19:45:21.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Feministisches Magazin \"Emma\" wird nach 50 Jahren eingestellt",
-    "s": "Das feministische Magazin \"Emma\" wird nach 50 Jahren eingestellt. Die Herausgeberin Alice Schwarzer gab in Köln bekannt, dass die Ausgabe vom 8. Dezember die letzte sein wird. Die Zeitschrift war im Januar 1977 von Schwarzer mit einem Kollektiv gegründet worden. Die Gründe für das Aus sind laut Schwarzer nicht ökonomischer Natur.",
-    "m": "Die traditionsreiche feministische Zeitschrift \"Emma\" stellt ihr Erscheinen nach einem halben Jahrhundert ein. Gründerin Alice Schwarzer teilte diesen Schritt in Köln mit und betonte, dass wirtschaftliche Schwierigkeiten nicht der Grund für die Einstellung sind. Stattdessen erklärte sie knapp mit Blick auf das Team: \"Wir meinen, es reicht.\" Die allerletzte gedruckte Ausgabe soll am 8. Dezember erscheinen. Das Magazin prägte seit Januar 1977 als Projekt eines Kollektivs jahrzehntelang die feministische Debatte in Deutschland. Bislang wurden keine Details genannt, wie das Erbe der Publikation verwaltet oder ob eine rein digitale Präsenz aufrechterhalten wird.",
-    "r": "Die Einstellung von \"Emma\" beendet die Ära eines der bekanntesten feministischen Printmedien in Deutschland. Die Publikation prägte seit den 1970er Jahren maßgeblich die gesellschaftliche Debatte um Frauenrechte.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/alice-schwarzer-stellt-magazin-emma-nach-50-jahren-ein-100.html",
-        "date": "2026-10-21T19:45:21.000Z"
-      },
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/kultur/emma-magazin-ende-100.html",
-        "date": "2026-10-21T08:40:09.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/alice-schwarzer-stellt-magazin-emma-nach-50-jahren-ein-100.html",
-    "agree": "Beide Quellen berichten übereinstimmend, dass das feministische Magazin \"Emma\" nach 50 Jahren von Alice Schwarzer eingestellt wird und die letzte Ausgabe im Dezember erscheint.",
-    "diff": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "note": "Nennt den genauen Erscheinungstag der letzten Ausgabe (8. Dezember), den Gründungsmonat (Januar 1977) sowie den Umstand, dass die Zeitschrift mit einem Kollektiv gegründet wurde."
-      },
-      {
-        "name": "Tagesschau",
-        "note": "Zitiert Alice Schwarzer mit der Begründung, dass die Gründe nicht ökonomischer Natur seien (\"Wir meinen, es reicht.\")."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-1c72a0808245d939",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-21T19:45:21.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Stichwahl in Brasilien: Lula und Bolsonaro fordern gegenseitigen Ausschluss",
-    "s": "Kurz vor der Stichwahl um das Präsidentenamt in Brasilien verschärft sich der Wahlkampf massiv. Die beiden Kandidaten Lula da Silva und Jair Bolsonaro fordern jeweils den Ausschluss des anderen. Beide Präsidentschaftsbewerber gehen gerichtlich gegen ihren Kontrahenten vor.",
-    "m": "Im Vorfeld der anstehenden Stichwahl in Brasilien versuchen die beiden verbliebenen Präsidentschaftskandidaten Lula da Silva und Jair Bolsonaro mit harten juristischen Schritten, den Konkurrenten aus dem Rennen zu werfen. Beide Seiten haben rechtliche Schritte eingeleitet, um eine Annullierung der jeweiligen Kandidatur zu erwirken. Dieser Schritt markiert eine deutliche Eskalation im ohnehin bereits stark polarisierten Wahlkampf des südamerikanischen Landes. Bislang ist unklar, wie die zuständigen Gerichte auf diese kurzfristigen Anträge reagieren werden und welche konkreten rechtlichen Folgen dies für den Ablauf der Stichwahl haben könnte. Die Wählerinnen und Wähler stehen damit vor einer turbulenten Endphase des politischen Wettbewerbs.",
-    "r": "Die juristischen Angriffe beider Hauptkandidaten kurz vor der brasilienweiten Stichwahl gefährden die politische Stabilität des Landes und könnten den Ausgang des Wahlprozesses massiv beeinflussen. Der Vorfall verdeutlicht die extreme Zuspitzung des Machtkampfs.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/lula-und-bolsonaro-fordern-ausschluss-des-jeweils-anderen-100.html",
-        "date": "2026-10-21T19:45:21.000Z"
-      },
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/amerika/lula-bolsonaro-ausschluss-stichwahl-100.html",
-        "date": "2026-10-21T13:40:07.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/lula-und-bolsonaro-fordern-ausschluss-des-jeweils-anderen-100.html",
-    "agree": "Beide Quellen stimmen darin überein, dass kurz vor der Stichwahl in Brasilien die Kandidaten Lula und Bolsonaro den Ausschluss des jeweils anderen fordern.",
-    "diff": [
-      {
-        "name": "Tagesschau",
-        "note": "Erwähnt konkret, dass beide Präsidentschaftsbewerber gerichtlich gegen den jeweils anderen vorgehen, um eine Annullierung der Kandidatur zu erreichen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-ae2daafc301ad345",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-21T19:45:21.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Brüssel und Straßburg - Ermittler durchsuchen Büros von rechter Fraktion im Europarlament",
-    "s": "Im Europaparlament haben Ermittler Durchsuchungen in Büros der rechtsgerichteten Fraktion \"Patrioten\" durchgeführt. Hintergrund sind Ermittlungen der Europäischen Staatsanwaltschaft. Die Maßnahme betrifft Vorgänge um eine Vorgängerfraktion. Die Untersuchungen dauern an.",
-    "m": "Die Europäische Staatsanwaltschaft hat Razzien in den Büros der Fraktion \"Patrioten\" im Europaparlament in Brüssel und Straßburg veranlasst. Im Zentrum der Ermittlungen steht der mögliche Missbrauch von EU-Mitteln in Höhe von 4,3 Millionen Euro. Die Vorwürfe richten sich gegen Mitglieder der mittlerweile aufgelösten ID-Fraktion (Identität und Demokratie), der zuvor unter anderem auch die deutsche AfD angehörte. Konkrete Details zu den beschuldigten Personen oder dem genauen Tathergang wurden zunächst nicht bekannt gegeben. Die Staatsanwaltschaft prüft nun die sichergestellten Beweismittel. Die betroffene Fraktion hat sich zu den Vorwürfen vorerst nicht detailliert geäußert.",
-    "r": "Die Durchsuchungen im EU-Parlament betreffen den Vorwurf des schweren Finanzbetrugs und berühren die Integrität von EU-Parlamentariern. Die Aufklärung potenzieller Veruntreuungen von Millionenbeträgen ist für die Transparenz der europäischen Institutionen von hoher Bedeutung.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/ermittler-durchsuchen-bueros-von-rechter-fraktion-im-europarlament-100.html",
-        "date": "2026-10-21T19:45:21.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/ausland/bruessel-und-strassburg-ermittler-durchsuchen-bueros-rechter-fraktion-im-eu-parlament-a-8f50684f-8092-483d-9fd0-7ff67bdd599c#ref=rss",
-        "date": "2026-10-21T16:51:00.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/ermittler-durchsuchen-bueros-von-rechter-fraktion-im-europarlament-100.html",
-    "agree": "Die Quellen stimmen überein, dass Ermittler im Europaparlament Büros der rechten Fraktion \"Patrioten\" durchsucht haben.",
-    "diff": [
-      {
-        "name": "DER SPIEGEL",
-        "note": "Nennt die Europäische Staatsanwaltschaft als durchführende Behörde und beziffert den Betrugsverdacht auf 4,3 Millionen Euro im Zusammenhang mit Mitgliedern der aufgelösten ID-Fraktion, zu der auch die AfD gehörte."
-      },
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "note": "Berichtet lediglich pauschal über die Durchsuchungen von Ermittlern in den Büros der \"Patrioten\"-Fraktion ohne weitere Detailangaben."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-cbab8aaf559cf316",
-    "c": "INT",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-21T19:43:05.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Ärzte erklären Papst Leo XIV. nach Lungenkrebs-Operation für krebsfrei",
-    "s": "Papst Leo XIV. hat sich vor wenigen Tagen einer Operation wegen Lungenkrebs unterzogen. Nun haben die behandelnden Ärzte mitgeteilt, dass sich der Krebs nicht ausgebreitet hat.",
-    "m": "Nach Angaben der Mediziner ist der Lungenkrebs bei Papst Leo XIV. erfolgreich operiert worden und hat sich nicht weiter ausgebreitet. Wenige Tage nach dem Eingriff erklärten die Ärzte den Pontifex offiziell für krebsfrei. Aus diesem Grund ist aktuell keine weitere medizinische Therapie mehr erforderlich. Der operative Eingriff und die darauffolgende Diagnose bedeuten eine erhebliche Entlastung für das Kirchenoberhaupt. Weitere Details zum genauen Verlauf der Genesung oder zur Rückkehr in den Amtsalltag wurden zunächst nicht bekannt gegeben.",
-    "r": "Die Meldung ist von gesellschaftlicher und gesundheitlicher Relevanz, da es sich um den Gesundheitszustand des Papstes handelt. Zudem zeigt sie den aktuellen medizinischen Erfolg nach einer Krebserkrankung im höchsten Kirchenamt auf.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQ3c1Q2lhNzJUaGZ6X2hqWUItcUwxR0ZYMENUWGQ5cVFBOWstSEVPY2h2S3hyVnNKNFpYN1Mza2dHWHh3eS1DNVpfVzZOLXFZd3BDUzhJd1duSnV3VVRRZ0JZcFFVcWYySERsOTBSQmI3T29qRlBiOGdJQ2FZRVRpNkxZdEphanFNVGhaWGdPREpxNl9TbWZ0eEhIZ09DZVQyZ3N2Yk9PQTNsdk1PV01lMnpnLXZRSDdCeUNoYjl2UnhpMUlqTkdab3lrNHZmeUViMjNXakljS3MycXc?oc=5",
-        "date": "2026-10-21T19:43:05.000Z"
-      },
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/gesundheit/article6ad913cb2c40700de080118a/papst-keine-weitere-therapie-noetig-aerzte-erklaeren-leo-xiv-fuer-krebsfrei.html",
-        "date": "2026-10-21T19:41:31.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQ3c1Q2lhNzJUaGZ6X2hqWUItcUwxR0ZYMENUWGQ5cVFBOWstSEVPY2h2S3hyVnNKNFpYN1Mza2dHWHh3eS1DNVpfVzZOLXFZd3BDUzhJd1duSnV3VVRRZ0JZcFFVcWYySERsOTBSQmI3T29qRlBiOGdJQ2FZRVRpNkxZdEphanFNVGhaWGdPREpxNl9TbWZ0eEhIZ09DZVQyZ3N2Yk9PQTNsdk1PV01lMnpnLXZRSDdCeUNoYjl2UnhpMUlqTkdab3lrNHZmeUViMjNXakljS3MycXc?oc=5",
-    "agree": "Die Quellen stimmen überein, dass Papst Leo XIV. von Ärzten für krebsfrei erklärt wurde und keine weitere Therapie nötig ist.",
-    "diff": [
-      {
-        "name": "Google News DE",
-        "note": "Verlinkt auf den WELT-Artikel ohne eigenständigen neuen Inhalt."
-      },
-      {
-        "name": "WELT",
-        "note": "Berichtet, dass sich der Lungenkrebs nicht ausgebreitet hat und die Mitteilung wenige Tage nach der Operation erfolgte."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-530e583acd392183",
-    "c": "INT",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-21T19:43:00.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Mögliche 25-Milliarden-Dollar-Strafe für Meta wegen Cambridge-Analytica-Skandal",
-    "s": "Der im Jahr 2018 aufgedeckte Datenskandal um Cambridge Analytica hat das Vertrauen in den Facebook-Konzern Meta schwer erschüttert. Damals waren Millionen von Nutzerkonten von dem unbefugten Datenzugriff betroffen. Nun droht dem Unternehmen Meta eine empfindliche Geldstrafe in Höhe von 25 Milliarden Dollar.",
-    "m": "Der Cambridge-Analytica-Skandal aus dem Jahr 2018 gehört zu den schwersten Datenschutzvorfällen in der Geschichte von Facebook und führte zu einem massiven Vertrauensverlust in den Mutterkonzern Meta. Damals wurden die Daten von Millionen Facebook-Konten ohne Zustimmung für politische Zwecke und andere Analysen verwendet. Die Behörden und Gerichte befassen sich seit Jahren mit den Folgen dieses Vorfalls. Aktuell steht eine astronomische Strafe von 25 Milliarden Dollar im Raum, die das Unternehmen hart treffen könnte. Bislang sind viele Details des Verfahrens und die genaue Zusammensetzung der Summe Gegenstand laufender juristischer Prüfungen. Offen ist zudem, ob Meta die Strafe in dieser Höhe letztlich zahlen muss oder ob es zu einem Vergleich kommt. Der Fall verdeutlicht das anhaltende regulatorische Risiko für große Technologiekonzerne im Bereich des Datenschutzes.",
-    "r": "Die drohende Milliardenstrafe gegen Meta zeigt, wie gravierend die langfristigen rechtlichen und finanziellen Folgen des Cambridge-Analytica-Skandals für den Technologiekonzern sind. Der Vorfall bleibt ein zentraler Präzedenzfall für den Datenschutz im Internet.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTVRZcXU3SWVVRDF2Y1BlMUxFRlVneDFYZkt0bm02TENMb01xREtObUFiSlc5S08tMWFydTN1bVZ0TE1rQlpZbTZBT1hSbGVzZmZTUzdqRXctc3dqWl9ORGdMWnlmTVFCZ19VdDdCQVB3VThHZ3VKV0twbkh1YzVDZ01uZTA4Ylc4VzhJblNMekZWUFVPaDFkeFQtX1VoTkdpTXoxSUFMVWJTb05XQ0UxSTNpOXhXeVkxclFTRjNiMmxrQmw2Z2NOS0d3NHJXZmM2TFg0dDVxZGI1TEFsVkNBdmpn?oc=5",
-        "date": "2026-10-21T19:43:00.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/netzwelt/meta-cambridge-analytica-skandal-bringt-25-milliarden-dollar-strafe-ins-spiel-a-92ceceda-93e2-4664-a346-b6fe20c7a1c0#ref=rss",
-        "date": "2026-10-21T19:43:00.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTVRZcXU3SWVVRDF2Y1BlMUxFRlVneDFYZkt0bm02TENMb01xREtObUFiSlc5S08tMWFydTN1bVZ0TE1rQlpZbTZBT1hSbGVzZmZTUzdqRXctc3dqWl9ORGdMWnlmTVFCZ19VdDdCQVB3VThHZ3VKV0twbkh1YzVDZ01uZTA4Ylc4VzhJblNMekZWUFVPaDFkeFQtX1VoTkdpTXoxSUFMVWJTb05XQ0UxSTNpOXhXeVkxclFTRjNiMmxrQmw2Z2NOS0d3NHJXZmM2TFg0dDVxZGI1TEFsVkNBdmpn?oc=5",
-    "agree": "Beide Quellen stimmen darin überein, dass dem Konzern Meta im Zuge des Cambridge-Analytica-Skandals aus dem Jahr 2018 eine Strafe von 25 Milliarden Dollar droht.",
-    "diff": [
-      {
-        "name": "Google News DE",
-        "note": "Verweist lediglich per Überschrift auf den Spiegel-Artikel über die drohende Strafe."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-1bc5fcd985f28560",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-21T19:35:58.000Z",
-    "p": 2,
-    "st": "NI",
-    "city": "",
-    "t": "Anklage gegen Niedersachsens AfD-Landeschef Ansgar Schledde erhoben",
-    "s": "Gegen den AfD-Landeschef von Niedersachsen, Ansgar Schledde, ist Anklage erhoben worden. Die Staatsanwaltschaft Hannover wirft ihm den Umgang mit Spenden und den Verstoß gegen das Parteiengesetz vor. Konkret geht es um den Vorwurf der Parteispendenveruntreuung in Höhe von insgesamt 44.000 Euro. Der Fall betrifft damit hochrangige Parteiinterna in Niedersachsen.",
-    "m": "Die Staatsanwaltschaft Hannover hat Anklage gegen den niedersächsischen AfD-Landeschef Ansgar Schledde erhoben. Dem Politiker wird vorgeworfen, gegen das Parteiengesetz verstoßen zu haben. Im Zentrum der Ermittlungen steht der Vorwurf der Parteispendenveruntreuung. Insgesamt umfasst das Verfahren eine Summe von 44.000 Euro. Bislang liegen keine Informationen über konkrete juristische Konsequenzen für sein Amt vor. Auch der genaue Tatzeitraum und die Reaktionen der Partei auf die Anklage sind noch nicht näher bekannt. Weitere Details zu den Hintergründen der Spendenaffäre wurden von den Behörden zunächst nicht mitgeteilt. Das Verfahren wirft ein Schlaglicht auf die Parteienfinanzierung in der AfD Niedersachsen.",
-    "r": "Die Anklage gegen einen Parteivorsitzenden wegen Verstößen gegen das Parteiengesetz berührt Fragen der Rechtstreue und Integrität von Spitzenpolitikern. Der Fall hat politische Relevanz für die Struktur und Wahrnehmung der AfD in Niedersachsen.",
-    "srcs": [
-      {
-        "name": "NDR Niedersachsen",
-        "url": "https://www.ndr.de/fernsehen/sendungen/hallo_niedersachsen/anklage-gegen-afd-landesvorsitzenden-ansgar-schledde,hallonds-11074.html",
-        "date": "2026-10-21T19:35:58.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Niedersachsen",
-        "url": "https://www.tagesschau.de/inland/regional/niedersachsen/anklage-gegen-niedersachsens-afd-landeschef-schledde-erhoben,schledde-110.html",
-        "date": "2026-10-21T19:26:15.000Z"
-      }
-    ],
-    "url": "https://www.ndr.de/fernsehen/sendungen/hallo_niedersachsen/anklage-gegen-afd-landesvorsitzenden-ansgar-schledde,hallonds-11074.html",
-    "agree": "Beide Quellen stimmen überein, dass Anklage gegen den niedersächsischen AfD-Landeschef Schledde im Zusammenhang mit Spenden erhoben wurde.",
-    "diff": [
-      {
-        "name": "NDR Niedersachsen",
-        "note": "nennt die konkrete Schadenssumme von insgesamt 44.000 Euro und den expliziten Vorwurf der Parteispendenveruntreuung."
-      },
-      {
-        "name": "Tagesschau Regional Niedersachsen",
-        "note": "nennt die Staatsanwaltschaft Hannover als zuständige Behörde und den allgemeinen Vorwurf des Verstoßes gegen das Parteiengesetz."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-3cfdca4ea2cab3f7",
-    "c": "INT",
-    "o": "UK",
-    "k": "sport",
-    "lang": "de",
-    "d": "2026-10-21T19:20:14.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Champions League: Como gegen Manchester United gefährdet",
-    "s": "Dem Champions-League-Spiel zwischen Como und Manchester United droht möglicherweise eine Absage. Grund dafür sind heftige Regenfälle und schwierige Platzverhältnisse in der Lombardei. Die Begegnung ist für den Mittwochabend angesetzt.",
-    "m": "Am Mittwochabend soll die Champions-League-Partie zwischen Como und Manchester United stattfinden. Allerdings sorgen schwere Regenfälle für Land unter in der Lombardei, weshalb die Durchführung des Spiels gefährdet ist. Cesc Fàbregas trainiert die Mannschaft von Como, die in einem anderen Bericht als dominant beschrieben wird. Manchester United zeigte zuvor laut Berichten eine schwache Leistung, die in einer Niederlage endete. Ob das Spiel trotz der Wassermassen angepfiffen werden kann oder ob es zu einer Spielabsage kommt, ist derzeit noch offen. Die Behörden und Verantwortlichen beobachten die Wetterlage vor Ort genau. Sollte sich die Lage nicht bessern, steht eine offizielle Entscheidung über eine Verlegung aus.",
-    "r": "Die Begegnung ist für den Turnierverlauf relevant, steht jedoch aufgrund akuter Wetterbedingungen vor einer möglichen Absage. Die Spielansetzung am Mittwochabend in der Lombardei ist unmittelbar von den heftigen Regenfällen betroffen.",
-    "srcs": [
-      {
-        "name": "Guardian Sport",
-        "url": "https://www.theguardian.com/football/live/2026/oct/21/como-v-manchester-united-champions-league-live",
-        "date": "2026-10-21T19:20:14.000Z"
-      },
-      {
-        "name": "t-online Sport",
-        "url": "https://www.t-online.de/sport/fussball/champions-league/id_101490676/champions-league-como-gegen-manchester-united-droht-absage.html",
-        "date": "2026-10-21T09:00:19.000Z"
-      }
-    ],
-    "url": "https://www.theguardian.com/football/live/2026/oct/21/como-v-manchester-united-champions-league-live",
-    "agree": "Die Quellen berichten über die anstehende Champions-League-Partie zwischen Como und Manchester United in der Lombardei.",
-    "diff": [
-      {
-        "name": "Guardian Sport",
-        "note": "Berichtet von einer deutlichen 4:1-Niederlage von Manchester United gegen das von Cesc Fàbregas trainierte Como."
-      },
-      {
-        "name": "t-online Sport",
-        "note": "Warnt vor einer drohenden Absage des Spiels am Mittwochabend aufgrund heftiger Regenfälle und Überflutungen in der Lombardei."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-15747aca8b430373",
-    "c": "INT",
-    "o": "DE",
-    "k": "technik",
-    "lang": "de",
-    "d": "2026-10-21T19:14:17.000Z",
-    "p": 4,
-    "st": "BY",
-    "city": "",
-    "t": "Cambridge-Analytica-Skandal: Meta soll 25 Milliarden Dollar Strafe zahlen",
-    "s": "Der lang zurückliegende Datenschutz-Skandal um Cambridge Analytica hat für den Facebook-Mutterkonzern Meta nun finanzielle Folgen. Meta soll nach aktuellen Berichten eine Geldstrafe in Höhe von 25 Milliarden Dollar zahlen. Das Unternehmen ist jedoch offenbar nicht bereit, diese Summe kampflos zu akzeptieren. Die rechtlichen Auseinandersetzungen um den Vorfall ziehen sich damit weiter hin.",
-    "m": "Der Cambridge-Analytica-Skandal hatte seinerzeit das Vertrauen vieler Nutzer in die Plattform Facebook massiv erschüttert und eine Welle der Empörung ausgelöst. Jahre nach den Vorkommnissen folgt nun die juristische Quittung für den Mutterkonzern Meta. Konkret geht es um eine geforderte Strafe in Höhe von 25 Milliarden Dollar, die im US-Bundesstaat New Mexico verhandelt wird. Meta zeigt sich allerdings unkooperativ und will die drastische finanzielle Sanktion voraussichtlich nicht akzeptieren. Damit bleibt der Ausgang des Verfahrens vorerst offen und die rechtlichen Konsequenzen für den Datenmissbrauch sind noch nicht vollständig geklärt. Der Fall gilt als einer der größten Datenschutz-Skandale der Tech-Branche.",
-    "r": "Die Meldung ist relevant, da eine der höchsten jemals verhängten Geldstrafen im Bereich des Datenschutzes gegen einen globalen Technologiekonzern im Raum steht. Dies könnte wegweisend für künftige Regulierungen und Konsequenzen bei Datenmissbrauch sein.",
-    "srcs": [
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/cambridge-analytica-skandal-meta-muss-milliarden-strafe-zahlen,VYhzHKb",
-        "date": "2026-10-21T19:14:17.000Z"
-      },
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/politik/25-milliarden-dollar-strafe-fuer-meta-nach-datenschutz-skandal-KYAIM62OTFBKXDF2SLEOWYHLJI.html",
-        "date": "2026-10-21T18:20:32.000Z"
-      }
-    ],
-    "url": "https://www.br.de/nachrichten/deutschland-welt/cambridge-analytica-skandal-meta-muss-milliarden-strafe-zahlen,VYhzHKb",
-    "agree": "Die Quellen sind sich einig, dass Meta wegen des Cambridge-Analytica-Skandals mit einer Strafe von 25 Milliarden Dollar konfrontiert ist.",
-    "diff": [
-      {
-        "name": "BR24 Bayern",
-        "note": "Berichtet ergänzend, dass Meta die geforderte Strafe wohl nicht akzeptieren will."
-      },
-      {
-        "name": "RND",
-        "note": "Nennt konkret den US-Bundesstaat New Mexico als Schauplatz der Strafe."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-1b88bcea85bfc553",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-21T18:57:23.000Z",
-    "p": 2,
-    "st": "HH",
-    "city": "",
-    "t": "Elena Brandt nach 24 Jahren in Hamburg nach Kirgistan abgeschoben",
-    "s": "Die 55-jährige Elena Brandt lebte 24 Jahre lang in Hamburg und wurde im März nach Kirgistan abgeschoben. Ihre Familie lebt in Deutschland und setzt sich für ihre Rückkehr ein. Das Vorgehen der zuständigen Ausländerbehörde steht dabei in der Kritik der Angehörigen.",
-    "m": "Elena Brandt hat fast ein Vierteljahrhundert in Hamburg verbracht, bevor sie im März dieses Jahres nach Kirgistan abgeschoben wurde. In Hamburg sind sowohl ihre Kinder als auch ihre Enkelkinder zu Hause, womit ihr familiärer Mittelpunkt in Deutschland liegt. Die Familie hat den Kampf für die Rückkehr der Großmutter aufgenommen. Im Zentrum der familiären Kritik steht das konkrete Vorgehen der Ausländerbehörde bei der Abschiebung. Trotz des langen Aufenthalts und der familiären Bindungen konnte die Maßnahme offenbar nicht verhindert werden. Offen bleibt, wie die Chancen auf eine erfolgreiche Rückkehr nach Deutschland stehen. Die Quellen machen keine Angaben zu den genauen rechtlichen Gründen, die zu der Abschiebung führten.",
-    "r": "Der Fall wirft Fragen zum Umgang mit langjährig integrierten Personen und familiären Bindungen bei Abschiebungspraxis auf. Zudem verdeutlicht er den Konflikt zwischen behördlichen Maßnahmen und dem Protest betroffener Familien in Deutschland.",
-    "srcs": [
-      {
-        "name": "NDR Hamburg",
-        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/abschiebung-von-deutschland-nach-kirgisistan-nach-24-jahren,hamj-15774.html",
-        "date": "2026-10-21T18:57:23.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Hamburg",
-        "url": "https://www.tagesschau.de/inland/regional/hamburg/nach-24-jahren-in-hamburg-grossmutter-nach-kirgisistan-abgeschoben,abschiebung-360.html",
-        "date": "2026-10-21T14:26:20.000Z"
-      }
-    ],
-    "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/abschiebung-von-deutschland-nach-kirgisistan-nach-24-jahren,hamj-15774.html",
-    "agree": "Beide Quellen stimmen überein, dass Elena Brandt 55 Jahre alt ist, 24 Jahre in Hamburg lebte, im März nach Kirgistan abgeschoben wurde und ihre Familie für ihre Rückkehr kämpft.",
-    "diff": [
-      {
-        "name": "NDR Hamburg",
-        "note": "Erwähnt zusätzlich, dass die Familie das Vorgehen der Ausländerbehörde kritisiert."
-      },
-      {
-        "name": "Tagesschau Regional Hamburg",
-        "note": "Bezeichnet die 55-Jährige im Titel als Großmutter."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-b06647442e513efd",
-    "c": "INT",
-    "o": "PT",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-21T18:48:02.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Parlament genehmigt Dringlichkeitsdebatte zur Wohnungsnot in Portugal",
-    "s": "Das portugiesische Parlament hat der Durchführung einer Dringlichkeitsdebatte zum Thema Wohnungsbau und Wohnungsnot zugestimmt. Die Initiative wurde in die parlamentarische Agenda aufgenommen. Nähere Details zum genauen Ablauf oder konkreten Vorschlägen nennen die vorliegenden Kurzmeldungen noch nicht.",
-    "m": "Das Parlament hat die Dringlichkeitsdebatte über die Wohnungsfrage offiziell gebilligt. Konkrete Hintergründe, welche Fraktion den Antrag gestellt hat oder welche konkreten Maßnahmen debattiert werden sollen, gehen aus den sehr kurzen Meldungen nicht hervor. Berichtet wird lediglich über die formelle Annahme des Dringlichkeitsantrags durch Medien wie RTP Notícias und Jornal de Notícias über Google News Portugal. Weitere Details zum zeitlichen Ablauf der Debatte oder den Reaktionen der beteiligten Akteure stehen noch aus.",
-    "r": "Die parlamentarische Behandlung der Wohnungsfrage ist für die politische Landschaft und die soziale Situation in Portugal von Bedeutung. Eine Dringlichkeitsdebatte zeigt an, dass das Thema von den Abgeordneten priorisiert behandelt wird.",
-    "srcs": [
-      {
-        "name": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/noticiario-antena1/16h-parlamento-aprovado-debate-de-urgencia-sobre-a-habitacao_a1_1773318",
-        "date": "2026-10-21T18:48:02.000Z"
-      },
-      {
-        "name": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOVJoc0FIbFpxRGtCdGd2Y2syc0RYOHJKWVAzQzZsemg0UV9wMFNCNU5jQUN3eVhGZE8tVjVlLUs3M2hyNTQ0VjlIT1hBeHBpRDJaTTlqNDFxQmJRTVR4QkFRZ0cyeDdweFB0MTNmeUpzYWhBajVKRndkaTBySDc5RmdOYmlxSTdKNlNMZmJ1V2VnZ1JsUVVGNS1VV3R4U3NWcUVnaWVHVndZOExRc3A3TNIBoAFBVV95cUxOaE9QbER2TUNtTElvdlV4YzFBZDVfZVlFNURfN3R6Tk5IbEtWVUMzaGJfM2VpVDU4Y2NDNlN0NTJ0RWw0U2FwU09HbzBydGR4YW9wR2Y2RmhiNjlUUjhPcHBlVjMtOW42blBnVTQ2LWpEeVlFUkgwSEpEQnpjM1U4ZElrZjZjUWN2Q2ktQzl0YUVZX2l5WUpqbkgtYXlCY29M?oc=5",
-        "date": "2026-10-21T14:45:00.000Z"
-      }
-    ],
-    "url": "https://www.rtp.pt/noticias/noticiario-antena1/16h-parlamento-aprovado-debate-de-urgencia-sobre-a-habitacao_a1_1773318",
-    "agree": "Beide Quellen stimmen darin überein, dass im Parlament eine Dringlichkeitsdebatte zum Thema Wohnungsbau beziehungsweise Wohnungsnot genehmigt wurde.",
-    "diff": [
-      {
-        "name": "RTP Notícias",
-        "note": "Meldet knapp, dass eine Dringlichkeitsdebatte über das Thema Wohnen im Parlament genehmigt wurde."
-      },
-      {
-        "name": "Google News Portugal",
-        "note": "Verweist auf einen Artikel des Jornal de Notícias und nennt konkret die 'Wohnungskrise' als Gegenstand der genehmigten Dringlichkeitsdebatte."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-cfb68b6c5181f2d5",
-    "c": "INT",
-    "o": "DE",
-    "k": "sport",
-    "lang": "de",
-    "d": "2026-10-21T18:35:27.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Champions League: Bayern gegen Arsenal und Real Madrid gegen Leipzig",
-    "s": "In der Champions League stehen hochkarätige Partien an. Der FC Bayern empfängt den FC Arsenal und RB Leipzig tritt auswärts bei Real Madrid an. Begleitet werden die Spiele von Livetickern.",
-    "m": "Die Vorrunde der Champions League bringt europäische Spitzenpaarungen hervor. Der deutsche Rekordmeister Bayern München trifft im eigenen Stadion auf den Vorjahresfinalisten FC Arsenal. Parallel dazu gastiert RB Leipzig bei Real Madrid in Spanien. Laut Al Jazeera stehen bei der Partie von Real Madrid Spieler wie Mbappé und Bellingham im Fokus der Berichterstattung. Für beide Begegnungen bieten Medien Liveticker und laufende Updates an, die über Team-Neuigkeiten und den Spielverlauf informieren. Konkrete Tore oder Zwischenstände werden in den Texten noch nicht genannt.",
-    "r": "Die Begegnungen sind relevant, da sie richtungsweisende Spiele in der laufenden Champions-League-Saison darstellen und deutsche Vereine gegen internationale Top-Gegner antreten.",
-    "srcs": [
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/sport/championsleague-ticker",
-        "date": "2026-10-21T18:35:27.000Z"
-      },
-      {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/sports/liveblog/2026/10/21/real-madrid-vs-rb-leipzig-live-champions-league?traffic_source=rss",
-        "date": "2026-10-21T16:01:56.000Z"
-      }
-    ],
-    "url": "https://www.zeit.de/sport/championsleague-ticker",
-    "agree": "Beide Quellen berichten über die anstehenden Champions-League-Spiele mit Beteiligung von RB Leipzig und Real Madrid.",
-    "diff": [
-      {
-        "name": "ZEIT ONLINE",
-        "note": "Berichtet zusätzlich über das Parallelspiel zwischen dem FC Bayern München und dem FC Arsenal."
-      },
-      {
-        "name": "Al Jazeera",
-        "note": "Erwähnt exklusiv, dass Spieler wie Mbappé und Bellingham bei Real Madrid im Fokus stehen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-56e762c0c8d01b79",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-21T18:08:31.000Z",
-    "p": 2,
-    "st": "RP",
-    "city": "",
-    "t": "Mainzer Oktoberfest ist offiziell genehmigt und startet am Freitag",
-    "s": "Nach wochenlangem und beispiellosem Streit um das Mainzer Volksfest hat die Stadt nun grünes Licht gegeben. Damit steht dem Start der Veranstaltung am kommenden Freitag nichts mehr im Weg. Bislang gab es laut den Berichten noch nie so viel Ärger im Vorfeld eines solchen Festes in Mainz.",
-    "m": "Das Mainzer Oktoberfest ist nach wochenlangem politischen und organisatorischen Streit nun endgültig genehmigt worden und soll am kommenden Freitag planmäßig starten. Im Vorfeld gab es so viel Ärger wie noch nie zuvor bei einem Volksfest in Mainz. Konkrete Details zu den genauen Gründen des Streits oder beteiligten Akteuren nennen die vorliegenden Berichte nicht. Auch Angaben zu genauen Besucherzahlen, Veranstaltungsorten oder Sicherheitskonzepten fehlen in den aktuellen Meldungen völlig. Offen bleibt zudem, welche Auflagen die Stadt für den Betrieb des Oktoberfests erteilt hat.",
-    "r": "Die Genehmigung des Mainzer Oktoberfests beendet einen wochenlangen Streit um die Veranstaltung und ermöglicht den pünktlichen Start am Freitag. Das Ereignis markiert das erste Mal, dass ein Volksfest in Mainz im Vorfeld so massiv umstritten war.",
-    "srcs": [
-      {
-        "name": "SWR Aktuell",
-        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/mainz/mainzer-oktoberfest-findet-doch-statt-100.html",
-        "date": "2026-10-21T18:08:31.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Rheinland-Pfalz",
-        "url": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-oktoberfest-in-mainz-wird-zur-farce-hin-und-her-geht-weiter-100.html",
-        "date": "2026-10-21T16:29:00.000Z"
-      }
-    ],
-    "url": "https://www.swr.de/swraktuell/rheinland-pfalz/mainz/mainzer-oktoberfest-findet-doch-statt-100.html",
-    "agree": "Die Quellen sind sich einig, dass es im Vorfeld des Mainzer Oktoberfests nach wochenlangem Streit noch nie so viel Ärger um ein Volksfest gab und die Stadt das Fest nun für Freitag genehmigt hat.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-243c8b1aba0bf2a3",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-21T17:48:20.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Macron kritisiert Trump nach Äußerungen zu Unruhen in Frankreich",
-    "s": "Der französische Präsident Emmanuel Macron hat US-Präsident Donald Trump für dessen Äußerungen zu den Unruhen in Frankreich kritisiert. Bei einem Besuch in Katar machte Macron seinem Ärger über die Einmischung Luft. Die Aussagen von Trump hatten international für Aufsehen gesorgt.",
-    "m": "Der französische Präsident Emmanuel Macron hat bei einem Besuch in Katar die Äußerungen von US-Präsident Donald Trump zu den anhaltenden Unruhen in Frankreich scharf kritisiert. Trump hatte sich zuvor via Twitter oder in Ansprachen zu den Protesten in Frankreich geäußert, was in Paris auf schpeitsche Ablehnung stieß. Macron machte deutlich, dass er solche Einmischungen und Darstellungen der Lage nicht toleriert. Die Unruhen in Frankreich, die unter anderem durch Proteste von Plünderern und Demonstranten geprägt waren, haben das Land in den vergangenen Wochen vor große Herausforderungen gestellt. Die genauen Hintergründe von Macrons Äußerungen und die konkreten Reaktionen aus Washington blieben zunächst Gegenstand diplomatischer Beobachtungen.",
-    "r": "Die öffentliche Auseinandersetzung zwischen dem französischen Präsidenten und dem US-Präsidenten beleuchtet die diplomatischen Spannungen infolge innenpolitischer Krisen in Europa. Sie zeigt, wie internationale Reaktionen die Wahrnehmung von Protesten beeinflussen können.",
-    "srcs": [
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/europa/macron-rede-112.html",
-        "date": "2026-10-21T17:48:20.000Z"
-      },
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84c2I5Y1BfcmliVFh2aTdjNUdtbWJibUpfaTlEb3dJNkpsbU1SdVB4eVJVWnZaOVcxb1pVa1RtNHk5X1dXblJnWGxSelUtUzFCSFF5aF8tV0pXaHl1clhaVnpydTFFbU9MWTNMRkJn?oc=5",
-        "date": "2026-10-21T17:48:00.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/ausland/europa/macron-rede-112.html",
-    "agree": "Die Quellen sind sich einig, dass der französische Präsident Macron den US-Präsidenten Trump wegen dessen Äußerungen zu den Unruhen in Frankreich kritisiert hat.",
-    "diff": [
-      {
-        "name": "Google News DE",
-        "note": "Erwähnt zusätzlich das Stichwort Proteste in Frankreich sowie den Untertitel von Tagesschau zu kleinen und großen Plünderern."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-eaae02ca74997b73",
-    "c": "INT",
-    "o": "PT",
-    "k": "sport",
-    "lang": "de",
-    "d": "2026-10-21T17:46:06.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Sporting CP empfängt LASK Linz in der UEFA Champions League",
-    "s": "Sporting CP trifft in der dritten Runde der Ligaphase der UEFA Champions League auf den LASK Linz. Die Gastgeber wollen ihre Siegesserie fortsetzen und dem direkten Weiterkommen einen Schritt näherkommen. Der österreichische Club hingegen hat bisher alle Partien verloren. Die Begegnung verspricht eine wichtige Wegmarke für den Turnierverlauf zu werden.",
-    "m": "Sporting CP bestreitet heute sein drittes Spiel in der Ligaphase der UEFA Champions League und empfängt dabei die Mannschaft des LASK Linz im eigenen Stadion. Das Ziel der Gastgeber ist es, den bisherigen Erfolgskurs zu halten und die Siegesserie auszubauen. Mit einem weiteren Erfolg könnte Sporting die Weichen für den direkten Einzug in die nächste Turnierrunde stellen. Die Gäste aus Österreich stehen unter Zugzwang, da sie in der laufenden Saison der Königsklasse bisher ausschließlich Niederlagen hinnehmen mussten. Die Partie findet im Rahmen des dritten Spieltags statt und bietet beiden Teams unterschiedliche Vorzeichen für die Tabellensituation. Die Begegnung gilt als entscheidende Etappe, um in der Gruppe wichtige Punkte zu sichern und die eigenen Ambitionen im internationalen Wettbewerb zu unterstreichen.",
-    "r": "Das Spiel ist relevant, da es den weiteren Verlauf der Ligaphase in der UEFA Champions League für beide Vereine maßgeblich beeinflusst. Sporting kann sich dem Weiterkommen annähern, während der LASK dringend Punkte benötigt, um den Trend der Niederlagen zu stoppen.",
-    "srcs": [
-      {
-        "name": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/desporto/sporting-cp-lask-linz_e1773304",
-        "date": "2026-10-21T17:46:06.000Z"
-      },
-      {
-        "name": "RTP Desporto",
-        "url": "https://www.rtp.pt/noticias/sporting/sporting-recebe-lask-linz_d1773154",
-        "date": "2026-10-21T08:42:04.000Z"
-      }
-    ],
-    "url": "https://www.rtp.pt/noticias/desporto/sporting-cp-lask-linz_e1773304",
-    "agree": "Beide Quellen stimmen überein, dass Sporting CP den LASK Linz empfängt, um die Siegesserie in der Champions League fortzusetzen und dem Weiterkommen näherzukommen, während die Gäste bisher nur Niederlagen aufweisen.",
-    "diff": [
-      {
-        "name": "RTP Notícias",
-        "note": "Erwähnt zusätzlich, dass es sich um die dritte Runde der Ligaphase handelt."
-      },
-      {
-        "name": "RTP Desporto",
-        "note": "Gibt an, dass die Partie heute stattfindet."
-      }
-    ],
-    "chg": "",
-    "independent": 1
   }
 ]
