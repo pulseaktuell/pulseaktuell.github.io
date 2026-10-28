@@ -1,5 +1,621 @@
 [
   {
+    "id": "story-170395568934ecef",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-28T07:34:04.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Parlamentswahl in Israel: Keine klare Mehrheit für Netanjahu und Eisenkot",
+    "s": "Bei der Parlamentswahl in Israel haben Prognosen zufolge weder Premierminister Benjamin Netanjahu noch sein wichtigster Herausforderer Gadi Eisenkot eine klare Mehrheit erreicht. Beide Politiker kündigten an, versuchen zu wollen, eine Regierung zu bilden. Das Wahlergebnis bleibt damit offen und erfordert voraussichtlich schwierige Koalitionsverhandlungen.",
+    "m": "Nach den aktuellen Prognosen zur Parlamentswahl in Israel zeichnet sich ein unentschiedenes Ergebnis ab. Weder das Lager des amtierenden Premierministers Benjamin Netanjahu noch das von Gadi Eisenkot konnte eine parlamentarische Mehrheit erlangen, die für eine stabile Regierungsbildung ausreichen würde. Sowohl Netanjahu als auch Eisenkot haben jedoch öffentlich erklärt, dass sie dennoch den Versuch unternehmen werden, eine Regierungsmehrheit zu organisieren. Die genaue Sitzverteilung im Parlament wird für die kommenden Tage erwartet, sobald alle Stimmen ausgezählt und letzte Prognosen präzisiert sind. Beobachter gehen von langwierigen Verhandlungen aus, da kleinere Parteien eine entscheidende Rolle als Koalitionspartner einnehmen könnten. Beide Hauptakteure stehen unter erheblichem Druck, politische Allianzen zu schmieden, um eine politische Lähmung oder gar Neuwahlen zu verhindern. Offen ist bislang, welche Kompromisse die Parteien eingehen müssen, um eine arbeitsfähige Koalition auf die Beine zu stellen.",
+    "r": "Die Regierungsbildung in Israel ist nach den Parlamentswahlen ungewiss, da die Spitzenkandidaten keine Mehrheit erreichen konnten. Dies hat direkte Auswirkungen auf die politische Stabilität des Landes und anstehende politische Entscheidungen im Nahen Osten.",
+    "srcs": [
+      {
+        "name": "t-online Nachrichten",
+        "url": "https://www.t-online.de/nachrichten/ausland/internationale-politik/id_101500492/wahlen-israel-prognosen-netanjahu-verfehlt-mehrheit.html",
+        "date": "2026-10-28T07:34:04.000Z"
+      },
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-prognose-100.html",
+        "date": "2026-10-27T23:55:00.000Z"
+      }
+    ],
+    "url": "https://www.t-online.de/nachrichten/ausland/internationale-politik/id_101500492/wahlen-israel-prognosen-netanjahu-verfehlt-mehrheit.html",
+    "agree": "Sowohl Netanjahu als auch Eisenkot wollen trotz fehlender Mehrheit in den Prognosen versuchen, eine Regierung zu bilden.",
+    "diff": [
+      {
+        "name": "t-online Nachrichten",
+        "note": "Berichtet, dass Netanjahu laut Prognosen knapp vorn liegt."
+      },
+      {
+        "name": "Tagesschau",
+        "note": "Erwähnt nicht, dass Netanjahu knapp vorn liegt, sondern betont allgemein das Fehlen einer Mehrheit für beide Seiten."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-76710753e8467eea",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-28T07:27:26.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Trendwende am Arbeitsmarkt: Ifo-Institut meldet weniger Stellenabbau in Deutschland",
+    "s": "Die Zuversicht für die deutsche Wirtschaft wächst spürbar und spiegelt sich in den aktuellen Personalplanungen der Unternehmen wider. Laut dem Ifo-Institut wollen deutsche Firmen künftig etwas weniger Arbeitsplätze abbauen. Dennoch bleibt die Lage in den einzelnen Branchen sehr unterschiedlich. Es zeigt sich eine leichte Tendenz zur Entspannung auf dem Arbeitsmarkt.",
+    "m": "Das Ifo-Institut verzeichnet eine wachsende Zuversicht in der deutschen Wirtschaft, die sich direkt auf die Beschäftigungspläne der Unternehmen auswirkt. Aktuellen Auswertungen zufolge planen die Firmen in Deutschland, ihre Belegschaften weniger stark zu reduzieren als zuvor. Diese Entwicklung deutet auf eine mögliche Trendwende hin, auch wenn der Stellenabbau in einigen Wirtschaftszweigen weiterhin anhält. Die konjunkturelle Lage wird von Experten daher differenziert betrachtet. Während bestimmte Branchen optimistischer in die Zukunft blicken, kämpfen andere Sektoren nach wie vor mit wirtschaftlichen Herausforderungen. Genauere Details zu den betroffenen Branchen oder konkreten Beschäftigtenzahlen nennen die Berichte bisher nicht. Offen bleibt zudem, wann genau mit einer flächendeckenden Stabilisierung des gesamten Arbeitsmarktes zu rechnen ist.",
+    "r": "Die Meldung ist von Bedeutung, weil sie Einblicke in die aktuelle Konjunkturstimmung und die mittelfristigen Personalplanungen deutscher Unternehmen gibt. Solche Einschätzungen des Ifo-Instituts dienen als wichtiger Indikator für die Entwicklung des hiesigen Arbeitsmarktes.",
+    "srcs": [
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/wirtschaft/trendwende-am-arbeitsmarkt-weniger-stellenabbau-in-deutschen-unternehmen-F6SJTIA72JATZJGBFUSYX74WMY.html",
+        "date": "2026-10-28T07:27:26.000Z"
+      },
+      {
+        "name": "Handelsblatt",
+        "url": "https://www.handelsblatt.com/politik/deutschland/mehr-zuversicht-fuer-konjunktur-ifo-unternehmen-wollen-etwas-weniger-stellen-abbauen/100265488.html",
+        "date": "2026-10-28T07:09:50.000Z"
+      }
+    ],
+    "url": "https://www.rnd.de/wirtschaft/trendwende-am-arbeitsmarkt-weniger-stellenabbau-in-deutschen-unternehmen-F6SJTIA72JATZJGBFUSYX74WMY.html",
+    "agree": "Beide Quellen stimmen darin überein, dass die wachsende Zuversicht für die deutsche Wirtschaft zu weniger geplantem Stellenabbau in den Unternehmen führt und die Situation je nach Branche unterschiedlich ist.",
+    "diff": [
+      {
+        "name": "RND",
+        "note": "Die Quelle formuliert die Nachricht als allgemeine Trendwende am Arbeitsmarkt ohne direkte Nennung des Ifo-Instituts in der Zusammenfassung."
+      },
+      {
+        "name": "Handelsblatt",
+        "note": "Die Quelle nennt explizit das Ifo-Institut als Urheber der Information über die weniger restriktiven Stellenabbaupläne der Unternehmen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-c4fdab3e5acad287",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-28T07:22:14.000Z",
+    "p": 2,
+    "st": "BW",
+    "city": "",
+    "t": "Vier Verletzte bei schwerem Verkehrsunfall auf B45 bei Mauer",
+    "s": "Auf der Bundesstraße 45 bei Mauer im Rhein-Neckar-Kreis sind zwei Fahrzeuge zusammengestoßen. Bei dem Verkehrsunfall wurden vier Personen verletzt. Die genaue Unfallursache ist zum aktuellen Zeitpunkt noch unklar und Gegenstand polizeilicher Ermittlungen.",
+    "m": "Der Unfall ereignete sich auf der B45 im Bereich der Gemeinde Mauer. In den Zusammenstoß waren zwei Autos involviert. Durch die Wucht des Aufpralls wurde nach Angaben der beteiligten Redaktionen mindestens eine Person aus einem der Autos geschleudert. Insgesamt erlitten vier Menschen Verletzungen, zu deren genauer Schwere und Alter bislang keine offiziellen Details bekannt gegeben wurden. Rettungskräfte waren im Einsatz, um die Verletzten zu versorgen. Die Polizei hat die Ermittlungen zur Unfallursache aufgenommen, die derzeit noch völlig unklar ist. Weitere Angaben zu möglichen Straßensperrungen oder Sachschäden liegen bisher nicht vor.",
+    "r": "Der Unfall mit vier Verletzten auf einer Bundesstraße verdeutlicht die anhängigen Gefahren im regionalen Straßenverkehr und erfordert polizeiliche Ermittlungen zur Klärung des Hergangs.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell Baden-Württemberg",
+        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/vier-verletzte-nach-unfall-auf-b45-bei-mauer-100.html",
+        "date": "2026-10-28T07:22:14.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Baden-Württemberg",
+        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-vier-verletzte-nach-unfall-auf-b45-bei-mauer-100.html",
+        "date": "2026-10-28T06:43:56.000Z"
+      }
+    ],
+    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/vier-verletzte-nach-unfall-auf-b45-bei-mauer-100.html",
+    "agree": "Beide Quellen stimmen überein, dass auf der B45 bei Mauer zwei Autos zusammengestoßen sind, vier Personen verletzt wurden und die Unfallursache noch unklar ist.",
+    "diff": [
+      {
+        "name": "SWR Aktuell Baden-Württemberg",
+        "note": "Berichtet zusätzlich, dass ein Mensch aus dem Auto geschleudert wurde."
+      },
+      {
+        "name": "Tagesschau Regional Baden-Württemberg",
+        "note": "Enthält im Vergleich zu SWR Aktuell keine Angaben dazu, dass eine Person aus dem Auto geschleudert wurde."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-c090ab125ea7d2ab",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-28T06:59:16.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Sophia Thiel durchlebt schwere mentale Krise",
+    "s": "Fitness-Influencerin Sophia Thiel macht aktuell eine schwere mentale Phase durch. Die 31-Jährige spricht offen über ihre wiederkehrenden psychischen Probleme. Ihre Therapeutin hat den Verdacht auf eine bestimmte Ursache geäußert.",
+    "m": "Die bekannte Fitness-Influencerin Sophia Thiel kämpft erneut mit einer schweren mentalen Krise. Die 31-Jährige hat seit Jahren immer wieder mit schwierigen psychischen Phasen zu kämpfen und geht damit gewohnt offen um. Nun gibt es im aktuellen Zustand eine neue Einschätzung: Ihre Therapeutin hat sie auf eine mögliche Ursache für das erneute Tief hingewiesen. Genaue Details zu dieser Ursache oder den konkreten Symptomen nennen die Berichte bisher nicht. Es bleibt offen, wie sich die Situation weiterentwickelt und welche Schritte die Influencerin unternimmt.",
+    "r": "Die Meldung ist für die Öffentlichkeit und Follower von Sophia Thiel relevant, da sie Einblicke in den gesundheitlichen Zustand einer prominenten Influencerin gibt. Das Thema psychische Gesundheit bei Personen des öffentlichen Lebens wird dadurch erneut thematisiert.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM1JPd3M1OEtFR19NcGhmUTgxTkhNRXZoVUpPeGVwYmhFLXhzeFl2bzI2UEkzeXBJMy1JR2hQTm1ESDJUZGRZRVE4RzBEQVM2WThGM1lmWHFvUVVWR3hsZ2p3MnA4eFp1VFRlaFR6Q1FpeFlZV0RMeGt1YkR5c3F3OVdPenhpTE51bjNmVF9tRXItc19vY1NtaU91V1Q4M2oyZkJSZlduYWJ6dkE?oc=5",
+        "date": "2026-10-28T06:59:16.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/leute/Sophia-Thiel-in-schwerer-Krise-Therapeutin-hat-Verdacht-id31465694.html",
+        "date": "2026-10-28T06:59:16.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM1JPd3M1OEtFR19NcGhmUTgxTkhNRXZoVUpPeGVwYmhFLXhzeFl2bzI2UEkzeXBJMy1JR2hQTm1ESDJUZGRZRVE4RzBEQVM2WThGM1lmWHFvUVVWR3hsZ2p3MnA4eFp1VFRlaFR6Q1FpeFlZV0RMeGt1YkR5c3F3OVdPenhpTE51bjNmVF9tRXItc19vY1NtaU91V1Q4M2oyZkJSZlduYWJ6dkE?oc=5",
+    "agree": "",
+    "diff": [
+      {
+        "name": "ntv",
+        "note": "Berichtet, dass die 31-jährige Sophia Thiel seit Jahren immer wieder schwierige Phasen hat, offen damit umgeht und ihre Therapeutin sie auf eine mögliche Ursache hingewiesen hat."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-5c565beac2612253",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-28T06:50:25.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Kritik an Telefonaten mit Putin sorgt für Irritationen in Europa",
+    "s": "Finnlands Präsident Alexander Stubb und Norwegens Regierungschef Jonas Gahr Støre haben Telefonate mit dem russischen Präsidenten Wladimir Putin geführt. Diese Kontakte haben in Europa für Irritationen gesorgt. Die dänische Ministerpräsidentin Mette Frederiksen kritisierte das Vorgehen als Alleingang.",
+    "m": "Der finnische Präsident Alexander Stubb und der norwegische Regierungschef Jonas Gahr Støre haben unabhängig voneinander das Gespräch mit dem russischen Präsidenten Wladimir Putin gesucht. Diese diplomatischen Kontaktaufnahmen stoßen in europäischen Ländern auf Kritik und haben Irritationen ausgelöst. Besonders deutlich äußerte sich die dänische Ministerpräsidentin Mette Frederiksen, die das Vorgehen als Alleingang bewertete. Über den genauen Inhalt der geführten Gespräche und mögliche Reaktionen weiterer EU- oder NATO-Staaten liegen derzeit keine weiteren Details vor. Der Vorfall wirft Fragen nach der geschlossenen europäischen Linie im Umgang mit Russland auf.",
+    "r": "Die direkten Telefonate nordischer Regierungschefs mit Putin verdeutlichen unterschiedliche diplomatische Ansätze im Umgang mit Russland und belasten den europäischen Zusammenhalt.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQTGNEOGRZRnZfcTM5NTktM2FYaDRoQ0R0Sko2NUUzaktmX0M5X0RTRTBkUXdoRVk4alB0NHdXclhkSUN0b2RkNlNZVWZfVlpuNk9pS1lTVXRkdjFoNkhJMWlGNmFUMHRnZG55RU5hUGh5amtzRVpadTJyRThnbGd3WXBldERCRVNkQXF2TzY0V0R6UkJUSXNfUnYteFIzem9FVktWdXFUdnpmdlJPSGNYNS1MbXRnWEVGTHZPMGFZMldlUTZoWXdJNTY1ZDhob1NiR0JoTkR5SmpGSXoyY0RZT3ZyVDhEWHVkUjhOUUJfOG9MdDZNdEtCX2FTeEJHQjg?oc=5",
+        "date": "2026-10-28T06:50:25.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/ausland/article6ae191a9f74d161423be0f92/ukraine-krieg-anruf-bei-putin-sorgt-in-europa-fuer-irritationen-frederiksen-kritisiert-alleingang.html",
+        "date": "2026-10-28T06:42:38.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQTGNEOGRZRnZfcTM5NTktM2FYaDRoQ0R0Sko2NUUzaktmX0M5X0RTRTBkUXdoRVk4alB0NHdXclhkSUN0b2RkNlNZVWZfVlpuNk9pS1lTVXRkdjFoNkhJMWlGNmFUMHRnZG55RU5hUGh5amtzRVpadTJyRThnbGd3WXBldERCRVNkQXF2TzY0V0R6UkJUSXNfUnYteFIzem9FVktWdXFUdnpmdlJPSGNYNS1MbXRnWEVGTHZPMGFZMldlUTZoWXdJNTY1ZDhob1NiR0JoTkR5SmpGSXoyY0RZT3ZyVDhEWHVkUjhOUUJfOG9MdDZNdEtCX2FTeEJHQjg?oc=5",
+    "agree": "Die Quellen sind sich einig, dass Telefonate von Finnlands Präsident Stubb und Norwegens Regierungschef Støre mit Wladimir Putin in Europa Irritationen ausgelöst haben und von Dänemarks Ministerpräsidentin Frederiksen als Alleingang kritisiert wurden.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Bringt eine verkürzte Überschrift und verweist auf die WELT-Berichterstattung."
+      },
+      {
+        "name": "WELT",
+        "note": "Liefert den Hauptbericht über die Telefonate von Stubb und Støre sowie Frederiksens Kritik."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-7e97de0ee0a0a7b7",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-28T06:50:09.000Z",
+    "p": 3,
+    "st": "BY",
+    "city": "",
+    "t": "Parlamentswahl in Israel: Netanjahu baut Vorsprung aus, aber ohne Mehrheit",
+    "s": "Nach der Parlamentswahl in Israel läuft die Auszählung der Stimmen. Der rechtsreligiöse Block von Ministerpräsident Benjamin Netanjahu hat Medienberichten zufolge seinen Vorsprung leicht ausgebaut. Eine klare Mehrheit im Parlament erreicht er damit jedoch weiterhin nicht.",
+    "m": "Die Stimmenauszählung nach der israelischen Parlamentswahl dauert an. Der Block des amtierenden Ministerpräsidenten Benjamin Netanjahu konnte seinen Vorsprung vor dem gegnerischen Lager leicht vergrößern. Dennoch bleibt abzuwarten, ob eine regierungsfähige Koalition gebildet werden kann, da die absolute Mehrheit weiterhin fehlt. Im Zentrum der politischen Auseinandersetzung steht das Oppositionslager, das von Gadi Eisenkot angeführt wird. Weitere Details zur genauen Sitzverteilung oder zum endgültigen amtlichen Endergebnis stehen noch aus. Beobachter bewerten das Rennen als weiterhin offen. Die kommenden Tage werden zeigen, welche Koalitionsoptionen sich für die beteiligten Parteien ergeben.",
+    "r": "Die Parlamentswahl in Israel beeinflusst die politische Stabilität und die künftige Regierungsbildung im Land. Der Ausgang ist aufgrund der fehlenden klaren Mehrheit für Netanjahus Block von großer Bedeutung für die innenpolitische Entwicklung.",
+    "srcs": [
+      {
+        "name": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/wahl-in-israel-patt-zwischen-netanjahu-und-eisenkot,VZGSeZB",
+        "date": "2026-10-28T06:50:09.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/ausland/video6ae182f7f74d161423be0eea/israel-netanjahu-baut-bei-wahl-vorsprung-aus-aber-ohne-mehrheit.html",
+        "date": "2026-10-28T05:46:06.000Z"
+      }
+    ],
+    "url": "https://www.br.de/nachrichten/deutschland-welt/wahl-in-israel-patt-zwischen-netanjahu-und-eisenkot,VZGSeZB",
+    "agree": "Die Quellen stimmen darin überein, dass Netanjahus Block bei der Parlamentswahl in Israel seinen Vorsprung ausgebaut hat, aber keine klare Mehrheit erreicht.",
+    "diff": [
+      {
+        "name": "WELT",
+        "note": "Erwähnt namentlich Gadi Eisenkot als Kopf des Oppositionslagers."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-b0171f482e2066f1",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-28T06:44:55.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Berliner Linke verschiebt Entscheidung über Abgeordnete Vanessa Emde",
+    "s": "Der Streit um die Berliner Linken-Abgeordnete Vanessa Emde bleibt vorerst ungelöst. Die Fraktionsspitze hat eine anstehende Entscheidung über die Politikerin verschoben. Grund dafür ist, dass nach wie vor keine gemeinsame Arbeitsgrundlage mit Emde gegeben ist.",
+    "m": "Die Auseinandersetzung innerhalb der Berliner Linken über die umstrittene Abgeordnete Vanessa Emde dauert an. Laut Angaben der Fraktionsspitze konnte bisher keine Einigung erzielt werden, die eine verlässliche Zusammenarbeit ermöglicht. Ob und wann es zu einer endgültigen Entscheidung kommt, bleibt zunächst offen. Der Fall sorgt parteiintern für anhaltende Diskussionen über den Umgang mit der Abgeordneten und deren politische Ausrichtung. Weitere Details zu konkreten Sanktionen oder Schritten der Fraktion wurden zunächst nicht bekannt gegeben.",
+    "r": "Die interne Krise und die ungeklärte Situation um eine Abgeordnete der Berliner Linken sind von politischer Relevanz für die Stabilität und Handlungsfähigkeit der Fraktion im Abgeordnetenhaus.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSG9DOFppNGhYV3M3WDlHaEdPcmJrRHQweGxLbkY0MlVyOERxR0kwcmk3cHMxaWUyU1hPLXJqXzJjdnJVbnViang4Tnh6bzVnT2JCajYwMk9yQjdmY0s5YTBHRmxVbDVvb1Q4OHNMVUZjNk9jVGFNcDB2akpQanJ0bEJpSTBoTFdIeU1hQVpsTXdfQmRpOUx0c0tVNmg5dXJMOWtjcmo2REZhZ2JMbFEwd0xJVUY1VEVXZGFiMnBwX004SzVsQWs2OE9RX1JPNldpTmhtSUJEeXpaZjJDRUFScWpoSXVWZkZ6?oc=5",
+        "date": "2026-10-28T06:44:55.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/politik/deutschland/article6ae1905f9d8212885d528fc7/berlin-linke-verschiebt-entscheidung-ueber-radikale-abgeordnete-vanessa-emde.html",
+        "date": "2026-10-28T06:42:54.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSG9DOFppNGhYV3M3WDlHaEdPcmJrRHQweGxLbkY0MlVyOERxR0kwcmk3cHMxaWUyU1hPLXJqXzJjdnJVbnViang4Tnh6bzVnT2JCajYwMk9yQjdmY0s5YTBHRmxVbDVvb1Q4OHNMVUZjNk9jVGFNcDB2akpQanJ0bEJpSTBoTFdIeU1hQVpsTXdfQmRpOUx0c0tVNmg5dXJMOWtjcmo2REZhZ2JMbFEwd0xJVUY1VEVXZGFiMnBwX004SzVsQWs2OE9RX1JPNldpTmhtSUJEeXpaZjJDRUFScWpoSXVWZkZ6?oc=5",
+    "agree": "Die Quellen stimmen überein, dass die Berliner Linke die Entscheidung über die Abgeordnete Vanessa Emde verschoben hat und keine gemeinsame Arbeitsgrundlage besteht.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Erwähnt die Abgeordnete als 'radikale Abgeordnete' und verweist auf einen WELT-Artikel."
+      },
+      {
+        "name": "WELT",
+        "note": "Berichtet direkt, dass der Streit ungelöst bleibt und zitiert die Mitteilung der Fraktionsspitze zur fehlenden Arbeitsgrundlage."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-044befb99a7c9600",
+    "c": "INT",
+    "o": "UK",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-28T06:36:14.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Flávio Bolsonaro verlässt Brasilien nach Präsidentschaftswahl",
+    "s": "Nach der Niederlage bei der Präsidentschaftswahl in Brasilien hat der rechtsextreme Senator Flávio Bolsonaro das Land verlassen. Berichten zufolge reist er mit seiner Familie über Argentinien und Ecuador in die Vereinigten Staaten. Die Abreise erfolgt nach der Niederlage gegen den linken Amtsinhaber Luiz Inácio Lula da Silva.",
+    "m": "Der rechtsextreme Senator Flávio Bolsonaro hat nach der Präsidentschaftswahl in Brasilien, die er gegen den linken Amtsinhaber Luiz Inácio Lula da Silva verloren hat, Brasilien verlassen. Nach Angaben der argentinischen Regierung und Medienberichten überquerten er und seine Familie die Grenze nach Argentinien und bestiegen dort ein Privatflugzeug in Richtung Ecuador. Ein Bericht des Nachrichtenportals Metrópoles, das sich auf das Umfeld der Familie beruft, bestätigt die Weiterreise in die USA. Der amtierende Präsident Lula da Silva kritisierte diesen Schritt öffentlich als beschämend. Gleichzeitig gibt es Berichte, wonach Flávio Bolsonaro und seine Familie US-Visa erhalten werden. Die genauen Umstände und die Dauer des Aufenthalts in den Vereinigten Staaten sind Gegenstand weiterer Beobachtungen.",
+    "r": "Die Ausreise eines prominenten Politikers unmittelbar nach einer verlorenen Wahl hat politische Relevanz für die Stabilität und das politische Klima in Brasilien. Zudem wirft sie Fragen zur Rolle beteiligter Nachbarländer und der internationalen Beziehungen auf.",
+    "srcs": [
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
+        "date": "2026-10-28T06:36:14.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdExIRkE2Ykdud0pBSFlmMllZOTZVbmc3YzBmUHFQV0VndnB5ZjRDN3VVc3lGMzdRV21iYmZqV3BJQnE1NGZEV2FCRjBwWTZsSlZZeGVhbVBVbHVLaG5MMUFUM2xCcHBTWmZmRDVETy1NaFRBZGpTRURscTduRHkwTHc4V2diZm5BS2Q4WlNLbWNuX0x2TVpTa3RiRGlxaUpEbmJCUmdXWGdWUF9LVHlIOU9ZUUNEdzA4cllmM2pna01GS1pMX093Tks0bERhaVUxay1SQnBYOWNiQnplbmlrWlRLUWc1d25sS2hv0gHwAUFVX3lxTE5lQmxfaGI3WmpLNUVWcGJEaUVkaWgxdDdXWXE4aldpV2xaemdnSzlvMlB4VmRVQXVVSTF4MGVvdHUtWEFTS3dXYjFqWUpFYnNSM21LbmNHTkwyMThsdjBiNXluaFdUbFV3WmlJRlNfRHNLSlFYNlktampGWGpIVk9ZOWlGTFNjdFZEVDJKRUc1b2s1S2NxRnNNeHdvdHRITGpid3hya29OWnVEdzVNZ0wxU1RGTlV6YVd1ZFNqdVI1bXFiY2twSENYeXBRSU16dGJWOWJoQlh5Uko2dXFwVnNrN2h2bUZhM0l5R3hwbTlUUA?oc=5",
+        "date": "2026-10-27T19:44:42.000Z"
+      }
+    ],
+    "url": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
+    "agree": "Die Quellen stimmen überein, dass Flávio Bolsonaro nach der Präsidentschaftswahl Brasilien verlassen hat und in die USA reist.",
+    "diff": [
+      {
+        "name": "Guardian World",
+        "note": "Berichtet, dass Flávio Bolsonaro und seine Familie nach der Grenzüberquerung nach Argentinien ein Privatflugzeug nach Ecuador bestiegen haben, dass Lula da Silva den Schritt als beschämend bezeichnete und dass ein Metrópoles-Bericht die USA als Ziel nennt."
+      },
+      {
+        "name": "Google News World",
+        "note": "Berichtet, dass Flávio Bolsonaro und seine Familie US-Visa erhalten werden."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-1228562c8c1f2f95",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-28T05:36:00.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Rückkehr des zensierten Skandalfilms »Die Teufel« in die Kinos",
+    "s": "Der historische Skandalfilm »Die Teufel« von Regisseur Ken Russell kehrt in die Kinos zurück. Das Werk gilt als einer der wildesten Filme der Filmgeschichte. Es behandelt das Thema Fanatismus und enthält eine berüchtigte Szene, die als »Vergewaltigung Christi« bekannt wurde.",
+    "m": "Der Film von Ken Russell war lange Zeit zensiert und ist nun wieder auf der großen Leinwand zu sehen. Das Werk zeichnet sich durch seine extrem provokanten Inhalte aus, die bereits bei ihrer Entstehung und Veröffentlichung für massive Kontroversen sorgten. Im Zentrum stehen religiöser Fanatismus und historische Exzesse. Die berüchtigte Sequenz, die als »Vergewaltigung Christi« in die Filmgeschichte einging, trug maßgeblich zu dem anhaltenden Ruf des Films als Skandalwerk bei. Die aktuelle Wiederaufführung bringt dieses kompromisslose und fantastische Werk zurück zu einem modernen Kinopublikum. Bisher ist nicht näher bekannt, ob es sich um eine ungekürzte Fassung handelt oder welche Kinos den Film ins Programm nehmen.",
+    "r": "Die Wiederaufführung eines der berüchtigtsten und am stärksten zensierten Klassiker der Filmgeschichte ist ein bedeutendes Ereignis für die Filmkultur. Sie wirft erneut ein Licht auf den Umgang mit Zensur und kontroversen künstlerischen Inhalten im Kino.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZUVnYjRkNnBOLWxHX3FITWZkRHF3OFBUaFQ0ZzJjNURXaXJ1djIySVNoMXA5djJqaWZUR0I1dC1mSGR3MVJGcHRCT3VxbG1GblNmSXdLMnROWmM0Wm9fcG5ieGowTDdhV25hRUlIVV9MTS1zb3AtWHIyZFk2cGV2NWdDQlBFUktDMlFxczRsd2UxbzgzYVRrd3lGUlZNWldSdlBJaUZvSHRvcjZpdGM0WXJWc29BOHNHdTIxc2prbkNscTFlQmpzWUIxMkFxZlMtNm1FYkUzMG5scWtsY193NEF4RUlqQQ?oc=5",
+        "date": "2026-10-28T05:36:00.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/kultur/kino/historischer-skandalfilm-die-teufel-die-rueckkehr-eines-zensierten-klassikers-a-6bbd11e3-8619-498e-a0d2-0050b0a99b49#ref=rss",
+        "date": "2026-10-28T05:36:00.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZUVnYjRkNnBOLWxHX3FITWZkRHF3OFBUaFQ0ZzJjNURXaXJ1djIySVNoMXA5djJqaWZUR0I1dC1mSGR3MVJGcHRCT3VxbG1GblNmSXdLMnROWmM0Wm9fcG5ieGowTDdhV25hRUlIVV9MTS1zb3AtWHIyZFk2cGV2NWdDQlBFUktDMlFxczRsd2UxbzgzYVRrd3lGUlZNWldSdlBJaUZvSHRvcjZpdGM0WXJWc29BOHNHdTIxc2prbkNscTFlQmpzWUIxMkFxZlMtNm1FYkUzMG5scWtsY193NEF4RUlqQQ?oc=5",
+    "agree": "Beide Quellen stimmen darin überein, dass es sich bei »Die Teufel« von Ken Russell um einen historischen Skandalfilm und Klassiker handelt, der nun in die Kinos zurückkehrt.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Erwähnt den Titel als kostenpflichtigen Spiegel-Plus-Artikel."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Nennt Details zum Inhalt wie Fanatismus und die Szene der »Vergewaltigung Christi«."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-30343d08ae0344b1",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-28T05:10:09.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Newsblog zur Bundespolitik: Umweltminister Schneider: Audi wettet „auf ein totes Pferd“",
+    "s": "Der Auftritt von Audi-Chef Döllner bei einer Veranstaltung von US-Präsident Trump sorgt für anhaltende Diskussionen. Nun hat sich ein Mitglied der Bundesregierung zu dem geplanten Werk geäußert. Dabei gibt es grundsätzliche Kritik.",
+    "m": "Der Auftritt von Audi-Chef Döllner bei einer Veranstaltung von US-Präsident Trump erregt seit Tagen die Gemüter und stößt in der Bundespolitik auf scharfe Reaktionen. Umweltminister Schneider hat sich nun zu dem geplanten Audi-Werk geäußert. Er wirft dem Autobauer vor, mit den Plänen auf ein totes Pferd zu wetten. Die Debatte verdeutlicht die Spannungen zwischen wirtschaftlichen Entscheidungen von Konzernen und politischen Einschätzungen in Deutschland. Bislang gibt es keine Stellungnahme des Unternehmens zu diesen jüngsten Vorwürfen aus der Regierung. Weitere Details zu dem geplanten Werk oder konkreten Investitionssummen wurden im Rahmen dieser Äußerungen nicht genannt.",
+    "r": "Die Aussagen eines Bundesministers zu den Investitionsplänen eines großen deutschen Automobilkonzerns im Ausland berühren die wirtschafts- und umweltpolitische Debatte. Sie zeigen den Umgang der Politik mit unternehmerischen Entscheidungen auf internationalem Parkett.",
+    "srcs": [
+      {
+        "name": "Süddeutsche Zeitung",
+        "url": "https://www.sueddeutsche.de/politik/bundesregierung-news-union-jugend-proteste-unterwanderung-linksextreme-kriminelle-trump-li.3568524",
+        "date": "2026-10-28T05:10:09.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/wirtschaft/umweltminister-audi-wettet-auf-ein-totes-pferd-BZRNYWS2LFBFNB2OBJEFGOO7Q4.html",
+        "date": "2026-10-28T01:23:38.000Z"
+      }
+    ],
+    "url": "https://www.sueddeutsche.de/politik/bundesregierung-news-union-jugend-proteste-unterwanderung-linksextreme-kriminelle-trump-li.3568524",
+    "agree": "Die Quellen sind sich einig, dass der Auftritt von Audi-Chef Döllner bei einer Veranstaltung von US-Präsident Trump für Diskussionen sorgt und es Kritik an dem geplanten Audi-Werk aus der Bundesregierung gibt.",
+    "diff": [
+      {
+        "name": "Süddeutsche Zeitung",
+        "note": "Berichtet in einem Newsblog zur Bundespolitik und nennt konkret Umweltminister Schneider als denjenigen, der sich zu dem geplanten Werk geäußert hat."
+      },
+      {
+        "name": "RND",
+        "note": "Erwähnt ebenfalls den Umweltminister und seine Kritik, führt jedoch zusätzlich an, dass diese Gemütererregung bereits seit Tagen andauert und es sich um grundsätzliche Kritik am geplanten Werk handelt."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-8acec79414f9be2d",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-28T04:47:52.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "König Charles III. erkennt großes Leid der Sklaverei an",
+    "s": "Bei einem Besuch auf den Bahamas hat der britische König Charles III. das historische Unrecht der Sklaverei angesprochen. Millionen Afrikaner waren einst auf englischen Schiffen verschleppt worden. Auf seiner Karibikreise nannte der Monarch die Ungerechtigkeiten beim Namen. Eine explizite Bitte um Verzeihung sprach er dabei jedoch nicht aus.",
+    "m": "König Charles III. thematisierte während seiner neuntägigen Karibikreise das dunkle Kapitel der britischen Kolonialgeschichte. Historisch gesehen wurden Millionen Menschen aus Afrika gewaltsam verschleppt und auf englischen Schiffen transportiert. Angesichts dieser Vergangenheit fordern karibische Staaten seit längerem eine umfassende Aufarbeitung sowie finanzielle und moralische Wiedergutmachung. Der britische Monarch bezog in dieser Debatte nun erstmals auf der Reise Position und sprach von großem Leid. Offen bleibt, wie die britische Krone auf die konkreten Forderungen nach Reparationen reagieren wird.",
+    "r": "Die Äußerungen des britischen Monarchen zur historischen Sklaverei berühren die politische und moralische Verantwortung Großbritanniens gegenüber ehemaligen Kolonien. Die Reaktionen und Forderungen karibischer Staaten nach Wiedergutmachung machen das Thema zu einem relevanten diplomatischen Diskurs.",
+    "srcs": [
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/leute/Koenig-Charles-erkennt-grosses-Leid-der-Sklaverei-an-id31465571.html",
+        "date": "2026-10-28T04:47:52.000Z"
+      },
+      {
+        "name": "Süddeutsche Zeitung",
+        "url": "https://www.sueddeutsche.de/panorama/menschenhandel-karibik-monarchie-geschichte-empire-li.3570202",
+        "date": "2026-10-28T04:00:24.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/koenig-charles-iii-erkennt-grosses-leid-der-sklaverei-an-a-30b996ad-538e-4b03-bcb8-3c3e13c00de8#ref=rss",
+        "date": "2026-10-28T03:33:00.000Z"
+      }
+    ],
+    "url": "https://www.n-tv.de/leute/Koenig-Charles-erkennt-grosses-Leid-der-Sklaverei-an-id31465571.html",
+    "agree": "Die Quellen stimmen überein, dass König Charles III. das große Leid der Sklaverei anerkannt hat und dass Millionen Afrikaner einst auf englischen Schiffen verschleppt wurden.",
+    "diff": [
+      {
+        "name": "ntv",
+        "note": "Erwähnt explizit, dass König Charles nicht um Verzeihung bittet."
+      },
+      {
+        "name": "Süddeutsche Zeitung",
+        "note": "Berichtet, dass karibische Staaten Aufarbeitung und Wiedergutmachung fordern, und nennt die neuntägige Dauer der Reise."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Nennt den Monarchen König Charles III. und erwähnt die Forderungen karibischer Staaten nach Aufarbeitung und Wiedergutmachung."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
+    "id": "story-d787b2ff49b0cb46",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-28T04:09:56.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Landgericht Hamburg erklärt Sicherstellungen bei „Zeit“ für teils rechtswidrig",
+    "s": "Im Fall um Christina Block hat das Landgericht Hamburg die Sicherstellung von Interview-Aufzeichnungen der „Zeit“ mit einer Tochter für teils rechtswidrig erklärt. Zuvor hatte das Vorgehen für Kritik gesorgt. Die betroffene Journalistin hatte die Tonaufnahmen herausgegeben, um eine Hausdurchsuchung zu vermeiden. Nun hat das Gericht auf eine Beschwerde des Verlags reagiert.",
+    "m": "Im laufenden Verfahren gegen Christina Block hat das Landgericht Hamburg über eine Beschwerde des Verlags entschieden. Konkret ging es um Tonaufnahmen aus einem Podcast der „Zeit“, die im Zusammenhang mit einer Tochter von Christina Block sichergestellt worden waren. Die betroffene Journalistin hatte die Interviews zuvor freiwillig herausgegeben, um so eine drohende Hausdurchsuchung abzuwenden. Das Vorgehen der Behörden hatte im Vorfeld für erhebliche Kritik gesorgt. Auf die Beschwerde hin hat das Gericht die Maßnahme nun in Teilen als rechtswidrig eingestuft. Weitere Details zu den genauen Hintergründen oder den nächsten Schritten im Verfahren nennen die Berichte nicht.",
+    "r": "Die Entscheidung des Landgerichts Hamburg wirft ein schlaglichtartiges Problem auf das Spannungsfeld zwischen staatsanwaltschaftlichen Ermittlungsmaßnahmen und dem journalistischen Quellenschutz. Sie verdeutlicht die rechtlichen Grenzen bei der Sicherstellung von Medienmaterial.",
+    "srcs": [
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/panorama/Sicherstellungen-bei-der-Zeit-teils-rechtswidrig-id31465468.html",
+        "date": "2026-10-28T04:09:56.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/panorama/fall-christina-block-sicherstellungen-bei-zeit-teils-rechtswidrig-Z2WJWKRFQRCTNFCGTHK4DK5H6A.html",
+        "date": "2026-10-27T20:21:58.000Z"
+      }
+    ],
+    "url": "https://www.n-tv.de/panorama/Sicherstellungen-bei-der-Zeit-teils-rechtswidrig-id31465468.html",
+    "agree": "Das Landgericht Hamburg hat die Sicherstellung von Tonaufnahmen der „Zeit“ im Fall Christina Block für teils rechtswidrig erklärt.",
+    "diff": [
+      {
+        "name": "ntv",
+        "note": "Erwähnt, dass es sich um Tonaufnahmen aus einem \"Zeit\"-Podcast handelt, die Journalistin die Interviews zur Vermeidung einer Hausdurchsuchung herausgab und das Gericht auf eine Beschwerde des Verlags reagierte."
+      },
+      {
+        "name": "RND",
+        "note": "Berichtet allgemein, dass die Sicherstellung von Interview-Aufzeichnungen für Kritik gesorgt hatte."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-2f2686acb111ff15",
+    "c": "INT",
+    "o": "INT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-28T03:33:00.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Trump feiert Öldeal mit Venezuela und scherzt über 51. US-Bundesstaat",
+    "s": "US-Präsident Donald Trump hat bei einer Kundgebung in Texas ein Öl-Abkommen mit Venezuela gefeiert. Er präsentierte einen Tanker, der nach seinen Angaben eine Million Barrel Öl aus dem südamerikanischen Land geladen hat. Neun Monate nach dem Sturz der Regierung in Caracas lobte er die Vereinbarung als historischen Erfolg.",
+    "m": "Bei einem Wahlkampfauftritt in Corpus Christi, Texas, erklärte Trump, dass Venezuela der 51. US-Bundesstaat werden könnte. Er präsentierte dort einen Öltanker, der laut seiner Darstellung eine Million Barrel Erdöl aus Venezuela transportiert. Der US-Präsident bezeichnete den vereinbarten Deal mit der Regierung nach dem Sturz von Nicolás Maduro als den größten Ölsieg der Geschichte. Die USA hatten das Land im Januar angegriffen und den langjährigen Machthaber gestürzt. Trump betonte den wirtschaftlichen Erfolg der Operation und die gesicherten Öl-Lieferungen. Das Vorhaben wirft jedoch weiter weitreichende geopolitische und völkerrechtliche Fragen auf.",
+    "r": "Die Aussagen des US-Präsidenten zu Venezuela und den angeblich gesicherten Öllieferungen berühren fundamentale Fragen der Außen- und Sicherheitspolitik. Derartige Äußerungen über den Status eines souveränen Staates haben internationale Relevanz für die Beziehungen in Lateinamerika.",
+    "srcs": [
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SNUU4MFJ4SnBPMjVMem9PNG5DS01vLURZMWdoaUtRa2dMdHI0emI2eThnZ1B1X3VndDZhU2lYd1FXVDR5S25pQi0tT2kzNWFsY2hCeDFUc1U5Qzdsb1plcHI1MGRkQU15YlFDMnR0blRBRFc0UENOMlY4UFNkY2c?oc=5",
+        "date": "2026-10-28T03:33:00.000Z"
+      },
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-oil-tanker-venezuela",
+        "date": "2026-10-27T23:07:06.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SNUU4MFJ4SnBPMjVMem9PNG5DS01vLURZMWdoaUtRa2dMdHI0emI2eThnZ1B1X3VndDZhU2lYd1FXVDR5S25pQi0tT2kzNWFsY2hCeDFUc1U5Qzdsb1plcHI1MGRkQU15YlFDMnR0blRBRFc0UENOMlY4UFNkY2c?oc=5",
+    "agree": "Die Quellen stimmen überein, dass Donald Trump bei einer Kundgebung in Texas einen Öltanker mit einer Million Barrel Öl aus Venezuela präsentierte und das Land als möglichen 51. US-Bundesstaat ins Gespräch brachte.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Verweist lediglich auf den Artikel des Guardian mit derselben Überschrift."
+      },
+      {
+        "name": "Guardian World",
+        "note": "Liefert den ausführlichen Bericht und nennt Details wie den Ort der Kundgebung in Corpus Christi, Texas, sowie den zeitlichen Bezug zum militärischen Vorgehen der USA im Januar."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-788174a1e6b60d18",
+    "c": "INT",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-28T00:51:00.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Neues Werk in den USA: Audi wettet laut Umweltminister Carsten Schneider »auf",
+    "s": "Der Autohersteller Audi plant ein neues Werk in den USA und hat damit Donald Trump ein Wahlgeschenk gemacht. Der deutsche Umweltminister Carsten Schneider kritisiert den Firmenchef wegen dieses Projekts scharf. Er wirft dem Autobauer vor, mit der Entscheidung auf ein totes Pferd zu setzen.",
+    "m": "Die Ankündigung von Audi, ein neues Werk in den Vereinigten Staaten zu errichten, sorgt für politische Reaktionen in Deutschland. Bundesumweltminister Carsten Schneider äußerte scharfe Kritik an dem Vorhaben und dem Zeitpunkt der Verkündung. Er warf dem Autobauer und dessen Führung vor, mit diesem Schritt auf ein totes Pferd zu setzen. Zudem merkte er an, dass die Bekanntgabe kurz vor der US-Wahl de facto als Wahlgeschenk für den republikanischen Kandidaten Donald Trump gewertet werden könne. Das Projekt wirft Fragen zur strategischen Ausrichtung des Herstellers und zur Vereinbarkeit mit klimapolitischen Zielen auf. Weitere Details zum genauen Standort, zur Investitionssumme oder zu den zeitlichen Abläufen der Fabrik sind in den Berichten nicht genannt.",
+    "r": "Die Pläne eines deutschen Großkonzerns für ein US-Werk und die damit verbundene politische Instrumentalisierung durch Wahlkampfbezüge berühren wirtschafts- und außenpolitische Interessen Deutschlands. Die Äußerungen eines Bundesministers dazu verdeutlichen die politische Dimension unternehmerischer Standortentscheidungen.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUlkteUlaYTBTWno2RmdWdkk3ZjluR2Myb1NCanY0TkM2LWJ4bjVFZUVJRkNwMGtEV2ZjSzlzWUM5M2Nac0hwNXY2UzE0ODVIRjJkSWJnR0w1MGVZOWhRbG5lb2U5ZmE0NUJWYjYwcm93MzRqeURKUk1xeTUyaFdudmZzSE1Lc3lkaHowdnNkNFVRc0xjal9CekV2eFFaelVNQWhvdHVrUkNmbTA5ZVJkX3pmT1dsRTQyaWZzZG9MOUkwT3pSNkVHRUkwTXpfcWRnVmpGYXFreExlQQ?oc=5",
+        "date": "2026-10-28T00:51:00.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/wirtschaft/audi-wettet-laut-umweltminister-carsten-schneider-auf-ein-totes-pferd-a-c79b832f-785d-497c-a32c-4e08d12048bf#ref=rss",
+        "date": "2026-10-28T00:51:00.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUlkteUlaYTBTWno2RmdWdkk3ZjluR2Myb1NCanY0TkM2LWJ4bjVFZUVJRkNwMGtEV2ZjSzlzWUM5M2Nac0hwNXY2UzE0ODVIRjJkSWJnR0w1MGVZOWhRbG5lb2U5ZmE0NUJWYjYwcm93MzRqeURKUk1xeTUyaFdudmZzSE1Lc3lkaHowdnNkNFVRc0xjal9CekV2eFFaelVNQWhvdHVrUkNmbTA5ZVJkX3pmT1dsRTQyaWZzZG9MOUkwT3pSNkVHRUkwTXpfcWRnVmpGYXFreExlQQ?oc=5",
+    "agree": "Die Quellen stimmen überein, dass Audi ein neues Werk in den USA plant und Umweltminister Carsten Schneider dies mit der Aussage kritisierte, das Unternehmen wette auf ein totes Pferd.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Verweist in der Überschrift auf den Spiegel-Artikel und führt an, dass Audi Trump mit der Verkündung ein Wahlgeschenk gemacht habe."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Berichtet ausführlicher, dass der deutsche Umweltminister den Firmenchef auf mehreren Ebenen kritisiert und Audi Donald Trump mit der Verkündung ein Wahlgeschenk gemacht habe."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-f9955af667a2234f",
+    "c": "INT",
+    "o": "PT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-27T23:10:24.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Wohnungsbau-Protest vor dem Parlament in Portugal zum Auftakt der Haushaltsdebatte",
+    "s": "Am Tag des Beginns der Debatte über den Staatshaushalt versammelten sich tausende Menschen zu einer Demonstration für das Recht auf Wohnen vor dem portugiesischen Parlament. Die Kundgebung verlief friedlich, und die Demonstrierenden kündigten an, keine Zelte aufzubauen. Dennoch planen sie bereits künftige Protestaktionen.",
+    "m": "Anlässlich des Beginns der parlamentarischen Debatte zum Staatshaushalt versammelten sich Tausende von Menschen vor der Assembleia da República, um gegen die Krise im Wohnungssektor zu protestieren. Die Demonstrierenden verzichteten darauf, Zelte vor dem Parlament zu errichten, machten jedoch deutlich, dass dies nicht das Ende der Proteste ist. Sie kündigten stattdessen an, in Zukunft zu weiteren Kundgebungen und Aktionen zurückzukehren. Die Demonstration reiht sich in eine Serie von Protesten ein, die auf die prekäre Lage auf dem Wohnungsmarkt und hohe Mieten aufmerksam machen sollen. Weitere konkrete Details zum Verlauf oder politischen Reaktionen sind in den Berichten nicht genannt.",
+    "r": "Die Proteste begleiten einen zentralen politischen Prozess zur Budgetierung und verdeutlichen den anhaltenden gesellschaftlichen Druck bezüglich der Wohnungspolitik.",
+    "srcs": [
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPc2NmcVg0N2liNnJNb3ZUY3AyR0JFbUFYLUlCRW1NSmhTV2tYel9VeXEwNHhuMnR6MlFoRVBsMG5iRHRpYkpHTjFKYjd6dlZUQUh5UEVOR2RjUXdfRG1yV3FPTzJsNlNsWDNLR1NPVnB2OE1FMkdhNFVMNlAtMDIxQ18zdVl4LUNzSUpxZEQxaFRWaWlPaHA0S3d5Y3huTHZSUmI5UkFlcTNuSHpObVhkNEoycUQ0eGt1ZEZwZEdKOWh6UHl5OFhfZQ?oc=5",
+        "date": "2026-10-27T23:10:24.000Z"
+      },
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/pais/manifestantes-nao-vao-montar-tendas-junto-ao-parlamento-mas-marcam-regresso-ao-protesto_e1774804",
+        "date": "2026-10-27T23:06:31.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPc2NmcVg0N2liNnJNb3ZUY3AyR0JFbUFYLUlCRW1NSmhTV2tYel9VeXEwNHhuMnR6MlFoRVBsMG5iRHRpYkpHTjFKYjd6dlZUQUh5UEVOR2RjUXdfRG1yV3FPTzJsNlNsWDNLR1NPVnB2OE1FMkdhNFVMNlAtMDIxQ18zdVl4LUNzSUpxZEQxaFRWaWlPaHA0S3d5Y3huTHZSUmI5UkFlcTNuSHpObVhkNEoycUQ0eGt1ZEZwZEdKOWh6UHl5OFhfZQ?oc=5",
+    "agree": "Tausende Menschen protestierten vor dem Parlament in Portugal für die Wohnungsfrage, während zeitgleich die Debatte zum Staatshaushalt begann.",
+    "diff": [
+      {
+        "name": "Google News Portugal",
+        "note": "Berichtet über den Vorfall unter Verweis auf die RTP-Berichterstattung mit dem Fokus, dass keine Zelte aufgebaut werden, aber neue Proteste folgen."
+      },
+      {
+        "name": "RTP Notícias",
+        "note": "Liefert den Originalbericht mit der Information, dass tausende Personen vor der Assembleia da República protestierten."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-dc726802424511bb",
     "c": "INT",
     "o": "DE",
@@ -332,6 +948,47 @@
     ],
     "chg": "",
     "independent": 3
+  },
+  {
+    "id": "story-17c31fed89f46654",
+    "c": "INT",
+    "o": "PT",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-27T22:12:58.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Sporting zieht nach Sieg gegen Marítimo ins Final Four ein",
+    "s": "Sporting Lissabon hat sich am Dienstag für das Final Four des portugiesischen Ligapokals qualifiziert. Im entscheidenden Spiel im Estádio José Alvalade setzte sich die Mannschaft durch. Maßgeblich für den Erfolg war eine starke Einzelleistung mit zwei Treffern.",
+    "m": "Sporting Lissabon hat am Dienstag den Einzug in das Final Four der Taça da Liga perfekt gemacht. Im heimischen Estádio José Alvalade besiegte das Team den Gegner Marítimo mit 2-1. Den entscheidenden Anteil am Weiterkommen hatte Pedro Lima, der beide Tore für Sporting erzielte und somit als Matchwinner des Abends hervortrat. Die Partie bot den Zuschauern spannende Momente, in denen sich die Hausherren letztendlich knapp, aber verdient durchsetzen konnten. Mit diesem Erfolg steht Sporting in der Endrunde des Wettbewerbs und wahrt damit die Chance auf den Titelgewinn im Ligapokal. Die Begegnung fand im Rahmen des nationalen Pokalwettbewerbs statt und zog entsprechendes mediales Interesse auf sich.",
+    "r": "Der Sieg gegen Marítimo sichert Sporting Lissabon die Teilnahme am Final Four der Taça da Liga. Solche Erfolge im nationalen Pokal sind wichtig für den weiteren Saisonverlauf und die Titelambitionen des Vereins.",
+    "srcs": [
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYlpqUkRINTFubXlXVmc5c1lGRHJZMkVyeC13UHFOeC12NWZUMVpzamc5Z3VGTWNCMEk2UWVvRENBZ3owQTJJNktpMHQzUjQtbUZubnphQWtoSWJia0RnR2l6a3lJLWc4S0h6WURmZjlGa2l3MWRaRld1dmpMNkNhelN6ZkpyUHZnb1J0SHU0NG0zZ0kzZWRpS05jR2RFTnllU29GcWpfekxGby15ejlya2QxSGJHT1RfY1hZ?oc=5",
+        "date": "2026-10-27T22:12:58.000Z"
+      },
+      {
+        "name": "RTP Desporto",
+        "url": "https://www.rtp.pt/noticias/futebol-nacional/sporting-garante-final-four-da-taca-da-liga-com-bis-de-pedro-lima_d1774807",
+        "date": "2026-10-27T17:59:45.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYlpqUkRINTFubXlXVmc5c1lGRHJZMkVyeC13UHFOeC12NWZUMVpzamc5Z3VGTWNCMEk2UWVvRENBZ3owQTJJNktpMHQzUjQtbUZubnphQWtoSWJia0RnR2l6a3lJLWc4S0h6WURmZjlGa2l3MWRaRld1dmpMNkNhelN6ZkpyUHZnb1J0SHU0NG0zZ0kzZWRpS05jR2RFTnllU29GcWpfekxGby15ejlya2QxSGJHT1RfY1hZ?oc=5",
+    "agree": "Beide Quellen berichten übereinstimmend, dass Sporting durch einen Doppelpack von Pedro Lima das Final Four der Taça da Liga erreicht hat.",
+    "diff": [
+      {
+        "name": "Google News Portugal",
+        "note": "Verweist auf den RTP-Artikel und nennt ebenfalls den Einzug ins Final Four durch Pedro Lima."
+      },
+      {
+        "name": "RTP Desporto",
+        "note": "Liefert die konkreten Details: Der Sieg gegen Marítimo endete 2-1 und fand im Estádio José Alvalade statt."
+      }
+    ],
+    "chg": "",
+    "independent": 2
   },
   {
     "id": "story-7ba32b0ee59452b7",
@@ -772,10 +1429,10 @@
     "p": 3,
     "st": "NI",
     "city": "",
-    "t": "Prozessbeginn am Landgericht Braunschweig wegen jahrelanger Folter in Salzgitter",
-    "s": "Am Landgericht Braunschweig hat am Dienstag ein Prozess gegen vier Angeklagte begonnen. Ihnen wird vorgeworfen, eine junge Frau aus Salzgitter über Jahre hinweg schwer misshandelt zu haben. Die Staatsanwaltschaft legt den Beschuldigten zahlreiche Taten zur Last.",
-    "m": "Vor dem Landgericht Braunschweig stehen seit Dienstag vier Angeklagte vor Gericht, weil sie eine Frau aus Salzgitter über viereinhalb Jahre hinweg gequält, erniedrigt und gefoltert haben sollen. Die Staatsanwaltschaft wirft ihnen in der Anklage insgesamt 33 Einzelfälle von schwerer Misshandlung vor. Die genauen Hintergründe und Abläufe der mutmasslichen Taten sollen im Rahmen des nun gestarteten Verfahrens aufgeklärt werden. Es handelt sich um ein gravierendes Verfahren im Bereich schwerer Gewaltkriminalität. Weitere Details zum Motiv oder zum genauen Tathergang wurden zum Prozessauftakt zunächst nicht umfassend öffentlich bekannt.",
-    "r": "Der Prozessbeginn ist von hoher gesellschaftlicher und rechtlicher Relevanz, da den vier Angeklagten schwere Verbrechen und systematische Folter über mehrere Jahre hinweg vorgeworfen werden. Die juristische Aufarbeitung solcher Gewaltverbrechen steht im öffentlichen Interesse.",
+    "t": "Prozessbeginn in Braunschweig nach jahrelanger mutmaßlicher Folter in Salzgitter",
+    "s": "Am Landgericht Braunschweig hat am Dienstag der Prozess gegen vier Angeklagte begonnen. Ihnen wird vorgeworfen, eine junge Frau aus Salzgitter über Jahre hinweg schwer misshandelt zu haben. Die Anklage umfasst nach Angaben der Staatsanwaltschaft zahlreiche Taten.",
+    "m": "Vor dem Landgericht Braunschweig müssen sich seit Dienstag vier Angeklagte verantworten, die eine junge Frau über viereinhalb Jahre hinweg gequält, erniedrigt und gefoltert haben sollen. Der Fall ereignete sich in Salzgitter. Die Staatsanwaltschaft wirft den Beschuldigten in ihrer Anklage insgesamt 33 Einzelfälle von schwerer Misshandlung vor. Die Hintergründe sowie der genaue Tathergang sollen im Laufe des gerichtlichen Verfahrens aufgeklärt werden.",
+    "r": "Der Prozess beleuchtet einen mutmaßlichen Fall jahrelanger schwerer Gewalttaten und Folter im privaten Umfeld. Die juristische Aufarbeitung ist von öffentlichem Interesse, um die Vorwürfe und die Verantwortung der vier Angeklagten zu klären.",
     "srcs": [
       {
         "name": "Tagesschau Regional Niedersachsen",
@@ -789,15 +1446,15 @@
       }
     ],
     "url": "https://www.tagesschau.de/inland/regional/niedersachsen/putzhilfe-in-salzgitter-ueber-jahre-gefoltert-prozess-beginnt,salzgitter-180.html",
-    "agree": "Die Quellen sind sich einig, dass am Landgericht Braunschweig ein Prozess gegen vier Angeklagte begonnen hat, denen die jahrelange Misshandlung einer Frau aus Salzgitter vorgeworfen wird.",
+    "agree": "Die Quellen stimmen überein, dass am Landgericht Braunschweig ein Prozess gegen vier Angeklagte wegen mutmaßlicher jahrelanger Misshandlungen einer Frau aus Salzgitter begonnen hat.",
     "diff": [
       {
         "name": "Tagesschau Regional Niedersachsen",
-        "note": "Beschreibt die Geschädigte als Putzhilfe."
+        "note": "nennt die Tätigkeit der Betroffenen als Putzhilfe"
       },
       {
         "name": "RND",
-        "note": "Nennt die genaue Dauer der Taten mit viereinhalb Jahren und beziffert die Einzelfälle in der Anklage auf 33."
+        "note": "präzisiert die Tatreihe auf viereinhalb Jahre und nennt 33 Einzelfälle laut Staatsanwaltschaft"
       }
     ],
     "chg": "",
@@ -912,47 +1569,6 @@
       {
         "name": "ZEIT ONLINE",
         "note": "Fügt hinzu, dass das Ausreiseverbot aufgrund laufender Ermittlungen gilt."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-b0171f482e2066f1",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-27T18:44:56.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Berliner Linke vertagt Entscheidung über umstrittene Abgeordnete Vanessa Emde",
-    "s": "Die Berliner Linke hat in einer Fraktionssitzung weiterhin keine Entscheidung über die umstrittene Abgeordnete Vanessa Emde getroffen. Die Politikerin steht wegen ihrer Israel-Kritik in der Kritik. Bislang konnte sich die Fraktionsspitze nicht zu einem Ausschlussantrag durchringen.",
-    "m": "Die Diskussion um die Linkenabgeordnete Vanessa Emde stellt die rot-grün-roten Verhandlungen in Berlin vor Herausforderungen und belastet diese spürbar. Trotz einer erneuten Fraktionssitzung gibt es weiterhin keine Lösung im Umgang mit der Abgeordneten, deren Israel-Kritik für heftige Debatten sorgt. Die Fraktionsspitze ringt um eine Positionierung und zögert bislang, einen Ausschlussantrag zu stellen. Die offenen Fragen rund um den Fall Emde bleiben damit vorerst ungelöst. Es ist unklar, wann eine finale Entscheidung getroffen wird und welche personellen oder politischen Konsequenzen drohen.",
-    "r": "Der innerparteiliche Streit um eine umstrittene Mandatsträgerin beeinflusst potenziell die laufenden Koalitionsverhandlungen in Berlin. Die Situation verdeutlicht die Schwierigkeiten von Parteien im Umgang mit kontroversen Positionen ihrer Mitglieder bei Koalitionsgesprächen.",
-    "srcs": [
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/politik/deutschland/2026-10/vanessa-emde-linke-berlin-abgeordnete-israel-kritik",
-        "date": "2026-10-27T18:44:56.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/politik/deutschland/vanessa-emde-berliner-linke-vertagt-entscheidung-ueber-umstrittene-abgeordnete-weiter-a-a4b3b910-4fd3-468c-a5c8-c4953ae131a1#ref=rss",
-        "date": "2026-10-27T18:04:00.000Z"
-      }
-    ],
-    "url": "https://www.zeit.de/politik/deutschland/2026-10/vanessa-emde-linke-berlin-abgeordnete-israel-kritik",
-    "agree": "Die Berliner Linke hat sich in einer Fraktionssitzung noch immer nicht auf eine Entscheidung im Fall der umstrittenen Abgeordneten Vanessa Emde geeinigt.",
-    "diff": [
-      {
-        "name": "ZEIT ONLINE",
-        "note": "erwähnt, dass die Linke um den Umgang mit der Abgeordneten ringt"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "berichtet, dass Vanessa Emde zu einer Belastung für die rot-grün-roten Verhandlungen in Berlin geworden ist"
       }
     ],
     "chg": "",
@@ -1154,6 +1770,47 @@
       {
         "name": "Frankfurter Allgemeine",
         "note": "Nennt konkrete Zahlen wie fast 66 Prozent Wahlbeteiligung, dass es sich um die höchste Beteiligung seit mindestens 1973 handelt und mehr als 7,3 Millionen Bürger zur Wahl aufgerufen sind."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-a22f8aa83c18f311",
+    "c": "DE",
+    "o": "DE",
+    "k": "umwelt",
+    "lang": "de",
+    "d": "2026-10-27T17:12:36.000Z",
+    "p": 3,
+    "st": "NI",
+    "city": "",
+    "t": "Suche nach Atommüll-Endlager in Deutschland wird weiter eingegrenzt",
+    "s": "Für die dauerhafte Verwahrung von rund 27.000 Kubikmetern hochradioaktivem Müll wird bis 2050 ein Endlager in Deutschland gesucht. Die Standortsuche wurde nun weiter eingegrenzt. Es muss geklärt werden, wie ein solches Endlager beschaffen sein muss und wo es entstehen könnte.",
+    "m": "Die Suche nach einem sicheren und dauerhaften Endlager für hochradioaktiven Müll ist ein langwieriger Prozess in Deutschland. Etwa 27.000 Kubikmeter hochradioaktiver Abfälle müssen so verwahrt werden, dass sie über Jahrtausende von der Umwelt abgeschlossen sind. Bis zum Jahr 2050 soll der endgültige Standort gefunden sein. Aktuell kommen nach einer weiteren Eingrenzung noch etwa fünf Prozent der Gesamtfläche Deutschlands für das Projekt infrage. Zu den potenziell geeigneten Regionen gehören dabei auch Standorte im Bundesland Niedersachsen. Die weiteren Schritte umfassen detaillierte Prüfungen der geologischen Voraussetzungen vor Ort.",
+    "r": "Die Suche nach einem Atommüll-Endlager ist ein zentrales sicherheitspolitisches und umweltpolitisches Projekt in Deutschland mit weitreichenden Folgen für künftige Generationen. Die Eingrenzung der potenziellen Flächen auf etwa fünf Prozent konkretisiert den Prozess.",
+    "srcs": [
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/inland/innenpolitik/endlagersuche-standorte-100.html",
+        "date": "2026-10-27T17:12:36.000Z"
+      },
+      {
+        "name": "NDR Niedersachsen",
+        "url": "https://www.ndr.de/nachrichten/niedersachsen/endlager-suche-wohin-mit-dem-atommuell,endlager-144.html",
+        "date": "2026-10-27T15:03:01.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/innenpolitik/endlagersuche-standorte-100.html",
+    "agree": "Die Quellen stimmen überein, dass in Deutschland nach einem Endlager für hochradioaktiven Atommüll gesucht wird und die Suche aktuell weiter eingegrenzt wurde.",
+    "diff": [
+      {
+        "name": "Tagesschau",
+        "note": "nennt die Gesamtmenge von rund 27.000 Kubikmetern hochradioaktivem Müll sowie das Zieljahr 2050 für die Endlagersuche"
+      },
+      {
+        "name": "NDR Niedersachsen",
+        "note": "präzisiert, dass aktuell etwa fünf Prozent der Flächen in Deutschland infrage kommen und nennt Standorte in Niedersachsen"
       }
     ],
     "chg": "",
@@ -1527,13 +2184,13 @@
     "k": "politik",
     "lang": "de",
     "d": "2026-10-27T13:31:00.000Z",
-    "p": 3,
+    "p": 4,
     "st": "SN",
     "city": "",
     "t": "NSU-Terroristin Beate Zschäpe bleibt mindestens bis 2035 in Haft",
-    "s": "Das Oberlandesgericht München hat eine vorzeitige Haftentlassung von Beate Zschäpe abgelehnt. Die wegen der NSU-Mordserie verurteilte Rechtsterroristin muss demnach weiterhin im Gefängnis bleiben. Eine Entlassung kommt frühestens im Jahr 2035 in Betracht, da sie bis dahin mindestens 24 Jahre verbüßen muss.",
-    "m": "Das OLG München traf die Entscheidung über die Bewährung und lehnte eine vorzeitige Entlassung der Rechtsterroristin ab. Beate Zschäpe verbüßt eine lebenslange Freiheitsstrafe für ihre Beteiligung an den Morden des Nationalsozialistischen Untergrunds. Laut gerichtlicher Festlegung muss sie mindestens 24 Jahre der Strafe absitzen, womit der früheste Zeitpunkt für eine Entlassung im Jahr 2035 liegt. Vor Gericht hatte sie zuvor gestanden, von den rechtsextremen Morden gewusst zu haben. Die Beteiligten und das Gericht bestätigten diese Mindesthaftzeit, wodurch sie vorerst in Haft bleibt. Weitere Details zu den genauen Bedingungen der Haft oder rechtlichen Schritten wurden von den Quellen nicht genannt.",
-    "r": "Die Entscheidung über die Haftdauer einer der prominentesten rechtsextremen Terroristinnen Deutschlands hat hohe rechtliche und gesellschaftliche Relevanz. Sie verdeutlicht die Konsequenzen einer lebenslangen Freiheitsstrafe mit besonderer Schwere der Schuld.",
+    "s": "Das Oberlandesgericht München hat eine vorzeitige Haftentlassung von Beate Zschäpe abgelehnt. Die wegen der NSU-Mordserie verurteilte Rechtsterroristin verbüßt eine lebenslange Freiheitsstrafe. Eine Überprüfung der Reststrafe ist frühestens im Jahr 2035 möglich. Das Gericht bestätigte damit, dass sie bis zu diesem Zeitpunkt im Gefängnis bleiben muss.",
+    "m": "Das Oberlandesgericht München hat entschieden, dass die rechtsextreme Terroristin Beate Zschäpe vorerst nicht vorzeitig aus der Haft entlassen wird. Zschäpe, die im Sommer 2018 vom Münchner OLG wegen zehn Morden, Mitgliedschaft in einer terroristischen Vereinigung und weiterer Taten zu einer lebenslangen Freiheitsstrafe verurteilt wurde, muss nun mindestens 24 Jahre ihrer Strafe verbüßen. Damit ist eine mögliche Entlassung auf Bewährung gesetzlich oder durch gerichtliche Feststellung vor dem Jahr 2035 ausgeschlossen. Der genaue Beschluss des Gerichts verdeutlicht, dass die besondere Schwere der Schuld festgestellt wurde, was eine Entlassung nach den regulären 15 Jahren verhindert. Weitere Details zu den genauen Gründen des aktuellen Beschlusses oder Reaktionen der Verteidigung wurden in den Berichten zunächst nicht genannt.",
+    "r": "Die Entscheidung eines Oberlandesgerichts über die Freilassung einer wegen einer terroristischen Mordserie lebenslang verurteilten Person betrifft die innere Sicherheit und die Rechtsstaatlichkeit in Deutschland.",
     "srcs": [
       {
         "name": "DW Deutsch",
@@ -1544,23 +2201,13 @@
         "name": "Tagesschau Regional Sachsen",
         "url": "https://www.tagesschau.de/inland/regional/sachsen/strafe-,zschaepe-gefaengnis-102.html",
         "date": "2026-10-27T12:29:00.000Z"
-      },
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/politik/deutschland/nsu-mittaeterin-beate-zschaepe-gefaengnis-100.html",
-        "date": "2026-10-27T11:47:00.000Z"
       }
     ],
     "url": "https://www.dw.com/de/nsu-terroristin-zschäpe-bleibt-bis-mindestens-2035-in-haft/a-79776152?maca=de-rss-de-all-1119-xml-mrss",
-    "agree": "Die Quellen sind sich einig, dass die NSU-Terroristin Beate Zschäpe mindestens bis 2035 in Haft bleiben muss und das OLG München eine vorzeitige Entlassung abgelehnt hat.",
-    "diff": [
-      {
-        "name": "ZDF heute",
-        "note": "berichtet zusätzlich, dass sie vor Gericht erstmals ihr Mitwissen bei den rechtsextremen Morden gestand."
-      }
-    ],
+    "agree": "Beide Quellen stimmen überein, dass das Oberlandesgericht München eine vorzeitige Entlassung von Beate Zschäpe abgelehnt hat und sie mindestens bis 2035 in Haft bleibt.",
+    "diff": [],
     "chg": "",
-    "independent": 3
+    "independent": 2
   },
   {
     "id": "story-24189a1aba2fe3a3",
@@ -1926,13 +2573,13 @@
     "k": "panorama",
     "lang": "de",
     "d": "2026-10-27T12:17:18.000Z",
-    "p": 2,
+    "p": 3,
     "st": "BW",
     "city": "",
     "t": "Ermittlungen nach tödlichem Lkw-Unfall in Schramberg eingestellt",
-    "s": "Nach einem schweren Unfall in Schramberg, bei dem eine Mutter und ihr Sohn von einem Lkw erfasst und getötet wurden, hat die Staatsanwaltschaft die Ermittlungen eingestellt. Ein unabhängiges Gutachten ergab, dass dem Lastwagenfahrer kein rechtlicher oder fahrlässiger Fehler nachweisbar ist. Das Verfahren gegen den Fahrer wurde folglich beendet.",
-    "m": "Der tragische Unfall ereignete sich in Schramberg, als eine Mutter und ihr Sohn im Verkehrsraum von einem Lastkraftwagen erfasst und tödlich verletzt wurden. Um die genaue Ursache und den Hergang zu klären, gab die zuständige Staatsanwaltschaft ein umfassendes technisches und verkehrsanalytisches Gutachten in Auftrag. Die Auswertung dieses Gutachtens ergab nun, dass der Lkw-Fahrer weder die Verkehrsregeln verletzte noch in anderer Weise schuldhaft gehandelt hat. Aufgrund dieser Feststellungen sah die Staatsanwaltschaft keine Grundlage für eine Anklageerhebung, weshalb das Ermittlungsverfahren offiziell eingestellt wurde. Damit sind strafrechtliche Konsequenzen für den Fahrer vorerst ausgeschlossen, während der Fall bei den Hinterbliebenen tiefe Trauer hinterlässt. Offen bleiben im Rahmen der Berichterstattung weitergehende Details zur genauen Örtlichkeit im Stadtgebiet von Schramberg oder zu den genauen Umständen des Zusammenstoßes.",
-    "r": "Die Einstellung des Ermittlungsverfahrens beendet die strafrechtliche Aufarbeitung dieses tödlichen Verkehrsunfalls mit zwei Opfern. Der Fall verdeutlicht die rechtlichen Konsequenzen nach Verkehrsunfällen mit Lkw und den Stellenwert von amtlichen Unfallgutachten.",
+    "s": "In Schramberg wurden eine Mutter und ihr Sohn bei einem Unfall von einem Lastwagen erfasst und getötet. Nun hat die Staatsanwaltschaft die Ermittlungsverfahren eingestellt. Ein Sachverständigengutachten ergab, dass dem Lastwagenfahrer kein strafrechtlich relevanter Fehler nachweisbar ist.",
+    "m": "Das Unglück ereignete sich in Schramberg im Landkreis Rottweil, als ein Lkw eine Mutter und ihren Sohn erfasste und tödlich verletzte. Die Staatsanwaltschaft hatte daraufhin die Ermittlungen aufgenommen, um den Hergang des Verkehrsunfalls zu klären. Zur Klärung der Schuldfrage wurde ein unabhängiges Unfallgutachten in Auftrag gegeben. Die Auswertung dieses Gutachtens ergab nun, dass der Lastwagenfahrer die Situation nicht fahrlässig herbeigeführt hat und ihm kein fehlerhaftes Verhalten angelastet werden kann. Infolgedessen wurden die Ermittlungen gegen den Fahrer offiziell eingestellt.",
+    "r": "Die Einstellung des Ermittlungsverfahrens nach einem tödlichen Verkehrsunfall mit Fußgängern klärt die strafrechtliche Verantwortung des Fahrers und beendet das offizielle Verfahren. Solche Entscheidungen basieren auf detaillierten Sachverständigengutachten zur Unfallrekonstruktion.",
     "srcs": [
       {
         "name": "SWR Aktuell Baden-Württemberg",
@@ -1946,7 +2593,7 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/freiburg/ermittlungen-gegen-lastwagenfahrer-nach-toedlichem-unfall-in-schramberg-eingestellt-100.html",
-    "agree": "Beide Quellen stimmen darin überein, dass in Schramberg eine Mutter und ihr Sohn bei einem Lkw-Unfall getötet wurden und die Staatsanwaltschaft das Ermittlungsverfahren nach einem Gutachten ohne Nachweis von Fahrfehler eingestellt hat.",
+    "agree": "Beide Quellen stimmen darin überein, dass in Schramberg eine Mutter und ihr Sohn bei einem Lkw-Unfall starben und das Ermittlungsverfahren nach einem Gutachten der Staatsanwaltschaft eingestellt wurde, da dem Fahrer kein Fehler nachweisbar ist.",
     "diff": [],
     "chg": "",
     "independent": 2
@@ -15709,645 +16356,6 @@
       {
         "name": "Guardian Sport",
         "note": "Erwähnt Cesc Fàbregas als Trainer von Como, beschreibt die Leistung als komplett dominant und schildert Beobachtungen vom Spielfeldrand vor dem Anpfiff."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-eda2de067395a7bf",
-    "c": "INT",
-    "o": "INT",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-22T05:51:00.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Airbnb schafft neue Regeln für Gäste ab",
-    "s": "Die Unterkunftsplattform Airbnb führt weltweit neue Richtlinien ein, die Gäste von aufwendigen Aufgaben bei der Abreise entlasten sollen. Nach anhaltenden Beschwerden über Tätigkeiten wie das Abwaschen von Geschirr reagiert das Unternehmen auf die Kritik. Die Änderungen treten am 20. November in Kraft.",
-    "m": "Die neuen globalen Regeln von Airbnb verbieten es Gastgebern künftig, von ihren Gästen das Abziehen von Betten oder das Spülen von Geschirr zu fordern. Damit reagiert das Unternehmen auf lang anhaltende Beschwerden von Reisenden über unangemessene Anweisungen am Ende ihres Aufenthalts. Die Richtlinie gilt für alle Reservierungen, die unter die globale Plattformpolitik fallen, und umfasst damit ausdrücklich auch Buchungen in Australien. Die Anpassungen treten am 20. November in Kraft und sollen den Aufwand für Gäste bei der Abreise deutlich verringern.",
-    "r": "Die Änderung betrifft Millionen von Reisenden weltweit und greift langjährige Kritik an den bisherigen Bedingungen auf Plattformen für Ferienwohnungen auf. Solche Richtlinien verändern die Praxis bei der Nutzung privater Unterkünfte spürbar.",
-    "srcs": [
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd0xvQ3NUbWdvZnhCWUZNQ1hzd2ExQ25QNzIwZUFUUENBM1FKelZ6d0FqZ3ZVdWc4WHFDRk1ld2E5OWhKLXNlS01ySFFBQnIyVU5HUTFMSWZWRDFrWFhVQWxTLUkzdUdKdm5VZlUwZy15XzkyMjlheWFwRjZOeTMySU04Zmc2bDhPRmt6V0xSbEFzOVNfSVJ6YV9MbThLOWhSazdmTkxhcEcxTHFqMDNxUXlQOGk3ZFhFY29JVk1qSzR5Rlp0LWY3dmh3UzBCelNWdGJ2Zw?oc=5",
-        "date": "2026-10-22T05:51:00.000Z"
-      },
-      {
-        "name": "Guardian World",
-        "url": "https://www.theguardian.com/australia-news/2026/oct/22/airbnb-guests-freed-from-chores-involving-significant-effort-under-new-global-rules",
-        "date": "2026-10-22T05:17:11.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd0xvQ3NUbWdvZnhCWUZNQ1hzd2ExQ25QNzIwZUFUUENBM1FKelZ6d0FqZ3ZVdWc4WHFDRk1ld2E5OWhKLXNlS01ySFFBQnIyVU5HUTFMSWZWRDFrWFhVQWxTLUkzdUdKdm5VZlUwZy15XzkyMjlheWFwRjZOeTMySU04Zmc2bDhPRmt6V0xSbEFzOVNfSVJ6YV9MbThLOWhSazdmTkxhcEcxTHFqMDNxUXlQOGk3ZFhFY29JVk1qSzR5Rlp0LWY3dmh3UzBCelNWdGJ2Zw?oc=5",
-    "agree": "",
-    "diff": [
-      {
-        "name": "Google News World",
-        "note": "Erwähnt die neuen globalen Regeln unter Berufung auf den Guardian, nennt aber keine Details."
-      },
-      {
-        "name": "Guardian World",
-        "note": "Berichtet im Detail, dass Gastgeber Gästen künftig das Abziehen von Betten und das Spülen von Geschirr nicht mehr auferlegen dürfen, und nennt den 20. November als Datum für das Inkrafttreten."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-87ecbd6019dbc4d9",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-22T05:44:00.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Markus Söder droht Berlin und Sachsen-Anhalt mit Entzug von Finanzhilfen",
-    "s": "Bayern Ministerpräsident Markus Söder fordert eine Extremismusklausel im Länderfinanzausgleich. Damit will er verhindern, dass Bayern künftig Bundesländer unterstützt, die von der Linken oder der AfD regiert werden. Die Union warnt vor entsprechenden Koalitionen in Berlin. Ein anderer CDU-Ministerpräsident hat diesem Vorstoß bereits widersprochen.",
-    "m": "Angesichts möglicher Koalitionen wie Rot-Grün-Rot oder einer Linkenregierung in Berlin formuliert Bayerns Ministerpräsident Markus Söder harten Widerstand. Sein Vorschlag sieht vor, im Länderfinanzausgleich eine sogenannte Extremismusklausel zu verankern. Diese Klausel soll als Hebel dienen, um Bundesländer, die unter der Führung der Linken oder der AfD stehen, von Finanzhilfen auszuschließen. Das Ziel der Maßnahme ist es nach Angaben aus der Unionsführung, finanzielle Unterstützung für Regierungen mit extremen Parteien zu verhindern. Die Initiative trifft jedoch nicht auf geschlossene Zustimmung innerhalb der Union, da ein anderer CDU-Ministerpräsident dem Vorstoß bereits widersprochen hat. Bislang ist unklar, wie eine solche Klausel rechtlich umgesetzt werden könnte und ob andere Bundesländer diesen Kurs unterstützen.",
-    "r": "Die Debatte berührt grundlegende Fragen des Föderalismus und der Verteilung von Finanzmitteln im Länderfinanzausgleich. Eine mögliche finanzielle Sanktionierung von Bundesländern durch andere Geberländer hätte weitreichende politische und finanzielle Konsequenzen.",
-    "srcs": [
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/politik/rot-gruen-rot-in-berlin-markus-soeder-will-extremismusklausel-gegen-afd-und-linke-gefuehrte-laender-a-16fc6b4b-7db9-4e09-aa8f-054b6ba71aaa#ref=rss",
-        "date": "2026-10-22T05:44:00.000Z"
-      },
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/politik/soeder-mit-extremismusklausel-gegen-afd-und-linke-gefuehrte-laender-LFPQNUJD6NENDEBQ3ZRRBRDSJY.html",
-        "date": "2026-10-22T02:18:01.000Z"
-      }
-    ],
-    "url": "https://www.spiegel.de/politik/rot-gruen-rot-in-berlin-markus-soeder-will-extremismusklausel-gegen-afd-und-linke-gefuehrte-laender-a-16fc6b4b-7db9-4e09-aa8f-054b6ba71aaa#ref=rss",
-    "agree": "Die Quellen sind sich einig, dass Bayerns Ministerpräsident Markus Söder eine Extremismusklausel im Länderfinanzausgleich fordert, um Bundesländer mit Linken- oder AfD-Führung von finanzieller Unterstützung durch Bayern auszuschließen.",
-    "diff": [
-      {
-        "name": "DER SPIEGEL",
-        "note": "Erwähnt konkret Berlin und Sachsen-Anhalt als Zielregionen, die Warnung vor einer Linkenregierung in Berlin sowie den Widerspruch eines anderen CDU-Ministerpräsidenten."
-      },
-      {
-        "name": "RND",
-        "note": "Fokussiert sich auf die generelle Absicht Söders, die finanzielle Unterstützung von Ländern mit Links- oder AfD-Regierungen zu verhindern, ohne konkrete Bundesländer im Text zu nennen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-c2b3f2065c848bbf",
-    "c": "INT",
-    "o": "DE",
-    "k": "technik",
-    "lang": "de",
-    "d": "2026-10-22T05:25:41.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Meta investiert mindestens 135 Milliarden Dollar in KI",
-    "s": "Der Meta-Konzern plant massive Investitionen in seine KI-Infrastruktur im Wert von mindestens 135 Milliarden Dollar. Zur Finanzierung und zum Vorantreiben des Ausbaus sind verschiedene Maßnahmen im Gespräch. Firmenchef Mark Zuckerberg treibt diese Entwicklung vorangetrieben, um den Anschluss nicht zu verlieren.",
-    "m": "Der Meta-Konzern will mindestens 135 Milliarden Dollar in den Ausbau seiner KI-Infrastruktur investieren, um einen bestehenden Rückstand aufzuholen. Zur Finanzierung ist unter anderem eine neue Aktie ohne Stimmrechte geplant, womit sich Firmenchef Mark Zuckerberg die vollständige Kontrolle sichern will. Darüber hinaus soll das boomende Werbegeschäft des Facebook-Mutterkonzerns die gewaltigen Summen liefern. Die strategische Neuausrichtung verdeutlicht den intensiven Wettbewerb im Bereich der Künstlichen Intelligenz unter den großen Technologiekonzernen. Konkrete Details zur Umsetzung und zum zeitlichen Rahmen der Aktienemission stehen noch aus.",
-    "r": "Die massiven Investitionen eines globalen Technologiekonzerns in dreistelliger Milliardenhöhe verdeutlichen die enormen Kosten und die strategische Bedeutung des weltweiten KI-Wettlaufs. Das Vorhaben hat weitreichende Auswirkungen auf die Finanzmärkte und die zukünftige Unternehmensstruktur von Meta.",
-    "srcs": [
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/meta-quartalszahlen-ki-investitionen-100.html",
-        "date": "2026-10-22T05:25:41.000Z"
-      },
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/wirtschaft/meta-investiert-mindestens-135-milliarden-dollar-um-ki-rueckstand-aufzuholen-UWZVQQ34V5FNJGLOJPY4BS2B44.html",
-        "date": "2026-10-22T00:07:05.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/wirtschaft/unternehmen/meta-quartalszahlen-ki-investitionen-100.html",
-    "agree": "Beide Quellen stimmen überein, dass Meta mindestens 135 Milliarden Dollar in KI-Infrastruktur investieren will.",
-    "diff": [
-      {
-        "name": "Tagesschau",
-        "note": "Berichtet über eine geplante neue Aktie ohne Stimmrechte zur Finanzierung, mit der sich Zuckerberg die Kontrolle sichert."
-      },
-      {
-        "name": "RND",
-        "note": "Erwähnt, dass das boomende Werbegeschäft das Geld für die Investitionen liefern soll und dass es darum geht, den KI-Rückstand aufzuholen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-766f20e0e8585959",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-22T05:15:03.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "US-Zwischenwahlen: Bedeutung und Verlässlichkeit von Umfragen",
-    "s": "Vor den anstehenden Zwischenwahlen in den USA hoffen die Demokraten auf einen deutlichen Sieg. Angesichts niedriger Zustimmungswerte für US-Präsident Trump nähren Umfragen ihre Zuversicht. Es stellt sich jedoch die Frage, wie verlässlich diese Prognosen tatsächlich sind.",
-    "m": "In zwei Wochen finden in den USA die Zwischenwahlen statt, die oft als Stimmungstest für den amtierenden Präsidenten dienen. Landesweit verzeichnet Donald Trump niedrige Zustimmungswerte, was die Demokraten zu der Hoffnung auf einen umfassenden Wahlerfolg motiviert. Umfragen spielen in der Vorberichterstattung eine zentrale Rolle und stützen diese Erwartungen, bergen jedoch wie in der Vergangenheit das Risiko von Fehleinschätzungen. Beobachter und Experten analysieren daher intensiv die Datenlage und historische Muster, um die tatsichliche Aussagekraft der aktuellen Umfragewerte einzuschätzen. Offen bleibt, ob die tatsächliche Wahlbeteiligung und das Abstimmungsverhalten der Wähler den Prognosen entsprechen werden.",
-    "r": "Die Zwischenwahlen in den USA und die Verlässlichkeit der dazugehörigen Umfragen sind von zentraler Bedeutung für die politische Zukunft und den Kurs der aktuellen US-Regierung. Die Daten und Trends bieten einen wichtigen Einblick in die politische Stimmung des Landes.",
-    "srcs": [
-      {
-        "name": "SWR Aktuell",
-        "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-umfragen-100.html",
-        "date": "2026-10-22T05:15:03.000Z"
-      },
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Tdml0UlpUdWxOaFlHZE5TWHdLVUVxaHRUWFp2eHB2SWI5bVpIVkZsZzV0S3pmLVhUMkVZbmQxcFk4MFJLbXNzN1Q4QWRGN1VDUWRkNS1YZjdMLWtaUjZxMkNLTFJBY1AxY3dKNHpmR3hsak42OWVlSW5PZjg?oc=5",
-        "date": "2026-10-22T05:03:00.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-umfragen-100.html",
-    "agree": "Die Quellen sind sich einig, dass angesichts niedriger Zustimmungswerte für Trump und anstehender Zwischenwahlen in zwei Wochen die Demokraten auf einen Sieg hoffen und Umfragen dabei eine wichtige Rolle spielen.",
-    "diff": [
-      {
-        "name": "SWR Aktuell",
-        "note": "Berichtet kurz über die Hoffnung der Demokraten auf einen Sieg aufgrund niedriger Zustimmungswerte für Trump."
-      },
-      {
-        "name": "Tagesschau",
-        "note": "Nennt Autor Jan Oppel und thematisiert ausführlicher die Verlässlichkeit der Umfragen vor den Midterms."
-      },
-      {
-        "name": "Google News DE",
-        "note": "Verweist auf einen Artikel der Tagesschau und erwähnt zusätzlich den Aspekt 'Trump am Scheideweg'."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-c7247cb159130508",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-22T04:36:59.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Senatswahl in Texas: Bush-Bruder Neil stimmt für Demokraten Talarico",
-    "s": "Bei den bevorstehenden Midterms in den USA erhält der demokratische Kandidat James Talarico in Texas prominente Unterstützung. Der langjährige Republikaner Neil Bush hat angekündigt, für den Demokraten zu stimmen. Damit bricht er offen mit der traditionellen Linie seiner bekannten Politikerfamilie.",
-    "m": "Die Entscheidung von Neil Bush, bei den Senatswahlen in Texas für den demokratischen Kandidaten James Talarico zu stimmen, sorgt für Aufsehen. Der Bruder der ehemaligen US-Präsidenten beziehungsweise des früheren Gouverneurs bricht damit demonstrativ mit der traditionsreichen republikanischen Parteibindung seiner Familie. Als Grund für diesen Schritt nannte er schwere Vorwürfe gegen den texanischen Amtsinhaber Paxton sowie den früheren US-Präsidenten Donald Trump. Seiner Ansicht nach haben beide der Republikanischen Partei enormen Schaden zugefügt. Sollte es den Demokraten gelingen, bei diesen Kongresswahlen den Bundesstaat Texas zu erobern, würde dies als historischer Triumph gewertet werden. Bislang ist unklar, welche konkreten Auswirkungen diese innerparteiliche Absetzbewegung auf den Ausgang der Wahl haben wird.",
-    "r": "Die Abkehr eines prominenten Mitglieds der Bush-Familie von den Republikanern ist ein bemerkenswerter Vorgang im US-Wahlkampf. Ein mögliches, wenn auch schwieriges Vordringen der Demokraten in Texas könnte die Machtverhältnisse im Kongress maßgeblich beeinflussen.",
-    "srcs": [
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/politik/senatswahl-in-texas-bush-bruder-neil-stimmt-fuer-demokraten-talarico-ABBO7PVPYNA3RLZH6PB5GNGYOE.html",
-        "date": "2026-10-22T04:36:59.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/ausland/midterms-in-den-usa-neil-bush-stimmt-in-texas-fuer-demokraten-james-talarico-a-2cde7394-9e83-46cc-843f-195ea676c6c7#ref=rss",
-        "date": "2026-10-21T23:17:00.000Z"
-      }
-    ],
-    "url": "https://www.rnd.de/politik/senatswahl-in-texas-bush-bruder-neil-stimmt-fuer-demokraten-talarico-ABBO7PVPYNA3RLZH6PB5GNGYOE.html",
-    "agree": "Beide Quellen stimmen darin überein, dass Neil Bush bei den Midterms in Texas für den demokratischen Kandidaten James Talarico stimmen wird.",
-    "diff": [
-      {
-        "name": "RND",
-        "note": "Berichtet konkret über Neil Bushs Vorwürfe gegen Paxton und Trump, wonach diese der Republikanischen Partei enormen Schaden zugefügt hätten."
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "Erwähnt, dass ein möglicher Sieg der Demokraten bei der Eroberung von Texas bei den Kongresswahlen als Triumph gelten würde."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-d4738a244a44f39d",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-22T04:03:00.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Le Pen legt in Umfrage zur Präsidentschaftswahl weiter zu",
-    "s": "Inmitten von Ausschreitungen in Frankreich gewinnt die Rechtsnationale Marine Le Pen in einer aktuellen Umfrage zur Präsidentschaftswahl leicht an Zustimmung. Die Politikerin könnte jedoch vor einem schwierigen Wahlkampf stehen, da ihr rechtliche Konsequenzen drohen. Die genauen Hintergründe und Konsequenzen der Entwicklungen werden von Medien beleuchtet.",
-    "m": "Marine Le Pen, die prominenteste Vertreterin der französischen Rechten, verzeichnet in einer aktuellen Umfrage zur kommenden Präsidentschaftswahl leichte Zuwächse bei den Wählerstimmen. Dies geschieht vor dem Hintergrund chaotischer Tage und anhaltender Ausschreitungen im Land. Ob die aktuellen Unruhen zu diesem Umfrageplus beigetragen haben, ist Gegenstand von Analysen. Gleichzeitig ist die Politikerin weiterhin mit rechtlichen Problemen konfrontiert, weshalb ihr ein Wahlkampf unter erschwerten Bedingungen droht. Es bleibt abzuwarten, wie sich die juristischen Verfahren auf ihre politische Zukunft und ihre Kampagne auswirken werden.",
-    "r": "Die Umfrageergebnisse und der mögliche Wahlkampf unter erschwerten Bedingungen verdeutlichen die politische Dynamik in Frankreich angesichts aktueller gesellschaftlicher Spannungen.",
-    "srcs": [
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/politik/ausland/frankreich-ausschreitungen-umfrage-praesidentschaft-le-pen-100.html",
-        "date": "2026-10-22T04:03:00.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/ausland/le-pen-legt-in-umfrage-zur-praesidentschaftswahl-leicht-zu-a-2359874f-7de1-4cb9-8af7-714f72d62fc1#ref=rss",
-        "date": "2026-10-22T00:38:00.000Z"
-      }
-    ],
-    "url": "https://www.zdfheute.de/politik/ausland/frankreich-ausschreitungen-umfrage-praesidentschaft-le-pen-100.html",
-    "agree": "Die Quellen sind sich einig, dass Marine Le Pen in einer aktuellen Umfrage zur Präsidentschaftswahl leicht zulegen konnte und ihr rechtlicher Ärger droht.",
-    "diff": [
-      {
-        "name": "ZDF heute",
-        "note": "Stellt die Frage, ob Frankreichs Rechte von den Ausschreitungen profitiert, und erwähnt konkret eine drohende Fußfessel für Le Pen."
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "Beschreibt Frankreichs Situation als chaotische Tage und formuliert, dass Le Pen ihren Stimmanteil ausbaut und Ärger vor Gericht droht."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-f3c4855b6df3fce2",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-22T03:55:53.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Preisträger beim Bayerischen Medienpreis fordern Abgrenzung zur AfD",
-    "s": "Beim Bayerischen Medienpreis, der inzwischen als Blauer Panther verliehen wird, haben Preisträger die Bühne für politische Botschaften genutzt. Unter anderem forderten sie eine klare Abgrenzung zur AfD. Neben traditionellen Fernsehformaten werden bei der Veranstaltung auch andere Medienschaffende ausgezeichnet.",
-    "m": "Der Bayerische Fernsehpreis trägt mittlerweile den Namen Blauer Panther und zeichnet längst nicht mehr nur klassische TV-Formate aus. Bei der diesjährigen Verleihung nutzten mehrere Preisträger ihre Auftritte und Dankesreden für gesellschaftspolitische Aussagen. Zu den Geehnten gehört auch der Streamer Marcant, der in seiner Arbeit regelmäßig mit Rechtsextremen diskutiert und dabei eine klare Haltung zeigt. Sowohl er als auch andere Ausgezeichnete machten deutlich, dass die Bühne der Veranstaltung für mehr als reine Danksagungen genutzt werden sollte. Konkret wurde dabei eine deutliche Abgrenzung zur AfD gefordert. Die Vorkommnisse werfen ein Schlaglicht auf die zunehmende Politisierung von Medienpreisen und die Haltung prominenter Kreativer gegenüber rechtspopulistischen und -extremistischen Strömungen.",
-    "r": "Die Äußerungen prominenter Preisträger bei einer offiziellen Medienpreisverleihung sind von gesellschaftlicher und medienpolitischer Relevanz, da sie die Haltung der Kultur- und Medienbranche zu rechtsextremen Positionen widerspiegeln.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTnNFTjFZN01zbWd5ZGtUUmgtRzQwLVRlendPQUVtV29jTlFmcC1RZmJvXzh2MGdlb1dHaFFPdkpHQm0xV2pUOWkwOXFEZ1hEeWVkWW85ZGs5Y29uc3N4dkFmOVk3NmZHYzU5TmpjUV9zS2NBOVRmdTdCekpvS3prN2tpSlNyQTJ6UnpuNWUyWEo5VGZEc0Y2UXp6NG14TG10Y1lJ?oc=5",
-        "date": "2026-10-22T03:55:53.000Z"
-      },
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/leute/Preistraeger-beim-Blauen-Panther-fordern-Abgrenzung-zur-AfD-id31444799.html",
-        "date": "2026-10-22T03:55:53.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTnNFTjFZN01zbWd5ZGtUUmgtRzQwLVRlendPQUVtV29jTlFmcC1RZmJvXzh2MGdlb1dHaFFPdkpHQm0xV2pUOWkwOXFEZ1hEeWVkWW85ZGs5Y29uc3N4dkFmOVk3NmZHYzU5TmpjUV9zS2NBOVRmdTdCekpvS3prN2tpSlNyQTJ6UnpuNWUyWEo5VGZEc0Y2UXp6NG14TG10Y1lJ?oc=5",
-    "agree": "",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-5597be80cba0c739",
-    "c": "INT",
-    "o": "INT",
-    "k": "technik",
-    "lang": "de",
-    "d": "2026-10-22T03:30:51.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Sicherheitslücken in Programmiersprache PHP entdeckt",
-    "s": "Weltweit schlagen führende Persönlichkeiten Alarm wegen neu entdeckter Sicherheitslücken in der Programmiersprache PHP. Die Schwachstellen wurden mithilfe von künstlicher Intelligenz identifiziert.",
-    "m": "Weltweit haben führende Persönlichkeiten vor kritischen Sicherheitsrisiken gewarnt, die in der Programmiersprache PHP gefunden wurden. Die betroffene Programmiersprache wird schätzungsweise auf rund 70 Prozent aller Websites weltweit eingesetzt. Mithilfe von künstlicher Intelligenz ist es gelungen, genau zwei spezifische Schwachstellen in der PHP-Sprache zu lokalisieren und aufzudecken. Konkrete Details zu den Urhebern dieser Warnungen oder den genauen Folgen der Lücken wurden in den vorliegenden Berichten bisher nicht genannt. Auch Maßnahmen zur Behebung oder Reaktionen der Entwicklergemeinschaft stehen noch aus.",
-    "r": "Die Entdeckung betrifft etwa 70 Prozent aller Websites und birgt daher globale Sicherheitsrisiken für die IT-Infrastruktur. Weltweite Warnungen von führenden Persönlichkeiten unterstreichen die Dimension.",
-    "srcs": [
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWXBsUXVYMUhBUVFfZ2VyV1o2X0lBbG82dms2TjJNeklJQUZDbi1DN3RFampaMVNBcE5penMyMkY2Q3drMVpIdTdVc0FWTEx5S05JSWxEazMtRVhTUU5yMEFxNWN1RkVxV1d0SlotNHlyZzhXSkkzSi1vaFl6M012d2pqclVrc0xpa0VkbWlqMkloaFF0Q0IzTmFteFZLRHp4Y3N3Qk4zQm5GMDlNMmNiU0czUWhaY0HSAbwBQVVfeXFMTkJnMmt4YlQzZEpsVGpmNmRwYllzdER4OU01NkxIRjVCdDZxMksyZExETUs2UXV4bXhGYmI4bER2WmZtTGVrM0w1TnNyUFN0Y2o4NWJMLXZEMkZ6aVh1MnptTlY2cTYyZnEyNjNsdkZWLXlRcDZuR1UtdHhVQU9uc3lsQzdlaVBpeVk1WDh0c1E4eEVoaXcyR0o4c0thN2xleWFlV1ZkQW8zWjN0aXFFVEpXRF95TEw0RVhpNEM?oc=5",
-        "date": "2026-10-22T03:30:51.000Z"
-      },
-      {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/22/world-leaders-warn-against-security-flaw-found-in-php-computer-programming?traffic_source=rss",
-        "date": "2026-10-22T00:10:27.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWXBsUXVYMUhBUVFfZ2VyV1o2X0lBbG82dms2TjJNeklJQUZDbi1DN3RFampaMVNBcE5penMyMkY2Q3drMVpIdTdVc0FWTEx5S05JSWxEazMtRVhTUU5yMEFxNWN1RkVxV1d0SlotNHlyZzhXSkkzSi1vaFl6M012d2pqclVrc0xpa0VkbWlqMkloaFF0Q0IzTmFteFZLRHp4Y3N3Qk4zQm5GMDlNMmNiU0czUWhaY0HSAbwBQVVfeXFMTkJnMmt4YlQzZEpsVGpmNmRwYllzdER4OU01NkxIRjVCdDZxMksyZExETUs2UXV4bXhGYmI4bER2WmZtTGVrM0w1TnNyUFN0Y2o4NWJMLXZEMkZ6aVh1MnptTlY2cTYyZnEyNjNsdkZWLXlRcDZuR1UtdHhVQU9uc3lsQzdlaVBpeVk1WDh0c1E4eEVoaXcyR0o4c0thN2xleWFlV1ZkQW8zWjN0aXFFVEpXRF95TEw0RVhpNEM?oc=5",
-    "agree": "Die Quellen sind sich einig, dass in der Programmiersprache PHP Sicherheitslücken gefunden wurden, vor denen weltweit gewarnt wird, und dass KI dabei eingesetzt wurde.",
-    "diff": [
-      {
-        "name": "Google News World",
-        "note": "Verweist lediglich auf den Artikel von Al Jazeera mit gleichem Inhalt."
-      },
-      {
-        "name": "Al Jazeera",
-        "note": "Liefert die konkrete Information, dass KI zur Identifizierung von genau zwei Schwachstellen genutzt wurde und PHP auf etwa 70 Prozent der Websites Verwendung findet."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-5d6e98e4c359e15d",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-22T03:21:40.000Z",
-    "p": 2,
-    "st": "BW",
-    "city": "",
-    "t": "Baden-Württembergs Sozialminister Hildenbrand warnt vor Rechtsruck",
-    "s": "Der baden-württembergische Sozialminister Oliver Hildenbrand äußert Besorgnis über einen zunehmenden Druck auf Minderheiten. Er betont die Notwendigkeit, sich für diese Gruppen starktzumachen. Dabei positioniert er sich auch deutlich gegenüber der AfD.",
-    "m": "Sozialminister Oliver Hildenbrand hat in einer aktuellen Erklärung vor einem spürbaren Rechtsruck gewarnt. Der Grünen-Politiker sieht insbesondere Minderheiten in der Gesellschaft vermehrt unter Druck geraten. Vor diesem Hintergrund kündigte er an, als politischer Anwalt für die queere Community einstehen zu wollen. Zudem äußerte er sich sehr kritisch und mit klaren Worten zur AfD. Bislang wurden keine weiteren Details zu konkreten politischen Maßnahmen oder Programmen genannt. Die Aussagen unterstreichen die Sorge der Landesregierung vor gesellschaftlichen Polarisierungen. Es bleibt abzuwarten, welche praktischen Schritte aus dieser Ankündigung folgen werden.",
-    "r": "Die Aussagen des Landesministers spiegeln die aktuellen politischen Debatten zum Schutz von Minderheiten und dem Umgang mit rechtspopulistischen Parteien wider. Sie zeigen die Haltung der grün geführten Landesregierung in Baden-Württemberg auf.",
-    "srcs": [
-      {
-        "name": "Tagesschau Regional Baden-Württemberg",
-        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-sozialminister-bw-sorgt-sich-um-minderheiten-hildenbrand-will-anwalt-der-queeren-community-sein-100.html",
-        "date": "2026-10-22T03:21:40.000Z"
-      },
-      {
-        "name": "SWR Aktuell Baden-Württemberg",
-        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/zur-sache-intensiv-bw-sozialminister-sorge-rechtsruck-minderheiten-100.html",
-        "date": "2026-10-22T03:21:40.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-sozialminister-bw-sorgt-sich-um-minderheiten-hildenbrand-will-anwalt-der-queeren-community-sein-100.html",
-    "agree": "Beide Quellen stimmen darin überein, dass Sozialminister Oliver Hildenbrand vor einem Rechtsruck und Druck auf Minderheiten warnt und sich als Anwalt der queeren Community versteht.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-9b61f4d205568d6b",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-22T02:08:13.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Herbstprognose des Arbeitskreises Steuerschätzung wird vorgestellt",
-    "s": "Der Arbeitskreis Steuerschätzung gibt am Donnerstagnachmittag seine Herbstprognose für die Steuereinnahmen bekannt. Bundesfinanzminister Lars Klingbeil will sich im Anschluss auf einer Pressekonferenz in Berlin dazu äußern. Angesichts verbesserter Wachstumsaussichten könnten die Einnahmeerwartungen leicht nach oben korrigiert werden.",
-    "m": "Der Arbeitskreis Steuerschätzung legt am Donnerstagnachmittag seine aktuelle Herbstprognose vor. Im Anschluss ist für 15.00 Uhr eine Pressekonferenz in Berlin geplant, auf der Bundesfinanzminister Lars Klingbeil von der SPD Stellung zu den Ergebnissen nehmen wird. Wegen etwas besserer Aussichten für das wirtschaftliche Wachstum besteht die Möglichkeit, dass die bisherigen Einnahmeerwartungen leicht nach oben angepasst werden. Klingbeil wird die Ergebnisse der Schätzung offiziell präsentieren und erläutern. Die Prognose dient als wichtige Grundlage für die Haushaltsplanung von Bund und Ländern für das kommende Jahr.",
-    "r": "Die Steuerschätzung ist zentral für die finanzpolitische Planung und den Haushaltsentwurf von Bund und Ländern. Eine Korrektur der Einnahmeerwartungen hat direkte Auswirkungen auf die verfügbaren Finanzmittel der öffentlichen Hand.",
-    "srcs": [
-      {
-        "name": "stern",
-        "url": "https://www.stern.de/news/arbeitskreis-steuerschaetzung-gibt-herbstprognose-bekannt-38433554.html",
-        "date": "2026-10-22T02:08:13.000Z"
-      },
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/arbeitskreis-steuerschaetzung-gibt-herbstprognose-bekannt-mehr-einnahmen-erwartet-100.html",
-        "date": "2026-10-22T01:55:31.000Z"
-      }
-    ],
-    "url": "https://www.stern.de/news/arbeitskreis-steuerschaetzung-gibt-herbstprognose-bekannt-38433554.html",
-    "agree": "Die Quellen stimmen überein, dass der Arbeitskreis Steuerschätzung am Nachmittag seine Herbstprognose vorstellt und Bundesfinanzminister Klingbeil die Ergebnisse präsentiert.",
-    "diff": [
-      {
-        "name": "stern",
-        "note": "Erwähnt die Uhrzeit der Pressekonferenz (15.00 Uhr), den Ort Berlin, die Partei von Klingbeil (SPD) und die Möglichkeit leicht nach oben korrigierter Einnahmeerwartungen aufgrund verbesserter Wachstumsaussichten."
-      },
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "note": "Fasst die Vorstellung der Ergebnisse durch Bundesfinanzminister Klingbeil am Nachmittag zusammen und kündigt mehr Einnahmen an."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-ebf3e2af75c49b16",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-22T02:04:06.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Macron berät nach Krawallen in Frankreich mit Ministern und Geheimdiensten",
-    "s": "Nach gewalttätigen Protesten am Wochenende beraten Frankreichs Präsident Emmanuel Macron und Regierungschef Sébastien Lecornu am Donnerstag in Paris mit Ministern und Geheimdienstvertretern. Dabei soll eine detaillierte Bestandsaufnahme der Ereignisse erstellt werden. Ziel ist es laut Macron, Transparenz über die Geschehnisse zu schaffen.",
-    "m": "Frankreichs Präsident Emmanuel Macron und Regierungschef Sébastien Lecornu treffen sich am Donnerstag in Paris zu Krisengesprächen mit Ministern und Geheimdienstvertretern. Hintergrund sind die gewalttätigen Proteste, die sich am vergangenen Wochenende in dem Land ereignet hatten. Das Treffen dient nach Angaben des Präsidenten dazu, eine detaillierte Bestandsaufnahme der Vorkommnisse vorzunehmen. Macron hatte bereits am Mittwoch betont, dass es notwendig sei, vollständige Transparenz darüber zu schaffen, was genau geschehen ist. Konkrete Maßnahmen oder Ergebnisse des Treffens wurden im Vorfeld noch nicht bekannt gegeben.",
-    "r": "Das Treffen der französischen Staatsspitze mit Sicherheits- und Regierungsvertretern ist eine direkte Reaktion auf die Ausschreitungen vom Wochenende. Es dient der Aufarbeitung und soll Transparenz über die Vorfälle herstellen.",
-    "srcs": [
-      {
-        "name": "stern",
-        "url": "https://www.stern.de/news/nach-krawallen-in-frankreich--macron-beraet-mit-ministern-und-geheimdiensten-38433562.html",
-        "date": "2026-10-22T02:04:06.000Z"
-      },
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/macron-beraet-mit-ministern-und-geheimdienstvertretern-100.html",
-        "date": "2026-10-22T01:55:31.000Z"
-      }
-    ],
-    "url": "https://www.stern.de/news/nach-krawallen-in-frankreich--macron-beraet-mit-ministern-und-geheimdiensten-38433562.html",
-    "agree": "Die Quellen sind sich einig, dass Frankreichs Präsident Macron und Regierungschef Lecornu wegen der Krawalle vom Wochenende mit Ministern und Geheimdienstvertretern in Paris zusammenkommen.",
-    "diff": [
-      {
-        "name": "stern",
-        "note": "Ergänzt, dass das Treffen am Donnerstag stattfindet und Macron bereits am Mittwoch Transparenz und eine detaillierte Bestandsaufnahme gefordert hatte."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-f8381165660f68dc",
-    "c": "INT",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-22T01:55:31.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Ärzte geben Entwarnung: Lungenkrebs bei Papst Leo hat nicht gestreut",
-    "s": "Nach der operativen Entfernung eines bösartigen Lungentumors bei Papst Leo XIV. in der vergangenen Woche gibt es erfreuliche medizinische Nachrichten. Laut Angaben der behandelten Ärzte hat der Krebs nicht gestreut und die Erkrankung war lokal begrenzt. Weitere Untersuchungen bestätigten diesen Befund.",
-    "m": "In der vergangenen Woche wurde Papst Leo XIV. ein bösartiger Tumor aus der Lunge entfernt, wobei die ursprüngliche Diagnose auf Krebs lautete. Nun haben die Ärzte des Vatikans mitgeteilt, dass der Lungenkrebs offenbar nicht gestreut hat. Detaillierte medizinische Untersuchungen ergaben, dass die Krebserkrankung lokal begrenzt geblieben ist. Diese Entwicklung stellt eine positive Wendung im gesundheitlichen Zustand des Papstes dar. Weitere Details zum genauen Verlauf der Genesung oder zu anstehenden Schritten wurden zunächst nicht bekannt gegeben.",
-    "r": "Die Gesundheit des Papstes ist von internationalem und öffentlichem Interesse. Die neuen medizinischen Befunde bestimmen den aktuellen Genesungsverlauf und sind für die Öffentlichkeit von großer Bedeutung.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/aerzte-krebs-bei-papst-leo-hat-nicht-gestreut-106.html",
-        "date": "2026-10-22T01:55:31.000Z"
-      },
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/politik/papst-leo-krebs-hat-nicht-gestreut-3U4Y6QLGVRA55I6O6PQ3Z4WSL4.html",
-        "date": "2026-10-21T19:59:58.000Z"
-      },
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/panorama/papst-leo-krebs-erkrankung-100.html",
-        "date": "2026-10-21T19:36:00.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/aerzte-krebs-bei-papst-leo-hat-nicht-gestreut-106.html",
-    "agree": "Die Quellen sind sich einig, dass bei Papst Leo in der vergangenen Woche ein Tumor aus der Lunge entfernt wurde und der Lungenkrebs nunsten der Ärzte nicht gestreut hat.",
-    "diff": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "note": "Berichtet kurz und knapp, dass der Lungenkrebs bei Papst Leo XIV. offenbar nicht gestreut hat."
-      },
-      {
-        "name": "RND",
-        "note": "Ergänzt, dass dem Papst in der vergangenen Woche ein bösartiger Tumor aus der Lunge entfernt wurde und die Diagnose Krebs lautete."
-      },
-      {
-        "name": "ZDF heute",
-        "note": "Führt ergänzend aus, dass genauere Untersuchungen ergeben haben, dass die Krebserkrankung lokal begrenzt war."
-      }
-    ],
-    "chg": "",
-    "independent": 3
-  },
-  {
-    "id": "story-0fd0064d91e77ff4",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-22T01:55:31.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Zunehmende Verbreitung rechtsextremer Kampfsport-Netzwerke in Deutschland",
-    "s": "In Deutschland wächst die Zahl rechtsextremer Kampfsport-Netzwerke. Die Gruppierungen rekrutieren junge Männer gezielt für gewerkschaftsähnliche oder ideologische Zwecke. Die Entwicklung zeigt eine steigende Tendenz im Bereich des Rechtsextremismus. Sicherheitsbehörden beobachten diese Strukturen mit Sorge.",
-    "m": "Die Zahl rechtsextremer Kampfsport-Netzwerke in Deutschland verzeichnet einen kontinuierlichen Anstieg. Diese Gruppierungen, oft als sogenannte Active Clubs bezeichnet, nutzen das Konzept aus den USA. Die Rekrutierung von jungen Männern erfolgt unter anderem in gewöhnlichen Fitnessgruppen. Experten sprechen in diesem Zusammenhang von einer Professionalisierung der Gewaltkompetenz in der rechtsextremen Szene. Ziel dieser Netzwerke ist es, Anhänger physisch zu schulen und auf Auseinandersetzungen vorzubereiten. Die Sicherheitsbehörden versuchen, die Strukturen und Verbindungen dieser Gruppierungen genauer zu analysieren. Bislang sind viele Details über die genaue Vernetzung und Finanzierung dieser Netzwerke noch Gegenstand von Ermittlungen. Weitere Erkenntnisse hängen von der fortlaufenden Beobachtung durch den Verfassungsschutz ab.",
-    "r": "Die Zunahme rechtsextremer Kampfsport-Netzwerke betrifft die innere Sicherheit und die Extremismusprävention in Deutschland. Die Professionalisierung gewaltbereiter Gruppen stellt Behörden und Zivilgesellschaft vor neue Herausforderungen.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/immer-mehr-rechtsextreme-kampfsport-netzwerke-in-deutschland-100.html",
-        "date": "2026-10-22T01:55:31.000Z"
-      },
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/vermischtes/article6ad938882c40700de080130e/active-clubs-professionalisierung-der-gewaltkompetenz-immer-mehr-rechtsextreme-kampfsport-netzwerke.html",
-        "date": "2026-10-21T22:28:49.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/immer-mehr-rechtsextreme-kampfsport-netzwerke-in-deutschland-100.html",
-    "agree": "Beide Quellen stimmen darin überein, dass die Zahl rechtsextremer Kampfsport-Netzwerke in Deutschland steigt.",
-    "diff": [
-      {
-        "name": "WELT",
-        "note": "Erwähnt die US-amerikanische Herkunft der Idee der Active Clubs und die Rekrutierung junger Männer in Fitnessgruppen sowie den Begriff der Professionalisierung der Gewaltkompetenz."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-b70b2612293c5fab",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-22T01:55:31.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Ermittler durchsuchen Büros der EU-Fraktion Patrioten",
-    "s": "Im Europaparlament in Brüssel und Straßburg haben Ermittlungen stattgefunden. Dabei wurden Büros der rechtsgerichteten Patrioten-Fraktion durchsucht. Die europäischen Behörden gehen bei den Maßnahmen konkreten Verdachtsmomenten nach. Nähere Details zum Ablauf wurden zunächst nicht umfassend bekanntgegeben.",
-    "m": "Die Europäische Staatsanwaltschaft hat Razzien in den Büros der Patrioten-Fraktion im Europäischen Parlament in Brüssel und Straßburg durchgeführt. Im Zentrum der Ermittlungen steht der mögliche Missbrauch von EU-Geldern in Höhe von rund 4,3 Millionen Euro. Dieser Vorwurf betrifft Mitglieder der inzwischen aufgelösten ID-Fraktion, der unter anderem auch die deutsche AfD angehörte. Die Untersuchungen dauern an, und es wird geprüft, inwieweit finanzielle Unregelmäßigkeiten vorliegen. Es gilt, die genauen Verantwortlichkeiten und den Verbleib der Summen aufzuklären. Weitere offene Punkte betreffen mögliche Konsequenzen für die betroffenen Parteien und Politiker.",
-    "r": "Die Durchsuchungen im EU-Parlament werfen Fragen zum Umgang mit europäischen Geldern auf. Der Vorwurf des Missbrauchs betrifft prominente rechte Fraktionsstrukturen und hat politische sowie finanzielle Relevanz.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/ermittler-durchsuchen-bueros-von-rechter-fraktion-im-europarlament-106.html",
-        "date": "2026-10-22T01:55:31.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/ausland/bruessel-und-strassburg-ermittler-durchsuchen-bueros-rechter-fraktion-im-eu-parlament-a-8f50684f-8092-483d-9fd0-7ff67bdd599c#ref=rss",
-        "date": "2026-10-21T16:51:00.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/ermittler-durchsuchen-bueros-von-rechter-fraktion-im-europarlament-106.html",
-    "agree": "Die Quellen stimmen überein, dass Büros der rechten Patrioten-Fraktion im Europaparlament durchsucht wurden.",
-    "diff": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "note": "Berichtet allgemein von Durchsuchungen von Büros der rechten Fraktion ohne Nennung von Details zur Staatsanwaltschaft oder zu Summen."
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "Nennt die Europäische Staatsanwaltschaft als durchführende Behörde und konkretisiert den Verdacht auf Missbrauch von 4,3 Millionen Euro durch Mitglieder der aufgelösten ID-Fraktion inklusive AfD-Bezug."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-8998c50817afbcb1",
-    "c": "INT",
-    "o": "UK",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-22T01:07:34.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "USA befehlen Diplomaten wegen Houthi-Angriffen Abzug aus Saudi-Arabien",
-    "s": "Das US-Außenministerium hat angeordnet, dass bestimmte Diplomaten und Angehörige von Regierungsangestellten Saudi-Arabien verlassen müssen. Grund für diesen Schritt sind anhaltende und eskalierende Angriffe der vom Iran unterstützten Houthi-Miliz aus dem Jemen auf zivile Infrastruktur. Bei jüngsten Attacken auf einen Flughafen und ein Ölfeld wurden mindestens drei Menschen getötet. Die Maßnahme erfolgt vor dem Hintergrund starker Sicherheitsbedenken in der gesamten Golfregion.",
-    "m": "Die US-Regierung hat die teilweise Evakuierung ihres diplomatischen Personals aus Saudi-Arabien offiziell angeordnet. Als Hauptgrund nennt das Außenministerium die anhaltenden Angriffe der vom Iran unterstützten Houthi-Rebellen auf kritische Infrastruktur und zivile Flughäfen in der Region. Bei jüngsten Einschlägen an einem Flughafen und einem Ölfeld kamen am Mittwochabend mindestens drei Menschen ums Leben. Laut Berichten gibt es zudem Anzeichen für ähnliche diplomatische Rückzüge oder Überlegungen dazu in weiteren Golfstaaten wie den Vereinigten Arabischen Emiraten, Jordanien, Katar und Bahrain. Experten befürchten eine Rückkehr zu einem direkten Konflikt mit dem Iran, insbesondere im Zuge der US-Zwischenwahlen. Der Sprecher des Außenministeriums, Tommy Pigott, betonte, dass die Sicherheit der Mitarbeiter und ihrer Familien oberste Priorität habe.",
-    "r": "Die Entscheidung der USA, diplomatisches Personal abzuziehen, verdeutlicht die akute Eskalation und Bedrohungslage durch Houthi-Angriffe auf der Arabischen Halbinsel. Dies wirft ein Schlaglicht auf die steigenden geopolitischen Spannungen im Nahen Osten und die Sorge vor einer Ausweitung des Konflikts unter Beteiligung des Iran.",
-    "srcs": [
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-22T01:07:34.000Z"
-      },
-      {
-        "name": "Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks",
-        "date": "2026-10-22T00:26:50.000Z"
-      }
-    ],
-    "url": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
-    "agree": "Beide Quellen stimmen darin überein, dass das US-Außenministerium einigen Diplomaten und Angehörigen den Abzug aus Saudi-Arabien befohlen hat und Houthi-Angriffe mit mindestens drei Todesopfern an einem Flughafen und Ölfeld der Auslöser waren.",
-    "diff": [
-      {
-        "name": "Guardian World",
-        "note": "Berichtet zusätzlich über Hinweise auf ähnliche diplomatische Abzüge oder Planungen in den VAE, Jordanien, Katar und Bahrain sowie über Befürchtungen hinsichtlich einer Rückkehr zum Konflikt mit dem Iran nach den US-Zwischenwahlen und nennt den Sprecher Tommy Pigott."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-c0127ce35e25055a",
-    "c": "INT",
-    "o": "PT",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-22T01:00:27.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Protestierende in Lissabon beschließen Übernachtung auf dem Rossio-Platz",
-    "s": "Trotz Warnungen der Polizei haben Demonstrierende in Lissabon beschlossen, auf dem Rossio-Platz zu übernachten. Eine entsprechende Abstimmung in der Bürgerversammlung des Camps fiel positiv aus. Die Übernachtung soll allerdings ohne Zelte stattfinden.",
-    "m": "Die Teilnehmer des Protestcamps in der portugiesischen Hauptstadt Lissabon haben sich in einer Versammlung dafür ausgesprochen, trotz der polizeilichen Warnhinweise die Nacht auf dem zentralen Rossio-Platz zu verbringen. Laut den Beschlüssen der sogenannten assembleia popular ist das Campen auf dem Platz weiterhin vorgesehen, jedoch wurde explizit beschlossen, dies ohne das Aufstellen von Zelten zu tun. Die Behörden hatten zuvor entsprechende Warnungen ausgesprochen. Medien begleiteten die Entwicklungen vor Ort. Weitere Details zu den Forderungen der Demonstrierenden oder der genauen Stärke der Polizeipräsenz gehen aus den vorliegenden Berichten nicht hervor. Die Situation bleibt vor Ort dynamisch, während die Demonstrierenden ihre Präsenz aufrechterhalten.",
-    "r": "Die Protestaktion und das behördliche Vorgehen sind von gesellschaftlicher und polizeilicher Relevanz für das urbane Leben in Lissabon. Sie verdeutlichen das Spannungsfeld zwischen Versammlungsfreiheit und behördlichen Vorgaben im öffentlichen Raum.",
-    "srcs": [
-      {
-        "name": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/pais/manifestantes-decidiram-pernoitar-no-rossio-apesar-dos-alertas-da-psp_e1773164",
-        "date": "2026-10-22T01:00:27.000Z"
-      },
-      {
-        "name": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdUhIOER1Ung3R3ZQU3FmZjhxR0RhSWJzb2hNZ1ZEc05mdjhEdk1TNnkyM0Z4WjRFUXRPaEhXczBlclkxTzJ1aFVNcEY5MUVMdTFxV3NnWTQzM2x6YnVncjVPZFktb1llZ21HblJmdzQxQ3RqQWRodmp1Q2lIVXhqUGRqMllHYWxGcVhiMTR2YkNwVHhvNGMyeFV1NkZTYTlIalVwR1M3Z1Bud1JYVTlnN0ZHNEk0djllUmRDYnVUX2p6anlPaHlBUA?oc=5",
-        "date": "2026-10-22T00:00:27.000Z"
-      }
-    ],
-    "url": "https://www.rtp.pt/noticias/pais/manifestantes-decidiram-pernoitar-no-rossio-apesar-dos-alertas-da-psp_e1773164",
-    "agree": "Beide Quellen stimmen überein, dass Demonstrierende in Lissabon trotz Warnungen der PSP beschlossen haben, auf dem Rossio-Platz zu übernachten.",
-    "diff": [
-      {
-        "name": "RTP Notícias",
-        "note": "Berichtet ausführlicher, dass die Entscheidung nach einer Abstimmung der Bürgerversammlung fiel und ohne Zelte übernachtet werden soll."
-      },
-      {
-        "name": "Google News Portugal",
-        "note": "Bietet lediglich eine kurze Überschrift und einen HTML-Snippet-Link ohne zusätzlichen Text."
       }
     ],
     "chg": "",
