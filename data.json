@@ -1,5 +1,801 @@
 [
   {
+    "id": "story-dab776ac44800f15",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-28T14:37:54.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Brasilianischer Präsidentschaftskandidat Flávio Bolsonaro in den USA gelandet",
+    "s": "Der Verlierer der brasilianischen Präsidentschaftswahl, Flávio Bolsonaro, ist Medienberichten zufolge in den Vereinigten Staaten gelandet. Er reiste mit seiner Ehefrau und seinen Töchtern in einem Privatflugzeug an. Aufnahmen aus dem brasilianischen Fernsehen zeigten seine Ankunft am Flughafen von Miami.",
+    "m": "Nach übereinstimmenden Medienberichten hat Flávio Bolsonaro, der Unterlegene der brasilianischen Präsidentschaftswahl, das Land verlassen und ist in den USA eingetroffen. Er reiste gemeinsam mit seiner Ehefrau Fernanda und seinen Töchtern Carolina und Luiza. Die Familie landete an Bord eines Privatflugzeugs. Fernsehbilder aus Brasilien dokumentierten das Verlassen des Flugzeugs am Flughafen in Miami. Über die genauen Hintergründe der Ausreise und wie lange der Aufenthalt in den Vereinigten Staaten dauern soll, ist bisher nichts bekannt.",
+    "r": "Die Ausreise eines prominenten politischen Akteurs aus Brasilien nach einer verlorenen Wahl hat potenziell nationale und internationale politische Relevanz. Die Berichterstattung dokumentiert den aktuellen Aufenthaltsort der Familie Bolsonaro in den USA.",
+    "srcs": [
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-10/28/medien-fl-vio-bolsonaro-in-den-usa-gelandet",
+        "date": "2026-10-28T14:37:54.000Z"
+      },
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/news/--medien--fl%C3%A1vio-bolsonaro-in-den-usa-gelandet-38465340.html",
+        "date": "2026-10-28T14:18:21.000Z"
+      }
+    ],
+    "url": "https://www.zeit.de/news/2026-10/28/medien-fl-vio-bolsonaro-in-den-usa-gelandet",
+    "agree": "Beide Quellen stimmen darin überein, dass Flávio Bolsonaro laut Medienberichten in den USA gelandet ist.",
+    "diff": [
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Berichtet in der Überschrift von einer spektakulären Flucht."
+      },
+      {
+        "name": "stern",
+        "note": "Nennt konkrete Details wie die Namen von Ehefrau Fernanda und den Töchtern Carolina und Luiza sowie die Ankunft am Flughafen von Miami."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-f5d062466be71bff",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-28T14:37:14.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Flávio Bolsonaro nach illegaler Ausreise in Miami gelandet",
+    "s": "Der brasilianische Politiker Flávio Bolsonaro hat sich trotz eines bestehenden Ausreiseverbots ins Ausland abgesetzt. Gemeinsam mit seiner Familie landete er mit einem Privatflugzeug in Miami in den USA. Gegen ihn laufen Ermittlungen wegen verschiedener Vorwürfe.",
+    "m": "Nach seiner Niederlage bei den Wahlen hat sich der brasilianische Präsidentschaftskandidat und Senator ins Ausland begeben. Die Flucht aus Brasilien erfolgte laut Berichten über Argentinien und Ecuador, bevor ein Privatflugzeug ihn und seine Familie nach Miami brachte. Gegen den Politiker wird unter anderem wegen Korruption, Geldwäsche und Steuerhinterziehung ermittelt. Es handelt sich um eine illegale Ausreise, da ein offizielles Ausreiseverbot gegen ihn vorlag. Die Vorwürfe und die Umstände der Flucht sorgen für erhebliche Aufmerksamkeit und werfen Fragen über die politischen und rechtlichen Konsequenzen in Brasilien auf.",
+    "r": "Die illegale Ausreise eines prominenten brasilianischen Politikers trotz Ausreiseverbot und laufender Korruptionsermittlungen beleuchtet die Spannungen und Herausforderungen im Umgang mit politischen Eliten in Brasilien. Der Vorfall hat internationale Relevanz durch die Verlagerung des Konflikts in die USA.",
+    "srcs": [
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/amerika/brasilien-flavio-bolsonaro-ecuador-usa-102.html",
+        "date": "2026-10-28T14:37:14.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/politik/flavio-bolsonaro-in-miami-gelandet-flucht-aus-brasilien-trotz-ermittlungen-DX37TCAJONDLBNHBTZQZAFNZKM.html",
+        "date": "2026-10-28T14:22:39.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/brasilien-flavio-bolsonaro-nach-wahlniederlage-in-miami-gelandet-a-10d12a85-c0d6-4652-9950-f0b887013e71#ref=rss",
+        "date": "2026-10-28T13:44:00.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/ausland/amerika/brasilien-flavio-bolsonaro-ecuador-usa-102.html",
+    "agree": "Die Quellen stimmen überein, dass der brasilianische Politiker Flávio Bolsonaro nach seiner Wahlniederlage das Land verlassen hat und mit seiner Familie in Miami gelandet ist.",
+    "diff": [
+      {
+        "name": "Tagesschau",
+        "note": "Erwähnt die illegale Ausreise trotz Ausreiseverbot sowie den Flug mit einer Privatmaschine nach Miami."
+      },
+      {
+        "name": "RND",
+        "note": "Nennt die Fluchtroute über Argentinien und Ecuador sowie konkrete Ermittlungsvorwürfe wie Geldwäsche und Steuerhinterziehung."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Bezeichnet ihn als Präsidentschaftskandidaten und erwähnt die Niederlage direkt im Zusammenhang mit dem Absetzen ins Ausland."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
+    "id": "story-78348044e603f9fd",
+    "c": "INT",
+    "o": "INT",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-28T14:33:17.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Schweres Hochgeschwindigkeitszug-Unglück in Spanien fordert zahlreiche Todesopfer",
+    "s": "In Spanien ist ein Hochgeschwindigkeitszug auf einen stehenden Zug aufgefahren und hat zwei Waggons entgleisen lassen. Das Zugunglück ereignete sich am Mittwoch, den 28. Oktober. Es handelt sich um den zweiten großen Zugunfall in Spanien in diesem Jahr. Die Rettungskräfte konzentrieren sich derzeit auf die Bergung von Überlebenden.",
+    "m": "Das schwere Zugunglück ereignete sich, als ein spanischer Hochgeschwindigkeitszug in das Heck eines bereits gestoppten Zuges prallte. Durch die Wucht des Aufpralls entgleisten zwei Waggons. Das Büro der Zentralregierung für Castilla La Mancha bestätigte, dass die Zahl der Todesopfer auf mindestens 64 gestiegen ist, während Gesundheitsministerin Monica Garcia erklärte, dass sich die Rettungskräfte auf die Rettung von Überlebenden konzentrieren. Für das Land ist dies bereits das zweite schwere Zugunglück im laufenden Jahr. Die genauen Umstände des Aufpralls und die Ursache für den stehenden Zug auf der Strecke sind Gegenstand der weiteren Ermittlungen. Offen ist zudem, wie viele Verletzte sich noch in den Krankenhäusern befinden und wie lange die Bergungsarbeiten an der Unfallstelle dauern werden.",
+    "r": "Das Unglück mit zahlreichen Todesopfern und Verletzten zeigt erhebliche Sicherheitsrisiken im spanischen Hochgeschwindigkeitsverkehr auf. Es ist der zweite schwere Bahnunfall in Spanien innerhalb eines Jahres und erfordert umfassende Aufklärung.",
+    "srcs": [
+      {
+        "name": "France24 English",
+        "url": "https://www.france24.com/en/video/20261028-spain-at-least-64-dead-in-high-speed-train-crash",
+        "date": "2026-10-28T14:33:17.000Z"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/gallery/2026/10/28/photos-spain-high-speed-train-collision-kills-30?traffic_source=rss",
+        "date": "2026-10-28T12:46:09.000Z"
+      }
+    ],
+    "url": "https://www.france24.com/en/video/20261028-spain-at-least-64-dead-in-high-speed-train-crash",
+    "agree": "Die Quellen stimmen überein, dass sich in Spanien ein schwerer Unfall mit einem Hochgeschwindigkeitszug ereignet hat und Rettungskräfte im Einsatz sind.",
+    "diff": [
+      {
+        "name": "France24 English",
+        "note": "Berichtet von mindestens 64 Toten, zwei entgleisten Waggons, der Bestätigung durch das Regierungsbüro in Castilla La Mancha sowie dem Datum 28. Oktober und dass es der zweite große Unfall des Jahres ist."
+      },
+      {
+        "name": "Al Jazeera",
+        "note": "Nennt eine Opferzahl von 30 Toten und zitiert Gesundheitsministerin Monica Garcia bezüglich des Fokus auf die Rettung von Überlebenden."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-29009414b737edad",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-28T14:32:00.000Z",
+    "p": 4,
+    "st": "BY",
+    "city": "",
+    "t": "Mindestens 64 Tote bei schwerem Zugunglück in Spanien",
+    "s": "In Zentralspanien sind zwei Hochgeschwindigkeitszüge zusammengestoßen. Bei dem verheerenden Unglück in der Provinz Toledo südlich von Madrid kamen mindestens 64 Menschen ums Leben. Mehrere Waggons entgleisten und stürzten einen Bahndamm beziehungsweise eine Böschung hinunter. Erste Ermittlungen deuten auf menschliches Versagen als mögliche Ursache hin.",
+    "m": "Das Zugunglück ereignete sich auf einer Strecke zwischen der Hauptstadt Madrid und weiteren Punkten. Durch die Kollision der beiden Hochgeschwindigkeitszüge stürzten Waggons den Bahndamm hinunter, was dramatische Szenen auslöste, die von Augenzeugen als szenenhaft für einen Horrorfilm beschrieben wurden. Der Bahnverkehr auf der betroffenen Strecke ist infolge des Unfalls komplett unterbrochen. Nach Angaben von DW Deutsch ist dieses Unglück noch schlimmer als die frühere Katastrophe im spanischen Adamuz, die sich im Januar ereignete. Die Rettungs- und Bergungsarbeiten laufen, während die Behörden die genauen Umstände des Zusammenstoßes untersuchen.",
+    "r": "Das Zugunglück führt mit mindestens 64 Toten zu erheblichen Verlusten und beeinträchtigt den Schienenverkehr in Spanien massiv. Solche Kollisionen von Hochgeschwindigkeitszügen werfen fundamentale Fragen zur Sicherheit im Bahnverkehr auf.",
+    "srcs": [
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/vermischtes/article6ae1bd1ed1f524f7ccaa8fd3/spanien-mindestens-64-tote-bei-zugunglueck-leute-wurden-aus-dem-zug-geschleudert.html",
+        "date": "2026-10-28T14:32:00.000Z"
+      },
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-124.html",
+        "date": "2026-10-28T14:00:03.000Z"
+      },
+      {
+        "name": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/zugunglueck-in-spanien-viele-tote-in-toledo,VZKmmB7",
+        "date": "2026-10-28T13:11:50.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/panorama/spanien-mindestens-zehn-menschen-sterben-bei-zugkollision-a-717d35f6-6a4e-4699-9d2a-a3bbd0b3b5d1#ref=rss",
+        "date": "2026-10-28T10:35:00.000Z"
+      },
+      {
+        "name": "DW Deutsch",
+        "url": "https://www.dw.com/de/verheerendes-zugunglück-in-spanien-mindestens-64-tote/a-79784693?maca=de-rss-de-all-1119-xml-mrss",
+        "date": "2026-10-28T10:22:00.000Z"
+      }
+    ],
+    "url": "https://www.welt.de/vermischtes/article6ae1bd1ed1f524f7ccaa8fd3/spanien-mindestens-64-tote-bei-zugunglueck-leute-wurden-aus-dem-zug-geschleudert.html",
+    "agree": "Alle Quellen sind sich einig, dass bei einem Zusammenstoß zweier Züge in Spanien mindestens 64 Menschen ums Leben gekommen sind.",
+    "diff": [
+      {
+        "name": "WELT",
+        "note": "Berichtet von einem Zitat eines Augenzeugen (\"Es ist wie in einem Horrorfilm\") und dass erste Ermittlungen auf menschliches Versagen hindeuten."
+      },
+      {
+        "name": "SWR Aktuell",
+        "note": "Erwähnt die betroffene Strecke zwischen der Hauptstadt Madrid und weiteren Punkten."
+      },
+      {
+        "name": "BR24 Bayern",
+        "note": "Nennt die genaue Provinz Toledo als Unglücksort und erwähnt, dass der Verkehr auf der Strecke unterbrochen ist."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Erwähnt, dass das Unglück südlich von Madrid stattfand und erste Ermittlungen menschliches Versagen als Ursache nahelegen."
+      },
+      {
+        "name": "DW Deutsch",
+        "note": "Vergleicht das Unglück mit der Katastrophe im spanischen Adamuz im Januar und bewertet es als noch schlimmer."
+      }
+    ],
+    "chg": "",
+    "independent": 5
+  },
+  {
+    "id": "story-de33ceb94004b700",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-28T14:22:13.000Z",
+    "p": 4,
+    "st": "BE",
+    "city": "",
+    "t": "Zwölf Jahre Haft und Sicherungsverwahrung für Serienvergewaltiger in Berlin",
+    "s": "Ein 69-jähriger Mann ist vom Landgericht Berlin zu zwölf Jahren Freiheitsstrafe verurteilt worden. Dem Urteil liegt eine Serie von Vergewaltigungen betäubter Frauen zugrunde. Zudem ordnete das Gericht die anschließende Sicherungsverwahrung an.",
+    "m": "Das Landgericht Berlin hat einen 69-jährigen Mann am Mittwoch zu einer Haftstrafe von zwölf Jahren verurteilt. Der Angeklagte wurde für schuldig befunden, Frauen betäubt und in mehreren Fällen vergewaltigt zu haben. Neben der Freiheitsstrafe verfügte das Gericht auch die anschließende Sicherungsverwahrung, da der Verurteilte weiterhin als gefährlich für die Allgemeinheit eingestuft wird. Einigen der betroffenen Opfer muss der Täter zudem Zehntausende Euro an Schmerzensgeld zahlen. Das Verfahren beleuchtet eine schwere Serie von Sexualstraftaten in der Hauptstadt. Weitere Details zu den genauen Tattaten oder dem genauen Ablauf des Prozesses gehen aus den Berichten nicht hervor.",
+    "r": "Das Gerichtsurteil sanktioniert eine Serie schwerer Sexualstraftaten und entzieht dem Täter durch eine langjährige Haftstrafe sowie anschließende Sicherungsverwahrung die Möglichkeit zu weiteren Taten. Die Entscheidung unterstreicht den rechtlichen Umgang mit als gefährlich eingestuften Wiederholungstätern.",
+    "srcs": [
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/vermischtes/article6ae1fef18f0a4dd417a5f02f/berlin-frauen-betaeubt-und-vergewaltigt-69-jaehriger-muss-fuer-zwoelf-jahre-ins-gefaengnis.html",
+        "date": "2026-10-28T14:22:13.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Berlin",
+        "url": "https://www.tagesschau.de/inland/regional/berlin/rbb-frauen-in-berlin-betaeubt-und-vergewaltigt-zwoelf-jahre-haft-100.html",
+        "date": "2026-10-28T13:50:25.000Z"
+      }
+    ],
+    "url": "https://www.welt.de/vermischtes/article6ae1fef18f0a4dd417a5f02f/berlin-frauen-betaeubt-und-vergewaltigt-69-jaehriger-muss-fuer-zwoelf-jahre-ins-gefaengnis.html",
+    "agree": "Beide Quellen stimmen überein, dass ein 69-jähriger Mann vom Landgericht Berlin wegen der Vergewaltigung betäubter Frauen zu zwölf Jahren Haft und anschließender Sicherungsverwahrung verurteilt wurde.",
+    "diff": [
+      {
+        "name": "WELT",
+        "note": "Berichtet ergänzend, dass einigen Opfern Zehntausende Euro Schmerzensgeld zugesprochen wurden und der Täter weiterhin als gefährlich für die Allgemeinheit gilt."
+      },
+      {
+        "name": "Tagesschau Regional Berlin",
+        "note": "Nennt den Mittwoch als genauen Tag der Urteilsverkündung."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-cbcdb5f055facc49",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-28T14:14:40.000Z",
+    "p": 3,
+    "st": "BB",
+    "city": "",
+    "t": "Wolfsangriff in Wildpark: Achtjähriges Mädchen schwer verletzt",
+    "s": "In einem brandenburgischen Wildpark ist ein achtjähriges Kind von mindestens einem Wolf angegriffen und schwer verletzt worden. Das Mädchen erlitt schwere Verletzungen und musste mit einem Rettungshubschrauber in ein Krankenhaus geflogen werden. Die örtliche Polizei hat Ermittlungen zu den genauen Umständen des Vorfalls aufgenommen.",
+    "m": "Der Vorfall ereignete sich im Wildpark Johannismühle im Landkreis Teltow-Fläming südlich von Berlin. Ein achtjähriges Mädchen wurde dort von mindestens einem Wolf attackiert und schwer verletzt. Aufgrund der Schwere der Verletzungen kam ein Rettungshubschrauber zum Einsatz, um das Kind in eine Klinik zu transportieren. Die Kriminalpolizei und die zuständigen Behörden prüfen nun den genauen Hergang und untersuchen unter anderem den Anfangsverdacht einer fahrlässigen Körperverletzung. Bislang ist unklar, wie es zu dem Kontakt zwischen dem Kind und dem Raubtier kommen konnte und ob Sicherheitsvorgaben des Parks missachtet wurden.",
+    "r": "Der Vorfall wirft Fragen zur Sicherheit in Tierparks und zum Umgang mit Raubtieren auf. Zudem sind behördliche Ermittlungen zur Klärung möglicher Versäumnisse angelaufen.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Brandenburg",
+        "url": "https://www.tagesschau.de/inland/regional/brandenburg/rbb-rettungseinsatz-im-wildpark-johannismuehle-kind-soll-von-tier-angegriffen-worden-sein-102.html",
+        "date": "2026-10-28T14:14:40.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/panorama/wolfsangriff-in-wildpark-achtjaehriges-maedchen-schwer-verletzt-VDULTJKICFBJLBA4WGRJAG2A5M.html",
+        "date": "2026-10-28T14:07:19.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/brandenburg/rbb-rettungseinsatz-im-wildpark-johannismuehle-kind-soll-von-tier-angegriffen-worden-sein-102.html",
+    "agree": "Ein achtjähriges Mädchen wurde in einem Wildpark von mindestens einem Wolf angegriffen und schwer verletzt, woraufhin die Polizei Ermittlungen aufnahm.",
+    "diff": [
+      {
+        "name": "Tagesschau Regional Brandenburg",
+        "note": "Nennt den genauen Namen des Wildparks Johannismühle, den Landkreis Teltow-Fläming und dass die Polizei prüft, ob Fahrlässigkeit vorlag."
+      },
+      {
+        "name": "RND",
+        "note": "Erwähnt, dass das Kind mit einem Rettungshubschrauber in ein Krankenhaus gebracht wurde."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-3821cec1a616b778",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-28T14:13:49.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Schwierige Regierungsbildung in Israel nach Parlamentswahl ohne klare Mehrheit",
+    "s": "Nach der Parlamentswahl in Israel deutet sich eine komplizierte Regierungsbildung an, da nach Auszählung der meisten Stimmen keines der beiden großen Lager eine klare Mehrheit erreicht hat. Ministerpräsident Netanjahu liegt mit seinem rechts-religiösen Bündnis vorn. Dennoch beanspruchen beide Seiten den Regierungsauftrag für sich.",
+    "m": "Nach bisherigen Auswertungen und israelischen Medienberichten kommt das rechts-religiöse Bündnis von Ministerpräsident Netanjahu auf 54 Sitze im Parlament. Der gegnerische Oppositionsblock, angeführt vom früheren Generalstabschef Eisenkot, erreicht demnach 49 Mandate. Für eine Regierungsbildung ist im israelischen Parlament eine Mehrheit erforderlich, die keines der beiden Lager allein erreicht. Die politische Pattsituation könnte zu langwierigen Koalitionsverhandlungen oder erneuten Instabilitäten führen. Beide politischen Lager sehen sich nach dem Auszählungsergebnis legitimiert, die Regierungsverhandlungen zu führen. Es bleibt offen, welche kleineren Parteien als mögliche Koalitionspartner das Zünglein an der Waage spielen könnten. Die genaue Endgültigkeit der Sitzverteilung hängt von den noch ausstehenden Stimmen ab.",
+    "r": "Die Regierungsbildung in Israel hat weitreichende innen- und außenpolitische Implikationen im Nahen Osten. Eine anhaltende politische Blockade in Israel beeinflusst die Stabilität der Region.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/netanjahu-liegt-bei-parlamentswahl-vorn-aber-ohne-mehrheit-beide-lager-sehen-regierungsauftrag-100.html",
+        "date": "2026-10-28T14:13:49.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWE5nazBRcnN0cWVBcTRqMHUyRDhFcllhekRPMkd5RjJGRDA3a3lOM2tLcTJKR3cyUVp2NF8wQ2VkV0dDUlBJWjJxODRjWERzSS15QVFCT3M5a0J2M3cxdkJDWHlaSllkVlQ2ZVFRQUE3UDNnTDdfc1psTURUSjA5Yk5lMUJ6Q0tmRlBlaVpqdVhyc1Noc0g2U0U1VEFnaHZ2cWFzVVBodjZxTWRlRjN6UG9VRmhxQlNvb1ctVUVLRHRwaHVPdmMyT2d0dlFpR2c?oc=5",
+        "date": "2026-10-28T12:42:53.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/netanjahu-liegt-bei-parlamentswahl-vorn-aber-ohne-mehrheit-beide-lager-sehen-regierungsauftrag-100.html",
+    "agree": "Die Quellen stimmen überein, dass Ministerpräsident Netanjahu bei der Parlamentswahl in Israel vorn liegt, jedoch keine klare Mehrheit erreicht hat und beide Lager den Regierungsauftrag für sich sehen.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Verweist lediglich auf den Artikel des Deutschlandfunks und liefert keine zusätzlichen inhaltlichen Informationen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-ede10ed373d6776a",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-28T14:13:49.000Z",
+    "p": 2,
+    "st": "HH",
+    "city": "",
+    "t": "Erste Verfahren wegen Verstößen gegen 12-Uhr-Preisregel in Hamburg",
+    "s": "In Hamburg wurden nach der Einführung der sogenannten 12-Uhr-Preisregel für Tankstellen erste Ordnungswidrigkeitsverfahren eingeleitet. Die zuständigen Behörden reagieren damit auf zahlreiche Missachtungen der gesetzlichen Vorgaben. Die Regel soll Preisschwankungen auf dem Kraftstoffmarkt eindämmen.",
+    "m": "Die Hansestadt Hamburg geht konsequent gegen Verstöße nach der Einführung der 12-Uhr-Preisregel für Tankstellen vor und hat erste Ordnungswidrigkeitsverfahren eingeleitet. Hintergrund ist, dass im Stadtgebiet allein mehrere Tausend Verstöße gegen diese Regelung registriert wurden. Besonders auffällig war dabei ein bestimmter Bezirk, in dem die meisten Zuwiderhandlungen stattfanden. Die 12-Uhr-Regel verpflichtet Tankstellenbetreiber dazu, Preissteigerungen nur einmal täglich zu einem bestimmten Zeitpunkt vorzunehmen, um den Markt für Autofahrer transparenter zu gestalten. Die Ermittlungen und Kontrollen durch die zuständigen Behörden dauern weiter an, um die Einhaltung der Vorschriften flächendeckend zu überprüfen.",
+    "r": "Die Ahndung von Tausenden Verstößen gegen die Preisregel verdeutlicht die behördliche Überwachung des Tankstellenmarktes. Sie zeigt, dass neue Regulierungen im Alltag auf erhebliche Hürden bei der Umsetzung stoßen.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/erste-verfahren-wegen-verstoessen-gegen-die-12-uhr-preisregel-100.html",
+        "date": "2026-10-28T14:13:49.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Hamburg",
+        "url": "https://www.tagesschau.de/inland/regional/hamburg/tausende-verstoesse-gegen-12-uhr-regel-erste-verfahren-in-hamburg,benzinpreise-156.html",
+        "date": "2026-10-28T13:23:07.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/erste-verfahren-wegen-verstoessen-gegen-die-12-uhr-preisregel-100.html",
+    "agree": "Die Quellen stimmen überein, dass in Hamburg im Zusammenhang mit der 12-Uhr-Preisregel für Tankstellen erste Verfahren eingeleitet wurden.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Berichtet allgemein über die Einleitung erster Ordnungswidrigkeitsverfahren in Hamburg."
+      },
+      {
+        "name": "Tagesschau Regional Hamburg",
+        "note": "Konkretisiert, dass es sich um Tausende Verstöße handelt und diese vor allem in einem bestimmten Bezirk stattfanden."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-207340e2be44395b",
+    "c": "INT",
+    "o": "PT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-28T14:04:31.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Debatte und Abstimmung zum Staatshaushalt 2027 in Portugal",
+    "s": "In Portugal findet die Debatte und die Abstimmung über den Entwurf des Staatshaushalts für das Jahr 2027 statt. Die parlamentarischen Beratungen umfassen die allgemeine Lesung der Vorlage. Es handelt sich um einen zentralen politischen Vorgang zur Festlegung der staatlichen Finanzen.",
+    "m": "Der portugiesische Nationalversammlung widmet sich der parlamentarischen Aussprache sowie der anschließenden Abstimmung in der Generalität über den Vorschlag zum Staatshaushalt für das Jahr 2027. Dieser Prozess stellt einen wesentlichen Meilenstein im legislativen Fahrplan dar, bei dem über die grundlegende Ausrichtung der Fiskal- und Wirtschaftspolitik des Landes entschieden wird. An den Beratungen nehmen die verschiedenen im Parlament vertretenen Parteien teil, um ihre Positionen darzulegen und über den Entwurf abzustimmen. Die Verhandlungen und Debatten spiegeln die aktuellen politischen Mehrheitsverhältnisse und Prioritäten der Regierung wider. Bislang sind die genauen Abstimmungsergebnisse sowie mögliche Änderungsanträge im Detail noch nicht vollständig öffentlich kommuniziert worden. Der Haushaltsentwurf hat weitreichende Konsequenzen für sämtliche Bereiche des öffentlichen Lebens und der Wirtschaft in Portugal.",
+    "r": "Der Staatshaushalt ist das fundamentale Finanzierungsinstrument des Staates, dessen parlamentarische Verabschiedung unmittelbare Auswirkungen auf die Wirtschaft und die politische Stabilität Portugals hat.",
+    "srcs": [
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/politica/debate-e-votacao-na-generalidade-da-proposta-de-orcamento-do-estado-para-2027_e1774900",
+        "date": "2026-10-28T14:04:31.000Z"
+      },
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMHlzanM3VTdxSGlRcTVPU2xNZW1FbldpRlhPSmlmTlh0SjYyMXFmV1U3N1lnM3lmWUx5QkJ3UjVPUTVwd24ydkpGLWxVSFRlWm1xY3dJeTRhSmpMRG9SVXgzX3NCYXRrc2ZoWjN1SW5veTBFSHVRY0h5M2RxdExnOEpzOEFCZE1MSFk0bV9nMXc2cUc5LS1CcW56anZmSnVwZEZKNXhBeUR4TG00Y2ZRVVhnNWNSTkJ3ZGJHTWdXd0U?oc=5",
+        "date": "2026-10-28T13:32:40.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/politica/debate-e-votacao-na-generalidade-da-proposta-de-orcamento-do-estado-para-2027_e1774900",
+    "agree": "Die Quellen stimmen überein, dass es eine Debatte und eine Abstimmung in der Generalität über den Entwurf des Staatshaushalts für das Jahr 2027 gibt.",
+    "diff": [
+      {
+        "name": "Google News Portugal",
+        "note": "Verweist in seiner Meldung direkt auf den Beitrag von RTP zur Haushaltsdebatte."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-796cec1ce75b95a5",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-28T14:01:00.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Kind bei Wolfsangriff in brandenburgischem Tierpark schwer verletzt",
+    "s": "In einem Tierpark in Brandenburg ist es zu einem schweren Zwischenfall gekommen, bei dem ein Kind von einem Wolf attackiert wurde. Das Mädchen erlitt schwere Verletzungen und musste zur Behandlung ins Krankenhaus gebracht werden. Die genauen Umstände des Angriffs sind derzeit noch unklar.",
+    "m": "Der Vorfall ereignete sich in einem Wildtierpark in Brandenburg, wo das Mädchen von mindestens einem Wolf angegriffen und schwer verletzt wurde. Nach dem Unglück kam das Kind umgehend in ein Krankenhaus, wo es medizinisch versorgt wird. Details zu dem genauen Hergang und wie es zu dem Kontakt zwischen dem Raubtier und dem Kind kommen konnte, werden schrittweise ermittelt. Die Behörden und der Tierpark stehen vor der Aufgabe, die genauen Sicherheitsvorkehrungen und die Haltungsbedingungen zu überprüfen. Weitere Informationen zu dem Gesundheitszustand des Kindes und den Konsequenzen für den Tierpark stehen noch aus.",
+    "r": "Der Vorfall wirft Fragen zur Sicherheit in Wildtierparks und im Umgang mit Raubtieren auf. Da ein Mensch schwer verletzt wurde, hat das Ereignis eine hohe sicherheitsrelevante Bedeutung für Freizeiteinrichtungen.",
+    "srcs": [
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/panorama/wildpark-in-brandenburg-kind-mutmasslich-von-wolf-attackiert-und-schwer-verletzt-a-1d35b6d9-c342-4b8b-9db6-fe76420076d6#ref=rss",
+        "date": "2026-10-28T14:01:00.000Z"
+      },
+      {
+        "name": "t-online Panorama",
+        "url": "https://www.t-online.de/nachrichten/panorama/ungluecke/id_101501418/kind-wird-bei-angriff-von-wolf-in-brandenburger-tierpark-schwer-verletzt.html",
+        "date": "2026-10-28T12:20:31.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVlcwclpQM0tDTEpLTmZsOTdTNGlobUk4M3RSbVJUcFNMaXZVSllvdlJRNFYtRi05Znh2bkVtVF9EYVpPdHNGc0Jab2o5cm5VYXhvZTVlUnJUb2FlQ0o0ZTFSdVhJQnJYazlMYXNEX1oxT2U2MHBfcHFyTzVhWFB5NjA4OTMtUUZ2ajZqRThPR0VTOV91ZjBHZHo3WGdqX3VUd0N2cGt0RXltWTVvUVlmZ3hEOEw4VVo5ZHV3cWZBSjItUGhBaEdHRk11ZjB1S3A5anM4?oc=5",
+        "date": "2026-10-28T12:08:21.000Z"
+      }
+    ],
+    "url": "https://www.spiegel.de/panorama/wildpark-in-brandenburg-kind-mutmasslich-von-wolf-attackiert-und-schwer-verletzt-a-1d35b6d9-c342-4b8b-9db6-fe76420076d6#ref=rss",
+    "agree": "Alle Quellen stimmen überein, dass ein Kind in einem Tierpark in Brandenburg von einem Wolf attackiert und schwer verletzt wurde sowie ins Krankenhaus gebracht werden musste.",
+    "diff": [
+      {
+        "name": "t-online Panorama",
+        "note": "Erwähnt, dass es sich um einen Wildtierpark handelt und nach und nach mehr Details ans Licht kommen."
+      },
+      {
+        "name": "Google News DE",
+        "note": "Verweist auf eine Berichterstattung der WELT zu dem Vorfall."
+      }
+    ],
+    "chg": "",
+    "independent": 3
+  },
+  {
+    "id": "story-58c4466ec6f33fd7",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-28T13:58:44.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Telefonat zu Ukraine-Frieden: Putin hält Norwegen und Finnland Geschichtsvortrag",
+    "s": "Finnland und Norwegen haben den Versuch unternommen, mit dem russischen Präsidenten Wladimir Putin über den Frieden in der Ukraine zu sprechen. Statt über ein Ende des Krieges zu verhandeln, erhielten der finnische Ministerpräsident Alexander Stubb und der norwegische Ministerpräsident Jonas Gahr Støre jedoch eine historische Lehrstunde. Einige Kritiker des Ukraine-Krieges hatten zuvor gefordert, dass man lediglich mit Putin reden müsse. Das Gespräch zeigte jedoch, dass solche diplomatischen Vor",
+    "m": "Das telefonische Gespräch zwischen dem russischen Präsidenten Wladimir Putin und den nordeuropäischen Regierungschefs Finnlands und Norwegens sollte ursprünglich den Weg zu einem Ukraine-Frieden ausloteten. Stattdessen konfrontierte Putin den finnischen Ministerpräsidenten Alexander Stubb und den norwegischen Ministerpräsidenten Jonas Gahr Støre mit langen geschichtlichen Ausführungen. Kritiker des Ukraine-Krieges hatten zuvor immer wieder betont, man müsse direkt mit Putin das Gespräch suchen, um eine Einigung zu erzielen. Der aktuelle Vorstoß von Stubb und Støre sollte ein solcher Versuch sein, der jedoch von Putin in eine historische Belehrung umgelenkt wurde. Konkrete Gesprächsergebnisse oder Aussichten auf schweigende Waffen wurden in dem Telefonat nicht erreicht. Die Initiative verdeutlicht die weiterhin tiefen Fronten und die unterschiedlichen Wahrnehmungen des Konflikts zwischen Russland und den nordeuropäischen Nachbarn.",
+    "r": "Das Ereignis beleuchtet die Schwierigkeiten und Grenzen diplomatischer Gespräche mit dem russischen Präsidenten im Kontext des Ukraine-Krieges. Die Initiative hochrangiger nordeuropäischer Politiker zeigt, wie konkrete Friedensinitiativen durch historische Argumentationen abgelenkt werden.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ1NIclhBeFVGNFMzTk1waFNuSG1GYmc3bzJJWGZtVU1xQ2t3Q045bmlmTFhOUjlXS3l3WUlaRzdQT25icE5BQk96dTRwY1kyVWljajBZUF85alA0VW05YW9Pc1U0emYyWGRDRHh2OGtLRC0wc09zTmxrNm0wVktoT1QxYkhiemxJZmVUODNER3BpUDE2cWdaaGNjUWxkU3p6eUx3?oc=5",
+        "date": "2026-10-28T13:58:44.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/politik/Geschichtslehrer-Putin-stoesst-Nordeuropaeer-vor-den-Kopf-id31466337.html",
+        "date": "2026-10-28T11:32:55.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ1NIclhBeFVGNFMzTk1waFNuSG1GYmc3bzJJWGZtVU1xQ2t3Q045bmlmTFhOUjlXS3l3WUlaRzdQT25icE5BQk96dTRwY1kyVWljajBZUF85alA0VW05YW9Pc1U0emYyWGRDRHh2OGtLRC0wc09zTmxrNm0wVktoT1QxYkhiemxJZmVUODNER3BpUDE2cWdaaGNjUWxkU3p6eUx3?oc=5",
+    "agree": "Norwegen und Finnland führten ein Telefonat mit dem russischen Präsidenten Putin, das von Kritikern zuvor als notwendiger Schritt gefordert worden war.",
+    "diff": [
+      {
+        "name": "[Google News DE]",
+        "note": "Verweist lediglich auf den Artikel von n-tv.de mit dem Titel Geschichtslehrer Putin stößt Nordeuropäer vor den Kopf."
+      },
+      {
+        "name": "[ntv]",
+        "note": "Liefert die Details, dass der finnische Ministerpräsident Stubb und der norwegische Ministerpräsident Støre das Telefonat führten und statt über schweigende Waffen eine historische Lehrstunde erhielten."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-185218cf86656176",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-28T13:45:01.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Elterngeld bleibt bei bis zu 14 Monaten",
+    "s": "Das Familienministerium plant keine Kürzung des Elterngeldes von 14 auf zwölf Monate. Die bisherige Bezugsdauer von bis zu 14 Monaten bleibt stattdessen erhalten. Zudem soll das Elterngeld in Zukunft steigen.",
+    "m": "Entgegen vorheriger Überlegungen wird die geplante Kürzung des Elterngeldes auf zwölf Monate vom Familienministerium nicht umgesetzt. Damit bleibt es bei der bisherigen maximalen Bezugsdauer von 14 Monaten für junge Eltern. Darüber hinaus ist vorgesehen, dass das Elterngeld steigen soll. Konkrete Details zur genauen Höhe der Erhöhung oder dem zeitlichen Rahmen wurden in den Berichten zunächst nicht genannt. Die Entscheidung bedeutet eine Kehrtwende in der politischen Planung des Ministeriums.",
+    "r": "Die Entscheidung betrifft die finanzielle Unterstützung von Familien in Deutschland und korrigiert geplante Einsparungen beim Elterngeld.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.tagesschau.de/inland/innenpolitik/elterngeld-bezugsdauer-prien-100.html",
+        "date": "2026-10-28T13:45:01.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOenB3WXFNVmQ1VG1oMHBjb3h1bzYwUkxMRDhUZFR0TjQzYWFvZzN2bnc5SE1qTmJIeGt4bVdkNVdVekppMmJLeExPUXJ0aGo2U3lKY0RKQ2s2YWxOQko3Slh3S3VuMjhmajNnUnJIQjlMN05vNGlJR3FXckxoaFZuYXdMS3hlSnlZNk5J?oc=5",
+        "date": "2026-10-28T13:31:00.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/innenpolitik/elterngeld-bezugsdauer-prien-100.html",
+    "agree": "Die Quellen sind sich einig, dass das Elterngeld bei 14 Monaten bleibt und eine geplante Kürzung auf zwölf Monate nicht umgesetzt wird.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Verweist auf tagesschau.de und erwähnt, dass es sich um eine erstmalige Meldung handelt."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-727d6432ec4a1d8b",
+    "c": "INT",
+    "o": "INT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-28T13:41:00.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Golfstaaten arbeiten an Friedensplan zur Vermeidung eines US-Iran-Krieges",
+    "s": "Golfstaaten verhandeln an einem vielschichtigen Friedensplan, um einen erneuten Krieg zwischen den USA und dem Iran abzuwenden. Die Gespräche zielen unter anderem darauf ab, die Straße von Hormus wieder zu öffnen und Sanktionen gegen den Iran aufzuheben. Die USA sind über den Fortschritt informiert, fordern jedoch zusätzliche Zugeständnisse.",
+    "m": "Im Zentrum der Pläne der Golfstaaten stehen die Wiedereröffnung der Straße von Hormus innerhalb von vier Tagen nach Aufhebung der Sanktionen sowie der Rückzug wesentlicher Huthis-Streitkräfte im Jemen. Die USA sind über den Fortgang der Gespräche im Bilde, warten aber auf ein entscheidendes Zugeständnis. Europäische Mächte schlagen vor, dass dieses Zugeständnis darin bestehen könnte, dass der Iran UN-Waffeninspektoren wieder ins Land lässt. Die diplomatischen Bemühungen sollen verhindern, dass es zu einem katastrophalen Wiederaufleben des Konflikts zwischen Washington und Teheran kommt. Die genaue Umsetzung der Vereinbarungen und die endgültige Reaktion der US-Regierung auf die geforderten Bedingungen bleiben zentrale offene Punkte der diplomatischen Initiative.",
+    "r": "Die Initiative zur Verhinderung eines US-Iran-Krieges hat globale sicherheitspolitische und ökonomische Relevanz, insbesondere wegen möglicher Auswirkungen auf die Schifffahrt in der Straße von Hormus.",
+    "srcs": [
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONnhLY0QxNnotazVyRzJXNnJGZTJORWI5UzZpakY5Ql9ybWJONUt1MVl4UEdpb1JOZk5KNm1TdTV1TkRUTERwdzBHdjJzU3IxdWM4ME5vMTZFMWI5bVkwN0dXSjItVUpGMFpSSXBwOGdkVVEtM2lpclhTRGVMTjFYS0VKTl9yT0FTWlZzc2dEdVRpNmVDM1V5NlpudXRyT0RoNzlGaXhhNA?oc=5",
+        "date": "2026-10-28T13:41:00.000Z"
+      },
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/28/gulf-states-multipart-peace-deal-avert-renewal-us-iran-war",
+        "date": "2026-10-28T05:00:55.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONnhLY0QxNnotazVyRzJXNnJGZTJORWI5UzZpakY5Ql9ybWJONUt1MVl4UEdpb1JOZk5KNm1TdTV1TkRUTERwdzBHdjJzU3IxdWM4ME5vMTZFMWI5bVkwN0dXSjItVUpGMFpSSXBwOGdkVVEtM2lpclhTRGVMTjFYS0VKTl9yT0FTWlZzc2dEdVRpNmVDM1V5NlpudXRyT0RoNzlGaXhhNA?oc=5",
+    "agree": "Die Quellen stimmen überein, dass Golfstaaten an einem mehrteiligen Friedensplan arbeiten, um einen erneuten Krieg zwischen den USA und dem Iran abzuwenden.",
+    "diff": [
+      {
+        "name": "Guardian World",
+        "note": "Berichtet konkret, dass die Gespräche auf die Wiederöffnung der Straße von Hormus innerhalb von vier Tagen nach Aufhebung der Sanktionen sowie den Rückzug der Huthis im Jemen abzielen, und erwähnt mögliche UN-Waffeninspektoren als von europäischen Mächten ins Spiel gebrachtes US-"
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-21790825bf4e719c",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-28T13:35:20.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Schweres Zugunglück in Spanien mit mindestens 64 Toten",
+    "s": "Zwischen Madrid und Andalusien sind zwei Hochgeschwindigkeitszüge kollidiert. Infolge des schweren Unglücks stürzten Waggons einen Bahndamm hinab. Die Behörden bestätigten mindestens 64 Todesopfer sowie zahlreiche Verletzte. Ermittler gehen derzeit dem Verdacht auf menschliches Versagen nach.",
+    "m": "Das schwere Zugunglück ereignete sich auf der wichtigen Verbindung zwischen Madrid und Andalusien. Dabei kollidierten zwei Hochgeschwindigkeitszüge aus bislang ungeklärter Ursache miteinander. Durch die Wucht des Aufpralls stürzten mehrere Waggons einen Bahndamm hinab, was zu einer hohen Zahl an Opfern führte. Nach aktuellen offiziellen Angaben gibt es mindestens 64 Tote und zahlreiche Verletzte zu beklagen. Rettungs- und Einsatzkräfte waren im Großeinsatz vor Ort, um Überlebende zu bergen und Verletzte in Krankenhäuser zu transportieren. Erste Ermittlerkreise vermuten menschliches Versagen als mögliche Ursache für die Kollision. Die Tragödie hat auch gesellschaftliche und organisatorische Konsequenzen nach sich gezogen. So hat beispielsweise der spanische Fußballverband auf das Unglück reagiert und seine Pläne für den nationalen Pokal geändert.",
+    "r": "Das Zugunglück mit Dutzenden Todesopfern stellt eine schwere nationale Tragödie in Spanien dar. Die genauen Umstände und die Schuldfrage werden von den Behörden untersucht. Aufgrund der Dimensionen hat der Vorfall auch Auswirkungen auf den öffentlichen und sportlichen Alltag im Land.",
+    "srcs": [
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/panorama/schweres-zugunglueck-in-spanien-zwei-zuege-kollidieren-mindestens-64-tote-6XT2X6PBDFGRZEJ6CI4SVI7YWY.html",
+        "date": "2026-10-28T13:35:20.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/panorama/Schweres-Zugunglueck-in-Spanien-mindestens-64-Tote-id31466493.html",
+        "date": "2026-10-28T09:28:08.000Z"
+      }
+    ],
+    "url": "https://www.rnd.de/panorama/schweres-zugunglueck-in-spanien-zwei-zuege-kollidieren-mindestens-64-tote-6XT2X6PBDFGRZEJ6CI4SVI7YWY.html",
+    "agree": "Beide Quellen stimmen darin überein, dass sich in Spanien zwischen Madrid und Andalusien ein schweres Zugunglück mit der Kollision von zwei Zügen und mindestens 64 Toten ereignet hat.",
+    "diff": [
+      {
+        "name": "RND",
+        "note": "Berichtet zusätzlich, dass es sich um Hochgeschwindigkeitszüge handelt, Waggons einen Bahndamm hinabgestürzt sind, Ermittler menschliches Versagen vermuten und der spanische Fußballverband seine Pokal-Pläne geändert hat."
+      },
+      {
+        "name": "ntv",
+        "note": "Erwähnt ebenfalls die herabgestürzten Waggons und viele Tote sowie Verletzte, liefert jedoch insgesamt weniger Details als RND."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-a9800bd737b7726e",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-28T12:53:33.000Z",
+    "p": 3,
+    "st": "RP",
+    "city": "",
+    "t": "BASF steigert Umsatz und Betriebsgewinn um rund 14 Prozent",
+    "s": "Der Chemiekonzern BASF verzeichnet im laufenden Jahr eine bessere Geschäftsentwicklung als erwartet. Nach eigenen Angaben konnte das Unternehmen sowohl den Umsatz als auch den Betriebsgewinn deutlich steigern. Das Plus beläuft sich auf jeweils rund 14 Prozent. Die genauen Hintergründe für diesen starken Anstieg werden im Detail geprüft.",
+    "m": "Die Geschäfte beim Chemiekonzern BASF laufen in diesem Jahr spürbar besser als von vielen Experten prognostiziert. Laut offiziellen Angaben des Unternehmens gab es bei den wichtigen Kennzahlen Umsatz und Betriebsgewinn ein starkes Wachstum. Beide Bereiche legten um jeweils rund 14 Prozent zu. Dieser unerwartet deutliche Zuwachs zeigt eine positive Entwicklung für den Konzern. Weitere Details zu den Ursachen für den Gewinn- und Umsatzsprung sowie konkrete Zahlen aus einzelnen Sparten wurden im Rahmen der aktuellen Mitteilung zunächst nicht genannt. Auch eventuelle Auswirkungen auf die Jahresprognose bleiben vorerst abzuwarten.",
+    "r": "Die Geschäftsentwicklung von BASF ist ein wichtiger Indikator für die konjunkturelle Lage der deutschen Chemieindustrie. Deutliche Zuwächse bei Umsatz und Betriebsgewinn geben Aufschluss über die wirtschaftliche Leistungsfähigkeit großer Industrieunternehmen.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/ludwigshafen/so-geht-es-basf-im-herbst-2026-neue-quartalszahlen-100.html",
+        "date": "2026-10-28T12:53:33.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Rheinland-Pfalz",
+        "url": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-basf-legt-bei-umsatz-unerwartet-deutlich-zu-100.html",
+        "date": "2026-10-28T07:39:16.000Z"
+      }
+    ],
+    "url": "https://www.swr.de/swraktuell/rheinland-pfalz/ludwigshafen/so-geht-es-basf-im-herbst-2026-neue-quartalszahlen-100.html",
+    "agree": "Die Quellen sind sich einig, dass BASF bei Umsatz und Betriebsgewinn im laufenden Jahr um rund 14 Prozent zugelegt hat und die Geschäfte besser als erwartet laufen.",
+    "diff": [
+      {
+        "name": "SWR Aktuell",
+        "note": "Berichtet über die positiven Geschäfte von BASF mit einem Zuwachs von rund 14 Prozent bei Umsatz und Betriebsgewinn."
+      },
+      {
+        "name": "Tagesschau Regional Rheinland-Pfalz",
+        "note": "Betitelt die Entwicklung als unerwartet deutlich und berichtet ebenfalls über den Zuwachs von rund 14 Prozent bei Umsatz und Betriebsgewinn."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-3f663da1a1514418",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-28T11:51:19.000Z",
+    "p": 2,
+    "st": "BW",
+    "city": "",
+    "t": "Radfahrer stirbt bei Zusammenstoß mit Zug in Tauberbischofsheim",
+    "s": "In Tauberbischofsheim ist ein 48-jähriger Radfahrer an einem unbeschrankten Bahnübergang von einem Zug erfasst worden. Bei dem Unfall am Dienstagnachmittag erlitt der Mann tödliche Verletzungen. Die genaue Ursache für das Unglück ist derzeit noch völlig unklar.",
+    "m": "Am Dienstagnachmittag kam es in Tauberbischofsheim zu einem tragischen Unfall an einem unbeschrankten Bahnübergang. Ein 48-jähriger Radfahrer wurde dabei von einem heranfahrenden Zug erfasst und tödlich verletzt. Einsatzkräfte und Rettungskräfte wurden alarmiert, konnten dem Mann jedoch nicht mehr helfen. Die Polizei hat die Ermittlungen zur Unfallursache aufgenommen, die zum aktuellen Zeitpunkt noch völlig unbekannt ist. Bisher gibt es keine offiziellen Angaben darüber, wie es zu dem Zusammenstoß an dem unbeschrankten Übergang kommen konnte. Auch Details zum Zugverkehr oder eventuellen Fahrgästen wurden in den ersten Berichten nicht genannt. Die Ermittler prüfen nun den genauen Hergang und ob es Zeugen des Unfalls gibt.",
+    "r": "Der Unfall verdeutlicht die anhaltenden Gefahren an unbeschrankten Bahnübergängen für Verkehrsteilnehmer wie Radfahrer. Solche tödlichen Kollisionen erfordern oft eine Überprüfung der Sicherheit an entsprechenden Infrastrukturpunkten durch die zuständigen Behörden.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell Baden-Württemberg",
+        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/heilbronn/radfahrer-toedlich-am-bahnuebergang-verletzt-100.html",
+        "date": "2026-10-28T11:51:19.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Baden-Württemberg",
+        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-tauberbischofsheim-radfahrer-wird-von-zug-erfasst-und-stirbt-100.html",
+        "date": "2026-10-28T06:41:00.000Z"
+      }
+    ],
+    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/heilbronn/radfahrer-toedlich-am-bahnuebergang-verletzt-100.html",
+    "agree": "Die Quellen sind sich einig, dass ein 48-jähriger Radfahrer am Dienstagnachmittag in Tauberbischofsheim an einem unbeschrankten Bahnübergang von einem Zug erfasst wurde und starb, während die Unfallursache noch unbekannt ist.",
+    "diff": [
+      {
+        "name": "Tagesschau Regional Baden-Württemberg",
+        "note": "Berichtet wortgleich zu SWR Aktuell Baden-Württemberg."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-578bb31dc9bccaa4",
+    "c": "INT",
+    "o": "PT",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-28T11:38:10.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Streik der portugiesischen Eisenbahn CP für Freitag abgesagt",
+    "s": "Der für Freitag angekündigte Streik bei der portugiesischen Eisenbahngesellschaft CP - Comboios de Portugal wurde abgesagt. Auslöser für die Aufhebung durch die Beschäftigten waren positive Entwicklungen bei Gesprächen.",
+    "m": "Die Gewerkschaft der Zugbegleiter und Schaltermitarbeiter hatte zuvor für Freitag zu Arbeitsniederlegungen aufgerufen. Nach einer Zusammenkunft mit dem Ministerium für Infrastruktur und Wohnungsbau kam es jedoch zu einer Einigung oder Annäherung, die als positive Entwicklung bewertet wurde. Konkrete Details zu den vereinbarten Punkten oder Zugeständnissen wurden in den Berichten zunächst nicht genannt. Die Aufhebung des Streiks verhindert drohende Zugausfälle und Einschränkungen im Personenverkehr für die Pendler und Reisenden in Portugal. Offen bleibt, ob langfristige Vereinbarungen getroffen wurden oder ob in Zukunft weitere Arbeitskämpfe drohen.",
+    "r": "Die Absage des Streiks ist von Bedeutung, da dadurch kurzfristige Ausfälle im Schienenverkehr in Portugal abgewendet werden konnten. Millionen von Reisenden sind auf die Züge der CP angewiesen, weshalb die Verhandlungen direkte Auswirkungen auf den Alltag haben.",
+    "srcs": [
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/economia/greve-de-sexta-feira-na-cp-desconvocada-apos-desenvolvimentos-positivos_n1774982",
+        "date": "2026-10-28T11:38:10.000Z"
+      },
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMTFmejRWRGVCNzZhZXVSamFZbzQteV94MTFqcHI3UlU0SnlRcDhnUVl6dXFoRUJqczNBLWRYcmllRFEteVoyakZpNDQ5R2M4NV9KdUZLRXpjcXhYUkdlU0Ffdmpxa0s0XzI3MnZmOEpZYmdqT0VYWU10TzhaVEZTSU9maWZIODBpcGFuQkw4UnR0NnFDNkFock5EZU9jZkJWeHVKQ2xPYlNMUVFtdHNmNWowSkwyYUJhN3A0?oc=5",
+        "date": "2026-10-28T11:10:36.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/economia/greve-de-sexta-feira-na-cp-desconvocada-apos-desenvolvimentos-positivos_n1774982",
+    "agree": "Beide Quellen stimmen überein, dass der für Freitag geplante Streik bei der CP nach positiven Entwicklungen in einem Treffen abgesagt wurde.",
+    "diff": [
+      {
+        "name": "Google News Portugal",
+        "note": "Verweist zusätzlich auf SIC Notícias als berichtendes Medium und enthält HTML-Code im Text."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-f5e957fd6bde2e44",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-28T11:23:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Friedrich Merz wirbt in Japan für neue Allianz für geregelten Welthandel",
+    "s": "CDU-Politiker Friedrich Merz hat bei seiner Reise nach Japan eine neue Allianz vorgeschlagen, um sich für den geregelten Welthandel starkzumachen. Nach einem zuvor in Singapur unterbreiteten Vorschlag für ein Freihandelsabkommen legte er in Tokio mit weiteren Kooperationsideen nach. Die Initiative zielt darauf ab, Handelsbeziehungen im pazifischen Raum und mit Europa enger zu vernetzen. Konkrete Details zu den beteiligten Staaten oder vertraglichen Schritten wurden im Rahmen der Berichte zunächs",
+    "m": "Während seiner Asienreise treibt Friedrich Merz seine handelspolitischen Vorstöße weiter voran. Nach Stationen in Singapur, wo er ein Freihandelsabkommen zwischen der EU und dem pazifischen Raum ins Gespräch brachte, reiste er weiter nach Tokio. Dort warb er für eine zusätzliche Allianz zur Stärkung des geregelten Welthandels. Die Initiative soll offensichtlich protektionistischen Tendenzen entgegenwirken und neue Partnerschaften im asiatisch-pazifischen Raum festigen. Bislang handelt es sich um politische Initiativen und Vorschläge, deren konkrete Umsetzung und formelle Verhandlungen noch ausstehen. Weitere Partnerländer oder Zeitpläne für die Realisierung der Allianz wurden in den verfügbaren Meldungen nicht genannt.",
+    "r": "Die Vorstöße von Friedrich Merz zur Handelspolitik berühren zentrale Interessen der exportorientierten deutschen und europäischen Wirtschaft. Neue Bündnisse im pazifischen Raum könnten langfristig Lieferketten absichern und globale Handelsstrukturen beeinflussen.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNXA2QURqQks3VTl2ajEwYnQtVWotM1h1VFQwUVdRT3diSl9oamFvWkJpaEtqUzFEQjZ4LXRzX3Y4Q0Z1ZHE0YU1IZWoxdkRKU1FyVlZ1eFJzV1dfRThrTU9MUnRjX2REVWgzaDFkb1BvNE9lZk5teEhZYjBZMnZ5Q2JfTWdOQzI2cFV5TnU5Y1JGVnJaaVNob3BxTmFTYzBWdTRabDJMMndySXJlZDd0dnlGQnVpSDZqXzFHREVVM2IzX3ZZejRCaXViNFcyUTJKLUo2am5kV2VRZGZ3OUQ1VlZyZjBJLXk1VmVyaFg4T1hiMGc?oc=5",
+        "date": "2026-10-28T11:23:00.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/wirtschaft/bundeskanzler-friedrich-merz-wirbt-in-japan-fuer-neue-allianz-fuer-geregelten-welthandel-a-971855e2-539d-418c-a0dd-a11cf598f739#ref=rss",
+        "date": "2026-10-28T11:23:00.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNXA2QURqQks3VTl2ajEwYnQtVWotM1h1VFQwUVdRT3diSl9oamFvWkJpaEtqUzFEQjZ4LXRzX3Y4Q0Z1ZHE0YU1IZWoxdkRKU1FyVlZ1eFJzV1dfRThrTU9MUnRjX2REVWgzaDFkb1BvNE9lZk5teEhZYjBZMnZ5Q2JfTWdOQzI2cFV5TnU5Y1JGVnJaaVNob3BxTmFTYzBWdTRabDJMMndySXJlZDd0dnlGQnVpSDZqXzFHREVVM2IzX3ZZejRCaXViNFcyUTJKLUo2am5kV2VRZGZ3OUQ1VlZyZjBJLXk1VmVyaFg4T1hiMGc?oc=5",
+    "agree": "Die Quellen stimmen überein, dass Friedrich Merz in Japan für eine neue Allianz für den geregelten Welthandel wirbt und zuvor in Singapur ein EU-Freihandelsabkommen für den pazifischen Raum vorgeschlagen hat.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Verweist lediglich auf den Artikel des Spiegel mit der Schlagzeile über den Vorstoß von Friedrich Merz in Japan."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Liefert den konkreten Kontext, dass Merz zuvor in Singapur ein Freihandelsabkommen zwischen der EU und dem pazifischen Raum vorgeschlagen hat und in Tokio mit einer weiteren Kooperationsidee nachlegt."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-c5a433175b934aae",
+    "c": "INT",
+    "o": "UK",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-28T10:31:22.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Luxuskreuzfahrt in Kambodscha wegen hoher Treibstoffkosten gestoppt",
+    "s": "Passagiere des Kreuzfahrtschiffes Villa Vie Odyssey sitzen in Kambodscha fest, da die Reise wegen massiv gestiegener Treibstoffkosten unterbrochen werden musste. Die Reederei arbeitet nach eigenen Angaben an temporären Unterbringungsmöglichkeiten für die Betroffenen.",
+    "m": "Die Weltreise des Kreuzfahrtschiffes Villa Vie Odyssey wurde überraschend unterbrochen, nachdem das Schiff in Kambodscha gestrandet ist. Grund für den Stopp sind stark gestiegene Treibstoffkosten, die den weiteren Betrieb auf der geplanten Route vorerst unmöglich machen. Die Verantwortlichen stehen nun in Kontakt mit den Passagieren, um kurzfristige und temporäre Wohnlösungen vor Ort zu organisieren. Bislang gibt es keine offiziellen Angaben darüber, wie lange die Unterbrechung andauern wird oder wann die Reise fortgesetzt werden kann. Die Situation wirft Fragen zur Kalkulation lang angelegter Kreuzfahrtprojekte in Zeiten schwankender Energiepreise auf.",
+    "r": "Die Blockade oder der Stopp einer Weltreise verdeutlicht die wirtschaftlichen Risiken steigender Energiekosten für die internationale Kreuzfahrtbranche. Zudem zeigt der Vorfall, wie schnell Reisende in fernen Regionen von logistischen Problemen betroffenen Reedereien abhängig sind.",
+    "srcs": [
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-28T10:31:22.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kUXhfQlRHTTRJWDZoWGNKUWw4Z1VUdUJEMy1YNGIyOGpWRlRSSkx4b1lZODRtSXNBTXdRSWJOeWpsdEFyMXhHRDJYUGVrOXF5RXVsbEhxOGo2ZFE?oc=5",
+        "date": "2026-10-28T10:31:22.000Z"
+      }
+    ],
+    "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+    "agree": "Beide Quellen stimmen überein, dass Passagiere eines Luxuskreuzfahrtschiffes wegen hoher Treibstoffkosten in Kambodscha gestrandet sind.",
+    "diff": [
+      {
+        "name": "BBC World",
+        "note": "Nennt den Namen des Schiffes 'Villa Vie Odyssey' und erwähnt, dass an 'temporären Wohnlösungen' für die Passagiere gearbeitet wird."
+      },
+      {
+        "name": "Google News World",
+        "note": "Enthält keine zusätzlichen Details und verweist lediglich auf den Bericht der BBC."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-170395568934ecef",
     "c": "INT",
     "o": "DE",
@@ -959,10 +1755,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Sporting zieht nach Sieg gegen Marítimo ins Final Four ein",
-    "s": "Sporting Lissabon hat sich am Dienstag für das Final Four des portugiesischen Ligapokals qualifiziert. Im entscheidenden Spiel im Estádio José Alvalade setzte sich die Mannschaft durch. Maßgeblich für den Erfolg war eine starke Einzelleistung mit zwei Treffern.",
-    "m": "Sporting Lissabon hat am Dienstag den Einzug in das Final Four der Taça da Liga perfekt gemacht. Im heimischen Estádio José Alvalade besiegte das Team den Gegner Marítimo mit 2-1. Den entscheidenden Anteil am Weiterkommen hatte Pedro Lima, der beide Tore für Sporting erzielte und somit als Matchwinner des Abends hervortrat. Die Partie bot den Zuschauern spannende Momente, in denen sich die Hausherren letztendlich knapp, aber verdient durchsetzen konnten. Mit diesem Erfolg steht Sporting in der Endrunde des Wettbewerbs und wahrt damit die Chance auf den Titelgewinn im Ligapokal. Die Begegnung fand im Rahmen des nationalen Pokalwettbewerbs statt und zog entsprechendes mediales Interesse auf sich.",
-    "r": "Der Sieg gegen Marítimo sichert Sporting Lissabon die Teilnahme am Final Four der Taça da Liga. Solche Erfolge im nationalen Pokal sind wichtig für den weiteren Saisonverlauf und die Titelambitionen des Vereins.",
+    "t": "Sporting zieht nach Sieg gegen Marítimo in Final Four ein",
+    "s": "Sporting Lissabon hat sich am Dienstag für das Final Four der Taça da Liga qualifiziert. Die Mannschaft gewann im heimischen Estádio José Alvalade gegen Marítimo. Maßgeblich für den Erfolg war der Spieler Pedro Lima.",
+    "m": "Im Viertelfinale der Taça da Liga setzte sich Sporting Lissabon im Estádio José Alvalade mit 2-1 gegen Marítimo durch und sicherte sich damit den Einzug in die Endrunde. Der Spieler Pedro Lima trug sich doppelt in die Torschützenliste ein und war damit der Matchwinner für die Lissabonner. Die Partie fand an einem Dienstag statt und brachte Sporting den gewünschten Erfolg im portugiesischen Ligapokal. Das Team steht nun in der Runde der letzten Vier. Weitere Details zum Spielverlauf oder zu den Torschützen von Marítimo wurden in den Berichten nicht genannt.",
+    "r": "Der Einzug ins Final Four der Taça da Liga ist für Sporting Lissabon ein sportlicher Erfolg im nationalen Ligapokal. Das Weiterkommen dokumentiert das Erreichen der nächsten Turnierphase.",
     "srcs": [
       {
         "name": "Google News Portugal",
@@ -976,15 +1772,15 @@
       }
     ],
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYlpqUkRINTFubXlXVmc5c1lGRHJZMkVyeC13UHFOeC12NWZUMVpzamc5Z3VGTWNCMEk2UWVvRENBZ3owQTJJNktpMHQzUjQtbUZubnphQWtoSWJia0RnR2l6a3lJLWc4S0h6WURmZjlGa2l3MWRaRld1dmpMNkNhelN6ZkpyUHZnb1J0SHU0NG0zZ0kzZWRpS05jR2RFTnllU29GcWpfekxGby15ejlya2QxSGJHT1RfY1hZ?oc=5",
-    "agree": "Beide Quellen berichten übereinstimmend, dass Sporting durch einen Doppelpack von Pedro Lima das Final Four der Taça da Liga erreicht hat.",
+    "agree": "Die Quellen stimmen überein, dass Sporting durch einen Sieg mit Toren von Pedro Lima in das Final Four der Taça da Liga eingezogen ist.",
     "diff": [
       {
         "name": "Google News Portugal",
-        "note": "Verweist auf den RTP-Artikel und nennt ebenfalls den Einzug ins Final Four durch Pedro Lima."
+        "note": "Verweist auf die Berichterstattung der RTP über das Spiel."
       },
       {
         "name": "RTP Desporto",
-        "note": "Liefert die konkreten Details: Der Sieg gegen Marítimo endete 2-1 und fand im Estádio José Alvalade statt."
+        "note": "Nennt den genauen Endstand von 2-1, den Gegner Marítimo sowie den Austragungsort Estádio José Alvalade."
       }
     ],
     "chg": "",
@@ -1140,6 +1936,47 @@
       {
         "name": "t-online Nachrichten",
         "note": "Erwähnt das Verstreichen einer Frist des Obersten Gerichtshofs und die Annullierung von Bolsonaros Pässen als Reaktion darauf."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-d34bddad4d7ca414",
+    "c": "INT",
+    "o": "UK",
+    "k": "wissenschaft",
+    "lang": "de",
+    "d": "2026-10-27T21:40:13.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Seltenes Nanotyrannus-Skelett für 47,3 Millionen US-Dollar versteigert",
+    "s": "Ein seltenes Skelett eines Nanotyrannus namens Jodi wurde in New York für 47,3 Millionen US-Dollar versteigert. Das Fossil eines kleineren Verwandten des T-Rex erzielte diesen Preis bei Sotheby's nach einem zwölfwöchigen beziehungsweise zwöläufigen Bietergefecht. Die Versteigerung macht das Objekt zu einem der teuersten Fossilien weltweit. Die Entdeckung geht auf das Jahr 2019 zurück.",
+    "m": "Das Skelett mit dem Namen Jodi wurde am Dienstag bei Sotheby's in New York für 47,3 Millionen US-Dollar verkauft. An der zwölminütigen Bietergefecht waren sechs Bieter online und über Telefon beteiligt, wobei der Zuschlag schließlich am Telefon erfolgte. Das Fossil stammt von einem Nanotyrannus, einem kleineren Verwandten des Tyrannosaurus rex, und wurde im Jahr 2019 entdeckt. Durch den Verkauf wird das Skelett zu einem der wertvollsten jemals bei einer Auktion verkauften Dinosaurierfossilien. Die Transaktion entfacht zudem erneut eine Debatte in der wissenschaftlichen Gemeinschaft darüber, ob Dinosaurierfunde in private Hände gelangen oder öffentlich zugänglich sein sollten.",
+    "r": "Der hochpreisige Verkauf eines bedeutenden Dinosaurierfossils wirft grundlegende Fragen über den Umgang mit wissenschaftlichen Funden und deren Verbleib in privaten Händen auf. Die Versteigerung dokumentiert den hohen Marktwert seltener prähistorischer Relikte.",
+    "srcs": [
+      {
+        "name": "Guardian Science",
+        "url": "https://www.theguardian.com/us-news/2026/oct/27/nanotyrannus-dinosaur-fossil-sothebys-auction",
+        "date": "2026-10-27T21:40:13.000Z"
+      },
+      {
+        "name": "BBC Science",
+        "url": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-27T17:10:15.000Z"
+      }
+    ],
+    "url": "https://www.theguardian.com/us-news/2026/oct/27/nanotyrannus-dinosaur-fossil-sothebys-auction",
+    "agree": "Die Quellen stimmen überein, dass ein seltenes Nanotyrannus-Skelett namens Jodi für 47,3 Millionen US-Dollar bei einer Auktion in New York versteigert wurde.",
+    "diff": [
+      {
+        "name": "Guardian Science",
+        "note": "Berichtet detailliert über den Auktionsverlauf bei Sotheby's, die Entdeckung im Jahr 2019, den Bieterwettstreit mit sechs Teilnehmern und die Einordnung als zweitwertvollstes jemals versteigertes Dinosaurierfossil."
+      },
+      {
+        "name": "BBC Science",
+        "note": "Thematisiert zusätzlich die durch den Verkauf neu entfachte Debatte in der Wissenschaft über den Verbleib von Dinosaurierfunden in Privatbesitz versus öffentlicher Sichtbarkeit."
       }
     ],
     "chg": "",
@@ -1785,10 +2622,10 @@
     "p": 3,
     "st": "NI",
     "city": "",
-    "t": "Suche nach Atommüll-Endlager in Deutschland wird weiter eingegrenzt",
-    "s": "Für die dauerhafte Verwahrung von rund 27.000 Kubikmetern hochradioaktivem Müll wird bis 2050 ein Endlager in Deutschland gesucht. Die Standortsuche wurde nun weiter eingegrenzt. Es muss geklärt werden, wie ein solches Endlager beschaffen sein muss und wo es entstehen könnte.",
-    "m": "Die Suche nach einem sicheren und dauerhaften Endlager für hochradioaktiven Müll ist ein langwieriger Prozess in Deutschland. Etwa 27.000 Kubikmeter hochradioaktiver Abfälle müssen so verwahrt werden, dass sie über Jahrtausende von der Umwelt abgeschlossen sind. Bis zum Jahr 2050 soll der endgültige Standort gefunden sein. Aktuell kommen nach einer weiteren Eingrenzung noch etwa fünf Prozent der Gesamtfläche Deutschlands für das Projekt infrage. Zu den potenziell geeigneten Regionen gehören dabei auch Standorte im Bundesland Niedersachsen. Die weiteren Schritte umfassen detaillierte Prüfungen der geologischen Voraussetzungen vor Ort.",
-    "r": "Die Suche nach einem Atommüll-Endlager ist ein zentrales sicherheitspolitisches und umweltpolitisches Projekt in Deutschland mit weitreichenden Folgen für künftige Generationen. Die Eingrenzung der potenziellen Flächen auf etwa fünf Prozent konkretisiert den Prozess.",
+    "t": "FAQ: Die lange Suche nach einem Atommüll-Endlager",
+    "s": "Für rund 27.000 Kubikmeter hochradioaktiven Müll wird in Deutschland ein sicheres Endlager gesucht. Die Standortsuche wurde nun weiter eingegrenzt, wobei ein fertiges Endlager bis zum Jahr 2050 gefunden werden soll.",
+    "m": "Die Suche nach einem dauerhaften Aufbewahrungsort für die etwa 27.000 Kubikmeter hochradioaktiven Abfälle schreitet voran. Bis zum Jahr 2031 oder spätestens 2050 soll der Standort feststehen, der höchste Sicherheitsanforderungen erfüllen muss. Aktuell kommen nach neuen Einschränkungen rund fünf Prozent der Bundesfläche für das Projekt in Betracht. Zu diesen potenziell geeigneten Gebieten gehören auch Regionen in Niedersachsen. Im weiteren Verfahren wird geprüft, welche geologischen Formationen wie Salz, Tongestein oder Kristallin die beste Eignung aufweisen.",
+    "r": "Die Suche betrifft die langfristige Sicherheit im Umgang mit hochradioaktivem Müll und berührt direkte Regionen in Deutschland.",
     "srcs": [
       {
         "name": "Tagesschau",
@@ -1802,15 +2639,11 @@
       }
     ],
     "url": "https://www.tagesschau.de/inland/innenpolitik/endlagersuche-standorte-100.html",
-    "agree": "Die Quellen stimmen überein, dass in Deutschland nach einem Endlager für hochradioaktiven Atommüll gesucht wird und die Suche aktuell weiter eingegrenzt wurde.",
+    "agree": "Die Quellen sind sich einig, dass eine Suche nach einem Endlager für Atommüll läuft und dabei Flächen in Deutschland infrage kommen.",
     "diff": [
       {
-        "name": "Tagesschau",
-        "note": "nennt die Gesamtmenge von rund 27.000 Kubikmetern hochradioaktivem Müll sowie das Zieljahr 2050 für die Endlagersuche"
-      },
-      {
         "name": "NDR Niedersachsen",
-        "note": "präzisiert, dass aktuell etwa fünf Prozent der Flächen in Deutschland infrage kommen und nennt Standorte in Niedersachsen"
+        "note": "Erwähnt konkret, dass aktuell etwa fünf Prozent der Flächen in Deutschland infrage kommen und Standorte in Niedersachsen dazugehören."
       }
     ],
     "chg": "",
@@ -15583,779 +16416,6 @@
       {
         "name": "BBC World",
         "note": "Gibt an, dass der betroffene Patient bereits Anfang Oktober verstarb."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-aa1b4b88342c3231",
-    "c": "INT",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-22T14:19:00.000Z",
-    "p": 2,
-    "st": "BE",
-    "city": "",
-    "t": "Deutsche Bahn führt Direktverbindung Berlin – Paris wieder ein",
-    "s": "Ab Mitte Dezember soll es wieder eine direkte Zugverbindung zwischen Berlin und Paris geben. Nach Angaben der Deutschen Bahn werden dann die zuvor bestehenden Probleme mit dem Zugleitsystem behoben sein. Reisende können die Strecke damit wieder ohne Umsteigen bewältigen.",
-    "m": "Die Deutsche Bahn kündigt die Wiederaufnahme der Direktverbindung zwischen der deutschen Hauptstadt Berlin und der französischen Metropole Paris ab Mitte Dezember an. Bislang verhinderten technische Probleme mit dem Zugleitsystem einen direkten Fahrbetrieb auf dieser Relation. Mit der Behebung dieser Mängel können Fahrgäste ab dem Fahrplanwechsel im Dezember wieder direkt reisen. Details zum genauen Fahrplan, den beteiligten Zuggattungen oder den genauen Abfahrtszeiten wurden in den Meldungen zunächst nicht genannt. Auch über die genauen Kosten der Behebung des Zugleitsystems gibt es bisher keine Informationen.",
-    "r": "Die Wiederaufnahme der Direktverbindung ist für den europäischen Bahnverkehr und Reisende zwischen Deutschland und Frankreich von Bedeutung. Sie verbessert das grenzüberschreitende Schienennetz und beseitigt eine bisherige Lücke im internationalen Fernverkehr.",
-    "srcs": [
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/wirtschaft/deutsche-bahn-direktverbindung-berlin-paris-kehrt-zurueck-a-88e90b1b-d5cd-497c-b784-6b2bf100f131#ref=rss",
-        "date": "2026-10-22T14:19:00.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Berlin",
-        "url": "https://www.tagesschau.de/inland/regional/berlin/rbb-deutsche-bahn-will-direktverbindung-von-berlin-nach-paris-wieder-einfuehren-102.html",
-        "date": "2026-10-22T11:09:48.000Z"
-      }
-    ],
-    "url": "https://www.spiegel.de/wirtschaft/deutsche-bahn-direktverbindung-berlin-paris-kehrt-zurueck-a-88e90b1b-d5cd-497c-b784-6b2bf100f131#ref=rss",
-    "agree": "Beide Quellen stimmen überein, dass die Deutsche Bahn eine direkte Zugverbindung zwischen Berlin und Paris ab Mitte Dezember wieder einführen will.",
-    "diff": [
-      {
-        "name": "DER SPIEGEL",
-        "note": "Erwähnt konkret, dass die Probleme mit dem Zugleitsystem bis dahin behoben sein sollen."
-      },
-      {
-        "name": "Tagesschau Regional Berlin",
-        "note": "Enthält im bereitgestellten Text keine weiteren Details über die technischen Gründe oder den Zeitpunkt."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-3a904458a4a73de1",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-22T14:08:22.000Z",
-    "p": 3,
-    "st": "BY",
-    "city": "",
-    "t": "Steuereinnahmen steigen auf über eine Billion Euro",
-    "s": "Bund, Länder und Kommunen verzeichnen erstmals Steuereinnahmen von mehr als einer Billion Euro. Die Union hatte auf Mehreinnahmen gehofft, um Entlastungen bei der Stromsteuer zu finanzieren. Bundesfinanzminister Lars Klingbeil sieht durch die neuen Zahlen jedoch keinen Spielraum für eine Etat-Entlastung.",
-    "m": "Nach aktuellen Berechnungen durchbrechen die Steuereinnahmen von Bund, Ländern und Kommunen erstmals die Marke von einer Billion Euro. Im Vorfeld hatten vor allem Vertreter der Union große Hoffnungen auf diese Mehreinnahmen gesetzt. Das Geld sollte unter anderem zur Finanzierung von Entlastungen bei der Stromsteuer genutzt werden. Bundesfinanzminister Lars Klingbeil dämpft diese Erwartungen nun deutlich. Trotz der Rekordsumme sieht er keinen finanziellen Spielraum, um den Etat in diesem Bereich zu entlasten. Damit bleibt unklar, wie die geforderten Entlastungen bei der Stromsteuer künftig gegenfinanziert werden sollen. Die neuen Zahlen dürften die haushaltspolitischen Debatten der kommenden Wochen weiter anheizen.",
-    "r": "Die Rekordeinnahmen der öffentlichen Hand berühren zentrale Fragen der Bundesfinanzpolitik und der Entlastung von Bürgern sowie Unternehmen. Die Einschätzung des Finanzministers schränkt den politischen Spielraum für Steuersenkungen trotz höherer Einnahmen ein.",
-    "srcs": [
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/steuereinnahmen-ziehen-an-klingbeil-keine-etat-entlastung,VYmi4lN",
-        "date": "2026-10-22T14:08:22.000Z"
-      },
-      {
-        "name": "t-online Nachrichten",
-        "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101493330/steuereinnahmen-ziehen-an-lars-klingbeil-sieht-keine-etat-entlastung.html",
-        "date": "2026-10-22T13:41:52.000Z"
-      }
-    ],
-    "url": "https://www.br.de/nachrichten/deutschland-welt/steuereinnahmen-ziehen-an-klingbeil-keine-etat-entlastung,VYmi4lN",
-    "agree": "Die Quellen sind sich einig, dass höhere Steuereinnahmen erwartet werden und die Union gehofft hatte, damit Entlastungen bei der Stromsteuer zu finanzieren.",
-    "diff": [
-      {
-        "name": "BR24 Bayern",
-        "note": "Berichtet präziser, dass Bund, Länder und Kommunen erstmals mehr als eine Billion Euro einnehmen und benennt Lars Klingbeil als Finanzminister."
-      },
-      {
-        "name": "t-online Nachrichten",
-        "note": "Führt aus, dass es nach den neuesten Zahlen schwierig wird, die Hoffnungen der Union zu erfüllen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-34c2a89baaf5d122",
-    "c": "INT",
-    "o": "PT",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-22T14:04:29.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Emmanuel Macron beruft Verteidigungs- und Sicherheitsrat ein",
-    "s": "Der französische Präsident Emmanuel Macron hat für diesen Morgen den Nationalen Verteidigungs- und Sicherheitsrat einberufen. Dies geschieht nach gewaltsamen Ausschreitungen am vergangenen Wochenende und drohenden neuen Demonstrationen. Macron war zuvor aus dem Nahen Osten zurückgekehrt.",
-    "m": "Nach den schweren Ausschreitungen am letzten Wochenende und angesichts drohender neuer Proteste reagiert die französische Führung. Der aus dem Nahen Osten zurückgekehrte Präsident Emmanuel Macron hat für den heutigen Vormittag den Rat für Verteidigung und nationale Sicherheit zusammengerufen. Es soll beraten werden, wie auf die angespannte Sicherheitslage und die angekündigten Demonstrationen reagiert wird. Weitere Details zu den konkreten Beschlüssen des Rates sind bisher nicht bekannt. Auch das genaue Ausmaß der drohenden Proteste bleibt abzuwarten. Die Regierung versucht damit, die Kontrolle über die öffentliche Sicherheit wiederherzustellen. Beteiligt sind neben dem Präsidenten wichtige Sicherheitsverantwortliche des Landes.",
-    "r": "Die Einberufung des höchsten französischen Sicherheitsgremiums ist relevant, da sie unmittelbar auf schwere Unruhen und drohende neue Proteste folgt und Einblicke in die staatliche Krisenreaktion in Frankreich gibt.",
-    "srcs": [
-      {
-        "name": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/noticiario-antena1/09h-macron-reune-conselho-de-seguranca_a1_1773449",
-        "date": "2026-10-22T14:04:29.000Z"
-      },
-      {
-        "name": "RTP Mundo",
-        "url": "https://www.rtp.pt/noticias/mundo/macron-reune-o-conselho-de-defesa-e-seguranca-nacional_n1773473",
-        "date": "2026-10-22T11:04:08.000Z"
-      }
-    ],
-    "url": "https://www.rtp.pt/noticias/noticiario-antena1/09h-macron-reune-conselho-de-seguranca_a1_1773449",
-    "agree": "Präsident Emmanuel Macron hat nach den Unruhen am Wochenende und seiner Rückkehr aus dem Nahen Osten den Sicherheitsrat einberufen.",
-    "diff": [
-      {
-        "name": "RTP Notícias",
-        "note": "Meldet kurz und knapp die Einberufung des Sicherheitsrates durch Macron um 09 Uhr."
-      },
-      {
-        "name": "RTP Mundo",
-        "note": "Liefert zusätzliche Details, dass die Einberufung nach gewaltsamen Disturbios am letzten Wochenende, der drohenden Rückkehr von Demonstrationen und Macrons Rückkehr aus dem Nahen Osten erfolgt ist."
-      }
-    ],
-    "chg": "",
-    "independent": 1
-  },
-  {
-    "id": "story-1fa46075819319cc",
-    "c": "INT",
-    "o": "UK",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-22T13:46:33.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Zwei Tote bei Huthi-Angriff auf Flughafen in Saudi-Arabien",
-    "s": "Bei einem Angriff der Huthi-Bewegung auf einen Flughafen im Osten Saudi-Arabiens sind nach Angaben der Behörden zwei Menschen getötet worden. Es handelt sich um den jüngsten Vorfall in einer Serie von Angriffen auf Flughäfen und andere Einrichtungen im Königreich. Nähere Details zum genauen Hergang und den Opfern wurden zunächst nicht genannt.",
-    "m": "Die Huthi-Bewegung hat erneut Ziele in Saudi-Arabien ins Visier genommen. Bei dem aktuellen Angriff auf einen Flughafen in der östlichen Region des Landes kamen nach Behördenangaben zwei Menschen ums Leben. Dieser Vorfall reiht sich in eine anhaltende Serie von Attacken ein, die von den Houthi gegen saudi-arabische Infrastruktur, insbesondere Flughäfen, verübt werden. Die genauen Umstände des Angriffs, die Identität der Opfer sowie mögliche Schäden an der Flughafen-Infrastruktur sind Gegenstand weiterer offizieller Untersuchungen. Internationale Beobachter werten solche Attacken als Fortsetzung des regionalen Konflikts. Offene Fragen betreffen vor allem die verwendeten Waffen und konkrete Abwehrmaßnahmen der saudi-arabischen Luftabwehr.",
-    "r": "Der Vorfall verdeutlicht die anhaltende Bedrohung ziviler und strategischer Infrastruktur in Saudi-Arabien durch grenzüberschreitende Angriffe. Solche Ereignisse haben direkte Auswirkungen auf die Sicherheit in der Region.",
-    "srcs": [
-      {
-        "name": "BBC World",
-        "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-22T13:46:33.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yZ2dTanNHRmFaRmNxVWRFLXoxMF9wUU9hYW1udXV5ZkUta1R5SVVRWVp1eHhfUU5admNaQ0JWN1VZZTRrVm9hZGpVcEgzMGxCNm9GZXNtZkpINnM?oc=5",
-        "date": "2026-10-22T13:46:33.000Z"
-      }
-    ],
-    "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
-    "agree": "Beide Quellen stimmen überein, dass bei einem Angriff der Huthis auf einen Flughafen im Osten Saudi-Arabiens zwei Menschen getötet wurden.",
-    "diff": [
-      {
-        "name": "Google News World",
-        "note": "Verweist lediglich auf den Bericht der BBC und wiederholt diesen im Wesentlichen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-aa2526f534125f4c",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-22T13:26:40.000Z",
-    "p": 2,
-    "st": "BW",
-    "city": "",
-    "t": "Drogerie-Unternehmer Erwin Müller gibt Teil der Geschäftsführung ab",
-    "s": "Mit 94 Jahren hat der Ulmer Drogerie-Unternehmer Erwin Müller einen zweiten Geschäftsführer an seine Seite geholt. Sascha Zahner rückt in die Führungsspitze der Müller-Drogeriemärkte auf. Damit stellt der Firmengründer die Weichen für die Zukunft des Unternehmens neu. Beide Berichte stimmen überein, dass dieser Schritt eine Neuerung in der Führung darstellt.",
-    "m": "Der langjährige Alleingeschäftsführer und Ulmer Drogerie-Unternehmer Erwin Müller hat im Alter von 94 Jahren die Unternehmensführung erweitert. Neu in die Führungsspitze der Müller-Drogeriemärkte wurde Sascha Zahner berufen. Er fungiert künftig als zweiter Geschäftsführer neben Müller. Damit gibt der Gründer erstmals Teile der operativen Verantwortung ab. Die Bekanntgabe markiert einen wichtigen Schritt in der Nachfolgeregelung des Handelskonzerns. Weitere Details zur genauen Aufgabenteilung zwischen Müller und Zahner wurden in den vorliegenden Berichten nicht genannt.",
-    "r": "Die Erweiterung der Geschäftsführung bei einer großen Drogeriemarktkette durch einen 94-jährigen Gründer ist wirtschaftlich relevant für die Zukunft des Unternehmens. Sie gibt Einblicke in anstehende Nachfolgeregelungen eines bekannten deutschen Handelskonzerns.",
-    "srcs": [
-      {
-        "name": "SWR Aktuell Baden-Württemberg",
-        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/erwin-mueller-holt-neuen-geschaeftsfuehrer-100.html",
-        "date": "2026-10-22T13:26:40.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Baden-Württemberg",
-        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-mit-94-jahren-stellt-erwin-mueller-die-weichen-neu-drogeriemarktkette-erhaelt-zweiten-geschaeftsfuehrer-100.html",
-        "date": "2026-10-22T10:23:36.000Z"
-      }
-    ],
-    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/erwin-mueller-holt-neuen-geschaeftsfuehrer-100.html",
-    "agree": "Beide Quellen stimmen überein, dass der 94-jährige Ulmer Drogerie-Unternehmer Erwin Müller mit Sascha Zahner erstmals einen zweiten Geschäftsführer in die Führungsspitze der Müller-Drogeriemärkte berufen hat.",
-    "diff": [
-      {
-        "name": "Tagesschau Regional Baden-Württemberg",
-        "note": "Erwähnt explizit, dass es sich um das erste Mal handelt, dass Müller einen zweiten Geschäftsführer an seine Seite stellt."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-df1c2ef8412b5741",
-    "c": "INT",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-22T13:12:13.000Z",
-    "p": 2,
-    "st": "BY",
-    "city": "",
-    "t": "Airbnb lockert Check-out-Regeln für Gäste ab November 2026",
-    "s": "Die Buchungsplattform Airbnb führt neue Regeln für den Check-out ein, die ab November 2026 gelten sollen. Künftig müssen Gäste weniger Aufgaben vor ihrer Abreise erledigen. Die Änderung betrifft unter anderem das Spülen von Geschirr.",
-    "m": "Ab dem 20. November 2026 gelten neue Regeln für Gäste auf der Plattform Airbnb. Zu den Aufgaben, die Gäste künftig nicht mehr vor ihrer Abreise erledigen müssen, gehören das Spülen von Geschirr sowie das Abziehen der Betten. Diese Anpassung soll den Check-out unkomplizierter gestalten. Bei Vermietern stößt die Neuerung jedoch auf Kritik. Sie befürchten durch die geänderten Vorgaben steigende Kosten, da möglicherweise mehr Aufwand für die Endreinigung entsteht. Genauere Details zum Umfang der neuen Richtlinien und deren Umsetzung stehen im Detail noch aus.",
-    "r": "Die Änderungen bei den Check-out-Regeln von Airbnb berühren die Interessen von Reisenden sowie Vermietern und könnten Auswirkungen auf Reinigungsaufwand und Kosten haben. Deshalb ist die Anpassung für den Markt relevant.",
-    "srcs": [
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/reise/neue-airbnb-regeln-was-gaeste-beim-check-out-nicht-mehr-tun-muessen-F4SSPX5W6JCLNMAGEXAXHSZD6I.html",
-        "date": "2026-10-22T13:12:13.000Z"
-      },
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/wirtschaft/neue-airbnb-regeln-was-gaeste-nicht-mehr-machen-muessen,VYlYGVG",
-        "date": "2026-10-22T10:22:37.000Z"
-      }
-    ],
-    "url": "https://www.rnd.de/reise/neue-airbnb-regeln-was-gaeste-beim-check-out-nicht-mehr-tun-muessen-F4SSPX5W6JCLNMAGEXAXHSZD6I.html",
-    "agree": "Beide Quellen stimmen überein, dass Airbnb neue Regeln für den Check-out einführt, bei denen Gäste künftig weniger Aufgaben erledigen müssen.",
-    "diff": [
-      {
-        "name": "RND",
-        "note": "nennt konkret den Starttermin im November 2026, erwähnt jedoch im Gegensatz zu BR24 keine Details zur Kritik von Vermietern oder dem Bettenabziehen."
-      },
-      {
-        "name": "BR24 Bayern",
-        "note": "nennt das genaue Datum 20. November, führt das konkrete Wegfallen des Bettenabziehens an und berichtet über die Kritik sowie Kostenbefürchtungen der Vermieter."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-9660b5750857cccc",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-22T10:33:00.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Tote und Verletzte bei Huthi-Angriff auf Flughafen in Saudi-Arabien",
-    "s": "Die jemenitische Huthi-Miliz hat den Flughafen der saudi-arabischen Stadt Dammam attackiert. Bei dem Angriff wurden zwei Menschen getötet und es gibt Verletzte. Die vom Iran unterstützten Kämpfer greifen immer wieder Ziele in Saudi-Arabien an. Als Reaktion auf die Situation kündigten die USA an, diplomatisches Personal abzuziehen.",
-    "m": "Die jemenitische Huthi-Miliz setzt ihre Angriffe auf Ziele in Saudi-Arabien fort. Nach einer früheren Attacke auf ein Ölfeld geriet nun der Flughafen der Stadt Dammam ins Visier der vom Iran unterstützten Kämpfer. Bei dem Angriff auf den Flughafen wurden zwei Menschen getötet und weitere Personen verletzt. Die Miliz verübt regelmäßig Angriffe auf zivile Ziele in dem Nachbarland. Als Konsequenz aus den anhaltenden Spannungen und Sicherheitsrisiken haben die USA angekündigt, ihr diplomatisches Personal aus dem Bereich abzuziehen. Offen bleibt, wie die saudi-arabische Luftverteidigung auf die Attacke reagiert hat und welche diplomatischen oder militärischen Gegenmaßnahmen folgen werden.",
-    "r": "Der Angriff auf einen zivilen Flughafen in Saudi-Arabien und die darauffolgende Ankündigung der USA, diplomatisches Personal abzuziehen, verdeutlichen die Eskalation des Konflikts mit der Huthi-Miliz. Dies betrifft die regionale Sicherheit und internationale diplomatische Präsenz im Land direkt.",
-    "srcs": [
-      {
-        "name": "DW Deutsch",
-        "url": "https://www.dw.com/de/tote-bei-huthi-angriff-auf-flughafen-in-saudi-arabien/a-79730390?maca=de-rss-de-all-1119-xml-mrss",
-        "date": "2026-10-22T10:33:00.000Z"
-      },
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/asien/flughafen-saudi-arabien-100.html",
-        "date": "2026-10-22T07:50:35.000Z"
-      }
-    ],
-    "url": "https://www.dw.com/de/tote-bei-huthi-angriff-auf-flughafen-in-saudi-arabien/a-79730390?maca=de-rss-de-all-1119-xml-mrss",
-    "agree": "Beide Quellen stimmen darin überein, dass es bei einem Angriff der Huthi-Miliz auf den Flughafen in Dammam in Saudi-Arabien Todesopfer gab.",
-    "diff": [
-      {
-        "name": "DW Deutsch",
-        "note": "Berichtet über einen vorherigen Angriff der Huthi auf ein Ölfeld in Saudi-Arabien."
-      },
-      {
-        "name": "Tagesschau",
-        "note": "Meldet konkret Verletzte sowie zwei Todesopfer und erwähnt die Ankündigung der USA, diplomatisches Personal abzuziehen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-05f174679bc60dde",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-22T09:36:53.000Z",
-    "p": 2,
-    "st": "RP",
-    "city": "",
-    "t": "Haus des Jugendrechts in Mainz setzt auf schnelle Konsequenzen",
-    "s": "In Mainz arbeiten Polizei, Staatsanwaltschaft und Jugendhilfe im Haus des Jugendrechts eng zusammen. Ziel dieser Einrichtung ist es, bei straffällig gewordenen Jugendlichen schnelle Konsequenzen anstelle langwieriger Gerichtsverfahren herbeizuführen.",
-    "m": "Das Haus des Jugendrechts in Mainz bündelt die Kompetenzen von Polizei, Staatsanwaltschaft und Jugendhilfe unter einem gemeinsamen Dach. Durch die enge Kooperation dieser Institutionen sollen Straftaten von Jugendlichen schneller bearbeitet und sanktioniert werden. Im Fokus stehen dabei zeitnahe und spürbare Reaktionen auf kriminelles Verhalten, um erneuten Regelbrüchen vorzubeugen. Der Ansatz verzichtet in geeigneten Fällen bewusst auf traditionelle Gerichtsverfahren, um erzieherische Maßnahmen direkter wirken zu lassen. Konkrete Fallzahlen oder statistische Auswertungen zur Wirksamkeit nennen die beteiligten Berichte jedoch nicht. Offen bleibt zudem, wie viele Jugendliche das Angebot bereits durchlaufen haben.",
-    "r": "Die interdisziplinäre Zusammenarbeit im Jugendstrafrecht ist ein zentraler Ansatz zur Bekämpfung von Jugendkriminalität. Das Mainzer Modell zeigt, wie Behörden und Jugendhilfe kooperieren, um Prozesse zu beschleunigen.",
-    "srcs": [
-      {
-        "name": "SWR Aktuell",
-        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/mainz/haus-des-jugendrechts-setzt-auf-hilfe-statt-strafe-102.html",
-        "date": "2026-10-22T09:36:53.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Rheinland-Pfalz",
-        "url": "https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-jugendkriminalitaet-in-mainz-wie-das-haus-des-jugendrechts-grenzen-setzt-100.html",
-        "date": "2026-10-22T07:26:00.000Z"
-      }
-    ],
-    "url": "https://www.swr.de/swraktuell/rheinland-pfalz/mainz/haus-des-jugendrechts-setzt-auf-hilfe-statt-strafe-102.html",
-    "agree": "Beide Quellen stimmen überein, dass in Mainz Polizei, Staatsanwaltschaft und Jugendhilfe im Haus des Jugendrechts zusammenarbeiten, um bei straffälligen Jugendlichen schnelle Konsequenzen statt Gerichtsverfahren zu erzielen.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-14a56fa08a921619",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-22T08:07:01.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Alleingang in Sachsen-Anhalt?: CDU-Abgeordneter will bei Siegmund-Wahl im Saal bleiben",
-    "s": "In Sachsen-Anhalt steht im Dezember eine brisante Ministerpräsidentenwahl um AfD-Politiker Ulrich Siegmund an. Die CDU-Fraktion will geschlossen den Plenarsaal verlassen. Doch nun kündigt Guido Heuer das Gegenteil an. Ein möglicher dritter Wahlgang könnte alles entscheiden.",
-    "m": "In Sachsen-Anhalt steht im Dezember eine brisante Ministerpräsidentenwahl um AfD-Politiker Ulrich Siegmund an. Die CDU-Fraktion will geschlossen den Plenarsaal verlassen. Doch nun kündigt Guido Heuer das Gegenteil an. Ein möglicher dritter Wahlgang könnte alles entscheiden. Nach dem AfD-Wahlsieg in Sachsen-Anhalt haben die vom Verfassungsschutz als rechtsextrem eingestufte Partei sowie das BSW ihre punktuelle Zusammenarbeit begonnen. Verfolgen Sie alle Entwicklungen hier im Liveticker.",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
-    "srcs": [
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/politik/CDU-Abgeordneter-Guido-Heuer-will-bei-Siegmund-Wahl-in-Sachsen-Anhalt-im-Saal-bleiben-id31445393.html",
-        "date": "2026-10-22T08:07:01.000Z"
-      },
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/politik/ticker-nach-sachsen-anhalt-wahl-cdu-abgeordneter-will-bei-siegmund-wahl-im-saal-bleiben-FIYFNEZ6YVADLGXIQVNC3OGBBU.html",
-        "date": "2026-10-22T06:35:52.000Z"
-      }
-    ],
-    "url": "https://www.n-tv.de/politik/CDU-Abgeordneter-Guido-Heuer-will-bei-Siegmund-Wahl-in-Sachsen-Anhalt-im-Saal-bleiben-id31445393.html",
-    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-71020032ef35798b",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-22T08:04:31.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Ministerpräsidentenkonferenz: Forderung nach schneller Stromsteuersenkung",
-    "s": "Vor der Ministerpräsidentenkonferenz fordern die Ministerpräsidenten Wüst und Schnieder eine rasche Senkung der Stromsteuer. Diese Entlastung soll sowohl für private Haushalte als auch für alle Unternehmen gelten. Die Initiative zielt darauf ab, die Energiekosten zeitnah zu reduzieren.",
-    "m": "Im Vorfeld der heutigen Ministerpräsidentenkonferenz haben sich Nordrhein-Westfalens Regierungschef Hendrik Wüst und der rheinland-pfälzische beziehungsweise saarländische beziehungsweise allgemeine Konferenzkontext für eine schnelle Senkung der Stromsteuer ausgesprochen. Konkret wird gefordert, dass diese Entlastung nicht nur ausgewählten Branchen zugutekommt, sondern unterschiedslos für private Haushalte sowie sämtliche Unternehmen gelten soll. Über weitere Beschlüsse oder den genauen Zeitpunkt der Umsetzung ist in den vorliegenden Berichten noch nichts bekannt. Die Maßnahme soll als wirtschaftlicher Impuls gegen die hohen Energiepreise wirken.",
-    "r": "Die Senkung der Stromsteuer ist ein zentrales Instrument der Energiepolitik, das direkte Auswirkungen auf die Verbraucher und die Wettbewerbsfähigkeit der Unternehmen in Deutschland hat. Entsprechende Beschlüsse der Ministerpräsidentenkonferenz können den Bund zu schnellem Handeln drängen.",
-    "srcs": [
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/news/2026-10/22/schnieder-und-wuest-rasche-senkung-der-stromsteuer-fuer-alle",
-        "date": "2026-10-22T08:04:31.000Z"
-      },
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/wuest-fordert-rasche-senkung-der-stromsteuer-fuer-alle-100.html",
-        "date": "2026-10-22T07:41:04.000Z"
-      }
-    ],
-    "url": "https://www.zeit.de/news/2026-10/22/schnieder-und-wuest-rasche-senkung-der-stromsteuer-fuer-alle",
-    "agree": "Die Quellen sind sich einig, dass eine rasche Senkung der Stromsteuer für private Haushalte und alle Unternehmen gefordert wird.",
-    "diff": [
-      {
-        "name": "ZEIT ONLINE",
-        "note": "Nennt Schnieder und Wüst als Akteure für die Forderung."
-      },
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "note": "Nennt explizit den nordrhein-westfälischen Regierungschef Wüst als Initiator der Forderung vor der heutigen Ministerpräsidentenkonferenz."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-d126d2174f11abae",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-22T07:41:59.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Söder droht Berlin und Sachsen-Anhalt bei Regierungsbeteiligung von Extremisten mit Geldentzug",
-    "s": "Bayerns Ministerpräsident Markus Söder hat angekündigt, bei Regierungsbeteiligungen von AfD oder Linken den betroffenen Bundesländern finanzielle Konsequenzen androhen zu wollen. Gemeinsam mit anderen Geberländern plant er eine sogenannte Extremismusklausel. Hintergrund ist die Sorge vor radikalen Regierungen in Berlin oder Sachsen-Anhalt. Bislang lehnte Söder eine Bestrafung über den Länderfinanzausgleich noch ab.",
-    "m": "Die Aussicht auf eine von der Linken geführte Regierung in Berlin oder Wahlerfolge der AfD in Sachsen-Anhalt hat bei Bayerns Ministerpräsident Markus Söder einen Sinneswandel ausgelöst. Während Söder eine Bestrafung über den Länderfinanzausgleich bei einem Wahlsieg der AfD in Sachsen-Anhalt zunächst ablehnte, brachte die politische Entwicklung in Berlin die neuen Pläne ins Rollen. Zusammen mit weiteren Geberländern plant Söder nun die Einführung einer Extremismusklausel. Konkrete Details zu dieser Klausel und den genauen Mechanismen des angedrohten Geldentzugs wurden in den Berichten bisher nicht genannt. Offen ist auch, welche anderen Geberländer sich konkret an diesem Vorstoß beteiligen wollen und wie eine solche Klausel rechtlich umgesetzt werden könnte.",
-    "r": "Die Drohung eines finanzstarken Geberlandes mit einer Extremismusklausel im Länderfinanzausgleich berührt die föderale Finanzarchitektur und das bundespolitische Machtgefüge. Solche Initiativen könnten den politischen Druck auf potenziell radikal geführte Landesregierungen massiv erhöhen.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT0RpcW56blNzVFpqbE5zY2RDSjdBbVlyczF0ZlJQd1ZsU0YyV3k3ejZRMHVDRUp2aF9femlfd0NjYXltZjEzSGFGeVo3cFpNWDZDTWxwVHlON052TVRpaG5rbzBsbExKd1Q3VklQZ2RyVkE2bXhlUXRpcnRUWllRdWZFTEFwSG5yZHhGNDBVN014SEVuVzBUYWpzWmNDZmM5dlkxUjNR?oc=5",
-        "date": "2026-10-22T07:41:59.000Z"
-      },
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/politik/Soeder-will-Berlin-und-Sachsen-Anhalt-den-Geldhahn-abdrehen-id31444709.html",
-        "date": "2026-10-22T03:13:21.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT0RpcW56blNzVFpqbE5zY2RDSjdBbVlyczF0ZlJQd1ZsU0YyV3k3ejZRMHVDRUp2aF9femlfd0NjYXltZjEzSGFGeVo3cFpNWDZDTWxwVHlON052TVRpaG5rbzBsbExKd1Q3VklQZ2RyVkE2bXhlUXRpcnRUWllRdWZFTEFwSG5yZHhGNDBVN014SEVuVzBUYWpzWmNDZmM5dlkxUjNR?oc=5",
-    "agree": "Die Quellen sind sich einig, dass Bayerns Ministerpräsident Markus Söder angesichts möglicher Regierungsbeteiligungen von AfD oder Linken plant, den Ländern Berlin und Sachsen-Anhalt über den Länderfinanzausgleich den Geldhahn abzudrehen.",
-    "diff": [
-      {
-        "name": "ntv",
-        "note": "Erwähnt konkret, dass Söder eine 'Bestrafung' über den Länderfinanzausgleich bei einem AfD-Wahlsieg in Sachsen-Anhalt zunächst noch ablehnte und erst die Aussicht auf eine Linken-Regierung in Berlin den Sinneswandel und die Planung einer Extremismusklausel mit anderen Geberländer"
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-460e8cbfd839f506",
-    "c": "INT",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-22T07:41:04.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Cambridge-Analytica-Skandal: US-Gericht verurteilt Meta zu 25 Milliarden Dollar Strafe",
-    "s": "Acht Jahre nach dem Bekanntwerden des Cambridge-Analytica-Skandals ist der Facebook-Mutterkonzern Meta zu einer astronomischen Geldstrafe in den USA verurteilt worden. Hintergrund des Verfahrens ist der massive Missbrauch von Millionen von Nutzerdaten. Ein Gericht in den USA hat nun das entsprechende Urteil gesprochen. Die Strafe beläuft sich auf 25 Milliarden Dollar.",
-    "m": "Der Facebook-Mutterkonzern Meta wurde in den USA im Zusammenhang mit dem Cambridge-Analytica-Skandal zu einer Strafzahlung von 25 Milliarden Dollar verurteilt. Das Verfahren blickt auf eine Vorgeschichte von rund acht Jahren zurück. Der Kern des Skandals war der unzulässige Zugriff auf und Missbrauch von privaten Daten von Millionen Facebook-Nutzern. Durch den Vorfall geriet das Unternehmen seinerzeit massiv in die Kritik und stand im Fokus internationaler Datenschützer. Die nun verhängte Summe stellt eine der schwersten finanziellen Sanktionen gegen einen Tech-Konzern dar. Bislang ist unklar, ob Meta gegen das Urteil in Berufung gehen wird und wie sich die Zahlung konkret auf die Bilanz auswirkt. Die Auswirkungen auf künftige Datenschutzverfahren bleiben abzuwarten.",
-    "r": "Das Urteil gegen Meta ist von erheblicher finanzieller Tragweite für einen der weltgrößten Technologiekonzerne. Es setzt ein starkes Signal im Bereich des Datenschutzes und der ahndung von Datenmissbrauch.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/cambridge-analytica-skandal-gericht-verurteilt-meta-zu-25-milliarden-dollar-strafzahlung-102.html",
-        "date": "2026-10-22T07:41:04.000Z"
-      },
-      {
-        "name": "ZDF heute",
-        "url": "https://www.zdfheute.de/wirtschaft/unternehmen/meta-strafe-cambridge-analytika-usa-100.html",
-        "date": "2026-10-21T20:13:00.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/cambridge-analytica-skandal-gericht-verurteilt-meta-zu-25-milliarden-dollar-strafzahlung-102.html",
-    "agree": "Die Quellen stimmen überein, dass der Facebook-Mutterkonzern Meta wegen des Cambridge-Analytica-Skandals in den USA zu einer Milliardenstrafe verurteilt wurde.",
-    "diff": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "note": "Nennt die konkrete Summe von 25 Milliarden Dollar Strafzahlung."
-      },
-      {
-        "name": "ZDF heute",
-        "note": "Erwähnt, dass der Skandal acht Jahre zurückliegt und nennt als Hintergrund den Missbrauch von Nutzerdaten, ohne die genaue Summe zu nennen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-20791951be4e60e8",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-22T07:41:04.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Ifo-Studie: Tankrabatt wirkt bei Benzin voll und bei Diesel teilweise",
-    "s": "Eine Studie des Ifo-Instituts untersucht die Wirkung des neuen Tankrabatts auf die Kraftstoffpreise. Demnach geben die Ölkonzerne die Steuersenkung bei Benzin fast vollständig an die Autofahrer weiter. Bei Diesel ist dies jedoch nur zum Teil der Fall.",
-    "m": "Das Ifo-Institut hat analysiert, in welchem Maße der staatliche Tankrabatt bei den Verbrauchern ankommt. Die Ergebnisse zeigen ein unterschiedliches Bild zwischen den Kraftstoffarten. Während Autofahrer bei Benzin von der Senkung in vollem Umfang profitieren, bleibt dies bei Diesel hinter den Erwartungen zurück. Hier kommt die Entlastung nicht ganz an. Die Untersuchung wirft damit Fragen zur Preisgestaltung der Mineralölkonzerne bei den verschiedenen Kraftstoffen auf.",
-    "r": "Die Analyse beleuchtet die Marktauswirkungen einer staatlichen Maßnahme und zeigt unterschiedliche Effekte bei den Kraftstoffarten. Dies ist relevant für die Bewertung wirtschaftspolitischer Eingriffe in den Energiemarkt.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/ifo-tankrabatt-wirkt-bei-benzin-bei-diesel-aber-nur-teilweise-100.html",
-        "date": "2026-10-22T07:41:04.000Z"
-      },
-      {
-        "name": "Handelsblatt",
-        "url": "https://www.handelsblatt.com/politik/deutschland/ifo-studie-tankrabatt-wirkt-nur-bei-super-e5-vollstaendig-bei-diesel-teilweise/100264131.html",
-        "date": "2026-10-22T07:25:54.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/ifo-tankrabatt-wirkt-bei-benzin-bei-diesel-aber-nur-teilweise-100.html",
-    "agree": "Die Quellen sind sich einig, dass der Tankrabatt bei Benzin fast vollständig ankommt, bei Diesel hingegen nur zum Teil.",
-    "diff": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "note": "Nennt konkret Benzin als betroffene Kraftstoffart neben Diesel."
-      },
-      {
-        "name": "Handelsblatt",
-        "note": "Spezifiziert Benzin als Super E5 und bezeichnet die Konzerne explizit als Akteure, die den Rabatt weitergeben."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-3f3576cba1020f72",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-22T07:21:49.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Ifo-Institut: Bürgergeld-Reform der Union spart keine Milliarden ein",
-    "s": "Die von der Union versprochenen milliardenschweren Einsparungen durch eine Bürgergeld-Reform werden laut Experten des Ifo-Instituts nicht erreicht. Das ursprüngliche Versprechen der neuen Grundsicherung wird demnach nicht eingelöst.",
-    "m": "Die Union hatte die Einführung der neuen Grundsicherung mit dem Versprechen beworben, dass der Bund durch eine Reform des Bürgergelds Milliarden von Euro einsparen könne. Nun üben Experten vom Ifo-Institut scharfe Kritik an diesen Plänen und stellen fest, dass das Einsparversprechen nicht eingelöst wird. Das Vorhaben stand im Fokus der politischen Diskussion um die künftige Gestaltung der sozialen Sicherungssysteme in Deutschland. Bislang zeigt sich, dass die erhofften Haushaltsentlastungen ausbleiben. Damit stehen die politischen Akteure vor der Herausforderung, die Finanzierbarkeit und die tatsächlichen Effekte der Reform neu zu bewerten.",
-    "r": "Die Meldung ist relevant, da sie die Diskrepanz zwischen politischen Versprechungen und den tatsächlichen finanziellen Auswirkungen einer zentralen Sozialstaatsreform aufdeckt.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQYkR6Z2hWWVdXeW9yeVhoM3BMZlZpME11YUtlWVFyYmlwTEtrdE03X21KTEwyREdmSWtEQjdBZ01NcDNkRklzOTlUTDhKQjA2MkhsU1cyRUc1T285ZENfSW83VmRrTG1FRnlMWlJaMUVmMlhSaDNrRTNQb055NWRaRGkxTVBzLWRxeHhBQVRJLWsyZXU5WFg2SDJIbFBnMy1zZXRQaGxfZVNuRDVJX2JYXzNZa2xWUUNmVjhpQzlPa1ZYb0l5X2g4MlZrX0l1VHF1WjVCNDc1a1A1UGw0aUMtbWFyUDhILWNUbjdqSkhqTFNnTjM1dWc?oc=5",
-        "date": "2026-10-22T07:21:49.000Z"
-      },
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/politik/deutschland/article6ad9ac69d7092d3a5757ab3b/grundsicherung-union-versprach-milliarden-doch-die-buergergeld-reform-spart-nichts-ein.html",
-        "date": "2026-10-22T07:20:16.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQYkR6Z2hWWVdXeW9yeVhoM3BMZlZpME11YUtlWVFyYmlwTEtrdE03X21KTEwyREdmSWtEQjdBZ01NcDNkRklzOTlUTDhKQjA2MkhsU1cyRUc1T285ZENfSW83VmRrTG1FRnlMWlJaMUVmMlhSaDNrRTNQb055NWRaRGkxTVBzLWRxeHhBQVRJLWsyZXU5WFg2SDJIbFBnMy1zZXRQaGxfZVNuRDVJX2JYXzNZa2xWUUNmVjhpQzlPa1ZYb0l5X2g4MlZrX0l1VHF1WjVCNDc1a1A1UGw0aUMtbWFyUDhILWNUbjdqSkhqTFNnTjM1dWc?oc=5",
-    "agree": "",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-765a430fe86d3ab6",
-    "c": "INT",
-    "o": "PT",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-22T07:19:50.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Demonstranten in Lissabon: Tendenabbau und Übernachtung unter freiem Himmel",
-    "s": "In Lissabon haben mehr als 300 Demonstranten ihre Zelte auf dem Rossio-Platz abgebaut. Stattdessen entschieden sie sich dazu, die Nacht unter freiem Himmel zu verbringen. Die Hintergründe und weiteren Details zu dem Protest wurden in den Berichten nicht näher ausgeführt.",
-    "m": "Mehr als 300 Demonstranten auf dem Rossio-Platz in Lissabon haben beschlossen, ihre Zelte abzubauen. Nach dem Abbau der Zelte verbrachten sie die Nacht unter freiem Himmel. Konkrete Forderungen der Demonstranten, offizielle Reaktionen oder der genaue zeitliche Ablauf des Protests gehen aus den vorliegenden Berichten nicht hervor. Auch über mögliche Gespräche mit Behörden oder die Dauer der Protestaktion ist bisher nichts bekannt.",
-    "r": "Die Aktion von über 300 Demonstranten im öffentlichen Raum von Lissabon hat symbolische Relevanz für das Versammlungsgeschehen vor Ort. Über die konkreten politischen oder gesellschaftlichen Auswirkungen lässt sich anhand der spärlichen Meldungen keine Aussage treffen.",
-    "srcs": [
-      {
-        "name": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTTJhVjFsanVVd2ZiTnRma2M4dHcxVzZHUWxWZVltdUdXY2QyM003cjJZSk13UlZJc3AzQzRlVlpLMTJMRGNKalUtYlhabU5EWHNzLVNRallYaTJrTDdHMGEzMWhaeU52azB0MnVDa0twczRRZEZVWXl6Q0RqZmNoMVlUWlliQVppZVhGRjBQZktSQjBrS0w1ZlJtVXE4Z1JIVERVM041WF9ZaWdQR0lTalVrWDN0WDhUTTdvbmp2MVlVUkR0LVRaYWFOYlh4alhU0gHLAUFVX3lxTFAzNG1fSnpmN3ltRVg4TWY0MWdtWk41NzI2bHBlYlBQMlE1eE9fQUZBTWxPMnJ6ZmZsS0tUaWhadURvR3QtOVFYa2hrTzgwNDVDSWlfZEppMXFTMWEyejdPbHZsY2JBTjJDQXJkX2h3bXZmWlM5ekF2czZkVWg4OW5CYm15LUhMbDJsVmc2LUNyenJpR1NtUlpwXzNxbE0xOHg1R0ZBcF9INUItUng0ZkE0cUpqMEdxUWp5WkhPR1BXWVREZXVrWVZmVmxV?oc=5",
-        "date": "2026-10-22T07:19:50.000Z"
-      },
-      {
-        "name": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/pais/manifestantes-em-lisboa-decidem-desmontar-tendas-no-rossio-e-dormir-ao-relento_n1773392",
-        "date": "2026-10-22T06:47:32.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTTJhVjFsanVVd2ZiTnRma2M4dHcxVzZHUWxWZVltdUdXY2QyM003cjJZSk13UlZJc3AzQzRlVlpLMTJMRGNKalUtYlhabU5EWHNzLVNRallYaTJrTDdHMGEzMWhaeU52azB0MnVDa0twczRRZEZVWXl6Q0RqZmNoMVlUWlliQVppZVhGRjBQZktSQjBrS0w1ZlJtVXE4Z1JIVERVM041WF9ZaWdQR0lTalVrWDN0WDhUTTdvbmp2MVlVUkR0LVRaYWFOYlh4alhU0gHLAUFVX3lxTFAzNG1fSnpmN3ltRVg4TWY0MWdtWk41NzI2bHBlYlBQMlE1eE9fQUZBTWxPMnJ6ZmZsS0tUaWhadURvR3QtOVFYa2hrTzgwNDVDSWlfZEppMXFTMWEyejdPbHZsY2JBTjJDQXJkX2h3bXZmWlM5ekF2czZkVWg4OW5CYm15LUhMbDJsVmc2LUNyenJpR1NtUlpwXzNxbE0xOHg1R0ZBcF9INUItUng0ZkE0cUpqMEdxUWp5WkhPR1BXWVREZXVrWVZmVmxV?oc=5",
-    "agree": "Die Quellen sind sich einig, dass mehr als 300 Demonstranten auf dem Rossio in Lissabon ihre Zelte abbauten und sich entschlossen, unter freiem Himmel zu schlafen.",
-    "diff": [
-      {
-        "name": "Google News Portugal",
-        "note": "Erwähnt zusätzlich den Bezug zum Medium Correio da Manhã."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-1a8fc65784b8bfee",
-    "c": "INT",
-    "o": "INT",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-22T07:09:00.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Überwachungsvideos im Mordprozess gegen Beau Lamarre-Condon gezeigt",
-    "s": "Im Mordprozess gegen den Polizisten Beau Lamarre-Condon wurden vor Gericht CCTV-Aufnahmen gezeigt. Die Videos dokumentieren die Bewegungen des Angeklagten nach der Tat. Unter anderem fuhr er mit einem Van vor, der mutmaßlich zum Transport von Leichen genutzt wurde.",
-    "m": "Das Gericht sah Videoaufnahmen, die den 31-jährigen Polizisten Beau Lamarre-Condon nach den mutmaßlichen Morden an dem aus Sydney stammenden Paar Jesse Baird und Luk zeigen. Laut den gezeigten Sequenzen besuchte Lamarre-Condon in den Tagen nach der Tat einen McDonald's-Drive-Thru mit dem Transporter, der angeblich zur Beseitigung der Opfer genutzt wurde. Zudem belegen die Aufnahmen, dass er ein Krankenhaus aufsuchte und drei verschiedene Filialen der Baumarktkette Bunnings frequentierte. Lamarre-Condon wird beschuldigt, das Paar erschossen zu haben. Die Veröffentlichung des Videomaterials gewährt Einblicke in seine Aktivitäten unmittelbar nach dem Verbrechen.",
-    "r": "Der Prozess bietet durch die Beweismicherung mit Videomaterial wichtige Einblicke in die Aktivitäten eines Tatverdächtigen nach einem mutmaßlichen Gewaltverbrechen. Die Aufnahmen dokumentieren Handlungen wie Einkäufe und Fahrten, die für die Rekonstruktion des Tathergangs relevant sind.",
-    "srcs": [
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZVgyU3dEVm55RnZxSHRCV05XM0NWX05Dbll5Z1BzbkpnQ0hGWnFRMnlrcGM0UG5tSklPeDQwUUthZGJSLXdKY2w0RFhJVjIyU0FWWHNEODBKX2gwalRHRHFxZ0lOcGpiamtNTHZ3SmthS1p6dlh2TkM0OWdZVjBuUXE3SThnaWdGNFk2cEdvLU4ycUlqeWFzai1VTU5ncW1kSVRDMw?oc=5",
-        "date": "2026-10-22T07:09:00.000Z"
-      },
-      {
-        "name": "Guardian World",
-        "url": "https://www.theguardian.com/australia-news/2026/oct/22/beau-lamarre-condon-trial-mcdonalds-cctv-ntwnfb",
-        "date": "2026-10-22T07:07:54.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZVgyU3dEVm55RnZxSHRCV05XM0NWX05Dbll5Z1BzbkpnQ0hGWnFRMnlrcGM0UG5tSklPeDQwUUthZGJSLXdKY2w0RFhJVjIyU0FWWHNEODBKX2gwalRHRHFxZ0lOcGpiamtNTHZ3SmthS1p6dlh2TkM0OWdZVjBuUXE3SThnaWdGNFk2cEdvLU4ycUlqeWFzai1VTU5ncW1kSVRDMw?oc=5",
-    "agree": "Beide Quellen stimmen überein, dass der angeklagte Polizist Beau Lamarre-Condon auf Überwachungsvideos in einem mutmaßlich für die Leichenbeseitigung genutzten Van an einem McDonald's-Drive-Thru gezeigt wurde.",
-    "diff": [
-      {
-        "name": "Guardian World",
-        "note": "Berichtet zusätzlich detailliert darüber, dass die CCTV-Aufnahmen den Angeklagten auch bei Besuchen eines Krankenhauses sowie in drei verschiedenen Filialen der Baumarktkette Bunnings zeigen und nennt die Namen der mutmaßlichen Opfer Jesse Baird und Luk."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-70432561ee745cd8",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-22T06:59:36.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "CDU-Abgeordneter Heuer stellt sich in Sachsen-Anhalt gegen Fraktionslinie",
-    "s": "In Sachsen-Anhalt kündigt der CDU-Politiker Guido Heuer an, bei der Wahl des AfD-Politikers Ulrich Siegmund im Plenarsaal zu bleiben. Damit stellt er sich offen gegen die Haltung seiner Fraktion. Wen er konkret wählen wird, ließ der Abgeordnete bislang offen.",
-    "m": "Der CDU-Abgeordnete Guido Heuer hat angekündigt, entgegen der Linie seiner Fraktion an der anstehenden Ministerpräsidentenwahl im Saal teilzunehmen. Bei der Abstimmung steht unter anderem der AfD-Politiker Ulrich Siegmund zur Wahl. Ob Heuer seine Stimme für Siegmund abgeben oder sich anders verhalten wird, ist zum aktuellen Zeitpunkt noch unklar. Die Entscheidung des Politikers sorgt für innerparteiliche Spannungen, da sich die CDU-Fraktion bislang klar gegen eine Beteiligung oder Unterstützung von AfD-Kandidaten positioniert hat. Die Situation wirft Fragen zur geschlossenen Haltung der regierenden Kräfte im Landesparlament auf. Weitere Details zum genauen Ablauf der Wahl und den Reaktionen der Parteispitze stehen noch aus.",
-    "r": "Der Vorgang ist relevant, weil ein Bruch der Fraktionsdisziplin in einer heiklen Abstimmung mit AfD-Beteiligung im Landesparlament droht. Die Entscheidung betrifft die politische Stabilität und das Abstimmungsverhalten innerhalb der regierenden CDU in Sachsen-Anhalt.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUFJHWUkzZTRqVHM5aEczSEpNcE5zb1JjTTU0ZGcwU191Ykt3RG5PSm9LT1VNVUZMRnRxTkYyLS0ycWdaSkE0dFktMmV5R3NFbWl5N2g4MThjeW50S0tic1YzSHRzR01QNkFSS2NURDZlbTlfWFg1Ynl3Y2Rtc2ktelFoWWR6TmNQdDlwYW44a0dhT3NnY1B4RG1Wb2ZCbklmQUhwUmdPTWxJdEpQd2M2T0lzR2d3UU9BU3JWVXVvc3Y?oc=5",
-        "date": "2026-10-22T06:59:36.000Z"
-      },
-      {
-        "name": "ZEIT ONLINE",
-        "url": "https://www.zeit.de/politik/deutschland/2026-10/guido-heuer-cdu-sachsen-anhalt-ulrich-siegmund-ministerpraesidentenwahl-gxe",
-        "date": "2026-10-22T06:59:36.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUFJHWUkzZTRqVHM5aEczSEpNcE5zb1JjTTU0ZGcwU191Ykt3RG5PSm9LT1VNVUZMRnRxTkYyLS0ycWdaSkE0dFktMmV5R3NFbWl5N2g4MThjeW50S0tic1YzSHRzR01QNkFSS2NURDZlbTlfWFg1Ynl3Y2Rtc2ktelFoWWR6TmNQdDlwYW44a0dhT3NnY1B4RG1Wb2ZCbklmQUhwUmdPTWxJdEpQd2M2T0lzR2d3UU9BU3JWVXVvc3Y?oc=5",
-    "agree": "Die Quellen stimmen überein, dass der CDU-Abgeordnete Guido Heuer bei der Ministerpräsidentenwahl im Saal bleiben will.",
-    "diff": [
-      {
-        "name": "Google News DE",
-        "note": "Bringt die Kurzmeldung, dass ein CDU-Abgeordneter bei der Ministerpräsidentenwahl im Saal bleiben will, mit Verweis auf DIE ZEIT."
-      },
-      {
-        "name": "ZEIT ONLINE",
-        "note": "Liefert die Zusatzinformation, dass es sich um den CDU-Politiker Guido Heuer handelt, der sich gegen seine Fraktion stellt und die Wahl des AfD-Politikers Ulrich Siegmund betrifft, wobei er seine Stimmabgabe offenlässt."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-a2c1b2e83cf6cb51",
-    "c": "INT",
-    "o": "DE",
-    "k": "sport",
-    "lang": "de",
-    "d": "2026-10-22T06:54:06.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "FC Bayern und Arsenal trennen sich Remis im Champions-League-Spiel",
-    "s": "Der FC Bayern München hat in der Champions League gegen den FC Arsenal ein Unentschieden erzielt. Trotz einer personellen Notlage und einer stark veränderten Mannschaftsaufstellung sah es lange nach einem Sieg für die Münchner aus. Maßgeblich dafür verantwortlich war Stürmer Harry Kane, der eine ungewohnt flexible Rolle einnahm. Das Spiel wirft jedoch Fragen zur Kadertiefe des deutschen Rekordmeisters auf.",
-    "m": "Im Champions-League-Duell gegen den FC Arsenal trat der FC Bayern München aufgrund von Ausfällen wichtiger Spieler in einer Notoffensive an. Stürmer Harry Kane interpretierte seine Position dabei so radikal wie selten zuvor: Er agierte als Positionswechsler, beteiligte sich am Spielaufbau, schoss Abstöße und spielte präzise Pässe. Trotz dieser personellen Engpässe führten die Münchner lange Zeit und hatten den Sieg vor Augen, ehe das Spiel mit einem Remis endete. Beide Berichte heben hervor, dass Kane zwar glänzte und die Mannschaft trug, dies jedoch auf Dauer keine alleinige Lösung sein kann. Das Spiel offenbart bei den Bayern Sorgen hinsichtlich der Kadertiefe, da das Fehlen von Schlüsselspielern das Team stark belastet und der Erfolg stark von einzelnen Akteuren abhängt.",
-    "r": "Das sportliche Abschneiden und die personliche Situation des FC Bayern München in der Champions League sind von allgemeinem sportlichem Interesse. Die Partie verdeutlicht die Abhängigkeit des Teams von einzelnen Leistungsträgern bei gleichzeitig dünner Kadertiefe.",
-    "srcs": [
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/sport/champions-league-der-fc-bayern-wird-gegen-den-fc-arsenal-zum-harry-kane-team-W5ESDNEBDJDRVFKHYROPDR27NY.html",
-        "date": "2026-10-22T06:54:06.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-in-der-champions-league-harry-kane-glaenzt-bei-remis-gegen-fc-arsenal-a-42ef91ab-056e-4fc8-87b1-d14f147d090d#ref=rss",
-        "date": "2026-10-21T21:43:00.000Z"
-      }
-    ],
-    "url": "https://www.rnd.de/sport/champions-league-der-fc-bayern-wird-gegen-den-fc-arsenal-zum-harry-kane-team-W5ESDNEBDJDRVFKHYROPDR27NY.html",
-    "agree": "Beide Quellen stimmen überein, dass der FC Bayern in einem Champions-League-Spiel gegen den FC Arsenal trotz einer personellen Notsituation und fehlender Stammspieler ein Unentschieden erreichte, bei dem Harry Kane eine herausragende und spielprägende Rolle ei",
-    "diff": [
-      {
-        "name": "RND",
-        "note": "Berichtet detaillierter über Kanes radikale Rolle als Positionswechsler, der sogar Abstöße schoss und Traumpässe spielte, und merkt an, dass Kane die Münchner auf Dauer nicht alleine tragen kann."
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "Führt aus, dass es trotz der Notoffensive dank Allzweckwaffe Harry Kane lange nach einem Sieg aussah, und betont explizit die Sorgen um die Kadertiefe der Münchner."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-5013558dce242c34",
-    "c": "INT",
-    "o": "DE",
-    "k": "sport",
-    "lang": "de",
-    "d": "2026-10-22T06:35:00.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Manchester United blamiert sich gegen Como und verstärkt Druck auf Carrick",
-    "s": "Manchester United hat eine deutliche Niederlage gegen den Champions-League-Neuling AC Como hinnehmen müssen. Nach einer schwachen Leistung wächst der Druck auf Trainer Michael Carrick massiv. Beide Medien berichten übereinstimmend über das schwere Debakel.",
-    "m": "Manchester United hat auswärts eine empfindliche 1:4-Niederlage gegen den Champions-League-Neuling AC Como einstecken müssen. Die Mannschaft zeigte dabei eine erschreckend schwache Leistung und zerstörte sich nach Ansicht von Experten selbst. Die Enttäuschung im Umfeld und die heftige Kritik, unter anderem vom Experten Carragher, spiegeln die tiefe Krise des Traditionsklubs wider. Trainer Michael Carrick gerät nach diesem Rückschlag noch stärker in die Kritik. Neben dem Spiel von Manchester United meldet das RND zudem, dass Aston Villa mit Leon Goretzka in der Champions League makellos bleibt.",
-    "r": "Die Niederlage eines europäischen Topklubs gegen einen Neuling ist sportlich relevant und zeigt die Krise von Manchester United auf. Zudem verändern die Ergebnisse die Ausgangslage in der Champions League.",
-    "srcs": [
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/sport/fussball/Julian-Nagelsmann-zu-Manchester-United-Blamierter-Fussball-Gigant-droht-krachend-zu-zerbersten-id31444875.html",
-        "date": "2026-10-22T06:35:00.000Z"
-      },
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/sport/champions-league-como-schlaegt-manchester-united-4-1-druck-auf-trainer-carrick-waechst-VL4C7ETQR5HBZD7FP7MGXGNJKA.html",
-        "date": "2026-10-21T21:20:49.000Z"
-      }
-    ],
-    "url": "https://www.n-tv.de/sport/fussball/Julian-Nagelsmann-zu-Manchester-United-Blamierter-Fussball-Gigant-droht-krachend-zu-zerbersten-id31444875.html",
-    "agree": "Die Quellen sind sich einig, dass Manchester United deutlich gegen den Champions-League-Neuling AC Como verloren hat und der Druck auf Trainer Michael Carrick wächst.",
-    "diff": [
-      {
-        "name": "ntv",
-        "note": "Berichtet emotionaler über die 'Blamage, Zoff, Scham' und zitiert Carragher, der von einer 'Schande' spricht."
-      },
-      {
-        "name": "RND",
-        "note": "Nennt das genaue Spielergebnis (4:1), nennt den Vornamen des Trainers (Michael Carrick) und erwähnt zusätzlich, dass Aston Villa um Leon Goretzka makellos bleibt."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-cc93e50052a49cb9",
-    "c": "INT",
-    "o": "INT",
-    "k": "sport",
-    "lang": "de",
-    "d": "2026-10-22T06:13:33.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Como besiegt Manchester United im Champions-League-Spiel mit 4:1",
-    "s": "Manchester United hat in der Champions League eine deutliche Niederlage erlitten. Unter Trainer Michael Carrick unterlag das Team dem italienischen Verein Como mit 1:4. Für Manchester United verlängert sich damit die Serie siegloser Spiele in allen Wettbewerben auf sieben Partien.",
-    "m": "Das Champions-League-Spiel am Mittwochabend endete in einer klaren Niederlage für Manchester United gegen die von Cesc Fàbregas trainierte Mannschaft aus Como. Maßgeblich für den Erfolg der Italiener war Nico Paz, der zwei Treffer erzielte und maßgeblich zum 4:1-Endstand beitrug. Manchester United zeigte eine enttäuschende Leistung und blieb auch im siebten Spiel in Folge sieglos. Como trat in der Partie dominant auf und ließ dem englischen Gegner keine Chance. Details zum genauen zeitlichen Ablauf der Tore oder weiteren Torschützen gehen aus den Berichten nicht hervor. Für Manchester United bedeutet dieses Ergebnis eine weitere sportliche Krise in der laufenden Saison.",
-    "r": "Die Partie zeigt die anhaltende sportliche Krise von Manchester United unter Trainer Michael Carrick und den Erfolg des von Cesc Fàbregas trainierten Como in der Champions League.",
-    "srcs": [
-      {
-        "name": "France24 English",
-        "url": "https://www.france24.com/en/tv-shows/sports/20261022-manchester-united-blown-out-of-the-water-by-como-in-champions-league-rout",
-        "date": "2026-10-22T06:13:33.000Z"
-      },
-      {
-        "name": "Guardian Sport",
-        "url": "https://www.theguardian.com/football/live/2026/oct/21/como-v-manchester-united-champions-league-live",
-        "date": "2026-10-21T19:20:14.000Z"
-      }
-    ],
-    "url": "https://www.france24.com/en/tv-shows/sports/20261022-manchester-united-blown-out-of-the-water-by-como-in-champions-league-rout",
-    "agree": "Die Quellen stimmen überein, dass Como Manchester United in der Champions League mit 4:1 besiegt hat.",
-    "diff": [
-      {
-        "name": "France24 English",
-        "note": "Berichtet, dass Michael Carricks Mannschaft nun seit sieben Pflichtspielen sieglos ist und nennt Nico Paz als doppelten Torschützen."
-      },
-      {
-        "name": "Guardian Sport",
-        "note": "Erwähnt Cesc Fàbregas als Trainer von Como, beschreibt die Leistung als komplett dominant und schildert Beobachtungen vom Spielfeldrand vor dem Anpfiff."
       }
     ],
     "chg": "",
