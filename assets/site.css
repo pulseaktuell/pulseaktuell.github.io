@@ -70,7 +70,7 @@ html[data-theme="light"], html[data-theme="dark"], :root:not([data-theme]) {
 
 /* Secondary pages use the homepage palette and spacing without changing
    the homepage's news-feed-specific layout. */
-body:not(:has(#feed)) {
+body:has(.nav):not(:has(#feed)) {
   background: var(--pulse-bg, var(--bg));
   color: var(--pulse-label, var(--label));
   font-family: var(--pulse-font);
@@ -78,15 +78,15 @@ body:not(:has(#feed)) {
   letter-spacing: -.011em;
   min-height: 100vh;
 }
-body:not(:has(#feed)) .wrap,
-body:not(:has(#feed)) main.wrap,
-body:not(:has(#feed)) main:not(.wrap) {
+body:has(.nav):not(:has(#feed)) .wrap,
+body:has(.nav):not(:has(#feed)) main.wrap,
+body:has(.nav):not(:has(#feed)) main:not(.wrap) {
   width: min(calc(100% - 32px), 1120px);
   max-width: 1120px;
   margin-inline: auto;
   padding-bottom: 48px;
 }
-body:not(:has(#feed)) .nav {
+body:has(.nav):not(:has(#feed)) .nav {
   position: sticky;
   top: 0;
   left: auto;
@@ -105,17 +105,17 @@ body:not(:has(#feed)) .nav {
   border-bottom: .5px solid var(--pulse-separator, var(--sep));
   box-shadow: none;
 }
-body:not(:has(#feed)) .nav > img,
-body:not(:has(#feed)) .nav > .brand {
+body:has(.nav):not(:has(#feed)) .nav > img,
+body:has(.nav):not(:has(#feed)) .nav > .brand {
   position: absolute;
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
   margin: 0;
 }
-body:not(:has(#feed)) .nav > img { display: block; width: 88px; max-height: 30px; height: auto; object-fit: contain; }
-body:not(:has(#feed)) .nav > .brand img { display: block; width: 88px; max-height: 30px; height: auto; object-fit: contain; }
-body:not(:has(#feed)) .nav .back {
+body:has(.nav):not(:has(#feed)) .nav > img { display: block; width: 88px; max-height: 30px; height: auto; object-fit: contain; }
+body:has(.nav):not(:has(#feed)) .nav > .brand img { display: block; width: 88px; max-height: 30px; height: auto; object-fit: contain; }
+body:has(.nav):not(:has(#feed)) .nav .back {
   position: relative;
   z-index: 1;
   display: inline-flex;
@@ -129,8 +129,8 @@ body:not(:has(#feed)) .nav .back {
   font: 650 13px/1 var(--pulse-font);
   text-decoration: none;
 }
-body:not(:has(#feed)) .nav .back:hover { text-decoration: underline; }
-body:not(:has(#feed)) .nav > .pulse-settings-toggle {
+body:has(.nav):not(:has(#feed)) .nav .back:hover { text-decoration: underline; }
+body:has(.nav):not(:has(#feed)) .nav > .pulse-settings-toggle {
   position: absolute !important;
   right: 12px !important;
   top: 50% !important;
@@ -143,12 +143,12 @@ body:not(:has(#feed)) .nav > .pulse-settings-toggle {
   color: var(--pulse-muted, var(--label2));
   box-shadow: none;
 }
-body:not(:has(#feed)) .head {
+body:has(.nav):not(:has(#feed)) .head {
   padding: 28px 4px 18px;
 }
-body:not(:has(#feed)) .head h1,
-body:not(:has(#feed)) article > h1,
-body:not(:has(#feed)) main > h1 {
+body:has(.nav):not(:has(#feed)) .head h1,
+body:has(.nav):not(:has(#feed)) article > h1,
+body:has(.nav):not(:has(#feed)) main > h1 {
   margin: 0 0 8px;
   color: var(--pulse-label, var(--label));
   font-size: clamp(30px, 5vw, 34px);
@@ -157,15 +157,15 @@ body:not(:has(#feed)) main > h1 {
   letter-spacing: -.03em;
   text-wrap: balance;
 }
-body:not(:has(#feed)) .head p {
+body:has(.nav):not(:has(#feed)) .head p {
   max-width: 760px;
   margin: 0;
   color: var(--pulse-muted, var(--label2, var(--muted)));
   font-size: 14px;
   line-height: 1.55;
 }
-body:not(:has(#feed)) .card,
-body:not(:has(#feed)) article:not(.nav) {
+body:has(.nav):not(:has(#feed)) .card,
+body:has(.nav):not(:has(#feed)) article:not(.nav) {
   margin: 12px 0;
   padding: 20px;
   border: 0;
@@ -174,8 +174,8 @@ body:not(:has(#feed)) article:not(.nav) {
   color: var(--pulse-label, var(--label, var(--text)));
   box-shadow: var(--pulse-shadow, var(--shadow, 0 1px 2px rgba(0,0,0,.04), 0 6px 18px -10px rgba(0,0,0,.18))), inset 0 0 0 .5px var(--pulse-separator, var(--sep, transparent));
 }
-body:not(:has(#feed)) .card h2,
-body:not(:has(#feed)) article h2 {
+body:has(.nav):not(:has(#feed)) .card h2,
+body:has(.nav):not(:has(#feed)) article h2 {
   margin: 0 0 7px;
   color: var(--pulse-label, var(--label, var(--text)));
   font-size: 19px;
@@ -183,24 +183,24 @@ body:not(:has(#feed)) article h2 {
   font-weight: 750;
   letter-spacing: -.015em;
 }
-body:not(:has(#feed)) .card p,
-body:not(:has(#feed)) article p,
-body:not(:has(#feed)) .note {
+body:has(.nav):not(:has(#feed)) .card p,
+body:has(.nav):not(:has(#feed)) article p,
+body:has(.nav):not(:has(#feed)) .note {
   color: var(--pulse-muted, var(--label2, var(--muted)));
   font-size: 14.5px;
   line-height: 1.55;
 }
-body:not(:has(#feed)) .card p:last-child,
-body:not(:has(#feed)) article p:last-child { margin-bottom: 0; }
-body:not(:has(#feed)) a:not(.back) { color: var(--pulse-tint, var(--tint, var(--link))); }
-body:not(:has(#feed)) button:focus-visible,
-body:not(:has(#feed)) a:focus-visible,
-body:not(:has(#feed)) input:focus-visible,
-body:not(:has(#feed)) select:focus-visible {
+body:has(.nav):not(:has(#feed)) .card p:last-child,
+body:has(.nav):not(:has(#feed)) article p:last-child { margin-bottom: 0; }
+body:has(.nav):not(:has(#feed)) a:not(.back) { color: var(--pulse-tint, var(--tint, var(--link))); }
+body:has(.nav):not(:has(#feed)) button:focus-visible,
+body:has(.nav):not(:has(#feed)) a:focus-visible,
+body:has(.nav):not(:has(#feed)) input:focus-visible,
+body:has(.nav):not(:has(#feed)) select:focus-visible {
   outline: 3px solid color-mix(in srgb, var(--pulse-tint, var(--tint)) 60%, transparent);
   outline-offset: 2px;
 }
-body:not(:has(#feed)) .foot {
+body:has(.nav):not(:has(#feed)) .foot {
   margin: 28px 0 0;
   padding: 16px 4px 0;
   border-top: 1px solid var(--pulse-separator, var(--sep));
@@ -208,60 +208,60 @@ body:not(:has(#feed)) .foot {
   font-size: 12px;
   text-align: center;
 }
-body:not(:has(#feed)) .foot a { color: var(--pulse-tint, var(--tint)); text-decoration: none; }
-body:not(:has(#feed)) .pulse-settings-panel {
+body:has(.nav):not(:has(#feed)) .foot a { color: var(--pulse-tint, var(--tint)); text-decoration: none; }
+body:has(.nav):not(:has(#feed)) .pulse-settings-panel {
   z-index: 30;
   background: var(--pulse-card, var(--card));
   color: var(--pulse-label, var(--label));
   box-shadow: var(--pulse-shadow, var(--shadow)), inset 0 0 0 .5px var(--pulse-separator, var(--sep));
 }
-body:not(:has(#feed)) .pulse-settings-panel button {
+body:has(.nav):not(:has(#feed)) .pulse-settings-panel button {
   background: var(--pulse-fill, var(--fill));
   color: var(--pulse-muted, var(--label2));
 }
 
 /* Desktop header and content rhythm match the homepage's wide layout. */
 @media (min-width: 900px) {
-  body:not(:has(#feed)) .wrap,
-  body:not(:has(#feed)) main.wrap,
-  body:not(:has(#feed)) main:not(.wrap) {
+  body:has(.nav):not(:has(#feed)) .wrap,
+  body:has(.nav):not(:has(#feed)) main.wrap,
+  body:has(.nav):not(:has(#feed)) main:not(.wrap) {
     width: min(calc(100% - 64px), 1120px);
     max-width: 1120px;
     padding-bottom: 56px;
   }
-  body:not(:has(#feed)) .nav {
+  body:has(.nav):not(:has(#feed)) .nav {
     height: 76px;
     margin-left: calc(50% - 50vw);
     padding-inline: max(32px, calc((100vw - 1360px) / 2));
   }
-  body:not(:has(#feed)) .nav > img,
-  body:not(:has(#feed)) .nav > .brand img { width: 126px; max-height: 44px; }
-  body:not(:has(#feed)) .nav .back { min-height: 40px; font-size: 13px; }
-  body:not(:has(#feed)) .nav > .pulse-settings-toggle { right: max(32px, calc((100vw - 1360px) / 2)) !important; width: 40px !important; height: 40px !important; }
-  body:not(:has(#feed)) .head { padding: 42px 0 24px; }
-  body:not(:has(#feed)) .head h1,
-  body:not(:has(#feed)) article > h1,
-  body:not(:has(#feed)) main > h1 { font-size: clamp(36px, 4vw, 44px); }
-  body:not(:has(#feed)) .card,
-  body:not(:has(#feed)) article:not(.nav) { padding: 26px; border-radius: 14px; }
-  body:not(:has(#feed)) .card h2,
-  body:not(:has(#feed)) article h2 { font-size: 20px; }
-  body:not(:has(#feed)) .card p,
-  body:not(:has(#feed)) article p { font-size: 15px; line-height: 1.65; }
-  body:not(:has(#feed)) .pulse-settings-panel { position: fixed; top: 66px; right: max(32px, calc((100vw - 1360px) / 2)); width: min(420px, calc(100vw - 48px)); max-height: calc(100vh - 90px); overflow: auto; border-radius: 18px; }
+  body:has(.nav):not(:has(#feed)) .nav > img,
+  body:has(.nav):not(:has(#feed)) .nav > .brand img { width: 126px; max-height: 44px; }
+  body:has(.nav):not(:has(#feed)) .nav .back { min-height: 40px; font-size: 13px; }
+  body:has(.nav):not(:has(#feed)) .nav > .pulse-settings-toggle { right: max(32px, calc((100vw - 1360px) / 2)) !important; width: 40px !important; height: 40px !important; }
+  body:has(.nav):not(:has(#feed)) .head { padding: 42px 0 24px; }
+  body:has(.nav):not(:has(#feed)) .head h1,
+  body:has(.nav):not(:has(#feed)) article > h1,
+  body:has(.nav):not(:has(#feed)) main > h1 { font-size: clamp(36px, 4vw, 44px); }
+  body:has(.nav):not(:has(#feed)) .card,
+  body:has(.nav):not(:has(#feed)) article:not(.nav) { padding: 26px; border-radius: 14px; }
+  body:has(.nav):not(:has(#feed)) .card h2,
+  body:has(.nav):not(:has(#feed)) article h2 { font-size: 20px; }
+  body:has(.nav):not(:has(#feed)) .card p,
+  body:has(.nav):not(:has(#feed)) article p { font-size: 15px; line-height: 1.65; }
+  body:has(.nav):not(:has(#feed)) .pulse-settings-panel { position: fixed; top: 66px; right: max(32px, calc((100vw - 1360px) / 2)); width: min(420px, calc(100vw - 48px)); max-height: calc(100vh - 90px); overflow: auto; border-radius: 18px; }
 }
 @media (max-width: 480px) {
-  body:not(:has(#feed)) .wrap,
-  body:not(:has(#feed)) main.wrap,
-  body:not(:has(#feed)) main:not(.wrap) { width: calc(100% - 24px); padding-bottom: 36px; }
-  body:not(:has(#feed)) .card,
-  body:not(:has(#feed)) article:not(.nav) { padding: 17px; border-radius: 14px; }
-  body:not(:has(#feed)) .head { padding-top: 24px; }
-  body:not(:has(#feed)) .nav { padding-inline: 12px; }
-  body:not(:has(#feed)) .nav > .pulse-settings-toggle { right: 10px !important; }
+  body:has(.nav):not(:has(#feed)) .wrap,
+  body:has(.nav):not(:has(#feed)) main.wrap,
+  body:has(.nav):not(:has(#feed)) main:not(.wrap) { width: calc(100% - 24px); padding-bottom: 36px; }
+  body:has(.nav):not(:has(#feed)) .card,
+  body:has(.nav):not(:has(#feed)) article:not(.nav) { padding: 17px; border-radius: 14px; }
+  body:has(.nav):not(:has(#feed)) .head { padding-top: 24px; }
+  body:has(.nav):not(:has(#feed)) .nav { padding-inline: 12px; }
+  body:has(.nav):not(:has(#feed)) .nav > .pulse-settings-toggle { right: 10px !important; }
 }
 @media (prefers-reduced-motion: reduce) {
-  body:not(:has(#feed)) *, body:not(:has(#feed)) *::before, body:not(:has(#feed)) *::after {
+  body:has(.nav):not(:has(#feed)) *, body:has(.nav):not(:has(#feed)) *::before, body:has(.nav):not(:has(#feed)) *::after {
     scroll-behavior: auto !important;
     animation-duration: .01ms !important;
     animation-iteration-count: 1 !important;
