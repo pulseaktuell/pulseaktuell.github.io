@@ -1,5 +1,244 @@
 [
   {
+    "id": "story-fa22d9196415a0a0",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-24T09:10:58.000Z",
+    "p": 3,
+    "st": "BY",
+    "city": "",
+    "t": "Starlink-Satelliteninternet in der Ukraine läuft nach Störung wieder stabil",
+    "s": "Das für die ukrainische Flugabwehr wichtige US-Satelliteninternet Starlink funktioniert laut dem Verteidigungsministerium in der Ukraine wieder. Zuvor war es nach Angaben von RND tagelang gedrosselt worden. Beide kriegführenden Parteien bestätigten zudem eine lokale Waffenruhe in der Stadt Oleschky.",
+    "m": "Die Ukraine wehrt sich seit über vier Jahren gegen den russischen Angriffskrieg, während bisherige Friedensbemühungen erfolglos blieben. In diesem Kontext spielt das Satelliteninternet Starlink eine zentrale Rolle für die ukrainische Flugabwehr. Nach einer tagelangen Drosselung läuft der Dienst laut dem dortigen Verteidigungsministerium nun wieder stabil. Unabhängig davon haben sowohl Russland als auch die Ukraine eine lokale Waffenruhe in der Stadt Oleschky bestätigt. Weitere Details zu den Gründen der Drosselung oder den genauen Hintergründen der Waffenruhe in Oleschky gehen aus den Berichten nicht hervor.",
+    "r": "Die Wiederherstellung des militärisch wichtigen Satelliteninternets Starlink in der Ukraine sowie die vereinbarte lokale Waffenruhe in Oleschky sind zentrale Entwicklungen im laufenden Konflikt. Sie beeinflussen sowohl die ukrainische Verteidigungsfähigkeit als auch die lokale Situation im Kriegsgebiet.",
+    "srcs": [
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/politik/ukraine-news-im-ticker-starlink-laeuft-nach-tagelanger-drosselung-wieder-stabil-in-der-ukraine-HE2HCGE6JQFTFWLUN43NO5POI4.html",
+        "date": "2026-10-24T09:10:58.000Z"
+      },
+      {
+        "name": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/russland-ukraine-krieg-im-news-ticker-vom-19-bis-25-oktober-2026,VYUQcIF",
+        "date": "2026-10-24T09:08:48.000Z"
+      }
+    ],
+    "url": "https://www.rnd.de/politik/ukraine-news-im-ticker-starlink-laeuft-nach-tagelanger-drosselung-wieder-stabil-in-der-ukraine-HE2HCGE6JQFTFWLUN43NO5POI4.html",
+    "agree": "Die Quellen sind sich einig, dass das US-Satelliteninternet Starlink in der Ukraine wieder läuft.",
+    "diff": [
+      {
+        "name": "RND",
+        "note": "Berichtet, dass Starlink zuvor tagelang gedrosselt wurde und erwähnt den seit mehr als vier Jahren andauernden Angriffskrieg sowie erfolglose Friedensbemühungen."
+      },
+      {
+        "name": "BR24 Bayern",
+        "note": "Erwähnt, dass Starlink laut Verteidigungsministerium für die Flugabwehr wichtig ist und berichtet zusätzlich über die von Russland und der Ukraine bestätigte lokale Waffenruhe in Oleschky."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-58fb8ef5c6ccf74c",
+    "c": "DE",
+    "o": "DE",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-24T09:05:00.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Bayern-Trainer Vincent Kompany nach Zusammenbruch im Krankenhaus",
+    "s": "Nach dem Zusammenbruch von Bayern-Coach Vincent Kompany gibt es vorsichtige Entwarnung. Sein Zustand ist stabil, er muss jedoch weiter in einer Klinik bleiben. Die Ursache für den medizinischen Vorfall ist derzeit noch unklar. Dem FC Bayern wird der Trainer voraussichtlich mehrere Wochen fehlen.",
+    "m": "Nach dem Zusammenbruch des Trainers Vincent Kompany hat der FC Bayern Entwarnung gegeben, während die Ärzte weiterhin nach der Ursache für den Vorfall suchen. Der Coach befindet sich in stabiler Verfassung, wird laut Angaben aber noch einige Tage in der Klinik verbleiben müssen. Sportvorstand Max Eberl äußerte sich zu dem Ausfall und betonte, dass der Trainer alle benötigte Zeit bekommen werde. Aufgrund des Vorfalls wird Kompany der Mannschaft in den kommenden Wochen als Trainer fehlen. Konkrete medizinische Diagnosen oder Hintergründe wurden von den beteiligten Quellen bisher nicht genannt. Der genaue Zeitpunkt seiner Rückkehr auf den Trainingsplatz bleibt vorerst offen.",
+    "r": "Der gesundheitsbedingte und wochenlange Ausfall des Cheftrainers betrifft einen der prominentesten Fußballvereine Deutschlands unmittelbar und hat sportliche Konsequenzen für den Spielbetrieb. Die Meldung ist von öffentlichem Interesse im Bereich des Profisports.",
+    "srcs": [
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/sport/fussball/vincent-kompany--bayern-coach-bleibt-nach-kollaps-in-klinik-38444614.html",
+        "date": "2026-10-24T09:05:00.000Z"
+      },
+      {
+        "name": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/vincent-kompanys-zustand-stabil-fc-bayern-gibt-vorsichtige-entwarnung-accg-201617577.html",
+        "date": "2026-10-24T08:59:14.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/sport/fussball/Kollabierter-Kompany-fehlt-dem-FC-Bayern-wochenlang-id31453696.html",
+        "date": "2026-10-24T08:44:00.000Z"
+      },
+      {
+        "name": "Rheinische Post",
+        "url": "https://rp-online.de/sport/fussball/bayern-muenchen/kompany-in-stabilem-zustand-bayern-coach-bleibt-aber-weiter-in-klinik_aid-157125373",
+        "date": "2026-10-24T08:22:00.000Z"
+      }
+    ],
+    "url": "https://www.stern.de/sport/fussball/vincent-kompany--bayern-coach-bleibt-nach-kollaps-in-klinik-38444614.html",
+    "agree": "Alle Quellen sind sich einig, dass es nach dem Zusammenbruch von Bayern-Coach Vincent Kompany eine vorsichtige Entwarnung gibt, sein Zustand stabil ist, er vorerst in der Klinik bleiben muss und die Ursache unklar ist.",
+    "diff": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "note": "Erwähnt zusätzlich die Aussage von Sportvorstand Max Eberl, dass Kompany alle Zeit bekommen werde, und dass Eberl mit einer längeren Ausfallzeit rechnet."
+      },
+      {
+        "name": "ntv",
+        "note": "Führt aus, dass Ärzte nach der Ursache suchen und der Coach dem FC Bayern wochenlang fehlt."
+      }
+    ],
+    "chg": "",
+    "independent": 4
+  },
+  {
+    "id": "story-d683fb9348b4822a",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-24T08:54:51.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Sommerzeit endet: Uhren werden um eine Stunde zurückgestellt",
+    "s": "In der kommenden Nacht endet die Sommerzeit und die Uhren werden um eine Stunde von 3:00 auf 2:00 Uhr zurückgestellt. Viele Menschen sehen der Zeitumstellung kritisch entgegen. Dennoch bringt sie in der ersten Nacht für viele eine zusätzliche Stunde Schlaf.",
+    "m": "Die Uhrenumstellung von der Sommerzeit zur Normalzeit erfolgt in dieser Nacht um 3:00 Uhr, indem die Zeit um eine Stunde zurückgestellt wird. Während einige einen zeitweiligen Vorteil beim Schlaf gewinnen, sind Umfragen zufolge die meisten Menschen mit der dauerhaften Regelung unzufrieden. Neben dem vermeintlichen Gewinn an Schlaf führen Kritiker und Mediziner verschiedene negative gesundheitliche Begleiterscheinungen an. Dazu zählen körperliche Beschwerden wie Migräne und Konzentrationsprobleme. Darüber hinaus weisen Beobachtungen auf ein höheres Schlaganfallrisiko im zeitlichen Umfeld der Umstellung hin.",
+    "r": "Die Umstellung der Uhrzeit betrifft den Alltag und die Gesundheit eines Großteils der Bevölkerung direkt. Medizinisches Risiko und allgemeine Unzufriedenheit machen das wiederkehrende Ereignis gesellschaftlich relevant.",
+    "srcs": [
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-sommerzeit-138.html",
+        "date": "2026-10-24T08:54:51.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/wissen/Es-wird-wieder-an-der-Uhr-gedreht-id31448195.html",
+        "date": "2026-10-24T04:11:33.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-sommerzeit-138.html",
+    "agree": "Beide Quellen berichten übereinstimmend, dass die Sommerzeit endet und die Uhren um eine Stunde zurückgestellt werden.",
+    "diff": [
+      {
+        "name": "Tagesschau",
+        "note": "Erwähnt, dass die meisten Menschen nicht zufrieden mit der Zeitumstellung sind und dies trotz der Vorteile in der ersten Nacht."
+      },
+      {
+        "name": "ntv",
+        "note": "Führt konkrete negative Begleiterscheinungen wie Migräne, Konzentrationsprobleme und ein höheres Schlaganfallrisiko an."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-948d83730abafaca",
+    "c": "INT",
+    "o": "PT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-24T08:53:47.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Letztes Rededuell zwischen Lula da Silva und Bolsonaro vor der Wahl",
+    "s": "Im letzten Fernsehduell vor den brasilianischen Präsidentschaftswahlen lieferten sich die Kandidaten Lula da Silva und Bolsonaro einen heftigen Schlagabtausch. Dabei standen die Verteidigung bisheriger Regierungsleistungen, Sicherheitsfragen und die Entwicklung der Lebenshaltungskosten im Mittelpunkt. Das Duell bildete den Abschluss der direkten Konfrontationen im Wahlkampf.",
+    "m": "Das letzte Duell vor den Präsidentschaftswahlen in Brasilien fand in der Nacht auf der Plattform von Rede Globo statt. Lula da Silva nutzte die Gelegenheit, um das politische Vermächtnis seiner früheren Regierungszeit zu betonen und zu verteidigen. Sein Kontrahent konzentrierte sich derweil thematisch stark auf das Thema Sicherheit sowie auf die Belastung durch die gestiegenen Lebenshaltungskosten. Die beiden Hauptakteure wechselten im Verlauf der Sendung zahlreiche schwere Anschuldigungen aus. Medienberichten zufolge stellten Beobachter nach der Veranstaltung die Frage, wer das Duell für sich entscheiden konnte. Konkrete Wahlergebnisse oder offizielle Reaktionen der Wählerschaft stehen nach diesem Abschlusskonfrontieren noch aus.",
+    "r": "Das finale Fernsehduell markiert den emotionalen Höhepunkt im Wahlkampf der beiden führenden brasilianischen Präsidentschaftskandidaten. Die inhaltlichen Schwerpunkte und gegenseitigen Vorwürfe prägen die verbleibende Phase vor der Stimmenabgabe.",
+    "srcs": [
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/mundo/lula-e-bolsonaro-trocam-acusacoes-no-ultimo-debate-eleitoral_n1773945",
+        "date": "2026-10-24T08:53:47.000Z"
+      },
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWnYwR3BvMjg5SUI3UWh6dl9NdURwZmtBNnNWbzdjVThFUE8zemZ5UnhoQkI5aWZROXRvTnliSy1EUDl1ZExaSnZqcGNCaWZxVU9MZThFcGZ4SlZMdmNPZ19ySTJpeERuX3Z2UlI2VDFPeGF5cHFOUmRNVDQxUXl0NU9wNWVHZTJmZ2RReTJ2aVRkdmdHc2tIR3FOMVQ3TWxiWkU5aExR?oc=5",
+        "date": "2026-10-24T08:24:25.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/mundo/lula-e-bolsonaro-trocam-acusacoes-no-ultimo-debate-eleitoral_n1773945",
+    "agree": "Beide Quellen stimmen überein, dass Lula da Silva und Bolsonaro im letzten Fernsehduell gegenseitig Anschuldigungen austauschten.",
+    "diff": [
+      {
+        "name": "Google News Portugal",
+        "note": "Erwähnt zusätzlich, dass das Duell vom Sender Globo ausgestrahlt wurde und wirft die Frage auf, wer gewonnen oder verloren hat."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-b40f225d2a385be4",
+    "c": "INT",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-24T08:27:08.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Energie-Entkoppelung: So abhängig ist Europa noch von Russland",
+    "s": "Nach dem Angriff auf die Ukraine hat Europa versucht, sich rasch von russischen Energieimporten unabhängig zu machen. Dies ist in einigen Bereichen gelungen, während in anderen weiterhin enge Bindungen bestehen. Vor allem bei Öl und Uran ist Europa weiterhin von Russland abhängig.",
+    "m": "Nach dem russischen Vollangriff auf die Ukraine war das erklärte Ziel Europas, die eigene Unabhängigkeit von russischen Energieimporten schnell voranzutreiben. Teilweise zeigen diese Bemühungen Wirkung und die Importe wurden reduziert. Dennoch bestehen vor allem bei bestimmten Rohstoffen wie Öl und Uran weiterhin alte Abhängigkeiten fort. Diese anhaltenden Verbindungen verdeutlichen die Herausforderungen bei der vollständigen Entkoppelung des europäischen Energiesektors von Russland. Die Berichterstattung beleuchtet die aktuelle Bilanz und die verbleibenden Schwachstellen in der europäischen Energieversorgung. Weitere Details zu spezifischen Liefermengen oder genauen Zeitplänen für einen vollständigen Ausstieg werden in den Quellen nicht genannt.",
+    "r": "Die Untersuchung der Energieabhängigkeit ist für die europäische Wirtschafts- und Sicherheitspolitik von großer Bedeutung. Sie zeigt auf, in welchen Bereichen trotz politischer Bemühungen weiterhin Versorgungsrisiken bestehen.",
+    "srcs": [
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/abhaengigkeit-russische-energie-100.html",
+        "date": "2026-10-24T08:27:08.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSk5ra1VoeDI1ZzJlYzI0aTd5RW9ZbGZPVUpORXV1VXJscHZ0NEFEeFdidmRyWTJRVTVUMFM4RGs2ck9lVXl5eVFQTVpuQmdhZWFEamZlX0FaaWxWZ3Z6LUhUOTdrcmF2cWVLaThsbjJDYTJaTlE0OUwtb3RFMllQWG10ZFJWbmxqRDduZU1JQ1ZkOHhuMFBF?oc=5",
+        "date": "2026-10-24T08:27:00.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/abhaengigkeit-russische-energie-100.html",
+    "agree": "Die Quellen stimmen überein, dass Europa nach dem Angriff auf die Ukraine eine Entkoppelung von russischer Energie angestrebt hat und dabei teils erfolgreich war, aber weiterhin Abhängigkeiten bestehen.",
+    "diff": [],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-1d495f9d837e2624",
+    "c": "INT",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-24T08:24:27.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Streit mit Zulieferer stoppt offenbar Produktion des Boeing-Frachters 777",
+    "s": "Beim Flugzeugbauer Boeing ruht Insidern zufolge derzeit die Produktion des Frachtflugzeugs 777. Grund für den Stillstand ist das Fehlen eines unverzichtbaren Bauteils für die Tragflächen aufgrund eines Lieferstopps. Der Konflikt mit dem betroffenen Zulieferer hat den Konzern dem Vernehmen nach bereits erhebliche Summen gekostet.",
+    "m": "Die Produktion des Boeing-Frachters 777 ist laut Insiderinformationen ins Stocken geraten, da ein essenzielles Bauteil für die Tragflächen nicht verfügbar ist. Auslöser ist ein heftiger Streit zwischen dem US-Flugzeugbauer und einem externen Zulieferer, der in einen Lieferstopp mündete. Branchenkreisen zufolge schlägt sich dieser Ausfall drastisch in den Finanzen nieder und kostet das Unternehmen täglich mehrere Millionen US-Dollar. Bislang ist unklar, wie lange der Disput andauern wird und wann mit einer Wiederaufnahme der Produktion zu rechnen ist. Der Vorfall trifft Boeing in einer ohnehin schwierigen Phase, in der Zuverlässigkeit und Lieferketten im Fokus stehen. Boeing hat sich zu den genauen Details des Frachter-Stopps und den Forderungen des Zulieferers zunächst nicht umfassend öffentlich geäußert. Die Auseinandersetzung verdeutlicht erneut die Anfälligkeit komplexer globaler Lieferketten in der Luftfahrtindustrie.",
+    "r": "Der Produktionsstopp eines wichtigen Frachtflugzeugmodells bei einem globalen Luftfahrtkonzern wie Boeing beeinträchtigt die Lieferfähigkeit und verursacht erhebliche finanzielle Schäden. Solche Engpässe haben oft weitreichende Auswirkungen auf die gesamte Branche und beteiligte Fluggesellschaften.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYmlFZ0FoSDZSZWt1M3ozbTN3NHhSTEl6QzRndW9XRGVXV0VPTHc2dDFUVjU3TFpYLTRYY3RCUXpXYnVORDJSSG4yUGF2THBpdjdReTl2QTVUWXExMlJvUlZTTXNmSmVpS2Qwa0FBaUlZMkJZMmtpMWJuX1FXeURaOElXeXB6dWZVUlM1NFU3ZzNsOUduTDAxbWQxbUlWVGdWbWtGNkdpWHdfY3FqMVp4RjdSSnFnazhYVzdva3hFSnk?oc=5",
+        "date": "2026-10-24T08:24:27.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/wirtschaft/Streit-mit-Zulieferer-legt-offenbar-Produktion-des-Boeing-Frachters-777-lahm-id31453633.html",
+        "date": "2026-10-24T08:24:27.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYmlFZ0FoSDZSZWt1M3ozbTN3NHhSTEl6QzRndW9XRGVXV0VPTHc2dDFUVjU3TFpYLTRYY3RCUXpXYnVORDJSSG4yUGF2THBpdjdReTl2QTVUWXExMlJvUlZTTXNmSmVpS2Qwa0FBaUlZMkJZMmtpMWJuX1FXeURaOElXeXB6dWZVUlM1NFU3ZzNsOUduTDAxbWQxbUlWVGdWbWtGNkdpWHdfY3FqMVp4RjdSSnFnazhYVzdva3hFSnk?oc=5",
+    "agree": "Beide Quellen stimmen darin überein, dass ein Streit mit einem Zulieferer und das Fehlen eines für die Tragflächen unverzichtbaren Bauteils offenbar die Produktion des Boeing-Frachters 777 lahmlegen.",
+    "diff": [
+      {
+        "name": "ntv",
+        "note": "Ergänzt die konkrete Angabe von Insidern, dass der Lieferstopp den Konzern mehrere Millionen Dollar pro Tag gekostet haben soll."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-e3d2c08e7de5b937",
     "c": "INT",
     "o": "UK",

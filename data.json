@@ -1,36 +1,672 @@
 [
   {
+    "id": "story-4548f83cdb7f8185",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-31T08:54:55.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "US-Regierung genehmigt Verkauf von Patriot-Abfangraketen an Ukraine",
+    "s": "Die US-Regierung hat den Verkauf von 500 Patriot-Abfangraketen an die Ukraine genehmigt. Das US-Außenministerium gab bei der entsprechenden Lieferung grünes Licht. Die Ukraine ist vor allem auf US-Waffenlieferungen angewiesen, um sich gegen russische Angriffe zu verteidigen.",
+    "m": "Das US-Außenministerium hat grünes Licht für eine bedeutende Lieferung von Abfangraketen an die Ukraine gegeben. Konkret handelt es sich um die Genehmigung zum Verkauf von 500 Patriot-Abfangraketen. Diese Unterstützung ist für die Ukraine von zentraler Bedeutung, da das Land vor allem auf US-Waffenlieferungen angewiesen ist, um sich gegen die anhaltenden russischen Angriffe zur Wehr zu setzen. Zuletzt waren solche Lieferungen aus den USA allerdings ins Stocken geraten. Mit der aktuellen Freigabe der US-Regierung soll dieser wichtige Rüstungstransport nun ermöglicht werden. Weitere Details zum zeitlichen Ablauf der Auslieferung oder zur Finanzierung wurden in den Berichten nicht genannt.",
+    "r": "Die Genehmigung von 500 Patriot-Abfangraketen durch die USA ist für die militärische Verteidigungsfähigkeit der Ukraine gegen russische Angriffe von hoher Bedeutung. Sie erfolgt vor dem Hintergrund, dass vorherige US-Waffenlieferungen zuletzt ins Stocken geraten waren.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/us-regierung-genehmigt-patriot-verkauf-an-ukraine-108.html",
+        "date": "2026-10-31T08:54:55.000Z"
+      },
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/amerika/usa-ukraine-patriot-100.html",
+        "date": "2026-10-30T23:56:24.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/us-regierung-genehmigt-patriot-verkauf-an-ukraine-108.html",
+    "agree": "Die US-Regierung beziehungsweise das Außenministerium hat der Ukraine Waffenlieferungen mit Patriot-Systemen genehmigt.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Nennt die konkrete Anzahl von 500 Patriot-Abfangraketen."
+      },
+      {
+        "name": "Tagesschau",
+        "note": "Erwähnt, dass die Ukraine zur Abwehr russischer Angriffe auf US-Waffen angewiesen ist und diese zuletzt ins Stocken gerieten."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-67a8afeff99fd656",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-31T08:54:55.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Polen - Tumulte um Verfassungsgericht - Präsident Nawrocki vor Ort",
+    "s": "In Polen ist der Machtkampf um das Verfassungsgericht nach der Suspendierung einer Richterin eskaliert. Es kam zu tumultartigen Szenen im Gerichtsgebäude und auf der Straße. Präsident Nawrocki begab sich vor Ort und drängte sich nach Medienberichten mit Gewalt in das Gebäude.",
+    "m": "Der Streit zwischen der polnischen Regierung und dem Staatschef hat eine neue Eskalationsstufe erreicht, nachdem eine Richterin den Präsidenten des Verfassungsgerichts suspendiert hat. Die Auseinandersetzungen über die Kontrollinstanz verlagerten sich unmittelbar in physische Konfrontationen im und vor dem Gerichtsgebäude. Präsident Nawrocki tauchte persönlich vor Ort auf und versuchte, sich gewaltsam Zutritt zu verschaffen. Die genauen juristischen Folgen sowie die Reaktionen internationaler Beobachter auf den Vorfall sind Bestandteil der aktuellen Berichterstattung. Die Situation bleibt angespannt, da unklar ist, wie die Exekutive und die Justiz den Streit beilegen wollen.",
+    "r": "Die direkten Auseinandersetzungen an einem obersten Staatsorgan verdeutlichen eine schwere institutionelle Krise in Polen. Der Vorfall betrifft unmittelbar das Verhältnis zwischen Regierung und Staatspräsident sowie die Gewaltenteilung im Land.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/tumulte-um-verfassungsgericht-praesident-nawrocki-vor-ort-102.html",
+        "date": "2026-10-31T08:54:55.000Z"
+      },
+      {
+        "name": "t-online Nachrichten",
+        "url": "https://www.t-online.de/nachrichten/ausland/eu/id_101506212/polen-praesident-nawrocki-draengt-sich-mit-gewalt-ins-verfassungsgericht.html",
+        "date": "2026-10-31T07:01:05.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/tumulte-um-verfassungsgericht-praesident-nawrocki-vor-ort-102.html",
+    "agree": "Die Quellen stimmen darin überein, dass es in Polen zu einer Eskalation im Streit um das Verfassungsgericht unter Beteiligung von Präsident Nawrocki gekommen ist.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Meldet knapp, dass Präsident Nawrocki vor Ort ist und von Tumulten um das Verfassungsgericht."
+      },
+      {
+        "name": "t-online Nachrichten",
+        "note": "Berichtet konkreter, dass eine Richterin den Präsidenten des Verfassungsgerichts suspendiert hat und dass Nawrocki sich mit Gewalt in das Gebäude gedrängt hat."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-c5c5041a5bf27da3",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-31T08:54:55.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Wadephul hofft auf baldige Verhandlungen zwischen Russland und der Ukraine",
+    "s": "Bundesaußenminister Wadephul hat sich am Rande des G20-Treffens in Atlanta zuversichtlich gezeigt. Er hält baldige ernsthafte Verhandlungen zwischen Russland und der Ukraine für möglich. Das Treffen bietet diplomatische Gesprächsmöglichkeiten im Rahmen der internationalen Zusammenkunft.",
+    "m": "Am Rande des G20-Treffens im US-amerikanischen Atlanta hat sich Bundesaußenminister Wadephul zu den Aussichten auf eine diplomatische Beilegung des Konflikts geäußert. Er zeigte sich optimistisch, dass es in absehbarer Zeit zu ernsthaften Verhandlungen zwischen Russland und der Ukraine kommen könnte. Ein konkreter Zeitplan oder Details zu möglichen Vermittlern wurden in den Berichten jedoch nicht genannt. Als positive Gelegenheit für den Dialog wertet Wadephul die Tatsache, dass auch der russische Außenminister Lawrow an dem G20-Treffen teilnimmt. Die Entwicklungen verdeutlichen das anhaltende diplomatische Bemühen um eine Gesprächsbasis auf internationaler Ebene.",
+    "r": "Die Aussagen eines deutschen Bundesministers zur diplomatischen Lage im Ukraine-Konflikt am Rande eines wichtigen internationalen Treffens sind von außenpolitischer Relevanz. Sie geben Einblick in die Einschätzung der Bundesregierung bezüglich möglicher Verhandlungswege.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/wadephul-hofft-auf-baldige-verhandlungen-zwischen-russland-und-der-ukraine-104.html",
+        "date": "2026-10-31T08:54:55.000Z"
+      },
+      {
+        "name": "Deutschlandfunk Politik",
+        "url": "https://www.deutschlandfunk.de/interview-johann-wadephul-cdu-aussenminister-zu-russland-und-das-g20-treffen-100.html",
+        "date": "2026-10-31T06:16:00.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/wadephul-hofft-auf-baldige-verhandlungen-zwischen-russland-und-der-ukraine-104.html",
+    "agree": "Beide Quellen stimmen überein, dass Bundesaußenminister Wadephul am Rande des G20-Treffens in Atlanta seine Zuversicht geäußert hat, dass es bald ernsthafte Verhandlungen zwischen Russland und der Ukraine geben könnte.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Politik",
+        "note": "Ergänzt die Information, dass Wadephul die Teilnahme des russischen Außenministers Lawrow am G20-Treffen als Chance zum Dialog sieht, sowie die Autorenkürzel Wurzel, Steffen."
+      }
+    ],
+    "chg": "",
+    "independent": 1
+  },
+  {
+    "id": "story-6d1a697bf32d10c2",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-31T08:54:55.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Machtkampf um Polens Verfassungsgericht entbrannt",
+    "s": "In Polen hat sich der Konflikt über das Verfassungsgericht zugespitzt. Auslöser ist ein umstrittener Justizumbau, der zu einem heftigen Machtkampf geführt hat. Die Auseinandersetzung betrifft die Ausrichtung und Besetzung des höchsten polnischen Gerichts. Bislang gibt es Berichte über diese Zuspitzung aus den Medien.",
+    "m": "Der Konflikt um das Verfassungsgericht in Polen hat eine neue Eskalationsstufe erreicht. Im Zentrum der Auseinandersetzung steht ein umstrittener Justizumbau, der die Unabhängigkeit und Kontrolle des Gerichts betrifft. Verschiedene politische und gesellschaftliche Akteure ringen um den Einfluss auf die Institution. Die genauen Details des Ablaufs und konkrete parlamentarische Schritte werden in den Berichten nicht näher ausgeführt. Beobachter werten die Entwicklung als entscheidenden Moment für die polnische Justizpolitik. Die Kontroverse dauert an und es ist unklar, welche konkreten rechtlichen Konsequenzen folgen werden.",
+    "r": "Die Entwicklungen um das polnische Verfassungsgericht sind von zentraler Bedeutung für das dortige Rechtssystem und die Gewaltenteilung. Der Streit verdeutlicht die anhaltenden Spannungen um institutionelle Reformen im Land.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/machtkampf-um-polens-verfassungsgericht-entbrannt-102.html",
+        "date": "2026-10-31T08:54:55.000Z"
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2026-10/31/turbulenzen-in-polen-praesident-besucht-verfassungsgericht",
+        "date": "2026-10-31T08:28:43.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/machtkampf-um-polens-verfassungsgericht-entbrannt-102.html",
+    "agree": "Die Quellen sind sich einig, dass in Polen ein heftiger Machtkampf um das Verfassungsgericht entbrannt ist.",
+    "diff": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "note": "Berichtet kurz über den entbrannten Machtkampf um Polens Verfassungsgericht."
+      },
+      {
+        "name": "ZEIT ONLINE",
+        "note": "Fügt dem Ereignis das Schlagwort des umstrittenen Justizumbaus hinzu."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-fb1e01ea65297853",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-31T08:54:55.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Ebola-Epidemie im Kongo fordert mehr als 5.000 Todesopfer",
+    "s": "In der Demokratischen Republik Kongo hat die Zahl der Toten durch das Ebola-Virus die Marke von 5.000 überschritten. Dies teilten Medienberichte auf Basis aktueller Meldungen mit. Die Virusinfektionen breiten sich weiter in dem zentralafrikanischen Land aus.",
+    "m": "Erst vor wenigen Tagen wurden aus dem Kongo mehr als 10.000 Ebola-Fälle gemeldet, wie nun bekannt wurde. Nun hat die Zahl der Todesopfer eine weitere dramatische Schwelle überschritten und liegt bei über 5.000. Ein Ende der Epidemie ist nach Einschätzung von Beobachtern derzeit nicht in Sicht. Die anhaltende Viruserkrankung stellt die Helfer vor Ort weiterhin vor enorme Herausforderungen. Weitere Details zur genauen geografischen Verteilung der Opfer oder zu neuen Hilfsmaßnahmen wurden in den vorliegenden Berichten zunächst nicht genannt.",
+    "r": "Die Meldung ist relevant, da sie einen schwerwiegenden Meilenstein bei einer anhaltenden und tödlichen Epidemie in der Demokratischen Republik Kongo dokumentiert. Das Fortdauern des Ausbruchs hat erhebliche gesundheitliche und humanitäre Konsequenzen für die Region.",
+    "srcs": [
+      {
+        "name": "Deutschlandfunk Nachrichten",
+        "url": "https://www.deutschlandfunk.de/schon-mehr-als-5-000-ebola-tote-im-kongo-102.html",
+        "date": "2026-10-31T08:54:55.000Z"
+      },
+      {
+        "name": "Frankfurter Allgemeine",
+        "url": "https://www.faz.net/aktuell/gesellschaft/gesundheit/schon-mehr-als-5000-ebola-tote-im-kongo-accg-201638716.html",
+        "date": "2026-10-31T06:21:22.000Z"
+      }
+    ],
+    "url": "https://www.deutschlandfunk.de/schon-mehr-als-5-000-ebola-tote-im-kongo-102.html",
+    "agree": "Beide Quellen stimmen überein, dass die Zahl der Ebola-Toten im Kongo die Marke von 5.000 überschritten hat.",
+    "diff": [
+      {
+        "name": "Frankfurter Allgemeine",
+        "note": "Ergänzt, dass erst vor wenigen Tagen über 10.000 Ebola-Fälle gemeldet wurden und dass ein Ende der Epidemie nicht in Sicht ist."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-7a7cfab6e44b830f",
+    "c": "INT",
+    "o": "UK",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-31T08:54:51.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Vorbereitungen und Live-Berichterstattung zum Premier-League-Spiel Chelsea gegen Manchester United",
+    "s": "Vor dem Premier-League-Spitzenspiel zwischen dem FC Chelsea und Manchester United laufen die Vorbereitungen und Live-Berichte auf Hochtouren. Im Fokus stehen unter anderem die Team-Nachrichten und die jüngsten Entwicklungen bei Manchester United mit Michael Carrick im Trainerteam. Fans und Medien verfolgen die neuesten Updates im Live-Ticker.",
+    "m": "Die Begegnung in der Premier League zwischen Chelsea und Manchester United sorgt für große Aufmerksamkeit in der Sportberichterstattung. Manchester United geht nach einer turbulenten Woche in die Partie, in der unter anderem Gespräche von Jason Wilcox und Omar Berrada in Carrington stattfanden. Auch Michael Carrick steht nach jüngsten Ereignissen im Blickpunkt und wird in Stamford Bridge im Trainerteam erwartet. Neben den Geschehnissen bei United blicken Experten auf die kommenden Partien, Spielpläne und relevante Hintergrundinformationen in der Women's Super League sowie im Männerfußball. Begleitet wird das Vorfeld von umfangreichen Live-Tickern, die Fans mit Team-News, Aufstellungen und ersten Analysen versorgen.",
+    "r": "Das Premier-League-Spiel zwischen Chelsea und Manchester United ist ein sportliches Großereignis, das durch aktuelle Team-Entwicklungen und Live-Berichterstattung stark im Fokus steht.",
+    "srcs": [
+      {
+        "name": "Guardian Sport",
+        "url": "https://www.theguardian.com/football/live/2026/oct/31/chelsea-v-manchester-united-buildup-premier-league-wsl-and-more-matchday-live",
+        "date": "2026-10-31T08:54:51.000Z"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/liveblog/2026/10/31/chelsea-vs-manchester-united-live-premier-league?traffic_source=rss",
+        "date": "2026-10-31T08:30:54.000Z"
+      }
+    ],
+    "url": "https://www.theguardian.com/football/live/2026/oct/31/chelsea-v-manchester-united-buildup-premier-league-wsl-and-more-matchday-live",
+    "agree": "Beide Quellen berichten über die Live-Berichterstattung und die Vorbereitungen für das Premier-League-Spiel zwischen Chelsea und Manchester United.",
+    "diff": [
+      {
+        "name": "Guardian Sport",
+        "note": "Erwähnt im Detail die Geschehnisse bei Manchester United unter der Woche, Gespräche von Jason Wilcox und Omar Berrada in Carrington, Michael Carrick an der Seitenlinie sowie Ausblicke auf die WSL und Spieltage."
+      },
+      {
+        "name": "Al Jazeera",
+        "note": "Fokussiert sich auf den Live-Ticker mit Team-News und hebt Bruno Fernandes besonders hervor."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-706faad1ee58d368",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-31T08:46:14.000Z",
+    "p": 3,
+    "st": "BW",
+    "city": "",
+    "t": "Acht Verletzte bei Unfall auf A5 - darunter vier Kinder",
+    "s": "Auf der A5 bei Karlsruhe hat sich am Freitagabend ein schwerer Verkehrsunfall ereignet. Dabei wurden insgesamt acht Personen verletzt, darunter auch Kinder. Die genaue Unfallursache ist derzeit noch unklar.",
+    "m": "Der Unfall auf der A5 ereignete sich am Freitagabend in der Nähe von Karlsruhe und führte zu acht Verletzten. Unter den Betroffenen sind schwer verletzte Personen, namentlich ein sechsjähriger Junge und eine 42 Jahre alte Frau. Zudem befinden sich Kinder unter den Verletzten, wobei die genaue Zahl je nach Quelle leicht variiert. Rettungskräfte waren im Einsatz, um die Verletzten zu versorgen. Bislang gibt es keine offiziellen Angaben zur genauen Unfallursache oder zum genauen Hergang des Geschehens. Auch über die Beteiligung weiterer Fahrzeuge liegen noch keine detaillierten Informationen vor.",
+    "r": "Der Unfall mit mehreren verletzten Personen auf einer vielbefahrenen Autobahn ist für den regionalen Verkehr und die öffentliche Sicherheit von Bedeutung. Solche Vorfälle verdeutlichen die potenziellen Gefahren auf Bundesautobahnen und erfordern polizeiliche sowie medizinische Rettungseinsätze.",
+    "srcs": [
+      {
+        "name": "SWR Aktuell",
+        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/acht-verletzte-bei-unfall-a5-gesperrt-100.html",
+        "date": "2026-10-31T08:46:14.000Z"
+      },
+      {
+        "name": "Tagesschau Regional Baden-Württemberg",
+        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-acht-verletzte-bei-unfall-auf-a5-darunter-fuenf-kinder-100.html",
+        "date": "2026-10-30T23:01:53.000Z"
+      }
+    ],
+    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/acht-verletzte-bei-unfall-a5-gesperrt-100.html",
+    "agree": "Die Quellen sind sich einig, dass sich am Freitagabend auf der A5 bei Karlsruhe ein Unfall mit acht Verletzten ereignet hat, bei dem auch Kinder unter den Betroffenen sind.",
+    "diff": [
+      {
+        "name": "SWR Aktuell",
+        "note": "Berichtet konkret von acht Verletzten, darunter vier Kinder, und nennt zwei schwer Verletzte: einen sechsjährigen Jungen und eine 42 Jahre alte Frau."
+      },
+      {
+        "name": "Tagesschau Regional Baden-Württemberg",
+        "note": "Erwähnt ebenfalls acht Verletzte, spricht jedoch ungenauer von fünf Kindern und gibt an, dass die Ursache noch unklar ist."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-bd482440237f5df9",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-31T08:40:14.000Z",
+    "p": 3,
+    "st": "BY",
+    "city": "",
+    "t": "USA genehmigen Verkauf von Patriot-Flugabwehrraketen an die Ukraine",
+    "s": "Das US-Außenministerium hat den Verkauf von 500 Patriot-Flugabwehrraketen an die Ukraine genehmigt. Im Kontext einer Waffenruhe um die Stadt Oleschky konnten zudem Einwohner die russisch besetzte ukrainische Ortschaft verlassen. Die Ukraine wehrt sich bereits seit Jahren gegen den russischen Angriffskrieg.",
+    "m": "Das US-Außenministerium hat offiziell die Lieferung von 500 Patriot-Flugabwehrraketen an die Ukraine abgesegnet. Parallel dazu kam es zu einer lokalen Waffenruhe rund um die umkämpfte Stadt Oleschky, welche es Zivilisten ermöglichte, die von russischen Truppen besetzte Ortschaft zu verlassen. Die Ukraine befindet sich seit mehr als vier Jahren im Abwehrkampf gegen den russischen Angriffskrieg, wobei bisherige internationale Friedensbemühungen erfolglos geblieben sind. Weitere Details zu den Hintergründen der Waffenruhe und dem genauen Zeitplan der Waffenlieferungen wurden im Rahmen der Ticker-Meldungen zunächst nicht genannt. Die Geschehnisse werden fortlaufend in Live-Tickern und Nachrichtenseiten aktualisiert.",
+    "r": "Die Freigabe neuer Flugabwehrraketen durch die USA stärkt die militärische Verteidigungsfähigkeit der Ukraine im anhaltenden Krieg. Gleichzeitig verdeutlichen die Fluchtbewegungen aus Oleschky die anhaltend prekäre humanitäre Lage in den besetzten Gebieten.",
+    "srcs": [
+      {
+        "name": "BR24 Bayern",
+        "url": "https://www.br.de/nachrichten/deutschland-welt/russland-ukraine-krieg-im-news-ticker-26-oktober-bis-1-november,VZ8ZH0t",
+        "date": "2026-10-31T08:40:14.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/politik/ukraine-news-im-ticker-us-aussenministerium-genehmigt-patriot-lieferung-an-ukraine-HE2HCGE6JQFTFWLUN43NO5POI4.html",
+        "date": "2026-10-31T03:25:39.000Z"
+      }
+    ],
+    "url": "https://www.br.de/nachrichten/deutschland-welt/russland-ukraine-krieg-im-news-ticker-26-oktober-bis-1-november,VZ8ZH0t",
+    "agree": "Die Quellen stimmen überein, dass sich die Ukraine in einem anhaltenden Krieg gegen Russland verteidigt und die Ereignisse über Nachrichtenticker begleitet werden.",
+    "diff": [
+      {
+        "name": "BR24 Bayern",
+        "note": "Berichtet konkret über die Genehmigung des Verkaufs von 500 Patriot-Flugabwehrraketen an die Ukraine sowie über die Möglichkeit für Einwohner, die besetzte Stadt Oleschky im Zuge einer Waffenruhe zu verlassen."
+      },
+      {
+        "name": "RND",
+        "note": "Erwähnt allgemein den russischen Angriffskrieg und merkt an, dass sich die Ukraine seit mehr als vier Jahren verteidigt und bisherige Friedensbemühungen erfolglos blieben."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-946495cd0a53ec74",
+    "c": "INT",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-31T08:14:00.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Marius Borg Høiby: Staatsanwaltschaft fordert Verlängerung der Haft",
+    "s": "Die Staatsanwaltschaft fordert eine Verlängerung der Untersuchungshaft für Marius Borg Høiby, den Sohn der norwegischen Kronprinzessin Mette-Marit. Gleichzeitig versucht Høiby, die aktuelle juristische Anordnung aufheben zu lassen. Der Fall sorgt international für Aufmerksamkeit, da es sich um ein Mitglied der königlichen Familie handelt.",
+    "m": "Die juristischen Auseinandersetzungen um Marius Borg Høiby, den ältesten Sohn von Kronprinzessin Mette-Marit von Norwegen, gehen weiter. Die zuständige Staatsanwaltschaft hat offiziell eine Verlängerung seiner Untersuchungshaft beantragt. Auf der Gegenseite wehrt sich Høiby und möchte die derzeitige richterliche Anordnung gerichtlich aufheben lassen. Ein zentrales Element im weiteren Verfahren ist für den kommenden Montag angesetzt: Dann soll ein bislang geheimer Zeuge in dem Fall aussagen. Die genauen Vorwürfe gegen Høiby und die Hintergründe der Zeugenaussage sind Teil der laufenden Ermittlungen.",
+    "r": "Der Fall betrifft das norwegische Königshaus und ist durch strafrechtliche Ermittlungen sowie die Anordnung von Untersuchungshaft von öffentlichem Interesse.",
+    "srcs": [
+      {
+        "name": "stern",
+        "url": "https://www.stern.de/lifestyle/leute/geheimer-zeuge-soll-im-fall-von-marius-borg-h%C3%B8iby-aussagen-38479824.html",
+        "date": "2026-10-31T08:14:00.000Z"
+      },
+      {
+        "name": "ntv",
+        "url": "https://www.n-tv.de/leute/Geheimer-Zeuge-soll-im-Fall-Marius-Borg-Høiby-aussagen-id31478857.html",
+        "date": "2026-10-31T03:24:41.000Z"
+      }
+    ],
+    "url": "https://www.stern.de/lifestyle/leute/geheimer-zeuge-soll-im-fall-von-marius-borg-h%C3%B8iby-aussagen-38479824.html",
+    "agree": "Die Quellen sind sich einig, dass die Staatsanwaltschaft eine Verlängerung der Untersuchungshaft für Marius Borg Høiby fordert und dieser die Aufhebung der Anordnung anstrebt.",
+    "diff": [
+      {
+        "name": "stern",
+        "note": "Berichtet über den Wunsch von Mette-Marits Sohn, die Anordnung aufheben zu lassen, und den Antrag auf Haftverlängerung."
+      },
+      {
+        "name": "ntv",
+        "note": "Ergänzt, dass am kommenden Montag ein bislang geheimer Zeuge aussagen soll und erwähnt den Begriff Hausarrest."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-b8f393bb26c4ea02",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-31T07:42:00.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Selenskyj warnt vor langen Lieferfristen bei Patriot-Systemen",
+    "s": "Das US-Außenministerium hat die Lieferung eines wichtigen Waffensystems an die Ukraine genehmigt. Präsident Wolodymyr Selenskyj äußerte jedoch Bedenken hinsichtlich der Verfügbarkeit. Er befürchtet, dass die zugesagten Patriot-Systeme erst nach Jahren eintreffen könnten. Angesichts dieser Situation unterbreitete er seinen internationalen Partnern einen konkreten Vorschlag.",
+    "m": "Das US-Außenministerium hat die offizielle Genehmigung für die Lieferung eines entscheidenden Waffensystems an die Ukraine erteilt. Der ukrainische Präsident Wolodymyr Selenskyj reagierte auf diese Entscheidung mit der Warnung vor erheblichen zeitlichen Verzögerungen. Konkret sorgt er sich darum, dass die dringend benötigten Patriot-Systeme möglicherweise erst nach Jahren tatsächlich einsatzbereit zur Verfügung stehen könnten. Um diese gefährlichen zeitlichen Lücken zu verhindern, wandte er sich an seine westlichen Partner und machte ihnen einen entsprechenden Vorschlag. Details zu diesem Vorschlag oder dem genauen Zeitpunkt der potenziellen Lieferung wurden in den vorliegenden Berichten bisher nicht genannt. Derzeit bleibt abzuwarten, wie die Partner auf die Bedenken und den Vorschlag des ukrainischen Präsidenten reagieren werden. Die Situation unterstreicht die anhaltenden Herausforderungen bei der militärischen Unterstützung der Ukraine durch den Westen.",
+    "r": "Die Warnung des ukrainischen Präsidenten vor langen Lieferfristen bei zugesagten Waffensystemen ist für die militärische Unterstützung der Ukraine von Bedeutung. Sie wirft Fragen zur Effizienz und Schnelligkeit westlicher Rüstungslieferungen auf.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZ2xQRVdxZUYyZXdUaUp3WmxmVXRPR0RPYkpYQmVFT0RqOEwwMXBpdGpjM1U5WU1uTjM1ZGx6bnluanVFNk9Dc2lpMTZKZzA5a24yLW95dWZBVzlyYzlPaWt2RUI4SXlkRE5PcjE4WlFmR0tkRVVhLXhlaldnNEpockl2TDJEUFZ4MUdCZWdNc1ZvN3ZTNmhTRElnd0NfbGpHazRaa2Jlc05CSFFyUGJFNHI3S29tOE1nSDdZX2w1ZHdCWGQ1cHotRXh1ek5aMkNEZV8yeWZfSDRROEU?oc=5",
+        "date": "2026-10-31T07:42:00.000Z"
+      },
+      {
+        "name": "DER SPIEGEL",
+        "url": "https://www.spiegel.de/ausland/ukraine-krieg-selenskyj-warnt-vor-langen-lieferfristen-bei-patriot-system-a-b25c5ded-a9e8-4493-870e-adc3bc2eff77#ref=rss",
+        "date": "2026-10-31T07:42:00.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZ2xQRVdxZUYyZXdUaUp3WmxmVXRPR0RPYkpYQmVFT0RqOEwwMXBpdGpjM1U5WU1uTjM1ZGx6bnluanVFNk9Dc2lpMTZKZzA5a24yLW95dWZBVzlyYzlPaWt2RUI4SXlkRE5PcjE4WlFmR0tkRVVhLXhlaldnNEpockl2TDJEUFZ4MUdCZWdNc1ZvN3ZTNmhTRElnd0NfbGpHazRaa2Jlc05CSFFyUGJFNHI3S29tOE1nSDdZX2w1ZHdCWGQ1cHotRXh1ek5aMkNEZV8yeWZfSDRROEU?oc=5",
+    "agree": "Die Quellen sind sich einig, dass Selenskyj vor langen Lieferfristen bei Patriot-Systemen warnt, obwohl die Lieferung genehmigt wurde.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Verweist auf den Bericht des Spiegels über Selenskyjs Warnung vor langen Lieferfristen."
+      },
+      {
+        "name": "DER SPIEGEL",
+        "note": "Erwähnt zusätzlich die Genehmigung des Waffensystems durch das US-Außenministerium und Selenskyjs Vorschlag an die Partner."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-18bc0a0a868b73b3",
+    "c": "DE",
+    "o": "DE",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-31T07:07:53.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "ABB-Chef Morten Wierod kritisiert Deutschlands Reformtempo und Atomausstieg",
+    "s": "Der Chef des Schweizer Industriekonzerns ABB, Morten Wierod, hat Zweifel an Deutschlands Fähigkeit zu schnellen Reformen geäußert. In einem Interview betonte er die Verantwortung des Landes für die europäische Wirtschaft. Zudem äußerte er sich kritisch zu zentralen wirtschafts- und energiepolitischen Entscheidungen in Deutschland.",
+    "m": "Morten Wierod, der Vorstandschef des Schweizer Industriekonzerns ABB, sieht Deutschland in einer zentralen Verantwortung für die wirtschaftliche Entwicklung in ganz Europa. Er warnte im Zuge seiner Einschätzungen vor einer drohenden Massenarbeitslosigkeit in Deutschland. Darüber hinaus bezeichnete der ABB-Chef den deutschen Atomausstieg rückwirkend als einen wirtschaftlichen Fehler. Die Äußerungen fallen in eine Phase anhaltender Diskussionen über die Wettbewerbsfähigkeit des Standorts Deutschland und die Notwendigkeit strukturpolitischer Kurskorrekturen. Weitere Details zu konkreten Reaktionen deutscher Politiker oder Wirtschaftsverbände auf die Aussagen liegen bislang nicht vor.",
+    "r": "Die Aussagen eines prominenten internationalen Konzernchefs zur deutschen Wirtschaftspolitik und Reformfähigkeit berühren zentrale Fragen der europäischen Wettbewerbsfähigkeit und des Standorts Deutschland. Sie verdeutlichen die Wahrnehmung deutscher Entscheidungen aus der Perspektive internationaler Unternehmen.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTlF4M2Z6Mmd0Mi1HSncwRnlsdnFQVER3aDJIM2dYVERuaThLZnVOMThxaWlybHM2WjFiX29PdHBnWEg3VHB6cmNRb1NhOXVxZFhzaEtBS3BRZDQxRTh5azFJbmlYT3VZSzhFZEFvRnlESUlLd3RDdFhUSS1DUEhqVEp2WVZOR3Rob1pBRExScFY1LURJQXdjaTZNQ01tbWpPZ29BMWx4ZVRWXzRVWW1seWtCdm93WUZlNU81Q1J1cGJfSkVfZ1lIT2habU92elE2ZEpYY19PSDdUQU5JaGhYTThRTkx1Y3VqTk1kVjNFa3lNeVU?oc=5",
+        "date": "2026-10-31T07:07:53.000Z"
+      },
+      {
+        "name": "WELT",
+        "url": "https://www.welt.de/wirtschaft/article6ae479a6b942b25dc412adb3/schweizer-industriekonzern-abb-chef-zweifelt-an-deutschlands-faehigkeit-zu-schnellen-reformen.html",
+        "date": "2026-10-31T07:06:04.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTlF4M2Z6Mmd0Mi1HSncwRnlsdnFQVER3aDJIM2dYVERuaThLZnVOMThxaWlybHM2WjFiX29PdHBnWEg3VHB6cmNRb1NhOXVxZFhzaEtBS3BRZDQxRTh5azFJbmlYT3VZSzhFZEFvRnlESUlLd3RDdFhUSS1DUEhqVEp2WVZOR3Rob1pBRExScFY1LURJQXdjaTZNQ01tbWpPZ29BMWx4ZVRWXzRVWW1seWtCdm93WUZlNU81Q1J1cGJfSkVfZ1lIT2habU92elE2ZEpYY19PSDdUQU5JaGhYTThRTkx1Y3VqTk1kVjNFa3lNeVU?oc=5",
+    "agree": "Die Quellen stimmen überein, dass der ABB-Chef Morten Wierod Zweifel an Deutschlands Fähigkeit zu schnellen Reformen geäußert hat.",
+    "diff": [
+      {
+        "name": "WELT",
+        "note": "Berichtet ergänzend, dass Wierod Deutschland in der Verantwortung für Europas Wirtschaft sieht, vor Massenarbeitslosigkeit warnt und den Atomausstieg als Fehler bezeichnet."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-07290aa2991e731b",
+    "c": "DE",
+    "o": "DE",
+    "k": "panorama",
+    "lang": "de",
+    "d": "2026-10-31T07:07:00.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Mann bietet Katzenbabys am Bielefelder Hauptbahnhof zum Tausch an",
+    "s": "Ein Mann hat am Bielefelder Hauptbahnhof versucht, zwei Katzenbabys in einer Einkaufstasche zu verkaufen oder zu vertauschen. Die Tiere wurden von den Behörden sichergestellt. Das ungewöhnliche Angebot sah einen Preis von 20 Euro oder wahlweise einen Döner vor.",
+    "m": "Am Hauptbahnhof in Bielefeld hat sich ein ungewöhnlicher Vorfall ereignet, bei dem ein Mann zwei Katzenbabys in einer Einkaufstasche mit sich führte. Er bot die jungen Katzen aktiv zum Kauf oder Tausch an. Als Gegenleistung verlangte er entweder 20 Euro in bar oder alternativ einen Döner. Die Situation erregte Aufmerksamkeit und führte zum Einschreiten der zuständigen Stellen. Die beiden betroffenen Katzenbabys wurden inzwischen sichergestellt und in sichere Obhut gebracht. Weitere Details zum genauen Hintergrund des Mannes oder zum Gesundheitszustand der Tiere gehen aus den vorliegenden Berichten nicht hervor. Der Vorfall wirft ein Schlaglicht auf den illegalen oder ungesicherten Umgang mit Heimtieren an öffentlichen Orten.",
+    "r": "Der Vorfall zeigt, wie Haustiere unter fragwürdigen Umständen in der Öffentlichkeit zum Kauf oder Tausch angeboten werden. Das Eingreifen führte zur Sicherstellung der Tiere und verhindert eine womöglich unseriöse Vermittlung.",
+    "srcs": [
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQc0ZWbGZYMTRPYUF4dy14R2pHbV8wbEEwRFZRUjl0VXZRbUd4amN2dFJHOEh5STdjckp4TkhnY1Z0X2dxTDVYZHdwTUZoT1ZqRldoN1ZqTm9CTlE0Vm1vWEdFQ3c2d0hhNVZRUHhKcU52bFdnRmUwNHlDVHBsamJkaWhhVWRpWTNQa3BqaUhEcVZmcGMyQlFmTEZzbnRqNzZYWjRTYnNSUUV5WVdlbDlocWNBM1RROWtGdTZQdnBaY3ZQS0R1T3B6dVppTGR6NVVIZDkzYTYxX3FTMnhmZVBlTzMzdEw?oc=5",
+        "date": "2026-10-31T07:07:00.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/panorama/bielefeld-mann-bietet-katzenbabys-fuer-20-euro-oder-doener-an-75NUB2MMLBDKHE6GJR5V7XGFIA.html",
+        "date": "2026-10-30T22:16:38.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQc0ZWbGZYMTRPYUF4dy14R2pHbV8wbEEwRFZRUjl0VXZRbUd4amN2dFJHOEh5STdjckp4TkhnY1Z0X2dxTDVYZHdwTUZoT1ZqRldoN1ZqTm9CTlE0Vm1vWEdFQ3c2d0hhNVZRUHhKcU52bFdnRmUwNHlDVHBsamJkaWhhVWRpWTNQa3BqaUhEcVZmcGMyQlFmTEZzbnRqNzZYWjRTYnNSUUV5WVdlbDlocWNBM1RROWtGdTZQdnBaY3ZQS0R1T3B6dVppTGR6NVVIZDkzYTYxX3FTMnhmZVBlTzMzdEw?oc=5",
+    "agree": "Die Quellen stimmen überein, dass ein Mann Katzenbabys für 20 Euro oder einen Döner anbot und die Tiere sichergestellt wurden.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Erwähnt STERN.de als Medienquelle und kündigt weitere Schlagzeilen an."
+      },
+      {
+        "name": "RND",
+        "note": "Nennt Bielefeld als genauen Ort, präzisiert den Hauptbahnhof als Tatort und erwähnt die Verwendung einer Einkaufstasche."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-b981978427b6ee3d",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-31T04:41:18.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Eskalation im polnischen Streit um das Verfassungsgericht",
+    "s": "Der Machtkampf um das Verfassungsgericht in Polen hat sich drastisch verschärft. Konservative Politiker sprechen nach widersprüchlichen Mitteilungen aus dem Gericht von einem Staatsstreich. Die Entwicklungen in Warschau führen zu einer politischen Krise mit abgebrochenen Auslandsreisen.",
+    "m": "Bereits seit Monaten schwelt der Konflikt um die Neubesetzung des Verfassungsgerichts in Polen. Nun hat sich die Lage in Warschau massiv zugespitzt, begleitet von Präsenz von Polizeikräften vor dem Gerichtsgebäude. Präsident Andrzej Duda brach wegen der Ereignisse eine geplante Reise zu einem Staatsbesuch ab. Aus dem Verfassungsgericht selbst wurden widersprüchliche Mitteilungen veröffentlicht, was die Unklarheit und Verwirrung verstärkt. Die dortigen Konservativen gehen so weit, die aktuellen Vorgänge als Staatsstreich zu bezeichnen. Die Hintergründe dieses Machtkampfs bergen weitreichende Folgen für das politische Gefüge des Landes. Offen bleibt, wie die verschiedenen staatlichen Institutionen diesen Konflikt beilegen wollen.",
+    "r": "Die Krise in Polen betrifft ein zentrales Verfassungsorgan eines EU-Mitgliedstaates und kann weitreichende Folgen für die dortige Demokratie und politische Stabilität haben. Daher ist die Entwicklung von hoher politischer Relevanz.",
+    "srcs": [
+      {
+        "name": "t-online Nachrichten",
+        "url": "https://www.t-online.de/nachrichten/ausland/id_101506074/polen-streit-um-verfassungsgericht-eskaliert-praesident-bricht-reise-ab.html",
+        "date": "2026-10-31T04:41:18.000Z"
+      },
+      {
+        "name": "RND",
+        "url": "https://www.rnd.de/politik/polen-streit-um-verfassungsgericht-eskaliert-RX2WDN24JZGYRHBIDTAWEX3DFI.html",
+        "date": "2026-10-30T21:41:46.000Z"
+      }
+    ],
+    "url": "https://www.t-online.de/nachrichten/ausland/id_101506074/polen-streit-um-verfassungsgericht-eskaliert-praesident-bricht-reise-ab.html",
+    "agree": "Beide Quellen stimmen darin überein, dass der Streit um das Verfassungsgericht in Polen eskaliert ist und es in Warschau zu einem Machtkampf kommt.",
+    "diff": [
+      {
+        "name": "t-online Nachrichten",
+        "note": "Berichtet, dass Konservative von einem Staatsstreich sprechen und der Präsident seine Reise abgebrochen hat."
+      },
+      {
+        "name": "RND",
+        "note": "Erwähnt Polizisten vor dem Verfassungsgericht und widersprüchliche Mitteilungen aus dem Gericht."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-1891f9fd86a68044",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-31T03:57:32.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Kanada und Europa gründen Allianz für die Zukunft",
+    "s": "Die Europäische Union und Kanada haben in Montreal ein strategisches Bündnis namens Allianz für die Zukunft ins Leben gerufen. Ziel dieser Partnerschaft ist es, die Unabhängigkeit und die technologische Zusammenarbeit zu stärken. Die Kooperation erstreckt sich von Künstlicher Intelligenz bis hin zur Raumfahrt.",
+    "m": "In Montreal wurde von der Europäischen Union und Kanada offiziell die Allianz für die Zukunft gegründet. Das Bündnis zielt auf eine deutlich engere und unabhängigere Zusammenarbeit in strategischen Zukunftsfeldern ab. Dabei stehen insbesondere Schlüsseltechnologien wie Künstliche Intelligenz und die Raumfahrt im Fokus der Kooperation. Darüber hinaus ist Kanada als assoziiertes Mitglied vorgesehen, wie Ursula von der Leyen signalisierte. Auch die Unterstützung der Ukraine spielt im Rahmen dieser neuen transatlantischen Partnerschaft eine wichtige Rolle. Die Initiative soll die gemeinsamen Kapazitäten bündeln und die technologische Souveränität gegenüber anderen globalen Akteuren erhöhen.",
+    "r": "Die Partnerschaft stärkt die strategische und technologische Zusammenarbeit zwischen Europa und Kanada in wichtigen Zukunftsfeldern. Sie setzt Zeichen für mehr Unabhängigkeit und bindet Kanada als assoziiertes Mitglied ein.",
+    "srcs": [
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/amerika/kanada-eu-allianz-zukunft-100.html",
+        "date": "2026-10-31T03:57:32.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVllhUzV1MGI1UVBscjlwcjliZUJ0a3JHN0ZJMjRfVGV2Y0FwT0ZReGh1Zkl1aWtEd3ltU0d2OWJhV3NWeTF0cjdSTmpnbVRVYk92MHJFUTZHT1k4dlU2cElOU19VeVh4cVZNclExOE4yRnpkOEFUcl9MbnhYalZfc2Jn?oc=5",
+        "date": "2026-10-31T03:57:00.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/ausland/amerika/kanada-eu-allianz-zukunft-100.html",
+    "agree": "Die Quellen stimmen darin überein, dass die EU und Kanada in Montreal eine Allianz für die Zukunft gegründet haben, um die Zusammenarbeit in Bereichen wie KI und Raumfahrt zu stärken.",
+    "diff": [
+      {
+        "name": "Google News DE",
+        "note": "Erwähnt zusätzlich Ursula von der Leyen und dass Kanada als assoziiertes Mitglied vorgesehen ist."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-ae3b45a7300c3c1e",
+    "c": "INT",
+    "o": "INT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-31T01:31:44.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Papst Leo gibt als erster Pontifex Stimme bei US-Wahl ab",
+    "s": "Papst Leo hat als erster Pontifex in der Geschichte per Briefwahl an einer US-Wahl teilgenommen. Der gebürtige US-Amerikaner schickte seine Stimme aus Chicago für die anstehenden Midterm-Wahlen ab. Über den Vorfall berichteten unter anderem Al Jazeera und die BBC.",
+    "m": "Der in Chicago geborene Papst Leo XIV. hat laut übereinstimmenden Medienberichten per Briefwahl an den bevorstehenden Midterm-Wahlen in den Vereinigten Staaten teilgenommen. Damit ist er der erste Papst, der jemals seine Stimme bei einer US-Wahl abgegeben hat. Die Abstimmung betrifft die Kontrolle über den US-Kongress. Die BBC weist zudem darauf hin, dass der Pontifex ein angespanntes Verhältnis zum ehemaligen oder aktuellen US-Präsidenten Trump hat. Die Bestätigung für die Stimmabgabe erfolgte direkt aus dem Vatikan. Weitere Details zum genauen Zeitpunkt des Versands oder zur offiziellen Handhabung des Wahlrechts durch den Papst wurden zunächst nicht genannt.",
+    "r": "Die Meldung ist von Bedeutung, da es sich um einen historischen Vorgang handelt: Erstmals in der Geschichte hat ein amtierender Papst von seinem Wahlrecht bei einer US-Wahl Gebrauch gemacht. Dies unterstreicht die persönliche Verbindung des aus Chicago stammenden Kirchenoberhaupts zur US-Politik.",
+    "srcs": [
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/31/pope-leo-becomes-first-pontiff-to-vote-in-us-general-election?traffic_source=rss",
+        "date": "2026-10-31T01:31:44.000Z"
+      },
+      {
+        "name": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-30T14:48:22.000Z"
+      }
+    ],
+    "url": "https://www.aljazeera.com/news/2026/10/31/pope-leo-becomes-first-pontiff-to-vote-in-us-general-election?traffic_source=rss",
+    "agree": "Beide Quellen stimmen darin überein, dass Papst Leo als erster Pontifex per Briefwahl an einer US-Wahl teilgenommen hat und aus Chicago stammt.",
+    "diff": [
+      {
+        "name": "Al Jazeera",
+        "note": "Bestätigt, dass der Papst einen Briefwahlzettel in seiner Heimatstadt Chicago im Vorfeld der Midterm-Wahlen am 3. November eingereicht hat."
+      },
+      {
+        "name": "BBC World",
+        "note": "Erwähnt zusätzlich den offiziellen Namen Papst Leo XIV. und merkt an, dass der Pontifex ein angespanntes Verhältnis zu Trump hat."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-d0bc2fe54e8b565c",
     "c": "INT",
     "o": "UK",
     "k": "politik",
     "lang": "de",
-    "d": "2026-10-30T22:20:52.000Z",
-    "p": 3,
+    "d": "2026-10-31T00:40:43.000Z",
+    "p": 4,
     "st": "",
     "city": "",
     "t": "USA genehmigen Verkauf von 500 Patriot-Raketen an die Ukraine",
-    "s": "Die Vereinigten Staaten haben den Verkauf von 500 Patriot-Abfangraketen an die Ukraine genehmigt. Diese in Amerika hergestellten Systeme gelten als die einzigen wirksamen Waffen zur Abwehr russischer Ballistikraketen. Der Deal wurde von den Medien und Nachrichtendiensten aufgegriffen, wobei die Kernmeldung übereinstimmt.",
-    "m": "Die US-Regierung hat grünes Licht für die Lieferung von 500 Patriot-Mitteln an die Ukraine gegeben. Die Entscheidung unterstreicht die fortlaufende militärische Unterstützung der Ukraine durch die USA im Konflikt mit Russland. Patriot-Abfangraketen sind von entscheidender Bedeutung für den ukrainischen Luftschutz, insbesondere gegen russische Raketenangriffe. Nähere Details zum zeitlichen Ablauf der Lieferung, zum finanziellen Volumen des Vertrages oder zum genauen Übergabetermin wurden in den vorliegenden Quellen nicht genannt. Auch offene Punkte bezüglich der Finanzierung oder Logistik gehen aus den Berichten nicht hervor. Die beteiligten Akteure beschränken sich auf die US-Behörden und das Empfängerland Ukraine.",
-    "r": "Die Bereitstellung hochentwickelter US-Luftabwehrsysteme ist für die Verteidigungsfähigkeit der Ukraine gegen ballistische Angriffe von strategischer Bedeutung. Die Genehmigung unterstreicht das Engagement der USA in diesem Rüstungsbereich.",
+    "s": "Die Vereinigten Staaten haben den Verkauf von 500 Patriot-Abfangraketen an die Ukraine genehmigt. Diese in Amerika hergestellten Systeme gelten als die einzigen wirksamen Waffen zur Abwehr russischer Ballistikraketen.",
+    "m": "Die US-Regierung hat offiziell dem Verkauf von 500 Patriot-Lenkflugkörpern an die Ukraine zugestimmt. Die Lieferung dieser amerikanischen Abfangraketen soll die ukrainische Luftverteidigung gegen Angriffe stärken. Patriot-Systeme sind derzeit die einzigen effektiven Waffen im ukrainischen Arsenal, um russische ballistische Raketen abzufangen und zu zerstören. Weitere Details zur Finanzierung, zum genauen Zeitplan der Auslieferung oder zum Gesamtwert des Rüstungsgeschäfts wurden in den vorliegenden Berichten nicht genannt. Auch offene Fragen bezüglich möglicher logistischer Herausforderungen beim Transport blieben zunächst unbeantwortet.",
+    "r": "Die Bereitstellung hochentwickelter US-Luftabwehrraketen ist für die militärische Verteidigung der Ukraine gegen russische Luftangriffe von entscheidender Bedeutung.",
     "srcs": [
       {
         "name": "BBC World",
         "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-30T22:20:52.000Z"
+        "date": "2026-10-31T00:40:43.000Z"
       },
       {
         "name": "Google News World",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PNHJSbm1sZDVnWnkwVlhKWG5pcVRXWnNXeW1qUEZTemJvZ3hoN3Q4MjRhUW5USTRndUU4aHlJSjBhUVpvZm9Md0huODJhQWZzUUpOVnVZM3NyREU?oc=5",
-        "date": "2026-10-30T22:20:52.000Z"
+        "date": "2026-10-31T00:40:43.000Z"
       }
     ],
     "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-    "agree": "Beide Quellen stimmen darin überein, dass die USA den Verkauf von 500 Patriot-Raketen an die Ukraine genehmigt haben.",
+    "agree": "Beide Quellen stimmen überein, dass die USA den Verkauf von 500 Patriot-Raketen an die Ukraine genehmigt haben und diese als einzige effektive Waffe gegen russische ballistische Raketen gelten.",
     "diff": [
       {
         "name": "Google News World",
-        "note": "Verweist lediglich auf den BBC-Bericht und wiederholt die Überschrift in Kurzform."
+        "note": "Verweist lediglich auf den BBC-Artikel als Quelle für dieselbe Meldung."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-f3ce39ea6df94053",
+    "c": "INT",
+    "o": "PT",
+    "k": "sport",
+    "lang": "de",
+    "d": "2026-10-30T22:17:59.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Sporting kehrt in der I Liga mit Sieg gegen Casa Pia zurück",
+    "s": "Sporting CP hat in der zehnten Runde der I Liga einen Auswärtssieg eingefahren. Die Mannschaft setzte sich im Stadion von Rio Maior mit zwei Toren Durchsetzen. Damit fand das Team in der portugiesischen Meisterschaft wieder in die Erfolgsspur zurück.",
+    "m": "Das Auswärtsspiel gegen Casa Pia markierte das Auftaktspiel des zehnten Spieltags der I Liga und fand in Rio Maior statt. Sporting CP gewann die Partie am Ende mit 2-0 Toren. Für den entscheidenden Vorsprung sorgten die Torschützen Pedro Lima und Geny Catamo. Durch diesen Erfolg konnte Sporting eine vorherige Durststrecke beenden und kehrt somit zu den Siegen im nationalen Ligabetrieb zurück. Weitere Details zum Spielverlauf oder eventuellen Karten wurden in den Berichten nicht genannt.",
+    "r": "Der Sieg ist für Sporting von Bedeutung, um im Verlauf der I Liga wieder Anschluss an die vorderen Tabellenplätze zu finden und eine positive Serie zu starten.",
+    "srcs": [
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUEpNNEhlellsTFJPY1FndUR4X19jelB3ZVhnLVFPQ2phU09SZEhGTmpmcllEYkh4cHVteHhtT0t6elZFWmpRSEFHaFFIMUpael9SRHpfRnNTYVN5QTVwSXFNY3NIZnp2aFFFQ2U0bEk3YlNoM3BCQW03Y0lWbFlmT18tLU9LNnQwc3RvZ09vbGpxWW01eUhhN3B2eDU4bFE?oc=5",
+        "date": "2026-10-30T22:17:59.000Z"
+      },
+      {
+        "name": "RTP Desporto",
+        "url": "https://www.rtp.pt/noticias/desporto/sporting-regressa-as-vitorias-na-i-liga-em-rio-maior_e1775709",
+        "date": "2026-10-30T17:55:08.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUEpNNEhlellsTFJPY1FndUR4X19jelB3ZVhnLVFPQ2phU09SZEhGTmpmcllEYkh4cHVteHhtT0t6elZFWmpRSEFHaFFIMUpael9SRHpfRnNTYVN5QTVwSXFNY3NIZnp2aFFFQ2U0bEk3YlNoM3BCQW03Y0lWbFlmT18tLU9LNnQwc3RvZ09vbGpxWW01eUhhN3B2eDU4bFE?oc=5",
+    "agree": "Beide Quellen berichten übereinstimmend, dass Sporting in Rio Maior in der I Liga zu den Siegen zurückgekehrt ist.",
+    "diff": [
+      {
+        "name": "RTP Desporto",
+        "note": "nennt den 2-0-Endstand gegen Casa Pia im Eröffnungsspiel der zehnten Runde sowie die Torschützen Pedro Lima und Geny Catamo"
       }
     ],
     "chg": "",
@@ -78,6 +714,47 @@
     "independent": 2
   },
   {
+    "id": "story-0ae8301794df49ae",
+    "c": "INT",
+    "o": "PT",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-30T22:17:04.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Europäische Union und Kanada schließen Abkommen als Reaktion auf US-Zölle",
+    "s": "Angesichts der Handelspolitik und der Drohungen von US-Präsident Donald Trump haben die Europäische Union und Kanada eine Reihe neuer Abkommen beschlossen. Diese Vereinbarungen umfassen verschiedene strategische Bereiche von der Technologie bis zur Ressourcennutzung. Die Kooperation soll als gemeinsame Antwort auf globale Unsicherheiten dienen. Weitere Details zu den konkreten Vereinbarungen wurden bekannt gegeben.",
+    "m": "Die Europäische Union und Kanada haben in Reaktion auf die von US-Präsident Donald Trump angedrohten Zölle und die damit verbundene Volatilität der Weltordnung eine umfassende Reihe von Querschnittsabkommen geschlossen. Die Kooperation erstreckt sich über mehrere Bereiche, darunter insbesondere den Technologiesektor sowie die Erkundung und Förderung von seltenen Erden. Beobachter werten diesen Schritt als eine wichtige strategische Allianz, um künftigen internationalen Krisen und wirtschaftlichem Druck standzuhalten. Die beteiligten Akteure betonen die Notwendigkeit einer multilateralen Zusammenarbeit in Zeiten einer unberechenbaren US-Handelspolitik. Konkrete Zeitpläne für die Umsetzung der einzelnen Abkommen oder finanzielle Volumina wurden in den vorliegenden Berichten jedoch nicht genannt. Die Vereinbarungen markieren einen Schulterschluss zweier wichtiger westlicher Wirtschaftsräume.",
+    "r": "Die Abkommen zwischen der EU und Kanada zeigen, wie traditionelle Handelspartner auf protektionistische Tendenzen und Zollandrohungen der USA reagieren. Sie sind relevant für die künftige Stabilität globaler Lieferketten und geopolitischer Allianzen.",
+    "srcs": [
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTk0zdVZhbEN4Njhrbk9LbjJCaXRCbjN3eGJyWXFJV0tSOFFLWGJORDdkc3N1UXhmR2ZCUUo0WXR0VkdDc2x4Z0VpcTYwSEhCZElnYjdwdFBtMk1UMUlLU0Q4RG81eGZnb19qek1qZHBqWEJnRlJnWm1maXlucFFMU21MemJDb2hYWDduSjRVaVZZck1Obmc3cEJPTXo1Z1dsNzcwdTMzdlRZMWV6RlNFMV9fUlgzZU9sQzVBMFJHNlEyMlpr?oc=5",
+        "date": "2026-10-30T22:17:04.000Z"
+      },
+      {
+        "name": "RTP Mundo",
+        "url": "https://www.rtp.pt/noticias/economia/uniao-europeia-e-canada-selam-acordos-contra-um-mundo-dominado-pelas-taxas-de-trump_n1775731",
+        "date": "2026-10-30T19:12:47.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTk0zdVZhbEN4Njhrbk9LbjJCaXRCbjN3eGJyWXFJV0tSOFFLWGJORDdkc3N1UXhmR2ZCUUo0WXR0VkdDc2x4Z0VpcTYwSEhCZElnYjdwdFBtMk1UMUlLU0Q4RG81eGZnb19qek1qZHBqWEJnRlJnWm1maXlucFFMU21MemJDb2hYWDduSjRVaVZZck1Obmc3cEJPTXo1Z1dsNzcwdTMzdlRZMWV6RlNFMV9fUlgzZU9sQzVBMFJHNlEyMlpr?oc=5",
+    "agree": "",
+    "diff": [
+      {
+        "name": "Google News Portugal",
+        "note": "Berichtet über das Abkommen in Form einer Schlagzeile mit Verweis auf die RTP-Berichterstattung."
+      },
+      {
+        "name": "RTP Mundo",
+        "note": "Liefert die Hauptmeldung mit Details, dass die Kooperation von Technologie bis zur Erschließung seltener Erden reicht."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-6260e2aefc579b17",
     "c": "DE",
     "o": "DE",
@@ -115,6 +792,43 @@
     "independent": 2
   },
   {
+    "id": "story-33a89c50ad9fe5e9",
+    "c": "INT",
+    "o": "PT",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-30T21:55:42.000Z",
+    "p": 2,
+    "st": "",
+    "city": "",
+    "t": "Europäischer Jugendforum fordert Treffen mit von der Leyen",
+    "s": "Das Europäische Jugendforum sowie nationale Jugendräte aus 28 Ländern haben eine dringende Zusammenkunft mit EU-Kommissionspräsidentin Ursula von der Leyen gefordert. Anlass für diesen Vorstoß ist die aktuelle Welle von Protesten, die in verschiedenen Städten stattfindet. Konkrete Forderungen oder Hintergründe zu den Demonstrationen wurden in den Berichten zunächst nicht genannt.",
+    "m": "Das Fórum Europeu da Juventude und nationale Jugendvertretungen aus insgesamt 28 Ländern traten mit der Forderung nach einem dringenden Treffen an die Öffentlichkeit. Adressatin ist die Präsidentin der Europäischen Kommission, Ursula von der Leyen. Grund für die Initiative ist die gegenwärtige Welle von Protesten in zahlreichen Städten. Weitere Details zu den Auslösern der Proteste, den genauen Standorten der Demonstrationen oder den Erwartungen an das Treffen gehen aus den vorliegenden Meldungen nicht hervor.",
+    "r": "Die Initiative von Jugendvertretungen aus 28 Ländern gegenüber der EU-Kommissionsspitze betrifft die europäische Ebene. Ein solches Treffen könnte Einfluss auf den politischen Umgang mit den aktuellen städtischen Protesten haben.",
+    "srcs": [
+      {
+        "name": "RTP Notícias",
+        "url": "https://www.rtp.pt/noticias/mundo/jovens-pedem-reuniao-urgente-com-von-der-leyen-sobre-onda-de-protestos_n1775735",
+        "date": "2026-10-30T21:55:42.000Z"
+      },
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdHdKUElnajRaNkJEQjBsTHEwZjB2Ti15YXRuOFktZXFYLVNuempHa01BbVBkM3FCRmdNcTZpTEpDaEdmeE1wRWh0MWtaV3M4QTJVUmZqWDJ6ak9uXzNrS0dDMUtDYUFtdXdUYjRuMlItNTl1UmJudFFheEozV01aM25IRWJHM0VmVEVHTVJiYWQ4OTNrWjU3VGRiWUZ2SU92cFZfekFhSHFEOWo1b294WjlueWJBaFdpVV9n?oc=5",
+        "date": "2026-10-30T19:51:38.000Z"
+      }
+    ],
+    "url": "https://www.rtp.pt/noticias/mundo/jovens-pedem-reuniao-urgente-com-von-der-leyen-sobre-onda-de-protestos_n1775735",
+    "agree": "Die Quellen stimmen überein, dass Jugendorganisationen aus 28 Ländern ein dringendes Treffen mit von der Leyen wegen Protesten fordern.",
+    "diff": [
+      {
+        "name": "Google News Portugal",
+        "note": "Verweist auf die Berichterstattung der SIC Notícias."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-9da2ee260395979f",
     "c": "INT",
     "o": "US",
@@ -124,10 +838,10 @@
     "p": 5,
     "st": "",
     "city": "",
-    "t": "Möglicher Rekord-Hack: Über sechs Milliarden Dollar von Kryptobörse Binance gestohlen",
-    "s": "Bei einem Cyberangriff auf die Kryptobörse Binance wurden Kryptowährungen im Wert von über sechs Milliarden US-Dollar gestohlen. Es handelt sich um den bisher größten Krypto-Raub der Geschichte. Die Börse versucht nun fieberhaft, die gestohlenen Bestände einzufrieren. Viele Beobachter vermuten Nordkorea hinter dem Vorfall.",
-    "m": "Die weltweit größte Kryptobörse Binance wurde Ziel eines historischen Cyberangriffs, bei dem Krypto-Assets im geschätzten Wert von 6,3 Milliarden US-Dollar entwendet wurden. Dieser massive Diebstahl markiert den bisher größten Krypto-Raub weltweit. Angesichts des Vorfalls arbeitet das Unternehmen mit Hochdruck daran, die betroffenen Milliardenbeträge einzufrieren, um den Schaden zu begrenzen. Erste Vermutungen und Verbindungen bringen die Attacke mit Nordkorea in Verbindung. Die Dimensionen des Angriffs werfen Fragen zur Sicherheit großer Handelsplattformen auf. Weitere Details zum genauen technischen Ablauf oder den Opfern stehen noch aus. Die Behörden und Sicherheitsexperten haben die Ermittlungen aufgenommen.",
-    "r": "Der Vorfall betrifft die weltgrößte Kryptobörse und stellt den bislang größten Krypto-Diebstahl der Geschichte dar, was erhebliche Auswirkungen auf die Sicherheitswahrnehmung der Branche hat.",
+    "t": "Bisher größter Krypto-Diebstahl: Über sechs Milliarden US-Dollar von Binance gestohlen",
+    "s": "Bei einem beispiellosen Cyberangriff auf die weltgrößte Kryptobörse Binance wurden Kryptowährungen im Wert von mehr als sechs Milliarden US-Dollar entwendet. Der Vorfall stellt den bisher größten Krypto-Diebstahl der Geschichte dar. Viele Beobachter vermuten Nordkorea hinter dem Angriff. Binance hat nach dem Rekord-Hack umgehend Maßnahmen zur Einfrierung der betroffenen Gelder eingeleitet.",
+    "m": "Von der weltgrößten Kryptobörse Binance wurden in einem beispiellosen Cyberangriff Kryptowährungen im Gesamtwert von über sechs Milliarden US-Dollar gestohlen. Konkret beziffern Berichte die Summe auf bis zu 6,3 Milliarden US-Dollar. Dieser Vorfall markiert den größten Krypto-Diebstahl der Geschichte. Nach dem Einbruch befindet sich das Unternehmen in einem Wettlauf gegen die Zeit, um die gestohlenen Milliarden einzufrieren. In der Berichterstattung wird der Verdacht geäußert, dass staatlich unterstützte Hacker aus Nordkorea hinter dem verheerenden Raubmord stecken könnten. Weitere Details zum genauen technischen Ablauf des Angriffs oder zu möglichen Sicherheitslücken der Plattform wurden in den vorliegenden Informationen zunächst nicht genannt.",
+    "r": "Der Vorfall stellt den größten Krypto-Diebstahl der Geschichte dar und betrifft die weltgrößte Handelsplattform. Die Dimensionen des Schadens und der mögliche Hintergrund einer staatlichen Beteiligung Nordkoreas verleihen dem Ereignis erhebliche sicherheits- und finanzpolitische Relevanz.",
     "srcs": [
       {
         "name": "NPR Business",
@@ -141,15 +855,15 @@
       }
     ],
     "url": "https://www.npr.org/2026/10/30/nx-s1-6023175/hackers-steal-over-6-billion-from-crypto-exchange-binance-in-staggering-heist",
-    "agree": "Die Quellen stimmen überein, dass Hacker Kryptowährungen im Wert von über sechs Milliarden Dollar von Binance gestohlen haben und Nordkorea verdächtigt wird.",
+    "agree": "Die Quellen stimmen überein, dass es sich um den bisher größten Krypto-Diebstahl in Höhe von über sechs Milliarden US-Dollar bei der Börse Binance handelt und Nordkorea als Täter vermutet wird.",
     "diff": [
       {
         "name": "NPR Business",
-        "note": "Beziffert die Schadenssumme auf über 6 Milliarden US-Dollar."
+        "note": "beziffert die gestohlene Summe auf über 6 Milliarden US-Dollar und hebt hervor, dass es sich um den bisher größten Cyber-Raubmord handelt."
       },
       {
         "name": "Ars Technica",
-        "note": "Beziffert die Schadenssumme auf 6,3 Milliarden US-Dollar und erwähnt, dass Binance versucht, die Milliarden einzufrieren."
+        "note": "nennt eine konkrete Schadenssumme von 6,3 Milliarden US-Dollar und erwähnt, dass Binance nach dem Hack eilig versucht, die Milliarden einzufrieren."
       }
     ],
     "chg": "",
@@ -335,10 +1049,10 @@
     "p": 3,
     "st": "",
     "city": "",
-    "t": "Spanischer Verkehrsminister recusa Demission nach Zugkollision in Toledo",
-    "s": "Der spanische Verkehrsminister Óscar Puente hat seinen Rücktritt nach einem schweren Zwischenfall im Bahnverkehr abgelehnt. Bei dem Vorfall kam es zu einer Kollision von Zügen in der Provinz Toledo, wobei der Minister neue Details zum Hergang nannte. Seine Pflicht sei es nun, das Problem zu lösen und Verantwortung im Amt zu übernehmen.",
-    "m": "Nach dem Zusammenstoß von Zügen in Toledo äußerte sich der spanische Verkehrsminister Óscar Puente zu den Hintergründen der Krise. Er erklärte, dass eine technische Störung im zentralen Kontrollsystem der Hochgeschwindigkeitsstrecke aufgetreten sei. Diese Panne führte dazu, dass insgesamt sechs Züge auf einer Strecke von 63 Kilometern blockiert und im Laufe der Linie imitiert wurden. Trotz heftiger Forderungen nach Konsequenzen betonte Puente, dass er nicht zurücktreten werde. Seine Definition von politischer Verantwortung bestehe darin, aktiv an der Lösung des Problems zu arbeiten und die Situation vor Ort aufzuklären. Bisher sind keine Details über Verletzte oder die genaue Ursache der Kollision über die Systemausfälle hinaus bekannt.",
-    "r": "Die Meldung ist von Bedeutung, da ein Infrastrukturproblem auf einer spanischen Hochgeschwindigkeitsstrecke zu weitreichenden Zugblockaden und einer politischen Kontroverse um den Verkehrsminister führte.",
+    "t": "Spanischer Verkehrsminister Óscar Puente lehnt Rücktritt nach Zugkollision ab",
+    "s": "Der spanische Verkehrsminister Óscar Puente hat seinen Rücktritt nach dem Zugunglück in Toledo abgelehnt. Er betonte, dass seine Art der Verantwortung darin bestehe, das Problem zu lösen und Verantwortung zu übernehmen. Zuvor hatte er neue Details zu dem Vorfall genannt.",
+    "m": "Nach der Zugkollision in Toledo hat sich der spanische Verkehrsminister Óscar Puente zu den Hintergründen geäußert und Rücktrittsforderungen zurückgewiesen. Er erklärte, dass seine primäre Verpflichtung darin bestehe, die Krise zu bewältigen und das Problem zu lösen. In diesem Zusammenhang enthüllte der Minister, dass eine Störung im Kontrollzentrum des Hochgeschwindigkeitsnetzes insgesamt sechs Züge auf einer Strecke von 63 Kilometern lahmgelegt hatte. Konkrete Details zur genauen Unfallursache oder zu möglichen Verletzten wurden in den vorliegenden Berichten nicht genannt. Der Minister machte deutlich, dass er an seinem Amt festhalten will, um die Situation aufzuklären und den Bahnbetrieb wiederherzustellen.",
+    "r": "Der Vorfall betrifft den spanischen Verkehrsminister und die Funktionsfähigkeit des dortigen Hochgeschwindigkeitsnetzes. Die Weigerung des Ministers zurückzutreten und die technischen Hintergründe sind von politischer und sicherheitstechnischer Relevanz.",
     "srcs": [
       {
         "name": "RTP Notícias",
@@ -357,15 +1071,15 @@
       }
     ],
     "url": "https://www.rtp.pt/noticias/mundo/ministro-espanhol-dos-transportes-recusa-demitir-se_v1775747",
-    "agree": "Die Quellen stimmen überein, dass der spanische Verkehrsminister eine Demission ablehnt und seine Pflicht in der Problemlösung sieht.",
+    "agree": "Die Quellen stimmen überein, dass der spanische Verkehrsminister seinen Rücktritt abgelehnt hat und sich zu dem Vorfall in Toledo äußerte.",
     "diff": [
       {
         "name": "RTP Notícias",
-        "note": "Berichtet konkret über neue Pormenores zur Kollision in Toledo und die Systemstörung im Kontrollzentrum, die sechs Züge auf 63 Kilometern stoppte."
+        "note": "Berichtet zusätzlich, dass der Minister Details zur Kollision nannte und erklärte, eine Störung im Kontrollzentrum habe sechs Züge auf 63 Kilometern Strecke immobilisiert."
       },
       {
         "name": "RTP Mundo",
-        "note": "Führt das Zitat des Ministers Óscar Puente an, wonach seine Verantwortung im 'Übernehmen der Verantwortung' liege, und bestätigt die Ablehnung seines Rücktritts."
+        "note": "Zitiert den Minister direkt mit den Worten, dass seine Verantwortung darin bestehe, Verantwortung zu übernehmen."
       }
     ],
     "chg": "",
@@ -459,10 +1173,10 @@
     "p": 2,
     "st": "SH",
     "city": "",
-    "t": "Auto fährt in Norderstedt in Friseurgeschäft: Fahrer stirbt nach medizinischem Notfall",
-    "s": "In Norderstedt ist am Freitagmorgen ein Auto in ein Friseurgeschäft gefahren. Die Polizei geht von einem medizinischen Notfall beim Fahrer aus. Der Mann erlitt gesundheitliche Probleme und verstarb auf dem Weg ins Krankenhaus.",
-    "m": "Am Freitagmorgen kam es in Norderstedt zu einem Unfall, bei dem ein Auto in ein Friseurgeschäft gesteuert wurde. Hintergründe des Vorfalls deuten auf einen medizinischen Notfall des Fahrers hin. Nach dem Unfall wurde der Fahrer medizinisch versorgt und in ein Krankenhaus transportiert. Auf dem Weg dorthin verstarb der Mann. Die genauen Umstände des Unfalls und des medizinischen Notfalls sind Gegenstand der polizeilichen Betrachtungen.",
-    "r": "Der Vorfall zeigt, wie plötzliche medizinische Notfälle im Straßenverkehr zu schweren Unfällen mit Sach- und Personenschäden führen können. Die Klärung der Todesursache und der Unfallursache ist für die Behörden von Bedeutung.",
+    "t": "Auto fährt in Norderstedt in Friseurgeschäft - Fahrer stirbt nach medizinischem Notfall",
+    "s": "Am Freitagmorgen ist ein Auto in Norderstedt in ein Friseurgeschäft gefahren. Nach Polizeiangaben hatte der Fahrer vermutlich einen medizinischen Notfall erlitten. Er verstarb auf dem Weg ins Krankenhaus.",
+    "m": "Der Unfall ereignete sich am Freitagmorgen in Norderstedt, als ein Auto in ein Friseurgeschäft steuerte. Die Polizei geht übereinstimmend von einem medizinischen Notfall als Ursache für den Vorfall aus. Der betroffene Fahrer wurde zunächst versorgt und für den Transport in eine Klinik vorbereitet. Auf dem Weg dorthin verstarb der Mann schließlich. Weitere Details zum genauen Unfallhergang oder dem Zustand des Friseurgeschäfts und eventueller weiterer Verletzter sind derzeit nicht bekannt. Die Ermittlungen der Behörden zu dem Vorfall laufen.",
+    "r": "Der Unfall zeigt, wie plötzliche medizinische Notfälle im Straßenverkehr zu schwerwiegenden Zwischenfällen führen können. Solche Ereignisse erfordern oft polizeiliche Ermittlungen und Rettungseinsätze vor Ort.",
     "srcs": [
       {
         "name": "NDR Schleswig-Holstein",
@@ -476,15 +1190,15 @@
       }
     ],
     "url": "https://www.ndr.de/fernsehen/sendungen/schleswig-holstein_magazin/auto-in-friseurgeschaeft-in-norderstedt-gefahren-fahrer-tot,shmag-14582.html",
-    "agree": "Beide Quellen stimmen darin überein, dass am Freitagmorgen in Norderstedt ein Auto in ein Friseurgeschäft gefahren ist und der Fahrer vermutlich einen medizinischen Notfall hatte.",
+    "agree": "Die Quellen stimmen überein, dass in Norderstedt ein Auto in ein Friseurgeschäft gefahren ist und der Fahrer vermutlich einen medizinischen Notfall hatte.",
     "diff": [
       {
         "name": "NDR Schleswig-Holstein",
-        "note": "Berichtet, dass der Fahrer wohl einen medizinischen Notfall hatte, ohne explizit zu erwähnen, dass er im Rettungswagen starb."
+        "note": "Berichtet, dass der Fahrer tot ist, ohne den genauen Ort des Todes zu nennen."
       },
       {
         "name": "Tagesschau Regional Schleswig-Holstein",
-        "note": "Ergänzt präzisierend, dass der Fahrer auf dem Weg ins Krankenhaus gestorben ist."
+        "note": "Ergänzt, dass der Fahrer auf dem Weg ins Krankenhaus gestorben ist."
       }
     ],
     "chg": "",
@@ -500,10 +1214,10 @@
     "p": 2,
     "st": "SH",
     "city": "",
-    "t": "Vishay erweitert Chip-Fabrik in Itzehoe mit Millionenförderung",
-    "s": "Der Chiphersteller Vishay baut seine Fabrik für die Fertigung von 300-mm-Wafers in Itzehoe aus. Durch das Projekt werden 250 neue Arbeitsplätze geschaffen. Das Vorhaben wird mit einer Millionenförderung unterstützt.",
-    "m": "Der Chiphersteller Vishay investiert in den Ausbau seiner Fabrik in Itzehoe, die auf die Fertigung von 300-mm-Wafers spezialisiert ist. Mit dieser Erweiterung entstehen 250 neue Jobs an dem Standort in Schleswig-Holstein. Das Projekt erhält eine Millionenförderung, deren genaue Gesamtsumme im Detail noch weiter beleuchtet werden könnte. Die Maßnahme stärkt den Halbleiterstandort Deutschland und erhöht die Produktionskapazitäten für wichtige Mikroelektronikkomponenten. Weitere Details zur genauen Finanzierung und zum zeitlichen Ablauf des Baus wurden in den Berichten zunächst nicht genannt.",
-    "r": "Die Investition stärkt den regionalen Arbeitsmarkt durch 250 neue Jobs und fördert den wichtigen Halbleiterstandort in Deutschland. Der Ausbau der Chip-Produktion ist zudem bedeutsam für die technologische Infrastruktur.",
+    "t": "Millionenförderung: Chiphersteller Vishay erweitert Werk in Itzehoe",
+    "s": "Der Chiphersteller Vishay baut seine Fabrik für die Fertigung von 300-mm-Wafers in Itzehoe aus. Durch das Projekt werden am Standort 250 neue Arbeitsplätze geschaffen. Für die Erweiterung erhält das Unternehmen eine Millionenförderung.",
+    "m": "Das Vorhaben sieht die Erweiterung der Fabrik zur Fertigung von 300-mm-Wafers des Chipherstellers Vishay in Itzehoe vor. Mit dieser Investition und dem Ausbau des Standortes entstehen insgesamt 250 neue Jobs in der Region. Die Finanzierung wird durch eine beträchtliche Millionenförderung unterstützt. Nähere Details zur genauen Höhe der Fördersumme oder zum Zeitplan der Fertigstellung nennen die Berichte bisher nicht.",
+    "r": "Die Investition und der Ausbau der Chip-Produktion in Itzehoe sind wirtschaftlich bedeutsam für den Standort, da sie die technologische Kapazität erhöhen und zahlreiche neue Arbeitsplätze schaffen.",
     "srcs": [
       {
         "name": "NDR Schleswig-Holstein",
@@ -517,15 +1231,56 @@
       }
     ],
     "url": "https://www.ndr.de/fernsehen/sendungen/schleswig-holstein_magazin/millionenfoerderung-fuer-neue-halbleiterfabrik-in-itzehoe,shmag-14586.html",
-    "agree": "Beide Quellen stimmen überein, dass der Chiphersteller Vishay seine Fabrik in Itzehoe für die Fertigung von 300-mm-Wafers erweitert und dabei 250 neue Jobs schafft.",
+    "agree": "Beide Quellen stimmen überein, dass der Chiphersteller Vishay seine Fabrik für 300-mm-Wafers in Itzehoe erweitert und dabei 250 neue Jobs schafft.",
     "diff": [
       {
         "name": "NDR Schleswig-Holstein",
-        "note": "Betont die Millionenförderung direkt in der Überschrift."
+        "note": "Erwähnt im Titel explizit die Millionenförderung."
       },
       {
         "name": "Tagesschau Regional Schleswig-Holstein",
-        "note": "Formuliert den Ausbau als Bau eines Werks in der Überschrift."
+        "note": "Formuliert den Titel etwas anders mit dem Fokus auf die Millionen für die Chip-Fabrik."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
+    "id": "story-8957efd21760966b",
+    "c": "DE",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-30T19:41:46.000Z",
+    "p": 3,
+    "st": "BE",
+    "city": "",
+    "t": "Debatte um Elif Eralp überschattet Berlins Regierungsbildung",
+    "s": "Die geplante Weichenstellung für rot-grün-rote Koalitionsverhandlungen in Berlin am Wochenende wird von internen Konflikten überschattet. Kurz vor dem Parteitag gerät die Berliner Linke massiv unter Druck. Grund dafür sind eine Debatte um Elif Eralp, ein Streit um Vanessa Emde sowie parteiinterne Proteste.",
+    "m": "Eigentlich sollte an diesem Wochenende der entscheidende Weg für rot-grün-rote Koalitionsverhandlungen in Berlin geebnet werden. Doch kurz vor dem anstehenden Parteitag sieht sich die Berliner Linke mit schwerem Gegenwind konfrontiert. Auslöser für den wachsenden Druck sind insbesondere die Debatte um Elif Eralp sowie ein interner Streit um Vanessa Emde. Hinzu kommen parteiinterne Proteste, die den reibungslosen Ablauf der Regierungsbildung gefährden. Konkrete Details zu den Hintergründen der Personalien Eralp und Emde sowie der genaue Ablauf der Proteste werden in den Quellen nicht näher beziffert. Die Situation stellt die beteiligten Akteure vor eine Belastungsprobe kurz vor den richtungsweisenden Entscheidungen.",
+    "r": "Interne Konflikte und Personaldebatten innerhalb der Berliner Linken gefährden die anstehenden Schritte zur Bildung einer rot-grün-roten Koalition. Dies zeigt, wie fragil die Regierungsbündnisse auf Landesebene vor entscheidenden Parteitagen sein können.",
+    "srcs": [
+      {
+        "name": "Tagesschau Regional Berlin",
+        "url": "https://www.tagesschau.de/inland/regional/berlin/rbb-eralp-debatte-ueberschattet-berlins-regierungsbildung-100.html",
+        "date": "2026-10-30T19:41:46.000Z"
+      },
+      {
+        "name": "Google News DE",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVmliSWtuYnlvLTFZSFdGMWZWTUkzQkg4VzlVbV9LTG1zMVlXcjNYOXRQVjFaUGt4ZHJsMENqQ211THY4ZTFFal9RbXNXRVZiQ0Y5Vnc4ZVgzQ3YwdmdpdDVwTjJwWVVqNV9wbTlXMllKLXZVeXcwZmt0b0wyc2xJSU5oWDNxTUdqdlRsVXN0ZkJ3ejRJc0VrVU5odWYxaHh6WmpzY0s3WUQxbUpVZ2tj?oc=5",
+        "date": "2026-10-30T18:25:10.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/inland/regional/berlin/rbb-eralp-debatte-ueberschattet-berlins-regierungsbildung-100.html",
+    "agree": "Beide Quellen stimmen überein, dass die Debatte um Elif Eralp die Regierungsbildung in Berlin überschattet.",
+    "diff": [
+      {
+        "name": "Tagesschau Regional Berlin",
+        "note": "Erwähnt zusätzlich den Streit um Vanessa Emde und parteiinterne Proteste als Ursachen für den Druck auf die Berliner Linke vor dem Parteitag am Wochenende."
+      },
+      {
+        "name": "Google News DE",
+        "note": "Verweist in der Kurzmeldung auf rbb24.de als weiterführende Quelle zur Debatte um Elif Eralp."
       }
     ],
     "chg": "",
@@ -579,13 +1334,13 @@
     "k": "politik",
     "lang": "de",
     "d": "2026-10-30T19:28:27.000Z",
-    "p": 3,
+    "p": 2,
     "st": "NI",
     "city": "",
     "t": "Anklage gegen Göttingens suspendierten Landrat Marcel Riethig wegen Untreue",
-    "s": "Die Staatsanwaltschaft Göttingen hat Anklage gegen den suspendierten Landrat Marcel Riethig erhoben. Dem Politiker wird in diesem Zusammenhang Untreue vorgeworfen. Im Zentrum der Vorwürfe stehen Mietzahlungen für eine Schule.",
-    "m": "Die Vorwürfe gegen den ehemaligen beziehungsweise suspendierten Göttinger Landrat Marcel Riethig beziehen sich konkret auf eine Berufsschule im südniedersächsischen Osterode. Laut Anklage soll er dort einer unnötigen und zu hohen Mieterhöhung zugestimmt haben. Dadurch sollen der öffentlichen Hand Mehrkosten von mehr als 1,6 Millionen Euro entstanden sein. Die Staatsanwaltschaft Göttingen führt das Verfahren, das nun zu einer offiziellen Anklageerhebung geführt hat. Die beteiligten Akteure sind neben der Staatsanwaltschaft der betroffene Landrat sowie die betroffene Bildungseinrichtung. Offene Fragen betreffen die genauen Hintergründe der Zustimmung und das anstehende Gerichtsverfahren.",
-    "r": "Die Anklage gegen einen amtierenden beziehungsweise suspendierten kommunalen Amtsträger wegen Untreue in Millionenhöhe berührt die Integrität der öffentlichen Verwaltung. Das Verfahren hat somit eine hohe politische und regionale Relevanz.",
+    "s": "Die Staatsanwaltschaft Göttingen hat Anklage gegen den suspendierten beziehungsweise ehemaligen Landrat Marcel Riethig erhoben. Ihm wird Untreue beziehungsweise die Veruntreuung von Geldern vorgeworfen. Im Zentrum der Vorwürfe steht die Miete für eine Schule im Landkreis. Die Ermittlungen führten nun zu diesem rechtlichen Schritt der Staatsanwaltschaft.",
+    "m": "Die Staatsanwaltschaft Göttingen wirft dem suspendierten Landrat Marcel Riethig vor, sich im Amt strafbar gemacht zu haben, und hat deshalb Anklage erhoben. Konkret geht es um den Vorwurf der Untreue und die Veruntreuung von öffentlichen Geldern. Im Fokus der Ermittlungen steht dabei die Miete für ein konkretes Schulobjekt. Den Angaben zufolge soll es sich um eine Berufsschule handeln. Diese befindet sich in Osterode. Laut den Vorwürfen soll die Miete für diese Schule zu hoch angesetzt worden sein. Riethig wird in den Berichten teils als suspendierter und teils als ehemaliger Landrat bezeichnet. Weitere Details zum genauen finanziellen Schaden oder zu Reaktionen des Beschuldigten nennen die Berichte bisher nicht.",
+    "r": "Die Anklage gegen einen Landrat wegen Untreue ist ein schwerwiegender Vorwurf gegen einen hohen kommunalen Amtsträger. Der Fall berührt die Integrität der lokalen Verwaltung und den Umgang mit öffentlichen Finanzmitteln für Bildungseinrichtungen.",
     "srcs": [
       {
         "name": "Tagesschau Regional Niedersachsen",
@@ -596,31 +1351,22 @@
         "name": "NDR Niedersachsen",
         "url": "https://www.ndr.de/fernsehen/sendungen/hallo_niedersachsen/staatsanwaltschaft-goettingen-wirft-marcel-riethig-untreue-vor,hallonds-11300.html",
         "date": "2026-10-30T19:02:58.000Z"
-      },
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/politik/marcel-riethig-staatsanwaltschaft-erhebt-anklage-gegen-suspendierten-landrat-24YDUOUZ35AWPEO4BSSQM425D4.html",
-        "date": "2026-10-30T17:11:42.000Z"
       }
     ],
     "url": "https://www.tagesschau.de/inland/regional/niedersachsen/staatsanwaltschaft-erhebt-anklage-gegen-marcel-riethig,landrat-130.html",
-    "agree": "Die Quellen sind sich einig, dass die Staatsanwaltschaft Göttingen Anklage gegen den Landrat Marcel Riethig wegen Untreue im Zusammenhang mit einer Schulmiete erhoben hat.",
+    "agree": "Die Staatsanwaltschaft Göttingen hat Anklage wegen Untreue und Veruntreuung von Geldern gegen den Landrat Marcel Riethig im Zusammenhang mit einer Schulmiete erhoben.",
     "diff": [
       {
         "name": "Tagesschau Regional Niedersachsen",
-        "note": "Berichtet allgemein von Geldveruntreuung im Zusammenhang mit einer Schule."
+        "note": "Bezeichnet Riethig als suspendierten Landrat und spricht allgemein von der Miete für eine Schule."
       },
       {
         "name": "NDR Niedersachsen",
-        "note": "Nennt zusätzlich Osterode als Ort der betroffenen Berufsschule."
-      },
-      {
-        "name": "RND",
-        "note": "Konkretisiert den Vorwurf als schwere Untreue und nennt eine konkrete Schadenssumme von mehr als 1,6 Millionen Euro."
+        "note": "Bezeichnet Riethig als ehemaligen Landrat und präzisiert, dass es sich um eine Berufsschule in Osterode handelt, deren Miete zu hoch angesetzt worden sein soll."
       }
     ],
     "chg": "",
-    "independent": 3
+    "independent": 2
   },
   {
     "id": "story-e581384c7bb641f5",
@@ -665,7 +1411,7 @@
   },
   {
     "id": "story-be3e9bca2009e273",
-    "c": "INT",
+    "c": "DE",
     "o": "DE",
     "k": "sport",
     "lang": "de",
@@ -674,9 +1420,9 @@
     "st": "HH",
     "city": "",
     "t": "Alexander Zverev wird neue Nummer eins der Tennis-Weltrangliste",
-    "s": "Der deutsche Tennisprofi Alexander Zverev hat beim ATP-Turnier in Wien den Sprung an die Spitze der Weltrangliste geschafft. Nach seinem erfolgreich bestrittenen Achtelfinal-Sieg wird der Hamburger ab dem kommenden Montag offiziell den ersten Platz belegen. Damit krönt er seine bisherige sportliche Laufbahn mit dem Erreichen des Tennis-Throns.",
-    "m": "Alexander Zverev steht ab dem kommenden Montag offiziell an der Spitze der Tennis-Weltrangliste. Den entscheidenden Sprung auf Platz eins der Weltrangliste machte der Hamburger im Rahmen des aktuell laufenden ATP-Turniers in Wien. Dort konnte er sein Achtelfinal-Match erfolgreich für sich entscheiden und damit die nötigen Punkte für den historischen Platztausch sichern. Zverev übernimmt den Tennis-Thron von seinem bisherigen Kontrahenten an der Spitze. Das Erreichen der Weltranglistenführung markiert einen Meilenstein in der Karriere des deutschen Ausnahmespielers. Weitere Details zum Turnierverlauf in Wien und zum genauen Gegner im Achtelfinale wurden in den Berichten nicht genannt.",
-    "r": "Der Führungswechsel an der Spitze der Tennis-Weltrangliste ist von hoher sportlicher Bedeutung für den deutschen Profisport. Alexander Zverev erreicht damit zum ersten Mal diesen historischen Meilenstein in seiner Karriere.",
+    "s": "Der Hamburger Tennisspieler Alexander Zverev hat den Sprung an die Spitze der Weltrangliste perfekt gemacht. Nach seinem Sieg beim Achtelfinal-Turnier in Wien wird er ab kommenden Montag offiziell den ersten Platz belegen.",
+    "m": "Durch den Erfolg im Achtelfinale beim ATP-Turnier in Wien sicherte sich der Hamburger Alexander Zverev die nötigen Punkte für den Sprung an die Spitze. Ab dem kommenden Montag wird er offiziell als Nummer eins der Tennis-Welt geführt. Das Turnier in Wien diente dabei als entscheidende Bühne für diesen sportlichen Meilenstein. Weitere Details zum Turnierverlauf, dem konkreten Gegner im Achtelfinale oder der erreichten Punktzahl nennen die vorliegenden Berichte nicht. Offen bleibt zudem, wie lange er diesen Platz verteidigen kann.",
+    "r": "Die Meldung ist sportlich von hoher Relevanz, da erstmals ein Hamburger Spieler diese Position erreicht. Der Aufstieg an die Weltspitze markiert einen bedeutenden Meilenstein im internationalen Herrentennis.",
     "srcs": [
       {
         "name": "NDR Hamburg",
@@ -690,15 +1436,15 @@
       }
     ],
     "url": "https://www.ndr.de/nachrichten/info/zverev-ist-die-nummer-eins-der-tennis-welt,ndrinfo-19060.html",
-    "agree": "Beide Quellen stimmen darin überein, dass Alexander Zverev nach seinem Achtelfinal-Sieg beim ATP-Turnier in Wien ab Montag die Nummer eins der Tennis-Welt ist.",
+    "agree": "Die Quellen stimmen überein, dass Alexander Zverev nach seinem Achtelfinal-Sieg beim ATP-Turnier in Wien ab Montag die Nummer eins der Tennis-Welt ist.",
     "diff": [
       {
         "name": "NDR Hamburg",
-        "note": "Erwähnt im Titel, dass Zverev die Nummer eins der Tennis-Welt ist."
+        "note": "Erwähnt konkret, dass es sich um einen Achtelfinal-Sieg handelt."
       },
       {
         "name": "Tagesschau Regional Hamburg",
-        "note": "Nutzt den Ausruf \"Geschafft!\" im Titel und spricht vom Besteigen des \"Tennis-Throns\"."
+        "note": "Formuliert die Überschrift emotionaler mit 'Geschafft!' und spricht vom 'Tennis-Thron'."
       }
     ],
     "chg": "",
@@ -715,9 +1461,9 @@
     "st": "BW",
     "city": "",
     "t": "Kampagne sichert Weihnachtsbeleuchtung in der Mannheimer Innenstadt",
-    "s": "Wegen gestiegener Kosten war die Finanzierung der Weihnachtsbeleuchtung in Mannheim zunächst unklar. Eine Spendenkampagne hat nun rund 60.000 Euro gesammelt. Damit ist die festliche Beleuchtung der Innenstadt für dieses Jahr gesichert.",
-    "m": "Die Finanzierung der traditionellen Weihnachtsbeleuchtung in Mannheim stand vor finanziellen Hürden, da die Kosten in letzter Zeit stark gestiegen waren. Um den Ausfall der Beleuchtung zu verhindern, wurde eine Kampagne zur Sammlung von sogenannten Leuchtbeiträgen ins Leben gerufen. Diese Initiative war erfolgreich und hat bislang etwa 60.000 Euro eingebracht. Dank dieser Summe ist nun offiziell bestätigt, dass die Mannheimer Innenstadt in der kommenden Weihnachtszeit wieder hell erstrahlen wird. Die Aktion zeigt das Engagement von Bürgern oder Unternehmen vor Ort, die durch ihre Beiträge das Projekt unterstützen. Weitere Details zu den Gesamtkosten oder den genauen Spendern wurden in den Berichten nicht genannt.",
-    "r": "Die Nachricht zeigt, wie lokale Finanzierungsprobleme bei traditionellen Stadtfesten oder -beleuchtungen durch Spendenkampagnen gelöst werden können. Dies ist von lokalem Interesse für die Stadtgesellschaft und den Handel.",
+    "s": "Wegen gestiegener Kosten war die Finanzierung der Weihnachtsbeleuchtung in Mannheim zunächst unklar. Eine Spendenkampagne hat nun rund 60.000 Euro gesammelt. Damit ist die Beleuchtung für die kommende Weihnachtszeit gesichert.",
+    "m": "Die Finanzierung der weihnachtlichen Beleuchtung in der Mannheimer Innenstadt stand aufgrund deutlich gestiegener Kosten auf der Kippe. Um dies abzuwenden, wurde eine Spendenkampagne unter dem Namen \"Leuchtbeiträge\" ins Leben gerufen. Diese Aktion war erfolgreich und brachte bisher eine Summe von rund 60.000 Euro ein. Durch diese finanzielle Unterstützung ist nun gesichert, dass die Straßen und Plätze der Innenstadt in der Advents- und Weihnachtszeit wie gewohnt hell erstrahlen werden. Beteiligt sind die Initiatoren der Kampagne sowie Spender, die mit ihren Beiträgen das Projekt unterstützt haben.",
+    "r": "Die Meldung ist relevant für die lokale Öffentlichkeit und den Handel in Mannheim, da die Weihnachtsbeleuchtung für die Innenstadt gesichert ist. Sie zeigt zudem, wie durch Spendenaktionen finanzielle Lücken bei städtischen oder saisonalen Projekten geschlossen werden können.",
     "srcs": [
       {
         "name": "Tagesschau Regional Baden-Württemberg",
@@ -731,17 +1477,8 @@
       }
     ],
     "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-kampagne-sammelt-rund-60-000-euro-und-sichert-weihnachtsbeleuchtung-in-der-mannheimer-innenstadt-100.html",
-    "agree": "Beide Quellen stimmen darin überein, dass eine Kampagne rund 60.000 Euro gesammelt und damit die Weihnachtsbeleuchtung in der Mannheimer Innenstadt gesichert hat.",
-    "diff": [
-      {
-        "name": "Tagesschau Regional Baden-Württemberg",
-        "note": "Keine abweichenden oder zusätzlichen Informationen im Vergleich zu SWR Aktuell."
-      },
-      {
-        "name": "SWR Aktuell",
-        "note": "Keine abweichenden oder zusätzlichen Informationen im Vergleich zur Tagesschau."
-      }
-    ],
+    "agree": "Beide Quellen sind sich einig, dass eine Spendenkampagne rund 60.000 Euro gesammelt hat und damit die Weihnachtsbeleuchtung in der Mannheimer Innenstadt trotz gestiegener Kosten gesichert ist.",
+    "diff": [],
     "chg": "",
     "independent": 2
   },
@@ -827,16 +1564,16 @@
     "id": "story-9a9c554a04ab2cf3",
     "c": "DE",
     "o": "DE",
-    "k": "panorama",
+    "k": "politik",
     "lang": "de",
     "d": "2026-10-30T17:42:45.000Z",
     "p": 2,
     "st": "BW",
     "city": "",
-    "t": "Gen-Z-Proteste in Baden-Württemberg: Das ist geplant",
-    "s": "Die Initiative \"Gen Z regelt\" ruft in Baden-Württemberg zu Kundgebungen auf. Für den kommenden Samstag sind Proteste in mehreren Städten geplant. Tausende Jugendliche wollen auf die Straße gehen. Die Proteste finden vor dem Hintergrund internationaler Vorfälle statt.",
-    "m": "Am Samstag plant die Initiative \"Gen Z regelt\" Proteste in Baden-Württemberg. Geplant sind Demos unter anderem in den Städten Stuttgart, Mannheim, Karlsruhe, Freiburg und Ulm. Es wird erwartet, dass tausende Jugendliche teilnehmen. Die genauen Ziele und Gründe für die Proteste werden im Vorfeld beleuchtet. In Frankreich kam es im Zusammenhang mit ähnlichen Bewegungen zu Plünderungen und Angriffen auf Polizisten, was den Kontext der Jugendproteste prägt. Es ist offen, wie sich die Demonstrationen in Baden-Württemberg entwickeln und ob es zu Zwischenfällen kommt.",
-    "r": "Die angekündigten Proteste einer Jugendinitiative in mehreren Großstädten Baden-Württembergs sind gesellschaftlich relevant, da tausende Teilnehmer erwartet werden und internationale Vorfälle für Aufmerksamkeit sorgen.",
+    "t": "Proteste der Initiative Gen Z regelt in Baden-Württemberg",
+    "s": "Die Initiative Gen Z regelt ruft für Samstag zu Demonstrationen in mehreren Städten Baden-Württembergs auf. Geplant sind Kundgebungen unter anderem in Stuttgart, Mannheim, Karlsruhe, Freiburg und Ulm. Tausende Jugendliche wollen nach Vorbild der Proteste in Frankreich auf die Straße gehen. Es wird erwartet, dass die Teilnehmer ihre Anliegen und Forderungen öffentlich kundtun.",
+    "m": "Die Proteste knüpfen an ähnliche Ereignisse in Frankreich an, bei denen es zu Plünderungen und Angriffen auf Polizisten gekommen war. Bisher ist unklar, ob die Demonstrationen in Baden-Württemberg friedlich verlaufen oder ob es zu Ausschreitungen wie im Nachbarland kommt. Die Behörden und Veranstalter bereiten sich auf den Zulauf tausender junger Menschen vor. Die genauen Forderungen und Ziele der Initiative sollen im Rahmen der Kundgebungen näher beleuchtet werden. Die Polizei hat die Situation im Blick, um die öffentliche Sicherheit zu gewährleisten.",
+    "r": "Die Proteste sind relevant, da tausende Jugendliche auf die Straße gehen und Bezüge zu gewaltsamen Vorfällen im Ausland bestehen. Dies betrifft die öffentliche Sicherheit und das politische Versammlungsgeschehen in mehreren großen Städten Baden-Württembergs.",
     "srcs": [
       {
         "name": "Tagesschau Regional Baden-Württemberg",
@@ -844,21 +1581,21 @@
         "date": "2026-10-30T17:42:45.000Z"
       },
       {
-        "name": "SWR Aktuell",
+        "name": "SWR Aktuell Baden-Württemberg",
         "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/gen-z-demo-wer-wie-was-100.html",
         "date": "2026-10-30T13:43:58.000Z"
       }
     ],
     "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-gen-z-regelt-demos-in-baden-wuerttemberg-das-wird-erwartet-100.html",
-    "agree": "Beide Quellen berichten über die von der Initiative \"Gen Z regelt\" für Samstag geplanten Demonstrationen von Jugendlichen in Baden-Württemberg.",
+    "agree": "Beide Quellen berichten über die für Samstag geplanten Demonstrationen der Initiative Gen Z regelt in verschiedenen Städten Baden-Württembergs mit tausenden erwarteten Jugendlichen.",
     "diff": [
       {
         "name": "Tagesschau Regional Baden-Württemberg",
-        "note": "nennt konkret die beteiligten Städte Stuttgart, Mannheim, Karlsruhe, Freiburg und Ulm."
+        "note": "Nennt konkrete Städte wie Stuttgart, Mannheim, Karlsruhe, Freiburg und Ulm als geplante Demonstrationsorte."
       },
       {
-        "name": "SWR Aktuell",
-        "note": "erwähnt als Hintergrund Plünderungen und Angriffe auf Polizisten in Frankreich."
+        "name": "SWR Aktuell Baden-Württemberg",
+        "note": "Erwähnt die Vorkommnisse in Frankreich mit Plünderungen und Angriffen auf Polizisten als Kontext."
       }
     ],
     "chg": "",
@@ -912,9 +1649,9 @@
     "st": "",
     "city": "",
     "t": "US-Häftlinge Christa Pike äußert sich nach gescheiterter Hinrichtung",
-    "s": "Die US-Todeszelleninsassin Christa Pike hat sich erstmals öffentlich zu ihrer im September fehlgeschlagenen Hinrichtung mittels Todesspritze geäußert. Sie erklärte, nach dem gescheiterten Vollstreckungsversuch verwirrt und unter Schmerzen aufgewacht zu sein. Der Fall sorgt international für Aufmerksamkeit.",
-    "m": "Die wegen Mordes verurteilte US-Todeszelleninsassin Christa Pike hat in einer ersten öffentlichen Erklärung Details zu ihrer im September gescheiterten Hinrichtung durch eine Todesspritze genannt. Sie gab an, sie sei nach dem abgebrochenen Verfahren verwirrt und in Schmerzen aufgewacht und leide seither unter anhaltenden Schmerzen. Gleichzeitig äußerte sie Dankbarkeit gegenüber jenen, die ihr Leben gerettet haben, und rief zu Mitgefühl für die Familie ihres Opfers auf. Die genauen Umstände des fehlgeschlagenen Hinrichtungsversuchs in Tennessee werden im Zuge des Vorfalls weiter diskutiert. Es bleibt unklar, welche konkreten medizinischen oder juristischen Schritte als Nächstes folgen.",
-    "r": "Die Äußerungen der Überlebenden einer fehlgeschlagenen Hinrichtung werfen ein Schlaglicht auf die Praxis und die Risiken der Todesstrafe in den USA. Die Aussagen von Christa Pike bieten seltene persönliche Einblicke in ein solches Ereignis.",
+    "s": "Die zum Tode verurteilte US-Inhaftierte Christa Pike hat sich erstmals öffentlich zu ihrer im September fehlgeschlagenen Hinrichtung mittels Todesspritze geäußert. Sie erklärte, nach dem gescheiterten Verfahren verwirrt und unter Schmerzen aufgewacht zu sein. Details zu ihrem aktuellen Zustand und ihren Aussagen wurden in den Berichten bekannt.",
+    "m": "Die US-Todeszellenhäftlinge Christa Pike überlebte im September einen Hinrichtungsversuch durch eine tödliche Injektion, der fehlschlug. Nun wandte sie sich in einer ersten öffentlichen Erklärung an die Öffentlichkeit und berichtete, sie sei nach dem Abbruch verwirrt und in Schmerzen aufgewacht. Sie drückte ihre Dankbarkeit gegenüber denjenigen aus, die ihr das Leben gerettet haben, und rief gleichzeitig zu Mitgefühl für die Familie ihres Opfers auf. Pike betonte zudem, dass sie sich weiterhin in ständigen Schmerzen befinde. Die Berichte beleuchten damit die dramatischen Nachwirkungen des abgebrochenen Vollstreckungsversuchs in Tennessee.",
+    "r": "Die Äußerungen einer überlebenden Häftlichen nach einer fehlgeschlagenen Hinrichtung werfen ein Schlaglicht auf die Praxis und die Risiken der Todesstrafe. Der Fall berührt sowohl rechtliche als auch ethische Fragen im Zusammenhang mit der Durchführung von Hinrichtungen.",
     "srcs": [
       {
         "name": "BBC World",
@@ -928,11 +1665,15 @@
       }
     ],
     "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
-    "agree": "Beide Quellen stimmen darin überein, dass Christa Pike sich erstmals öffentlich zu ihrer im September gescheiterten Hinrichtung durch eine Todesspritze geäußert hat und dabei angab, Schmerzen empfunden zu haben.",
+    "agree": "Beide Quellen stimmen überein, dass Christa Pike im September eine fehlgeschlagene Hinrichtung durch tödliche Injektion überlebt hat und sich nun erstmals öffentlich dazu äußerte.",
     "diff": [
       {
+        "name": "BBC World",
+        "note": "Erwähnt, dass Pike aufwachte und sich 'verwirrt und in Schmerzen' befand."
+      },
+      {
         "name": "France24 English",
-        "note": "Berichtet zusätzlich, dass Pike dankbar für die Rettung ihres Lebens ist und zu Mitgefühl für die Familie des Opfers aufruft."
+        "note": "Nennt Tennessee als Bundesstaat, berichtet, dass Pike sich in 'konstanten Schmerzen' sieht, und erwähnt ihren Dank an Lebensretter sowie den Aufruf zu Mitgefühl für die Opferfamilie."
       }
     ],
     "chg": "",
@@ -1148,6 +1889,47 @@
     "independent": 2
   },
   {
+    "id": "story-c2dbea6d5cec93d4",
+    "c": "INT",
+    "o": "PT",
+    "k": "wirtschaft",
+    "lang": "de",
+    "d": "2026-10-30T14:50:52.000Z",
+    "p": 3,
+    "st": "",
+    "city": "",
+    "t": "Portugiesische Wirtschaft wächst im dritten Quartal um 0,2 Prozent",
+    "s": "Die portugiesische Wirtschaft hat im dritten Quartal an Dynamik verloren und ein geringes Wachstum verzeichnet. Das nationale Statistikinstitut hat am Freitag die entsprechenden Schnellschätzungen veröffentlicht. Die genauen Kennzahlen unterscheiden sich je nach betrachtetem Vorjahres- oder Quartalsvergleich.",
+    "m": "Das Instituto Nacional de Estatística hat am Freitag die Schnellschätzung zur Wirtschaftsleistung Portugals im dritten Quartal vorgelegt. Während Google News Portugal unter Berufung auf das Blatt Público meldet, dass die Wirtschaft im dritten Quartal lediglich um 0,2 Prozent gewachsen sei, präzisiert RTP Economia diese Angaben. Laut RTP belief sich das Wachstum im Vergleich zum Vorquartal in Kette auf 0,2 Prozent, während im Jahresvergleich beziehungsweise in homöologischer beziehungsweise homologer Betrachtung ein Wachstum von 2,4 Prozent erzielt wurde. Damit verlangsamt sich das Wirtschaftswachstum im Vergleich zu früheren Phasen spürbar. Weitere Details zum genauen Ablauf oder Reaktionen von Politikern nennen die Berichte nicht.",
+    "r": "Die Entwicklung des BIP gibt Aufschluss über die konjunkturelle Verfassung Portugals und die Stabilität der Eurozone. Das verlangsamte Wachstum ist ein wichtiger Indikator für die nationale Wirtschaftspolitik.",
+    "srcs": [
+      {
+        "name": "Google News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVDdhYmxzMFRZUzZHbHF6aHZzWXJtaXhrV1k0QkpsbDM3aC1RSzluanZ5R3BJYTdqWFluUmtPNGpqWG5PdXMzOHpjVFRDZlpVa1FhZkRLVmtNZEdZSHhteVY1YVVJQ3lyQy1rN3gzOW5LTkl0c0Z5TmhHc09DYzVEanRpX2czN3pUck51dTZhQmRrUGhBcmpyTkRpX3NzaXl4RXJORS1OdVRrQTE1SnM1eTZHMmlFSHd3aHZoaHMtaFpwcnM?oc=5",
+        "date": "2026-10-30T14:50:52.000Z"
+      },
+      {
+        "name": "RTP Economia",
+        "url": "https://www.rtp.pt/noticias/economia/economia-portuguesa-cresce-24-no-terceiro-trimestre_n1775560",
+        "date": "2026-10-30T10:03:18.000Z"
+      }
+    ],
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVDdhYmxzMFRZUzZHbHF6aHZzWXJtaXhrV1k0QkpsbDM3aC1RSzluanZ5R3BJYTdqWFluUmtPNGpqWG5PdXMzOHpjVFRDZlpVa1FhZkRLVmtNZEdZSHhteVY1YVVJQ3lyQy1rN3gzOW5LTkl0c0Z5TmhHc09DYzVEanRpX2czN3pUck51dTZhQmRrUGhBcmpyTkRpX3NzaXl4RXJORS1OdVRrQTE1SnM1eTZHMmlFSHd3aHZoaHMtaFpwcnM?oc=5",
+    "agree": "Die Quellen sind sich einig, dass das portugiesische Statistikinstitut INE am Freitag eine Schnellschätzung zur Wirtschaftsleistung für das dritte Quartal veröffentlicht hat und dabei ein Quartalswachstum von 0,2 Prozent verzeichnet wurde.",
+    "diff": [
+      {
+        "name": "Google News Portugal",
+        "note": "Berichtet allgemein, dass die Wirtschaft im dritten Quartal um 0,2 Prozent gewachsen sei (ohne explizite Unterscheidung von Kette und Vorjahr)."
+      },
+      {
+        "name": "RTP Economia",
+        "note": "Präzisiert, dass es sich bei dem Wert von 0,2 Prozent um das Wachstum in Kette handelt und das Wachstum im Jahresvergleich 2,4 Prozent betrug."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-a55c52193b6b2ba0",
     "c": "INT",
     "o": "PT",
@@ -1189,6 +1971,43 @@
     "independent": 2
   },
   {
+    "id": "story-472445bcd9133c05",
+    "c": "INT",
+    "o": "UK",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-30T12:49:56.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Golfstaaten müssen Verteidigung nach US-Iran-Krieg laut Studie überdenken",
+    "s": "Eine Studie des International Institute for Strategic Studies (IISS) fordert die Golfstaaten auf, ihre milliardenschwere Verteidigungspolitik neu auszurichten. Anlass ist der Konflikt zwischen den USA und dem Iran sowie die Verwundbarkeit durch iranische Angriffe. Die Staaten sollten ihre starke Abhängigkeit von US-Unterstützung und teuren Waffensystemen kritisch hinterfragen.",
+    "m": "Dem Bericht zufolge standen zwölf Regionalländer, vor allem in der Golfregion, in den Wochen vor der Waffenruhe am 8. April vor massiven Angriffen. Sie mussten sich gegen 4670 iranische Einweg-Kampfdrohnen und mehr als 1400 ballistische Raketen verteidigen. Fast die Hälfte dieser Angriffe zielte dabei auf die Vereinigten Arabischen Emirate ab. Obwohl die überwiegende Mehrheit der Geschosse abgewehrt werden konnte, wirft der Konflikt Fragen über den fortbestehenden Wert von US-Militärbasen auf. Die Studie kritisiert insbesondere die Überabhängigkeit von den USA und teuren High-End-Waffensystemen. Die Golfstaaten müssen nun angesichts der wirtschaftlichen Schäden und der Sicherheitsrisiken ihre trillionenschweren Verteidigungsstrategien grundlegend rekonfigurieren.",
+    "r": "Die Untersuchung liefert wichtige Einblicke in die sicherheitspolitischen Herausforderungen und die Verwundbarkeit der Golfstaaten durch iranische Angriffe. Sie zeigt auf, dass bisherige Verteidigungsstrategien angesichts moderner Drohnen- und Raketenarsenale auf dem Prüfstand stehen.",
+    "srcs": [
+      {
+        "name": "Guardian World",
+        "url": "https://www.theguardian.com/world/2026/oct/30/gulf-states-rethink-trillion-dollar-defence-us-iran-war-iiss-report",
+        "date": "2026-10-30T12:49:56.000Z"
+      },
+      {
+        "name": "Google News World",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSWM0RFFWZnMxcnJPU0Y4M3JjS2FoMzRoZlFkM2stdEVDRXY2NEVvN0RLVW1jMTRpX0l4TnhoZFdHXzFyYUxzcnZMbjhBa0xyZlpEN1ZBLXdTMzZDV3RZcG5KU19IVkNfcWlpOXBIRFVLZDgzcTR5eWtVNkJ0b1VEWFVkanNlczBpUXU1dU5VZ1ZYYjk2Mk5PcWJodk83bV83T3kwSVhxYkFzcHhTRDltOTFnYw?oc=5",
+        "date": "2026-10-30T12:06:00.000Z"
+      }
+    ],
+    "url": "https://www.theguardian.com/world/2026/oct/30/gulf-states-rethink-trillion-dollar-defence-us-iran-war-iiss-report",
+    "agree": "Beide Quellen berichten über eine Studie des Guardian zur Notwendigkeit einer neuen Verteidigungsstrategie für die Golfstaaten nach dem US-Iran-Krieg.",
+    "diff": [
+      {
+        "name": "Google News World",
+        "note": "Verweist lediglich auf den Artikel des Guardian."
+      }
+    ],
+    "chg": "",
+    "independent": 2
+  },
+  {
     "id": "story-db970e9745a0772e",
     "c": "INT",
     "o": "UK",
@@ -1199,9 +2018,9 @@
     "st": "",
     "city": "",
     "t": "Möglicherweise größter Krypto-Hack der Geschichte bei Binance",
-    "s": "Die Kryptobörse Binance wurde Ziel eines Cyberangriffs, der als möglicherweise größter Hack in der Geschichte der Krypto-Branche gilt. Cyber-Korrespondent Joe Tidy berichtet über die Hintergründe des Vorfalls. Bislang sind die genauen Schadenssummen mit rund 6,3 Milliarden US-Dollar beziffert worden.",
-    "m": "Die Kryptobörse Binance ist von einem massiven Cyberangriff getroffen worden, der Ausmaße von schätzungsweise 6,3 Milliarden US-Dollar angenommen hat. Fachleute und Korrespondenten wie Joe Tidy sprechen von einem Vorfall, der das Potenzial hat, als der bisher größte Krypto-Hack in die Geschichte einzugehen. Bislang stehen drängende Fragen im Raum, wer hinter dem Angriff stecken könnte und wie die Sicherheitsvorkehrungen umgangen wurden. Die betroffenen Akteure arbeiten an Aufklärung und Schadensbegrenzung, während Ermittler die digitalen Spuren sichern. Konkrete Details zur Täterschaft oder zu offiziellen Rückholaktionen der gestohlenen Gelder sind derzeit noch Gegenstand laufender Analysen. Der Vorfall wirft erneut ein Schlaglicht auf die Sicherheitsrisiken zentralisierter Handelsplattformen für digitale Währungen.",
-    "r": "Der Vorfall betrifft mit Binance eine der weltweit größten Kryptobörsen und stellt mit geschätzten 6,3 Milliarden US-Dollar einen historischen Schadensumfang im Krypto-Sektor dar. Solche massiven Angriffe haben weitreichende Auswirkungen auf die Regulierung und das Vertrauen in digitale Finanzmärkte.",
+    "s": "Die Kryptobörse Binance wurde offenbar Opfer eines massiven Angriffs, der als potenziell größter Hack der Geschichte gilt. Es wird untersucht, wer hinter dem Vorfall steckt und wie es zu dem Diebstahl kommen konnte. Bislang gibt es jedoch nur erste Berichte über das Ausmaß des mutmaßlichen Angriffs.",
+    "m": "Die Kryptobörse Binance ist Ziel eines mutmaßlichen Hacks geworden, der mit rund 6,3 Milliarden US-Dollar als der bisher größte in der Geschichte eingestuft wird. Cyber-Korrespondenten und Sicherheitsexperten analysieren derzeit, wie es zu diesem massiven Sicherheitsvorfall kommen konnte und wer möglicherweise dahintersteckt. Die genauen Hintergründe und Abläufe des Angriffs sind Gegenstand laufender Untersuchungen. Es bleibt unklar, ob und in welchem Umfang gestohlene Gelder sichergestellt werden können. Die Börse selbst steht nun unter enormem Druck, die Sicherheitsvorkehrungen zu rechtfertigen und betroffene Nutzer zu informieren. Die Tragweite des Vorfalls könnte weitreichende Folgen für die Regulierung und das Vertrauen in den gesamten Kryptomarkt haben.",
+    "r": "Ein Cyberangriff in dieser Dimension auf eine der weltweit größten Kryptobörsen hat massive Auswirkungen auf das Vertrauen in den digitalen Finanzmarkt. Der Vorfall wirft grundsätzliche Fragen zur Sicherheit von Kryptoplattformen auf.",
     "srcs": [
       {
         "name": "BBC World",
@@ -1215,19 +2034,60 @@
       }
     ],
     "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
-    "agree": "Beide Quellen stimmen darin überein, dass Binance von einem Krypto-Hack betroffen ist, der möglicherweise der größte der Geschichte sein könnte.",
+    "agree": "Beide Quellen stimmen überein, dass Binance von einem mutmaßlich historischen Krypto-Hack betroffen ist.",
     "diff": [
       {
         "name": "BBC World",
-        "note": "Erwähnt namentlich den Cyber-Korrespondenten Joe Tidy, der den Hack und die Verdommente näher erklärt."
+        "note": "nennt Cyber-Korrespondent Joe Tidy als Erklärer und beziffert den potenziellen Schaden auf 6,3 Milliarden US-Dollar"
       },
       {
         "name": "BBC Technology",
-        "note": "Fokussiert stärker auf die Frage, wer hinter dem Hack stecken könnte und bietet einen allgemeinen Überblick zum bisherigen Kenntnisstand."
+        "note": "fokussiert stärker auf die Frage, wer hinter dem Hack stecken könnte"
       }
     ],
     "chg": "",
     "independent": 1
+  },
+  {
+    "id": "story-848dc9aa1abab013",
+    "c": "INT",
+    "o": "DE",
+    "k": "politik",
+    "lang": "de",
+    "d": "2026-10-30T12:20:47.000Z",
+    "p": 4,
+    "st": "",
+    "city": "",
+    "t": "Einstellung der kremlkritischen russischen Zeitung Nowaja Gaseta",
+    "s": "Die bekannte kremlkritische russische Zeitung Nowaja Gaseta muss nach mehr als 30 Jahren ihr Erscheinen einstellen. Chefredakteur Sokolow gab das endgültige Aus des Blattes bekannt. Vorausgegangen war ein massiver politischer Druck auf das Medium.",
+    "m": "Die Nowaja Gaseta galt jahrzehntelang als eine der letzten und kritischsten unabhängigen Stimmen in der russischen Medienlandschaft. Nun wurde die Schließung des vor mehr als 30 Jahren gegründeten Blattes offiziell verkündet. Chefredakteur Sokolow erklärte dazu kurz und prägnant, dass die Zeitung nicht mehr existiere und ihr Leben beende. Die Einstellung erfolgt infolge eines massiven und jahrelangen Drucks auf die Redaktion und unabhängige Journalisten in Russland. Weitere Details zu den genauen juristischen Schritten oder dem exakten Stichtag der Schließung nennen die vorliegenden Berichte nicht.",
+    "r": "Das Aus der Nowaja Gaseta markiert einen weiteren schweren Rückschlag für die Pressefreiheit in Russland. Mit der Schließung verschwindet eine der letzten namhaften und kritischen Stimmen aus der russischen Medienlandschaft.",
+    "srcs": [
+      {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/ausland/asien/kremlkritische-zeitung-russland-geschlossen-100.html",
+        "date": "2026-10-30T12:20:47.000Z"
+      },
+      {
+        "name": "DW Deutsch",
+        "url": "https://www.dw.com/de/russland-erzwungenes-aus-für-die-kremlkritische-zeitung-nowaja-gaseta/a-79805570?maca=de-rss-de-all-1119-xml-mrss",
+        "date": "2026-10-30T11:34:00.000Z"
+      }
+    ],
+    "url": "https://www.tagesschau.de/ausland/asien/kremlkritische-zeitung-russland-geschlossen-100.html",
+    "agree": "Beide Quellen stimmen darin überein, dass die Nowaja Gaseta als kremlkritische Zeitung nach mehr als 30 Jahren schließen muss.",
+    "diff": [
+      {
+        "name": "Tagesschau",
+        "note": "Erwähnt zusätzlich den Namen des Chefredakteur Sokolow und sein Zitat 'Nowaja Gaseta beendet ihr Leben'."
+      },
+      {
+        "name": "DW Deutsch",
+        "note": "Liefert keine exklusiven Details und fasst die Kerninformationen kürzer zusammen."
+      }
+    ],
+    "chg": "",
+    "independent": 2
   },
   {
     "id": "story-bda6324a23914bf3",
@@ -1313,9 +2173,9 @@
     "st": "BW",
     "city": "",
     "t": "Audi verkauft weniger Autos - Gewinn bricht stark ein",
-    "s": "Der Autobauer Audi steckt in einer Krise und hat im dritten Quartal einen drastischen Einbruch seines Gewinns verzeichnet. Hauptgründe für diese Entwicklung sind Belastungen durch das schwache Geschäft in China sowie US-Zölle. Die Situation spiegelt die allgemeinen Probleme in der Automobilbranche wider.",
-    "m": "Die aktuellen Geschäftszahlen von Audi für das dritte Quartal offenbaren eine schwere Krise mit einem drastischen Einbruch des Gewinns. Als wesentliche Ursachen werden von den Berichten das schwache Automobilgeschäft auf dem chinesischen Markt sowie zusätzliche Belastungen durch US-Zölle genannt. Um der negativen Entwicklung entgegenzuwirken und das Geschäft wieder anzukurbeln, setzt das Unternehmen auf neue Automodelle, von denen man sich positive Impulse für die Zukunft erhofft. Bislang bleibt abzuwarten, wann diese Maßnahmen greifen und wie sich die internationalen Rahmenbedingungen für den Autobauer weiterentwickeln.",
-    "r": "Die Meldung ist relevant, da sie die wirtschaftliche Schieflage eines großen deutschen Automobilkonzerns und dessen globale Herausforderungen aufzeigt.",
+    "s": "Der Autobauer Audi steckt in einer Krise und hat im dritten Quartal einen drastischen Gewinneinbruch erlitten. Hauptursachen für diese Entwicklung sind neben den schwachen Geschäften auf dem chinesischen Markt auch US-Zölle. Das Unternehmen hofft nun auf positive Impulse durch neu eingeführte Automodelle.",
+    "m": "Die aktuellen Zahlen für das dritte Quartal belegen eine spürbare Krise beim deutschen Autobauer Audi. Der Gewinn des Unternehmens ist in diesem Zeitraum massiv eingebrochen. Zu den Hauptgründen zählen nach übereinstimmenden Angaben der Berichte die Probleme im wichtigen China-Geschäft sowie zusätzliche Belastungen durch US-Zölle. Um die wirtschaftliche Situation zu verbessern und dem Abwärtstrend entgegenzuwirken, setzt das Management unter anderem auf neue Automodelle, die für positive Impulse sorgen sollen. Konkrete Finanzkennzahlen oder exakte Gewinnsummen wurden in den Berichten nicht genannt. Offen bleibt zudem, wie schnell die neuen Modelle greifen und ob weitere Sparmaßnahmen erforderlich sein werden.",
+    "r": "Die Meldung ist wirtschaftlich relevant, da Audi als bedeutender deutscher Autobauer von globalen Handelsfaktoren wie US-Zöllen und der Marktlage in China direkt beeinflusst wird. Ein starker Gewinneinbruch bei einem solchen Konzern spiegelt die generelle Krise in der Automobilbranche wider.",
     "srcs": [
       {
         "name": "SWR Aktuell Baden-Württemberg",
@@ -1329,15 +2189,15 @@
       }
     ],
     "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/heilbronn/audi-krise-gewinn-bricht-ein-neckarsulm-prognose-100.html",
-    "agree": "Beide Quellen stimmen überein, dass Audi im dritten Quartal einen drastischen Gewinneinbruch erlitten hat und das schwache China-Geschäft eine Hauptursache dafür ist.",
+    "agree": "Die Quellen sind sich einig, dass Audi im dritten Quartal einen drastischen Gewinnrückgang verzeichnet hat und dass das schwache China-Geschäft eine wesentliche Ursache dafür ist.",
     "diff": [
       {
         "name": "SWR Aktuell Baden-Württemberg",
-        "note": "Erwähnt zusätzlich US-Zölle als einen Grund für den Gewinnrückgang."
+        "note": "Erwähnt zusätzlich die US-Zölle als einen Grund für den Gewinneinbruch."
       },
       {
         "name": "Tagesschau",
-        "note": "Erwähnt als zusätzliche Information, dass neue Automodelle positive Impulse bringen sollen."
+        "note": "Erwähnt, dass neue Automodelle positive Impulse bringen sollen, geht jedoch im Gegensatz zur anderen Quelle nicht auf US-Zölle ein."
       }
     ],
     "chg": "",
@@ -1354,9 +2214,9 @@
     "st": "",
     "city": "",
     "t": "Deutsche Wirtschaft verzeichnet überraschendes Sommerwachstum",
-    "s": "Die deutsche Wirtschaft hat im Sommer überraschend weiteres Wachstum gezeigt. Viele Experten hatten zuvor mit einer Stagnation gerechnet. Die privaten Ausgaben der Verbraucher blieben allerdings weiterhin verhalten.",
-    "m": "Nach einem bereits starken Halbjahr hat sich die Erholung der deutschen Wirtschaft im Sommer unerwartet fortgesetzt. Entgegen der Prognosen vieler Experten, die von einer Stagnation ausgegangen waren, gab es ein positives Wachstum. Dämpfend wirkt dabei weiterhin, dass sich die privaten Ausgaben der Bürger verhalten zeigen. Diese Entwicklung markiert eine Fortsetzung des positiven Trends aus den Vormonaten. Die genauen prozentualen Zuwächse wurden in den Berichten zunächst nicht beziffert. Weitere Details zu den treibenden Wirtschaftssektoren stehen noch aus.",
-    "r": "Das überraschende Sommerwachstum widerspricht den Prognosen vieler Experten und gibt Aufschluss über den aktuellen Zustand der deutschen Konjunktur.",
+    "s": "Die deutsche Wirtschaft hat ihre Erholung im Sommer fortgesetzt. Experten hatten im Vorfeld überwiegend mit einer Stagnation gerechnet. Die privaten Konsumausgaben der Bürger bleiben allerdings weiterhin verhalten. Das Wachstum kommt nach einem zuvor bereits starken Halbjahr überraschend.",
+    "m": "Das Statistische Bundesamt oder andere Institutionen werden im Text nicht im Detail genannt, jedoch wird von einer unerwarteten Fortsetzung der Konjunkturerholung im Sommer berichtet. Ein starkes vorheriges Halbjahr bildete die Basis für diesen Trend. Viele Ökonomen und Analysten hatten zuvor eine Phase der Stagnation prognostiziert, welche nun durch das tatsächliche Plus widerlegt wurde. Als dämpfender Faktor wird explizit genannt, dass die privaten Ausgaben der Verbraucher nach wie vor verhalten ausfallen. Weitere Details zum genauen Bruttoinlandsprodukt, Branchenunterschieden oder regionalen Auswirkungen nennen die vorliegenden Kurzmeldungen nicht. Offen bleibt zudem, wie sich dieser Trend im weiteren Jahrsverlauf entwickeln wird.",
+    "r": "Die Entwicklung betrifft die gesamte deutsche Wirtschaft und widerpricht den Prognosen vieler Experten, die mit einer Stagnation gerechnet hatten. Solche Konjunkturdaten sind zentral für wirtschaftspolitische und unternehmerische Entscheidungen.",
     "srcs": [
       {
         "name": "Tagesschau",
@@ -1370,11 +2230,11 @@
       }
     ],
     "url": "https://www.tagesschau.de/wirtschaft/konjunktur/entwicklung-bip-deutschland-sommer-100.html",
-    "agree": "Die Quellen stimmen überein, dass die deutsche Wirtschaft im Sommer überraschend gewachsen ist, obwohl Experten mit einer Stagnation gerechnet hatten.",
+    "agree": "Beide Quellen stimmen überein, dass die deutsche Wirtschaft im Sommer überraschend gewachsen ist, obwohl Experten mit einer Stagnation gerechnet hatten und die privaten Ausgaben verhalten bleiben.",
     "diff": [
       {
         "name": "Google News DE",
-        "note": "Verweist lediglich auf den Artikel der Tagesschau und bietet keine zusätzlichen Informationen."
+        "note": "Verweist lediglich auf den Artikel der Tagesschau und enthält keine eigenständigen inhaltlichen Zusatzinformationen."
       }
     ],
     "chg": "",
@@ -15529,889 +16389,6 @@
       {
         "name": "Google News World",
         "note": "Verweist lediglich auf den Artikel des Guardian und bietet keinen eigenständigen Inhalt."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-2dfd0a56b3ca73ef",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-24T13:30:43.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Juso-Chef Türmer gegen erneute Kandidatur Klingbeils für SPD-Vorsitz",
-    "s": "Der Juso-Vorsitzende hat sich gegen eine erneute Kandidatur von Lars Klingbeil für den SPD-Vorsitz ausgesprochen. Die Äußerung sorgt für eine innerparteiliche Debatte. Weitere offizielle Stellungnahmen der Bundes-SPD stehen zunächst noch aus.",
-    "m": "Im Rahmen einer aktuellen Diskussion in der Sozialdemokratie hat Juso-Chef Türmer öffentlich erklärt, dass er gegen eine erneute Kandidatur von Lars Klingbeil für den SPD-Vorsitz ist. Diese Positionierung wirft Fragen zur personellen Zukunft und Ausrichtung der Parteiführung auf. Bislang gibt es keine offiziellen Gegenäußerungen oder Bestätigungen von Klingbeil selbst oder anderen Gremienmitgliedern zu diesem Vorstoß. Beobachter werten den Schritt als möglichen Auftakt zu kommenden personellen Auseinandersetzungen innerhalb der Partei.",
-    "r": "Die Äußerung des Juso-Chefs betrifft die personelle Aufstellung und Führung einer deutschen Regierungspartei. Interne Debatten über den Parteivorsitz können direkten Einfluss auf die politische Ausrichtung und geschlossene Außenwirkung der SPD haben.",
-    "srcs": [
-      {
-        "name": "Deutschlandfunk Nachrichten",
-        "url": "https://www.deutschlandfunk.de/juso-chef-tuermer-gegen-erneute-kandidatur-klingbeils-fuer-spd-vorsitz-108.html",
-        "date": "2026-10-24T13:30:43.000Z"
-      },
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWEhQX1pRcHhuVG11TDZmMjBQbFdCNDBYS1poRTlFeldpTXdVcXg3WGMxQ1ZVVDhLSGRuVVhVMFY2WWxlbzdScGJ2SmRYdEhUbzBnSXRaU3RjMngwblNJZWdXRVIwNEF5M1JxbDF4VlBQTU1wUzZPdVJkekJ3cU43VS1UOWNvcU5Cdlk3NkxGM3NrLUM2MHR4QjhIXzZ0WUlZYnc?oc=5",
-        "date": "2026-10-24T07:42:40.000Z"
-      }
-    ],
-    "url": "https://www.deutschlandfunk.de/juso-chef-tuermer-gegen-erneute-kandidatur-klingbeils-fuer-spd-vorsitz-108.html",
-    "agree": "Beide Quellen stimmen überein, dass Juso-Chef Türmer sich gegen eine erneute Kandidatur von Klingbeil für den SPD-Vorsitz ausgesprochen hat.",
-    "diff": [
-      {
-        "name": "Google News DE",
-        "note": "Verweist zusätzlich auf die Wochenzeitung DIE ZEIT als berichtendes Medium und erwähnt eine breitere Debatte über das Thema."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-f7d232b069e54b09",
-    "c": "DE",
-    "o": "DE",
-    "k": "sport",
-    "lang": "de",
-    "d": "2026-10-24T13:24:31.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "FC-Bayern-Trainer Vincent Kompany muss im Krankenhaus bleiben",
-    "s": "Der Trainer des FC Bayern München, Vincent Kompany, muss vorerst in einem Krankenhaus bleiben und kürzertreten. Sportvorstand Max Eberl hat sich zum aktuellen gesundheitlichen Zustand des Übungsleiters geäußert. Es ist unklar, wie lange der Klinikaufenthalt andauern wird. Der Verein muss vorerst ohne seinen Cheftrainer auskommen.",
-    "m": "Vincent Kompany, der Cheftrainer des FC Bayern, kann die Mannschaft derzeit nicht betreuen und muss stattdessen in einer Klinik bleiben. Sportvorstand Max Eberl äußerte sich öffentlich zum Zustand des Trainers. Der genaue Grund für den Krankenhausaufenthalt wird in den Berichten nicht detailliert genannt, jedoch steht fest, dass Kompany vorerst kürzertreten muss. Ehrenpräsident Uli Hoeneß hat dem Trainer bereits einen persönlichen Besuch im Krankenhaus abgestattet. Wie lange der Klinikaufenthalt andauern wird und wann Kompany auf die Trainerbank zurückkehren kann, ist gegenwärtig noch offen. Die Mannschaft und die Verantwortlichen müssen sich auf die Situation einstellen.",
-    "r": "Der Ausfall des Cheftrainers ist für den FC Bayern München von großer sportlicher Bedeutung. Die Situation betrifft die unmittelbare Vorbereitung und Betreuung der Mannschaft im Profifußball.",
-    "srcs": [
-      {
-        "name": "t-online Sport",
-        "url": "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101496078/fc-bayern-hoeness-bringt-trainer-kompany-essen-ins-krankenhaus-.html",
-        "date": "2026-10-24T13:24:31.000Z"
-      },
-      {
-        "name": "stern",
-        "url": "https://www.stern.de/lifestyle/leute/vincent-kompany--er-muss-noch-im-krankenhaus-bleiben-38446256.html",
-        "date": "2026-10-24T13:08:00.000Z"
-      }
-    ],
-    "url": "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101496078/fc-bayern-hoeness-bringt-trainer-kompany-essen-ins-krankenhaus-.html",
-    "agree": "Die Quellen sind sich einig, dass Bayern-Trainer Vincent Kompany vorerst im Krankenhaus bleiben muss.",
-    "diff": [
-      {
-        "name": "t-online Sport",
-        "note": "Berichtet zusätzlich, dass Uli Hoeneß dem Trainer einen Besuch im Krankenhaus abgestattet hat."
-      },
-      {
-        "name": "stern",
-        "note": "Erwähnt, dass sich Sportvorstand Max Eberl zum Zustand von Vincent Kompany geäußert hat."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-9aac5d81049b2438",
-    "c": "INT",
-    "o": "PT",
-    "k": "technik",
-    "lang": "de",
-    "d": "2026-10-24T12:53:24.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Ciberataque compromete base de dados dos bombeiros em Portugal",
-    "s": "A base de dados do Recenseamento Nacional de Bombeiros Portugueses foi alvo de um ciberataque, resultando no acesso a dados pessoais. O incidente levou a um alerta emitido pela proteção civil aos comandos operacionais. Como medida preventiva, a aplicação associada foi suspensa. As autoridades investigam o alcance da intrusão informática.",
-    "m": "O ataque cibernético afetou diretamente a infraestrutura digital do Recenseamento Nacional de Bombeiros Portugueses, permitindo que piratas informáticos acedessem a informações de caráter pessoal registadas na base de dados. Em resposta imediata à brecha de segurança, a proteção civil emitiu avisos formais dirigidos aos respetivos comandos para acautelar potenciais riscos decorrentes da exposição dos dados. Paralelamente, foi decida a suspensão temporária da aplicação informática utilizada no âmbito do recenseamento para conter potenciais danos adicionais. Atualmente, prosseguem as análises técnicas para apurar a extensão total do compromisso de segurança e identificar os autores da ação maliciosa. O impacto operacional deste corte de serviço nos bombeiros ainda está a ser avaliado pelas entidades competentes.",
-    "r": "O ataque a uma base de dados de importância nacional afeta a segurança operacional e a privacidade de profissionais essenciais. O incidente evidencia vulnerabilidades em infraestruturas digitais de serviços de emergência e proteção civil.",
-    "srcs": [
-      {
-        "name": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/pais/piratas-informaticos-atacam-base-de-dados-dos-bombeiros-e-acedem-a-dados-pessoais_n1773955",
-        "date": "2026-10-24T12:53:24.000Z"
-      },
-      {
-        "name": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ0t0dzJBcTczcEFDN2g0WnVBMEpiZ09wWHMtaVpNbmRsMGZNb1RXSEhQSVpXbkwzRTdaTDVmMC10VG5PRlZ3NzVaOFNoeVNlOXZCQTgwRXNHRHdZZ3Q0a1pJQk5uZVhpSG0tX3kwQ3lFMkh0MndWbmZTR2R5NjMtYVRSMUJ1dWRycEZWUGpiaEtadHZwM1VNc1U2TDlFODh3d09DZUhBQnd6VDJHelkzM28wZ0taOGs5dDhCWjVkNDXSAbIBQVVfeXFMTkFUbXFnbWctRlNiRzFSZXhaZFVFVEtCRWh1VVBjM0R5Y0FTU0xLQXVoTE82b25iT3gtLURLdGJrUjFKVzROWEQtUFZucE9RalljTG5VYW5BQnF3Y19VSFJfR1lfOWFyQWFQNDlvYnRZT3FxNi1BN21TYVdTNlZyWXlPWjNQd2JaaFhKUHNUZlJwWi05WWNwbGRmT0xoUFR0VmpyOXhrdi1YVVJVYUoyMk84QQ?oc=5",
-        "date": "2026-10-24T10:21:00.000Z"
-      }
-    ],
-    "url": "https://www.rtp.pt/noticias/pais/piratas-informaticos-atacam-base-de-dados-dos-bombeiros-e-acedem-a-dados-pessoais_n1773955",
-    "agree": "As fontes concordam que piratas informáticos realizaram um ciberataque à base de dados dos bombeiros, resultando no acesso a dados pessoais.",
-    "diff": [
-      {
-        "name": "RTP Notícias",
-        "note": "Informa que o ataque levou a um alerta da proteção civil aos comandos e à suspensão da aplicação."
-      },
-      {
-        "name": "Google News Portugal",
-        "note": "Apresenta apenas a manchete repetindo o título principal com referência ao Jornal de Notícias, sem detalhes adicionais."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-dc94a90642a3d0bf",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-24T12:33:00.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Donald Trump als Parodie hinter Gittern zieht in Teheran an",
-    "s": "Ein öffentliches Schauspiel in Teheran zeigt den US-Präsidenten Donald Trump als Gefängnisinsassen. Die Inszenierung erweist sich als großer Publikumsmagnet in der iranischen Hauptstadt. Diese Form der Darstellung ist Teil iranischer Propagandamaßnahmen.",
-    "m": "In der iranischen Hauptstadt Teheran sorgt ein ungewöhnliches öffentliches Schauspiel für Aufsehen, bei dem US-Präsident Donald Trump als Gefängnisinsasse dargestellt wird. Die Installation hat sich als echter Besuchermagnet und Anziehungspunkt für Schaulustige etabliert. Hinter der Darstellung steht offizielle iranische Propaganda, die den US-Präsidenten in dieser provokanten Rolle präsentiert. Es ist davon auszugehen, dass diese Art von vermeintlicher Beliebtheit bei Donald Trump auf wenig Gegenliebe stoßen wird. Weitere Details zum genauen Standort, den Urhebern innerhalb des Regimes oder der langfristigen Dauer der Ausstellung nennen die vorliegenden Berichte nicht.",
-    "r": "Die Meldung zeigt auf, wie US-Präsident Donald Trump im Rahmen iranischer Propaganda in Teheran als Gefangener parodiert wird. Das Schauspiel zieht vor Ort viele Menschen an und verdeutlicht die anhaltenden politischen Spannungen und medialen Inszenierungen zwischen den Ländern.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWGFSX1dWdlRMdllnLS0wa1k3WXZSaDNfbnVaenZCRl9LSzhjX0JmZWF4NjdqN2JoMS1xeUUwNGRYY2M2WVc2Qkhjc2JHb0hFOElTNE5DYXVXN0dIMGlCcDBNNVBBU3NJNmc0WFBLV09kMFY2RDZabTZvdmowZ0t3Y3lQOG9QZzFocUgxdmNaRUhpSEltR1A0Y01NazNpMmxtUTVUaWV4VGZKWFphQ2NVTjFwdTRPRnVyWDVYVENIT0tuZUtZaW9FTk1WSDZ6RWNUanBWLWtsd2FoMHVvTkhiaTQ1WGFsaVVqU0wzd3hvdw?oc=5",
-        "date": "2026-10-24T12:33:00.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/ausland/iranische-propaganda-in-teheran-ist-trump-ploetzlich-populaer-als-parodie-hinter-gittern-a-ed64d14b-182b-45d5-955d-25c630ee1b20#ref=rss",
-        "date": "2026-10-24T12:33:00.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWGFSX1dWdlRMdllnLS0wa1k3WXZSaDNfbnVaenZCRl9LSzhjX0JmZWF4NjdqN2JoMS1xeUUwNGRYY2M2WVc2Qkhjc2JHb0hFOElTNE5DYXVXN0dIMGlCcDBNNVBBU3NJNmc0WFBLV09kMFY2RDZabTZvdmowZ0t3Y3lQOG9QZzFocUgxdmNaRUhpSEltR1A0Y01NazNpMmxtUTVUaWV4VGZKWFphQ2NVTjFwdTRPRnVyWDVYVENIT0tuZUtZaW9FTk1WSDZ6RWNUanBWLWtsd2FoMHVvTkhiaTQ1WGFsaVVqU0wzd3hvdw?oc=5",
-    "agree": "Die Quellen stimmen überein, dass eine Inszenierung in Teheran US-Präsident Donald Trump als Gefängnisinsassen zeigt und dort ein großer Besuchermagnet ist.",
-    "diff": [
-      {
-        "name": "Google News DE",
-        "note": "Erwähnt im Titel zusätzlich den Namen 'Spiegel' und verweist auf einen RSS-Artikel."
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "Führt aus, dass der US-Präsident über diese Art von Beliebtheit vermutlich eher nicht erfreut sein wird."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-2c517864b26601dd",
-    "c": "INT",
-    "o": "INT",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-24T12:02:00.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "US-Behörden melden 178 neue Masernfälle im Rahmen anhaltender Ausbrüche",
-    "s": "US-Gesundheitsbehörden haben im Laufe der Woche 178 weitere Masernfälle gemeldet. Die hochansteckende, durch Impfungen vermeidbare Krankheit breitet sich über mindestens 43 Ausbrüche im ganzen Land aus. Die aktuellen Daten stammen von den Centers for Disease Control and Prevention.",
-    "m": "Die Centers for Disease Control and Prevention haben die neuen Infektionszahlen im Zuge anhaltender Masernausbrüche bekannt gegeben. Insgesamt wurden landesweit 4588 Fälle verzeichnet, was mehr als dem Doppelten des Gesamtwerts aus dem Jahr 2025 entspricht. Die Veröffentlichung der Daten erfolgt zu einer Zeit, in der Experten die Behörde wegen mangelnder Transparenz kritisieren. Gleichzeitig unternimmt Gesundheitsminister Robert F. Kennedy Jr. Schritte, um die Infrastruktur für Impfungen in den USA weiter umzubauen. Die Krankheit fordert trotz verfügbarer Schutzimpfungen weiterhin zahlreiche Erkrankte.",
-    "r": "Die Entwicklung verdeutlicht die aktuelle Dynamik von Infektionskrankheiten und die gesundheitspolitischen Herausforderungen in den USA. Die anhaltenden Ausbrüche und die Debatte um die Impfinfrastruktur sind von nationalem Interesse.",
-    "srcs": [
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BX2FfNHd6TlpjcmFhZXVRR00tcEhVTTgxZEtEVFRLWHItS0VCVVI4NjN3Sk5zd3ZLUlpqRWxsakZkd2RCTElxOGZKLWg5aTB3emw3X1ozV1JrTWdjN29nZkR3cnEyQ25oUkFhaGh3NjJacGxOUThuQWphcnltZkE?oc=5",
-        "date": "2026-10-24T12:02:00.000Z"
-      },
-      {
-        "name": "Guardian World",
-        "url": "https://www.theguardian.com/us-news/2026/oct/24/measles-outbreak-reporting",
-        "date": "2026-10-24T12:00:33.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BX2FfNHd6TlpjcmFhZXVRR00tcEhVTTgxZEtEVFRLWHItS0VCVVI4NjN3Sk5zd3ZLUlpqRWxsakZkd2RCTElxOGZKLWg5aTB3emw3X1ozV1JrTWdjN29nZkR3cnEyQ25oUkFhaGh3NjJacGxOUThuQWphcnltZkE?oc=5",
-    "agree": "Die US-Gesundheitsbehörden haben in dieser Woche weitere 178 Masernfälle im Rahmen von anhaltenden Ausbrüchen gemeldet.",
-    "diff": [
-      {
-        "name": "Guardian World",
-        "note": "Berichtet ergänzend, dass die CDC insgesamt 4588 Fälle im Land verzeichnet hat und diese Zahl mehr als doppelt so hoch ist wie der Wert von 2025. Zudem wird die Kritik von Experten an der Transparenz der Behörde sowie das Handeln von Gesundheitsminister Robert F. Kennedy Jr. erwä"
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-c6a98226589efb9f",
-    "c": "INT",
-    "o": "US",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-24T11:59:08.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Bewaffneter Angriff auf Trauergemeinde in Jordanien mit Toten",
-    "s": "Bei einem Überfall von bewaffneten Männern auf eine Trauerfeier in einer Kirche in Jordanien wurden am Freitag zahlreiche Menschen getötete und verletzt. Fernsehaufnahmen zeigten drei Angreifer, die das Feuer auf eine griechisch-orthodoxe Kirche eröffneten. Die genaue Opferzahl variiert in den ersten Berichten zwischen sieben und acht Toten sowie rund 40 Verletzten. Die Behörden stuften die Tat als terroristischen Akt ein.",
-    "m": "Am Freitag kam es in Jordanien zu einem seltenen und gewaltsamen Anschlag auf die christliche Minderheit des Landes. Drei bewaffnete Angreifer näherten sich während einer Beerdigung einer griechisch-orthodoxen Kirche in der Stadt Karak und eröffneten das Feuer auf die Trauergemeinde. Jordanisches Staatsfernsehen strahlte entsprechende Aufnahmen der Tat aus. Bei dem Angriff wurden nach unterschiedlichen Quellenangaben sieben beziehungsweise acht Menschen getötet und rund 40 weitere Personen verletzt. Die zuständigen Behörden bewerteten den Vorfall offiziell als Terrorakt von Extremisten. Die Hintergründe sowie die Identität der Angreifer sind Gegenstand der laufenden Ermittlungen, während das Land unter dem Schock des seltenen Ang在一个 auf religiöse Minderheiten steht.",
-    "r": "Der terroristische Angriff auf eine Kirche in Jordanien verdeutlicht die Sicherheitsrisiken für religiöse Minderheiten in der Region. Die Tat führt zu einer hohen Anzahl von Opfern und erfordert eine verstärkte staatliche Reaktion gegen Extremismus.",
-    "srcs": [
-      {
-        "name": "NPR World",
-        "url": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
-        "date": "2026-10-24T11:59:08.000Z"
-      },
-      {
-        "name": "Google News World",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRzM2WVg3ajc5MzI2QlBHRkRnUHVRVVpKSmNFSFY0djBDREZIeGxvSkhjN2hlYVFDdFkzZko3dEItY2Q3OVktQW83bE5Pa0NtMG1pb2JJMlI5T2ZrX0dKSFpXaS1zVXpOSEtObDVJT0dpRWxSb2xmb2g2OWNoU05zbHlqUzJXcmZ1QVBTdHUzMUo3MzRiUzc3ZmJMbndwbS00ZnFsOE8wSUxNTzBPOTNLVUp0NkdMSVdfcUdvZlZHWldZUQ?oc=5",
-        "date": "2026-10-24T11:59:00.000Z"
-      },
-      {
-        "name": "Guardian World",
-        "url": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan",
-        "date": "2026-10-24T10:23:13.000Z"
-      }
-    ],
-    "url": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
-    "agree": "Die Quellen stimmen überein, dass bewaffnete Täter während einer Trauerfeier in einer Kirche in Jordanien das Feuer eröffneten und rund 40 Menschen verletzten.",
-    "diff": [
-      {
-        "name": "NPR World",
-        "note": "Beziffert die Zahl der Todesopfer auf sieben und nennt Karak als Ort des Geschehens."
-      },
-      {
-        "name": "Google News World",
-        "note": "Nennt ebenfalls sieben Todesopfer und verweist auf KOSU als Berichterstatter."
-      },
-      {
-        "name": "Guardian World",
-        "note": "Spricht abweichend von acht Toten und ordnet die Tat als seltenen Angriff auf die christliche Minderheit ein, der von den Behörden als Terrorakt von Extremisten eingestuft wurde."
-      }
-    ],
-    "chg": "",
-    "independent": 3
-  },
-  {
-    "id": "story-9941407f077639c6",
-    "c": "DE",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-24T11:47:44.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "\"Ich denke, es geht\": Kanzler Merz will die Stromsteuer für alle senken",
-    "s": "Auf dem CSU-Parteitag in München bestätigt Bundeskanzler Friedrich Merz, dass die Regierung weiterhin plane, die Stromsteuer im kommenden Jahr zu senken. Zudem ruft er die Union zur Geschlossenheit auf. Die Partei werde von \"Extremisten\" bekämpft.",
-    "m": "Auf dem CSU-Parteitag in München bestätigt Bundeskanzler Friedrich Merz, dass die Regierung weiterhin plane, die Stromsteuer im kommenden Jahr zu senken. Zudem ruft er die Union zur Geschlossenheit auf. Die Partei werde von \"Extremisten\" bekämpft. Kanzler Friedrich Merz hält eine niedrigere Stromsteuer im kommenden Jahr für möglich. Bei Finanzminister Lars Klingbeil klang das zuletzt anders.",
-    "r": "Die Meldung wird hier als aktuelle Nachricht aus den gelieferten Quellen eingeordnet. Weitere Relevanz ergibt sich aus den dort genannten Auswirkungen und Zusammenhängen.",
-    "srcs": [
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/politik/Merz-will-Stromsteuer-senken-und-ruft-zu-Geschlossenheit-auf-id31454113.html",
-        "date": "2026-10-24T11:47:44.000Z"
-      },
-      {
-        "name": "WELT",
-        "url": "https://www.welt.de/politik/deutschland/article6adc8ff6247c1fa2013053f6/stromsteuer-merz-macht-auf-dem-csu-parteitag-hoffnung-auf-mehr-geld-im-geldbeutel.html",
-        "date": "2026-10-24T11:24:42.000Z"
-      }
-    ],
-    "url": "https://www.n-tv.de/politik/Merz-will-Stromsteuer-senken-und-ruft-zu-Geschlossenheit-auf-id31454113.html",
-    "agree": "Mehrere RSS-Quellen berichten über dasselbe Ereignis.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-c9398591570efc28",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-24T11:04:00.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Volkswagen plant angeblich den Abbau von weiteren 12.000 Stellen",
-    "s": "Kurz vor den anstehenden Tarifverhandlungen sind Pläne des Autobauers Volkswagen bekannt geworden, wonach weitere 12.000 Stellen abgebaut werden sollen. Zu diesem Zweck will der Konzern offenbar Transfergesellschaften einrichten. Die Gewerkschaft kündigte bereits an, gegen diese harten Einschnitte für die Beschäftigten gegenzuhalten.",
-    "m": "Der Autokonzern Volkswagen steht vor harten Auseinandersetzungen mit der Gewerkschaft, da vor den anstehenden Tarifverhandlungen Pläne für den Abbau von weiteren 12.000 Stellen im Raum stehen. Um diesen Prozess abzufedern oder umzusetzen, plant das Unternehmen die Einführung von Transfergesellschaften. Diese drastischen Einschnitte treffen die Beschäftigten schwer und sorgen für erheblichen Konfliktstoff zwischen Arbeitgeber und Arbeitnehmervertretung. Die Gewerkschaft hat bereits klargestellt, dass sie diesen Kurs nicht einfach hinnehmen und entschieden dagegenhalten wird. Nähere Details zur genauen Verteilung des Stellenabbaus auf Standorte oder Unternehmensbereiche wurden zunächst nicht bekannt. Offen bleibt auch, wie die konkreten Verhandlungen in den kommenden Wochen verlaufen werden und ob Kompromisse ohne derartige Massenentlassungen oder Transfergesellschaften möglich sind. Die Ankündigung verschärft die ohnehin angespannte wirtschaftliche Situation und Stimmung beim größten deutschen Autobauer erheblich.",
-    "r": "Die Meldung ist von hoher Relevanz, da sie massive Stellenabbaumaßnahmen und harte Tarifkonflikte beim größten deutschen Automobilkonzern betrifft, was weitreichende Folgen für die Wirtschaft hat.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSFMxb05TQ3diUWhWMjFJNWJHUTdBVVZuMW5CN2RlYWZRRGcyNG1TTmF3dFFJaWZmbW1lcUw4eU9BcklOaW1mMTRUei1XYkViR1NUeEsyMHBJcC1kZ01Ca1JrREdscHhpNnFDelp5aHNWN3lvZmhDcTVkUHRiR2hVSGVacEV2ZThhZ05EekJtc21nRmlvXy03M213TV91Q29KUHE0OWs3aVVEVFo2dmVnWU1BeDJyakthR3pac0h3WFJad3d6T2pSMGh4Rm4zckk?oc=5",
-        "date": "2026-10-24T11:04:00.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-will-weitere-12-000-stellen-abbauen-a-ff3dbc88-1f93-4109-b777-fcc141802bba#ref=rss",
-        "date": "2026-10-24T11:04:00.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSFMxb05TQ3diUWhWMjFJNWJHUTdBVVZuMW5CN2RlYWZRRGcyNG1TTmF3dFFJaWZmbW1lcUw4eU9BcklOaW1mMTRUei1XYkViR1NUeEsyMHBJcC1kZ01Ca1JrREdscHhpNnFDelp5aHNWN3lvZmhDcTVkUHRiR2hVSGVacEV2ZThhZ05EekJtc21nRmlvXy03M213TV91Q29KUHE0OWs3aVVEVFo2dmVnWU1BeDJyakthR3pac0h3WFJad3d6T2pSMGh4Rm4zckk?oc=5",
-    "agree": "Die Quellen sind sich einig, dass Volkswagen vor den Tarifverhandlungen den Abbau von weiteren 12.000 Stellen plant und dies zu harten Einschnitten für die Beschäftigten führt.",
-    "diff": [
-      {
-        "name": "Google News DE",
-        "note": "Berichtet über die Pläne zum Stellenabbau unter Berufung auf den Spiegel."
-      },
-      {
-        "name": "DER SPIEGEL",
-        "note": "Nennt zusätzlich die Einführung von Transfergesellschaften und den Widerstand der Gewerkschaft."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-969648d608a1316f",
-    "c": "DE",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-24T11:04:00.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Volkswagen plant Abbau von 12.000 Stellen bis 2030",
-    "s": "Kurz vor den anstehenden Tarifverhandlungen hat Volkswagen drastische personelle Einschnitte angekündigt. Bis zum Jahr 2030 sollen im Konzern weitere 12.000 Arbeitsplätze abgebaut werden. Geplant ist zudem der Einsatz von Transfergesellschaften für die betroffenen Beschäftigten.",
-    "m": "Der Autobauer Volkswagen steht vor harten Auseinandersetzungen mit der Gewerkschaft. Kurz vor dem Beginn der Tarifverhandlungen wurde bekannt, dass der Konzern bis zum Jahr 2030 zusätzliche 12.000 Stellen abbauen will. Als Instrument zur Abfederung dieser Maßnahmen sollen Transfergesellschaften eingesetzt werden. Die Gewerkschaft zeigt sich über diese Pläne alarmiert und kündigte an, dagegenzuhalten. Details zur genauen Verteilung auf die Standorte oder den genauen zeitlichen Verlauf innerhalb der nächsten Jahre gehen aus den aktuellen Berichten nicht hervor. Die Situation verdeutlicht die anhaltenden wirtschaftlichen und strukturellen Herausforderungen des Unternehmens, die nun in den bevorstehenden Verhandlungen intensiv diskutiert werden dürften.",
-    "r": "Die Ankündigung eines massiven Stellenabbaus bei Volkswagen kurz vor den Tarifverhandlungen hat erhebliche arbeitsmarktpolitische und wirtschaftliche Relevanz. Sie markiert eine Eskalation in den Beziehungen zwischen Unternehmensleitung und Gewerkschaften.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNE5sLWZ2eHYtWlg4YlFnYlN2Rmo0d3otUEQ1RGZIaGR0eTVLbFBkN1gwVFExYXhITWRCWHV3QVdZLUU2d3BJYXhUWjRXeEJvTUFRWFRGMmhHdmJiR0VQcVpST0stYjB1S0ktaU03bk9jdkJUUGpxbUFGXzJCUXRENlhXeGw5akJ1V3lSMmpfTy1uQUdmcTg0NmlHRDVOREFUY2xIZllQLVJVX3YwUjZLSFlPdFVUMHY1MGtBQlcwMmpDSmJacXRLQzlRSzY4ZWEwN3ZGczZaWDBRZVBOWkFkX05VT3E?oc=5",
-        "date": "2026-10-24T11:04:00.000Z"
-      },
-      {
-        "name": "DER SPIEGEL",
-        "url": "https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-bis-2030-sollen-weitere-12-000-stellen-abgebaut-werden-a-ff3dbc88-1f93-4109-b777-fcc141802bba#ref=rss",
-        "date": "2026-10-24T11:04:00.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNE5sLWZ2eHYtWlg4YlFnYlN2Rmo0d3otUEQ1RGZIaGR0eTVLbFBkN1gwVFExYXhITWRCWHV3QVdZLUU2d3BJYXhUWjRXeEJvTUFRWFRGMmhHdmJiR0VQcVpST0stYjB1S0ktaU03bk9jdkJUUGpxbUFGXzJCUXRENlhXeGw5akJ1V3lSMmpfTy1uQUdmcTg0NmlHRDVOREFUY2xIZllQLVJVX3YwUjZLSFlPdFVUMHY1MGtBQlcwMmpDSmJacXRLQzlRSzY4ZWEwN3ZGczZaWDBRZVBOWkFkX05VT3E?oc=5",
-    "agree": "Die Quellen stimmen überein, dass Volkswagen bis 2030 den Abbau von weiteren 12.000 Stellen plant.",
-    "diff": [
-      {
-        "name": "DER SPIEGEL",
-        "note": "Ergänzt, dass die Ankündigung vor den Tarifverhandlungen erfolgt, der Konzern Transfergesellschaften einführen will und die Gewerkschaft dagegenhält."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-36132d41a82454f8",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-24T10:41:12.000Z",
-    "p": 3,
-    "st": "BY",
-    "city": "",
-    "t": "Starlink-Internet in der Ukraine funktioniert wieder stabil",
-    "s": "Das für die ukrainische Flugabwehr wichtige US-Satelliteninternet Starlink läuft nach Angaben des Verteidigungsministeriums wieder. Zuvor war es tagelang gedrosselt worden. Zudem haben sowohl Russland als auch die Ukraine eine lokale Waffenruhe in der Stadt Oleschky bestätigt.",
-    "m": "Das ukrainische Verteidigungsministerium hat mitgeteilt, dass das US-Satelliteninternet Starlink wieder stabil läuft, nachdem es zuvor tagelang gedrosselt worden war. Das System ist von zentraler Bedeutung für die ukrainische Flugabwehr. Parallel dazu haben sowohl Russland als auch die Ukraine eine lokale Waffenruhe in der umkämpften Stadt Oleschky bestätigt. Die Ukraine verteidigt sich seit mehr als vier Jahren gegen den russischen Angriffskrieg. Bisher sind sämtliche Friedensbemühungen erfolglos geblieben. Weitere Details zu den Gründen der Drosselung oder den genauen Bedingungen der Waffenruhe in Oleschky wurden zunächst nicht bekannt gegeben.",
-    "r": "Die Wiederherstellung eines kritischen Kommunikationsmittels wie Starlink ist für die ukrainische Flugabwehr von großer strategischer Bedeutung. Gleichzeitig markiert die lokale Waffenruhe in Oleschky eine seltene Übereinstimmung der Konfliktparteien vor Ort.",
-    "srcs": [
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/russland-ukraine-krieg-im-news-ticker-vom-19-bis-25-oktober-2026,VYUQcIF",
-        "date": "2026-10-24T10:41:12.000Z"
-      },
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/politik/ukraine-news-im-ticker-starlink-laeuft-nach-tagelanger-drosselung-wieder-stabil-in-der-ukraine-HE2HCGE6JQFTFWLUN43NO5POI4.html",
-        "date": "2026-10-24T09:10:58.000Z"
-      }
-    ],
-    "url": "https://www.br.de/nachrichten/deutschland-welt/russland-ukraine-krieg-im-news-ticker-vom-19-bis-25-oktober-2026,VYUQcIF",
-    "agree": "Beide Quellen berichten über den anhaltenden Krieg in der Ukraine und nutzen einen Ticker-Format für aktuelle Entwicklungen.",
-    "diff": [
-      {
-        "name": "BR24 Bayern",
-        "note": "Berichtet spezifisch über die Wiederinbetriebnahme von Starlink nach Angaben des Verteidigungsministeriums sowie über die bestätigte lokale Waffenruhe in Oleschky."
-      },
-      {
-        "name": "RND",
-        "note": "Erwähnt die tagelange Drosselung von Starlink sowie die seit mehr als vier Jahren andauernde Verteidigung der Ukraine und erfolglose Friedensbemühungen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-b34274312d750d88",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-24T10:31:00.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Historisches Kehlsteinhaus bei Großbrand zerstört",
-    "s": "Ein Großbrand hat die historische Berggaststätte auf dem Kehlsteinhaus in Berchtesgaden zerstört. Nach dem Feuer im 1834 Meter hoch gelegenen und unter Denkmalschutz stehenden Gebäude gibt es den Verdacht auf Brandstiftung. Ein verdächtiger Motorradfahrer wurde festgenommen.",
-    "m": "Das unter Denkmalschutz stehende Kehlsteinhaus, ein historischer Berghof auf 1834 Metern Höhe, der einst für Adolf Hitler erbaut wurde, ist vollständig in Flammen aufgegangen und durch ein Großfeuer zerstört worden. Die Berggaststätte hoch über Berchtesgaden stand plötzlich in Brand. Im Zusammenhang mit dem Vorfall wurde ein verdächtiger Motorradfahrer festgenommen, wie aus Medienberichten hervorgeht. Das Gebäude hat durch seine Geschichte eine hohe Bekanntheit. Weitere Details zur genauen Schadenshöhe und zur Brandursache sind derzeit Gegenstand von Ermittlungen der Behörden.",
-    "r": "Der Brand eines historischen und prominenten Gebäudes unter Verdacht auf vorsätzliche Brandstiftung stellt ein schweres Schadensereignis mit polizeilichen Ermittlungen dar. Die Zerstörung des unter Denkmalschutz stehenden Objekts ist von kultureller und regionaler Bedeutung.",
-    "srcs": [
-      {
-        "name": "Süddeutsche Zeitung",
-        "url": "https://www.sueddeutsche.de/bayern/kehlsteinhaus-obersalzberg-brand-festnahme-wiederaufbau-li.3568281",
-        "date": "2026-10-24T10:31:00.000Z"
-      },
-      {
-        "name": "Frankfurter Allgemeine",
-        "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/kehlsteinhaus-am-obersalzberg-in-flammen-aufgegangen-accg-201617285.html",
-        "date": "2026-10-24T10:13:26.000Z"
-      }
-    ],
-    "url": "https://www.sueddeutsche.de/bayern/kehlsteinhaus-obersalzberg-brand-festnahme-wiederaufbau-li.3568281",
-    "agree": "Die Quellen stimmen überein, dass das Kehlsteinhaus bei Berchtesgaden durch einen Großbrand zerstört wurde, der Verdacht auf Brandstiftung besteht und ein verdächtiger Motorradfahrer festgenommen wurde.",
-    "diff": [
-      {
-        "name": "Süddeutsche Zeitung",
-        "note": "Berichtet konkret, dass ein verdächtiger Motorradfahrer festgenommen wurde."
-      },
-      {
-        "name": "Frankfurter Allgemeine",
-        "note": "Erwähnt zusätzlich, dass das Gebäude auf 1834 Metern Höhe liegt, für Adolf Hitler gebaut wurde und unter Denkmalschutz steht; zudem sei ein Verdächtiger festgenommen worden."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-b6f31ca028c46519",
-    "c": "INT",
-    "o": "PT",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-24T10:27:10.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Proteste für bezahlbaren Wohnraum in Portugal",
-    "s": "In mehreren Städten Portugals finden an diesem Samstag neue Proteste und Bürgerversammlungen im Rahmen einer nationalen Demonstration für das Recht auf Wohnen statt. Die Kundgebungen knüpfen an anhaltende gesellschaftliche Debatten über die schwierige Situation auf dem Wohnungsmarkt an. Konkrete Teilnehmerzahlen oder Zwischenbilanzen der heutigen Aktionen nennen die Berichte bisher nicht.",
-    "m": "Die landesweiten Proteste und Bürgerversammlungen für die Thematik Wohnen knüpfen an eine Reihe vorausgegangener Debatten über hohe Mieten und Immobilienpreise in Portugal an. Die Berichte der RTP Notícias und von Google News Portugal bestätigen übereinstimmend, dass die Kundgebungen in mehreren Städten des Landes stattfinden. Über den genauen zeitlichen Ablauf, beteiligte Organisationen oder Reaktionen der Politik äußern sich die aktuellen Meldungen nicht. Auch Details zu vereinzelten Zwischenfällen oder konkreten Forderungen über das Grundrecht auf Wohnen hinaus gehen aus den kurzen Texten nicht hervor. Die Offenheit dieser Punkte verdeutlicht, dass die Berichterstattung zum aktuellen Zeitpunkt primär auf den Aufruf und das Stattfinden der Proteste an diesem Samstag verweist. Weitere Entwicklungen im Tagesverlauf bleiben abzuwarten.",
-    "r": "Die landesweiten Proteste spiegeln die anhaltenden gesellschaftlichen Spannungen und die ungelöste Krise auf dem portugiesischen Immobilien- und Wohnungsmarkt wider. Die Versammlungen könnten den Druck auf politische Entscheidungsträger erhöhen, weitere Maßnahmen zur Entlastung von Mietern und Käufern zu ergreifen.",
-    "srcs": [
-      {
-        "name": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/pais/protestos-pela-habitacao-continuam-hoje-em-varias-cidades-do-pais_n1773953",
-        "date": "2026-10-24T10:27:10.000Z"
-      },
-      {
-        "name": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZWtadC1aQ1RYLW9FRExacWZZdnZhV05YMDNSQWtTUjY4T2dDbDlSbVpkS0ZUT3VOYVE1bzRmclZja28xLUF2S0ZqZmhFb2JoaXMzbi1SbTctZWNDZGxlYkJ0YnRSSXBCWkt5YzkxdE4wdmhoWWhMajl0SUhfY2RST1BlRnBZSTlra1FORUVwQUl4alZZbG1SbDBZNjhKNlNFb3J3X2NqbG5CeERVZm9CWQ?oc=5",
-        "date": "2026-10-24T05:10:43.000Z"
-      }
-    ],
-    "url": "https://www.rtp.pt/noticias/pais/protestos-pela-habitacao-continuam-hoje-em-varias-cidades-do-pais_n1773953",
-    "agree": "Beide Quellen stimmen überein, dass heute in mehreren Städten Portugals Proteste und Versammlungen für das Thema Wohnen stattfinden.",
-    "diff": [
-      {
-        "name": "RTP Notícias",
-        "note": "Meldet die Proteste und Bürgerversammlungen direkt als nationalen Aktionstag für die Habitação."
-      },
-      {
-        "name": "Google News Portugal",
-        "note": "Verweist zusätzlich auf die Berichterstattung von Notícias ao Minuto und bietet Übersichten zu weiteren Perspektiven."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-9d9a0b5e03ad72e7",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-24T10:21:20.000Z",
-    "p": 1,
-    "st": "BW",
-    "city": "",
-    "t": "Anton Meinzer ist Schätzer im Leihamt in Mannheim",
-    "s": "Anton Meinzer arbeitet als Schätzer für alte Schmuckstücke im Leihamt in Mannheim. Zu ihm kommen Kundinnen und Kunden, die den Wert ihrer Wertsachen bestimmen lassen möchten. Für ihn handelt es sich dabei um seinen absoluten Traumjob.",
-    "m": "Anton Meinzer geht seiner Tätigkeit als Schätzer im Mannheimer Leihamt nach. In dieser Funktion bewertet er mitgebrachte alte Schmuckstücke von Kundschaft, die den genauen Wert der Gegenstände erfahren will. Die Berichte beschreiben seine berufliche Tätigkeit als einen absoluten Traumjob für ihn. Weitere Details zu Abläufen, genauen Kundenzahlen oder spezifischen Objekten werden in den vorliegenden Berichten nicht genannt. Der genaue Hintergrund und weitere beteiligte Personen bleiben unerwähnt.",
-    "r": "Die Meldung beleuchtet den Berufsalltag eines Schätzers im Leihamt Mannheim und gibt Einblicke in diesen speziellen Arbeitsbereich. Sie zeigt beispielhaft die Tätigkeit auf, die Menschen bei der Bewertung von Schmuckstücken in Anspruch nehmen.",
-    "srcs": [
-      {
-        "name": "SWR Aktuell Baden-Württemberg",
-        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/anton-meinzer-ist-schaetzer-im-leihamt-100.html",
-        "date": "2026-10-24T10:21:20.000Z"
-      },
-      {
-        "name": "Tagesschau Regional Baden-Württemberg",
-        "url": "https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-gold-silber-muenzen-anton-meinzer-schaetzt-alte-schmuckstuecke-100.html",
-        "date": "2026-10-24T04:00:16.000Z"
-      }
-    ],
-    "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/anton-meinzer-ist-schaetzer-im-leihamt-100.html",
-    "agree": "Beide Quellen stimmen darin überein, dass Anton Meinzer als Schätzer für alte Schmuckstücke im Leihamt in Mannheim arbeitet und dies als seinen Traumjob ansieht.",
-    "diff": [
-      {
-        "name": "SWR Aktuell Baden-Württemberg",
-        "note": "Die Quelle betitelt den Beitrag mit 'Schönster Arbeitsplatz': Anton Meinzer schätzt alte Schmuckstücke."
-      },
-      {
-        "name": "Tagesschau Regional Baden-Württemberg",
-        "note": "Die Quelle nennt im Titel zusätzlich die Materialien Gold, Silber, Münzen."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-88f8fbf016cf8249",
-    "c": "DE",
-    "o": "DE",
-    "k": "sport",
-    "lang": "de",
-    "d": "2026-10-24T09:30:02.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Uli Hoeneß kritisiert Bayern-Jungstar Lennart Karl wegen fehlender Demut",
-    "s": "Der FC-Bayern-Senkrechtstarter Lennart Karl sorgt mit seinem Auftreten für Diskussionen. Bayern-Patron Uli Hoeneß hat den Jungstar öffentlich kritisiert. Das Auftreten des Talents ist dem Verein offenbar ein Dorn im Auge.",
-    "m": "Lennart Karl gilt als großer Senkrechtstarter beim FC Bayern, polarisiert jedoch zunehmend mit seinem Verhalten. Bayern-Patron Uli Hoeneß hat dies zum Anlass für deutliche Kritik genommen und ihm fehlende Demut vorgeworfen. Das Auftreten des Jungstars wird vereinsintern kritisch gesehen und sorgt für Gesprächsstoff. Die genauen Hintergründe zu den Reaktionen im Verein sowie eine mögliche sportliche Reaktion des Talents stehen noch aus.",
-    "r": "Die Aussagen einer prominenten Vereinsfigur wie Uli Hoeneß über ein Nachwuchstalent beleuchten den Umgang mit jungen Leistungsträgern beim FC Bayern. Solche öffentlichen Äußerungen können die Entwicklung und Aussendarstellung von Talenten im Profifußball maßgeblich beeinflussen.",
-    "srcs": [
-      {
-        "name": "t-online Sport",
-        "url": "https://www.t-online.de/sport/fussball/bundesliga/id_101495918/fc-bayern-uli-hoeness-kritisiert-jungstar-lennart-karl.html",
-        "date": "2026-10-24T09:30:02.000Z"
-      },
-      {
-        "name": "stern",
-        "url": "https://www.stern.de/gesellschaft/regional/bayern/bundesliga--fehlende-demut--hoeness-kritisiert-bayern-jungstar-karl-38445012.html",
-        "date": "2026-10-24T08:40:53.000Z"
-      }
-    ],
-    "url": "https://www.t-online.de/sport/fussball/bundesliga/id_101495918/fc-bayern-uli-hoeness-kritisiert-jungstar-lennart-karl.html",
-    "agree": "Uli Hoeneß hat den Bayern-Jungstar Lennart Karl wegen dessen Auftreten kritisiert.",
-    "diff": [
-      {
-        "name": "t-online Sport",
-        "note": "Berichtet, dass Hoeneß eine klare Ansage gemacht habe."
-      },
-      {
-        "name": "stern",
-        "note": "Erwähnt als Einordnung den Begriff \"fehlende Demut\" im Titel und fügt hinzu, dass der Sportvorstand den Jungprofi in Schutz nehme."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-6676f389f8418a30",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-24T09:29:05.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Ukraine meldet Verbesserungen bei Starlink-Verbindungen",
-    "s": "Die Ukraine verzeichnet offenbar eine Verbesserung der zuvor gedrosselten Starlink-Verbindungen. Zuvor hatte Kiew beklagt, dass die Einschränkungen des US-Systems die Verteidigungsfähigkeit des Landes beeinträchtigen. Nun gibt es laut Medienberichten jedoch positive Entwicklungen in diesem Bereich. Genauere technische Details zu den Ursachen der Verbesserung wurden zunächst nicht genannt.",
-    "m": "Kiew beklagte in den vergangenen Tagen massiv, dass die Drosselung des US-Satellitensystems Starlink die ukrainische Verteidigungsfähigkeit im Krieg massiv beeinträchtigt. Nun gibt es offenbar gute Nachrichten und eine Verbesserung der Verbindungen. Das System von SpaceX ist für die militärische Kommunikation der Ukraine von enormer Bedeutung. Die Hintergründe für die anfängliche Drosselung und die nun eintretende Verbesserung werden in den Berichten nicht näher ausgeführt. Auch offene Fragen zur künftigen Stabilität des Netzwerks bleiben zunächst bestehen. Weitere offizielle Details von Regierungsseite oder dem Betreiber stehen noch aus.",
-    "r": "Die Verfügbarkeit des Starlink-Systems ist für die ukrainische Verteidigung von zentraler Bedeutung. Meldungen über technische Einschränkungen oder Verbesserungen betreffen unmittelbar die militärische Handlungsfähigkeit der Ukraine.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONnYxdW1fa01xSHFmcmU3UEZHZGdwQmgxbG1vSEh1U2U5eGs3LUV0TVpfOGgyUVd1cHlSNDNqSXM2RDRPNHBtc0RFVl9DRnVCY3A4SHRsRGlDOWlQNFpuQVdpWW9yUnJPRmJ5b29GQU4yVEZudkp5d1hfUWdZcEd4cnU1aWtfTkVuV0NlVUYyTlZHRVRoSEtFOG9FUWo4dw?oc=5",
-        "date": "2026-10-24T09:29:05.000Z"
-      },
-      {
-        "name": "Süddeutsche Zeitung",
-        "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-starlink-verbesserungen-verbindungen-li.3563283",
-        "date": "2026-10-24T09:29:05.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONnYxdW1fa01xSHFmcmU3UEZHZGdwQmgxbG1vSEh1U2U5eGs3LUV0TVpfOGgyUVd1cHlSNDNqSXM2RDRPNHBtc0RFVl9DRnVCY3A4SHRsRGlDOWlQNFpuQVdpWW9yUnJPRmJ5b29GQU4yVEZudkp5d1hfUWdZcEd4cnU1aWtfTkVuV0NlVUYyTlZHRVRoSEtFOG9FUWo4dw?oc=5",
-    "agree": "Die Quellen stimmen überein, dass die Ukraine Verbesserungen bei den zuvor beeinträchtigten Starlink-Verbindungen meldet.",
-    "diff": [
-      {
-        "name": "Google News DE",
-        "note": "Erwähnt im Titel und Snippet den Bezug zu SZ.de und verlinkt auf den entsprechenden Artikel."
-      },
-      {
-        "name": "Süddeutsche Zeitung",
-        "note": "Führt aus, dass Kiew seit Tagen beklagt hat, dass die Drosselung des US-Systems die Verteidigungsfähigkeit beeinträchtigt."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-816e8a081f59f3b1",
-    "c": "INT",
-    "o": "UK",
-    "k": "sport",
-    "lang": "de",
-    "d": "2026-10-24T09:28:33.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Vorbericht zum Premier-League-Spiel Aston Villa gegen Manchester City",
-    "s": "In der Premier League treffen Aston Villa und Manchester City aufeinander. Die Vorbereitungen auf das Spiel an der Villa Park laufen mit Live-Tickern und Teaminformationen. Fans und Beobachter blicken gespannt auf die Partie mit Erling Haaland.",
-    "m": "Vor der Partie im Villa Park gibt es umfangreiche Berichte und Live-Kommentare. Im Mittelpunkt stehen unter anderem Erling Haaland als prominenter Akteur von Manchester City sowie Rückblicke auf vorherige Begegnungen beider Vereine aus dem Mai. Begleitet wird die Vorberichterstattung von Analysen, fixtures und thematischen Schwerpunkten wie zehn Punkten, auf die zu achten ist. Die Stimmung rund um das Stadion wird von speziellem Fan-Verhalten und humorvollen oder kritischen Reaktionen geprägt. Genauere Aufstellungen und Spielverläufe werden im Laufe des Live-Streams erwartet.",
-    "r": "Das Aufeinandertreffen von Aston Villa und Manchester City in der Premier League zieht mediales Interesse auf sich. Die Live-Berichterstattung bietet Einblicke in die sportliche Ausgangslage und die Reaktionen rund um das Stadion.",
-    "srcs": [
-      {
-        "name": "Guardian Sport",
-        "url": "https://www.theguardian.com/football/live/2026/oct/24/aston-villa-v-manchester-city-buildup-premier-league-news-wsl-and-more-matchday-live",
-        "date": "2026-10-24T09:28:33.000Z"
-      },
-      {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/sports/liveblog/2026/10/24/aston-villa-vs-manchester-city-live-premier-league?traffic_source=rss",
-        "date": "2026-10-24T08:03:52.000Z"
-      }
-    ],
-    "url": "https://www.theguardian.com/football/live/2026/oct/24/aston-villa-v-manchester-city-buildup-premier-league-news-wsl-and-more-matchday-live",
-    "agree": "Beide Quellen berichten über die Vorbereitung und den Live-Stream zum Premier-League-Spiel zwischen Aston Villa und Manchester City.",
-    "diff": [
-      {
-        "name": "Guardian Sport",
-        "note": "Berichtet ausführlich über Teaser-Themen wie zehn zu beachtende Punkte, Fixtures und das Verhalten von Fans mit aufblasbaren Bananen im Stadion."
-      },
-      {
-        "name": "Al Jazeera",
-        "note": "Hebt gezielt den Einsatz von Erling Haaland als Kopf der Mannschaft hervor und bietet einen direkten Live-Textkommentar-Stream."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-fa22d9196415a0a0",
-    "c": "INT",
-    "o": "DE",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-24T09:10:58.000Z",
-    "p": 3,
-    "st": "BY",
-    "city": "",
-    "t": "Starlink-Satelliteninternet in der Ukraine läuft nach Störung wieder stabil",
-    "s": "Das für die ukrainische Flugabwehr wichtige US-Satelliteninternet Starlink funktioniert laut dem Verteidigungsministerium in der Ukraine wieder. Zuvor war es nach Angaben von RND tagelang gedrosselt worden. Beide kriegführenden Parteien bestätigten zudem eine lokale Waffenruhe in der Stadt Oleschky.",
-    "m": "Die Ukraine wehrt sich seit über vier Jahren gegen den russischen Angriffskrieg, während bisherige Friedensbemühungen erfolglos blieben. In diesem Kontext spielt das Satelliteninternet Starlink eine zentrale Rolle für die ukrainische Flugabwehr. Nach einer tagelangen Drosselung läuft der Dienst laut dem dortigen Verteidigungsministerium nun wieder stabil. Unabhängig davon haben sowohl Russland als auch die Ukraine eine lokale Waffenruhe in der Stadt Oleschky bestätigt. Weitere Details zu den Gründen der Drosselung oder den genauen Hintergründen der Waffenruhe in Oleschky gehen aus den Berichten nicht hervor.",
-    "r": "Die Wiederherstellung des militärisch wichtigen Satelliteninternets Starlink in der Ukraine sowie die vereinbarte lokale Waffenruhe in Oleschky sind zentrale Entwicklungen im laufenden Konflikt. Sie beeinflussen sowohl die ukrainische Verteidigungsfähigkeit als auch die lokale Situation im Kriegsgebiet.",
-    "srcs": [
-      {
-        "name": "RND",
-        "url": "https://www.rnd.de/politik/ukraine-news-im-ticker-starlink-laeuft-nach-tagelanger-drosselung-wieder-stabil-in-der-ukraine-HE2HCGE6JQFTFWLUN43NO5POI4.html",
-        "date": "2026-10-24T09:10:58.000Z"
-      },
-      {
-        "name": "BR24 Bayern",
-        "url": "https://www.br.de/nachrichten/deutschland-welt/russland-ukraine-krieg-im-news-ticker-vom-19-bis-25-oktober-2026,VYUQcIF",
-        "date": "2026-10-24T09:08:48.000Z"
-      }
-    ],
-    "url": "https://www.rnd.de/politik/ukraine-news-im-ticker-starlink-laeuft-nach-tagelanger-drosselung-wieder-stabil-in-der-ukraine-HE2HCGE6JQFTFWLUN43NO5POI4.html",
-    "agree": "Die Quellen sind sich einig, dass das US-Satelliteninternet Starlink in der Ukraine wieder läuft.",
-    "diff": [
-      {
-        "name": "RND",
-        "note": "Berichtet, dass Starlink zuvor tagelang gedrosselt wurde und erwähnt den seit mehr als vier Jahren andauernden Angriffskrieg sowie erfolglose Friedensbemühungen."
-      },
-      {
-        "name": "BR24 Bayern",
-        "note": "Erwähnt, dass Starlink laut Verteidigungsministerium für die Flugabwehr wichtig ist und berichtet zusätzlich über die von Russland und der Ukraine bestätigte lokale Waffenruhe in Oleschky."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-58fb8ef5c6ccf74c",
-    "c": "DE",
-    "o": "DE",
-    "k": "sport",
-    "lang": "de",
-    "d": "2026-10-24T09:05:00.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Bayern-Trainer Vincent Kompany nach Zusammenbruch im Krankenhaus",
-    "s": "Nach dem Zusammenbruch von Bayern-Coach Vincent Kompany gibt es vorsichtige Entwarnung. Sein Zustand ist stabil, er muss jedoch weiter in einer Klinik bleiben. Die Ursache für den medizinischen Vorfall ist derzeit noch unklar. Dem FC Bayern wird der Trainer voraussichtlich mehrere Wochen fehlen.",
-    "m": "Nach dem Zusammenbruch des Trainers Vincent Kompany hat der FC Bayern Entwarnung gegeben, während die Ärzte weiterhin nach der Ursache für den Vorfall suchen. Der Coach befindet sich in stabiler Verfassung, wird laut Angaben aber noch einige Tage in der Klinik verbleiben müssen. Sportvorstand Max Eberl äußerte sich zu dem Ausfall und betonte, dass der Trainer alle benötigte Zeit bekommen werde. Aufgrund des Vorfalls wird Kompany der Mannschaft in den kommenden Wochen als Trainer fehlen. Konkrete medizinische Diagnosen oder Hintergründe wurden von den beteiligten Quellen bisher nicht genannt. Der genaue Zeitpunkt seiner Rückkehr auf den Trainingsplatz bleibt vorerst offen.",
-    "r": "Der gesundheitsbedingte und wochenlange Ausfall des Cheftrainers betrifft einen der prominentesten Fußballvereine Deutschlands unmittelbar und hat sportliche Konsequenzen für den Spielbetrieb. Die Meldung ist von öffentlichem Interesse im Bereich des Profisports.",
-    "srcs": [
-      {
-        "name": "stern",
-        "url": "https://www.stern.de/sport/fussball/vincent-kompany--bayern-coach-bleibt-nach-kollaps-in-klinik-38444614.html",
-        "date": "2026-10-24T09:05:00.000Z"
-      },
-      {
-        "name": "Frankfurter Allgemeine",
-        "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/vincent-kompanys-zustand-stabil-fc-bayern-gibt-vorsichtige-entwarnung-accg-201617577.html",
-        "date": "2026-10-24T08:59:14.000Z"
-      },
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/sport/fussball/Kollabierter-Kompany-fehlt-dem-FC-Bayern-wochenlang-id31453696.html",
-        "date": "2026-10-24T08:44:00.000Z"
-      },
-      {
-        "name": "Rheinische Post",
-        "url": "https://rp-online.de/sport/fussball/bayern-muenchen/kompany-in-stabilem-zustand-bayern-coach-bleibt-aber-weiter-in-klinik_aid-157125373",
-        "date": "2026-10-24T08:22:00.000Z"
-      }
-    ],
-    "url": "https://www.stern.de/sport/fussball/vincent-kompany--bayern-coach-bleibt-nach-kollaps-in-klinik-38444614.html",
-    "agree": "Alle Quellen sind sich einig, dass es nach dem Zusammenbruch von Bayern-Coach Vincent Kompany eine vorsichtige Entwarnung gibt, sein Zustand stabil ist, er vorerst in der Klinik bleiben muss und die Ursache unklar ist.",
-    "diff": [
-      {
-        "name": "Frankfurter Allgemeine",
-        "note": "Erwähnt zusätzlich die Aussage von Sportvorstand Max Eberl, dass Kompany alle Zeit bekommen werde, und dass Eberl mit einer längeren Ausfallzeit rechnet."
-      },
-      {
-        "name": "ntv",
-        "note": "Führt aus, dass Ärzte nach der Ursache suchen und der Coach dem FC Bayern wochenlang fehlt."
-      }
-    ],
-    "chg": "",
-    "independent": 4
-  },
-  {
-    "id": "story-d683fb9348b4822a",
-    "c": "DE",
-    "o": "DE",
-    "k": "panorama",
-    "lang": "de",
-    "d": "2026-10-24T08:54:51.000Z",
-    "p": 2,
-    "st": "",
-    "city": "",
-    "t": "Sommerzeit endet: Uhren werden um eine Stunde zurückgestellt",
-    "s": "In der kommenden Nacht endet die Sommerzeit und die Uhren werden um eine Stunde von 3:00 auf 2:00 Uhr zurückgestellt. Viele Menschen sehen der Zeitumstellung kritisch entgegen. Dennoch bringt sie in der ersten Nacht für viele eine zusätzliche Stunde Schlaf.",
-    "m": "Die Uhrenumstellung von der Sommerzeit zur Normalzeit erfolgt in dieser Nacht um 3:00 Uhr, indem die Zeit um eine Stunde zurückgestellt wird. Während einige einen zeitweiligen Vorteil beim Schlaf gewinnen, sind Umfragen zufolge die meisten Menschen mit der dauerhaften Regelung unzufrieden. Neben dem vermeintlichen Gewinn an Schlaf führen Kritiker und Mediziner verschiedene negative gesundheitliche Begleiterscheinungen an. Dazu zählen körperliche Beschwerden wie Migräne und Konzentrationsprobleme. Darüber hinaus weisen Beobachtungen auf ein höheres Schlaganfallrisiko im zeitlichen Umfeld der Umstellung hin.",
-    "r": "Die Umstellung der Uhrzeit betrifft den Alltag und die Gesundheit eines Großteils der Bevölkerung direkt. Medizinisches Risiko und allgemeine Unzufriedenheit machen das wiederkehrende Ereignis gesellschaftlich relevant.",
-    "srcs": [
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-sommerzeit-138.html",
-        "date": "2026-10-24T08:54:51.000Z"
-      },
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/wissen/Es-wird-wieder-an-der-Uhr-gedreht-id31448195.html",
-        "date": "2026-10-24T04:11:33.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-sommerzeit-138.html",
-    "agree": "Beide Quellen berichten übereinstimmend, dass die Sommerzeit endet und die Uhren um eine Stunde zurückgestellt werden.",
-    "diff": [
-      {
-        "name": "Tagesschau",
-        "note": "Erwähnt, dass die meisten Menschen nicht zufrieden mit der Zeitumstellung sind und dies trotz der Vorteile in der ersten Nacht."
-      },
-      {
-        "name": "ntv",
-        "note": "Führt konkrete negative Begleiterscheinungen wie Migräne, Konzentrationsprobleme und ein höheres Schlaganfallrisiko an."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-948d83730abafaca",
-    "c": "INT",
-    "o": "PT",
-    "k": "politik",
-    "lang": "de",
-    "d": "2026-10-24T08:53:47.000Z",
-    "p": 4,
-    "st": "",
-    "city": "",
-    "t": "Letztes Rededuell zwischen Lula da Silva und Bolsonaro vor der Wahl",
-    "s": "Im letzten Fernsehduell vor den brasilianischen Präsidentschaftswahlen lieferten sich die Kandidaten Lula da Silva und Bolsonaro einen heftigen Schlagabtausch. Dabei standen die Verteidigung bisheriger Regierungsleistungen, Sicherheitsfragen und die Entwicklung der Lebenshaltungskosten im Mittelpunkt. Das Duell bildete den Abschluss der direkten Konfrontationen im Wahlkampf.",
-    "m": "Das letzte Duell vor den Präsidentschaftswahlen in Brasilien fand in der Nacht auf der Plattform von Rede Globo statt. Lula da Silva nutzte die Gelegenheit, um das politische Vermächtnis seiner früheren Regierungszeit zu betonen und zu verteidigen. Sein Kontrahent konzentrierte sich derweil thematisch stark auf das Thema Sicherheit sowie auf die Belastung durch die gestiegenen Lebenshaltungskosten. Die beiden Hauptakteure wechselten im Verlauf der Sendung zahlreiche schwere Anschuldigungen aus. Medienberichten zufolge stellten Beobachter nach der Veranstaltung die Frage, wer das Duell für sich entscheiden konnte. Konkrete Wahlergebnisse oder offizielle Reaktionen der Wählerschaft stehen nach diesem Abschlusskonfrontieren noch aus.",
-    "r": "Das finale Fernsehduell markiert den emotionalen Höhepunkt im Wahlkampf der beiden führenden brasilianischen Präsidentschaftskandidaten. Die inhaltlichen Schwerpunkte und gegenseitigen Vorwürfe prägen die verbleibende Phase vor der Stimmenabgabe.",
-    "srcs": [
-      {
-        "name": "RTP Notícias",
-        "url": "https://www.rtp.pt/noticias/mundo/lula-e-bolsonaro-trocam-acusacoes-no-ultimo-debate-eleitoral_n1773945",
-        "date": "2026-10-24T08:53:47.000Z"
-      },
-      {
-        "name": "Google News Portugal",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWnYwR3BvMjg5SUI3UWh6dl9NdURwZmtBNnNWbzdjVThFUE8zemZ5UnhoQkI5aWZROXRvTnliSy1EUDl1ZExaSnZqcGNCaWZxVU9MZThFcGZ4SlZMdmNPZ19ySTJpeERuX3Z2UlI2VDFPeGF5cHFOUmRNVDQxUXl0NU9wNWVHZTJmZ2RReTJ2aVRkdmdHc2tIR3FOMVQ3TWxiWkU5aExR?oc=5",
-        "date": "2026-10-24T08:24:25.000Z"
-      }
-    ],
-    "url": "https://www.rtp.pt/noticias/mundo/lula-e-bolsonaro-trocam-acusacoes-no-ultimo-debate-eleitoral_n1773945",
-    "agree": "Beide Quellen stimmen überein, dass Lula da Silva und Bolsonaro im letzten Fernsehduell gegenseitig Anschuldigungen austauschten.",
-    "diff": [
-      {
-        "name": "Google News Portugal",
-        "note": "Erwähnt zusätzlich, dass das Duell vom Sender Globo ausgestrahlt wurde und wirft die Frage auf, wer gewonnen oder verloren hat."
-      }
-    ],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-b40f225d2a385be4",
-    "c": "INT",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-24T08:27:08.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Energie-Entkoppelung: So abhängig ist Europa noch von Russland",
-    "s": "Nach dem Angriff auf die Ukraine hat Europa versucht, sich rasch von russischen Energieimporten unabhängig zu machen. Dies ist in einigen Bereichen gelungen, während in anderen weiterhin enge Bindungen bestehen. Vor allem bei Öl und Uran ist Europa weiterhin von Russland abhängig.",
-    "m": "Nach dem russischen Vollangriff auf die Ukraine war das erklärte Ziel Europas, die eigene Unabhängigkeit von russischen Energieimporten schnell voranzutreiben. Teilweise zeigen diese Bemühungen Wirkung und die Importe wurden reduziert. Dennoch bestehen vor allem bei bestimmten Rohstoffen wie Öl und Uran weiterhin alte Abhängigkeiten fort. Diese anhaltenden Verbindungen verdeutlichen die Herausforderungen bei der vollständigen Entkoppelung des europäischen Energiesektors von Russland. Die Berichterstattung beleuchtet die aktuelle Bilanz und die verbleibenden Schwachstellen in der europäischen Energieversorgung. Weitere Details zu spezifischen Liefermengen oder genauen Zeitplänen für einen vollständigen Ausstieg werden in den Quellen nicht genannt.",
-    "r": "Die Untersuchung der Energieabhängigkeit ist für die europäische Wirtschafts- und Sicherheitspolitik von großer Bedeutung. Sie zeigt auf, in welchen Bereichen trotz politischer Bemühungen weiterhin Versorgungsrisiken bestehen.",
-    "srcs": [
-      {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/abhaengigkeit-russische-energie-100.html",
-        "date": "2026-10-24T08:27:08.000Z"
-      },
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSk5ra1VoeDI1ZzJlYzI0aTd5RW9ZbGZPVUpORXV1VXJscHZ0NEFEeFdidmRyWTJRVTVUMFM4RGs2ck9lVXl5eVFQTVpuQmdhZWFEamZlX0FaaWxWZ3Z6LUhUOTdrcmF2cWVLaThsbjJDYTJaTlE0OUwtb3RFMllQWG10ZFJWbmxqRDduZU1JQ1ZkOHhuMFBF?oc=5",
-        "date": "2026-10-24T08:27:00.000Z"
-      }
-    ],
-    "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/abhaengigkeit-russische-energie-100.html",
-    "agree": "Die Quellen stimmen überein, dass Europa nach dem Angriff auf die Ukraine eine Entkoppelung von russischer Energie angestrebt hat und dabei teils erfolgreich war, aber weiterhin Abhängigkeiten bestehen.",
-    "diff": [],
-    "chg": "",
-    "independent": 2
-  },
-  {
-    "id": "story-1d495f9d837e2624",
-    "c": "INT",
-    "o": "DE",
-    "k": "wirtschaft",
-    "lang": "de",
-    "d": "2026-10-24T08:24:27.000Z",
-    "p": 3,
-    "st": "",
-    "city": "",
-    "t": "Streit mit Zulieferer stoppt offenbar Produktion des Boeing-Frachters 777",
-    "s": "Beim Flugzeugbauer Boeing ruht Insidern zufolge derzeit die Produktion des Frachtflugzeugs 777. Grund für den Stillstand ist das Fehlen eines unverzichtbaren Bauteils für die Tragflächen aufgrund eines Lieferstopps. Der Konflikt mit dem betroffenen Zulieferer hat den Konzern dem Vernehmen nach bereits erhebliche Summen gekostet.",
-    "m": "Die Produktion des Boeing-Frachters 777 ist laut Insiderinformationen ins Stocken geraten, da ein essenzielles Bauteil für die Tragflächen nicht verfügbar ist. Auslöser ist ein heftiger Streit zwischen dem US-Flugzeugbauer und einem externen Zulieferer, der in einen Lieferstopp mündete. Branchenkreisen zufolge schlägt sich dieser Ausfall drastisch in den Finanzen nieder und kostet das Unternehmen täglich mehrere Millionen US-Dollar. Bislang ist unklar, wie lange der Disput andauern wird und wann mit einer Wiederaufnahme der Produktion zu rechnen ist. Der Vorfall trifft Boeing in einer ohnehin schwierigen Phase, in der Zuverlässigkeit und Lieferketten im Fokus stehen. Boeing hat sich zu den genauen Details des Frachter-Stopps und den Forderungen des Zulieferers zunächst nicht umfassend öffentlich geäußert. Die Auseinandersetzung verdeutlicht erneut die Anfälligkeit komplexer globaler Lieferketten in der Luftfahrtindustrie.",
-    "r": "Der Produktionsstopp eines wichtigen Frachtflugzeugmodells bei einem globalen Luftfahrtkonzern wie Boeing beeinträchtigt die Lieferfähigkeit und verursacht erhebliche finanzielle Schäden. Solche Engpässe haben oft weitreichende Auswirkungen auf die gesamte Branche und beteiligte Fluggesellschaften.",
-    "srcs": [
-      {
-        "name": "Google News DE",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYmlFZ0FoSDZSZWt1M3ozbTN3NHhSTEl6QzRndW9XRGVXV0VPTHc2dDFUVjU3TFpYLTRYY3RCUXpXYnVORDJSSG4yUGF2THBpdjdReTl2QTVUWXExMlJvUlZTTXNmSmVpS2Qwa0FBaUlZMkJZMmtpMWJuX1FXeURaOElXeXB6dWZVUlM1NFU3ZzNsOUduTDAxbWQxbUlWVGdWbWtGNkdpWHdfY3FqMVp4RjdSSnFnazhYVzdva3hFSnk?oc=5",
-        "date": "2026-10-24T08:24:27.000Z"
-      },
-      {
-        "name": "ntv",
-        "url": "https://www.n-tv.de/wirtschaft/Streit-mit-Zulieferer-legt-offenbar-Produktion-des-Boeing-Frachters-777-lahm-id31453633.html",
-        "date": "2026-10-24T08:24:27.000Z"
-      }
-    ],
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYmlFZ0FoSDZSZWt1M3ozbTN3NHhSTEl6QzRndW9XRGVXV0VPTHc2dDFUVjU3TFpYLTRYY3RCUXpXYnVORDJSSG4yUGF2THBpdjdReTl2QTVUWXExMlJvUlZTTXNmSmVpS2Qwa0FBaUlZMkJZMmtpMWJuX1FXeURaOElXeXB6dWZVUlM1NFU3ZzNsOUduTDAxbWQxbUlWVGdWbWtGNkdpWHdfY3FqMVp4RjdSSnFnazhYVzdva3hFSnk?oc=5",
-    "agree": "Beide Quellen stimmen darin überein, dass ein Streit mit einem Zulieferer und das Fehlen eines für die Tragflächen unverzichtbaren Bauteils offenbar die Produktion des Boeing-Frachters 777 lahmlegen.",
-    "diff": [
-      {
-        "name": "ntv",
-        "note": "Ergänzt die konkrete Angabe von Insidern, dass der Lieferstopp den Konzern mehrere Millionen Dollar pro Tag gekostet haben soll."
       }
     ],
     "chg": "",
