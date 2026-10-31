@@ -21,17 +21,22 @@ function setup(){
     panel.id='settingsPanel';
     panel.className='pulse-settings-panel';
     panel.hidden=true;
-    panel.innerHTML='<div class="pulse-settings-title">Einstellungen</div><div class="pulse-settings-row"><span>Darstellung</span><button type="button" data-theme-toggle></button></div><div class="pulse-settings-row"><span>Barrierefreiheit</span><div class="pulse-settings-actions"><button type="button" data-font-toggle>Größere Schrift</button><button type="button" data-motion-toggle>Animationen aus</button></div></div><div class="pulse-settings-section"><div class="pulse-settings-section-title">Sonstiges</div><nav class="pulse-settings-links" aria-label="Weitere Bereiche"><a href="./impressum.html">Impressum</a><a href="./quellen.html">Quellen</a><a href="./arbeitsweise.html">Arbeitsweise</a><a href="./erklaert.html">Pulse erklärt</a><a href="./datenschutz.html">Datenschutz</a></nav></div>'
+    panel.innerHTML='<div class="pulse-settings-title">Einstellungen</div><div class="pulse-settings-row"><span>Darstellung</span><button type="button" data-theme-toggle></button></div><div class="pulse-settings-row"><span>Barrierefreiheit</span><div class="pulse-settings-actions"><button type="button" data-font-toggle>Größere Schrift</button><button type="button" data-motion-toggle>Animationen aus</button></div></div><div class="pulse-settings-section"><div class="pulse-settings-section-title">Sonstiges</div><nav class="pulse-settings-links" aria-label="Seitennavigation"><a href="./index.html">Startseite</a><a href="./archiv.html">Archiv</a><a href="./erklaert.html">Pulse erklärt</a><a href="./arbeitsweise.html">Arbeitsweise</a><a href="./quellen.html">Quellen</a><a href="./medienkompetenz.html">Medienkompetenz</a><a href="./impressum.html">Impressum</a><a href="./datenschutz.html">Datenschutz</a></nav></div>'
     const header=button.closest('header');
     if(header&&header.parentNode) header.parentNode.insertBefore(panel,header.nextSibling);
     else document.body.prepend(panel);
+  }
+
+  function effectiveTheme(){
+    if(root.dataset.theme==='light'||root.dataset.theme==='dark') return root.dataset.theme;
+    return window.matchMedia&&window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';
   }
 
   function updateTheme(){
     const saved=localStorage.getItem(themeKey);
     if(saved==='light'||saved==='dark') root.dataset.theme=saved;
     const themeButton=panel.querySelector('[data-theme-toggle]');
-    if(themeButton) themeButton.textContent=root.dataset.theme==='dark'?'Helles Design':'Dunkles Design';
+    if(themeButton) themeButton.textContent=effectiveTheme()==='dark'?'Helles Design':'Dunkles Design';
   }
 
   button.onclick=function(e){
@@ -46,7 +51,7 @@ function setup(){
 
   const themeButton=panel.querySelector('[data-theme-toggle]');
   themeButton.onclick=function(){
-    root.dataset.theme=root.dataset.theme==='dark'?'light':'dark';
+    root.dataset.theme=effectiveTheme()==='dark'?'light':'dark';
     localStorage.setItem(themeKey,root.dataset.theme);
     updateTheme();
   };
@@ -81,7 +86,7 @@ function setup(){
     section.className='pulse-settings-section';
     panel.appendChild(section);
   }
-  section.innerHTML='<div class="pulse-settings-section-title">Sonstiges</div><nav class="pulse-settings-links" aria-label="Weitere Bereiche"><a href="./impressum.html">Impressum</a><a href="./quellen.html">Quellen</a><a href="./arbeitsweise.html">Arbeitsweise</a><a href="./erklaert.html">Pulse erklärt</a><a href="./datenschutz.html">Datenschutz</a></nav>';
+  section.innerHTML='<div class="pulse-settings-section-title">Sonstiges</div><nav class="pulse-settings-links" aria-label="Seitennavigation"><a href="./index.html">Startseite</a><a href="./archiv.html">Archiv</a><a href="./erklaert.html">Pulse erklärt</a><a href="./arbeitsweise.html">Arbeitsweise</a><a href="./quellen.html">Quellen</a><a href="./medienkompetenz.html">Medienkompetenz</a><a href="./impressum.html">Impressum</a><a href="./datenschutz.html">Datenschutz</a></nav>';
 
   updateTheme();
 
