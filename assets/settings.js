@@ -27,11 +27,16 @@ function setup(){
     else document.body.prepend(panel);
   }
 
+  function effectiveTheme(){
+    if(root.dataset.theme==='light'||root.dataset.theme==='dark') return root.dataset.theme;
+    return window.matchMedia&&window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';
+  }
+
   function updateTheme(){
     const saved=localStorage.getItem(themeKey);
     if(saved==='light'||saved==='dark') root.dataset.theme=saved;
     const themeButton=panel.querySelector('[data-theme-toggle]');
-    if(themeButton) themeButton.textContent=root.dataset.theme==='dark'?'Helles Design':'Dunkles Design';
+    if(themeButton) themeButton.textContent=effectiveTheme()==='dark'?'Helles Design':'Dunkles Design';
   }
 
   button.onclick=function(e){
@@ -46,7 +51,7 @@ function setup(){
 
   const themeButton=panel.querySelector('[data-theme-toggle]');
   themeButton.onclick=function(){
-    root.dataset.theme=root.dataset.theme==='dark'?'light':'dark';
+    root.dataset.theme=effectiveTheme()==='dark'?'light':'dark';
     localStorage.setItem(themeKey,root.dataset.theme);
     updateTheme();
   };
